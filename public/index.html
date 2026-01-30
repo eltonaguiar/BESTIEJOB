@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BESTIEJOB - Toronto $100K+ Manager Jobs</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="header">
+        <h1>BESTIEJOB</h1>
+        <p class="subhead">Toronto creative / technology manager roles with salary filters</p>
+      </header>
+
+      <section class="panel">
+        <div class="grid">
+          <label class="field">
+            <span>Location</span>
+            <input id="location" value="Toronto, ON" />
+          </label>
+
+          <label class="field">
+            <span>Keywords (comma-separated)</span>
+            <input id="keywords" value="creative, technology, manager, management" />
+          </label>
+
+          <label class="field">
+            <span>Minimum salary</span>
+            <div class="salaryRow">
+              <input id="minSalary" type="range" min="50000" max="250000" step="5000" value="100000" />
+              <div class="salaryValue" id="minSalaryValue">$100,000</div>
+            </div>
+          </label>
+
+          <label class="check">
+            <input id="fullTimeOnly" type="checkbox" checked />
+            <span>Full-time only</span>
+          </label>
+
+          <div class="actions">
+            <button id="search">Find jobs</button>
+            <button id="preset110">Preset $110K+</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="results">
+        <div class="meta" id="meta"></div>
+        <div id="list" class="list"></div>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
