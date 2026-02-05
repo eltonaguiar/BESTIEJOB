@@ -1,0 +1,1316 @@
+{
+  "timestamp": "2026-02-05T23:38:51.797Z",
+  "totalJobs": 131,
+  "bySource": {
+    "Jobicy": 22,
+    "RemoteOK": 94,
+    "WeWorkRemotely": 0,
+    "WorkingNomads": 0,
+    "RemoteCo": 0,
+    "AngelList": 0,
+    "HackerNews": 0,
+    "GitHubJobs": 0,
+    "FlexJobs": 0,
+    "JustRemote": 0,
+    "SkipTheDrive": 0,
+    "VirtualVocations": 0,
+    "RemoteLeaf": 0,
+    "DynamiteJobs": 0,
+    "RemoteQueue": 0,
+    "Outsourcely": 0,
+    "Remote4Me": 0,
+    "EURemote": 15,
+    "AURemote": 0,
+    "RemoteHunt": 0,
+    "Pangian": 0,
+    "Remotive": 0,
+    "Himalayas": 0
+  },
+  "jobs": [
+    {
+      "id": "jobicy:139282",
+      "source": "jobicy",
+      "company": "Hubstaff",
+      "title": "Customer Success Manager (AMER)",
+      "location": "LATAM,  Canada,  USA",
+      "url": "https://jobicy.com/jobs/139282-customer-success-manager-amer",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 80000,
+        "max": 80000
+      },
+      "postedDate": "2026-02-05T17:28:07+00:00",
+      "excerpt": "Customer Success Manager (AMER)Remote | Canada or USA (East or Central), Honduras, or BrazilAbout HubstaffHubstaff helps organizations around the world optimize productivity and workforce operations. Trusted by 95,000+ businesses, our..."
+    },
+    {
+      "id": "jobicy:139156",
+      "source": "jobicy",
+      "company": "Twilio",
+      "title": "Sr. Program Manager, TA Operations",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/139156-sr-program-manager-ta-operations",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 107300,
+        "max": 134100
+      },
+      "postedDate": "2026-02-03T05:22:05+00:00",
+      "excerpt": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers..."
+    },
+    {
+      "id": "jobicy:139155",
+      "source": "jobicy",
+      "company": "Instacart",
+      "title": "Program Manager, Compliance Program",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/139155-program-manager-compliance-program",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 104000,
+        "max": 109500
+      },
+      "postedDate": "2026-02-03T05:22:04+00:00",
+      "excerpt": "We&amp;#8217;re transforming the grocery industryAt Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time..."
+    },
+    {
+      "id": "jobicy:139154",
+      "source": "jobicy",
+      "company": "Grammarly",
+      "title": "Alliances Partner Manager",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/139154-alliances-partner-manager",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 204000,
+        "max": 270000
+      },
+      "postedDate": "2026-02-03T05:22:02+00:00",
+      "excerpt": "Superhuman offers a dynamic hybrid model, and candidates in this role can be based remotely. You may be expected to travel to meet in person during your team’s scheduled collaboration..."
+    },
+    {
+      "id": "jobicy:139153",
+      "source": "jobicy",
+      "company": "Grammarly",
+      "title": "Alliances Partner Engineer",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/139153-alliances-partner-engineer",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 166000,
+        "max": 220000
+      },
+      "postedDate": "2026-02-03T05:22:01+00:00",
+      "excerpt": "Superhuman offers a dynamic hybrid model, and candidates in this role can be based remotely. You may be expected to travel to meet in person during your team’s scheduled collaboration..."
+    },
+    {
+      "id": "jobicy:139150",
+      "source": "jobicy",
+      "company": "Cresta",
+      "title": "Forward Deployed Engineering Intern (AI Agent)",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/139150-forward-deployed-engineering-intern-ai-agent",
+      "employmentType": [
+        "Internship"
+      ],
+      "salary": null,
+      "postedDate": "2026-02-03T05:21:56+00:00",
+      "excerpt": "Cresta is on a mission to turn every customer conversation into a competitive advantage by unlocking the true potential of the contact center. Our platform combines the best of AI..."
+    },
+    {
+      "id": "jobicy:139145",
+      "source": "jobicy",
+      "company": "GitLab",
+      "title": "Backend Engineer, Database Excellence (Ruby)",
+      "location": "Australia,  Canada,  Israel,  Japan,  Netherlands,  Singapore,  South Korea",
+      "url": "https://jobicy.com/jobs/139145-backend-engineer-database-excellence-ruby",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 98000,
+        "max": 210000
+      },
+      "postedDate": "2026-02-03T05:21:26+00:00",
+      "excerpt": "GitLab is an open-core software company that develops the most comprehensive AI-powered DevSecOps Platform, used by more than 100,000 organizations. Our mission is to enable everyone to contribute to and..."
+    },
+    {
+      "id": "jobicy:139076",
+      "source": "jobicy",
+      "company": "Fortis Games",
+      "title": "Staff Backend Engineer, Game Team",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/139076-staff-backend-engineer-game-team",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": null,
+      "postedDate": "2026-01-31T07:16:03+00:00",
+      "excerpt": "Who we are At Fortis Games we aspire to make great games that bring people together while redefining how game companies work. We believe in building a sense of belonging..."
+    },
+    {
+      "id": "jobicy:138881",
+      "source": "jobicy",
+      "company": "Spellbook",
+      "title": "Manager, Mid-Market Customer Success",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/138881-manager-mid-market-customer-success",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": null,
+      "postedDate": "2026-01-26T04:28:55+00:00",
+      "excerpt": "Spellbook is the most comprehensive AI copilot for transactional lawyers. It works directly inside Microsoft Word to help legal teams draft, review, and negotiate contracts up to 10x faster and..."
+    },
+    {
+      "id": "jobicy:138879",
+      "source": "jobicy",
+      "company": "Thinkific",
+      "title": "Customer Success Manager (Scale)",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/138879-customer-success-manager-scale",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 64000,
+        "max": 96000
+      },
+      "postedDate": "2026-01-26T04:28:52+00:00",
+      "excerpt": "Thinkific is a learning commerce platform that helps learning businesses turn knowledge into impact. By bringing together community, courses, and content with commerce, we power transformative learning experiences that help..."
+    },
+    {
+      "id": "jobicy:138860",
+      "source": "jobicy",
+      "company": "Jolera",
+      "title": "Senior Microsoft 365 Migration Specialist",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/138860-senior-microsoft-365-migration-specialist",
+      "employmentType": [
+        "Contract"
+      ],
+      "salary": null,
+      "postedDate": "2026-01-26T04:27:50+00:00",
+      "excerpt": "Who We AreJolera stands as a distinguished multinational Global Systems Integrator (GSI), a vanguard in delivering comprehensive and bespoke IT solutions to a diverse clientele, encompassing both direct customers and..."
+    },
+    {
+      "id": "jobicy:137541",
+      "source": "jobicy",
+      "company": "Block Village",
+      "title": "Junior Crypto Trader | Fully Remote",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/137541-junior-crypto-trader-fully-remote",
+      "employmentType": [
+        "Part-Time"
+      ],
+      "salary": {
+        "min": 4000,
+        "max": 6000
+      },
+      "postedDate": "2026-01-22T07:17:43+00:00",
+      "excerpt": "Who we&amp;rsquo;re looking for Motivated beginners who speak fluent English and are genuinely excited about crypto, blockchain, and financial markets. This is a real paid learning opportunity &amp;mdash; we will..."
+    },
+    {
+      "id": "jobicy:138704",
+      "source": "jobicy",
+      "company": "1Password",
+      "title": "Insights Manager, Voice of Customer",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/138704-insights-manager-voice-of-customer",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 110000,
+        "max": 178000
+      },
+      "postedDate": "2026-01-21T19:48:48+00:00",
+      "excerpt": "1Password is growing faster than ever. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row..."
+    },
+    {
+      "id": "jobicy:138577",
+      "source": "jobicy",
+      "company": "SAP",
+      "title": "Support Associate &amp;#8211; SAP Signavio",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/138577-support-associate-sap-signavio",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 42300,
+        "max": 92100
+      },
+      "postedDate": "2026-01-20T13:11:35+00:00",
+      "excerpt": "We help the world run betterAt SAP, we keep it simple: you bring your best to us, and we&amp;#8217;ll bring out the best in you. We&amp;#8217;re builders touching over 20..."
+    },
+    {
+      "id": "jobicy:138574",
+      "source": "jobicy",
+      "company": "Juniper Square",
+      "title": "Senior Manager, Fund Administration (ManCo)",
+      "location": "LATAM,  Canada,  USA",
+      "url": "https://jobicy.com/jobs/138574-senior-manager-fund-administration-manco",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 160000,
+        "max": 175000
+      },
+      "postedDate": "2026-01-20T13:11:31+00:00",
+      "excerpt": "About Juniper SquareOur mission is to unlock the full potential of private markets. Privately owned assets like commercial real estate, private equity, and venture capital make up half of our..."
+    },
+    {
+      "id": "jobicy:138507",
+      "source": "jobicy",
+      "company": "Customer.io",
+      "title": "Contract Customer Success Manager, Americas",
+      "location": "LATAM,  Canada,  USA",
+      "url": "https://jobicy.com/jobs/138507-contract-customer-success-manager-americas",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 120000
+      },
+      "postedDate": "2026-01-18T03:34:27+00:00",
+      "excerpt": "Hello from the Recruiting Team at Customer.io! We’re hiring a part-time Customer Success contractor to support our growing team as our customer base continues to expand. In this role,..."
+    },
+    {
+      "id": "jobicy:138465",
+      "source": "jobicy",
+      "company": "Staples",
+      "title": "Customer Service Representative",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/138465-customer-service-representative-3",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": null,
+      "postedDate": "2026-01-16T05:25:24+00:00",
+      "excerpt": "Some of what you will do:At Staples Professional, we’re committed to delivering exceptional service and building lasting relationships with our customers. As a Customer Service Representative (CSR), you will play..."
+    },
+    {
+      "id": "jobicy:138443",
+      "source": "jobicy",
+      "company": "Deel",
+      "title": "Senior Product Marketing Manager &amp;#8211; Deel IT",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "url": "https://jobicy.com/jobs/138443-senior-product-marketing-manager-deel-it",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": null,
+      "postedDate": "2026-01-15T05:51:56+00:00",
+      "excerpt": "Who we are is what we do.Deel is the all-in-one payroll and HR platform for global teams. Our vision is to unlock global opportunity for every person, team, and business...."
+    },
+    {
+      "id": "jobicy:138427",
+      "source": "jobicy",
+      "company": "Remote",
+      "title": "Manager, Sales &amp;#8211; AMER SMB",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/138427-manager-sales-amer-smb",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 96000,
+        "max": 270000
+      },
+      "postedDate": "2026-01-15T05:50:55+00:00",
+      "excerpt": "About RemoteRemote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international..."
+    },
+    {
+      "id": "jobicy:138324",
+      "source": "jobicy",
+      "company": "GitLab",
+      "title": "Intermediate Site Reliability Engineer, Tenant Scale: Tenant Services",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "url": "https://jobicy.com/jobs/138324-intermediate-site-reliability-engineer-tenant-scale-tenant-services",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": null,
+      "postedDate": "2026-01-11T04:17:29+00:00",
+      "excerpt": "GitLab is an open-core software company that develops the most comprehensive AI-powered DevSecOps Platform, used by more than 100,000 organizations. Our mission is to enable everyone to contribute to and..."
+    },
+    {
+      "id": "jobicy:138320",
+      "source": "jobicy",
+      "company": "Consensys",
+      "title": "Senior Staff DevOps Engineer &amp;#8211; MetaMask",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "url": "https://jobicy.com/jobs/138320-senior-staff-devops-engineer-metamask",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": {
+        "min": 160000,
+        "max": 218000
+      },
+      "postedDate": "2026-01-11T04:17:23+00:00",
+      "excerpt": "Consensys is the leading blockchain and web3 software company founded by Joe Lubin, CEO of Consensys and Co-Founder of Ethereum. Since 2014, Consensys has been at the forefront of innovation,..."
+    },
+    {
+      "id": "jobicy:138299",
+      "source": "jobicy",
+      "company": "Trip.com Group",
+      "title": "Market Manager,Canada",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/138299-market-managercanada-2",
+      "employmentType": [
+        "Full-Time"
+      ],
+      "salary": null,
+      "postedDate": "2026-01-11T04:16:20+00:00",
+      "excerpt": "General information Name Market Manager,Canada Location Remote, Toronto Business unit BG-Accommodation Working time Full-Time Type Business Development Description &amp;amp; Requirements About UsTrip.com Group is a leading global travel service provider..."
+    },
+    {
+      "id": "remoteok:1130091",
+      "source": "remoteok",
+      "company": "Acquia",
+      "title": "Staff Software Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-acquia-1130091",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.119Z",
+      "excerpt": "<p><strong>About Acquia</strong></p>\n<p>Acquia empowers the world's most ambitious brands to create digital customer experiences that matter. With open source Drupal at its core, the Acquia Digital Experience Platform (DXP) enables marketer"
+    },
+    {
+      "id": "remoteok:1130090",
+      "source": "remoteok",
+      "company": "Roofr",
+      "title": "Implementation Specialist",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-roofr-1130090",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "At Roofr, we're obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That's what makes Roofr's CRM special. We started by building essential sales tools like aerial roof m"
+    },
+    {
+      "id": "remoteok:1130089",
+      "source": "remoteok",
+      "company": "Accenture Federal Services",
+      "title": "Security Engineer ISSO",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-security-engineer-isso-accenture-federal-services-1130089",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and safer and life better for people.â¯Our 13,000+ people are united in a shared purpose to pursue the limitless potential "
+    },
+    {
+      "id": "remoteok:1130088",
+      "source": "remoteok",
+      "company": "Anthropic",
+      "title": "Application Security Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-application-security-engineer-anthropic-1130088",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><h2><strong>About Anthropic</strong></h2>\n<p>Anthropic's mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growi"
+    },
+    {
+      "id": "remoteok:1130087",
+      "source": "remoteok",
+      "company": "Point72",
+      "title": "GenAI Security Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-genai-security-engineer-point72-1130087",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div class=\"slds-section slds-is-open\" data-aura-rendered-by=\"557:599;a\"><div class=\"slds-section__content\" data-aura-rendered-by=\"561:599;a\"><div class=\"slds-grid slds-wrap\" data-aura-rendered-by=\"580:599;a\"><div class=\"slds-p-around_small"
+    },
+    {
+      "id": "remoteok:1130086",
+      "source": "remoteok",
+      "company": "Roofr",
+      "title": "Implementation Specialist Spanish Speaking",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-spanish-speaking-roofr-1130086",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "At Roofr, we're obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That's what makes Roofr's CRM special. We started by building essential sales tools like aerial roof m"
+    },
+    {
+      "id": "remoteok:1130083",
+      "source": "remoteok",
+      "company": "Higher Logic",
+      "title": "DevOps Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-devops-engineer-higher-logic-1130083",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Company Description\nAt Higher Logic, engagement happens here. As the industry-leading, human-focused engagement platform we deliver powerful online communities and communication tools to organizations looking to build, retain, and grow thei"
+    },
+    {
+      "id": "remoteok:1130082",
+      "source": "remoteok",
+      "company": "Aiwyn",
+      "title": "Senior Angular Software Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-angular-software-engineer-aiwyn-1130082",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Who is Aiwyn and what do we do? Aiwyn is transforming the way accounting firms manage the entire revenue lifecycle. Backed by top-tier investors like Bessemer, KKR, and Revolution, we're one of the fastest-growing scale-up SaaS companies in"
+    },
+    {
+      "id": "remoteok:1130081",
+      "source": "remoteok",
+      "company": "Spotify",
+      "title": "Machine Learning Engineer II Ad Forecasting",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-ii-ad-forecasting-spotify-1130081",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "We are seeking a Machine Learning Engineer with expertise in machine learning model development, AI engineering, online experimentation techniques, and large-scale engineering systems. This role will lead strategic initiatives and projects "
+    },
+    {
+      "id": "remoteok:1130079",
+      "source": "remoteok",
+      "company": "Affinitiv",
+      "title": "Copy Writer Advertising Agency",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-copy-writer-advertising-agency-affinitiv-1130079",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><strong>Join our award-winning A-Team!&nbsp;</strong></p>\n<p>Ready to produce exceptional results with exceptional people?&nbsp; Get in touch, we would love to get to know you.&nbsp;</p>\n<p>Affinitiv is the largest provider of end-to-end"
+    },
+    {
+      "id": "remoteok:1130076",
+      "source": "remoteok",
+      "company": "Anduril Industries",
+      "title": "Staff Software Engineer Distributed Simulation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-distributed-simulation-anduril-industries-1130076",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century's most innovative c"
+    },
+    {
+      "id": "remoteok:1130075",
+      "source": "remoteok",
+      "company": "Spry Methods",
+      "title": "Systems Engineer Enterprise Middleware",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-systems-engineer-enterprise-middleware-spry-methods-1130075",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><b style=\"font-size: 18px\">Who Weâre Looking For (Position Overview):</b></p><p>Spry Methods seeks a <b>Systems Engineer</b> to support the U.S. Department of Agriculture (USDA) Office of Contracting &amp; Procurement (OCP) and its ent"
+    },
+    {
+      "id": "remoteok:1130074",
+      "source": "remoteok",
+      "company": "Veeam Software",
+      "title": "Senior Sales Engineer Data & AI Security",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-data-ai-security-veeam-software-1130074",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Veeam, the #1 global market leader in data resilience, believes businesses should control all their data whenever and wherever they need it. Veeam provides data resilience through data backup, data recovery, data portability, data security,"
+    },
+    {
+      "id": "remoteok:1130073",
+      "source": "remoteok",
+      "company": "Platform Science",
+      "title": "Software Development Engineer Test Brazil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-development-engineer-test-brazil-platform-science-1130073",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\"><strong>Who We Are</strong></span></p>\n<p><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">At Platform Science, we're working to connect e"
+    },
+    {
+      "id": "remoteok:1130072",
+      "source": "remoteok",
+      "company": "Spry Methods",
+      "title": "Senior Enterprise Middleware Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-enterprise-middleware-engineer-spry-methods-1130072",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><b style=\"font-size: 18px\">Who Weâre Looking For (Position Overview):</b></p><p>Spry Methods seeks a <b>Senior Enterprise Middleware Engineer</b> to support the U.S. Department of Agriculture (USDA) Office of Contracting &amp; Procurem"
+    },
+    {
+      "id": "remoteok:1130071",
+      "source": "remoteok",
+      "company": "FireMon",
+      "title": "Technical Account Manager",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-firemon-1130071",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><i style=\"font-size: 15px\">FireMon has learned an unknown and unauthorized third party is impersonating FireMon HR as part of a phishing attempt.&nbsp;Communications&nbsp;from FireMon will always originate from the&nbsp;</i><a class=\"pos"
+    },
+    {
+      "id": "remoteok:1130070",
+      "source": "remoteok",
+      "company": "Aiwyn",
+      "title": "Senior Angular Software Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-angular-software-engineer-aiwyn-1130070",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><b style=\"font-size: 16px;\">Who is Aiwyn and what do we do?</b></p><p><br></p><p><span style=\"font-size: 11pt;\">Aiwyn is transforming the way accounting firms manage the entire revenue lifecycle. Backed by top-tier investors like Besseme"
+    },
+    {
+      "id": "remoteok:1130069",
+      "source": "remoteok",
+      "company": "Ubiminds",
+      "title": "Platform Architect .NET Full stack",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-platform-architect-net-full-stack-ubiminds-1130069",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><span style=\"font-size: 32px\">Info on the</span><span style=\"font-size: 32px;\"> Platform Architect</span></p><p><br></p><p>Want to get to the next step in your international career? We can support you!</p><p><br></p><p>Ubiminds is a GPTW"
+    },
+    {
+      "id": "remoteok:1130068",
+      "source": "remoteok",
+      "company": "Thimble",
+      "title": "Licensed Customer Success Representative",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-licensed-customer-success-representative-thimble-1130068",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><b style=\"font-size: 18px\">About Us</b></p><p>Thimble is a leading insurtech platform for small business customers and agents. Thimble allows customers to quickly get insurance coverage by the job, month or year using its award-winning a"
+    },
+    {
+      "id": "remoteok:1130067",
+      "source": "remoteok",
+      "company": "Colibri Group",
+      "title": "Senior Curriculum Specialist Tax Staff Level Training",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-curriculum-specialist-tax-staff-level-training-colibri-group-1130067",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><span style=\"font-size: 16px\">At Colibri Group, culture is a critical part of our collective success, and we live our values everyday: Love, Joy, Boldness, Teamwork, and Curiosity.&nbsp; These values guide our interactions with each othe"
+    },
+    {
+      "id": "remoteok:1130066",
+      "source": "remoteok",
+      "company": "Medier",
+      "title": "SMM & Brand Communications Manager",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-smm-brand-communications-manager-medier-1130066",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Medier isn't just a marketing agencyâwe're creative partners to our clients. From digital and social media strategies to PR, influencer collaborations, SEO, programmatic advertising, and CRM, we offer a comprehensive suite of expert servi"
+    },
+    {
+      "id": "remoteok:1130065",
+      "source": "remoteok",
+      "company": "Rocket Communications",
+      "title": "Director of Business Development",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-business-development-rocket-communications-1130065",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p>Want to lead the strategic growth initiatives for a UX Design company focused on securing new business in the Federal Civilian (FedCiv) sector for mission-critical applications and cutting-edge technologies?</p><p><br></p><p>Rocket Commu"
+    },
+    {
+      "id": "remoteok:1130064",
+      "source": "remoteok",
+      "company": "Whatnot",
+      "title": "Director of Tax Operations",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-tax-operations-whatnot-1130064",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<h2><strong>ð Join the Future of Commerce with Whatnot!</strong></h2><p style=\"min-height:1.5em\">Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the things you love. Weâre re-definin"
+    },
+    {
+      "id": "remoteok:1130063",
+      "source": "remoteok",
+      "company": "Iovance Biotherapeutics",
+      "title": "Cell Therapy Account Management North Carolina South Carolina",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cell-therapy-account-management-north-carolina-south-carolina-iovance-biotherapeutics-1130063",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<h4>The ideal candidate will live in North Carolina or South Carolina.</h4>\n<h4>Overview</h4>\n<p>Amtagviâ¢ is the best-in-class cell therapy treatment for advanced melanoma. The Cell Therapy Account Management Associate (CTAM) will be resp"
+    },
+    {
+      "id": "remoteok:1130062",
+      "source": "remoteok",
+      "company": "Swish Analytics",
+      "title": "NFL Data Scientist",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-nfl-data-scientist-swish-analytics-1130062",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><strong>Company Description&nbsp;</strong></p>\n<p><span style=\"font-weight: 400;\">Swish Analytics is a sports analytics, betting and fantasy startup building the next generation of predictive sports analytics data products. We believe th"
+    },
+    {
+      "id": "remoteok:1130061",
+      "source": "remoteok",
+      "company": "Accurate Background",
+      "title": "Enterprise Product Manager",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-product-manager-accurate-background-1130061",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p>When you join Accurate Background, youâre an integral part of making every hire the start of a success story. Your contributions will help us fulfill our mission of advancing the background screening experience through visibility and i"
+    },
+    {
+      "id": "remoteok:1130060",
+      "source": "remoteok",
+      "company": "Esri",
+      "title": "Principal Product Designer Map Viewer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-designer-map-viewer-esri-1130060",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Join Esri's Product Design team as a Principal Product Designer, where you'll lead the design vision for ArcGIS Map Viewer, our flagship web-mapping application used to explore, analyze, and communicate spatial data. Map Viewer empowers use"
+    },
+    {
+      "id": "remoteok:1130059",
+      "source": "remoteok",
+      "company": "Natera",
+      "title": "Clinical Trial Budget and Contracts Manager",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-trial-budget-and-contracts-manager-natera-1130059",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><strong><span style=\"font-size: 14px;\">POSITION SUMMARY:</span></strong></p>\n<p><span style=\"color: #000000;\"><strong><span style=\"font-size: 14px;\">Job Function: Clinical Operations</span></strong></span></p>\n<p><span style=\"color: #000"
+    },
+    {
+      "id": "remoteok:1130058",
+      "source": "remoteok",
+      "company": "Torc Robotics",
+      "title": "Manager Technical Writing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-technical-writing-torc-robotics-1130058",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "At Torc, we have always believed that autonomous vehicle technology will transform how we travel, move freight, and do business.\nA leader in autonomous driving since 2007, Torc has spent over a decade commercializing our solutions with expe"
+    },
+    {
+      "id": "remoteok:1130057",
+      "source": "remoteok",
+      "company": "Constant Contact",
+      "title": "Principal Product Manager Customer Experience and AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-customer-experience-and-ai-constant-contact-1130057",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "At Constant Contact, we are seriously awesome people who take ownership and make an impact by operating with the mindset, integrity and courage of a small business owner. Thereâs something so profoundly rewarding about knowing that your w"
+    },
+    {
+      "id": "remoteok:1130056",
+      "source": "remoteok",
+      "company": "Myriad360",
+      "title": "AI Automation Engineer Tech Lead",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-automation-engineer-tech-lead-myriad360-1130056",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><strong><span data-contrast=\"auto\">Who You Are</span></strong></p>\n<p><span data-contrast=\"auto\">You are a hands-on technologist who loves turning real-world business problems into clean, scalable AI and automation solutions. You are as "
+    },
+    {
+      "id": "remoteok:1130055",
+      "source": "remoteok",
+      "company": "Big Health",
+      "title": "Product Data Analyst",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-data-analyst-big-health-1130055",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><b>Our Mission</b></p><p>At Big Health, our mission is to help millions back to good mental health by providing fully digital, non-drug options for the most common mental health conditions. Our FDA-clear digital therapeuticsâSleepioRx "
+    },
+    {
+      "id": "remoteok:1130054",
+      "source": "remoteok",
+      "company": "Calyxo",
+      "title": "Complaint Analyst USA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-complaint-analyst-usa-calyxo-1130054",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Calyxo, Inc. is a medical device company headquartered in Pleasanton, California, USA. The company was founded in 2016 to address the profound need for improved kidney stone treatment. Kidney stone disease is a common, painful condition tha"
+    },
+    {
+      "id": "remoteok:1130053",
+      "source": "remoteok",
+      "company": "Pair Team",
+      "title": "Bilingual Care Coordinator",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-bilingual-care-coordinator-pair-team-1130053",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "About Pair Team\n\nAt Pair Team, we're an innovative, mission-driven company reimagining how Medicaid and Medicare serves the most underserved populations. As a tech-enabled medical group, we deliver whole-person care - clinical, behavioral, "
+    },
+    {
+      "id": "remoteok:1130051",
+      "source": "remoteok",
+      "company": "xAI",
+      "title": "Finance Expert Crypto",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-finance-expert-crypto-xai-1130051",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><h3><span style=\"font-family: arial, helvetica, sans-serif;\">About xAI</span></h3>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">xAI's mission is to create AI systems that can accurately understand the universe and aid hu"
+    },
+    {
+      "id": "remoteok:1130050",
+      "source": "remoteok",
+      "company": "GoFundMe",
+      "title": "Manager Web Project Management",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-web-project-management-gofundme-1130050",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><strong>Want to help us help others? We're hiring!Â </strong></p>\n<p>GoFundMe is the world's most powerful community for good, dedicated to helping people help each other. By uniting individuals and nonprofits in one place, GoFundMe make"
+    },
+    {
+      "id": "remoteok:1130049",
+      "source": "remoteok",
+      "company": "FlowFuse",
+      "title": "Sales Solution Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-solution-engineer-flowfuse-1130049",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Job Description\n\nThis is a senior, customer-facing role requiring strong domain expertise in industrial automation and a proven ability to guide both technical implementation and strategic solution expansion.\n\nWe're looking for someone who "
+    },
+    {
+      "id": "remoteok:1130047",
+      "source": "remoteok",
+      "company": "Bloomreach",
+      "title": "Senior Python Software Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-python-software-engineer-bloomreach-1130047",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Bloomreach is building the world's premier agentic platform for personalization. We're revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey.\n\n- We're taking"
+    },
+    {
+      "id": "remoteok:1130046",
+      "source": "remoteok",
+      "company": "Karbon",
+      "title": "Implementation Specialist",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-karbon-1130046",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><p><strong>About Karbon</strong></p>\n<p style=\"text-align: left;\">Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of a"
+    },
+    {
+      "id": "remoteok:1130045",
+      "source": "remoteok",
+      "company": "xAI",
+      "title": "Finance Expert Crypto",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-finance-expert-crypto-xai-1130045",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><h3><span style=\"font-family: arial, helvetica, sans-serif;\">About xAI</span></h3>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">xAI's mission is to create AI systems that can accurately understand the universe and aid hu"
+    },
+    {
+      "id": "remoteok:1130044",
+      "source": "remoteok",
+      "company": "InfStones",
+      "title": "Sales Representative",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-representative-infstones-1130044",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><b>Job Position: Sales Representative</b></p><p><b>Location: Texas, USA&nbsp; (Remote Acceptable</b><b style=\"font-size: 14.6667px\">)</b></p><p><b>Company: </b><u><b><a class=\"postings-link\" href=\"https://infstones.com/\">https://infstone"
+    },
+    {
+      "id": "remoteok:1130043",
+      "source": "remoteok",
+      "company": "xAI",
+      "title": "Finance Expert Crypto",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-finance-expert-crypto-xai-1130043",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><h3><span style=\"font-family: arial, helvetica, sans-serif;\">About xAI</span></h3>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">xAI's mission is to create AI systems that can accurately understand the universe and aid hu"
+    },
+    {
+      "id": "remoteok:1130042",
+      "source": "remoteok",
+      "company": "xAI",
+      "title": "Finance Expert Crypto",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-finance-expert-crypto-xai-1130042",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><h3><span style=\"font-family: arial, helvetica, sans-serif;\">About xAI</span></h3>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">xAI's mission is to create AI systems that can accurately understand the universe and aid hu"
+    },
+    {
+      "id": "remoteok:1130041",
+      "source": "remoteok",
+      "company": "Jerry.ai",
+      "title": "Recruiting Operations Coordinator",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-recruiting-operations-coordinator-jerry-ai-1130041",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p style=\"min-height:1.5em\"><strong>You could be a recruiting coordinator anywhere. Why Jerry.ai?</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Join a pre-IPO startup with capital, traction, and runway: We are tac"
+    },
+    {
+      "id": "remoteok:1130040",
+      "source": "remoteok",
+      "company": "N2",
+      "title": "Senior Account Executive",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-n2-1130040",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><h2><strong>About the Opportunity</strong></h2>\n<p><strong>This is an entrepreneurial sales role where youâll own your local market, build community relationships, and grow a neighborhood magazine backed by N2âs national support sy"
+    },
+    {
+      "id": "remoteok:1130039",
+      "source": "remoteok",
+      "company": "Brave Health",
+      "title": "Licensed Professional Counselor",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-licensed-professional-counselor-brave-health-1130039",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p style=\"min-height:1.5em\"><strong>Why We're Here:</strong><br />At Brave Health, we are driven by a deep commitment to transform lives by expanding access to compassionate, high-quality mental health care. By harnessing the power of techn"
+    },
+    {
+      "id": "remoteok:1130038",
+      "source": "remoteok",
+      "company": "Alpaca",
+      "title": "Staff Frontend Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-frontend-engineer-alpaca-1130038",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><strong>Who We Are:</strong></p>\n<p>Alpaca is a US-headquartered self-clearing broker-dealer and brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. Our&nbsp;<a href=\"https://alpaca.markets/b"
+    },
+    {
+      "id": "remoteok:1130037",
+      "source": "remoteok",
+      "company": "Crypto.com",
+      "title": "Product Director Cards",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-director-cards-crypto-com-1130037",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><span style=\"font-size: 16px;\">As a Card Product Manager, you will be responsible for the end-to-end management of Crypto.com card products. You will work closely with cross-functional teams including marketing, finance, risk management,"
+    },
+    {
+      "id": "remoteok:1130036",
+      "source": "remoteok",
+      "company": "OneStudyTeam",
+      "title": "Software Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-onestudyteam-1130036",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "At OneStudyTeam (a Reify Health company), we specialize in speeding up clinical trials and increasing the chance of new therapies being approved with the ultimate goal of improving patient outcomes. Our cloud-based platform, StudyTeam, brin"
+    },
+    {
+      "id": "remoteok:1130035",
+      "source": "remoteok",
+      "company": "CI&amp;T",
+      "title": "Job 27268 Mid level DDL DML Developer Brazil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-27268-mid-level-ddl-dml-developer-brazil-ciampt-1130035",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><span style=\"font-size: 16px\">Somos especialistas em <b>transformaÃ§Ã£o tecnolÃ³gica</b>, unindo expertise humana Ã  IA para criar soluÃ§Ãµes tech escalÃ¡veis. Com mais de 8,000 CI&amp;Ters ao redor do mundo, jÃ¡ formamos parcerias com m"
+    },
+    {
+      "id": "remoteok:1130034",
+      "source": "remoteok",
+      "company": "Digital Media Management",
+      "title": "Social Media Manager Platform",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-platform-digital-media-management-1130034",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><i>Please note that DMM will only contact you using email addresses that end in .com. We have been made aware that someone may be using aliases such as careers@digitalmediamanagement.us to contact individuals as part of an apparent scam."
+    },
+    {
+      "id": "remoteok:1130033",
+      "source": "remoteok",
+      "company": "Digital Media Management",
+      "title": "Social Media Manager Temporary",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-temporary-digital-media-management-1130033",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><i>Please note that DMM will only contact you using email addresses that end in .com. We have been made aware that someone may be using aliases such as careers@digitalmediamanagement.us to contact individuals as part of an apparent scam."
+    },
+    {
+      "id": "remoteok:1130032",
+      "source": "remoteok",
+      "company": "CI&amp;T",
+      "title": "Job 27246 DevOps Strategy &amp; Culture Lead Brazil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-27246-devops-strategy-amp-culture-lead-brazil-ciampt-1130032",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><span style=\"font-size: 16px\">We are <b>tech transformation </b>specialists, uniting human expertise with AI to create scalable tech solutions.</span></p><p><span style=\"font-size: 16px\">With over 8,000 CI&amp;Ters around the world, weâ"
+    },
+    {
+      "id": "remoteok:1130031",
+      "source": "remoteok",
+      "company": "Ajax Systems",
+      "title": "Pre Sales Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-pre-sales-engineer-ajax-systems-1130031",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><span style=\"font-size: 11.5pt;\">Ajax Systems is an international tech company and the largest manufacturer of security systems in Europe, with over 4.5 million end users and 330K PRO users in more than 180 countries worldwide. The compa"
+    },
+    {
+      "id": "remoteok:1130030",
+      "source": "remoteok",
+      "company": "Ubiminds",
+      "title": "Senior Full Stack Engineer Ruby React",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-ruby-react-ubiminds-1130030",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p>Senior Full Stack Engineer â <i>Ruby</i> / <i>Ruby</i> on <i>Rails</i> / <i>React</i></p><p><i>Remote Â· Full-time</i></p><p><br></p><p>About Ubiminds</p><p>Ubiminds is a <b>GPTW-certified, people-first company</b> that partners with A"
+    },
+    {
+      "id": "remoteok:1130029",
+      "source": "remoteok",
+      "company": "Digital Media Management",
+      "title": "Social Media Analyst Platform",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-analyst-platform-digital-media-management-1130029",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><i>Please note that DMM will only contact you using email addresses that end in .com. We have been made aware that someone may be using aliases such as careers@digitalmediamanagement.us to contact individuals as part of an apparent scam."
+    },
+    {
+      "id": "remoteok:1130028",
+      "source": "remoteok",
+      "company": "Ajax Systems",
+      "title": "B2B Marketing Manager",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-b2b-marketing-manager-ajax-systems-1130028",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><span style=\"font-size: 11.5pt;\">Ajax Systems is an international tech company and the largest manufacturer of security systems in Europe, with over 4.5 million end users and 330K PRO users in more than 180 countries worldwide. The compa"
+    },
+    {
+      "id": "remoteok:1130027",
+      "source": "remoteok",
+      "company": "Oowlish Technology",
+      "title": "Senior Data Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-oowlish-technology-1130027",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><b>Join Our Team</b></p><p><br></p><p>Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team.</p><p><br></p><p>As a valued"
+    },
+    {
+      "id": "remoteok:1130026",
+      "source": "remoteok",
+      "company": "True Zero Technologies",
+      "title": "Sr Security Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-security-engineer-true-zero-technologies-1130026",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p>True Zero Technologies, a veteran-owned small business, was founded on the principle that the purposeful enablement of people and technology in an organization directly ties to the quality of its outcomes. True Zero recognizes that said "
+    },
+    {
+      "id": "remoteok:1130025",
+      "source": "remoteok",
+      "company": "Colibri Group",
+      "title": "Sales Operations Analyst",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-colibri-group-1130025",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p>At Colibri, culture is a critical part of our collective success, and we live our values everyday: Love, Joy,</p><p>Boldness, Teamwork and Curiosity. These values guide our interactions with each other, our customers,</p><p>and the commu"
+    },
+    {
+      "id": "remoteok:1130024",
+      "source": "remoteok",
+      "company": "Ren",
+      "title": "Software Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ren-1130024",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><strong>Â </strong></p>\n<table width=\"450\">\n<tbody>\n<tr>\n<td width=\"138\">\n<p><strong>Job Title:</strong></p>\n</td>\n<td width=\"312\">\n<p>Sr Software Engineer</p>\n</td>\n</tr>\n<tr>\n<td width=\"138\">\n<p><strong>Department: </strong></p>\n</td>\n"
+    },
+    {
+      "id": "remoteok:1130023",
+      "source": "remoteok",
+      "company": "Dreem Health",
+      "title": "Senior Manager Contracting & Credentialing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-contracting-credentialing-dreem-health-1130023",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><h2><strong>About Dreem Health, by Sunrise&nbsp;</strong></h2>\n<p>Sunrise Group is building the future of sleep health by combining innovative technology with expert care. Our mission is simple: make better sleep accessible to everyone"
+    },
+    {
+      "id": "remoteok:1130022",
+      "source": "remoteok",
+      "company": "Steer",
+      "title": "Revenue Operations Analyst",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-steer-1130022",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Steer offers a suite of software tools for today's automotive repair shop. We combine a mix of software tools that a repair shop needs to run a highly profitable shop, in one user-friendly, cost-effective platform. Through the Steer suite, "
+    },
+    {
+      "id": "remoteok:1130020",
+      "source": "remoteok",
+      "company": "Precision AQ",
+      "title": "AVP Group Account Director Market Access Marketing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-avp-group-account-director-market-access-marketing-precision-aq-1130020",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><em><strong>This is a remote role, but candidates must be able to work Eastern Standard Time hours.</strong></em></div>\n<p><strong>Precision AQ - Market Access Marketing</strong>&nbsp;is the top payer marketing agency the country. We p"
+    },
+    {
+      "id": "remoteok:1130019",
+      "source": "remoteok",
+      "company": "Gong.io",
+      "title": "Enterprise Account Executive",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-gong-io-1130019",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Gong harnesses the power of AI to transform how revenue teams win. The Gong Revenue AI Operating System unifies data, insights, and workflows into a single, trusted system that observes, guides, and acts alongside the world's most successfu"
+    },
+    {
+      "id": "remoteok:1130018",
+      "source": "remoteok",
+      "company": "Pharmaceutical Strategies Group LLC",
+      "title": "Senior Manager Healthcare Privacy and Compliance",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-healthcare-privacy-and-compliance-pharmaceutical-strategies-group-llc-1130018",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "Come join our team!\n\nThere are many reasons why EPIC Insurance Brokers & Consultants has become one of the fastest-growing firms in the insurance industry. Fueled and driven by capable, committed people who share common beliefs and values a"
+    },
+    {
+      "id": "remoteok:1130016",
+      "source": "remoteok",
+      "company": "Lookout Inc",
+      "title": "AI Automation Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-automation-engineer-lookout-inc-1130016",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "* This posting is for an existing vacancy. We are actively recruiting to fill this position immediately.\n\nLookout, Inc. is the endpoint to cloud security company purpose-built for the intersection of enterprise and personal data. We safegua"
+    },
+    {
+      "id": "remoteok:1130015",
+      "source": "remoteok",
+      "company": "MixMode",
+      "title": "Software Reliability Engineer for AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-reliability-engineer-for-ai-mixmode-1130015",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "MixMode is a leading provider of AI-powered cybersecurity solutions at scale, pioneering a patented third-wave, context-aware AI approach that automatically learns and adapts to dynamic environments. The MixMode platform delivers self-super"
+    },
+    {
+      "id": "remoteok:1130014",
+      "source": "remoteok",
+      "company": "Hightouch",
+      "title": "Head of Customer Success Engineering",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-customer-success-engineering-hightouch-1130014",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><h2><strong>About Hightouch</strong></h2>\n<p>Hightouch is the modern AI platform for marketing and growth teams. Our AI agents reimagine marketing workflows, allowing marketers to create content, plan campaigns, and execute strategies "
+    },
+    {
+      "id": "remoteok:1130013",
+      "source": "remoteok",
+      "company": "DualEntry",
+      "title": "Hardcore Software Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hardcore-software-engineer-dualentry-1130013",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p style=\"min-height:1.5em\">Weâre hiring the most ambitious and hardcore engineers across Canada, Europe and LATAM. </p><p style=\"min-height:1.5em\">Experience level doesnât matter; what matters is how ambitious you are.</p><p style=\"min"
+    },
+    {
+      "id": "remoteok:1130011",
+      "source": "remoteok",
+      "company": "LIGHTFEATHER IO LLC",
+      "title": "Google Cloud Platform Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-google-cloud-platform-engineer-lightfeather-io-llc-1130011",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "LightFeather is seeking a Cloud Engineer â GCP who will play a critical role in designing, implementing, and maintaining cloud infrastructure solutions within Google Cloud Platform (GCP). This role requires expertise in infrastructure aut"
+    },
+    {
+      "id": "remoteok:1130009",
+      "source": "remoteok",
+      "company": "Extenteam Client Roles",
+      "title": "Business Development Representative",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-extenteam-client-roles-1130009",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><p style=\"text-align: justify;\"><strong>About Us</strong><br>Weâre Extenteam, a dynamic company revolutionizing the short term vacation rental industry. Our proven business model has generated consistent revenue, and we are now expan"
+    },
+    {
+      "id": "remoteok:1130008",
+      "source": "remoteok",
+      "company": "ELEMENTAL TERRA",
+      "title": "Junior Crypto Analyst & Trader",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-elemental-terra-1130008",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div class=\"vacancy-intro reveal reveal-delay-2 is-visible\"><p>Elemental Terra is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern "
+    },
+    {
+      "id": "remoteok:1130007",
+      "source": "remoteok",
+      "company": "MX Technologies, Inc.",
+      "title": "Senior Cloud Platform Engineer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-cloud-platform-engineer-mx-technologies-inc-1130007",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "MX is a fintech company on a mission to empower the world to be financially strong. We build technology that helps banks, credit unions, and fintechs deliver smarter, more intuitive financial experiences to millions of people.\n\nLike many st"
+    },
+    {
+      "id": "remoteok:1130006",
+      "source": "remoteok",
+      "company": "PitchBook Data",
+      "title": "Product Designer II Design Systems",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-ii-design-systems-pitchbook-data-1130006",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "At PitchBook, a Morningstar company, we are always looking forward. We continue to innovate, evolve, and invest in ourselves to bring out the best in everyone. We're deeply collaborative and thrive on the excitement, energy, and fun that re"
+    },
+    {
+      "id": "remoteok:1130005",
+      "source": "remoteok",
+      "company": "Aviation Institute of Maintenance",
+      "title": "Combination Welding Instructor",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-combination-welding-instructor-aviation-institute-of-maintenance-1130005",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><strong>Training Tomorrow's Techniciansâ¯to Become Skilled, Employable and Essential.â¯</strong></p>\n<p><strong>About Usâ¯â¯- Big Changes, Better Benefits - Join us today!&nbsp;&nbsp;</strong></p>\n<p>The<strong>&nbsp;Aviation Institu"
+    },
+    {
+      "id": "remoteok:1130004",
+      "source": "remoteok",
+      "company": "Cobalt",
+      "title": "Associate Security Researcher",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-security-researcher-cobalt-1130004",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<div><h3><strong>The Role</strong></h3>\n<p>At Cobalt, we are evolving the way we approach security research. We are looking for an <strong>Associate Security Researcher</strong> who doesn't just want to \"break things,\" but who wants to unde"
+    },
+    {
+      "id": "remoteok:1130003",
+      "source": "remoteok",
+      "company": "Noonlight",
+      "title": "Software Engineer II",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-noonlight-1130003",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-02-05T23:38:14.120Z",
+      "excerpt": "<p><strong>Software Engineer II</strong></p>\n<p>At Noonlight, an Alarm.com company, our mission is to protect and comfort people so they can live freely. What began as an app focused on helping people walk safely from point A to point B, is"
+    }
+  ]
+}
