@@ -4,9 +4,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>BESTIEJOB - Toronto $100K+ Manager Jobs</title>
-    <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="styles.css?v=3" />
   </head>
   <body>
+    <nav class="nav-menu">
+      <a href="/">Home</a>
+      <a href="/findjobs/" class="active">Find Jobs</a>
+    </nav>
     <main class="container">
       <header class="header">
         <h1>BESTIEJOB</h1>
@@ -38,6 +42,26 @@
             <span>Full-time only</span>
           </label>
 
+          <div class="source-filters">
+            <span class="filter-label">Sources:</span>
+            <label class="source-check">
+              <input id="sourceAdzuna" type="checkbox" checked />
+              <span>Adzuna (9,000+)</span>
+            </label>
+            <label class="source-check">
+              <input id="sourceJobbank" type="checkbox" checked />
+              <span>JobBank</span>
+            </label>
+            <label class="source-check">
+              <input id="sourceLinkedin" type="checkbox" checked />
+              <span>LinkedIn</span>
+            </label>
+            <label class="source-check">
+              <input id="sourceRemoteok" type="checkbox" checked />
+              <span>RemoteOK</span>
+            </label>
+          </div>
+
           <div class="actions">
             <button id="search">Find jobs</button>
             <button id="preset110">Preset $110K+</button>
@@ -51,6 +75,6 @@
       </section>
     </main>
 
-    <script src="/app.js"></script>
+    <script src="app.js?v=3"></script>
   </body>
 </html>

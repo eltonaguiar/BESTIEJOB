@@ -1,22 +1,47 @@
-import express from "express";
-import path from "path";
+
+
+
+import fs from "fs";
+import path, { dirname } from "path";
 import { fileURLToPath } from "url";
-import Parser from "rss-parser";
 
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const __dirname = dirname(__filename);
+const JOBS_PATH = path.join(__dirname, "jobs.json");
+
+function saveJobsToCache(jobs) {
+  fs.writeFileSync(JOBS_PATH, JSON.stringify(jobs, null, 2));
+}
+
+function loadJobsFromCache() {
+  try {
+    const data = JSON.parse(fs.readFileSync(JOBS_PATH, "utf-8"));
+    // Handle both formats: { meta: {...}, jobs: [...] } or [...]
+    if (data && Array.isArray(data.jobs)) {
+      return data.jobs;
+    }
+    if (Array.isArray(data)) {
+      return data;
+    }
+    return [];
+  } catch {
+    return [];
+  }
+}
+
+import express from "express";
+import { scrapeIndeedJobs } from "./scrapers/indeed_scraper.js";
+import { scrapeSimplifyApplications } from "./scrapers/simplify_scraper.js";
+let scrapeLinkedInJobs;
+import("./scrapers/linkedin_scraper.js").then(mod => {
+  scrapeLinkedInJobs = mod.scrapeLinkedInJobs;
+});
 
 const app = express();
 const port = process.env.PORT || 3000;
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, "public")));
-
-const rssParser = new Parser({
-  headers: {
-    "user-agent": "BESTIEJOB/0.1"
-  }
-});
 
 function normalizeText(value) {
   return (value ?? "").toString().trim();
@@ -89,12 +114,129 @@ function inToronto(locationText) {
   return l.includes("toronto") || l.includes("gta") || l.includes("greater toronto");
 }
 
+function parseSinceFilter(query) {
+  const minutes = Number(query.sinceMinutes ?? "");
+  const hours = Number(query.sinceHours ?? "");
+  const days = Number(query.sinceDays ?? "");
+  const iso = normalizeText(query.sinceIso);
+
+  if (iso) {
+    const d = new Date(iso);
+    return Number.isNaN(d.getTime()) ? null : d;
+  }
+
+  const totalMinutes =
+    (Number.isFinite(minutes) ? minutes : 0) +
+    (Number.isFinite(hours) ? hours * 60 : 0) +
+    (Number.isFinite(days) ? days * 24 * 60 : 0);
+
+  if (!totalMinutes) return null;
+  return new Date(Date.now() - totalMinutes * 60 * 1000);
+}
+
+function parseTimelineFilter(timelineValue) {
+  const t = normalizeText(timelineValue).toLowerCase();
+  if (!t) return null;
+  if (t === "today" || t === "24h" || t === "1d") {
+    return new Date(Date.now() - 24 * 60 * 60 * 1000);
+  }
+  if (t === "7d" || t === "week") {
+    return new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
+  }
+  if (t === "30d" || t === "month") {
+    return new Date(Date.now() - 30 * 24 * 60 * 60 * 1000);
+  }
+
+  const dayMatch = t.match(/^(\d+)d$/);
+  if (dayMatch) {
+    const days = Number(dayMatch[1]);
+    if (Number.isFinite(days) && days > 0) {
+      return new Date(Date.now() - days * 24 * 60 * 60 * 1000);
+    }
+  }
+
+  const hourMatch = t.match(/^(\d+)h$/);
+  if (hourMatch) {
+    const hours = Number(hourMatch[1]);
+    if (Number.isFinite(hours) && hours > 0) {
+      return new Date(Date.now() - hours * 60 * 60 * 1000);
+    }
+  }
+
+  return null;
+}
+
 const GREENHOUSE_BOARDS = [
   // Add/adjust boards over time. Not all will have Toronto roles at all times.
   { company: "Klick", token: "klick" },
   { company: "Wave", token: "wave" },
   { company: "Wealthsimple", token: "wealthsimple" }
 ];
+
+async function fetchLinkedInJobs({ query, location }) {
+  // LinkedIn doesn't have a public RSS feed, so we'll use their search API
+  // This is a simplified approach that scrapes LinkedIn's public job search
+  const baseUrl = "https://www.linkedin.com/jobs-search";
+  
+  try {
+    const searchParams = new URLSearchParams({
+      keywords: query,
+      location: location,
+      distance: "25",
+      sortBy: "R"
+    });
+    
+    const url = `${baseUrl}?${searchParams.toString()}`;
+    
+    const res = await fetch(url, {
+      headers: {
+        "user-agent": "BESTIEJOB/0.1"
+      }
+    });
+    
+    if (!res.ok) return [];
+    
+    const html = await res.text();
+    
+    // Parse jobs from HTML - this is a simplified parser
+    // In a production environment, you'd want to use a proper HTML parser
+    const jobElements = html.match(/data-entity-urn="urn:li:fsd_jobPosting:(\d+)"/g);
+    
+    if (!jobElements) return [];
+    
+    const jobs = [];
+    
+    // Extract job details from the HTML
+    const jobMatches = html.matchAll(/data-entity-urn="urn:li:fsd_jobPosting:(\d+)".*?data-job-id="(\d+)".*?data-base-url="([^"]+)".*?data-job-title="([^"]+)".*?data-company-name="([^"]+)".*?data-job-location-name="([^"]+)".*?data-job-posted-date="([^"]+)".*?data-job-salary="([^"]+)"/gs);
+    
+    for (const match of jobMatches) {
+      const [, jobId, jobPostingId, baseUrl, title, company, location, postedDate, salary] = match;
+      
+      const jobUrl = `${baseUrl}/jobs/${jobPostingId}`;
+      
+      // Parse salary if available
+      const salaryObj = parseSalaryFromText(salary);
+      
+      jobs.push({
+        id: `linkedin:${jobId}`,
+        source: "linkedin",
+        company: normalizeText(company),
+        title: normalizeText(title),
+        location: normalizeText(location),
+        url: jobUrl,
+        employmentType: looksFullTime(title) ? "full-time" : "unknown",
+        salary: salaryObj,
+        postedDate: postedDate,
+        excerpt: `Posted on ${postedDate}. ${company} is looking for a ${title} in ${location}.`
+      });
+    }
+    
+    return jobs;
+  } catch (error) {
+    console.error("Error fetching LinkedIn jobs:", error);
+    return [];
+  }
+}
 
 async function fetchGreenhouseJobs() {
   const results = [];
@@ -140,36 +282,58 @@ async function fetchGreenhouseJobs() {
   return results;
 }
 
-async function fetchIndeedRss({ query, location }) {
-  // Note: salary is usually not provided in RSS. We still include it as a discovery source.
-  const q = encodeURIComponent(query);
-  const l = encodeURIComponent(location);
-  const url = `https://ca.indeed.com/rss?q=${q}&l=${l}`;
-
-  try {
-    const feed = await rssParser.parseURL(url);
-    const items = Array.isArray(feed?.items) ? feed.items : [];
-
-    return items.map((it) => {
-      const title = normalizeText(it.title);
-      const link = normalizeText(it.link);
-      const content = normalizeText(it.contentSnippet || it.content || it.summary);
-
-      return {
-        id: `indeed:${link || title}`,
-        source: "indeed",
-        company: normalizeText(it.creator || ""),
-        title,
-        location: location,
-        url: link,
-        employmentType: looksFullTime(content) ? "full-time" : "unknown",
-        salary: parseSalaryFromText(content),
-        excerpt: content.slice(0, 240)
-      };
-    });
-  } catch {
-    return [];
-  }
+function createJobSources({ keywords, location, simplifyCookie, timelineDays, maxPages }) {
+  return [
+    // 1. Greenhouse - API based, always works, fastest
+    { name: "greenhouse", run: () => fetchGreenhouseJobs() },
+    
+    // 2. Indeed - RSS first (fast), then HTML with fallbacks
+    {
+      name: "indeed",
+      run: () =>
+        scrapeIndeedJobs({
+          keyword: keywords.join(" "),
+          location,
+          maxPages,
+          useFallbackApi: true // Enable third-party API fallback
+        })
+    },
+    
+    // 3. LinkedIn - Slower, often blocked, but good data
+    {
+      name: "linkedin",
+      run: async () => {
+        if (!scrapeLinkedInJobs) {
+          const mod = await import("./scrapers/linkedin_scraper.js");
+          scrapeLinkedInJobs = mod.scrapeLinkedInJobs;
+        }
+        const jobs = await scrapeLinkedInJobs(keywords.join(" "), location, 0, maxPages);
+        return (jobs || []).map((j) => ({
+          id: `linkedin:${j.url}`,
+          source: "linkedin",
+          company: normalizeText(j.company),
+          title: j.title,
+          location: normalizeText(j.location || location),
+          url: j.url,
+          employmentType: looksFullTime(j.title) ? "full-time" : "unknown",
+          salary: null,
+          postedDate: j.postedDate,
+          excerpt: j.excerpt || j.title
+        }));
+      }
+    },
+    
+    // 4. Simplify - Last, requires cookie authentication
+    {
+      name: "simplify",
+      run: () =>
+        scrapeSimplifyApplications({
+          keyword: keywords.join(" "),
+          timelineDays: Number.isFinite(timelineDays) && timelineDays > 0 ? timelineDays : 30,
+          cookie: simplifyCookie
+        })
+    }
+  ];
 }
 
 app.get("/api/jobs", async (req, res) => {
@@ -177,6 +341,11 @@ app.get("/api/jobs", async (req, res) => {
     const minSalary = Number(req.query.minSalary ?? 100000);
     const fullTimeOnly = (req.query.fullTimeOnly ?? "true") === "true";
     const location = normalizeText(req.query.location ?? "Toronto, ON");
+    const sinceDate = parseSinceFilter(req.query);
+    const timeline = normalizeText(req.query.timeline ?? "");
+    const simplifyCookie = normalizeText(req.query.simplifyCookie || process.env.SIMPLIFY_COOKIE);
+    const timelineDays = Number(req.query.timelineDays ?? "");
+    const maxPages = Number(req.query.maxPages ?? 3);
 
     const keywordsRaw = normalizeText(
       req.query.keywords ?? "creative, technology, manager, management"
@@ -186,26 +355,54 @@ app.get("/api/jobs", async (req, res) => {
       .map((s) => s.trim())
       .filter(Boolean);
 
-    const sources = [
-      { name: "greenhouse", run: () => fetchGreenhouseJobs() },
-      { name: "indeed", run: () => fetchIndeedRss({ query: keywords.join(" "), location }) }
-    ];
+
+    const sources = createJobSources({
+      keywords,
+      location,
+      simplifyCookie,
+      timelineDays,
+      maxPages
+    });
 
     const settled = await Promise.allSettled(sources.map((s) => s.run()));
-    const jobs = settled.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
+    let jobs = settled.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
+    
+    // Fall back to cached data if scraping returned no results
+    if (jobs.length === 0) {
+      console.log("Live scraping returned no jobs, falling back to cache...");
+      const cachedJobs = loadJobsFromCache();
+      if (cachedJobs && cachedJobs.length > 0) {
+        jobs = cachedJobs;
+      }
+    } else {
+      // Save successful scrape to cache
+      saveJobsToCache(jobs);
+    }
+    
     const sourceErrors = settled
       .map((r, idx) => ({ r, s: sources[idx] }))
       .filter(({ r }) => r.status === "rejected")
       .map(({ r, s }) => ({ source: s.name, error: String(r.reason?.message || r.reason) }));
 
+    // Debug: log jobs fetched from each source
+    console.log('Fetched jobs:', jobs.map(j => ({title: j.title, company: j.company, salary: j.salary, source: j.source})));
+
+    // Relaxed filter: show all jobs, even those without salary
+    const effectiveSinceDate = sinceDate || parseTimelineFilter(timeline);
     const filtered = jobs
       .filter((j) => inToronto(j.location || location))
       .filter((j) => includesAny(j.title, keywords))
       .filter((j) => !fullTimeOnly || j.employmentType === "full-time" || looksFullTime(j.title))
       .filter((j) => {
-        if (!j.salary) return false;
-        return j.salary.min >= minSalary || j.salary.max >= minSalary;
+        if (!effectiveSinceDate) return true;
+        if (!j.postedDate) return false;
+        const posted = new Date(j.postedDate);
+        return !Number.isNaN(posted.getTime()) && posted >= effectiveSinceDate;
       })
+      // .filter((j) => {
+      //   if (!j.salary) return false;
+      //   return j.salary.min >= minSalary || j.salary.max >= minSalary;
+      // })
       .sort((a, b) => (b.salary?.max ?? 0) - (a.salary?.max ?? 0));
 
     res.json({
@@ -214,6 +411,8 @@ app.get("/api/jobs", async (req, res) => {
         fullTimeOnly,
         location,
         keywords,
+        timeline,
+        sinceDate: effectiveSinceDate ? effectiveSinceDate.toISOString() : null,
         sourceErrors,
         totalFetched: jobs.length,
         totalMatched: filtered.length
@@ -222,6 +421,133 @@ app.get("/api/jobs", async (req, res) => {
     });
   } catch (err) {
     res.status(500).json({ error: "Failed to fetch jobs", details: String(err?.message || err) });
+  }
+});
+
+// Endpoint to refresh jobs and update cache
+app.post("/api/refresh", async (req, res) => {
+  try {
+    // Use default params for refresh
+    const location = "Toronto, ON";
+    const keywords = ["creative", "technology", "manager", "management"];
+    const minSalary = 100000;
+    const fullTimeOnly = true;
+    const maxPages = 2;
+
+    const sources = createJobSources({
+      keywords,
+      location,
+      simplifyCookie: "",
+      timelineDays: 30,
+      maxPages
+    });
+    const settled = await Promise.allSettled(sources.map((s) => s.run()));
+    let jobs = settled.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
+    
+    // Fall back to cached data if scraping returned no results
+    if (jobs.length === 0) {
+      console.log("Refresh returned no jobs, keeping existing cache...");
+      const cachedJobs = loadJobsFromCache();
+      if (cachedJobs && cachedJobs.length > 0) {
+        jobs = cachedJobs;
+      }
+    } else {
+      saveJobsToCache(jobs);
+    }
+    
+    res.json({ ok: true, total: jobs.length });
+  } catch (err) {
+    res.status(500).json({ error: "Failed to refresh jobs", details: String(err?.message || err) });
+  }
+});
+
+app.get("/api/jobs/cached", (req, res) => {
+  const jobs = loadJobsFromCache();
+  res.json({ jobs });
+});
+
+// Admin endpoints
+app.get("/admin", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "admin", "index.html"));
+});
+
+app.get("/api/admin/scrape", async (req, res) => {
+  try {
+    const location = normalizeText(req.query.location ?? "Toronto, ON");
+    const keywordsRaw = normalizeText(req.query.keywords ?? "vba");
+    const keywords = keywordsRaw.split(",").map(s => s.trim()).filter(Boolean);
+    const sourcesParam = normalizeText(req.query.sources ?? "indeed,linkedin");
+    const selectedSources = sourcesParam.split(",").map(s => s.trim()).filter(Boolean);
+    
+    const sinceDate = parseSinceFilter(req.query);
+    const simplifyCookie = normalizeText(req.query.simplifyCookie || process.env.SIMPLIFY_COOKIE);
+    const maxPages = Number(req.query.maxPages ?? 2);
+    
+    const allSources = createJobSources({
+      keywords,
+      location,
+      simplifyCookie,
+      timelineDays: 30,
+      maxPages
+    });
+    
+    const filteredSources = allSources.filter(s => selectedSources.includes(s.name));
+    
+    if (filteredSources.length === 0) {
+      return res.status(400).json({ error: "No valid sources selected" });
+    }
+    
+    const settled = await Promise.allSettled(filteredSources.map((s) => s.run()));
+    let jobs = settled.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
+    
+    // Filter by date if specified
+    if (sinceDate) {
+      jobs = jobs.filter(j => {
+        if (!j.postedDate) return false;
+        const posted = new Date(j.postedDate);
+        return !Number.isNaN(posted.getTime()) && posted >= sinceDate;
+      });
+    }
+    
+    const sourceErrors = settled
+      .map((r, idx) => ({ r, s: filteredSources[idx] }))
+      .filter(({ r }) => r.status === "rejected")
+      .map(({ r, s }) => ({ source: s.name, error: String(r.reason?.message || r.reason) }));
+    
+    // Merge with existing cache
+    const existingJobs = loadJobsFromCache();
+    const merged = [...existingJobs, ...jobs];
+    
+    // Deduplicate by URL
+    const seen = new Set();
+    const deduped = merged.filter(j => {
+      const key = j.url || j.id;
+      if (!key || seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+    
+    saveJobsToCache(deduped);
+    
+    res.json({
+      ok: true,
+      totalFetched: jobs.length,
+      total: deduped.length,
+      sources: selectedSources,
+      sinceDate: sinceDate ? sinceDate.toISOString() : null,
+      sourceErrors
+    });
+  } catch (err) {
+    res.status(500).json({ error: "Scrape failed", details: String(err?.message || err) });
+  }
+});
+
+app.post("/api/admin/clear", (req, res) => {
+  try {
+    saveJobsToCache([]);
+    res.json({ ok: true, message: "Cache cleared successfully" });
+  } catch (err) {
+    res.status(500).json({ error: "Failed to clear cache", details: String(err?.message || err) });
   }
 });
 

@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin - BESTIEJOB</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      color: #fff;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+    .container { max-width: 900px; margin: 0 auto; }
+    h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+    .subhead { color: rgba(255,255,255,0.6); margin-bottom: 2rem; }
+    .panel {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+    .panel h2 {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+      color: #64b5f6;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    .field span {
+      font-size: 0.9rem;
+      color: rgba(255,255,255,0.7);
+    }
+    input, select {
+      padding: 0.6rem 0.8rem;
+      border: 1px solid rgba(255,255,255,0.2);
+      border-radius: 6px;
+      background: rgba(0,0,0,0.3);
+      color: #fff;
+      font-size: 0.95rem;
+    }
+    input:focus, select:focus {
+      outline: none;
+      border-color: #64b5f6;
+    }
+    .actions {
+      display: flex;
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+    button {
+      padding: 0.7rem 1.5rem;
+      border: none;
+      border-radius: 6px;
+      background: #64b5f6;
+      color: #1a1a2e;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    button:hover { background: #42a5f5; }
+    button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    button.secondary {
+      background: rgba(255,255,255,0.1);
+      color: #fff;
+    }
+    button.secondary:hover { background: rgba(255,255,255,0.2); }
+    .results {
+      margin-top: 1.5rem;
+      padding: 1rem;
+      background: rgba(0,0,0,0.2);
+      border-radius: 8px;
+      min-height: 100px;
+    }
+    .results pre {
+      font-family: "Monaco", "Consolas", monospace;
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.8);
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    .stat-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 8px;
+      padding: 1rem;
+      text-align: center;
+    }
+    .stat-value {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: #64b5f6;
+    }
+    .stat-label {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.6);
+      margin-top: 0.3rem;
+    }
+    .checkboxes {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+    .checkbox {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      cursor: pointer;
+    }
+    .checkbox input {
+      width: 18px;
+      height: 18px;
+      cursor: pointer;
+    }
+    .success { color: #81c784; }
+    .error { color: #e57373; }
+    .warning { color: #ffb74d; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Admin Panel</h1>
+    <p class="subhead">BESTIEJOB Database Management</p>
+
+    <div class="stats" id="stats">
+      <div class="stat-card">
+        <div class="stat-value" id="totalJobs">-</div>
+        <div class="stat-label">Total Jobs</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="cachedJobs">-</div>
+        <div class="stat-label">Cached Jobs</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="lastUpdated">-</div>
+        <div class="stat-label">Last Updated</div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Scrape by Source</h2>
+      <div class="field">
+        <span>Select Sources</span>
+        <div class="checkboxes">
+          <label class="checkbox">
+            <input type="checkbox" id="sourceIndeed" value="indeed" checked>
+            <span>Indeed</span>
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" id="sourceLinkedIn" value="linkedin" checked>
+            <span>LinkedIn</span>
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" id="sourceSimplify" value="simplify">
+            <span>Simplify.jobs</span>
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" id="sourceGreenhouse" value="greenhouse">
+            <span>Greenhouse</span>
+          </label>
+        </div>
+      </div>
+
+      <div class="grid" style="margin-top: 1rem;">
+        <div class="field">
+          <span>Keywords</span>
+          <input type="text" id="keywords" value="vba" placeholder="e.g., vba, developer">
+        </div>
+        <div class="field">
+          <span>Location</span>
+          <input type="text" id="location" value="Toronto, ON" placeholder="e.g., Toronto, ON">
+        </div>
+      </div>
+
+      <div class="grid" style="margin-top: 1rem;">
+        <div class="field">
+          <span>Time Frame</span>
+          <select id="timeFrame">
+            <option value="1h">Last Hour</option>
+            <option value="24h" selected>Last 24 Hours</option>
+            <option value="7d">Last 7 Days</option>
+            <option value="30d">Last 30 Days</option>
+            <option value="all">All Time</option>
+          </select>
+        </div>
+        <div class="field">
+          <span>Custom Hours (optional)</span>
+          <input type="number" id="customHours" placeholder="e.g., 48" min="1">
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="scrapeBtn" onclick="runScrape()">Run Scraper</button>
+        <button class="secondary" onclick="viewCached()">View Cached Data</button>
+        <button class="secondary" onclick="clearCache()">Clear Cache</button>
+      </div>
+
+      <div class="results" id="results">
+        <pre>Ready to scrape. Select sources and click "Run Scraper".</pre>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Database Operations</h2>
+      <div class="actions">
+        <button onclick="exportData()">Export JSON</button>
+        <button class="secondary" onclick="location.href='/'">Back to Site</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const el = id => document.getElementById(id);
+
+    async function loadStats() {
+      try {
+        const res = await fetch('/api/jobs/cached');
+        const data = await res.json();
+        const jobs = data.jobs || [];
+        el('cachedJobs').textContent = jobs.length;
+        
+        const recent = jobs.filter(j => {
+          if (!j.postedDate) return false;
+          const posted = new Date(j.postedDate);
+          const weekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+          return posted.valueOf() > weekAgo;
+        });
+        el('totalJobs').textContent = recent.length;
+        
+        if (jobs.length > 0 && jobs[0].postedDate) {
+          const latest = new Date(Math.max(...jobs.map(j => new Date(j.postedDate || 0))));
+          el('lastUpdated').textContent = latest.toLocaleDateString();
+        } else {
+          el('lastUpdated').textContent = 'Never';
+        }
+      } catch (err) {
+        console.error('Failed to load stats:', err);
+      }
+    }
+
+    function setLoading(loading) {
+      el('scrapeBtn').disabled = loading;
+      el('scrapeBtn').textContent = loading ? 'Scraping...' : 'Run Scraper';
+    }
+
+    function getTimeParams() {
+      const customHours = el('customHours').value;
+      if (customHours) {
+        return { sinceHours: customHours };
+      }
+      
+      const frame = el('timeFrame').value;
+      const params = {};
+      switch(frame) {
+        case '1h': params.sinceHours = 1; break;
+        case '24h': params.sinceHours = 24; break;
+        case '7d': params.sinceDays = 7; break;
+        case '30d': params.sinceDays = 30; break;
+      }
+      return params;
+    }
+
+    async function runScrape() {
+      setLoading(true);
+      const results = el('results');
+      results.innerHTML = '<pre>Starting scrape...</pre>';
+
+      const sources = [];
+      if (el('sourceIndeed').checked) sources.push('indeed');
+      if (el('sourceLinkedIn').checked) sources.push('linkedin');
+      if (el('sourceSimplify').checked) sources.push('simplify');
+      if (el('sourceGreenhouse').checked) sources.push('greenhouse');
+
+      if (sources.length === 0) {
+        results.innerHTML = '<pre class="error">Please select at least one source.</pre>';
+        setLoading(false);
+        return;
+      }
+
+      const params = new URLSearchParams({
+        keywords: el('keywords').value,
+        location: el('location').value,
+        fullTimeOnly: 'true'
+      });
+
+      const timeParams = getTimeParams();
+      Object.entries(timeParams).forEach(([k, v]) => params.append(k, v));
+      params.append('sources', sources.join(','));
+
+      try {
+        const res = await fetch(`/api/admin/scrape?${params.toString()}`);
+        const data = await res.json();
+        
+        let output = `<span class="${data.ok ? 'success' : 'warning'}">Scrape ${data.ok ? 'completed' : 'partial'}</span>\n`;
+        output += `Sources: ${sources.join(', ')}\n`;
+        output += `Jobs found: ${data.totalFetched || 0}\n`;
+        if (data.sourceErrors && data.sourceErrors.length > 0) {
+          output += `\n<span class="error">Errors:</span>\n`;
+          data.sourceErrors.forEach(e => {
+            output += `  - ${e.source}: ${e.error}\n`;
+          });
+        }
+        output += `\n<span class="success">Cache updated with ${data.total || 0} jobs</span>`;
+        
+        results.innerHTML = `<pre>${output}</pre>`;
+        loadStats();
+      } catch (err) {
+        results.innerHTML = `<pre class="error">Error: ${err.message}</pre>`;
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    async function viewCached() {
+      const results = el('results');
+      results.innerHTML = '<pre>Loading...</pre>';
+      
+      try {
+        const res = await fetch('/api/jobs/cached');
+        const data = await res.json();
+        const jobs = data.jobs || [];
+        
+        let output = `Cached Jobs: ${jobs.length}\n\n`;
+        jobs.slice(0, 10).forEach((job, i) => {
+          output += `[${i+1}] ${job.title}\n`;
+          output += `    Company: ${job.company || 'N/A'}\n`;
+          output += `    Source: ${job.source || 'N/A'}\n`;
+          output += `    Posted: ${job.postedDate ? new Date(job.postedDate).toLocaleString() : 'N/A'}\n`;
+          output += `    URL: ${job.url || 'N/A'}\n\n`;
+        });
+        if (jobs.length > 10) {
+          output += `... and ${jobs.length - 10} more jobs\n`;
+        }
+        
+        results.innerHTML = `<pre>${output}</pre>`;
+      } catch (err) {
+        results.innerHTML = `<pre class="error">Error: ${err.message}</pre>`;
+      }
+    }
+
+    async function clearCache() {
+      if (!confirm('Are you sure you want to clear the job cache?')) return;
+      
+      const results = el('results');
+      try {
+        const res = await fetch('/api/admin/clear', { method: 'POST' });
+        const data = await res.json();
+        results.innerHTML = `<pre class="${data.ok ? 'success' : 'error'}">${data.message || 'Cache cleared'}</pre>`;
+        loadStats();
+      } catch (err) {
+        results.innerHTML = `<pre class="error">Error: ${err.message}</pre>`;
+      }
+    }
+
+    async function exportData() {
+      try {
+        const res = await fetch('/api/jobs/cached');
+        const data = await res.json();
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `bestiejob-export-${new Date().toISOString().split('T')[0]}.json`;
+        a.click();
+        URL.revokeObjectURL(url);
+      } catch (err) {
+        alert('Export failed: ' + err.message);
+      }
+    }
+
+    loadStats();
+  </script>
+</body>
+</html>

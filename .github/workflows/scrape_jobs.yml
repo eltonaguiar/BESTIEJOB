@@ -1,0 +1,64 @@
+name: Scrape Jobs
+
+on:
+  workflow_dispatch:
+    inputs:
+      keywords:
+        description: "Keywords to search"
+        required: false
+        default: "vba"
+      location:
+        description: "Location to search"
+        required: false
+        default: "Toronto, ON"
+      sinceMinutes:
+        description: "Filter to jobs posted in the last X minutes"
+        required: false
+        default: ""
+      sinceHours:
+        description: "Filter to jobs posted in the last X hours"
+        required: false
+        default: "24"
+      sinceDays:
+        description: "Filter to jobs posted in the last X days"
+        required: false
+        default: ""
+  schedule:
+    - cron: "15 11 * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        env:
+          SCRAPE_KEYWORDS: ${{ inputs.keywords || 'vba' }}
+          SCRAPE_LOCATION: ${{ inputs.location || 'Toronto, ON' }}
+          SINCE_MINUTES: ${{ inputs.sinceMinutes }}
+          SINCE_HOURS: ${{ inputs.sinceHours || '24' }}
+          SINCE_DAYS: ${{ inputs.sinceDays }}
+        run: npm run scrape
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add jobs.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update jobs cache"
+          git push
