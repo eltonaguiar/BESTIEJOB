@@ -261,6 +261,8 @@ button:disabled {
   background: rgba(0, 0, 0, 0.22);
   border-radius: 14px;
   padding: 14px;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .titleRow {
@@ -268,7 +270,8 @@ button:disabled {
   justify-content: space-between;
   gap: 12px;
   align-items: baseline;
-  flex-wrap: wrap;
+  width: 100%;
+  max-width: 100%;
 }
 
 .card a {
