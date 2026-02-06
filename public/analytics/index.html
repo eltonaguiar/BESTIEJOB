@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Market Analytics - Toronto Job Market Trends | BESTIEJOB</title>
+    <meta name="description" content="Toronto job market analytics dashboard. Track hiring trends, top industries, posting velocity, and more." />
+    <link rel="stylesheet" href="styles.css?v=1" />
+  </head>
+  <body>
+    <nav class="nav-menu">
+      <a href="/">Home</a>
+      <a href="/findjobs/">Find Jobs</a>
+      <a href="/gotjob/">Tech Jobs</a>
+      <a href="/salaries/">Salaries</a>
+      <a href="/analytics/" class="active">Analytics</a>
+      <a href="/companies/">Companies</a>
+      <a href="/resources/">Resources</a>
+    </nav>
+    <main class="container">
+      <header class="header">
+        <h1>Market Analytics</h1>
+        <p class="subhead">Live insights into the Toronto job market — powered by real data</p>
+      </header>
+
+      <!-- Key Metrics -->
+      <section class="metrics-grid" id="metricsGrid">
+        <div class="metric-card">
+          <div class="metric-icon">📊</div>
+          <div class="metric-value" id="metricTotal">-</div>
+          <div class="metric-label">Total Listings</div>
+        </div>
+        <div class="metric-card accent">
+          <div class="metric-icon">🔥</div>
+          <div class="metric-value" id="metricFresh">-</div>
+          <div class="metric-label">Posted Today</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-icon">🏢</div>
+          <div class="metric-value" id="metricCompanies">-</div>
+          <div class="metric-label">Companies Hiring</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-icon">🌐</div>
+          <div class="metric-value" id="metricRemote">-</div>
+          <div class="metric-label">Remote Jobs</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-icon">💰</div>
+          <div class="metric-value" id="metricWithSalary">-</div>
+          <div class="metric-label">With Salary Info</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-icon">📈</div>
+          <div class="metric-value" id="metricSources">-</div>
+          <div class="metric-label">Data Sources</div>
+        </div>
+      </section>
+
+      <!-- Posting Timeline -->
+      <section class="panel">
+        <h2>Job Posting Activity</h2>
+        <p class="section-desc">New job postings per day over the last 30 days</p>
+        <div class="timeline-chart" id="timelineChart"></div>
+      </section>
+
+      <!-- Two-column layout -->
+      <div class="two-col">
+        <!-- Top Sources -->
+        <section class="panel">
+          <h2>Top Data Sources</h2>
+          <p class="section-desc">Where job postings come from</p>
+          <div class="donut-wrapper">
+            <div class="donut-chart" id="sourceDonut"></div>
+            <div class="donut-legend" id="sourceLegend"></div>
+          </div>
+        </section>
+
+        <!-- Employment Types -->
+        <section class="panel">
+          <h2>Employment Types</h2>
+          <p class="section-desc">Full-time vs. contract vs. other</p>
+          <div class="donut-wrapper">
+            <div class="donut-chart" id="empDonut"></div>
+            <div class="donut-legend" id="empLegend"></div>
+          </div>
+        </section>
+      </div>
+
+      <!-- Top Industries/Roles -->
+      <section class="panel">
+        <h2>Most In-Demand Roles</h2>
+        <p class="section-desc">Job titles appearing most frequently across all sources</p>
+        <div class="demand-chart" id="demandChart"></div>
+      </section>
+
+      <!-- Work Arrangement Breakdown -->
+      <section class="panel">
+        <h2>Work Arrangement Trends</h2>
+        <p class="section-desc">Remote vs. hybrid vs. onsite breakdown</p>
+        <div class="arrangement-grid" id="arrangementGrid"></div>
+      </section>
+
+      <!-- Experience Demand -->
+      <section class="panel">
+        <h2>Experience Level Demand</h2>
+        <p class="section-desc">What seniority levels are companies hiring for?</p>
+        <div class="exp-demand" id="expDemand"></div>
+      </section>
+
+      <!-- Hot Skills -->
+      <section class="panel">
+        <h2>Trending Skills & Technologies</h2>
+        <p class="section-desc">Most mentioned skills in job postings</p>
+        <div class="skills-cloud" id="skillsCloud"></div>
+      </section>
+    </main>
+
+    <script src="app.js?v=1"></script>
+  </body>
+</html>

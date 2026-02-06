@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Salary Insights - BESTIEJOB | Toronto Tech Salary Trends</title>
+  <meta name="description" content="Explore Toronto tech salary trends. Compare salaries by role, company, and experience level using real job posting data." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="nav-menu">
+    <a href="/">Home</a>
+    <a href="/findjobs/">Find Jobs</a>
+    <a href="/salary/" class="active">Salaries</a>
+    <a href="/companies/">Companies</a>
+    <a href="/career/">Career</a>
+    <a href="/trends/">Trends</a>
+    <a href="/tracker/">Tracker</a>
+  </nav>
+
+  <main class="container">
+    <header class="header">
+      <h1>💰 Salary Insights</h1>
+      <p class="subhead">Toronto tech salary trends from real job postings</p>
+    </header>
+
+    <section class="stats-dashboard" id="overviewStats">
+      <div class="stat-card">
+        <div class="stat-value" id="avgSalary">-</div>
+        <div class="stat-label">Average Salary</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="medianSalary">-</div>
+        <div class="stat-label">Median Salary</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="highSalary">-</div>
+        <div class="stat-label">Top 10%</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="salaryJobs">-</div>
+        <div class="stat-label">Jobs with Salary</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 class="section-title">Salary by Role</h2>
+      <div class="chart-container" id="roleChart">
+        <div class="loading">Loading salary data...</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 class="section-title">Top Paying Companies</h2>
+      <div class="company-list" id="companyList">
+        <div class="loading">Analyzing company data...</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 class="section-title">Salary Calculator</h2>
+      <div class="calculator">
+        <div class="calc-inputs">
+          <label class="field">
+            <span>Job Title / Role</span>
+            <input type="text" id="calcRole" placeholder="e.g., Software Engineer" />
+          </label>
+          <label class="field">
+            <span>Experience Level</span>
+            <select id="calcExperience">
+              <option value="entry">Entry Level (0-2 years)</option>
+              <option value="mid" selected>Mid Level (2-5 years)</option>
+              <option value="senior">Senior (5+ years)</option>
+              <option value="lead">Lead / Principal</option>
+              <option value="manager">Manager / Director</option>
+            </select>
+          </label>
+          <button id="calculateBtn" class="calc-btn">Calculate Salary Range</button>
+        </div>
+        <div class="calc-result" id="calcResult" style="display: none;">
+          <div class="salary-range">
+            <div class="range-item">
+              <span class="range-label">25th Percentile</span>
+              <span class="range-value" id="range25">-</span>
+            </div>
+            <div class="range-item highlight">
+              <span class="range-label">Median</span>
+              <span class="range-value" id="range50">-</span>
+            </div>
+            <div class="range-item">
+              <span class="range-label">75th Percentile</span>
+              <span class="range-value" id="range75">-</span>
+            </div>
+          </div>
+          <p class="calc-note">Based on <span id="calcSample">0</span> recent job postings in Toronto</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 class="section-title">Salary Trends Over Time</h2>
+      <div class="trend-chart" id="trendChart">
+        <div class="trend-placeholder">
+          <p>📊 Historical salary data will appear here as more jobs are collected</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

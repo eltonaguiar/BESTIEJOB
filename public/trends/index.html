@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Market Trends - BESTIEJOB | Toronto Tech Job Market Analysis</title>
+  <meta name="description" content="Toronto tech job market trends, hiring patterns, and demand analysis. Track which skills are in demand." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="nav-menu">
+    <a href="/">Home</a>
+    <a href="/findjobs/">Find Jobs</a>
+    <a href="/salary/">Salaries</a>
+    <a href="/companies/">Companies</a>
+    <a href="/career/">Career</a>
+    <a href="/trends/" class="active">Trends</a>
+    <a href="/tracker/">Tracker</a>
+  </nav>
+
+  <main class="container">
+    <header class="header">
+      <h1>📈 Market Trends</h1>
+      <p class="subhead">Toronto tech job market analysis and insights</p>
+    </header>
+
+    <section class="stats-dashboard">
+      <div class="stat-card trend-up">
+        <div class="stat-value" id="jobsToday">-</div>
+        <div class="stat-label">New Jobs Today</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="jobsThisWeek">-</div>
+        <div class="stat-label">This Week</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="topRole">-</div>
+        <div class="stat-label">Top Role</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="remotePct">-</div>
+        <div class="stat-label">Remote %</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 class="section-title">🔥 Trending Skills</h2>
+      <div class="skills-container" id="skillsContainer">
+        <div class="loading">Analyzing job postings...</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 class="section-title">📊 Job Posting Volume</h2>
+      <div class="volume-chart" id="volumeChart">
+        <div class="chart-header">
+          <span class="chart-label">Last 30 Days</span>
+          <span class="chart-trend" id="volumeTrend">Loading...</span>
+        </div>
+        <div class="volume-bars" id="volumeBars"></div>
+      </div>
+    </section>
+
+    <section class="two-col">
+      <div class="panel">
+        <h2 class="section-title">💼 Top Hiring Companies</h2>
+        <div class="hiring-list" id="hiringList">
+          <div class="loading">Loading...</div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2 class="section-title">🎯 In-Demand Roles</h2>
+        <div class="roles-list" id="rolesList">
+          <div class="loading">Loading...</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 class="section-title">🏢 Work Arrangement Trends</h2>
+      <div class="arrangement-grid" id="arrangementGrid">
+        <div class="arrangement-card remote">
+          <div class="arr-icon">🏠</div>
+          <div class="arr-stats">
+            <span class="arr-pct" id="remotePercent">-</span>
+            <span class="arr-label">Remote</span>
+          </div>
+        </div>
+        <div class="arrangement-card hybrid">
+          <div class="arr-icon">🏢🏠</div>
+          <div class="arr-stats">
+            <span class="arr-pct" id="hybridPercent">-</span>
+            <span class="arr-label">Hybrid</span>
+          </div>
+        </div>
+        <div class="arrangement-card onsite">
+          <div class="arr-icon">🏢</div>
+          <div class="arr-stats">
+            <span class="arr-pct" id="onsitePercent">-</span>
+            <span class="arr-label">On-site</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 class="section-title">📅 Seasonal Patterns</h2>
+      <div class="seasonal-info" id="seasonalInfo">
+        <div class="season-current" id="seasonCurrent">
+          <div class="season-icon">🌸</div>
+          <div class="season-text">
+            <h4>Current Market</h4>
+            <p id="seasonDesc">Analyzing market conditions...</p>
+          </div>
+        </div>
+        <div class="season-tips" id="seasonTips">
+          <h4>💡 Tips for This Season</h4>
+          <ul id="tipsList">
+            <li>Loading recommendations...</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Application Tracker - BESTIEJOB | Manage Your Job Search</title>
+  <meta name="description" content="Track your job applications, interviews, and offers. Manage your entire job search pipeline in one place." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="nav-menu">
+    <a href="/">Home</a>
+    <a href="/findjobs/">Find Jobs</a>
+    <a href="/salary/">Salaries</a>
+    <a href="/companies/">Companies</a>
+    <a href="/career/">Career</a>
+    <a href="/trends/">Trends</a>
+    <a href="/tracker/" class="active">Tracker</a>
+  </nav>
+
+  <main class="container">
+    <header class="header">
+      <h1>📋 Application Tracker</h1>
+      <p class="subhead">Manage your job search pipeline</p>
+    </header>
+
+    <section class="stats-dashboard" id="pipelineStats">
+      <div class="stat-card">
+        <div class="stat-value" id="totalApps">0</div>
+        <div class="stat-label">Total</div>
+      </div>
+      <div class="stat-card status-applied">
+        <div class="stat-value" id="appliedCount">0</div>
+        <div class="stat-label">Applied</div>
+      </div>
+      <div class="stat-card status-interview">
+        <div class="stat-value" id="interviewCount">0</div>
+        <div class="stat-label">Interviewing</div>
+      </div>
+      <div class="stat-card status-offer">
+        <div class="stat-value" id="offerCount">0</div>
+        <div class="stat-label">Offers</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="tracker-header">
+        <h2 class="section-title">Your Applications</h2>
+        <button id="addAppBtn" class="add-btn">+ Add Application</button>
+      </div>
+
+      <div class="tracker-filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="applied">Applied</button>
+        <button class="filter-btn" data-filter="phone">Phone Screen</button>
+        <button class="filter-btn" data-filter="technical">Technical</button>
+        <button class="filter-btn" data-filter="onsite">On-site</button>
+        <button class="filter-btn" data-filter="offer">Offer</button>
+        <button class="filter-btn" data-filter="rejected">Rejected</button>
+      </div>
+
+      <div class="applications-list" id="applicationsList">
+        <div class="empty-state">
+          <div class="empty-icon">📋</div>
+          <h3>No applications yet</h3>
+          <p>Start tracking your job search by adding your first application.</p>
+          <button class="add-btn" onclick="showAddModal()">Add Application</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2 class="section-title">📅 Upcoming</h2>
+      <div class="upcoming-list" id="upcomingList">
+        <p class="empty-text">No upcoming interviews scheduled</p>
+      </div>
+    </section>
+
+    <section class="two-col">
+      <div class="panel">
+        <h2 class="section-title">📊 Response Rate</h2>
+        <div class="response-stats" id="responseStats">
+          <div class="response-item">
+            <span class="response-label">Application to Interview</span>
+            <div class="response-bar">
+              <div class="response-fill" id="appToInterview" style="width: 0%"></div>
+            </div>
+            <span class="response-pct" id="appToInterviewPct">0%</span>
+          </div>
+          <div class="response-item">
+            <span class="response-label">Interview to Offer</span>
+            <div class="response-bar">
+              <div class="response-fill" id="interviewToOffer" style="width: 0%"></div>
+            </div>
+            <span class="response-pct" id="interviewToOfferPct">0%</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2 class="section-title">⏰ Follow-ups Needed</h2>
+        <div class="followup-list" id="followupList">
+          <p class="empty-text">No follow-ups needed</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Add/Edit Application Modal -->
+  <div class="modal" id="appModal">
+    <div class="modal-content">
+      <button class="modal-close">&times;</button>
+      <h2 id="modalTitle">Add Application</h2>
+      <form id="appForm">
+        <input type="hidden" id="appId" />
+        
+        <div class="form-row">
+          <label class="field">
+            <span>Company *</span>
+            <input type="text" id="appCompany" required placeholder="Company name" />
+          </label>
+          <label class="field">
+            <span>Position *</span>
+            <input type="text" id="appPosition" required placeholder="Job title" />
+          </label>
+        </div>
+
+        <div class="form-row">
+          <label class="field">
+            <span>Status *</span>
+            <select id="appStatus" required>
+              <option value="applied">Applied</option>
+              <option value="phone">Phone Screen</option>
+              <option value="technical">Technical Interview</option>
+              <option value="onsite">On-site / Final</option>
+              <option value="offer">Offer Received</option>
+              <option value="accepted">Accepted</option>
+              <option value="rejected">Rejected</option>
+              <option value="withdrawn">Withdrawn</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Date Applied *</span>
+            <input type="date" id="appDate" required />
+          </label>
+        </div>
+
+        <div class="form-row">
+          <label class="field">
+            <span>Job Posting URL</span>
+            <input type="url" id="appUrl" placeholder="https://" />
+          </label>
+          <label class="field">
+            <span>Salary Range</span>
+            <input type="text" id="appSalary" placeholder="$80K - $100K" />
+          </label>
+        </div>
+
+        <div class="form-row">
+          <label class="field">
+            <span>Contact Person</span>
+            <input type="text" id="appContact" placeholder="Recruiter or hiring manager" />
+          </label>
+          <label class="field">
+            <span>Next Interview Date</span>
+            <input type="datetime-local" id="appNextInterview" />
+          </label>
+        </div>
+
+        <label class="field full">
+          <span>Notes</span>
+          <textarea id="appNotes" rows="3" placeholder="Key details, interview feedback, etc."></textarea>
+        </label>
+
+        <div class="form-actions">
+          <button type="button" class="btn-secondary" onclick="closeModal()">Cancel</button>
+          <button type="submit" class="btn-primary">Save Application</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

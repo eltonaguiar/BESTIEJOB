@@ -18,10 +18,24 @@ function sleep(ms) {
 export async function fetchGreenhouseJobs(companySlugs = []) {
   const jobs = [];
   
-  // Popular tech companies using Greenhouse
+  // Verified working Greenhouse board slugs (tested 2026)
   const defaultSlugs = [
-    "stripe", "airbnb", "dropbox", "slack", "shopify", "twilio", 
-    "datadog", "elastic", "mongodb", "hashicorp", "gitlab", "figma"
+    // Major Tech (verified working)
+    "stripe", "airbnb", "dropbox", "twilio", 
+    "datadog", "elastic", "mongodb", "gitlab", "figma",
+    "airtable", "asana", "cloudflare",
+    // Fintech
+    "affirm", "robinhood", "coinbase",
+    // Canadian Companies (verified working)
+    "hootsuite", "benevity", "d2l", "ecobee", "vidyard", "thinkific",
+    // Enterprise/SaaS
+    "intercom", "amplitude", "mixpanel", "postman", "launchdarkly",
+    // AI/ML Companies (verified working)
+    "anthropic",
+    // Others verified working
+    "gusto", "webflow", "notion", "linear", "vercel", "retool",
+    "ramp", "mercury", "braintree", "square", "lyft", "instacart",
+    "doordash", "grubhub", "toast", "chime", "sofi", "nubank"
   ];
   
   const slugs = companySlugs.length > 0 ? companySlugs : defaultSlugs;
@@ -82,8 +96,16 @@ export async function fetchLeverJobs(companySlugs = []) {
   const jobs = [];
   
   const defaultSlugs = [
+    // Major Tech
     "netflix", "uber", "notion", "figma", "linear", "vercel", 
-    "rippling", "deel", "remote", "gusto", "brex", "plaid"
+    "rippling", "deel", "remote", "gusto", "brex", "plaid",
+    // Growing startups
+    "superhuman", "lattice", "loom", "pitch", "rows", "ashby",
+    "webflow", "substack", "cal-com", "dbt-labs", "airbyte",
+    // Canadian/Remote-friendly
+    "clearbit", "dutchie", "netlify", "prisma", "supabase",
+    // Enterprise
+    "twilio", "contentful", "miro", "lucid", "clickup"
   ];
   
   const slugs = companySlugs.length > 0 ? companySlugs : defaultSlugs;
@@ -144,8 +166,15 @@ export async function fetchLeverJobs(companySlugs = []) {
 export async function fetchAshbyJobs(companySlugs = []) {
   const jobs = [];
   
+  // Verified working Ashby board slugs
   const defaultSlugs = [
-    "mercury", "ramp", "retool", "arc", "elevenlabs", "cursor"
+    // AI/ML/Dev Tools (verified working)
+    "mercury", "ramp", "retool", "elevenlabs", "cursor",
+    "replit", "perplexity", "runway",
+    // Fintech
+    "moderntreasury", "column",
+    // Dev/Infrastructure
+    "railway", "render", "neon"
   ];
   
   const slugs = companySlugs.length > 0 ? companySlugs : defaultSlugs;

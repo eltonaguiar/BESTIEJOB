@@ -1,0 +1,432 @@
+:root {
+  --bg: #0b1020;
+  --panel: rgba(255, 255, 255, 0.06);
+  --text: rgba(255, 255, 255, 0.92);
+  --muted: rgba(255, 255, 255, 0.65);
+  --border: rgba(255, 255, 255, 0.12);
+  --accent: #7c5cff;
+  --success: #10b981;
+  --warning: #f59e0b;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+  background: radial-gradient(1100px 600px at 20% 0%, rgba(124, 92, 255, 0.35), transparent),
+              radial-gradient(900px 500px at 90% 10%, rgba(12, 210, 255, 0.18), transparent),
+              var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 24px;
+  padding: 16px 24px;
+  background: rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.nav-menu a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.nav-menu a:hover { color: var(--text); }
+.nav-menu a.active { color: var(--accent); }
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 40px;
+  letter-spacing: 0.4px;
+}
+
+.subhead {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+.panel {
+  margin-top: 18px;
+  padding: 20px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  backdrop-filter: blur(10px);
+}
+
+.panel h2 {
+  margin: 0 0 4px;
+  font-size: 20px;
+}
+
+.section-desc {
+  margin: 0 0 16px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+/* Key Metrics Grid */
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.metric-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 12px;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.metric-card:hover {
+  transform: translateY(-2px);
+}
+
+.metric-card.accent {
+  border-color: var(--accent);
+  background: rgba(124, 92, 255, 0.1);
+}
+
+.metric-icon {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.metric-value {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 4px;
+  font-variant-numeric: tabular-nums;
+}
+
+.metric-card.accent .metric-value {
+  color: var(--accent);
+}
+
+.metric-label {
+  font-size: 11px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Timeline Chart */
+.timeline-chart {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 180px;
+  padding-top: 10px;
+  border-bottom: 1px solid var(--border);
+}
+
+.timeline-bar {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  height: 100%;
+  justify-content: flex-end;
+}
+
+.timeline-bar .bar {
+  width: 100%;
+  background: linear-gradient(to top, var(--accent), rgba(124, 92, 255, 0.4));
+  border-radius: 3px 3px 0 0;
+  min-height: 1px;
+  transition: height 0.4s ease;
+  cursor: pointer;
+}
+
+.timeline-bar .bar:hover {
+  background: linear-gradient(to top, #6a4aee, rgba(124, 92, 255, 0.7));
+}
+
+.timeline-bar .bar-count {
+  font-size: 9px;
+  color: var(--muted);
+}
+
+.timeline-bar .bar-date {
+  font-size: 9px;
+  color: var(--muted);
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  height: 40px;
+  overflow: hidden;
+}
+
+.timeline-bar.today .bar {
+  background: linear-gradient(to top, var(--success), rgba(16, 185, 129, 0.4));
+}
+
+/* Two Column Layout */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.two-col .panel {
+  margin-top: 18px;
+}
+
+/* Donut Chart (CSS-based) */
+.donut-wrapper {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.donut-chart {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.donut-chart::after {
+  content: '';
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: var(--bg);
+}
+
+.donut-legend {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+}
+
+.legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.legend-label {
+  flex: 1;
+  color: var(--text);
+}
+
+.legend-value {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Demand Chart (Horizontal bars) */
+.demand-chart {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.demand-row {
+  display: grid;
+  grid-template-columns: 200px 1fr 60px;
+  gap: 12px;
+  align-items: center;
+}
+
+.demand-label {
+  font-size: 13px;
+  color: var(--text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.demand-track {
+  height: 22px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.demand-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), rgba(124, 92, 255, 0.4));
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+
+.demand-count {
+  font-size: 13px;
+  color: var(--muted);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Work Arrangement Grid */
+.arrangement-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.arrangement-card {
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+}
+
+.arrangement-card .arr-icon {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.arrangement-card .arr-value {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.arrangement-card .arr-pct {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 2px;
+}
+
+.arrangement-card .arr-label {
+  font-size: 12px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.arrangement-card.remote { border-top: 3px solid var(--success); }
+.arrangement-card.remote .arr-value { color: var(--success); }
+.arrangement-card.hybrid { border-top: 3px solid #60a5fa; }
+.arrangement-card.hybrid .arr-value { color: #60a5fa; }
+.arrangement-card.onsite { border-top: 3px solid var(--warning); }
+.arrangement-card.onsite .arr-value { color: var(--warning); }
+
+/* Experience Demand */
+.exp-demand {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.exp-row {
+  display: grid;
+  grid-template-columns: 140px 1fr 80px;
+  gap: 12px;
+  align-items: center;
+}
+
+.exp-label {
+  font-size: 13px;
+  color: var(--text);
+  font-weight: 500;
+}
+
+.exp-track {
+  height: 28px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+}
+
+.exp-fill {
+  height: 100%;
+  border-radius: 6px;
+  transition: width 0.5s ease;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  font-size: 11px;
+  color: white;
+  font-weight: 500;
+}
+
+.exp-fill.entry { background: linear-gradient(90deg, #a78bfa, rgba(167, 139, 250, 0.3)); }
+.exp-fill.mid { background: linear-gradient(90deg, #34d399, rgba(52, 211, 153, 0.3)); }
+.exp-fill.senior { background: linear-gradient(90deg, #fbbf24, rgba(251, 191, 36, 0.3)); }
+.exp-fill.lead { background: linear-gradient(90deg, #f87171, rgba(248, 113, 113, 0.3)); }
+.exp-fill.manager { background: linear-gradient(90deg, #f472b6, rgba(244, 114, 182, 0.3)); }
+
+.exp-count {
+  font-size: 13px;
+  color: var(--muted);
+  text-align: right;
+}
+
+/* Skills Cloud */
+.skills-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+.skill-tag {
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-weight: 500;
+  transition: transform 0.2s;
+  cursor: default;
+  white-space: nowrap;
+}
+
+.skill-tag:hover {
+  transform: scale(1.05);
+}
+
+/* Loading */
+.loading {
+  text-align: center;
+  padding: 40px;
+  color: var(--muted);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .metrics-grid { grid-template-columns: repeat(3, 1fr); }
+  .two-col { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 600px) {
+  .metrics-grid { grid-template-columns: repeat(2, 1fr); }
+  .arrangement-grid { grid-template-columns: 1fr; }
+  .demand-row { grid-template-columns: 120px 1fr 50px; }
+  .exp-row { grid-template-columns: 100px 1fr 60px; }
+  .timeline-chart { height: 120px; }
+}

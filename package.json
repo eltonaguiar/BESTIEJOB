@@ -1,13 +1,17 @@
 {
   "name": "bestiejob",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "node server.js",
     "start": "node server.js",
     "scrape": "node scripts/scrape_jobs.js",
-    "upload": "node scripts/upload.js"
+    "scrape:multi": "node scripts/scrape_jobs.js --multi",
+    "test:scrapers": "node scripts/test_scrapers.mjs",
+    "upload": "node scripts/upload.js",
+    "deploy": "node scripts/upload-gotjob.js",
+    "deploy:gotjob": "node scripts/upload-gotjob.js"
   },
   "dependencies": {
     "axios": "^1.13.4",

@@ -4,8 +4,9 @@ import { stealthFetch, scrapeWithBrowser, isBlocked, gaussianDelay } from "./uti
 
 const rssParser = new Parser({
   headers: {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.0.4"
-  }
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  timeout: 30000
 });
 
 function normalizeText(value) {
@@ -15,7 +16,7 @@ function normalizeText(value) {
 function parseRelativeDate(text) {
   const t = normalizeText(text).toLowerCase();
   if (!t) return null;
-  if (t.includes("just posted") || t.includes("today")) return new Date();
+  if (t.includes("just posted") || t.includes("today") || t.includes("just now")) return new Date();
 
   const hourMatch = t.match(/(\d+)\s*h/);
   if (hourMatch) {
@@ -34,15 +35,75 @@ function parseRelativeDate(text) {
     const weeks = Number(weekMatch[1]);
     return Number.isFinite(weeks) ? new Date(Date.now() - weeks * 7 * 24 * 60 * 60 * 1000) : null;
   }
+  
+  const monthMatch = t.match(/(\d+)\s*mo/);
+  if (monthMatch) {
+    const months = Number(monthMatch[1]);
+    return Number.isFinite(months) ? new Date(Date.now() - months * 30 * 24 * 60 * 60 * 1000) : null;
+  }
+
+  // Try parsing "Posted X days ago" format
+  const agoMatch = t.match(/(\d+)\s*(day|week|month|hour)s?\s*ago/);
+  if (agoMatch) {
+    const num = Number(agoMatch[1]);
+    const unit = agoMatch[2];
+    const multipliers = { hour: 60 * 60 * 1000, day: 24 * 60 * 60 * 1000, week: 7 * 24 * 60 * 60 * 1000, month: 30 * 24 * 60 * 60 * 1000 };
+    return new Date(Date.now() - num * (multipliers[unit] || multipliers.day));
+  }
 
   return null;
 }
 
+// Indeed date filter values (fromage parameter in days)
+const DATE_FILTERS = {
+  "24h": "1",
+  "day": "1",
+  "3d": "3",
+  "week": "7",
+  "7d": "7",
+  "14d": "14",
+  "month": "30",
+  "30d": "30",
+  "any": ""
+};
+
+// Job type filters (jt parameter)
+const JOB_TYPE_FILTERS = {
+  "full-time": "fulltime",
+  "part-time": "parttime",
+  contract: "contract",
+  temporary: "temporary",
+  internship: "internship",
+  permanent: "permanent"
+};
+
+// Experience level (explvl parameter)
+const EXPERIENCE_FILTERS = {
+  entry: "entry_level",
+  mid: "mid_level",
+  senior: "senior_level"
+};
+
+// Default keywords for tech job searches
+const DEFAULT_KEYWORDS = [
+  "ServiceNow developer",
+  "VBA developer",
+  "Alteryx",
+  "full stack developer",
+  "software engineer",
+  "data analyst",
+  "DevOps engineer",
+  "cloud architect",
+  "Python developer",
+  "JavaScript developer",
+  "React developer",
+  "AWS engineer"
+];
+
 const DOMAINS = [
   "ca.indeed.com",
   "www.indeed.com",
-  "uk.indeed.com",
-  "au.indeed.com"
+  "uk.indeed.com"
 ];
 
 let domainRotationIndex = 0;
@@ -53,14 +114,30 @@ function getNextDomain() {
   return domain;
 }
 
-function toIndeedSearchUrl({ keyword, location, start = 0, domain = null }) {
+function toIndeedSearchUrl({ keyword, location, start = 0, domain = null, dateFilter = "week", jobType = null, salary = null }) {
   const params = new URLSearchParams({
     q: keyword,
     l: location,
     start: String(start),
-    fromage: "7",
-    sort: "date"
+    sort: "date" // Sort by date posted
   });
+  
+  // Add date filter (fromage = days ago)
+  const fromage = DATE_FILTERS[dateFilter];
+  if (fromage) {
+    params.set("fromage", fromage);
+  }
+  
+  // Add job type filter
+  if (jobType && JOB_TYPE_FILTERS[jobType]) {
+    params.set("jt", JOB_TYPE_FILTERS[jobType]);
+  }
+  
+  // Add minimum salary filter (if supported)
+  if (salary && Number.isFinite(salary)) {
+    params.set("salary", String(salary));
+  }
+  
   const targetDomain = domain || getNextDomain();
   return `https://${targetDomain}/jobs?${params.toString()}`;
 }
@@ -69,7 +146,9 @@ function mapJob(job) {
   return {
     ...job,
     source: "indeed",
-    id: job.id || `indeed:${job.url || job.title}`
+    id: job.id || `indeed:${job.url || job.title}`,
+    scrapedAt: new Date().toISOString(),
+    employmentType: job.employmentType || "unknown"
   };
 }
 
@@ -83,24 +162,49 @@ function mergeUnique(jobs) {
   });
 }
 
-async function scrapeIndeedHtml({ keyword, location, start = 0, domainIndex = 0 }) {
+async function scrapeIndeedHtml({ keyword, location, start = 0, domainIndex = 0, dateFilter = "week", jobType = null }) {
   const domain = DOMAINS[domainIndex % DOMAINS.length];
-  const url = toIndeedSearchUrl({ keyword, location, start, domain });
+  const url = toIndeedSearchUrl({ keyword, location, start, domain, dateFilter, jobType });
+  
+  console.log(`[Indeed] Fetching: ${url}`);
   
   try {
-    const response = await stealthFetch(url, { maxRetries: 2 });
+    const response = await stealthFetch(url, { 
+      maxRetries: 3,
+      headers: {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "accept-language": "en-CA,en-US;q=0.9,en;q=0.8",
+        "cache-control": "no-cache",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate"
+      }
+    });
     
     if (isBlocked(response.data)) {
       throw new Error("Blocked by anti-bot");
     }
     
-    return extractJobsFromHtml(response.data);
+    const jobs = extractJobsFromHtml(response.data);
+    console.log(`[Indeed] HTML scrape found ${jobs.length} jobs`);
+    return jobs;
   } catch (error) {
-    console.log(`[Indeed] Domain ${domain} failed, trying browser: ${error.message}`);
+    console.log(`[Indeed] Domain ${domain} failed: ${error.message}`);
     
-    await gaussianDelay(3000, 6000);
-    const html = await scrapeWithBrowser(url);
-    return extractJobsFromHtml(html);
+    // Try browser fallback only if Playwright is available
+    try {
+      console.log("[Indeed] Attempting browser fallback...");
+      await gaussianDelay(3000, 6000);
+      const html = await scrapeWithBrowser(url);
+      if (!isBlocked(html)) {
+        const jobs = extractJobsFromHtml(html);
+        console.log(`[Indeed] Browser scrape found ${jobs.length} jobs`);
+        return jobs;
+      }
+    } catch (browserError) {
+      console.warn(`[Indeed] Browser fallback failed: ${browserError.message}`);
+    }
+    
+    return [];
   }
 }
 
@@ -165,15 +269,18 @@ function extractJobsFromHtml(html) {
   return jobs;
 }
 
-async function scrapeIndeedRss({ keyword, location }) {
+async function scrapeIndeedRss({ keyword, location, dateFilter = "week" }) {
   const q = encodeURIComponent(keyword);
   const l = encodeURIComponent(location);
+  const fromage = DATE_FILTERS[dateFilter] || "7";
   
   const endpoints = [
-    `https://ca.indeed.com/rss?q=${q}&l=${l}&sort=date&fromage=7`,
-    `https://rss.indeed.com/rss?q=${q}&l=${l}`,
-    `https://www.indeed.com/rss?q=${q}&l=${l}`
+    `https://ca.indeed.com/rss?q=${q}&l=${l}&sort=date&fromage=${fromage}`,
+    `https://rss.indeed.com/rss?q=${q}&l=${l}&sort=date&fromage=${fromage}`,
+    `https://www.indeed.com/rss?q=${q}&l=${l}&sort=date`
   ];
+  
+  console.log(`[Indeed] Trying RSS feeds for "${keyword}"...`);
   
   for (const url of endpoints) {
     try {
@@ -183,15 +290,17 @@ async function scrapeIndeedRss({ keyword, location }) {
       if (items.length > 0) {
         console.log(`[Indeed] RSS: ${items.length} jobs from ${url}`);
         return items.map((it) => mapJob({
-          title: normalizeText(it.title?.replace(/ - job post$/, "")),
-          company: normalizeText(it.creator || it.author),
-          location,
+          title: normalizeText(it.title?.replace(/ - job post$/, "").replace(/ - .+$/, "")),
+          company: normalizeText(it.creator || it.author || ""),
+          location: location,
           url: normalizeText(it.link),
           postedDate: it.pubDate ? new Date(it.pubDate).toISOString() : null,
-          excerpt: (it.contentSnippet || "").slice(0, 240)
+          excerpt: (it.contentSnippet || it.content || "").slice(0, 240).replace(/<[^>]*>/g, "")
         }));
       }
-    } catch {}
+    } catch (error) {
+      console.warn(`[Indeed] RSS ${url} failed: ${error.message}`);
+    }
   }
   return [];
 }
@@ -258,26 +367,67 @@ async function fallbackApiScrape({ keyword, location }) {
   return [];
 }
 
-export async function scrapeIndeedJobs({ keyword, location, start = 0, maxPages = 3, useFallbackApi = true }) {
+/**
+ * Scrape Indeed jobs with advanced filtering
+ * @param {Object} options - Search options
+ */
+export async function scrapeIndeedJobs(options = {}) {
+  const {
+    keyword = "software engineer",
+    location = "Toronto, ON",
+    start = 0,
+    maxPages = 3,
+    useFallbackApi = true,
+    dateFilter = "week",  // 24h, 3d, week, 14d, month, any
+    jobType = null        // full-time, part-time, contract, etc.
+  } = options;
+  
+  console.log(`[Indeed] Starting scrape for "${keyword}" in "${location}" (date: ${dateFilter})`);
+  
   const results = [];
 
+  // Try RSS feed first (most reliable when available)
   try {
-    const rssJobs = await scrapeIndeedRss({ keyword, location });
+    const rssJobs = await scrapeIndeedRss({ keyword, location, dateFilter });
     results.push(...rssJobs);
-  } catch (e) { console.error("[Indeed] RSS failed:", e.message); }
+    if (rssJobs.length > 0) {
+      console.log(`[Indeed] RSS feed returned ${rssJobs.length} jobs`);
+    }
+  } catch (e) { 
+    console.error("[Indeed] RSS failed:", e.message); 
+  }
 
-  for (let i = 0; i < maxPages; i++) {
-    const offset = start + i * 10;
-    try {
-      if (i > 0) await gaussianDelay(3000, 6000);
-      const htmlJobs = await scrapeIndeedHtml({ keyword, location, start: offset, domainIndex: i });
-      results.push(...htmlJobs);
-      if (htmlJobs.length > 0) break;
-    } catch (e) { console.error(`[Indeed] Page ${i} failed:`, e.message); }
+  // Try HTML scraping if RSS didn't return enough
+  if (results.length < 10) {
+    for (let i = 0; i < maxPages; i++) {
+      const offset = start + i * 10;
+      try {
+        if (i > 0) await gaussianDelay(4000, 8000); // Longer delays to avoid detection
+        const htmlJobs = await scrapeIndeedHtml({ 
+          keyword, 
+          location, 
+          start: offset, 
+          domainIndex: i,
+          dateFilter,
+          jobType
+        });
+        results.push(...htmlJobs);
+        
+        // Stop if we got some results and have enough
+        if (htmlJobs.length > 0 && results.length >= 20) {
+          console.log(`[Indeed] Got ${results.length} total jobs, stopping pagination`);
+          break;
+        }
+      } catch (e) { 
+        console.error(`[Indeed] Page ${i} failed:`, e.message); 
+      }
+    }
   }
 
   const uniqueJobs = mergeUnique(results);
+  console.log(`[Indeed] Total unique jobs: ${uniqueJobs.length}`);
   
+  // Try fallback APIs if no results
   if (useFallbackApi && uniqueJobs.length === 0) {
     console.log("[Indeed] All scraping methods failed, trying fallback APIs...");
     const apiJobs = await fallbackApiScrape({ keyword, location });
@@ -287,6 +437,52 @@ export async function scrapeIndeedJobs({ keyword, location, start = 0, maxPages 
   return uniqueJobs;
 }
 
+/**
+ * Scrape Indeed for multiple keywords at once
+ * @param {Object} options - Search options
+ */
+export async function scrapeIndeedMultiKeyword(options = {}) {
+  const {
+    keywords = DEFAULT_KEYWORDS,
+    location = "Toronto, ON",
+    dateFilter = "week",
+    jobType = "full-time",
+    maxJobsPerKeyword = 20
+  } = options;
+  
+  console.log(`[Indeed] Multi-keyword scrape: ${keywords.length} keywords`);
+  
+  const allJobs = [];
+  
+  for (const keyword of keywords) {
+    try {
+      await gaussianDelay(5000, 10000); // Longer delay between keyword searches
+      const jobs = await scrapeIndeedJobs({
+        keyword,
+        location,
+        dateFilter,
+        jobType,
+        maxPages: 1, // Single page per keyword
+        useFallbackApi: false
+      });
+      
+      const limited = jobs.slice(0, maxJobsPerKeyword);
+      allJobs.push(...limited);
+      console.log(`[Indeed] "${keyword}": ${limited.length} jobs`);
+    } catch (error) {
+      console.error(`[Indeed] Keyword "${keyword}" failed:`, error.message);
+    }
+  }
+  
+  return mergeUnique(allJobs);
+}
+
+// Export filter constants for use by other modules
+export { DATE_FILTERS, JOB_TYPE_FILTERS, EXPERIENCE_FILTERS, DEFAULT_KEYWORDS };
+
 export default {
-  scrapeIndeedJobs
+  scrapeIndeedJobs,
+  scrapeIndeedMultiKeyword,
+  DATE_FILTERS,
+  DEFAULT_KEYWORDS
 };

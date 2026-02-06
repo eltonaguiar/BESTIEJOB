@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Salary Explorer - Toronto Job Salaries | BESTIEJOB</title>
+    <meta name="description" content="Explore Toronto job salaries by role, company, and experience level. Real salary data from 13,000+ job postings." />
+    <link rel="stylesheet" href="styles.css?v=1" />
+  </head>
+  <body>
+    <nav class="nav-menu">
+      <a href="/">Home</a>
+      <a href="/findjobs/">Find Jobs</a>
+      <a href="/gotjob/">Tech Jobs</a>
+      <a href="/salaries/" class="active">Salaries</a>
+      <a href="/analytics/">Analytics</a>
+      <a href="/companies/">Companies</a>
+      <a href="/resources/">Resources</a>
+    </nav>
+    <main class="container">
+      <header class="header">
+        <h1>Salary Explorer</h1>
+        <p class="subhead">Real salary data from Toronto job postings — updated daily</p>
+      </header>
+
+      <section class="panel controls">
+        <div class="controls-row">
+          <label class="field">
+            <span>Search roles</span>
+            <input id="roleSearch" placeholder="e.g. Developer, Manager, Analyst..." />
+          </label>
+          <label class="field">
+            <span>Experience level</span>
+            <select id="expFilter">
+              <option value="all" selected>All levels</option>
+              <option value="entry">Entry / Junior</option>
+              <option value="mid">Mid level</option>
+              <option value="senior">Senior</option>
+              <option value="lead">Lead / Principal</option>
+              <option value="manager">Manager / Director</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Work arrangement</span>
+            <select id="workFilter">
+              <option value="all" selected>All</option>
+              <option value="remote">Remote</option>
+              <option value="hybrid">Hybrid</option>
+              <option value="onsite">Onsite</option>
+            </select>
+          </label>
+          <button id="searchBtn">Explore</button>
+        </div>
+      </section>
+
+      <!-- Overview Stats -->
+      <section class="stats-row" id="statsRow">
+        <div class="stat-card">
+          <div class="stat-value" id="statJobsWithSalary">-</div>
+          <div class="stat-label">Jobs with Salary</div>
+        </div>
+        <div class="stat-card highlight">
+          <div class="stat-value" id="statMedian">-</div>
+          <div class="stat-label">Median Salary</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="statAvg">-</div>
+          <div class="stat-label">Average Salary</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="statRange">-</div>
+          <div class="stat-label">Salary Range</div>
+        </div>
+      </section>
+
+      <!-- Salary Distribution Chart -->
+      <section class="panel chart-section">
+        <h2>Salary Distribution</h2>
+        <p class="chart-subtitle" id="distSubtitle">Annual salaries across all matching roles</p>
+        <div class="bar-chart" id="distChart"></div>
+      </section>
+
+      <!-- Top Paying Roles -->
+      <section class="panel">
+        <h2>Top Paying Roles</h2>
+        <p class="chart-subtitle">Roles ranked by median salary</p>
+        <div class="horizontal-bars" id="topRolesChart"></div>
+      </section>
+
+      <!-- By Experience Level -->
+      <section class="panel">
+        <h2>Salary by Experience Level</h2>
+        <p class="chart-subtitle">How experience affects compensation</p>
+        <div class="exp-grid" id="expGrid"></div>
+      </section>
+
+      <!-- By Company -->
+      <section class="panel">
+        <h2>Top Paying Companies</h2>
+        <p class="chart-subtitle">Companies with the highest average salaries</p>
+        <div class="horizontal-bars" id="companyChart"></div>
+      </section>
+
+      <!-- Salary Table -->
+      <section class="panel">
+        <h2>Detailed Salary Data</h2>
+        <p class="chart-subtitle" id="tableSubtitle">Individual job postings with salary information</p>
+        <div class="table-wrapper">
+          <table class="salary-table" id="salaryTable">
+            <thead>
+              <tr>
+                <th class="sortable" data-sort="title">Role</th>
+                <th class="sortable" data-sort="company">Company</th>
+                <th class="sortable active" data-sort="salary">Salary</th>
+                <th class="sortable" data-sort="level">Level</th>
+                <th>Type</th>
+              </tr>
+            </thead>
+            <tbody id="salaryTableBody"></tbody>
+          </table>
+        </div>
+        <div class="table-footer">
+          <span id="tableCount">0 results</span>
+          <button id="loadMore" style="display:none">Show more</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js?v=1"></script>
+  </body>
+</html>

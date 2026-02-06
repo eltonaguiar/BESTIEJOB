@@ -1,0 +1,386 @@
+:root {
+  --bg: #0b1020;
+  --panel: rgba(255, 255, 255, 0.06);
+  --text: rgba(255, 255, 255, 0.92);
+  --muted: rgba(255, 255, 255, 0.65);
+  --border: rgba(255, 255, 255, 0.12);
+  --accent: #7c5cff;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+  background: radial-gradient(1100px 600px at 20% 0%, rgba(124, 92, 255, 0.35), transparent),
+              radial-gradient(900px 500px at 90% 10%, rgba(12, 210, 255, 0.18), transparent),
+              var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 24px;
+  padding: 16px 24px;
+  background: rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.nav-menu a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.nav-menu a:hover {
+  color: var(--text);
+}
+
+.nav-menu a.active {
+  color: var(--accent);
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 40px;
+  letter-spacing: 0.4px;
+}
+
+.subhead {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+.stats-dashboard {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.stat-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 20px;
+  text-align: center;
+  backdrop-filter: blur(10px);
+}
+
+.stat-value {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--success);
+}
+
+.stat-label {
+  font-size: 13px;
+  color: var(--muted);
+  margin-top: 6px;
+}
+
+.panel {
+  margin-top: 24px;
+  padding: 20px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  backdrop-filter: blur(10px);
+}
+
+.section-title {
+  margin: 0 0 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.loading, .empty, .error {
+  text-align: center;
+  padding: 40px;
+  color: var(--muted);
+}
+
+.error {
+  color: var(--danger);
+}
+
+/* Role Chart */
+.role-chart {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.role-bar {
+  display: grid;
+  grid-template-columns: 160px 1fr 120px;
+  align-items: center;
+  gap: 16px;
+}
+
+.role-name {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.role-viz {
+  position: relative;
+  height: 24px;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.salary-bar {
+  position: absolute;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(124, 92, 255, 0.3), rgba(124, 92, 255, 0.5));
+  border-radius: 12px;
+}
+
+.salary-median {
+  position: absolute;
+  height: 100%;
+  width: 4px;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+.role-stats {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+}
+
+.role-stats .median {
+  font-weight: 600;
+  color: var(--success);
+}
+
+.role-stats .count {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.chart-legend {
+  display: flex;
+  gap: 24px;
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.chart-legend span {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.legend-bar {
+  width: 24px;
+  height: 8px;
+  background: rgba(124, 92, 255, 0.5);
+  border-radius: 4px;
+}
+
+.legend-median {
+  width: 4px;
+  height: 12px;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+/* Company Grid */
+.company-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+.company-card {
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+  transition: all 0.2s;
+}
+
+.company-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.company-name {
+  font-weight: 600;
+  font-size: 14px;
+  margin-bottom: 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.company-salary {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--success);
+}
+
+.company-meta {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+/* Calculator */
+.calculator {
+  display: grid;
+  gap: 24px;
+}
+
+.calc-inputs {
+  display: grid;
+  grid-template-columns: 2fr 1fr auto;
+  gap: 16px;
+  align-items: end;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.field span {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.field input,
+.field select {
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  padding: 10px 12px;
+  background: rgba(0, 0, 0, 0.25);
+  color: var(--text);
+  outline: none;
+  font-size: 14px;
+}
+
+.calc-btn {
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  height: fit-content;
+}
+
+.calc-btn:hover {
+  background: #6a4aee;
+}
+
+.calc-result {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.salary-range {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 16px;
+}
+
+.range-item {
+  text-align: center;
+  padding: 16px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.range-item.highlight {
+  background: rgba(124, 92, 255, 0.2);
+  transform: scale(1.1);
+}
+
+.range-label {
+  display: block;
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.range-value {
+  display: block;
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--success);
+}
+
+.calc-note {
+  text-align: center;
+  margin: 20px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.calc-error {
+  text-align: center;
+  color: var(--muted);
+}
+
+.calc-hint {
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+.trend-placeholder {
+  text-align: center;
+  padding: 40px;
+  color: var(--muted);
+}
+
+@media (max-width: 860px) {
+  .stats-dashboard {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .role-bar {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+  
+  .calc-inputs {
+    grid-template-columns: 1fr;
+  }
+  
+  .salary-range {
+    flex-direction: column;
+  }
+  
+  .range-item.highlight {
+    transform: none;
+    order: -1;
+  }
+}

@@ -76,9 +76,10 @@ export async function fetchWithRetry(url, options = {}) {
   const {
     maxRetries = 3,
     baseDelay = 1000,
-    strategicDelay = 0,
+    strategicDelay: stratDelay = 0,
     useProxy = true,
-    fallbackProxies = true
+    fallbackProxies = true,
+    headers: customHeaders = {}
   } = options;
 
   let lastError;
@@ -90,12 +91,17 @@ export async function fetchWithRetry(url, options = {}) {
 
     for (let attempt = 0; attempt < maxRetries; attempt++) {
       try {
-        if (strategicDelay > 0 && (attempt > 0 || proxyIndex > 0)) {
-          const delay = strategicDelay + Math.random() * 1000;
+        if (stratDelay > 0 && (attempt > 0 || proxyIndex > 0)) {
+          const delay = stratDelay + Math.random() * 1000;
           await sleep(delay);
         }
 
         const config = createAxiosConfig(currentProxy);
+        // Merge custom headers
+        if (customHeaders && Object.keys(customHeaders).length > 0) {
+          config.headers = { ...config.headers, ...customHeaders };
+        }
+        
         const response = await axios.get(url, config);
 
         if (response.status === 200) {

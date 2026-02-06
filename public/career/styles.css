@@ -1,0 +1,388 @@
+:root {
+  --bg: #0b1020;
+  --panel: rgba(255, 255, 255, 0.06);
+  --text: rgba(255, 255, 255, 0.92);
+  --muted: rgba(255, 255, 255, 0.65);
+  --border: rgba(255, 255, 255, 0.12);
+  --accent: #7c5cff;
+  --success: #10b981;
+  --warning: #f59e0b;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+  background: radial-gradient(1100px 600px at 20% 0%, rgba(124, 92, 255, 0.35), transparent),
+              radial-gradient(900px 500px at 90% 10%, rgba(12, 210, 255, 0.18), transparent),
+              var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 24px;
+  padding: 16px 24px;
+  background: rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.nav-menu a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.nav-menu a:hover {
+  color: var(--text);
+}
+
+.nav-menu a.active {
+  color: var(--accent);
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 40px;
+  letter-spacing: 0.4px;
+}
+
+.subhead {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(135deg, rgba(124, 92, 255, 0.2), rgba(12, 210, 255, 0.1));
+  text-align: center;
+  padding: 40px;
+}
+
+.hero h2 {
+  margin: 0 0 16px;
+  font-size: 28px;
+}
+
+.hero p {
+  color: var(--muted);
+  max-width: 600px;
+  margin: 0 auto 32px;
+  line-height: 1.6;
+}
+
+.hero-stats {
+  display: flex;
+  justify-content: center;
+  gap: 48px;
+}
+
+.hero-stats .stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.stat-icon {
+  font-size: 32px;
+}
+
+.stat-text {
+  font-size: 14px;
+  color: var(--muted);
+}
+
+/* Resources Grid */
+.resources-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 24px;
+}
+
+.resource-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 24px;
+  backdrop-filter: blur(10px);
+  transition: all 0.2s;
+}
+
+.resource-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.resource-icon {
+  font-size: 36px;
+  margin-bottom: 12px;
+}
+
+.resource-card h3 {
+  margin: 0 0 16px;
+  font-size: 18px;
+}
+
+.resource-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.resource-list li {
+  margin-bottom: 10px;
+}
+
+.resource-link {
+  color: var(--text);
+  text-decoration: none;
+  font-size: 14px;
+  display: block;
+  padding: 6px 0;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s;
+}
+
+.resource-link:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Panel & Section Title */
+.panel {
+  margin-top: 24px;
+  padding: 24px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  backdrop-filter: blur(10px);
+}
+
+.section-title {
+  margin: 0 0 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* Toronto Resources */
+.toronto-resources {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.toronto-card {
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.toronto-card h4 {
+  margin: 0 0 12px;
+  font-size: 15px;
+}
+
+.toronto-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toronto-card li {
+  font-size: 13px;
+  color: var(--muted);
+  padding: 4px 0;
+}
+
+/* Checklist */
+.checklist-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 24px;
+}
+
+.checklist-phase h4 {
+  margin: 0 0 16px;
+  font-size: 15px;
+  color: var(--accent);
+}
+
+.check-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 6px 0;
+}
+
+.check-item input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.check-item:hover {
+  color: var(--text);
+}
+
+/* Modal */
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.modal-content {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  max-width: 700px;
+  width: 100%;
+  max-height: 80vh;
+  overflow-y: auto;
+  padding: 32px;
+  position: relative;
+}
+
+.modal-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 28px;
+  cursor: pointer;
+  padding: 0;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
+
+.modal-close:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text);
+}
+
+.modal-content h2 {
+  margin: 0 0 20px;
+  padding-right: 40px;
+}
+
+.modal-content h3 {
+  margin: 24px 0 12px;
+  font-size: 17px;
+  color: var(--accent);
+}
+
+.modal-content h4 {
+  margin: 20px 0 10px;
+  font-size: 15px;
+}
+
+.modal-content ul {
+  padding-left: 20px;
+}
+
+.modal-content li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.template-box {
+  background: rgba(124, 92, 255, 0.1);
+  border-left: 3px solid var(--accent);
+  padding: 16px;
+  border-radius: 0 8px 8px 0;
+  margin: 12px 0;
+}
+
+.template-box p {
+  margin: 0;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.keyword-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 16px;
+  margin: 16px 0;
+}
+
+.keyword-category {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.keyword-category h4 {
+  margin: 0 0 8px;
+  color: var(--accent);
+}
+
+.keyword-category p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+}
+
+.comparison-table th,
+.comparison-table td {
+  text-align: left;
+  padding: 10px;
+  border-bottom: 1px solid var(--border);
+  font-size: 14px;
+}
+
+.comparison-table th {
+  color: var(--muted);
+  font-weight: 500;
+}
+
+@media (max-width: 860px) {
+  .hero-stats {
+    flex-direction: column;
+    gap: 24px;
+  }
+  
+  .resources-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .modal-content {
+    padding: 20px;
+  }
+}
