@@ -116,7 +116,7 @@ function isGenericLink(job) {
 
   const url = job.url.toLowerCase();
 
-  // Generic career page patterns
+  // Generic career page patterns (endings)
   const genericPatterns = [
     '/careers/',
     '/careers',
@@ -129,7 +129,12 @@ function isGenericLink(job) {
     '/join-us/',
     '/join-us',
     '/work-with-us/',
-    '/work-with-us'
+    '/work-with-us',
+    '/careers.html',
+    '/careers.aspx',
+    '/careers.php',
+    '/jobs.html',
+    '/jobs.aspx'
   ];
 
   // Check if URL ends with generic pattern (no specific job ID)
@@ -141,12 +146,29 @@ function isGenericLink(job) {
 
   // Check for very short URLs that are likely generic
   // e.g., "https://company.com/careers" with no additional path
-  const urlObj = new URL(job.url);
-  const pathParts = urlObj.pathname.split('/').filter(p => p.length > 0);
+  try {
+    const urlObj = new URL(job.url);
+    const pathParts = urlObj.pathname.split('/').filter(p => p.length > 0);
 
-  // If path is just "careers" or "jobs" with nothing after, it's generic
-  if (pathParts.length === 1 && genericPatterns.some(p => p.includes(pathParts[0]))) {
-    return true;
+    // If path is just "careers" or "jobs" with nothing after, it's generic
+    if (pathParts.length === 1 && genericPatterns.some(p => p.includes(pathParts[0]))) {
+      return true;
+    }
+
+    // Check if URL contains a job ID pattern
+    // Valid job URLs typically have: /job/123456 or /jobs/title-here/id or /apply/12345
+    const hasJobId = /\/(job|jobs|apply|position|posting|vacancy|opening)\/[^/]+\/[^/]*\d+/.test(url) ||
+      /\/(job|jobs|apply|position|posting|vacancy|opening)\/\d+/.test(url) ||
+      /[?&](id|jobid|job_id|position|posting)=\d+/.test(url);
+
+    // If URL has career/jobs path but NO job ID, it's likely generic
+    const hasCareerPath = /\/(career|careers|job|jobs|opportunities|work-with-us|join-us)/.test(url);
+    if (hasCareerPath && !hasJobId && pathParts.length <= 2) {
+      return true;
+    }
+  } catch (e) {
+    // Invalid URL, can't determine
+    return false;
   }
 
   return false;
@@ -498,8 +520,10 @@ function toggleSaveJob(job) {
 
 function updateSavedCount() {
   const count = savedJobs.length;
-  el("savedCount").textContent = count;
-  el("savedJobsCount").textContent = count;
+  const savedCountEl = el("savedCount");
+  const savedJobsCountEl = el("savedJobsCount");
+  if (savedCountEl) savedCountEl.textContent = count;
+  if (savedJobsCountEl) savedJobsCountEl.textContent = count;
 }
 
 function renderSavedJobs() {
