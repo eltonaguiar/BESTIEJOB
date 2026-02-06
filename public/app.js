@@ -159,6 +159,9 @@ function bind() {
   el("sourceJobbank").addEventListener("change", () => render(filterJobs()));
   el("sourceLinkedin").addEventListener("change", () => render(filterJobs()));
   el("sourceRemoteok").addEventListener("change", () => render(filterJobs()));
+  el("sourceWeworkremotely").addEventListener("change", () => render(filterJobs()));
+  el("sourceRemotive").addEventListener("change", () => render(filterJobs()));
+  el("sourceJobicy").addEventListener("change", () => render(filterJobs()));
 }
 
 async function loadAndRender() {
