@@ -57,6 +57,8 @@ function filterJobs() {
   // Source filters
   const sources = [];
   if (el("sourceAdzuna").checked) sources.push("adzuna");
+  if (el("sourceGreenhouse").checked) sources.push("greenhouse");
+  if (el("sourceAshby").checked) sources.push("ashby");
   if (el("sourceJobbank").checked) sources.push("jobbank");
   if (el("sourceLinkedin").checked) sources.push("linkedin");
   if (el("sourceRemoteok").checked) sources.push("remoteok");
@@ -152,6 +154,8 @@ function bind() {
   
   // Source filter listeners
   el("sourceAdzuna").addEventListener("change", () => render(filterJobs()));
+  el("sourceGreenhouse").addEventListener("change", () => render(filterJobs()));
+  el("sourceAshby").addEventListener("change", () => render(filterJobs()));
   el("sourceJobbank").addEventListener("change", () => render(filterJobs()));
   el("sourceLinkedin").addEventListener("change", () => render(filterJobs()));
   el("sourceRemoteok").addEventListener("change", () => render(filterJobs()));
