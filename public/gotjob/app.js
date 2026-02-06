@@ -912,6 +912,55 @@ function render(data) {
     excerpt.textContent = decodeHtmlEntities(j.excerpt || "").substring(0, 200);
 
     card.appendChild(titleRow);
+
+    // Badges row (freshness, salary disclosure, remote)
+    const badgesRow = document.createElement("div");
+    badgesRow.className = "badges-row";
+
+    // Freshness badge
+    const postedDate = new Date(j.postedDate || j.scrapedAt);
+    if (!isNaN(postedDate.getTime())) {
+      const hoursAgo = Math.floor((Date.now() - postedDate) / (1000 * 60 * 60));
+      if (hoursAgo < 24) {
+        const freshBadge = document.createElement("span");
+        freshBadge.className = "badge badge-fresh";
+        if (hoursAgo < 1) {
+          freshBadge.textContent = "Just posted";
+        } else if (hoursAgo === 1) {
+          freshBadge.textContent = "Posted 1h ago";
+        } else {
+          freshBadge.textContent = `Posted ${hoursAgo}h ago`;
+        }
+        badgesRow.appendChild(freshBadge);
+      }
+    }
+
+    // Salary disclosed badge
+    if (salaryText) {
+      const salaryBadge = document.createElement("span");
+      salaryBadge.className = "badge badge-salary";
+      salaryBadge.textContent = "💰 Salary disclosed";
+      salaryBadge.title = salaryText;
+      badgesRow.appendChild(salaryBadge);
+    }
+
+    // Remote/Hybrid badge
+    if (workArr === 'remote') {
+      const remoteBadge = document.createElement("span");
+      remoteBadge.className = "badge badge-remote";
+      remoteBadge.textContent = "🏠 Remote";
+      badgesRow.appendChild(remoteBadge);
+    } else if (workArr === 'hybrid') {
+      const hybridBadge = document.createElement("span");
+      hybridBadge.className = "badge badge-hybrid";
+      hybridBadge.textContent = "🔀 Hybrid";
+      badgesRow.appendChild(hybridBadge);
+    }
+
+    if (badgesRow.children.length > 0) {
+      card.appendChild(badgesRow);
+    }
+
     card.appendChild(tags);
     card.appendChild(excerpt);
     list.appendChild(card);
