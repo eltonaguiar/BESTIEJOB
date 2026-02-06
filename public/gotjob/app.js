@@ -111,13 +111,28 @@ function looksFullTime(text) {
 }
 
 // Detect if a job URL is a generic career page (not a specific job posting)
+// Uses multi-factor validation: URL patterns, job IDs, title quality, and field presence
 function isGenericLink(job) {
   if (!job.url) return false;
 
   const url = job.url.toLowerCase();
+  const title = (job.title || '').toLowerCase().trim();
+  const excerpt = (job.excerpt || '').toLowerCase();
 
-  // Generic career page patterns (endings)
-  const genericPatterns = [
+  // RULE 1: Check for Job ID in URL (strongest positive signal)
+  // Valid job URLs have patterns like: /job/123456, /apply/12345, ?id=123, /1360702300/
+  const hasJobIdInUrl =
+    /\/(job|jobs|apply|position|posting|vacancy|opening|career)\/([\w-]+\/)*\d+/i.test(url) ||
+    /[?&](id|jobid|job_id|position|posting|req|requisition)=[\w-]+/i.test(url) ||
+    /\/\d{5,}/i.test(url); // Long numeric IDs like /1360702300/
+
+  // If URL has a clear job ID, it's almost certainly valid
+  if (hasJobIdInUrl) {
+    return false;
+  }
+
+  // RULE 2: Generic URL patterns (endings)
+  const genericUrlPatterns = [
     '/careers/',
     '/careers',
     '/jobs/',
@@ -134,43 +149,90 @@ function isGenericLink(job) {
     '/careers.aspx',
     '/careers.php',
     '/jobs.html',
-    '/jobs.aspx'
+    '/jobs.aspx',
+    '/talent/',
+    '/talent',
+    '/working-here/',
+    '/working-here'
   ];
 
-  // Check if URL ends with generic pattern (no specific job ID)
-  for (const pattern of genericPatterns) {
-    if (url.endsWith(pattern) || url.endsWith(pattern + '/')) {
-      return true;
-    }
+  // Check if URL ends with generic pattern
+  const endsWithGeneric = genericUrlPatterns.some(pattern =>
+    url.endsWith(pattern) || url.endsWith(pattern + '/')
+  );
+
+  if (endsWithGeneric) {
+    return true;
   }
 
-  // Check for very short URLs that are likely generic
-  // e.g., "https://company.com/careers" with no additional path
+  // RULE 3: Check URL path structure
   try {
     const urlObj = new URL(job.url);
     const pathParts = urlObj.pathname.split('/').filter(p => p.length > 0);
 
     // If path is just "careers" or "jobs" with nothing after, it's generic
-    if (pathParts.length === 1 && genericPatterns.some(p => p.includes(pathParts[0]))) {
+    if (pathParts.length <= 1 && genericUrlPatterns.some(p => p.includes(pathParts[0]))) {
       return true;
     }
 
-    // Check if URL contains a job ID pattern
-    // Valid job URLs typically have: /job/123456 or /jobs/title-here/id or /apply/12345
-    const hasJobId = /\/(job|jobs|apply|position|posting|vacancy|opening)\/[^/]+\/[^/]*\d+/.test(url) ||
-      /\/(job|jobs|apply|position|posting|vacancy|opening)\/\d+/.test(url) ||
-      /[?&](id|jobid|job_id|position|posting)=\d+/.test(url);
-
-    // If URL has career/jobs path but NO job ID, it's likely generic
-    const hasCareerPath = /\/(career|careers|job|jobs|opportunities|work-with-us|join-us)/.test(url);
-    if (hasCareerPath && !hasJobId && pathParts.length <= 2) {
+    // If URL has career path but NO job ID and path is very short, likely generic
+    const hasCareerPath = /\/(career|careers|job|jobs|opportunities|work-with-us|join-us|talent)/i.test(url);
+    if (hasCareerPath && pathParts.length <= 2) {
       return true;
     }
   } catch (e) {
-    // Invalid URL, can't determine
+    // Invalid URL, can't determine structure
+  }
+
+  // RULE 4: Strict Title Quality Check
+  // Generic titles that indicate career portals, not specific jobs
+  const genericTitles = [
+    'careers',
+    'career',
+    'jobs',
+    'job opportunities',
+    'join us',
+    'join our team',
+    'work with us',
+    'working here',
+    'life at',
+    'our people',
+    'talent',
+    'employment',
+    'current openings',
+    'open positions',
+    'view all jobs',
+    'search jobs',
+    'career opportunities'
+  ];
+
+  // Check if title is EXACTLY a generic term (strict matching)
+  const titleIsGeneric = genericTitles.some(generic => title === generic);
+
+  // RULE 5: Check for Job-Specific Fields
+  // Real job postings typically have these indicators
+  const combined = title + ' ' + excerpt;
+  const hasJobSpecificFields =
+    /location|department|posted|employment type|full-time|part-time|contract|remote|hybrid|salary|apply now|submit application/i.test(combined);
+
+  // RULE 6: Check for Structured Data Indicators
+  const hasStructuredData =
+    /@type.*jobposting/i.test(excerpt) ||
+    /schema\.org\/jobposting/i.test(excerpt) ||
+    /og:type.*job/i.test(excerpt);
+
+  // If has structured data, it's likely valid
+  if (hasStructuredData) {
     return false;
   }
 
+  // DECISION LOGIC
+  // Flag as GENERIC if title is generic AND no job-specific fields
+  if (titleIsGeneric && !hasJobSpecificFields) {
+    return true;
+  }
+
+  // Default: not generic
   return false;
 }
 
