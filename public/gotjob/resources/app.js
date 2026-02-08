@@ -1,736 +1,791 @@
-// Career Resources App
+// Job Resources Database - Job Boards & IT Recruiting Firms
 
-// Resource data
-const resources = [
-    {
-        id: 1,
-        title: 'Crafting the Perfect Resume for Toronto Tech Jobs',
-        excerpt: 'Learn how to create a resume that stands out in Toronto\'s competitive tech market. Includes ATS optimization tips and real examples.',
-        category: 'resume',
-        icon: '📝',
-        readTime: '8 min',
-        featured: true,
-        content: `
-      <h2>Introduction</h2>
-      <p>In Toronto's competitive tech market, your resume is your first impression. This guide will help you create a resume that gets noticed by both ATS systems and hiring managers.</p>
-      
-      <h2>Key Components</h2>
-      <h3>1. Contact Information</h3>
-      <ul>
-        <li>Full name and professional title</li>
-        <li>Toronto-based phone number</li>
-        <li>Professional email address</li>
-        <li>LinkedIn profile URL</li>
-        <li>GitHub/Portfolio (for tech roles)</li>
-      </ul>
-      
-      <h3>2. Professional Summary</h3>
-      <p>Write a compelling 3-4 sentence summary that highlights:</p>
-      <ul>
-        <li>Your years of experience</li>
-        <li>Key technical skills</li>
-        <li>Major achievements</li>
-        <li>What you're looking for</li>
-      </ul>
-      
-      <h3>3. Work Experience</h3>
-      <p>Use the STAR method to describe your accomplishments:</p>
-      <ul>
-        <li><strong>Situation:</strong> Context of the challenge</li>
-        <li><strong>Task:</strong> Your responsibility</li>
-        <li><strong>Action:</strong> What you did</li>
-        <li><strong>Result:</strong> Quantifiable outcomes</li>
-      </ul>
-      
-      <h2>ATS Optimization Tips</h2>
-      <ul>
-        <li>Use standard section headings (Experience, Education, Skills)</li>
-        <li>Include keywords from the job description</li>
-        <li>Avoid tables, images, and complex formatting</li>
-        <li>Use standard fonts (Arial, Calibri, Times New Roman)</li>
-        <li>Save as .docx or PDF</li>
-      </ul>
-      
-      <h2>Toronto-Specific Tips</h2>
-      <ul>
-        <li>Highlight experience with Canadian companies</li>
-        <li>Mention work authorization status if applicable</li>
-        <li>Include bilingual skills (English/French) if relevant</li>
-        <li>Reference Toronto tech community involvement</li>
-      </ul>
-      
-      <blockquote>
-        "A great resume is not about listing everything you've done—it's about showcasing the impact you've made."
-      </blockquote>
-      
-      <h2>Next Steps</h2>
-      <p>Ready to build your resume? Use our <a href="/resume-builder/">Resume Builder</a> to create a professional resume in minutes.</p>
-    `
-    },
-    {
-        id: 2,
-        title: 'Mastering the Virtual Interview',
-        excerpt: 'Virtual interviews are here to stay. Learn best practices for video interviews, from technical setup to body language.',
-        category: 'interview',
-        icon: '🎥',
-        readTime: '6 min',
-        featured: true,
-        content: `
-      <h2>Technical Setup</h2>
-      <h3>Before the Interview</h3>
-      <ul>
-        <li>Test your camera and microphone</li>
-        <li>Ensure stable internet connection</li>
-        <li>Download and test the video platform</li>
-        <li>Have a backup device ready</li>
-        <li>Close unnecessary applications</li>
-      </ul>
-      
-      <h3>Environment</h3>
-      <ul>
-        <li>Choose a quiet, well-lit space</li>
-        <li>Use a neutral background</li>
-        <li>Position camera at eye level</li>
-        <li>Ensure good lighting (face the light source)</li>
-        <li>Minimize background noise</li>
-      </ul>
-      
-      <h2>During the Interview</h2>
-      <h3>Body Language</h3>
-      <ul>
-        <li>Look at the camera, not the screen</li>
-        <li>Sit up straight and lean slightly forward</li>
-        <li>Use hand gestures naturally</li>
-        <li>Smile and show enthusiasm</li>
-        <li>Avoid fidgeting</li>
-      </ul>
-      
-      <h3>Communication Tips</h3>
-      <ul>
-        <li>Speak clearly and at a moderate pace</li>
-        <li>Pause before answering to gather thoughts</li>
-        <li>Use the mute button when not speaking</li>
-        <li>Have notes nearby (but don't read from them)</li>
-        <li>Ask for clarification if needed</li>
-      </ul>
-      
-      <h2>Common Pitfalls to Avoid</h2>
-      <ul>
-        <li>Poor lighting or camera angle</li>
-        <li>Distracting background</li>
-        <li>Not testing technology beforehand</li>
-        <li>Multitasking during the interview</li>
-        <li>Forgetting to mute notifications</li>
-      </ul>
-      
-      <h2>Practice Makes Perfect</h2>
-      <p>Record yourself answering common interview questions to identify areas for improvement. Check out our <a href="/interview-prep/">Interview Prep Center</a> for practice questions.</p>
-    `
-    },
-    {
-        id: 3,
-        title: 'Negotiating Your Salary in Toronto',
-        excerpt: 'Understand your worth and learn effective strategies for salary negotiation in Toronto\'s creative and tech industries.',
-        category: 'salary',
-        icon: '💰',
-        readTime: '10 min',
-        featured: true,
-        content: `
-      <h2>Know Your Worth</h2>
-      <p>Before entering negotiations, research salary ranges for your role in Toronto. Use our <a href="/salary-insights/">Salary Insights</a> tool to see current market rates.</p>
-      
-      <h2>When to Negotiate</h2>
-      <ul>
-        <li><strong>After receiving an offer:</strong> Never negotiate before you have a written offer</li>
-        <li><strong>During annual reviews:</strong> Come prepared with accomplishments</li>
-        <li><strong>When taking on new responsibilities:</strong> Document the added value</li>
-      </ul>
-      
-      <h2>Negotiation Strategies</h2>
-      <h3>1. Do Your Research</h3>
-      <ul>
-        <li>Research industry standards for your role</li>
-        <li>Consider Toronto's cost of living</li>
-        <li>Factor in your experience level</li>
-        <li>Account for company size and funding stage</li>
-      </ul>
-      
-      <h3>2. Know Your Numbers</h3>
-      <ul>
-        <li><strong>Target salary:</strong> Your ideal compensation</li>
-        <li><strong>Acceptable range:</strong> What you'd be happy with</li>
-        <li><strong>Walk-away point:</strong> Your minimum acceptable offer</li>
-      </ul>
-      
-      <h3>3. Consider Total Compensation</h3>
-      <p>Salary is just one component. Also negotiate:</p>
-      <ul>
-        <li>Signing bonus</li>
-        <li>Stock options or equity</li>
-        <li>Annual bonus structure</li>
-        <li>Benefits (health, dental, vision)</li>
-        <li>RRSP matching</li>
-        <li>Professional development budget</li>
-        <li>Remote work flexibility</li>
-        <li>Vacation days</li>
-      </ul>
-      
-      <h2>Effective Phrases</h2>
-      <blockquote>
-        "Based on my research and experience, I was expecting a salary in the range of $X to $Y. Is there flexibility in the current offer?"
-      </blockquote>
-      
-      <blockquote>
-        "I'm excited about this opportunity. Can we discuss the total compensation package to ensure it aligns with market rates for this role in Toronto?"
-      </blockquote>
-      
-      <h2>What Not to Do</h2>
-      <ul>
-        <li>Don't accept the first offer immediately</li>
-        <li>Don't reveal your current salary</li>
-        <li>Don't make ultimatums</li>
-        <li>Don't negotiate via email if possible</li>
-        <li>Don't compare yourself to colleagues</li>
-      </ul>
-      
-      <h2>Toronto-Specific Considerations</h2>
-      <ul>
-        <li>Cost of living is high—factor in housing costs</li>
-        <li>TTC commute costs vs. remote work</li>
-        <li>Provincial tax rates in Ontario</li>
-        <li>Competitive market for tech talent</li>
-      </ul>
-    `
-    },
-    {
-        id: 4,
-        title: 'Building Your Professional Network in Toronto',
-        excerpt: 'Networking is crucial for career growth. Discover Toronto\'s best tech and creative networking events and strategies.',
-        category: 'networking',
-        icon: '🤝',
-        readTime: '7 min',
-        content: `
-      <h2>Why Networking Matters</h2>
-      <p>In Toronto's tight-knit tech and creative communities, many opportunities come through personal connections. Building a strong network can lead to job offers, mentorship, and valuable industry insights.</p>
-      
-      <h2>Toronto Networking Events</h2>
-      <h3>Tech Meetups</h3>
-      <ul>
-        <li>Toronto JS</li>
-        <li>Toronto Python</li>
-        <li>Product Tank Toronto</li>
-        <li>Toronto Machine Learning</li>
-        <li>Women in Tech Toronto</li>
-      </ul>
-      
-      <h3>Creative Industry Events</h3>
-      <ul>
-        <li>FITC Toronto</li>
-        <li>Toronto Design Offsite</li>
-        <li>Creative Mornings Toronto</li>
-        <li>AIGA Toronto events</li>
-      </ul>
-      
-      <h3>General Professional Events</h3>
-      <ul>
-        <li>Toronto Startup Drinks</li>
-        <li>Collision Conference</li>
-        <li>TechTO</li>
-        <li>Elevate Tech Festival</li>
-      </ul>
-      
-      <h2>Online Networking</h2>
-      <h3>LinkedIn Strategies</h3>
-      <ul>
-        <li>Optimize your profile with Toronto keywords</li>
-        <li>Engage with Toronto tech/creative content</li>
-        <li>Join Toronto-based groups</li>
-        <li>Share your insights and projects</li>
-        <li>Connect with 2nd-degree connections</li>
-      </ul>
-      
-      <h3>Twitter/X</h3>
-      <ul>
-        <li>Follow Toronto tech leaders</li>
-        <li>Participate in #TOtech conversations</li>
-        <li>Share your work and insights</li>
-        <li>Engage with local companies</li>
-      </ul>
-      
-      <h2>Effective Networking Tips</h2>
-      <ol>
-        <li><strong>Be genuine:</strong> Focus on building relationships, not just collecting contacts</li>
-        <li><strong>Give before you ask:</strong> Offer value to others first</li>
-        <li><strong>Follow up:</strong> Send a message within 24 hours of meeting someone</li>
-        <li><strong>Stay in touch:</strong> Regularly engage with your network</li>
-        <li><strong>Be specific:</strong> When asking for help, be clear about what you need</li>
-      </ol>
-      
-      <h2>Coffee Chats</h2>
-      <p>One-on-one coffee chats are powerful networking tools:</p>
-      <ul>
-        <li>Reach out to people in roles you aspire to</li>
-        <li>Prepare thoughtful questions</li>
-        <li>Meet in person when possible (Toronto has great coffee shops!)</li>
-        <li>Respect their time (30 minutes max)</li>
-        <li>Send a thank-you note afterward</li>
-      </ul>
-      
-      <h2>Building Your Personal Brand</h2>
-      <ul>
-        <li>Maintain an updated portfolio or GitHub</li>
-        <li>Write blog posts or articles</li>
-        <li>Speak at meetups or conferences</li>
-        <li>Contribute to open source projects</li>
-        <li>Share your expertise on social media</li>
-      </ul>
-    `
-    },
-    {
-        id: 5,
-        title: 'Toronto Tech Market Overview 2026',
-        excerpt: 'Get insights into Toronto\'s thriving tech ecosystem, major employers, and emerging opportunities.',
-        category: 'toronto',
-        icon: '🏙️',
-        readTime: '12 min',
-        content: `
-      <h2>Toronto's Tech Ecosystem</h2>
-      <p>Toronto has emerged as one of North America's leading tech hubs, with a thriving ecosystem of startups, scale-ups, and established tech giants.</p>
-      
-      <h2>Major Tech Employers</h2>
-      <h3>Tech Giants</h3>
-      <ul>
-        <li>Google Canada</li>
-        <li>Microsoft Canada</li>
-        <li>Amazon Toronto</li>
-        <li>Meta (Facebook)</li>
-        <li>Apple</li>
-        <li>Salesforce</li>
-      </ul>
-      
-      <h3>Canadian Tech Leaders</h3>
-      <ul>
-        <li>Shopify</li>
-        <li>Wealthsimple</li>
-        <li>Lightspeed</li>
-        <li>Hootsuite</li>
-        <li>Wave</li>
-        <li>FreshBooks</li>
-      </ul>
-      
-      <h3>Fast-Growing Startups</h3>
-      <ul>
-        <li>Ritual</li>
-        <li>Clearco</li>
-        <li>Properly</li>
-        <li>League</li>
-        <li>Borrowell</li>
-      </ul>
-      
-      <h2>Hot Tech Sectors</h2>
-      <h3>1. Fintech</h3>
-      <p>Toronto is Canada's financial capital, making it a natural hub for financial technology innovation.</p>
-      
-      <h3>2. AI & Machine Learning</h3>
-      <p>With the Vector Institute and strong university programs, Toronto is a global AI leader.</p>
-      
-      <h3>3. E-commerce & Retail Tech</h3>
-      <p>Companies like Shopify have put Toronto on the map for e-commerce innovation.</p>
-      
-      <h3>4. Health Tech</h3>
-      <p>Growing sector with companies focusing on digital health solutions.</p>
-      
-      <h3>5. SaaS</h3>
-      <p>Strong ecosystem of B2B and B2C SaaS companies.</p>
-      
-      <h2>Salary Ranges (2026)</h2>
-      <ul>
-        <li><strong>Junior Developer:</strong> $60K - $80K</li>
-        <li><strong>Mid-Level Developer:</strong> $80K - $120K</li>
-        <li><strong>Senior Developer:</strong> $120K - $180K</li>
-        <li><strong>Engineering Manager:</strong> $140K - $220K</li>
-        <li><strong>Product Manager:</strong> $100K - $160K</li>
-        <li><strong>Senior Product Manager:</strong> $140K - $200K</li>
-        <li><strong>UX Designer:</strong> $70K - $110K</li>
-        <li><strong>Senior UX Designer:</strong> $110K - $150K</li>
-      </ul>
-      
-      <p>For detailed salary insights, check our <a href="/salary-insights/">Salary Insights Dashboard</a>.</p>
-      
-      <h2>Tech Hubs in Toronto</h2>
-      <ul>
-        <li><strong>Downtown Core:</strong> Financial district, major tech offices</li>
-        <li><strong>King West:</strong> Startup hub, creative agencies</li>
-        <li><strong>Liberty Village:</strong> Tech and creative companies</li>
-        <li><strong>MaRS Discovery District:</strong> Innovation hub, startups</li>
-        <li><strong>Waterfront:</strong> Growing tech presence</li>
-      </ul>
-      
-      <h2>Remote Work Trends</h2>
-      <p>Post-pandemic, many Toronto tech companies offer:</p>
-      <ul>
-        <li>Fully remote positions</li>
-        <li>Hybrid work (2-3 days in office)</li>
-        <li>Flexible work arrangements</li>
-        <li>Remote-first culture</li>
-      </ul>
-      
-      <h2>Resources</h2>
-      <ul>
-        <li><strong>Communitech:</strong> Tech community and resources</li>
-        <li><strong>MaRS:</strong> Innovation hub and startup support</li>
-        <li><strong>Vector Institute:</strong> AI research and talent</li>
-        <li><strong>Toronto Tech Slack:</strong> Community discussions</li>
-      </ul>
-    `
-    },
-    {
-        id: 6,
-        title: 'Transitioning to a Management Role',
-        excerpt: 'Moving from individual contributor to manager? Learn what it takes to succeed in a leadership position.',
-        category: 'career',
-        icon: '📈',
-        readTime: '9 min',
-        content: `
-      <h2>Is Management Right for You?</h2>
-      <p>Before pursuing management, consider whether it aligns with your strengths and career goals.</p>
-      
-      <h3>Signs You're Ready</h3>
-      <ul>
-        <li>You enjoy mentoring and coaching others</li>
-        <li>You're interested in strategy and planning</li>
-        <li>You handle conflict well</li>
-        <li>You're comfortable with ambiguity</li>
-        <li>You want to multiply your impact through others</li>
-      </ul>
-      
-      <h3>Common Misconceptions</h3>
-      <ul>
-        <li>Management is not the only path to advancement</li>
-        <li>You'll spend less time on technical work</li>
-        <li>Success is measured differently (team outcomes vs. individual output)</li>
-        <li>You need different skills than what made you successful as an IC</li>
-      </ul>
-      
-      <h2>Key Skills for New Managers</h2>
-      <h3>1. Communication</h3>
-      <ul>
-        <li>One-on-one meetings</li>
-        <li>Giving constructive feedback</li>
-        <li>Active listening</li>
-        <li>Clear expectation setting</li>
-        <li>Transparent decision-making</li>
-      </ul>
-      
-      <h3>2. People Management</h3>
-      <ul>
-        <li>Hiring and onboarding</li>
-        <li>Performance management</li>
-        <li>Career development</li>
-        <li>Conflict resolution</li>
-        <li>Team building</li>
-      </ul>
-      
-      <h3>3. Strategic Thinking</h3>
-      <ul>
-        <li>Setting team goals and priorities</li>
-        <li>Resource allocation</li>
-        <li>Long-term planning</li>
-        <li>Stakeholder management</li>
-        <li>Risk assessment</li>
-      </ul>
-      
-      <h3>4. Delegation</h3>
-      <ul>
-        <li>Identifying what to delegate</li>
-        <li>Matching tasks to team members' strengths</li>
-        <li>Providing context and autonomy</li>
-        <li>Following up without micromanaging</li>
-        <li>Trusting your team</li>
-      </ul>
-      
-      <h2>Your First 90 Days</h2>
-      <h3>Days 1-30: Learn</h3>
-      <ul>
-        <li>Schedule 1:1s with each team member</li>
-        <li>Understand team dynamics and challenges</li>
-        <li>Learn about ongoing projects</li>
-        <li>Identify quick wins</li>
-        <li>Build relationships with stakeholders</li>
-      </ul>
-      
-      <h3>Days 31-60: Plan</h3>
-      <ul>
-        <li>Set clear team goals</li>
-        <li>Establish team processes</li>
-        <li>Address any urgent issues</li>
-        <li>Create a development plan for each team member</li>
-        <li>Define your management style</li>
-      </ul>
-      
-      <h3>Days 61-90: Execute</h3>
-      <ul>
-        <li>Implement new processes</li>
-        <li>Start regular team meetings</li>
-        <li>Make necessary changes</li>
-        <li>Celebrate early wins</li>
-        <li>Gather feedback on your leadership</li>
-      </ul>
-      
-      <h2>Common Pitfalls</h2>
-      <ul>
-        <li><strong>Doing instead of delegating:</strong> Trust your team</li>
-        <li><strong>Avoiding difficult conversations:</strong> Address issues early</li>
-        <li><strong>Playing favorites:</strong> Be fair and consistent</li>
-        <li><strong>Not setting boundaries:</strong> Protect your time</li>
-        <li><strong>Forgetting to manage up:</strong> Keep your manager informed</li>
-      </ul>
-      
-      <h2>Resources for New Managers</h2>
-      <h3>Books</h3>
-      <ul>
-        <li>"The Manager's Path" by Camille Fournier</li>
-        <li>"Radical Candor" by Kim Scott</li>
-        <li>"The First 90 Days" by Michael Watkins</li>
-        <li>"High Output Management" by Andy Grove</li>
-      </ul>
-      
-      <h3>Toronto Management Communities</h3>
-      <ul>
-        <li>Toronto Engineering Leaders</li>
-        <li>Product Management Toronto</li>
-        <li>Women in Leadership Toronto</li>
-      </ul>
-    `
-    },
-    {
-        id: 7,
-        title: 'Portfolio Best Practices for Creatives',
-        excerpt: 'Stand out in Toronto\'s creative industry with a portfolio that showcases your best work and tells your story.',
-        category: 'resume',
-        icon: '🎨',
-        readTime: '8 min',
-        content: `
-      <h2>Your Portfolio is Your Story</h2>
-      <p>A great portfolio doesn't just show what you've done—it demonstrates how you think, solve problems, and create value.</p>
-      
-      <h2>What to Include</h2>
-      <h3>1. Your Best Work</h3>
-      <ul>
-        <li>Quality over quantity (8-12 projects max)</li>
-        <li>Show variety in skills and mediums</li>
-        <li>Include recent work (last 2-3 years)</li>
-        <li>Demonstrate growth and evolution</li>
-      </ul>
-      
-      <h3>2. Case Studies</h3>
-      <p>For each project, include:</p>
-      <ul>
-        <li><strong>Challenge:</strong> What problem were you solving?</li>
-        <li><strong>Process:</strong> How did you approach it?</li>
-        <li><strong>Solution:</strong> What did you create?</li>
-        <li><strong>Results:</strong> What was the impact?</li>
-      </ul>
-      
-      <h3>3. About Section</h3>
-      <ul>
-        <li>Professional photo</li>
-        <li>Compelling bio (2-3 paragraphs)</li>
-        <li>Your design philosophy</li>
-        <li>Skills and tools</li>
-        <li>Contact information</li>
-      </ul>
-      
-      <h2>Portfolio Platforms</h2>
-      <h3>For Designers</h3>
-      <ul>
-        <li><strong>Behance:</strong> Industry standard, great for discovery</li>
-        <li><strong>Dribbble:</strong> Popular for UI/UX designers</li>
-        <li><strong>Adobe Portfolio:</strong> Easy to set up, professional</li>
-        <li><strong>Custom website:</strong> Shows technical skills</li>
-      </ul>
-      
-      <h3>For Developers</h3>
-      <ul>
-        <li><strong>GitHub:</strong> Essential for code samples</li>
-        <li><strong>Personal website:</strong> Showcase projects and blog</li>
-        <li><strong>CodePen:</strong> For front-end work</li>
-        <li><strong>Dev.to:</strong> Technical writing and projects</li>
-      </ul>
-      
-      <h3>For Writers/Content Creators</h3>
-      <ul>
-        <li><strong>Medium:</strong> Publish articles and essays</li>
-        <li><strong>Contently:</strong> Professional portfolio platform</li>
-        <li><strong>Personal blog:</strong> Full control over content</li>
-        <li><strong>LinkedIn:</strong> Share articles and insights</li>
-      </ul>
-      
-      <h2>Design Tips</h2>
-      <ul>
-        <li><strong>Keep it clean:</strong> Let your work be the star</li>
-        <li><strong>Make it fast:</strong> Optimize images and code</li>
-        <li><strong>Mobile-friendly:</strong> Many people will view on mobile</li>
-        <li><strong>Easy navigation:</strong> Clear menu and structure</li>
-        <li><strong>Consistent branding:</strong> Reflect your personal brand</li>
-      </ul>
-      
-      <h2>Common Mistakes</h2>
-      <ul>
-        <li>Including too many projects</li>
-        <li>Not explaining your process</li>
-        <li>Poor quality images or screenshots</li>
-        <li>Outdated work</li>
-        <li>Broken links or slow loading</li>
-        <li>No contact information</li>
-        <li>Generic descriptions</li>
-      </ul>
-      
-      <h2>Tailoring for Toronto Market</h2>
-      <ul>
-        <li>Highlight work for Canadian brands</li>
-        <li>Show understanding of local market</li>
-        <li>Include bilingual work if applicable</li>
-        <li>Reference Toronto design trends</li>
-        <li>Showcase collaboration with local agencies</li>
-      </ul>
-      
-      <h2>Keeping It Updated</h2>
-      <ul>
-        <li>Review quarterly</li>
-        <li>Add new projects as you complete them</li>
-        <li>Remove outdated work</li>
-        <li>Update your bio and skills</li>
-        <li>Check all links and functionality</li>
-      </ul>
-      
-      <h2>Getting Feedback</h2>
-      <ul>
-        <li>Ask peers and mentors for honest feedback</li>
-        <li>Join portfolio review sessions at meetups</li>
-        <li>Test with people outside your industry</li>
-        <li>Track analytics to see what resonates</li>
-      </ul>
-    `
-    },
-    {
-        id: 8,
-        title: 'Understanding Canadian Work Permits',
-        excerpt: 'Navigate the Canadian work permit system and understand your options for working in Toronto.',
-        category: 'toronto',
-        icon: '🍁',
-        readTime: '11 min',
-        content: `
-      <h2>Work Permit Overview</h2>
-      <p>If you're not a Canadian citizen or permanent resident, you'll need a work permit to work in Toronto. Understanding your options is crucial for your job search.</p>
-      
-      <h2>Types of Work Permits</h2>
-      <h3>1. Employer-Specific Work Permit</h3>
-      <ul>
-        <li>Tied to a specific employer</li>
-        <li>Requires a Labour Market Impact Assessment (LMIA) in most cases</li>
-        <li>Valid for the duration specified on the permit</li>
-        <li>Cannot change employers without a new permit</li>
-      </ul>
-      
-      <h3>2. Open Work Permit</h3>
-      <ul>
-        <li>Work for any employer in Canada</li>
-        <li>Available in specific situations (spouse of skilled worker, post-graduation, etc.)</li>
-        <li>More flexibility in job search</li>
-        <li>Easier to change jobs</li>
-      </ul>
-      
-      <h2>Popular Pathways for Tech Workers</h2>
-      <h3>Global Talent Stream (GTS)</h3>
-      <ul>
-        <li>Fast-tracked LMIA processing (10 business days)</li>
-        <li>For highly skilled workers in tech</li>
-        <li>Requires employer participation</li>
-        <li>Competitive salaries required</li>
-      </ul>
-      
-      <h3>Intra-Company Transfer</h3>
-      <ul>
-        <li>For employees of multinational companies</li>
-        <li>Transfer to Canadian branch</li>
-        <li>No LMIA required</li>
-        <li>Must have worked for company for 1+ year</li>
-      </ul>
-      
-      <h3>Post-Graduation Work Permit (PGWP)</h3>
-      <ul>
-        <li>For international students who graduated from Canadian institutions</li>
-        <li>Open work permit</li>
-        <li>Valid for up to 3 years</li>
-        <li>Pathway to permanent residence</li>
-      </ul>
-      
-      <h2>Path to Permanent Residence</h2>
-      <h3>Express Entry</h3>
-      <p>Points-based system for skilled workers:</p>
-      <ul>
-        <li><strong>Federal Skilled Worker Program:</strong> For skilled workers with foreign work experience</li>
-        <li><strong>Canadian Experience Class:</strong> For those with Canadian work experience</li>
-        <li><strong>Federal Skilled Trades Program:</strong> For skilled trades workers</li>
-      </ul>
-      
-      <h3>Provincial Nominee Program (PNP)</h3>
-      <ul>
-        <li>Ontario Immigrant Nominee Program (OINP)</li>
-        <li>Tech Draw stream for in-demand tech occupations</li>
-        <li>Additional points in Express Entry</li>
-      </ul>
-      
-      <h2>Job Search Considerations</h2>
-      <h3>When You Need Sponsorship</h3>
-      <ul>
-        <li>Be upfront about your status</li>
-        <li>Target companies known to sponsor (tech giants, growing startups)</li>
-        <li>Highlight your unique skills and value</li>
-        <li>Network within immigrant communities</li>
-        <li>Consider companies with Global Talent Stream access</li>
-      </ul>
-      
-      <h3>Companies That Commonly Sponsor</h3>
-      <ul>
-        <li>Google, Microsoft, Amazon, Meta</li>
-        <li>Shopify, Wealthsimple, Lightspeed</li>
-        <li>Major banks (RBC, TD, Scotiabank)</li>
-        <li>Fast-growing tech startups</li>
-      </ul>
-      
-      <h2>Important Considerations</h2>
-      <ul>
-        <li><strong>Processing times:</strong> Can vary from weeks to months</li>
-        <li><strong>Costs:</strong> Application fees, legal fees if using immigration lawyer</li>
-        <li><strong>Documentation:</strong> Keep all work permits and related documents</li>
-        <li><strong>Renewal:</strong> Start renewal process 6 months before expiry</li>
-        <li><strong>Implied status:</strong> Can continue working while renewal is processing</li>
-      </ul>
-      
-      <h2>Resources</h2>
-      <ul>
-        <li><strong>IRCC:</strong> Official Immigration, Refugees and Citizenship Canada website</li>
-        <li><strong>Immigration lawyers:</strong> Consider consulting for complex cases</li>
-        <li><strong>Settlement agencies:</strong> Free services for newcomers</li>
-        <li><strong>Online communities:</strong> Reddit r/ImmigrationCanada, Facebook groups</li>
-      </ul>
-      
-      <h2>Tips for Success</h2>
-      <ul>
-        <li>Start the process early</li>
-        <li>Keep copies of all documents</li>
-        <li>Maintain legal status at all times</li>
-        <li>Build Canadian work experience</li>
-        <li>Network within your industry</li>
-        <li>Consider professional credential recognition if needed</li>
-      </ul>
-      
-      <p><em>Note: Immigration laws change frequently. Always check official government sources for the most current information.</em></p>
-    `
-    }
+// Comprehensive database of Canadian job boards and IT recruiting firms
+const jobResources = [
+  // ========== JOB BOARDS - GENERAL ==========
+  {
+    id: 1,
+    name: 'Indeed Canada',
+    url: 'https://ca.indeed.com',
+    category: 'job-board-general',
+    description: 'Canada\'s #1 job site with millions of listings. AI-powered matching, company reviews, and salary insights.',
+    specialties: ['All Industries', 'All Levels', 'Salary Data'],
+    verified: true,
+    featured: true,
+    icon: '🔍'
+  },
+  {
+    id: 2,
+    name: 'Job Bank (Government of Canada)',
+    url: 'https://www.jobbank.gc.ca',
+    category: 'job-board-gov',
+    description: 'Official government job board with 50,000+ verified postings. Essential for newcomers to Canada.',
+    specialties: ['Government', 'All Industries', 'Verified Listings'],
+    verified: true,
+    featured: true,
+    icon: '🍁'
+  },
+  {
+    id: 3,
+    name: 'Eluta',
+    url: 'https://www.eluta.ca',
+    category: 'job-board-general',
+    description: 'Specializes in unadvertised positions by scraping employer websites directly. Unique job listings.',
+    specialties: ['Unadvertised Jobs', 'Direct from Companies'],
+    verified: true,
+    featured: true,
+    icon: '🎯'
+  },
+  {
+    id: 4,
+    name: 'WowJobs',
+    url: 'https://ca.wowjobs.ca',
+    category: 'job-board-general',
+    description: 'Job aggregator with extensive Canadian listings across all industries and experience levels.',
+    specialties: ['Aggregator', 'All Industries'],
+    verified: true,
+    icon: '⭐'
+  },
+  {
+    id: 5,
+    name: 'SimplyHired Canada',
+    url: 'https://www.simplyhired.ca',
+    category: 'job-board-general',
+    description: 'Aggregates 30,000+ jobs from company sites and job boards. Clean interface and salary estimates.',
+    specialties: ['Aggregator', 'Salary Estimates'],
+    verified: true,
+    icon: '📋'
+  },
+  {
+    id: 6,
+    name: 'Workopolis',
+    url: 'https://www.workopolis.com',
+    category: 'job-board-general',
+    description: 'Long-standing Canadian job board connecting local talent with employers. Salary info and company profiles.',
+    specialties: ['Canadian Focus', 'Salary Data'],
+    verified: true,
+    icon: '💼'
+  },
+  {
+    id: 7,
+    name: 'Jobboom',
+    url: 'https://www.jobboom.com',
+    category: 'job-board-general',
+    description: 'Leading Quebec job board serving English and French speakers. 16 employment sectors covered.',
+    specialties: ['Quebec', 'Bilingual', 'All Sectors'],
+    verified: true,
+    icon: '🇫🇷'
+  },
+  {
+    id: 8,
+    name: 'CareerBuilder Canada',
+    url: 'https://www.careerbuilder.ca',
+    category: 'job-board-general',
+    description: 'Major job board with resume builder tools and career resources for Canadian job seekers.',
+    specialties: ['Resume Tools', 'Career Resources'],
+    verified: true,
+    icon: '🏗️'
+  },
+  {
+    id: 9,
+    name: 'CareerBeacon',
+    url: 'https://www.careerbeacon.com',
+    category: 'job-board-general',
+    description: 'Canadian job board with salary information and provincial minimum wage data for 2026.',
+    specialties: ['Salary Data', 'Canadian Focus'],
+    verified: true,
+    icon: '💡'
+  },
+  {
+    id: 10,
+    name: 'Jobmire',
+    url: 'https://www.jobmire.com',
+    category: 'job-board-general',
+    description: 'One of Canada\'s top job websites with 100,000+ listings. Hundreds of new candidates daily.',
+    specialties: ['High Volume', 'All Industries'],
+    verified: true,
+    icon: '🌐'
+  },
+  {
+    id: 11,
+    name: 'Talent.com',
+    url: 'https://ca.talent.com',
+    category: 'job-board-general',
+    description: 'Job search platform with salary research tools and comprehensive company information.',
+    specialties: ['Salary Research', 'Company Info'],
+    verified: true,
+    icon: '💰'
+  },
+  {
+    id: 12,
+    name: 'Jobs.ca',
+    url: 'https://www.jobs.ca',
+    category: 'job-board-general',
+    description: 'Connects job seekers with opportunities across various industries throughout Canada.',
+    specialties: ['All Industries', 'National Coverage'],
+    verified: true,
+    icon: '🇨🇦'
+  },
+  {
+    id: 13,
+    name: 'Monster Canada',
+    url: 'https://www.monster.ca',
+    category: 'job-board-general',
+    description: 'Global job board with extensive career development resources and Canadian job listings.',
+    specialties: ['Career Development', 'International'],
+    verified: true,
+    icon: '👹'
+  },
+  {
+    id: 14,
+    name: 'Glassdoor Canada',
+    url: 'https://www.glassdoor.ca',
+    category: 'job-board-general',
+    description: 'Company reviews, salary transparency, and interview insights. Make informed career decisions.',
+    specialties: ['Company Reviews', 'Salary Transparency', 'Interview Prep'],
+    verified: true,
+    featured: true,
+    icon: '🔎'
+  },
+  {
+    id: 15,
+    name: 'ZipRecruiter Canada',
+    url: 'https://www.ziprecruiter.ca',
+    category: 'job-board-general',
+    description: 'AI-powered job matching from businesses of all sizes across Canada.',
+    specialties: ['AI Matching', 'All Business Sizes'],
+    verified: true,
+    icon: '⚡'
+  },
+
+  // ========== JOB BOARDS - TECH-SPECIFIC ==========
+  {
+    id: 16,
+    name: 'LinkedIn',
+    url: 'https://www.linkedin.com/jobs',
+    category: 'job-board-tech',
+    description: 'Essential professional network and job platform. Networking, company research, and career advancement.',
+    specialties: ['Networking', 'Professional', 'All Industries'],
+    verified: true,
+    featured: true,
+    icon: '💼'
+  },
+  {
+    id: 17,
+    name: 'We Work Remotely',
+    url: 'https://weworkremotely.com',
+    category: 'job-board-tech',
+    description: 'Largest remote work community with tech and creative remote jobs. RSS feed available.',
+    specialties: ['Remote', 'Tech', 'Creative'],
+    verified: true,
+    icon: '🌍'
+  },
+  {
+    id: 18,
+    name: 'RemoteOK',
+    url: 'https://remoteok.com',
+    category: 'job-board-tech',
+    description: 'Remote tech jobs with JSON API. Popular for developers, designers, and digital nomads.',
+    specialties: ['Remote', 'Tech', 'API Available'],
+    verified: true,
+    icon: '🖥️'
+  },
+  {
+    id: 19,
+    name: 'Remotive',
+    url: 'https://remotive.com',
+    category: 'job-board-tech',
+    description: 'Curated remote jobs in tech, marketing, and customer support. JSON API available.',
+    specialties: ['Remote', 'Tech', 'Curated'],
+    verified: true,
+    icon: '🏠'
+  },
+  {
+    id: 20,
+    name: 'Jobicy',
+    url: 'https://jobicy.com',
+    category: 'job-board-tech',
+    description: 'Remote tech jobs with JSON API. Focus on software development and IT roles.',
+    specialties: ['Remote', 'Software Dev', 'IT'],
+    verified: true,
+    icon: '💻'
+  },
+  {
+    id: 21,
+    name: 'FlexJobs',
+    url: 'https://www.flexjobs.com',
+    category: 'job-board-tech',
+    description: 'Subscription service with vetted remote, hybrid, and flexible jobs. Quality over quantity.',
+    specialties: ['Remote', 'Hybrid', 'Vetted', 'Flexible'],
+    verified: true,
+    icon: '✨'
+  },
+  {
+    id: 22,
+    name: 'Google for Jobs',
+    url: 'https://www.google.com/search?q=jobs+near+me',
+    category: 'job-board-tech',
+    description: 'Aggregates jobs from across the web with advanced filters. Centralized search experience.',
+    specialties: ['Aggregator', 'Search Engine', 'All Industries'],
+    verified: true,
+    icon: '🔍'
+  },
+  {
+    id: 23,
+    name: 'AngelList (Wellfound)',
+    url: 'https://wellfound.com',
+    category: 'job-board-tech',
+    description: 'Startup jobs with equity information. Connect with innovative tech companies.',
+    specialties: ['Startups', 'Equity', 'Tech'],
+    verified: true,
+    icon: '🚀'
+  },
+  {
+    id: 24,
+    name: 'Stack Overflow Jobs',
+    url: 'https://stackoverflow.com/jobs',
+    category: 'job-board-tech',
+    description: 'Developer-focused job board from the Stack Overflow community.',
+    specialties: ['Developers', 'Tech Community'],
+    verified: true,
+    icon: '📚'
+  },
+  {
+    id: 25,
+    name: 'EURemote',
+    url: 'https://euremotejobs.com',
+    category: 'job-board-tech',
+    description: 'European remote jobs with RSS feed. Good for Canadian companies hiring internationally.',
+    specialties: ['Remote', 'European', 'International'],
+    verified: true,
+    icon: '🇪🇺'
+  },
+
+  // ========== JOB BOARDS - GOVERNMENT & SPECIALIZED ==========
+  {
+    id: 26,
+    name: 'WorkBC',
+    url: 'https://www.workbc.ca',
+    category: 'job-board-gov',
+    description: 'British Columbia provincial job board verified with National Job Bank. BC-specific resources.',
+    specialties: ['BC', 'Provincial', 'Verified'],
+    verified: true,
+    icon: '🏔️'
+  },
+  {
+    id: 27,
+    name: 'ECO Canada Job Board',
+    url: 'https://www.eco.ca/jobs',
+    category: 'job-board-gov',
+    description: 'Specialized platform for environmental job opportunities across Canada.',
+    specialties: ['Environmental', 'Green Jobs', 'Specialized'],
+    verified: true,
+    icon: '🌱'
+  },
+
+  // ========== IT RECRUITING FIRMS - NATIONAL (TIER 1) ==========
+  {
+    id: 28,
+    name: 'Robert Half Technology',
+    url: 'https://www.roberthalf.com/ca/en',
+    category: 'recruiting-national',
+    description: 'Global leader in IT staffing. 48-hour hiring possible. 2026 Salary Guide available. Hybrid tech/business roles.',
+    specialties: ['IT', 'Finance', 'Legal', 'Healthcare', 'Permanent', 'Contract'],
+    verified: true,
+    featured: true,
+    icon: '🏆'
+  },
+  {
+    id: 29,
+    name: 'Hays Canada',
+    url: 'https://www.hays.ca',
+    category: 'recruiting-national',
+    description: 'Expert tech recruitment in 30+ countries. Data science, software dev, cybersecurity, cloud, DevOps. 2026 Salary Guide.',
+    specialties: ['Tech', 'Data Science', 'Cybersecurity', 'Cloud', 'DevOps'],
+    verified: true,
+    featured: true,
+    icon: '🌟'
+  },
+  {
+    id: 30,
+    name: 'Randstad Canada',
+    url: 'https://www.randstad.ca',
+    category: 'recruiting-national',
+    description: 'Toronto HQ. Randstad Digital for digital transformation. Agile teams, outsourcing. 2026 Salary Guide.',
+    specialties: ['Digital Transformation', 'Agile', 'IT', 'Enterprise'],
+    verified: true,
+    featured: true,
+    icon: '🎯'
+  },
+  {
+    id: 31,
+    name: 'Manpower Canada',
+    url: 'https://www.manpower.ca',
+    category: 'recruiting-national',
+    description: 'Major recruitment partner with national presence. IT and general staffing solutions.',
+    specialties: ['IT', 'General Staffing', 'National'],
+    verified: true,
+    icon: '💪'
+  },
+  {
+    id: 32,
+    name: 'Adecco Canada',
+    url: 'https://www.adecco.ca',
+    category: 'recruiting-national',
+    description: 'Global staffing leader with strong Canadian IT recruitment practice.',
+    specialties: ['IT', 'General Staffing', 'Global'],
+    verified: true,
+    icon: '🌐'
+  },
+
+  // ========== IT RECRUITING FIRMS - NATIONAL (TIER 2) ==========
+  {
+    id: 33,
+    name: 'S.i. Systems',
+    url: 'https://www.sisystems.com',
+    category: 'recruiting-national',
+    description: 'Top-rated Canadian IT staffing agency. 300,000+ IT professionals. Contract, direct hire, payrolling. Toronto & national.',
+    specialties: ['IT', 'Contract', 'Direct Hire', 'Payrolling'],
+    verified: true,
+    featured: true,
+    icon: '🔧'
+  },
+  {
+    id: 34,
+    name: 'Modis / Akkodis Canada',
+    url: 'https://www.akkodis.com/en-ca',
+    category: 'recruiting-national',
+    description: 'Modis merged with AKKA. 35+ years in IT/Engineering staffing. Startups to global enterprises.',
+    specialties: ['IT', 'Engineering', 'Staffing Solutions'],
+    verified: true,
+    icon: '⚙️'
+  },
+  {
+    id: 35,
+    name: 'TEKsystems Canada',
+    url: 'https://www.teksystems.com/en-ca',
+    category: 'recruiting-national',
+    description: 'Mississauga-based. Cloud, data, digital, DevOps, security specializations. Personalized placement support.',
+    specialties: ['Cloud', 'Data', 'Digital', 'DevOps', 'Security'],
+    verified: true,
+    icon: '☁️'
+  },
+  {
+    id: 36,
+    name: 'Insight Global',
+    url: 'https://insightglobal.com/locations/canada',
+    category: 'recruiting-national',
+    description: 'Global staffing agency with Canadian operations. IT, healthcare, and finance solutions.',
+    specialties: ['IT', 'Healthcare', 'Finance', 'Global'],
+    verified: true,
+    icon: '🔍'
+  },
+  {
+    id: 37,
+    name: 'Altis Technology',
+    url: 'https://www.altistechnology.com',
+    category: 'recruiting-national',
+    description: 'Independent Canadian IT recruitment firm. Specialized technology talent placement.',
+    specialties: ['IT', 'Technology', 'Independent'],
+    verified: true,
+    icon: '🎓'
+  },
+  {
+    id: 38,
+    name: 'ITPlacements',
+    url: 'https://www.itplacements.com',
+    category: 'recruiting-national',
+    description: 'Canadian IT recruitment specialist with focus on technology roles.',
+    specialties: ['IT', 'Technology', 'Specialized'],
+    verified: true,
+    icon: '💼'
+  },
+  {
+    id: 39,
+    name: 'Direct IT Recruiting Inc.',
+    url: 'https://www.directitrecruiting.com',
+    category: 'recruiting-national',
+    description: 'Direct IT recruitment services across Canada.',
+    specialties: ['IT', 'Direct Hire', 'Canadian'],
+    verified: true,
+    icon: '🎯'
+  },
+  {
+    id: 40,
+    name: 'emergiTEL',
+    url: 'https://www.emergitel.com',
+    category: 'recruiting-national',
+    description: 'IT and telecommunications recruitment specialist.',
+    specialties: ['IT', 'Telecom', 'Specialized'],
+    verified: true,
+    icon: '📡'
+  },
+  {
+    id: 41,
+    name: 'Aerotek Canada',
+    url: 'https://www.aerotek.com/en-ca',
+    category: 'recruiting-national',
+    description: 'Offices in AB, BC, ON, QC. Focus on industrial, skilled trades, and general staffing.',
+    specialties: ['Industrial', 'Skilled Trades', 'General Staffing'],
+    verified: true,
+    icon: '🏭'
+  },
+
+  // ========== IT RECRUITING FIRMS - TORONTO/GTA FOCUSED ==========
+  {
+    id: 42,
+    name: 'Lock Search Group',
+    url: 'https://www.locksearchgroup.com',
+    category: 'recruiting-toronto',
+    description: 'Toronto-based executive search and recruitment firm.',
+    specialties: ['Executive Search', 'Toronto', 'GTA'],
+    verified: true,
+    icon: '🔐'
+  },
+  {
+    id: 43,
+    name: 'Summit Search Group',
+    url: 'https://www.summitsearchgroup.com',
+    category: 'recruiting-toronto',
+    description: 'Toronto recruitment firm specializing in professional placements.',
+    specialties: ['Professional', 'Toronto', 'Executive'],
+    verified: true,
+    icon: '⛰️'
+  },
+  {
+    id: 44,
+    name: 'Michael Page Canada',
+    url: 'https://www.michaelpage.ca',
+    category: 'recruiting-toronto',
+    description: 'Global recruitment firm with strong Toronto presence. Mid-to-senior level roles.',
+    specialties: ['Mid-Senior Level', 'Toronto', 'Global'],
+    verified: true,
+    icon: '📄'
+  },
+  {
+    id: 45,
+    name: 'TalentGrowth Search',
+    url: 'https://www.talentgrowth.ca',
+    category: 'recruiting-toronto',
+    description: 'Toronto-based talent acquisition and executive search.',
+    specialties: ['Executive Search', 'Talent Acquisition', 'Toronto'],
+    verified: true,
+    icon: '🌱'
+  },
+  {
+    id: 46,
+    name: 'David Aplin Group',
+    url: 'https://www.aplin.com',
+    category: 'recruiting-toronto',
+    description: 'Canadian recruitment firm with Toronto operations.',
+    specialties: ['Professional', 'Toronto', 'Canadian'],
+    verified: true,
+    icon: '👔'
+  },
+  {
+    id: 47,
+    name: 'Hunt Personnel',
+    url: 'https://www.huntpersonnel.com',
+    category: 'recruiting-toronto',
+    description: 'Toronto staffing and recruitment agency.',
+    specialties: ['Staffing', 'Toronto', 'Professional'],
+    verified: true,
+    icon: '🎯'
+  },
+  {
+    id: 48,
+    name: 'Motion Recruitment',
+    url: 'https://www.motionrecruitment.com',
+    category: 'recruiting-toronto',
+    description: 'Tech recruitment with Toronto presence. Active 2026 hiring.',
+    specialties: ['Tech', 'Toronto', 'Active Hiring'],
+    verified: true,
+    icon: '🚀'
+  },
+  {
+    id: 49,
+    name: 'IQ PARTNERS',
+    url: 'https://www.iqpartners.com',
+    category: 'recruiting-toronto',
+    description: 'Toronto-based IT and professional recruitment.',
+    specialties: ['IT', 'Professional', 'Toronto'],
+    verified: true,
+    icon: '🧠'
+  },
+  {
+    id: 50,
+    name: 'GuruLink',
+    url: 'https://www.gurulink.com',
+    category: 'recruiting-toronto',
+    description: 'Toronto IT recruitment and consulting services.',
+    specialties: ['IT', 'Consulting', 'Toronto'],
+    verified: true,
+    icon: '🔗'
+  },
+  {
+    id: 51,
+    name: 'Kovasys IT Recruitment',
+    url: 'https://www.kovasys.com',
+    category: 'recruiting-toronto',
+    description: 'Toronto-based IT recruitment specialist.',
+    specialties: ['IT', 'Toronto', 'Specialized'],
+    verified: true,
+    icon: '💻'
+  },
+  {
+    id: 52,
+    name: 'Procom',
+    url: 'https://www.procomservices.com',
+    category: 'recruiting-toronto',
+    description: 'Toronto IT staffing and workforce solutions.',
+    specialties: ['IT Staffing', 'Workforce Solutions', 'Toronto'],
+    verified: true,
+    icon: '⚡'
+  },
+  {
+    id: 53,
+    name: 'Experis Canada',
+    url: 'https://www.experis.ca',
+    category: 'recruiting-toronto',
+    description: 'IT recruitment division of ManpowerGroup with Toronto operations.',
+    specialties: ['IT', 'Toronto', 'ManpowerGroup'],
+    verified: true,
+    icon: '🎓'
+  },
+  {
+    id: 54,
+    name: 'CORE Resources',
+    url: 'https://www.coreresources.ca',
+    category: 'recruiting-toronto',
+    description: 'Toronto-based recruitment and staffing solutions.',
+    specialties: ['Staffing', 'Toronto', 'Professional'],
+    verified: true,
+    icon: '🏢'
+  },
+  {
+    id: 55,
+    name: 'Robert Walters Canada',
+    url: 'https://www.robertwalters.ca',
+    category: 'recruiting-toronto',
+    description: 'Global recruitment with Toronto presence. Professional and IT roles.',
+    specialties: ['Professional', 'IT', 'Toronto', 'Global'],
+    verified: true,
+    icon: '🌍'
+  },
+
+  // ========== IT RECRUITING FIRMS - SPECIALIZED ==========
+  {
+    id: 56,
+    name: 'International Financial Group (IFG)',
+    url: 'https://www.ifgpr.com',
+    category: 'recruiting-specialized',
+    description: 'Toronto-based. Specialized in accounting, finance, and technology recruitment. Project-based and full-time.',
+    specialties: ['Finance', 'Accounting', 'Technology', 'Toronto'],
+    verified: true,
+    icon: '💰'
+  },
+  {
+    id: 57,
+    name: 'STACK IT Recruitment',
+    url: 'https://www.stackitrecruitment.com',
+    category: 'recruiting-specialized',
+    description: 'Specialized IT recruitment and placement agency.',
+    specialties: ['IT', 'Specialized', 'Tech Focus'],
+    verified: true,
+    icon: '📚'
+  },
+  {
+    id: 58,
+    name: 'DevEngine',
+    url: 'https://www.devengine.com',
+    category: 'recruiting-specialized',
+    description: 'Developer-focused recruitment and talent solutions.',
+    specialties: ['Developers', 'Software Engineering', 'Tech'],
+    verified: true,
+    icon: '🔧'
+  },
+  {
+    id: 59,
+    name: 'OnHires',
+    url: 'https://www.onhires.com',
+    category: 'recruiting-specialized',
+    description: 'Top IT services recruitment agency in Canada (Feb 2026).',
+    specialties: ['IT Services', 'Top-Rated', 'Canadian'],
+    verified: true,
+    icon: '✅'
+  },
+  {
+    id: 60,
+    name: 'Solara Talent',
+    url: 'https://www.solaratalent.com',
+    category: 'recruiting-specialized',
+    description: 'Top-ranking IT recruitment agency in Canada (Feb 2026).',
+    specialties: ['IT', 'Top-Rated', 'Talent Solutions'],
+    verified: true,
+    icon: '☀️'
+  },
+  {
+    id: 61,
+    name: 'Wexpand',
+    url: 'https://www.wexpand.com',
+    category: 'recruiting-specialized',
+    description: 'Top IT services recruitment agency in Canada (Feb 2026).',
+    specialties: ['IT Services', 'Top-Rated', 'Expansion'],
+    verified: true,
+    icon: '📈'
+  },
+  {
+    id: 62,
+    name: 'StackedSP Inc.',
+    url: 'https://www.stackedsp.com',
+    category: 'recruiting-specialized',
+    description: 'Specialized IT recruitment and staffing solutions.',
+    specialties: ['IT', 'Staffing', 'Specialized'],
+    verified: true,
+    icon: '📊'
+  },
+  {
+    id: 63,
+    name: 'Talencore',
+    url: 'https://www.talencore.com',
+    category: 'recruiting-specialized',
+    description: 'Core talent recruitment and placement services.',
+    specialties: ['Talent Acquisition', 'IT', 'Professional'],
+    verified: true,
+    icon: '🎯'
+  },
+  {
+    id: 64,
+    name: 'DevTalent',
+    url: 'https://www.devtalent.com',
+    category: 'recruiting-specialized',
+    description: 'Developer talent recruitment specialist.',
+    specialties: ['Developers', 'Software', 'Tech Talent'],
+    verified: true,
+    icon: '👨‍💻'
+  },
+  {
+    id: 65,
+    name: 'Linkus Group',
+    url: 'https://www.linkusgroup.com',
+    category: 'recruiting-specialized',
+    description: 'Recruitment redefined. Top IT services agency in Canada (Feb 2026).',
+    specialties: ['IT Services', 'Top-Rated', 'Innovative'],
+    verified: true,
+    icon: '🔗'
+  },
+  {
+    id: 66,
+    name: 'DevsData Tech Talent LLC',
+    url: 'https://www.devsdata.com',
+    category: 'recruiting-specialized',
+    description: 'Tech talent recruitment with Canadian operations.',
+    specialties: ['Tech Talent', 'Developers', 'IT'],
+    verified: true,
+    icon: '💡'
+  },
+  {
+    id: 67,
+    name: 'ABC Recruiting Inc.',
+    url: 'https://www.abcrecruiting.ca',
+    category: 'recruiting-specialized',
+    description: 'Top IT services recruitment in Canada (Feb 2026).',
+    specialties: ['IT Services', 'Top-Rated', 'Canadian'],
+    verified: true,
+    icon: '🔤'
+  },
+  {
+    id: 68,
+    name: 'Philodesign Technologies',
+    url: 'https://www.philodesigntech.com',
+    category: 'recruiting-specialized',
+    description: 'Technology-focused recruitment and IT solutions.',
+    specialties: ['Technology', 'IT Solutions', 'Specialized'],
+    verified: true,
+    icon: '🎨'
+  },
+  {
+    id: 69,
+    name: 'HRbrain Inc.',
+    url: 'https://www.hrbrain.ca',
+    category: 'recruiting-specialized',
+    description: 'HR and IT recruitment solutions.',
+    specialties: ['HR', 'IT', 'Recruitment Solutions'],
+    verified: true,
+    icon: '🧠'
+  },
+  {
+    id: 70,
+    name: 'Myticas Consulting ULC',
+    url: 'https://www.myticas.com',
+    category: 'recruiting-specialized',
+    description: 'IT consulting and recruitment services.',
+    specialties: ['IT Consulting', 'Recruitment', 'Professional'],
+    verified: true,
+    icon: '📋'
+  },
+  {
+    id: 71,
+    name: 'Ignite Technical Resources',
+    url: 'https://www.ignitetr.com',
+    category: 'recruiting-specialized',
+    description: 'Technical recruitment and resource solutions.',
+    specialties: ['Technical', 'IT', 'Resources'],
+    verified: true,
+    icon: '🔥'
+  },
+  {
+    id: 72,
+    name: 'Staffmax Staffing & Recruiting',
+    url: 'https://www.staffmax.ca',
+    category: 'recruiting-specialized',
+    description: 'Top IT staffing agency in Canada.',
+    specialties: ['IT Staffing', 'Top-Rated', 'Canadian'],
+    verified: true,
+    icon: '👥'
+  },
+  {
+    id: 73,
+    name: 'Airswift',
+    url: 'https://www.airswift.com',
+    category: 'recruiting-specialized',
+    description: 'Top IT staffing agency with Canadian operations.',
+    specialties: ['IT Staffing', 'Global', 'Specialized'],
+    verified: true,
+    icon: '✈️'
+  },
+  {
+    id: 74,
+    name: 'Aplin',
+    url: 'https://www.aplin.com',
+    category: 'recruiting-specialized',
+    description: 'Top IT staffing and recruitment agency in Canada.',
+    specialties: ['IT Staffing', 'Top-Rated', 'Professional'],
+    verified: true,
+    icon: '🏆'
+  },
+  {
+    id: 75,
+    name: 'HR4U',
+    url: 'https://www.hr4u.ca',
+    category: 'recruiting-specialized',
+    description: 'HR and IT recruitment solutions for Canadian businesses.',
+    specialties: ['HR', 'IT', 'Canadian'],
+    verified: true,
+    icon: '🤝'
+  }
 ];
+
+// Category definitions
+const categories = {
+  'all': { name: 'All Resources', icon: '📚' },
+  'job-board-general': { name: 'General Job Boards', icon: '📋' },
+  'job-board-tech': { name: 'Tech Job Boards', icon: '💻' },
+  'job-board-gov': { name: 'Government Boards', icon: '🏛️' },
+  'recruiting-national': { name: 'National Recruiting Firms', icon: '🇨🇦' },
+  'recruiting-toronto': { name: 'Toronto Recruiting Firms', icon: '🏙️' },
+  'recruiting-specialized': { name: 'Specialized Recruiting', icon: '🎯' }
+};
 
 // State
 let currentCategory = 'all';
@@ -738,126 +793,100 @@ let searchQuery = '';
 
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
-    renderFeaturedResources();
-    renderAllResources();
-    setupEventListeners();
+  renderFeaturedResources();
+  renderAllResources();
+  setupEventListeners();
 });
 
 function setupEventListeners() {
-    // Search
-    const searchInput = document.getElementById('searchInput');
-    const searchBtn = document.getElementById('searchBtn');
+  // Search
+  const searchInput = document.getElementById('searchInput');
+  const searchBtn = document.getElementById('searchBtn');
 
-    searchBtn.addEventListener('click', handleSearch);
-    searchInput.addEventListener('keyup', (e) => {
-        if (e.key === 'Enter') handleSearch();
-    });
+  searchBtn.addEventListener('click', handleSearch);
+  searchInput.addEventListener('keyup', (e) => {
+    if (e.key === 'Enter') handleSearch();
+  });
 
-    // Category filters
-    const tagBtns = document.querySelectorAll('.tag-btn');
-    tagBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            tagBtns.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            currentCategory = btn.dataset.category;
-            renderAllResources();
-        });
+  // Category filters
+  const tagBtns = document.querySelectorAll('.tag-btn');
+  tagBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      tagBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentCategory = btn.dataset.category;
+      renderAllResources();
     });
+  });
 }
 
 function handleSearch() {
-    searchQuery = document.getElementById('searchInput').value.toLowerCase();
-    renderAllResources();
+  searchQuery = document.getElementById('searchInput').value.toLowerCase();
+  renderAllResources();
 }
 
 function filterResources(resourceList) {
-    return resourceList.filter(resource => {
-        const matchesCategory = currentCategory === 'all' || resource.category === currentCategory;
-        const matchesSearch = !searchQuery ||
-            resource.title.toLowerCase().includes(searchQuery) ||
-            resource.excerpt.toLowerCase().includes(searchQuery) ||
-            resource.category.toLowerCase().includes(searchQuery);
+  return resourceList.filter(resource => {
+    const matchesCategory = currentCategory === 'all' || resource.category === currentCategory;
+    const matchesSearch = !searchQuery ||
+      resource.name.toLowerCase().includes(searchQuery) ||
+      resource.description.toLowerCase().includes(searchQuery) ||
+      resource.specialties.some(s => s.toLowerCase().includes(searchQuery));
 
-        return matchesCategory && matchesSearch;
-    });
+    return matchesCategory && matchesSearch;
+  });
 }
 
 function renderFeaturedResources() {
-    const grid = document.getElementById('featuredGrid');
-    const featured = resources.filter(r => r.featured);
+  const grid = document.getElementById('featuredGrid');
+  const featured = jobResources.filter(r => r.featured);
 
-    grid.innerHTML = featured.map(resource => createResourceCard(resource, true)).join('');
+  grid.innerHTML = featured.map(resource => createResourceCard(resource, true)).join('');
 }
 
 function renderAllResources() {
-    const grid = document.getElementById('resourcesGrid');
-    const filtered = filterResources(resources);
+  const grid = document.getElementById('resourcesGrid');
+  const filtered = filterResources(jobResources);
 
-    if (filtered.length === 0) {
-        grid.innerHTML = `
-      <div class="empty-state" style="grid-column: 1 / -1;">
-        <div class="empty-state-icon">🔍</div>
+  if (filtered.length === 0) {
+    grid.innerHTML = `
+      <div class="empty-state" style="grid-column: 1 / -1; text-align: center; padding: 3rem;">
+        <div class="empty-state-icon" style="font-size: 4rem; margin-bottom: 1rem;">🔍</div>
         <h3>No resources found</h3>
-        <p>Try adjusting your search or filters</p>
+        <p style="color: var(--text-muted); margin-top: 0.5rem;">Try adjusting your search or filters</p>
       </div>
     `;
-        return;
-    }
+    return;
+  }
 
-    grid.innerHTML = filtered.map(resource => createResourceCard(resource)).join('');
+  grid.innerHTML = filtered.map(resource => createResourceCard(resource, false)).join('');
 }
 
-function createResourceCard(resource, isFeatured = false) {
-    return `
-    <div class="resource-card" onclick="viewResource(${resource.id})">
-      <div class="resource-icon">${resource.icon}</div>
-      <span class="resource-category">${resource.category}</span>
-      <h3>${resource.title}</h3>
-      <p>${resource.excerpt}</p>
-      <div class="resource-meta">
-        <span>📖 ${resource.readTime} read</span>
-        ${isFeatured ? '<span>⭐ Featured</span>' : ''}
-      </div>
-    </div>
-  `;
-}
-
-function viewResource(id) {
-    const resource = resources.find(r => r.id === id);
-    if (!resource) return;
-
-    // Create article view
-    const main = document.querySelector('.container');
-    main.innerHTML = `
-    <div class="article-content">
-      <div class="article-header">
-        <span class="resource-category">${resource.category}</span>
-        <h1>${resource.title}</h1>
-        <div class="article-meta">
-          <span>📖 ${resource.readTime} read</span>
-          <span>${resource.icon} ${getCategoryName(resource.category)}</span>
+function createResourceCard(resource, isFeatured) {
+  const categoryInfo = categories[resource.category] || { name: resource.category, icon: '📄' };
+  
+  return `
+    <a href="${resource.url}" target="_blank" rel="noopener noreferrer" class="resource-card glass-card ${isFeatured ? 'featured' : ''}">
+      <div class="resource-header">
+        <div class="resource-icon">${resource.icon}</div>
+        <div class="resource-meta">
+          <h3 class="resource-title">${resource.name}</h3>
+          <span class="resource-category">${categoryInfo.icon} ${categoryInfo.name}</span>
         </div>
       </div>
-      <div class="article-body">
-        ${resource.content}
+      
+      <p class="resource-description">${resource.description}</p>
+      
+      <div class="resource-specialties">
+        ${resource.specialties.map(specialty => 
+          `<span class="specialty-tag">${specialty}</span>`
+        ).join('')}
       </div>
-      <div style="text-align: center; margin-top: 3rem;">
-        <button class="btn btn-primary" onclick="location.href='/resources/'">← Back to Resources</button>
+      
+      <div class="resource-footer">
+        ${resource.verified ? '<span class="verified-badge">✓ Verified 2026</span>' : ''}
+        <span class="external-link">Visit Site →</span>
       </div>
-    </div>
+    </a>
   `;
-
-    window.scrollTo(0, 0);
-}
-
-function getCategoryName(category) {
-    const names = {
-        resume: 'Resume',
-        interview: 'Interview',
-        career: 'Career Growth',
-        salary: 'Salary',
-        networking: 'Networking',
-        toronto: 'Toronto Market'
-    };
-    return names[category] || category;
 }
