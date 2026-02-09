@@ -9,7 +9,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
     href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@700;800&display=swap"
-    rel="stylesheet">  <style>
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <style>
     .company-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -52,6 +54,14 @@
 </head>
 
 <body>
+  <nav class="nav-menu">
+    <a href="/">Home</a>
+    <a href="/gotjob/">Find Jobs</a>
+    <a href="/gotjob/salary-insights/">Salaries</a>
+    <a href="/gotjob/companies/" class="active">Companies</a>
+    <a href="/gotjob/market-report/">Market Report</a>
+    <a href="/gotjob/tracker/">Tracker</a>
+  </nav>
   <main class="container">
     <header class="page-header text-center">
       <h1 class="text-gradient">Company Directory</h1>
@@ -69,16 +79,15 @@
         </div>
       </div>
     </section>
-  </main>  <script>
-    initializeLayout('companies');
-
+  </main>
+  <script>
     let companies = [];
 
     async function loadCompanies() {
       try {
-        const response = await fetch('/api/jobs/cached');
+        const response = await fetch('/gotjob/jobs.json');
         const data = await response.json();
-        const jobs = data.jobs || [];
+        const jobs = Array.isArray(data) ? data : (data.jobs || []);
 
         const companyMap = {};
         jobs.forEach(job => {

@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function loadJobData() {
   try {
-    const response = await fetch('/api/jobs/cached');
+    const response = await fetch('/gotjob/jobs.json');
     const data = await response.json();
     allJobs = (data.jobs || []).filter(job => job.salary && (job.salary.min || job.salary.max));
     filteredJobs = allJobs;

@@ -7,20 +7,19 @@
   <title>GotJob - Toronto Tech Jobs | ServiceNow, VBA, Alteryx & More</title>
   <meta name="description"
     content="Find tech jobs in Toronto: ServiceNow developer, VBA, Alteryx, Full Stack, DevOps, and more. Filter by date posted, salary, and job type." />
-  <link rel="stylesheet" href="styles.css?v=6" />
+  <link rel="stylesheet" href="styles.css?v=7" />
 </head>
 
 <body>
   <nav class="nav-menu">
     <a href="/">Home</a>
     <a href="/gotjob/" class="active">Find Jobs</a>
-    <a href="/gotjob/salary-insights/">Salary Insights</a>
-    <a href="/gotjob/career-resources/">Career Resources</a>
-    <a href="/gotjob/tracker/">Tracker</a>
+    <a href="/gotjob/salary-insights/">Salaries</a>
+    <a href="/gotjob/companies/">Companies</a>
+    <a href="/gotjob/resources/">Resources</a>
     <a href="/gotjob/market-report/">Market Report</a>
-    <a href="/gotjob/ai-match-lab/">AI Match Lab</a>
-    <a href="/gotjob/experience-hub/">Experience Hub</a>
-    <a href="/gotjob/mobile-studio/">Mobile Studio</a>
+    <a href="/gotjob/tracker/">Tracker</a>
+    <a href="#" id="savedJobsNav" class="saved-nav">Saved <span id="savedCount" class="badge">0</span></a>
   </nav>
   <main class="container">
     <header class="header">
@@ -189,11 +188,15 @@
           </label>
         </div>
 
-        <div class="source-filters">
-          <span class="filter-label">Link Quality:</span>
+        <div class="source-filters extra-filters">
+          <span class="filter-label">Quality Filters:</span>
           <label class="source-check">
-            <input id="hideGenericLinks" type="checkbox" checked />
-            <span>Hide generic career pages</span>
+            <input id="salaryOnlyFilter" type="checkbox" />
+            <span>With salary info only</span>
+          </label>
+          <label class="source-check">
+            <input id="showGenericFilter" type="checkbox" />
+            <span>Include generic career pages</span>
           </label>
         </div>
 
@@ -264,8 +267,7 @@
         </div>
       </div>
       <div class="keyboard-hint" id="keyboardHint">Tip: Use <kbd>j</kbd>/<kbd>k</kbd> to navigate, <kbd>s</kbd> to save,
-        <kbd>Enter</kbd> to open
-      </div>
+        <kbd>Enter</kbd> to open</div>
       <div id="list" class="list"></div>
     </section>
 
@@ -276,26 +278,9 @@
         <div id="modalBody"></div>
       </div>
     </div>
-    <section class="resources-showcase">
-      <h2 class="resources-title">Explore these add-ons</h2>
-      <div class="feature-grid">
-        <a class="feature-card" href="/ai-match-lab/">
-          <h3>AI Match Lab</h3>
-          <p>See how we parse skills, enforce fairness, and keep matched jobs fresh.</p>
-        </a>
-        <a class="feature-card" href="/experience-hub/">
-          <h3>Experience Hub</h3>
-          <p>Track transparency metrics, response windows, and what to expect next.</p>
-        </a>
-        <a class="feature-card" href="/mobile-studio/">
-          <h3>Mobile Studio</h3>
-          <p>Discover the mobile-first, low-data, and accessible interactions behind the scenes.</p>
-        </a>
-      </div>
-    </section>
   </main>
 
-  <script src="app.js?v=5"></script>
+  <script src="app.js?v=6"></script>
 </body>
 
 </html>

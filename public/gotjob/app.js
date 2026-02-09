@@ -5,6 +5,81 @@ let savedJobs = JSON.parse(localStorage.getItem('savedJobs') || '[]');
 let currentJobIndex = -1; // For keyboard navigation
 let showingSavedPanel = false;
 
+// ============================================================
+// Generic listing detection - filters out career portal pages
+// ============================================================
+const GENERIC_URL_PATTERNS = [
+  /\/careers\/?$/i,
+  /\/careers\.html$/i,
+  /\/careers\.aspx$/i,
+  /\/careers\/$/i,
+  /\/jobs\/?$/i,
+  /\/talent\/?$/i,
+  /\/join-us\/?$/i,
+  /\/join\/?$/i,
+  /\/work-with-us\/?$/i,
+  /\/opportunities\/?$/i,
+  /\/en\/careers\/?$/i,
+  /\/about[/-]us\/careers\/?$/i,
+  /\/contact-us\/careers\/?$/i,
+  /\/home\/about-us\/careers\/?$/i,
+];
+
+const GENERIC_TITLE_PATTERNS = [
+  /^careers?$/i,
+  /^jobs?$/i,
+  /^join\s+(us|our\s+team)$/i,
+  /^work\s+with\s+us$/i,
+  /^our\s+people$/i,
+  /^job\s+opportunities$/i,
+  /^life\s+at\s+/i,
+  /^opportunities$/i,
+  /^come\s+work\s+with\s+us$/i,
+  /^we.re\s+hiring$/i,
+];
+
+// Job ID patterns that indicate a REAL specific posting
+const JOB_ID_URL_PATTERNS = [
+  /\/(job|jobs|apply|position|posting|vacancy|opening|career)\/([\w-]+\/)*\d+/i,
+  /[?&](id|jobid|job_id|position|posting|req|requisition)=[\w-]+/i,
+  /\/\d{5,}/,  // Long numeric IDs
+  /\/JR\d+/i,  // Workday-style IDs (JR12345)
+  /\/REQ\d+/i, // Requisition IDs
+];
+
+function isGenericListing(job) {
+  const url = (job.url || "").trim();
+  const title = (job.title || "").trim();
+
+  // If URL has a specific job ID, it's NOT generic
+  for (const pat of JOB_ID_URL_PATTERNS) {
+    if (pat.test(url)) return false;
+  }
+
+  // Check for generic URL patterns
+  const urlPath = url.replace(/[?#].*$/, ""); // strip query/hash
+  for (const pat of GENERIC_URL_PATTERNS) {
+    if (pat.test(urlPath)) return true;
+  }
+
+  // Check for generic titles
+  for (const pat of GENERIC_TITLE_PATTERNS) {
+    if (pat.test(title)) return true;
+  }
+
+  // Check: title matches company name exactly (e.g. "Sun Life Canada")
+  const company = (job.company || "").trim();
+  if (company && title && title.toLowerCase() === company.toLowerCase()) return true;
+
+  // Very short path with /careers in it and no job ID
+  const pathParts = urlPath.replace(/^https?:\/\/[^/]+/, "").split("/").filter(Boolean);
+  if (pathParts.length <= 3 && pathParts.some(p => /^careers?$/i.test(p)) && !url.match(/\d{4,}/)) {
+    return true;
+  }
+
+  return false;
+}
+
 function formatMoney(n) {
   try {
     return new Intl.NumberFormat("en-CA", {
@@ -341,27 +416,45 @@ function updateFilterCountsUI() {
 
 // Stats dashboard
 function updateStatsDashboard() {
-  const total = allJobs.length;
-  const fresh = allJobs.filter(j => {
+  // Use non-generic jobs for stats (reflects what user actually sees)
+  const hideGeneric = !(el("showGenericFilter")?.checked);
+  const realJobs = hideGeneric ? allJobs.filter(j => !isGenericListing(j)) : allJobs;
+  
+  const total = realJobs.length;
+  const fresh = realJobs.filter(j => {
     const d = new Date(j.postedDate || j.scrapedAt);
     return !isNaN(d) && (Date.now() - d) < 24 * 60 * 60 * 1000;
   }).length;
-  const remote = allJobs.filter(j => detectWorkArrangement(j) === 'remote').length;
-  const withSalary = allJobs.filter(j => j.salary?.min || j.salary?.max).length;
+  const remote = realJobs.filter(j => detectWorkArrangement(j) === 'remote').length;
+  const withSalary = realJobs.filter(j => j.salary?.min || j.salary?.max).length;
   
   // Calculate average salary
-  const salaries = allJobs
+  const salaries = realJobs
     .filter(j => j.salary?.min && j.salary.type !== 'hourly')
     .map(j => j.salary.min);
   const avgSalary = salaries.length > 0 
     ? Math.round(salaries.reduce((a, b) => a + b, 0) / salaries.length / 1000) 
     : 0;
   
+  const genericCount = allJobs.filter(j => isGenericListing(j)).length;
+  
   el("statTotal").textContent = total.toLocaleString();
   el("statFresh").textContent = fresh.toLocaleString();
   el("statRemote").textContent = remote.toLocaleString();
   el("statWithSalary").textContent = withSalary.toLocaleString();
   el("statAvgSalary").textContent = avgSalary > 0 ? `$${avgSalary}K` : '-';
+  
+  // Update generic filter label with count
+  const genLabel = document.querySelector('#showGenericFilter')?.closest('label')?.querySelector('span');
+  if (genLabel) {
+    genLabel.textContent = `Include generic career pages (${genericCount})`;
+  }
+  
+  // Update salary-only filter label with count
+  const salLabel = document.querySelector('#salaryOnlyFilter')?.closest('label')?.querySelector('span');
+  if (salLabel) {
+    salLabel.textContent = `With salary info only (${withSalary.toLocaleString()})`;
+  }
 }
 
 // Work arrangement detection
@@ -605,6 +698,8 @@ function filterJobs() {
   const experienceLevel = el("experienceLevel")?.value || "any";
   const sortBy = el("sortBy")?.value || "date";
   const recruiterOnly = el("recruiterFilter")?.checked || false;
+  const salaryOnly = el("salaryOnlyFilter")?.checked || false;
+  const hideGeneric = !(el("showGenericFilter")?.checked);
   
   // Get all enabled sources and employment types
   const sources = getEnabledSources();
@@ -614,8 +709,18 @@ function filterJobs() {
   
   let filtered = allJobs
     .filter(j => {
+      // Hide generic career portal pages by default
+      if (hideGeneric && isGenericListing(j)) return false;
+      return true;
+    })
+    .filter(j => {
       // Recruiter filter
       if (recruiterOnly && !j.recruiter) return false;
+      return true;
+    })
+    .filter(j => {
+      // Salary-only filter
+      if (salaryOnly && !(j.salary?.min || j.salary?.max)) return false;
       return true;
     })
     .filter(j => {
@@ -640,7 +745,7 @@ function filterJobs() {
   return {
     meta: {
       minSalary, location, keywords, sources, dateFilter, employmentTypes,
-      workArrangement, experienceLevel, sortBy,
+      workArrangement, experienceLevel, sortBy, deadlineFilter, salaryOnly, hideGeneric,
       totalFetched: allJobs.length, totalMatched: filtered.length
     },
     jobs: filtered
@@ -699,19 +804,7 @@ function render(data) {
   list.innerHTML = "";
   
   if (!jobs.length) {
-    const empty = document.createElement("div");
-    empty.className = "card empty-card";
-    empty.innerHTML = `
-      <h3>No matches found</h3>
-      <p>Try different keywords or expand your filters:</p>
-      <ul>
-        <li>Remove some keywords</li>
-        <li>Extend the date range</li>
-        <li>Change work arrangement to "Any"</li>
-        <li>Enable more job sources</li>
-      </ul>
-    `;
-    list.appendChild(empty);
+    renderEmptyState(list, meta);
     return;
   }
   
@@ -870,6 +963,171 @@ function render(data) {
   }
 }
 
+// ============================================================
+// Smart empty-state: diagnose WHY no results and offer fix buttons
+// ============================================================
+function renderEmptyState(list, meta) {
+  const empty = document.createElement("div");
+  empty.className = "card empty-card smart-empty";
+
+  // --- Diagnose the root causes ---
+  const causes = [];
+  const fixes = [];
+
+  // 1. Deadline filter is very narrow
+  const deadlineFilter = meta?.deadlineFilter || el("deadlineFilter")?.value || "any";
+  if (deadlineFilter === "today" || deadlineFilter === "3d") {
+    const deadlineCount = allJobs.filter(j => j.deadline || j.applicationDeadline || j.closingDate).length;
+    const label = deadlineFilter === "today" ? "due today" : "due within 3 days";
+    if (deadlineCount === 0) {
+      causes.push(`None of the ${allJobs.length.toLocaleString()} jobs in our database have application deadline data yet, so filtering by "${label}" returns nothing.`);
+    } else {
+      // Count how many match deadline alone
+      const deadlineMatches = allJobs.filter(j => matchesDeadlineFilter(j, deadlineFilter)).length;
+      causes.push(`Only <strong>${deadlineMatches}</strong> jobs are ${label}, and none of them match your other filters.`);
+    }
+    fixes.push({
+      label: 'Remove deadline filter',
+      icon: '📅',
+      action: () => { el("deadlineFilter").value = "any"; render(filterJobs()); }
+    });
+    fixes.push({
+      label: 'Show all with deadlines',
+      icon: '📋',
+      action: () => { el("deadlineFilter").value = "hasDeadline"; render(filterJobs()); }
+    });
+  }
+
+  // 2. Date range is very tight
+  const dateFilter = meta?.dateFilter || el("dateFilter")?.value || "week";
+  const tightDateFilters = ["15m", "30m", "1h", "2h", "4h"];
+  if (tightDateFilters.includes(dateFilter)) {
+    const dateLabel = { "15m": "15 minutes", "30m": "30 minutes", "1h": "1 hour", "2h": "2 hours", "4h": "4 hours" }[dateFilter];
+    causes.push(`The "Posted within ${dateLabel}" filter is very tight — most jobs don't update that frequently.`);
+    fixes.push({
+      label: 'Expand to last 24 hours',
+      icon: '🕐',
+      action: () => { el("dateFilter").value = "24h"; render(filterJobs()); }
+    });
+    fixes.push({
+      label: 'Expand to last 7 days',
+      icon: '📆',
+      action: () => { el("dateFilter").value = "week"; render(filterJobs()); }
+    });
+  }
+
+  // 3. Keywords are too specific
+  const keywords = (el("keywords")?.value || "").split(",").map(s => s.trim()).filter(Boolean);
+  if (keywords.length > 0) {
+    // Check how many jobs match WITHOUT keywords
+    const withoutKeywords = allJobs.filter(j => {
+      if (meta?.hideGeneric && isGenericListing(j)) return false;
+      if (meta?.salaryOnly && !(j.salary?.min || j.salary?.max)) return false;
+      return inToronto(j.location || "", el("location").value);
+    }).length;
+
+    if (withoutKeywords > 0) {
+      causes.push(`Your keywords (<strong>${keywords.join(", ")}</strong>) are filtering out all results. Without keywords, there are ${withoutKeywords.toLocaleString()} jobs.`);
+      fixes.push({
+        label: 'Clear keywords',
+        icon: '🔍',
+        action: () => { el("keywords").value = ""; render(filterJobs()); }
+      });
+    }
+  }
+
+  // 4. Salary-only filter
+  if (meta?.salaryOnly) {
+    const withSalary = allJobs.filter(j => j.salary?.min || j.salary?.max).length;
+    causes.push(`"With salary only" is checked — only <strong>${withSalary.toLocaleString()}</strong> of ${allJobs.length.toLocaleString()} jobs have salary data.`);
+    fixes.push({
+      label: 'Show all (with & without salary)',
+      icon: '💰',
+      action: () => { el("salaryOnlyFilter").checked = false; render(filterJobs()); }
+    });
+  }
+
+  // 5. Minimum salary is high
+  const minSalary = Number(el("minSalary")?.value || 0);
+  if (minSalary >= 100000) {
+    causes.push(`Minimum salary is set to <strong>${formatMoney(minSalary)}</strong>, which excludes most listings.`);
+    fixes.push({
+      label: 'Lower to $50K minimum',
+      icon: '📉',
+      action: () => { el("minSalary").value = "50000"; el("minSalaryValue").textContent = formatMoney(50000); render(filterJobs()); }
+    });
+  }
+
+  // 6. Work arrangement filter
+  const workArr = meta?.workArrangement || el("workArrangement")?.value || "any";
+  if (workArr !== "any") {
+    const labels = { remote: "Remote only", hybrid: "Hybrid", onsite: "Onsite only" };
+    causes.push(`Work arrangement is set to "<strong>${labels[workArr] || workArr}</strong>".`);
+    fixes.push({
+      label: 'Show any work arrangement',
+      icon: '🏢',
+      action: () => { el("workArrangement").value = "any"; render(filterJobs()); }
+    });
+  }
+
+  // 7. Not many sources enabled
+  const enabledSources = getEnabledSources();
+  const allSourceCheckboxes = document.querySelectorAll(".source-filters input[type='checkbox']");
+  const unchecked = Array.from(allSourceCheckboxes).filter(cb => !cb.checked && cb.id !== "recruiterFilter");
+  if (unchecked.length > 0 && enabledSources.length <= 3) {
+    causes.push(`Only <strong>${enabledSources.length}</strong> job sources are enabled. Enabling more sources may find matches.`);
+    fixes.push({
+      label: 'Enable all sources',
+      icon: '🌐',
+      action: () => { allSourceCheckboxes.forEach(cb => { if (cb.id !== "recruiterFilter") cb.checked = true; }); render(filterJobs()); }
+    });
+  }
+
+  // --- Fallback if no specific cause found ---
+  if (causes.length === 0) {
+    causes.push("Your combination of filters is too narrow — no jobs match all of them at once.");
+  }
+
+  // Always offer a nuclear option
+  fixes.push({
+    label: 'Reset all filters',
+    icon: '🔄',
+    action: () => { el("clearFilters")?.click(); }
+  });
+
+  // --- Build the HTML ---
+  let html = `<h3>No matches found</h3>`;
+  html += `<div class="empty-diagnosis">`;
+  html += `<p class="diagnosis-title">Here's why:</p>`;
+  html += `<ul class="diagnosis-list">`;
+  for (const cause of causes) {
+    html += `<li>${cause}</li>`;
+  }
+  html += `</ul></div>`;
+
+  html += `<div class="empty-fixes">`;
+  html += `<p class="fixes-title">Quick fixes:</p>`;
+  html += `<div class="fix-buttons">`;
+  for (let i = 0; i < fixes.length; i++) {
+    const f = fixes[i];
+    const isReset = i === fixes.length - 1;
+    html += `<button class="fix-btn${isReset ? ' fix-btn-reset' : ''}" data-fix-idx="${i}">${f.icon} ${f.label}</button>`;
+  }
+  html += `</div></div>`;
+
+  empty.innerHTML = html;
+
+  // Attach click handlers
+  empty.querySelectorAll(".fix-btn").forEach(btn => {
+    const idx = Number(btn.dataset.fixIdx);
+    if (fixes[idx]) {
+      btn.addEventListener("click", fixes[idx].action);
+    }
+  });
+
+  list.appendChild(empty);
+}
+
 function bind() {
   const minSalary = el("minSalary");
   const minSalaryValue = el("minSalaryValue");
@@ -909,6 +1167,9 @@ function bind() {
     document.querySelectorAll(".emp-type").forEach(cb => {
       cb.checked = cb.value === "full-time" || cb.value === "contract" || cb.value === "unknown";
     });
+    // Reset new filters
+    if (el("salaryOnlyFilter")) el("salaryOnlyFilter").checked = false;
+    if (el("showGenericFilter")) el("showGenericFilter").checked = false;
     // Clear URL params
     history.replaceState(null, '', window.location.pathname);
     render(filterJobs());
@@ -955,6 +1216,12 @@ function bind() {
   
   // Recruiter filter
   el("recruiterFilter")?.addEventListener("change", liveFilter);
+  
+  // Salary-only filter
+  el("salaryOnlyFilter")?.addEventListener("change", liveFilter);
+  
+  // Show generic listings toggle
+  el("showGenericFilter")?.addEventListener("change", liveFilter);
   
   // Preset keyword buttons
   document.querySelectorAll(".preset-btn").forEach(btn => {
