@@ -39,6 +39,8 @@ Priority: **Toronto/Ontario → fully remote → remote-eligible Canada → remo
 
 ---
 
+---
+
 ## Salesforce roles (20) — Administrator or Platform Developer
 
 | # | Title | Company | Location / remote | Salary | Certs | Status | Apply |
@@ -46,18 +48,19 @@ Priority: **Toronto/Ontario → fully remote → remote-eligible Canada → remo
 | 1 | Salesforce Developer / Administrator | Astek | Fully remote — Canada or US | Not posted | Salesforce Administrator + Platform Developer I REQUIRED | ✅ Verified · 2026-10-16 | [Apply](https://www.jobs.ca/astek/jobs/salesforce-developer-administrator-remote-canada-united-states-5119cbc4619e) |
 | 2 | Senior Salesforce Developer / Admin (137318) | Celestica | Hybrid — Toronto | Not posted | Administrator (title); Marketing Cloud Next + Data Cloud | ✅ Verified · 2026-10-16 | [Apply](https://careers.celestica.com/job/Toronto-Senior-Salesforce-Developer-Admin-ON/1406609733/) |
 | 3 | Senior Salesforce Administrator (12-Month Contract) | Solink | Fully remote — Canada | $90,000–$120,000 | Salesforce Administrator | ✅ Verified · 2026-10-20 | [Apply](https://hiringcafe.com/job/senior-salesforce-administrator-12-month-contract-solink-toronto-8hf5ux49dxkdw3m7) |
-| 4 | Senior Salesforce Developer / Admin | Celestica | Toronto, Ontario | Not posted | Admin | ⚠️ Unverified · 2026-10-29 | [Apply](https://www.adzuna.ca/details/5946007497?utm_medium=api&utm_source=54ce986e) |
-| 5 | Senior Salesforce Marketing Developer | MSITEK | Toronto, Ontario | Not posted | Admin | ⚠️ Unverified · 2026-10-29 | [Apply](https://www.adzuna.ca/details/5946006888?utm_medium=api&utm_source=54ce986e) |
-| 6 | Senior Salesforce Administrator | Relevance | Toronto, Ontario | Not posted | Salesforce Administrator | ⚠️ Unverified · 2026-10-29 | [Apply](https://www.adzuna.ca/details/5946006762?utm_medium=api&utm_source=54ce986e) |
-| 7 | Salesforce Revenue Cloud Developer | Astra North Infoteck Inc. | Toronto, Ontario | $120,000–$120,000 | Platform Developer, Salesforce Administrator | ⚠️ Unverified · 2026-10-21 | [Apply](https://www.adzuna.ca/details/5937070752?utm_medium=api&utm_source=54ce986e) |
-| 8 | Senior Production Support Engineer/Salesforce Admin - Remote Canada Position | NTT America, Inc. | Toronto, Ontario | Not posted | Salesforce Admin | ⚠️ Unverified · 2026-10-18 | [Apply](https://www.adzuna.ca/details/5933062962?utm_medium=api&utm_source=54ce986e) |
-| 9 | Senior Salesforce Administrator | Loopio | Toronto, Ontario | $85,000–$105,000 | Salesforce Administrator | ⚠️ Unverified · 2026-10-15 | [Apply](https://www.adzuna.ca/details/5928725191?utm_medium=api&utm_source=54ce986e) |
-| 10 | Administrateur / Développeur Salesforce, niveau senior | Procom | Québec, Canada | Not posted | Salesforce Administrator | ⚠️ Unverified · 2026-10-29 | [Apply](https://www.adzuna.ca/details/5945999787?utm_medium=api&utm_source=54ce986e) |
-| 11 | Analyste / Administrateur Salesforce | Onepoint | Montréal, Québec | Not posted | Salesforce Administrator | ⚠️ Unverified · 2026-10-29 | [Apply](https://www.adzuna.ca/details/5945496851?utm_medium=api&utm_source=54ce986e) |
-| 12 | Salesforce Platform Developer | Bright Vision Technologies | Sugar Land, Fort Bend County | $116,345–$116,345 | Platform Developer | ⚠️ Unverified · 2026-10-29 | [Apply](https://www.adzuna.com/details/5946084558?utm_medium=api&utm_source=54ce986e) |
-| 13 | Salesforce Administrator | Grayson Search Partners | Chicago, Cook County | $94,578–$94,578 | Salesforce Administrator | ⚠️ Unverified · 2026-10-24 | [Apply](https://www.adzuna.com/land/ad/5940745206?se=sjV6WrLU8RGGCOFuy44SDg&utm_medium=api&utm_source=54ce986e&v=7A0488B75986DBD0998E7EC236E05B2675810E37) |
-| 14 | Salesforce / HubSpot Administrator - Revenue Systems (SaaS) / Remote - Contract | Xperteez Technology | International, King County | $115,624–$115,624 | Administrator | ⚠️ Unverified · 2026-09-18 | [Apply](https://www.adzuna.com/details/5888999746?utm_medium=api&utm_source=54ce986e) |
-| 15 | Salesforce Administrator | Early Childhood Investment Corporation | Lansing, Ingham County | $67,725–$75,250 | Salesforce Administrator | ⚠️ Unverified · 2026-09-17 | [Apply](https://www.adzuna.com/details/5887491396?utm_medium=api&utm_source=54ce986e) |
+| 4 | Salesforce Administrator and Developer | Walter Surface Technologies | Pointe-Claire, QC / Canada | Not posted | Salesforce Administrator (title) | ✅ Verified · 2026-10-23 | [Apply](https://fr.simplyhired.ca/job/jyDM39WqVVdY_eXUcgs2p08q-o3gy_I8H0A3lPpSIV1aZDyHs_PAmQ) |
+| 5 | Senior Salesforce Administrator | Relevance | Toronto, Ontario | Not posted | Salesforce Administrator | ⚠️ Unverified · 2026-10-29 | [Apply](https://www.adzuna.ca/details/5946006762?utm_medium=api&utm_source=54ce986e) |
+| 6 | Salesforce Revenue Cloud Developer | Astra North Infoteck Inc. | Toronto, Ontario | $120,000–$120,000 | Platform Developer, Salesforce Administrator | ⚠️ Unverified · 2026-10-21 | [Apply](https://www.adzuna.ca/details/5937070752?utm_medium=api&utm_source=54ce986e) |
+| 7 | Senior Production Support Engineer/Salesforce Admin - Remote Canada Position | NTT America, Inc. | Toronto, Ontario | Not posted | Salesforce Admin | ⚠️ Unverified · 2026-10-18 | [Apply](https://www.adzuna.ca/details/5933062962?utm_medium=api&utm_source=54ce986e) |
+| 8 | Senior Salesforce Administrator | Loopio | Toronto, Ontario | $85,000–$105,000 | Salesforce Administrator | ⚠️ Unverified · 2026-10-15 | [Apply](https://www.adzuna.ca/details/5928725191?utm_medium=api&utm_source=54ce986e) |
+| 9 | Salesforce Administrator - Assistant Vice President | iCapital | Toronto, Ontario | $95,000–$110,000 | Salesforce Administrator | ⚠️ Unverified · 2026-09-27 | [Apply](https://www.adzuna.ca/details/5900459418?utm_medium=api&utm_source=54ce986e) |
+| 10 | Salesforce Administrator with Security Clearance | ICF Consulting Group, Inc. | Reston, Fairfax County | $113,748–$113,748 | Salesforce Administrator | ⚠️ Unverified · 2026-10-30 | [Apply](https://www.adzuna.com/land/ad/5947277724?se=cjGPcLLU8RGzkfY_QG7FnA&utm_medium=api&utm_source=54ce986e&v=FDFA7B42496E66D3891CB82AEA0D6B4F2CFB5D1B) |
+| 11 | Salesforce Administrator | FranklinCovey | US | $90,000–$105,000 | Salesforce Administrator | ⚠️ Unverified · 2026-10-30 | [Apply](https://www.adzuna.com/details/5947007704?utm_medium=api&utm_source=54ce986e) |
+| 12 | Salesforce Admin | Jobot | Clearwater, Pinellas County | $95,000–$115,000 | Salesforce Admin, Salesforce Administrator | ⚠️ Unverified · 2026-10-30 | [Apply](https://www.adzuna.com/details/5946652941?utm_medium=api&utm_source=54ce986e) |
+| 13 | Salesforce Platform Developer | Bright Vision Technologies | Sugar Land, Fort Bend County | $116,345–$116,345 | Platform Developer | ⚠️ Unverified · 2026-10-29 | [Apply](https://www.adzuna.com/details/5946084558?utm_medium=api&utm_source=54ce986e) |
+| 14 | Salesforce Developer/Engineer | SPECTRAFORCE | Newark, Essex County | $132,653–$132,653 | Salesforce Platform Developer | ⚠️ Unverified · 2026-10-29 | [Apply](https://www.adzuna.com/land/ad/5945755314?se=mFNPcrLU8RGRQOLR_vdAhg&utm_medium=api&utm_source=54ce986e&v=7CAF5EDFB8318E9D2FBA8610D45534ED5EEA6A47) |
+| 15 | Salesforce Developer | Akaasa Technologies | Upper East Side, Manhattan | $153,992–$153,992 | Salesforce Platform Developer | ⚠️ Unverified · 2026-10-27 | [Apply](https://www.adzuna.com/details/5943903388?utm_medium=api&utm_source=54ce986e) |
+| 16 | Salesforce Developer | Seneca Resources | US | $120,534–$120,534 | administrator | ⚠️ Unverified · 2026-10-24 | [Apply](https://www.adzuna.com/land/ad/5941085458?se=ku7mcrLU8RGRQOLR_vdAhg&utm_medium=api&utm_source=54ce986e&v=266860A34A9222CC3357522D6D127FF8BE1B58F8) |
 
 ---
 
