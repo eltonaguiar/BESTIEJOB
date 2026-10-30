@@ -4,6 +4,20 @@
 **Scan date:** 2026-10-30
 **Scope:** ServiceNow platform roles — Toronto / GTA first, then fully-remote, then remote-eligible Canada, then USA.
 **Method:** live pull from Workopolis (SimplyHired feed), ServiceNow's own careers site (`careers.servicenow.com`), and SimplyHired US remote.
+**Rev 2:** cross-checked against another agent's overnight scan (Grok, passes from Oct 29 evening through Oct 30 afternoon). Net-new leads are in their own section with provenance — I did not independently verify those.
+
+---
+
+## ⏰ Deadline-critical — read this first
+
+Two ServiceNow roles close within days of this scan:
+
+| Role | Employer | Closes | Why it matters |
+|---|---|---|---|
+| ServiceNow Business Process Consultant (R00356212) | Accenture | **Oct 31** — tomorrow | Remote Toronto, ITSM/ITOM/HAM/SAM consulting. Different req from R00356200. |
+| ServiceNow System Administrator (Req 432824) | Bell | **Nov 2** — Monday | Hybrid 3d Toronto/Montreal. SN admin, ITSM, CMDB/CSDM, PA, Integration Hub, upgrades/clones. |
+
+Both are also in the tier tables below, but they are the only two rows where waiting a week means losing the role.
 
 ---
 
@@ -45,7 +59,7 @@ Ranked: hardest technical roles first.
 | 8 | ServiceNow ITOM SME | LTM | Markham, ON | — | $100,000–$140,000 |
 | 9 | Staff Application Security Engineer (ServiceNow Instance Security) | **ServiceNow** | *(US remote)* | Remote | $176,100–$308,200 |
 | 10 | Senior Business Systems Analyst (ServiceNow) | Interac Corp. | Toronto, ON | Hybrid | $120,000–$135,000 |
-| 11 | ServiceNow System Administrator | Bell | Toronto, ON | Hybrid | — |
+| 11 | ServiceNow System Administrator **(Req 432824)** | Bell | Toronto, ON | Hybrid 3d | — · **closes Nov 2** |
 | 12 | ServiceNow Senior Technical Advisor | Bell | Toronto, ON | Hybrid | — |
 | 13 | Administrateur ServiceNow | Bell | Toronto, ON | Hybrid | — |
 | 14 | Administrator/Developer, ServiceNow | CGI | Toronto, ON | Hybrid | $80,000–$130,000 |
@@ -97,7 +111,7 @@ Ranked: hardest technical roles first.
 | 13 | ServiceNow Consultant – REMOTE | NTT DATA | Ottawa, ON — Remote | $70–$80/hr |
 | 14 | ServiceNow Platform Specialist | Alimentiv | Montréal, QC — Remote | $78,000–$130,000 |
 | 15 | Global ServiceNow Alliance Performance and Operations Lead | Deloitte | Toronto, ON — Remote | $85,000–$156,000 |
-| 16 | ServiceNow Business Process Consultant | Accenture | Montréal, QC — Remote | $69,450–$119,450 |
+| 16 | ServiceNow Business Process Consultant **(R00356212)** | Accenture | Toronto, ON — Remote | $69,450–$119,450 · **closes Oct 31** |
 | 17 | ServiceNow Senior Implementation Specialist | Accenture | Vancouver, BC — Remote | $69,450–$119,450 |
 | 18 | Spécialiste principal de la mise en œuvre, ServiceNow | Accenture | Calgary, AB — Remote | $69,450–$119,450 |
 
@@ -111,7 +125,7 @@ Roles in Canadian cities outside Toronto. Several are remote or hybrid-flexible,
 
 | # | Role | Company | Location | Work mode | Salary (published) |
 |---|---|---|---|---|---|
-| 1 | Senior Consultant, ServiceNow | KPMG | Kitchener, ON | — | $73,500–$122,500 |
+| 1 | Senior Consultant, ServiceNow ⚠️ *another agent reports this 404s on jobs.ca (Oct 30)* — verify | KPMG | Kitchener, ON | — | $73,500–$122,500 |
 | 2 | Manager – ServiceNow | KPMG | Montréal, QC | — | — |
 | 3 | FSO ServiceNow Developer | National Bank of Canada | Montréal, QC | Hybrid | — |
 | 4 | ServiceNow Administrator | Pomerleau | Montréal, QC | Hybrid | — |
@@ -153,6 +167,41 @@ Filtered: the US remote feed is dominated by sales, marketing, CS and EA roles a
 
 ---
 
+## Net-new from another agent's scan (Grok, Oct 29–30)
+
+My source pull (Workopolis / SimplyHired / ServiceNow careers) did **not** surface these. Grok's scan worked different boards — Workday, Greenhouse, SmartRecruiters, jobs.ca, Adzuna, LinkedIn — and tracked req IDs and closing dates. **I have not independently verified any row in this section**; trust level is Grok's own labelling, carried through honestly.
+
+### Verified live by Grok
+
+| Role | Employer / req | First seen | Pay | Mode |
+|---|---|---|---|---|
+| Senior ServiceNow Developer (Metrolinx client) | Source Code | ~Oct 29 | $73.69–88.43/hr (T4) or $92.11–110.54/hr (corp) | Hybrid 2d, 277 Front St W, 6-month |
+| ServiceNow Platform Developer | Acronym Solutions (Hydro One) | Oct 29 | $60–63/hr | Hybrid Mon/Wed, Toronto — apply by Nov 28 |
+
+> The Source Code role is the single strongest new fit in the whole scan if you have Discovery / MID Server / CMDB depth — 5+ years asked, CIS-Discovery a plus, and it's a former-employer site.
+
+### Soft leads — aggregator only, not confirmed on the employer's own board
+
+| Role | Employer | Seen | Pay | Mode | Note |
+|---|---|---|---|---|---|
+| Senior Consultant – ServiceNow Developer | EY | ~Oct 28 | $88,000–$132,000 | Toronto | Toronto listing absent from EY careers (only a closed Vancouver copy) |
+| ServiceNow Developer | Infotek Consulting | Oct 27 | $55–65/hr | Hybrid 3d downtown, 1-year | LinkedIn apply only; Flow Designer / IH / ATF / Glide / CMDB / ITAM |
+| ServiceNow Technical Advisor (#35393) | Myticas Consulting | ~Jun 29 (may be stale) | ~CAD $9,400–13,400/mo | Remote Canada (Ottawa-listed) | FS client; SAM Pro + Business Continuity; wants Canadian Reliability Status |
+| Senior ServiceNow Developer | Hanalytica | Sep 24 | — | Remote Canada, long-term | LinkedIn apply only; CMDB/ITOM/Discovery |
+| Intermediate ServiceNow BA | Newport Williams | Oct 10 | — | On-site Vaughan, permanent | LinkedIn apply only |
+| ServiceNow BSA | Insight Global | Oct 24 | $52–60/hr | On-site Toronto | Possibly the same ITAM client as an earlier IG posting |
+| ServiceNow Implementation Specialist | Ateko (Bell) | — | — | Remote Canada | emplois.ca page blocked |
+| ServiceNow Architect | Acestack | Oct 29 | — | On-site Toronto | Agency; AIOps/ITOM/CMDB/Service Mapping — architect stretch |
+| ServiceNow Developer & Administrator | Themesoft | undated | — | Full-time on-site Toronto | CSA + CAD mandatory, GRC/IRM a plus; aggregator page already degrading |
+| ServiceNow AIOps Architect | BULL-IT Solutions | Oct 30 | — | Toronto | Agency, no named client |
+| ServiceNow ITSM Developer **(US)** | Seamless Migration | ~Oct 16 | — | Fully remote | Defense contractor — **may be US-persons only** |
+
+### Confirmed dead — do not spend time
+
+RBC ServiceNow Developer (R-0000178749) filled · Spectra Group ServiceNow ITAM BSA gone from Dice · Jobgether ServiceNow Delivery Lead and IRM closed · NielsenIQ ServiceNow Admin (India, closed) · TMX Salesforce Platform Lead (R-6396) removed · EDC ServiceNow CSM Developer and BSA taken down · Brightgrove ServiceNow CMDB Architect filled · Brampton CMDB/SM Specialist gone.
+
+---
+
 ## What I deliberately left out
 
 - **Sales / pre-sales / customer-success roles at ServiceNow** — Client Director, Enterprise Sales Director, Solution Sales Executive, Principal Customer Success Executive, Area VP Solution Consulting. These are the bulk of ServiceNow's Toronto headcount, but they are quota roles, not platform work.
@@ -180,3 +229,5 @@ Filtered: the US remote feed is dominated by sales, marketing, CS and EA roles a
 - I did not verify remote-eligibility language case by case. "Remote" on these feeds usually means the country of the posting; roles marked Toronto-remote generally require Canadian residency for tax reasons.
 
 *Compiled by Buffy. Listing aggregation only — no recruiter relationship, no application submitted on your behalf.*
+
+*Rev 2 (2026-10-30): merged Grok's overnight scan as a separately-labelled section, added the two closing deadlines, and flagged the KPMG Kitchener row as reported-dead-but-unconfirmed.*
