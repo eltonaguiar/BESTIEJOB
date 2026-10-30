@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "discoveryOnly": true,
+  "agent": "Copilot (Copilot SDK in VS Code)",
+  "verifiedAt": "2026-10-30T23:03:30Z",
+  "sources": [
+    {
+      "company": "Salesforce",
+      "provider": "workday",
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "tenant": "salesforce",
+      "board": "External_Career_Site",
+      "listEndpoint": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
+      "method": "POST",
+      "verifiedRequestBody": {
+        "appliedFacets": {},
+        "limit": 20,
+        "offset": 0,
+        "searchText": ""
+      },
+      "observedHttpStatus": 200,
+      "observedTotal": 1558,
+      "countScope": "All jobs on this vendor-company board; not Salesforce platform-developer jobs or Canadian jobs",
+      "detailEndpointPattern": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site{externalPath}",
+      "requisitionField": "jobPostingInfo.jobReqId",
+      "postedDateField": "jobPostingInfo.startDate",
+      "acceptingApplicationsField": "jobPostingInfo.canApply",
+      "unverifiedBoards": ["Futureforce"]
+    },
+    {
+      "company": "ServiceNow",
+      "provider": "smartrecruiters",
+      "companyIdentifier": "ServiceNow",
+      "listEndpoint": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings",
+      "method": "GET",
+      "verifiedQuery": {
+        "country": "ca",
+        "limit": 100,
+        "offset": 0
+      },
+      "observedHttpStatus": 200,
+      "observedTotal": 19,
+      "countScope": "All ServiceNow vendor-company Canadian postings; not 19 platform-developer roles",
+      "detailEndpointPattern": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/{postingId}",
+      "verifiedDetailEndpoint": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000158575719",
+      "postingId": "744000158575719",
+      "title": "Principal Solution Architect- ServiceNow",
+      "publishedField": "releasedDate",
+      "publishedDateCaveat": "Release/publication timestamp; not proof this requisition has never been advertised before",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719-principal-solution-architect-servicenow?oga=true",
+      "location": {
+        "city": "Toronto",
+        "region": "Ontario",
+        "country": "ca",
+        "remote": true,
+        "hybrid": false
+      },
+      "frontDoorCheck": {
+        "url": "https://careers.servicenow.com/jobs/744000158575719/principal-solution-architect-servicenow/",
+        "httpStatus": 403,
+        "observedRedirects": [],
+        "workdayTenantConfirmed": false,
+        "note": "The marketing career page was access-denied. No protection bypass attempted. The public SmartRecruiters API independently returned the matching job and official application URL."
+      }
+    }
+  ],
+  "proposedRefreshGuardrails": {
+    "implemented": false,
+    "identity": "Namespace stable requisition/posting IDs by ATS provider and employer; do not merge unrelated employers by bare ID",
+    "pagination": "Verify a complete scan of the same board and filter scope before reconciliation",
+    "closures": "Only explicit employer closure or absence from a complete successful same-scope snapshot; do not close records after timeouts, 403, 429, 5xx, schema changes or partial pagination",
+    "history": "Preserve firstSeenAt, lastSeenAt and closedAt; allow a previously closed job to reopen if it reappears",
+    "failure": "Fail explicitly and preserve the last known-good dataset",
+    "rateLimits": "Bound concurrency, respect Retry-After, and avoid bypassing bot protection",
+    "scope": "These two vendor-company boards alone do not cover platform-development jobs at banks, consultancies or other employers"
+  }
+}
