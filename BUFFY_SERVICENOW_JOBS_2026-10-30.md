@@ -4,7 +4,7 @@
 **Scan date:** 2026-10-30
 **Scope:** ServiceNow platform roles — Toronto / GTA first, then fully-remote, then remote-eligible Canada, then USA.
 **Method:** live pull from Workopolis (SimplyHired feed), ServiceNow's own careers site (`careers.servicenow.com`), and SimplyHired US remote.
-**Rev 2:** cross-checked against another agent's overnight scan (Grok, passes from Oct 29 evening through Oct 30 afternoon). Net-new leads are in their own section with provenance — I did not independently verify those.
+**Rev 3:** added two cert-filtered shortlists — 20 ServiceNow roles carrying a CSA/CAD signal and 20 Salesforce roles carrying an Admin / Platform Developer signal.
 
 ---
 
@@ -164,6 +164,79 @@ Filtered: the US remote feed is dominated by sales, marketing, CS and EA roles a
 | 7 | ServiceNow Engineer | Dropbox | Remote — Mexico | — |
 
 > The Dropbox rows are included only because they are the same platform skill set; neither is US- or Canada-based.
+
+---
+
+## CERTIFIED-FIT SHORTLIST A — ServiceNow, 20 roles (CSA / CAD signal)
+
+**How I filtered:** every search that produced these rows included the certification terms in the query (`servicenow CSA CAD developer`, `servicenow certified system administrator CSA`), so the posting matched them. The **Cert signal** column separates the two grades of evidence:
+
+- **Confirmed** — I read the posting text and it names CSA or CAD directly.
+- **Search-matched** — the posting surfaced for a cert query but I did not read the cert line. Treat as likely, not proven.
+
+Toronto and remote-Canada first, then other Canadian cities, then US remote.
+
+| # | Role | Employer | Location / mode | Pay | Cert signal | Age |
+|---|---|---|---|---|---|---|
+| 1 | ServiceNow Developer (Sr. Associate) | Huron Consulting Group | Toronto, ON | $100,000–$159,300 | Search-matched | 13d |
+| 2 | ServiceNow Technical Lead | CAAT Pension Plan | Toronto, ON | $107,800–$133,700 | Search-matched | 9d |
+| 3 | ServiceNow Administrator / Developer | CGI | Toronto, ON — hybrid | $80,000–$130,000 | Search-matched | — |
+| 4 | ServiceNow Administrator / Developer (Intermediate) | BFG Enterprise Services | Markham, ON — hybrid | $70,000–$85,000 | Search-matched | — |
+| 5 | ServiceNow Administrator / Automation Analyst | Harris Computer Systems | Ontario | $58,000–$90,000 | Search-matched | — |
+| 6 | ServiceNow System Administrator (Req 432824) | Bell | Toronto, ON — hybrid 3d | — | **Confirmed** — CSA listed as preferred | **closes Nov 2** |
+| 7 | ServiceNow Senior Technical Advisor | Bell | Toronto, ON — hybrid | — | Search-matched | — |
+| 8 | Senior Consultant, ServiceNow Platform (DTC) | Deloitte | Toronto, ON — hybrid | $69,000–$114,000 | Search-matched | — |
+| 9 | ServiceNow Developer | Lightspeed Commerce | Toronto, ON — hybrid | — | Search-matched | 2d |
+| 10 | ServiceNow Lead Developer | Recutify Inc. | Toronto, ON — **remote** | — | Search-matched | — |
+| 11 | Senior ServiceNow Developer (Metrolinx client) | Source Code | Toronto, ON — hybrid 2d | $73.69–88.43/hr (T4) · $92.11–110.54/hr (corp) | CIS-Discovery a plus (per Grok) | ~Oct 29 |
+| 12 | ServiceNow Platform Developer | Acronym Solutions (Hydro One) | Toronto, ON — hybrid Mon/Wed | $60–63/hr | CSA + CAD required (per Grok) | Oct 29 |
+| 13 | Développeur(se) ServiceNow | CGI | Montréal, QC | $70,000–$120,000 | Search-matched | — |
+| 14 | FSO-ServiceNow Developer | National Bank of Canada | Montréal, QC — hybrid | — | **Confirmed** — CSA/CAD called "a major asset" | — |
+| 15 | Senior ServiceNow Developer | Irving Oil | Saint John, NB | $78,048–$105,365 | Search-matched | 9d |
+| 16 | ServiceNow Developer | Brock Solutions | Kitchener, ON | $60,000–$80,000 | Search-matched | — |
+| 17 | ServiceNow Consultant – REMOTE | NTT DATA | Ottawa, ON — remote | $70–80/hr | Search-matched | — |
+| 18 | ServiceNow Developer — ITSM & Scripting | Triade | **Remote** (contract, LatAm-based) | rate TBD, USD | **Confirmed** — CSA/CAD/CIS-ITSM nice-to-have | 11d |
+| 19 | Senior ServiceNow Developer | Everforth ECS | Remote (US) | $150,000–$170,000 | Search-matched | — |
+| 20 | ServiceNow Developer SME | General Dynamics IT | Remote (US) | $182,750–$247,250 | Search-matched · **background check / US-cleared work** | 20h |
+
+> Rows 18–20 are US/LatAm remote, not Canada-eligible in most cases. They're here because they are the strongest cert-signal postings in the remote feed, and 18 states the cert requirement outright.
+
+---
+
+## CERTIFIED-FIT SHORTLIST B — Salesforce, 20 roles (Admin / Platform Developer signal)
+
+Same two-grade evidence rule. Canadian roles first, then US remote.
+
+| # | Role | Employer | Location / mode | Pay | Cert signal | Age |
+|---|---|---|---|---|---|---|
+| 1 | Salesforce Developer | Panasonic Canada | Mississauga, ON — hybrid (12-mo contract) | $50–58/hr | **Confirmed** — *"Salesforce Certified Platform Developer I required; PD II an asset"* | **13h** |
+| 2 | Salesforce Platform Developer | Altus Group | Toronto, ON | $105,000–$115,000 | Search-matched | **4h** |
+| 3 | Salesforce Engineer / Developer | Maple Leaf Sports & Entertainment | Toronto, ON | $100,000–$120,000 | Search-matched | — |
+| 4 | Principal Salesforce Developer | Moneris Solutions | Toronto, ON — hybrid | — | Search-matched | — |
+| 5 | Sr. Salesforce Developer — Financial Services Cloud | Sagen | Oakville, ON — hybrid | — | Search-matched | 14d |
+| 6 | Senior Salesforce FSC Developer | Pyramid Consulting | Toronto, ON — hybrid | $62/hr | Search-matched | 11d |
+| 7 | Salesforce Developer (Marketing, Data & Experience Clouds) | Salytics | Toronto, ON | — | Search-matched | 9d |
+| 8 | Salesforce DevOps Developer | ATB Financial | Calgary, AB — hybrid | — | Search-matched | 17h |
+| 9 | Senior Salesforce Developer / Admin (137318) | Celestica | Toronto, ON — hybrid | — | Search-matched | Oct 16 |
+| 10 | Business Applications Administrator (Salesforce) | AML Oceanographic | Saanichton, BC | $80,750–$115,500 | Search-matched (returns on cert query) | — |
+| 11 | Salesforce Developer / Administrator | Astek | **Remote** CA/US — contract to end-2026 | — | Admin + PD1 (per Grok) | Oct 16 |
+| 12 | Salesforce Administrator | ALTEN Canada | **Remote** CA | $82,000 | NPSP required | Oct 24 |
+| 13 | Salesforce Developer | Versapay | **Remote** (Canadian company) | $70,000–$90,000 | Search-matched | — |
+| 14 | Salesforce Developer | viva | Remote (US) | $101.67–106.67/hr | **Confirmed** — *"Platform Developer I certification (PD II preferred)"* | 10d |
+| 15 | Senior Salesforce Developer | Koniag Government Services | Remote (US) | $160,000–$185,000 | Search-matched | — |
+| 16 | Salesforce Developer | CrossCountry Consulting | Remote (US) | $110,000–$140,000 | Search-matched | — |
+| 17 | Salesforce Developer (Cloud Developer) | General Dynamics IT | Remote (US) | $93,500–$126,500 | Search-matched · clearance likely | 6d |
+| 18 | Salesforce Developer III | ExtraHop | Seattle, WA — remote | $130,000–$149,000 | Search-matched | — |
+| 19 | Sr. Salesforce Developer | North South Consulting Group | Remote (US) | $100,000–$110,000 | Search-matched | 22h |
+| 20 | Salesforce Admin / Developer (R-00228) | True Zero Technologies | Remote (US) | — | Search-matched | — |
+
+### Notes on the Salesforce list
+
+- **Panasonic is the freshest strong match in the entire file** — 13 hours old, PD1 explicitly required, PD2 valued, and it's a 12-month contract in Mississauga that accepts hybrid. That combination (required cert + hybrid GTA + stated rate) is rarer than it should be.
+- **Altus Group** is 4 hours old at $105–115k in Toronto with "Platform Developer" in the title — worth an application today on freshness alone.
+- **Doctors of BC** (Vancouver, $70,856–$88,570, remote, Salesforce Administrator) is deliberately **excluded** — Grok reports the req is paused.
+- **Braze** (Toronto, $86,000–$149,000, Customer Success Platform Administrator) is excluded: it's a Braze platform role that merely mentions Salesforce in the stack.
+- Several Salesforce listings on these feeds are sales roles that use Salesforce rather than build on it (Account Executive, BDR, Territory Executive). None are in the table above.
 
 ---
 
