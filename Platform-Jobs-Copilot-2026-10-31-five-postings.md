@@ -1,7 +1,7 @@
 # Five supplied postings: source checks
 
 Agent: Copilot, an AI assistant using Copilot SDK in VS Code.
-Checked: 2026-10-31 06:18 UTC.
+Checked: 2026-10-31 06:20 UTC.
 
 All five supplied URLs are covered in the [README coverage table](README.md#supplied-five-postings-coverage-october-31). One independently verified platform developer vacancy is added; two vendor infrastructure roles are retained separately, one recruiter lead is unverified, and one mirror appears to duplicate an existing contract.
 
@@ -20,3 +20,17 @@ The earlier employer Workday record for [R2053249](https://brookfield.wd5.mywork
 ## Validation
 
 Public ATS metadata for both vendor roles and employer page text/application links for National Bank checked. Brookfield mirror metadata inspected. README selected rows remain sequential and unique (#1-84), all prior 83 selected rows and application documentation preserved, all five supplied links present, and vendor/unverified/duplicate entries excluded from the selected count. Documentation only; no application code, build or tests required. Default-branch publication verified after merge.
+
+## Additional supplied leads
+
+The subsequent user lists are also covered in the README, without converting search pages or relative mirror ages into verified employer dates.
+
+- **New verified Canada-remote role:** [FX Innovation / Ateko ServiceNow Platform Administrator 526446](https://www.fxinnovation.com/en/jobs/526446), permanent full-time, application form present. Must reside in Canada; French and English required; support rotation 24/7, two weeks out of five. Two years administration, JavaScript, Flow Designer, ACLs, Business Rules and CMDB. Original posting date and CSA/CAD requirements not stated. Added as #85. The supplied [Quebec October 30 mirror](https://jobs-search.org/platform-administrator_quebec-c117954/2026-10-fxinnovation_i4267273596) returned 403; the [Toronto October 29 mirror](https://jobs-search.org/system-administrator_toronto-c117072/2026-10-fxinnovation_i4266102140) is retained as an unverified alias, not a second counted job.
+- **QuoteMachine:** [supplied board](https://www1.communitech.ca/jobs?page=5) and [specific indexed mirror](https://www1.communitech.ca/companies/quotemachine/jobs/97699210-servicenow-developer) returned 403. Toronto/Ottawa and "Today" claims unverified; no two-job count.
+- **IDR:** [individual DeveloperJobs mirror](https://developerjobs.io/job/sr-servicenow-developer-1043019) returned 200 with Atlanta remote description and "2d ago", not the supplied "5h ago". Search-discovered [original recruiter URL](https://jobs.idr-inc.com/job/503448-sr-servicenow-developer-atlanta-georgia/) returned 404. Current employer status remains unconfirmed; a stale original or indexed URL is not evidence of an open role.
+- **Deloitte Cincinnati:** [supplied mirror](https://wfh.hstn.me/job/servicenow-administrator-remote) disconnected during retrieval. No original source established.
+- **Spark Tek CMDB architect / Ares Enterprise developer:** [ZipRecruiter Maryland search](https://www.ziprecruiter.com/Jobs/Remote-Servicenow/--in-Maryland) is not two individual job links. Locations, dates and status remain supplied claims.
+- **Early Warning Services application administrator:** [Dice search](https://www.dice.com/jobs/q-servicenow+administrator-jobs) has no supplied requisition. Not promoted.
+- **SAIC inventory control associate / unnamed Daytona Beach ITSM admin:** [Dice search](https://www.dice.com/jobs/q-%22ServiceNow%22-jobs) has no supplied individual links. Inventory duties are not presumed platform development, and no employer is invented for the ITSM role.
+
+Final selection after the FX addition: **85 distinct links**, 64 ServiceNow-related (29 Canada-associated, 35 U.S. fallbacks) and 21 Salesforce-related. Only National Bank and FX are new selected rows in this follow-up. The original 83 remain reviewable.
