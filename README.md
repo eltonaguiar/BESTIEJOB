@@ -5,9 +5,9 @@ Toronto-focused job posting consolidator for creative / technology manager roles
 <!-- DATE-SORTED-PLATFORM-INDEX:START -->
 ## Latest ServiceNow and Salesforce listings - newest first
 
-**Latest employer-source checks: 2026-10-31 Job hunter keyword-expand (McKesson SF MC Dev JR0147159 added); prior row-level check timestamps retained | Agent: Job hunter**
+**Latest employer-source checks: 2026-10-31 Job hunter Arlo-verify (Randstad SF Dev/Arch 47309954 + Kensington HubSpot CRM 5206208007); prior timestamps retained | Agent: Job hunter**
 
-All **89 selected posting links** are indexed below by original reported publication date within each platform. Recent means within 60 days of October 31; older and undated exceptions follow. Location and employment are included; full qualifications and historical evidence remain in the original review tables below. No job is hidden solely because its current source could not be checked.
+All **91 selected posting links** are indexed below by original reported publication date within each platform. Recent means within 60 days of October 31; older and undated exceptions follow. Location and employment are included; full qualifications and historical evidence remain in the original review tables below. No job is hidden solely because its current source could not be checked.
 
 **Status is not a guarantee:** Accepting (ATS) affirms applications at check time; Listed (ATS) means a public ATS record exists; Detail listed means matching public detail/application controls were found. Unconfirmed means the latest check failed or did not establish a usable vacancy detail, not proof of closure. Provisional mirrors are not employer verification. Earlier posting dates are preserved, not replaced by refresh timestamps.
 
@@ -95,9 +95,9 @@ All **89 selected posting links** are indexed below by original reported publica
 | Not disclosed | [ServiceNow Developer (SERV-NOW-DEV-KIT-26-1) - Brock Solutions](https://careers.brocksolutions.com/Careers.aspx?req=SERV-NOW-DEV-KIT-26-1&type=JOBDESCR) | Canada: Kitchener, Ontario head office; remote/hybrid not promised | Full-time | Detail listed | Not disclosed |
 | Not disclosed | [ServiceNow Platform Administrator (526446 / 314590) - FX Innovation / Ateko](https://www.fxinnovation.com/en/jobs/526446) | Canada remote; must reside in Canada; French and English required | Permanent full-time | Detail listed | Not disclosed |
 
-### Salesforce - date-sorted review (24)
+### Salesforce - date-sorted review (26)
 
-#### Recent (within 60 days) (21)
+#### Recent (within 60 days) (23)
 
 | Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
 |---|---|---|---|---|---|
@@ -122,6 +122,8 @@ All **89 selected posting links** are indexed below by original reported publica
 | 2026-09-29 | [GTM Systems Administrator (4424870009) - Dscout](https://job-boards.greenhouse.io/dscout/jobs/4424870009) | USA: Remote US; additional state exclusions in description | Not disclosed | Listed (ATS) | Not disclosed |
 | 2026-09-25 | [Salesforce Administrator - Assistant Vice President (8833783002) - iCapital](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8833783002) | Canada: Toronto; office Monday-Thursday, Friday remote | Full-time | Listed (ATS) | Not disclosed |
 | 2026-09-23 | [B2B Salesforce Administrator (74921) - Staples Canada](https://careers.staples.ca/hcmUI/CandidateExperience/en/sites/StaplesCanada/job/74921) | Canada: Richmond Hill, Ontario; hybrid four onsite days, subject to policy | Full-time | Listed (ATS) | Not disclosed |
+| 2026-08-20 | [Senior Salesforce Developer and Architect (6LPQLY8PROEN) - Randstad Canada](https://www.randstad.ca/jobs/senior-salesforce-developer-and-architect_brampton_47309954/) | Canada: Brampton listing; location stated Toronto, ON | 12-month contract | Detail listed | Not disclosed |
+| 2026-08-18 | [HubSpot CRM Developer (5206208007) - Kensington Tours](https://job-boards.greenhouse.io/kensingtontours/jobs/5206208007) | Canada: Downtown Toronto HQ; hybrid 2-3 days/week | Full-time | Listed (ATS) | Not disclosed |
 
 #### Older active/history exceptions (3)
 
