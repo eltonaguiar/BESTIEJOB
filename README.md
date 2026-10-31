@@ -96,16 +96,23 @@ Full listing: [`opencode-2026-10-30-servicenow-salesforce-jobs.md`](https://gith
 ### Top Toronto/Ontario picks
 
 **ServiceNow**
-- ServiceNow Administrator-CSA/Banking — BeachHead Inc. (Toronto) — explicit CSA/Banking
-- ServiceNow Technical Lead — CAAT Pension Plan (Toronto) — $107,800–$133,700
-- Senior ServiceNow Engineer — EQ Bank (Toronto)
-- ServiceNow Developer (CONTRACT ROLE) — Brookfield Properties (Toronto)
+- ServiceNow Administrator-CSA/Banking — BeachHead Inc. (Toronto) — explicit CSA/Banking — 2026-10-29
+- ServiceNow Technical Lead — CAAT Pension Plan (Toronto) — $107,800–$133,700 — 2026-10-22
+- Senior ServiceNow Engineer — EQ Bank (Toronto) — 2026-10-29
+- ServiceNow Developer (CONTRACT ROLE) — Brookfield Properties (Toronto) — 2026-10-22
+- ServiceNow Business Analyst — Intercast Staffing Ltd. (Toronto) — 2026-10-29
+- ServiceNow Admin — Forhyre (Toronto) — 2026-10-15
+- ServiceNow System Administrator — Forhyre (Toronto) — 2026-10-15
+- ServiceNow Architect — Acestack (Regent Park, Toronto) — 2026-10-29
+- ServiceNow AIOps Architect — BULL-IT SOLUTIONS LTD (Toronto) — 2026-10-30
+- Senior Manager, ServiceNow - Operate — Deloitte (Toronto) — 2026-10-21
+- Technology Lead, Enterprise Platforms & Operation (Director) — TMX Group (Toronto) — 2026-10-29
 
 **Salesforce**
-- Senior Salesforce Administrator — Loopio (Toronto) — $85,000–$105,000
-- Senior Salesforce Developer / Admin — Celestica (Toronto, hybrid)
-- Consultant, Salesforce Development — CIBC (Toronto)
-- Software Engineer II (Salesforce Loyalty Management Developer) — TD Bank (Toronto)
+- Senior Salesforce Administrator — Loopio (Toronto) — $85,000–$105,000 — 2026-10-15
+- Senior Salesforce Developer / Admin — Celestica (Toronto, hybrid) — 2026-10-29
+- Consultant, Salesforce Development — CIBC (Toronto) — 2026-10-29
+- Software Engineer II (Salesforce Loyalty Management Developer) — TD Bank (Toronto) — 2026-10-28
 
 ## Navigation
 - **Home** (/) - Main job search with filters

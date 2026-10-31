@@ -46,6 +46,14 @@ Priority order: **Toronto/Ontario → fully remote → remote-eligible Canada �
 | 12 | ServiceNow Technical Architect | Forhyre | Toronto, Ontario | Not posted | 2026-10-15 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/land/ad/5929042174?se=kDW1d73U8RGRQOLR_vdAhg&utm_medium=api&utm_source=54ce986e&v=4C28476879067AD0C6AF8A08808F66C41DAFE0B8) |
 | 13 | ServiceNow Systems Administrator | Global Technical Talent | Toronto, Ontario | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5946006935?utm_medium=api&utm_source=54ce986e) |
 | 14 | RQ00757 - Specialized IT Consultant - Intermediate | Source Code | Toronto, Ontario | Not posted | 2026-10-17 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5932100459?utm_medium=api&utm_source=54ce986e) |
+| 15 | ServiceNow Business Analyst | Intercast Staffing Ltd. | Toronto, Ontario | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5945999545?utm_medium=api&utm_source=54ce986e) |
+| 16 | ServiceNow Admin | Forhyre | Toronto, Ontario | Not posted | 2026-10-15 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5929035539?utm_medium=api&utm_source=54ce986e) |
+| 17 | ServiceNow System Administrator | Forhyre | Toronto, Ontario | Not posted | 2026-10-15 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5929028774?utm_medium=api&utm_source=54ce986e) |
+| 18 | ServiceNow Architect | Acestack | Regent Park, City of Toronto | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5946061285?utm_medium=api&utm_source=54ce986e) |
+| 19 | OPEN: ServiceNow – Architect | Cpus Engineering Staffing Solutions Inc. | Oshawa, Durham region | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5946006914?utm_medium=api&utm_source=54ce986e) |
+| 20 | Senior Manager, ServiceNow - Operate | Deloitte | Toronto, Ontario | Not posted | 2026-10-21 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5937250343?utm_medium=api&utm_source=54ce986e) |
+| 21 | Technology Lead, Enterprise Platforms & Operation (Director) | TMX Group | Toronto, Ontario | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5945999898?utm_medium=api&utm_source=54ce986e) |
+| 22 | ServiceNow AIOps Architect | BULL-IT SOLUTIONS LTD | Toronto, Ontario | Not posted | 2026-10-30 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5947169710?utm_medium=api&utm_source=54ce986e) |
 
 ### Fully remote / remote-eligible Canada
 
@@ -57,6 +65,11 @@ Priority order: **Toronto/Ontario → fully remote → remote-eligible Canada �
 | 18 | ServiceNow Moveworks Developer & Architect | NewRocket | Canada (fully remote) | Not posted | 2026-10-22 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5937657900?utm_medium=api&utm_source=54ce986e) |
 | 19 | ServiceNow Solution Architect – FSO, FSM, CSM | NewRocket | Canada (fully remote) | Not posted | 2026-10-22 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5937651970?utm_medium=api&utm_source=54ce986e) |
 | 20 | Senior ServiceNow Developer (ITOM) | Systematix group | Canada (fully remote) | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5945995612?utm_medium=api&utm_source=54ce986e) |
+| 21 | ServiceNow Business Process Consultant – FSO/CSM | NewRocket | Canada (fully remote) | Not posted | 2026-10-30 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5946714109?utm_medium=api&utm_source=54ce986e) |
+| 22 | ServiceNow Strategic Portfolio Management (SPM) Consultant | RSM US LLP | Canada (fully remote) | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5946001982?utm_medium=api&utm_source=54ce986e) |
+| 23 | ServiceNow OMT Architect | Alldus | Canada (fully remote) | Not posted | 2026-10-30 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5947169729?utm_medium=api&utm_source=54ce986e) |
+| 24 | ServiceNow CSM/OMT Architect – 12-Month Contract | Alldus | Canada (fully remote) | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5946004861?utm_medium=api&utm_source=54ce986e) |
+| 25 | Senior Consultant - ServiceNow HRSD | Infosys | Calgary, Calgary region | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5946000121?utm_medium=api&utm_source=54ce986e) |
 
 ### Additional Canada listings (beyond 20)
 
@@ -73,6 +86,8 @@ Priority order: **Toronto/Ontario → fully remote → remote-eligible Canada �
 | ServiceNow Technical Consultant | Cognizant | Toronto, Ontario | Not posted | 2026-10-23 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5938973159?utm_medium=api&utm_source=54ce986e) |
 | Senior Consultant, ServiceNow (ITAM/ITOM) | KPMG | Toronto, Ontario | Not posted | 2026-10-16 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5931344670?utm_medium=api&utm_source=54ce986e) |
 | Manager, ServiceNow Technical Lead | KPMG | Toronto, Ontario | Not posted | 2026-10-13 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5926445524?utm_medium=api&utm_source=54ce986e) |
+| Administrateur ServiceNow | Pomerleau | Montréal, Québec | Not posted | 2026-10-29 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5945999746?utm_medium=api&utm_source=54ce986e) |
+| ServiceNow Manager | KPMG | Montréal, Québec | Not posted | 2026-10-30 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5947366387?utm_medium=api&utm_source=54ce986e) |
 | ServiceNow Technical Lead | CAAT Pension Plan | Toronto, Ontario | $107,800–$133,700 | 2026-10-22 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5937649084?utm_medium=api&utm_source=54ce986e) |
 | Senior ServiceNow Developer | Irving Oil | Saint John region, NB | $78,048–$105,365 | 2026-10-22 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5937659434?utm_medium=api&utm_source=54ce986e) |
 | ServiceNow Administrator / Developer (Intermediate) | BFG Enterprise Services | Markham, York region | Not posted | 2026-10-26 | CSA/CAD expected | Unverified | [Apply](https://www.adzuna.ca/details/5942232915?utm_medium=api&utm_source=54ce986e) |
