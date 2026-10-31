@@ -4,9 +4,9 @@ Toronto-focused job posting consolidator for creative / technology manager roles
 
 ## Platform-job review list
 
-**Updated: 2026-10-31 03:10 UTC | Agent: Copilot (Copilot SDK in VS Code)**
+**Updated: 2026-10-31 06:18 UTC | Agent: Copilot (Copilot SDK in VS Code)**
 
-**Complete consolidated set: 83 distinct specific posting links - 62 ServiceNow-related and 21 Salesforce-related.** ServiceNow: 27 Canada-associated, 35 USA fallbacks. Includes **82 source-checked employer/ATS or individual Dice postings plus one explicitly provisional Club mirror**. The latest hunt adds seven independently checked Canadian postings: two ServiceNow and five Salesforce. Six of these seven have source publication dates within 60 days; Movable Ink is an explicitly older active exception. [Latest additions, #77-83](#latest-verified-canadian-additions-october-31-7) appear after the original 76 preserved rows below. The original 76 were checked in the earlier round, not all re-fetched at this update. 'Newly found' does not mean newly posted; related administrator, architect, process and leadership roles are labelled, and this is not a guarantee of continued availability.
+**Complete consolidated set: 84 distinct specific posting links - 63 ServiceNow-related and 21 Salesforce-related.** ServiceNow: 28 Canada-associated, 35 USA fallbacks. Includes **83 source-checked employer/ATS or individual Dice postings plus one explicitly provisional Club mirror**. [Rows #77-83](#latest-verified-canadian-additions-october-31-7) add seven independently checked Canadian postings from the earlier October 31 hunt. National Bank's FSO developer is now added as #84. The [five supplied links are all covered below](#supplied-five-postings-coverage-october-31); vendor database/SRE jobs and an unverified Tekgence lead are separate from the selected platform-job count. Earlier rows were checked in previous rounds, not all re-fetched at this update. 'Newly found' does not mean newly posted; related roles and older exceptions are labelled, and this is not a guarantee of continued availability.
 
 **Arena.ai scan incorporated:** [All 50 ServiceNow and 20 Salesforce candidate labels, plus verification corrections](Platform-Jobs-Copilot-2026-10-31-Arena-review.md). The pasted scan lost its hyperlinks and requisition IDs. Its claimed 70/70 live checks, posting dates, salaries and work modes are not adopted as independently verified facts. Overlaps are not counted twice; only independently sourced postings enter the linked review set.
 
@@ -124,9 +124,27 @@ Checked 2026-10-31 03:10 UTC. These seven are additional to, not replacements fo
 | 82 | [Senior Salesforce Administrator (8129548) - Movable Ink](https://movableink.com/job-listing?gh_jid=8129548) | Toronto, Ontario; work mode not established | Not disclosed | 2026-08-14 (older than 60d) | OLDER ACTIVE EXCEPTION: still on employer Greenhouse board; first_published August 14, not Arena October 19. Active Salesforce Administrator certification required; Advanced Admin / Business Analyst preferred. |
 | 83 | [ServiceNow SPM Developer (59286) - Alldus](https://alldus.com/job/59286-servicenow-spm-developer-montreal-quebec/) | Montreal, Quebec; French-speaking; work mode not disclosed | Contract | 2026-10-22 | Three+ years ServiceNow; SPM, JavaScript, Script Includes, Business Rules, Flow Designer, REST/SOAP. CSA/CAD not stated. Recruiter JobPosting validThrough January 20, 2027; not Arena October 30. |
 
+### National Bank addition - October 31 (1)
+
+| # | Role / company / specific posting | Location and arrangement | Employment | Posted | Fit / caveat |
+|---|---|---|---|---|---|
+| 84 | [FSO-ServiceNow Developer (33633) - National Bank of Canada](https://emplois.bnc.ca/en_CA/careers/JobDetail/MONTREAL-Quebec-Canada-P5I27-DEVELOPPEUR-PRINCIPAL/33633) | Montreal, Quebec; hybrid; French listed | Permanent full-time | 2026-10-14 | Employer page and Apply links present. Five years ServiceNow development; FSO, JavaScript, Flow Designer, GlideScript, REST/SOAP; CSA/CAD major assets. Not Canada-wide remote. |
+
+### Supplied five postings - coverage October 31
+
+All five user-supplied links are retained here. This coverage table is **not five additional platform developer vacancies**. [Source evidence and caveats](Platform-Jobs-Copilot-2026-10-31-five-postings.md).
+
+| Supplied role / source | Posted | Coverage / status |
+|---|---|---|
+| [Staff Database Engineer - ServiceNow](https://careers.servicenow.com/jobs/744000154789179/staff-database-engineer/) | 2026-10-09 | Official SmartRecruiters record verified; Toronto hybrid, two office days. PostgreSQL/database engineering, not ServiceNow application development; excluded from platform count. [Official application](https://jobs.smartrecruiters.com/ServiceNow/744000154789179-staff-database-engineer?oga=true). |
+| [ServiceNow Developer - Tekgence](https://www.jobs.ca/tekgence-inc/jobs/servicenow-developer-toronto-on-173ede1d1492) | October 16 claimed; unverified | Toronto claimed; source returned HTTP 403 protection page. Employment, certification and vacancy status unverified; retained as a lead, not counted. No bypass attempted. |
+| [Staff Site Reliability Engineer - ServiceNow](https://careers.servicenow.com/jobs/744000156040224/staff-site-reliability-engineer/) | 2026-10-16 | Official SmartRecruiters record verified; Toronto hybrid. Kubernetes/SRE/DevOps role, not ServiceNow application development; excluded from platform count. [Official application](https://jobs.smartrecruiters.com/ServiceNow/744000156040224-staff-site-reliability-engineer?oga=true). |
+| [FSO-ServiceNow Developer - National Bank](https://emplois.bnc.ca/en_CA/careers/JobDetail/MONTREAL-Quebec-Canada-P5I27-DEVELOPPEUR-PRINCIPAL/33633) | 2026-10-14 | Independently verified and counted once as #84 above. |
+| [ServiceNow Developer (CONTRACT ROLE) - Brookfield Properties / Handshake](https://app.joinhandshake.com/public/jobs/11747479) | Mirror datePosted 2026-10-22 | Apparent duplicate of #07: same Toronto November 2026-June 2027 contract and duties. Handshake validThrough November 21 at 10:11:50 UTC is a mirror expiry, not confirmed employer deadline. Earlier employer date October 20 retained; current Workday refresh returned non-JSON and did not confirm continued employer acceptance. |
+
 ### Additional peer leads - unverified review queue
 
-These are **not additional to the 83 checked/provisional detail postings above**. They preserve candidate links from the latest Auto, Buffy and Kilo platform reports for review, not endorsement. Original posting dates and current application status are **not independently verified unless the review-state column explicitly says otherwise**. Duplicate employer/title variants and client aliases can remain; peer salary, certification and remote claims are not adopted. Confirmed-stale examples are explicitly identified below and must not be treated as active jobs. The source-report index following this queue preserves access to the rest of the larger peer scans. Arena's 70 hyperlink-free candidate labels are preserved separately in the linked October 31 report.
+These are **not additional to the 84 checked/provisional detail postings above**. They preserve candidate links from the latest Auto, Buffy and Kilo platform reports for review, not endorsement. Original posting dates and current application status are **not independently verified unless the review-state column explicitly says otherwise**. Duplicate employer/title variants and client aliases can remain; peer salary, certification and remote claims are not adopted. Confirmed-stale examples are explicitly identified below and must not be treated as active jobs. The source-report index following this queue preserves access to the rest of the larger peer scans. Arena's 70 hyperlink-free candidate labels are preserved separately in the linked October 31 report.
 
 | Candidate / claimed employer | Claimed location (unverified) | Original posted date | Review state | Source report |
 |---|---|---|---|---|
