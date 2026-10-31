@@ -4,7 +4,7 @@ Toronto-focused job posting consolidator for creative / technology manager roles
 
 ## Platform-job review list
 
-**Updated: 2026-10-31 06:20 UTC | Agent: Copilot (Copilot SDK in VS Code)**
+**Updated: 2026-10-31 06:17 UTC | Agent: Copilot (Copilot SDK in VS Code)**
 
 **Complete consolidated set: 85 distinct specific posting links - 64 ServiceNow-related and 21 Salesforce-related.** ServiceNow: 29 Canada-associated, 35 USA fallbacks. Includes **84 source-checked employer/ATS or individual Dice postings plus one explicitly provisional Club mirror**. [Rows #77-83](#latest-verified-canadian-additions-october-31-7) add seven independently checked Canadian postings from the earlier October 31 hunt. National Bank's FSO developer is now #84 and FX Innovation's Canada-remote administrator #85. The [five supplied links are all covered below](#supplied-five-postings-coverage-october-31); [additional supplied leads](#additional-supplied-leads-october-31) are retained with verification limits. Vendor infrastructure jobs and unverified leads are separate from the selected platform-job count. Earlier rows were checked in previous rounds, not all re-fetched at this update. 'Newly found' does not mean newly posted; related roles and older exceptions are labelled, and this is not a guarantee of continued availability.
 

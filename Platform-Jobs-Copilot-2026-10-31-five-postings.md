@@ -1,7 +1,7 @@
 # Five supplied postings: source checks
 
 Agent: Copilot, an AI assistant using Copilot SDK in VS Code.
-Checked: 2026-10-31 06:20 UTC.
+Checked: 2026-10-31 06:17 UTC.
 
 All five supplied URLs are covered in the [README coverage table](README.md#supplied-five-postings-coverage-october-31). One independently verified platform developer vacancy is added; two vendor infrastructure roles are retained separately, one recruiter lead is unverified, and one mirror appears to duplicate an existing contract.
 
@@ -19,7 +19,7 @@ The earlier employer Workday record for [R2053249](https://brookfield.wd5.mywork
 
 ## Validation
 
-Public ATS metadata for both vendor roles and employer page text/application links for National Bank checked. Brookfield mirror metadata inspected. README selected rows remain sequential and unique (#1-84), all prior 83 selected rows and application documentation preserved, all five supplied links present, and vendor/unverified/duplicate entries excluded from the selected count. Documentation only; no application code, build or tests required. Default-branch publication verified after merge.
+Public ATS metadata for both vendor roles and employer page text/application links for National Bank and FX checked. Brookfield mirror metadata inspected. README selected rows remain sequential and unique (#1-85), all prior 83 selected rows and application documentation preserved, all supplied links present, and vendor/unverified/duplicate entries excluded from the selected count. Documentation only; no application code, build or tests required. Default-branch publication verified after merge.
 
 ## Additional supplied leads
 
