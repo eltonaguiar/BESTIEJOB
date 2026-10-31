@@ -139,6 +139,7 @@ All **86 selected posting links** are indexed below by original reported publica
 | [BESTIEJOB#5](https://github.com/eltonaguiar/BESTIEJOB/pull/5) | Merged | Closed City posting and junior/seniority caveats retained |
 | [BESTIEJOB#6](https://github.com/eltonaguiar/BESTIEJOB/pull/6) | This date/expiry consolidation | All 85 selected links indexed by platform/date with current source status and disclosed expiry |
 | [BESTIEJOB#7](https://github.com/eltonaguiar/BESTIEJOB/pull/7) | Government-source follow-up | OPS historical closure, blocked search and unavailable public-sector leads documented; selected count unchanged |
+| [BESTIEJOB#8](https://github.com/eltonaguiar/BESTIEJOB/pull/8) | ServiceNow gap hunt | Procom GTA-hybrid specialist #86 added; six supplied gaps classified with source limitations |
 
 ### Job-board discovery resources (not a quality ranking)
 
