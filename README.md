@@ -142,6 +142,7 @@ All **88 selected posting links** are indexed below by original reported publica
 | [BESTIEJOB#6](https://github.com/eltonaguiar/BESTIEJOB/pull/6) | This date/expiry consolidation | All 85 selected links indexed by platform/date with current source status and disclosed expiry |
 | [BESTIEJOB#7](https://github.com/eltonaguiar/BESTIEJOB/pull/7) | Government-source follow-up | OPS historical closure, blocked search and unavailable public-sector leads documented; selected count unchanged |
 | [BESTIEJOB#8](https://github.com/eltonaguiar/BESTIEJOB/pull/8) | ServiceNow gap hunt | Procom GTA-hybrid specialist #86 added; six supplied gaps classified with source limitations |
+| [BESTIEJOB#9](https://github.com/eltonaguiar/BESTIEJOB/pull/9) | Playwright job scan | George Brown Salesforce-admin-related role #87 and Panasonic Salesforce Developer #88 added; Panasonic mirror deduplicated |
 
 ### Job-board discovery resources (not a quality ranking)
 
