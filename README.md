@@ -80,6 +80,31 @@ Toronto tech hiring snapshots:
 - Low-data visual patterns and voice/keyboard hints keep every device responsive
 - Micro dashboards for push alerts, saved searches, and offline-ready shortlists
 
+## Job Scan (2026-10-30)
+
+Agent **kilo** ran a targeted ServiceNow + Salesforce job scan across Canadian bank portals, IT recruiting agencies, startup job sites, and remote boards.
+
+**Scanned sources:** Scotiabank careers, BMO careers, jobs.ca (BFG, Brock Solutions, Tekgence, PrecisionERP, Systematix, Hanalytica, LeverageTek), startup.jobs, builtintoronto.com, Teal HQ, Remotive, Indeed CA/US, ZipRecruiter, Greenhouse, Lever, Jooble.
+
+**Key fresh finds (last 7 days at scan time):**
+
+| Role | Company | Location | Posted | CSA/CAD | Apply |
+|------|---------|----------|--------|---------|-------|
+| ServiceNow Developer | **BMO** | Toronto, ON | Oct 2026 | CSA + CAD **required** | https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260027442EXTERNALENCA/ServiceNow-Sr-Developer-ITSM-AI-GRC |
+| ServiceNow Developer | **Scotiabank** | Toronto, ON | Oct 24, 2026 | "a plus" | https://jobs.scotiabank.com/job/Toronto-ServiceNow-Developer-ON-M5H-1H1/603030017 |
+| ServiceNow Developer | **City of Toronto** | Toronto, ON | Oct 5, 2026 | CSA req, CAD asset | https://jobs.toronto.ca/jobsatcity/job/Toronto-SYSTEMS-INTEGRATOR-1-%28SERVICENOW-DEVELOPER%29-ON-M5V-3C6/606700617 |
+| ServiceNow Developer | **Brookfield** | Toronto, ON | Oct 20, 2026 | CSA + CAD | https://www.jobs.ca/brookfield-asset-management/jobs/servicenow-developer-contract-role-toronto-on-8b05d6a30bcc |
+| ServiceNow Developer | **BFG Enterprise** | Markham, ON | Sep 25, 2026 | CSA/CAD preferred | https://careers.bfg.ca/jobs/707075-servicenow-administrator-developer-intermediate |
+| ServiceNow Developer | **Brock Solutions** | Cambridge, ON | Oct 8, 2026 | CSA/CAD preferred | https://www.jobs.ca/brock-solutions/jobs/servicenow-developer-cambridge-on-6ec3ecdaeeda |
+| ServiceNow Dev (ITOM) | **Systematix** | Remote (CA) | Oct 17, 2026 | CSA/CAD preferred | https://www.jobs.ca/systematix/jobs/senior-servicenow-developer-itom-remote-canada-d1404c402e83 |
+| ServiceNow Architect | **Crossfuze** | Remote (CA) | Oct 30, 2026 | unverified | https://ca.jooble.org/job/servicenow-architect-fully-remote-at-crossfuze |
+| ServiceNow Developer | **ManTech** | Remote (US) | Oct 2026 | CSA required | https://www.tealhq.com/job/servicenow-developer_7ea1a1aef814edcd42f24316d105d73bc9d4e |
+| ServiceNow Architect | **RSC Solutions** | Jersey City, NJ | Recent | CSA+CAD+CIS | https://www.ziprecruiter.com/c/RSC-Solutions/Job/ServiceNow-Architect/-in-Jersey-City,NJ |
+
+**Full curated lists** (20 ServiceNow + 20 Salesforce with links, salaries, posting dates, and cert verification): see `kilo-2026-10-30-servicenow-salesforce-jobs.md`
+
+Legend: cert quoted verbatim from posting | unverified (standard expectation, not quoted verbatim)
+
 ## Navigation
 - **Home** (/) - Main job search with filters
 - **Find Jobs** (/gotjob/) - Alternative job search interface with filters, source tuning, and stats
