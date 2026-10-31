@@ -15,55 +15,55 @@ Two gaps prompted it:
 
 ### Posted 2026-10-31 (28 Canadian postings)
 
-| Role | Employer | Location | Salary | Family | Source |
-|---|---|---|---|---|---|
-| ServiceNow Systems Administrator | GTT, LLC | Toronto | — | ServiceNow | [Adzuna 5948015907](https://www.adzuna.ca/details/5948015907) |
-| IT – Systems Administrator V, ServiceNow | ICONMA | Toronto | — | ServiceNow | [Adzuna 5948007824](https://www.adzuna.ca/details/5948007824) |
-| Principal Solution Architect – ServiceNow | ServiceNow, Inc. | Toronto, flexible/remote | — | ServiceNow | [Adzuna 5947778885](https://www.adzuna.ca/details/5947778885) · [official ATS, Oct 29](https://jobs.smartrecruiters.com/ServiceNow/744000158575719-principal-solution-architect-servicenow) |
-| Salesforce Administrator — Natural Health | White Bay | Toronto, hybrid | $60,000–$75,000 | Salesforce | [Adzuna 5948025592](https://www.adzuna.ca/details/5948025592) |
-| Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5947991002](https://www.adzuna.ca/details/5947991002) |
-| Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5948024454](https://www.adzuna.ca/details/5948024454) |
-| Senior Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5948026874](https://www.adzuna.ca/details/5948026874) |
-| Senior Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5947973988](https://www.adzuna.ca/details/5947973988) |
-| Salesforce Technical Architect | Orion Global Solutions | Toronto | — | Salesforce | [Adzuna 5948276350](https://www.adzuna.ca/details/5948276350) |
-| Salesforce QA | Q1 Technologies, Inc | Toronto | — | Salesforce | [Adzuna 5948023740](https://www.adzuna.ca/details/5948023740) |
-| ServiceNow Consultant — REMOTE | NTT DATA | Ottawa region / remote | — | ServiceNow | [Adzuna 5948024837](https://www.adzuna.ca/details/5948024837) |
-| ServiceNow Developer (26-16925) | US Tech Solutions | Ottawa | — | ServiceNow | [Adzuna 5948016541](https://www.adzuna.ca/details/5948016541) |
-| ServiceNow Technical Lead (26-18755) | US Tech Solutions | Ottawa | — | ServiceNow | [Adzuna 5947991041](https://www.adzuna.ca/details/5947991041) |
-| Business Analyst – ServiceNow | IBM Canada | Ottawa | — | ServiceNow | [Adzuna 5947998754](https://www.adzuna.ca/details/5947998754) |
-| Business Analyst – ServiceNow | Artech LLC | Ottawa | — | ServiceNow | [Adzuna 5948025863](https://www.adzuna.ca/details/5948025863) |
-| Senior ServiceNow Architect | Optovia | Ottawa | — | ServiceNow | [Adzuna 5948277202](https://www.adzuna.ca/details/5948277202) |
-| ServiceNow Consultant / Developer | Artech LLC | Unionville (Markham) | — | ServiceNow | [Adzuna 5948006803](https://www.adzuna.ca/details/5948006803) |
-| Salesforce Developer | Panasonic North America | Mississauga | — | Salesforce | [Adzuna 5947778702](https://www.adzuna.ca/details/5947778702) · [detail: PD I + Admin + App Builder required](https://hiringcafe.com/job/salesforce-developer-panasonic-corporation-of-north-america-tlgbc2h49e0plxtk) |
-| Salesforce QA | Epsilon Solutions LTD | Mississauga | — | Salesforce | [Adzuna 5947996642](https://www.adzuna.ca/details/5947996642) |
-| Senior Business Analyst, Salesforce CRM | Artech LLC | Mississauga | — | Salesforce | [Adzuna 5948013878](https://www.adzuna.ca/details/5948013878) |
-| Sr. Salesforce Marketing Cloud Developer | Artech LLC | Kitchener | — | Salesforce | [Adzuna 5948023540](https://www.adzuna.ca/details/5948023540) |
-| Principal ServiceNow Consultant | Macpower Digital Assets Edge | Halifax | — | ServiceNow | [Adzuna 5947999519](https://www.adzuna.ca/details/5947999519) |
-| Salesforce Support Analyst | Diverse Lynx | Halifax | — | Salesforce | [Adzuna 5948026538](https://www.adzuna.ca/details/5948026538) |
-| Salesforce Developer | Macpower Digital Assets Edge | Calgary | — | Salesforce | [Adzuna 5948023880](https://www.adzuna.ca/details/5948023880) |
-| Salesforce Technical Lead | Macpower Digital Assets Edge | Calgary | — | Salesforce | [Adzuna 5948016965](https://www.adzuna.ca/details/5948016965) |
-| Salesforce Revenue Cloud Architect | Epsilon Solutions LTD | Montréal | — | Salesforce | [Adzuna 5947996543](https://www.adzuna.ca/details/5947996543) |
-| Salesforce Technical Architect | Jobgether | Canada, remote | — | Salesforce | [Adzuna 5948276995](https://www.adzuna.ca/details/5948276995) |
-| Principal Solutions Consultant – Salesforce & Digital Transformation | Chapman Tate Associates | Canada | — | Salesforce | [Adzuna 5948276722](https://www.adzuna.ca/details/5948276722) |
+| Posted | Role | Employer | Location | Salary | Family | Source |
+|---|---|---|---|---|---|---|
+| 2026-10-31 | ServiceNow Systems Administrator | GTT, LLC | Toronto | — | ServiceNow | [Adzuna 5948015907](https://www.adzuna.ca/details/5948015907) |
+| 2026-10-31 | IT – Systems Administrator V, ServiceNow | ICONMA | Toronto | — | ServiceNow | [Adzuna 5948007824](https://www.adzuna.ca/details/5948007824) |
+| 2026-10-31 | Principal Solution Architect – ServiceNow | ServiceNow, Inc. | Toronto, flexible/remote | — | ServiceNow | [Adzuna 5947778885](https://www.adzuna.ca/details/5947778885) · [official ATS, Oct 29](https://jobs.smartrecruiters.com/ServiceNow/744000158575719-principal-solution-architect-servicenow) |
+| 2026-10-31 | Salesforce Administrator — Natural Health | White Bay | Toronto, hybrid | $60,000–$75,000 | Salesforce | [Adzuna 5948025592](https://www.adzuna.ca/details/5948025592) |
+| 2026-10-31 | Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5947991002](https://www.adzuna.ca/details/5947991002) |
+| 2026-10-31 | Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5948024454](https://www.adzuna.ca/details/5948024454) |
+| 2026-10-31 | Senior Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5948026874](https://www.adzuna.ca/details/5948026874) |
+| 2026-10-31 | Senior Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5947973988](https://www.adzuna.ca/details/5947973988) |
+| 2026-10-31 | Salesforce Technical Architect | Orion Global Solutions | Toronto | — | Salesforce | [Adzuna 5948276350](https://www.adzuna.ca/details/5948276350) |
+| 2026-10-31 | Salesforce QA | Q1 Technologies, Inc | Toronto | — | Salesforce | [Adzuna 5948023740](https://www.adzuna.ca/details/5948023740) |
+| 2026-10-31 | ServiceNow Consultant — REMOTE | NTT DATA | Ottawa region / remote | — | ServiceNow | [Adzuna 5948024837](https://www.adzuna.ca/details/5948024837) |
+| 2026-10-31 | ServiceNow Developer (26-16925) | US Tech Solutions | Ottawa | — | ServiceNow | [Adzuna 5948016541](https://www.adzuna.ca/details/5948016541) |
+| 2026-10-31 | ServiceNow Technical Lead (26-18755) | US Tech Solutions | Ottawa | — | ServiceNow | [Adzuna 5947991041](https://www.adzuna.ca/details/5947991041) |
+| 2026-10-31 | Business Analyst – ServiceNow | IBM Canada | Ottawa | — | ServiceNow | [Adzuna 5947998754](https://www.adzuna.ca/details/5947998754) |
+| 2026-10-31 | Business Analyst – ServiceNow | Artech LLC | Ottawa | — | ServiceNow | [Adzuna 5948025863](https://www.adzuna.ca/details/5948025863) |
+| 2026-10-31 | Senior ServiceNow Architect | Optovia | Ottawa | — | ServiceNow | [Adzuna 5948277202](https://www.adzuna.ca/details/5948277202) |
+| 2026-10-31 | ServiceNow Consultant / Developer | Artech LLC | Unionville (Markham) | — | ServiceNow | [Adzuna 5948006803](https://www.adzuna.ca/details/5948006803) |
+| 2026-10-31 | Salesforce Developer | Panasonic North America | Mississauga | — | Salesforce | [Adzuna 5947778702](https://www.adzuna.ca/details/5947778702) · [detail: PD I + Admin + App Builder required](https://hiringcafe.com/job/salesforce-developer-panasonic-corporation-of-north-america-tlgbc2h49e0plxtk) |
+| 2026-10-31 | Salesforce QA | Epsilon Solutions LTD | Mississauga | — | Salesforce | [Adzuna 5947996642](https://www.adzuna.ca/details/5947996642) |
+| 2026-10-31 | Senior Business Analyst, Salesforce CRM | Artech LLC | Mississauga | — | Salesforce | [Adzuna 5948013878](https://www.adzuna.ca/details/5948013878) |
+| 2026-10-31 | Sr. Salesforce Marketing Cloud Developer | Artech LLC | Kitchener | — | Salesforce | [Adzuna 5948023540](https://www.adzuna.ca/details/5948023540) |
+| 2026-10-31 | Principal ServiceNow Consultant | Macpower Digital Assets Edge | Halifax | — | ServiceNow | [Adzuna 5947999519](https://www.adzuna.ca/details/5947999519) |
+| 2026-10-31 | Salesforce Support Analyst | Diverse Lynx | Halifax | — | Salesforce | [Adzuna 5948026538](https://www.adzuna.ca/details/5948026538) |
+| 2026-10-31 | Salesforce Developer | Macpower Digital Assets Edge | Calgary | — | Salesforce | [Adzuna 5948023880](https://www.adzuna.ca/details/5948023880) |
+| 2026-10-31 | Salesforce Technical Lead | Macpower Digital Assets Edge | Calgary | — | Salesforce | [Adzuna 5948016965](https://www.adzuna.ca/details/5948016965) |
+| 2026-10-31 | Salesforce Revenue Cloud Architect | Epsilon Solutions LTD | Montréal | — | Salesforce | [Adzuna 5947996543](https://www.adzuna.ca/details/5947996543) |
+| 2026-10-31 | Salesforce Technical Architect | Jobgether | Canada, remote | — | Salesforce | [Adzuna 5948276995](https://www.adzuna.ca/details/5948276995) |
+| 2026-10-31 | Principal Solutions Consultant – Salesforce & Digital Transformation | Chapman Tate Associates | Canada | — | Salesforce | [Adzuna 5948276722](https://www.adzuna.ca/details/5948276722) |
 
 **Found on an employer portal instead of an aggregator — [Help Desk / IT Security Analyst – SSL/TLS KPI Processing (ServiceNow)](https://myprocom-portal.procomservices.com/jobs/it-security-analyst-ssl-tlskpi-processing-servicenow-toronto-bd8068ca), Procom, Toronto hybrid, portal stamp "3 days ago".** Verified by opening the posting.
 
 ### Posted 2026-10-30
 
-| Role | Employer | Location | Salary | Cert language | Source |
-|---|---|---|---|---|---|
-| Senior Salesforce Engineer | Canadian Cancer Society | Toronto + 8 cities, hybrid; **apply by 2026-11-06** | $86,000–$96,000 | PD I/II, App Builder, Architect — *"considered an asset"* | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) — **Verified** |
-| Conseiller technique principal ServiceNow | Bell | Toronto | — | — | [Adzuna 5947177797](https://www.adzuna.ca/details/5947177797) |
-| ServiceNow AIOps Architect | BULL-IT Solutions | Toronto | — | — | [Adzuna 5947169710](https://www.adzuna.ca/details/5947169710) |
-| Salesforce Functional Designer | Tamanna Technology | Toronto | — | — | [Adzuna 5947170188](https://www.adzuna.ca/details/5947170188) |
-| Salesforce Administrator | Hire DigITalent | Toronto | — | — | [Adzuna 5947005036](https://www.adzuna.ca/details/5947005036) |
-| Salesforce OmniStudio Developer | Galent | Toronto | — | — | [Adzuna 5947169671](https://www.adzuna.ca/details/5947169671) |
-| ServiceNow Business Process Consultant – FSO/CSM | NewRocket | Canada, remote | — | — | [Adzuna 5946714109](https://www.adzuna.ca/details/5946714109) |
-| Senior ServiceNow Developer & Architect | S.i. Systems | Canada | — | — | [Adzuna 5947169371](https://www.adzuna.ca/details/5947169371) |
-| ServiceNow OMT Architect | Alldus | Canada | — | — | [Adzuna 5947169729](https://www.adzuna.ca/details/5947169729) |
-| Manager – ServiceNow | KPMG | Montréal | — | — | [Adzuna 5947366387](https://www.adzuna.ca/details/5947366387) |
-| Salesforce Technical Lead – Financial Services Cloud | Maarut | Montréal | — | — | [Adzuna 5947169594](https://www.adzuna.ca/details/5947169594) |
-| Salesforce Tech Lead (Canada-Remote) | CloudLabs Inc | Canada, remote | — | — | [Adzuna 5947169370](https://www.adzuna.ca/details/5947169370) |
+| Posted | Role | Employer | Location | Salary | Cert language | Source |
+|---|---|---|---|---|---|---|
+| 2026-10-30 | Senior Salesforce Engineer | Canadian Cancer Society | Toronto + 8 cities, hybrid; **apply by 2026-11-06** | $86,000–$96,000 | PD I/II, App Builder, Architect — *"considered an asset"* | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) — **Verified** |
+| 2026-10-30 | Conseiller technique principal ServiceNow | Bell | Toronto | — | — | [Adzuna 5947177797](https://www.adzuna.ca/details/5947177797) |
+| 2026-10-30 | ServiceNow AIOps Architect | BULL-IT Solutions | Toronto | — | — | [Adzuna 5947169710](https://www.adzuna.ca/details/5947169710) |
+| 2026-10-30 | Salesforce Functional Designer | Tamanna Technology | Toronto | — | — | [Adzuna 5947170188](https://www.adzuna.ca/details/5947170188) |
+| 2026-10-30 | Salesforce Administrator | Hire DigITalent | Toronto | — | — | [Adzuna 5947005036](https://www.adzuna.ca/details/5947005036) |
+| 2026-10-30 | Salesforce OmniStudio Developer | Galent | Toronto | — | — | [Adzuna 5947169671](https://www.adzuna.ca/details/5947169671) |
+| 2026-10-30 | ServiceNow Business Process Consultant – FSO/CSM | NewRocket | Canada, remote | — | — | [Adzuna 5946714109](https://www.adzuna.ca/details/5946714109) |
+| 2026-10-30 | Senior ServiceNow Developer & Architect | S.i. Systems | Canada | — | — | [Adzuna 5947169371](https://www.adzuna.ca/details/5947169371) |
+| 2026-10-30 | ServiceNow OMT Architect | Alldus | Canada | — | — | [Adzuna 5947169729](https://www.adzuna.ca/details/5947169729) |
+| 2026-10-30 | Manager – ServiceNow | KPMG | Montréal | — | — | [Adzuna 5947366387](https://www.adzuna.ca/details/5947366387) |
+| 2026-10-30 | Salesforce Technical Lead – Financial Services Cloud | Maarut | Montréal | — | — | [Adzuna 5947169594](https://www.adzuna.ca/details/5947169594) |
+| 2026-10-30 | Salesforce Tech Lead (Canada-Remote) | CloudLabs Inc | Canada, remote | — | — | [Adzuna 5947169370](https://www.adzuna.ca/details/5947169370) |
 
 ### Peer branches holding postings missing from this README (673 links)
 
