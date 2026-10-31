@@ -2,6 +2,153 @@
 
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
 
+<!-- DATE-SORTED-PLATFORM-INDEX:START -->
+## Latest ServiceNow and Salesforce listings - newest first
+
+**Source status/expiry checked: 2026-10-31 06:20 UTC | Agent: Copilot**
+
+All **85 selected posting links** are indexed below by original reported publication date within each platform. Recent means within 60 days of October 31; older and undated exceptions follow. Location and employment are included; full qualifications and historical evidence remain in the original review tables below. No job is hidden solely because its current source could not be checked.
+
+**Status is not a guarantee:** Accepting (ATS) affirms applications at check time; Listed (ATS) means a public ATS record exists; Detail listed means matching public detail/application controls were found. Unconfirmed means the latest check failed or did not establish a usable vacancy detail, not proof of closure. Provisional mirrors are not employer verification. Earlier posting dates are preserved, not replaced by refresh timestamps.
+
+**Expiry is not always an application deadline.** `validThrough` is the source's listing-validity field, often automatically generated; Workday/Oracle end dates are ATS closing fields. Only separately labelled explicit application deadlines are represented as such. Not disclosed means unavailable in the checked source, not no deadline. Date-only expiry today requires time-zone confirmation.
+
+### ServiceNow - date-sorted review (64)
+
+#### Recent (within 60 days) (52)
+
+| Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
+|---|---|---|---|---|---|
+| 2026-10-30 | [Information Technology Service Management (ITSM) Analyst (JR100183) - CAAT Pension Plan](https://caatpension.wd10.myworkdayjobs.com/Careers/job/Toronto-ON/ITSM-Analyst_JR100183) | Canada: Toronto; hybrid | Full-time | Accepting (ATS) | Not disclosed |
+| 2026-10-29 | [Principal Solution Architect - ServiceNow - ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000158575719-principal-solution-architect-servicenow?oga=true) | Canada: Toronto; employer ATS remote=true, hybrid=false | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-29 | [ServiceNow Developer (SAM Pro) - First Citizens Bank](https://jobs.firstcitizens.com/jobs/36298) | USA: Remote North Carolina, Texas, Arizona, or Florida, U.S. | Full-time | Detail listed | 2027-10-29T18:21:27.000Z (JobPosting validThrough (listing validity)) |
+| 2026-10-29 | [ServiceNow Developer II (SE2) (Remote TX) - First Citizens Bank](https://jobs.firstcitizens.com/jobs/36303) | USA: Remote Texas, U.S.; not advertised as unrestricted U.S. or Canada remote. | Full-time | Detail listed | 2027-10-29T21:03:26.000Z (JobPosting validThrough (listing validity)) |
+| 2026-10-29 | [ServiceNow Developer III (SE3) (Remote CT) - First Citizens Bank](https://jobs.firstcitizens.com/jobs/36304) | USA: Remote Connecticut, U.S.; not advertised as unrestricted U.S. or Canada remote. | Full-time | Detail listed | 2027-10-29T21:16:26.000Z (JobPosting validThrough (listing validity)) |
+| 2026-10-29 | [ServiceNow Developer SME - General Dynamics Information Technology](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1) | USA: Remote USA only; must pass a background investigation for a Public Trust position. | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-28 | [ServiceNow Developer - 9th Way Insignia](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008) | USA: Remote USA only; review the posting's clearance/background-investigation conditions with the employer. | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-28 | [ServiceNow Solutions Developer - Bright Vision Technologies](https://brightvisiontechnologies.applytojob.com/apply/tiOdUW4vF9/ServiceNow-Solutions-Developer) | USA: Remote USA only; confirm work authorization/sponsorship and state eligibility. | Full-time | Detail listed | 2027-01-26 (JobPosting validThrough (listing validity)) |
+| 2026-10-28 | [Senior ServiceNow Developer (RQ228679) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | USA: USA; remote | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-28 | [ServiceNow Developer - TS/SCI with Polygraph (RQ231232) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/ServiceNow-Developer---TS-SCI-with-Polygraph_RQ231232-1) | USA: Chantilly, Virginia; on customer site | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-28 | [ServiceNow Developer Principal (RQ230501) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Principal_RQ230501-1) | USA: USA; remote | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-28 | [ServiceNow Engineer - Strategic Portfolio Management (SPM) (RQ230422) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-FL-MacDill-AFB/ServiceNow-Engineer---Strategic-Portfolio-Management--SPM-_RQ230422-1) | USA: MacDill AFB, Florida; onsite, potential four onsite/one remote day | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-28 | [ServiceNow System Administrator (RQ230636) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636) | USA: USA; remote | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-28 | [Senior ServiceNow Developer - Resolve Tech Solutions](https://resolvetech.wd1.myworkdayjobs.com/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280) | USA: Employer location US Remote - TX; confirm permitted residence and work authorization. | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-27 | [ServiceNow Platform Specialist - Alimentiv](https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108) | Canada: Remote, with Toronto, Montreal, London (Ontario), and Vancouver listed by the employer ATS. Not worldwide. | Full-time permanent | Listed (ATS) | Not disclosed |
+| 2026-10-27 | [Sr ServiceNow Developer / Architect - HPTech](https://www.dice.com/job-detail/0e33cd66-ad50-469f-ad16-3a39076da95c) | USA: Metadata specifies TELECOMMUTE and applicant country USA. Confirm permitted states, work authorization, and contract terms with the recruiter. | Confirm with recruiter | Detail listed | 2026-11-27T14:32:06.000Z (JobPosting validThrough (listing validity)) |
+| 2026-10-27 | [Sr. ServiceNow Developer - Sygna Solutions](https://sygnasolutions.betterteam.com/sr.-servicenow-developer) | USA: USA; 100% remote acceptable; local Georgia candidates strongly preferred | Contract | Detail listed | Not disclosed |
+| 2026-10-26 | [ServiceNow Developer - Futuremindz](https://www.dice.com/job-detail/042241b5-d082-4101-9412-637f8ab8dadf) | USA: USA; telecommute; confirm permitted states | Full-time | Detail listed | 2026-11-26T13:57:55.000Z (JobPosting validThrough (listing validity)) |
+| 2026-10-26 | [Senior ServiceNow Developer - Minimum Interim Secret Clearance (or higher) - ITC Federal](https://careers-itcfederal.icims.com/jobs/1626/job?in_iframe=1) | USA: Fully remote USA only, East Coast business hours, occasional travel; U.S. citizenship, active Interim Secret at minimum, and ability to maintain final Secret clearance. | Full-time | Detail listed | 2027-10-26T04:00:00.000Z (JobPosting validThrough (listing validity)) |
+| 2026-10-23 | [Lead ServiceNow Developer - LightFeather](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462851008) | USA: Fully remote, Eastern Time hours; U.S. citizenship and ability to obtain/maintain Secret clearance required. | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-23 | [Senior ServiceNow CMDB Engineer - LightFeather](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462857008) | USA: Washington, DC; hybrid | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-23 | [Senior ServiceNow Developer - Public Trust Clearance - LightFeather](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462858008) | USA: Fully remote, Eastern Time hours; U.S. citizenship and active DHS Public Trust clearance or higher specified. | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-23 | [ServiceNow Architect - LightFeather](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462856008) | USA: USA; fully remote | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-23 | [ServiceNow Platform Engineer - LightFeather](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462859008) | USA: Washington, DC; hybrid | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-22 | [ServiceNow Technical Architect - Randstad](https://www.randstad.ca/jobs/servicenow-technical-architect_toronto_47644537/) | Canada: Toronto; 100% remote; confirm Canadian province eligibility | Five-month contract through March 2027 | Detail listed | 2026-12-21T00:00:00+0000 (JobPosting validThrough (listing validity)) |
+| 2026-10-22 | [ServiceNow SPM Developer (59286) - Alldus](https://alldus.com/job/59286-servicenow-spm-developer-montreal-quebec/) | Montreal, Quebec; French-speaking; work mode not disclosed | Contract | Detail listed | 2027-01-20T23:59:59Z (JobPosting validThrough (listing validity)) |
+| 2026-10-21 | [ServiceNow Technical Lead (JR100193) - CAAT Pension Plan](https://caatpension.wd10.myworkdayjobs.com/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1) | Canada: Toronto; hybrid | Full-time | Accepting (ATS) | Not disclosed |
+| 2026-10-21 | [Senior Manager, ServiceNow - Operate (135627) - Deloitte Canada](https://careers.deloitte.ca/job/Senior-Manager%2C-ServiceNow-Operate/135627-en_US) | Canada: Toronto primary; multiple Canadian cities; hybrid | Permanent | Detail listed | Not disclosed |
+| 2026-10-21 | [Senior ServiceNow Developer (R129586) - Irving Oil](https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_Primary/job/Saint-John/Senior-ServiceNow-Developer_R129586) | Canada: Saint John, New Brunswick; employer home-office role, no remote promise | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-21 | [ServiceNow Platform Developer (396) - iTech AG](https://jobs.jobvite.com/itechag/job/obvZAfwZ) | USA: U.S. remote / Arlington, Virginia employer listing; not Canada remote | Full-time | Detail listed | Not disclosed |
+| 2026-10-21 | [ServiceNow System Administrator (397) - iTech AG](https://jobs.jobvite.com/itechag/job/oswZAfwh) | USA: U.S. remote / Arlington, Virginia employer listing; not Canada remote | Full-time | Detail listed | Not disclosed |
+| 2026-10-20 | [ServiceNow Developer (CONTRACT ROLE) - Brookfield](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/ServiceNow-Developer--CONTRACT-ROLE-_R2053249-1) | Canada: Toronto, ON; board labels it in-office. Contract runs November 2026 through June 2027. | Full-time contract, Nov 2026-Jun 2027 | Unconfirmed | Not disclosed |
+| 2026-10-20 (board date) | [Secret Cleared ServiceNow Developer - App Engine (120592) - Alldus (Club mirror)](https://jobs.tryclub.com/projects/120592/secret-cleared-servicenow-developer-app-engine) | Canada: Fully remote across Canada; East Coast preferred | Long-term contract; C2C or T4 | Provisional mirror | 2027-01-20 (JobPosting validThrough (listing validity)) |
+| 2026-10-19 | [Expert Software Engineer - ServiceNow (OPRYDAFQ / ECEJRKAA) - TEEMA](https://app.workwolf.com/pipelineLink/OPRYDAFQ) | Canada: Toronto listing; explicitly remote United States or Canada; Eastern Time | Full-time | Accepting (ATS) | Not disclosed |
+| 2026-10-16 | [ServiceNow Developer (Sr. Associate) (JR-0016235) - Huron](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/ServiceNow-Developer--Sr-Associate-_JR-0016235) | Canada: Toronto (55 University Ave) or Chicago; employer remote designation | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-14 | [ServiceNow Sr. Developer - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4711687006?gh_jid=4711687006) | USA: Springfield, Virginia; onsite, four-five days for Now Assist/Portal | Not explicitly disclosed | Listed (ATS) | Not disclosed |
+| 2026-10-14 | [ServiceNow Sr. Developer (CSM) - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4704225006?gh_jid=4704225006) | USA: Washington, DC; work mode not explicitly established | Not explicitly disclosed | Listed (ATS) | Not disclosed |
+| 2026-10-14 | [ServiceNow Sr. Developer (Now Assist) - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4704107006?gh_jid=4704107006) | USA: Springfield, Virginia; onsite, four-five days for Now Assist/Portal | Not explicitly disclosed | Listed (ATS) | Not disclosed |
+| 2026-10-14 | [ServiceNow Sr. Developer (Portal) - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4704135006?gh_jid=4704135006) | USA: Springfield, Virginia; onsite, four-five days for Now Assist/Portal | Not explicitly disclosed | Listed (ATS) | Not disclosed |
+| 2026-10-14 (current ATS listing) | [Service Now AI Architect (JR0151830) - McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Service-Now-AI-Architect_JR0151830-1) | Mississauga; Workday Hybrid; remote arrangements subject to company policy | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-14 | [FSO-ServiceNow Developer (33633) - National Bank of Canada](https://emplois.bnc.ca/en_CA/careers/JobDetail/MONTREAL-Quebec-Canada-P5I27-DEVELOPPEUR-PRINCIPAL/33633) | Montreal, Quebec; hybrid; French listed | Permanent full-time | Detail listed | Not disclosed |
+| 2026-10-13 | [ServiceNow Development Analyst - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4721709006?gh_jid=4721709006) | USA: Washington, DC; work mode not explicitly established | Not explicitly disclosed | Listed (ATS) | Not disclosed |
+| 2026-10-13 | [ServiceNow Development Lead - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4721707006?gh_jid=4721707006) | USA: Washington, DC; work mode not explicitly established | Not explicitly disclosed | Listed (ATS) | Not disclosed |
+| 2026-10-06 | [Sr. ServiceNow Developer - Stanfield Systems](https://www.dice.com/job-detail/b9f42ff7-04b1-4a10-a7b2-719970d98b8d) | USA: Remote U.S. job-board posting, no travel required; confirm eligible states and work authorization with the recruiter. | Contract | Detail listed | 2026-11-06T17:06:30.000Z (JobPosting validThrough (listing validity)) |
+| 2026-10-04 | [ServiceNow Discovery Developer (258467) - Scotiabank](https://jobs.scotiabank.com/job/Toronto-ServiceNow-Discovery-Developer-ON-M1L4S2/602442317/) | Canada: Toronto; office/remote pattern not disclosed | Not disclosed | Detail listed | Not disclosed |
+| 2026-09-29 | [ServiceNow Developer - Bravium Consulting](https://jobs.jobvite.com/braviumconsulting/job/ol7SAfwE) | USA: Remote United States, per employer metadata; U.S. citizenship and active Public Trust clearance or ability to obtain one. | Not disclosed | Detail listed | Not disclosed |
+| 2026-09-25 | [Systems Administrator V Service Now - Randstad](https://www.randstad.ca/jobs/systems-administrator-v-service-now_toronto_47502843/) | Canada: Toronto; hybrid, two days onsite | 12-month contract | Detail listed | 2026-12-24T00:00:00+0000 (JobPosting validThrough (listing validity)) |
+| 2026-09-25 | [ServiceNow Developer - SPM (390) - iTech AG](https://jobs.jobvite.com/itechag/job/omZRAfww) | USA: U.S. remote / Arlington, Virginia employer listing; not Canada remote | Full-time | Detail listed | Not disclosed |
+| 2026-09-22 | [Senior ServiceNow Engineer - EQ Bank / Equitable Bank](https://jobs.lever.co/eqbank/1af36346-6dd1-475a-bee9-1d5e805452e8) | Canada: Toronto; hybrid, with office time at 2200-25 Ontario Street. | Full-time | Listed (ATS) | Not disclosed |
+| 2026-09-17 | [ServiceNow ITOM Senior Developer (385) - iTech AG](https://jobs.jobvite.com/itechag/job/oFROAfwE) | USA: U.S. remote / Arlington, Virginia employer listing; not Canada remote | Full-time | Detail listed | Not disclosed |
+| 2026-09-16 | [ServiceNow Certified Technical Architect - Bravium Consulting](https://jobs.jobvite.com/braviumconsulting/job/oq6OAfwE) | USA: USA; remote | Not disclosed | Detail listed | Not disclosed |
+| 2026-09-09 | [Senior Project Manager/Leader - ServiceNow / ITSM - Randstad](https://www.randstad.ca/jobs/senior-project-managerleader_toronto_47414563/) | Canada: Toronto; hybrid, up to three office days | Six-month contract | Detail listed | 2026-12-21T00:00:00+0000 (JobPosting validThrough (listing validity)) |
+
+#### Older active/history exceptions (8)
+
+| Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
+|---|---|---|---|---|---|
+| 2026-08-31 (older than 60d) | [ServiceNow Scrum Architect (379) - iTech AG](https://jobs.jobvite.com/itechag/job/olaJAfwy) | USA: U.S. remote / Arlington, Virginia employer listing; not Canada remote | Full-time | Detail listed | Not disclosed |
+| 2026-08-25 (older than 60d) | [CSM/FSO Developer (58804) - Alldus](https://alldus.com/job/58804-csm-fso-developer-toronto-ontario/) | Canada: Toronto listing; explicitly remote Canada | Contract | Detail listed | 2026-12-01T23:59:59Z (JobPosting validThrough (listing validity)) |
+| 2026-08-25 (older than 60d) | [ServiceNow ITOM Developer (58626) - Alldus](https://alldus.com/job/58626-servicenow-itom-developer-quebec/) | Canada: Quebec; office/remote pattern not disclosed | Contract | Detail listed | 2026-12-01T23:59:59Z (JobPosting validThrough (listing validity)) |
+| 2026-08-24 (older than 60d) | [ServiceNow Functional Consultant (JR6421) - BDO Canada](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/ServiceNow-Functional-Consultant_JR6421) | Canada: Toronto listing; employer permits working anywhere in Canada | Full-time | Unconfirmed | Not disclosed |
+| 2026-08-24 (older than 60d) | [ServiceNow Senior Developer (JR5588) - BDO Canada](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/ServiceNow-Senior-Developer_JR5588) | Canada: Toronto listing; employer permits working anywhere in Canada | Full-time | Unconfirmed | Not disclosed |
+| 2026-08-17 (older than 60d) | [Intermediate Specialized IT Consultant - ServiceNow - Randstad](https://www.randstad.ca/jobs/intermediate-specialized-it-consultant_toronto_47292146/) | Canada: Toronto; hybrid, three office days | 12-month contract | Detail listed | 2026-11-15T00:00:00+0000 (JobPosting validThrough (listing validity)) |
+| 2026-08-14 (older than 60d) | [Consultant, ServiceNow Developer (33530) - KPMG Canada](https://careers.kpmg.ca/jobs/33530) | Canada: Toronto and other Canadian office locations; work mode not established | Full-time | Unconfirmed | 2027-08-14T07:06:07.000Z (JobPosting validThrough (listing validity)) |
+| 2026-08-14 (older than 60d) | [Senior Technical Consultant, ServiceNow Developer (33533) - KPMG Canada](https://careers.kpmg.ca/jobs/33533) | Canada: Toronto and other Canadian office locations; work mode not established | Full-time | Unconfirmed | 2027-08-14T07:33:07.000Z (JobPosting validThrough (listing validity)) |
+
+#### Original posting date unknown (4)
+
+| Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
+|---|---|---|---|---|---|
+| Not disclosed | [ServiceNow System Administrator (432824) - Bell](https://jobs.bce.ca/bell/job/Toronto-ServiceNow-System-Administrator-ON/1437306800/) | Canada: Toronto/Montreal; hybrid, minimum three office days; Canada-based | Regular full-time | Detail listed | Not disclosed; explicit application deadline: 11/02/2026 |
+| Not disclosed | [RQ00206 - Senior ServiceNow Developer - Source Code](https://www.careers-page.com/source-code/job/X9494X8Y) | Canada: Toronto, 277 Front St W; hybrid two onsite/three remote, subject to change | Six-month contract (131 business days), possible extension | Detail listed | Not disclosed |
+| Not disclosed | [ServiceNow Developer (SERV-NOW-DEV-KIT-26-1) - Brock Solutions](https://careers.brocksolutions.com/Careers.aspx?req=SERV-NOW-DEV-KIT-26-1&type=JOBDESCR) | Canada: Kitchener, Ontario head office; remote/hybrid not promised | Full-time | Detail listed | Not disclosed |
+| Not disclosed | [ServiceNow Platform Administrator (526446 / 314590) - FX Innovation / Ateko](https://www.fxinnovation.com/en/jobs/526446) | Canada remote; must reside in Canada; French and English required | Permanent full-time | Detail listed | Not disclosed |
+
+### Salesforce - date-sorted review (21)
+
+#### Recent (within 60 days) (18)
+
+| Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
+|---|---|---|---|---|---|
+| 2026-10-30 | [Salesforce Platform Developer (R0014087) - Altus Group](https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087) | Toronto preferred; remote with occasional office visits | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-29 | [Marketing Operations Analyst (8333965) - D2L](https://www.d2l.com/careers/jobs/?job_id=8333965&gh_jid=8333965) | Canada: Canada; remote status needs employer confirmation | Not disclosed | Listed (ATS) | Not disclosed |
+| 2026-10-28 | [Principle Salesforce Developer (JR106006) - Moneris](https://moneris.wd3.myworkdayjobs.com/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2) | Canada: Toronto; hybrid; full-time | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-28 | [Senior Salesforce Administrator - Benevity](https://jobs.ashbyhq.com/benevity/78798ad7-2d39-497e-98af-dad3a2ea8e20) | Toronto; ATS isRemote=true; flexible hybrid policy, no set office attendance requirement | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-27 | [Salesforce Developer (MED02518) - Medcan](https://medcan.wd10.myworkdayjobs.com/medcan/job/Toronto/Salesforce-Developer_MED02518) | Canada: Toronto; hybrid, two office days; full-time; Platform Developer I required; deadline Nov 6 | Full-time | Accepting (ATS) | 2026-11-06 (Workday endDate) |
+| 2026-10-26 | [Software Engineer II (Salesforce Loyalty Management Developer) (R_1509038) - TD](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038) | Canada: Toronto; Office Focused; full-time; deadline Nov 9 | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-26 | [Senior Salesforce Developer (1443153641962) - CACI](https://searchcareers.caci.com/careers/job/1443153641962) | USA: Remote US; US citizenship and Public Trust eligibility | Full-time | Detail listed | 2027-04-24T00:00:00 (JobPosting validThrough (listing validity)) |
+| 2026-10-21 | [Sr. Developer, AI and Agentforce (6231605004) - NeuraFlash / Accenture](https://job-boards.greenhouse.io/neuraflash/jobs/6231605004) | Canada: Remote Canada: Alberta, British Columbia or Ontario only; up to 25% travel | Not disclosed | Listed (ATS) | Not disclosed |
+| 2026-10-21 | [Salesforce Administrator - MoeGo](https://jobs.ashbyhq.com/moego/07afb9d1-0c84-4732-b3bc-facf66dbc934) | USA: Remote US, West Coast | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-21 | [CRM Data Engineer (R11306) - AGF Investments](https://agf.wd3.myworkdayjobs.com/AGF_Careers/job/Toronto-ON/Salesforce-Developer--Solution-Designer_R11306-3) | Toronto; employer description #LI-HYBRID | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-16 | [Senior Salesforce Developer/Admin (137318) - Celestica](https://careers.celestica.com/job/Toronto-Senior-Salesforce-Developer-Admin-ON/1406609733/) | Canada: Toronto; hybrid; employment term not established; Salesforce CoE and Marketing Cloud | Not disclosed | Detail listed | Not disclosed |
+| 2026-10-16 | [Salesforce Senior Developer (REQ-14036) - IKO](https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036) | Mississauga, Ontario; work mode not disclosed | Full-time | Unconfirmed | Not disclosed |
+| 2026-10-13 | [Senior Salesforce Administrator - Loopio](https://jobs.ashbyhq.com/loopio/b8d91233-b646-43f7-941e-ca654b21921e) | Canada: Remote Canada hub: within 300 km of Toronto in Ontario or Vancouver in BC; not unrestricted worldwide | Full-time | Listed (ATS) | Not disclosed |
+| 2026-10-13 | [Salesforce Administrator - Christian Reformed Church in North America](https://crcna.pinpointhq.com/en/postings/909eaf81-7d9f-4cfa-b5cf-9f1c4759fd9f) | Canada: Canada or USA; remote | Full-time, 36 hours/week | Detail listed | 2026-11-01T00:00:00+00:00 (JobPosting validThrough (listing validity)); explicit application deadline: November 01, 2026 |
+| 2026-10-10 | [Salesforce Developer (265640) - Scotiabank](https://jobs.scotiabank.com/job/Toronto-Salesforce-Developer-ON-M5H1B6/604373417/) | Canada: Toronto; office/remote pattern not established | Not disclosed | Detail listed | Not disclosed |
+| 2026-09-29 | [GTM Systems Administrator (4424870009) - Dscout](https://job-boards.greenhouse.io/dscout/jobs/4424870009) | USA: Remote US; additional state exclusions in description | Not disclosed | Listed (ATS) | Not disclosed |
+| 2026-09-25 | [Salesforce Administrator - Assistant Vice President (8833783002) - iCapital](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8833783002) | Canada: Toronto; office Monday-Thursday, Friday remote | Full-time | Listed (ATS) | Not disclosed |
+| 2026-09-23 | [B2B Salesforce Administrator (74921) - Staples Canada](https://careers.staples.ca/hcmUI/CandidateExperience/en/sites/StaplesCanada/job/74921) | Canada: Richmond Hill, Ontario; hybrid four onsite days, subject to policy | Full-time | Listed (ATS) | Not disclosed |
+
+#### Older active/history exceptions (3)
+
+| Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
+|---|---|---|---|---|---|
+| 2026-08-24 (older than 60d) | [Salesforce Developer - Versapay](https://jobs.lever.co/versapay/7906bc29-f17e-44d2-a41b-334e6ce0608c) | Canada: Canada (Remote), per current Lever location | Regular full-time | Listed (ATS) | Not disclosed |
+| 2026-08-14 (older than 60d) | [Senior Salesforce Administrator (8129548) - Movable Ink](https://movableink.com/job-listing?gh_jid=8129548) | Toronto, Ontario; work mode not established | Not disclosed | Listed (ATS) | Not disclosed |
+| 2026-04-15 (older than 60d) | [Salesforce Administrator (4685515005) - Bloomerang](https://job-boards.greenhouse.io/bloomerang/jobs/4685515005) | Canada: Remote US and select Canadian provinces; confirm eligible province before applying | Permanent full-time | Listed (ATS) | Not disclosed |
+
+### Pull-request coverage
+
+| PR | Disposition | README coverage |
+|---|---|---|
+| [BESTIEJOB#1](https://github.com/eltonaguiar/BESTIEJOB/pull/1) | Open application WIP; no changed files when inspected | No job-listing changes to import |
+| [BESTIEJOB#2](https://github.com/eltonaguiar/BESTIEJOB/pull/2) | Merged | Original 76 selected links plus peer queue retained |
+| [BESTIEJOB#3](https://github.com/eltonaguiar/BESTIEJOB/pull/3) | Merged | Seven Canadian additions; Arena labels and corrections retained |
+| [BESTIEJOB#4](https://github.com/eltonaguiar/BESTIEJOB/pull/4) | Merged | National Bank / FX additions and all supplied lead coverage retained |
+| [BESTIEJOB#5](https://github.com/eltonaguiar/BESTIEJOB/pull/5) | Merged | Closed City posting and junior/seniority caveats retained |
+
+### Job-board discovery resources (not a quality ranking)
+
+- [Jobs.ca - Tekgence lead](https://www.jobs.ca/tekgence-inc/jobs/servicenow-developer-toronto-on-173ede1d1492), [Brookfield Asset Management mirror](https://www.jobs.ca/brookfield-asset-management/jobs/servicenow-developer-contract-role-toronto-on-8b05d6a30bcc), [additional Brookfield mirror](https://www.jobs.ca/brookfield-6d8d33216910/jobs/servicenow-developer-contract-role-toronto-on-b988b2dc5b74), [Bell administrator mirror](https://www.jobs.ca/bell/jobs/servicenow-system-administrator-toronto-on-c28fb10d212a). Mirrors do not establish separate jobs or original dates.
+- [Indeed Toronto developer search](https://ca.indeed.com/q-servicenow-developer-l-toronto,-on-jobs.html) and [Canada administrator search](https://ca.indeed.com/q-servicenow-administrator-jobs.html). Supplied Moneris and EDC salary/role claims remain discovery leads without individual requisition verification.
+- [Glassdoor Canada developer search](https://www.glassdoor.ca/Job/canada-servicenow-developer-jobs-SRCH_IL.0,6_IN3_KO7,27.htm). Counts and salary estimates are not employer facts.
+- [Accel Lightspeed mirror](https://jobs.accel.com/companies/lightspeed-2-66ea6e12-7c39-4826-9c09-a08e11eabdb6/jobs/93663877-servicenow-developer). Earlier Lightspeed expiry warning remains; an indexed copy does not prove reopening.
+- Employer career pages and public Workday, Greenhouse, Lever, Ashby and SmartRecruiters records take precedence for dates/status. LinkedIn may be an application channel; no unsupported board ranking or fixed live-job count is claimed.
+
+[Full expiry/status audit and limitations](Platform-Jobs-Copilot-2026-10-31-date-expiry-audit.md)
+
+<!-- DATE-SORTED-PLATFORM-INDEX:END -->
+
 ## Platform-job review list
 
 **Updated: 2026-10-31 06:17 UTC | Agent: Copilot (Copilot SDK in VS Code)**
