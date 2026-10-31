@@ -2,6 +2,142 @@
 
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
 
+## 2026-10-31 update — dated postings, unsynced branches, World Forum portals
+
+**Added 2026-10-31 by Buffy (Playwright portal scan).** Counts computed against `origin/main` at `40cd0fd`. This section sits above the auto-generated index so a regenerator cannot overwrite it.
+
+Two gaps prompted it:
+
+1. **No 2026-10-31 rows existed** — the index held 0 rows dated 2026-10-31 and only 3 dated 2026-10-30, while 28 Canadian ServiceNow/Salesforce postings carried an October 31 date.
+2. **Nine peer branches held postings that were never merged** — 673 unique posting links unreachable from this README.
+
+`Aggregator` rows carry an Adzuna date and were **not** confirmed on the employer ATS. `Verified` means the posting page itself was opened.
+
+### Posted 2026-10-31 (28 Canadian postings)
+
+| Role | Employer | Location | Salary | Family | Source |
+|---|---|---|---|---|---|
+| ServiceNow Systems Administrator | GTT, LLC | Toronto | — | ServiceNow | [Adzuna 5948015907](https://www.adzuna.ca/details/5948015907) |
+| IT – Systems Administrator V, ServiceNow | ICONMA | Toronto | — | ServiceNow | [Adzuna 5948007824](https://www.adzuna.ca/details/5948007824) |
+| Principal Solution Architect – ServiceNow | ServiceNow, Inc. | Toronto, flexible/remote | — | ServiceNow | [Adzuna 5947778885](https://www.adzuna.ca/details/5947778885) · [official ATS, Oct 29](https://jobs.smartrecruiters.com/ServiceNow/744000158575719-principal-solution-architect-servicenow) |
+| Salesforce Administrator — Natural Health | White Bay | Toronto, hybrid | $60,000–$75,000 | Salesforce | [Adzuna 5948025592](https://www.adzuna.ca/details/5948025592) |
+| Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5947991002](https://www.adzuna.ca/details/5947991002) |
+| Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5948024454](https://www.adzuna.ca/details/5948024454) |
+| Senior Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5948026874](https://www.adzuna.ca/details/5948026874) |
+| Senior Salesforce Developer | Epsilon Solutions LTD | Toronto | — | Salesforce | [Adzuna 5947973988](https://www.adzuna.ca/details/5947973988) |
+| Salesforce Technical Architect | Orion Global Solutions | Toronto | — | Salesforce | [Adzuna 5948276350](https://www.adzuna.ca/details/5948276350) |
+| Salesforce QA | Q1 Technologies, Inc | Toronto | — | Salesforce | [Adzuna 5948023740](https://www.adzuna.ca/details/5948023740) |
+| ServiceNow Consultant — REMOTE | NTT DATA | Ottawa region / remote | — | ServiceNow | [Adzuna 5948024837](https://www.adzuna.ca/details/5948024837) |
+| ServiceNow Developer (26-16925) | US Tech Solutions | Ottawa | — | ServiceNow | [Adzuna 5948016541](https://www.adzuna.ca/details/5948016541) |
+| ServiceNow Technical Lead (26-18755) | US Tech Solutions | Ottawa | — | ServiceNow | [Adzuna 5947991041](https://www.adzuna.ca/details/5947991041) |
+| Business Analyst – ServiceNow | IBM Canada | Ottawa | — | ServiceNow | [Adzuna 5947998754](https://www.adzuna.ca/details/5947998754) |
+| Business Analyst – ServiceNow | Artech LLC | Ottawa | — | ServiceNow | [Adzuna 5948025863](https://www.adzuna.ca/details/5948025863) |
+| Senior ServiceNow Architect | Optovia | Ottawa | — | ServiceNow | [Adzuna 5948277202](https://www.adzuna.ca/details/5948277202) |
+| ServiceNow Consultant / Developer | Artech LLC | Unionville (Markham) | — | ServiceNow | [Adzuna 5948006803](https://www.adzuna.ca/details/5948006803) |
+| Salesforce Developer | Panasonic North America | Mississauga | — | Salesforce | [Adzuna 5947778702](https://www.adzuna.ca/details/5947778702) · [detail: PD I + Admin + App Builder required](https://hiringcafe.com/job/salesforce-developer-panasonic-corporation-of-north-america-tlgbc2h49e0plxtk) |
+| Salesforce QA | Epsilon Solutions LTD | Mississauga | — | Salesforce | [Adzuna 5947996642](https://www.adzuna.ca/details/5947996642) |
+| Senior Business Analyst, Salesforce CRM | Artech LLC | Mississauga | — | Salesforce | [Adzuna 5948013878](https://www.adzuna.ca/details/5948013878) |
+| Sr. Salesforce Marketing Cloud Developer | Artech LLC | Kitchener | — | Salesforce | [Adzuna 5948023540](https://www.adzuna.ca/details/5948023540) |
+| Principal ServiceNow Consultant | Macpower Digital Assets Edge | Halifax | — | ServiceNow | [Adzuna 5947999519](https://www.adzuna.ca/details/5947999519) |
+| Salesforce Support Analyst | Diverse Lynx | Halifax | — | Salesforce | [Adzuna 5948026538](https://www.adzuna.ca/details/5948026538) |
+| Salesforce Developer | Macpower Digital Assets Edge | Calgary | — | Salesforce | [Adzuna 5948023880](https://www.adzuna.ca/details/5948023880) |
+| Salesforce Technical Lead | Macpower Digital Assets Edge | Calgary | — | Salesforce | [Adzuna 5948016965](https://www.adzuna.ca/details/5948016965) |
+| Salesforce Revenue Cloud Architect | Epsilon Solutions LTD | Montréal | — | Salesforce | [Adzuna 5947996543](https://www.adzuna.ca/details/5947996543) |
+| Salesforce Technical Architect | Jobgether | Canada, remote | — | Salesforce | [Adzuna 5948276995](https://www.adzuna.ca/details/5948276995) |
+| Principal Solutions Consultant – Salesforce & Digital Transformation | Chapman Tate Associates | Canada | — | Salesforce | [Adzuna 5948276722](https://www.adzuna.ca/details/5948276722) |
+
+**Found on an employer portal instead of an aggregator — [Help Desk / IT Security Analyst – SSL/TLS KPI Processing (ServiceNow)](https://myprocom-portal.procomservices.com/jobs/it-security-analyst-ssl-tlskpi-processing-servicenow-toronto-bd8068ca), Procom, Toronto hybrid, portal stamp "3 days ago".** Verified by opening the posting.
+
+### Posted 2026-10-30
+
+| Role | Employer | Location | Salary | Cert language | Source |
+|---|---|---|---|---|---|
+| Senior Salesforce Engineer | Canadian Cancer Society | Toronto + 8 cities, hybrid; **apply by 2026-11-06** | $86,000–$96,000 | PD I/II, App Builder, Architect — *"considered an asset"* | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) — **Verified** |
+| Conseiller technique principal ServiceNow | Bell | Toronto | — | — | [Adzuna 5947177797](https://www.adzuna.ca/details/5947177797) |
+| ServiceNow AIOps Architect | BULL-IT Solutions | Toronto | — | — | [Adzuna 5947169710](https://www.adzuna.ca/details/5947169710) |
+| Salesforce Functional Designer | Tamanna Technology | Toronto | — | — | [Adzuna 5947170188](https://www.adzuna.ca/details/5947170188) |
+| Salesforce Administrator | Hire DigITalent | Toronto | — | — | [Adzuna 5947005036](https://www.adzuna.ca/details/5947005036) |
+| Salesforce OmniStudio Developer | Galent | Toronto | — | — | [Adzuna 5947169671](https://www.adzuna.ca/details/5947169671) |
+| ServiceNow Business Process Consultant – FSO/CSM | NewRocket | Canada, remote | — | — | [Adzuna 5946714109](https://www.adzuna.ca/details/5946714109) |
+| Senior ServiceNow Developer & Architect | S.i. Systems | Canada | — | — | [Adzuna 5947169371](https://www.adzuna.ca/details/5947169371) |
+| ServiceNow OMT Architect | Alldus | Canada | — | — | [Adzuna 5947169729](https://www.adzuna.ca/details/5947169729) |
+| Manager – ServiceNow | KPMG | Montréal | — | — | [Adzuna 5947366387](https://www.adzuna.ca/details/5947366387) |
+| Salesforce Technical Lead – Financial Services Cloud | Maarut | Montréal | — | — | [Adzuna 5947169594](https://www.adzuna.ca/details/5947169594) |
+| Salesforce Tech Lead (Canada-Remote) | CloudLabs Inc | Canada, remote | — | — | [Adzuna 5947169370](https://www.adzuna.ca/details/5947169370) |
+
+### Peer branches holding postings missing from this README (673 links)
+
+These branch files exist on `github.com/eltonaguiar/BESTIEJOB` but were never merged, so nothing in them appears in the tables below. "Missing" = unique URLs in the branch file that occur nowhere in this README.
+
+| Branch | Job file(s) | URLs | Missing from README |
+|---|---|---|---|
+| `zoo/2026-10-30` | `ZOO_JOB_2026-10-30.MD`, `ZOO_TOP20_…MD` | 311 | **303** |
+| `auto/2026-10-30` | `AUTO_JOB_…MD`, `AUTO_HQ_JOBS_…MD`, `ZOO_TOP20_…MD` | 258 | **236** |
+| `kilo/2026-10-30` | `KILO_JOB_2026-10-30.MD` | 169 | **161** |
+| `opencode-2026-10-30` | `opencode-…jobs.md`, `auto-…jobs.md` | 118 | **88** |
+| `kilo-2026-10-30` | `kilo-…jobs.md`, `job-scan-prompt-template.md` | 61 | **35** |
+| `buffy-2026-10-30` | `buffy-…jobs.md` | 40 | **17** |
+| `copilot-sdk-servicenow-jobs-2026-10-30` | `COPILOT_SDK_…MD` | 14 | **13** |
+| `auto-2026-10-30` | `auto-…jobs.md` | 37 | **8** |
+| `buffy/servicenow-jobs-2026-10-30` | `BUFFY_SERVICENOW_JOBS_2026-10-30.md` | 6 | **6** |
+
+Union across branches: **673 unique links**. The `Copilot/*` branches were merged via PRs #2–#10 and their content is already reflected below; only PR #1 remains open, with no changed files.
+
+> **Unmerged is not the same as verified.** Those files are largely Adzuna-sourced with no ATS confirmation. Treat them as a discovery queue, not as confirmed vacancies.
+
+### ServiceNow World Forum Toronto 2026 — partner portal crosswalk
+
+Forum: **2026-11-03, Metro Toronto Convention Centre, 8:30–17:00**. The official agenda page returns **HTTP 403 (Akamai)** to plain fetch *and* to headless Chromium, so this roster comes from sponsor announcements, partner event pages and secondary listings rather than the official page.
+
+| Sponsor | Tier | Portal | ATS | SN/SF reqs | Notes |
+|---|---|---|---|---|---|
+| **Ondaro** | Platinum | [ondarowave.com/job-listing](https://ondarowave.com/job-listing) | **Greenhouse** `gh_jid` | **2** — ServiceNow Architect `4028466007`, Technical Consultant `4233479007` | Strongest live Toronto-adjacent pipeline among sponsors; a *ServiceNow Architect – Canada* variant also circulates. Canada flag unconfirmed (Greenhouse body did not render). |
+| **SageX Transformations** | Gold (Booth #25, INSIGHTS AI Coach) | sagextransformations.com | none | 0 | **No careers page at all** — `/contact-us` only. Canadian partner with consultants across Canada incl. GTA → cold approach. |
+| **Pentio** | Gold | [pentio.com/recruit](https://www.pentio.com/recruit/) | none | 0 | Japanese-language recruit page, 0 ServiceNow keywords. Canadian staff (Calgary/Toronto) but roles unadvertised. |
+| **Five9** | Sponsor | five9.com/about/careers/jobs | none detected | 0 | CCaaS vendor, not a ServiceNow delivery shop. |
+| **Wipro** | Session presenter ("Boundaryless Enterprise on the Now Platform") | [careers.wipro.com/search](https://careers.wipro.com/search/?q=servicenow) | **SuccessFactors / TalentBrew** | **7** — Developer, Designer (contract), Sr Technical Architect, Developer Lead, Architect, Technical Architect, Lead Developer | Certs quoted: *ServiceNow Certified System Administrator*, *CIS-ITSM*, *Certified Technical Architect*, ITIL. **Location not exposed** on any of the 7. Has a talent network. |
+| **Wind River** | Participant / partner | jobs.jobvite.com/windriver/jobs | **Jobvite** | 0 | Embedded/RTOS; careers copy states it does not accept agency resumes. |
+| **NewRocket** | Toronto agenda partner (also on your list) | [newrocket.com/careers](https://www.newrocket.com/careers) | none detected | 0 anchors | Elite SN partner with an explicit Toronto forum page; careers page is tabbed by practice (ServiceNow / Claude / Agentic AI). Needs a manual look. |
+| **Dynatrace** | Toronto booth | careers.dynatrace.com/jobs | none | 0 | Search param ignored; observability partner, not SN delivery. |
+| **Infosys** | Global partner | careers.infosys.com | — | **blocked 403** | Manual visit required. |
+| **Capgemini** | Global partner | capgemini.com job-search | — | 0 anchors | Client-side render; not evidence of zero roles. |
+| **EPAM** | Gold (NYC) | careers.epam.com/en/jobs | — | 0 anchors | Same limitation. |
+| **Aelum Consulting** | Gold (Mumbai) | [aelumconsulting.com/career](https://aelumconsulting.com/career/) | **Zoho Recruit** | **2** — ServiceNow Developer, ServiceNow Functional Consultant | Both dated **07/01/2025** → stale. India-based. |
+| **iOPEX** | Sponsor (London) | growatiopex.com/job | none | 0 | 5 ServiceNow mentions, no reqs. |
+| **Quadrafort / Advance Solutions / Input Zero** | Gold (Mumbai) / Gold (London) / Gold (Mumbai) | careers URLs | — | 0 | **404 / TLS error / 404.** Input Zero publishes Salesforce + a Mumbai forum page but no jobs board was found. |
+
+### General-application / speculative paths
+
+| Employer | Path | Detail |
+|---|---|---|
+| **Wipro** | ✅ Talent network | "Join our Talent Network" — subscribe without a matching req. |
+| **Aelum Consulting** | ✅ Spontaneous application | "**No perfect role? No stress**" — designation + CV upload (PDF/DOCX, ≤5 MB). |
+| **Ondaro** | ⚠️ Greenhouse only | No speculative form; must target one of the two `gh_jid` reqs. |
+| **NewRocket** | ⚠️ None detected | Routes to practice tabs; no talent-pool copy. |
+| **SageX** | ❌ Contact form only | `/contact-us` is the sole ingress. |
+| **Pentio** | ❌ Japanese recruit page | No English application path. |
+| **Wind River** | ❌ | Jobvite; no agency resumes. |
+| **Capgemini / EPAM / Infosys** | ❓ Not established | Client-side or blocked; check manually. |
+
+**Ranking for a ServiceNow CSA/CAD candidate in Toronto:** Ondaro (2 live reqs) → Wipro (7 reqs + talent network) → NewRocket (manual check) → SageX / Pentio (cold) → Aelum (stale, India).
+
+### Recruiting agencies — portal status
+
+| Agency | Portal | Result |
+|---|---|---|
+| **Procom** | `myprocom-portal.procomservices.com` | ✅ **Best source in this scan.** 5 ServiceNow reqs. New: [BSA – ServiceNow SAM/ITAM (Bank of Montreal)](https://myprocom-portal.procomservices.com/jobs/business-systems-analyst-servicenow-sam-itam-toronto-8f45956c) — Toronto, posted 2026-08-06, requires *"ServiceNow Certified System Administrator or related"* + ITIL; and the Toronto hybrid security analyst above. |
+| **Alldus** | `alldus.com/jobs` | ✅ Reachable, 6 anchors. Use specialism filters: `?_specialism=servicenow-consultant`, `?_specialism=servicenow-developer`. Carries SPM/OMT/CSM contracts. |
+| **ICONMA** | `iconma.com/jobs` | ⚠️ Reachable, 0 matches on the search URL; its Toronto SN role surfaces on Adzuna (Oct-31 row above). |
+| **S.i. Systems** | `sisystems.com` | ❌ 404 / connection failure on every URL tried. Carries federal + Ontario SN contracts — check manually. |
+| **Artech** | `artech.com` | ❌ 404. Contributed 6 of the Oct-31 rows via Adzuna. |
+| **GTT** | `gtt.ca` | ❌ 404. |
+| **Hire DigITalent** | `hiredigitalent.com` | ❌ 404. |
+| **Maarut** | `maarutinc.com` | ❌ 404. |
+| **Systematix** | `systematixgroup.com` | ❌ 404. |
+| **Advance Solutions** | — | ❌ TLS/SSL protocol error on `/careers/`. |
+
+The 404s are **entry-point failures, not evidence of no vacancies** — all six were running ServiceNow/Salesforce postings on Adzuna within the last 7 days. Their real ATS URLs still need discovering individually.
+
 <!-- DATE-SORTED-PLATFORM-INDEX:START -->
 ## Latest ServiceNow and Salesforce listings - newest first
 
