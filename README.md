@@ -5,9 +5,9 @@ Toronto-focused job posting consolidator for creative / technology manager roles
 <!-- DATE-SORTED-PLATFORM-INDEX:START -->
 ## Latest ServiceNow and Salesforce listings - newest first
 
-**Latest employer-source checks: 2026-10-31 19:58 UTC (Playwright additions); prior row-level check timestamps are retained | Agent: Copilot**
+**Latest employer-source checks: 2026-10-31 Job hunter keyword-expand (McKesson SF MC Dev JR0147159 added); prior row-level check timestamps retained | Agent: Job hunter**
 
-All **88 selected posting links** are indexed below by original reported publication date within each platform. Recent means within 60 days of October 31; older and undated exceptions follow. Location and employment are included; full qualifications and historical evidence remain in the original review tables below. No job is hidden solely because its current source could not be checked.
+All **89 selected posting links** are indexed below by original reported publication date within each platform. Recent means within 60 days of October 31; older and undated exceptions follow. Location and employment are included; full qualifications and historical evidence remain in the original review tables below. No job is hidden solely because its current source could not be checked.
 
 **Status is not a guarantee:** Accepting (ATS) affirms applications at check time; Listed (ATS) means a public ATS record exists; Detail listed means matching public detail/application controls were found. Unconfirmed means the latest check failed or did not establish a usable vacancy detail, not proof of closure. Provisional mirrors are not employer verification. Earlier posting dates are preserved, not replaced by refresh timestamps.
 
@@ -95,12 +95,13 @@ All **88 selected posting links** are indexed below by original reported publica
 | Not disclosed | [ServiceNow Developer (SERV-NOW-DEV-KIT-26-1) - Brock Solutions](https://careers.brocksolutions.com/Careers.aspx?req=SERV-NOW-DEV-KIT-26-1&type=JOBDESCR) | Canada: Kitchener, Ontario head office; remote/hybrid not promised | Full-time | Detail listed | Not disclosed |
 | Not disclosed | [ServiceNow Platform Administrator (526446 / 314590) - FX Innovation / Ateko](https://www.fxinnovation.com/en/jobs/526446) | Canada remote; must reside in Canada; French and English required | Permanent full-time | Detail listed | Not disclosed |
 
-### Salesforce - date-sorted review (23)
+### Salesforce - date-sorted review (24)
 
-#### Recent (within 60 days) (20)
+#### Recent (within 60 days) (21)
 
 | Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
 |---|---|---|---|---|---|
+| 2026-09-23 | [Salesforce Marketing Cloud Developer (JR0147159) - McKesson Canada](https://careers.mckesson.com/en/job/mississauga/salesforce-marketing-cloud-developer/733/96360347648) | Canada: Mississauga, ON; hybrid 2 days/week | Full-time | Accepting (ATS) | Not disclosed |
 | 2026-10-30 | [Salesforce Platform Developer (R0014087) - Altus Group](https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087) | Toronto preferred; remote with occasional office visits | Full-time | Unconfirmed | Not disclosed |
 | 2026-10-30 | [Digital Student Service Administrator (REQ 7522) - George Brown Polytechnic](https://georgebrown.csod.com/ux/ats/careersite/4/home/requisition/7522?c=georgebrown&lang=en-US) | Canada: Toronto, 200 King St E; hybrid, two campus days | Full-time support, 35 hours/week | Listed (official ATS; Apply Now) | Explicit closing date: 2026-11-06 |
 | 2026-10-29 | [Marketing Operations Analyst (8333965) - D2L](https://www.d2l.com/careers/jobs/?job_id=8333965&gh_jid=8333965) | Canada: Canada; remote status needs employer confirmation | Not disclosed | Listed (ATS) | Not disclosed |
