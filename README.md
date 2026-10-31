@@ -7,15 +7,15 @@ Toronto-focused job posting consolidator for creative / technology manager roles
 
 **Source status/expiry checked: 2026-10-31 06:20 UTC | Agent: Copilot**
 
-All **85 selected posting links** are indexed below by original reported publication date within each platform. Recent means within 60 days of October 31; older and undated exceptions follow. Location and employment are included; full qualifications and historical evidence remain in the original review tables below. No job is hidden solely because its current source could not be checked.
+All **86 selected posting links** are indexed below by original reported publication date within each platform. Recent means within 60 days of October 31; older and undated exceptions follow. Location and employment are included; full qualifications and historical evidence remain in the original review tables below. No job is hidden solely because its current source could not be checked.
 
 **Status is not a guarantee:** Accepting (ATS) affirms applications at check time; Listed (ATS) means a public ATS record exists; Detail listed means matching public detail/application controls were found. Unconfirmed means the latest check failed or did not establish a usable vacancy detail, not proof of closure. Provisional mirrors are not employer verification. Earlier posting dates are preserved, not replaced by refresh timestamps.
 
 **Expiry is not always an application deadline.** `validThrough` is the source's listing-validity field, often automatically generated; Workday/Oracle end dates are ATS closing fields. Only separately labelled explicit application deadlines are represented as such. Not disclosed means unavailable in the checked source, not no deadline. Date-only expiry today requires time-zone confirmation.
 
-### ServiceNow - date-sorted review (64)
+### ServiceNow - date-sorted review (65)
 
-#### Recent (within 60 days) (52)
+#### Recent (within 60 days) (53)
 
 | Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@ All **85 selected posting links** are indexed below by original reported publica
 | 2026-10-20 | [ServiceNow Developer (CONTRACT ROLE) - Brookfield](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/ServiceNow-Developer--CONTRACT-ROLE-_R2053249-1) | Canada: Toronto, ON; board labels it in-office. Contract runs November 2026 through June 2027. | Full-time contract, Nov 2026-Jun 2027 | Unconfirmed | Not disclosed |
 | 2026-10-20 (board date) | [Secret Cleared ServiceNow Developer - App Engine (120592) - Alldus (Club mirror)](https://jobs.tryclub.com/projects/120592/secret-cleared-servicenow-developer-app-engine) | Canada: Fully remote across Canada; East Coast preferred | Long-term contract; C2C or T4 | Provisional mirror | 2027-01-20 (JobPosting validThrough (listing validity)) |
 | 2026-10-19 | [Expert Software Engineer - ServiceNow (OPRYDAFQ / ECEJRKAA) - TEEMA](https://app.workwolf.com/pipelineLink/OPRYDAFQ) | Canada: Toronto listing; explicitly remote United States or Canada; Eastern Time | Full-time | Accepting (ATS) | Not disclosed |
+| 2026-10-19 (JSON-LD; visible page October 21) | [ServiceNow Application Specialist (332507) - Procom](https://myprocom-portal.procomservices.com/jobs/servicenow-application-specialist-mississauga-a0319913) | Mississauga, GTA; hybrid, three onsite days | Six-month contract | Detail listed; Apply present, checked October 31 06:32 UTC | Not disclosed; validThrough empty |
 | 2026-10-16 | [ServiceNow Developer (Sr. Associate) (JR-0016235) - Huron](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/ServiceNow-Developer--Sr-Associate-_JR-0016235) | Canada: Toronto (55 University Ave) or Chicago; employer remote designation | Full-time | Unconfirmed | Not disclosed |
 | 2026-10-14 | [ServiceNow Sr. Developer - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4711687006?gh_jid=4711687006) | USA: Springfield, Virginia; onsite, four-five days for Now Assist/Portal | Not explicitly disclosed | Listed (ATS) | Not disclosed |
 | 2026-10-14 | [ServiceNow Sr. Developer (CSM) - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4704225006?gh_jid=4704225006) | USA: Washington, DC; work mode not explicitly established | Not explicitly disclosed | Listed (ATS) | Not disclosed |
@@ -150,7 +151,7 @@ All **85 selected posting links** are indexed below by original reported publica
 
 ### Government / public-sector source review - October 31
 
-Checked 2026-10-31 06:23 UTC. **No new active developer/admin vacancy was established from these supplied sources; selected count remains 85.**
+Checked 2026-10-31 06:23 UTC. **No new active developer/admin vacancy was established from these supplied sources; selected count was 85 at that review.**
 
 | Source / supplied role | Verified outcome / expiry | Coverage |
 |---|---|---|
@@ -172,7 +173,7 @@ Checked 2026-10-31 06:23 UTC. **No new active developer/admin vacancy was establ
 
 **Updated: 2026-10-31 06:17 UTC | Agent: Copilot (Copilot SDK in VS Code)**
 
-**Complete consolidated set: 85 distinct specific posting links - 64 ServiceNow-related and 21 Salesforce-related.** ServiceNow: 29 Canada-associated, 35 USA fallbacks. Includes **84 source-checked employer/ATS or individual Dice postings plus one explicitly provisional Club mirror**. [Rows #77-83](#latest-verified-canadian-additions-october-31-7) add seven independently checked Canadian postings from the earlier October 31 hunt. National Bank's FSO developer is now #84 and FX Innovation's Canada-remote administrator #85. The [five supplied links are all covered below](#supplied-five-postings-coverage-october-31); [additional supplied leads](#additional-supplied-leads-october-31) are retained with verification limits. Vendor infrastructure jobs and unverified leads are separate from the selected platform-job count. Earlier rows were checked in previous rounds, not all re-fetched at this update. 'Newly found' does not mean newly posted; related roles and older exceptions are labelled, and this is not a guarantee of continued availability.
+**Complete consolidated set: 86 distinct specific posting links - 65 ServiceNow-related and 21 Salesforce-related.** ServiceNow: 30 Canada-associated, 35 USA fallbacks. Includes **85 source-checked employer/ATS or individual Dice postings plus one explicitly provisional Club mirror**. [Rows #77-83](#latest-verified-canadian-additions-october-31-7) add seven independently checked Canadian postings from the earlier October 31 hunt. National Bank's FSO developer is now #84 and FX Innovation's Canada-remote administrator #85. The [five supplied links are all covered below](#supplied-five-postings-coverage-october-31); [additional supplied leads](#additional-supplied-leads-october-31) are retained with verification limits. Vendor infrastructure jobs and unverified leads are separate from the selected platform-job count. Earlier rows were checked in previous rounds, not all re-fetched at this update. 'Newly found' does not mean newly posted; related roles and older exceptions are labelled, and this is not a guarantee of continued availability.
 
 **Arena.ai scan incorporated:** [All 50 ServiceNow and 20 Salesforce candidate labels, plus verification corrections](Platform-Jobs-Copilot-2026-10-31-Arena-review.md). The pasted scan lost its hyperlinks and requisition IDs. Its claimed 70/70 live checks, posting dates, salaries and work modes are not adopted as independently verified facts. Overlaps are not counted twice; only independently sourced postings enter the linked review set.
 
@@ -336,11 +337,30 @@ Not additional verified vacancies. Search-result pages are discovery links, not 
 | [Scotiabank / CGI / Export Development Canada developer leads - Glassdoor search](https://www.glassdoor.ca/Job/toronto-servicenow-developer-jobs-SRCH_IL.0%2C7_IC2281069_KO8%2C28.htm) | No new individual requisitions verified. Scotiabank CAD 59,000-69,000 is a supplied Glassdoor estimate, not employer pay. CGI CAD 80,000-130,000 and unnamed CAD 66,000-72,000 remain unverified; no employer invented for unnamed role. |
 | [Lightspeed Commerce developer - supplied mirror search](https://jobs-search.org/servicenow-administrator_toronto-c117072/10) | Supplied CAD 85,000 and Toronto claim do not establish a reopened vacancy or junior status; earlier stale Lightspeed warning remains applicable. |
 
-Selected count remains **85**, unchanged. [Verification and seniority notes](Platform-Jobs-Copilot-2026-10-31-junior-review.md).
+That seniority review left the selected count at **85**; the subsequent gap hunt adds #86. [Verification and seniority notes](Platform-Jobs-Copilot-2026-10-31-junior-review.md).
+
+### Latest README gap hunt - October 31
+
+Compared current GitHub README, including peer/Arena queues, with recruiter boards, employer portals and search-discovered job-board links. **One new verified GTA-hybrid role** was missing from the selected list and all named queues: Procom #86. The six supplied candidate gaps are not six verified active vacancies; [full comparison and exclusions](Platform-Jobs-Copilot-2026-10-31-gap-hunt.md).
+
+| # | Role / company / specific posting | Location and arrangement | Employment | Posted | Fit / caveat |
+|---|---|---|---|---|---|
+| 86 | [ServiceNow Application Specialist (332507) - Procom](https://myprocom-portal.procomservices.com/jobs/servicenow-application-specialist-mississauga-a0319913) | Mississauga, Ontario; hybrid, three onsite days per week | Six-month contract | 2026-10-19 JSON-LD; visible page 2026-10-21 | Platform administration/configuration, custom workflows/flows, integrations; Transport Canada clearance eligibility and criminal check. CAD 75-100/hour shown. CSA/CAD not stated. Apply controls present. Expiry not disclosed (validThrough empty); October 19 is not inferred from start date, but explicitly exposed in datePosted metadata. |
+
+| Supplied gap candidate | Source outcome / missing evidence |
+|---|---|
+| [BMO Senior ServiceNow Solutions Engineer (R260024416)](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260024416EXTERNALENCA/ServiceNow-Developer) | Initial employer page says job **has been filled**; final recheck HTTP 410 Gone. Not added as active. |
+| [BMO Manager, ServiceNow Platform & Asset Management - mirror](https://www.careerbeacon.com/en/job-22/3478745/bmo/manager-servicenow-platfrom-asset-management/on-on) | Mirror returned 403; BMO Workday currently unavailable. Original date, hybrid pattern and current hiring unverified. |
+| [TD ServiceNow Business Process Champion - mirror](https://www.workopolis.com/jobsearch/viewjob/J98L6if0wtUt4POvAK1gQw5BBD_H-B049sXgzJBZ-zYQNtqGnyWrsTttQJpVV31J) | Mirror returned 403; TD Workday currently unavailable. No original requisition/date established. |
+| [Zaelab ServiceNow architect - original ATS](https://apply.workable.com/j/AC16E8D9D4) | Earlier primary-source check lists **Mexico**, remote, May 11, not confirmed Canada-remote. Already discussed in Arena review; not a new verified gap. |
+| [Interac Senior Business Systems Analyst (ServiceNow) - mirror](https://www.simplyhired.ca/job/5TXcg1-KZCrKEh4JDJtb4yQqBIab_bIet7CL_1jUJH9O9a-BhhECpA) | Search-discovered lead; Interac Workday currently unavailable. Original date, expiry and current status not confirmed. |
+| [Interac Quality Engineering Senior Specialist - mirror](https://www.careerbeacon.com/en/job-22/3764386/interac/quality-engineering-senior-specialist-servicenow-platform/toronto-on) | Mirror returned 403; Workday unavailable. QE-related role, not developer/admin-only; not promoted. |
+
+Also located the [original BeachHead CSA/Banking administrator (20531)](https://www.beach-head.com/jobs-search/servicenow-administrator-csa-banking-20531/): September 25, Toronto, contract, CAD 65.23-75.28/hour, CSA required. This employer/title already existed as an unverified peer lead; it is not another missing job. Work mode not disclosed, so GTA-hybrid/Canada-remote fit is unconfirmed. Its validThrough October 29, 2027 is listing validity, not a confirmed application deadline.
 
 ### Additional peer leads - unverified review queue
 
-These are **not additional to the 85 checked/provisional detail postings above**. They preserve candidate links from the latest Auto, Buffy and Kilo platform reports for review, not endorsement. Original posting dates and current application status are **not independently verified unless the review-state column explicitly says otherwise**. Duplicate employer/title variants and client aliases can remain; peer salary, certification and remote claims are not adopted. Confirmed-stale examples are explicitly identified below and must not be treated as active jobs. The source-report index following this queue preserves access to the rest of the larger peer scans. Arena's 70 hyperlink-free candidate labels are preserved separately in the linked October 31 report.
+These are **not additional to the 86 checked/provisional detail postings above**. They preserve candidate links from the latest Auto, Buffy and Kilo platform reports for review, not endorsement. Original posting dates and current application status are **not independently verified unless the review-state column explicitly says otherwise**. Duplicate employer/title variants and client aliases can remain; peer salary, certification and remote claims are not adopted. Confirmed-stale examples are explicitly identified below and must not be treated as active jobs. The source-report index following this queue preserves access to the rest of the larger peer scans. Arena's 70 hyperlink-free candidate labels are preserved separately in the linked October 31 report.
 
 | Candidate / claimed employer | Claimed location (unverified) | Original posted date | Review state | Source report |
 |---|---|---|---|---|
