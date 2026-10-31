@@ -136,6 +136,7 @@ All **85 selected posting links** are indexed below by original reported publica
 | [BESTIEJOB#3](https://github.com/eltonaguiar/BESTIEJOB/pull/3) | Merged | Seven Canadian additions; Arena labels and corrections retained |
 | [BESTIEJOB#4](https://github.com/eltonaguiar/BESTIEJOB/pull/4) | Merged | National Bank / FX additions and all supplied lead coverage retained |
 | [BESTIEJOB#5](https://github.com/eltonaguiar/BESTIEJOB/pull/5) | Merged | Closed City posting and junior/seniority caveats retained |
+| [BESTIEJOB#6](https://github.com/eltonaguiar/BESTIEJOB/pull/6) | This date/expiry consolidation | All 85 selected links indexed by platform/date with current source status and disclosed expiry |
 
 ### Job-board discovery resources (not a quality ranking)
 
