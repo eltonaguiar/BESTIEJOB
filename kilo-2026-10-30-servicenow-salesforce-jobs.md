@@ -130,4 +130,23 @@ No Toronto-based Salesforce developer/admin roles surfaced in this scan cycle.
 
 Expanded coverage now includes Canadian bank portals (Scotiabank x3, BMO), IT staffing agencies (BFG, Brock Solutions, Tekgence, LeverageTek, PrecisionERP), and US remote boards (ManTech, RSC Solutions, Artech). Many listings now quote CSA/CAD requirements verbatim from posting excerpts.
 
-> ⚠️ = **Unverified listing**: cert not quoted verbatim from the posting excerpt. Reader should confirm before applying.
+> ⚠️ = Unverified listing: cert not quoted verbatim from the posting excerpt. Reader should confirm before applying.
+
+---
+
+## Update 2026-10-31 — 6 Additional Canadian ServiceNow Listings
+
+These were **NOT** present in the live `main` README (checked 2026-10-31 06:20 UTC) and are added here as fresh finds.
+
+| # | Title | Company | Location | Posted | Salary | CSA/CAD | Apply |
+|---|-------|---------|----------|--------|--------|---------|-------|
+| 1 | ServiceNow IRM Developer (GRC) | LanceSoft | Toronto, ON (hybrid 2 days/wk) | Oct 27, 2026 | $83–$100 CAD/hr | CSA + CAD **required**; CIS-RC, CTA, ArchX nice-to-have | https://careers.lancesoft.com/ServiceNow-IRM-Developer-Governance-Risk-Controls-Transformation-Jobs-in-Toronto-Ontario/14025532 |
+| 2 | ServiceNow Platform Specialist | Alimentiv | Remote Canada | Oct 27, 2026 | — | ⚠️ unverified | https://job-boards.greenhouse.io/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108 |
+| 3 | Technology ServiceNow Administrator | Cooley | SNPro.jobs | Oct 9, 2026 | — | ⚠️ unverified | https://snpro.jobs/jobs/technology-servicenow-administrator-4bff2 |
+| 4 | ServiceNow Developer (GRC/IRM) | Tekgence Inc | Toronto, ON | Oct 16, 2026 | — | ⚠️ unverified | https://www.jobs.ca/tekgence-inc/jobs/servicenow-developer-toronto-on-173ede1d1492 |
+| 5 | ServiceNow Developer | Lightspeed Commerce | Canada remote | ~Oct 2026 | $85k–$105k | ⚠️ unverified | https://remotive.com/remote/jobs/software-development/servicenow-developer-5901862 |
+| 6 | Lead Specialist, ServiceNow CMDB | Deloitte | Toronto, ON | Recent | $85k–$156k | ⚠️ unverified | https://ca.indeed.com/rc/clk?jk=8481424a81ab3122 |
+
+**LanceSoft detail:** 10+ years IT dev, CSA+CAD required, IRM/GRC project for top-5 Canadian bank, 6-month contract with conversion possibility, technical testing in interview.
+
+**New sources checked:** LanceSoft careers portal, SNPro.jobs, Remotive.ca, Indeed CA, jobs.ca employer portals, Greenhouse.

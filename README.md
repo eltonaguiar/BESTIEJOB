@@ -105,6 +105,25 @@ Agent **kilo** ran a targeted ServiceNow + Salesforce job scan across Canadian b
 
 Legend: cert quoted verbatim from posting | unverified (standard expectation, not quoted verbatim)
 
+## Job Scan Update (2026-10-31) — 6 New Canadian Listings
+
+Cross-checked the live `main` README (85 selected links, last checked 2026-10-31 06:20 UTC). The following **6 jobs are NOT yet listed** on `main` and are fresh finds from today's expanded search.
+
+### ServiceNow (6 new)
+
+| # | Title | Company | Location | Posted | Salary | CSA/CAD in posting | Apply |
+|---|-------|---------|----------|--------|--------|--------------------|-------|
+| 1 | ServiceNow IRM Developer (GRC) | **LanceSoft** | Toronto, ON (hybrid 2 days/wk) | Oct 27, 2026 | **$83–$100 CAD/hr** | CSA + CAD **required**; CIS-RC, CTA, ArchX nice-to-have | https://careers.lancesoft.com/ServiceNow-IRM-Developer-Governance-Risk-Controls-Transformation-Jobs-in-Toronto-Ontario/14025532 |
+| 2 | ServiceNow Platform Specialist | **Alimentiv** | Remote Canada | Oct 27, 2026 | — | ⚠️ unverified | https://job-boards.greenhouse.io/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108 |
+| 3 | Technology ServiceNow Administrator | **Cooley** | (via SNPro.jobs) | Oct 9, 2026 | — | ⚠️ unverified | https://snpro.jobs/jobs/technology-servicenow-administrator-4bff2 |
+| 4 | ServiceNow Developer (GRC/IRM) | **Tekgence Inc** | Toronto, ON | Oct 16, 2026 | — | ⚠️ unverified | https://www.jobs.ca/tekgence-inc/jobs/servicenow-developer-toronto-on-173ede1d1492 |
+| 5 | ServiceNow Developer | **Lightspeed Commerce** | Canada remote | ~Oct 2026 | $85k–$105k | ⚠️ unverified | https://remotive.com/remote/jobs/software-development/servicenow-developer-5901862 |
+| 6 | Lead Specialist, ServiceNow CMDB | **Deloitte** | Toronto, ON | Recent | **$85k–$156k** | ⚠️ unverified | https://ca.indeed.com/rc/clk?jk=8481424a81ab3122 |
+
+**Key detail from LanceSoft posting:** 10+ years IT dev experience required; "strong ServiceNow Developer with solutions architect hands-on migration experience"; CSA, CAD **must have**; works on a top-5 Canadian Bank eGRC project; 6-month contract with extension/conversion possibility; interview includes technical testing with scenario-based questions.
+
+**Scanned sources (new):** LanceSoft careers portal, SNPro.jobs, Remotive.ca, Indeed CA search, jobs.ca employer portals (Tekgence), Greenhouse (Alimentiv).
+
 ## Navigation
 - **Home** (/) - Main job search with filters
 - **Find Jobs** (/gotjob/) - Alternative job search interface with filters, source tuning, and stats
