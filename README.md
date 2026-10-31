@@ -137,6 +137,7 @@ All **85 selected posting links** are indexed below by original reported publica
 | [BESTIEJOB#4](https://github.com/eltonaguiar/BESTIEJOB/pull/4) | Merged | National Bank / FX additions and all supplied lead coverage retained |
 | [BESTIEJOB#5](https://github.com/eltonaguiar/BESTIEJOB/pull/5) | Merged | Closed City posting and junior/seniority caveats retained |
 | [BESTIEJOB#6](https://github.com/eltonaguiar/BESTIEJOB/pull/6) | This date/expiry consolidation | All 85 selected links indexed by platform/date with current source status and disclosed expiry |
+| [BESTIEJOB#7](https://github.com/eltonaguiar/BESTIEJOB/pull/7) | Government-source follow-up | OPS historical closure, blocked search and unavailable public-sector leads documented; selected count unchanged |
 
 ### Job-board discovery resources (not a quality ranking)
 
@@ -145,6 +146,23 @@ All **85 selected posting links** are indexed below by original reported publica
 - [Glassdoor Canada developer search](https://www.glassdoor.ca/Job/canada-servicenow-developer-jobs-SRCH_IL.0,6_IN3_KO7,27.htm). Counts and salary estimates are not employer facts.
 - [Accel Lightspeed mirror](https://jobs.accel.com/companies/lightspeed-2-66ea6e12-7c39-4826-9c09-a08e11eabdb6/jobs/93663877-servicenow-developer). Earlier Lightspeed expiry warning remains; an indexed copy does not prove reopening.
 - Employer career pages and public Workday, Greenhouse, Lever, Ashby and SmartRecruiters records take precedence for dates/status. LinkedIn may be an application channel; no unsupported board ranking or fixed live-job count is claimed.
+- Additional user-supplied resources: [LinkedIn jobs](https://www.linkedin.com/jobs/), [Workopolis](https://www.workopolis.com/), [ITJobs.ca](https://www.itjobs.ca/). The supplied editorial rankings are not independently verified popularity measurements. [JVS Toronto's job-board article](https://www.jvstoronto.org/blog/the-best-job-boards-as-recommended-by-employment-experts) is retained as a discovery reference for IT World Canada, Toronto Technology Jobs and recruiters, not a current vacancy list. The supplied 2iResourcing and individual salary-success anecdote are unverified and not evidence of platform-job availability.
+
+### Government / public-sector source review - October 31
+
+Checked 2026-10-31 06:23 UTC. **No new active developer/admin vacancy was established from these supplied sources; selected count remains 85.**
+
+| Source / supplied role | Verified outcome / expiry | Coverage |
+|---|---|---|
+| [Ontario government job 118497](https://www.gojobs.gov.on.ca/Preview.aspx?Language=English&JobID=118497) | Initial retrieval: Metrolinx ERP Software Developer; **Posting Closed**, no longer accepting applications. Apply By January 31, **2018**, 11:59 pm EST. Historical field "Posting status: Open" does not override competition closure. Final repeat retrieval hit CAPTCHA. | Archived non-current ERP posting in captured official response; not counted as ServiceNow/Salesforce or active. |
+| [Ontario Public Service search portal](https://www.gojobs.gov.on.ca/Search.aspx) | GET page loads with Information Technology category. Submitting the public IT-category search triggered a CAPTCHA; no bypass attempted. | Official discovery resource; no complete current search or zero-vacancy claim made. |
+| [EDC Senior Business Systems Analyst, ServiceNow CSM - Workable](https://jobs.workable.com/view/uraC6Uf1h8Kio8QB1QCq6Q/hybrid-senior-business-systems-analyst%2C-servicenow-csm---en-125-in-ottawa-at-export-development-canada-%7C-exportation-et-d%C3%A9veloppement-canada) | HTTP 410: "This job is not available anymore." Supplied September 16, 2026 noon ET deadline is past and was not independently exposed in the current response. | Crown corporation lead, unavailable on supplied source; not fresh despite a supplied relative mirror age. |
+| [Salesforce Solution Engineer, Public Sector, Canada - WTOP/The Muse](https://wtop.themuse.com/jobs/salesforce/solution-engineer-public-sector-canada) | Page explicitly says **"This job is no longer available."** Description categorizes it as Sales. | Private vendor serving public-sector customers, not government employment or developer/admin-only role. |
+| [Principal Solution Architect - ServiceNow mirror](https://snpro.jobs/jobs/principal-solution-architect-servicenow-f34a4) | Already covered as selected #02 using official SmartRecruiters publication October 29. | Duplicate discovery link, not another job. |
+| [Salesforce Toronto Indeed search](https://ca.indeed.com/q-salesforce-l-toronto,-on-jobs.html) | Customer Success Manager, MuleSoft - Global Public Sector and Commercial Account Executive are supplied leads without individual requisitions or verified dates/deadlines. | Customer-success/sales roles, not promoted to platform-developer count; salary claims not adopted. |
+| [ServiceNow Staff SRE](https://careers.servicenow.com/jobs/744000156040224/staff-site-reliability-engineer) | Already covered in supplied-five table using official ATS; Toronto hybrid, October 16. | Private vendor infrastructure role, not government employment. Supplied Reliability Status claim not independently checked here. |
+
+[Government-source verification details](Platform-Jobs-Copilot-2026-10-31-public-sector-review.md).
 
 [Full expiry/status audit and limitations](Platform-Jobs-Copilot-2026-10-31-date-expiry-audit.md)
 
