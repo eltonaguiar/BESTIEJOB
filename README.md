@@ -80,6 +80,33 @@ Toronto tech hiring snapshots:
 - Low-data visual patterns and voice/keyboard hints keep every device responsive
 - Micro dashboards for push alerts, saved searches, and offline-ready shortlists
 
+## Recent Job Scan Findings — ServiceNow + Salesforce (opencode, 2026-10-30)
+
+A dedicated job-scan branch was created: `opencode-2026-10-30`
+
+Full listing: [`opencode-2026-10-30-servicenow-salesforce-jobs.md`](https://github.com/eltonaguiar/bestiejob/blob/opencode-2026-10-30/opencode-2026-10-30-servicenow-salesforce-jobs.md)
+
+### Summary
+- **ServiceNow**: 40+ listings across Toronto/Ontario, fully-remote Canada, and USA (security-clearance roles). Each mentions CSA/CAD or ServiceNow platform.
+- **Salesforce**: 40+ listings across Toronto/Ontario, fully-remote Canada, and USA. Each mentions Salesforce Administrator or Salesforce Platform Developer.
+- Priority order: Toronto/Ontario → fully remote → remote-eligible Canada → remote USA.
+- All entries are Adzuna-sourced and flagged **Unverified** — confirm live on the employer Apply page before applying.
+- Sources checked: Adzuna CA/US API, SI Systems (404), RBC Careers (general page only), Randstad Canada (no SN/SF in first 30).
+
+### Top Toronto/Ontario picks
+
+**ServiceNow**
+- ServiceNow Administrator-CSA/Banking — BeachHead Inc. (Toronto) — explicit CSA/Banking
+- ServiceNow Technical Lead — CAAT Pension Plan (Toronto) — $107,800–$133,700
+- Senior ServiceNow Engineer — EQ Bank (Toronto)
+- ServiceNow Developer (CONTRACT ROLE) — Brookfield Properties (Toronto)
+
+**Salesforce**
+- Senior Salesforce Administrator — Loopio (Toronto) — $85,000–$105,000
+- Senior Salesforce Developer / Admin — Celestica (Toronto, hybrid)
+- Consultant, Salesforce Development — CIBC (Toronto)
+- Software Engineer II (Salesforce Loyalty Management Developer) — TD Bank (Toronto)
+
 ## Navigation
 - **Home** (/) - Main job search with filters
 - **Find Jobs** (/gotjob/) - Alternative job search interface with filters, source tuning, and stats
