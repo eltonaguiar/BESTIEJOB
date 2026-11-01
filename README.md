@@ -71,6 +71,31 @@ Not yet individually verified - listed so the next pass has a target instead of 
 
 **Rejected as not platform roles:** Alvarez & Marsal "Manager - Transaction Advisory" (Oct 31, Toronto) mentions "Salesforce effectiveness" as a consulting topic, and Accenture's "ServiceNow Delivery Lead Senior Manager" is on the US site with no Canadian location shown.
 
+### Recovered from kilo-2026-10-30 - 3 added, 9 resolved as dead or duplicate
+
+`kilo-2026-10-30` carried 12 posting rows present nowhere on `main`. Each was opened on 2026-11-01
+before being added, and only a third survived.
+
+| Posted | Role | Company | Location | Link | Verification 2026-11-01 |
+|---|---|---|---|---|---|
+| not shown on page | Senior ServiceNow Developer (ITOM) | Systematix | Remote - Canada | [systematix.com](https://systematix.com/opportunity/senior-servicenow-developer-itom-2/) | **Live** (HTTP 200, title matches). 6-month contract; CSA/CAD preferred, CIS-Discovery an asset |
+| not shown on page | ServiceNow Administrator / Developer (Intermediate) | BFG Enterprise Services | Markham, ON | [careers.bfg.ca](https://careers.bfg.ca/jobs/707075-servicenow-administrator-developer-intermediate) | **Live** (HTTP 200); page states **CAD 70,000-85,000** |
+| 2026-10-08 | ServiceNow Developer | Brock Solutions | Cambridge, ON | [jobs.ca](https://www.jobs.ca/brock-solutions/jobs/servicenow-developer-cambridge-on-6ec3ecdaeeda) | **Live** (HTTP 200); **$60,000-$80,000/yr** |
+
+The other nine, and why they are not in this file:
+
+| kilo row | Outcome 2026-11-01 | Evidence |
+|---|---|---|
+| Scotiabank ServiceNow Developer (603030017) | **Closed** | Page loads but the Apply path is closed; agrees with the peer audit that already reported it as not accepting applicants |
+| BMO ServiceNow Sr Developer, ITSM / AI / GRC (R260027442) | **Gone** | HTTP **410** |
+| Brookfield ServiceNow Developer (contract) | **Gone** | jobs.ca returns **410** "This posting is no longer available"; the role is already listed above from a Workopolis mirror |
+| LanceSoft ServiceNow IRM Developer (GRC) | **Closed** | Page states closed; its own "Posted: 04/20/2026" makes the `$83-100/hr` figure six months stale |
+| Alimentiv ServiceNow Platform Specialist | **Gone** | Greenhouse board returns **404**, so the Oct 27 Alimentiv mirror row elsewhere in this file is now unbacked |
+| Lightspeed ServiceNow Developer (remotive mirror) | **Duplicate** | Same req as the Oct 23 Lightspeed row above; this mirror independently corroborates **$85,000-$105,000** |
+| Deloitte Lead Specialist, ServiceNow CMDB | **Duplicate** | Already listed as 135342; the kilo link is an Indeed click-tracking redirect, not a stable job URL |
+| RSC Solutions ServiceNow Architect | **Out of scope** | Jersey City, NJ |
+| Cooley Technology ServiceNow Administrator | **Out of scope** | US-only posting |
+
 ---
 
 ## 2026-10-31 update — dated postings, unsynced branches, World Forum portals
