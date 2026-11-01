@@ -297,6 +297,20 @@ All **93 selected posting links** are indexed below by original reported publica
 
 ## Restored postings — rows deleted in commit 8c25626
 
+### Still missing after the first restore - recovered 2026-11-01
+
+A regression check of every README version in git history (24 commits) found one posting row that existed at `bf3fdb4` and at no point afterwards.
+It is a live Salesforce role with a **2026-11-15** deadline, so its loss was material.
+
+| Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
+|---|---|---|---|---|---|
+| 2026-10-22 | [Salesforce Business Analyst (00070950941) - Cognizant](https://careers.cognizant.com/ca-en/jobs/00070950941/salesforce-business-analyst/) | Canada: Toronto; hybrid, three office days | Full-time | Listed (employer), checked 2026-10-31 by Job hunter | Applications accepted until 2026-11-15; CAD 65,000-95,000 |
+
+*Method: every `|`-row containing ServiceNow or Salesforce was extracted from all 24 historical README
+blobs and diffed against HEAD. Two apparent losses were false positives from that keyword filter
+(CAAT `JR100183`, which is present at HEAD but whose row never names the platform); this one is real.*
+
+
 Commit `8c25626` ("README: add employer-verified CGI … and Cognizant … rows") intended to add 6 rows but deleted 508 lines, removing **210 posting rows / 189 unique links** and the Filters, Add-On Pages and Navigation sections. The rows below are restored verbatim from `40cd0fd`, each under its original heading and table header. URLs already present elsewhere in this README are not duplicated.
 
 ### #### Older active/history exceptions (8)
