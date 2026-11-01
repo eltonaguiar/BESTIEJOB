@@ -2,6 +2,58 @@
 
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
 
+## 2026-11-01 addendum - postings held only in unmerged branches
+
+Checked 2026-11-01 against `origin/main` HEAD `b39ee81`, the GitHub PR list and all 19 non-main remote branches.
+
+**Branch / PR state.** Only **10 branches are genuinely unmerged**: `auto-2026-10-30`, `auto/2026-10-30`, `buffy-2026-10-30`, `buffy/servicenow-jobs-2026-10-30`, `copilot-sdk-servicenow-jobs-2026-10-30`, `copilot/fix-bestiejob-issue`, `kilo-2026-10-30`, `kilo/2026-10-30`, `opencode-2026-10-30`, `zoo/2026-10-30`. The other nine (`Copilot/2026-10-30`, `Copilot/2026-10-31*`) show as unmerged because they were **squash-merged** as PR #2-#10 - their content is already on `main`. The only open PR is **#1 [WIP] Fix issue in BestieJob application**, which contains no job rows.
+
+**Gap found.** Those 10 branches carry 396 Canadian ServiceNow/Salesforce rows. Cross-checking each company against this README found **41+ Canadian employers whose name appears nowhere in it** - so the jobs were never surfaced here at all, not merely reordered.
+
+### Live-verified additions (opened 2026-11-01, title + company confirmed)
+
+| Posted | Role | Company | Location | Link | Verification |
+|---|---|---|---|---|---|
+| 2026-10-31 | Salesforce Developer - Enhance & Operate | Slalom | Greater Toronto Area | [LinkedIn](https://ca.linkedin.com/jobs/view/salesforce-developer-enhance-operate-at-slalom-4409341991) | Live, title+location match |
+| 2026-10-30 | Salesforce DevOps Developer | ATB Financial | Calgary, AB | [Workopolis](https://www.workopolis.com/jobsearch/viewjob/_cU3myQwWeRNpzW-9BzKoaT_JWdzUpy0YJBrNe7GDe5OY0O2BlWDlzd91PQeIMBK) | Live, title+location match |
+| 2026-10-30 | Aquiva, Canada - Senior Salesforce Engineer | Aquiva and Hapi | Vancouver, BC | [Workopolis](https://www.workopolis.com/jobsearch/viewjob/CA7Basb0SslvHOXqixkrfb9yDiJmHepWkiCy1CYTR-Yi7fmNHY0vAPPi7egyUt6v) | Live, title+location match |
+| 2026-10-28 | Senior ServiceNow Specialist | Trans Mountain | Calgary, AB | [Workopolis](https://www.workopolis.com/jobsearch/viewjob/0WEkthZ3VxnmmQ3ijBnBik_SBi4yuwTUlzVxWiFOAV14IfOVwftM2Xl9SN1RXxKf) | Live, title+location match |
+| 2026-10-25 | Senior Lead, ServiceNow ITOM | Take-Two Interactive | Toronto, ON | [LinkedIn](https://ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-take-two-interactive-4481160381) | Live, title+location match |
+| date not on page | Quality Engineering, Senior Specialist (ServiceNow Platform) | Interac Corp. | Toronto, ON | [Eluta](https://www.eluta.ca/spl/quality-engineering-senior-specialist-servicenow-platform-f24893eaf5ce31b6819404bdaac9b40b) | Live; posting date not extracted |
+| date not on page | Tower Lead - ServiceNow, IT Service Management | HCL Canada Inc. | Toronto, ON | [Eluta](https://www.eluta.ca/spl/tower-lead-servicenow-it-service-management-6989209895f1862d3970fb870a572f63) | Live; page served a bot-check marker |
+| date not on page | ServiceNow Engineer / Technical Analyst | Dawn InfoTek Inc. | Toronto, ON | [Eluta](https://www.eluta.ca/spl/servicenow-engineer-technical-analyst-8505e4f1e3c9965665978a8974fca810) | Live; page served a bot-check marker |
+| date not on page | ServiceNow Strategic Portfolio Management (SPM) Consultant | RSM Canada LLP | Toronto, ON | [Eluta](https://www.eluta.ca/spl/servicenow-strategic-portfolio-management-spm-consultant-84d728901336943ef4ec30cc4644c158) | Live; page served a bot-check marker |
+
+### Peer-claimed, unverified - Adzuna returned HTTP 403 on 2026-11-01
+
+| Posted | Role | Company | Location | Link | Note |
+|---|---|---|---|---|---|
+| 2026-10-29 | Senior Full Stack Developer - Salesforce (Contract) | Electric Mind | Canada | [Adzuna 5946003062](https://www.adzuna.ca/details/5946003062) | Could not open; peer file claim only |
+| 2026-10-29 | Developpeur principal(e), Salesforce | Journey Capital | Canada | [Adzuna 5945717252](https://www.adzuna.ca/details/5945717252) | Could not open; peer file claim only |
+| 2026-10-29 | ServiceNow GRC Solution Architect | Compunnel Inc. | Canada | [Adzuna 5946007870](https://www.adzuna.ca/details/5946007870) | Could not open; peer file claim only |
+| 2026-10-29 | ServiceNow Sr. ITAM (SAM/HAM) Developer | ServiceIO Consultancy Services | Canada | [Adzuna 5946005780](https://www.adzuna.ca/details/5946005780) | Could not open; peer file claim only |
+| 2026-10-29 | Business Systems Analyst - ServiceNow / IT Infrastructure | The Stafford Gray Group | Canada | [Adzuna 5946003467](https://www.adzuna.ca/details/5946003467) | Could not open; peer file claim only |
+| 2026-10-29 | ServiceNow Business Analyst | Intercast Staffing Ltd. | Canada | [Adzuna 5945999545](https://www.adzuna.ca/details/5945999545) | Could not open; peer file claim only |
+| 2026-10-29 | ServiceNow ITOM SME | LTM | Canada | [Adzuna 5946007051](https://www.adzuna.ca/details/5946007051) | Could not open; peer file claim only |
+
+### Employers present in unmerged branches but absent from this README
+
+Not yet individually verified - listed so the next pass has a target instead of re-deriving it: Parkland, Havas CX Canada, Mindlance, Arkhya Tech, Zodiac Solutions, Nityo Infotech, Pacer Group, Desjardins, CMHC, Ateko (Bell Canada), Ledcor, Jolera, ExcelGens, Zachary Piper Solutions, Coaxxion Business Solutions, Forhyre, MNP, Workhoppers, Sapsol Technologies, ConfigureTek, Hanalytica, LeverageTek, PrecisionERP, Yudrio, Dawn InfoTek.
+
+### Postings found outside the repo on 2026-11-01
+
+| Posted | Role | Company | Location | Link | Verification |
+|---|---|---|---|---|---|
+| 2026-10-23 (open to 2026-11-22) | ServiceNow Developer | Lightspeed Commerce | Remote - Canada | [AnywhereWork](https://anywherework.io/jobs/jh73mf702ff3k34tergfdmv69n8gxyag-servicenow-developer) | Live; ITSM + HRSD, REST/SOAP, Integration Hub, Workato. Three other Lightspeed mirrors here show Ottawa/Toronto on-site - likely the same req, not reconciled |
+| 2026-10-31 | Manager, Identity Lifecycle Management (Req 277653) | Scotiabank | Toronto, ON | [O4U job board](https://careers.outforundergrad.org/companies/scotiabank/jobs/98616810-manager-identity-lifecycle-management) | Live. IAM role; ServiceNow named as tooling, so adjacent rather than a platform role |
+| 2026-10-31 | ServiceNow Systems Administrator | Infgrp | Toronto, ON | [ZipRecruiter search](https://www.ziprecruiter.com/Jobs/Admin/-in-Mississauga,ON) | Aggregator snippet claims "Posted today"; employer page not opened |
+| 2026-10-31 | ServiceNow Platform Owner & Chief Architect (WD30276572) | Johnson Controls | San Pedro Garza Garcia, Mexico | [JCI](https://jobs.johnsoncontrols.com/job/WD30276572) | Live, but **Mexico** - out of Canadian scope, recorded so it is not re-surfaced |
+| unknown (job end date 2026-10-31) | Senior Salesforce DevOps Engineer (Job ID 152975) | S.i. Systems | Canada | [S.i. Systems](https://www.sisystems.com/jobs/senior-salesforce-devops-engineer-10-years-to-design-and-maintain-ci-cd-pipelines-for-salesforce-metadata-deployments-40743/330032003200310039003600/) | **Blocked**: F5 "Request Rejected". Job end date suggests expired |
+
+**Rejected as not platform roles:** Alvarez & Marsal "Manager - Transaction Advisory" (Oct 31, Toronto) mentions "Salesforce effectiveness" as a consulting topic, and Accenture's "ServiceNow Delivery Lead Senior Manager" is on the US site with no Canadian location shown.
+
+---
+
 ## 2026-10-31 update — dated postings, unsynced branches, World Forum portals
 
 **Added 2026-10-31 by Buffy (Playwright portal scan).** Counts computed against `origin/main` at `40cd0fd`. This section sits above the auto-generated index so a regenerator cannot overwrite it.
