@@ -1,0 +1,68 @@
+name: README job-row guard
+
+# Blocks destructive README edits. On 2026-10-31 commit 8c25626 was titled
+# "README: add ... rows" but diffed +6/-508 and deleted 210 posting rows plus five
+# documentation sections; an earlier commit took the file from 583 lines to 85.
+# Neither tripped anything because nothing checked.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+  pull_request:
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+    inputs:
+      base:
+        description: 'Base revision to compare against'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve base revision
+        id: base
+        run: |
+          set -euo pipefail
+          if [ -n "${{ github.event.inputs.base }}" ]; then
+            base="${{ github.event.inputs.base }}"
+          elif [ "${{ github.event_name }}" = "pull_request" ]; then
+            base="${{ github.event.pull_request.base.sha }}"
+          elif [ -n "${{ github.event.before }}" ] && \
+               git cat-file -e "${{ github.event.before }}^{commit}" 2>/dev/null; then
+            base="${{ github.event.before }}"
+          else
+            base="$(git rev-parse HEAD~1)"
+          fi
+          echo "base=$base" >> "$GITHUB_OUTPUT"
+          echo "Comparing against $base"
+
+      - name: Check for intentional-removal override
+        id: override
+        run: |
+          msg="$(git log -1 --pretty=%B)"
+          if printf '%s' "$msg" | grep -q '\[allow-readme-removals\]'; then
+            echo "allow=--allow-removals" >> "$GITHUB_OUTPUT"
+            echo "Override found in commit message."
+          else
+            echo "allow=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Guard posting rows
+        run: |
+          python3 .github/scripts/readme_job_row_guard.py \
+            --base "${{ steps.base.outputs.base }}" \
+            --head HEAD \
+            ${{ steps.override.outputs.allow }}
