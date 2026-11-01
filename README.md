@@ -2,6 +2,25 @@
 
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
 
+## Data-model backlog - 2026-11-01 audit
+
+The sections below are hand-maintained, and `jobs.json` (14,356 records) is measured in
+[`BESTIEJOB_IMPROVEMENTS_2026-11-01.md`](./BESTIEJOB_IMPROVEMENTS_2026-11-01.md). Four findings worth acting on:
+
+| Finding | Measured |
+|---|---|
+| `postedDate` age | **14,165 of 14,356 (98.7%) are 60+ days old; 0 records fall between 7 and 60 days** - a frozen import plus a 73-row scan, not a live feed |
+| Duplicates | **1,338 redundant records** across 1,042 duplicate (company,title) groups; no canonical job id |
+| Not job postings | **149 rows** are careers landing or search-result pages; 85 `postedDate` values are unparseable, 33 missing |
+| Unmaintainable index | **No generator** writes this file - commit `8c25626`, titled as adding 2 rows, deleted 508 lines including 210 posting rows |
+
+Missing fields that would make the rest fixable: `status` (live/filled/expired/dead), `statusEvidence`,
+`lastSeenAt`, `postedAtSource`, `expiresAt`, `countryCode`, normalised `employmentType`,
+`certsRequired` vs `certsPreferred`, `moduleTags`. Evidence and the proposed schema are in the
+linked file.
+
+---
+
 ## 2026-11-01 addendum - postings held only in unmerged branches
 
 Checked 2026-11-01 against `origin/main` HEAD `b39ee81`, the GitHub PR list and all 19 non-main remote branches.
