@@ -84,7 +84,7 @@ Two gaps prompted it:
 
 `Aggregator` rows carry an Adzuna date and were **not** confirmed on the employer ATS. `Verified` means the posting page itself was opened.
 
-### Posted 2026-10-31 (28 Canadian postings)
+### Posted 2026-10-31 (53 postings — 28 Canadian + 25 aggregator additions)
 
 | Posted | Role | Employer | Location | Salary | Family | Source |
 |---|---|---|---|---|---|---|
@@ -116,6 +116,31 @@ Two gaps prompted it:
 | 2026-10-31 | Salesforce Revenue Cloud Architect | Epsilon Solutions LTD | Montréal | — | Salesforce | [Adzuna 5947996543](https://www.adzuna.ca/details/5947996543) |
 | 2026-10-31 | Salesforce Technical Architect | Jobgether | Canada, remote | — | Salesforce | [Adzuna 5948276995](https://www.adzuna.ca/details/5948276995) |
 | 2026-10-31 | Principal Solutions Consultant – Salesforce & Digital Transformation | Chapman Tate Associates | Canada | — | Salesforce | [Adzuna 5948276722](https://www.adzuna.ca/details/5948276722) |
+| 2026-10-31 | Firewall Security Specialist | GTT, LLC | Toronto, Ontario | — | ServiceNow | [Adzuna 5948025940](https://www.adzuna.ca/details/5948025940) |
+| 2026-10-31 | Security Specialist | GTT, LLC | Toronto, Ontario | — | ServiceNow | [Adzuna 5948024809](https://www.adzuna.ca/details/5948024809) |
+| 2026-10-31 | Senior Platform Support Analyst with data cloud | Maarut | East York, Toronto | — | Salesforce | [Adzuna 5948024028](https://www.adzuna.ca/details/5948024028) |
+| 2026-10-31 | Release Engineer | APN Consulting Inc | Toronto, Ontario | — | ServiceNow | [Adzuna 5948023391](https://www.adzuna.ca/details/5948023391) |
+| 2026-10-31 | Hiring Techno-Functional Analyst in Toronto, ON | Artech LLC | Toronto, Ontario | — | ServiceNow | [Adzuna 5948023183](https://www.adzuna.ca/details/5948023183) |
+| 2026-10-31 | DevOps Engineer | GTT, LLC | Toronto, Ontario | — | ServiceNow | [Adzuna 5948017534](https://www.adzuna.ca/details/5948017534) |
+| 2026-10-31 | Tech Support Analyst Splunk/Dynatrace | GTT, LLC | Toronto, Ontario | — | ServiceNow | [Adzuna 5948015340](https://www.adzuna.ca/details/5948015340) |
+| 2026-10-31 | Information Security Specialist - CISA, GRC | GTT, LLC | Toronto, Ontario | — | ServiceNow | [Adzuna 5947998436](https://www.adzuna.ca/details/5947998436) |
+| 2026-10-31 | Hiring Senior L3 AI Engineer in Montreal, QC | Artech LLC | Montreal, QC | — | ServiceNow | [Adzuna 5947970628](https://www.adzuna.ca/details/5947970628) |
+| 2026-10-31 | Hiring Sr Support Engineer in Montreal, QC | Artech LLC | Montreal, QC | — | ServiceNow | [Adzuna 5947969140](https://www.adzuna.ca/details/5947969140) |
+| 2026-10-31 | Business Risk Analyst - TD Asset Management | TD Bank | Toronto, Ontario | — | ServiceNow | [Adzuna 5947778824](https://www.adzuna.ca/details/5947778824) |
+| 2026-10-31 | Director, HR Operational Excellence | Extendicare | Markham, York region | — | ServiceNow | [Adzuna 5948276338](https://www.adzuna.ca/details/5948276338) |
+| 2026-10-31 | Director, HR Operational Excellence | Extendicare-1 | Markham, York region | — | ServiceNow | [Adzuna 5948276315](https://www.adzuna.ca/details/5948276315) |
+| 2026-10-31 | Manager, Network Service Delivery | TD Bank | London, Middlesex | — | ServiceNow | [Adzuna 5947778762](https://www.adzuna.ca/details/5947778762) |
+| 2026-10-31 | Manager, Network Service Delivery | TD Bank | Canada | — | ServiceNow | [Adzuna 5947829644](https://www.adzuna.ca/details/5947829644) |
+| 2026-10-31 | 11816 | Maarut | Montréal, Québec | — | Salesforce | [Adzuna 5948277039](https://www.adzuna.ca/details/5948277039) |
+| 2026-10-31 | QE AUTOMATION ENGINEER | Epsilon Solutions LTD | Toronto, Ontario | — | Salesforce | [Adzuna 5948025129](https://www.adzuna.ca/details/5948025129) |
+| 2026-10-31 | CAN_Developer | Varite, Inc | Toronto, Ontario | — | Salesforce | [Adzuna 5948024320](https://www.adzuna.ca/details/5948024320) |
+| 2026-10-31 | Information Technology_CAN - CAN_Developer | Artech LLC | Toronto, Ontario | — | Salesforce | [Adzuna 5947999191](https://www.adzuna.ca/details/5947999191) |
+| 2026-10-31 | Information Technology_CAN - CAN_Developer | Artech LLC | Toronto, Ontario | — | Salesforce | [Adzuna 5947969847](https://www.adzuna.ca/details/5947969847) |
+| 2026-10-31 | CRM Campaign Developer - SQL | GTT, LLC | Toronto, Ontario | — | ServiceNow | [Adzuna 5948018438](https://www.adzuna.ca/details/5948018438) |
+| 2026-10-31 | CAN_Business Analyst | Varite, Inc | Toronto, Ontario | — | Salesforce | [Adzuna 5948017591](https://www.adzuna.ca/details/5948017591) |
+| 2026-10-31 | Information Technology_CAN - CAN_Business Analyst | Artech LLC | Toronto, Ontario | — | Salesforce | [Adzuna 5947997761](https://www.adzuna.ca/details/5947997761) |
+| 2026-10-31 | Information Technology_CAN - CAN_Platform Architect | Artech LLC | Toronto, Ontario | — | Salesforce | [Adzuna 5948024055](https://www.adzuna.ca/details/5948024055) |
+| 2026-10-31 | CAN_Platform Architect | Varite, Inc | Toronto, Ontario | — | Salesforce | [Adzuna 5948020069](https://www.adzuna.ca/details/5948020069) |
 
 **Found on an employer portal instead of an aggregator — [Help Desk / IT Security Analyst – SSL/TLS KPI Processing (ServiceNow)](https://myprocom-portal.procomservices.com/jobs/it-security-analyst-ssl-tlskpi-processing-servicenow-toronto-bd8068ca), Procom, Toronto hybrid, portal stamp "3 days ago".** Verified by opening the posting.
 
@@ -135,6 +160,15 @@ Two gaps prompted it:
 | 2026-10-30 | Manager – ServiceNow | KPMG | Montréal | — | — | [Adzuna 5947366387](https://www.adzuna.ca/details/5947366387) |
 | 2026-10-30 | Salesforce Technical Lead – Financial Services Cloud | Maarut | Montréal | — | — | [Adzuna 5947169594](https://www.adzuna.ca/details/5947169594) |
 | 2026-10-30 | Salesforce Tech Lead (Canada-Remote) | CloudLabs Inc | Canada, remote | — | — | [Adzuna 5947169370](https://www.adzuna.ca/details/5947169370) |
+| 2026-10-30 | ServiceNow Marketing Manager, Global E&A | Deloitte | Toronto, Ontario | — | ServiceNow | [Adzuna 5947367654](https://www.adzuna.ca/details/5947367654) |
+| 2026-10-30 | Senior Platform Support Analyst with data cloud | Maarut | East York, Toronto | — | Salesforce | [Adzuna 5947202640](https://www.adzuna.ca/details/5947202640) |
+| 2026-10-30 | Firewall Security Specialist | Global Technical Talent, an Inc. 5000 Company | Toronto, Ontario | — | ServiceNow | [Adzuna 5947170059](https://www.adzuna.ca/details/5947170059) |
+| 2026-10-30 | Staff Incident Response Engineer | ServiceNow | Greater Vancouver, British Columbia | — | ServiceNow | [Adzuna 5947170036](https://www.adzuna.ca/details/5947170036) |
+| 2026-10-30 | Senior ServiceNow Developer | A3 Irving Energy Inc | New Brunswick, Canada | — | ServiceNow | [Adzuna 5947169087](https://www.adzuna.ca/details/5947169087) |
+| 2026-10-30 | Salesforce Solution Engineer (Hybrid or Remote) | Traction Rec | Canada | — | Salesforce | [Adzuna 5946997748](https://www.adzuna.ca/details/5946997748) |
+| 2026-10-30 | Salesforce Technical Architect | Jobgether | Canada | — | Salesforce | [Adzuna 5946719401](https://www.adzuna.ca/details/5946719401) |
+| 2026-10-30 | Senior Salesforce Developer | nesto | Canada | — | Salesforce | [Adzuna 5947168836](https://www.adzuna.ca/details/5947168836) |
+| 2026-10-30 | Lead Salesforce Marketing Cloud Architect - Remote / Telecommute | CYNET SYSTEMS | Canada | — | Salesforce | [Adzuna 5947001490](https://www.adzuna.ca/details/5947001490) |
 
 ### Peer branches holding postings missing from this README (673 links)
 
