@@ -52,6 +52,8 @@ const SECONDARY_TAGS = [
   { tag: "data", re: /data analyst|business intelligence|\bpower bi\b|\btableau\b/i },
   { tag: "devops", re: /devops|site reliability|cloud architect|aws engineer/i },
   { tag: "python", re: /python developer|python engineer/i },
+  { tag: "it-reporting", re: /it reporting|itsm reporting|service now reporting|reporting analyst/i },
+  { tag: "itam", re: /it asset management|itam|cmdb|configuration management/i },
 ];
 
 const EXCLUDE_TITLES =
@@ -66,6 +68,8 @@ const TAG_LABEL = {
   data: "Data / BI",
   devops: "DevOps / Cloud",
   python: "Python",
+  "it-reporting": "IT Reporting",
+  itam: "IT Asset Mgmt / CMDB",
 };
 
 // Accept Toronto/GTA/Ontario/Canada/remote postings; the site is Toronto-focused.
@@ -483,6 +487,13 @@ const LINKEDIN_FRESH_QUERIES = [
   "Salesforce administrator",
   "Salesforce consultant",
   "Salesforce CPQ",
+  // Variants: postings routinely use these titles instead of "developer"
+  "ServiceNow ITSM",
+  "ServiceNow ITAM",
+  "ServiceNow platform",
+  "Salesforce technical",
+  "Salesforce platform developer",
+  "CRM developer",
 ];
 
 function parseLinkedInCards(html) {
@@ -653,15 +664,54 @@ async function scanRemoteBoards() {
 // ---------------------------------------------------------------------------
 
 const ADZUNA_QUERIES = [
+  // Toronto / GTA — ServiceNow (keyword + city)
   { what: "servicenow", where: "Toronto" },
   { what: "servicenow administrator", where: "Toronto" },
   { what: "servicenow architect", where: "Toronto" },
+  { what: "servicenow developer", where: "Toronto" },
+  { what: "servicenow consultant", where: "Toronto" },
+  { what: "servicenow specialist", where: "Toronto" },
+  { what: "servicenow lead", where: "Toronto" },
+  { what: "servicenow ITSM", where: "Toronto" },
+  { what: "servicenow ITOM", where: "Toronto" },
+  // Toronto / GTA — Salesforce (keyword + city)
   { what: "salesforce", where: "Toronto" },
   { what: "salesforce developer", where: "Toronto" },
   { what: "salesforce administrator", where: "Toronto" },
   { what: "salesforce architect", where: "Toronto" },
+  { what: "salesforce consultant", where: "Toronto" },
+  { what: "salesforce analyst", where: "Toronto" },
+  { what: "salesforce specialist", where: "Toronto" },
+  { what: "salesforce lead", where: "Toronto" },
+  // Canada-wide — remote-eligible ServiceNow / Salesforce (Toronto focus + fully remote Canada)
+  { what: "servicenow remote", where: "Canada" },
+  { what: "salesforce remote", where: "Canada" },
+  // National broad (catches remote + any Canadian location)
   { what: "servicenow", where: "Canada" },
   { what: "salesforce", where: "Canada" },
+  // Elton's core competencies (ITAM/ITSM reporting, CMDB)
+  { what: "it reporting", where: "Toronto" },
+  { what: "it asset management", where: "Toronto" },
+  { what: "cmdb", where: "Toronto" },
+  { what: "itsm reporting", where: "Toronto" },
+  // Keyword variants — the titles these roles are actually posted under.
+  // Adzuna matches on posting text, so these catch work hidden behind
+  // generic titles ("platform developer", "ITSM analyst", "BSA").
+  { what: "service now", where: "Toronto" },
+  { what: "itsm", where: "Toronto" },
+  { what: "service mapping", where: "Toronto" },
+  { what: "software asset management", where: "Toronto" },
+  { what: "hardware asset management", where: "Toronto" },
+  { what: "platform developer", where: "Toronto" },
+  { what: "crm developer", where: "Toronto" },
+  { what: "business systems analyst", where: "Toronto" },
+  { what: "application analyst", where: "Toronto" },
+  { what: "apex", where: "Toronto" },
+  { what: "salesforce cpq", where: "Toronto" },
+  { what: "salesforce marketing cloud", where: "Toronto" },
+  { what: "agentforce", where: "Toronto" },
+  { what: "servicenow", where: "Ottawa" },
+  { what: "servicenow", where: "Mississauga" },
 ];
 
 async function scanAdzuna() {
