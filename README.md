@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-02T03:57:03.228Z** · 258 live postings from 10 public sources · 17 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-02T13:07:15.739Z** · 266 live postings from 10 public sources · 19 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -11,6 +11,7 @@
 |---|---|---|---|
 | 2026-11-01 | [Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971672) | Deloitte | Toronto, Ontario |
 | 2026-11-01 | [Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971682) | Deloitte | Toronto, Ontario |
+| 2026-11-01 | [Principal Solution Architect- ServiceNow](https://www.adzuna.ca/details/5949576383) | ServiceNow | Toronto, Ontario |
 | 2026-11-01 | [Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123) | Deloitte | Toronto, Ontario, Canada |
 | 2026-11-01 | [Conseiller principal ou conseillère principale, ITOM, ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-itom-servicenow-at-deloitte-4459429838) | Deloitte | Toronto, Ontario, Canada |
 | 2026-11-01 | [Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459417849) | Deloitte | Brossard, Quebec, Canada |
@@ -20,24 +21,23 @@
 | 2026-10-31 | [ServiceNow Consultant - REMOTE](https://www.adzuna.ca/details/5948024837?utm_medium=api&utm_source=54ce986e) | NTT DATA | Ottawa, Ottawa region |
 | 2026-10-31 | [ServiceNow Developer- 26-16925](https://www.adzuna.ca/details/5948016541?utm_medium=api&utm_source=54ce986e) | US Tech Solutions, Inc. | Ottawa, Ottawa region |
 | 2026-10-31 | [ServiceNow Systems Administrator](https://www.adzuna.ca/details/5948015907) | GTT, LLC | Toronto, Ontario |
-| 2026-10-31 | [IT - Systems Administrator V Service Now - Systems Administrator](https://www.adzuna.ca/details/5948007824) | ICONMA, LLC | Toronto, Ontario |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-02 | [Senior Salesforce Technical Consultant](https://www.adzuna.ca/details/5950547938) | CYNET SYSTEMS | Mississauga, Peel region |
+| 2026-11-02 | [Salesforce Consultant, Change Management](https://www.adzuna.ca/details/5950546447) | NeuraFlash, Part of Accenture | Vancouver, Greater Vancouver |
+| 2026-11-02 | [Senior Consultant - Salesforce](https://www.adzuna.ca/details/5950543320) | fusionSpan | Toronto, Ontario |
+| 2026-11-02 | [Salesforce Consultant](https://www.adzuna.ca/details/5950538116) | Epsilon Solutions LTD | Toronto, Ontario |
+| 2026-11-02 | [Salesforce Functional Manager](https://ca.linkedin.com/jobs/view/salesforce-functional-manager-at-kpmg-canada-4434210237) | KPMG Canada | Montreal, Quebec, Canada |
+| 2026-11-02 | [QA Engineer- Salesforce Marketing Cloud (SFMC)](https://ca.linkedin.com/jobs/view/qa-engineer-salesforce-marketing-cloud-sfmc-at-tru-4485435956) | Tru | Toronto, Ontario, Canada |
 | 2026-11-01 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5949576662) | Benevity | Canada |
 | 2026-11-01 | [Senior Salesforce BSA - Financial Services Cloud](https://www.adzuna.ca/details/5949576437) | Procom-b5a780c3 | Toronto, Ontario |
 | 2026-11-01 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/land/ad/5949286084) | CloudKettle Inc | Toronto, Ontario |
 | 2026-11-01 | [Salesforce Industries Cloud Architect (Remote](https://www.adzuna.ca/land/ad/5949286090) | CloudKettle Inc | Toronto, Ontario |
+| 2026-11-01 | [Salesforce Platform Developer](https://www.adzuna.ca/details/5949004280) | Altus Group | Toronto, Ontario |
 | 2026-11-01 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5948997248) | Docebo | Toronto, Ontario |
-| 2026-11-01 | [Salesforce Administrator \| Natural Health \| Hybrid in Toronto \| $60-75k Benefits](https://www.adzuna.ca/details/5948993217) | White Bay | Toronto, Ontario |
-| 2026-11-01 | [Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team)](https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232) | Deloitte | Toronto, Ontario, Canada |
-| 2026-11-01 | [Salesforce Engineer](https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926) | Thomson Reuters | Toronto, Ontario, Canada |
-| 2026-11-01 | [Director, Salesforce Delivery and Architecture, Deloitte Global Technology](https://ca.linkedin.com/jobs/view/director-salesforce-delivery-and-architecture-deloitte-global-technology-at-deloitte-4460396523) | Deloitte | Toronto, Ontario, Canada |
-| 2026-11-01 | [Directeur(trice), Salesforce fonctionnel](https://ca.linkedin.com/jobs/view/directeur-trice-salesforce-fonctionnel-at-kpmg-canada-4434096618) | KPMG Canada | Montreal, Quebec, Canada |
-| 2026-11-01 | [QM – Salesforce Tester](https://ca.linkedin.com/jobs/view/qm-%E2%80%93-salesforce-tester-at-tata-consultancy-services-4485403209) | Tata Consultancy Services | Toronto, Ontario, Canada |
-| 2026-10-31 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5948276995?utm_medium=api&utm_source=54ce986e) | Jobgether | Canada |
 
 ### Other keyword matches — newest 10
 
@@ -56,6 +56,32 @@
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
+
+## Other jobs — resume keyword matches
+
+Resume-relevant keywords beyond ServiceNow/Salesforce: PowerShell, VBA/Excel, Alteryx, Python, Data/BI, Tableau/Power BI, SQL Server, JIRA/Confluence, ITAM, ITOM, GitHub/CI-CD. Aggregator-sourced (Adzuna CA), not employer-ATS-confirmed — open the Apply page before applying. Scanned 2026-11-02.
+
+| Posted | Role | Company | Location | Keyword | Source |
+|---|---|---|---|---|---|
+| 2026-11-02 | [Microsoft NAV / Business Central ERP Systems Analyst](https://www.adzuna.ca/land/ad/5950298314) | NPA WorldWide | Guelph, Wellington region | Tableau / BI | adzuna |
+| 2026-11-01 | [Systems Administrator](https://www.adzuna.ca/details/5950015835) | Magna International, Inc | Concord, York region | SQL Server | adzuna |
+| 2026-11-01 | [Senior Business Analyst, Loan Servicing Technology](https://www.adzuna.ca/details/5949972415) | BMO | Toronto, Ontario | Tableau / BI | adzuna |
+| 2026-11-01 | [Engagement Analyst (12 Month Contract)](https://www.adzuna.ca/details/5949971673) | KPMG | Toronto, Ontario | Data / BI | adzuna |
+| 2026-11-01 | [Senior Manager - Senior Tech Lead - AI & Technology Transformation](https://www.adzuna.ca/details/5949969958) | KPMG | Montréal, Québec | Python | adzuna |
+| 2026-11-01 | [Lead Cloud Software Developer - (AWS / AI / Real Time Payment Systems)](https://www.adzuna.ca/land/ad/5949669657) | BMO Financial | Central Bay Street, City of Toronto | Python | adzuna |
+| 2026-11-01 | [Manager, Capital Data Analytics](https://www.adzuna.ca/land/ad/5949669576) | BMO Financial | Central Bay Street, City of Toronto | Tableau / BI | adzuna |
+| 2026-11-01 | [ML Engineer, Trust & Safety [Hapiko]](https://www.adzuna.ca/details/5949577823) | Jobgether | Toronto, Ontario | Python | adzuna |
+| 2026-11-01 | [AI Fullstack Engineer (Senior Associate) - Canada](https://www.adzuna.ca/details/5949577731) | Huron Consulting Group | Toronto, Ontario | Python | adzuna |
+| 2026-11-01 | [Senior Analytics Engineer (m/f/d)](https://www.adzuna.ca/details/5949577699) | AutoTrader.ca | Canada | Data / BI | adzuna |
+| 2026-11-01 | [Data Engineer](https://www.adzuna.ca/details/5949577347) | Amphenol ICC | Markham, York region | Python | adzuna |
+| 2026-11-01 | [Senior Backend Developer, AI Systems](https://www.adzuna.ca/details/5949577273) | Jobgether | Canada | Python | adzuna |
+| 2026-11-01 | [Data Platform Engineer](https://www.adzuna.ca/details/5949577145) | Xanadu | Toronto, Ontario | Data / BI | adzuna |
+| 2026-11-01 | [Senior Data Scientist - Operations Research](https://www.adzuna.ca/details/5949577061) | Xanadu | Toronto, Ontario | Python | adzuna |
+| 2026-11-01 | [Staff Data Scientist](https://www.adzuna.ca/details/5949576986) | BMO | Toronto, Ontario | Python | adzuna |
+| 2026-11-01 | [BI Engineer](https://www.adzuna.ca/details/5949577037) | Four Seasons | Toronto, Ontario | Data / BI | adzuna |
+| 2026-11-01 | [DevOps Engineer](https://www.adzuna.ca/details/5949576836) | Equinix | Toronto, Ontario | GitHub / CI-CD | adzuna |
+| 2026-11-01 | [Senior DevOps / DevSecOps Engineer](https://www.adzuna.ca/details/5949576723) | Capco Group | Toronto, Ontario | Python | adzuna |
+| 2026-11-01 | [Staff Cloud Engineer , Cloud Platform](https://www.adzuna.ca/details/5949576733) | Kinaxis | Ottawa, Ottawa region | Python | adzuna |
 
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
 
@@ -144,6 +170,32 @@ Government of Canada [Job Bank](https://www.jobbank.gc.ca) employer-filed record
 | 2026-11-01 | cloud architect | CloudKettle Inc | Toronto, ON | $110,000–$140,000/yr | [Job Bank 50631214](https://www.jobbank.gc.ca/jobsearch/jobposting/50631214) |
 
 Excluded from the table: two CloudKettle **account executive** records (50631212, 50631181, $120,000/yr) — sales roles, out of platform-developer/admin scope. The `searchstring=servicenow` sweep returned one marginal match: [programmer analyst — Kativik Ilisarniliriniq](https://www.jobbank.gc.ca/jobsearch/jobposting/50621515) (posted 2026-10-31, ServiceNow named in the description only).
+
+---
+
+## 2026-11-02 expanded scan — additional Oct 31 + Nov 1 postings
+
+Second Adzuna CA API sweep (`max_days_old=2`, broader keyword/location set, pages 1–3) run 2026-11-02. These 10 Toronto/GTA/Ontario/Canada-remote ServiceNow/Salesforce postings dated 2026-11-01 or 2026-10-31 did not appear in the first scan section. Aggregator-sourced — not ATS-confirmed; open the Apply page before applying.
+
+### Posted 2026-11-01 (2)
+
+| Posted | Role | Company | Location | Family | Source |
+|---|---|---|---|---|---|
+| 2026-11-01 | [Développeur Salesforce](https://www.adzuna.ca/details/5948938935?utm_medium=api&utm_source=54ce986e) | CGI | Montréal, Québec | Salesforce | Adzuna 5948938935 |
+| 2026-11-01 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e) | iA Financial Group | Canada | Salesforce | Adzuna 5948983668 |
+
+### Posted 2026-10-31 (8)
+
+| Posted | Role | Company | Location | Family | Source |
+|---|---|---|---|---|---|
+| 2026-10-31 | [Functional QA Tester Salesforce](https://www.adzuna.ca/details/5947967982?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5947967982 |
+| 2026-10-31 | [Salesforce Scrum Master](https://www.adzuna.ca/details/5948006847?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5948006847 |
+| 2026-10-31 | [Senior Quality Assurance Engineer - Salesforce Marketing Cloud & Azure Data Platforms](https://www.adzuna.ca/details/5948009443?utm_medium=api&utm_source=54ce986e) | Hour Consulting Corporation | Toronto, Ontario | Salesforce | Adzuna 5948009443 |
+| 2026-10-31 | [Salesforce Functional Analyst](https://www.adzuna.ca/details/5948011834?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5948011834 |
+| 2026-10-31 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5948019639?utm_medium=api&utm_source=54ce986e) | Macpower Digital Assets Edge Private Limited | Toronto, Ontario | Salesforce | Adzuna 5948019639 |
+| 2026-10-31 | [Salesforce Functional Lead](https://www.adzuna.ca/details/5948023559?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5948023559 |
+| 2026-10-31 | [Production Support Engineer with Salesforce](https://www.adzuna.ca/details/5948025245?utm_medium=api&utm_source=54ce986e) | ApTask | Toronto, Ontario | Salesforce | Adzuna 5948025245 |
+| 2026-10-31 | [Technical PM Salesforce Life Sciences](https://www.adzuna.ca/details/5948026660?utm_medium=api&utm_source=54ce986e) | GTT, LLC | Toronto, Ontario | Salesforce | Adzuna 5948026660 |
 
 ---
 
