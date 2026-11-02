@@ -5,22 +5,22 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (67)](#servicenow-jobs-67)
+  - [ServiceNow jobs (69)](#servicenow-jobs-69)
   - [Salesforce jobs (62)](#salesforce-jobs-62)
-  - [Other jobs (70)](#other-jobs-70)
+  - [Other jobs (73)](#other-jobs-73)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **199 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **204 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (67)
+### ServiceNow jobs (69)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 67 postings</strong></summary>
+<details><summary><strong>Show 69 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-02 | [Senior ServiceNow Developer](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000178749EXTERNALENCA/Senior-Service-Now-Developer) | Royal Bank of Canada | Toronto, ON | CMDB/ITAM; workflows, business rules, access controls | RBC Careers |
 | 2026-11-02 | [Senior ServiceNow Discovery & Service Mapping Engineer](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000167419EXTERNALENCA/Senior-ServiceNow-Discovery-Service-Mapping-Engineer) | Royal Bank of Canada | Toronto, ON | Discovery; CIS-Discovery, CSA asset match | RBC Careers |
 | 2026-11-02 | [ServiceNow Discovery Developer](https://jobs.scotiabank.com/job/Toronto-ServiceNow-Discovery-Developer-ON-M1L4S2/602442317/) | Scotiabank | Toronto, ON (M1L 4S2) | Employer ATS live, verified 2026-11-02 (posting date not disclosed); CIS-Discovery cert direct match |
+| 2026-11-02 | [Global ServiceNow Alliance Performance and Operations Lead (133370, 24-month fixed term)](https://careers.deloitte.ca/job/Global-ServiceNow-Alliance-Performance-and-Operations-Lead,-Deloitte-Global-E&A-24-months-FixedTerm/133370-en_US/) | Deloitte | Toronto, ON | Employer requisition live (HTTP 200), verified 2026-11-02; surfaced via Eluta this week, posting date not disclosed |
 | 2026-11-02 | [Technical Specialist](https://jobs.rogers.com/job/Markham-Technical-Specialist-ON/1438290600/) | Rogers | Markham, ON | Employer ATS live, verified 2026-11-02; ServiceNow + Salesforce named in description |
 | 2026-11-02 | [Sr Platform Specialist](https://jobs.rogers.com/job/Calgary-Sr-Platform-Specialist-AB/1418156900/) | Rogers | Calgary, AB | Employer ATS live, verified 2026-11-02; ServiceNow named in description |
 | 2026-11-02 | [ServiceNow Developer](https://www.adzuna.ca/details/5926069932) | Zaelab | Montreal, QC | ServiceNow practice role; configuring and supporting ServiceNow solutions Adzuna 5926069932 |
@@ -95,6 +96,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-29 | [Senior Consultant, Employee Technology Services (2621393)](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Senior-Consultant--Employee-Technology-Services_2621393) | CIBC | Toronto, ON | CIBC Workday, "Posted 4 Days Ago" on 2026-11-02; ServiceNow named in description; restored |
 | 2026-10-25 | [ServiceNow System Administrator](https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator) | Bell | Toronto, ON / Montreal, QC | via buffy-second-round--2026-11-02--v2.md |
 | 2026-10-22 | [Senior Lead, ServiceNow ITOM (8306166)](https://job-boards.greenhouse.io/taketwo/jobs/8306166) | Take-Two Interactive | Toronto, ON | Greenhouse API updated_at 2026-10-22 — employer requisition for the LinkedIn card tracked in the archive; ITOM/Discovery resume match |
+| 2026-10-19 | [ServiceNow Senior Technical Advisor (432829)](https://jobs.bell.ca/ca/en/job/432829/ServiceNow-Senior-Technical-Advisor) | Bell | Toronto / Montreal | Bell Phenom widgets API, postedDate 2026-10-19; companion req to the 432824 SysAdmin row above |
 
 </details>
 
@@ -176,15 +178,17 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (70)
+### Other jobs (73)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 70 postings</strong></summary>
+<details><summary><strong>Show 73 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-02 | [Incident Response Specialist](https://ca.linkedin.com/jobs/view/incident-response-specialist-at-swoon-4485427505) | Swoon | Toronto, ON | ITSM incident management (98 "incident" mentions in description); LinkedIn 4485427505 — restored after 2026-11-02 consolidation dropped it |
+| 2026-11-02 | [BUSINESS ANALYST 311 (607576217)](https://jobs.toronto.ca/jobsatcity/job/Toronto-BUSINESS-ANALYST-311-ON-M5V-3C6/607576217/) | City of Toronto | Toronto, ON (M5V 3C6) | Employer ATS live, verified 2026-11-02; Salesforce named in description; 311 service BA |
+| 2026-11-02 | [BUSINESS ANALYST 311 (607274617)](https://jobs.toronto.ca/jobsatcity/job/Toronto-BUSINESS-ANALYST-311-ON-M5V-3C6/607274617/) | City of Toronto | Toronto, ON (M5V 3C6) | Employer ATS live, verified 2026-11-02; second requisition, same title/location |
 | 2026-11-02 | [Specialist, Marketing Technology (12-month contract)](https://ca.linkedin.com/jobs/view/specialist-marketing-technology-12-month-contract-at-agf-investments-4452505102) | AGF Investments | Toronto, ON | Salesforce/CRM martech stack; LinkedIn 4452505102 — restored |
 | 2026-11-02 | [Senior Manager, Customer Success Applications](https://ca.linkedin.com/jobs/view/senior-manager-customer-success-applications-at-clio-4433416948) | Clio | Toronto, ON | Salesforce/CS platform ownership; LinkedIn 4433416948 — restored |
 | 2026-11-02 | [Analyste - Administrateur de plateforme - Écosystème marketing](https://ca.linkedin.com/jobs/view/analyste-administrateur-de-plateforme-%C3%A9cosyst%C3%A8me-marketing-at-chrome-technologies-4485475284) | Chrome Technologies | Longueuil, QC | Platform administrator (marketing ecosystem); LinkedIn 4485475284 — restored |
@@ -252,6 +256,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-31 | [Senior MuleSoft Integration Developer](https://www.adzuna.ca/details/5948276684) | S.i. Systems | Calgary, AB | via buffy-second-round--2026-11-02--v2.md |
 | 2026-10-31 | [Intermediate IT Service Desk Analyst](https://www.adzuna.ca/details/5947847001) | Eupraxia Pharmaceuticals | Vancouver, BC | via buffy-second-round--2026-11-02--v2.md |
 | 2026-10-30 | [Senior Mulesoft Software Engineer](https://www.adzuna.ca/details/5947169040) | Manulife | Toronto, ON | via buffy-second-round--2026-11-02--v2.md |
+| 2026-10-29 | [Network Operations Analyst (R-0000191399)](https://jobs.rbc.com/ca/en/job/R-0000191399) | RBC | Toronto, ON | RBC Phenom widgets API, postedDate 2026-10-29; ServiceNow keyword match — ITSM/network ops |
 | 2026-10-28 | [Software Developer (Automations / AI / DevOps) (R260022970)](https://bmo.wd3.myworkdayjobs.com/External/job/Mississauga-ON-CAN/Software-Developer----Automations--AI--Dev-Ops-_R260022970) | BMO | Mississauga, ON | BMO Workday, "Posted 5 Days Ago" on 2026-11-02; Salesforce named; automation engineering — restored |
 | 2026-10-27 | [Senior I&IT Business Analyst (req 117337)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117337) | Metrolinx | Canada (GTA) | Metrolinx Oracle CE API, PostedDate 2026-10-27; I&IT BA — restored |
 
