@@ -55,9 +55,9 @@ jobs:
           NODE_ENV: production
         run: |
           if [ "${{ inputs.playwright }}" = "true" ]; then
-            node scripts/daily_job_scan.mjs --playwright
+            node scripts/daily_job_scan.mjs --playwright --no-readme
           else
-            node scripts/daily_job_scan.mjs
+            node scripts/daily_job_scan.mjs --no-readme
           fi
 
       - name: Commit refreshed job data

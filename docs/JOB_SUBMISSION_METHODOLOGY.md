@@ -118,9 +118,10 @@ python3 tools/jobs_consolidate.py
 
 ## 5. What the merger will not touch
 
-`scripts/daily_job_scan.mjs` owns the `<!-- DAILY-SCAN:START --> … <!-- DAILY-SCAN:END -->`
-block at the bottom of the README. It rewrites only that block on every run. If the markers are
-ever removed, the scanner re-inserts its block directly under the H1 — so leave them alone.
+`scripts/daily_job_scan.mjs` runs with `--no-readme` in `.github/workflows/scrape_jobs.yml`, so the
+scanner no longer writes to the README at all — it only refreshes `jobs.json` and `FRESH_JOBS.md`.
+The three tables in the README are therefore the only tables. If you ever see a
+`<!-- DAILY-SCAN -->` block reappear, the workflow lost its `--no-readme` flag.
 
 ---
 
@@ -144,3 +145,17 @@ The README is only useful if a human can trust a row. Before submitting:
 - [ ] No row older than 30 days survived in the tables.
 - [ ] `README.BAK_<timestamp>.md` exists and contains the pre-merge content.
 - [ ] `git diff --stat` touches only `README.md`, `inbox/`, and one new `README.BAK_*`.
+
+## 8. Migrating an old branch
+
+Branches that predate this process can be converted instead of hand-merged:
+
+```bash
+python3 tools/migrate_peer_branches.py --dry-run
+python3 tools/migrate_peer_branches.py   # writes inbox/peer-<branch>--<date>--v1.md
+python3 tools/jobs_merge_inbox.py        # normal dedupe + archive
+```
+
+The migrator drops index-page links and titles like `Apply`, `View` or `… search`, requires a
+company name, and keeps only rows with an absolute date, so junk from a board's search page does
+not enter the tables.

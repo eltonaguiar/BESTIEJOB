@@ -132,6 +132,7 @@ def render(jobs: list[dict], today: date, days: int, cutoff: date, archive_name:
         ("salesforce", "Salesforce jobs", "developer / administrator / architect / consultant roles"),
         ("other", "Other jobs", "ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile"),
     ]
+    counts = {key: sum(1 for j in jobs if j["family"] == key) for key, _, _ in families}
     out: list[str] = []
     out.append("# BESTIEJOB")
     out.append("")
@@ -140,6 +141,16 @@ def render(jobs: list[dict], today: date, days: int, cutoff: date, archive_name:
         "**Three tables, newest first, nothing older than "
         f"{days} days.** Older postings and every legacy section live in `{archive_name}`."
     )
+    out.append("")
+    out.append("## Contents")
+    out.append("")
+    out.append(f"- [Current jobs — as of {today.isoformat()}](#current-jobs--as-of-{today.isoformat()})")
+    out.append(f"  - [ServiceNow jobs ({counts['servicenow']})](#servicenow-jobs-{counts['servicenow']})")
+    out.append(f"  - [Salesforce jobs ({counts['salesforce']})](#salesforce-jobs-{counts['salesforce']})")
+    out.append(f"  - [Other jobs ({counts['other']})](#other-jobs-{counts['other']})")
+    out.append("- [User / AI agent guide](#user--ai-agent-guide)")
+    out.append("- [How to add jobs](#how-to-add-jobs-to-this-file)")
+    out.append("- [Archive](#archive)")
     out.append("")
     out.append(f"## Current jobs — as of {today.isoformat()}")
     out.append("")
@@ -161,6 +172,8 @@ def render(jobs: list[dict], today: date, days: int, cutoff: date, archive_name:
             continue
         out.append(f"_{blurb}_")
         out.append("")
+        out.append(f"<details><summary><strong>Show {len(group)} postings</strong></summary>")
+        out.append("")
         out.append("| Posted | Role | Company | Location | Source / note |")
         out.append("|---|---|---|---|---|")
         for j in group:
@@ -169,6 +182,60 @@ def render(jobs: list[dict], today: date, days: int, cutoff: date, archive_name:
                 f"| {j['posted']} | [{j['title']}]({j['url']}) | {j['company']} | {j['location']} | {note} |"
             )
         out.append("")
+        out.append("</details>")
+        out.append("")
+    out.append("## User / AI agent guide")
+    out.append("")
+    out.append("<details><summary><strong>If you are a person job-hunting</strong></summary>")
+    out.append("")
+    out.append(
+        "Open the table that matches the platform you work on. Every row links straight to the\n"
+        "posting, and `Posted` is the date the source published it — not a board's \"days ago\" label.\n"
+        "Rows are newest first, so whatever sits at the top of a table is the freshest. Aggregator\n"
+        "mirrors (Adzuna, LinkedIn, Talent.com) can lag or expire without notice: open the link\n"
+        "before applying. If a row says `date relative — unverified`, treat the date as a hint only."
+    )
+    out.append("")
+    out.append("</details>")
+    out.append("")
+    out.append("<details><summary><strong>If you are an AI agent adding jobs</strong></summary>")
+    out.append("")
+    out.append("1. **Never edit the three tables directly.** Concurrent agents will collide on them.")
+    out.append("2. Drop a file in `inbox/` named `<model-slug>--<YYYY-MM-DD>--v<N>.md`.")
+    out.append("3. One row per job, with an **absolute** `YYYY-MM-DD` date and a URL:")
+    out.append("")
+    out.append("```markdown")
+    out.append("| Posted | Role | Company | Location | URL |")
+    out.append("|---|---|---|---|---|")
+    out.append("| 2026-11-02 | ServiceNow Developer | Acme Corp | Toronto, ON | https://example.com/job/1 |")
+    out.append("```")
+    out.append("")
+    out.append("4. Same model, same day, more rows? Rename `v1` → `v2` and edit that file. Do not open a second one.")
+    out.append("5. Run `python3 tools/jobs_merge_inbox.py --dry-run`, then without the flag.")
+    out.append("6. Or open a PR that touches **only** your `inbox/` file.")
+    out.append("")
+    out.append("</details>")
+    out.append("")
+    out.append("<details><summary><strong>Rules the merger enforces</strong></summary>")
+    out.append("")
+    out.append("| Rule | Behaviour |")
+    out.append("|---|---|")
+    out.append("| Absolute date only | `2 days ago`, `New!` or a blank cell is rejected |")
+    out.append("| URL required | rows without `http(s)://` are rejected |")
+    out.append("| Duplicate URL | skipped, counted, never re-added (query strings and `utm_*` ignored) |")
+    out.append(f"| Older than {days} days | moved to `README.BAK_*.md`, not into the tables |")
+    out.append(f"| Table size | newest {60} per family in the README; the overflow is archived, not lost |")
+    out.append("")
+    out.append("</details>")
+    out.append("")
+    out.append("<details><summary><strong>Troubleshooting</strong></summary>")
+    out.append("")
+    out.append("- `inbox/ is empty` — your file does not match `<model>--<YYYY-MM-DD>--v<N>.md`.")
+    out.append("- Row missing after a merge — it was a duplicate URL or it failed the date rule; the merge report says which.")
+    out.append("- Scanner block reappeared — `scripts/daily_job_scan.mjs` must be run with `--no-readme` (the workflow already does).")
+    out.append("")
+    out.append("</details>")
+    out.append("")
     out.append("## How to add jobs to this file")
     out.append("")
     out.append(
@@ -194,6 +261,7 @@ def main() -> int:
     ap.add_argument("--days", type=int, default=30)
     ap.add_argument("--max-per-table", type=int, default=60, help="newest N rows kept per table")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--drop-scan-block", action="store_true", help="omit the scanner block entirely")
     ap.add_argument("--keep-scan-block", action="store_true", default=True)
     args = ap.parse_args()
 
@@ -237,7 +305,7 @@ def main() -> int:
     new_readme = render(current, today, args.days, cutoff, archive_name)
 
     scan_block = extract_scan_block(text)
-    if scan_block and args.keep_scan_block:
+    if scan_block and args.keep_scan_block and not args.drop_scan_block:
         new_readme += (
             "## Automated feed (rewritten daily)\n\n"
             "Below is the raw output of `npm run scan:daily`. It may repeat rows from the tables above;\n"

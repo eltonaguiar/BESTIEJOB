@@ -210,8 +210,6 @@ def main() -> int:
         path.unlink()
         print(f"bumped {path.name} -> {target.name}")
 
-    if scan_start not in README.read_text(encoding="utf-8"):
-        print("warning: DAILY-SCAN markers were not preserved; the scanner will re-insert at the top")
     return 0
 
 
