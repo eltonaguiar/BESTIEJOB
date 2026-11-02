@@ -1,4 +1,4 @@
-ï»¿# BESTIEJOB
+﻿ï»¿# BESTIEJOB
 
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
 
@@ -526,6 +526,7 @@ Commit `8c25626` ("README: add employer-verified CGI … and Cognizant … rows"
 | [BESTIEJOB#8](https://github.com/eltonaguiar/BESTIEJOB/pull/8) | ServiceNow gap hunt | Procom GTA-hybrid specialist #86 added; six supplied gaps classified with source limitations |
 | [BESTIEJOB#9](https://github.com/eltonaguiar/BESTIEJOB/pull/9) | Playwright job scan | George Brown Salesforce-admin-related role #87 and Panasonic Salesforce Developer #88 added; Panasonic mirror deduplicated |
 | [BESTIEJOB#10](https://github.com/eltonaguiar/BESTIEJOB/pull/10) | Merged | PR-coverage bookkeeping for the Playwright scan; no new postings imported |
+| [BESTIEJOB#13](https://github.com/eltonaguiar/BESTIEJOB/pull/13) | 2026-11-02 employer-ATS sweep | BMO Salesforce enablement manager #104 and McKesson Salesforce Solution Lead #105 added from employer records; no Canadian ServiceNow/Salesforce posting dated October 31 or November 1 verified |
 
 ### ### Government / public-sector source review - October 31
 
