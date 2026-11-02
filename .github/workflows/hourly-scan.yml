@@ -40,12 +40,18 @@ jobs:
           NODE_ENV: production
         run: node scripts/daily_job_scan.mjs --no-readme
 
+      - name: Sync curated README rows into the feed
+        run: node scripts/sync_readme_to_jobs.mjs
+
+      - name: Rebuild page data from README
+        run: python3 tools/build_site.py
+
       - name: Commit refreshed job data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add jobs.json public/jobs.json public/gotjob/jobs.json public/findjobs/jobs.json FRESH_JOBS.md README.md
+          git add jobs.json public/jobs.json public/gotjob/jobs.json public/findjobs/jobs.json public/jobs-data.json public/index.html FRESH_JOBS.md README.md
 
           if git diff --cached --quiet; then
             echo "No changes to commit"

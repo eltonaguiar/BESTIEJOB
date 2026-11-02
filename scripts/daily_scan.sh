@@ -30,7 +30,7 @@ STARTED="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
   RC=$?
   echo "=== scan exit $RC at $(date -u +%Y-%m-%dT%H:%M:%SZ) ==="
 
-  if [ "$RC" -eq 0 ]; then
+  if [ "$RC" -eq 0 ] && [ "${1:-}" != "--dry-run" ]; then
     # Curated README rows (inbox merges, partner finds) must also reach the
     # jobs.json feed, otherwise the API and app.js never see them.
     node scripts/sync_readme_to_jobs.mjs || echo "readme sync failed (non-fatal)"

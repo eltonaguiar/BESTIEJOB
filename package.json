@@ -13,7 +13,10 @@
     "deploy": "node scripts/upload-gotjob.js",
     "deploy:gotjob": "node scripts/upload-gotjob.js",
     "scan:daily": "node scripts/daily_job_scan.mjs",
-    "scan:daily:playwright": "node scripts/daily_job_scan.mjs --playwright"
+    "scan:daily:playwright": "node scripts/daily_job_scan.mjs --playwright",
+    "scan:gap": "node scripts/gap_scan.mjs",
+    "sync:readme": "node scripts/sync_readme_to_jobs.mjs",
+    "build:site": "python3 tools/build_site.py"
   },
   "dependencies": {
     "axios": "^1.13.4",
