@@ -1,0 +1,35 @@
+name: Inbox submission guard
+
+# The merger silently drops any row whose Posted cell is not an absolute
+# YYYY-MM-DD, so a relative date or a split row means an agent's work disappears
+# with no error. This gate fails the build instead, before the merge runs.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'inbox/**'
+      - 'scripts/check_inbox.py'
+      - '.github/workflows/inbox-guard.yml'
+  pull_request:
+    paths:
+      - 'inbox/**'
+      - 'scripts/check_inbox.py'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate every inbox submission
+        run: python3 scripts/check_inbox.py
