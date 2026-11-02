@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-02T13:07:15.739Z** · 266 live postings from 10 public sources · 19 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-02T13:09:18.120Z** · 266 live postings from 10 public sources · 6 dated 2026-11-02 · 19 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -84,6 +84,80 @@ Resume-relevant keywords beyond ServiceNow/Salesforce: PowerShell, VBA/Excel, Al
 | 2026-11-01 | [Staff Cloud Engineer , Cloud Platform](https://www.adzuna.ca/details/5949576733) | Kinaxis | Ottawa, Ottawa region | Python | adzuna |
 
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
+
+## 2026-11-02 afternoon scan — same-day postings verified + resume-matched "Other jobs"
+
+**Scanned: 2026-11-02 ~13:09 UTC | Agent: Copilot.** Two sweeps: (1) Adzuna CA API (`sort_by=date`, `max_days_old=2`), 10 ServiceNow/Salesforce keywords → 199 unique postings; (2) the repo's own `npm run scan:daily` pipeline (SmartRecruiters, Workday CXS, Greenhouse, Lever, Ashby, LinkedIn guest API, RemoteOK/Jobicy/Remotive, Adzuna) → 266 merged live postings, refreshing the auto-scan block above, [FRESH_JOBS.md](FRESH_JOBS.md) and `jobs.json`. A third Adzuna sweep ran 15 additional resume-matched keywords (ITAM, IT asset management, CMDB, ITSM, ITIL, Apex, JavaScript, Alteryx, Tableau, PowerShell, Power BI, technical consultant, data analyst, IT risk management) → 508 unique postings; the Nov 1–2 resume-relevant subset is tabulated under "Other jobs" below. All rows are aggregator/board-sourced unless noted — open the Apply page before applying.
+
+### Posted 2026-11-02 (7) — same-day validation
+
+Adzuna `created` timestamps are UTC (Z-suffixed); all seven below carry genuine 2026-11-02 dates.
+
+| Posted (UTC) | Role | Company | Location | Family | Source |
+|---|---|---|---|---|---|
+| 2026-11-02 07:31 | [Senior Salesforce Technical Consultant](https://www.adzuna.ca/details/5950547938?utm_medium=api&utm_source=54ce986e) | CYNET SYSTEMS | Mississauga, Peel region | Salesforce | Adzuna 5950547938 |
+| 2026-11-02 07:27 | [Salesforce Consultant, Change Management](https://www.adzuna.ca/details/5950546447?utm_medium=api&utm_source=54ce986e) | NeuraFlash, Part of Accenture | Vancouver, BC | Salesforce | Adzuna 5950546447 |
+| 2026-11-02 07:24 | [Senior Consultant - Salesforce](https://www.adzuna.ca/details/5950543320?utm_medium=api&utm_source=54ce986e) | fusionSpan | Toronto, Ontario | Salesforce | Adzuna 5950543320 |
+| 2026-11-02 07:21 | [Salesforce Consultants (remote Canada)](https://www.adzuna.ca/details/5950539606?utm_medium=api&utm_source=54ce986e) | Ensiti | Montréal, Québec (remote Canada) | Salesforce | Adzuna 5950539606 |
+| 2026-11-02 07:20 | [Salesforce Consultant](https://www.adzuna.ca/details/5950538116?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5950538116 — contract |
+| 2026-11-02 | [Salesforce Functional Manager](https://ca.linkedin.com/jobs/view/salesforce-functional-manager-at-kpmg-canada-4434210237) | KPMG Canada | Montreal, Quebec | Salesforce | LinkedIn guest card 4434210237 |
+
+A seventh same-day posting — QA Engineer - Salesforce Marketing Cloud (SFMC) at Tru, Toronto (LinkedIn guest card 4485435956) — already appears in the auto-scan Salesforce table at the top of this README and is not repeated here.
+
+**No ServiceNow-titled posting dated 2026-11-02 surfaced in any sweep as of 13:09 UTC** (Sunday-to-Monday boundary; most employer reqs publish Monday business hours Eastern). The three rows closest to the boundary — Deloitte ServiceNow CMDB and GRC Solution Architects (Toronto) and KPMG Manager-ServiceNow (Montréal) — show Adzuna `created` 2026-11-01T20:21Z but detail-page `datePosted` 2026-11-02T01:18 (see the date-correction note below); they are retained under Nov 1 in the tables above.
+
+### Posted 2026-11-01 — additions not previously in the curated tables (8)
+
+| Posted | Role | Company | Location | Family | Source |
+|---|---|---|---|---|---|
+| 2026-11-01 | [Sr. Consultant, Value Excellence](https://www.adzuna.ca/details/5949576289?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | ServiceNow | Adzuna 5949576289 |
+| 2026-11-01 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5948973102?utm_medium=api&utm_source=54ce986e) | Altus Group | Canada | Salesforce | Adzuna 5948973102 |
+| 2026-11-01 | [Salesforce Administrator](https://www.adzuna.ca/details/5948986828?utm_medium=api&utm_source=54ce986e) | RideCo | Waterloo, Ontario | Salesforce | Adzuna 5948986828 |
+| 2026-11-01 | [Développeur(se) ServiceNow Senior – ITSM](https://www.adzuna.ca/details/5949011727?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Québec | ServiceNow | Adzuna 5949011727 |
+| 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948976549?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Québec | ServiceNow | Adzuna 5948976549 — distinct req from the Drummondville pair already listed |
+| 2026-11-01 | [Analyste QA ServiceNow](https://www.adzuna.ca/details/5948948163?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Québec | ServiceNow | Adzuna 5948948163 |
+
+Two further Nov-1 rows — Principal Solution Architect - ServiceNow (ServiceNow Inc, Toronto, Adzuna 5949576383) and Salesforce Platform Developer (Altus Group, Toronto, Adzuna 5949004280) — already appear in the auto-scan block at the top of this README and are not repeated here.
+
+### Other jobs — resume-matched keywords beyond ServiceNow/Salesforce (posted 2026-11-01/02)
+
+Matched against the target profile's wider skill set: ITAM/IT asset management, CMDB, ITSM/ITIL, systems administration (PowerShell), technical consulting, data analysis (SQL/Tableau/Power BI/Alteryx), and IT risk management. Toronto/GTA-first.
+
+| Posted | Role | Company | Location | Resume match | Source |
+|---|---|---|---|---|---|
+| 2026-11-02 | [Middleware Specialist - Senior](https://www.adzuna.ca/details/5950540043?utm_medium=api&utm_source=54ce986e) | Innosystech Inc | Toronto, Ontario | ITIL / enterprise platform ops | Adzuna 5950540043 — likely same req as Maarut RQ11527 below |
+| 2026-11-01 | [System Administrator](https://www.adzuna.ca/details/5949576771?utm_medium=api&utm_source=54ce986e) | TekStaff IT Solutions | Toronto, Ontario | PowerShell / sysadmin | Adzuna 5949576771 |
+| 2026-11-01 | [Systems Administrator (Windows/Unix-Linux, Automation)](https://www.adzuna.ca/details/5949574744?utm_medium=api&utm_source=54ce986e) | BMO Financial | Toronto, Ontario | PowerShell automation; prior BMO experience | Adzuna 5949574744 |
+| 2026-11-01 | [RQ11527 - Middleware Specialist - Senior](https://www.adzuna.ca/details/5949202435?utm_medium=api&utm_source=54ce986e) | Maarut | East York, Toronto | ITIL / enterprise platform ops; Ontario public-sector req | Adzuna 5949202435 |
+| 2026-11-01 | [Senior Systems Administrator - Infrastructure & Cloud](https://www.adzuna.ca/details/5949195568?utm_medium=api&utm_source=54ce986e) | Mevotech | Mississauga, Ontario | PowerShell / infrastructure automation | Adzuna 5949195568 |
+| 2026-11-01 | [Data Analyst](https://www.adzuna.ca/details/5949024762?utm_medium=api&utm_source=54ce986e) | Konrad | Toronto, Ontario | SQL / Tableau / Power BI | Adzuna 5949024762 |
+| 2026-11-01 | [Service Desk Asset Management Officer](https://www.adzuna.ca/details/5949576448?utm_medium=api&utm_source=54ce986e) | Government of Nunavut | Iqaluit, NU | ITAM / ITIL service desk | Adzuna 5949576448 |
+| 2026-11-01 | [Business Analyst Specialist I - Marketing & Risk Management](https://www.adzuna.ca/details/5949020681?utm_medium=api&utm_source=54ce986e) | Enbridge | Calgary, Alberta | IT risk management reporting | Adzuna 5949020681 |
+| 2026-11-01 | [Business Analyst, Microsoft Dynamics CE / Power Platform](https://www.adzuna.ca/details/5948996988?utm_medium=api&utm_source=54ce986e) | CGI | Montréal, Québec | Enterprise CRM platform BA | Adzuna 5948996988 |
+| 2026-11-01 | [Technical Consultant, Professional Services](https://www.adzuna.ca/details/5948985233?utm_medium=api&utm_source=54ce986e) | Zensar Technologies | Canada (remote) | Technical consulting | Adzuna 5948985233 |
+| 2026-11-01 | [Advanced Deployment Technical Consultant](https://www.adzuna.ca/details/5948974291?utm_medium=api&utm_source=54ce986e) | Hewlett Packard Enterprise | Greater Vancouver, BC | Technical consulting / deployment | Adzuna 5948974291 |
+| 2026-11-01 | [Data Analyst (Contract, Part-Time)](https://www.adzuna.ca/details/5948845826?utm_medium=api&utm_source=54ce986e) | Stryker | Hamilton, Ontario | SQL / Power BI | Adzuna 5948845826 |
+
+Excluded: sales/account/inside-sales titles, non-IT consulting (environmental/UNDP/Worley), and generic Stantec Business Analyst multiplicates outside Ontario.
+
+### Recovered findings from unmerged agent branches (open PRs #15, #17, #18)
+
+Three open PRs held job findings not yet on main when this scan ran; their substance is folded in here so the README stays the single source of truth.
+
+**From [BESTIEJOB#15](https://github.com/eltonaguiar/BESTIEJOB/pull/15) (Buffy — Nov 1 employer requisitions):**
+
+| Posted | Role / employer | Location | Date source / status | 
+|---|---|---|---|
+| 2026-11-01 | [Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team (req 133759)](https://careers.deloitte.ca/job/Senior-Consultant%2C-ServiceNow-Platform-Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team/133759-en_US/) | Toronto or Burlington, ON | LinkedIn card 2026-11-01; employer requisition live (HTTP 200) 2026-11-02 |
+| 2026-11-01 | [Senior Consultant, Salesforce Platform - Deloitte Technology Canada (DTC), Platform Team (req 133770)](https://careers.deloitte.ca/job/Senior-Consultant%2C-Salesforce-Platform-%28Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team%29/133770-en_US/) | Toronto, Burlington ON or Fredericton NB | LinkedIn card 2026-11-01; employer requisition live (HTTP 200) 2026-11-02 |
+| 2026-10-31 | [ServiceNow Business System Architect - CGI](https://ca.linkedin.com/jobs/view/servicenow-business-system-architect-at-cgi-4475089095) | Ontario | LinkedIn card 2026-10-31; employer posting not isolated |
+| 2026-10-31 | [Senior Consultant, Artificial Intelligence - Now Assist - Deloitte](https://ca.linkedin.com/jobs/view/senior-consultant-artificial-intelligence-now-assist-at-deloitte-4460501313) | Toronto, ON | LinkedIn card 2026-10-31; ServiceNow Now Assist consulting |
+
+**From [BESTIEJOB#17](https://github.com/eltonaguiar/BESTIEJOB/pull/17) (Buffy — date corrections):** Adzuna detail-page `datePosted` verification found 7 of 14 rows in the "Posted 2026-11-01 (14)" / "Posted 2026-10-31 (4)" tables below carry incorrect day labels: Deloitte CMDB/GRC architects + KPMG Manager-ServiceNow are 2026-11-02T01:18 UTC; Procom BSA, Benevity Sr Admin and CloudKettle Industries architect are 2026-10-30; the four Oct-31 Epsilon/Hour rows are 2026-10-27. Timezone (UTC vs Eastern) accounts for the Nov 1/Nov 2 boundary cases; the Oct 30/27 rows were board re-surfacing, not fresh posts.
+
+**From [BESTIEJOB#18](https://github.com/eltonaguiar/BESTIEJOB/pull/18) (Kilo — expanded Adzuna sweep):** 10 additional Oct 31 + Nov 1 rows, mostly Salesforce-adjacent (QA/Scrum/PM) Toronto roles: [Développeur Salesforce - CGI, Montréal](https://www.adzuna.ca/details/5948938935?utm_medium=api&utm_source=54ce986e) and [Salesforce Solution Architect - iA Financial Group, Canada](https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e) (both 2026-11-01); plus 8 Oct-31 rows ([Functional QA Tester](https://www.adzuna.ca/details/5947967982?utm_medium=api&utm_source=54ce986e), [Scrum Master](https://www.adzuna.ca/details/5948006847?utm_medium=api&utm_source=54ce986e), [Functional Analyst](https://www.adzuna.ca/details/5948011834?utm_medium=api&utm_source=54ce986e), [Functional Lead](https://www.adzuna.ca/details/5948023559?utm_medium=api&utm_source=54ce986e) — all Epsilon Solutions, Toronto; [Sr QA Engineer SFMC/Azure - Hour Consulting](https://www.adzuna.ca/details/5948009443?utm_medium=api&utm_source=54ce986e); [Salesforce Solution Architect - Macpower](https://www.adzuna.ca/details/5948019639?utm_medium=api&utm_source=54ce986e); [Production Support Engineer with Salesforce - ApTask](https://www.adzuna.ca/details/5948025245?utm_medium=api&utm_source=54ce986e); [Technical PM Salesforce Life Sciences - GTT](https://www.adzuna.ca/details/5948026660?utm_medium=api&utm_source=54ce986e)). Per PR #17's verification, Epsilon "Oct 31" dates may reflect Oct-27 board re-surfacing.
+
+---
 
 ## 2026-11-02 employer-ATS sweep - ServiceNow and Salesforce (Toronto / Canada remote)
 
@@ -701,6 +775,11 @@ Commit `8c25626` ("README: add employer-verified CGI … and Cognizant … rows"
 | [BESTIEJOB#9](https://github.com/eltonaguiar/BESTIEJOB/pull/9) | Playwright job scan | George Brown Salesforce-admin-related role #87 and Panasonic Salesforce Developer #88 added; Panasonic mirror deduplicated |
 | [BESTIEJOB#10](https://github.com/eltonaguiar/BESTIEJOB/pull/10) | Merged | PR-coverage bookkeeping for the Playwright scan; no new postings imported |
 | [BESTIEJOB#13](https://github.com/eltonaguiar/BESTIEJOB/pull/13) | 2026-11-02 employer-ATS sweep | BMO Salesforce enablement manager #104 and McKesson Salesforce Solution Lead #105 added from employer records; no employer-ATS ServiceNow/Salesforce posting dated October 31 or November 1 verified; a later LinkedIn last-24h sweep added 8 dated 2026-11-01 |
+| [BESTIEJOB#14](https://github.com/eltonaguiar/BESTIEJOB/pull/14) | Merged | 2026-11-01 postings + daily scanner (`npm run scan:daily`) landed on main |
+| [BESTIEJOB#15](https://github.com/eltonaguiar/BESTIEJOB/pull/15) | Open; substance folded into the 2026-11-02 afternoon-scan section | Deloitte DTC Platform reqs 133759 (ServiceNow) + 133770 (Salesforce) with live employer requisitions, CGI SN Business System Architect, Deloitte Now Assist consultant |
+| [BESTIEJOB#16](https://github.com/eltonaguiar/BESTIEJOB/pull/16) | Merged | Wider Adzuna + BMO scan, 258 listings, auto-scan block refresh |
+| [BESTIEJOB#17](https://github.com/eltonaguiar/BESTIEJOB/pull/17) | Open; correction summarized in the 2026-11-02 afternoon-scan section | Adzuna `datePosted` verification: 7 of 14 claimed Nov 1/Oct 31 rows carry wrong day labels (3 are Nov 2 UTC, 3 are Oct 30, 4 are Oct 27) |
+| [BESTIEJOB#18](https://github.com/eltonaguiar/BESTIEJOB/pull/18) | Open; rows folded into the 2026-11-02 afternoon-scan section | 10 expanded-sweep Oct 31 + Nov 1 Salesforce-adjacent rows (CGI, iA Financial, Epsilon, Hour, Macpower, ApTask, GTT) |
 
 ### ### Government / public-sector source review - October 31
 
