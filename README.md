@@ -5,18 +5,18 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (83)](#servicenow-jobs-83)
-  - [Salesforce jobs (78)](#salesforce-jobs-78)
-  - [Other jobs (75)](#other-jobs-75)
+  - [ServiceNow jobs (85)](#servicenow-jobs-85)
+  - [Salesforce jobs (79)](#salesforce-jobs-79)
+  - [Other jobs (76)](#other-jobs-76)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **236 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **240 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (83)
+### ServiceNow jobs (85)
 
 _developer / administrator / architect / analyst roles_
 
@@ -107,10 +107,12 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-19 | [ServiceNow Senior Technical Advisor (432829)](https://jobs.bell.ca/ca/en/job/432829/ServiceNow-Senior-Technical-Advisor) | Bell | Toronto / Montreal | Bell Phenom widgets API postedDate 2026-10-19 |
 | 2026-10-17 | [Senior ServiceNow Developer (ITOM)](https://systematix.com/opportunity/senior-servicenow-developer-itom-2/) | Systematix | Remote, Canada | via arlo--2026-11-02--v1.md |
 | 2026-10-09 | [Business Specialist (IT Business Analyst/Administrator - ServiceNow)](https://www.jobs.ca/it-connex/jobs/business-specialist-toronto-on-c0254d1d7faf) | IT Connex | Toronto, ON | via arlo--2026-11-02--v1.md |
+| 2026-10-05 | [Senior Business Systems Analyst (ServiceNow) (REQ-2351)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Senior-Business-Systems-Analyst_REQ-2351) | Interac | Toronto, ON | Interac Workday, "Posted 28 Days Ago" on 2026-11-02; internal ServiceNow platform BSA |
+| 2026-10-05 | [Quality Engineering, Senior Specialist (ServiceNow Platform) (REQ-2343)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Quality-Engineering--Senior-Specialist_REQ-2343) | Interac | Toronto, ON | Interac Workday, "Posted 28 Days Ago" on 2026-11-02; ServiceNow platform QE |
 
 </details>
 
-### Salesforce jobs (78)
+### Salesforce jobs (79)
 
 _developer / administrator / architect / consultant roles_
 
@@ -192,6 +194,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-29 | [Senior Salesforce QM tester](https://www.adzuna.ca/details/5946061319) | Acestack | Regent Park, City of Toronto | via buffy-second-round--2026-11-02--v4.md |
 | 2026-10-29 | [Senior Architect I - Salesforce Commerce Cloud](https://www.adzuna.ca/details/5945999208) | Groupe Dynamite | Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-29 | [Salesforce Commerce Cloud Architect](https://www.adzuna.ca/details/5945999489) | Swim Recruiting | Greater Vancouver, British Columbia | via buffy-third-round--2026-11-02--v4.md |
+| 2026-10-28 | [Principle Salesforce Developer (JR106006)](https://moneris.wd3.myworkdayjobs.com/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2) | Moneris | Toronto, ON | Moneris Workday, "Posted 5 Days Ago" on 2026-11-02; internal Salesforce dev |
 | 2026-10-26 | [Salesforce Commerce Cloud Developer](https://www.adzuna.ca/details/5942157871) | Eminence Organic Skin Care | Vancouver, Greater Vancouver | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-23 | [Intermediate Salesforce Developer - 3319](https://www.adzuna.ca/details/5939016247) | emergiTEL | Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-22 | [Sr. Salesforce Developer (Marketing Cloud)](https://www.adzuna.ca/details/5937645138) | Periscope Search Group | Ontario, Canada | via buffy-third-round--2026-11-02--v4.md |
@@ -199,7 +202,7 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (75)
+### Other jobs (76)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
@@ -277,6 +280,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-30 | [Workday Analyst](https://ca.linkedin.com/jobs/view/workday-analyst-at-green-infrastructure-partners-4459360329) | Green Infrastructure Partners | Markham, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-30 | [Senior Mulesoft Software Engineer](https://www.adzuna.ca/details/5947169040) | Manulife | Toronto, ON | via buffy-second-round--2026-11-02--v6.md |
 | 2026-10-30 | [Full-Stack Developer (Digital Product Developer)](https://www.adzuna.ca/details/5947323954) | House of Commons  / Chambre des communes | Ottawa, Ottawa region | via buffy-third-round--2026-11-02--v4.md |
+| 2026-10-30 | [L2 Analyst (JR167134)](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/L2-Analyst_JR167134) | Canadian Tire | Toronto, ON (+1 location) | Canadian Tire Workday, "Posted 3 Days Ago" on 2026-11-02; ServiceNow named — ITSM L2 support |
 | 2026-10-29 | [Product Owner I (US) eGRC AI](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Charlotte-North-Carolina/Product-Owner-I--US--eGRC-AI_R_1495342-1) | TD | 2 Locations | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-29 | [Network Operations Analyst (R-0000191399)](https://jobs.rbc.com/ca/en/job/R-0000191399) | RBC | Toronto, ON | RBC Phenom widgets API postedDate 2026-10-29; ServiceNow keyword — ITSM/network ops |
 | 2026-10-27 | [Senior I&IT Business Analyst (req 117337)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117337) | Metrolinx | Canada (GTA) | Metrolinx Oracle CE API PostedDate 2026-10-27 |
