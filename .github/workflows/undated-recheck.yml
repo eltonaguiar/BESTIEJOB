@@ -1,0 +1,64 @@
+name: Undated posting re-check
+
+# Monthly: partner postings that were filed undated (Lane Four, Ateko, Cofomo…)
+# get re-fetched. Any page that now publishes a real posted date is promoted into
+# inbox/ and merged, so it reaches README and the live page without a human
+# remembering to look again.
+
+on:
+  schedule:
+    # 09:00 UTC on the 1st of every month
+    - cron: '0 9 1 * *'
+  workflow_dispatch:
+
+concurrency:
+  group: undated-recheck
+  cancel-in-progress: false
+
+jobs:
+  recheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Re-check undated postings
+        run: node scripts/recheck_undated.mjs
+
+      - name: Validate the submissions we just wrote
+        run: python3 scripts/check_inbox.py
+
+      - name: Merge inbox into README
+        run: python3 tools/jobs_merge_inbox.py --max-per-table 400
+
+      - name: Rebuild the page from README
+        run: python3 tools/build_site.py
+
+      - name: Sync curated README rows into the feed
+        run: node scripts/sync_readme_to_jobs.mjs
+
+      - name: Commit promoted postings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md inbox jobs.json public/jobs.json public/gotjob/jobs.json \
+                  public/findjobs/jobs.json public/jobs-data.json public/index.html
+
+          if git diff --cached --quiet; then
+            echo "No undated posting gained a date this month"
+            exit 0
+          fi
+
+          git commit -m "chore(jobs): monthly undated re-check promoted postings [skip ci]"
+          git push

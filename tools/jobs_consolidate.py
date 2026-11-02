@@ -136,6 +136,18 @@ def render(jobs: list[dict], today: date, days: int, cutoff: date, archive_name:
     out: list[str] = []
     out.append("# BESTIEJOB")
     out.append("")
+    # Lives in render() rather than in README.md directly: every merge rewrites
+    # this file, so a hand-edited banner would vanish on the next run.
+    out.append(
+        '<h2 align="center"><a href="https://eltonaguiar.github.io/BESTIEJOB/">'
+        "▶ Open the live job board — eltonaguiar.github.io/BESTIEJOB</a></h2>"
+    )
+    out.append("")
+    out.append(
+        "**[Search, filter and sort every live posting on the web version →]"
+        "(https://eltonaguiar.github.io/BESTIEJOB/)**"
+    )
+    out.append("")
     out.append(
         "Toronto-first ServiceNow / Salesforce / IT-platform job list. "
         "**Three tables, newest first, nothing older than "

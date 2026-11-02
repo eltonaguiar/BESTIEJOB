@@ -1,20 +1,24 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T230933Z.md`.
+<h2 align="center"><a href="https://eltonaguiar.github.io/BESTIEJOB/">▶ Open the live job board — eltonaguiar.github.io/BESTIEJOB</a></h2>
+
+**[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
+
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T231126Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
   - [ServiceNow jobs (264)](#servicenow-jobs-264)
   - [Salesforce jobs (290)](#salesforce-jobs-290)
-  - [Other jobs (400)](#other-jobs-400)
+  - [Other jobs (419)](#other-jobs-419)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **954 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **973 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (264)
 
@@ -592,11 +596,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (400)
+### Other jobs (419)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 400 postings</strong></summary>
+<details><summary><strong>Show 419 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -1000,6 +1004,25 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-23 | [RQ11715 - Business Analyst - Senior I Toronto ON - Onsite I 1 year](https://www.adzuna.ca/details/5939224594?utm_medium=api&utm_source=54ce986e) | Analyst Technical Solutions | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
 | 2026-10-23 | [Innovation and Integration Analyst](https://www.adzuna.ca/details/5939043326?utm_medium=api&utm_source=54ce986e) | Bank of Montreal | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
 | 2026-10-23 | [Incident Manager](https://www.adzuna.ca/details/5939981938?utm_medium=api&utm_source=54ce986e) | Bell | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
+| 2026-10-23 | [Dayforce HCM Consultant - Operate](https://www.adzuna.ca/details/5939910382?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-22 | [Service Desk Analyst](https://www.adzuna.ca/details/5937878856?utm_medium=api&utm_source=54ce986e) | Rush Street Interactive | Toronto, Ontario | via other-expansion--2026-11-02--v29.md |
+| 2026-10-22 | [Senior DevOps Engineer](https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557) | Lemon.io | Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-22 | [RQ11152 - Change Management Consultant - Senior](https://www.adzuna.ca/details/5937866974?utm_medium=api&utm_source=54ce986e) | Analyst Technical Solutions | Toronto, Ontario | via other-expansion--2026-11-02--v29.md |
+| 2026-10-22 | [PEGA Business Analyst -1 year contract - Up to $62.00 p/h INC](https://www.adzuna.ca/details/5937874318?utm_medium=api&utm_source=54ce986e) | CorGTA | Toronto, Ontario | via other-expansion--2026-11-02--v29.md |
+| 2026-10-21 | [Sr. Developer, AI and Agentforce (6231605004) - NeuraFlash / Accenture](https://job-boards.greenhouse.io/neuraflash/jobs/6231605004) | Canada: Remote Canada: Alberta, British Columbia or Ontario only; up to 25% travel | Not disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-21 | [Solutions Architect, Splunk Canada](https://www.adzuna.ca/details/5936502977?utm_medium=api&utm_source=54ce986e) | Cisco | Toronto, Ontario | via other-expansion--2026-11-02--v29.md |
+| 2026-10-21 | [Service Desk Consultant](https://www.adzuna.ca/details/5936494479?utm_medium=api&utm_source=54ce986e) | Deltera | Toronto, Ontario | via other-expansion--2026-11-02--v29.md |
+| 2026-10-21 | [Senior Business Analyst, Portfolio Servicing Platform (12-Month Contract)](https://www.adzuna.ca/details/5936496496?utm_medium=api&utm_source=54ce986e) | OMERS | Toronto, Ontario | via other-expansion--2026-11-02--v29.md |
+| 2026-10-21 | [Principal Consultant, NetSuite](https://www.adzuna.ca/details/5936636842?utm_medium=api&utm_source=54ce986e) | Myers-Holum | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-19 | [Staff Site Reliability Engineer](https://www.adzuna.ca/details/5934412986) | ServiceNow | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-19 | [Manager, UKG Pro WFM Functional Solution Architect](https://www.adzuna.ca/details/5934760672?utm_medium=api&utm_source=54ce986e) | KPMG | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-18 | [PeopleSoft Developer](https://www.adzuna.ca/details/5933062888?utm_medium=api&utm_source=54ce986e) | Insight Global | London, Middlesex | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-17 | [Contract & Sales Support Analyst](https://www.jobs.ca/tmx-group/jobs/contract-sales-support-analyst-toronto-on-4b84064f5121) | TMX Group | Toronto, ON | via arlo--2026-11-02--v34.md |
+| 2026-10-15 | [Dayforce Consultant](https://www.adzuna.ca/details/5929020235?utm_medium=api&utm_source=54ce986e) | ExcelGens, Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-14 | [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746) | Mitre Media | USA, Canada, USA timezones | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-14 | [Senior Analyst, Software Asset Management (JR-8443)](https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/job/Toronto-Ontario/Senior-Analyst--Software-Asset-Management_JR-8443) | OMERS | Toronto, ON; hybrid 4d | via grok-job-hunter--2026-11-02--v54.md |
+| 2026-10-09 | [Senior React Full stack Developer](https://remoteok.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475) | Lemon.io | Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v27.md |
+| 2026-10-05 | [Business Analyst (Req 275476)](https://jobs.scotiabank.com/job/Toronto-Business-Analyst%2C-Toronto-ON-M5H-0B4/606727217/) | Scotiabank | Toronto, ON | via arlo--2026-11-02--v34.md |
 
 </details>
 
@@ -1129,4 +1152,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-02T230933Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T231126Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
