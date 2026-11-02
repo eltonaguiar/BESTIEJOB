@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-02T15:17:25+00:00",
+ "generatedAt": "2026-11-02T15:19:32+00:00",
  "timezone": "America/Toronto",
- "count": 803,
- "appliedHidden": 13,
+ "count": 796,
+ "appliedHidden": 22,
  "sources": [
   "Adzuna",
   "Aggregator",
@@ -19,7 +19,6 @@
   "Workopolis",
   "academicjobs.com",
   "alldus.com",
-  "app.joinhandshake.com",
   "app.workwolf.com",
   "beautifulbirth.co",
   "bridgingthegap.nexxt.com",
@@ -46,7 +45,6 @@
   "fr.simplyhired.ca",
   "georgebrown.csod.com",
   "github.com",
-  "hiringcafe.com",
   "jobicy.com",
   "jobleads.com",
   "jobs.bell.ca",
@@ -7950,46 +7948,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "Senior Salesforce Administrator - e.Republic",
-   "company": "Remote (US)",
-   "location": "Unknown / peer claim not verified",
-   "url": "https://www.indeed.com/viewjob?jk=aa357bbea4656d0a",
-   "note": "via peer-copilot-2026-10-30--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Indeed",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior salesforce administrator - e.republic remote (us) unknown / peer claim not verified indeed salesforce via peer-copilot-2026-10-30--2026-11-02--v1.md salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
-   "title": "Senior Salesforce Administrator (12-Month Contract) - Solink",
-   "company": "Fully remote — Canada",
-   "location": "Unknown / peer claim not verified",
-   "url": "https://hiringcafe.com/job/senior-salesforce-administrator-12-month-contract-solink-toronto-8hf5ux49dxkdw3m7",
-   "note": "via peer-copilot-2026-10-30--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "hiringcafe.com",
-   "verified": "Employer board",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior salesforce administrator (12-month contract) - solink fully remote — canada unknown / peer claim not verified hiringcafe.com salesforce via peer-copilot-2026-10-30--2026-11-02--v1.md salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
    "title": "Senior Production Support Engineer/Salesforce Admin - Remote Canada Position - NTT America, Inc.",
    "company": "Toronto, Ontario",
    "location": "Unknown / peer claim not verified",
@@ -8106,6 +8064,26 @@
    ],
    "french": false,
    "search": "salesforce platform developer (r0014087) - altus group toronto preferred; remote with occasional office visits full-time workday ats salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Salesforce LWC Developer - Viva / e.Republic",
+   "company": "Remote (US)",
+   "location": "Unknown / peer claim not verified",
+   "url": "https://www.indeed.com/viewjob?jk=ca1157616f24990e",
+   "note": "via peer-copilot-2026-10-30--2026-11-02--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Indeed",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce lwc developer - viva / e.republic remote (us) unknown / peer claim not verified indeed salesforce via peer-copilot-2026-10-30--2026-11-02--v1.md salesforce role fit",
    "alternates": []
   },
   {
@@ -10205,27 +10183,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Senior Salesforce Administrator",
-   "company": "Relevance",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5946006762?utm_medium=api&utm_source=54ce986e",
-   "note": "via other-expansion--2026-11-02--v3.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce administrator relevance toronto, ontario adzuna salesforce via other-expansion--2026-11-02--v3.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
    "title": "Senior Full Stack Developer - Salesforce (Contract)",
    "company": "Electric Mind",
    "location": "Toronto, Ontario",
@@ -10958,26 +10915,6 @@
    ],
    "french": false,
    "search": "salesforce commerce cloud architect swim recruiting greater vancouver, british columbia adzuna salesforce via buffy-third-round--2026-11-02--v4.md salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Manager, Banking Salesforce Innovation & Enablement (R260030015) - BMO",
-   "company": "Canada: Toronto, 33 Dundas Street West; Customer Shared Services",
-   "location": "Full-time",
-   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Salesforce-Innovation---Enablement_R260030015",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "manager, banking salesforce innovation & enablement (r260030015) - bmo canada: toronto, 33 dundas street west; customer shared services full-time workday ats salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md salesforce role fit",
    "alternates": []
   },
   {
@@ -14491,26 +14428,6 @@
   },
   {
    "posted": "2026-10-22",
-   "title": "ServiceNow Developer (CONTRACT ROLE) - Brookfield Properties / Handshake",
-   "company": "Apparent duplicate of #07: same Toronto November 2026-June 2027 contract and duties. Handshake validThrough November 21 at 10:11:50 UTC is a mirror expiry, not confirmed employer deadline. Earlier employer date October 20 retained; current Workday refresh returned non-JSON and did not confirm continued employer acceptance.",
-   "location": "",
-   "url": "https://app.joinhandshake.com/public/jobs/11747479",
-   "note": "via peer-copilot-2026-10-31-bank-refresh--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "app.joinhandshake.com",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow developer (contract role) - brookfield properties / handshake apparent duplicate of #07: same toronto november 2026-june 2027 contract and duties. handshake validthrough november 21 at 10:11:50 utc is a mirror expiry, not confirmed employer deadline. earlier employer date october 20 retained; current workday refresh returned non-json and did not confirm continued employer acceptance.  app.joinhandshake.com servicenow via peer-copilot-2026-10-31-bank-refresh--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-22",
    "title": "Salesforce Business Analyst (00070950941) - Cognizant",
    "company": "Canada: Toronto; hybrid, three office days",
    "location": "Full-time",
@@ -15073,26 +14990,6 @@
   },
   {
    "posted": "2026-10-20",
-   "title": "ServiceNow Developer (CONTRACT ROLE) - Brookfield",
-   "company": "Canada: Toronto, ON; board labels it in-office. Contract runs November 2026 through June 2027.",
-   "location": "Full-time contract, Nov 2026-Jun 2027",
-   "url": "https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/ServiceNow-Developer--CONTRACT-ROLE-_R2053249-1",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow developer (contract role) - brookfield canada: toronto, on; board labels it in-office. contract runs november 2026 through june 2027. full-time contract, nov 2026-jun 2027 workday ats servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-20",
    "title": "Salesforce Data Cloud Developer",
    "company": "Maarut",
    "location": "East York, Toronto",
@@ -15234,27 +15131,6 @@
    ],
    "french": false,
    "search": "expert software engineer - servicenow (oprydafq / ecejrkaa) - teema canada: toronto listing; explicitly remote united states or canada; eastern time full-time app.workwolf.com servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-19",
-   "title": "Senior Salesforce Administrator",
-   "company": "Movable Ink",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-movable-ink-4453734384",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce administrator movable ink toronto, ontario, canada linkedin salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -16120,32 +15996,6 @@
    "french": false,
    "search": "servicenow development analyst - accenture federal services usa: washington, dc; work mode not explicitly established not explicitly disclosed greenhouse servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
    "alternates": []
-  },
-  {
-   "posted": "2026-10-13",
-   "title": "Senior Salesforce Administrator",
-   "company": "Loopio",
-   "location": "Toronto, ON Hub",
-   "url": "https://jobs.ashbyhq.com/loopio/b8d91233-b646-43f7-941e-ca654b21921e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Ashby",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce administrator loopio toronto, on hub ashby salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-loopio-4478186773"
-    }
-   ]
   },
   {
    "posted": "2026-10-13",

@@ -123,7 +123,7 @@ def applied_index() -> tuple[set[str], set[str]]:
             continue
         m = re.match(r"\[(.*?)\]\((https?://[^)]+)\)", cells[1])
         title = m.group(1) if m else cells[1]
-        keys.add(f"{norm(title)[:60]}|{norm(cells[2])[:30]}")
+        keys.add(" ".join(sorted(t for t in norm(title).split() if len(t) > 3)))
     return urls, keys
 
 
@@ -163,8 +163,17 @@ def rows() -> tuple[list[dict], int]:
         if not url.startswith("http"):
             continue
         key = url.split("?")[0].rstrip("/").lower()
-        ident = f'{norm(r["title"])[:60]}|{norm(r["company"])[:30]}'
-        if key in skip or ident in skip_keys:
+        toks = set(t for t in norm(r["title"]).split() if len(t) > 3)
+        applied_ident = False
+        if key in skip:
+            applied_ident = True
+        else:
+            for k in skip_keys:
+                kt = set(k.split())
+                if kt and len(toks & kt) / max(1, len(kt)) >= 0.8:
+                    applied_ident = True
+                    break
+        if applied_ident:
             dropped_applied += 1
             continue
         if key in seen:
