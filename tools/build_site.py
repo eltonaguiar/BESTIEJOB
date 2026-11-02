@@ -335,13 +335,13 @@ const saved = (() => { try { return JSON.parse(localStorage.getItem("bestiejob")
 const state = {
   tab: (location.hash || "").replace("#", "") || saved.tab || "servicenow",
   when: Object.assign({ servicenow:"all", salesforce:"all", other:"all", match:"all" }, saved.when || {}),
-  src: "all", sort: saved.sort || "newest", q: ""
+  src: saved.src || "all", sort: saved.sort || "newest", q: ""
 };
 if (!TABS.some(t => t[0] === state.tab)) state.tab = "servicenow";
 const $ = (s) => document.querySelector(s);
 const fmt = (s) => new Date(s + "T12:00:00Z").toLocaleDateString("en-CA", { weekday:"short", month:"short", day:"numeric", year:"numeric" });
 const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-function persist() { try { localStorage.setItem("bestiejob", JSON.stringify({ tab: state.tab, when: state.when, sort: state.sort })); } catch (e) {} }
+function persist() { try { localStorage.setItem("bestiejob", JSON.stringify({ tab: state.tab, when: state.when, sort: state.sort, src: state.src })); } catch (e) {} }
 
 const srcCounts = {};
 JOBS.forEach(j => { srcCounts[j.source] = (srcCounts[j.source] || 0) + 1; });
@@ -387,7 +387,15 @@ function render() {
     (toks.length ? ` · search “${esc(state.q)}”` : "");
 
   if (!list.length) {
-    $("#list").innerHTML = `<div class="empty">No postings match. ${win === "today" ? `Nothing dated ${TODAY} in this tab — newest row is ${fmt(newest)}.` : "Try another date window, source, or search term."}</div>`;
+    let hint = "";
+    if (toks.length) {
+      const elsewhere = TABS.filter(t => t[0] !== state.tab).map(t => [t[0], t[1],
+        JOBS.filter(j => t[2](j) && (state.when[t[0]] === "all" || j.posted >= from)
+          && toks.every(x => (j.search || "").includes(x))).length]).filter(x => x[2] > 0);
+      if (elsewhere.length) hint = "<br>Matches in: " + elsewhere.map(([k, l, n]) =>
+        `<a href="#${k}" data-goto="${k}">${l} (${n})</a>`).join(" · ");
+    }
+    $("#list").innerHTML = `<div class="empty">No postings match. ${win === "today" ? `Nothing dated ${TODAY} in this tab — newest row is ${fmt(newest)}.` : "Try another date window, source, or search term."}${hint}</div>`;
     return;
   }
   $("#list").innerHTML = list.map(j => `
@@ -430,9 +438,16 @@ $("#when").addEventListener("click", (e) => {
   const b = e.target.closest("button[data-when-kind]"); if (!b) return;
   state.when[state.tab] = b.dataset.whenKind; persist(); renderWindows(); render();
 });
-$("#src").addEventListener("change", (e) => { state.src = e.target.value; render(); });
+$("#src").addEventListener("change", (e) => { state.src = e.target.value; persist(); render(); });
 $("#sort").addEventListener("change", (e) => { state.sort = e.target.value; persist(); render(); });
 $("#q").addEventListener("input", (e) => { state.q = e.target.value; render(); });
+$("#list").addEventListener("click", (e) => {
+  const a = e.target.closest("a[data-goto]"); if (!a) return;
+  e.preventDefault();
+  state.tab = a.dataset.goto;
+  history.replaceState(null, "", "#" + state.tab);
+  persist(); renderTabs(); renderWindows(); render();
+});
 window.addEventListener("hashchange", () => {
   const t = location.hash.replace("#", "");
   if (TABS.some(x => x[0] === t) && t !== state.tab) { state.tab = t; renderTabs(); renderWindows(); render(); }
