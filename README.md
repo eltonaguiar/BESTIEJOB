@@ -1,20 +1,20 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T145140Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T145639Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
   - [ServiceNow jobs (90)](#servicenow-jobs-90)
-  - [Salesforce jobs (84)](#salesforce-jobs-84)
-  - [Other jobs (76)](#other-jobs-76)
+  - [Salesforce jobs (85)](#salesforce-jobs-85)
+  - [Other jobs (78)](#other-jobs-78)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **250 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **253 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (90)
 
@@ -117,11 +117,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (84)
+### Salesforce jobs (85)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 84 postings</strong></summary>
+<details><summary><strong>Show 85 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -207,16 +207,17 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-23 | [Intermediate Salesforce Developer - 3319](https://www.adzuna.ca/details/5939016247) | emergiTEL | Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-22 | [Sr. Salesforce Developer (Marketing Cloud)](https://www.adzuna.ca/details/5937645138) | Periscope Search Group | Ontario, Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-17 | [Senior Salesforce Developer](https://jobsca.org/senior-salesforce_toronto-c117072/2026-10-synechron_i4248473031) | Synechron | Toronto, ON; hybrid | via grok-job-hunter--2026-11-02--v2.md |
+| 2026-10-16 | [Salesforce Developer / Administrator](https://www.jobs.ca/astek/jobs/salesforce-developer-administrator-developpeur-administrateur-salesforce-remote-canada-united-states-3d923fd88bc6) | Astek Canada | Remote, Canada | via arlo--2026-11-02--v3.md |
 | 2026-10-14 | [Production Support Engineer (Salesforce)](https://www.jobs.ca/capgemini/jobs/production-support-engineer-salesforce-toronto-on-66e0f7835b11) | Capgemini | Toronto, ON; on-site | via grok-job-hunter--2026-11-02--v2.md |
 | 2026-10-13 | [Salesforce Technical Lead (Req 00070906481)](https://careers.cognizant.com/apj-en/jobs/00070906481/salesforce-techical-lead/) | Cognizant | Remote, Canada | via arlo--2026-11-02--v1.md |
 
 </details>
 
-### Other jobs (76)
+### Other jobs (78)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 76 postings</strong></summary>
+<details><summary><strong>Show 78 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -247,6 +248,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-01 | [Staff Cloud Engineer , Cloud Platform](https://www.adzuna.ca/details/5949576733) | Kinaxis | Ottawa, Ottawa region | Python adzuna |
 | 2026-11-01 | [Sr. Consultant, Value Excellence](https://www.adzuna.ca/details/5949576289?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | ServiceNow Adzuna 5949576289 |
 | 2026-11-01 | [Service Desk Asset Management Officer](https://www.adzuna.ca/details/5949576448?utm_medium=api&utm_source=54ce986e) | Government of Nunavut | Iqaluit, NU | ITAM / ITIL service desk Adzuna 5949576448 |
+| 2026-11-01 | [Senior Technical Business Analyst (Req 264347)](https://jobs.scotiabank.com/job/Toronto-Senior-Technical-Business-Analyst-ON-M5H-1H1/603306117/) | Scotiabank | Toronto, ON | via arlo--2026-11-02--v3.md |
 | 2026-11-01 | [Senior Systems Administrator - Infrastructure & Cloud](https://www.adzuna.ca/details/5949195568?utm_medium=api&utm_source=54ce986e) | Mevotech | Mississauga, Ontario | PowerShell / infrastructure automation Adzuna 5949195568 |
 | 2026-11-01 | [Senior Manager - Senior Tech Lead - AI & Technology Transformation](https://www.adzuna.ca/details/5949969958) | KPMG | Montréal, Québec | Python adzuna |
 | 2026-11-01 | [Senior IT Business Systems Analyst](https://www.adzuna.ca/details/5949111244) | Canada Life | Toronto | ITSM-adjacent BSA, requirements + process Adzuna 5949111244 |
@@ -296,6 +298,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-27 | [Senior I&IT Business Analyst (req 117337)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117337) | Metrolinx | Canada (GTA) | Metrolinx Oracle CE API PostedDate 2026-10-27 |
 | 2026-10-25 | [Automation Engineer (R260029070)](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260029070EXTERNALENCA/Automation-Engineer) | BMO | Toronto, ON | via arlo--2026-11-02--v1.md |
 | 2026-10-24 | [Full-Stack Engineer, Internal Apps & AI](https://www.adzuna.ca/details/5940251216) | Falcon Wealth Planning | Canada | via buffy-third-round--2026-11-02--v4.md |
+| 2026-10-05 | [Business Analyst (Req 275476)](https://jobs.scotiabank.com/job/Toronto-Business-Analyst%2C-Toronto-ON-M5H-0B4/606727217/) | Scotiabank | Toronto, ON | via arlo--2026-11-02--v3.md |
 
 </details>
 
@@ -365,4 +368,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T145140Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T145639Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
