@@ -219,10 +219,15 @@ Two gaps prompted it:
 | 2026-10-30 | Firewall Security Specialist | Global Technical Talent, an Inc. 5000 Company | Toronto, Ontario | — | ServiceNow | [Adzuna 5947170059](https://www.adzuna.ca/details/5947170059) |
 | 2026-10-30 | Staff Incident Response Engineer | ServiceNow | Greater Vancouver, British Columbia | — | ServiceNow | [Adzuna 5947170036](https://www.adzuna.ca/details/5947170036) |
 | 2026-10-30 | Senior ServiceNow Developer | A3 Irving Energy Inc | New Brunswick, Canada | — | ServiceNow | [Adzuna 5947169087](https://www.adzuna.ca/details/5947169087) |
-| 2026-09-29 (employer; Adzuna resurfaced 2026-10-30) | Salesforce Solution Engineer (pre-sales, nonprofit SF partner) | Traction Rec | Remote CA/US (Eastern/Pacific preferred); travel | ~$100–110k (boards) | Salesforce Admin cert | [BambooHR 154](https://tractionrec.bamboohr.com/careers/154) — **Verified 2026-11-01**; [Adzuna 5946997748](https://www.adzuna.ca/details/5946997748) |
 | 2026-10-30 | Salesforce Technical Architect | Jobgether | Canada | — | Salesforce | [Adzuna 5946719401](https://www.adzuna.ca/details/5946719401) |
 | 2026-10-30 | Senior Salesforce Developer | nesto | Canada | — | Salesforce | [Adzuna 5947168836](https://www.adzuna.ca/details/5947168836) |
 | 2026-10-30 | Lead Salesforce Marketing Cloud Architect - Remote / Telecommute | CYNET SYSTEMS | Canada | — | Salesforce | [Adzuna 5947001490](https://www.adzuna.ca/details/5947001490) |
+
+### Posted 2026-09-29 (older employer date; resurfaced on boards 2026-10-30)
+
+| Posted | Role | Employer | Location | Salary | Cert language | Source |
+|---|---|---|---|---|---|---|
+| 2026-09-29 | Salesforce Solution Engineer (pre-sales, nonprofit SF partner) | Traction Rec | Remote CA/US (Eastern/Pacific preferred); travel | ~$100–110k (boards) | Salesforce Admin cert | [BambooHR 154](https://tractionrec.bamboohr.com/careers/154) — **Verified 2026-11-01**; [Adzuna 5946997748](https://www.adzuna.ca/details/5946997748) |
 
 ### Peer branches holding postings missing from this README (673 links)
 
