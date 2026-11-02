@@ -287,6 +287,7 @@ async function scanSmartRecruiters() {
 
 const WORKDAY_BOARDS = [
   { tenant: "salesforce", wd: "wd12", site: "External_Career_Site", label: "Salesforce" },
+  { tenant: "bmo", wd: "wd3", site: "External", label: "BMO" },
   { tenant: "td", wd: "wd3", site: "TD_Bank_Careers", label: "TD Bank" },
   { tenant: "moneris", wd: "wd3", site: "Moneris", label: "Moneris" },
   { tenant: "bdo", wd: "wd3", site: "BDO", label: "BDO Canada" },
@@ -477,8 +478,11 @@ const LINKEDIN_QUERIES = [
 const LINKEDIN_FRESH_QUERIES = [
   "ServiceNow developer",
   "ServiceNow administrator",
+  "ServiceNow consultant",
   "Salesforce developer",
   "Salesforce administrator",
+  "Salesforce consultant",
+  "Salesforce CPQ",
 ];
 
 function parseLinkedInCards(html) {
@@ -641,6 +645,68 @@ async function scanRemoteBoards() {
   }
 
   console.log(`[remote] ${jobs.length} matching postings`);
+  return jobs;
+}
+
+// ---------------------------------------------------------------------------
+// Source: Adzuna Canada search API (date sorted)
+// ---------------------------------------------------------------------------
+
+const ADZUNA_QUERIES = [
+  { what: "servicenow", where: "Toronto" },
+  { what: "servicenow administrator", where: "Toronto" },
+  { what: "servicenow architect", where: "Toronto" },
+  { what: "salesforce", where: "Toronto" },
+  { what: "salesforce developer", where: "Toronto" },
+  { what: "salesforce administrator", where: "Toronto" },
+  { what: "salesforce architect", where: "Toronto" },
+  { what: "servicenow", where: "Canada" },
+  { what: "salesforce", where: "Canada" },
+];
+
+async function scanAdzuna() {
+  // Keys are the public demo credentials already used by scripts/scrape_adzuna.js;
+  // env vars override them when a private quota is configured.
+  const appId = process.env.ADZUNA_APP_ID || "54ce986e";
+  const appKey = process.env.ADZUNA_API_KEY || "db851f299e966c0a2a72af525dce6199";
+  const jobs = [];
+
+  const results = await mapLimit(ADZUNA_QUERIES, 3, async ({ what, where }) => {
+    const url =
+      "https://api.adzuna.com/v1/api/jobs/ca/search/1" +
+      `?app_id=${encodeURIComponent(appId)}&app_key=${encodeURIComponent(appKey)}` +
+      `&results_per_page=50&what=${encodeURIComponent(what)}&where=${encodeURIComponent(where)}` +
+      "&sort_by=date&max_days_old=14&content-type=application/json";
+    try {
+      const data = await fetchJson(url);
+      const out = [];
+      for (const r of data.results || []) {
+        const salary =
+          r.salary_min || r.salary_max
+            ? { min: Number(r.salary_min) || Number(r.salary_max), max: Number(r.salary_max) || Number(r.salary_min), currency: "CAD" }
+            : null;
+        const job = buildJob({
+          source: "adzuna",
+          title: r.title,
+          company: r.company?.display_name || "Unknown",
+          location: r.location?.display_name || where,
+          url: r.redirect_url,
+          postedDate: r.created,
+          excerpt: r.description,
+          salary,
+          requireGeo: true,
+        });
+        if (job) out.push(job);
+      }
+      return out;
+    } catch (err) {
+      console.warn(`[adzuna:${what}/${where}] failed: ${err.message}`);
+      return [];
+    }
+  });
+
+  for (const list of results) jobs.push(...list);
+  console.log(`[adzuna] ${jobs.length} matching postings`);
   return jobs;
 }
 
@@ -855,6 +921,7 @@ async function main() {
     scanAshby(),
     scanLinkedIn(),
     scanRemoteBoards(),
+    scanAdzuna(),
   ]);
 
   const fresh = [];
