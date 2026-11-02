@@ -1,12 +1,12 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T185539Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T185755Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
   - [ServiceNow jobs (260)](#servicenow-jobs-260)
-  - [Salesforce jobs (284)](#salesforce-jobs-284)
+  - [Salesforce jobs (287)](#salesforce-jobs-287)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -14,7 +14,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **944 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **947 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (260)
 
@@ -287,16 +287,17 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (284)
+### Salesforce jobs (287)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 284 postings</strong></summary>
+<details><summary><strong>Show 287 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-02 | [Senior Salesforce Technical Consultant](https://www.adzuna.ca/details/5950547938) | CYNET SYSTEMS | Mississauga, Peel region |  |
 | 2026-11-02 | [Senior Consultant - Salesforce](https://www.adzuna.ca/details/5950543320) | fusionSpan | Toronto, Ontario |  |
+| 2026-11-02 | [Salesforce QA Automation Developer](https://ats.rippling.com/nestogroup/jobs/9927bb74-d12e-4d60-b15d-966ec1147348) | nesto | Canada (remote/hybrid) | via grok-job-hunter--2026-11-02--v45.md |
 | 2026-11-02 | [Salesforce Functional Manager](https://ca.linkedin.com/jobs/view/salesforce-functional-manager-at-kpmg-canada-4434210237) | KPMG Canada | Montreal, Quebec, Canada |  |
 | 2026-11-02 | [Salesforce Consultants (remote Canada )](https://www.adzuna.ca/details/5950539606?utm_medium=api&utm_source=54ce986e) | Ensiti | Montréal, Québec |  |
 | 2026-11-02 | [Salesforce Consultant, Change Management](https://www.adzuna.ca/details/5950546447) | NeuraFlash, Part of Accenture | Vancouver, Greater Vancouver |  |
@@ -401,6 +402,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-30 | [Salesforce Developer - Procom](https://ca.indeed.com/q-salesforce-developer-l-remote-jobs.html) | Remote (Quebec, QC) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Salesforce Developer - ICF](https://remotive.com/remote/jobs/software-development/salesforce-developer-6391386) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Salesforce Developer - Homelink Corp](https://remotive.com/remote/jobs/software-development/salesforce-developer-6060068) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
+| 2026-10-30 | [Salesforce Developer - Digital Customer: Future Opportunities](https://www.jobs.ca/deloitte/jobs/salesforce-developer-digital-customer-future-opportunities-toronto-on-3fbdd58702c2) | Deloitte Canada | Toronto, ON | via grok-job-hunter--2026-11-02--v45.md |
 | 2026-10-30 | [Salesforce Developer - Akaasa Technologies](https://www.adzuna.com/details/5943903388?utm_medium=api&utm_source=54ce986e) | Upper East Side, Manhattan | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Salesforce Developer (Service Cloud Voice)](https://www.cofomo.com/en/jobs/86543) | COFOMO | Montreal, QC; hybrid | via grok-job-hunter--2026-11-02--v29.md |
 | 2026-10-30 | [Salesforce Developer (2026-91) - emergiTEL](https://www.jobs.ca/emergitel/jobs/salesforce-developer-2026-91-remote-canada-49cfb170eceb) | Remote (Calgary/Edmonton, AB) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
@@ -540,6 +542,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-20 | [Salesforce Architect](https://ca.linkedin.com/jobs/view/salesforce-architect-at-lyft-4473050209) | Lyft | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-20 | [Salesforce Architect](https://ca.linkedin.com/jobs/view/salesforce-architect-at-cgi-4408560005) | CGI | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-19 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-movable-ink-4453734384) | Movable Ink | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
+| 2026-10-19 | [Salesforce Marketing and Data Cloud Consultant](https://scoutify.com/companies/accenture-llp/jobs/3039713/) | Accenture | Toronto, ON | via grok-job-hunter--2026-11-02--v45.md |
 | 2026-10-19 | [Salesforce Data Cloud Developer](https://www.adzuna.ca/details/5934593567) | Maarut | East York, Toronto | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-19 | [Product Developer, Salesforce](https://job-boards.greenhouse.io/neuraflash/jobs/6228534004) | NeuraFlash | Remote - India (Bangalore, Hyderabad, Pune or Delhi Only) | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-18 | [Salesforce Lead Developer (603793117)](https://jobs.wawanesa.com/job/Winnipeg%2C-MB-%28Hybrid%29-Salesforce-Lead-Developer-MB/603793117/) | Wawanesa Insurance | North York Toronto / Hybrid Canada | via grok-job-hunter--2026-11-02--v33.md |
@@ -1059,4 +1062,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T185539Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T185755Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
