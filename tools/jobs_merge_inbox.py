@@ -144,7 +144,7 @@ def main() -> int:
 
     merged = readme_rows + incoming
     unique, dropped = dedupe(merged)
-    current = [r for r in unique if r["posted"] >= cutoff.isoformat()]
+    current = [r for r in unique if cutoff.isoformat() <= r["posted"] <= today.isoformat()]
     expired = [r for r in unique if r["posted"] < cutoff.isoformat()]
 
     kept: list[dict] = []

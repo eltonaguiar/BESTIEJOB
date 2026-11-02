@@ -271,7 +271,7 @@ def main() -> int:
     text = README.read_text(encoding="utf-8")
     rows, unmatched = extract_rows(text)
     unique, dropped = dedupe(rows)
-    current = [r for r in unique if r["posted"] >= cutoff.isoformat()]
+    current = [r for r in unique if cutoff.isoformat() <= r["posted"] <= today.isoformat()]
     archived = [r for r in unique if r["posted"] < cutoff.isoformat()]
 
     # keep each table readable: newest N per family, overflow stays in the backup

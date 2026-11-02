@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-02T13:42:40+00:00",
+ "generatedAt": "2026-11-02T13:50:44+00:00",
  "timezone": "America/Toronto",
- "count": 180,
+ "count": 184,
  "jobs": [
   {
    "posted": "2026-11-02",
@@ -865,6 +865,16 @@
   },
   {
    "posted": "2026-11-01",
+   "title": "Développeur(euse) MuleSoft",
+   "company": "CGI",
+   "location": "Montréal, QC",
+   "url": "https://www.adzuna.ca/details/5949011861",
+   "note": "via buffy-second-round--2026-11-02--v2.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-11-01",
    "title": "Développeur Salesforce",
    "company": "CGI",
    "location": "Montréal, Québec",
@@ -1155,6 +1165,16 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "Senior MuleSoft Integration Developer",
+   "company": "S.i. Systems",
+   "location": "Calgary, AB",
+   "url": "https://www.adzuna.ca/details/5948276684",
+   "note": "via buffy-second-round--2026-11-02--v2.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-31",
    "title": "Senior Business Analyst Salesforce CRM",
    "company": "Artech LLC",
    "location": "Mississauga, Peel region",
@@ -1425,6 +1445,16 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "Intermediate IT Service Desk Analyst",
+   "company": "Eupraxia Pharmaceuticals",
+   "location": "Vancouver, BC",
+   "url": "https://www.adzuna.ca/details/5947847001",
+   "note": "via buffy-second-round--2026-11-02--v2.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-31",
    "title": "IT Operations & CMDB Analyst",
    "company": "Purolator",
    "location": "Mississauga",
@@ -1450,16 +1480,6 @@
    "location": "Toronto, Ontario",
    "url": "https://www.adzuna.ca/details/5948023540",
    "note": "via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce"
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Functional QA Tester Salesforce",
-   "company": "Epsilon Solutions LTD",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5947967982?utm_medium=api&utm_source=54ce986e",
-   "note": "Salesforce Adzuna 5947967982",
    "family": "salesforce",
    "familyLabel": "Salesforce"
   },
@@ -1765,6 +1785,16 @@
   },
   {
    "posted": "2026-10-30",
+   "title": "Senior Mulesoft Software Engineer",
+   "company": "Manulife",
+   "location": "Toronto, ON",
+   "url": "https://www.adzuna.ca/details/5947169040",
+   "note": "via buffy-second-round--2026-11-02--v2.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-30",
    "title": "Manager IT Service Management (ITSM) (job 1209) - WSIB",
    "company": "Toronto, ON; on-site",
    "location": "Permanent full-time",
@@ -1800,6 +1830,16 @@
    "location": "Toronto, Ontario",
    "url": "https://www.adzuna.ca/details/5947177797?utm_medium=api&utm_source=54ce986e",
    "note": "via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-25",
+   "title": "ServiceNow System Administrator",
+   "company": "Bell",
+   "location": "Toronto, ON / Montreal, QC",
+   "url": "https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator",
+   "note": "via buffy-second-round--2026-11-02--v2.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow"
   }
