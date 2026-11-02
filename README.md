@@ -147,6 +147,32 @@ Excluded from the table: two CloudKettle **account executive** records (50631212
 
 ---
 
+## 2026-11-02 expanded scan — additional Oct 31 + Nov 1 postings
+
+Second Adzuna CA API sweep (`max_days_old=2`, broader keyword/location set, pages 1–3) run 2026-11-02. These 10 Toronto/GTA/Ontario/Canada-remote ServiceNow/Salesforce postings dated 2026-11-01 or 2026-10-31 did not appear in the first scan section. Aggregator-sourced — not ATS-confirmed; open the Apply page before applying.
+
+### Posted 2026-11-01 (2)
+
+| Posted | Role | Company | Location | Family | Source |
+|---|---|---|---|---|---|
+| 2026-11-01 | [Développeur Salesforce](https://www.adzuna.ca/details/5948938935?utm_medium=api&utm_source=54ce986e) | CGI | Montréal, Québec | Salesforce | Adzuna 5948938935 |
+| 2026-11-01 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e) | iA Financial Group | Canada | Salesforce | Adzuna 5948983668 |
+
+### Posted 2026-10-31 (8)
+
+| Posted | Role | Company | Location | Family | Source |
+|---|---|---|---|---|---|
+| 2026-10-31 | [Functional QA Tester Salesforce](https://www.adzuna.ca/details/5947967982?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5947967982 |
+| 2026-10-31 | [Salesforce Scrum Master](https://www.adzuna.ca/details/5948006847?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5948006847 |
+| 2026-10-31 | [Senior Quality Assurance Engineer - Salesforce Marketing Cloud & Azure Data Platforms](https://www.adzuna.ca/details/5948009443?utm_medium=api&utm_source=54ce986e) | Hour Consulting Corporation | Toronto, Ontario | Salesforce | Adzuna 5948009443 |
+| 2026-10-31 | [Salesforce Functional Analyst](https://www.adzuna.ca/details/5948011834?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5948011834 |
+| 2026-10-31 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5948019639?utm_medium=api&utm_source=54ce986e) | Macpower Digital Assets Edge Private Limited | Toronto, Ontario | Salesforce | Adzuna 5948019639 |
+| 2026-10-31 | [Salesforce Functional Lead](https://www.adzuna.ca/details/5948023559?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5948023559 |
+| 2026-10-31 | [Production Support Engineer with Salesforce](https://www.adzuna.ca/details/5948025245?utm_medium=api&utm_source=54ce986e) | ApTask | Toronto, Ontario | Salesforce | Adzuna 5948025245 |
+| 2026-10-31 | [Technical PM Salesforce Life Sciences](https://www.adzuna.ca/details/5948026660?utm_medium=api&utm_source=54ce986e) | GTT, LLC | Toronto, Ontario | Salesforce | Adzuna 5948026660 |
+
+---
+
 ## 2026-11-01 recovered README addition - Copilot review
 
 Recovered the ten-link addition from local commit `9e0a253` and integrated it
