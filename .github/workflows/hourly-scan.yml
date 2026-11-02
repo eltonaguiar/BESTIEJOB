@@ -1,0 +1,57 @@
+name: Hourly Job Scan
+
+on:
+  schedule:
+    # Every hour at :00 UTC
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: hourly-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium (LinkedIn fallback)
+        run: npx playwright install --with-deps chromium
+        continue-on-error: true
+
+      - name: Run hourly job scan
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_API_KEY: ${{ secrets.ADZUNA_API_KEY }}
+          NODE_ENV: production
+        run: node scripts/daily_job_scan.mjs --no-readme
+
+      - name: Commit refreshed job data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add jobs.json public/jobs.json public/gotjob/jobs.json public/findjobs/jobs.json FRESH_JOBS.md README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          JOB_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('jobs.json','utf8')).jobs.length)")
+          git commit -m "chore(jobs): hourly scan refresh (${JOB_COUNT} listings, $(date -u +%Y-%m-%dT%H:%M:%SZ)) [skip ci]"
+          git push
