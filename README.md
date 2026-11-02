@@ -29,6 +29,8 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UFCvcf6MoLp) | Lightspeed Commerce, Inc. | Toronto, ON | Performance tuning, RESTful API, ITIL Certification | Workopolis/Lightspeed |
 | 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/kb-FDzAD1CpbRzck4uIlmzc_hsBnI_gBEfAnY4pquMHvJN7m1INfH79IrEamLzPK) | Lightspeed Commerce, Inc. | Ottawa, ON | 8 hours ago; Performance tuning, RESTful API, CSS, Incident management | Workopolis/Lightspeed |
 | 2026-11-02 | [ServiceNow Developer](https://www.adzuna.ca/details/5926069932) | Zaelab | Montreal, QC | ServiceNow practice role; configuring and supporting ServiceNow solutions Adzuna 5926069932 |
+| 2026-10-16 | [ServiceNow Developer](https://www.jobs.ca/tekgence-inc/jobs/servicenow-developer-toronto-on-173ede1d1492) | Tekgence Inc | Toronto, ON | GRC/IRM focus; REST/SOAP APIs; Incident/Change/Problem management; JavaScript/HTML/CSS | Jobs.ca/Tekgence |
+| 2026-10-13 | [ServiceNow Business Analyst - Hybrid](https://www.jobs.ca/zenithinfotek-llc/jobs/servicenow-business-analyst-toronto-on-84e228eaab0c) | ZenithInfotek LLC | Toronto, ON | ITSM/ITOM/CSM/HRSD/PSM/integrations; Agile backlog refinement; ITIL | Jobs.ca/ZenithInfotek |
 | 2026-11-01 | [Analyst, IT Support (6 Months Contract)](https://www.workopolis.com/jobsearch/viewjob/oYzCdfpeFTqZHKolYQJRBqrgjDy_im8K7VcA-gXl3pD6xUzECTVmteYlKaJ_rToH) | OMERS | Toronto, ON | ServiceNow, PowerShell, Python, SQL, APIs, Cybersecurity | Workopolis/OMERS |
 | 5 days ago | [Senior Manager, ServiceNow - Operate](https://www.workopolis.com/jobsearch/viewjob/uUKmcu8zFzpGRq-SUqAX3vaTgm0pSaNGCMlyaco21Ya_v7vNF9QtrDnYp1D-7asA) | Deloitte | Toronto, ON | ServiceNow managed services practice; ITIL Certification | Workopolis/Deloitte |
 | 2026-11-01 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow Adzuna 5948954490 |
@@ -112,6 +114,23 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
+## Partner ecosystem — Salesforce & ServiceNow consulting partners
+
+Consulting/implementation firms partnered with Salesforce or ServiceNow (Summit/Select/Elite partners), event sponsors, or attendees at ServiceNow World Forum Toronto (Nov 3, 2026, Metro Toronto Convention Centre) and Dreamforce 2026. These firms hire for platform roles and are worth monitoring directly via their careers pages.
+
+| Partner | Platform | Tier / event tie-in | Location | Careers page / note |
+|---|---|---|---|---|
+| Lane Four | Salesforce | Boutique consulting partner; high-growth SaaS focus; VSS-backed Nov 2024 | Toronto, ON | lanefour.com/opportunities — Salesforce Consultant posting |
+| CloudJunction / CloudJunction Advisors | Salesforce | Select partner; attending Salesforce Toronto World Tour; team ex-Salesforce leadership | Toronto, ON (Bloor West) | cloudjunction.cloud/careers — hiring Devs/Analysts/QA/Product |
+| Diabsolut | Salesforce / Certinia | Summit Partner; Certinia Partner of the Year 2025; Dreamforce 2026 speaker/sponsor | Montreal / Toronto | diabsolut.com/careers — Senior Outcomes Consultant |
+| Ondaro | ServiceNow | Platinum sponsor, ServiceNow World Forum Toronto (Nov 3, 2026) | — | ondaro.com |
+| RapDev | ServiceNow | Elite Partner; attending ServiceNow World Forum Toronto | — | rapdev.io |
+
+## Event sponsors & platforms
+
+- **ServiceNow World Forum Toronto** — Nov 3, 2026, Metro Toronto Convention Centre. Sponsors: Ondaro (Platinum), Dynatrace, RapDev.
+- **Dreamforce 2026** — Sept 15-17, 2026, San Francisco. Diabsolut speaker/sponsor.
+
 ### Salesforce jobs (76)
 
 _developer / administrator / architect / consultant roles_
@@ -120,6 +139,11 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-10-31 | [Senior Salesforce Developer](https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad) | Docebo | Toronto, ON (55 York St, M5J 1R7) | CPQ/Revenue Cloud; Agentforce/Data Cloud; hybrid; $90.8K–$121K | Docebo careers |
+| 2026-10-31 | [Salesforce Platform Developer](https://builtin.com/job/salesforce-platform-developer/11985908) | Altus Group | Toronto, ON | Apex/LWC/Flow/SOQL; integrations/CI/CD; $105K–$115K; remote w/ Toronto preference | Built In Toronto |
+| 2026-10-28 | [Senior Salesforce Administrator](https://startup.jobs/locations/toronto) | Benevity | Toronto, ON | Hybrid | Startup Jobs |
+| 2026-10-28 | [Salesforce Consultant - FSC Cloud](https://www.jobs.ca/enterprise-solutions-inc/jobs/salesforce-consultant-fsc-cloud-toronto-on-d3c8d3c23165) | Enterprise Solutions Inc | Toronto, ON | Financial Services Cloud; Apex/LWC/SOQL; REST/SOAP APIs | Jobs.ca |
+| 2026-10-28 | [Salesforce Developer](https://www.jobs.ca/aptino-inc/jobs/salesforce-developer-toronto-on-d4726dafb21a) | Aptino, Inc. | Toronto, ON | Sales Cloud/Service Cloud; Apex/LWC/Visualforce; $55–$60/hr contract | Jobs.ca |
 | 1 hour ago | [Billing Support Specialist](https://www.workopolis.com/jobsearch/viewjob/NeUCt_Cb-WuW8e1S_FtyPQSZ6F8DMXYe6J84hU1bsy8vmWoI10YuVOKcS7ujhWb6) | Lightspeed Commerce, Inc. | Montréal, QC | Salesforce Platform, Zendesk, CRM | Workopolis/Lightspeed |
 | 1 hour ago | [Intermediate Pricing Analyst](https://www.workopolis.com/jobsearch/viewjob/dDsSVJ_dN8nGyeRe3lgWvNwuyuimE8kWj9sGY5UtzIgPPc59OHVIUmIWOjC4GLi2) | Manulife | Toronto, ON | Salesforce Platform, Power BI, financial reporting | Workopolis/Manulife |
 | 7 hours ago | [Senior Analyst, Software Asset Management](https://www.workopolis.com/jobsearch/viewjob/n6UOBPPnzH9QNsZtcJb3nMeaxW1cQDsuQwpfBHgruNMpoMMzjO47Hn6rRIyg-7Oq) | OMERS | Toronto, ON | ServiceNow SAM Pro + Salesforce; software entitlement, discovery | Workopolis/OMERS |
