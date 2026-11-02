@@ -1,11 +1,11 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T163121Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T163241Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (247)](#servicenow-jobs-247)
+  - [ServiceNow jobs (248)](#servicenow-jobs-248)
   - [Salesforce jobs (277)](#salesforce-jobs-277)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -14,13 +14,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **924 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **925 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (247)
+### ServiceNow jobs (248)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 247 postings</strong></summary>
+<details><summary><strong>Show 248 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -65,6 +65,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-31 | [Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459420807) | Deloitte | Montreal, Quebec, Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-31 | [Business Analyst - ServiceNow](https://www.adzuna.ca/details/5948025863?utm_medium=api&utm_source=54ce986e) | Artech LLC | Ottawa, Ottawa region |  |
 | 2026-10-31 | [Business Analyst - ServiceNOW](https://www.adzuna.ca/details/5947998754?utm_medium=api&utm_source=54ce986e) | IBM CA | Ottawa, Ottawa region | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
+| 2026-10-31 | [Analyst Software Asset Management, Global Deloitte Technology (ref 134674; Permanent FT hybrid; $47k-$78k; ServiceNow SAM Pro/Flexera desirable)](https://ca.linkedin.com/jobs/view/analyst-software-asset-management-global-deloitte-technology-at-deloitte-4460500284) | Deloitte | Toronto, ON | ServiceNow |
 | 2026-10-30 | [Sr. ServiceNow Developer - LanceSoft](https://www.tealhq.com/job/sr-servicenow-developer_7ea1a7ea7cf13968d97cf5835c94b36757f62) | Atlanta, GA | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow WSD Developer](https://ca.linkedin.com/jobs/view/servicenow-wsd-developer-at-sra-group-4483490440) | SRA Group | Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-30 | [ServiceNow Technical Consultant - Cognizant](https://www.adzuna.ca/details/5938973159?utm_medium=api&utm_source=54ce986e) | Toronto, Ontario | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
@@ -753,6 +754,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-31 | [Intermediate IT Service Desk Analyst](https://www.adzuna.ca/details/5947847001) | Eupraxia Pharmaceuticals | Vancouver, BC | via buffy-second-round--2026-11-02--v24.md |
 | 2026-10-31 | [Intermediate Full-Stack Developer (Intermediate Digital Product Developer)](https://www.adzuna.ca/details/5948015118) | House of Commons  / Chambre des communes | Ottawa, Ottawa region | via buffy-third-round--2026-11-02--v22.md |
 | 2026-10-31 | [Information Technology_CAN - CAN_Business Analyst](https://www.adzuna.ca/details/5947997761?utm_medium=api&utm_source=54ce986e) | Artech LLC | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
+| 2026-10-31 | [Incident and Release Manager (FCC) (FT)](https://ca.linkedin.com/jobs/view/incident-and-release-manager-fcc-at-fidelity-canada-4429486609) | Fidelity Canada | Toronto, ON | Other |
 | 2026-10-31 | [Hiring Java Full Stack Developer in Montreal, QC](https://www.adzuna.ca/details/5948021444?utm_medium=api&utm_source=54ce986e) | Artech LLC | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-31 | [Hiring Business Analyst in Toronto, ON](https://www.adzuna.ca/details/5948022676?utm_medium=api&utm_source=54ce986e) | Artech LLC | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
 | 2026-10-31 | [Fullstack Developer - Node.js](https://www.adzuna.ca/details/5948024980?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
@@ -969,7 +971,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-21 | [Solutions Architect, Splunk Canada](https://www.adzuna.ca/details/5936502977?utm_medium=api&utm_source=54ce986e) | Cisco | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
 | 2026-10-21 | [Service Desk Consultant](https://www.adzuna.ca/details/5936494479?utm_medium=api&utm_source=54ce986e) | Deltera | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
 | 2026-10-21 | [Senior Business Analyst, Portfolio Servicing Platform (12-Month Contract)](https://www.adzuna.ca/details/5936496496?utm_medium=api&utm_source=54ce986e) | OMERS | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
-| 2026-10-21 | [Principal Consultant, NetSuite](https://www.adzuna.ca/details/5936636842?utm_medium=api&utm_source=54ce986e) | Myers-Holum | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 
 </details>
 
@@ -1039,4 +1040,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T163121Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T163241Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
