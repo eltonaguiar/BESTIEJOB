@@ -1,5 +1,60 @@
 ﻿ï»¿# BESTIEJOB
 
+<!-- DAILY-SCAN:START -->
+## Latest auto-scanned jobs (newest first)
+
+**Scan: 2026-11-02T03:42:09.405Z** · 191 live postings from 9 public sources · 8 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+
+### ServiceNow — newest 12
+
+| Posted | Role | Company | Location |
+|---|---|---|---|
+| 2026-11-01 | [Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123) | Deloitte | Toronto, Ontario, Canada |
+| 2026-11-01 | [Conseiller principal ou conseillère principale, ITOM, ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-itom-servicenow-at-deloitte-4459429838) | Deloitte | Toronto, Ontario, Canada |
+| 2026-11-01 | [Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459417849) | Deloitte | Brossard, Quebec, Canada |
+| 2026-11-01 | [Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459426848) | Deloitte | Laval, Quebec, Canada |
+| 2026-10-31 | [Senior ServiceNow Architect](https://www.adzuna.ca/details/5948277202?utm_medium=api&utm_source=54ce986e) | Optovia | Ottawa, Ottawa region |
+| 2026-10-31 | [Business Analyst - ServiceNow](https://www.adzuna.ca/details/5948025863?utm_medium=api&utm_source=54ce986e) | Artech LLC | Ottawa, Ottawa region |
+| 2026-10-31 | [ServiceNow Consultant - REMOTE](https://www.adzuna.ca/details/5948024837?utm_medium=api&utm_source=54ce986e) | NTT DATA | Ottawa, Ottawa region |
+| 2026-10-31 | [ServiceNow Developer- 26-16925](https://www.adzuna.ca/details/5948016541?utm_medium=api&utm_source=54ce986e) | US Tech Solutions, Inc. | Ottawa, Ottawa region |
+| 2026-10-31 | [ServiceNow Systems Administrator](https://www.adzuna.ca/details/5948015907?utm_medium=api&utm_source=54ce986e) | GTT, LLC | Toronto, Ontario |
+| 2026-10-31 | [IT - Systems Administrator V Service Now - Systems Administrator](https://www.adzuna.ca/details/5948007824?utm_medium=api&utm_source=54ce986e) | ICONMA, LLC | Toronto, Ontario |
+| 2026-10-31 | [ServiceNow Consultant / Developer](https://www.adzuna.ca/details/5948006803?utm_medium=api&utm_source=54ce986e) | Artech LLC | Unionville, York region |
+| 2026-10-31 | [Principal ServiceNow Consultant](https://www.adzuna.ca/details/5947999519?utm_medium=api&utm_source=54ce986e) | Macpower Digital Assets Edge Private Limited | Halifax, Halifax region |
+
+### Salesforce — newest 12
+
+| Posted | Role | Company | Location |
+|---|---|---|---|
+| 2026-11-01 | [Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team)](https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232) | Deloitte | Toronto, Ontario, Canada |
+| 2026-11-01 | [Salesforce Engineer](https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926) | Thomson Reuters | Toronto, Ontario, Canada |
+| 2026-11-01 | [Directeur(trice), Salesforce fonctionnel](https://ca.linkedin.com/jobs/view/directeur-trice-salesforce-fonctionnel-at-kpmg-canada-4434096618) | KPMG Canada | Montreal, Quebec, Canada |
+| 2026-11-01 | [Director, Salesforce Delivery and Architecture, Deloitte Global Technology](https://ca.linkedin.com/jobs/view/director-salesforce-delivery-and-architecture-deloitte-global-technology-at-deloitte-4460396523) | Deloitte | Toronto, Ontario, Canada |
+| 2026-10-31 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5948276995?utm_medium=api&utm_source=54ce986e) | Jobgether | Canada |
+| 2026-10-31 | [Principal Solutions Consultant – Salesforce & Digital Transformation](https://www.adzuna.ca/details/5948276722?utm_medium=api&utm_source=54ce986e) | Chapman Tate Associates | Canada |
+| 2026-10-31 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5948276350?utm_medium=api&utm_source=54ce986e) | Orion Global Solutions | Toronto, Ontario |
+| 2026-10-31 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5948026874?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario |
+| 2026-10-31 | [Salesforce Support Analyst](https://www.adzuna.ca/details/5948026538?utm_medium=api&utm_source=54ce986e) | Diverse Lynx | Halifax, Halifax region |
+| 2026-10-31 | [Salesforce Administrator \| Natural Health \| Hybrid in Toronto \| $60-75k  Benefits](https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e) | White Bay | Toronto, Ontario |
+| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948024454?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario |
+| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948023880?utm_medium=api&utm_source=54ce986e) | Macpower Digital Assets Edge Private Limited | Calgary, Calgary region |
+
+### Other keyword matches — newest 8
+
+| Posted | Role | Company | Location | Keyword |
+|---|---|---|---|---|
+| 2026-10-31 | [DevOps Engineer](https://www.adzuna.ca/details/5948017534?utm_medium=api&utm_source=54ce986e) | GTT, LLC | Toronto, Ontario | DevOps / Cloud |
+| 2026-10-30 | [Site Reliability Engineer](https://jobicy.com/jobs/158114-site-reliability-engineer-5) | MaintainX | Canada | DevOps / Cloud |
+| 2026-10-29 | [Senior Forward Deployed Engineer (Full-Stack)](https://job-boards.greenhouse.io/dscout/jobs/4472803009) | Dscout | Remote - US | Full stack |
+| 2026-10-29 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Worldwide | Full stack |
+| 2026-10-22 | [Senior DevOps Engineer](https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557) | Lemon.io | Remote | DevOps / Cloud |
+| 2026-10-14 | [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746) | Mitre Media | USA, Canada, USA timezones | Full stack |
+| 2026-10-09 | [Senior React Full stack Developer](https://remoteok.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475) | Lemon.io | Remote | Full stack |
+| 2026-10-02 | [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133) | Lemon.io | Europe, USA, Canada, APAC | Full stack |
+
+_Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
+<!-- DAILY-SCAN:END -->
+
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
 
 ## 2026-11-02 employer-ATS sweep - ServiceNow and Salesforce (Toronto / Canada remote)
@@ -8,7 +63,7 @@ Toronto-focused job posting consolidator for creative / technology manager roles
 
 Method: queried employer application systems directly instead of job boards - Workday CXC job APIs (BMO, TD, McKesson, Medcan, Moneris, Altus Group, CAAT Pension, Irving Oil, BDO, Huron, Brookfield, IKO, Salesforce), the Greenhouse, Ashby and Lever public job APIs, and the SmartRecruiters API for ServiceNow's own careers site. Dates below come from each employer record (`startDate`/`postedOn`, Greenhouse `updated_at`, Ashby `publishedAt`, Lever `createdAt`, SmartRecruiters `releasedDate`), never from a board's "days ago" label.
 
-**Headline: no ServiceNow or Salesforce developer/administrator posting dated 2026-10-31 or 2026-11-01 was verified in Toronto or Canada-remote.** October 31 was a Saturday and November 1 a Sunday, and no weekend publication for these roles appeared in any employer record swept. The newest verified Canadian platform postings remain October 29-30, plus the two additions below. This is a negative result from the boards listed under "Source limits", not proof that no weekend posting exists anywhere.
+**Headline: no ServiceNow or Salesforce developer/administrator posting dated 2026-10-31 or 2026-11-01 appeared in the employer application systems swept.** October 31 was a Saturday and November 1 a Sunday, and no weekend publication for these roles appeared in any employer record queried. A separate LinkedIn last-24h search on 2026-11-02 surfaced **8 postings dated 2026-11-01** (6 Toronto/GTA, 2 Quebec), listed in the auto-scan block above; those are board-sourced, not employer-ATS verified. October 31 was a Saturday and November 1 a Sunday, and no weekend publication for these roles appeared in any employer record swept. The newest verified Canadian platform postings remain October 29-30, plus the two additions below. This is a negative result from the boards listed under "Source limits", not proof that no weekend posting exists anywhere.
 
 ### New verified Canadian additions (2)
 
@@ -526,7 +581,7 @@ Commit `8c25626` ("README: add employer-verified CGI … and Cognizant … rows"
 | [BESTIEJOB#8](https://github.com/eltonaguiar/BESTIEJOB/pull/8) | ServiceNow gap hunt | Procom GTA-hybrid specialist #86 added; six supplied gaps classified with source limitations |
 | [BESTIEJOB#9](https://github.com/eltonaguiar/BESTIEJOB/pull/9) | Playwright job scan | George Brown Salesforce-admin-related role #87 and Panasonic Salesforce Developer #88 added; Panasonic mirror deduplicated |
 | [BESTIEJOB#10](https://github.com/eltonaguiar/BESTIEJOB/pull/10) | Merged | PR-coverage bookkeeping for the Playwright scan; no new postings imported |
-| [BESTIEJOB#13](https://github.com/eltonaguiar/BESTIEJOB/pull/13) | 2026-11-02 employer-ATS sweep | BMO Salesforce enablement manager #104 and McKesson Salesforce Solution Lead #105 added from employer records; no Canadian ServiceNow/Salesforce posting dated October 31 or November 1 verified |
+| [BESTIEJOB#13](https://github.com/eltonaguiar/BESTIEJOB/pull/13) | 2026-11-02 employer-ATS sweep | BMO Salesforce enablement manager #104 and McKesson Salesforce Solution Lead #105 added from employer records; no employer-ATS ServiceNow/Salesforce posting dated October 31 or November 1 verified; a later LinkedIn last-24h sweep added 8 dated 2026-11-01 |
 
 ### ### Government / public-sector source review - October 31
 
@@ -569,9 +624,9 @@ Commit `8c25626` ("README: add employer-verified CGI … and Cognizant … rows"
 | 101 | [Salesforce Developer - Zodiac Solutions](#recovered-job-101) | Toronto | Full-time (mirror) | 2026-10-30 mirror date | Mirror detail readable November 1; employer acceptance unconfirmed. Source patch describes Apex, SOQL, Visualforce, LWC, Agentforce and Data Cloud. Claimed November 29 application deadline not independently established. |
 | 103 | [Salesforce Technical Architect - FSC, Marketing Cloud and Data360 - EY](#recovered-job-103) | Toronto; hybrid claimed | Full-time claimed | 2026-10-30 reported | HTTP 403 mirror; source patch describes FSC/Marketing/Data Cloud certifications, data pipelines, Apex/Flow/LWC and CAD 114,000-171,000. Qualifications, compensation, date and active hiring unverified. |
 | 104 | [Manager, Banking Salesforce Innovation & Enablement (R260030015) - BMO](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Salesforce-Innovation---Enablement_R260030015) | Canada: Toronto, 33 Dundas Street West | Full-time | 2026-10-29 employer startDate | RELATED MANAGEMENT/ENABLEMENT ROLE rather than developer-only: maintains and governs Salesforce innovation work in Customer Shared Services. Workday canApply=true and endDate 2026-11-14 verified 2026-11-02; page states an 11/13/2026 application deadline. No certification requirement named in the inspected description. |
-| 105 | [Salesforce Solution Lead (JR0156424) - McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Salesforce-Solution-Lead_JR0156424-1) | Canada: Mississauga, ON; hybrid/remote arrangement not established | Full-time | 2026-10-27 employer startDate | Workday canApply=true verified 2026-11-02; Salesforce Administrator, Advanced Administrator and App Builder are named in the description. Distinct requisition from the October 29 LinkedIn "Lead Salesforce Solution Architect" mirror; overlap was not established, so both are retained. Not a brand-new November 1 posting. |
 | 68 | [Marketing Operations Analyst (8333965) - D2L](https://www.d2l.com/careers/jobs/?job_id=8333965&gh_jid=8333965) | Canada: Canada; remote status needs employer confirmation | Not disclosed | 2026-10-29 | RELATED BUSINESS-ADMIN ROLE, not developer: Salesforce/Pardot business ownership, objects/fields/flows/reports. Admin/Pardot certification listed. Greenhouse first_published October 29. |
 | 61 | [Principle Salesforce Developer (JR106006) - Moneris](https://moneris.wd3.myworkdayjobs.com/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2) | Canada: Toronto; hybrid; full-time | Full-time | 2026-10-28 | Employer detail and date independently retrieved in the prior scan; rechecked in this refresh. |
+| 105 | [Salesforce Solution Lead (JR0156424) - McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Salesforce-Solution-Lead_JR0156424-1) | Canada: Mississauga, ON; hybrid/remote arrangement not established | Full-time | 2026-10-27 employer startDate | Workday canApply=true verified 2026-11-02; Salesforce Administrator, Advanced Administrator and App Builder are named in the description. Distinct requisition from the October 29 LinkedIn "Lead Salesforce Solution Architect" mirror; overlap was not established, so both are retained. Not a brand-new November 1 posting. |
 | 62 | [Salesforce Developer (MED02518) - Medcan](https://medcan.wd10.myworkdayjobs.com/medcan/job/Toronto/Salesforce-Developer_MED02518) | Canada: Toronto; hybrid, two office days; full-time; Platform Developer I required; deadline Nov 6 | Full-time | 2026-10-27 | Platform Developer I minimum; II bonus. Toronto two office days. Employer startDate October 27; deadline November 6. Outside October 28-30. |
 | 63 | [Software Engineer II (Salesforce Loyalty Management Developer) (R_1509038) - TD](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038) | Canada: Toronto; Office Focused; full-time; deadline Nov 9 | Full-time | 2026-10-26 | Employer detail and date independently retrieved in the prior scan; rechecked in this refresh. |
 | 69 | [Sr. Developer, AI and Agentforce (6231605004) - NeuraFlash / Accenture](https://job-boards.greenhouse.io/neuraflash/jobs/6231605004) | Canada: Remote Canada: Alberta, British Columbia or Ontario only; up to 25% travel | Not disclosed | 2026-10-21 | Salesforce Platform Developer I/II among relevant certifications; Agentforce, Data 360 and AI engineering. Greenhouse first_published October 21; updated_at not used. |

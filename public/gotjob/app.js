@@ -599,7 +599,7 @@ function getStateFromURL() {
   return {
     keywords: params.get('q') || '',
     location: params.get('loc') || 'Toronto, ON',
-    dateFilter: params.get('date') || 'week',
+    dateFilter: params.get('date') || 'month',
     minSalary: params.get('salary') || '80000',
     workArrangement: params.get('work') || 'any',
     experienceLevel: params.get('exp') || 'any',
@@ -619,7 +619,7 @@ function updateURLState() {
   
   if (keywords) params.set('q', keywords);
   if (location !== 'Toronto, ON') params.set('loc', location);
-  if (dateFilter !== 'week') params.set('date', dateFilter);
+  if (dateFilter !== 'month') params.set('date', dateFilter);
   if (minSalary !== '80000') params.set('salary', minSalary);
   if (workArrangement !== 'any') params.set('work', workArrangement);
   if (experienceLevel !== 'any') params.set('exp', experienceLevel);
@@ -999,7 +999,7 @@ function renderEmptyState(list, meta) {
   }
 
   // 2. Date range is very tight
-  const dateFilter = meta?.dateFilter || el("dateFilter")?.value || "week";
+  const dateFilter = meta?.dateFilter || el("dateFilter")?.value || "month";
   const tightDateFilters = ["15m", "30m", "1h", "2h", "4h"];
   if (tightDateFilters.includes(dateFilter)) {
     const dateLabel = { "15m": "15 minutes", "30m": "30 minutes", "1h": "1 hour", "2h": "2 hours", "4h": "4 hours" }[dateFilter];
@@ -1012,7 +1012,7 @@ function renderEmptyState(list, meta) {
     fixes.push({
       label: 'Expand to last 7 days',
       icon: '📆',
-      action: () => { el("dateFilter").value = "week"; render(filterJobs()); }
+      action: () => { el("dateFilter").value = "month"; render(filterJobs()); }
     });
   }
 
@@ -1154,7 +1154,7 @@ function bind() {
   el("clearFilters")?.addEventListener("click", () => {
     el("keywords").value = "";
     el("location").value = "Toronto, ON";
-    el("dateFilter").value = "week";
+    el("dateFilter").value = "month";
     if (el("deadlineFilter")) el("deadlineFilter").value = "any";
     if (el("workArrangement")) el("workArrangement").value = "any";
     if (el("experienceLevel")) el("experienceLevel").value = "any";
