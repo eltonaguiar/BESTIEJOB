@@ -83,6 +83,20 @@ Resume-relevant keywords beyond ServiceNow/Salesforce: PowerShell, VBA/Excel, Al
 | 2026-11-01 | [Senior DevOps / DevSecOps Engineer](https://www.adzuna.ca/details/5949576723) | Capco Group | Toronto, Ontario | Python | adzuna |
 | 2026-11-01 | [Staff Cloud Engineer , Cloud Platform](https://www.adzuna.ca/details/5949576733) | Kinaxis | Ottawa, Ottawa region | Python | adzuna |
 
+## Expanded web-search discoveries — ServiceNow / Salesforce (Toronto / Canada)
+
+Additional platform roles surfaced via expanded web search (Adzuna CA / Job Bank) on 2026-11-02, complementing the auto-scan above. Aggregator-sourced — not employer-ATS-confirmed — open the Apply page before applying.
+
+| Posted | Role | Company | Location | Detail | Source |
+|---|---|---|---|---|---|
+| 2026-11-02 | [ServiceNow Developer](https://www.adzuna.ca/details/5926069932) | Zaelab | Montreal, QC | ServiceNow practice role; configuring and supporting ServiceNow solutions | Adzuna 5926069932 |
+| 1 day ago | [Senior ServiceNow AI Engineer / ServiceNow AI DevOps Engineer](https://www.adzuna.ca/details/5842877760) | McKesson | Toronto, ON | $99,100–$132,100; Now Assist, Virtual Agent, AI Agents, RAG | Adzuna 5842877760 |
+| 23 hours ago | [Product Consultant ServiceNow](https://www.adzuna.ca/details/5857991417) | Cognizant | Toronto, ON | ~$92K; 5+ years, configuring ServiceNow solutions | Adzuna 5857991417 |
+| 15 hours ago | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5844072740) | Movable Ink | Remote Canada | 12-month contract; $89,524–$120,000 | Adzuna 5844072740 |
+| Contract | [Solution Architect – Salesforce Service Cloud Voice, Amazon Connect & Contact Center](https://www.adzuna.ca/details/5863655219) | Astra North Infoteck Inc. | Toronto, ON | Salesforce + Amazon Connect voice/contact-center architecture | Adzuna 5863655219 |
+| 5 days ago | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5844364247) | CloudKettle Inc | Toronto, ON | Revenue Cloud architecture, implementation, customization | Adzuna 5844364247 |
+| 2026-02-22 | [Salesforce Developer](https://www.adzuna.ca/details/5806491492) | — | — | $100,000–$125,000 USD annually | Adzuna 5806491492 |
+
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
 
 ## 2026-11-02 employer-ATS sweep - ServiceNow and Salesforce (Toronto / Canada remote)
