@@ -29,6 +29,8 @@ jobs:
           python-version: '3.11'
       - name: Build site from README tables
         run: python3 tools/build_site.py
+      - name: Assert the page links every posting
+        run: python3 scripts/check_site_links.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
