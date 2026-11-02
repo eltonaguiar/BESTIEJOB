@@ -123,6 +123,12 @@ def main() -> int:
     old_readme = README.read_text(encoding="utf-8")
     readme_rows, _ = extract_rows(old_readme)
     known = {normalise_url(r["url"]) for r in readme_rows}
+    # Applied roles (APPLIED.md) must never be re-added to the live tables.
+    applied = Path(__file__).resolve().parent.parent / "APPLIED.md"
+    if applied.exists():
+        import re as _re
+        for u in _re.findall(r"https?://[^\s)|]+", applied.read_text()):
+            known.add(normalise_url(u))
     incoming: list[dict] = []
     per_file: dict[str, dict[str, int]] = {}
 

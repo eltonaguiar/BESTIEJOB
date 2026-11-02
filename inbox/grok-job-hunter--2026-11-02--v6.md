@@ -17,3 +17,4 @@ task: servicenow-salesforce-partners
 | 2026-10-17 | Senior Salesforce Developer | Synechron | Toronto, ON; hybrid | https://jobsca.org/senior-salesforce_toronto-c117072/2026-10-synechron_i4248473031 | jobsca mirror; FS consultancy, Apex/LWC 8+ yrs |
 | 2026-10-14 | Production Support Engineer (Salesforce) | Capgemini | Toronto, ON; on-site | https://www.jobs.ca/capgemini/jobs/production-support-engineer-salesforce-toronto-on-66e0f7835b11 | jobs.ca mirror; SN/SF partner |
 | 2026-10-07 | Migration Consultant (Salesforce/ServiceNow data) | Slalom | Toronto, ON | https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Migration-Consultant/3803 | Employer ATS; req 3803 |
+| 2026-10-09 | Salesforce Lead | OSI Digital | Toronto, ON; on-site | https://osidigital.applytojob.com/apply/gv5uSBUcho/Salesforce-Lead | Employer ATS (JazzHR); date per jobs.ca (Oct 9; another copy says Oct 29) |

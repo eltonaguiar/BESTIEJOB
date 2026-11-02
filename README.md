@@ -1,26 +1,26 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T145639Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T150156Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (90)](#servicenow-jobs-90)
-  - [Salesforce jobs (85)](#salesforce-jobs-85)
-  - [Other jobs (78)](#other-jobs-78)
+  - [ServiceNow jobs (86)](#servicenow-jobs-86)
+  - [Salesforce jobs (84)](#salesforce-jobs-84)
+  - [Other jobs (77)](#other-jobs-77)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **253 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **247 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (90)
+### ServiceNow jobs (86)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 90 postings</strong></summary>
+<details><summary><strong>Show 86 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -113,11 +113,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (85)
+### Salesforce jobs (84)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 85 postings</strong></summary>
+<details><summary><strong>Show 84 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -204,14 +204,15 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-16 | [Salesforce Developer / Administrator](https://www.jobs.ca/astek/jobs/salesforce-developer-administrator-developpeur-administrateur-salesforce-remote-canada-united-states-3d923fd88bc6) | Astek Canada | Remote, Canada | via arlo--2026-11-02--v3.md |
 | 2026-10-14 | [Production Support Engineer (Salesforce)](https://www.jobs.ca/capgemini/jobs/production-support-engineer-salesforce-toronto-on-66e0f7835b11) | Capgemini | Toronto, ON; on-site | via grok-job-hunter--2026-11-02--v2.md |
 | 2026-10-13 | [Salesforce Technical Lead (Req 00070906481)](https://careers.cognizant.com/apj-en/jobs/00070906481/salesforce-techical-lead/) | Cognizant | Remote, Canada | via arlo--2026-11-02--v1.md |
+| 2026-10-09 | [Salesforce Lead](https://osidigital.applytojob.com/apply/gv5uSBUcho/Salesforce-Lead) | OSI Digital | Toronto, ON; on-site | via grok-job-hunter--2026-11-02--v5.md |
 
 </details>
 
-### Other jobs (78)
+### Other jobs (77)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 78 postings</strong></summary>
+<details><summary><strong>Show 77 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -361,4 +362,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T145639Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T150156Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
