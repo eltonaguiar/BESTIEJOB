@@ -380,10 +380,11 @@ All **108 selected posting links** are indexed below by original reported public
 | 2026-09-09 | [Senior Project Manager/Leader - ServiceNow / ITSM - Randstad](https://www.randstad.ca/jobs/senior-project-managerleader_toronto_47414563/) | Canada: Toronto; hybrid, up to three office days | Six-month contract | Detail listed | 2026-12-21T00:00:00+0000 (JobPosting validThrough (listing validity)) |
 | 2026-09-01 | [ServiceNow Administrator/Developer (J0826-2028) - CGI](https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-2028&BRID=&lang=1) | Canada: downtown Toronto; hybrid, min 4 days/week onsite | Full-time | Accepting (employer Njoyn Apply), checked 2026-10-31 by Job hunter | 2026-11-30 (JobPosting validThrough (listing validity)); CAD 80,000-130,000; CSA+CAD+CIS mandatory |
 
-#### Older active/history exceptions (8)
+#### Older active/history exceptions (9)
 
 | Posted | Role / employer | Location / arrangement | Employment | Current source status | Expiry / explicit deadline |
 |---|---|---|---|---|---|
+| 2026-08-31 (older than 60d) | [Workflow Automation Developer (WORKF001999) - Stikeman Elliott LLP](https://recruiting.ultipro.ca/SES5000SELLP/JobBoard/9cea37d8-40ac-4583-84aa-5469ad18b526/OpportunityDetail?opportunityId=fac9db73-486d-4760-b98e-a53208c36588) | Canada: Toronto (financial district) | Full-time | Accepting (employer UKG/UltiPro board), checked 2026-11-01; LinkedIn 4459202581 repost | CAD 100,000-110,000; ServiceNow + Power Platform + C#/.NET/SQL; existing vacancy |
 | 2026-08-31 (older than 60d) | [ServiceNow Scrum Architect (379) - iTech AG](https://jobs.jobvite.com/itechag/job/olaJAfwy) | USA: U.S. remote / Arlington, Virginia employ[+113416 bytes at .content[1].resource.text]
 
 
