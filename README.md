@@ -5,25 +5,28 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (60)](#servicenow-jobs-60)
-  - [Salesforce jobs (60)](#salesforce-jobs-60)
-  - [Other jobs (60)](#other-jobs-60)
+  - [ServiceNow jobs (65)](#servicenow-jobs-65)
+  - [Salesforce jobs (62)](#salesforce-jobs-62)
+  - [Other jobs (62)](#other-jobs-62)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **180 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **189 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (60)
+### ServiceNow jobs (65)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 60 postings</strong></summary>
+<details><summary><strong>Show postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-02 | [ServiceNow Discovery Developer](https://jobs.scotiabank.com/job/Toronto-ServiceNow-Discovery-Developer-ON-M1L4S2/602442317/) | Scotiabank | Toronto, ON (M1L 4S2) | Employer ATS live, verified 2026-11-02 (posting date not disclosed); CIS-Discovery cert direct match |
+| 2026-11-02 | [Technical Specialist](https://jobs.rogers.com/job/Markham-Technical-Specialist-ON/1438290600/) | Rogers | Markham, ON | Employer ATS live, verified 2026-11-02 (posting date not disclosed); ServiceNow + Salesforce named in description |
+| 2026-11-02 | [Sr Platform Specialist](https://jobs.rogers.com/job/Calgary-Sr-Platform-Specialist-AB/1418156900/) | Rogers | Calgary, AB | Employer ATS live, verified 2026-11-02 (posting date not disclosed); ServiceNow named in description |
 | 2026-11-02 | [ServiceNow Developer](https://www.adzuna.ca/details/5926069932) | Zaelab | Montreal, QC | ServiceNow practice role; configuring and supporting ServiceNow solutions Adzuna 5926069932 |
 | 2026-11-01 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow Adzuna 5948954490 |
 | 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948976549?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Québec | ServiceNow Adzuna 5948976549 — distinct req from the Drummondville pair already listed |
@@ -80,21 +83,25 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-30 | [ServiceNow AIOps Architect.](https://www.adzuna.ca/details/5947169710) | BULL-IT SOLUTIONS LTD | Toronto, Ontario | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-30 | [Senior ServiceNow Developer & Architect to support a modernization of a management capability for](https://www.adzuna.ca/details/5947169371?utm_medium=api&utm_source=54ce986e) | S.i. Systems | Canada | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-30 | [Senior ServiceNow Developer](https://www.adzuna.ca/details/5947169087?utm_medium=api&utm_source=54ce986e) | A3 Irving Energy Inc | New Brunswick, Canada | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
+| 2026-10-30 | [IT Operations Analyst II - Host Operations (R_1494765)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/740-Progress-Avenue-Toronto-Ontario/IT-Operations-Analyst-II_R_1494765-1) | TD | Toronto, ON (740 Progress Ave) | TD Workday, "Posted 3 Days Ago" on 2026-11-02; ServiceNow named in description |
 | 2026-10-30 | [Manager IT Service Management (ITSM) (job 1209) - WSIB](https://wsib-iaepup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1209) | Toronto, ON; on-site | Permanent full-time | $116,000-$145,000 LIVE: Oracle HCM API record, posted 2026-10-30 2026-11-15 |
 | 2026-10-30 | [Manager - ServiceNow](https://www.adzuna.ca/details/5947366387?utm_medium=api&utm_source=54ce986e) | KPMG | Montréal, Québec | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-30 | [Information Technology Service Management (ITSM) Analyst (JR100183) - CAAT Pension Plan](https://caatpension.wd10.myworkdayjobs.com/Careers/job/Toronto-ON/ITSM-Analyst_JR100183) | Canada: Toronto; hybrid | Full-time | Accepting (ATS) Not disclosed |
 | 2026-10-30 | [Conseiller technique principal ServiceNow](https://www.adzuna.ca/details/5947177797?utm_medium=api&utm_source=54ce986e) | Bell | Toronto, Ontario | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
+| 2026-10-29 | [Senior Consultant, Employee Technology Services (2621393)](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Senior-Consultant--Employee-Technology-Services_2621393) | CIBC | Toronto, ON | CIBC Workday, "Posted 4 Days Ago" on 2026-11-02; ServiceNow named in description |
 
 </details>
 
-### Salesforce jobs (60)
+### Salesforce jobs (62)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 60 postings</strong></summary>
+<details><summary><strong>Show postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-02 | [DevOps Engineer (Salesforce)](https://jobs.scotiabank.com/job/Toronto-DevOps-Engineer%28Salesforce%29-ON-M5H-1A1/606915617/) | Scotiabank | Toronto, ON | Employer ATS live, verified 2026-11-02 (posting date not disclosed) |
+| 2026-11-02 | [Senior Manager, Salesforce Engineering](https://jobs.scotiabank.com/job/Toronto-Senior-Manager%2C-Salesforce-Engineering-ON-M5A-3X5/606845217/) | Scotiabank | Toronto, ON | Employer ATS live, verified 2026-11-02 (posting date not disclosed) |
 | 2026-11-02 | [Senior Salesforce Technical Consultant](https://www.adzuna.ca/details/5950547938) | CYNET SYSTEMS | Mississauga, Peel region |  |
 | 2026-11-02 | [Senior Consultant - Salesforce](https://www.adzuna.ca/details/5950543320) | fusionSpan | Toronto, Ontario |  |
 | 2026-11-02 | [Salesforce Functional Manager](https://ca.linkedin.com/jobs/view/salesforce-functional-manager-at-kpmg-canada-4434210237) | KPMG Canada | Montreal, Quebec, Canada |  |
@@ -158,11 +165,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (60)
+### Other jobs (62)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 60 postings</strong></summary>
+<details><summary><strong>Show postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -226,6 +233,8 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-01 | [BI Engineer](https://www.adzuna.ca/details/5949577037) | Four Seasons | Toronto, Ontario | Data / BI adzuna |
 | 2026-11-01 | [Advanced Deployment Technical Consultant](https://www.adzuna.ca/details/5948974291?utm_medium=api&utm_source=54ce986e) | Hewlett Packard Enterprise | Greater Vancouver, BC | Technical consulting / deployment Adzuna 5948974291 |
 | 2026-11-01 | [AI Fullstack Engineer (Senior Associate) - Canada](https://www.adzuna.ca/details/5949577731) | Huron Consulting Group | Toronto, Ontario | Python adzuna |
+| 2026-10-28 | [Software Developer (Automations / AI / DevOps) (R260022970)](https://bmo.wd3.myworkdayjobs.com/External/job/Mississauga-ON-CAN/Software-Developer----Automations--AI--Dev-Ops-_R260022970) | BMO | Mississauga, ON | BMO Workday, "Posted 5 Days Ago" on 2026-11-02; Salesforce named; automation engineering |
+| 2026-10-27 | [Senior I&IT Business Analyst (req 117337)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117337) | Metrolinx | Canada (GTA) | Metrolinx Oracle CE API, PostedDate 2026-10-27; I&IT BA role |
 
 </details>
 
