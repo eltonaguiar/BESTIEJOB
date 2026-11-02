@@ -1,11 +1,11 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T150946Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T151256Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (244)](#servicenow-jobs-244)
+  - [ServiceNow jobs (245)](#servicenow-jobs-245)
   - [Salesforce jobs (274)](#salesforce-jobs-274)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -14,13 +14,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **918 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **919 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (244)
+### ServiceNow jobs (245)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 244 postings</strong></summary>
+<details><summary><strong>Show 245 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -212,6 +212,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-21 | [ServiceNow Technical Lead](https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1) | CAAT Pension Plan | Toronto, ON | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-21 | [ServiceNow Technical Consultant (00070336611) - Cognizant](https://careers.cognizant.com/ca-en/jobs/00070336611/servicenow-technical-consultant/) | Canada: Toronto, 199 Bay St; hybrid | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-21 | [ServiceNow System Administrator (397) - iTech AG](https://jobs.jobvite.com/itechag/job/oswZAfwh) | USA: U.S. remote / Arlington, Virginia employer listing; not Canada remote | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
+| 2026-10-21 | [ServiceNow Senior Technical Consultant](https://careers.cognizant.com/us-en/jobs/00070349441/servicenow-senior-technical-consultant/) | Cognizant | Toronto, ON (199 Bay St) / WFH | via grok-job-hunter--2026-11-02--v15.md |
 | 2026-10-21 | [ServiceNow Platform Developer (396) - iTech AG](https://jobs.jobvite.com/itechag/job/obvZAfwZ) | USA: U.S. remote / Arlington, Virginia employer listing; not Canada remote | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-21 | [ServiceNow Developer (CONTRACT ROLE)](https://www.adzuna.ca/details/5936503036) | Brookfield Properties | Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-21 | [ServiceNow Developer (CONTRACT ROLE)](https://www.adzuna.ca/details/5936490369) | Brookfield | Canada | via buffy-third-round--2026-11-02--v4.md |
@@ -900,6 +901,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-29 | [NetSuite Implementation Consultant](https://www.adzuna.ca/details/5946001248?utm_medium=api&utm_source=54ce986e) | RSM Canada LLP | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [NetSuite Consulting Supervisor - Technology, Media & Telecomm (TMT)](https://www.adzuna.ca/details/5945996893?utm_medium=api&utm_source=54ce986e) | RSM Canada LLP | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [Marketing Operations Analyst (8333965) - D2L](https://www.d2l.com/careers/jobs/?job_id=8333965&gh_jid=8333965) | Canada: Canada; remote status needs employer confirmation | Not disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
+| 2026-10-29 | [Manager, IT Support - Toronto](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Manager--IT-Support---Toronto_R-6484) | TMX Group | Toronto, ON (100 Adelaide St W) | via grok-job-hunter--2026-11-02--v15.md |
 | 2026-10-29 | [Incident Management, Lead (Bilingual)](https://www.adzuna.ca/details/5946006690?utm_medium=api&utm_source=54ce986e) | Interac | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-29 | [Incident Management Lead](https://www.adzuna.ca/details/5946001005?utm_medium=api&utm_source=54ce986e) | Altis Technology | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-29 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Worldwide | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
@@ -928,6 +930,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-26 | [Technical Business Analyst- FIS Quantum](https://www.adzuna.ca/details/5942233469?utm_medium=api&utm_source=54ce986e) | Nexgen HR and Tech Solutions Inc. | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-26 | [Staff Incident Response Engineer](https://www.adzuna.ca/details/5942366139?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-26 | [Senior Change Management Lead – HR Technology Transformation](https://www.adzuna.ca/details/5942785088?utm_medium=api&utm_source=54ce986e) | Recrute Action | Church and Wellesley, City of Toronto | via other-expansion--2026-11-02--v3.md |
+| 2026-10-26 | [Senior Business Application Analyst](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Business-Application-Analyst_R_1511786) | TD | Toronto, ON | via grok-job-hunter--2026-11-02--v15.md |
 | 2026-10-26 | [Senior Business Analyst, Change Management](https://www.adzuna.ca/details/5942113511?utm_medium=api&utm_source=54ce986e) | Peoples Group 2025 | Toronto Dominion Centre, City of Toronto | via other-expansion--2026-11-02--v3.md |
 | 2026-10-26 | [Full Stack Developer](https://www.adzuna.ca/details/5942199334) | Infinity Solutions | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-26 | [Event Deviation Change Management Expert](https://www.adzuna.ca/details/5942366308?utm_medium=api&utm_source=54ce986e) | BioTalent Canada | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
@@ -960,10 +963,8 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-21 | [Service Desk Consultant](https://www.adzuna.ca/details/5936494479?utm_medium=api&utm_source=54ce986e) | Deltera | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-21 | [Senior Business Analyst, Portfolio Servicing Platform (12-Month Contract)](https://www.adzuna.ca/details/5936496496?utm_medium=api&utm_source=54ce986e) | OMERS | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-21 | [Principal Consultant, NetSuite](https://www.adzuna.ca/details/5936636842?utm_medium=api&utm_source=54ce986e) | Myers-Holum | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
+| 2026-10-20 | [Information Security Specialist (Vulnerability Management Data Insights & Reporting)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Vulnerability-Management-Data-Insights---Reporting---_R_1514694) | TD | Toronto, ON | via grok-job-hunter--2026-11-02--v15.md |
 | 2026-10-19 | [Staff Site Reliability Engineer](https://www.adzuna.ca/details/5934412986) | ServiceNow | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-19 | [Manager, UKG Pro WFM Functional Solution Architect](https://www.adzuna.ca/details/5934760672?utm_medium=api&utm_source=54ce986e) | KPMG | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-18 | [PeopleSoft Developer](https://www.adzuna.ca/details/5933062888?utm_medium=api&utm_source=54ce986e) | Insight Global | London, Middlesex | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-15 | [Dayforce Consultant](https://www.adzuna.ca/details/5929020235?utm_medium=api&utm_source=54ce986e) | ExcelGens, Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 
 </details>
 
@@ -1033,4 +1034,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T150946Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T151256Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
