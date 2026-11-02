@@ -1,11 +1,11 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T163502Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T163642Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (249)](#servicenow-jobs-249)
+  - [ServiceNow jobs (251)](#servicenow-jobs-251)
   - [Salesforce jobs (279)](#salesforce-jobs-279)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -14,13 +14,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **928 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **930 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (249)
+### ServiceNow jobs (251)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 249 postings</strong></summary>
+<details><summary><strong>Show 251 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -161,6 +161,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-28 | [ServiceNow System Administrator](https://ca.linkedin.com/jobs/view/servicenow-system-administrator-at-bell-4476350097) | Bell | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-28 | [ServiceNow Solutions Developer - Bright Vision Technologies](https://brightvisiontechnologies.applytojob.com/apply/tiOdUW4vF9/ServiceNow-Solutions-Developer) | USA: Remote USA only; confirm work authorization/sponsorship and state eligibility. | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-28 | [ServiceNow Platform Specialist](https://ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483654163) | Alimentiv | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
+| 2026-10-28 | [ServiceNow Implementation Specialist (79604)](https://jobs.telusdigital.com/en_US/MoroccoCareers/PipelineDetail/ServiceNow-Implementation-Specialist/79604) | TELUS Digital | Canada remote (home office) | via grok-job-hunter--2026-11-02--v35.md |
 | 2026-10-28 | [ServiceNow Engineer - Strategic Portfolio Management (SPM) (RQ230422) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-FL-MacDill-AFB/ServiceNow-Engineer---Strategic-Portfolio-Management--SPM-_RQ230422-1) | USA: MacDill AFB, Florida; onsite, potential four onsite/one remote day | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-28 | [ServiceNow Developer Principal (RQ230501) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Principal_RQ230501-1) | USA: USA; remote | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-28 | [ServiceNow Developer Principal](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Principal_RQ230501-1) | GDIT | Any Location / Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
@@ -270,6 +271,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-07 | [IT Business Analyst (ServiceNow)](https://ca.linkedin.com/jobs/view/it-business-analyst-servicenow-at-redpath-mining-4475459467) | REDPATH MINING | Vaughan, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-06 | [Sr. ServiceNow Developer - Stanfield Systems](https://www.dice.com/job-detail/b9f42ff7-04b1-4a10-a7b2-719970d98b8d) | USA: Remote U.S. job-board posting, no travel required; confirm eligible states and work authorization with the recruiter. | Contract | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-06 | [ServiceNow ITSM Developer](https://ca.linkedin.com/jobs/view/servicenow-itsm-developer-at-tata-consultancy-services-4474992554) | Tata Consultancy Services | Greater Toronto Area, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
+| 2026-10-04 | [Technology Consultant (NOC automation, ServiceNow ITSM)](https://jobs.ashbyhq.com/telus-digital/1b3a2564-6d3c-42aa-be74-8da0047ade63) | TELUS Digital | Toronto, ON; remote | via grok-job-hunter--2026-11-02--v35.md |
 | 2026-10-04 | [ServiceNow Discovery Developer (258467) - Scotiabank](https://jobs.scotiabank.com/job/Toronto-ServiceNow-Discovery-Developer-ON-M1L4S2/602442317/) | Canada: Toronto; office/remote pattern not disclosed | Not disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-03 | [Senior ServiceNow Engineer](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213) | Resolve Tech Solutions | US Remote - FL | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-03 | [Senior ServiceNow Developer](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1201) | Resolve Tech Solutions | US Remote - TX | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
@@ -1043,4 +1045,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T163502Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T163642Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
