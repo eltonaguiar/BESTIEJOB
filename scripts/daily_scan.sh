@@ -11,6 +11,15 @@ set -uo pipefail
 cd "$(dirname "$0")/.." || exit 1
 mkdir -p logs
 
+# Node lives in the user-local bin dir on this host, which cron's minimal PATH
+# does not include. Without this, scheduled runs died with
+# "node: command not found" (see updates/2026-11-02-daily-scan-node-path-fix.md).
+export PATH="$HOME/.local/bin:/usr/local/bin:$PATH"
+if ! command -v node >/dev/null 2>&1; then
+  NODE_BIN="$(ls -d "$HOME"/.nvm/versions/node/*/bin 2>/dev/null | sort -V | tail -1)"
+  [ -n "$NODE_BIN" ] && export PATH="$NODE_BIN:$PATH"
+fi
+
 LOG="logs/job_scan.log"
 STARTED="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
@@ -21,8 +30,21 @@ STARTED="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
   RC=$?
   echo "=== scan exit $RC at $(date -u +%Y-%m-%dT%H:%M:%SZ) ==="
 
+  if [ "$RC" -eq 0 ]; then
+    # Curated README rows (inbox merges, partner finds) must also reach the
+    # jobs.json feed, otherwise the API and app.js never see them.
+    node scripts/sync_readme_to_jobs.mjs || echo "readme sync failed (non-fatal)"
+    # Partner career pages + today-only keyword variants the aggregators miss.
+    if [ "${SCAN_GAP:-1}" = "1" ]; then
+      node scripts/gap_scan.mjs || echo "gap scan failed (non-fatal)"
+    fi
+    # The live page renders public/jobs-data.json built from README.md, so it
+    # must be rebuilt after every scan or it serves yesterday's rows.
+    python3 tools/build_site.py || echo "site build failed (non-fatal)"
+  fi
+
   if [ "$RC" -eq 0 ] && [ "${SCAN_AUTOCOMMIT:-1}" = "1" ] && [ "${1:-}" != "--dry-run" ]; then
-    FILES="jobs.json public/jobs.json public/gotjob/jobs.json public/findjobs/jobs.json FRESH_JOBS.md README.md"
+    FILES="jobs.json public/jobs.json public/gotjob/jobs.json public/findjobs/jobs.json public/jobs-data.json public/index.html FRESH_JOBS.md README.md"
     # shellcheck disable=SC2086
     git add $FILES 2>/dev/null
     if ! git diff --cached --quiet; then
