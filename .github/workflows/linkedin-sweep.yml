@@ -1,0 +1,65 @@
+name: Daily LinkedIn sweep
+
+# Pulls fresh ServiceNow / Salesforce / ITSM postings from LinkedIn's public
+# guest search endpoint, writes an inbox submission, merges it into README.md
+# and rebuilds the Pages data. Single daily run, never on push, so it cannot
+# queue up behind itself.
+
+on:
+  schedule:
+    - cron: '20 11 * * *'   # 11:20 UTC = 06:20 America/Toronto
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: linkedin-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install curl_cffi
+
+      - name: Sweep LinkedIn and merge
+        run: python3 scripts/linkedin_guest_scan.py --days 3 --apply --max-per-table 150
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          git config user.name "bestiejob-sweep"
+          git config user.email "bestiejob-sweep@users.noreply.github.com"
+          git add -A README.md README.BAK_*.md inbox public raw 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "no new postings today"
+            exit 0
+          fi
+          git commit -m "chore(scan): daily LinkedIn sweep $(date -u +%Y-%m-%d) [skip ci]"
+          for i in 1 2 3 4; do
+            git fetch -q origin main
+            git rebase -q origin/main || {
+              git checkout origin/main -- README.md
+              python3 tools/jobs_merge_inbox.py --max-per-table 150
+              python3 tools/build_site.py
+              git add README.md public inbox tools
+              GIT_EDITOR=true git rebase --continue
+            }
+            if git push -q origin HEAD:main; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::could not push after retries"
+          exit 1
