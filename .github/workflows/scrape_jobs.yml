@@ -3,38 +3,33 @@ name: Scrape Jobs
 on:
   workflow_dispatch:
     inputs:
-      mode:
-        description: "Scrape mode"
+      playwright:
+        description: "Enable Playwright fallback for LinkedIn"
         required: false
-        default: "comprehensive"
-        type: choice
-        options:
-          - comprehensive
-          - quick
-          - ats-only
-      keywords:
-        description: "Keywords to search (comma-separated)"
-        required: false
-        default: "software developer,data analyst,full stack"
-      location:
-        description: "Location to search"
-        required: false
-        default: "Toronto, ON"
+        default: false
+        type: boolean
   schedule:
-    # Run every 30 minutes for fresh jobs
-    - cron: "*/30 * * * *"
+    # Daily at 11:20 UTC (07:20 ET) — the scanner replaces the old 30-minute loop,
+    # which queued runs faster than they could finish and rarely changed the data.
+    - cron: "20 11 * * *"
   push:
     branches:
       - main
     paths:
       - 'scrapers/**'
-      - 'scripts/**'
+      - 'scripts/daily_job_scan.mjs'
+
+concurrency:
+  group: scrape-jobs
+  cancel-in-progress: false
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-    
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -48,107 +43,37 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install Playwright (for browser fallback)
-        run: npx playwright install chromium
+      - name: Install Playwright Chromium
+        if: github.event_name == 'schedule' || inputs.playwright
+        run: npx playwright install --with-deps chromium
         continue-on-error: true
 
-      - name: Run Comprehensive Scraper
+      - name: Run daily job scan
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_API_KEY: ${{ secrets.ADZUNA_API_KEY }}
           NODE_ENV: production
-        run: node scripts/comprehensive_scrape.mjs
-        continue-on-error: true
-
-      - name: Run ATS API Scraper (backup)
-        if: always()
         run: |
-          node -e "
-            import('./scrapers/ats_api_scraper.js')
-              .then(m => m.fetchAllATSJobs())
-              .then(jobs => {
-                const fs = require('fs');
-                const existing = JSON.parse(fs.readFileSync('jobs.json', 'utf8') || '[]');
-                const combined = [...jobs, ...existing];
-                const seen = new Set();
-                const unique = combined.filter(j => {
-                  const key = j.id || (j.title + j.company);
-                  if (seen.has(key)) return false;
-                  seen.add(key);
-                  return true;
-                });
-                fs.writeFileSync('jobs.json', JSON.stringify(unique, null, 2));
-                console.log('Saved', unique.length, 'jobs');
-              })
-              .catch(console.error);
-          "
-        continue-on-error: true
+          if [ "${{ inputs.playwright }}" = "true" ]; then
+            node scripts/daily_job_scan.mjs --playwright
+          else
+            node scripts/daily_job_scan.mjs
+          fi
 
-      - name: Copy to public directories
-        run: |
-          mkdir -p public/findjobs public/gotjob
-          cp jobs.json public/jobs.json 2>/dev/null || true
-          cp jobs.json public/findjobs/jobs.json 2>/dev/null || true
-          cp jobs.json public/gotjob/jobs.json 2>/dev/null || true
-
-      - name: Generate job stats
-        run: |
-          node -e "
-            const fs = require('fs');
-            const jobs = JSON.parse(fs.readFileSync('jobs.json', 'utf8'));
-            const now = new Date();
-            
-            const stats = {
-              total: jobs.length,
-              sources: {},
-              recent: {
-                last15min: 0,
-                last30min: 0,
-                lastHour: 0,
-                last4hours: 0,
-                last24hours: 0
-              },
-              lastUpdated: now.toISOString()
-            };
-            
-            for (const job of jobs) {
-              // Count by source
-              const src = job.source || 'unknown';
-              stats.sources[src] = (stats.sources[src] || 0) + 1;
-              
-              // Count by recency
-              const posted = new Date(job.postedDate || job.scrapedAt);
-              const diffMinutes = (now - posted) / (1000 * 60);
-              
-              if (diffMinutes <= 15) stats.recent.last15min++;
-              if (diffMinutes <= 30) stats.recent.last30min++;
-              if (diffMinutes <= 60) stats.recent.lastHour++;
-              if (diffMinutes <= 240) stats.recent.last4hours++;
-              if (diffMinutes <= 1440) stats.recent.last24hours++;
-            }
-            
-            console.log('📊 Job Statistics:');
-            console.log(JSON.stringify(stats, null, 2));
-            
-            fs.writeFileSync('job_stats.json', JSON.stringify(stats, null, 2));
-          "
-
-      - name: Commit and push results
+      - name: Commit refreshed job data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git add jobs.json job_stats.json public/
-          
+
+          git add jobs.json public/jobs.json public/gotjob/jobs.json public/findjobs/jobs.json FRESH_JOBS.md README.md
+
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          
-          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
-          JOB_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('jobs.json')).length)")
-          
-          git commit -m "🔄 Update jobs: ${JOB_COUNT} listings (${TIMESTAMP})"
+
+          JOB_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('jobs.json','utf8')).jobs.length)")
+          git commit -m "chore(jobs): daily scan refresh (${JOB_COUNT} listings, $(date -u +%Y-%m-%d))"
           git push
 
       - name: Deploy to FTP (optional)
