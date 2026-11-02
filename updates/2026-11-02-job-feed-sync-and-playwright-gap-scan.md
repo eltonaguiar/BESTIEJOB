@@ -200,3 +200,31 @@ Checked after the report that other agents' work was missing from `main` / Pages
   files, then merged at `--max-per-table 800` so no existing row was archived:
   `removed: 0, added: 21`, `check_site_links.py` OK, page 849 cards, then pushed
   to `main` to trigger the Pages deploy.
+
+## Deploy #2: critical jobs, and the real reason nothing reflected
+
+- **`critical_buffy_2026-11-02.MD`** records the 13 verified ServiceNow /
+  Salesforce roles that were in `jobs.json` but in neither `README.md` nor
+  `APPLIED.md` — the feed had them and the page did not. Every link returned HTTP
+  200 at capture time, agency mirrors of the same requisition were collapsed
+  (ATB/ATB Financial, four WSIB city variants, AIM's EN+FR pair), and the file
+  carries a "deliberately excluded" table (Lane Four's undated pair, two 403
+  pages, Salesforce-the-vendor GTM roles, French-gated Ateko roles). The same
+  rows ship as `inbox/buffy-critical--2026-11-02--v1.md` so a peer can re-merge
+  them with one command.
+- **Root cause of the chronic "my work never reflects" reports.** The hourly run
+  at 23:10Z failed on `git push`: `! [rejected] main -> main (fetch first)` —
+  peer agents push to main mid-run, so the job's data was stranded locally. The
+  same run also tried to commit a **104,208-line deletion** of `jobs.json`
+  because it rebuilt the feed from scanner sources alone. `hourly-scan.yml` now
+  rebases once and retries the push, and the README→feed sync step prevents the
+  shrink.
+- **Two rebases during this deploy conflicted** in `README.md` / `jobs.json` /
+  `public/*`. Both were resolved by taking upstream's data files and re-running
+  merge → build → sync, which regenerates every row from `inbox/`. That is why
+  the inbox, not the README, is the source of truth.
+- **Final state:** `main` = `17d0d8b` · README 1,021 rows with the Pages banner ·
+  page 860 cards · Pages deploy success for `17d0d8b` · live
+  `jobs-data.json` 860 cards, 71 posted today, with WSIB ITSM Manager, CloudKettle
+  Industries architect, ProperExpression RevOps and NeuraFlash Agentforce all
+  present on the deployed site.
