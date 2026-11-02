@@ -384,7 +384,7 @@ Forum: **2026-11-03, Metro Toronto Convention Centre, 8:30–17:00**. The offici
 
 The 404s are **entry-point failures, not evidence of no vacancies** — all six were running ServiceNow/Salesforce postings on Adzuna within the last 7 days. Their real ATS URLs still need discovering individually.
 
-### Posted 2026-11-01 - employer requisitions verified 2026-11-02
+### Posted 2026-11-01 and 2026-10-31 - employer requisitions verified 2026-11-02
 
 Added on top of the Adzuna and LinkedIn blocks above. Same LinkedIn guest-API date source (`datetime` per job card), but each row here also carries a live employer requisition retrieved 2026-11-02, which is the strongest evidence available because Deloitte's requisition pages render their own publication dates client-side and expose nothing server-side. Newest first; duplicate URLs already present elsewhere in this README are omitted.
 
