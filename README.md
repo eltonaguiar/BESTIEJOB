@@ -233,6 +233,18 @@ No Alteryx-titled or Tableau-titled posting appeared in the three-day window; th
 
 Eleven rows from `kilo/2026-11-02-sn-sf-expanded` (iA Financial architect, CGI Montréal developer, Altus BA, Macpower architect, four Epsilon Toronto roles, Hour Consulting SFMC QA, ApTask production support, GTT technical PM) did not appear in this README before this scan and are now integrated above or in the sections that follow; `kilo/2026-11-02-sn-sf-scan` added nothing new because its 13 rows were already present. `buffy/2026-11-02-nov1-requisitions` contributed the CGI ServiceNow Business System Architect and Deloitte Now Assist cards, plus Deloitte employer requisitions `133759` / `133770` that corroborate the two LinkedIn cards. The older October-30 branches (`zoo/2026-10-30`, `auto/2026-10-30`, `kilo/2026-10-30`, `opencode-2026-10-30`, `buffy-2026-10-30`, the `Copilot/*` set) still hold Adzuna-sourced rows absent from this file; they remain the discovery queue described in the 2026-11-01 addendum and were not re-verified today.
 
+## 2026-11-02 morning hunt - net-new employer-verified roles (Grok Bot)
+
+**Checked: 2026-11-02 ~08:30 ET.** LinkedIn guest search (72h, 30 keywords incl. hidden-title terms), web/board search, then each lead opened on the employer ATS. Rows sorted newest employer posted date first. Only roles not already in this README.
+
+| Posted (employer record) | Role / employer | Location / arrangement | Employment | Salary | Source status | Closing |
+|---|---|---|---|---|---|---|
+| 2026-10-30 | [Manager IT Service Management (ITSM) (job 1209) - WSIB](https://wsib-iaepup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1209) | Toronto, ON; on-site | Permanent full-time | $116,000-$145,000 | LIVE: Oracle HCM API record, posted 2026-10-30 | 2026-11-15 |
+| 2026-10-02 | [ServiceNow Business System Architect (J0926-2617) - CGI](https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2617&BRID=&lang=1) | Toronto, ON (main); alt Ottawa, Calgary, Montreal | Full-time | $95,000-$145,000 | LIVE: njoyn JobPosting datePosted 2026-10-02, validThrough 2026-12-31; LinkedIn refresh 2026-10-31 | 2026-12-31 |
+| 2026-08-27 | [RevOps Workflow Automation Manager (VN43206) - Sage](https://sagehr.my.salesforce-sites.com/careers/fRecruit__ApplyJob?vacancyNo=VN43206) | Toronto, ON; hybrid, 3 days/week on-site | Full-time | $110,000-$135,000 + bonus | LIVE: Sage careers page HTTP 200, datePosted 2026-08-27; LinkedIn refresh 2026-10-31 | Not disclosed |
+
+Fit: CGI asks for CSA **or** a CIS (ITSM / Discovery / Service Mapping / Event Mgmt / SAM), CMDB, Flow Designer, integrations - different req from CGI J0826-2028 already listed. WSIB is a people-manager ITSM role needing ITIL Foundation (held) and COBIT Foundation (not held) - reach. Sage lists Salesforce Flow / ServiceNow / Workato as preferred automation platforms - adjacent.
+
 ## 2026-11-02 employer-ATS sweep - ServiceNow and Salesforce (Toronto / Canada remote)
 
 **Checked: 2026-11-02 | Agent: Buffy.**
