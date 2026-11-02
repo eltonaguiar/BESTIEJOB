@@ -57,6 +57,20 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## 2026-11-02 ~13:30 UTC LinkedIn last-24h sweep — 5 net-new postings (newest first)
+
+Direct LinkedIn guest-API sweep (`f_TPR=r86400`, ServiceNow + Salesforce keywords, Toronto + Canada) at ~13:30 UTC, deduplicated against every table in this README. Job Bank Canada was also re-swept: no new official SN/SF record newer than the Oct-31 Kativik row already listed. Board-sourced, not employer-ATS-verified.
+
+| Posted | Role | Company | Location | Relevance | Source |
+|---|---|---|---|---|---|
+| 2026-11-02 | [Program Implementation Manager](https://ca.linkedin.com/jobs/view/program-implementation-manager-at-teqfocus-4485484868) | Teqfocus | Markham, ON | Salesforce partner delivery (Salesforce named in description) | LinkedIn 4485484868 |
+| 2026-11-02 | [Incident Response Specialist](https://ca.linkedin.com/jobs/view/incident-response-specialist-at-swoon-4485427505) | Swoon | Toronto, ON | ITSM incident management (98 mentions of "incident" in description) | LinkedIn 4485427505 |
+| 2026-11-02 | [Specialist, Marketing Technology (12-month contract)](https://ca.linkedin.com/jobs/view/specialist-marketing-technology-12-month-contract-at-agf-investments-4452505102) | AGF Investments | Toronto, ON | Salesforce/CRM martech stack | LinkedIn 4452505102 |
+| 2026-11-02 | [Senior Manager, Customer Success Applications](https://ca.linkedin.com/jobs/view/senior-manager-customer-success-applications-at-clio-4433416948) | Clio | Toronto, ON | Salesforce/CS platform ownership | LinkedIn 4433416948 |
+| 2026-11-02 | [Analyste - Administrateur de plateforme - Écosystème marketing](https://ca.linkedin.com/jobs/view/analyste-administrateur-de-plateforme-%C3%A9cosyst%C3%A8me-marketing-at-chrome-technologies-4485475284) | Chrome Technologies | Longueuil, QC | Platform administrator (marketing ecosystem) | LinkedIn 4485475284 |
+
+Also re-confirmed in this sweep (already listed above/below): KPMG Salesforce Functional Manager, Tru SFMC QA, JAM CRM Marketing Automation Developer, Hydro One Data/Report Analyst (all Nov 2); the eight Deloitte DTC ServiceNow/Salesforce cards (Nov 1) including Director Salesforce Delivery & Architecture, ITOM/Discovery Senior Consultant and CSM Process Lead Architect.
+
 ## Other jobs — resume keyword matches
 
 Resume-relevant keywords beyond ServiceNow/Salesforce: PowerShell, VBA/Excel, Alteryx, Python, Data/BI, Tableau/Power BI, SQL Server, JIRA/Confluence, ITAM, ITOM, GitHub/CI-CD. Aggregator-sourced (Adzuna CA), not employer-ATS-confirmed — open the Apply page before applying. Scanned 2026-11-02.
