@@ -129,6 +129,20 @@ Found **18 genuine postings**: **5 ServiceNow** + **13 Salesforce** = **14 poste
 | 2026-10-31 | [Software Engineer Salesforce Marketing Cloud](https://www.adzuna.ca/details/5948027140?utm_medium=api&utm_source=54ce986e) | Hour Consulting Corporation | Toronto, Ontario | Salesforce | Adzuna 5948027140 |
 | 2026-10-31 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5947998738?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Caledon, Peel region | Salesforce | Adzuna 5947998738 |
 
+### Job Bank Canada official records — posted 2026-11-01 (added 2026-11-02)
+
+Government of Canada [Job Bank](https://www.jobbank.gc.ca) employer-filed records, found via `searchstring=salesforce&sort=D`. These corroborate the CloudKettle Adzuna rows above with **official posting dates and disclosed salary bands**. Job Bank shows generic NOC titles only, so a 1-to-1 mapping to CloudKettle's named roles (Revenue Cloud / Industries Cloud / Marketing Cloud architect) could not be established from the records alone.
+
+| Posted (Job Bank) | NOC title | Employer | Location | Salary | Source |
+|---|---|---|---|---|---|
+| 2026-11-01 | architect | CloudKettle Inc | Toronto, ON | $135,000–$150,000/yr | [Job Bank 50631252](https://www.jobbank.gc.ca/jobsearch/jobposting/50631252) |
+| 2026-11-01 | cloud architect | CloudKettle Inc | Toronto, ON | $135,000–$150,000/yr | [Job Bank 50631185](https://www.jobbank.gc.ca/jobsearch/jobposting/50631185) |
+| 2026-11-01 | cloud architect | CloudKettle Inc | Toronto, ON | $135,000–$150,000/yr | [Job Bank 50631248](https://www.jobbank.gc.ca/jobsearch/jobposting/50631248) |
+| 2026-11-01 | cloud architect | CloudKettle Inc | Toronto, ON | $110,000–$140,000/yr | [Job Bank 50631226](https://www.jobbank.gc.ca/jobsearch/jobposting/50631226) |
+| 2026-11-01 | cloud architect | CloudKettle Inc | Toronto, ON | $110,000–$140,000/yr | [Job Bank 50631214](https://www.jobbank.gc.ca/jobsearch/jobposting/50631214) |
+
+Excluded from the table: two CloudKettle **account executive** records (50631212, 50631181, $120,000/yr) — sales roles, out of platform-developer/admin scope. The `searchstring=servicenow` sweep returned one marginal match: [programmer analyst — Kativik Ilisarniliriniq](https://www.jobbank.gc.ca/jobsearch/jobposting/50621515) (posted 2026-10-31, ServiceNow named in the description only).
+
 ---
 
 ## 2026-11-01 recovered README addition - Copilot review
