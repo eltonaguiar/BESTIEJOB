@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-02T13:09:18.120Z** · 266 live postings from 10 public sources · 6 dated 2026-11-02 · 19 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-02T13:24:15.684Z** · 266 live postings from 10 public sources · 19 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -96,8 +96,43 @@ Additional platform roles surfaced via expanded web search (Adzuna CA / Job Bank
 | Contract | [Solution Architect – Salesforce Service Cloud Voice, Amazon Connect & Contact Center](https://www.adzuna.ca/details/5863655219) | Astra North Infoteck Inc. | Toronto, ON | Salesforce + Amazon Connect voice/contact-center architecture | Adzuna 5863655219 |
 | 5 days ago | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5844364247) | CloudKettle Inc | Toronto, ON | Revenue Cloud architecture, implementation, customization | Adzuna 5844364247 |
 | 2026-02-22 | [Salesforce Developer](https://www.adzuna.ca/details/5806491492) | — | — | $100,000–$125,000 USD annually | Adzuna 5806491492 |
+| 1 day ago | [ServiceNow Developer (CONTRACT ROLE)](https://www.workopolis.com/jobsearch/viewjob/mlf86vzCrtBlYfuYgboVWalNjO2lBLSrPVLa_wj1_xYOybiBNiBiZBByCbUPuvI6) | Brookfield Asset Management | Toronto, ON | Nov 2026–Jun 2027 contract; CSA required; ITSM/ITOM/HRSD/CSM | Workopolis |
+| 2026-10-28 | [ServiceNow Architect](https://www.jobs.ca/tekshapers/jobs/servicenow-architect-toronto-on-b6507928d0da) | Tekshapers | Toronto, ON | Posted Oct 28, 2026; AIOps/ITOM/CMDB/Event Management/Discovery | Jobs.ca |
+| 2026-10-29 | [ServiceNow Architect](https://www.jobs.ca/tata-consultancy-services/jobs/servicenow-architect-toronto-on-ec39ec076eb4) | Tata Consultancy Services | Toronto, ON | Posted Oct 29, 2026; CA$100,000–CA$120,000/yr; AIOps/CMDB | Jobs.ca |
+| 4 days ago | [Senior ServiceNow Architect – SPM Strategy Leader](https://en-ca.whatjobs.com/jobs/servicenow-architect) | Bell | Toronto, ON | Strategic Portfolio Management architecture; CSDM/CMDB/Discovery | WhatJobs |
+| — | [ServiceNow Administrator / Automation Analyst](https://www.workopolis.com/jobsearch/viewjob/93Zl-fPhM2ULVfijLpe-ZE3AAHgRVGPrWSaVGRy0lWyQR4HcNf8xDBIYc_yknSrA) | Harris Computer Systems | Ontario | CSA; ITSM; Virtual Agent/AI automation; IntegrationHub/REST-SOAP | Workopolis |
+| — | [ServiceNow Administrator Specialist](https://www.workopolis.com/jobsearch/viewjob/58Y0bd-szgTieG6bVN7hS3sLNQ5Dasd4FQyEVBXu3-szCMLmAZJ5BSxMAM5fY64V) | Scotiabank | Toronto, ON | 5+ yrs; Incident/Problem/Change/ITOM/CMDB/SAM; JavaScript | Workopolis |
+| — | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/Tnrml9-zQTC57pDX8AXmW1LPx5n-EWLoUMQTj9srCqUzDlUdIpFBKJyba7-PGtSb) | Levio | Toronto, ON | Permanent; CSA+CAD; ITSM/ITOM/ITAM/GRC/SecOPS/IRM/CSM | Workopolis |
+| — | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UFCvcf6MoLp) | Lightspeed Commerce, Inc. | Toronto, ON | ITSM & HRSD; GlideRecord/GlideAjax; Flow Designer; REST/SOAP | Workopolis |
+| 9 days ago | [ServiceNow Developer (ITSM Module)](https://www.workopolis.com/jobsearch/viewjob/eBO-aFOAKdIH5P5n172QtTk6nybg5ti7IRasTZUMjhtiO5xOQDBP7igfSVqmYYKB) | DXC Technology | Ottawa, ON | ITOM/ITSM/CSM; Discovery/Service Mapping/Event Management; gov't clearance | Workopolis |
+| — | [ServiceNow Systems Administrator](https://www.workopolis.com/jobsearch/viewjob/3SqnLN1WpHIWMck9nNnJDlM3wUNnn0CaJblvtHwvDY036vAYl3PW-55U44JCPPZI) | GTT, LLC | Toronto, ON | 13-month contract; CSA required; ITSM | Workopolis |
+| 2026-10-16 | [Senior Salesforce Developer / Admin](https://careers.celestica.com/job/Toronto-Senior-Salesforce-Developer-Admin-ON/1406609733) | Celestica International LP | Toronto, ON | Marketing Cloud Next/Data Cloud; PD1/PD2 preferred; hybrid | Celestica Careers |
+| 2026-10-09 | [Salesforce Revenue Cloud Architect](https://www.academicjobs.com/university-jobs/salesforce-revenue-cloud-architect/890115) | Job Target | Toronto, ON | $135,000–$150,000/yr; closes Dec 8, 2026; CPQ/Revenue Cloud | AcademicJobs |
+| — | [Technical Project Manager](https://en-ca.whatjobs.com/jobs/salesforce-sales-cloud-consultant/toronto-ontario) | CloudKettle Inc | Toronto, ON (remote) | $105,000–CA$120,000/yr; Salesforce + DevOps/Copado/GitLab | WhatJobs |
+| — | [Administrator, Salesforce – Front Office](https://en-ca.whatjobs.com/jobs/marketing-cloud/toronto-ontario) | Atlantic Packaging Products Ltd | Toronto, ON | $85,000–CA$100,000/yr; hybrid; Jira/Confluence/ServiceNow | WhatJobs |
+| Freelance | [Freelance Salesforce & HubSpot Developer](https://www.ziprecruiter.com/Jobs/Remote-Salesforce/-in-Toronto,ON) | Dentsu Aegis Network | Toronto, ON (remote) | CA$35/hr; Salesforce & HubSpot | ZipRecruiter |
+| Contract | [Salesforce Architect – Sales Cloud + Service Cloud](https://www.ziprecruiter.com/Jobs/Salesforce/-in-Toronto,ON) | Shodh Consultancy Services Inc. | Mississauga, ON | CA$100–CA$120/hr; 6-month contract, hybrid | ZipRecruiter |
 
 Toronto-focused job posting consolidator for creative / technology manager roles with a salary minimum filter.
+
+## Deeper web-search discoveries — Other resume keywords (Toronto / Canada)
+
+Resume-relevant keywords beyond ServiceNow/Salesforce surfaced via deeper Workopolis/WhatJobs/Talent.com/ZipRecruiter search on 2026-11-02: VBA, PowerShell, Alteryx, Python, SQL Server, Tableau/Power BI, JIRA/Confluence, ITAM, ITOM, GitHub/CI-CD. Aggregator/board-sourced — not employer-ATS-confirmed — open the Apply page before applying.
+
+| Posted | Role | Company | Location | Resume keyword match | Source |
+|---|---|---|---|---|---|
+| 1 hour ago | [Data Analyst co-op](https://www.workopolis.com/jobsearch/viewjob/zqM4OxUuUMzDE88PzYkCy-t36_RgxRkU55Dmsgk4lCe0hayX0v94shSa1SLth9mq) | CIBC | Toronto, ON | Python, Tableau, VBA, Alteryx, Power BI, SAS | Workopolis |
+| 2 hours ago | [Sr Analyst, Automation & Analytics](https://www.workopolis.com/jobsearch/viewjob/01FPL7ejAfkEsHa4usCecPRqSmkGblXCnsu5-zU1-fPcIx8GUXOZ6ro3irA6PYyR) | CIBC | Toronto, ON | Alteryx, VBA, Tableau, Power BI, SQL Server, Git, Jira | Workopolis |
+| — | [Developer, Business Innovation & Transformation](https://www.workopolis.com/jobsearch/viewjob/-R0oBbMLAbihNOmEt3IvQS9dnjkXA5luc_B_7ufV_uDp9k0Mtcvm13KRUj2Ae07z) | TD Bank | Toronto, ON | VBA, Python, PowerBI, Alteryx, Jira, Confluence, Databricks | Workopolis |
+| 13 hours ago | [TDS Operations Analyst II](https://www.workopolis.com/jobsearch/viewjob/NGTZAl3uavMZIduNpYetEk_qDsAM4_T1GrOEmwoJhyKmZkQ9YgbSgLV-q82h-oL0) | TD Bank | Toronto, ON | Alteryx, VBA | Workopolis |
+| — | [Engineer](https://www.workopolis.com/jobsearch/viewjob/cD6Fhk1iponUddOqXwkeQhrBn25BNKRok6vM3yrhDfr44oeSRlBgwR75BtHp6b-G) | Toronto Hydro | Toronto, ON | Python, SQL, VBA, Alteryx, Tableau | Workopolis |
+| — | [Global Equity Derivatives Operations Analyst II](https://www.workopolis.com/jobsearch/viewjob/RSmi2tgYzZmgRsvzCrqXaL7hroYXwfN1qJXmPrZ2RKdGHuWIK7KflNPSUlSXt5_F) | TD Bank | Toronto, ON | Alteryx, Tableau, Python, VBA | Workopolis |
+| 2026-10-07 | [Senior Consultant – Python Developer (Data Solutions & Analytics)](https://www.workopolis.com/jobsearch/viewjob/W6CwMfyC6ksTHhDfd6Yd3NgHY4o1ny7dbQFOyifSkFHeM7S8psstCMnGUps65mbA) | EY | Toronto, ON | Python, Pandas, SQL, Power BI, Databricks | Workopolis |
+| 12 hours ago | [Power Platform & AI Developer](https://www.workopolis.com/jobsearch/viewjob/lGEkIXvNSFvhuOhh7AB7mZDFpUBkzMGaq0ZVP2jPFRdSA8AeuC6D0dwr4WyAEcOD) | ILAC | Toronto, ON | Python, PowerShell, C#, Azure | Workopolis |
+| 11 days ago | [Business Systems Analyst, Systems & Data Transformation](https://www.workopolis.com/jobsearch/viewjob/RAlgkCFMlEdKuHL7-34vfQWiVM3NhNu2ipcXAcGyl4CVwmmM3KDAQQLa_m8-FfZd) | HSB Canada | Toronto, ON | Jira, Confluence, Power BI, Tableau, SQL Server | Workopolis |
+| 13 days ago | [DevOps Engineer-6](https://www.workopolis.com/jobsearch/viewjob/B3Tic6OH51EfF5KIY0dcfoJUhw__s1-HbO5HhkA5N5a7ukacbV9gRKth0Gv1NBiQ) | Realign LLC | Toronto, ON | GitHub, Jira, Confluence, Python, Bash, Jenkins | Workopolis |
+| 14 hours ago | [Jira Service Management Intake & Automation Developer](https://www.workopolis.com/jobsearch/viewjob/ceQjFkK_YqRhyBc6FfLwZKTmPKInfCNC71ER8eVPV4rKJVksLzmbJgvXvj02P_1Z) | Realign LLC | Toronto, ON | GitHub, PowerShell, Python, Jira, Confluence | Workopolis |
+| — | [Data Analyst](https://www.workopolis.com/jobsearch/viewjob/0PfABYQCXmtY3W27itPSvUoELBUsVmbDueE66SLWAdDusRUSfeY4Iw4Fz3XP4PaC) | Docebo | Toronto, ON | SQL, Python, Snowflake | Workopolis |
 
 ## 2026-11-02 afternoon scan — same-day postings verified + resume-matched "Other jobs"
 
