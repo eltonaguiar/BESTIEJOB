@@ -300,7 +300,7 @@ Seen on the same pages and **not** added because they are older or already liste
 | Jooble | HTTP **403** Cloudflare "Just a moment..." via both curl_cffi and Playwright. Not usable without a human check. |
 | Careerjet | Returns an ~11 KB shell with no listing markup and no dates. |
 | Eluta | 200, but results are not in `<article>` cards; no titles or dates extracted. |
-| Search APIs (Brave, Tavily, Serper, Google CSE) | **No key for any of them** in the credential file I was given, so none was called from this pass. |
+| Search APIs (Brave, Tavily, Serper, Google CSE) | Brave is the only one with a key present, and it was exercised on this date (see the Brave sweep section above): no fresh same-day Canadian ServiceNow/Salesforce posting. Tavily, Serper and Google CSE have **no key**, so they were not called. |
 | Gemini `google_search` grounding | Works and returned 12 plausible ServiceNow/Salesforce requisitions plus 12 recruiting agencies, but every job URL came back `unverified`. Not added — unverifiable rows would regress the data quality this file already flags. |
 | Adzuna | Still the only source returning absolute `created` timestamps; all dated rows above rest on it, LinkedIn, Job Bank or an employer ATS. |
 
