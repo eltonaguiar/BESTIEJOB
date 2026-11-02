@@ -1,18 +1,20 @@
-<!-- merged 2026-11-02T150535Z: +0 new, 68 duplicate, version 2 -->
+<!-- merged 2026-11-02T150824Z: +0 new, 70 duplicate, version 2 -->
 ---
-source: origin/Copilot/2026-10-31-public-sector
-migrated: 2026-11-02T15:05:34+00:00
-rows: 68
+source: origin/Copilot/2026-10-31-pr9-coverage
+migrated: 2026-11-02T15:08:23+00:00
+rows: 70
 ---
 
 | Posted | Role | Company | Location | URL |
 |---|---|---|---|---|
 | 2026-10-30 | Salesforce Platform Developer (R0014087) - Altus Group | Toronto preferred; remote with occasional office visits | Full-time | https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087 |
 | 2026-10-30 | Information Technology Service Management (ITSM) Analyst (JR100183) - CAAT Pension Plan | Canada: Toronto; hybrid | Full-time | https://caatpension.wd10.myworkdayjobs.com/Careers/job/Toronto-ON/ITSM-Analyst_JR100183 |
+| 2026-10-30 | Digital Student Service Administrator (REQ 7522) - George Brown Polytechnic | Canada: Toronto, 200 King St E; hybrid, two campus days | Full-time support, 35 hours/week | https://georgebrown.csod.com/ux/ats/careersite/4/home/requisition/7522?c=georgebrown&lang=en-US |
 | 2026-10-29 | ServiceNow Developer SME - General Dynamics Information Technology | USA: Remote USA only; must pass a background investigation for a Public Trust position. | Full-time | https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1 |
 | 2026-10-29 | ServiceNow Developer III (SE3) (Remote CT) - First Citizens Bank | USA: Remote Connecticut, U.S.; not advertised as unrestricted U.S. or Canada remote. | Full-time | https://jobs.firstcitizens.com/jobs/36304 |
 | 2026-10-29 | ServiceNow Developer II (SE2) (Remote TX) - First Citizens Bank | USA: Remote Texas, U.S.; not advertised as unrestricted U.S. or Canada remote. | Full-time | https://jobs.firstcitizens.com/jobs/36303 |
 | 2026-10-29 | ServiceNow Developer (SAM Pro) - First Citizens Bank | USA: Remote North Carolina, Texas, Arizona, or Florida, U.S. | Full-time | https://jobs.firstcitizens.com/jobs/36298 |
+| 2026-10-29 | Salesforce Developer (REQ-156290) - Panasonic Canada | Canada: Mississauga; hybrid; occasional Niagara-on-the-Lake attendance | Full-time, 12-month contract | https://careers.na.panasonic.com/jobs/51941 |
 | 2026-10-29 | Principal Solution Architect - ServiceNow - ServiceNow | Canada: Toronto; employer ATS remote=true, hybrid=false | Full-time | https://jobs.smartrecruiters.com/ServiceNow/744000158575719-principal-solution-architect-servicenow?oga=true |
 | 2026-10-29 | Marketing Operations Analyst (8333965) - D2L | Canada: Canada; remote status needs employer confirmation | Not disclosed | https://www.d2l.com/careers/jobs/?job_id=8333965&gh_jid=8333965 |
 | 2026-10-28 | ServiceNow System Administrator (RQ230636) - GDIT | USA: USA; remote | Full-time | https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636 |
