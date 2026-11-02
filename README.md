@@ -98,8 +98,10 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-25 | [ServiceNow System Administrator](https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator) | Bell | Toronto, ON / Montreal, QC | via buffy-second-round--2026-11-02--v6.md |
 | 2026-10-22 | [ServiceNow Solution Architect - FSO, FSM, CSM](https://www.adzuna.ca/details/5937651970) | NewRocket | Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-22 | [ServiceNow Moveworks Developer & Architect](https://www.adzuna.ca/details/5937657900) | NewRocket | Canada | via buffy-third-round--2026-11-02--v4.md |
+| 2026-10-22 | [Senior Lead, ServiceNow ITOM (8306166)](https://job-boards.greenhouse.io/taketwo/jobs/8306166) | Take-Two Interactive | Toronto, ON | Greenhouse API updated_at 2026-10-22; employer requisition; ITOM/Discovery resume match |
 | 2026-10-21 | [ServiceNow Developer (CONTRACT ROLE)](https://www.adzuna.ca/details/5936503036) | Brookfield Properties | Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-21 | [ServiceNow Developer (CONTRACT ROLE)](https://www.adzuna.ca/details/5936490369) | Brookfield | Canada | via buffy-third-round--2026-11-02--v4.md |
+| 2026-10-19 | [ServiceNow Senior Technical Advisor (432829)](https://jobs.bell.ca/ca/en/job/432829/ServiceNow-Senior-Technical-Advisor) | Bell | Toronto / Montreal | Bell Phenom widgets API postedDate 2026-10-19 |
 
 </details>
 
@@ -268,6 +270,8 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-30 | [Senior Mulesoft Software Engineer](https://www.adzuna.ca/details/5947169040) | Manulife | Toronto, ON | via buffy-second-round--2026-11-02--v6.md |
 | 2026-10-30 | [Full-Stack Developer (Digital Product Developer)](https://www.adzuna.ca/details/5947323954) | House of Commons  / Chambre des communes | Ottawa, Ottawa region | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-29 | [Product Owner I (US) eGRC AI](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Charlotte-North-Carolina/Product-Owner-I--US--eGRC-AI_R_1495342-1) | TD | 2 Locations | via buffy-round3--2026-11-02--v3.md |
+| 2026-10-29 | [Network Operations Analyst (R-0000191399)](https://jobs.rbc.com/ca/en/job/R-0000191399) | RBC | Toronto, ON | RBC Phenom widgets API postedDate 2026-10-29; ServiceNow keyword — ITSM/network ops |
+| 2026-10-27 | [Senior I&IT Business Analyst (req 117337)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117337) | Metrolinx | Canada (GTA) | Metrolinx Oracle CE API PostedDate 2026-10-27 |
 | 2026-10-24 | [Full-Stack Engineer, Internal Apps & AI](https://www.adzuna.ca/details/5940251216) | Falcon Wealth Planning | Canada | via buffy-third-round--2026-11-02--v4.md |
 
 </details>
