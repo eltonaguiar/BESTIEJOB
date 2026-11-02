@@ -1,6 +1,6 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T152849Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T153030Z.md`.
 
 ## Contents
 
@@ -29,7 +29,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-02 | [ServiceNow Developer](https://www.adzuna.ca/details/5926069932) | Zaelab | Montreal, QC | ServiceNow practice role; configuring and supporting ServiceNow solutions Adzuna 5926069932 |
 | 2026-11-02 | [ServiceNow Architect (526327)](https://www.fxinnovation.com/en/jobs/526327) | Ateko (FX Innovation) | Canada; remote | via grok-job-hunter--2026-11-02--v21.md |
 | 2026-11-02 | [ITAM Management (Mid Level)](https://ca.linkedin.com/jobs/view/itam-management-mid-level-at-soho-square-solutions-4484365333) | Soho Square Solutions | Montreal, Quebec, Canada | via linkedin-guest--2026-11-02--v8.md |
-| 2026-11-02 | [Senior Solutions Consultant (603590)](https://crossfuze.pinpointhq.com/en/postings/603590) | Crossfuze (Elite ServiceNow partner) | Canada (remote) | Pinpoint ATS live, verified 2026-11-02; partner pre-sales/delivery. The talent.com "Architect - ServiceNow, Toronto" card is NOT on their live board — stale |
 | 2026-11-01 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow Adzuna 5948954490 |
 | 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948976549?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Québec | ServiceNow Adzuna 5948976549 — distinct req from the Drummondville pair already listed |
 | 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948965055?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow Adzuna 5948965055 |
@@ -175,7 +174,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-28 | [Conseiller technique principal ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-technique-principal-servicenow-at-bell-4476346779) | Bell | Montreal, Quebec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-28 | [Administrateur ServiceNow](https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-bell-4476348750) | Bell | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-27 | [Sr. ServiceNow Developer - Sygna Solutions](https://sygnasolutions.betterteam.com/sr.-servicenow-developer) | USA: USA; 100% remote acceptable; local Georgia candidates strongly preferred | Contract | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-16 | [ServiceNow Developer (Sr. Associate) (JR-0016235)](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/ServiceNow-Developer--Sr-Associate-_JR-0016235) | Huron Consulting Group | Toronto - 55 University Ave (also Chicago) | Huron Workday startDate 2026-10-16, canApply=true; **~400m from M5G 2H5** — geo + partner-ecosystem double match |
 
 </details>
 
@@ -349,6 +347,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-02 | [Software Developer – Senior (Sibel CRM)](https://www.adzuna.ca/details/5950536165) | Innosystech Inc | Toronto, onsite; 4 months | CRM / integration Adzuna 5950536165 |
+| 2026-11-02 | [Senior Solutions Consultant (603590)](https://crossfuze.pinpointhq.com/en/postings/603590) | Crossfuze (Elite ServiceNow partner) | Canada (remote) | Pinpoint ATS live, verified 2026-11-02; partner pre-sales/delivery. The talent.com "Architect - ServiceNow, Toronto" car |
 | 2026-11-02 | [Senior Manager, Customer Success Applications](https://ca.linkedin.com/jobs/view/senior-manager-customer-success-applications-at-clio-4433416948) | Clio | Toronto, ON | via grok-job-hunter--2026-11-02--v21.md |
 | 2026-11-02 | [Senior Integration Engineer – AI](https://ca.linkedin.com/jobs/view/senior-integration-engineer-%E2%80%93-ai-tax-and-audit-ai-at-thomson-reuters-4485437581) | Thomson Reuters | Toronto | REST / integration LinkedIn 4485437581 |
 | 2026-11-02 | [Senior Implementation Consultant](https://www.adzuna.ca/details/5950546753) | Clariti Cloud | Toronto | Salesforce Adzuna 5950546753 |
@@ -377,6 +376,8 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-01 | [Staff Cloud Engineer , Cloud Platform](https://www.adzuna.ca/details/5949576733) | Kinaxis | Ottawa, Ottawa region | Python adzuna |
 | 2026-11-01 | [Sr. Consultant, Value Excellence](https://www.adzuna.ca/details/5949576289?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | ServiceNow Adzuna 5949576289 |
 | 2026-11-01 | [Sr. Consultant, Data Platform DevOps](https://www.adzuna.ca/details/5949576567?utm_medium=api&utm_source=54ce986e) | CIBC | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
+| 2026-11-01 | [Specialist, BI Developer](https://www.adzuna.ca/details/5949200555) | Parkland | Calgary, Calgary region | via nemotron-gap-scan--2026-11-02--v1.md |
+| 2026-11-01 | [Specialist, BI Developer](https://www.adzuna.ca/details/5949020152) | Sunoco LP | Calgary, Calgary region | via nemotron-gap-scan--2026-11-02--v1.md |
 | 2026-11-01 | [Software Engineer III (Full Stack/API Integration)](https://www.adzuna.ca/details/5949577919?utm_medium=api&utm_source=54ce986e) | TD | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-11-01 | [Software Developer - Full Stack - Senior (Health)](https://www.adzuna.ca/details/5949576712?utm_medium=api&utm_source=54ce986e) | ISG Search Inc | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-11-01 | [Site Reliability Engineer Lead](https://www.adzuna.ca/details/5949576420?utm_medium=api&utm_source=54ce986e) | TD Bank Group | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
@@ -495,9 +496,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-31 | [Senior Advisor, Asset Management Services](https://www.adzuna.ca/details/5947846346?utm_medium=api&utm_source=54ce986e) | Agnico Eagle | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-31 | [SAP Time Management Consultant](https://www.adzuna.ca/details/5948024412?utm_medium=api&utm_source=54ce986e) | Tekfortune Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-31 | [SAP SuccessFactors -Senior Consultant](https://www.adzuna.ca/details/5948006823?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [SAP ECC Payroll & Time Consultant](https://www.adzuna.ca/details/5948024738?utm_medium=api&utm_source=54ce986e) | Tekfortune Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Reporting Analyst - Expert](https://www.adzuna.ca/details/5948018569?utm_medium=api&utm_source=54ce986e) | Mindlance | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-31 | [RQ11330 - Application Support Specialist - Junior](https://www.adzuna.ca/details/5948022174?utm_medium=api&utm_source=54ce986e) | Source Code | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 
 </details>
 
@@ -523,7 +521,6 @@ before applying. If a row says `date relative — unverified`, treat the date as
 | Posted | Role | Company | Location | URL |
 |---|---|---|---|---|
 | 2026-11-02 | ServiceNow Developer | Acme Corp | Toronto, ON | https://example.com/job/1 |
-| 2026-10-29 | [IT Governance Analyst, Global Technology (JR26090xxx)](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Governance-Analyst--Architecture---Engineering_JR26091259) | Manulife | Toronto, ON | Manulife Workday "Posted 4 Days Ago" on 2026-11-02; ServiceNow keyword match — IT governance/architecture ops |
 ```
 
 4. Same model, same day, more rows? Rename `v1` → `v2` and edit that file. Do not open a second one.
@@ -568,4 +565,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T152849Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T153030Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.

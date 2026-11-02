@@ -1,8 +1,8 @@
-<!-- merged 2026-11-02T150946Z: +0 new, 380 duplicate, version 2 -->
+<!-- merged 2026-11-02T150824Z: +0 new, 387 duplicate, version 2 -->
 ---
-source: origin/buffy/2026-11-02-wider-scan
-migrated: 2026-11-02T15:09:45+00:00
-rows: 380
+source: origin/kilo/2026-11-02-sn-sf-expanded
+migrated: 2026-11-02T15:08:24+00:00
+rows: 387
 ---
 
 | Posted | Role | Company | Location | URL |
@@ -17,6 +17,7 @@ rows: 380
 | 2026-11-01 | Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team) | Deloitte | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232 |
 | 2026-11-01 | Salesforce Technical Lead – Financial Services Cloud | Maarut | Laval, Québec | https://www.adzuna.ca/details/5949576474?utm_medium=api&utm_source=54ce986e |
 | 2026-11-01 | Salesforce Technical Lead | Maarut Inc | Montréal, Québec | https://www.adzuna.ca/details/5949576385?utm_medium=api&utm_source=54ce986e |
+| 2026-11-01 | Salesforce Solution Architect | iA Financial Group | Canada | https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e |
 | 2026-11-01 | Salesforce Revenue Cloud Architect | CloudKettle Inc | Toronto, Ontario | https://www.adzuna.ca/details/5949286084?utm_medium=api&utm_source=54ce986e |
 | 2026-11-01 | Salesforce Engineer | Thomson Reuters | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926 |
 | 2026-11-01 | Salesforce Administrator \/ Natural Health \/ Hybrid in Toronto \/ $60-75k Benefits | Natural Health \ | Hybrid in Toronto \ | https://www.adzuna.ca/details/5948993217 |
@@ -28,6 +29,7 @@ rows: 380
 | 2026-11-01 | LinkedIn | Deloitte | Toronto | https://ca.linkedin.com/jobs/view/senior-consultant-it-operations-management-discovery-at-deloitte-4460512143 |
 | 2026-11-01 | Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology | Deloitte | Toronto, Ontario | https://www.adzuna.ca/details/5949971682 |
 | 2026-11-01 | Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology | Deloitte | Toronto, Ontario | https://www.adzuna.ca/details/5949971672 |
+| 2026-11-01 | Développeur Salesforce | CGI | Montréal, Québec | https://www.adzuna.ca/details/5948938935?utm_medium=api&utm_source=54ce986e |
 | 2026-11-01 | Director, Salesforce Delivery and Architecture, Deloitte Global Technology | Deloitte | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/director-salesforce-delivery-and-architecture-deloitte-global-technology-at-deloitte-4460396523 |
 | 2026-11-01 | Directeur(trice), Salesforce fonctionnel | KPMG Canada | Montreal, Quebec, Canada | https://ca.linkedin.com/jobs/view/directeur-trice-salesforce-fonctionnel-at-kpmg-canada-4434096618 |
 | 2026-11-01 | Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation | Deloitte | Brossard, Quebec, Canada | https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459417849 |
@@ -43,16 +45,20 @@ rows: 380
 | 2026-10-31 | Senior ServiceNow Architect | Optovia | Ottawa, Ottawa region | https://www.adzuna.ca/details/5948277202 |
 | 2026-10-31 | Senior Salesforce Developer | Epsilon Solutions LTD | Toronto, Ontario | https://www.adzuna.ca/details/5948026874 |
 | 2026-10-31 | Senior Salesforce Developer | Epsilon Solutions LTD | Toronto, Ontario | https://www.adzuna.ca/details/5947973988 |
+| 2026-10-31 | Senior Quality Assurance Engineer - Salesforce Marketing Cloud & Azure Data Platforms | Hour Consulting Corporation | Toronto, Ontario | https://www.adzuna.ca/details/5948009443?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Senior Business Analyst Salesforce CRM | Artech LLC | Mississauga, Peel region | https://www.adzuna.ca/details/5948013878?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce Technical Lead | Macpower Digital Assets Edge Private Limited | Calgary, Calgary region | https://www.adzuna.ca/details/5948016965?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce Technical Architect | Jobgether | Canada | https://www.adzuna.ca/details/5948276995?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce Technical Architect | Orion Global Solutions | Toronto, Ontario | https://www.adzuna.ca/details/5948276350 |
 | 2026-10-31 | Salesforce Support Analyst | Diverse Lynx | Halifax, Halifax region | https://www.adzuna.ca/details/5948026538?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce Solution Architect | Macpower Digital Assets Edge Private Limited | Toronto, Ontario | https://www.adzuna.ca/details/5948019639 |
+| 2026-10-31 | Salesforce Scrum Master | Epsilon Solutions LTD | Toronto, Ontario | https://www.adzuna.ca/details/5948006847?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce Revenue Cloud Architect | Epsilon Solutions LTD | Montréal, Québec | https://www.adzuna.ca/details/5947996543?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce QA | Q1 Technologies, Inc | Toronto, Ontario | https://www.adzuna.ca/details/5948023740 |
 | 2026-10-31 | Salesforce QA | Epsilon Solutions LTD | Mississauga, Peel region | https://www.adzuna.ca/details/5947996642?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce Platform Developer | Altus Group | Toronto, Ontario | https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087 |
+| 2026-10-31 | Salesforce Functional Lead | Epsilon Solutions LTD | Toronto, Ontario | https://www.adzuna.ca/details/5948023559?utm_medium=api&utm_source=54ce986e |
+| 2026-10-31 | Salesforce Functional Analyst | Epsilon Solutions LTD | Toronto, Ontario | https://www.adzuna.ca/details/5948011834?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce Developer- Enhance & Operate | Slalom | Greater Toronto Area, Canada | https://ca.linkedin.com/jobs/view/salesforce-developer-enhance-operate-at-slalom-4409341991 |
 | 2026-10-31 | Salesforce Developer- Enhance & Operate | Slalom | Greater Vancouver Metropolitan Area | https://ca.linkedin.com/jobs/view/salesforce-developer-enhance-operate-at-slalom-4409358117 |
 | 2026-10-31 | Salesforce Developer | Epsilon Solutions LTD | Toronto, Ontario | https://www.adzuna.ca/details/5948024454 |
@@ -70,6 +76,7 @@ rows: 380
 | 2026-10-31 | O4U job board | Scotiabank | Toronto, ON | https://careers.outforundergrad.org/companies/scotiabank/jobs/98616810-manager-identity-lifecycle-management |
 | 2026-10-31 | IT - Systems Administrator V Service Now - Systems Administrator | ICONMA, LLC | Toronto, Ontario | https://www.adzuna.ca/details/5948007824 |
 | 2026-10-31 | Hiring Sr. Salesforce Marketing Cloud Developer in Kitchener, Ontario | Artech LLC | Toronto, Ontario | https://www.adzuna.ca/details/5948023540 |
+| 2026-10-31 | Functional QA Tester Salesforce | Epsilon Solutions LTD | Toronto, Ontario | https://www.adzuna.ca/details/5947967982?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | DevOps Project Manager | Epsilon Solutions LTD | Toronto, Ontario | https://www.adzuna.ca/details/5948025641 |
 | 2026-10-31 | DevOps Engineer | GTT, LLC | Toronto, Ontario | https://www.adzuna.ca/details/5948017534 |
 | 2026-10-31 | Business Analyst - ServiceNow | Artech LLC | Ottawa, Ottawa region | https://www.adzuna.ca/details/5948025863?utm_medium=api&utm_source=54ce986e |
