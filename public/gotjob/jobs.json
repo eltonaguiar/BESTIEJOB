@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-02T23:12:54.828Z",
     "generatedAt": "2026-11-02T23:12:54.828Z",
-    "total": 991,
+    "total": 995,
     "newThisScan": 707,
     "retainedFromPrevious": 52,
     "sources": {
@@ -833,6 +833,24 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5950814278",
+      "source": "readme",
+      "company": "Workplace Safety and Insurance Board",
+      "title": "Manager IT Service Management (ITSM)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5950814278",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-02T23:16:05.488Z",
+      "excerpt": "via buffy-critical--2026-11-02--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
       ]
     },
     {
@@ -9878,6 +9896,24 @@
       ]
     },
     {
+      "id": "readme:adzuna.ca/details/5947169442",
+      "source": "readme",
+      "company": "Squad Technologies",
+      "title": "Spécialiste Sénior ITSM",
+      "location": "Québec, Canada",
+      "url": "https://www.adzuna.ca/details/5947169442",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-02T23:16:05.488Z",
+      "excerpt": "via buffy-critical--2026-11-02--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
+      ]
+    },
+    {
       "id": "adzuna:5947007422",
       "source": "adzuna",
       "company": "Amphenol HSIO",
@@ -12848,6 +12884,40 @@
       "postedDate": "2026-10-29T12:00:00.000Z",
       "scrapedAt": "2026-11-02T23:13:40.593Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5945494725",
+      "source": "readme",
+      "company": "Medcan",
+      "title": "Marketing Cloud Specialist",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5945494725",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-02T23:16:05.488Z",
+      "excerpt": "via buffy-critical--2026-11-02--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5946006818",
+      "source": "readme",
+      "company": "Remote Genie",
+      "title": "Forward Deployed Engineer, AI & Agentforce NeuraFlash Middle just now",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5946006818",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-02T23:16:05.488Z",
+      "excerpt": "via buffy-critical--2026-11-02--v2.md",
       "workArrangement": "unknown",
       "tags": [
         "other"
