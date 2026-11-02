@@ -13,7 +13,7 @@ if 'class="apply"' not in html:
     fails.append("per-card apply link missing")
 if "data-tab" not in html:
     fails.append("tabbed interface missing")
-if "Last updated" not in html or "__BUILT__" in html:
+if not ("Data updated" in html or "Last updated" in html) or "__BUILT__" in html:
     fails.append("build stamp missing/unsubstituted")
 if jobs and "match" not in jobs[0]:
     fails.append("resume-fit score missing from data")
@@ -22,7 +22,7 @@ if bad:
     fails.append(f"{len(bad)} rows without an absolute url")
 
 print(f"jobs={len(jobs)} applyLinks={html.count('class=\"apply\"')} "
-      f"tabs={'data-tab' in html} stamp={'Last updated' in html}")
+      f"tabs={'data-tab' in html} stamp={'Data updated' in html or 'Last updated' in html}")
 if fails:
     print("FAIL:", "; ".join(fails))
     sys.exit(1)
