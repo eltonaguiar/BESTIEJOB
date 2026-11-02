@@ -5,18 +5,18 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (216)](#servicenow-jobs-216)
-  - [Salesforce jobs (235)](#salesforce-jobs-235)
-  - [Other jobs (381)](#other-jobs-381)
+  - [ServiceNow jobs (217)](#servicenow-jobs-217)
+  - [Salesforce jobs (243)](#salesforce-jobs-243)
+  - [Other jobs (383)](#other-jobs-383)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **832 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **843 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (216)
+### ServiceNow jobs (217)
 
 _developer / administrator / architect / analyst roles_
 
@@ -243,7 +243,7 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (235)
+### Salesforce jobs (243)
 
 _developer / administrator / architect / consultant roles_
 
@@ -398,6 +398,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-29 | [Lead Salesforce Solution Architect](https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889) | McKesson | Mississauga, Ontario, Canada | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-29 | [DevOps Engineer(Salesforce)](https://www.adzuna.ca/details/5946006902?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | via other-expansion--2026-11-02--v2.md |
 | 2026-10-29 | [Consultant, Salesforce Development](https://www.adzuna.ca/details/5946006781?utm_medium=api&utm_source=54ce986e) | CIBC | Toronto, Ontario | via other-expansion--2026-11-02--v2.md |
+| 2026-10-29 | [Salesforce Analyst (5946061267)](https://www.adzuna.ca/details/5946061267?utm_medium=api&utm_source=54ce986e) | Acestack | Toronto, ON (Regent Park) | Downtown geo sweep; contractor/staffing listing |
 | 2026-10-28 | [Software Engineer II (Salesforce Loyalty Management Developer)](https://www.adzuna.ca/details/5944215581?utm_medium=api&utm_source=54ce986e) | TD Bank | Toronto, Ontario | via other-expansion--2026-11-02--v2.md |
 | 2026-10-28 | [Senior Salesforce Consultant](https://www.adzuna.ca/details/5944849872?utm_medium=api&utm_source=54ce986e) | Querentia | Berczy Park, City of Toronto | via other-expansion--2026-11-02--v2.md |
 | 2026-10-28 | [Senior Salesforce Architect (CA)](https://ca.linkedin.com/jobs/view/senior-salesforce-architect-ca-at-pointclickcare-4460993936) | PointClickCare | Mississauga, Ontario, Canada | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
@@ -489,7 +490,7 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (381)
+### Other jobs (383)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
@@ -516,6 +517,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-02 | [BSA_UNDERWRITING](https://www.adzuna.ca/details/5950537807) | Epsilon Solutions LTD | Toronto, hybrid; full-time | Business systems analyst Adzuna 5950537807 |
 | 2026-11-02 | [Architecte de systèmes](https://www.adzuna.ca/details/5950521655) | iSteer Inc. | Toronto; permanent, French-language posting | Salesforce Adzuna 5950521655 |
 | 2026-11-02 | [AI Engineer](https://www.adzuna.ca/details/5950337000) | Insight Global | Toronto | Databricks / SQL Adzuna 5950337000 |
+| 2026-11-02 | [Applications Support Analyst (5950648187)](https://www.adzuna.ca/details/5950648187?utm_medium=api&utm_source=54ce986e) | BMO Financial | Toronto, ON (Central Bay St) | Posted 2026-11-02; ServiceNow named in description — app support/ITSM |
 | 2026-11-01 | [Technical Consultant, Professional Services](https://www.adzuna.ca/details/5948985233?utm_medium=api&utm_source=54ce986e) | Zensar Technologies | Canada (remote) | Technical consulting Adzuna 5948985233 |
 | 2026-11-01 | [Systems Administrator (Windows/Unix-Linux, Automation)](https://www.adzuna.ca/details/5949574744?utm_medium=api&utm_source=54ce986e) | BMO Financial | Toronto, Ontario | PowerShell automation; prior BMO experience Adzuna 5949574744 |
 | 2026-11-01 | [Systems Administrator](https://www.adzuna.ca/details/5950015835) | Magna International, Inc | Concord, York region | SQL Server adzuna |
@@ -721,6 +723,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-31 | [Adzuna 5947778762](https://www.adzuna.ca/details/5947778762) | TD Bank | London, Middlesex | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-31 | [AZURE DATA ENGINEER  POWER BI](https://www.adzuna.ca/details/5947999693?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via peer-buffy-2026-11-02-readme-consolidation--2026-11-02--v1.md |
 | 2026-10-31 | [AI Full Stack Engineer](https://www.adzuna.ca/details/5948021661?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via peer-buffy-2026-11-02-readme-consolidation--2026-11-02--v1.md |
+| 2026-10-31 | [Software Developer Specialist - Security Product (5948513116)](https://www.adzuna.ca/details/5948513116?utm_medium=api&utm_source=54ce986e) | Intact Financial | Toronto, ON | ServiceNow named in description |
 | 2026-10-30 | [iCIMS 6147](https://careersen-mackenzieinvestments.icims.com/jobs/6147/ai-automation-%26-platform-analyst-%28senior-analyst%29/job) | Mackenzie Investments | GTA, hybrid 3d/wk; **apply by 2026-11-09** | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-30 | [Workday Solutions Delivery Manager](https://www.adzuna.ca/details/5946726299?utm_medium=api&utm_source=54ce986e) | McKesson | Mississauga, Peel region | Workday workday Adzuna 5946726299 new |
 | 2026-10-30 | [Workday Integration Developer](https://www.adzuna.ca/details/5946781881?utm_medium=api&utm_source=54ce986e) | Adastra Corporation | Markham, York region | Workday workday Adzuna 5946781881 new |
