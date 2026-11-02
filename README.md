@@ -201,6 +201,7 @@ Two gaps prompted it:
 
 | Posted | Role | Employer | Location | Salary | Cert language | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | AI Automation & Platform Analyst (Senior Analyst) — SF-adjacent automation; weaker fit | Mackenzie Investments | GTA, hybrid 3d/wk; **apply by 2026-11-09** | $66,000–$79,500 | Salesforce/Seismic/Jira/Tableau agents; Copilot Studio + Power Automate required | [iCIMS 6147](https://careersen-mackenzieinvestments.icims.com/jobs/6147/ai-automation-%26-platform-analyst-%28senior-analyst%29/job) — **Verified 2026-11-01** |
 | 2026-10-30 | Senior Salesforce Engineer | Canadian Cancer Society | Toronto + 8 cities, hybrid; **apply by 2026-11-06** | $86,000–$96,000 | PD I/II, App Builder, Architect — *"considered an asset"* | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) — **Verified** |
 | 2026-10-30 | Conseiller technique principal ServiceNow | Bell | Toronto | — | — | [Adzuna 5947177797](https://www.adzuna.ca/details/5947177797) |
 | 2026-10-30 | ServiceNow AIOps Architect | BULL-IT Solutions | Toronto | — | — | [Adzuna 5947169710](https://www.adzuna.ca/details/5947169710) |
@@ -218,7 +219,7 @@ Two gaps prompted it:
 | 2026-10-30 | Firewall Security Specialist | Global Technical Talent, an Inc. 5000 Company | Toronto, Ontario | — | ServiceNow | [Adzuna 5947170059](https://www.adzuna.ca/details/5947170059) |
 | 2026-10-30 | Staff Incident Response Engineer | ServiceNow | Greater Vancouver, British Columbia | — | ServiceNow | [Adzuna 5947170036](https://www.adzuna.ca/details/5947170036) |
 | 2026-10-30 | Senior ServiceNow Developer | A3 Irving Energy Inc | New Brunswick, Canada | — | ServiceNow | [Adzuna 5947169087](https://www.adzuna.ca/details/5947169087) |
-| 2026-10-30 | Salesforce Solution Engineer (Hybrid or Remote) | Traction Rec | Canada | — | Salesforce | [Adzuna 5946997748](https://www.adzuna.ca/details/5946997748) |
+| 2026-09-29 (employer; Adzuna resurfaced 2026-10-30) | Salesforce Solution Engineer (pre-sales, nonprofit SF partner) | Traction Rec | Remote CA/US (Eastern/Pacific preferred); travel | ~$100–110k (boards) | Salesforce Admin cert | [BambooHR 154](https://tractionrec.bamboohr.com/careers/154) — **Verified 2026-11-01**; [Adzuna 5946997748](https://www.adzuna.ca/details/5946997748) |
 | 2026-10-30 | Salesforce Technical Architect | Jobgether | Canada | — | Salesforce | [Adzuna 5946719401](https://www.adzuna.ca/details/5946719401) |
 | 2026-10-30 | Senior Salesforce Developer | nesto | Canada | — | Salesforce | [Adzuna 5947168836](https://www.adzuna.ca/details/5947168836) |
 | 2026-10-30 | Lead Salesforce Marketing Cloud Architect - Remote / Telecommute | CYNET SYSTEMS | Canada | — | Salesforce | [Adzuna 5947001490](https://www.adzuna.ca/details/5947001490) |
