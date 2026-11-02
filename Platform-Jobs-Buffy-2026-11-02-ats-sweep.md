@@ -88,3 +88,48 @@ It is not proof that no brand-new posting exists on a channel this sweep could n
 - Selected-link count 108 to 110; Salesforce recent block 32 to 34; Canada table 22 to 24.
 
 No `jobs.json`, site build, scraper or deployment file was changed, so no automated test applies.
+
+## Second pass - LinkedIn guest listing API (the channel the first pass missed)
+
+The first pass concluded that no 2026-11-01 posting existed. That was wrong for one channel.
+`linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search` returns server-rendered job cards
+carrying a `datetime` attribute, which is the posting date, and it is readable without a login:
+
+```
+https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search
+  ?keywords=ServiceNow
+  &location=Toronto%2C%20Ontario%2C%20Canada
+  &f_TPR=r259200&start=0
+```
+
+Filtering `f_TPR` to the last 72 hours and parsing `<time datetime="...">` per card produced:
+
+| Posted | Role | Employer | Location |
+|---|---|---|---|
+| 2026-11-01 | Senior Consultant, ServiceNow Platform (req 133759) | Deloitte | Toronto / Burlington ON |
+| 2026-11-01 | Senior Consultant, Salesforce Platform (req 133770) | Deloitte | Toronto / Burlington / Fredericton |
+| 2026-11-01 | Senior Consultant, IT Operations Management / Discovery | Deloitte | Toronto |
+| 2026-11-01 | Process Lead Architect, Customer Service Management | Deloitte | Toronto |
+| 2026-10-31 | Salesforce Developer - Enhance & Operate | Slalom | Greater Toronto Area |
+| 2026-10-31 | ServiceNow Business System Architect | CGI | Ontario |
+| 2026-10-31 | Senior Consultant, Artificial Intelligence - Now Assist | Deloitte | Toronto |
+
+Both Deloitte requisitions were confirmed live on `careers.deloitte.ca` on 2026-11-02. Their pages
+render dates client-side, so the 2026-11-01 date rests on the LinkedIn card, not on Deloitte's own
+field - stated as such in the README rather than presented as employer-verified.
+
+Rejected as duplicates or out of geography: Deloitte's French ITOM / Now Assist cards; Scotiabank's
+ServiceNow Discovery Developer and Salesforce Developer cards (already selected with earlier employer
+dates - a refresh is not a new posting); KPMG Montreal, CGI Montreal and Master Montreal roles.
+Thomson Reuters (Salesforce Engineer, Toronto) and SUN PHARMA (CRM & IC Manager, Mississauga) showed
+2026-11-01 dates in an earlier pass but their card URLs were not retained, so they remain leads.
+
+Rate limits: LinkedIn guest search returns HTTP 429 after a handful of queries. The scanner backs off
+and retries; 37 unique cards were captured across six queries before throttling.
+
+## Lesson recorded
+
+"Employer ATS only" is a strong method for dates but a weak one for weekend posting volume. Boards
+that server-render their cards (LinkedIn guest API) and mirror feeds (Adzuna, White Bay, Procare)
+publish on days the ATS crawl sees nothing, and the two methods must be combined before stating that
+nothing was posted.
