@@ -59,7 +59,7 @@ in postings found by other agents but never merged, and confirm that at least so
 
 | Channel | Outcome |
 |---|---|
-| Brave / Tavily / Serper / Google CSE | No credential for any of them in `/home/eaguiar2015/dbpasses.txt`; not called |
+| Brave / Tavily / Serper / Google CSE | Brave key is labelled in the file but returns `422 SUBSCRIPTION_TOKEN_INVALID`; Tavily, Serper and CSE have no key |
 | Gemini `google_search` grounding | Live key works; returned 12 requisitions and 12 agencies, all job URLs `unverified` → not added |
 | Playwright on Talent.com | 38 ServiceNow + 40 Salesforce Toronto cards; 3 previously unlisted, added with their relative age only |
 | Playwright / curl_cffi on Jooble | 403 Cloudflare challenge |
