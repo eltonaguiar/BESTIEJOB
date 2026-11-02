@@ -1,6 +1,6 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T151256Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T152026Z.md`.
 
 ## Contents
 
@@ -838,6 +838,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-30 | [Python Developer](https://www.adzuna.ca/details/5947169116?utm_medium=api&utm_source=54ce986e) | Apptoza Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-30 | [Power BI Specialist](https://www.adzuna.ca/details/5947007422?utm_medium=api&utm_source=54ce986e) | Amphenol HSIO | Markham, York region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-30 | [Peoplesoft techo-functional consultant](https://www.adzuna.ca/details/5946993489?utm_medium=api&utm_source=54ce986e) | Infinity Solutions | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
+| 2026-10-30 | [People Services AI Solutions & Configuration Lead (JR26081383)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/People-Services-AI-Solutions---Configuration-Lead_JR26081383-1) | Manulife | Toronto, ON; hybrid | via grok-job-hunter--2026-11-02--v17.md |
 | 2026-10-30 | [Payroll Coordinator](https://www.adzuna.ca/details/5946718479?utm_medium=api&utm_source=54ce986e) | TJMaxx | Mississauga, Peel region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-30 | [Operations & Data Analyst Co-op (8 Months)](https://www.adzuna.ca/details/5946658028?utm_medium=api&utm_source=54ce986e) | Manulife | Toronto, Ontario | via peer-buffy-2026-11-02-readme-consolidation--2026-11-02--v1.md |
 | 2026-10-30 | [Manager, Oracle HCM Core HR - U.S. or Canada](https://www.adzuna.ca/details/5947170135?utm_medium=api&utm_source=54ce986e) | Huron Consulting Group Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
@@ -904,6 +905,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-29 | [Manager, IT Support - Toronto](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Manager--IT-Support---Toronto_R-6484) | TMX Group | Toronto, ON (100 Adelaide St W) | via grok-job-hunter--2026-11-02--v15.md |
 | 2026-10-29 | [Incident Management, Lead (Bilingual)](https://www.adzuna.ca/details/5946006690?utm_medium=api&utm_source=54ce986e) | Interac | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-29 | [Incident Management Lead](https://www.adzuna.ca/details/5946001005?utm_medium=api&utm_source=54ce986e) | Altis Technology | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
+| 2026-10-29 | [IT Governance Analyst, Global Technology (JR26080836)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Governance-Analyst--Architecture---Engineering_JR26080836-1) | Manulife | Toronto, ON; hybrid | via grok-job-hunter--2026-11-02--v17.md |
 | 2026-10-29 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Worldwide | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [Digital Consulting Manager – Oracle Cloud HCM Time & Labor/Absence](https://www.adzuna.ca/details/5946009564?utm_medium=api&utm_source=54ce986e) | Huron | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [Digital Consulting Manager – Oracle Cloud HCM Time & Labor/Absence](https://www.adzuna.ca/details/5946003157?utm_medium=api&utm_source=54ce986e) | Huron Consulting Group Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
@@ -963,8 +965,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-21 | [Service Desk Consultant](https://www.adzuna.ca/details/5936494479?utm_medium=api&utm_source=54ce986e) | Deltera | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-21 | [Senior Business Analyst, Portfolio Servicing Platform (12-Month Contract)](https://www.adzuna.ca/details/5936496496?utm_medium=api&utm_source=54ce986e) | OMERS | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 | 2026-10-21 | [Principal Consultant, NetSuite](https://www.adzuna.ca/details/5936636842?utm_medium=api&utm_source=54ce986e) | Myers-Holum | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-20 | [Information Security Specialist (Vulnerability Management Data Insights & Reporting)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Vulnerability-Management-Data-Insights---Reporting---_R_1514694) | TD | Toronto, ON | via grok-job-hunter--2026-11-02--v15.md |
-| 2026-10-19 | [Staff Site Reliability Engineer](https://www.adzuna.ca/details/5934412986) | ServiceNow | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 
 </details>
 
@@ -1034,4 +1034,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T151256Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T152026Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
