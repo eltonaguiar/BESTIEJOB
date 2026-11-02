@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-02T13:50:44+00:00",
+ "generatedAt": "2026-11-02T14:28:32+00:00",
  "timezone": "America/Toronto",
- "count": 184,
+ "count": 223,
  "jobs": [
   {
    "posted": "2026-11-02",
@@ -100,6 +100,16 @@
    "location": "Vancouver, Greater Vancouver",
    "url": "https://www.adzuna.ca/details/5950546447",
    "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Salesforce Consultant - FSC Cloud",
+   "company": "Enterprise Solutions Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-fsc-cloud-at-enterprise-solutions-inc-4483663839",
+   "note": "via buffy-round3--2026-11-02--v3.md",
    "family": "salesforce",
    "familyLabel": "Salesforce"
   },
@@ -1034,16 +1044,6 @@
    "familyLabel": "Other"
   },
   {
-   "posted": "2026-11-01",
-   "title": "AI Fullstack Engineer (Senior Associate) - Canada",
-   "company": "Huron Consulting Group",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949577731",
-   "note": "Python adzuna",
-   "family": "other",
-   "familyLabel": "Other"
-  },
-  {
    "posted": "2026-10-31",
    "title": "Technical PM Salesforce Life Sciences",
    "company": "GTT, LLC",
@@ -1052,6 +1052,26 @@
    "note": "Salesforce Adzuna 5948026660",
    "family": "salesforce",
    "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Stage coopératif - Hiver 2027– Développement ServiceNow (4 months)",
+   "company": "CGI",
+   "location": "Drummondville, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/stage-coop%C3%A9ratif-hiver-2027%E2%80%93-d%C3%A9veloppement-servicenow-4-months-at-cgi-4466637706",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)",
+   "company": "CGI",
+   "location": "Drummondville, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/stage-coop%C3%A9ratif-hiver-2027-analyste-servicenow-4-months-at-cgi-4469236664",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
   },
   {
    "posted": "2026-10-31",
@@ -1080,6 +1100,16 @@
    "location": "Toronto, Ontario",
    "url": "https://www.adzuna.ca/details/5948015907",
    "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "ServiceNow Discovery Developer",
+   "company": "Scotiabank",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-discovery-developer-at-scotiabank-4413829229",
+   "note": "via buffy-round3--2026-11-02--v3.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow"
   },
@@ -1135,6 +1165,16 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "Senior Salesforce Technical Lead",
+   "company": "UST",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-technical-lead-at-ust-4466613813",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-31",
    "title": "Senior Salesforce Developer",
    "company": "Epsilon Solutions LTD",
    "location": "Toronto, Ontario",
@@ -1169,7 +1209,27 @@
    "company": "S.i. Systems",
    "location": "Calgary, AB",
    "url": "https://www.adzuna.ca/details/5948276684",
-   "note": "via buffy-second-round--2026-11-02--v2.md",
+   "note": "via buffy-second-round--2026-11-02--v6.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Senior ITSM Specialist",
+   "company": "Master",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-itsm-specialist-at-master-4466299879",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Senior Full-Stack Developer (Senior Digital Product Developer)",
+   "company": "House of Commons  / Chambre des communes",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5947988378",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
    "family": "other",
    "familyLabel": "Other"
   },
@@ -1305,6 +1365,16 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "Salesforce Devops Lead",
+   "company": "ATB Financial",
+   "location": "Edmonton, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-devops-lead-at-atb-financial-4485306213",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-31",
    "title": "Salesforce Developer- Enhance & Operate",
    "company": "Slalom",
    "location": "Greater Vancouver Metropolitan Area",
@@ -1435,6 +1505,26 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "MuleSoft Technical Architect- Enterprise (Canada)",
+   "company": "Slalom",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mulesoft-technical-architect-enterprise-canada-at-slalom-4409348922",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "MuleSoft Senior Developer- Enterprise (Canada)",
+   "company": "Slalom",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mulesoft-senior-developer-enterprise-canada-at-slalom-4409345905",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-31",
    "title": "LinkedIn",
    "company": "Slalom",
    "location": "Greater Toronto Area",
@@ -1449,7 +1539,17 @@
    "company": "Eupraxia Pharmaceuticals",
    "location": "Vancouver, BC",
    "url": "https://www.adzuna.ca/details/5947847001",
-   "note": "via buffy-second-round--2026-11-02--v2.md",
+   "note": "via buffy-second-round--2026-11-02--v6.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Intermediate Full-Stack Developer (Intermediate Digital Product Developer)",
+   "company": "House of Commons  / Chambre des communes",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5948015118",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
    "family": "other",
    "familyLabel": "Other"
   },
@@ -1485,11 +1585,41 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "Développeur/Développeuse ServiceNow",
+   "company": "CGI",
+   "location": "Greater Montreal Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-d%C3%A9veloppeuse-servicenow-at-cgi-4463123291",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Consultant(e) Salesforce",
+   "company": "Devpresso Consulting Inc",
+   "location": "Laval, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-e-salesforce-at-devpresso-consulting-inc-4485174334",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-31",
    "title": "Consultant – Senior Consultant Service Now",
    "company": "KPMG",
    "location": "Montréal",
    "url": "https://www.adzuna.ca/details/5948368434",
    "note": "Adzuna 5948368434",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation",
+   "company": "Deloitte",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459420807",
+   "note": "via buffy-round3--2026-11-02--v3.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow"
   },
@@ -1515,6 +1645,16 @@
   },
   {
    "posted": "2026-10-30",
+   "title": "Workday Analyst",
+   "company": "Green Infrastructure Partners",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/workday-analyst-at-green-infrastructure-partners-4459360329",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-30",
    "title": "Sr. ServiceNow Developer - LanceSoft",
    "company": "Atlanta, GA",
    "location": "Unknown / peer claim not verified",
@@ -1525,11 +1665,31 @@
   },
   {
    "posted": "2026-10-30",
+   "title": "ServiceNow WSD Developer",
+   "company": "SRA Group",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-wsd-developer-at-sra-group-4483490440",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-30",
    "title": "ServiceNow Technical Consultant - Cognizant",
    "company": "Toronto, Ontario",
    "location": "Unknown / peer claim not verified",
    "url": "https://www.adzuna.ca/details/5938973159?utm_medium=api&utm_source=54ce986e",
    "note": "via peer-copilot-2026-10-30--2026-11-02--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "ServiceNow Technical Consultant (SAM Pro)",
+   "company": "Agility IT",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-sam-pro-at-agility-it-4485353819",
+   "note": "via buffy-round3--2026-11-02--v3.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow"
   },
@@ -1630,6 +1790,16 @@
    "location": "Unknown / peer claim not verified",
    "url": "https://www.adzuna.ca/details/5920477059?utm_medium=api&utm_source=54ce986e",
    "note": "via peer-copilot-2026-10-30--2026-11-02--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "ServiceNow Developer - Strategic Portfolio Management (SPM) Module",
+   "company": "Addmore Group",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-strategic-portfolio-management-spm-module-at-addmore-group-4485616518",
+   "note": "via buffy-round3--2026-11-02--v3.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow"
   },
@@ -1765,6 +1935,16 @@
   },
   {
    "posted": "2026-10-30",
+   "title": "Senior/Lead Salesforce Marketing Cloud Engineer",
+   "company": "Diligente Technologies",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-lead-salesforce-marketing-cloud-engineer-at-diligente-technologies-4477699547",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-30",
    "title": "Senior ServiceNow Developer & Architect to support a modernization of a management capability for",
    "company": "S.i. Systems",
    "location": "Canada",
@@ -1785,13 +1965,63 @@
   },
   {
    "posted": "2026-10-30",
+   "title": "Senior Salesforce Technical Lead",
+   "company": "Arkhya Tech Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-technical-lead-at-arkhya-tech-inc-4485357239",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-30",
    "title": "Senior Mulesoft Software Engineer",
    "company": "Manulife",
    "location": "Toronto, ON",
    "url": "https://www.adzuna.ca/details/5947169040",
-   "note": "via buffy-second-round--2026-11-02--v2.md",
+   "note": "via buffy-second-round--2026-11-02--v6.md",
    "family": "other",
    "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Salesforce Solution Architect",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Salesforce DevOps Lead",
+   "company": "AceStack",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-devops-lead-fulltime-toronto-on-at-acestack-4484864255",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Salesforce Architect- FSC",
+   "company": "Delpath",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-fsc-at-delpath-4485622243",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Salesforce Administrator",
+   "company": "RideCo On-Demand Transit",
+   "location": "Waterloo, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-rideco-on-demand-transit-4484883003",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
   },
   {
    "posted": "2026-10-30",
@@ -1800,6 +2030,16 @@
    "location": "Permanent full-time",
    "url": "https://wsib-iaepup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1209",
    "note": "$116,000-$145,000 LIVE: Oracle HCM API record, posted 2026-10-30 2026-11-15",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Manager IT Service Management (ITSM)",
+   "company": "Workplace Safety and Insurance Board (WSIB)",
+   "location": "Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/manager-it-service-management-itsm-at-workplace-safety-and-insurance-board-wsib-4483485371",
+   "note": "via buffy-round3--2026-11-02--v3.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow"
   },
@@ -1825,6 +2065,26 @@
   },
   {
    "posted": "2026-10-30",
+   "title": "IT Operations & CMDB Analyst",
+   "company": "Purolator Inc.",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-operations-cmdb-analyst-at-purolator-inc-4485105171",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Full-Stack Developer (Digital Product Developer)",
+   "company": "House of Commons  / Chambre des communes",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5947323954",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-30",
    "title": "Conseiller technique principal ServiceNow",
    "company": "Bell",
    "location": "Toronto, Ontario",
@@ -1834,12 +2094,142 @@
    "familyLabel": "ServiceNow"
   },
   {
+   "posted": "2026-10-30",
+   "title": "Architecte de solutions- Salesforce",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/architecte-de-solutions-salesforce-at-ia-financial-group-industrial-alliance-4485632127",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Senior Salesforce QM tester",
+   "company": "Acestack",
+   "location": "Regent Park, City of Toronto",
+   "url": "https://www.adzuna.ca/details/5946061319",
+   "note": "via buffy-second-round--2026-11-02--v4.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Senior Architect I - Salesforce Commerce Cloud",
+   "company": "Groupe Dynamite",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5945999208",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Salesforce Commerce Cloud Architect",
+   "company": "Swim Recruiting",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5945999489",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Product Owner I (US) eGRC AI",
+   "company": "TD",
+   "location": "2 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Charlotte-North-Carolina/Product-Owner-I--US--eGRC-AI_R_1495342-1",
+   "note": "via buffy-round3--2026-11-02--v3.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "Salesforce Commerce Cloud Developer",
+   "company": "Eminence Organic Skin Care",
+   "location": "Vancouver, Greater Vancouver",
+   "url": "https://www.adzuna.ca/details/5942157871",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
    "posted": "2026-10-25",
    "title": "ServiceNow System Administrator",
    "company": "Bell",
    "location": "Toronto, ON / Montreal, QC",
    "url": "https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator",
-   "note": "via buffy-second-round--2026-11-02--v2.md",
+   "note": "via buffy-second-round--2026-11-02--v6.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-24",
+   "title": "Full-Stack Engineer, Internal Apps & AI",
+   "company": "Falcon Wealth Planning",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5940251216",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "other",
+   "familyLabel": "Other"
+  },
+  {
+   "posted": "2026-10-23",
+   "title": "Intermediate Salesforce Developer - 3319",
+   "company": "emergiTEL",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5939016247",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-22",
+   "title": "Sr. Salesforce Developer (Marketing Cloud)",
+   "company": "Periscope Search Group",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5937645138",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce"
+  },
+  {
+   "posted": "2026-10-22",
+   "title": "ServiceNow Solution Architect - FSO, FSM, CSM",
+   "company": "NewRocket",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5937651970",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-22",
+   "title": "ServiceNow Moveworks Developer & Architect",
+   "company": "NewRocket",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5937657900",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-21",
+   "title": "ServiceNow Developer (CONTRACT ROLE)",
+   "company": "Brookfield Properties",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5936503036",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow"
+  },
+  {
+   "posted": "2026-10-21",
+   "title": "ServiceNow Developer (CONTRACT ROLE)",
+   "company": "Brookfield",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5936490369",
+   "note": "via buffy-third-round--2026-11-02--v4.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow"
   }

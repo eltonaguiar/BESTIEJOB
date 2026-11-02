@@ -100,7 +100,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--today", default=None)
     ap.add_argument("--days", type=int, default=30)
-    ap.add_argument("--max-per-table", type=int, default=60)
+    ap.add_argument("--max-per-table", type=int, default=150)
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
