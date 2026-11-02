@@ -55,6 +55,21 @@ in postings found by other agents but never merged, and confirm that at least so
 - Adzuna rows are aggregator mirrors and are labelled as such in the README; none was claimed as
   employer-ATS confirmed.
 
+## Extra channels tried after the first push
+
+| Channel | Outcome |
+|---|---|
+| Brave / Tavily / Serper / Google CSE | No credential for any of them in `/home/eaguiar2015/dbpasses.txt`; not called |
+| Gemini `google_search` grounding | Live key works; returned 12 requisitions and 12 agencies, all job URLs `unverified` → not added |
+| Playwright on Talent.com | 38 ServiceNow + 40 Salesforce Toronto cards; 3 previously unlisted, added with their relative age only |
+| Playwright / curl_cffi on Jooble | 403 Cloudflare challenge |
+| Careerjet | 11 KB shell, no listing markup |
+| Eluta | 200 but no parseable cards or dates |
+
+Live model keys found and test-called: Gemini, DeepSeek, xAI Grok. Invalid or unusable:
+DeepInfra and Together (401), OpenRouter free models (404, needs credit), Mistral (429 at test
+time), Groq/Cerebras/NVIDIA (404/410 on the model name — key status inconclusive).
+
 ## Limitations
 
 - Adzuna's free tier and LinkedIn's guest endpoint both rate-limit (HTTP 429); retries were paced,

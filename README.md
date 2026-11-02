@@ -245,6 +245,30 @@ Eleven rows from `kilo/2026-11-02-sn-sf-expanded` (iA Financial architect, CGI M
 
 Fit: CGI asks for CSA **or** a CIS (ITSM / Discovery / Service Mapping / Event Mgmt / SAM), CMDB, Flow Designer, integrations - different req from CGI J0826-2028 already listed. WSIB is a people-manager ITSM role needing ITIL Foundation (held) and COBIT Foundation (not held) - reach. Sage lists Salesforce Flow / ServiceNow / Workato as preferred automation platforms - adjacent.
 
+## 2026-11-02 browser-rendered pass — Talent.com listings (dates relative)
+
+A Playwright/Chromium pass against boards that block plain HTTP fetches. Talent.com rendered **38 ServiceNow** and **40 Salesforce** cards for Toronto with its 24-hour filter; three of them were absent from this file. Their detail pages expose only a relative age ("1 day ago") and no `datePosted` JSON-LD, so the posted date is **not verified absolute** and these rows are deliberately kept out of the dated tables above.
+
+| Age shown on page | Role | Company | Location | Pay shown | Link |
+|---|---|---|---|---|---|
+| 1 day ago | ServiceNow Senior Developer | BDO | Bay St, Toronto | $84,000–$128,000/yr | [Talent.com](https://ca.talent.com/view?id=600243326026788821) |
+| 1 day ago | RQ11723 – Solutions Designer, CRM – Senior | Ontario health cluster (posted via Analyst Technical Solutions) | Toronto, onsite | not shown | [Talent.com](https://ca.talent.com/view?id=640802773619245995) |
+| 1 day ago | Salesforce Administrator – Remote | YO AI Labs | Toronto, remote | not shown | [Talent.com](https://ca.talent.com/view?id=638821561993405248) |
+
+Seen on the same pages and **not** added because they are older or already listed: Lightspeed ServiceNow Developer (15 days, already in this README), Bell Conseiller technique principal ServiceNow (26 days, already listed), TD Salesforce Loyalty Management Developer (14 days, already in the Workday sweep), OSI Digital Salesforce Lead (24 days), Randstad ServiceNow Developer (15 days) and Randstad Senior Salesforce Development Specialist (14 days).
+
+### Board and API access, measured 2026-11-02
+
+| Channel | Result |
+|---|---|
+| Talent.com | Renders under Playwright. Plain curl also returns 200, but the cards are JS-injected, so the browser was required. No absolute dates on detail pages. |
+| Jooble | HTTP **403** Cloudflare "Just a moment..." via both curl_cffi and Playwright. Not usable without a human check. |
+| Careerjet | Returns an ~11 KB shell with no listing markup and no dates. |
+| Eluta | 200, but results are not in `<article>` cards; no titles or dates extracted. |
+| Search APIs (Brave, Tavily, Serper, Google CSE) | **No key for any of them** in the credential file I was given, so none was called from this pass. |
+| Gemini `google_search` grounding | Works and returned 12 plausible ServiceNow/Salesforce requisitions plus 12 recruiting agencies, but every job URL came back `unverified`. Not added — unverifiable rows would regress the data quality this file already flags. |
+| Adzuna | Still the only source returning absolute `created` timestamps; all dated rows above rest on it, LinkedIn, Job Bank or an employer ATS. |
+
 ## 2026-11-02 employer-ATS sweep - ServiceNow and Salesforce (Toronto / Canada remote)
 
 **Checked: 2026-11-02 | Agent: Buffy.**
