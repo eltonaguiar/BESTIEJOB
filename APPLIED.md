@@ -23,3 +23,8 @@ to; they are kept here for tracking instead of the live tables.
 - **Re-add risk:** rows that also live in other contributors' `inbox/` files may be re-added
   to the README by a future `jobs_merge_inbox.py` run. If that happens, this file remains the
   record that the role was applied to.
+- **Update 2026-11-02 (later the same day):** a peer merge regenerated the README tables and
+  the applied rows above reappeared in them (Purolator ×2, Brookfield ×2, Benevity, BMO
+  R260030015). The BMO Automation Engineer row (R260029070) was also removed from Arlo's own
+  inbox file so his merges no longer re-add it. Durable fix for whoever maintains the merger:
+  exclude URLs listed in this file when regenerating the tables.

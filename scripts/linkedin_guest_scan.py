@@ -39,6 +39,14 @@ KEYWORDS = [
     "ServiceNow Architect", "ServiceNow Consultant",
     "Salesforce", "Salesforce Developer", "Salesforce Administrator",
     "Salesforce Consultant", "ITSM", "CMDB", "MuleSoft",
+    # Variants — postings hide behind these titles as often as the obvious ones
+    "ServiceNow ITSM", "ServiceNow ITAM", "ServiceNow ITOM",
+    "ServiceNow platform", "ServiceNow technical consultant",
+    "ServiceNow SecOps", "ITSM analyst", "ITAM analyst", "CMDB analyst",
+    "service management analyst", "Salesforce technical",
+    "Salesforce platform developer", "Salesforce CPQ", "Apex developer",
+    "Salesforce Marketing Cloud", "Salesforce Agentforce",
+    "CRM developer", "business systems analyst",
 ]
 LOCATIONS = ["Toronto%2C%20Ontario%2C%20Canada", "Canada"]
 
