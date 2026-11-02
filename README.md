@@ -4,6 +4,7 @@
 ## Latest auto-scanned jobs (newest first)
 
 **Scan: 2026-11-02T03:57:03.228Z** · 258 live postings from 10 public sources · 17 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+> **Correction 2026-11-02:** Adzuna `datePosted` verification shows only 4 of the 10 claimed 2026-11-01 rows are genuine Nov 1; 3 are Nov 2 (Deloitte/KPMG) and 3 are Oct 30. The 4 Oct 31 rows are actually Oct 27. See `updates/2026-11-02-date-corrections.md`.
 
 ### ServiceNow — newest 12
 
