@@ -1,37 +1,33 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T142832Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T144732Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (76)](#servicenow-jobs-76)
-  - [Salesforce jobs (76)](#salesforce-jobs-76)
-  - [Other jobs (71)](#other-jobs-71)
+  - [ServiceNow jobs (83)](#servicenow-jobs-83)
+  - [Salesforce jobs (78)](#salesforce-jobs-78)
+  - [Other jobs (75)](#other-jobs-75)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **223 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **236 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (76)
+### ServiceNow jobs (83)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 76 postings</strong></summary>
+<details><summary><strong>Show 83 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
-| 8 hours ago | [ServiceNow Developer](https://ca.indeed.com/viewjob?jk=84900769248065ae) | Lightspeed Commerce, Inc. | Ottawa, ON | Hands-on ServiceNow Developer, IT Platform team | Indeed/Lightspeed |
-| 7 hours ago | [Senior Analyst, Software Asset Management](https://www.workopolis.com/jobsearch/viewjob/n6UOBPPnzH9QNsZtcJb3nMeaxW1cQDsuQwpfBHgruNMpoMMzjO47Hn6rRIyg-7Oq) | OMERS | Toronto, ON | ServiceNow SAM Pro + Salesforce; software entitlement, discovery, normalization | Workopolis/OMERS |
-| 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UFCvcf6MoLp) | Lightspeed Commerce, Inc. | Toronto, ON | Performance tuning, RESTful API, ITIL Certification | Workopolis/Lightspeed |
-| 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/kb-FDzAD1CpbRzck4uIlmzc_hsBnI_gBEfAnY4pquMHvJN7m1INfH79IrEamLzPK) | Lightspeed Commerce, Inc. | Ottawa, ON | 8 hours ago; Performance tuning, RESTful API, CSS, Incident management | Workopolis/Lightspeed |
+| 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UFCvcf6MoLp) | Lightspeed Commerce, Inc. | Toronto, ON | Performance tuning, RESTful API, ITIL Certification Workopolis/Lightspeed |
+| 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/kb-FDzAD1CpbRzck4uIlmzc_hsBnI_gBEfAnY4pquMHvJN7m1INfH79IrEamLzPK) | Lightspeed Commerce, Inc. | Ottawa, ON | 8 hours ago; Performance tuning, RESTful API, CSS, Incident management Workopolis/Lightspeed |
 | 2026-11-02 | [ServiceNow Developer](https://www.adzuna.ca/details/5926069932) | Zaelab | Montreal, QC | ServiceNow practice role; configuring and supporting ServiceNow solutions Adzuna 5926069932 |
-| 2026-11-01 | [Analyst, IT Support (6 Months Contract)](https://www.workopolis.com/jobsearch/viewjob/oYzCdfpeFTqZHKolYQJRBqrgjDy_im8K7VcA-gXl3pD6xUzECTVmteYlKaJ_rToH) | OMERS | Toronto, ON | ServiceNow, PowerShell, Python, SQL, APIs, Cybersecurity | Workopolis/OMERS |
-| 5 days ago | [Senior Manager, ServiceNow - Operate](https://www.workopolis.com/jobsearch/viewjob/uUKmcu8zFzpGRq-SUqAX3vaTgm0pSaNGCMlyaco21Ya_v7vNF9QtrDnYp1D-7asA) | Deloitte | Toronto, ON | ServiceNow managed services practice; ITIL Certification | Workopolis/Deloitte |
-| 2026-11-01 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow Adzuna 5948954490 |
+| 2026-11-02 | [ITAM Management (Mid Level)](https://ca.linkedin.com/jobs/view/itam-management-mid-level-at-soho-square-solutions-4484365333) | Soho Square Solutions | Montreal, Quebec, Canada | via linkedin-guest--2026-11-02--v1.md |
 | 2026-11-01 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow Adzuna 5948954490 |
 | 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948976549?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Québec | ServiceNow Adzuna 5948976549 — distinct req from the Drummondville pair already listed |
 | 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948965055?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow Adzuna 5948965055 |
@@ -109,29 +105,19 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-21 | [ServiceNow Developer (CONTRACT ROLE)](https://www.adzuna.ca/details/5936503036) | Brookfield Properties | Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-21 | [ServiceNow Developer (CONTRACT ROLE)](https://www.adzuna.ca/details/5936490369) | Brookfield | Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-19 | [ServiceNow Senior Technical Advisor (432829)](https://jobs.bell.ca/ca/en/job/432829/ServiceNow-Senior-Technical-Advisor) | Bell | Toronto / Montreal | Bell Phenom widgets API postedDate 2026-10-19 |
+| 2026-10-17 | [Senior ServiceNow Developer (ITOM)](https://systematix.com/opportunity/senior-servicenow-developer-itom-2/) | Systematix | Remote, Canada | via arlo--2026-11-02--v1.md |
+| 2026-10-09 | [Business Specialist (IT Business Analyst/Administrator - ServiceNow)](https://www.jobs.ca/it-connex/jobs/business-specialist-toronto-on-c0254d1d7faf) | IT Connex | Toronto, ON | via arlo--2026-11-02--v1.md |
 
 </details>
 
-### Salesforce jobs (76)
+### Salesforce jobs (78)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 76 postings</strong></summary>
+<details><summary><strong>Show 78 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
-| 1 hour ago | [Billing Support Specialist](https://www.workopolis.com/jobsearch/viewjob/NeUCt_Cb-WuW8e1S_FtyPQSZ6F8DMXYe6J84hU1bsy8vmWoI10YuVOKcS7ujhWb6) | Lightspeed Commerce, Inc. | Montréal, QC | Salesforce Platform, Zendesk, CRM | Workopolis/Lightspeed |
-| 1 hour ago | [Intermediate Pricing Analyst](https://www.workopolis.com/jobsearch/viewjob/dDsSVJ_dN8nGyeRe3lgWvNwuyuimE8kWj9sGY5UtzIgPPc59OHVIUmIWOjC4GLi2) | Manulife | Toronto, ON | Salesforce Platform, Power BI, financial reporting | Workopolis/Manulife |
-| 7 hours ago | [Senior Analyst, Software Asset Management](https://www.workopolis.com/jobsearch/viewjob/n6UOBPPnzH9QNsZtcJb3nMeaxW1cQDsuQwpfBHgruNMpoMMzjO47Hn6rRIyg-7Oq) | OMERS | Toronto, ON | ServiceNow SAM Pro + Salesforce; software entitlement, discovery | Workopolis/OMERS |
-| 20 hours ago | [B2B Salesforce Administrator](https://www.workopolis.com/search?l=Toronto%252c%2520on&q=staples%2Bsalesforce) | Staples | Richmond Hill, ON | $64,300–$80,350/yr; Salesforce, analysis, communication | Workopolis/Staples |
-| 1 day ago | [Licensed Insurance Advisor](https://www.workopolis.com/jobsearch/viewjob/7iYs2i4oPqzTHK8UgtrWj26LHNW62pWlu4t-Z8NGCuTb3dUl1hwUskJcil2yv8C5) | Manulife | Toronto, ON | Salesforce Platform, inside sales, customer relationship | Workopolis/Manulife |
-| 1 day ago | [Outbound Capital Account Executive](https://www.workopolis.com/jobsearch/viewjob/V3gLu00KGypm9761-50-3M3Km0khSKoKxOFRKGxkjNFnA5xciEr8SdIueLsIa1cA) | Lightspeed Commerce, Inc. | Toronto, ON | Salesforce Platform, pipeline management, B2B sales | Workopolis/Lightspeed |
-| — | [Salesforce Architect](https://emplois.ca.indeed.com/q-salesforce-administrator-l-toronto,-on-emplois.html) | CGI | Toronto, ON | $115,000–$165,000/yr; designing and delivering secure Salesforce solutions | Indeed/CGI |
-| — | [Senior Salesforce Developer](https://emplois.ca.indeed.com/q-salesforce-administrator-l-toronto,-on-emplois.html) | CGI | Toronto, ON | $80,000–$130,000/yr; scalable enterprise Salesforce solutions | Indeed/CGI |
-| — | [Salesforce Technical Manager](https://emplois.ca.indeed.com/q-salesforce-administrator-l-toronto,-on-emplois.html) | PwC Canada | Toronto, ON | $112,400–$162,400/yr | Indeed/PwC |
-| — | [Salesforce Omnistudio Lead](https://emplois.ca.indeed.com/q-salesforce-administrator-l-toronto,-on-emplois.html) | Cognizant | Toronto, ON | $70,000–$120,000/yr | Indeed/Cognizant |
-| — | [Salesforce Solution Architect](https://emplois.ca.indeed.com/q-salesforce-administrator-l-toronto,-on-emplois.html) | Capgemini Sogeti | Burlington, ON | $123,750–$282,000/yr; Life Sciences COE Leader | Indeed/Capgemini |
-| — | [Salesforce Integration and Data Liaison](https://emplois.ca.indeed.com/q-salesforce-administrator-l-toronto,-on-emplois.html) | Capgemini Sogeti | Burlington, ON | $73,150–$174,000/yr; APIs | Indeed/Capgemini |
 | 2026-11-02 | [Senior Salesforce Technical Consultant](https://www.adzuna.ca/details/5950547938) | CYNET SYSTEMS | Mississauga, Peel region |  |
 | 2026-11-02 | [Senior Consultant - Salesforce](https://www.adzuna.ca/details/5950543320) | fusionSpan | Toronto, Ontario |  |
 | 2026-11-02 | [Salesforce Functional Manager](https://ca.linkedin.com/jobs/view/salesforce-functional-manager-at-kpmg-canada-4434210237) | KPMG Canada | Montreal, Quebec, Canada |  |
@@ -201,6 +187,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-30 | [Salesforce DevOps Lead](https://ca.linkedin.com/jobs/view/salesforce-devops-lead-fulltime-toronto-on-at-acestack-4484864255) | AceStack | Toronto, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-30 | [Salesforce Architect- FSC](https://ca.linkedin.com/jobs/view/salesforce-architect-fsc-at-delpath-4485622243) | Delpath | Toronto, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-30 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-rideco-on-demand-transit-4484883003) | RideCo On-Demand Transit | Waterloo, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
+| 2026-10-30 | [Manager, Banking Salesforce Innovation & Enablement](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260030015EXTERNALENCA/Manager-Banking-Salesforce-Innovation-Enablement) | BMO | Toronto, Ontario | via employer-sitemap--2026-11-02--v1.md |
 | 2026-10-30 | [Architecte de solutions- Salesforce](https://ca.linkedin.com/jobs/view/architecte-de-solutions-salesforce-at-ia-financial-group-industrial-alliance-4485632127) | iA Financial Group (Industrial Alliance) | Québec, Quebec, Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-29 | [Senior Salesforce QM tester](https://www.adzuna.ca/details/5946061319) | Acestack | Regent Park, City of Toronto | via buffy-second-round--2026-11-02--v4.md |
 | 2026-10-29 | [Senior Architect I - Salesforce Commerce Cloud](https://www.adzuna.ca/details/5945999208) | Groupe Dynamite | Canada | via buffy-third-round--2026-11-02--v4.md |
@@ -208,14 +195,15 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-26 | [Salesforce Commerce Cloud Developer](https://www.adzuna.ca/details/5942157871) | Eminence Organic Skin Care | Vancouver, Greater Vancouver | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-23 | [Intermediate Salesforce Developer - 3319](https://www.adzuna.ca/details/5939016247) | emergiTEL | Canada | via buffy-third-round--2026-11-02--v4.md |
 | 2026-10-22 | [Sr. Salesforce Developer (Marketing Cloud)](https://www.adzuna.ca/details/5937645138) | Periscope Search Group | Ontario, Canada | via buffy-third-round--2026-11-02--v4.md |
+| 2026-10-13 | [Salesforce Technical Lead (Req 00070906481)](https://careers.cognizant.com/apj-en/jobs/00070906481/salesforce-techical-lead/) | Cognizant | Remote, Canada | via arlo--2026-11-02--v1.md |
 
 </details>
 
-### Other jobs (71)
+### Other jobs (75)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 71 postings</strong></summary>
+<details><summary><strong>Show 75 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -278,6 +266,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-01 | [Business Analyst, Microsoft Dynamics CE / Power Platform](https://www.adzuna.ca/details/5948996988?utm_medium=api&utm_source=54ce986e) | CGI | Montréal, Québec | Enterprise CRM platform BA Adzuna 5948996988 |
 | 2026-11-01 | [Business Analyst Specialist I - Marketing & Risk Management](https://www.adzuna.ca/details/5949020681?utm_medium=api&utm_source=54ce986e) | Enbridge | Calgary, Alberta | IT risk management reporting Adzuna 5949020681 |
 | 2026-11-01 | [BI Engineer](https://www.adzuna.ca/details/5949577037) | Four Seasons | Toronto, Ontario | Data / BI adzuna |
+| 2026-11-01 | [Analyst, IT Support (6 Months Contract)](https://www.workopolis.com/jobsearch/viewjob/oYzCdfpeFTqZHKolYQJRBqrgjDy_im8K7VcA-gXl3pD6xUzECTVmteYlKaJ_rToH) | OMERS | Toronto, ON | ServiceNow, PowerShell, Python, SQL, APIs, Cybersecurity Workopolis/OMERS |
 | 2026-11-01 | [Advanced Deployment Technical Consultant](https://www.adzuna.ca/details/5948974291?utm_medium=api&utm_source=54ce986e) | Hewlett Packard Enterprise | Greater Vancouver, BC | Technical consulting / deployment Adzuna 5948974291 |
 | 2026-10-31 | [Senior MuleSoft Integration Developer](https://www.adzuna.ca/details/5948276684) | S.i. Systems | Calgary, AB | via buffy-second-round--2026-11-02--v6.md |
 | 2026-10-31 | [Senior Full-Stack Developer (Senior Digital Product Developer)](https://www.adzuna.ca/details/5947988378) | House of Commons  / Chambre des communes | Ottawa, Ottawa region | via buffy-third-round--2026-11-02--v4.md |
@@ -291,6 +280,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-29 | [Product Owner I (US) eGRC AI](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Charlotte-North-Carolina/Product-Owner-I--US--eGRC-AI_R_1495342-1) | TD | 2 Locations | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-29 | [Network Operations Analyst (R-0000191399)](https://jobs.rbc.com/ca/en/job/R-0000191399) | RBC | Toronto, ON | RBC Phenom widgets API postedDate 2026-10-29; ServiceNow keyword — ITSM/network ops |
 | 2026-10-27 | [Senior I&IT Business Analyst (req 117337)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117337) | Metrolinx | Canada (GTA) | Metrolinx Oracle CE API PostedDate 2026-10-27 |
+| 2026-10-25 | [Automation Engineer (R260029070)](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260029070EXTERNALENCA/Automation-Engineer) | BMO | Toronto, ON | via arlo--2026-11-02--v1.md |
 | 2026-10-24 | [Full-Stack Engineer, Internal Apps & AI](https://www.adzuna.ca/details/5940251216) | Falcon Wealth Planning | Canada | via buffy-third-round--2026-11-02--v4.md |
 
 </details>
@@ -361,4 +351,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T142832Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T144732Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
