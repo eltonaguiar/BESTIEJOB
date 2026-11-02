@@ -1,4 +1,4 @@
-﻿ï»¿# BESTIEJOB
+# BESTIEJOB
 
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
@@ -92,6 +92,44 @@ The BMO role is a **related Salesforce management/enablement position**, not a c
 Job Bank Canada, Indeed, Randstad search, Workday board HTML and Alldus all returned JavaScript-only shells without machine-readable posting dates on this sweep. No CAPTCHA, login or bot-protection bypass was attempted, so their silence is not evidence of no vacancies. Guessed Workday tenant/site slugs returning 404/422 were dropped rather than reported as empty boards. No application was submitted.
 
 [Full method, timings and per-board outcomes](Platform-Jobs-Buffy-2026-11-02-ats-sweep.md)
+
+## 2026-11-02 scan — ServiceNow / Salesforce fresh postings (Nov 1 + Oct 31)
+
+**Scanned:** 2026-11-02 via Adzuna CA API (`sort_by=date`). Keywords: ServiceNow, ServiceNow Administrator, ServiceNow Developer, ServiceNow CSA, ServiceNow CAD, ServiceNow Architect, Salesforce Administrator, Salesforce Platform Administrator, Salesforce Platform Developer, Salesforce Platform Developer I, Salesforce Developer, Salesforce Consultant, Salesforce Admin. Locations: Toronto, Ontario, Remote, Canada, Vancouver, Montreal, Calgary, Ottawa.
+
+**Filter:** title contains ServiceNow or Salesforce; `postedDate` is 2026-11-01 or 2026-10-31; de-duplicated against `jobs.json` (14,356 existing records). All rows below are aggregator-sourced (Adzuna) and **not** confirmed on the employer ATS — open the Apply page before applying.
+
+Found **18 genuine postings**: **5 ServiceNow** + **13 Salesforce** = **14 posted 2026-11-01** and **4 posted 2026-10-31**. Toronto-first ordering within each day. (Four rows — both CloudKettle architect roles and both Maarut technical leads — added 2026-11-02 from a second Adzuna `max_days_old=2` sweep.)
+
+### Posted 2026-11-01 (14)
+
+| Posted | Role | Company | Location | Family | Source |
+|---|---|---|---|---|---|
+| 2026-11-01 | [Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971672?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | ServiceNow | Adzuna 5949971672 |
+| 2026-11-01 | [Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971682?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | ServiceNow | Adzuna 5949971682 |
+| 2026-11-01 | [Manager - ServiceNow](https://www.adzuna.ca/details/5949968733?utm_medium=api&utm_source=54ce986e) | KPMG | Montréal, Québec | ServiceNow | Adzuna 5949968733 |
+| 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948965055?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow | Adzuna 5948965055 |
+| 2026-11-01 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow | Adzuna 5948954490 |
+| 2026-11-01 | [Senior Salesforce BSA - Financial Services Cloud](https://www.adzuna.ca/details/5949576437?utm_medium=api&utm_source=54ce986e) | Procom-b5a780c3 | Toronto, Ontario | Salesforce | Adzuna 5949576437 |
+| 2026-11-01 | [Salesforce Administrator — Natural Health — Hybrid in Toronto — $60-75k Benefits](https://www.adzuna.ca/details/5948993217?utm_medium=api&utm_source=54ce986e) | White Bay | Toronto, Ontario | Salesforce | Adzuna 5948993217 — same vacancy as Adzuna 5948025592 (Oct 31) |
+| 2026-11-01 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5949576662?utm_medium=api&utm_source=54ce986e) | Benevity | Canada | Salesforce | Adzuna 5949576662 |
+| 2026-11-01 | [Salesforce Industries Cloud Architect (Remote)](https://www.adzuna.ca/land/ad/5949286090?se=qo1DC27W8RGrvbExKG7j7Q&utm_medium=api&utm_source=54ce986e&v=9291CED0FA9F63D52C2487D71ABE0326B3874D25) | CloudKettle Inc | Toronto, Ontario | Salesforce | Adzuna 5949286090 |
+| 2026-11-01 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5948997248?utm_medium=api&utm_source=54ce986e) | Docebo | Toronto, Ontario | Salesforce | Adzuna 5948997248 |
+| 2026-11-01 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5949286084?utm_medium=api&utm_source=54ce986e) | CloudKettle Inc | Toronto, Ontario | Salesforce | Adzuna 5949286084 — corroborates the undated Workopolis peer claim lower in this README |
+| 2026-11-01 | [Marketing Cloud Solution Architect (Remote)](https://www.adzuna.ca/details/5949286092?utm_medium=api&utm_source=54ce986e) | CloudKettle Inc | Toronto, Ontario | Salesforce | Adzuna 5949286092 |
+| 2026-11-01 | [Salesforce Technical Lead – Financial Services Cloud](https://www.adzuna.ca/details/5949576474?utm_medium=api&utm_source=54ce986e) | Maarut | Laval, Québec | Salesforce | Adzuna 5949576474 — likely repost of Adzuna 5947169594 (Oct 30, Montréal) |
+| 2026-11-01 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5949576385?utm_medium=api&utm_source=54ce986e) | Maarut Inc | Montréal, Québec | Salesforce | Adzuna 5949576385 |
+
+### Posted 2026-10-31 (4)
+
+| Posted | Role | Company | Location | Family | Source |
+|---|---|---|---|---|---|
+| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948021504?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5948021504 |
+| 2026-10-31 | [Salesforce CPQ Lead Developer](https://www.adzuna.ca/details/5947990936?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Caledon, Peel region | Salesforce | Adzuna 5947990936 |
+| 2026-10-31 | [Software Engineer Salesforce Marketing Cloud](https://www.adzuna.ca/details/5948027140?utm_medium=api&utm_source=54ce986e) | Hour Consulting Corporation | Toronto, Ontario | Salesforce | Adzuna 5948027140 |
+| 2026-10-31 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5947998738?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Caledon, Peel region | Salesforce | Adzuna 5947998738 |
+
+---
 
 ## 2026-11-01 recovered README addition - Copilot review
 
@@ -217,40 +255,6 @@ The other nine, and why they are not in this file:
 
 ---
 
-## 2026-11-02 scan — ServiceNow / Salesforce fresh postings (Nov 1 + Oct 31)
-
-**Scanned:** 2026-11-02 via Adzuna CA API (`sort_by=date`). Keywords: ServiceNow, ServiceNow Administrator, ServiceNow Developer, ServiceNow CSA, ServiceNow CAD, ServiceNow Architect, Salesforce Administrator, Salesforce Platform Administrator, Salesforce Platform Developer, Salesforce Platform Developer I, Salesforce Developer, Salesforce Consultant, Salesforce Admin. Locations: Toronto, Ontario, Remote, Canada, Vancouver, Montreal, Calgary, Ottawa.
-
-**Filter:** title contains ServiceNow or Salesforce; `postedDate` is 2026-11-01 or 2026-10-31; de-duplicated against `jobs.json` (14,356 existing records). All rows below are aggregator-sourced (Adzuna) and **not** confirmed on the employer ATS — open the Apply page before applying.
-
-Found **14 genuine postings**: **5 ServiceNow** + **9 Salesforce** = **10 posted 2026-11-01** and **4 posted 2026-10-31**. Toronto-first ordering within each day.
-
-### Posted 2026-11-01 (10)
-
-| Posted | Role | Company | Location | Family | Source |
-|---|---|---|---|---|---|
-| 2026-11-01 | [Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971672?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | ServiceNow | Adzuna 5949971672 |
-| 2026-11-01 | [Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971682?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | ServiceNow | Adzuna 5949971682 |
-| 2026-11-01 | [Manager - ServiceNow](https://www.adzuna.ca/details/5949968733?utm_medium=api&utm_source=54ce986e) | KPMG | Montréal, Québec | ServiceNow | Adzuna 5949968733 |
-| 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948965055?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow | Adzuna 5948965055 |
-| 2026-11-01 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow | Adzuna 5948954490 |
-| 2026-11-01 | [Senior Salesforce BSA - Financial Services Cloud](https://www.adzuna.ca/details/5949576437?utm_medium=api&utm_source=54ce986e) | Procom-b5a780c3 | Toronto, Ontario | Salesforce | Adzuna 5949576437 |
-| 2026-11-01 | [Salesforce Administrator — Natural Health — Hybrid in Toronto — $60-75k Benefits](https://www.adzuna.ca/details/5948993217?utm_medium=api&utm_source=54ce986e) | White Bay | Toronto, Ontario | Salesforce | Adzuna 5948993217 |
-| 2026-11-01 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5949576662?utm_medium=api&utm_source=54ce986e) | Benevity | Canada | Salesforce | Adzuna 5949576662 |
-| 2026-11-01 | [Salesforce Industries Cloud Architect (Remote)](https://www.adzuna.ca/land/ad/5949286090?se=qo1DC27W8RGrvbExKG7j7Q&utm_medium=api&utm_source=54ce986e&v=9291CED0FA9F63D52C2487D71ABE0326B3874D25) | CloudKettle Inc | Toronto, Ontario | Salesforce | Adzuna 5949286090 |
-| 2026-11-01 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5948997248?utm_medium=api&utm_source=54ce986e) | Docebo | Toronto, Ontario | Salesforce | Adzuna 5948997248 |
-
-### Posted 2026-10-31 (4)
-
-| Posted | Role | Company | Location | Family | Source |
-|---|---|---|---|---|---|
-| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948021504?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | Salesforce | Adzuna 5948021504 |
-| 2026-10-31 | [Salesforce CPQ Lead Developer](https://www.adzuna.ca/details/5947990936?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Caledon, Peel region | Salesforce | Adzuna 5947990936 |
-| 2026-10-31 | [Software Engineer Salesforce Marketing Cloud](https://www.adzuna.ca/details/5948027140?utm_medium=api&utm_source=54ce986e) | Hour Consulting Corporation | Toronto, Ontario | Salesforce | Adzuna 5948027140 |
-| 2026-10-31 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5947998738?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Caledon, Peel region | Salesforce | Adzuna 5947998738 |
-
----
-
 ## 2026-10-31 update — dated postings, unsynced branches, World Forum portals
 
 **Added 2026-10-31 by Buffy (Playwright portal scan).** Counts computed against `origin/main` at `40cd0fd`. This section sits above the auto-generated index so a regenerator cannot overwrite it.
@@ -275,6 +279,7 @@ Two gaps prompted it:
 | 2026-11-01 | Conseiller principal, AI - Now Assist | Deloitte | Toronto | — | ServiceNow | [LinkedIn](https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-intelligence-artificielle-now-assist-at-deloitte-4459418991) |
 | 2026-11-01 | Senior Consultant, ITOM / Discovery | Deloitte | Toronto | — | ServiceNow | [LinkedIn](https://ca.linkedin.com/jobs/view/senior-consultant-it-operations-management-discovery-at-deloitte-4460512143) |
 
+### Posted 2026-10-31 (53 postings — 28 Canadian + 25 aggregator additions)
 
 | Posted | Role | Employer | Location | Salary | Family | Source |
 |---|---|---|---|---|---|---|
