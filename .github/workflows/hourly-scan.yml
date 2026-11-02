@@ -40,6 +40,24 @@ jobs:
           NODE_ENV: production
         run: node scripts/daily_job_scan.mjs --no-readme
 
+      - name: Gap scan (partner career sites + keyword variants)
+        continue-on-error: true
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_API_KEY: ${{ secrets.ADZUNA_API_KEY }}
+        run: node scripts/gap_scan.mjs
+
+      # Nothing in CI used to merge inbox/ — peer and gap-scan submissions only
+      # reached README.md when someone ran the merger by hand. The 150/family
+      # default also archived ~15 rows per table, so they never showed up.
+      - name: Merge inbox submissions into README
+        run: |
+          if [ -n "$(git status --porcelain -- inbox)" ]; then
+            python3 tools/jobs_merge_inbox.py --max-per-table 400
+          else
+            echo "no new inbox submissions"
+          fi
+
       - name: Sync curated README rows into the feed
         run: node scripts/sync_readme_to_jobs.mjs
 
@@ -51,7 +69,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add jobs.json public/jobs.json public/gotjob/jobs.json public/findjobs/jobs.json public/jobs-data.json public/index.html FRESH_JOBS.md README.md
+          git add jobs.json public/jobs.json public/gotjob/jobs.json public/findjobs/jobs.json public/jobs-data.json public/index.html FRESH_JOBS.md README.md inbox
 
           if git diff --cached --quiet; then
             echo "No changes to commit"

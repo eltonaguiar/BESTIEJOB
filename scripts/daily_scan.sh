@@ -31,13 +31,23 @@ STARTED="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
   echo "=== scan exit $RC at $(date -u +%Y-%m-%dT%H:%M:%SZ) ==="
 
   if [ "$RC" -eq 0 ] && [ "${1:-}" != "--dry-run" ]; then
-    # Curated README rows (inbox merges, partner finds) must also reach the
-    # jobs.json feed, otherwise the API and app.js never see them.
-    node scripts/sync_readme_to_jobs.mjs || echo "readme sync failed (non-fatal)"
     # Partner career pages + today-only keyword variants the aggregators miss.
+    # Undated partner postings are submitted to inbox/ (model gap-scan) instead
+    # of landing in raw/ only, so they enter the same review queue as every
+    # other agent's finds instead of being invisible.
     if [ "${SCAN_GAP:-1}" = "1" ]; then
       node scripts/gap_scan.mjs || echo "gap scan failed (non-fatal)"
     fi
+    # Fold new inbox submissions into README. Guarded on uncommitted inbox
+    # changes: without the guard every run re-bumps every submission's version
+    # suffix and mints an empty README.BAK archive.
+    if [ -n "$(git status --porcelain -- inbox 2>/dev/null)" ]; then
+      python3 tools/jobs_merge_inbox.py --max-per-table "${SCAN_INBOX_CAP:-400}" \
+        || echo "inbox merge failed (non-fatal)"
+    fi
+    # Curated README rows (inbox merges, partner finds) must also reach the
+    # jobs.json feed, otherwise the API and app.js never see them.
+    node scripts/sync_readme_to_jobs.mjs || echo "readme sync failed (non-fatal)"
     # The live page renders public/jobs-data.json built from README.md, so it
     # must be rebuilt after every scan or it serves yesterday's rows.
     python3 tools/build_site.py || echo "site build failed (non-fatal)"

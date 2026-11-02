@@ -115,3 +115,64 @@ The net-new volume from this run came from the Adzuna today-only variant pass:
   rather than in the feed. Check that file when a known role is missing.
 - `jobs.json` `source` is now `readme` for curated rows and
   `site:<partner>` for gap-scan rows, so the UI source filter can separate them.
+
+## Follow-up: undated partner postings now go to the inbox
+
+### The gap
+
+`raw/gap_scan_<date>.json` was a dead end: the Playwright pass wrote undated
+partner postings there and nothing downstream ever read the file, so a live role
+on a partner site (Lane Four, Ateko, Cofomo) had no route to `README.md`, the
+page or the feed.
+
+### Change
+
+`scripts/gap_scan.mjs` now writes `inbox/gap-scan--<date>--v<N>.md` — the same
+queue every agent submits to — instead of stopping at `raw/`. Dated rows merge
+normally; undated rows carry `—` in the Posted column, which
+`tools/jobs_merge_inbox.py` skips by design, so "unknown" can never become an
+invented date. The file follows the protocol's `<model>--<date>--v<N>.md`
+convention and is skipped entirely when its URLs are already covered by today's
+existing `gap-scan` submissions (`--no-inbox` disables it).
+
+Because it is a normal submission, the merge step in `daily_scan.sh` and the new
+`Merge inbox submissions into README` step in `hourly-scan.yml` pick it up with
+everything else.
+
+Verified: `node scripts/gap_scan.mjs --sites` wrote
+`inbox/gap-scan--2026-11-02--v1.md` with 0 dated and 2 undated rows; the merger's
+dry run parsed 529 incoming rows and left both em-dash rows untouched.
+
+### Lane Four Salesforce postings — why they are not on the page
+
+The two undated candidates are `lanefour.com/job-posting/salesforce-consultant/`
+and `.../salesforce-administrator/`. Neither page shows a "Posted" line, and
+their JSON-LD `datePublished` is **2021-08-03** and **2026-06-01** — both outside
+the 30-day window, and the first is clearly a page-creation artefact rather than
+a posting date. Adding them would mean asserting a date the employer does not
+publish, and the merger would archive them on the next run anyway, so they stay in
+the inbox submission for review instead of the live tables.
+
+## Other agents' submissions that never surfaced
+
+Checked after the report that other agents' work was missing from `main` / Pages:
+
+1. **No CI step ran the merger.** `hourly-scan.yml` and `scrape_jobs.yml` both
+   committed `README.md` but neither invoked `tools/jobs_merge_inbox.py`, so 78
+   inbox submissions from 12+ models could only land when someone ran the merge
+   locally.
+2. **The per-table cap silently archived ~450 live rows.** Every pipeline call
+   used the tool's `--max-per-table 150` default. With 933 unique rows inside the
+   30-day window (251 ServiceNow / 282 Salesforce / 400 other), ~449 of them were
+   written to `README.BAK_*` instead of `README.md` — and the page is built from
+   `README.md`. Pipelines now pass `--max-per-table 400`; a merge at that cap
+   produced a 968-row README, 813 cards, and a passing
+   `scripts/check_site_links.py`.
+3. **The feed/sync/scan fixes were never on `main`.** `HEAD` is
+   `job-list-merged-inbox-2026-11-02`; `origin/main` kept taking hourly-scan
+   commits (`9f49de2` …) with the pre-fix code, so `jobs.json` on `main` still
+   lacked the curated rows even though they were in the README.
+4. **Inbox version bumps were left uncommitted.** Running the merger renames every
+   submission `vN → vN+1`; those renames were never committed, so the remote
+   `inbox/` drifted from the local one. `hourly-scan.yml` now commits `inbox`
+   together with the job data.

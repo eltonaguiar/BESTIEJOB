@@ -12,7 +12,10 @@
  * Each site is loaded in headless Chromium, JobPosting JSON-LD and
  * keyword-matching anchors are collected, and undated candidates are opened
  * (capped) to read their datePosted. Dates are never invented: a posting with
- * no published date is written to raw/ as undated and left out of the feed.
+ * no published date goes into an inbox/ submission (model `gap-scan`) with an
+ * em dash in the Posted column and is left out of the feed. The inbox is the
+ * repo's review queue — tools/jobs_merge_inbox.py merges dated rows and skips
+ * undated ones, so nothing reaches README or the page without a real date.
  *
  * Output rows use the same schema as scripts/daily_job_scan.mjs and are merged
  * into jobs.json + the three public copies.
@@ -22,6 +25,7 @@
  *   node scripts/gap_scan.mjs --sites        # Playwright only
  *   node scripts/gap_scan.mjs --adzuna       # Adzuna variants only
  *   node scripts/gap_scan.mjs --dry-run      # print, write nothing
+ *   node scripts/gap_scan.mjs --no-inbox     # skip the inbox/ submission
  */
 
 import fs from "fs";
@@ -36,6 +40,7 @@ const FLAGS = new Set(process.argv.slice(2));
 const DRY = FLAGS.has("--dry-run");
 const ONLY_SITES = FLAGS.has("--sites");
 const ONLY_ADZUNA = FLAGS.has("--adzuna");
+const NO_INBOX = FLAGS.has("--no-inbox");
 
 const NOW = new Date();
 const NOW_ISO = NOW.toISOString();
@@ -350,14 +355,22 @@ async function scanSites() {
         excerpt: c.excerpt,
       });
       if (job) dated.push(job);
-      else if (!c.postedDate) raw.undated.push({ site: c.siteName, title: c.title, url: c.url });
+      else if (!c.postedDate)
+        raw.undated.push({
+          site: c.siteName,
+          title: (c.title || "").replace(/\s+/g, " ").trim(),
+          company: c.company || c.siteName,
+          location: (c.location || "").replace(/\s+/g, " ").trim(),
+          url: c.url,
+          excerpt: (c.excerpt || "").replace(/\s+/g, " ").slice(0, 160),
+        });
     }
 
     raw.dated = dated;
     console.log(
       `[gap] sites dateable=${dated.length} undated=${raw.undated.length} (detail pages opened=${toVisit.length})`
     );
-    return { jobs: dated, raw };
+    return { jobs: dated, undated: raw.undated, raw };
   } finally {
     await ctx.close();
     await browser.close();
@@ -403,6 +416,121 @@ async function scanAdzunaVariants() {
   for (const list of perQuery) jobs.push(...list);
   console.log(`[gap:adzuna] variants=${ADZUNA_VARIANTS.length} today-only matches=${jobs.length}`);
   return jobs;
+}
+
+// ---------------------------------------------------------------------------
+// inbox/ submission
+//
+// Undated partner postings used to land only in raw/, where nothing reads them.
+// They now enter the inbox/ submission queue, which is where every agent's
+// finds are reviewed. The Posted cell stays an em dash on purpose:
+// tools/jobs_merge_inbox.py only merges rows whose date is a real YYYY-MM-DD,
+// so "unknown" can never silently become a fabricated posting date.
+
+const INBOX = path.join(ROOT, "inbox");
+const INBOX_MODEL = "gap-scan";
+
+function mdCell(value) {
+  return String(value ?? "")
+    .replace(/\|/g, "/")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function todaySubmissions(iso) {
+  const re = new RegExp(`^${INBOX_MODEL}--${iso}--v(\\d+)\\.md$`, "i");
+  let max = 0;
+  const files = [];
+  try {
+    for (const f of fs.readdirSync(INBOX)) {
+      const m = f.match(re);
+      if (!m) continue;
+      files.push(f);
+      max = Math.max(max, Number(m[1]));
+    }
+  } catch {
+    /* no inbox/ yet */
+  }
+  return { files, max };
+}
+
+function writeInbox({ dated, undated, scannedAt }) {
+  if (DRY) {
+    console.log(`[gap] inbox (dry run): ${dated.length} dated, ${undated.length} undated`);
+    return null;
+  }
+  const iso = scannedAt.slice(0, 10);
+  fs.mkdirSync(INBOX, { recursive: true });
+
+  const { files, max } = todaySubmissions(iso);
+  const already = new Set();
+  for (const f of files) {
+    const text = fs.readFileSync(path.join(INBOX, f), "utf8");
+    for (const m of text.matchAll(/https?:\/\/[^)\s|]+/g)) already.add(urlKey(m[0]));
+  }
+
+  const freshDated = dated.filter((j) => !already.has(urlKey(j.url)));
+  const seen = new Set();
+  const freshUndated = undated.filter((j) => {
+    const k = urlKey(j.url);
+    if (!k || seen.has(k) || already.has(k)) return false;
+    seen.add(k);
+    return true;
+  });
+
+  if (!freshDated.length && !freshUndated.length) {
+    console.log(
+      `[gap] inbox: nothing new (${files.length} submission(s) already cover these candidates)`
+    );
+    return null;
+  }
+
+  const target = path.join(INBOX, `${INBOX_MODEL}--${iso}--v${max + 1}.md`);
+  const lines = [
+    "---",
+    `model: ${INBOX_MODEL}`,
+    `scanned_at: ${scannedAt}`,
+    `task: partner-gap-scan`,
+    `notes: ${SITES.length} partner career pages; ${freshDated.length} dated, ${freshUndated.length} undated (page publishes no posted date).`,
+    "---",
+    "",
+    `# Partner gap scan — ${iso}`,
+    "",
+    "Dated rows merge normally. Undated rows carry an em dash because the employer",
+    "page publishes no posted date — they are listed for review and are skipped by",
+    "the merger rather than given an invented date.",
+    "",
+  ];
+
+  if (freshDated.length) {
+    lines.push("## Dated", "", "| Posted | Role | Company | Location | URL | Note |", "|---|---|---|---|---|---|");
+    for (const j of freshDated) {
+      lines.push(
+        `| ${j.postedDate.slice(0, 10)} | [${mdCell(j.title)}](${j.url}) | ${mdCell(j.company)} | ${mdCell(j.location)} | ${j.url} | via ${mdCell(j.source.replace(/^site:/, ""))} |`
+      );
+    }
+    lines.push("");
+  }
+  if (freshUndated.length) {
+    lines.push(
+      "## Undated — needs a posted date",
+      "",
+      "| Posted | Role | Company | Location | URL | Note |",
+      "|---|---|---|---|---|---|"
+    );
+    for (const j of freshUndated) {
+      lines.push(
+        `| — | [${mdCell(j.title)}](${j.url}) | ${mdCell(j.company)} | ${mdCell(j.location || "Canada")} | ${j.url} | undated on ${mdCell(j.site)} |`
+      );
+    }
+    lines.push("");
+  }
+
+  fs.writeFileSync(target, lines.join("\n"), "utf8");
+  console.log(
+    `[gap] inbox: wrote inbox/${path.basename(target)} (+${freshDated.length} dated, ${freshUndated.length} undated)`
+  );
+  return target;
 }
 
 // ---------------------------------------------------------------------------
@@ -453,9 +581,10 @@ async function main() {
   let raw = {};
 
   if (!ONLY_ADZUNA) {
-    const { jobs, raw: siteRaw } = await scanSites();
+    const { jobs, undated, raw: siteRaw } = await scanSites();
     fresh.push(...jobs);
     raw = siteRaw;
+    if (!NO_INBOX) writeInbox({ dated: jobs, undated, scannedAt: NOW_ISO });
   }
   if (!ONLY_SITES) {
     fresh.push(...(await scanAdzunaVariants()));
