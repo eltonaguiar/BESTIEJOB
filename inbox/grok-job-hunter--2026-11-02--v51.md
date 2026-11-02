@@ -1,3 +1,4 @@
+<!-- merged 2026-11-02T230748Z: +1 new, 0 duplicate, version 51 -->
 ---
 model: grok-job-hunter
 scanned_at: 2026-11-02T23:10:00Z
