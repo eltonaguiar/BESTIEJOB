@@ -24,7 +24,7 @@ _developer / administrator / architect / analyst roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
-| 8 hours ago | [ServiceNow System Administrator](https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator) | Bell Canada | Toronto, ON / Montreal, QC | Hybrid; Application Deadline 10/20/2026 | Bell Careers |
+| 2026-11-02 | [ServiceNow System Administrator](https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator) | Bell Canada | Toronto, ON / Montreal, QC | Bell card showed "8 hours ago" at 2026-11-02 ~14:00 UTC (board refresh; widgets API postedDate is 2026-10-19); Hybrid; Application Deadline 10/20/2026 | Bell Careers |
 | 2026-11-02 | [ServiceNow Developer / Integrator](https://jobs.bell.ca/ca/en/job/431695/ServiceNow-Developer-Integrator) | Bell Canada | Montreal, QC | Platform development, integrations, APIs, Now Assist AI | Bell Careers |
 | 2026-11-02 | [Senior ServiceNow Developer](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000178749EXTERNALENCA/Senior-Service-Now-Developer) | Royal Bank of Canada | Toronto, ON | CMDB/ITAM; workflows, business rules, access controls | RBC Careers |
 | 2026-11-02 | [Senior ServiceNow Discovery & Service Mapping Engineer](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000167419EXTERNALENCA/Senior-ServiceNow-Discovery-Service-Mapping-Engineer) | Royal Bank of Canada | Toronto, ON | Discovery; CIS-Discovery, CSA asset match | RBC Careers |
