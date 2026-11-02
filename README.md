@@ -206,7 +206,103 @@ Three open PRs held job findings not yet on main when this scan ran; their subst
 
 **From [BESTIEJOB#18](https://github.com/eltonaguiar/BESTIEJOB/pull/18) (Kilo — expanded Adzuna sweep):** 10 additional Oct 31 + Nov 1 rows, mostly Salesforce-adjacent (QA/Scrum/PM) Toronto roles: [Développeur Salesforce - CGI, Montréal](https://www.adzuna.ca/details/5948938935?utm_medium=api&utm_source=54ce986e) and [Salesforce Solution Architect - iA Financial Group, Canada](https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e) (both 2026-11-01); plus 8 Oct-31 rows ([Functional QA Tester](https://www.adzuna.ca/details/5947967982?utm_medium=api&utm_source=54ce986e), [Scrum Master](https://www.adzuna.ca/details/5948006847?utm_medium=api&utm_source=54ce986e), [Functional Analyst](https://www.adzuna.ca/details/5948011834?utm_medium=api&utm_source=54ce986e), [Functional Lead](https://www.adzuna.ca/details/5948023559?utm_medium=api&utm_source=54ce986e) — all Epsilon Solutions, Toronto; [Sr QA Engineer SFMC/Azure - Hour Consulting](https://www.adzuna.ca/details/5948009443?utm_medium=api&utm_source=54ce986e); [Salesforce Solution Architect - Macpower](https://www.adzuna.ca/details/5948019639?utm_medium=api&utm_source=54ce986e); [Production Support Engineer with Salesforce - ApTask](https://www.adzuna.ca/details/5948025245?utm_medium=api&utm_source=54ce986e); [Technical PM Salesforce Life Sciences - GTT](https://www.adzuna.ca/details/5948026660?utm_medium=api&utm_source=54ce986e)). Per PR #17's verification, Epsilon "Oct 31" dates may reflect Oct-27 board re-surfacing.
 
+### Brave Search API sweep — 2026-11-02 ~13:20 UTC (negative/limited result)
+
+16 Brave web-search queries (freshness `pd`/`pw`, country CA) targeting LinkedIn/Indeed job pages, Workday/Lever/Greenhouse boards and SN/SF keyword phrases returned **no fresh Canadian ServiceNow/Salesforce posting not already captured by the Adzuna/LinkedIn sweeps above** — past-day results were dominated by news pages, and board postings surfaced only at 2+ days' lag. Two leads worth noting: [Tech Lead - Infrastructure Services (JR10033879) - Genpact](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/3202-G-Canada-Svc-Alberta-WFH---Virtual-CA/Tech-Lead---Infrastructure-Services-N-4C_JR10033879) (Alberta WFH-virtual, posted ~2026-10-30, Workday-verified; ITIL/infra-ops adjacent, the only Canadian row among Genpact's 104 ServiceNow-keyword matches) and [Salesforce Administrator - Trader Interactive](https://careers.traderinteractive.com/jobs/727171-salesforce-administrator) (posted ~2026-10-27, remote; US-based employer, Canada eligibility unconfirmed). Conclusion: for same-day postings, the Adzuna API and LinkedIn guest API remain the productive channels; Brave web search is useful only as a 2+ day lagging cross-check.
+
 ---
+
+## 2026-11-02 wide scan — additional ServiceNow, Salesforce and other-jobs rows
+
+**Scanned: 2026-11-02 | Agent: Buffy.** Three passes in the order requested (ServiceNow, then Salesforce, then a wider pass over the rest of the profile). Only rows that were absent from this file at scan time are listed here, so nothing above is repeated.
+
+**Method.** Adzuna Canada API (`sort_by=date`, `max_days_old=3`), 15 ServiceNow + 14 Salesforce + 24 other-keyword queries × Toronto / Canada / Remote = **2,225 raw hits → 1,072 unique postings**, each with an Adzuna `created` timestamp. Cross-checked against LinkedIn's guest job search (last 24 h), Job Bank Canada posting pages (per-posting "Posted on" dates) and ServiceNow's own SmartRecruiters feed (716 open reqs). Adzuna rows are aggregator mirrors, not employer-ATS confirmed — open the Apply page before applying.
+
+**Date validation.** **16 additional postings dated 2026-11-02** are below, bringing this README's same-day total to 23. **No ServiceNow posting dated 2026-11-02 exists in any reachable source**: Adzuna and LinkedIn's 24-hour window stop at 2026-11-01, Job Bank's ServiceNow matches are dated 2026-10-28 → 10-31, and ServiceNow's own careers feed released nothing in Canada after 2026-10-29. November 1 was a Sunday, so ServiceNow rows carry 2026-11-01 / 2026-10-31 dates.
+
+### Posted 2026-11-02 — additional (16)
+
+| Posted | Role | Company | Location | Family | Source |
+|---|---|---|---|---|---|
+| 2026-11-02 | [Senior Implementation Consultant](https://www.adzuna.ca/details/5950546753) | Clariti Cloud | Toronto | Salesforce | Adzuna 5950546753 |
+| 2026-11-02 | [Implementation Consultant](https://www.adzuna.ca/details/5950539554) | Clariti Cloud | Toronto | Salesforce | Adzuna 5950539554 |
+| 2026-11-02 | [Architecte de systèmes](https://www.adzuna.ca/details/5950521655) | iSteer Inc. | Toronto; permanent, French-language posting | Salesforce | Adzuna 5950521655 |
+| 2026-11-02 | [Marketing Automation Developer](https://ca.linkedin.com/jobs/view/marketing-automation-developer-at-jam-crm-4486178139) | JAM CRM | Toronto | Salesforce | LinkedIn 4486178139 |
+| 2026-11-02 | [Municipal Implementation Consultant](https://www.adzuna.ca/details/5950548981) | Agilyx (MUNIvers) | Victoria, BC; closes 2026-11-15 | Salesforce | Adzuna 5950548981 |
+| 2026-11-02 | [DDI Network Engineer](https://www.adzuna.ca/land/ad/5950298778) | BMO Financial | Toronto; apply by 2026-11-29 | ITSM / ITIL | Adzuna 5950298778 |
+| 2026-11-02 | [BSA_UNDERWRITING](https://www.adzuna.ca/details/5950537807) | Epsilon Solutions LTD | Toronto, hybrid; full-time | Business systems analyst | Adzuna 5950537807 |
+| 2026-11-02 | [Development Consultant (Bilingual)](https://www.adzuna.ca/details/5950539681) | Querentia | Canada, remote | VBA / multi-language dev | Adzuna 5950539681 |
+| 2026-11-02 | [Software Developer – Senior (Sibel CRM)](https://www.adzuna.ca/details/5950536165) | Innosystech Inc | Toronto, onsite; 4 months | CRM / integration | Adzuna 5950536165 |
+| 2026-11-02 | [AI Engineer](https://www.adzuna.ca/details/5950337000) | Insight Global | Toronto | Databricks / SQL | Adzuna 5950337000 |
+| 2026-11-02 | [Senior IT Specialist](https://www.adzuna.ca/details/5950433413) | Gauthier Business Technologies | North Vancouver | ITIL / MSP | Adzuna 5950433413 |
+| 2026-11-02 | [Incident Management, Lead](https://ca.linkedin.com/jobs/view/incident-management-lead-at-interac-corp-4459420177) | Interac Corp. | Toronto | ITSM | LinkedIn 4459420177 |
+| 2026-11-02 | [Implementation Specialist (English/Spanish)](https://ca.linkedin.com/jobs/view/implementation-specialist-english-spanish-at-sysaid-4484338103) | SysAid | Toronto | ITSM platform | LinkedIn 4484338103 |
+| 2026-11-02 | [Customer Data and Report Analyst](https://ca.linkedin.com/jobs/view/customer-data-and-report-analyst-at-hydro-one-4485446700) | Hydro One | Markham | Power BI / SQL reporting | LinkedIn 4485446700 |
+| 2026-11-02 | [Senior Integration Engineer – AI](https://ca.linkedin.com/jobs/view/senior-integration-engineer-%E2%80%93-ai-tax-and-audit-ai-at-thomson-reuters-4485437581) | Thomson Reuters | Toronto | REST / integration | LinkedIn 4485437581 |
+| 2026-11-02 | [DevOps Engineer](https://ca.linkedin.com/jobs/view/devops-engineer-at-td-4486119447) | TD | Toronto | CI/CD, GitHub Actions | LinkedIn 4486119447 |
+
+### ServiceNow — one row not previously listed
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-10-31 | [Consultant – Senior Consultant Service Now](https://www.adzuna.ca/details/5948368434) | KPMG | Montréal | Adzuna 5948368434 |
+
+Re-confirmed from this sweep with dates already in this README: Deloitte CMDB/GRC architects, Deloitte ServiceNow Platform, ITOM-Discovery, CSM process lead and Now Assist consultant; ServiceNow Principal Solution Architect Toronto (Adzuna 5949576383 + official SmartRecruiters 744000158575719, released 2026-10-29); KPMG Manager – ServiceNow; GTT and ICONMA administrators; Artech developer/consultant; NTT DATA remote consultant; US Tech Solutions developer and technical lead; Optovia senior architect; CGI Sherbrooke and Drummondville cluster; IBM and Artech business analysts; Macpower principal consultant.
+
+### Other jobs matching the profile (ITSM/ITAM/CMDB, SQL, BI, automation)
+
+| Posted | Role | Company | Location | Why it matches | Source |
+|---|---|---|---|---|---|
+| 2026-11-01 | [Senior IT Business Systems Analyst](https://www.adzuna.ca/details/5949111244) | Canada Life | Toronto | ITSM-adjacent BSA, requirements + process | Adzuna 5949111244 |
+| 2026-11-01 | [IT Automation Architect](https://www.adzuna.ca/details/5949576937) | WSP Global | Toronto | Automation/workflow architecture | Adzuna 5949576937 |
+| 2026-11-01 | [Data Warehouse Backend Developer and Power BI Support](https://www.adzuna.ca/details/5949209639) | Three Point Turn Inc | Toronto | SQL Server + Power BI | Adzuna 5949209639 |
+| 2026-11-01 | [Senior GRC Engineer](https://www.adzuna.ca/details/5949576062) | J.D. Power | Ottawa | GRC/IRM parallel to CIS-RC work | Adzuna 5949576062 |
+| 2026-10-31 | [IT Operations & CMDB Analyst](https://www.adzuna.ca/details/5948258787) | Purolator | Mississauga | Direct CMDB/ITAM match | Adzuna 5948258787 |
+| 2026-10-31 | [Senior Manager GRC](https://www.adzuna.ca/details/5948368417) | KPMG | Toronto | GRC/IRM ownership | Adzuna 5948368417 |
+| 2026-10-31 | [MS SQL Database Administrator](https://www.adzuna.ca/details/5948027155) | GTT, LLC | Toronto | Microsoft SQL Server | Adzuna 5948027155 |
+| 2026-10-31 | [Power BI Developer](https://www.adzuna.ca/details/5948026418) | Epsilon Solutions LTD | Toronto | BI reporting | Adzuna 5948026418 |
+
+No Alteryx-titled or Tableau-titled posting appeared in the three-day window; the closest matches name those tools only inside the description. Broad "platform", "devops" and "data" hits (Google Cloud architects, BMO AI platform engineers, Faire staff engineers, Citigroup Java) were left out deliberately — they match a keyword, not this profile.
+
+### Peer-branch reconciliation — rows found by other agents but never on main
+
+Eleven rows from `kilo/2026-11-02-sn-sf-expanded` (iA Financial architect, CGI Montréal developer, Altus BA, Macpower architect, four Epsilon Toronto roles, Hour Consulting SFMC QA, ApTask production support, GTT technical PM) did not appear in this README before this scan and are now integrated above or in the sections that follow; `kilo/2026-11-02-sn-sf-scan` added nothing new because its 13 rows were already present. `buffy/2026-11-02-nov1-requisitions` contributed the CGI ServiceNow Business System Architect and Deloitte Now Assist cards, plus Deloitte employer requisitions `133759` / `133770` that corroborate the two LinkedIn cards. The older October-30 branches (`zoo/2026-10-30`, `auto/2026-10-30`, `kilo/2026-10-30`, `opencode-2026-10-30`, `buffy-2026-10-30`, the `Copilot/*` set) still hold Adzuna-sourced rows absent from this file; they remain the discovery queue described in the 2026-11-01 addendum and were not re-verified today.
+
+## 2026-11-02 morning hunt - net-new employer-verified roles (Grok Bot)
+
+**Checked: 2026-11-02 ~08:30 ET.** LinkedIn guest search (72h, 30 keywords incl. hidden-title terms), web/board search, then each lead opened on the employer ATS. Rows sorted newest employer posted date first. Only roles not already in this README.
+
+| Posted (employer record) | Role / employer | Location / arrangement | Employment | Salary | Source status | Closing |
+|---|---|---|---|---|---|---|
+| 2026-10-30 | [Manager IT Service Management (ITSM) (job 1209) - WSIB](https://wsib-iaepup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1209) | Toronto, ON; on-site | Permanent full-time | $116,000-$145,000 | LIVE: Oracle HCM API record, posted 2026-10-30 | 2026-11-15 |
+| 2026-10-02 | [ServiceNow Business System Architect (J0926-2617) - CGI](https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2617&BRID=&lang=1) | Toronto, ON (main); alt Ottawa, Calgary, Montreal | Full-time | $95,000-$145,000 | LIVE: njoyn JobPosting datePosted 2026-10-02, validThrough 2026-12-31; LinkedIn refresh 2026-10-31 | 2026-12-31 |
+| 2026-08-27 | [RevOps Workflow Automation Manager (VN43206) - Sage](https://sagehr.my.salesforce-sites.com/careers/fRecruit__ApplyJob?vacancyNo=VN43206) | Toronto, ON; hybrid, 3 days/week on-site | Full-time | $110,000-$135,000 + bonus | LIVE: Sage careers page HTTP 200, datePosted 2026-08-27; LinkedIn refresh 2026-10-31 | Not disclosed |
+
+Fit: CGI asks for CSA **or** a CIS (ITSM / Discovery / Service Mapping / Event Mgmt / SAM), CMDB, Flow Designer, integrations - different req from CGI J0826-2028 already listed. WSIB is a people-manager ITSM role needing ITIL Foundation (held) and COBIT Foundation (not held) - reach. Sage lists Salesforce Flow / ServiceNow / Workato as preferred automation platforms - adjacent.
+
+## 2026-11-02 browser-rendered pass — Talent.com listings (dates relative)
+
+A Playwright/Chromium pass against boards that block plain HTTP fetches. Talent.com rendered **38 ServiceNow** and **40 Salesforce** cards for Toronto with its 24-hour filter; three of them were absent from this file. Their detail pages expose only a relative age ("1 day ago") and no `datePosted` JSON-LD, so the posted date is **not verified absolute** and these rows are deliberately kept out of the dated tables above.
+
+| Age shown on page | Role | Company | Location | Pay shown | Link |
+|---|---|---|---|---|---|
+| 1 day ago | ServiceNow Senior Developer | BDO | Bay St, Toronto | $84,000–$128,000/yr | [Talent.com](https://ca.talent.com/view?id=600243326026788821) |
+| 1 day ago | RQ11723 – Solutions Designer, CRM – Senior | Ontario health cluster (posted via Analyst Technical Solutions) | Toronto, onsite | not shown | [Talent.com](https://ca.talent.com/view?id=640802773619245995) |
+| 1 day ago | Salesforce Administrator – Remote | YO AI Labs | Toronto, remote | not shown | [Talent.com](https://ca.talent.com/view?id=638821561993405248) |
+
+Seen on the same pages and **not** added because they are older or already listed: Lightspeed ServiceNow Developer (15 days, already in this README), Bell Conseiller technique principal ServiceNow (26 days, already listed), TD Salesforce Loyalty Management Developer (14 days, already in the Workday sweep), OSI Digital Salesforce Lead (24 days), Randstad ServiceNow Developer (15 days) and Randstad Senior Salesforce Development Specialist (14 days).
+
+### Board and API access, measured 2026-11-02
+
+| Channel | Result |
+|---|---|
+| Talent.com | Renders under Playwright. Plain curl also returns 200, but the cards are JS-injected, so the browser was required. No absolute dates on detail pages. |
+| Jooble | HTTP **403** Cloudflare "Just a moment..." via both curl_cffi and Playwright. Not usable without a human check. |
+| Careerjet | Returns an ~11 KB shell with no listing markup and no dates. |
+| Eluta | 200, but results are not in `<article>` cards; no titles or dates extracted. |
+| Search APIs (Brave, Tavily, Serper, Google CSE) | **No key for any of them** in the credential file I was given, so none was called from this pass. |
+| Gemini `google_search` grounding | Works and returned 12 plausible ServiceNow/Salesforce requisitions plus 12 recruiting agencies, but every job URL came back `unverified`. Not added — unverifiable rows would regress the data quality this file already flags. |
+| Adzuna | Still the only source returning absolute `created` timestamps; all dated rows above rest on it, LinkedIn, Job Bank or an employer ATS. |
 
 ## 2026-11-02 employer-ATS sweep - ServiceNow and Salesforce (Toronto / Canada remote)
 
