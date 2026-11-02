@@ -1,11 +1,11 @@
 # BESTIEJOB
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T163943Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T164157Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
-  - [ServiceNow jobs (251)](#servicenow-jobs-251)
+  - [ServiceNow jobs (254)](#servicenow-jobs-254)
   - [Salesforce jobs (279)](#salesforce-jobs-279)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -14,13 +14,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **930 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **933 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (251)
+### ServiceNow jobs (254)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 251 postings</strong></summary>
+<details><summary><strong>Show 254 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948965055?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | ServiceNow Adzuna 5948965055 |
 | 2026-11-01 | [Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team (req 133759)](https://careers.deloitte.ca/job/Senior-Consultant%2C-ServiceNow-Platform-Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team/133759-en_US/) | Toronto or Burlington, ON | LinkedIn card 2026-11-01; employer requisition live (HTTP 200) 2026-11-02 |  |
 | 2026-11-01 | [Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123) | Deloitte | Toronto, Ontario, Canada |  |
+| 2026-11-01 | [RQ00757 Specialized IT Consultant - ServiceNow SPM Developer](https://www.jobbank.gc.ca/jobsearch/jobposting/50492172) | Ontario public sector (via Talent.com/Job Bank) | Toronto, ON; hybrid 3d Metro Hall | via grok-job-hunter--2026-11-02--v39.md |
 | 2026-11-01 | [Principal Solution Architect- ServiceNow](https://www.adzuna.ca/details/5949576383) | ServiceNow | Toronto, Ontario |  |
 | 2026-11-01 | [Manager - ServiceNow](https://www.adzuna.ca/details/5949968733?utm_medium=api&utm_source=54ce986e) | KPMG | Montréal, Québec | ServiceNow Adzuna 5949968733 |
 | 2026-11-01 | [Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971682) | Deloitte | Toronto, Ontario |  |
@@ -109,6 +110,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-30 | [Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team - Deloitte](https://www.adzuna.ca/details/5921370764?utm_medium=api&utm_source=54ce986e) | Toronto, Ontario | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Senior Consultant, ServiceNow - KPMG](https://www.adzuna.ca/details/5919833125?utm_medium=api&utm_source=54ce986e) | Toronto, Ontario | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [SYSTEMS INTEGRATOR 1 (SERVICENOW DEVELOPER) - City of Toronto](https://jobs.toronto.ca/jobsatcity/job/Toronto-SYSTEMS-INTEGRATOR-1-%28SERVICENOW-DEVELOPER%29-ON-M5V-3C6/606700617) | Toronto, ON (hybrid, 92 Front St E) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
+| 2026-10-30 | [RQ11686 Senior ServiceNow Developer (Cyber Security Div, MPBSDP)](https://www.careerbeacon.com/fr/emplois-9/3868642/analyst-technical-solutions/rq11686-software-developer-senior-i-toronto-on-i-1-year/toronto) | Ontario Public Service (vendor) | Toronto, ON; onsite | via grok-job-hunter--2026-11-02--v39.md |
 | 2026-10-30 | [Peer report](https://github.com/eltonaguiar/BESTIEJOB/blob/buffy-2026-10-30/buffy-2026-10-30-servicenow-salesforce-jobs.md) | Toronto, ON | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Manager IT Service Management (ITSM) (job 1209) - WSIB](https://wsib-iaepup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1209) | Toronto, ON; on-site | Permanent full-time | $116,000-$145,000 LIVE: Oracle HCM API record, posted 2026-10-30 2026-11-15 |
 | 2026-10-30 | [Manager IT Service Management (ITSM)](https://ca.linkedin.com/jobs/view/manager-it-service-management-itsm-at-workplace-safety-and-insurance-board-wsib-4483485371) | Workplace Safety and Insurance Board (WSIB) | Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
@@ -173,6 +175,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-28 | [ServiceNow Architect](https://www.jobs.ca/tekshapers/jobs/servicenow-architect-toronto-on-b6507928d0da) | Tekshapers | Toronto, ON | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-28 | [Senior ServiceNow Developer - Resolve Tech Solutions](https://resolvetech.wd1.myworkdayjobs.com/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280) | USA: Employer location US Remote - TX; confirm permitted residence and work authorization. | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-28 | [Senior ServiceNow Developer (RQ228679) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | USA: USA; remote | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
+| 2026-10-28 | [Senior ServiceNow Developer (HRSD) - federal defence](https://www.randstad.ca/jobs/computer-application-support-senior_ottawa_47194624/) | Randstad Canada | Ottawa / remote Canada | via grok-job-hunter--2026-11-02--v39.md |
 | 2026-10-28 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-28 | [Senior ServiceNow Developer](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280) | Resolve Tech Solutions | US Remote - TX | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-28 | [Senior ServiceNow Architect](https://ca.linkedin.com/jobs/view/senior-servicenow-architect-at-optovia-4484139182) | Optovia | Ottawa, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
@@ -1045,4 +1048,4 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 ## Archive
 
-`README.BAK_2026-11-02T163943Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-02T164157Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
