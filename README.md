@@ -384,6 +384,21 @@ Forum: **2026-11-03, Metro Toronto Convention Centre, 8:30–17:00**. The offici
 
 The 404s are **entry-point failures, not evidence of no vacancies** — all six were running ServiceNow/Salesforce postings on Adzuna within the last 7 days. Their real ATS URLs still need discovering individually.
 
+### Posted 2026-11-01 - employer requisitions verified 2026-11-02
+
+Added on top of the Adzuna and LinkedIn blocks above. Same LinkedIn guest-API date source (`datetime` per job card), but each row here also carries a live employer requisition retrieved 2026-11-02, which is the strongest evidence available because Deloitte's requisition pages render their own publication dates client-side and expose nothing server-side. Newest first; duplicate URLs already present elsewhere in this README are omitted.
+
+| Posted | Role / employer | Location / arrangement | Employment | Date source / status | Closing |
+|---|---|---|---|---|---|
+| 2026-11-01 | [Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team (133759)](https://careers.deloitte.ca/job/Senior-Consultant%2C-ServiceNow-Platform-Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team/133759-en_US/) | Canada: Toronto or Burlington, ON | Full-time | LinkedIn card 2026-11-01 ([card](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123)); employer requisition 133759 live 2026-11-02, but its page renders dates client-side | Not disclosed |
+| 2026-11-01 | [Senior Consultant, Salesforce Platform - Deloitte Technology Canada (DTC), Platform Team (133770)](https://careers.deloitte.ca/job/Senior-Consultant%2C-Salesforce-Platform-%28Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team%29/133770-en_US/) | Canada: Toronto, Burlington ON or Fredericton NB | Full-time | LinkedIn card 2026-11-01 ([card](https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232)); employer requisition 133770 live 2026-11-02 | Not disclosed |
+| 2026-10-31 | [ServiceNow Business System Architect - CGI](https://ca.linkedin.com/jobs/view/servicenow-business-system-architect-at-cgi-4475089095) | Canada: Ontario | Full-time | LinkedIn card 2026-10-31; employer posting not isolated | Not disclosed |
+| 2026-10-31 | [Senior Consultant, Artificial Intelligence - Now Assist - Deloitte](https://ca.linkedin.com/jobs/view/senior-consultant-artificial-intelligence-now-assist-at-deloitte-4460501313) | Canada: Toronto, ON | Full-time | LinkedIn card 2026-10-31; ServiceNow Now Assist consulting; employer requisition not isolated | Not disclosed |
+
+Scope notes: Deloitte's French-language ITOM and Now Assist cards share the 2026-11-01 date and are duplicates of the English roles, not extra vacancies. Scotiabank's ServiceNow Discovery Developer and Salesforce Developer cards re-surfaced with 2026-10-31 dates, but both are already selected links with earlier employer dates (2026-10-04 and 2026-10-10) - a board refresh is not a new posting. KPMG, CGI and Master Montreal roles are outside the Toronto/GTA and Canada-remote scope.
+
+[Method and per-source outcomes](Platform-Jobs-Buffy-2026-11-02-nov1-linkedin.md)
+
 <!-- DATE-SORTED-PLATFORM-INDEX:START -->
 ## Latest ServiceNow and Salesforce listings - newest first
 
