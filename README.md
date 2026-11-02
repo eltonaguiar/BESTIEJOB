@@ -207,7 +207,19 @@ Two gaps prompted it:
 
 `Aggregator` rows carry an Adzuna date and were **not** confirmed on the employer ATS. `Verified` means the posting page itself was opened.
 
-### Posted 2026-10-31 (53 postings — 28 Canadian + 25 aggregator additions)
+### Posted 2026-11-01 (Verified New)
+
+| Posted | Role | Employer | Location | Salary | Family | Source |
+|---|---|---|---|---|---|---|
+| 2026-11-01 | Senior Consultant, Salesforce Platform | Deloitte | Toronto | — | Salesforce | [LinkedIn](https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232) |
+| 2026-11-01 | Salesforce Engineer | Thomson Reuters | Toronto | — | Salesforce | [LinkedIn](https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926) |
+| 2026-11-01 | Director, Salesforce Delivery and Architecture | Deloitte | Toronto | — | Salesforce | [LinkedIn](https://ca.linkedin.com/jobs/view/director-salesforce-delivery-and-architecture-deloitte-global-technology-at-deloitte-4460396523) |
+| 2026-11-01 | Senior Consultant, ServiceNow Platform | Deloitte | Toronto | — | ServiceNow | [LinkedIn](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123) |
+| 2026-11-01 | Conseiller principal, ITOM, ServiceNow | Deloitte | Toronto | — | ServiceNow | [LinkedIn](https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-itom-servicenow-at-deloitte-4459429838) |
+| 2026-11-01 | Process Lead Architect, CSM | Deloitte | Toronto | — | ServiceNow | [LinkedIn](https://ca.linkedin.com/jobs/view/process-lead-architect-customer-service-management-at-deloitte-4460519030) |
+| 2026-11-01 | Conseiller principal, AI - Now Assist | Deloitte | Toronto | — | ServiceNow | [LinkedIn](https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-intelligence-artificielle-now-assist-at-deloitte-4459418991) |
+| 2026-11-01 | Senior Consultant, ITOM / Discovery | Deloitte | Toronto | — | ServiceNow | [LinkedIn](https://ca.linkedin.com/jobs/view/senior-consultant-it-operations-management-discovery-at-deloitte-4460512143) |
+
 
 | Posted | Role | Employer | Location | Salary | Family | Source |
 |---|---|---|---|---|---|---|
