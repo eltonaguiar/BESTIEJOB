@@ -16,6 +16,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-03 → 2026-11-02 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
+**Methodology & roadmap:** the repeatable search workflow lives in [docs/JOB_SEARCH_PROTOCOL_2026-11-02.md](docs/JOB_SEARCH_PROTOCOL_2026-11-02.md) (v1.1, scrutinized by two independent models with adjudicated feedback); the Pages-site design review and feature backlog (tabbed UI, last-updated stamp, NEW badges, funnel CRM) is in [docs/SITE_ENHANCEMENTS_2026-11-02.md](docs/SITE_ENHANCEMENTS_2026-11-02.md).
+
 ### ServiceNow jobs (150)
 
 _developer / administrator / architect / analyst roles_
