@@ -3,54 +3,56 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-02T03:45:20.075Z** · 191 live postings from 9 public sources · 8 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-02T03:57:03.228Z** · 258 live postings from 10 public sources · 17 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-01 | [Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971672) | Deloitte | Toronto, Ontario |
+| 2026-11-01 | [Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971682) | Deloitte | Toronto, Ontario |
 | 2026-11-01 | [Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123) | Deloitte | Toronto, Ontario, Canada |
 | 2026-11-01 | [Conseiller principal ou conseillère principale, ITOM, ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-itom-servicenow-at-deloitte-4459429838) | Deloitte | Toronto, Ontario, Canada |
 | 2026-11-01 | [Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459417849) | Deloitte | Brossard, Quebec, Canada |
 | 2026-11-01 | [Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459426848) | Deloitte | Laval, Quebec, Canada |
-| 2026-10-31 | [Senior ServiceNow Architect](https://www.adzuna.ca/details/5948277202?utm_medium=api&utm_source=54ce986e) | Optovia | Ottawa, Ottawa region |
+| 2026-10-31 | [Senior ServiceNow Architect](https://www.adzuna.ca/details/5948277202) | Optovia | Ottawa, Ottawa region |
 | 2026-10-31 | [Business Analyst - ServiceNow](https://www.adzuna.ca/details/5948025863?utm_medium=api&utm_source=54ce986e) | Artech LLC | Ottawa, Ottawa region |
 | 2026-10-31 | [ServiceNow Consultant - REMOTE](https://www.adzuna.ca/details/5948024837?utm_medium=api&utm_source=54ce986e) | NTT DATA | Ottawa, Ottawa region |
 | 2026-10-31 | [ServiceNow Developer- 26-16925](https://www.adzuna.ca/details/5948016541?utm_medium=api&utm_source=54ce986e) | US Tech Solutions, Inc. | Ottawa, Ottawa region |
-| 2026-10-31 | [ServiceNow Systems Administrator](https://www.adzuna.ca/details/5948015907?utm_medium=api&utm_source=54ce986e) | GTT, LLC | Toronto, Ontario |
-| 2026-10-31 | [IT - Systems Administrator V Service Now - Systems Administrator](https://www.adzuna.ca/details/5948007824?utm_medium=api&utm_source=54ce986e) | ICONMA, LLC | Toronto, Ontario |
-| 2026-10-31 | [ServiceNow Consultant / Developer](https://www.adzuna.ca/details/5948006803?utm_medium=api&utm_source=54ce986e) | Artech LLC | Unionville, York region |
-| 2026-10-31 | [Principal ServiceNow Consultant](https://www.adzuna.ca/details/5947999519?utm_medium=api&utm_source=54ce986e) | Macpower Digital Assets Edge Private Limited | Halifax, Halifax region |
+| 2026-10-31 | [ServiceNow Systems Administrator](https://www.adzuna.ca/details/5948015907) | GTT, LLC | Toronto, Ontario |
+| 2026-10-31 | [IT - Systems Administrator V Service Now - Systems Administrator](https://www.adzuna.ca/details/5948007824) | ICONMA, LLC | Toronto, Ontario |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-01 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5949576662) | Benevity | Canada |
+| 2026-11-01 | [Senior Salesforce BSA - Financial Services Cloud](https://www.adzuna.ca/details/5949576437) | Procom-b5a780c3 | Toronto, Ontario |
+| 2026-11-01 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/land/ad/5949286084) | CloudKettle Inc | Toronto, Ontario |
+| 2026-11-01 | [Salesforce Industries Cloud Architect (Remote](https://www.adzuna.ca/land/ad/5949286090) | CloudKettle Inc | Toronto, Ontario |
+| 2026-11-01 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5948997248) | Docebo | Toronto, Ontario |
+| 2026-11-01 | [Salesforce Administrator \| Natural Health \| Hybrid in Toronto \| $60-75k Benefits](https://www.adzuna.ca/details/5948993217) | White Bay | Toronto, Ontario |
 | 2026-11-01 | [Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team)](https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232) | Deloitte | Toronto, Ontario, Canada |
 | 2026-11-01 | [Salesforce Engineer](https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926) | Thomson Reuters | Toronto, Ontario, Canada |
 | 2026-11-01 | [Director, Salesforce Delivery and Architecture, Deloitte Global Technology](https://ca.linkedin.com/jobs/view/director-salesforce-delivery-and-architecture-deloitte-global-technology-at-deloitte-4460396523) | Deloitte | Toronto, Ontario, Canada |
 | 2026-11-01 | [Directeur(trice), Salesforce fonctionnel](https://ca.linkedin.com/jobs/view/directeur-trice-salesforce-fonctionnel-at-kpmg-canada-4434096618) | KPMG Canada | Montreal, Quebec, Canada |
+| 2026-11-01 | [QM – Salesforce Tester](https://ca.linkedin.com/jobs/view/qm-%E2%80%93-salesforce-tester-at-tata-consultancy-services-4485403209) | Tata Consultancy Services | Toronto, Ontario, Canada |
 | 2026-10-31 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5948276995?utm_medium=api&utm_source=54ce986e) | Jobgether | Canada |
-| 2026-10-31 | [Principal Solutions Consultant – Salesforce & Digital Transformation](https://www.adzuna.ca/details/5948276722?utm_medium=api&utm_source=54ce986e) | Chapman Tate Associates | Canada |
-| 2026-10-31 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5948276350?utm_medium=api&utm_source=54ce986e) | Orion Global Solutions | Toronto, Ontario |
-| 2026-10-31 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5948026874?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario |
-| 2026-10-31 | [Salesforce Support Analyst](https://www.adzuna.ca/details/5948026538?utm_medium=api&utm_source=54ce986e) | Diverse Lynx | Halifax, Halifax region |
-| 2026-10-31 | [Salesforce Administrator \| Natural Health \| Hybrid in Toronto \| $60-75k  Benefits](https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e) | White Bay | Toronto, Ontario |
-| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948024454?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario |
-| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948023880?utm_medium=api&utm_source=54ce986e) | Macpower Digital Assets Edge Private Limited | Calgary, Calgary region |
 
-### Other keyword matches — newest 8
+### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
-| 2026-10-31 | [DevOps Engineer](https://www.adzuna.ca/details/5948017534?utm_medium=api&utm_source=54ce986e) | GTT, LLC | Toronto, Ontario | DevOps / Cloud |
+| 2026-10-31 | [DevOps Project Manager](https://www.adzuna.ca/details/5948025641) | Epsilon Solutions LTD | Toronto, Ontario | DevOps / Cloud |
+| 2026-10-31 | [DevOps Engineer](https://www.adzuna.ca/details/5948017534) | GTT, LLC | Toronto, Ontario | DevOps / Cloud |
 | 2026-10-30 | [Site Reliability Engineer](https://jobicy.com/jobs/158114-site-reliability-engineer-5) | MaintainX | Canada | DevOps / Cloud |
 | 2026-10-29 | [Senior Forward Deployed Engineer (Full-Stack)](https://job-boards.greenhouse.io/dscout/jobs/4472803009) | Dscout | Remote - US | Full stack |
 | 2026-10-29 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Worldwide | Full stack |
+| 2026-10-26 | [Full Stack Developer](https://www.adzuna.ca/details/5942199334) | Infinity Solutions | Toronto, Ontario | Full stack |
 | 2026-10-22 | [Senior DevOps Engineer](https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557) | Lemon.io | Remote | DevOps / Cloud |
+| 2026-10-19 | [Staff Site Reliability Engineer](https://www.adzuna.ca/details/5934412986) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
 | 2026-10-14 | [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746) | Mitre Media | USA, Canada, USA timezones | Full stack |
 | 2026-10-09 | [Senior React Full stack Developer](https://remoteok.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475) | Lemon.io | Remote | Full stack |
-| 2026-10-02 | [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133) | Lemon.io | Europe, USA, Canada, APAC | Full stack |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
