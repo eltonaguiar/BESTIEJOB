@@ -6,15 +6,15 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
   - [ServiceNow jobs (244)](#servicenow-jobs-244)
-  - [Salesforce jobs (274)](#salesforce-jobs-274)
-  - [Other jobs (400)](#other-jobs-400)
+  - [Salesforce jobs (275)](#salesforce-jobs-274)
+  - [Other jobs (431)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-02
 
-Window: 2026-10-03 → 2026-11-02 · **918 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-03 → 2026-11-02 · **950 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (244)
 
@@ -271,11 +271,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (274)
+### Salesforce jobs (275)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 274 postings</strong></summary>
+<details><summary><strong>Show 275 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -347,6 +347,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-31 | [Hiring Sr. Salesforce Marketing Cloud Developer in Kitchener, Ontario](https://www.adzuna.ca/details/5948023540) | Artech LLC | Toronto, Ontario | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-31 | [Functional QA Tester Salesforce](https://www.adzuna.ca/details/5947967982?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-31 | [Consultant(e) Salesforce](https://ca.linkedin.com/jobs/view/consultant-e-salesforce-at-devpresso-consulting-inc-4485174334) | Devpresso Consulting Inc | Laval, Quebec, Canada | via buffy-round3--2026-11-02--v3.md |
+| 2026-10-31 | [Senior Salesforce Engineer, Raleigh, NC, US](https://www.adzuna.ca/details/5948277198?utm_medium=api&utm_source=54ce986e) | Intellibee | Canada | adzuna-targeted scan 2026-10-31 |
 | 2026-10-30 | [Senior/Lead Salesforce Marketing Cloud Engineer](https://ca.linkedin.com/jobs/view/senior-lead-salesforce-marketing-cloud-engineer-at-diligente-technologies-4477699547) | Diligente Technologies | Mississauga, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-30 | [Senior Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/senior-salesforce-technical-lead-at-arkhya-tech-inc-4485357239) | Arkhya Tech Inc. | Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-30 | [Senior Salesforce Developer - American Psychological Association](https://remotive.com/remote/jobs/software-development/senior-salesforce-developer-6302835) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
@@ -556,11 +557,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (400)
+### Other jobs (431)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 400 postings</strong></summary>
+<details><summary><strong>Show 431 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -668,6 +669,37 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-01 | [Advanced Deployment Technical Consultant](https://www.adzuna.ca/details/5948974291?utm_medium=api&utm_source=54ce986e) | Hewlett Packard Enterprise | Greater Vancouver, BC | Technical consulting / deployment Adzuna 5948974291 |
 | 2026-11-01 | [AI Fullstack Engineer (Senior Associate) - Canada](https://www.adzuna.ca/details/5949577731?utm_medium=api&utm_source=54ce986e) | Huron Consulting Group | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-11-01 | [AI Automation & Platform Analyst (Senior Analyst)](https://www.adzuna.ca/details/5948614670?utm_medium=api&utm_source=54ce986e) | Mackenzie Investments | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
+| 2026-11-01 | [Agentic AI Developer](https://www.adzuna.ca/details/5948969231?utm_medium=api&utm_source=54ce986e) | CGI | Ottawa, Ottawa region | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Customer Success Technical Coordinator - Bilingual (FR/EN)](https://www.adzuna.ca/details/5948986099?utm_medium=api&utm_source=54ce986e) | Numeris | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Data Engineer](https://www.adzuna.ca/details/5949192936?utm_medium=api&utm_source=54ce986e) | TURNKEY CONSULTANT SERVICES INC | New Jersey, Burnt Church | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Data Quality Exception Management Lead Analyst](https://www.adzuna.ca/details/5949576258?utm_medium=api&utm_source=54ce986e) | Citigroup | Mississauga, Peel region | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [DevOps Architect](https://www.adzuna.ca/details/5948995167?utm_medium=api&utm_source=54ce986e) | Netomi | Canada | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Developer - Virtual Agent Administrator](https://www.adzuna.ca/details/5948996460?utm_medium=api&utm_source=54ce986e) | CGI | Montréal, Québec | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Développeur logiciels - Software Developer](https://www.adzuna.ca/details/5949196848?utm_medium=api&utm_source=54ce986e) | OneSpan | Montréal, Québec | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Développeur·euse back-end Java senior – DevOps et AWS](https://www.adzuna.ca/details/5948942232?utm_medium=api&utm_source=54ce986e) | CGI | Montréal, Québec | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Head of Data Engineering](https://www.adzuna.ca/details/5949576590?utm_medium=api&utm_source=54ce986e) | Ambyint Inc. | Calgary, Calgary region | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [LEAD PYTHON DEVELOPER – IT TREASURY PLATFORMS](https://www.adzuna.ca/details/5949575997?utm_medium=api&utm_source=54ce986e) | Bnc | Montréal, Québec | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Lead Cloud Software Developer - (AWS / AI / Real Time Payment Systems)](https://www.adzuna.ca/details/5949575873?utm_medium=api&utm_source=54ce986e) | BMO Financial | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Microsoft Power Platform & Fabric Developer](https://www.adzuna.ca/details/5948973772?utm_medium=api&utm_source=54ce986e) | CGI | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Product Analyst](https://www.adzuna.ca/details/5949004686?utm_medium=api&utm_source=54ce986e) | Konrad | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Quality & Reliability Engineering Specialist](https://www.adzuna.ca/details/5948998169?utm_medium=api&utm_source=54ce986e) | Teledyne Technologies | Waterloo region, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [SQL Database Developer with Data Modelling - Toronto, ON - Fulltime opportunity](https://www.adzuna.ca/details/5949205893?utm_medium=api&utm_source=54ce986e) | Zodiac Solutions | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior Application Support Specialist / Database Administrator](https://www.adzuna.ca/details/5948989675?utm_medium=api&utm_source=54ce986e) | CGI | St. John's, Conception Bay - St. Johns | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior BI Analyst](https://www.adzuna.ca/details/5948982276?utm_medium=api&utm_source=54ce986e) | Canadian Tire Corporation | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior Business Analyst, Loan Servicing Technology](https://www.adzuna.ca/details/5949574921?utm_medium=api&utm_source=54ce986e) | BMO Financial | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior Data Platform Engineer](https://www.adzuna.ca/details/5948983852?utm_medium=api&utm_source=54ce986e) | StoreForce | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior Engineering Manager - Analytics Platform Kitchener-Waterloo, ON; Toronto, ON](https://www.adzuna.ca/details/5949576153?utm_medium=api&utm_source=54ce986e) | Faire Wholesale Inc. | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior QA Load and Performance Testing](https://www.adzuna.ca/details/5948994983?utm_medium=api&utm_source=54ce986e) | CGI | Montréal, Québec | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior SRE DHCP & DNS](https://www.adzuna.ca/details/5949576512?utm_medium=api&utm_source=54ce986e) | Rogers Communications, Inc. | Brampton, Peel region | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior Security Developer](https://www.adzuna.ca/details/5949576338?utm_medium=api&utm_source=54ce986e) | nesto | Canada | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior Software Developer](https://www.adzuna.ca/details/5949576177?utm_medium=api&utm_source=54ce986e) | Clio | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior Software Developer / Développeur(-euse), logiciel senior](https://www.adzuna.ca/details/5949576466?utm_medium=api&utm_source=54ce986e) | Vention | Montréal, Québec | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Senior Software Engineer (Cloud Native)](https://www.adzuna.ca/details/5949576537?utm_medium=api&utm_source=54ce986e) | Placements24 | Kimberley, Grey | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Software Developer Embedded Systems II (Full Time) – Canada](https://www.adzuna.ca/details/5949576165?utm_medium=api&utm_source=54ce986e) | Cisco Systems, Inc | Ottawa, Ottawa region | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Staff Cloud Engineer , Cloud Platform](https://www.adzuna.ca/details/5949576379?utm_medium=api&utm_source=54ce986e) | Kinaxis | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Staff Data Scientist](https://www.adzuna.ca/details/5949021319?utm_medium=api&utm_source=54ce986e) | Bank of Montreal | Toronto, Ontario | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Strategic Financial Analyst - FP&A / Commercial - Global SaaS Tech](https://www.adzuna.ca/details/5949188384?utm_medium=api&utm_source=54ce986e) | Actionstep | Canada | adzuna-targeted scan 2026-11-01 |
+| 2026-11-01 | [Team Lead - Platform](https://www.adzuna.ca/details/5949576311?utm_medium=api&utm_source=54ce986e) | nesto | Canada | adzuna-targeted scan 2026-11-01 |
 | 2026-10-31 | [eComm Management Analyst/ Data Analyst](https://www.adzuna.ca/details/5948016947?utm_medium=api&utm_source=54ce986e) | Mindlance | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-31 | [Xperience by Kentico / DevOps - CI/CD Technical Lead - Remote Canada Position](https://www.adzuna.ca/details/5948276767?utm_medium=api&utm_source=54ce986e) | NTT DATA Services | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-31 | [Xperience by Kentico / DevOps - CI/CD Technical Lead - Remote Canada Position](https://www.adzuna.ca/details/5948276358?utm_medium=api&utm_source=54ce986e) | NTT America, Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
