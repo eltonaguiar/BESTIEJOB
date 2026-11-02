@@ -24,6 +24,10 @@ _developer / administrator / architect / analyst roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 8 hours ago | [ServiceNow System Administrator](https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator) | Bell Canada | Toronto, ON / Montreal, QC | Hybrid; Application Deadline 10/20/2026 | Bell Careers |
+| 2026-11-02 | [ServiceNow Developer / Integrator](https://jobs.bell.ca/ca/en/job/431695/ServiceNow-Developer-Integrator) | Bell Canada | Montreal, QC | Platform development, integrations, APIs, Now Assist AI | Bell Careers |
+| 2026-11-02 | [Senior ServiceNow Developer](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000178749EXTERNALENCA/Senior-Service-Now-Developer) | Royal Bank of Canada | Toronto, ON | CMDB/ITAM; workflows, business rules, access controls | RBC Careers |
+| 2026-11-02 | [Senior ServiceNow Discovery & Service Mapping Engineer](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000167419EXTERNALENCA/Senior-ServiceNow-Discovery-Service-Mapping-Engineer) | Royal Bank of Canada | Toronto, ON | Discovery; CIS-Discovery, CSA asset match | RBC Careers |
 | 2026-11-02 | [ServiceNow Discovery Developer](https://jobs.scotiabank.com/job/Toronto-ServiceNow-Discovery-Developer-ON-M1L4S2/602442317/) | Scotiabank | Toronto, ON (M1L 4S2) | Employer ATS live, verified 2026-11-02 (posting date not disclosed); CIS-Discovery cert direct match |
 | 2026-11-02 | [Technical Specialist](https://jobs.rogers.com/job/Markham-Technical-Specialist-ON/1438290600/) | Rogers | Markham, ON | Employer ATS live, verified 2026-11-02; ServiceNow + Salesforce named in description |
 | 2026-11-02 | [Sr Platform Specialist](https://jobs.rogers.com/job/Calgary-Sr-Platform-Specialist-AB/1418156900/) | Rogers | Calgary, AB | Employer ATS live, verified 2026-11-02; ServiceNow named in description |
@@ -102,6 +106,11 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2 days ago | [Salesforce Senior Administrator](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000183661EXTERNALENCA/Salesforce-Senior-Administrator) | Royal Bank of Canada | Toronto, ON | RBC Wealth Management Canada; org configuration, support, integrations | RBC Careers |
+| 2026-11-02 | [Salesforce Administrator, Distribution Product Management](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000184884EXTERNALENCA/Salesforce-Administrator-Distribution-Product-Management) | Royal Bank of Canada | Toronto, ON | Financial Services Cloud, Sales & Service Cloud; lightning pages, dynamic forms | RBC Careers |
+| 2026-11-02 | [Senior Developer – Salesforce Integrations](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000175127EXTERNALENCA/Senior-Developer-Salesforce-Integrations) | Royal Bank of Canada | Toronto, ON | MuleSoft, API-based integrations, Java, GitHub, DevOps CI/CD | RBC Careers |
+| 2026-11-02 | [Salesforce Platform Engineer](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000171257EXTERNALENCA/Salesforce-Platform-Engineer) | Royal Bank of Canada | Toronto, ON | nCino commercial lending platform; SDLC, migration | RBC Careers |
+| 2026-05-20 | [Salesforce Developer](https://jobs.bell.ca/ca/en/job/BECACA429834EXTERNALENCA/Salesforce-Developer) | Bell Canada | Toronto, ON | Apex, LWC, SOQL; Salesforce CRM datasets, dataflows/recipes | Bell Careers |
 | 2026-11-02 | [DevOps Engineer (Salesforce)](https://jobs.scotiabank.com/job/Toronto-DevOps-Engineer%28Salesforce%29-ON-M5H-1A1/606915617/) | Scotiabank | Toronto, ON | Employer ATS live, verified 2026-11-02 (posting date not disclosed) |
 | 2026-11-02 | [Senior Manager, Salesforce Engineering](https://jobs.scotiabank.com/job/Toronto-Senior-Manager%2C-Salesforce-Engineering-ON-M5A-3X5/606845217/) | Scotiabank | Toronto, ON | Employer ATS live, verified 2026-11-02 (posting date not disclosed) |
 | 2026-11-02 | [Program Implementation Manager](https://ca.linkedin.com/jobs/view/program-implementation-manager-at-teqfocus-4485484868) | Teqfocus | Markham, ON | Salesforce partner delivery; Salesforce named in description; LinkedIn 4485484868 |
