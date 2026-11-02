@@ -1,25 +1,35 @@
-<!-- merged 2026-11-02T150946Z: +0 new, 182 duplicate, version 2 -->
+<!-- merged 2026-11-02T150824Z: +0 new, 194 duplicate, version 2 -->
 ---
-source: origin/kilo/2026-11-02-sn-sf-scan
-migrated: 2026-11-02T15:09:46+00:00
-rows: 182
+source: origin/buffy/2026-11-02-nov1-requisitions
+migrated: 2026-11-02T15:08:23+00:00
+rows: 194
 ---
 
 | Posted | Role | Company | Location | URL |
 |---|---|---|---|---|
 | 2026-11-06 | HiringCafe | Senior Salesforce Engineer | Canadian Cancer Society | https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i |
-| 2026-11-01 | Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months) | CGI | Canada | https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e |
-| 2026-11-01 | Solutions Architect (ServiceNow) | CGI | Canada | https://www.adzuna.ca/details/5948965055?utm_medium=api&utm_source=54ce986e |
+| 2026-11-01 | Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months) | CGI | Drummondville, Drummond | https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e |
+| 2026-11-01 | Solutions Architect (ServiceNow) | CGI | Drummondville, Drummond | https://www.adzuna.ca/details/5948965055?utm_medium=api&utm_source=54ce986e |
 | 2026-11-01 | Senior Salesforce Developer | Docebo | Toronto, Ontario | https://www.adzuna.ca/details/5948997248?utm_medium=api&utm_source=54ce986e |
 | 2026-11-01 | Senior Salesforce BSA - Financial Services Cloud | Procom-b5a780c3 | Toronto, Ontario | https://www.adzuna.ca/details/5949576437?utm_medium=api&utm_source=54ce986e |
 | 2026-11-01 | Senior Salesforce Administrator | Benevity | Canada | https://www.adzuna.ca/details/5949576662?utm_medium=api&utm_source=54ce986e |
-| 2026-11-01 | Salesforce Technical Lead - Financial Services Cloud | Maarut Inc | Canada | https://www.adzuna.ca/details/5949576474?utm_medium=api&utm_source=54ce986e |
-| 2026-11-01 | Salesforce Solution Architect | iA Financial Group | Canada | https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e |
+| 2026-11-01 | Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team (133759) | Canada: Toronto or Burlington, ON | Full-time | https://careers.deloitte.ca/job/Senior-Consultant%2C-ServiceNow-Platform-Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team/133759-en_US/ |
+| 2026-11-01 | Senior Consultant, Salesforce Platform - Deloitte Technology Canada (DTC), Platform Team (133770) | Canada: Toronto, Burlington ON or Fredericton NB | Full-time | https://careers.deloitte.ca/job/Senior-Consultant%2C-Salesforce-Platform-%28Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team%29/133770-en_US/ |
 | 2026-11-01 | Salesforce Administrator — Natural Health — Hybrid in Toronto — $60-75k Benefits | White Bay | Toronto, Ontario | https://www.adzuna.ca/details/5948993217?utm_medium=api&utm_source=54ce986e |
 | 2026-11-01 | Manager - ServiceNow | KPMG | Montréal, Québec | https://www.adzuna.ca/details/5949968733?utm_medium=api&utm_source=54ce986e |
+| 2026-11-01 | LinkedIn | Deloitte | Toronto | https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232 |
+| 2026-11-01 | LinkedIn | Thomson Reuters | Toronto | https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926 |
+| 2026-11-01 | LinkedIn | Deloitte | Toronto | https://ca.linkedin.com/jobs/view/director-salesforce-delivery-and-architecture-deloitte-global-technology-at-deloitte-4460396523 |
+| 2026-11-01 | LinkedIn | Deloitte | Toronto | https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123 |
+| 2026-11-01 | LinkedIn | Deloitte | Toronto | https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-itom-servicenow-at-deloitte-4459429838 |
+| 2026-11-01 | LinkedIn | Deloitte | Toronto | https://ca.linkedin.com/jobs/view/process-lead-architect-customer-service-management-at-deloitte-4460519030 |
+| 2026-11-01 | LinkedIn | Deloitte | Toronto | https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-intelligence-artificielle-now-assist-at-deloitte-4459418991 |
+| 2026-11-01 | LinkedIn | Deloitte | Toronto | https://ca.linkedin.com/jobs/view/senior-consultant-it-operations-management-discovery-at-deloitte-4460512143 |
 | 2026-11-01 | Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology | Deloitte | Toronto, Ontario | https://www.adzuna.ca/details/5949971682?utm_medium=api&utm_source=54ce986e |
 | 2026-11-01 | Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology | Deloitte | Toronto, Ontario | https://www.adzuna.ca/details/5949971672?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Software Engineer Salesforce Marketing Cloud | Hour Consulting Corporation | Toronto, Ontario | https://www.adzuna.ca/details/5948027140?utm_medium=api&utm_source=54ce986e |
+| 2026-10-31 | ServiceNow Business System Architect - CGI | Canada: Ontario | Full-time | https://ca.linkedin.com/jobs/view/servicenow-business-system-architect-at-cgi-4475089095 |
+| 2026-10-31 | Senior Consultant, Artificial Intelligence - Now Assist - Deloitte | Canada: Toronto, ON | Full-time | https://ca.linkedin.com/jobs/view/senior-consultant-artificial-intelligence-now-assist-at-deloitte-4460501313 |
 | 2026-10-31 | Salesforce Developer | Epsilon Solutions LTD | Toronto, Ontario | https://www.adzuna.ca/details/5948021504?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce CPQ Lead Developer | Epsilon Solutions LTD | Caledon, Peel region | https://www.adzuna.ca/details/5947990936?utm_medium=api&utm_source=54ce986e |
 | 2026-10-31 | Salesforce Business Analyst | Epsilon Solutions LTD | Caledon, Peel region | https://www.adzuna.ca/details/5947998738?utm_medium=api&utm_source=54ce986e |
@@ -109,6 +119,7 @@ rows: 182
 | 2026-10-29 | Salesforce Developer (REQ-156290) - Panasonic Canada | Canada: Mississauga; hybrid; occasional Niagara-on-the-Lake attendance | Full-time, 12-month contract | https://careers.na.panasonic.com/jobs/51941 |
 | 2026-10-29 | Principal Solution Architect - ServiceNow - ServiceNow | Canada: Toronto; employer ATS remote=true, hybrid=false | Full-time | https://jobs.smartrecruiters.com/ServiceNow/744000158575719-principal-solution-architect-servicenow?oga=true |
 | 2026-10-29 | Marketing Operations Analyst (8333965) - D2L | Canada: Canada; remote status needs employer confirmation | Not disclosed | https://www.d2l.com/careers/jobs/?job_id=8333965&gh_jid=8333965 |
+| 2026-10-29 | Manager, Banking Salesforce Innovation & Enablement (R260030015) - BMO | Canada: Toronto, 33 Dundas Street West; Customer Shared Services | Full-time | https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Salesforce-Innovation---Enablement_R260030015 |
 | 2026-10-29 | Adzuna 5946007870 | Compunnel Inc. | Canada | https://www.adzuna.ca/details/5946007870 |
 | 2026-10-29 | Adzuna 5946007051 | LTM | Canada | https://www.adzuna.ca/details/5946007051 |
 | 2026-10-29 | Adzuna 5946005780 | ServiceIO Consultancy Services | Canada | https://www.adzuna.ca/details/5946005780 |
@@ -129,6 +140,7 @@ rows: 182
 | 2026-10-27 | Sr. ServiceNow Developer - Sygna Solutions | USA: USA; 100% remote acceptable; local Georgia candidates strongly preferred | Contract | https://sygnasolutions.betterteam.com/sr.-servicenow-developer |
 | 2026-10-27 | Sr ServiceNow Developer / Architect - HPTech | USA: Metadata specifies TELECOMMUTE and applicant country USA. Confirm permitted states, work authorization, and contract terms with the recruiter. | Confirm with recruiter | https://www.dice.com/job-detail/0e33cd66-ad50-469f-ad16-3a39076da95c |
 | 2026-10-27 | ServiceNow Platform Specialist - Alimentiv | Canada: Remote, with Toronto, Montreal, London (Ontario), and Vancouver listed by the employer ATS. Not worldwide. | Full-time permanent | https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108 |
+| 2026-10-27 | Salesforce Solution Lead (JR0156424) - McKesson | Canada: Mississauga, ON; hybrid/remote arrangement not established in inspected fields | Full-time | https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Salesforce-Solution-Lead_JR0156424-1 |
 | 2026-10-27 | Salesforce Developer (MED02518) - Medcan | Canada: Toronto; hybrid, two office days; full-time; Platform Developer I required; deadline Nov 6 | Full-time | https://medcan.wd10.myworkdayjobs.com/medcan/job/Toronto/Salesforce-Developer_MED02518 |
 | 2026-10-26 | Software Engineer II (Salesforce Loyalty Management Developer) (R_1509038) - TD | Canada: Toronto; Office Focused; full-time; deadline Nov 9 | Full-time | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038 |
 | 2026-10-26 | ServiceNow Developer - Futuremindz | USA: USA; telecommute; confirm permitted states | Full-time | https://www.dice.com/job-detail/042241b5-d082-4101-9412-637f8ab8dadf |
