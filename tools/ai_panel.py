@@ -76,6 +76,9 @@ LABELS: dict[str, list[str]] = {
     "FIRECRAWL_API_KEY": ["FIRECRAWL API KEY", "FIRECRAWL API KEY 2"],
     "JINA_API_KEY": ["JINA READER API KEY(SEARCH)", "JINA API KEY"],
     "PARALLEL_API_KEY": ["PARALLEL AI API KEY (SEARCH)"],
+    # Adzuna needs an app id + app key pair; both must be present to use it
+    "ADZUNA_APP_ID": ["ADZUNA APP ID", "ADZUNA APPLICATION ID"],
+    "ADZUNA_APP_KEY": ["ADZUNA APP KEY", "ADZUNA API KEY"],
 }
 
 # Label matching by regex. The key store spells the search-API labels

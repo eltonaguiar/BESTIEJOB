@@ -126,3 +126,60 @@ README (live)    ### ServiceNow jobs (353) · ### Salesforce jobs (440) · ### O
 Pages deploy     success on 2a7c08b
 Inbox guard      success on 908948b
 ```
+
+## Adzuna wired in; Job Bank search actually fixed
+
+### Adzuna (`from_adzuna` in `scripts/today_feeds_scan.py`)
+
+Adzuna is the only source here with a **native `max_days_old` filter**, so
+"posted in the last N days" is the API's own answer instead of a local guess. It
+needs an app id + app key pair, resolved in this order:
+
+```
+ADZUNA_APP_ID / ADZUNA_API_KEY env  ->  dbpasses.txt (labels now mapped in
+ai_panel.LABELS as ADZUNA_APP_ID / ADZUNA_APP_KEY)  ->  the repo's public demo pair
+```
+
+The demo pair (`54ce986e` / `db85…`) is the same credential already hardcoded in
+`scripts/scrape_adzuna*.js`. A probe returned **429 "Usage limits exceeded"**, not
+401 — the credential is valid, the shared quota is burned. So the source treats 429
+as *throttled*, prints one line and stops; it never retries in a loop and never
+reports "bad key". To use it today, add your own app id + key to `dbpasses.txt`.
+
+### Job Bank: the search does work, just not the way we were calling it
+
+Two separate bugs, both now fixed:
+
+1. **Wrong vocabulary.** Job Bank matches the job *title*, and no employer titles a
+   posting "ServiceNow" — real titles are NOC-style ("computer systems analyst").
+   `searchstring=welder` returns welders and `searchstring=registered nurse` returns
+   nurses, proving the keyword works; `searchstring=servicenow` returns "shipping
+   coordinator" and "counsel" because the platform name only exists in the
+   description. Quoting does not help. The source now searches role titles and tests
+   the platform keyword against the posting description.
+
+2. **Untrustworthy detail pages.** Keyed by ID, `jobsearch/jobposting/<id>` fetched
+   without a warm session can return *another* posting's page — three different IDs
+   returned byte-identical HTML on one probe. That made "counsel" appear to mention
+   ServiceNow. A description match is now only accepted when the page's own `<title>`
+   contains the row's title.
+
+A third gate was needed and is easy to miss: **a platform mention is not a platform
+role.** Export Development Canada's legal "counsel" postings genuinely name ServiceNow
+as an internal tool, and they passed both checks. Description-only matches now
+additionally require a tech role title (`developer|administrator|analyst|engineer|
+architect|consultant|specialist|programmer|systems|IT|…`).
+
+Verified live:
+
+```
+[jobbank] 53 candidates, 23 descriptions read, 6 matched
+  CloudKettle Inc      architect / cloud architect    Toronto (ON)    Salesforce
+  Recrute Action       IT analyst ×2                  Montréal/Laval  ServiceNow
+  Astra North Infoteck cloud developer                Toronto (ON)    Salesforce
+[adzuna:demo] quota exhausted (429) — stopping this source
+```
+
+With `--days 7` all six are correctly dropped: the three CloudKettle postings are
+already on the board and the rest are 10–13 days old. Job Bank now contributes real
+rows instead of noise; it simply had nothing new inside the window on this run.

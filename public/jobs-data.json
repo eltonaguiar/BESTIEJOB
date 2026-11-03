@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T21:23:54+00:00",
+ "generatedAt": "2026-11-03T21:44:28+00:00",
  "timezone": "America/Toronto",
- "count": 977,
+ "count": 1008,
  "appliedHidden": 18,
  "sources": [
   "Adzuna",
@@ -16,6 +16,7 @@
   "Lever",
   "LinkedIn",
   "SmartRecruiters",
+  "Talent.com",
   "Workday ATS",
   "Workopolis",
   "alldus.com",
@@ -26,12 +27,16 @@
   "bridgingthegap.nexxt.com",
   "brightvisiontechnologies.applytojob.com",
   "ca.trabajo.org",
+  "canadajobbank.org",
+  "careers-adastragrp.icims.com",
   "careers-itcfederal.icims.com",
+  "careers.bfg.ca",
   "careers.celestica.com",
   "careers.cognizant.com",
   "careers.deloitte.ca",
   "careers.equifax.com",
   "careers.ey.com",
+  "careers.loblaw.ca",
   "careers.na.panasonic.com",
   "careers.outforundergrad.org",
   "careers.paralucent.com",
@@ -40,21 +45,27 @@
   "cgi.njoyn.com",
   "charityvillage.com",
   "cofomo.com",
+  "crmforce.careers-page.com",
   "crossfuze.pinpointhq.com",
   "dice.com",
+  "echojobs.io",
   "empleo.3mtglobal.es",
   "emplois.bnc.ca",
+  "emplois.ca",
   "employment-mackenziehealth.icims.com",
   "exphire-kpmgca.icims.com",
   "fr.simplyhired.ca",
   "fxinnovation.com",
   "georgebrown.csod.com",
   "github.com",
+  "hirify.me",
   "iadyup.fa.ocs.oraclecloud.com",
+  "ihiretechnology.com",
   "insightglobal.com",
   "jobicy.com",
   "jobs.bell.ca",
   "jobs.ca",
+  "jobs.crelate.com",
   "jobs.firstcitizens.com",
   "jobs.jobvite.com",
   "jobs.pomerleau.ca",
@@ -63,13 +74,18 @@
   "jobs.toronto.ca",
   "jobs.utoronto.ca",
   "jobsca.org",
+  "mymiltonontario.ca",
+  "onicosolutions.com",
   "randstad.ca",
+  "recruit.net",
   "recruiting.ultipro.ca",
+  "remotery.co",
   "remotive.com",
   "roberthalf.com",
   "sagehr.my.salesforce-sites.com",
   "searchcareers.caci.com",
   "servicenow.com",
+  "sisystems.com",
   "sygnasolutions.betterteam.com",
   "systematix.com",
   "toronto.ca.expertini.com",
@@ -185,6 +201,57 @@
    "french": false,
    "search": "servicenow technical consultant - itom, service mapping randstad canada toronto, on randstad.ca servicenow full-time servicenow itom consulting/ba role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow SAM Administrator - ITAM",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow  servicenow itam sam/ham role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Developer – SPM – Remote · Canada",
+   "company": "Alldus",
+   "location": "Remote, Canada",
+   "url": "https://www.jobs.ca/alldus/jobs/servicenow-developer-spm-remote-canada-412086f27136",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 96,
+   "matchReasons": [
+    "ServiceNow",
+    "SPM/PPM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer – spm – remote · canada alldus remote, canada jobs.ca servicenow full-time servicenow spm/ppm role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-%E2%80%93-spm-at-alldus-4477391538",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
   },
   {
    "posted": "2026-11-03",
@@ -404,6 +471,153 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "ServiceNow Platform Developer",
+   "company": "acroynon",
+   "location": "Etobicoke, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-developer-at-acroynon-4484516741",
+   "note": "via twin 20-round harvest",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow platform developer acroynon etobicoke, ontario, canada linkedin servicenow via twin 20-round harvest servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Lead Developer in Toronto ON Canada",
+   "company": "Cloudious LLC",
+   "location": "Toronto, ON",
+   "url": "https://www.recruit.net/job/servicenow-lead-developer-jobs/A92EC99034999BDA",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "recruit.net",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow lead developer in toronto on canada cloudious llc toronto, on recruit.net servicenow full-time servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Servicenow Developer - Mississauga, Ontario",
+   "company": "iHireTechnology",
+   "location": "Mississauga, Ontario",
+   "url": "https://www.ihiretechnology.com/jobs/view/530745977",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "ihiretechnology.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer - mississauga, ontario ihiretechnology mississauga, ontario ihiretechnology.com servicenow full-time servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Engineer – temporary job Mississauga, ON",
+   "company": "Randstad Canada",
+   "location": "Mississauga, ON",
+   "url": "https://ca.talent.com/view?id=627646732272346049",
+   "note": "contract",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Talent.com",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow engineer – temporary job mississauga, on randstad canada mississauga, on talent.com servicenow contract servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Hiring now: ServiceNow Application Developer",
+   "company": "Canada Job Bank",
+   "location": "Mississauga, ON",
+   "url": "https://canadajobbank.org/servicenow-application-developer/",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "canadajobbank.org",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "hiring now: servicenow application developer canada job bank mississauga, on canadajobbank.org servicenow full-time servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Remote Senior ServiceNow Developer Job In Toronto, ON CA",
+   "company": "BridgingTheGap",
+   "location": "Toronto, ON",
+   "url": "https://bridgingthegap.nexxt.com/jobs/remote-senior-servicenow-developer-toronto-on-ca-3341867599-job.html",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "bridgingthegap.nexxt.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "remote senior servicenow developer job in toronto, on ca bridgingthegap toronto, on bridgingthegap.nexxt.com servicenow full-time servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Hybrid! ServiceNow Developer - Senior, 6 Month Contract",
+   "company": "Dimensional Tech Inc.",
+   "location": "Toronto, ON",
+   "url": "https://jobs.crelate.com/portal/dimensionaltechinc/job/1yjera61fx68yoqg3o8brt46ny",
+   "note": "contract",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.crelate.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "hybrid! servicenow developer - senior, 6 month contract dimensional tech inc. toronto, on jobs.crelate.com servicenow contract servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Servicenow specialist",
    "company": "Tata Consultancy Services",
    "location": "Montreal, Quebec, Canada",
@@ -474,6 +688,201 @@
    ],
    "french": false,
    "search": "fso-servicenow developer national bank of canada montreal, quebec, canada linkedin servicenow via fresh scan servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Developer",
+   "company": "Onico Solutions",
+   "location": "Canada",
+   "url": "https://www.onicosolutions.com/jobs/servicenow-developer/",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "onicosolutions.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer onico solutions canada onicosolutions.com servicenow full-time servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Administrator / Developer (Intermediate)",
+   "company": "BFG Enterprise Services",
+   "location": "Canada",
+   "url": "https://careers.bfg.ca/jobs/707075-servicenow-administrator-developer-intermediate",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.bfg.ca",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow administrator / developer (intermediate) bfg enterprise services canada careers.bfg.ca servicenow full-time servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5942232915?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Markham"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior Developer, ServiceNow",
+   "company": "Loblaw",
+   "location": "Canada",
+   "url": "https://careers.loblaw.ca/senior-developer-servicenow/job/PAF-LCL-DED2BC0C-2158-441C-AC8F-642F12ECC0F7_4479_1786644910_0",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.loblaw.ca",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior developer, servicenow loblaw canada careers.loblaw.ca servicenow full-time servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Senior Developer at BDO Canada",
+   "company": "BDO Canada",
+   "location": "Canada",
+   "url": "https://echojobs.io/job/bdo-canada-servicenow-senior-developer-bbq1q",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "echojobs.io",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow senior developer at bdo canada bdo canada canada echojobs.io servicenow full-time servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior ServiceNow Developer – Remote · Canada",
+   "company": "Hanalytica GmbH",
+   "location": "Remote, Canada",
+   "url": "https://www.jobs.ca/hanalytica-gmbh/jobs/senior-servicenow-developer-remote-canada-a7dd1dcc0587",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer – remote · canada hanalytica gmbh remote, canada jobs.ca servicenow full-time servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior ServiceNow Developer to support... professional services client",
+   "company": "SI Systems",
+   "location": "Canada",
+   "url": "https://www.sisystems.com/jobs/senior-servicenow-developer-to-support-the-configuration-and-development-of-the-servicenow-platform-for-a-professional-services-client/320038003000330039003900/",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "sisystems.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer to support... professional services client si systems canada sisystems.com servicenow full-time servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Senior Developer – Remote · Canada",
+   "company": "BDO Canada",
+   "location": "Remote, Canada",
+   "url": "https://www.jobs.ca/bdo/jobs/servicenow-senior-developer-remote-canada-c7f8b4fb88b6",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow senior developer – remote · canada bdo canada remote, canada jobs.ca servicenow full-time servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Remote ServiceNow Developer at Lightspeed Commerce",
+   "company": "Lightspeed Commerce",
+   "location": "Remote, Canada",
+   "url": "https://www.remotery.co/job/remote-servicenow-developer-at-lightspeed-commerce-in-canada-full-time-d91d9e",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "remotery.co",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "remote servicenow developer at lightspeed commerce lightspeed commerce remote, canada remotery.co servicenow full-time servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Developer \\/ Hirify",
+   "company": "Hirify](https://hirify.me/jobs/1106790-servicenow-javascript-developer)",
+   "location": "Hirify",
+   "url": "https://hirify.me/jobs/1106790-servicenow-javascript-developer",
+   "note": "Remote, Canada",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "hirify.me",
+   "verified": "Employer board",
+   "match": 83,
+   "matchReasons": [
+    "ServiceNow",
+    "JavaScript",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow developer \\/ hirify hirify](https://hirify.me/jobs/1106790-servicenow-javascript-developer) hirify hirify.me servicenow remote, canada servicenow javascript role fit",
    "alternates": []
   },
   {
@@ -564,6 +973,48 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Développeur.euse ServiceNow – Télétravail · Canada",
+   "company": "ATEKO backed by Bell Canada",
+   "location": "Remote, Canada",
+   "url": "https://www.emplois.ca/ateko-backed-by-bell-canada/jobs/developpeur-euse-servicenow-remote-canada-d00eda4e5b3a",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "emplois.ca",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur.euse servicenow – teletravail · canada ateko backed by bell canada remote, canada emplois.ca servicenow full-time servicenow canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Integration Developer",
+   "company": "Hirify",
+   "location": "Remote, Canada",
+   "url": "https://hirify.me/jobs/756297-salesforce-integration-developer-workato",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "hirify.me",
+   "verified": "Employer board",
+   "match": 74,
+   "matchReasons": [
+    "Integration",
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce integration developer hirify remote, canada hirify.me salesforce full-time integration salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
    "company": "Salesforce Partner Canada",
    "location": "Toronto, Ontario, Canada",
@@ -638,6 +1089,25 @@
    ],
    "french": false,
    "search": "salesforce marketing cloud(sfmc) business analyst enterprise solutions inc. mississauga, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v5.md salesforce consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Open to ServiceNow Opportunities \\/ CSA & CAD Certified",
+   "company": "CSA & CAD Certified](https://www.servicenow.com/community/servicenow-jobs-forum/open-to-servicenow-opportunities-csa-amp-cad-certified/td-p/3616901)",
+   "location": "ServiceNow Community",
+   "url": "https://www.servicenow.com/community/servicenow-jobs-forum/open-to-servicenow-opportunities-csa-amp-cad-certified/td-p/3616901",
+   "note": "Toronto, Ontario, Canada",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "servicenow.com",
+   "verified": "Employer board",
+   "match": 68,
+   "matchReasons": [
+    "ServiceNow"
+   ],
+   "french": false,
+   "search": "open to servicenow opportunities \\/ csa & cad certified csa & cad certified](https://www.servicenow.com/community/servicenow-jobs-forum/open-to-servicenow-opportunities-csa-amp-cad-certified/td-p/3616901) servicenow community servicenow.com servicenow toronto, ontario, canada servicenow",
    "alternates": []
   },
   {
@@ -1139,6 +1609,153 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Sentrex Health Solutions hiring Salesforce Lead Developer",
+   "company": "Sentrex Health Solutions",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-lead-developer-at-sentrex-health-solutions-4417192911",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sentrex health solutions hiring salesforce lead developer sentrex health solutions markham, ontario, canada linkedin salesforce full-time salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Senior Developer – Mississauga, ON",
+   "company": "IKO North America",
+   "location": "Mississauga, ON",
+   "url": "https://www.jobs.ca/iko-north-america/jobs/salesforce-senior-developer-mississauga-on-8dafd24ea53c",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce senior developer – mississauga, on iko north america mississauga, on jobs.ca salesforce full-time salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Developer (Sales, Service, Marketing)",
+   "company": "BURGEON IT SERVICES",
+   "location": "Mississauga, ON",
+   "url": "https://www.jobs.ca/burgeon-it-services/jobs/salesforce-developer-sales-service-marketing-mississauga-on-c2f9b1d80f57",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer (sales, service, marketing) burgeon it services mississauga, on jobs.ca salesforce full-time salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "System Development Specialist (Salesforce Developer)",
+   "company": "City of Toronto",
+   "location": "Toronto, ON M5V 3C6",
+   "url": "https://jobs.toronto.ca/jobsatcity/job/Toronto-System-Development-Specialist-%28Salesforce-Developer%29-ON-M5V3C6/599830017/",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.toronto.ca",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "system development specialist (salesforce developer) city of toronto toronto, on m5v 3c6 jobs.toronto.ca salesforce full-time salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Sales Cloud Developer – Mississauga, ON",
+   "company": "Lorven Technologies Inc.",
+   "location": "Mississauga, ON",
+   "url": "https://www.jobs.ca/lorven-technologies-inc/jobs/salesforce-sales-cloud-developer-mississauga-on-f8f6502f33ec",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce sales cloud developer – mississauga, on lorven technologies inc. mississauga, on jobs.ca salesforce full-time salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Sr. Salesforce Developer in Mississauga, Ontario",
+   "company": "Capgemini",
+   "location": "Mississauga, Ontario",
+   "url": "https://ca.trabajo.org/job-5475-0088cd371c27d3267f6df3dc0ee6ce1c",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "ca.trabajo.org",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. salesforce developer in mississauga, ontario capgemini mississauga, ontario ca.trabajo.org salesforce full-time salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Junior Salesforce Developer – Hybrid",
+   "company": "Experis Canada",
+   "location": "Mississauga, ON",
+   "url": "https://www.jobs.ca/experis-canada/jobs/junior-salesforce-developer-mississauga-on-44607fb5098b",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "junior salesforce developer – hybrid experis canada mississauga, on jobs.ca salesforce full-time salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Senior Salesforce Engineer",
    "company": "Canadian Cancer Society",
    "location": "Prince George, British Columbia, Canada",
@@ -1229,6 +1846,117 @@
    ],
    "french": false,
    "search": "salesforce consultant, revenue cloud neuraflash remote - colombia greenhouse salesforce via greenhouse salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior Salesforce Developer",
+   "company": "Webflow",
+   "location": "Remote — Canada (BC & ON only), FullTime",
+   "url": "https://jobs.ashbyhq.com/webflow/a35a4d60-319f-441e-89d7-3a0ef6cd7421",
+   "note": "via Accel portfolio board; Ashby API verified",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Ashby",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce developer webflow remote — canada (bc & on only), fulltime ashby salesforce via accel portfolio board; ashby api verified salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5950814100",
+     "label": "Adzuna · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Versapay - Salesforce Developer",
+   "company": "Versapay",
+   "location": "Remote, Canada",
+   "url": "https://jobs.lever.co/versapay/7906bc29-f17e-44d2-a41b-334e6ce0608c",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "versapay - salesforce developer versapay remote, canada lever salesforce full-time salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Marketing Cloud Developer (Remote Contract)",
+   "company": "CRM Force",
+   "location": "Remote, Canada",
+   "url": "https://crmforce.careers-page.com/jobs/b55e7243-432d-4bf1-a288-c070019eae65",
+   "note": "contract",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "crmforce.careers-page.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud developer (remote contract) crm force remote, canada crmforce.careers-page.com salesforce contract salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Developer – Remote · Canada",
+   "company": "Avanciers Inc.",
+   "location": "Remote, Canada",
+   "url": "https://www.jobs.ca/avanciers-inc/jobs/salesforce-developer-remote-canada-030e79cc35ff",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer – remote · canada avanciers inc. remote, canada jobs.ca salesforce full-time salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior Salesforce Developer (Salesforce)",
+   "company": "Hirify",
+   "location": "Remote, Canada",
+   "url": "https://hirify.me/jobs/1345342-senior-salesforce-developer",
+   "note": "full-time",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "hirify.me",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce developer (salesforce) hirify remote, canada hirify.me salesforce full-time salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -1433,6 +2161,26 @@
    ],
    "french": false,
    "search": "data analyst artemis aurora, ontario, canada linkedin other via copilot-multiai--2026-11-03--v1.md role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Application Developer in Markham, Ontario",
+   "company": "Adastra",
+   "location": "Markham, Ontario",
+   "url": "https://careers-adastragrp.icims.com/jobs/5645/application-developer/job",
+   "note": "full-time",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "careers-adastragrp.icims.com",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "application developer in markham, ontario adastra markham, ontario careers-adastragrp.icims.com other full-time role fit toronto area",
    "alternates": []
   },
   {
@@ -1832,6 +2580,27 @@
    ],
    "french": false,
    "search": "global servicenow alliance performance and operations lead, deloitte global ecosystem and alliances deloitte toronto, ontario, canada linkedin servicenow via linkedin-guest--2026-11-02--v1.md servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "ServiceNow Developer in Mississauga, ON",
+   "company": "Rexall Pharmacy Group Ltd.",
+   "location": "Mississauga, ON",
+   "url": "https://mymiltonontario.ca/jobs/servicenow-developer-3283053",
+   "note": "full-time",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "mymiltonontario.ca",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer in mississauga, on rexall pharmacy group ltd. mississauga, on mymiltonontario.ca servicenow full-time servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -2504,33 +3273,6 @@
    "french": false,
    "search": "salesforce consultant j m group inc toronto, ontario adzuna salesforce unknown salesforce role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Salesforce Developer",
-   "company": "Webflow",
-   "location": "Remote — Canada (BC & ON only), FullTime",
-   "url": "https://jobs.ashbyhq.com/webflow/a35a4d60-319f-441e-89d7-3a0ef6cd7421",
-   "note": "via Accel portfolio board; Ashby API verified",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Ashby",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior salesforce developer webflow remote — canada (bc & on only), fulltime ashby salesforce via accel portfolio board; ashby api verified salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950814100",
-     "label": "Adzuna · Canada"
-    }
-   ]
   },
   {
    "posted": "2026-11-02",
@@ -11748,28 +12490,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "ServiceNow Developer – SPM",
-   "company": "Alldus",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-%E2%80%93-spm-at-alldus-4477391538",
-   "note": "via grok-job-hunter--2026-11-02--v21.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 96,
-   "matchReasons": [
-    "ServiceNow",
-    "SPM/PPM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer – spm alldus quebec, canada linkedin servicenow via grok-job-hunter--2026-11-02--v21.md servicenow spm/ppm role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
    "title": "ServiceNow Developer SAM - Okta",
    "company": "Remote (Bengaluru, India)",
    "location": "Unknown / peer claim not verified",
@@ -14891,27 +15611,6 @@
      "label": "LinkedIn · Toronto"
     }
    ]
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "ServiceNow Platform Developer",
-   "company": "acroynon",
-   "location": "Etobicoke, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-developer-at-acroynon-4484516741",
-   "note": "via twin 20-round harvest",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow platform developer acroynon etobicoke, ontario, canada linkedin servicenow via twin 20-round harvest servicenow role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-10-29",
@@ -18517,27 +19216,6 @@
    ],
    "french": false,
    "search": "tech ops analyst ii - inventory & asset management (servicenow itam, ft) tjx canada mississauga, on workday ats servicenow employer workday verified 2026-11-02; hw lifecycle + servicenow inventory reconciliation; closes 2026-11-09 servicenow itam role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-26",
-   "title": "ServiceNow Administrator / Developer (Intermediate)",
-   "company": "BFG Enterprise Services",
-   "location": "Markham, York region",
-   "url": "https://www.adzuna.ca/details/5942232915?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow administrator / developer (intermediate) bfg enterprise services markham, york region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md servicenow role fit toronto area",
    "alternates": []
   },
   {

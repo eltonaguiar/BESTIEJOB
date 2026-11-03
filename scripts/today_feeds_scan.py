@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import concurrent.futures as futures
 import json
+import os
 import re
 import sys
 import urllib.error
@@ -37,6 +38,10 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "tools"))
+
+from ai_panel import get_key  # noqa: E402
+
 INBOX = ROOT / "inbox"
 RAW = ROOT / "raw"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -50,6 +55,14 @@ KW = re.compile(r"\bservice\s?now\b|\bsalesforce\b|\bapex\b|\bsoql\b|\blwc\b|\bi
 GEO = re.compile(r"toronto|ontario|canada|mississauga|markham|brampton|vaughan|etobicoke|"
                  r"scarborough|north york|richmond hill|oakville|burlington|waterloo|"
                  r"kitchener|ottawa|montreal|montr[ée]al|quebec|calgary|vancouver|remote", re.I)
+# Platform mentions are not platform roles: a legal-counsel posting can name
+# ServiceNow as an internal tool. Description-only matches must also look like an
+# IT role.
+TECH_TITLE = re.compile(
+    r"developer|administrator|analyst|engineer|architect|consultant|specialist|"
+    r"programmer|systems?\b|\bIT\b|information technology|integration|"
+    r"database|application|software|\bQA\b|devops|platform", re.I)
+
 EXCL = re.compile(r"\b(account executive|account manager|sales representative|sales manager|"
                   r"business development|recruiter|talent acquisition|pre-?sales|"
                   r"customer success|marketing|growth|product marketing)\b", re.I)
@@ -279,6 +292,71 @@ def from_ashby(_: int) -> list[dict]:
     return out
 
 
+# Adzuna is the richest Canadian aggregator and the only source here with a native
+# `max_days_old` filter, so "posted in the last N days" is the API's own answer.
+# It needs an app id + app key pair. The pair below is the repo's public demo
+# credential (also in scripts/scrape_adzuna*.js); its quota is shared and often
+# exhausted, and a 429 means *throttled* ("Usage limits exceeded"), never "bad key".
+ADZUNA_DEMO = ("54ce986e", "db851f299e966c0a2a72af525dce6199")
+
+ADZUNA_QUERIES = [
+    ("servicenow", "Toronto"), ("servicenow", "Ontario"),
+    ("servicenow developer", "Canada"), ("servicenow administrator", "Ontario"),
+    ("servicenow consultant", "Toronto"),
+    ("salesforce", "Toronto"), ("salesforce", "Ontario"),
+    ("salesforce developer", "Canada"), ("salesforce administrator", "Ontario"),
+    ("apex developer", "Toronto"),
+]
+
+
+def adzuna_credentials() -> tuple[str, str, str]:
+    """env -> dbpasses.txt -> the repo's demo pair. Returns (id, key, mode)."""
+    app_id = os.environ.get("ADZUNA_APP_ID") or get_key("ADZUNA_APP_ID")
+    app_key = (os.environ.get("ADZUNA_API_KEY") or os.environ.get("ADZUNA_APP_KEY")
+               or get_key("ADZUNA_APP_KEY"))
+    if app_id and app_key:
+        return app_id, app_key, "configured"
+    return ADZUNA_DEMO[0], ADZUNA_DEMO[1], "demo"
+
+
+def from_adzuna(days: int) -> list[dict]:
+    app_id, app_key, mode = adzuna_credentials()
+    out: list[dict] = []
+    throttled = False
+    for what, where in ADZUNA_QUERIES:
+        if throttled:
+            break
+        for page in (1, 2):
+            url = (f"https://api.adzuna.com/v1/api/jobs/ca/search/{page}?"
+                   + urllib.parse.urlencode({
+                       "app_id": app_id, "app_key": app_key, "results_per_page": 50,
+                       "what": what, "where": where, "sort_by": "date",
+                       "max_days_old": days, "content-type": "application/json"}))
+            try:
+                data = json.loads(fetch(url))
+            except urllib.error.HTTPError as exc:
+                if exc.code == 429:
+                    print(f"[adzuna:{mode}] quota exhausted (429) — stopping this source")
+                    throttled = True
+                else:
+                    print(f"[adzuna:{mode}] HTTP {exc.code} on '{what}'")
+                break
+            except Exception as exc:                      # noqa: BLE001
+                print(f"[adzuna:{mode}] {type(exc).__name__} on '{what}'")
+                break
+            results = data.get("results") or []
+            for r in results:
+                out.append({"title": r.get("title") or "",
+                            "company": (r.get("company") or {}).get("display_name") or "Unknown",
+                            "location": (r.get("location") or {}).get("display_name") or where,
+                            "url": r.get("redirect_url") or "",
+                            "posted": iso_day(r.get("created")), "source": "adzuna"})
+            if len(results) < 50:
+                break
+    print(f"[adzuna:{mode}] {len(out)} postings")
+    return out
+
+
 MONTHS = {name: i + 1 for i, name in enumerate(
     ("january", "february", "march", "april", "may", "june", "july",
      "august", "september", "october", "november", "december"))}
@@ -308,45 +386,112 @@ def jobbank_day(html: str) -> str | None:
     return f"{int(m.group(3)):04d}-{month:02d}-{int(m.group(2)):02d}"
 
 
+# Search-result markup, verified 2026-11-03. Every row carries its own title,
+# employer, city and date, so no detail fetch is needed for those fields:
+#   <h3 class="noctitle"> title </h3>
+#   <li class="date">November 03, 2026</li>
+#   <li class="business">Employer</li>
+#   <li class="location">... Mississauga (ON)</li>
+JOB_ID = re.compile(r"jobposting/(\d+)")
+JB_TITLE = re.compile(r'class="noctitle">(.*?)</span>', re.S)
+JB_DATE = re.compile(r'class="date">(.*?)</li>', re.S)
+JB_BIZ = re.compile(r'class="business">(.*?)</li>', re.S)
+JB_LOC = re.compile(r'class="wb-inv">Location</span>\s*(.*?)</li>', re.S)
+
+
+def jobbank_text_day(text: str) -> str | None:
+    """'November 03, 2026' -> '2026-11-03'. Never guessed."""
+    m = re.search(r"([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})", text or "")
+    if not m:
+        return None
+    month = MONTHS.get(m.group(1).lower())
+    if not month:
+        return None
+    return f"{int(m.group(3)):04d}-{month:02d}-{int(m.group(2)):02d}"
+
+
+def _jobbank_rows(html: str) -> list[dict]:
+    """One dict per search-result row."""
+    rows: list[dict] = []
+    for chunk in html.split('class="noctitle"')[1:]:
+        chunk = 'class="noctitle"' + chunk
+        jid, title, date = JOB_ID.search(chunk), JB_TITLE.search(chunk), JB_DATE.search(chunk)
+        if not (jid and title):
+            continue
+        biz, loc = JB_BIZ.search(chunk), JB_LOC.search(chunk)
+        city = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", loc.group(1))).strip() if loc else ""
+        rows.append({
+            "jid": jid.group(1),
+            "title": re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", title.group(1))).strip(),
+            "company": (re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", biz.group(1))).strip()
+                        if biz else "Job Bank employer"),
+            # Job Bank writes "Mississauga (ON)"; append the country so the shared
+            # geo filter accepts every Canadian city, not only the listed ones.
+            "location": f"{city}, Canada" if city else "Canada",
+            "posted": jobbank_text_day(re.sub(r"<[^>]+>", "", date.group(1))) if date else None,
+        })
+    return rows
+
+
 def from_jobbank(max_detail: int) -> list[dict]:
-    """Job Bank has no working JSON API (500). Search HTML -> detail microdata."""
-    ids: list[str] = []
+    """Job Bank, searched the way Job Bank actually works.
+
+    It matches the job *title*, and no employer titles a posting "ServiceNow" —
+    the real titles are NOC-style ("computer systems analyst"). So this queries
+    the vocabulary Job Bank understands (role titles) and then tests the platform
+    keyword against the posting's own description. The old code searched for
+    "servicenow", which Job Bank cannot match against a title, so it returned
+    shipping clerks and the keyword filter then discarded everything.
+    """
+    cands: dict[str, dict] = {}
     for keyword, location in JOBBANK_QUERIES:
         url = ("https://www.jobbank.gc.ca/jobsearch/jobsearch?"
-               + urllib.parse.urlencode({"searchstring": keyword, "locationstring": location,
-                                         "sort": "D"}))
+               + urllib.parse.urlencode({"searchstring": keyword,
+                                         "locationstring": location, "sort": "D"}))
         try:
             html = fetch(url, headers={"Accept": "text/html"}).decode("utf-8", "replace")
-        except Exception as exc:
+        except Exception as exc:                       # noqa: BLE001
             print(f"[jobbank:{keyword}] {type(exc).__name__} {str(exc)[:50]}")
             continue
-        for m in re.findall(r"jobposting/(\d+)", html):
-            if m not in ids:
-                ids.append(m)
-    ids = ids[:max_detail]
-    out: list[dict] = []
-    for jid in ids:
-        purl = f"https://www.jobbank.gc.ca/jobsearch/jobposting/{jid}"
-        try:
-            html = fetch(purl, headers={"Accept": "text/html"}).decode("utf-8", "replace")
-        except Exception:
-            continue
-        posted = jobbank_day(html)
-        if not posted:
-            continue                       # no published date -> no row, never a guess
-        title = TITLE_TAG.search(html)
-        raw = re.sub(r"\s+", " ", (title.group(1) if title else "")).replace("| Job Bank", "").strip()
-        # "servicenow developer - Toronto, ON - Job posting - Job Bank"
-        parts = [p.strip() for p in raw.split(" - ")]
-        role = parts[0] if parts else raw
-        loc = parts[1] if len(parts) > 1 and "," in parts[1] else "Canada"
-        org = HIRING_ORG.search(html)
-        company = (re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", org.group(1))).strip()
-                   if org else "Job Bank employer")
-        out.append({"title": role, "company": company, "location": loc,
-                    "url": purl, "posted": posted, "source": "jobbank"})
-    return out
+        for row in _jobbank_rows(html):
+            cands.setdefault(row["jid"], row)
 
+    out: list[dict] = []
+    checks = 0
+    for jid, row in cands.items():
+        if not row["posted"]:
+            continue                    # no published date -> no row, never a guess
+        matched = KW.search(row["title"])
+        if not matched:
+            if not TECH_TITLE.search(row["title"]):
+                continue        # description may name the platform; the role is not IT
+            if checks >= max_detail:    # cap detail fetches; each is ~200 KB
+                continue
+            checks += 1
+            try:
+                html = fetch(f"https://www.jobbank.gc.ca/jobsearch/jobposting/{jid}",
+                             headers={"Accept": "text/html"}).decode("utf-8", "replace")
+            except Exception:                          # noqa: BLE001
+                continue
+            # The detail URL is session-stateful: fetched without a warm session it
+            # can return a different posting's page, which made "counsel" and
+            # "shipping coordinator" appear to mention ServiceNow. Verify identity
+            # against the page's own <title> before believing its description.
+            page = TITLE_TAG.search(html)
+            page_title = (re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", page.group(1))).lower()
+                          if page else "")
+            if row["title"][:24].lower() not in page_title:
+                continue
+            matched = KW.search(re.sub(r"<[^>]+>", " ", html))
+        if not matched:
+            continue
+        out.append({"title": row["title"], "company": row["company"],
+                    "location": row["location"],
+                    "url": f"https://www.jobbank.gc.ca/jobsearch/jobposting/{jid}",
+                    "posted": row["posted"], "source": "jobbank",
+                    "match": re.sub(r"\s+", " ", matched.group(0)).strip()})
+    print(f"[jobbank] {len(cands)} candidates, {checks} descriptions read, {len(out)} matched")
+    return out
 
 SOURCES = {"smartrecruiters": from_smartrecruiters, "workday": from_workday,
            "greenhouse": from_greenhouse, "lever": from_lever, "ashby": from_ashby,
