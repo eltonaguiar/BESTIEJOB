@@ -4,13 +4,13 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T035509Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T035630Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
   - [ServiceNow jobs (283)](#servicenow-jobs-283)
-  - [Salesforce jobs (321)](#salesforce-jobs-321)
+  - [Salesforce jobs (328)](#salesforce-jobs-328)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **1004 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **1011 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (283)
 
@@ -314,11 +314,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (321)
+### Salesforce jobs (328)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 321 postings</strong></summary>
+<details><summary><strong>Show 328 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -569,10 +569,17 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-27 | [Salesforce Tech Lead (Canada-Remote)](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-canada-remote-at-cloudlabs-inc-4482213499) | CloudLabs Inc | Canada | via copilot-multiai--2026-11-03--v1.md |
 | 2026-10-27 | [Salesforce Solution Lead (JR0156424) - McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Salesforce-Solution-Lead_JR0156424-1) | Canada: Mississauga, ON; hybrid/remote arrangement not established in inspected fields | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
 | 2026-10-27 | [Salesforce Solution Lead](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Salesforce-Solution-Lead_JR0156424-1) | McKesson | CAN, ON, Mississauga | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
+| 2026-10-27 | [Salesforce Solution Engineer, RCA & RCB](https://job-boards.greenhouse.io/neuraflash/jobs/6015378004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | via grok-job-hunter--2026-11-02--v64.md |
+| 2026-10-27 | [Salesforce Solution Architect, Service Cloud Voice](https://job-boards.greenhouse.io/neuraflash/jobs/5993680004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | via grok-job-hunter--2026-11-02--v64.md |
+| 2026-10-27 | [Salesforce Solution Architect, Service Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/5730028004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | via grok-job-hunter--2026-11-02--v64.md |
+| 2026-10-27 | [Salesforce Solution Architect, Field Service](https://job-boards.greenhouse.io/neuraflash/jobs/6011721004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | via grok-job-hunter--2026-11-02--v64.md |
+| 2026-10-27 | [Salesforce Experience Architect, AI and Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/5764374004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | via grok-job-hunter--2026-11-02--v64.md |
+| 2026-10-27 | [Salesforce Engagement Manager](https://job-boards.greenhouse.io/neuraflash/jobs/6220891004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | via grok-job-hunter--2026-11-02--v64.md |
 | 2026-10-27 | [Salesforce Developer (MED02518) - Medcan](https://medcan.wd10.myworkdayjobs.com/medcan/job/Toronto/Salesforce-Developer_MED02518) | Canada: Toronto; hybrid, two office days; full-time; Platform Developer I required; deadline Nov 6 | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
 | 2026-10-27 | [Salesforce Developer](https://medcan.wd10.myworkdayjobs.com/en-US/medcan/job/Toronto/Salesforce-Developer_MED02518) | Medcan | Toronto | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
 | 2026-10-27 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797) | Medcan | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
 | 2026-10-27 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-national-bank-of-canada-4481861803) | National Bank of Canada | Montreal, Quebec, Canada | via copilot-multiai--2026-11-03--v1.md |
+| 2026-10-27 | [Salesforce Consultant, Change Management](https://job-boards.greenhouse.io/neuraflash/jobs/5969708004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | via grok-job-hunter--2026-11-02--v64.md |
 | 2026-10-27 | [SFDC Omnistudio Developer](https://www.adzuna.ca/details/5943684343?utm_medium=api&utm_source=54ce986e) | Cloudious LLC | Canada | 7-day sweep 2026-11-03 — `omnistudio/Canada` |
 | 2026-10-27 | [Développeur Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-national-bank-of-canada-4481861804) | National Bank of Canada | Montreal, Quebec, Canada | via copilot-multiai--2026-11-03--v1.md |
 | 2026-10-27 | [Analyste d'affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d-affaires-salesforce-at-familiprix-4479141273) | Familiprix | Québec, Quebec, Canada | via copilot-multiai--2026-11-03--v1.md |
@@ -1183,4 +1190,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T035509Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T035630Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
