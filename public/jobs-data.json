@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T03:33:07+00:00",
+ "generatedAt": "2026-11-03T04:05:18+00:00",
  "timezone": "America/Toronto",
- "count": 406,
+ "count": 408,
  "appliedHidden": 5,
  "sources": [
   "Adzuna",
@@ -15,34 +15,172 @@
   "Jooble",
   "Lever",
   "LinkedIn",
-  "SmartRecruiters",
   "Workday ATS",
   "Workopolis",
   "ats.rippling.com",
   "bridgingthegap.nexxt.com",
   "ca.trabajo.org",
+  "careers-adastragrp.icims.com",
   "careers.cognizant.com",
   "careers.deloitte.ca",
   "careers.equifax.com",
+  "careers.ey.com",
   "cgi.njoyn.com",
   "charityvillage.com",
   "cofomo.com",
   "crossfuze.pinpointhq.com",
+  "drjobpro.com",
+  "echojobs.io",
   "empleo.3mtglobal.es",
   "fr.simplyhired.ca",
   "fxinnovation.com",
   "github.com",
+  "hiring.camp",
+  "jliconsulting.ca",
   "jobleads.com",
   "jobs.ca",
   "jobs.firstcitizens.com",
+  "jobs.jvistg2.com",
   "jobs.scotiabank.com",
   "jobs.toronto.ca",
+  "jobsnearme.career",
+  "optimuspartners.com",
   "remotive.com",
   "sagehr.my.salesforce-sites.com",
   "veracity-ventures-inc.careerplug.com",
   "wsib-iaepup.fa.ocs.oraclecloud.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Business Process Consultant  - ITSM AND HRSD Job Details / EY",
+   "company": "EY](https://careers.ey.com/ey/job/Toronto-ServiceNow-Business-Process-Consultant-ITSM-AND-HRSD-ON-M5H-0B3/1388519433/?feedId=440033%3DWomenInTech%3Dapply%3Dwomentech_network)",
+   "location": "Unknown",
+   "url": "https://careers.ey.com/ey/job/Toronto-ServiceNow-Business-Process-Consultant-ITSM-AND-HRSD-ON-M5H-0B3/1388519433/?feedId=440033%3DWomenInTech%3Dapply%3Dwomentech_network",
+   "note": "Canada",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.ey.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "HRSD / VA",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow business process consultant  - itsm and hrsd job details / ey ey](https://careers.ey.com/ey/job/toronto-servicenow-business-process-consultant-itsm-and-hrsd-on-m5h-0b3/1388519433/?feedid=440033%3dwomenintech%3dapply%3dwomentech_network) unknown careers.ey.com servicenow canada servicenow itsm hrsd / va role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Bilingual Senior Specialist, ServiceNow ITSM Developer / Jobs.ca",
+   "company": "Jobs.ca](https://www.jobs.ca/cmhc-schl/jobs/bilingual-senior-specialist-servicenow-itsm-developer-toronto-on-9390c8728e44)",
+   "location": "Unknown",
+   "url": "https://www.jobs.ca/cmhc-schl/jobs/bilingual-senior-specialist-servicenow-itsm-developer-toronto-on-9390c8728e44",
+   "note": "Canada",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Role fit"
+   ],
+   "french": true,
+   "search": "bilingual senior specialist, servicenow itsm developer / jobs.ca jobs.ca](https://www.jobs.ca/cmhc-schl/jobs/bilingual-senior-specialist-servicenow-itsm-developer-toronto-on-9390c8728e44) unknown jobs.ca servicenow canada servicenow itsm role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Senior Support Analyst job at TELUS in Toronto, ON - Job Search",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://optimuspartners.com/workspread/job/servicenow-senior-support-analyst-at-telus-toronto-on-127534d77473d770jktk-b3B0aW11c3",
+   "note": "0/10",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "optimuspartners.com",
+   "verified": "Employer board",
+   "match": 94,
+   "matchReasons": [
+    "ServiceNow",
+    "IT operations",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow senior support analyst job at telus in toronto, on - job search unknown canada optimuspartners.com servicenow 0/10 servicenow it operations role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Business Analyst in Toronto, Ontario - Tata Consultancy Services",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.trabajo.org/job-1918-e49d77c4eacc8edc62b33626d8397d7c",
+   "note": "0/10",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "ca.trabajo.org",
+   "verified": "Employer board",
+   "match": 94,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow business analyst in toronto, ontario - tata consultancy services unknown canada ca.trabajo.org servicenow 0/10 servicenow consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Business Analyst in Toronto, Ontario - Soroc Technology",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.trabajo.org/job-5475-019264d01442590621e76aee6e71e630",
+   "note": "0/10",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "ca.trabajo.org",
+   "verified": "Employer board",
+   "match": 94,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow business analyst in toronto, ontario - soroc technology unknown canada ca.trabajo.org servicenow 0/10 servicenow consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "NEW · ServiceNow Developer & Administrator — Toronto / Apply Now (Themesoft Inc.) / Jobs Near Me",
+   "company": "Apply Now (Themesoft Inc.)",
+   "location": "Jobs Near Me](https://jobsnearme.career/jobs/servicenow-developer-administrator-themesoft-inc-toronto)",
+   "url": "https://jobsnearme.career/jobs/servicenow-developer-administrator-themesoft-inc-toronto",
+   "note": "Unknown",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobsnearme.career",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "new · servicenow developer & administrator — toronto / apply now (themesoft inc.) / jobs near me apply now (themesoft inc.) jobs near me](https://jobsnearme.career/jobs/servicenow-developer-administrator-themesoft-inc-toronto) jobsnearme.career servicenow unknown servicenow role fit toronto area",
+   "alternates": []
+  },
   {
    "posted": "2026-11-03",
    "title": "ServiceNow System Administrator",
@@ -62,6 +200,27 @@
    ],
    "french": false,
    "search": "servicenow system administrator gdit any location / remote workday ats servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Senior Developer at BDO Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://echojobs.io/job/bdo-canada-servicenow-senior-developer-bbq1q",
+   "note": "0/10",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "echojobs.io",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow senior developer at bdo canada unknown canada echojobs.io servicenow 0/10 servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -108,6 +267,86 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Servicenow Developer Jobs in Triunity Software in Toronto - Canada / Dr. Job",
+   "company": "Dr. Job](https://www.drjobpro.com/canada/jobs/servicenow-developer-toronto-triunity-software-MT30TV6X1EAAQE2)",
+   "location": "Unknown",
+   "url": "https://www.drjobpro.com/canada/jobs/servicenow-developer-toronto-triunity-software-MT30TV6X1EAAQE2",
+   "note": "Canada",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "drjobpro.com",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow developer jobs in triunity software in toronto - canada / dr. job dr. job](https://www.drjobpro.com/canada/jobs/servicenow-developer-toronto-triunity-software-mt30tv6x1eaaqe2) unknown drjobpro.com servicenow canada servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Administrator Specialist Job Details / Scotiabank",
+   "company": "Scotiabank](https://jobs.scotiabank.com/job/Toronto-ServiceNow-Administrator-Specialist-ON-M5H-1H1/602949717/)",
+   "location": "Unknown",
+   "url": "https://jobs.scotiabank.com/job/Toronto-ServiceNow-Administrator-Specialist-ON-M5H-1H1/602949717/",
+   "note": "Canada",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.scotiabank.com",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow administrator specialist job details / scotiabank scotiabank](https://jobs.scotiabank.com/job/toronto-servicenow-administrator-specialist-on-m5h-1h1/602949717/) unknown jobs.scotiabank.com servicenow canada servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Remote ServiceNow Senior Developer at Bdo • $84k – $128k / Hiring.Camp",
+   "company": "Hiring.Camp](https://hiring.camp/job/Y56rjO)",
+   "location": "Unknown",
+   "url": "https://hiring.camp/job/Y56rjO",
+   "note": "Canada",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "hiring.camp",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "remote servicenow senior developer at bdo • $84k – $128k / hiring.camp hiring.camp](https://hiring.camp/job/y56rjo) unknown hiring.camp servicenow canada servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "54   Servicenow Remote Jobs in Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/servicenow-remote-jobs",
+   "note": "0/10",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "54   servicenow remote jobs in canada unknown canada linkedin servicenow 0/10 servicenow canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Senior Salesforce Developer",
    "company": "BULL TECHNICAL SERVICES LIMITED",
    "location": "Toronto, Ontario, Canada",
@@ -146,6 +385,80 @@
    ],
    "french": false,
    "search": "salesforce developer (cloud developer) gdit any location / remote workday ats salesforce  salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Mattamy Homes Careers",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.jvistg2.com/mattamyhomes/jobs",
+   "note": "0/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobs.jvistg2.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "mattamy homes careers unknown canada jobs.jvistg2.com other 0/10 canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Application Developer in Markham, Ontario / Careers at Adastra Head Office (Markham)",
+   "company": "Careers at Adastra Head Office (Markham)](https://careers-adastragrp.icims.com/jobs/5645/application-developer/job)",
+   "location": "Unknown",
+   "url": "https://careers-adastragrp.icims.com/jobs/5645/application-developer/job",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "careers-adastragrp.icims.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "application developer in markham, ontario / careers at adastra head office (markham) careers at adastra head office (markham)](https://careers-adastragrp.icims.com/jobs/5645/application-developer/job) unknown careers-adastragrp.icims.com other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "45   Entry Level Law Jobs in Toronto",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/entry-level-law-jobs-toronto-on",
+   "note": "0/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "45   entry level law jobs in toronto unknown canada linkedin other 0/10 canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Job Opportunities / JLI Consulting Talent Search",
+   "company": "JLI Consulting Talent Search](https://www.jliconsulting.ca/job-opportunities)",
+   "location": "Unknown",
+   "url": "https://www.jliconsulting.ca/job-opportunities",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jliconsulting.ca",
+   "verified": "Employer board",
+   "match": 0,
+   "matchReasons": [],
+   "french": false,
+   "search": "job opportunities / jli consulting talent search jli consulting talent search](https://www.jliconsulting.ca/job-opportunities) unknown jliconsulting.ca other canada ",
    "alternates": []
   },
   {
@@ -1843,6 +2156,27 @@
    ],
    "french": false,
    "search": "senior consultant, servicenow platform - deloitte technology canada (dtc), platform team deloitte toronto, ontario, canada linkedin servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "Principal Solution Architect- ServiceNow",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5949576383",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "principal solution architect- servicenow servicenow toronto, ontario adzuna servicenow  servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -5186,48 +5520,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "Senior Full Stack Developer React/JavaScript",
-   "company": "Mitchell Martin",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948021581?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 34,
-   "matchReasons": [
-    "JavaScript",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full stack developer react/javascript mitchell martin toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md javascript role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Senior Full stack AI Developer (Python & Angular/React)",
-   "company": "Intact Financial",
-   "location": "Rua Açores, City of Toronto",
-   "url": "https://www.adzuna.ca/details/5948513117?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 32,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full stack ai developer (python & angular/react) intact financial rua acores, city of toronto adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md data/reporting role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
    "title": "RevOps Workflow Automation Manager (VN43206)",
    "company": "Sage",
    "location": "Toronto, ON; hybrid 3d",
@@ -5586,46 +5878,6 @@
    ],
    "french": false,
    "search": "senior fullstack developer (ruby on rails / react) talentmanagementsolution toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Senior Full Stack Engineer",
-   "company": "Epsilon Solutions LTD",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948019031?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full stack engineer epsilon solutions ltd toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Senior Full Stack Developer Java/React",
-   "company": "Mitchell Martin",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948021841?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full stack developer java/react mitchell martin toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
    "alternates": []
   },
   {
@@ -7678,28 +7930,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Senior ServiceNow Developer (ITOM)",
-   "company": "Systematix group",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5945995612?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITOM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer (itom) systematix group canada adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow itom role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
    "title": "ServiceNow Strategic Portfolio Management (SPM) Consultant",
    "company": "RSM US LLP",
    "location": "Canada",
@@ -7719,32 +7949,6 @@
    "french": false,
    "search": "servicenow strategic portfolio management (spm) consultant rsm us llp canada adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow spm/ppm role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Principal Solution Architect- ServiceNow",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "principal solution architect- servicenow servicenow toronto, ontario, ca · remote smartrecruiters servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5949576383"
-    }
-   ]
   },
   {
    "posted": "2026-10-29",
@@ -7853,27 +8057,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Senior ServiceNow Engineer",
-   "company": "EQ Bank / Canada's Challenger Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5946006839?utm_medium=api&utm_source=54ce986e",
-   "note": "via other-expansion--2026-11-02--v3.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior servicenow engineer eq bank / canada's challenger bank toronto, ontario adzuna servicenow via other-expansion--2026-11-02--v3.md servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
    "title": "Sr Business Analyst ServiceNow HR",
    "company": "Cpus Engineering Staffing Solutions Inc.",
    "location": "Oshawa, Durham region",
@@ -7891,27 +8074,6 @@
    ],
    "french": false,
    "search": "sr business analyst servicenow hr cpus engineering staffing solutions inc. oshawa, durham region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow consulting/ba role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Senior Consultant - ServiceNow HRSD",
-   "company": "Infosys",
-   "location": "Calgary, Calgary region",
-   "url": "https://www.adzuna.ca/details/5946000121?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 86,
-   "matchReasons": [
-    "ServiceNow",
-    "HRSD / VA",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior consultant - servicenow hrsd infosys calgary, calgary region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow hrsd / va role fit",
    "alternates": []
   },
   {
@@ -8115,126 +8277,6 @@
    ],
    "french": false,
    "search": "servicenow developer leveragetek staffing solutions ottawa, ottawa region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Service Now Developers",
-   "company": "Flexstaf IT",
-   "location": "Ottawa, Ottawa region",
-   "url": "https://www.adzuna.ca/details/5946000796?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "service now developers flexstaf it ottawa, ottawa region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Senior ServiceNow Developer and Administrator",
-   "company": "MNP",
-   "location": "Calgary, Calgary region",
-   "url": "https://www.adzuna.ca/details/5946008106?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior servicenow developer and administrator mnp calgary, calgary region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Senior ServiceNow Developer",
-   "company": "Optimal Growth Technologies",
-   "location": "Ottawa, Ottawa region",
-   "url": "https://www.adzuna.ca/details/5946007734?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior servicenow developer optimal growth technologies ottawa, ottawa region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Senior Consultant, ServiceNow",
-   "company": "KPMG",
-   "location": "Kitchener, Waterloo region",
-   "url": "https://www.adzuna.ca/details/5946243019?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior consultant, servicenow kpmg kitchener, waterloo region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Principal Solution Architect - ServiceNow - ServiceNow",
-   "company": "Canada: Toronto; employer ATS remote=true, hybrid=false",
-   "location": "Full-time",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719-principal-solution-architect-servicenow?oga=true",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "principal solution architect - servicenow - servicenow canada: toronto; employer ats remote=true, hybrid=false full-time smartrecruiters servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "OPEN: ServiceNow – Architect",
-   "company": "Cpus Engineering Staffing Solutions Inc.",
-   "location": "Oshawa, Durham region",
-   "url": "https://www.adzuna.ca/details/5946006914?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "open: servicenow – architect cpus engineering staffing solutions inc. oshawa, durham region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
    "alternates": []
   },
   {
