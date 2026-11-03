@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T113143Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T120207Z.md`.
 
 ## Contents
 
@@ -33,6 +33,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-03 | [ServiceNow Senior Support Analyst job at TELUS in Toronto, ON - Job Search](https://optimuspartners.com/workspread/job/servicenow-senior-support-analyst-at-telus-toronto-on-127534d77473d770jktk-b3B0aW11c3) | Unknown | Canada | 0/10 |
 | 2026-11-03 | [ServiceNow Senior Developer at BDO Canada](https://echojobs.io/job/bdo-canada-servicenow-senior-developer-bbq1q) | Unknown | Canada | 0/10 |
 | 2026-11-03 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |  |
+| 2026-11-03 | [ServiceNow Consultant - REMOTE](https://ca.linkedin.com/jobs/view/servicenow-consultant-remote-at-ntt-data-north-america-4478715652) | NTT DATA North America | Ottawa, Ontario, Canada |  |
 | 2026-11-03 | [ServiceNow Business Process Consultant  - ITSM AND HRSD Job Details / EY](https://careers.ey.com/ey/job/Toronto-ServiceNow-Business-Process-Consultant-ITSM-AND-HRSD-ON-M5H-0B3/1388519433/?feedId=440033%3DWomenInTech%3Dapply%3Dwomentech_network) | EY](https://careers.ey.com/ey/job/Toronto-ServiceNow-Business-Process-Consultant-ITSM-AND-HRSD-ON-M5H-0B3/1388519433/?feedId=440033%3DWomenInTech%3Dapply%3Dwomentech_network) | Unknown | Canada |
 | 2026-11-03 | [ServiceNow Business Analyst in Toronto, Ontario - Tata Consultancy Services](https://ca.trabajo.org/job-1918-e49d77c4eacc8edc62b33626d8397d7c) | Unknown | Canada | 0/10 |
 | 2026-11-03 | [ServiceNow Business Analyst in Toronto, Ontario - Soroc Technology](https://ca.trabajo.org/job-5475-019264d01442590621e76aee6e71e630) | Unknown | Canada | 0/10 |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-29 | [ServiceNow CSM/OMT Architect – 12-Month Contract](https://www.adzuna.ca/details/5946004861?utm_medium=api&utm_source=54ce986e) | Alldus | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [ServiceNow Architect](https://www.adzuna.ca/details/5946061285?utm_medium=api&utm_source=54ce986e) | Acestack | Regent Park, City of Toronto | via other-expansion--2026-11-02--v3.md |
 | 2026-10-29 | [ServiceNow Architect](https://www.jobs.ca/tata-consultancy-services/jobs/servicenow-architect-toronto-on-ec39ec076eb4) | Tata Consultancy Services | Toronto, ON | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Administrator-CSA/Banking](https://www.adzuna.ca/details/5946006783?utm_medium=api&utm_source=54ce986e) | BeachHead Inc. | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 
 </details>
 
@@ -573,24 +573,24 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-03T11:30:01.418Z** · 797 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T12:00:01.538Z** · 798 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-03 | [ServiceNow Consultant - REMOTE](https://ca.linkedin.com/jobs/view/servicenow-consultant-remote-at-ntt-data-north-america-4478715652) | NTT DATA North America | Ottawa, Ontario, Canada |
 | 2026-11-02 | [Lead ServiceNow SPM Technical Consultant](https://www.adzuna.ca/details/5950813531) | Peek IT Services | Ottawa, Ottawa region |
+| 2026-11-02 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |
+| 2026-11-02 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote |
+| 2026-11-02 | [ServiceNow System Administrator](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636) | GDIT | Any Location / Remote |
+| 2026-11-02 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1) | GDIT | Any Location / Remote |
 | 2026-11-02 | [ServiceNow SAM Pro Consultant](https://ca.linkedin.com/jobs/view/4486426865) | 2iSolutions Inc. | Canada |
 | 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UFCvcf6MoLp) | Lightspeed Commerce, Inc. | Toronto, ON |
 | 2026-11-02 | [ServiceNow Developer](https://www.adzuna.ca/details/5926069932) | Zaelab | Montreal, QC |
 | 2026-11-02 | [ServiceNow Consultant (Discovery & ITAM SME)](https://ca.linkedin.com/jobs/view/4485761822) | Bull Information Technology and Services | Toronto, ON |
 | 2026-11-02 | [ServiceNow Architect (526327)](https://www.fxinnovation.com/en/jobs/526327) | Ateko (FX Innovation) | Canada; remote |
 | 2026-11-02 | [Product Owner I - AskHR (ServiceNow HRSD) (R_1519634)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I---AskHR_R_1519634) | TD Bank | Toronto, ON |
-| 2026-11-02 | [Senior Solutions Consultant (603590)](https://crossfuze.pinpointhq.com/en/postings/603590) | Crossfuze (Elite ServiceNow partner) | Canada (remote) |
-| 2026-11-02 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |
-| 2026-11-02 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote |
-| 2026-11-02 | [ServiceNow System Administrator](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636) | GDIT | Any Location / Remote |
-| 2026-11-02 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1) | GDIT | Any Location / Remote |
 
 ### Salesforce — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T113143Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T120207Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
