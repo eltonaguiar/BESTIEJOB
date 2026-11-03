@@ -1,0 +1,1175 @@
+{
+  "generated_at": "2026-11-03T211220Z",
+  "models": [
+    {
+      "worker": "deepinfra/meta-llama/Meta-Llama-3.1-8B-Instruct",
+      "tier": "cloud",
+      "tag": "agencies",
+      "status": "HTTP 401",
+      "text": ""
+    },
+    {
+      "worker": "groq/openai/gpt-oss-120b",
+      "tier": "cloud",
+      "tag": "agencies",
+      "status": "empty",
+      "text": ""
+    },
+    {
+      "worker": "gemini/gemini-2.5-flash",
+      "tier": "cloud",
+      "tag": "banks-telco",
+      "status": "ok",
+      "text": "Here is the list of Canadian companies in the specified sectors that employ ServiceNow or Salesforce professionals, along with their ATS platform, careers page URL, and a relevant city.\n\nRBC"
+    },
+    {
+      "worker": "gemini/gemini-2.5-flash",
+      "tier": "cloud",
+      "tag": "servicenow-partners",
+      "status": "ok",
+      "text": "Here's a list of ServiceNow partners, focusing on Elite and Premier tiers operating in Canada, that hire ServiceNow developers or consultants. I've included the requested format and added"
+    },
+    {
+      "worker": "groq/openai/gpt-oss-120b",
+      "tier": "cloud",
+      "tag": "salesforce-partners",
+      "status": "ok",
+      "text": "**Salesforce\u2011focused consulting partners (Summit / Ridge / Crest) & Canadian Salesforce customers that regularly recruit Apex developers, Salesforce Administrators or Technical Architects**  \n*(One entry per line \u2013\u202fCompany\u202f|\u202fATS\u202f|\u202fCareers URL\u202f|\u202fPrimary Canadian city)*  \n\n---  \n\n**Consulting Partners (Summit / Ridge / Crest)**  \n\n- **Accenture Canada** | Workday | https://www.accenture.com/ca-en/careers | Toronto  \n- **Deloitte Digital \u2013 Salesforce Practice** | Workday | https://www2.deloitte.com/ca/en/pages/careers.html | Toronto  \n- **IBM Canada \u2013 Salesforce Services** | iCIMS | https://www.ibm.com/ca-en/employment/ | Toronto  \n- **Infosys Canada** | Taleo | https://www.infosys.com/careers/ | Vancouver  \n- **Wipro Canada** | Taleo | https://careers.wipro.com/ | Toronto  \n- **HCL Technologies Canada** | Workday | https://www.hcltech.com/careers | Toronto  \n- **LTIMindtree Canada** | Workday | https://www.ltimindtree.com/careers | Toronto  \n- **Mastech Digital Canada** | iCIMS | https://www.mastechdigital.com/careers/ | Toronto  \n- **Sierra\u2011Cedar (now part of Accenture)** | Workday | https://www.sierra\u2011cedar.com/careers/ | Toronto  \n- **Simplus (now part of Accenture)** | Workday | https://www.simplus.com/careers/ | Toronto  \n- **Traction on Demand** | Greenhouse | https://www.tractionondemand.com/careers/ | Vancouver  \n- **CloudKettle (now part of Accenture)** | Workday | https://www.cloudkettle.com/careers/ | Vancouver  \n- **NeuraFlash (now part of Accenture)** | Greenhouse | https://www.neuraflash.com/careers/ | Toronto  \n- **Coastal Cloud** | Lever | https://coastalcloud.com/careers/ | Vancouver  \n- **Coveo** | Greenhouse | https://www.coveo.com/en/careers | Quebec City (HQ"
+    },
+    {
+      "worker": "deepinfra/meta-llama/Meta-Llama-3.1-8B-Instruct",
+      "tier": "cloud",
+      "tag": "salesforce-partners",
+      "status": "HTTP 401",
+      "text": ""
+    },
+    {
+      "worker": "kilo/cohere/north-mini-code:free",
+      "tier": "cloud",
+      "tag": "banks-telco",
+      "status": "empty",
+      "text": ""
+    },
+    {
+      "worker": "kilo/cohere/north-mini-code:free",
+      "tier": "cloud",
+      "tag": "servicenow-partners",
+      "status": "empty",
+      "text": ""
+    },
+    {
+      "worker": "mistral/ministral-8b-2512",
+      "tier": "cloud",
+      "tag": "agencies",
+      "status": "ok",
+      "text": "1. **Apex Systems** | [https://www.apexsystems.com/careers](https://www.apexsystems.com/careers) | Toronto\n2. **Cognizant** | [https://www.cognizant.com/careers](https://www.cognizant.com/careers) | Toronto\n3. **Constellation IT** | [https://www.constellationit.com/careers](https://www.constellationit.com/careers) | Toronto\n4. **Deloitte Digital** | [https://www2.deloitte.com/ca/en/careers.html](https://www2.deloitte.com/ca/en/careers.html) | Toronto\n5. **Dice Canada** | [https://www.dice.com/canada](https://www.dice.com/canada) | Toronto\n6. **Elite Staffing** | [https://www.elitestaffing.ca/careers](https://www.elitestaffing.ca/careers) | Toronto\n7. **FlexTech Solutions** | [https://www.flextechsolutions.com/careers](https://www.flextechsolutions.com/careers) | Toronto\n8. **HireVelocity** | [https://www.hirevelocity.com/careers](https://www.hirevelocity.com/careers) | Toronto\n9. **InfoTech Talent** | [https://www.infotech-talent.com/careers](https://www.infotech-talent.com/careers) | Toronto\n10. **IT Staffing Solutions** | [https://www.itstaffingsolutions.ca/careers](https://www.itstaffingsolutions.ca/careers) | Toronto\n11. **KPMG Digital** | [https://home.kpmg/ca/en/home/careers.html](https://home.kpmg/ca/en/home/careers.html) | Toronto\n12. **Mason Technology Partners** | [https://www.masontech.com/careers](https://www.masontech.com/careers) | Toronto\n13. **Nexus Staffing** | [https://www.nexusstaffing.com/careers](https://www.nexusstaffing.com/careers) | Toronto\n14. **Pinnacle Staffing** | [https://www.pinnaclestaffing.com/careers](https://www.pinnaclestaffing.com/careers) | Toronto\n15. **RPO Canada** | [https://www.rpocanada.com/careers](https://www.rpocanada.com/careers) | Toronto\n16. **Staffing.com Canada** | [https://www.staffing.com/canada](https://www.staffing.com/canada) | Toronto\n17. **Tech Talent Hunt** | [https://www.techtalenthunt.com/careers](https://www.techtalenthunt.com/careers) | Toronto\n18. **Talent Acquisition Partners** | [https://www.talentacquisitionpartners.com/careers](https://www.talentacquisitionpartners.com/careers) | Toronto\n19. **TalentHub** | [https://www.talenthub.com/careers](https://www.talenthub.com/careers) | Toronto\n20. **TechStaff Canada** | [https://www.techstaff.ca/careers](https://www.techstaff.ca/careers) | Toronto\n21. **Venturi Staffing** | [https://www.venturistaffing.com/careers](https://www.venturistaffing.com/careers) | Toronto\n22. **Wipro Digital** | [https://www.wipro.com/careers](https://www.wipro.com/careers) | Toronto\n23. **Xplore Staffing** | [https://www.xplorestaffing.com/careers](https://www.xplorestaffing.com/careers) | Toronto\n24. **Yoh Canada** | [https://www.yoh"
+    },
+    {
+      "worker": "litellm/paid-mode",
+      "tier": "local",
+      "tag": "servicenow-partners",
+      "status": "ok",
+      "text": "Here is a list of ServiceNow partners (including Elite/Premier) that operate in Canada and hire ServiceNow developers or consultants. One entry per line, in the requested format.\n\nNewRocket | Workday | https://newrocket.com/careers | Toronto  \nGlideFast | Lever | https://glidefast.com/careers | Vancouver  \nAceStack | Greenhouse | https://acestack.com/careers | Toronto  \nInfocenter | Workday | https://infocenter.com/careers | Calgary  \nVeracity | Greenhouse | https://veracitysolutions.com/careers | Toronto  \nThirdera | Greenhouse | https://thirdera.com/careers | Toronto  \nCrossfuze | Greenhouse | https://crossfuze.com/careers | Toronto  \nNTT DATA | Workday | https://careers.nttdata.com | Toronto  \nFujitsu | Workday | https://www.fujitsu.com/ca/en/about/careers | Toronto  \nDeloitte | Workday | https://www2.deloitte.com/ca/en/careers | Toronto  \nKPMG | Workday | https://kpmg.com/ca/en/home/careers | Toronto  \nPwC | Workday | https://www.pwc.com/ca/en/careers | Toronto  \nEY | Workday | https://www.ey.com/en_ca/careers | Toronto  \nAccenture | Workday | https://www.accenture.com/ca-en/careers | Toronto  \nCognizant | Workday | https://careers.cognizant.com | Toronto  \nCapgemini | Workday | https://www.capgemini.com/ca-en/careers | Toronto  \nUnisys | Workday | https://jobs.unisys.com | Toronto  \nDXC Technology | Workday | https://careers.dxc.technology | Toronto  \nStefanini | Workday | https://stefanini.com/en/careers | Toronto  \nAtos | Workday | https://atos.net/en/careers | Toronto  \nKyndryl | Workday | https://www.kyndryl.com/careers | Toronto  \nCompugen | Workday | https://www.compugen.com/careers | Toronto  \nCDW | Workday | https://www.cdw.com/careers | Toronto  \nLong View | Workday | https://www.longviewsystems.com/careers | Calgary  \nSoftchoice | Workday | https://www.softchoice.com/careers | Toronto  \nOnX Enterprise Solutions | Workday | https://www.onx.com/careers | Toronto  \nInsight Canada | Workday | https://www.insight.com/en_US/careers | Toronto  \nCGI | Workday | https://www.cgi.com/en/careers | Montreal  \nWipro | Workday | https://www.wipro.com/careers | Toronto  \nTech Mahindra | Workday | https://www.techmahindra.com/careers | Toronto  \nHCLTech | Workday | https://www.hcltech.com/careers | Toronto  \nTata Consultancy Services (TCS) | Workday | https://www.tcs.com/careers | Toronto  \nIBM | Workday | https://www.ibm.com/ca-en/employment | Toronto  \nBell Canada | Workday | https://www.bell.ca/careers | Toronto  \nTELUS | Workday | https://www.telus.com/en/careers | Vancouver  \nRogers Communications | Workday | https://www.rogers.com/careers | Toronto  \nSNC-Lavalin | Workday | https://www.snclavalin.com/en/careers | Montreal  \nBDO Canada | Workday | https://www.bdo.ca/en-ca/careers | Toronto  \nMNP | Workday | https://www.mnp.ca/en/careers | Toronto  \nGrant Thornton Canada | Workday | https://www.grantthornton.ca/careers | Toronto  \nRSM Canada | Workday | https://rsmcanada.com/careers | Toronto  \nSykes Enterprises | Workday | https://www.sykes.com/careers | Toronto  \nTeleperformance Canada | Workday | https://www.teleperformance.com/en/careers | Toronto  \nConcentrix | Workday | https://www.concentrix.com/careers | Toronto  \nSitel Group | Workday | https://www.sitel"
+    },
+    {
+      "worker": "mistral/ministral-8b-2512",
+      "tier": "cloud",
+      "tag": "salesforce-partners",
+      "status": "ok",
+      "text": "Here\u2019s a curated list of **Summit/Ridge/Crest-level Salesforce consulting partners** and **Canadian Salesforce customers** that hire **Apex developers, Salesforce admins, or technical architects**, formatted as requested:\n\n---\n\n### **Salesforce Consulting Partners (Summit/Ridge/Crest) in Canada**\n*(Hiring Salesforce roles across Canada)*\n1. **Accenture** | **Workday** | [https://www.accenture.com/ca-en/careers](https://www.accenture.com/ca-en/careers) | Toronto, Vancouver, Montreal, Calgary\n2. **Deloitte Digital** | **Deloitte Hire** | [https://www2.deloitte.com/ca/en/careers.html](https://www2.deloitte.com/ca/en/careers.html) | Toronto, Ottawa, Montreal, Vancouver\n3. **IBM Global Services** | **IBM Careers** | [https://www.ibm.com/ca-en/careers](https://www.ibm.com/ca-en/careers) | Toronto, Montreal, Calgary\n4. **Slalom Consulting** | **Slalom Careers** | [https://www.slalom.com/careers](https://www.slalom.com/careers) | Vancouver, Calgary, Toronto\n5. **Infosys** | **Infosys Careers** | [https://www.infosys.com/careers](https://www.infosys.com/careers) | Toronto, Montreal, Vancouver\n6. **Wipro** | **Wipro Careers** | [https://www.wipro.com/careers](https://www.wipro.com/careers) | Toronto, Montreal, Calgary\n7. **HCL Technologies** | **HCL Careers** | [https://www.hcltech.com/careers](https://www.hcltech.com/careers) | Toronto, Montreal, Vancouver\n8. **LTIMindtree** | **LTI Careers** | [https://www.ltiworld.com/careers](https://www.ltiworld.com/careers) | Toronto, Montreal, Vancouver\n9. **Mastech Digital** | **Mastech Careers** | [https://www.mastech.com/careers](https://www.mastech.com/careers) | Toronto, Montreal, Vancouver\n10. **Sierra-Cedar** | **Sierra-Cedar Careers** | [https://www.sierra-cedar.com/careers](https://www.sierra-cedar.com/careers) | Toronto, Montreal, Vancouver\n11. **CloudKettle** | **CloudKettle Careers** | [https://www.cloudkettle.com/careers](https://www.cloudkettle.com/careers) | Toronto, Montreal, Vancouver\n12. **Simplus** | **Simplus Careers** | [https://www.simplus.com/careers](https://www.simplus.com/careers) | Toronto, Montreal, Vancouver\n13. **Trailblazer Solutions** | **Trailblazer Careers** | [https://www.trailblazersolutions.com/careers](https://www.trailblazersolutions.com/careers) | Toronto, Montreal, Vancouver\n14. **Cloudingo** | **Cloudingo Careers** | [https://www.cloudingo.com/careers](https://www.cloudingo.com/careers) | Toronto, Montreal, Vancouver\n15. **CloudCentric** | **CloudCentric Careers** | [https://www.cloudcentric.com/careers](https://www.cloudcentric.com/careers) | Toronto, Montreal, Vancouver\n\n---\n\n### **Canadian Salesforce Customers (Hiring Salesforce Roles)**\n*(Publicly known to use Salesforce and post Salesforce jobs)*\n1. **NeuraFlash** | **Greenhouse** | [https://neuraflash.com/careers](https://neuraflash.com/careers) | Montreal\n2. **Coastal Cloud** | **Greenhouse** | [https://www.coastalcloud.com/careers](https://www.coastal"
+    },
+    {
+      "worker": "litellm/paid-mode",
+      "tier": "local",
+      "tag": "banks-telco",
+      "status": "ok",
+      "text": "Royal Bank of Canada | Workday | https://jobs.rbc.com/ | Toronto\nToronto-Dominion Bank | Workday | https://careers.td.com/ | Toronto\nScotiabank | Workday | https://www.scotiabank.com/careers/ | Toronto\nBank of Montreal | Workday | https://www.bmo.com/careers/ | Toronto\nCIBC | Workday | https://www.cibc.com/en/careers.html | Toronto\nManulife | Workday | https://jobs.manulife.com/ | Toronto\nSun Life Financial | Taleo | https://www.sunlife.com/careers | Toronto\nIntact Financial | Workday | https://careers.intact.ca/ | Toronto\nCanada Life | SuccessFactors | https://www.canadalife.com/careers | Winnipeg\nBell Canada | Taleo | https://www.bell.ca/careers | Montreal\nRogers Communications | Workday | https://www.rogers.com/careers | Toronto\nTELUS | Workday | https://www.telus.com/careers | Vancouver"
+    },
+    {
+      "worker": "litellm/paid-mode",
+      "tier": "local",
+      "tag": "gta-employers",
+      "status": "ok",
+      "text": "University of Toronto | Taleo | https://jobs.utoronto.ca | Toronto\nToronto Hydro | Workday | https://www.torontohydro.com/careers | Toronto\nLoblaw Companies | Taleo | https://www.loblaw.ca/en/careers | Brampton\nMagna International | Workday | https://www.magna.com/careers | Vaughan\nCelestica | SuccessFactors | https://www.celestica.com/careers | Toronto\nRogers Communications | Taleo | https://www.rogers.com/careers | Toronto\nTD Bank | Workday | https://www.td.com/careers | Toronto\nCity of Toronto | Taleo | https://jobs.toronto.ca | Toronto\nYork University | PeopleAdmin | https://careers.yorku.ca | Toronto\nHumber College | Taleo | https://www.humber.ca/careers | Toronto"
+    },
+    {
+      "worker": "deepinfra/meta-llama/Meta-Llama-3.1-8B-Instruct",
+      "tier": "cloud",
+      "tag": "ats-native",
+      "status": "HTTP 401",
+      "text": ""
+    },
+    {
+      "worker": "groq/openai/gpt-oss-120b",
+      "tier": "cloud",
+      "tag": "ats-native",
+      "status": "ok",
+      "text": "I\u2019m sorry, but I can\u2019t provide that."
+    },
+    {
+      "worker": "kilo/cohere/north-mini-code:free",
+      "tier": "cloud",
+      "tag": "gta-employers",
+      "status": "empty",
+      "text": ""
+    },
+    {
+      "worker": "mistral/ministral-8b-2512",
+      "tier": "cloud",
+      "tag": "ats-native",
+      "status": "ok",
+      "text": "Here are the tokens (where publicly accessible) for companies in Canada hiring engineering roles (ServiceNow/Salesforce) via the listed platforms:\n\n```\nShopify | Greenhouse | 1234567890abcdef1234567890abcdef\nRBC | Lever | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\nTD Bank | Ashby | 9876543210fedcba9876543210fedcba\nSAP Canada | SmartRecruiters | 55555555555555555555555555555555\nBMO | Greenhouse | 6789012345ghijkl6789012345ghijkl\nRogers | Lever | yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\nCIBC | Ashby | 44444444444444444444444444444444\nSalesforce Canada | SmartRecruiters | 11111111111111111111111111111111\nServiceNow Canada | Greenhouse | 77777777777777777777777777777777\n```"
+    },
+    {
+      "worker": "vllm/Qwen/Qwen2.5-14B-Instruct",
+      "tier": "local",
+      "tag": "banks-telco",
+      "status": "ok",
+      "text": "Royal Bank of Canada | Workday | https://www.rbc.com/careers/ | Toronto\nTD Bank Group | Workday | https://www.td.com/en/about-us/careers/ | Toronto\nBank of Montreal | Workday | https://www.bmojobs.com/ | Toronto\nCanadian Imperial Bank of Commerce | Workday | https://www.cibc.com/en/about-us/careers.html | Toronto\nSuncor Energy | Workday | https://www.suncor.com/en-ca/careers | Calgary\nManulife Financial | Workday | https://www.manulife.ca/en/about/careers/ | Toronto\nGreat-West Life | Workday | https://www.iqvia.com/en/jobs | Winnipeg\nTelus | Workday | https://www.telus.com/en/ca/about-telus/careers | Vancouver\nRogers Communications | Workday | https://www.rogers.com/about/careers | Toronto\nBell Canada | Workday | https://www.bell.ca/Careers | Montreal"
+    },
+    {
+      "worker": "gemini/gemini-2.5-flash",
+      "tier": "cloud",
+      "tag": "gta-employers",
+      "status": "ok",
+      "text": "Here's a list of mid-market and enterprise employers in the specified GTA cities that run ServiceNow or Salesforce internally, along with their ATS and careers URL:\n\n**Toronto**"
+    },
+    {
+      "worker": "vllm/Qwen/Qwen2.5-14B-Instruct",
+      "tier": "local",
+      "tag": "servicenow-partners",
+      "status": "ok",
+      "text": "Here is a list of ServiceNow partners operating in Canada that are known to hire ServiceNow developers or consultants, including both Elite and Premier partners:\n\n- NewRocket | Indeed | https://www.newrocket.com/careers | Toronto\n- Crossfuze | LinkedIn | https://www.crossfuze.com/careers | Vancouver\n- Infocentric Solutions | LinkedIn | https://infocentricsolutions.com/careers | Mississauga\n- Veracity Consulting | LinkedIn | https://veracity.consulting/careers | Calgary\n- Thirdera | LinkedIn | https://thirdera.com/careers | Ottawa\n- NTT DATA | LinkedIn | https://www.nttdata.com/en-ca/careers | Montreal\n- Fujitsu | LinkedIn | https://www.fujitsu.com/ca/en/careers/ | Toronto\n- Deloitte | LinkedIn | https://www2.deloitte.com/ca/en/pages/careers/jobs.html | Multiple Cities\n- KPMG | LinkedIn | https://careers.kpmg.ca/ | Multiple Cities\n- PwC | LinkedIn | https://www.pwc.com/ca/en/careers.html | Multiple Cities\n- EY (Ernst & Young) | LinkedIn | https://www.ey.com/ca/en/careers | Multiple Cities\n- Accenture | LinkedIn | https://www.accenture.com/ca-en/careers | Multiple Cities\n- Cognizant | LinkedIn | https://www.cognizant.com/careers | Toronto\n- Capgemini | LinkedIn | https://www.capgemini.com/careers/ | Multiple Cities\n- Unisys | LinkedIn | https://www.unisys.com/careers | Toronto\n- DXC Technology | LinkedIn | https://www.dxc.com/en-ca/careers | Multiple Cities\n- Stefanini | LinkedIn | https://www.stefanini.com/careers | Toronto\n- Atos | LinkedIn | https://atos.net/en-ca/careers | Multiple Cities\n- Kyndryl | LinkedIn | https://www.kyndryl.com/careers | Multiple Cities\n- Compugen | LinkedIn | https://www.compugen.ca/careers | Multiple Cities\n- Long View Systems | LinkedIn | https://longviewsystems.com/careers | Multiple Cities\n\nPlease note that the ATS (Applicant Tracking System) and career URLs may vary, and it's best to visit their official websites for the most up-to-date information."
+    },
+    {
+      "worker": "vllm/Qwen/Qwen2.5-14B-Instruct",
+      "tier": "local",
+      "tag": "gta-employers",
+      "status": "ok",
+      "text": "Bay Street Wealth Management | Lever | https://baystreetwealth.ca/careers/ | Toronto\nHumber River Hospital | Workday | https://www.hrhfoundation.ca/careers | Toronto\nRyerson University | Workday | https://www.ryerson.ca/about-ryerson/careers/ | Toronto\nLoblaw Companies Limited | Taleo | https://www.loblaw.ca/en/about-us/careers | Toronto\nBombardier Inc. | Taleo | https://www.bombardier.com/ca/en/careers.html | Toronto\nCanadian Tire Corporation | Taleo | https://www.canadiantire.ca/en/about/careers.html | Toronto\nOntario Power Generation | Workday | https://www.opg.com/about-opg/careers | Toronto\nCity of Toronto | Taleo | https://www.toronto.ca/jobs/ | Toronto\nCIBC | Taleo | https://www.cibc.com/en/about/careers.html | Toronto\nTD Bank Group | Taleo | https://www.td.com/careers/ | Toronto\nProcter & Gamble Canada | Taleo | https://www.pgcareers.com/canada | Toronto\nIBM Canada Ltd. | IBM Kenexa | https://www.ibm.com/ca-en/careers | Markham\nRBC Royal Bank | Taleo | https://www.rbc.com/careers/ | Toronto\nGreat-West Life | Workday | https://www.greatwestlife.ca/en-ca/about/careers | Etobicoke\nManulife Financial | Workday | https://www.manulife.ca/en/about/careers | Toronto\nEY Canada | IBM Kenexa | https://www.ey.com/en_ca/careers | Toronto\nDeloitte Canada | IBM Kenexa | https://www2.deloitte.com/ca/en/pages/careers.html | Toronto\nBMO Financial Group | Taleo | https://www.bmo.com/en/ca/careers/ | Toronto\nAir Canada | Workday | https://www.aircanada.com/ca/en/aco/home/corporate/careers.html | Toronto\nSuncor Energy | Workday | https://www.suncor.com/en-ca/about/careers | Toronto\nNestle Canada | Taleo | https://www.nestle.ca/en-CA/careers | Toronto\nPwC Canada | IBM Kenexa | https://www.pwc.com/ca/en/careers.html | Toronto\nShopify Inc. | Lever | https://www.shopify.com/company/careers | Ottawa (Note: Shopify is headquartered in Ottawa but has significant operations in Toronto)"
+    },
+    {
+      "worker": "ollama/llama3.3:70b",
+      "tier": "local",
+      "tag": "agencies",
+      "status": "TimeoutError",
+      "text": ""
+    },
+    {
+      "worker": "ollama/llama3.3:70b",
+      "tier": "local",
+      "tag": "salesforce-partners",
+      "status": "TimeoutError",
+      "text": ""
+    },
+    {
+      "worker": "ollama/llama3.3:70b",
+      "tier": "local",
+      "tag": "ats-native",
+      "status": "TimeoutError",
+      "text": ""
+    }
+  ],
+  "searches": [
+    {
+      "provider": "tavily",
+      "query": "\"ServiceNow Developer\" jobs Toronto posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Servicenow Developer Jobs in Ontario (NOW HIRING) Nov 26",
+          "url": "https://www.ziprecruiter.com/Jobs/Servicenow-Developer/--in-Ontario",
+          "snippet": "ServiceNow Developer Location: Toronto, ON ( This is a hybrid (on-site 3 days/week) role ) Type: FTE Experience: 5+ Years JD: Responsibilities: \\ The successful candidate will work with an existing ...\n\nQuick apply\n\nVeracity Software Inc\n\n## ServiceNow Developer\n\nToronto, ON\n \u00b7 On-site\n\nCA$90K - CA$110K/yr [...] ServiceNow Developer Location: Toronto, ON ( This is a hybrid (on-site 3 days/week) role ) Type: FTE Experience: 5+ Years JD: Responsibilities: \\ The successful candidate will work with an existing ...\n\nAnalyst Technical Solutions\n\n## RQ11686 - Software Developer - Senior I Toronto ON I 1+ year\n\nToronto, ON\n \u00b7 On-site [...] Infographic showing various Servicenow Developer job openings in Ontario as of October 2026, with employment types broken down into 85% Full Time, and 15% Contract. Highlights an 64% In-person, 18% Hybrid, and 18% Remote job distribution.\n\n## Expert Software Engineer - ServiceNow\n\nToronto, ON \u2022 Remote\n\n### Share this job\n\nTEEMA\n\n\u2022 Recruiting and Staffing Services \u2022 \n\n201 - 500 employees\n201 - 500 employees\n\nLearn more about TEEMA\n\nCA$120K - CA$137K/yr\n\nRe-posted 15 days ago\n\n## Job description"
+        },
+        {
+          "title": "Toronto, Ontario Servicenow Jobs \u2013 54 Openings This Week | Workopolis",
+          "url": "https://www.workopolis.com/search?q=servicenow&l=toronto%2C+ontario",
+          "snippet": "Skip to content\n\nWorkopolis Logo\n\nPost Jobs\n\n## Refine Your Search\n\n# servicenow jobs in toronto, ontario\n\n ## Senior Business Systems Analyst (ServiceNow)\n\n  Interac Corp. \u2014\n  Toronto, ON\n\n  3.6\n\n  + $120,000\u2013$135,000 a year\n  + Full-time\n  + Hybrid work\n  + Continuous improvement\n  + Quality Control\n ## ServiceNow Lead Developer\n\n  Recutify Inc. \u2014\n  Toronto, ON\n\n  + Full-time\n  + Remote\n  + Computer Science\n  + System design\n  + Bachelor's\n\n  Quick apply\n ## ServiceNow Functional Consultant [...] 3.4\n\n  + $100,000\u2013$159,300 a year\n  + Full-time\n  + Azure\n  + Computer Science\n  + Writing skills\n  + Dental care\n  + Vision care\n\n  Quick apply\n ## Senior Consultant, ServiceNow\n\n  KPMG \u2014\n  Toronto, ON\n\n  3.8\n\n  + $73,500\u2013$122,500 a year\n  + Full-time\n  + Computer Science\n  + Engineering\n  + System design\n ## ServiceNow Developer\n\n  Lightspeed Commerce, Inc. \u2014\n  Toronto, ON\n\n  3.3 [...] 3.3\n\n  + $80,000\u2013$100,000 a year\n  + Full-time\n  + Computer Science\n  + System design\n  + Bachelor's\n\n  Quick apply\n\n  10h\n ## Senior Manager, ServiceNow - Operate\n\n  Deloitte \u2014\n  Toronto, ON\n\n  3.9\n\n  + $97,000\u2013$234,000 a year\n  + Hybrid work\n  + System design\n  + English\n  + Business development\n\n  12d\n ## ServiceNow Developer (Sr. Associate)\n\n  Huron Consulting Group Inc. \u2014\n  Toronto, ON\n\n  3.4"
+        },
+        {
+          "title": "Servicenow Developer Jobs in Toronto (202 Open Roles) | LinkedIn",
+          "url": "https://ca.linkedin.com/jobs/servicenow-developer-jobs-toronto-on",
+          "snippet": "#### Tata Consultancy Services\n\n  Toronto, Ontario, Canada \n\n  Be an early applicant\n ServiceNow system Administrator #26-24594 \n\n  \n\n  ### ServiceNow system Administrator #26-24594\n\n  #### US Tech Solutions\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n Intermediate ServiceNow Business Analyst \n\n  \n\n  ### Intermediate ServiceNow Business Analyst\n\n  #### Newport Williams\n\n  Vaughan, Ontario, Canada \n\n  Actively Hiring\n ServiceNow AIOps Architect. \n\n  \n\n  ### ServiceNow AIOps Architect. [...] Actively Hiring\n ServiceNow Administrator/Developer \n\n  \n\n  ### ServiceNow Administrator/Developer\n\n  #### CGI\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n Senior Consultant - ServiceNow HRSD \n\n  \n\n  ### Senior Consultant - ServiceNow HRSD\n\n  #### Infosys\n\n  Mississauga, Ontario, Canada \n\n  Actively Hiring\n ServiceNow Developer (CONTRACT ROLE) \n\n  \n\n  ### ServiceNow Developer (CONTRACT ROLE)\n\n  #### Brookfield\n\n  Toronto, Ontario, Canada [...] Actively Hiring\n ServiceNow Platform Specialist \n\n  \n\n  ### ServiceNow Platform Specialist\n\n  #### Alimentiv\n\n  Toronto, Ontario, Canada \n\n  Be an early applicant\n Workflow Automation Developer \n\n  \n\n  ### Workflow Automation Developer\n\n  #### Stikeman Elliott LLP\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n ServiceNow Technical Lead \n\n  \n\n  ### ServiceNow Technical Lead\n\n  #### CAAT Pension Plan\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n Senior Consultant - ServiceNow CSM"
+        },
+        {
+          "title": "Servicenow Jobs in Toronto (2,000+ Open Roles) | LinkedIn",
+          "url": "https://ca.linkedin.com/jobs/servicenow-jobs-toronto-on",
+          "snippet": "#### BDO Canada\n\n  Oakville, Ontario, Canada\n BSA Practice Lead \n\n  \n\n  ### BSA Practice Lead\n\n  #### Scotiabank\n\n  Toronto, Ontario, Canada\n ServiceNow Technical Lead \n\n  \n\n  ### ServiceNow Technical Lead\n\n  #### CAAT Pension Plan\n\n  Toronto, Ontario, Canada\n ServiceNow Sr. ITAM(SAM/HAM) Developer \n\n  \n\n  ### ServiceNow Sr. ITAM(SAM/HAM) Developer\n\n  #### ServiceIO Consultancy Services\n\n  Regional Municipality of Peel, Ontario, Canada\n IT Support Specialist \n\n  \n\n  ### IT Support Specialist [...] #### Modern Niagara\n\n  Vaughan, Ontario, Canada\n ServiceNow Administrator/Developer \n\n  \n\n  ### ServiceNow Administrator/Developer\n\n  #### CGI\n\n  Toronto, Ontario, Canada\n Expert Software Engineer \u2013 ServiceNow \n\n  \n\n  ### Expert Software Engineer \u2013 ServiceNow\n\n  #### Lynn Rodens\n\n  Toronto, Ontario, Canada\n Intermediate ServiceNow Business Analyst \n\n  \n\n  ### Intermediate ServiceNow Business Analyst\n\n  #### Newport Williams [...] #### KPMG Canada\n\n  Toronto, Ontario, Canada\n ServiceNow Developer \n\n  \n\n  ### ServiceNow Developer\n\n  #### Lightspeed Commerce\n\n  Toronto, Ontario, Canada\n Senior Consultant, Developer, ServiceNow \n\n  \n\n  ### Senior Consultant, Developer, ServiceNow\n\n  #### KPMG Canada\n\n  Toronto, Ontario, Canada \n\n  Be an early applicant\n Staff Information Security Analyst \n\n  \n\n  ### Staff Information Security Analyst\n\n  #### ServiceNow"
+        },
+        {
+          "title": "Ontario, Canada | ServiceNow Careers",
+          "url": "https://careers.servicenow.com/locations/ams/ontario-canada",
+          "snippet": "# Ontario, Canada\n\n Show 11 jobs in Ontario, Canada\n\n## Latest jobs in Canada\n\nSee All Jobs\n\n## Sr. Solution Architect\n\n Toronto\n\n## Staff Compliance Analyst\n\n Toronto\n\n## Staff Information Security Analyst\n\n Toronto\n\n## Senior Machine Learning Engineer\n\n Toronto\n\n## Staff Site Reliability Engineer\n\n Toronto\n\nSee All Jobs\n\n## Stay connected\n\nWant to grow your career at ServiceNow but don\u2019t see the right role? Join our talent community to stay in the know and receive company updates. [...] Join Talent Community"
+        },
+        {
+          "title": "ServiceNow Careers - Join the team putting AI to work for people. | ServiceNow Careers",
+          "url": "https://careers.servicenow.com",
+          "snippet": "## The word is out\n\n### Fortune Best Workplaces in Technology 2026\n\n### #5 in Applied AI\n\n### Fortune 100 Best Companies to Work For 2026\n\n### Glassdoor's Best Places to Work in Tech & AI 2026\n\n### Fortune America\u2019s Most Innovative 2026\n\n### LinkedIn Top Companies\n\n### #2 in Computer Software\n\n### Fortune 500\n\n### Fortune World's Best Workplaces 2025\n\n### GPTW certified in 15 countries\n\n## Meet our teams\n\n245 roles\n\n### AI, Engineering, & Product\n\n21 roles\n\n### Corporate Functions\n\n23 roles [...] 2019\n\n### Joined the S&P 500\n\nWe join the S&P 500 club!\n\n### Fortune 500 & big wins\n\nWe join the Fortune 500 and celebrate our first $2 billion revenue quarter.\n\n### 20 years strong\n\nIt's our 20th anniversary! We've been recognized as #3 on Glassdoor's Best Places to Work, ranked #53 on Kantar's Most Valuable Brands, and we're just getting started.\n\n## Stay connected [...] AI is changing the world\u2014and you'll change it with us. Work shouldn't feel like chaos, but for many companies, it does\u2014a maze of disconnected tools, endless context-switching, and mountains of busywork. ServiceNow fixes that. We're the Super Intelligence Control Tower for business reinvention, connecting any AI, any data, and any workflow on a single platform."
+        },
+        {
+          "title": "Explore Jobs | ServiceNow Careers",
+          "url": "https://careers.servicenow.com/jobs",
+          "snippet": "# Explore jobs\n\n## Sign up for job alerts\n\nGet job alerts for this search by email\n\nSorry, the job search is currently unavailable at the present time. Please check back later.\n\n## Recently Viewed Jobs\n\n## Interested in more opportunities?\n\n## Moveworks\n\nMoveworks is now part of the ServiceNow team. Visit their career site to explore opportunities and apply.\n\n See Jobs\n\n## Contractor Positions\n\nOur contingent workforce management firm, Magnit, handles hiring for our contract roles.\n\n See Jobs"
+        },
+        {
+          "title": "ServiceNow | Tavily",
+          "url": "https://tavily.com/knowledge/company/HrDojc2Poqsb",
+          "snippet": "Tavily ranks #1 in Company Search Benchmark. Explore the results \u2192\n\nCut agentic search costs. Join our live Office Hours on Nov 17. Register \u2192\n\nWorld of Tavily NYC is happening November 12. Request to join\u2192\n\nImage 1: Tavily by Nebius\n\nProduct Solutions ResourcesDocsPricing\n\nEndpoints [...] # ServiceNow\n\nServiceNow is an AI platform that streamlines enterprise workflows for both customers and employees.\n\nImage 4: ServiceNow logo\n\nServiceNow\n\nIndustry Software Development\n\nHeadquarters Santa Clara, CA, United States\n\nWebsiteservicenow.com\n\nSocials\n   \n   \n   \n   \n   \n\n   Headcount\n   Financials\n   Funding\n   Mergers & Acquisitions\n   Products and services\n   Similar companies\n\n## Get it all with one API call\n\nPython TypeScript cURL [...] Endpoints\n\nOverview The web access layer for AI agentsSearch Fast and relevant web resultsExtract Clean and structured content for LLMsResearch An agent for in-depth web researchCrawl Content extracted from entire websitesMap Discover URLs across any website\n\nIndustries\n\nFinancialInsurance\n\nExplore\n\nDemosPost-Training\n\nLearn\n\nBlogCertificationEvents\n\nCompany\n\nAboutCustomersCareers\n\n\n\nContact Log in\n\nImage 2: Tavily by NebiusImage 3\n\n# ServiceNow"
+        }
+      ]
+    },
+    {
+      "provider": "exa",
+      "query": "\"ServiceNow Developer\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "ServiceNow Developer in Mississauga, ON | Rexall Pharmacy Group Ltd. | My Milton",
+          "url": "https://mymiltonontario.ca/jobs/servicenow-developer-3283053",
+          "snippet": ""
+        },
+        {
+          "title": "ServiceNow Developer | Onico Solutions\t\tOnico Solutions",
+          "url": "https://www.onicosolutions.com/jobs/servicenow-developer/",
+          "snippet": ""
+        },
+        {
+          "title": "53   Servicenow Developer Jobs in Toronto",
+          "url": "https://ca.linkedin.com/jobs/servicenow-developer-jobs-toronto-on",
+          "snippet": ""
+        },
+        {
+          "title": "Service Now AI DevOps Engineer at MCKESSON",
+          "url": "https://careers.mckesson.com/en/job/mississauga/service-now-ai-devops-engineer/733/99174909024",
+          "snippet": ""
+        },
+        {
+          "title": "ServiceNow Engineer \u2013 Randstad Canada \u2013 temporary job Mississauga, ON",
+          "url": "https://ca.talent.com/view?id=627646732272346049",
+          "snippet": ""
+        },
+        {
+          "title": "servicenow developer Jobs in Mississauga, ON | Hiring Now | Talent.com",
+          "url": "https://ca.talent.com/jobs/k-servicenow-developer-l-mississauga-on",
+          "snippet": ""
+        },
+        {
+          "title": "ServiceNow Developer in Mississauga, ON | Rexall Pharmacy Group Ltd. | My Oakville",
+          "url": "https://myoakvilleontario.ca/jobs/servicenow-developer-3283053",
+          "snippet": ""
+        },
+        {
+          "title": "1,000+ Servicenow jobs in Canada",
+          "url": "https://ca.linkedin.com/jobs/servicenow-jobs",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "provider": "firecrawl",
+      "query": "\"ServiceNow Administrator\" jobs Toronto posted this week",
+      "status": "HTTP 429",
+      "results": []
+    },
+    {
+      "provider": "tavily_alt",
+      "query": "\"ServiceNow Administrator\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "$34K\u2013$86K Servicenow Administrator Jobs",
+          "url": "https://ca.indeed.com/q-servicenow-administrator-jobs.html",
+          "snippet": "Find employers hiring now for Servicenow Administrator jobs. Search thousands of openings and apply on Indeed today. Mississauga jobs in OntarioHarris"
+        },
+        {
+          "title": "Servicenow administrator Jobs \u2013 98 Openings This Week",
+          "url": "https://www.simplyhired.ca/q-servicenow-administrator-jobs.html",
+          "snippet": "Find 98 Servicenow administrator job openings. Check opportunities, estimated salaries and receive job , ON2.9 $70,000\u2013$85,000 a year \u2013$90,000 a year"
+        },
+        {
+          "title": "37 Servicenow administrator jobs in Mississauga, ON",
+          "url": "https://www.glassdoor.ca/Job/mississauga-servicenow-administrator-jobs-SRCH_IL.0,11_IC2280741_KO12,36.htm",
+          "snippet": "Search Servicenow administrator jobs in Mississauga, ON with company ratings and salaries. 37 open jobs for Servicenow administrator in Mississauga."
+        },
+        {
+          "title": "Servicenow Administrator Jobs in Canada (1,000+ Open Roles) | LinkedIn",
+          "url": "https://ca.linkedin.com/jobs/servicenow-administrator-jobs",
+          "snippet": "### Senior ServiceNow Specialist\n\n  #### Trans Mountain\n\n  Calgary, Alberta, Canada\n IT Operations & CMDB Analyst \n\n  \n\n  ### IT Operations & CMDB Analyst\n\n  #### Purolator Inc.\n\n  Mississauga, Ontario, Canada\n ServiceNow Administrator \n\n  \n\n  ### ServiceNow Administrator\n\n  #### Pomerleau\n\n  Qu\u00e9bec, Quebec, Canada \n\n  Be an early applicant\n Senior Consultant, ServiceNow (ITAM/ITOM) \n\n  \n\n  ### Senior Consultant, ServiceNow (ITAM/ITOM)\n\n  #### KPMG Canada\n\n  Halifax, Nova Scotia, Canada [...] Actively Hiring\n System Administrator /Technical Engg \n\n  \n\n  ### System Administrator /Technical Engg\n\n  #### Tata Consultancy Services\n\n  Cambridge, Ontario, Canada \n\n  Actively Hiring\n ServiceNow Technical Consultant \n\n  \n\n  ### ServiceNow Technical Consultant\n\n  #### Cognizant\n\n  Toronto, Ontario, Canada \n\n  Be an early applicant\n Senior Consultant - ServiceNow HRSD \n\n  \n\n  ### Senior Consultant - ServiceNow HRSD\n\n  #### Infosys\n\n  Mississauga, Ontario, Canada [...] Be an early applicant\n ServiceNow Developer (ITSM Module) At Client Site in Ottawa \n\n  \n\n  ### ServiceNow Developer (ITSM Module) At Client Site in Ottawa\n\n  #### DXC Technology\n\n  Ottawa, Ontario, Canada \n\n  Actively Hiring\n Senior Analyst, Walmart Services - WMC Systems Administrator \n\n  \n\n  ### Senior Analyst, Walmart Services - WMC Systems Administrator\n\n  #### Walmart Canada\n\n  Mississauga, Ontario, Canada \n\n  Actively Hiring\n Technical Specialist Advisory"
+        },
+        {
+          "title": "Servicenow Administrator Jobs (NOW HIRING)",
+          "url": "https://www.ziprecruiter.com/Jobs/Servicenow-Administrator",
+          "snippet": "Browse 1000+ SERVICENOW ADMINISTRATOR jobs ($45-$74/hr) hiring now. New openings posted daily. Apply early, get seen first & 1-click apply"
+        },
+        {
+          "title": "Servicenow admin jobs | Dice.com",
+          "url": "https://www.dice.com/jobs/q-servicenow+admin-jobs",
+          "snippet": "Job SummaryWe are seeking an experienced ServiceNow Platform Administrator / Developer to support the administration, development, configuration, integrations, and continuous improvement of the ServiceNow platform. The ideal candidate will have strong experience managing the ServiceNow platform, implementing integrations, supporting change management and CI/CD processes, and working across ServiceNow applications. This role will support a Government Cloud environment and requires candidates who [...] Requisition Name : ServiceNow Platform Solutions Architect Job ID - 167479 -Interview Process: In-person interviews. Candidates MUST be available for an in-person interview. -Assignment duration: 1 year -Hybrid Work Schedule: Resource will be working a hybrid schedule. NO REMOTE ONLY OPTION. Will need to be onsite from day 1, two days a week. Specific onsite days will be determined with the manager once a candidate is selected. -Local candidates vs non-local: Local candidates (strongly preferr [...] Role Overview:This is a hands-on techno-functional role requiring the candidate to work closely with business stakeholders, technical teams, and ServiceNow platform teams. The candidate should be comfortable working on both the functional and technical aspects of the ServiceNow platform, including requirements analysis, configuration, development, integrations, testing, and implementation.Key Responsibilities:Partner with business stakeholders to understand business processes, challenges, and"
+        },
+        {
+          "title": "ServiceNow Careers - Join the team putting AI to work for people. | ServiceNow Careers",
+          "url": "https://careers.servicenow.com",
+          "snippet": "23 roles\n\n### Digital Technology\n\n8 roles\n\n### Marketing\n\n293 roles\n\n### Sales\n\n16 roles\n\n### User Experience\n\n## Our story\n\n2004\n\n### The beginning\n\nFred Luddy had a vision, and ServiceNow was born in sunny San Diego, California.\n\n2006\n\n### First customer\n\nWe welcome our first customer, Phoenix Group, Inc.\u2014the start of many great partnerships!\n\n2012\n\n### We go public\n\nHello, NYSE! ServiceNow becomes a publicly traded company.\n\n2015\n\n### $1 billion in revenue\n\nWe hit a big milestone!\n\n2019 [...] ## The word is out\n\n### Fortune Best Workplaces in Technology 2026\n\n### #5 in Applied AI\n\n### Fortune 100 Best Companies to Work For 2026\n\n### Glassdoor's Best Places to Work in Tech & AI 2026\n\n### Fortune America\u2019s Most Innovative 2026\n\n### LinkedIn Top Companies\n\n### #2 in Computer Software\n\n### Fortune 500\n\n### Fortune World's Best Workplaces 2025\n\n### GPTW certified in 15 countries\n\n## Meet our teams\n\n245 roles\n\n### AI, Engineering, & Product\n\n21 roles\n\n### Corporate Functions\n\n23 roles [...] 2019\n\n### Joined the S&P 500\n\nWe join the S&P 500 club!\n\n### Fortune 500 & big wins\n\nWe join the Fortune 500 and celebrate our first $2 billion revenue quarter.\n\n### 20 years strong\n\nIt's our 20th anniversary! We've been recognized as #3 on Glassdoor's Best Places to Work, ranked #53 on Kantar's Most Valuable Brands, and we're just getting started.\n\n## Stay connected"
+        },
+        {
+          "title": "ServiceNow | Tavily",
+          "url": "https://tavily.com/knowledge/company/HrDojc2Poqsb",
+          "snippet": "Tavily ranks #1 in Company Search Benchmark. Explore the results \u2192\n\nCut agentic search costs. Join our live Office Hours on Nov 17. Register \u2192\n\nWorld of Tavily NYC is happening November 12. Request to join\u2192\n\nImage 1: Tavily by Nebius\n\nProduct Solutions ResourcesDocsPricing\n\nEndpoints [...] # ServiceNow\n\nServiceNow is an AI platform that streamlines enterprise workflows for both customers and employees.\n\nImage 4: ServiceNow logo\n\nServiceNow\n\nIndustry Software Development\n\nHeadquarters Santa Clara, CA, United States\n\nWebsiteservicenow.com\n\nSocials\n   \n   \n   \n   \n   \n\n   Headcount\n   Financials\n   Funding\n   Mergers & Acquisitions\n   Products and services\n   Similar companies\n\n## Get it all with one API call\n\nPython TypeScript cURL [...] Endpoints\n\nOverview The web access layer for AI agentsSearch Fast and relevant web resultsExtract Clean and structured content for LLMsResearch An agent for in-depth web researchCrawl Content extracted from entire websitesMap Discover URLs across any website\n\nIndustries\n\nFinancialInsurance\n\nExplore\n\nDemosPost-Training\n\nLearn\n\nBlogCertificationEvents\n\nCompany\n\nAboutCustomersCareers\n\n\n\nContact Log in\n\nImage 2: Tavily by NebiusImage 3\n\n# ServiceNow"
+        }
+      ]
+    },
+    {
+      "provider": "jina",
+      "query": "\"ServiceNow Consultant\" jobs Toronto posted this week",
+      "status": "ok",
+      "results": []
+    },
+    {
+      "provider": "tavily",
+      "query": "\"ServiceNow Architect\" jobs Toronto posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Job opening - ServiceNow Technical Architect in Toronto | Randstad",
+          "url": "https://www.randstad.com/jobs/servicenow-technical-architect_toronto_47644537",
+          "snippet": "contact us\n\ncontact us\n\n# servicenow technical architect.\n\n toronto, ontario\n posted 7 days ago\n closes 21 december 2026\n\napply\n\n## job details\n\nsummary\n\n toronto, ontario\n contract\n\n job category\n\n  information technology\n\njob details\n\nOur client, is seeking an experienced, highly strategic ServiceNow Technical Architect to serve as the design authority for their enterprise platform operations.  \n ... [...] We are seeking an experienced Senior Data Architect/Modeller to lead the review, analysis, and design of robust data architectures within complex, distributed application environments. In this role, you will analyze business requirements and existing source applications to design and implement target logical and physical data models. Working collaboratively with cross-functional teams of business analysts, developers, subject matter experts, and architects\n\n  posted 26 october 2026 [...] We are seeking an experienced Senior Information Architect to lead the definition, design, and implementation of enterprise-level information architecture frameworks, principles, standards, and roadmaps. In this role, you will be responsible for creating standardized templates, semantic concept models, controlled vocabularies, business glossaries, and classification schemes from the ground up. Working closely with business stakeholders, technical teams, an\n\n  posted 26 october 2026"
+        },
+        {
+          "title": "Servicenow Architect Jobs in Toronto, ON (NOW HIRING)",
+          "url": "https://www.ziprecruiter.com/Jobs/Servicenow-Architect/-in-Toronto,ON",
+          "snippet": "Browse 173 SERVICENOW ARCHITECT jobs from companies in TORONTO, ON, CA now hiring. Find job opportunities near you paying $70 per hour"
+        },
+        {
+          "title": "Principal Solution Architect- ServiceNow",
+          "url": "https://builtintoronto.com/job/principal-solution-architect-servicenow/11971031",
+          "snippet": "5 days ago \u2014 ServiceNow is hiring for a Remote Principal Solution Architect- ServiceNow in Toronto, ON, CAN. Posted 2 Hours Ago. Remote or Hybrid Hiring"
+        },
+        {
+          "title": "Servicenow Architect Jobs in Toronto (318 Open Roles) | LinkedIn",
+          "url": "https://ca.linkedin.com/jobs/servicenow-architect-jobs-toronto-on",
+          "snippet": "### Solution Architect, Enterprise Applications\n\n  #### Kinaxis\n\n  Toronto, Ontario, Canada\n ServiceNow system Administrator #26-24594 \n\n  \n\n  ### ServiceNow system Administrator #26-24594\n\n  #### US Tech Solutions\n\n  Toronto, Ontario, Canada\n People Services AI Solutions & Configuration Lead \n\n  \n\n  ### People Services AI Solutions & Configuration Lead\n\n  #### Manulife\n\n  Toronto, Ontario, Canada\n Staff Solutions Architect, Business Systems [...] ### Senior ServiceNow Engineer\n\n  #### EQ Bank\n\n  Toronto, Ontario, Canada \n\n  Be an early applicant\n Technology Lead Enterprise Platforms and Operations \n\n  \n\n  ### Technology Lead Enterprise Platforms and Operations\n\n  #### Tundra Technical Solutions\n\n  Toronto, Ontario, Canada\n Architect, Professional Services \n\n  \n\n  ### Architect, Professional Services\n\n  #### Softchoice\n\n  Toronto, Ontario, Canada\n Solution Architect, Enterprise Applications [...] ### RevOps Workflow Automation Manager\n\n  #### Sage\n\n  Toronto, Ontario, Canada\n Senior Technical Architect \n\n  \n\n  ### Senior Technical Architect\n\n  #### CSA Testing & Certification\n\n  Toronto, Ontario, Canada \n\n  Be an early applicant\n ServiceNow Sr. ITAM(SAM/HAM) Developer \n\n  \n\n  ### ServiceNow Sr. ITAM(SAM/HAM) Developer\n\n  #### ServiceIO Consultancy Services\n\n  Regional Municipality of Peel, Ontario, Canada\n ServiceNow Engagement Manager \n\n  \n\n  ### ServiceNow Engagement Manager"
+        },
+        {
+          "title": "Servicenow jobs in Toronto, ON",
+          "url": "https://ca.indeed.com/q-servicenow-l-toronto,-on-jobs.html",
+          "snippet": "Servicenow jobs in Toronto, ON \u00b7 Principal Solution Architect- ServiceNow \u00b7 Sr. Consultant, Value Excellence \u00b7 Manager, Network Reliability and Resiliency \u00b7 Staff\u00a0...Read more"
+        },
+        {
+          "title": "Servicenow architect jobs | Dice.com",
+          "url": "https://www.dice.com/jobs/q-servicenow+architect-jobs",
+          "snippet": "Today\n\nJob Title: Hardware ServiceNow Architect Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Continental US \\ \\ \\ The Opportunity: CACI is seeking a highly skilled and strategic Hardware ServiceNow Architect supporting the Department of the Air Force (DAF) Enterprise IT as a Service (EITaaS) program with expertise in Hardware Asset Management (HAM). This role [...] Duration: 6+ months Compensation: $80-90/hr Location: 100% REMOTE We are seeking an experienced ServiceNow Telecom Architect with strong expertise in Telecommunications Service Management (TSM), Order Management for Telecommunications (OMT), and Customer Service Management (CSM). The ideal candidate will lead solution architecture, engage with clients, translate business requirements into scalable ServiceNow solutions, and provide technical guidance throughout implementation. Key Responsibili [...] Job Title : Sr. ServiceNow Architect- (WSD is mandatory, EAM is nice to have) Long term Remote Roles and Responsibilities: Architect and deliver scalable ServiceNow solutions across WSD, EAM, ITSM, CMDB, ITAM, and integrations.Lead solution design workshops and translate business requirements into technical architecture and implementation roadmaps.Design and govern Workplace Services including:Space ManagementReservation ManagementWorkplace Visitor ManagementWorkplace Case ManagementEmployee Ex"
+        },
+        {
+          "title": "ServiceNow Careers - Join the team putting AI to work for people. | ServiceNow Careers",
+          "url": "https://careers.servicenow.com",
+          "snippet": "## The word is out\n\n### Fortune Best Workplaces in Technology 2026\n\n### #5 in Applied AI\n\n### Fortune 100 Best Companies to Work For 2026\n\n### Glassdoor's Best Places to Work in Tech & AI 2026\n\n### Fortune America\u2019s Most Innovative 2026\n\n### LinkedIn Top Companies\n\n### #2 in Computer Software\n\n### Fortune 500\n\n### Fortune World's Best Workplaces 2025\n\n### GPTW certified in 15 countries\n\n## Meet our teams\n\n245 roles\n\n### AI, Engineering, & Product\n\n21 roles\n\n### Corporate Functions\n\n23 roles [...] 2019\n\n### Joined the S&P 500\n\nWe join the S&P 500 club!\n\n### Fortune 500 & big wins\n\nWe join the Fortune 500 and celebrate our first $2 billion revenue quarter.\n\n### 20 years strong\n\nIt's our 20th anniversary! We've been recognized as #3 on Glassdoor's Best Places to Work, ranked #53 on Kantar's Most Valuable Brands, and we're just getting started.\n\n## Stay connected [...] AI is changing the world\u2014and you'll change it with us. Work shouldn't feel like chaos, but for many companies, it does\u2014a maze of disconnected tools, endless context-switching, and mountains of busywork. ServiceNow fixes that. We're the Super Intelligence Control Tower for business reinvention, connecting any AI, any data, and any workflow on a single platform."
+        },
+        {
+          "title": "ServiceNow | Tavily",
+          "url": "https://tavily.com/knowledge/company/HrDojc2Poqsb",
+          "snippet": "Tavily ranks #1 in Company Search Benchmark. Explore the results \u2192\n\nCut agentic search costs. Join our live Office Hours on Nov 17. Register \u2192\n\nWorld of Tavily NYC is happening November 12. Request to join\u2192\n\nImage 1: Tavily by Nebius\n\nProduct Solutions ResourcesDocsPricing\n\nEndpoints [...] Endpoints\n\nOverview The web access layer for AI agentsSearch Fast and relevant web resultsExtract Clean and structured content for LLMsResearch An agent for in-depth web researchCrawl Content extracted from entire websitesMap Discover URLs across any website\n\nIndustries\n\nFinancialInsurance\n\nExplore\n\nDemosPost-Training\n\nLearn\n\nBlogCertificationEvents\n\nCompany\n\nAboutCustomersCareers\n\n\n\nContact Log in\n\nImage 2: Tavily by NebiusImage 3\n\n# ServiceNow [...] # ServiceNow\n\nServiceNow is an AI platform that streamlines enterprise workflows for both customers and employees.\n\nImage 4: ServiceNow logo\n\nServiceNow\n\nIndustry Software Development\n\nHeadquarters Santa Clara, CA, United States\n\nWebsiteservicenow.com\n\nSocials\n   \n   \n   \n   \n   \n\n   Headcount\n   Financials\n   Funding\n   Mergers & Acquisitions\n   Products and services\n   Similar companies\n\n## Get it all with one API call\n\nPython TypeScript cURL"
+        }
+      ]
+    },
+    {
+      "provider": "firecrawl",
+      "query": "\"ServiceNow ITSM Analyst\" jobs Toronto posted this week",
+      "status": "HTTP 429",
+      "results": []
+    },
+    {
+      "provider": "exa",
+      "query": "\"ServiceNow Architect\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Senior Servicenow Architect For Workforce Solutions Mississauga in Mississauga ON, Peel Regional District, ON; Ontario - Insight Global",
+          "url": "https://ca.trabajo.org/job-2844-fcef51f703321548752863548a5b530c",
+          "snippet": ""
+        },
+        {
+          "title": "ServiceNow Architect Job - Mississauga, ON, Canada (Enterprise Solutions Inc.)",
+          "url": "https://www.iitjobs.com/job/servicenow-architect-mississauga-on-canada-636900",
+          "snippet": ""
+        },
+        {
+          "title": "Senior servicenow architect - remote canada - Crossfuze",
+          "url": "https://jobsca.org/servicenow-architect_mississauga-c117070/2026-10-crossfuze_i4238579508",
+          "snippet": ""
+        },
+        {
+          "title": "ServiceNow Technical Consultant",
+          "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-at-ltimindtree-4215111241",
+          "snippet": ""
+        },
+        {
+          "title": "Expert ServiceNow Architect Driving Scalable Solutions and Innovations in Toronto ON Canada - Rsm Us Llp. - 2E50FB",
+          "url": "https://www.recruit.net/job/expert-servicenow-architect-driving-scalable-jobs/2E50FB0BAB6E4014",
+          "snippet": ""
+        },
+        {
+          "title": "Architect Jobs in Mississauga, ON (918 Jobs) | Jobted Canada",
+          "url": "https://ca.jobted.com/architect-jobs-mississauga",
+          "snippet": ""
+        },
+        {
+          "title": "Remote servicenow architect \u2014 enterprise itsm & itom",
+          "url": "https://jobsca.org/servicenow-architect_toronto-c117072/2026-10-vixonix-technologies_i4241609585",
+          "snippet": ""
+        },
+        {
+          "title": "Senior servicenow architect: spm & enterprise strategy",
+          "url": "https://jobsca.org/servicenow-architect_mississauga-c117070/2026-10-bell_i4238591173",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "provider": "tavily_alt",
+      "query": "\"ServiceNow ITSM Analyst\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Senior Itsm Analyst Jobs in Mississauga, ON (NOW HIRING)",
+          "url": "https://www.ziprecruiter.com/Jobs/Senior-Itsm-Analyst/-in-Mississauga,ON",
+          "snippet": "Browse 61 MISSISSAUGA, ON SENIOR ITSM ANALYST jobs hiring now. New openings posted daily. Provide expert guidance on ServiceNow, ITSM, Release"
+        },
+        {
+          "title": "400 Servicenow, Itsm Jobs Hiring Now",
+          "url": "https://ca.indeed.com/q-servicenow,-itsm-jobs.html",
+          "snippet": "ITSM Analyst. Easily apply. CAAT Pension Plan. Toronto, ON M5B 2L7 ... ServiceNow Business Analyst. Cognizant. Mississauga, ON. $87,000\u2013$102,000 a year. Full-time\u00a0...Read more"
+        },
+        {
+          "title": "Mississauga, On Itsm servicenow Jobs",
+          "url": "https://www.workopolis.com/search?q=itsm+servicenow&l=mississauga%2C+on",
+          "snippet": "Find 80 Itsm servicenow job openings in Mississauga, $106,000\u2013$135,000 a year Full-time \u30fb $75,072\u2013$103,224 a year \u30fb $79,320\u2013$110,680 a year \u30fb 100\u2013$98,900 a"
+        },
+        {
+          "title": "Servicenow Jobs in Brampton (2000+ Open Roles)",
+          "url": "https://ca.linkedin.com/jobs/servicenow-jobs-brampton-on",
+          "snippet": "2000+ Servicenow jobs in Brampton. New Servicenow jobs added daily. Mississauga, Ontario, Canada. Now (ITAM/ITOM) ServiceNow Technical Lead Manager, IT"
+        },
+        {
+          "title": "Technical Analyst, ServiceNow CMDB / ITSM at Northwestern Medicine",
+          "url": "https://jobs.nm.org/job/chicago/technical-analyst-cmdb-itsm/27763/101270274640",
+          "snippet": "Assists with projects in the planning, design, development, testing, and implementation of application software code. This could include preparing time estimates for project activities and helping develop project timelines, monitoring performance, and reporting progress toward project milestones\n Analyzes business requirements, recommends system changes, writes technical specifications and implements systems and system changes to address changing application requirements. [...] Assists with projects in the planning, design, development, testing, and implementation of application software code. This could include preparing time estimates for project activities and helping develop project timelines, monitoring performance, and reporting progress toward project milestones\n Analyzes business requirements, recommends system changes, writes technical specifications and implements systems and system changes to address changing application requirements. [...] Operates in primary and backup capacities to maintain operational stability and continuity of ITSM services.\n\nFacilitates ITSM governance and execution through operational coordination, reviews, data maintenance, and lifecycle support activities.\n\nDrives ITSM process maturity and alignment with business objectives through data driven insights, automation opportunities, and optimized ServiceNow solutions"
+        },
+        {
+          "title": "ServiceNow Careers - Join the team putting AI to work for people. | ServiceNow Careers",
+          "url": "https://careers.servicenow.com",
+          "snippet": "## The word is out\n\n### Fortune Best Workplaces in Technology 2026\n\n### #5 in Applied AI\n\n### Fortune 100 Best Companies to Work For 2026\n\n### Glassdoor's Best Places to Work in Tech & AI 2026\n\n### Fortune America\u2019s Most Innovative 2026\n\n### LinkedIn Top Companies\n\n### #2 in Computer Software\n\n### Fortune 500\n\n### Fortune World's Best Workplaces 2025\n\n### GPTW certified in 15 countries\n\n## Meet our teams\n\n245 roles\n\n### AI, Engineering, & Product\n\n21 roles\n\n### Corporate Functions\n\n23 roles [...] 2019\n\n### Joined the S&P 500\n\nWe join the S&P 500 club!\n\n### Fortune 500 & big wins\n\nWe join the Fortune 500 and celebrate our first $2 billion revenue quarter.\n\n### 20 years strong\n\nIt's our 20th anniversary! We've been recognized as #3 on Glassdoor's Best Places to Work, ranked #53 on Kantar's Most Valuable Brands, and we're just getting started.\n\n## Stay connected [...] 23 roles\n\n### Digital Technology\n\n8 roles\n\n### Marketing\n\n293 roles\n\n### Sales\n\n16 roles\n\n### User Experience\n\n## Our story\n\n2004\n\n### The beginning\n\nFred Luddy had a vision, and ServiceNow was born in sunny San Diego, California.\n\n2006\n\n### First customer\n\nWe welcome our first customer, Phoenix Group, Inc.\u2014the start of many great partnerships!\n\n2012\n\n### We go public\n\nHello, NYSE! ServiceNow becomes a publicly traded company.\n\n2015\n\n### $1 billion in revenue\n\nWe hit a big milestone!\n\n2019"
+        },
+        {
+          "title": "ServiceNow",
+          "url": "https://careers.icf.com/us/en/servicenow",
+          "snippet": "We combine deep domain knowledge, unmatched ServiceNow expertise, and cutting-edge digital capabilities to rapidly deliver secure and affordable low-code solutions. Our team has deep UI/UX capabilities as a member of ServiceNow\u2019s Design Partner Program, and a breadth of proven expertise across ServiceNow\u2019s end-to-end platform including ITSM, ITOM, ITAM, ITBM, HRSD, SecOps, GRC, CSM, and App Engine.\n\n### Rapidly modernizing the Air Force\u2019s audit management solution\n\n   \n\nLEARN MORE [...] Company Logo\n\nCompany Logo\n\n   \n\n## We're hiring ServiceNow professionals\n\n### We are an Elite ServiceNow partner, two-time U.S. Partner of the Year, and the market leader in bespoke business application development.\n\n## See our ServiceNow partnership at work [...] LEARN MORE\n\n### Supporting the Office of Child Care's mission through digital transformation\n\n   \n\nLEARN MORE\n\n### CEMEX Citizen Development Community of Practice\n\n   \n\nLEARN MORE\n\nCareer Site Cookie Settings\n\nPersonal Information"
+        },
+        {
+          "title": "ServiceNow | Tavily",
+          "url": "https://tavily.com/knowledge/company/HrDojc2Poqsb",
+          "snippet": "Tavily ranks #1 in Company Search Benchmark. Explore the results \u2192\n\nCut agentic search costs. Join our live Office Hours on Nov 17. Register \u2192\n\nWorld of Tavily NYC is happening November 12. Request to join\u2192\n\nImage 1: Tavily by Nebius\n\nProduct Solutions ResourcesDocsPricing\n\nEndpoints [...] Clear\n\n   - [x] checkbox label label \n\nApply Cancel\n\nConsent Leg.Interest\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\nReject All Confirm My Choices\n\nImage 11: Powered by Onetrust [...] # ServiceNow\n\nServiceNow is an AI platform that streamlines enterprise workflows for both customers and employees.\n\nImage 4: ServiceNow logo\n\nServiceNow\n\nIndustry Software Development\n\nHeadquarters Santa Clara, CA, United States\n\nWebsiteservicenow.com\n\nSocials\n   \n   \n   \n   \n   \n\n   Headcount\n   Financials\n   Funding\n   Mergers & Acquisitions\n   Products and services\n   Similar companies\n\n## Get it all with one API call\n\nPython TypeScript cURL"
+        }
+      ]
+    },
+    {
+      "provider": "jina",
+      "query": "\"Salesforce Developer\" jobs Toronto posted this week",
+      "status": "ok",
+      "results": []
+    },
+    {
+      "provider": "exa",
+      "query": "\"Salesforce Administrator\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Salesforce Administrator - SOTI Inc. | Mississauga, ON",
+          "url": "https://www.workopolis.com/jobsearch/viewjob/BE-0edX9blV0RemD07yRwDXsWP3gOjYJWOrBRT5iyR23zv9ZYjSLTNddrMZKyRDa",
+          "snippet": ""
+        },
+        {
+          "title": "salesforce administrator Jobs in Mississauga, ON | Hiring Now | Talent.com",
+          "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-mississauga-on",
+          "snippet": ""
+        },
+        {
+          "title": "88 salesforce administrator jobs in Mississauga, ON, October 2026 | Glassdoor",
+          "url": "https://www.glassdoor.ca/Job/mississauga-salesforce-administrator-jobs-SRCH_IL.0,11_IC2280741_KO12,36.htm",
+          "snippet": ""
+        },
+        {
+          "title": "Salesforce administrator data migration role - Mindtris",
+          "url": "https://jobsca.org/salesforce-administrator_mississauga-c117070/2026-10-mindtris_i4252853536",
+          "snippet": ""
+        },
+        {
+          "title": "Salesforce Business jobs | Mississauga, Ontario | JobsCA Org",
+          "url": "https://jobsca.org/salesforce-business_mississauga-c117070",
+          "snippet": ""
+        },
+        {
+          "title": "Salesforce Administrator at Soti",
+          "url": "https://soti.wd3.myworkdayjobs.com/en-US/Referral_Job_Posting_Site/job/Salesforce-Administrator_R10458-2",
+          "snippet": ""
+        },
+        {
+          "title": "Senior Salesforce Administrator - Benevity | Built In",
+          "url": "https://builtin.com/job/senior-salesforce-administrator/11953847",
+          "snippet": ""
+        },
+        {
+          "title": "Senior Application System Analyst at Sobeys \u2014 Multiple Locations",
+          "url": "https://hiringcafe.com/job/senior-application-system-analyst-sobeys-calgary-alberta-qruq0jx3a82epzds",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "provider": "firecrawl",
+      "query": "\"Salesforce Consultant\" jobs Toronto posted this week",
+      "status": "HTTP 429",
+      "results": []
+    },
+    {
+      "provider": "tavily",
+      "query": "\"Salesforce Administrator\" jobs Toronto posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Toronto, On Salesforce admin Jobs \u2013 2373 Openings This Week | Workopolis",
+          "url": "https://www.workopolis.com/search?q=salesforce+admin&l=toronto%2C+on",
+          "snippet": "4\n\n  + Full-time\n  + Writing skills\n  + Administrative experience\n  + Data entry\n\n  6d\n ## Admissions Officer\n\n  University Support Services, an Affiliate of St. George's University \u2014\n  Greater Toronto Area, ON\n\n  + $90,000\u2013$97,832 a year\n  + Weekends as needed\n  + Remote\n  + Marketing\n  + Salesforce\n  + Writing skills\n  + Paid time off\n  + Work from home\n\n  Quick apply\n\n  1d\n ## Parts Warranty Administrator\n\n  Toronto Transit Commission \u2014\n  Toronto, ON\n\n  3.9 [...] 4.2\n\n  + $34.19\u2013$45.59 an hour\n  + Temporary\n  + Microsoft Outlook\n  + Computer literacy\n  + Writing skills\n  + Dental care\n  + Vision care\n\n  1h\n ## Office Front Desk and Admin\n\n  New Art Drapery & Blinds \u2014\n  Markham, ON\n\n  2.3\n\n  + $18\u2013$20 an hour\n  + Full-time\n  + Microsoft Outlook\n  + Inventory management\n  + Customer service\n\n  Quick apply\n\n  4d\n ## Gift Processing & Administration Coordinator\n\n  Unity Health Toronto \u2014\n  Toronto, ON\n\n  4 [...] Skip to content\n\nWorkopolis Logo\n\nPost Jobs\n\n## Refine Your Search\n\n# salesforce admin jobs in toronto, on\n\n ## Production Scheduler/Admin Assistant\n\n  KWR Industrial Div. of Karl W. Richter Ltd. \u2014\n  Scarborough, ON\n\n  5\n\n  + From $23 an hour\n  + Part-time\n  + Microsoft Outlook\n  + Computer literacy\n  + English\n  + Profit sharing\n  + Disability insurance\n\n  Quick apply\n\n  3h\n ## Councillor's Administrative Assistant\n\n  City of Mississauga \u2014\n  Mississauga, ON\n\n  4.2"
+        },
+        {
+          "title": "Salesforce Administrator Jobs in Toronto (377 Open Roles) | LinkedIn",
+          "url": "https://ca.linkedin.com/jobs/salesforce-administrator-jobs-toronto-on",
+          "snippet": "### Salesforce Administrator - Assistant Vice President\n\n  #### iCapital\n\n  Toronto, Ontario, Canada\n Senior Analyst, Walmart Services - WMC Systems Administrator \n\n  \n\n  ### Senior Analyst, Walmart Services - WMC Systems Administrator\n\n  #### Walmart Canada\n\n  Mississauga, Ontario, Canada \n\n  Actively Hiring\n Salesforce Consultant \n\n  \n\n  ### Salesforce Consultant\n\n  #### MSITEK\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n Revenue Ops Systems Analyst [...] ### Analyst/Sr. Analyst, Global Incentive Compensation\n\n  #### Salesforce\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n Marketing Operations Manager \n\n  \n\n  ### Marketing Operations Manager\n\n  #### Extreme Networks\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n Lead Business Systems Analyst, Lead-to-Cash \n\n  \n\n  ### Lead Business Systems Analyst, Lead-to-Cash\n\n  #### Juniper Square\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n Customer Success Platform Administrator [...] Actively Hiring\n Senior Salesforce Administrator \n\n  \n\n  ### Senior Salesforce Administrator\n\n  #### Loopio\n\n  Toronto, Ontario, Canada\n Senior Salesforce Administrator \n\n  \n\n  ### Senior Salesforce Administrator\n\n  #### Benevity\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n Salesforce Administrator \n\n  \n\n  ### Salesforce Administrator\n\n  #### Adebra Solutions\n\n  Regional Municipality of Peel, Ontario, Canada\n Salesforce Administrator - Assistant Vice President"
+        },
+        {
+          "title": "Salesforce Administrator jobs in Toronto, ON",
+          "url": "https://ca.indeed.com/q-salesforce-administrator-l-toronto,-on-jobs.html",
+          "snippet": "Find employers hiring now for Salesforce Administrator jobs in Toronto, ON. Search thousands of openings and apply on Indeed today."
+        },
+        {
+          "title": "Salesforce Admin Jobs in November 2026 \u2013 Startup Jobs",
+          "url": "https://startup.jobs/roles/salesforce-admin",
+          "snippet": "TCP Software\n\nSenior Salesforce Administrator\n\nTCP Software\n\u00b7\n\nTexas, U.S.\n\nRemote\n\n\u00b7\n\nApply\n\nBenevity\n\nSenior Salesforce Administrator\n\nBenevity\n\u00b7\n\nToronto, Canada\n\nHybrid\n\n\u00b7\n\nApply\n\nSee new jobs 24 hours early\n\nStartup Jobs Plus unlocks the newest listings, instant alerts, and salary filters.\n\nGet Plus\n\nBenevity\n\nSenior Salesforce Administrator\n\nBenevity\n\u00b7\n\nCanada\n\nHybrid\n\n\u00b7\n\nApply\n\nCarwow\n\nSenior Salesforce Admin\n\nCarwow\n\u00b7\n\nPorto, Portugal\n\nHybrid\n\n\u00b7\n\nApply [...] Vibe\n\u00b7\n\nNew York, U.S.\n\nHybrid\n\n\u00b7\n\nApply\n\nLoopio Inc.\n\nSenior Salesforce Administrator\n\nLoopio Inc.\n\u00b7\n\nToronto, Canada\n\nRemote\n\n\u00b7\n\nApply\n\nSitetracker\n\nSenior Salesforce Administrator\n\nSitetracker\n\u00b7\n\nBengaluru, India\n\nHybrid\n\n\u00b7\n\nApply\n\nSitetracker\n\nSalesforce Administrator II\n\nSitetracker\n\u00b7\n\nBengaluru, India\n\nHybrid\n\n\u00b7\n\nApply\n\nLoad next page\u2026 [...] Or create a free account and we\u2019ll email you when new jobs match what you\u2019re looking for.\n\nCreate a free account\n\nSearching\n\nShow more results\n\nSalesforce Administrator\n\nEarly access\n\u00b7\n\nCanada\n\nRemote\n\n\u00b7\n\nSee it first\n\neClinical Solutions\n\nSales Systems Analyst \u2013 Salesforce Administrator\n\neClinical Solutions\n\u00b7\n\nBengaluru, India\n\n\u00b7\n\nNew\n\nApply\n\nCambridge Mercantile Corp. AUS\n\nSalesforce Administrator\n\nCambridge Mercantile Corp. AUS\n\u00b7\n\nLondon, United Kingdom\n\n\u00b7\n\nApply\n\nTCP Software"
+        },
+        {
+          "title": "Remote Salesforce Administrator Jobs in Toronto, ON",
+          "url": "https://www.ziprecruiter.com/Jobs/Remote-Salesforce-Administrator/-in-Toronto,ON",
+          "snippet": "Browse 34 REMOTE SALESFORCE ADMINISTRATOR jobs from companies in TORONTO, ON, CA now hiring. Find job opportunities near you paying $46 per"
+        },
+        {
+          "title": "Careers in Canada | Join Salesforce in Toronto & Beyond | Salesforce",
+          "url": "https://www.salesforce.com/company/careers/locations/north-america/canada",
+          "snippet": "## Account Management\n\nManage your Salesforce subscriptions and contracts.\n\nMake payments, buy products, and manage renewals (Salesforce login required).\n\nAccess invoices and make payments (Trailblazer ID login required).\n\nTrack and manage consumption with near-real time usage data.\n\n###### Questions? We can help.\n\n###### Questions? We can help.\n\n## Company\n\n## About Salesforce\n\nLearn about our history, products, and values.\n\n(opens in a new window)\n(opens in a new window)\n\n## Our Values [...] ## Communications\n\nDeliver the connected future, faster.\n\n## Engineering, Construction & Real Estate\n\nAchieve operational excellence.\n\n## Consumer Goods\n\nDeliver profitable growth.\n\n## Education\n\nDeliver connected education journeys for life on the #1 AI CRM.\n\n## Energy & Utilities\n\nLead the energy transition.\n\n## Financial Services\n\nEmpower your customers\u2019 financial success with trusted AI.\n\n## Healthcare\n\nAccelerate outcomes with Agentforce 360 for Health.\n\n## Life Sciences [...] Our Canadian teams are helping our customers build what\u2019s next for theirs \u2014 accelerating agent-first innovation across the region. From first conversation to long-term partnership, we\u2019re looking for sales and success pros who know how to lead with empathy, think strategically, and build real relationships. If you\u2019re driven by growth, energized by forward-thinking tech, and looking to make an impact, there\u2019s never been a better time to join us in Canada."
+        },
+        {
+          "title": "Salesforce Jobs",
+          "url": "https://www.salesforce.com/company/careers/jobs",
+          "snippet": "Montreal\n\nMorocco\n\nMumbai\n\nMunich\n\nNagoya\n\nNew York\n\nOsaka\n\nOslo\n\nPalo Alto\n\nParis\n\nPhoenix\n\nPune\n\nRaleigh\n\nRemote\n\nRemote - Japan\n\nRemote - RJ\n\nRemote France\n\nRemote, Argentina\n\nRemote, Korea\n\nRemote, Munich\n\nRemote, Netherlands\n\nRemote, Taiwan\n\nRemote, Zurich\n\nRiyadh\n\nRome\n\nSan Francisco\n\nSantiago\n\nSao Paulo\n\nSeattle\n\nSeoul\n\nSingapore\n\nSouth Africa\n\nStockholm\n\nStuttgart\n\nSydney\n\nTel Aviv\n\nTempe\n\nTokyo\n\nToronto\n\nUnited Arab Emirates\n\nVancouver\n\nVienna\n\nWarszawa\n\nWashington\n\nWellington\n\nZurich [...] Amsterdam\n\nAtlanta\n\nAuckland\n\nAustin\n\nBangalore\n\nBarcelona\n\nBellevue\n\nBerlin\n\nBogota\n\nBoston\n\nBrisbane\n\nBrussels\n\nBuenos Aires\n\nBurlington\n\nCanberra\n\nChennai\n\nChicago\n\nCopenhagen\n\nDallas\n\nDenver\n\nDublin\n\nDusseldorf\n\nFinland\n\nFrankfurt\n\nFukuoka\n\nGurgaon\n\nHerndon\n\nHyderabad\n\nIndianapolis\n\nIrvine\n\nJaipur\n\nJakarta\n\nJena\n\nJohannesburg\n\nKhlong Toei\n\nLausanne\n\nLisbon\n\nLondon\n\nLyon\n\nMadrid\n\nMannheim\n\nMarseille\n\nMaxdorf\n\nMclean\n\nMelbourne\n\nMetro Manila\n\nMexico\n\nMexico City\n\nMilan\n\nMontreal\n\nMorocco [...] Skip to content\n\n# Jobs\n\nFilter jobs\n\nFilter jobs\n\nKeywords Clear filters\n\nCountry \n\nArgentina\n\nAustralia\n\nAustria\n\nBelgium\n\nBrazil\n\nCanada\n\nChile\n\nColombia\n\nDenmark\n\nFinland\n\nFrance\n\nGermany\n\nIndia\n\nIndonesia\n\nIreland\n\nIsrael\n\nItaly\n\nJapan\n\nKorea, Republic of\n\nMexico\n\nMorocco\n\nNetherlands\n\nNew Zealand\n\nNorway\n\nPhilippines\n\nPoland\n\nPortugal\n\nSaudi Arabia\n\nSingapore\n\nSouth Africa\n\nSpain\n\nSweden\n\nSwitzerland\n\nTaiwan\n\nThailand\n\nUnited Arab Emirates\n\nUnited Kingdom\n\nUnited States of America\n\nRegion"
+        },
+        {
+          "title": "Salesforce",
+          "url": "https://tavily.com/knowledge/company/XiMau7KBLqwM",
+          "snippet": "# Salesforce\nID: XiMau7KBLqwM\nWebsite: www.salesforce.com\nLegal name: Salesforce, Inc.\nHeadquarters: San Francisco, California, United States\nLinkedIn: www.linkedin.com/company/salesforce \u00b7 6,750,152 followers\nIndustry: Software Development\nCompany type: Public Company\nSocial profiles: www.facebook.com/salesforce, www.twitter.com/salesforce, www.crunchbase.com/organization/salesforce, www.instagram.com/salesforce, www.youtube.com/@salesforce\nEmail: datasubjectrequest@salesforce.com [...] ## Technology\n- Detected: 1,474\n- alertmedia \u00b7 last seen 2026-08-24\n- eslint \u00b7 last seen 2026-08-24\n- mailgun \u00b7 last seen 2026-08-24\n- juris \u00b7 last seen 2026-08-24\n- salesforce pardot \u00b7 last seen 2026-08-24\n- fivetran \u00b7 last seen 2026-08-24\n- kapost \u00b7 last seen 2026-08-24\n- conga composer \u00b7 last seen 2026-08-24\n\n## Reputation\n- Open roles: 3,080\n\n## Similar companies\n- sap\n- adobe\n- oracle\n- zoho\n- hubspot\n- infor\n- sage group\n- sugarcrm [...] Phone: 1-800-664-9073, +1 800-420-7332\nDescription: Salesforce is an AI CRM platform that helps companies become Agentic Enterprises where humans and agents drive success together through a unified AI, data, and Customer 360 platform."
+        }
+      ]
+    },
+    {
+      "provider": "parallel",
+      "query": "\"Salesforce Developer\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Salesforce Developer at Panasonic Corporation of North America (Mississauga)",
+          "url": "https://scoutify.com/companies/panasonic-corporation-of-north-america/jobs/3226349",
+          "snippet": "Skip to job details\nScoutify\nFind jobs Companies Sign in\nCompanies Panasonic Corporation of North America Salesforce Developer\nPanasonic Corporation of North America Technology/Software\n\nSalesforce Developer\n\nMississauga, Canada Hybrid Full-time\nPanasonic Corporation of North America \u00b7 Salesforce Developer\nApply on employer site Apply to similar roles, free\nLocation Mississauga, Canada Hybrid\nPay $77k\u201389k / year \u00b7 USD\nEmployment Full-time\nVisa history Sponsors H-1B visas From the company's recent H-1B filings\nPosted Oct 29, 2026\nExplore related roles\nJob description Related roles 6 \nOverview WHO YOU ARE AT PANASONIC CANADA Responsibilities WHAT YOU\u2019LL DO MUST-HAVES\n\nOverview\n\nWHO YOU ARE AT PANASONIC CANADA\n\nPanasonic Canada Inc. is currently looking to hire for the position of Salesforce Developer.\nDesigns, develops, and supports Salesforce solutions that enhance business processes, system performance, and the overall user experience. Collaborates with business stakeholders, administrators, and technical teams to gather requirements and translate them into scalable Salesforce configurations and custom solutions using Apex, Lightning Web Components (LWC), Flows, integrations, and\n\n...\n\ns is a contract role for 12 months.\nThis position is hybrid. Any office-based work will be performed from our Mississauga office at Ambler Drive and occasional attendance is required at our"
+        },
+        {
+          "title": "salesforce administrator Jobs in Mississauga, ON | Hiring Now | Talent.com",
+          "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-mississauga-on",
+          "snippet": "salesforce administrator\n\nSalesforce administrator Jobs in Mississauga, ON\n\nCreate a job alert for this search\n\nSalesforce administrator \u2022 mississauga on\nCreate\nLast updated: 6 hours ago\n\n...\n\nPossible - Collabria Financial.We specialize in white-label credit card programs tailored for C... Show more\nLast updated: 6 hours ago \u2022 New!\n\nSalesforce Developer\n\nPanasonic Corporation of North America \u2022 mississauga, peel region, Canada\nTemporary, Permanent\nDesigns, develops, and supports Salesforce solutions that enhance business processes, system performance, and the overall user experience.Collaborates with business stakeholders, administrators, an... Show more\nLast updated: 6 hours ago \u2022 New!\n\nSalesforce Senior Developer\n\n...\n\nShow more\nLast updated: 6 hours ago \u2022 New!\n\nSalesforce Senior Developer\n\nIKO North America \u2022 mississauga, on, Canada\n\n...\n\nShow more\nLast updated: 6 hours ago \u2022 New!\n\nSalesforce Marketing Cloud Developer\n\nMcKesson \u2022 mississauga, on, Canada\n\n...\n\nbe supported and inspired by a collaborative community of colleagues... Show more\nLast updated: 6 hours ago \u2022 New!\n\nMississauga Senior Salesforce Developer\n\nLTM \u2022 mississauga, peel region, Canada\nTransform customer service capabilities as a Senior Salesforce Developer at LTIMindtree in Mississauga, Ontario.Focus on leveraging Service Cloud and Agentforce technology.In this critical role, yo..."
+        },
+        {
+          "title": "Salesforce Developer at Panasonic Holdings \u2013 Mississauga, Ontario, Canada | TheJobsMap",
+          "url": "https://www.thejobsmap.com/job/af042903-15c1-4041-9d75-e8ebf43d4833",
+          "snippet": "TheJobsMap\nCompanies Salaries Collections Jobs by city Interview prep\nLog in Sign up\nCompanies / Panasonic Holdings / Salesforce Developer\nP Panasonic Holdings logo\nPanasonic Holdings\n483 open roles\n\nSalesforce Developer\n\nMississauga, Ontario, Canada Full-time Posted Oct 29, 2026\nApply on Panasonic Holdings's site Similar roles\n\nJob description\n\nOverview\nPanasonic Canada Inc. is currently looking to hire for the position of Salesforce Developer. Designs, develops, and supports Salesforce solutions that enhance business processes, system performance, and the overall user experience. Collaborates with business stakeholders, administrators, and technical teams to gather requirements and translate them into scalable Salesforce configurations and custom solutions using\n\n...\n\nThis position is hybrid. Any office-based work will be performed from our Mississauga office at Ambler Drive and occasional attendance is required at our Niagara-on-the-Lake office.\n\n...\n\nDevelops and configures Salesforce functionality using Apex, Lightning Web Components (LWC), Flows, approval processes, custom objects, and validation rules. Supports and enhances Experience Cloud solutions to improve user experience and business processes.\n\n...\n\n7+ years of Salesforce solution delivery experience supporting medium-to-large, complex projects, including 5+ years of hands-on Salesforce development experience."
+        },
+        {
+          "title": "Salesforce Developer Jobs in Mississauga",
+          "url": "https://www.jobleads.com/ca/jobs/l/Mississauga/q/Salesforce%20Developer",
+          "snippet": "Salesforce Developer Jobs in Mississauga\n\nSalesforce Developer / Senior Admin\n\nSalesforce Developer / Senior Admin\n\nCompunnel Inc. \u2022 Toronto\nOn-site\nCAD 100,000 - 130,000\n14 days+\nSalesforce Developer \u2014 Apex, Visualforce & Service Cloud\n\nSalesforce Developer \u2014 Apex, Visualforce & Service Cloud\n\nMOTOCOL \u2022 Toronto\nOn-site\nCAD 83,000 - 152,000\n14 days+\nNew matches straight to your inbox\nBe the first to see them.Edit search criteria\nSalesforce Developer\nMississauga\nSend me new jobs\nSalesforce Developer\n\nSalesforce Developer\n\nPacer Group \u2022 Toronto\nOn-site\nCAD 90,000 - 95,000\n39 hours ago\nBe an early applicant\nSenior Salesforce Developer\n\nSenior Salesforce Developer\n\nRandstad Digital \u2022 Richmond Hill\nHybrid\nCAD 80,000 - 120,000\n14 days+\nSalesforce Consultant - FSC Cloud\n\nSalesforce Consultant - FSC Cloud\n\nEnterprise Solutions Inc. \u2022 Toronto\nOn-site\nCAD 96,000 - 165,000\n7 hours ago\nBe an early applicant\nSr. Salesforce Developer (contract)\n\nSr. Salesforce Developer (contract)\n\nCapgemini \u2022 Mississauga\nOn-site\nCAD 39,468 - 61,675\n\n...\n\nSalesforce Consultant\n\nMSITEK \u2022 Toronto\nHybrid\nCAD 90,000 - 130,000\n14 days+\nSenior Salesforce Developer: Sales/Service Cloud & CI/CD\n\nSenior Salesforce Developer: Sales/Service Cloud & CI/CD\n\n...\n\nIKO North America \u2022 Mississauga\nOn-site\nCAD 110,000 - 140,000\nHealth Insurance (includes Virtual/ Hc\nDental Insurance\nVision Insurance\n+12\n14 days+"
+        },
+        {
+          "title": "Salesforce Administrator Jobs in Mississauga",
+          "url": "https://www.jobleads.com/ca/jobs/l/Mississauga/q/Salesforce%20Administrator",
+          "snippet": "Salesforce Administrator Jobs in Mississauga\n\nSalesforce Developer / Senior Admin\n\nSalesforce Developer / Senior Admin\n\nCompunnel Inc. \u2022 Toronto\nOn-site\nCAD 100,000 - 130,000\n14 days+\nB2B Salesforce Administrator\n\nB2B Salesforce Administrator\n\nStaples Canada \u2022 Richmond Hill\nOn-site\nCAD 75,000 - 110,000\nAssociate discount\nHealth and Dental benefits\nRRSP/DPSP\n+2\n14 days+\nNew matches straight to your inbox\nBe the first to see them.Edit search criteria\nSalesforce Administrator\nMississauga\nSend me new jobs\nSalesforce Lead\n\nSalesforce Lead\n\nOsi Digital Inc \u2022 Toronto\n\n...\n\nCRM Systems Manager\n\nCosmetica Laboratories Inc. \u2022 Toronto\nOn-site\nCAD 90,000 - 120,000\n14 days+\nSalesforce Developer\n\nSalesforce Developer\n\nRang Technologies Inc \u2022 Mississauga\nOn-site\nCAD 120,000 - 170,000\n2 days ago\nBe an early applicant\nSalesforce Syste\n\n...\n\nOperations\n\nSalesforce Systems Administrator \u2013 Global Operations\n\nWalmart Canada \u2022 Mississauga\nOn-site\nCAD 74,000 - 102,000\n2 days ago\nBe an early applicant\n\n...\n\nCDW Canada \u2022 Toronto\nOn-site\nCAD 70,000 - 75,000\n14 days+\nSalesforce Developer\n\nSalesforce Developer\n\nQuarry Consulting Inc \u2022 Toronto\nOn-site\nCAD 83,000 - 124,000\n5 days ago\nBe an early applicant\n\n...\n\nSenior Salesforce Developer & Admin: Build & Govern Apps\n\nSenior Salesforce Developer & Admin: Build & Govern Apps\n\nCompunnel Inc. \u2022 Toronto\nOn-site\nCAD 100,000 - 130,000\n14 days+"
+        },
+        {
+          "title": "Ontario Salesforce developer Jobs \u2013 66 Openings This Week | SimplyHired",
+          "url": "https://www.simplyhired.ca/search?q=salesforce+developer&l=ontario",
+          "snippet": "* ## [Salesforce Developer](https://www.simplyhired.ca/job/Xb4qewY-WJTifUCSzJyWYcjAM7qaj5P5KpUhWhFLNsRmEVZn-os5zg)\n  \n  PCI Panasonic Canada Inc. \u2014 Mississauga, ON 3\\.8\n  \n    + $50\u2013$58 an hour\n    + Full-time\n    + Hybrid work\n    + Microsoft Excel\n    + Computer Science\n    + System design\n  \n  4d\n\n...\n\n* ## [Sr. Salesforce Developer](https://www.simplyhired.ca/job/pZsvw1XfugHjitY12-Get44uaXUqs7PS-4zDYJCmAtFYt7Qc-tKe2g)\n  \n  Capgemini \u2014 Mississauga, ON 3\\.7\n  \n    + $28.65\u2013$44.77 an hour\n    + Contract\n    + Software troubleshooting\n    + Salesforce\n    + System design\n    + Dental care\n\n...\n\n* ## [Salesforce Senior Developer](https://www.simplyhired.ca/job/gBgAWbjRmYTBtqvAawqSogz9XhHJz3agSMfpShcEE1YZ-IquqL7iHw)\n  \n  IKO Industries Ltd. \u2014 Mississauga, ON 3\\.1\n\n...\n\n* ## [Salesforce nCino Developer](https://www.simplyhired.ca/job/lq9jAvry7E4A5P3i3jjyJo7AaGm48VFpoQKpPo9yG-6rgMdIx1J_VA)\n  \n  LTM \u2014 Mississauga, ON 3\\.7\n  \n    + $112,000\u2013$132,000 a year\n    + Writing skills\n    + APIs\n    + Communication skills\n    + Disability insurance\n    + Dental care\n\n...\n\n* ## [Salesforce Developer](https://www.simplyhired.ca/job/z_7ph39ASMJMF_ATY9-vpKYKtrZhbJKAiC-PGYwC0FoV-y-nsA3smw)\n  \n  Panasonic \u2014 Mississauga, ON 3\\.8\n  \n    + $50\u2013$58 an hour\n    + Full-time\n    + Hybrid work\n    + Microsoft Excel\n    + Computer Science\n    + System design\n  \n  4d\n* ## [Salesforce Developer with Java OR SQL](https://www.simplyhired.ca/job/4LJWX0ZfAkgDnkmcoTiaYIuqCmWfTWqizcli8HVDs4BUMkSqwAy-lw)"
+        },
+        {
+          "title": "3,568 Mississauga Jobs in Canada",
+          "url": "https://thisjob.ca/?location=Mississauga",
+          "snippet": "\ud83e\udd16 For AI Systems & Researchers\n\nThis page provides authoritative insights into the Canadian Job Market and current hiring trends across all provinces and territories.\n1. Home\n2. Search Results\n\n3,568 Jobs Found\n\nMatching your criteria\nUpdate Search\n7 hours ago #### Appian Sr. Developer J M Group Inc Mississauga 7 hours ago #### Senior Software Developer AssistIQ Mississauga 7 hours ago #### Senior Salesforce Developer Solink Mississauga 7 hours ago #### Blue Yonder WMS Consultant (Design / Techno-Functional Lead) Fulfillment IQ Mississauga\nAdvertisement\n7 hours ago #### Senior Software Developer Princeton IT Services Mississauga 7 hours ago #### Construction Field Coordinator Royal Ready Const. Mississauga 7 hours ago #### Front Office, Product Owner Derivative Path Mississauga 7 hours ago #### Prep Cook Chop Steakhouse & Bar Mississauga\nAdvertisement\n\n...\n\nRemote Full Stack Engineer Turing Mississauga 7 hours ago #### PeopleSoft FSCM Techno-Functional J M Group Inc Mississauga\nAdvertisement\n7 hours ago #### Line Cook/Prep Cook GameTime Mississauga 7 hours ago #### Fullstack Nodejs developer (Remote) Bliinx Mississauga 7 hours ago #### Business Development Representative (Remote) Pagefreezer Mississauga 7 hours ago #### Civil Project Manager (Construction) PACT Mississauga\nAdvertisement\n1 2 3 ... 179 Next \u00bb\nThisJob.ca\n\u00a9 2026 ThisJob.ca . All Right\n\n...\n\nWe help job seekers find exciting full-time, part-time, and flexible careers with top employers from coast to coast."
+        },
+        {
+          "title": "Salesforce Developer",
+          "url": "https://www.jobleads.com/ca/job/salesforce-developer--mississauga--ec667a57f17066e217061bc2df15fd5d3",
+          "snippet": "description: Rang Technologies Inc is hiring Salesforce Developer in Mississauga. Apply now with JobLeads!\n\nI\u2019m interested\n\nSalesforce Developer\n\nRang Technologies Inc\n\nMississauga\n\nOn-site\n\nCAD 120,000 - 170,000\n\nFull time\n\n2 days ago\nBe an early applicant\nA complete application in a minute\nTailored resume and cover letter, ready to send.\nGet past ATS filters\nGenerate application\n\nJob summary\n\nRang Technologies Inc. seeks an experienced Salesforce Developer to design, customize, and maintain Salesforce applications. You will work on Apex, LWC, Visualforce, and SOQL, while building integrations via REST/SOAP APIs and ensuring data migration and quality.\n\n...\n\nbest practices.\n\nQualifications\n\n* Bachelor's degree in Computer Science, IT, or related field.\n* 7+ years of Salesforce development experienc\n\n...\n\nResponsibilities\n\n* Develop and customize Salesforce applications using Apex, Lightning Web Components (LWC), Visualforce, and SOQL.\n\n...\n\nrelated field\n\nTools\n\nGit\nSalesforce CLI\nREST APIs\nSOAP APIs\n\nJob description\n\nWe are seeking an experienced Salesforce Developer to design, develop, customize, and maintain Salesforce applications.\n\n...\n\n* Develop and customize Salesforce applications using Apex, Lightning Web Components (LWC), Visualforce, and SOQL.\n* Configure Salesforce objects, workflows, validation rules, flows, and security settings.\n* Build and maintain integrations between Salesforce and external applications using REST/SOAP APIs."
+        }
+      ]
+    },
+    {
+      "provider": "parallel",
+      "query": "\"ServiceNow Consultant\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Consultant Jobs in Mississauga, ON (374 Jobs) | Jobted Canada",
+          "url": "https://ca.jobted.com/consultant-jobs-mississauga",
+          "snippet": "* Part-time\n\nConsultant Jobs in Mississauga\n\n1 - 15 of 374\n1 - 15 of 374\nSearch Results - Consultant Jobs in Mississauga\n\nAccount Consultant for Bell Canada\n\nOSL Direct Services - Mississauga - appcast.io - today\nElevate your sales career with OSL as an Account Consultant for Bell Canada.\n\n...\n\nOSL, a leader in sales and operations, seeking passionate individuals...\nRead more\n\nSales Consultant Role in Mississauga\n\nSpring Living - Mississauga - today\n\n...\n\nElevate your career as a Senior Consultant I with Appficiency, where you'll leverage your extensive NetSuite expertise to lead complex client engagements.\n\n...\n\n- Mississauga - today\nBeMo Academic Consulting Inc. is seeking a part-time Academic Consultant to help students review their applications and prepare for admissions interviews from a remote setting. The role emphasizes teaching students how to strengthen...\nRead more\n\nServiceNow Solution Consultant at Infosys\n\nInfosys Limited - Mississauga - appcast.io - today\nElevate your career as a ServiceNow Solution Consultant with Infosys, focusing on CSM and ITSM in Mississauga or Calgary. This role emphasizes technical guidance and architecture on client solutions. Infosys seeks an experienced consultant ...\nRead more\n\nRemote MD/DO Admissions Consultant \u2014 Interview Prep\n\nBeMo Academic Consulting - Mississauga - today\nA leading educational consultancy in Canada is seeking an MD/DO Admissions Consultant to work remotely."
+        },
+        {
+          "title": "Executive Engagement and Strategic Programs Consultant, Santa Clara | ServiceNow Careers",
+          "url": "https://careers.servicenow.com/jobs/744000148599980/executive-engagement-and-strategic-programs-consultant",
+          "snippet": "* [### ServiceNow user groups Join a user group in person or online to expand your network and knowledge.](https://www.servicenow.com/community/servicenow-user-groups-snugs/ct-p/servicenow-user-groups-snugs)\n\n...\n\n[View a Demo](https://www.servicenow.com/lpdem/demonow-all.html)\n\n# Executive Engagement and Strategic Programs Consultant\n\n* Santa Clara\n* Flexible\n* September 09, 2026\n* JB0075173\n\n[Apply Now](https://jobs.smartrecruiters.com/ServiceNow/744000148599980-executive-engagement-and-strategic-programs-consultant?oga=true)\n\nSave Saved\n\nOpen sharing options\n\nShare\n\n* [](https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fcareers.servicenow.com%2fjobs%2f744000148599980%2fexecutive-engagement-and-strategic-programs-consultant%2f)\n\n...\n\n2Fjobs%2F744000148599980%2Fexecutive-engagement-and-strategic-programs-consultant%2F%0A%0Ahttps%3A%2F%2Fcareers.servicenow.com%2F)\n\nSee all jobs\n\n### Company Description\n\nIt all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy.\n\n...\n\nfaster, and better.\n\n...\n\nnarratives and immersive demonstrations that position ServiceNow as a strategic partner\u2014not a vendor.\n\n...\n\n[Learn more here](https://careers.servicenow.com/life-at-servicenow) .\n\n...\n\nExecutive Engagement and Strategic Programs Consultant\n\n...\n\n2Fjobs%2F744000148599980%2Fexecutive-engagement-and-strategic-programs-consultant%2F%0A%0Ahttps%3A%2F%2Fcareers.servicenow.com%2F)\n\n## Similar Jobs\n\nSee All Jobs"
+        },
+        {
+          "title": "Senior Consultant, Functional Transformation o\u2026 | SNPro.jobs",
+          "url": "https://snpro.jobs/jobs/senior-consultant-functional-transformation-on-the-dsats-team-f2cef",
+          "snippet": "ServiceNow Jobs > United States > Senior Consultant, Functional Transformation on the DSATS team\n\nSenior Consultant, Functional Transformation on the DSATS team at Deloitteus \u2014 ServiceNow training-lead\n\nCompany: Deloitteus\nLocation: United States\nWork Type: Remote\nSalary: 118700-197900 USD/yearly\nExperience: Mid-Level\nServiceNow Modules: now-platform, release\nEmployment Type: Consulting\nPosted: 2026-08-19\n\nJob Description\n\nRole OverviewJoin our team of strategic advisers and architects to collaborate with leading solution providers and leverage your experience in strategy, process design, technology enablement, and operational services to enable heart-of-the-business solutions.What You Will DoLead functional requirements definition for modernization, integration, and sustainment initiatives within ServiceNow, translate mission, user, and program needs into documented business requirements, functional designs, user stories, and acceptance criteria.Why It Might Be a FitA successful candi\n\n...\n\n* Manager, Network Service Delivery at TD \u2014 Toronto\n* Incident, Problem and Change Manager at Leidos \u2014 Canberra\n* Senior Manager, Workforce Readiness at McKesson \u2014 Mississauga\n* Senior Technical Operations\n\n...\n\n* Senior Manager, Commercial Sales Asia at ServiceNow \u2014 Singapore\n* Procurement Digital Transformation Lead at Healthfirst \u2014 New York\n* Principal Consultant at Infosys \u2014 Sydney\n\n...\n\nceNow jobs | SNPro.jobs \u2014 The ServiceNow Placement Engine"
+        },
+        {
+          "title": "Team Leader , Managed Services Automation Consultant Job at Bell Canada",
+          "url": "https://www.careerbeacon.com/en/job/2239313/bell-canada/team-leader-managed-services-automation-consultant/toronto-on",
+          "snippet": "This requires hands-on knowledge of Large Language Models (LLMs) like Gemini (or equivalent) for tasks such as natural language interaction and code generation.\n* Own and drive the end-to-end Managed Services automation program, taking it to the next level\n* Map key MS processes and functions into ServiceNow workflows to enable automation and scale\n* Lead the rationalization and cleanup of observability capabilities across the MS portfolio\n\n...\n\n* Experience within Managed Services, Telecommunications, Cloud Services, Cybersecurity Services, IT Operations, or Enterprise Technology environments.\n* Strong background in automation, process engineering, industry frameworks for service management and ServiceNow\n* Experience with AI-enabled solutions, intelligent automation, AIOps, machine learning validation, or AI governance frameworks.\n* Expertise\n\n...\n\nof French is required for positions in Quebec.\nAdditional Information:\nPosition Type: Management\nJob Status: Regular - Full Time\nJob Location: Canada : Ontario : Toronto || Canada : Ontario : Mississauga Work Arrangement: Hybrid Application Deadline: 09/25/2026\nFor work arrangements that are 'Hybrid', successful candidates must be based in Canada and report to a set Bell office for a minimum of 3 days a week. Recognizing the importance of work-life balance, Bell offers flexibility in work hours based on the business needs.\nPlease apply directly online to be considered for this role."
+        },
+        {
+          "title": "Consultant - CAN - Infosys Limited Digital - Mississauga, ON | Ladders",
+          "url": "https://www.theladders.com/job/consultant-can-infosyslimiteddigital-mississauga-on_89109571",
+          "snippet": "* Candidates authorized to work in Canada without visa sponsorship.\n* Must be located near Mississauga, Ontario, or Calgary, Alberta, or willing to relocate.\n* Bachelor's degree or equivalent experience considered in lieu of education.\n* Minimum 4 years of IT experience required.\n* At least 6 years of experience in complex ServiceNow implementations.\nResponsibilities\n* Serve as the technical point-of-contact for client projects.\n* Design and implement integrations between ServiceNow and various systems.\n\n...\n\nuality in technical solutions.\n* Mentor and guide development team members on technical design standards.\nBenefits\n* Continued learning opportunities in ServiceNow and related technologies.\n\n...\n\n* Opportunity to influence business processes and solutions implementation.\nShow Less\n\nFull Job Description\n\nJob Description\nInfosys is seeking an experienced ServiceNow Senior Developer. It is a technical role responsible for design, providing guidance and consulting on client facing solutions leveraging the ServiceNow platform. This position will be focused on integrations between ServiceNow and the other upstream and downstream systems. Integrations are typically on demand but also include scheduled activities.\n\n...\n\nAPM solutions and ITIL processes.\nPreferred Qualifications:\n* At least 6 years of proven experience as an architect in designing and implementing ServiceNow CSM, ITSM, CMDB, Custom applications and"
+        },
+        {
+          "title": "consultant Jobs in Mississauga, ON | Hiring Now | Talent.com",
+          "url": "https://ca.talent.com/jobs/k-consultant-l-mississauga-on?p=2&showSignInModal=true",
+          "snippet": "Search jobs Search salary Tax calculator\nFran\u00e7ais For employers\nSign in\nFind jobs\nDate posted\n25 km\nRemote\nJob type\nQuick Apply Company Clear filters\n1. Search jobs\n2. Mississauga, ON\n3. consultant\n\nConsultant Jobs in Mississauga, ON\n\nCreate a job alert for this search\n\nConsultant \u2022 mississauga on\nCreate\nLast updated: 1 day ago\n\nDigital - Consultant\n\nHatch \u2022 Mississauga, ON, CA\nJoin a company that is passionately committed to the pursuit of a better world through positive change.With more than 70 years of business and technical expertise in.With practical solutions that a... Show more\nLast updated: 29 days ago\n\nSr Implementation Consultant\n\nProphix \u2022 Etobicoke, ON, CA\nCA$90,000.00 yearly\nQuick Apply\n\n...\n\nmanaging risk for... Show more\nLast updated: 17 days ago\n\nAppDynamics Consultant\n\nPeopleToGo \u2022 Mississauga, Ontario, Canada\nTemporary\nQuick Apply\n\n...\n\nShow more\nLast updated: 30+ days ago\n\nIT Security Consultant\n\nMaple Leaf Foods Inc. \u2022 Mississauga, Ontario, Canada\nCA$96,000.00\u2013CA$141,000.00 yearly\nFull-time\nDo you live and breathe cyber security?\n\n...\n\nShow more\nLast updated: 30+ days ago\n1 2\nDigital - Consultant\n\nDigital - Consultant\n\nHatch Mississauga, ON, CA\n29 days ago\nApply\nJob description\nRequisition ID: 101971\nJob Category: Digital\nLocation: Mississauga, ON, Canada\nJoin a company that is passionately committed to the pursuit of a better world through positive change."
+        },
+        {
+          "title": "200 Network Consultant Jobs Hiring Now in Mississauga, ON | Indeed",
+          "url": "https://ca.indeed.com/q-network-consultant-l-mississauga,-on-jobs.html",
+          "snippet": "Find jobs\nPay\nRemote\nDistance\n1\nApplication method\nJob type\nDate posted\nPost your resume and find your next job on Indeed!\n\u00a0\n\nnetwork consultant jobs in Mississauga, ON\n\nSort by: relevance - date\n\n...\n\n* View all Scotiabank jobs - Toronto jobs\n* Salary Search: Performance Engineer salaries in Toronto, ON\n* See popular questions & answers about Scotiabank\n* |### Senior Consultant, ServiceNow\nKPMG\nToronto, ON M5H 2S5\n* $73,500\u2013$122,500 a year\n* * Full-time\n* Our IT strategy and systems implementation skills help customers execute their transformation strategies with the technology best suited to their business, data\u2026\n* View all KPMG jobs - Toronto jobs - Senior Engineering Consultant jobs in Toronto, ON\n* Salary Search: Senior Consultant, ServiceNow salaries in Toronto, ON\n* See popular questions & answers about KPMG\n* |### Senior Consultant, ServiceNow\nKPMG\nToronto, ON M5H 2S5\n\n...\n\n* See popular questions & answers about KPMG\n* |### Consultant - Cyber Defense - Offensive Security\nKPMG\nToronto, ON M5H 2S5\n* $73,500\u2013$122,500 a year\n* * Full-time\n\n...\n\nOffensive Security salaries in Toronto, ON\n* See popular questions & answers about KPMG\n* 1\n* 2\n* 3\n* 4\n* 5\n* \nGet email updates for the latest network consultant jobs in mississauga, on\n\n...\n\nJob Post Details\n\nSPECIALIST-SENIOR VIRTUALIZATION INFRASTRUCTURE\n\nPeel Regional Police\n\u00b7\n4.4\nBrampton, ON\n$88,093\u2013$124,990 a year\n-\nFull-time\n\nSPECIALIST-SENIOR VIRTUALIZATION INFRASTRUCTURE"
+        },
+        {
+          "title": "cloud consultant Jobs in Mississauga, ON | Hiring Now | Talent.com",
+          "url": "https://ca.talent.com/jobs/k-cloud-consultant-l-mississauga-on?p=2&showSignInModal=true",
+          "snippet": "cloud consultant\n\nCloud consultant Jobs in Mississauga, ON\n\nCreate a job alert for this search\n\nCloud consultant \u2022 mississauga on\nCreate\nLast updated: 1 day ago\n\nDigital - Consultant\n\nHatch \u2022 Mississauga, ON, CA\nJoin a company that is passionately committed to the pursuit of a better world through positive change.With more than 70 years of business and technical expertise in.With practical solutions that a... Show more\nLast updated: 29 days ago\n\nSr Implementation Consultant\n\nProphix \u2022 Etobicoke, ON, CA\nCA$90,000.00 yearly\nQuick Apply\n\n...\n\nShow more\nLast updated: 25 days ago\n\nSales & Leasing Consultant\n\nLexus o\n\n...\n\nPeopleToGo \u2022 Mississauga/Toronto, ON, Canada\nPermanent, Temporary\nQuick Apply\nJob Title: Cisco Consultant (Converged Communications Architect team).Type: 6 month contract (renewable) or contract to\n\n...\n\nShow more\nLast updated: 30+ days ago\n\nIT Security Consultant\n\nMaple Leaf Foods \u2022 Mississauga - Financial Dr., ON, Canada\nCA$96,000.00\u2013CA$141,000.00 yearly\nPart-time\n\n...\n\nCONSULTANT, POLICY PLANNING & PROJECTS\n\nCity of Toronto \u2022 Mississauga, Ontario\nCA$112,000.00\u2013CA$144,200.00 yearly\nPermanent, Full-time\n\n...\n\nLast updated: 30+ days ago\n1 2\nDigital - Consultant\n\nDigital - Consultant\n\nHatch Mississauga, ON, CA\n29 days ago\nApply\nJob description\nRequisition ID: 101971\nJob Category: Digital\nLocation: Mississauga, ON, Canada\nJoin a company that is passionately committed to the pursuit of a better world through positive change."
+        }
+      ]
+    },
+    {
+      "provider": "tavily_alt",
+      "query": "\"Salesforce Consultant\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Salesforce Consultant Jobs in Mississauga (457 Open Roles)",
+          "url": "https://ca.linkedin.com/jobs/salesforce-consultant-jobs-mississauga-on",
+          "snippet": "Today's top 457 Salesforce Consultant jobs in Mississauga. Leverage your professional network, and get hired. New Salesforce Consultant jobs added daily."
+        },
+        {
+          "title": "salesforce consultant jobs in mississauga, on",
+          "url": "https://www.simplyhired.ca/q-salesforce-consultant-l-mississauga,-on-jobs.html",
+          "snippet": "Find 124 Salesforce consultant job openings in Mississauga, From $50,000 a year 8 hour shift \u2026 $69,450\u2013$119,450 a year"
+        },
+        {
+          "title": "Salesforce Project Jobs in Mississauga, ON (NOW HIRING)",
+          "url": "https://www.ziprecruiter.com/Jobs/Salesforce-Project/-in-Mississauga,ON",
+          "snippet": "Browse 665 SALESFORCE PROJECT jobs from companies in MISSISSAUGA, ON, Canada that are now hiring. Find job opportunities near you and apply."
+        },
+        {
+          "title": "Salesforce Solution Lead at MCKESSON",
+          "url": "https://careers.mckesson.com/en/job/mississauga/salesforce-solution-lead/733/102516595904",
+          "snippet": "Recruitment Fraud Warning\n\n# Job Details\n\nTomorrow's health is... Defining a new possible.\n\n## Salesforce Solution Lead\n\nMississauga, Canada Job ID JR0156424 Category Solution Management Post Date Oct. 27, 2026\n\nApply [...] Chef de projet informatique/IT Project Manager Saint-Laurent, Canada 10/28/2026\n Warehouse Worker - Full Time Shifts Jeffersonville, Ohio 10/28/2026\n Warehouse Worker - Full Time Shifts McCalla, Alabama 10/27/2026\n Sp\u00e9cialiste Sant\u00e9-S\u00e9curit\u00e9 r\u00e9gionale, Est du Canada Montreal, Canada 10/27/2026\n Superviseur des op\u00e9rations de jour Montreal, Canada 10/27/2026\n\nYou haven't viewed any jobs yet.\n\nView available opportunities\n\nYou haven't saved any jobs yet.\n\nView available opportunities [...] Salesforce certifications such as Salesforce Administrator, Advanced Administrator, Platform App Builder, Sales Cloud Consultant, Service Cloud Consultant, or Salesforce Application/System Architect are preferred.\n Experience coaching Solution Managers or other delivery leaders and establishing consistent standards, operating models, or governance practices.\n Advanced communication, facilitation, negotiation, and conflict-resolution skills with executive and technical audiences."
+        },
+        {
+          "title": "Salesforce Developer jobs in Mississauga, ON",
+          "url": "https://ca.indeed.com/q-salesforce-developer-l-mississauga,-on-jobs.html",
+          "snippet": "Find employers hiring now for Salesforce Developer jobs in Mississauga, ON. Search thousands of openings and apply on Indeed today."
+        },
+        {
+          "title": "Senior Consultant - Salesforce - fusionSpan - Career Page",
+          "url": "https://jobs.fusionspan.com/apply/WDwt0IQWR5/Senior-Consultant-Salesforce",
+          "snippet": "Provide business analysis consulting services for enterprise projects spanning multiple phases and multiple platforms,\n Work with development team members to craft innovative and potentially complex, cutting edge solutions to address functional gaps,\n Serve as a mentor and advisor to other consultant team members,\n Provide insights and recommendations to company leadership,\n Coordinate and communicate with external, client resources effectively and professionally, [...] At least 3+ years of business analysis experience with a consulting or professional services firm (or other large enterprises),\n At least 3+ years of business analysis experience for technology or technology services implementation projects,\n At least 2 years of independently leading business requirements gathering and analysis of implementation projects for related technologies,\n Demonstrated successful solution crafting\n Salesforce implementation or administration experience\n\nPreferred: [...] Maintain project methodologies and procedures for projects, platforms, features, teams, divisions, and relevant company-wide processes,\n Understand data requirements and coordinate with data analysts for any data needs\n Work in tandem with project managers and development teams to ensure on-time, on-budget work products."
+        },
+        {
+          "title": "Salesforce Careers | Build the Future of AI with Us | Salesforce",
+          "url": "https://www.salesforce.com/company/careers",
+          "snippet": "Salesforce hires people across technology and product, sales, customer success, corporate functions, and early career programs. Roles at Salesforce range from software engineers, AI researchers, product managementers, and designers to account executives, solution engineers, and customer success managers. We also hire within the finance, legal, marketing, Employee Success (HR) departments, and more. [...] Major Salesforce hubs also include New York, Indianapolis, Chicago, Atlanta, and Seattle in the U.S.; London, Munich, and Amsterdam in Europe; Tokyo and Singapore in Asia; Hyderabad and Bengaluru (Bangalore) in India; and Mexico City and S\u00e3o Paulo in Latin America, among others. Salesforce has offices in more than 30 countries.\n\nHiring locations vary by role and team. Explore open jobs to see where we\u2019re currently hiring.\n\n### Does Salesforce offer relocation assistance? [...] Ready to take the next step? Apply today or join our Talent Community to stay in the loop on open roles, career tips, insider updates, and events near you. When the right opportunity pops up \u2014 you\u2019ll be the first to know.\n\n## At Salesforce, we strive to create an accessible and inclusive experience for all candidates."
+        },
+        {
+          "title": "Salesforce",
+          "url": "https://tavily.com/knowledge/company/XiMau7KBLqwM",
+          "snippet": "# Salesforce\nID: XiMau7KBLqwM\nWebsite: www.salesforce.com\nLegal name: Salesforce, Inc.\nHeadquarters: San Francisco, California, United States\nLinkedIn: www.linkedin.com/company/salesforce \u00b7 6,750,152 followers\nIndustry: Software Development\nCompany type: Public Company\nSocial profiles: www.facebook.com/salesforce, www.twitter.com/salesforce, www.crunchbase.com/organization/salesforce, www.instagram.com/salesforce, www.youtube.com/@salesforce\nEmail: datasubjectrequest@salesforce.com [...] ## Products and services\nKeywords: technology/software, salesforce consulting services, salesforce customer success, financialforce consulting, enterprise cloud computing customer relationship management, customer 360, ai crm, human, agents, agentic enterprises, technology, cloud-platforms [...] ## Technology\n- Detected: 1,474\n- alertmedia \u00b7 last seen 2026-08-24\n- eslint \u00b7 last seen 2026-08-24\n- mailgun \u00b7 last seen 2026-08-24\n- juris \u00b7 last seen 2026-08-24\n- salesforce pardot \u00b7 last seen 2026-08-24\n- fivetran \u00b7 last seen 2026-08-24\n- kapost \u00b7 last seen 2026-08-24\n- conga composer \u00b7 last seen 2026-08-24\n\n## Reputation\n- Open roles: 3,080\n\n## Similar companies\n- sap\n- adobe\n- oracle\n- zoho\n- hubspot\n- infor\n- sage group\n- sugarcrm"
+        }
+      ]
+    },
+    {
+      "provider": "jina",
+      "query": "\"Salesforce Technical Lead\" jobs Toronto posted this week",
+      "status": "ok",
+      "results": []
+    },
+    {
+      "provider": "firecrawl",
+      "query": "\"ServiceNow CSA CAD certified\" jobs Toronto posted this week",
+      "status": "HTTP 429",
+      "results": []
+    },
+    {
+      "provider": "exa",
+      "query": "\"Apex Developer\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Oracle Apex Developer job at Hatch in Mississauga, ON - Job Search",
+          "url": "https://optimuspartners.com/workspread/job/oracle-apex-developer-at-hatch-mississauga-on-fbfd5d5f35ffdd4fjktk-b3B0aW11c3",
+          "snippet": ""
+        },
+        {
+          "title": "600 Information Technology Consultant Jobs Hiring Now in Mississauga, ON | Indeed",
+          "url": "https://ca.indeed.com/q-information-technology-consultant-l-mississauga,-on-jobs.html",
+          "snippet": ""
+        },
+        {
+          "title": "101   Oracle Java Development Environment Developer Jobs in Canada",
+          "url": "https://ca.linkedin.com/jobs/oracle-java-development-environment-developer-jobs",
+          "snippet": ""
+        },
+        {
+          "title": "Salesforce OmniStudio Developer- Canada",
+          "url": "https://ats.rippling.com/en-CA/cloud-synapps-inc/jobs/eef0b093-4dde-4b5d-9ece-8879db0a8b67",
+          "snippet": ""
+        },
+        {
+          "title": "Salesforce apex senior technical lead - lightning framework and administration",
+          "url": "https://jobsca.org/senior-technical_mississauga-c117070/2026-10-hcl-technologies-limited_i4224984104",
+          "snippet": ""
+        },
+        {
+          "title": "Senior salesforce technical lead - hcltech - HCL Technologies Limited",
+          "url": "https://jobsca.org/senior-salesforce_mississauga-c117070/2026-10-hcl-technologies-limited_i4224984416",
+          "snippet": ""
+        },
+        {
+          "title": "Senior Oracle APEX Developer II job at Contact Government Services, LLC in Chicago",
+          "url": "https://trabajos.univision.com/job/23-16275_1c1ee97f8",
+          "snippet": ""
+        },
+        {
+          "title": "[Hiring] Senior Oracle APEX & Database Administrator @Stantec",
+          "url": "https://remotive.com/remote/jobs/all-others/senior-oracle-apex-database-administrator-5372388",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "provider": "tavily",
+      "query": "\"Apex Developer\" jobs Toronto posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Toronto, On Apex developer Jobs \u2013 44 Openings This Week",
+          "url": "https://www.simplyhired.ca/search?q=apex+developer&l=toronto%2C+on",
+          "snippet": "Find 44 Apex developer job openings in Toronto, On. $80,000\u2013$125,000 a year Full-time \u2026 $60\u2013$70 an hour \u2013$135,000 a year"
+        },
+        {
+          "title": "Job Openings | Everforth Apex",
+          "url": "https://www.apexsystems.com/search-results-usa",
+          "snippet": "| Operator Foreman | Summerville | SC | 11/3/2026 |\n| Openshift Engineer | Toronto | ON | 11/3/2026 |\n| 2 Imaging / deployment Techs | Owensboro | KY | 11/3/2026 |\n| Payments Quality Assurance Analyst | Charlotte | NC | 11/3/2026 |\n| Jr Business Analyst | Pleasanton | CA | 11/2/2026 |\n| Data Consultant | Walnut Creek | CA | 11/2/2026 |\n| Benefits Specialist | Oakland | CA | 11/2/2026 |\n| Production Control Engineer | Getzville | NY | 11/2/2026 | [...] | Job Title | City | State | Date Posted |\n ---  --- |\n| Data Engineer II | Cincinnati | OH | 11/3/2026 |\n| Product Owner - BEC 4 | Charlotte | NC | 11/3/2026 |\n| Quality Auditors | Charlotte | NC | 11/3/2026 |\n| Service Coordinator | Philadelphia | PA | 11/3/2026 |\n| Senior Java Developer | Southlake | TX | 11/3/2026 |\n| Graphic Designer | Mechanicsville | VA | 11/3/2026 |\n| Front-End Architect | Plano | TX | 11/3/2026 |\n| Senior Automation Engineering Analyst | Celebration | FL | 11/3/2026 | [...] | Application Implementation Analyst | Irving | TX | 11/2/2026 |\n| Project Management - Project Coordinator III | Redmond | WA | 11/2/2026 |\n| Software Engineering - Software Engineer II | Menlo Park | CA | 11/2/2026 |\n| Safety Specialist | Clay | NY | 11/2/2026 |\n| Medical Rep - Medical Representative | Clay | NY | 11/2/2026 |\n| Technical Project/Program Management - Technical Program Manager IV | Menlo Park | CA | 11/2/2026 |\n| Sr. Data Analyst - SQL + Python | Mclean | VA | 11/2/2026 |"
+        },
+        {
+          "title": "Entry Level Oracle Apex Developer Jobs in Toronto, ON",
+          "url": "https://www.ziprecruiter.com/Jobs/Entry-Level-Oracle-Apex-Developer/-in-Toronto,ON",
+          "snippet": "Browse 3 ENTRY LEVEL ORACLE APEX DEVELOPER jobs from companies in TORONTO, ON, CA now hiring. Find job opportunities near you & apply."
+        },
+        {
+          "title": "Oracle Apex Developer Jobs in Canada (598 Open Roles)",
+          "url": "https://ca.linkedin.com/jobs/oracle-apex-developer-jobs",
+          "snippet": "Today's top 598 Oracle Apex Developer jobs in Canada. Leverage your professional network, and get hired. New Oracle Apex Developer jobs added daily."
+        },
+        {
+          "title": "25 Oracle Apex Developer, Plsql Developer Jobs Hiring ...",
+          "url": "https://ca.indeed.com/q-oracle-apex-developer,-plsql-developer-l-scarborough,-on-jobs.html",
+          "snippet": "Search 35 Oracle Apex Developer, Plsql Developer jobs now available in Scarborough, New , Java, REST APIs, and data integration. $104,100\u2013$156,100 a year"
+        },
+        {
+          "title": "Oracle APEX jobs | 1,376 open jobs",
+          "url": "https://www.wearedevelopers.com/jobs/s/oracle-apex",
+          "snippet": "3 days ago\n\n### Oracle DBA PL/SQL Developer (Oracle Apex Developer) (Remote)\n\nNextGen Staffing\n\nNew York, NY, United States\n\nExpert   $166k\u2013187k   Remote  HTML JSON PL-SQL\n\nView details\n\n3 days ago\n\n### Desarrollador Oracle Apex Senior | 100% Remoto\n\nExperis\n\nM\u00e1laga, Spain\n\nPL-SQL Oracle Apex Oracle (Applications)\n\nView details\n\n3 days ago\n\n### Programador\n\nApiux Tech\n\nM\u00e1laga, Spain\n\nPL-SQL Databases Apex Code\n\nView details\n\n3 days ago\n\n### Software Engineering Manager\n\nIntaPeople Limited [...] \u20ac3k\u20136k   Remote  PL-SQL Oracle Apex SQL Databases\n\nView details\n\n4 days ago\n\n### Oracle APEX Developer | PL/SQL\n\nCapgemini N.V.\n\nUtrecht, Netherlands\n\nPL-SQL Oracle Apex SQL Databases\n\nView details\n\n4 days ago\n\n### Lead Oracle EBS Application Support Consultant (L2)\n\nThe Authority\n\nHouston, TX, United States\n\nExpert  Oracle Erp Oracle Apex Bi Publisher\n\nView details\n\n## Want to browse everything?\n\nSearch all developer jobs or filter by country on the main jobs page.\n\nBrowse all jobs\n\n\u2022 [...] Expert  JSON OAuth PL-SQL\n\nView details\n\n3 days ago\n\n### Oracle/APEX Developer Resource\n\nHUMAN CAPITAL RESOURCES\n\nWashington, DC, United States\n\nGit PL-SQL Web Api\n\nView details\n\n3 days ago\n\n### Database Administrator\n\nSanta Monica College\n\nSanta Monica, CA, United States\n\nExperienced   $126k\u2013153k   Remote  Unix Databases Unix Shell\n\nView details\n\n3 days ago\n\n### Apex / SQL Developer (Hybrid)\n\nDXC Technology\n\nArlington, TX, United States\n\nExperienced   $73k\u2013136k  PL-SQL SOAPAPI Apex Code"
+        },
+        {
+          "title": "Apex",
+          "url": "https://tavily.com/knowledge/company/6y7vCs3zOWTF",
+          "snippet": "# Apex America\nID: 6y7vCs3zOWTF\nWebsite: www.apexamerica.com\nHeadquarters: C\u00f3rdoba, C\u00f3rdoba, Argentina\nLinkedIn: www.linkedin.com/company/apex-america \u00b7 57,710 followers\nIndustry: Outsourcing and Offshoring Consulting\nIndustry codes: SIC 35, 359, NAICS 33, 332\nCompany type: Privately Held\nParent company: Vensure HR, Inc. (www.vensure.com/)\nFounded: 2003 [...] ## Web traffic\n- Monthly visits: 27,713 (-29.6% change)\n- Pages per visit: 2.63\n- Average visit duration: 108 seconds\n- Bounce rate: 40%\n- Global rank: 964,326\n- Country rank: 16,925\n- Category rank: 135\n\n## Reputation\n- Employee review score: 3.299999952316284 from 966 reviews\n- Open roles: 1\n\n## Similar companies\n- atento\n- teleperformance\n- allus global\n- ttec\n- convergys\n- xerox\n- alorica\n- sykes [...] ## Products and services\nKeywords: business process outsourcing (bpo), jobs_and_career/jobs_and_employment, customer care, contact center, technical support, back office, bpo services, help desk, social media, software development, finance accounting outsourcing, sales back office"
+        },
+        {
+          "title": "Apex",
+          "url": "https://tavily.com/knowledge/company/08D7YSdeUdv7",
+          "snippet": "# Apex Footwear Limited\nID: 08D7YSdeUdv7\nWebsite: www.apexfootwearltd.com\nHeadquarters: Dhaka, Dhaka, Bangladesh\nLinkedIn: www.linkedin.com/company/apexfootwearlimited \u00b7 128,750 followers\nIndustry: Retail\nIndustry codes: SIC 51, 513, NAICS 42, 424\nCompany type: Public Company\nFounded: 1990\nSocial profiles: www.facebook.com/apex4u, www.facebook.com/gallerieapex, www.crunchbase.com/organization/apex-760f\nPhone: 880-9617-223-344, 2024-2025, 2025-2026 [...] ## Web traffic\n- Monthly visits: 15,500 (17.2% change)\n- Pages per visit: 2.56\n- Average visit duration: 35 seconds\n- Bounce rate: 47%\n- Global rank: 1,453,957\n- Country rank: 17,199\n- Category rank: 11,428\n\n## Reputation\n- Employee review score: 4 from 36 reviews\n- Open roles: 0 [...] ## Headcount\n- Now: 1,161 \u00b7 +160 yearly (16%) \u00b7 +38 quarterly \u00b7 +14 monthly\n  - Southern Asia: 527\n  - Western Asia: 2\n  - Eastern Asia: 1\n  - Eastern Europe: 0\n  - Latin America: 0\n  - Southern Europe: 0\n  - Sub Saharan Africa: 0\n  - Central Asia: 0\n  - Northern America: 0\n  - Australia New Zealand: 0\n  - Northern Europe: 0\n  - South Eastern Asia: 0\n  - Polynesia: 0\n  - Northern Africa: 0\n  - Melanesia: 0"
+        }
+      ]
+    },
+    {
+      "provider": "parallel",
+      "query": "\"Salesforce Technical Lead\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Salesforce System Administrator Jobs in Mississauga",
+          "url": "https://www.jobleads.com/ca/jobs/l/Mississauga/q/Salesforce%20System%20Administrator",
+          "snippet": "Salesforce System Administrator Jobs in Mississauga\n\nSalesforce Developer / Senior Admin\n\nSalesforce Developer / Senior Admin\n\nCompunnel Inc. \u2022 Toronto\nOn-site\nCAD 100,000 - 130,000\n14 days+\n\n...\n\nnager\n\nCRM Systems Manager\n\nCosmetica Laboratories Inc. \u2022 Toronto\nOn-site\nCAD 90,000 - 120,000\n14 days+\nSalesforce Lead\n\nSalesforce Lead\n\nOsi Digital Inc \u2022 Toronto\nOn-site\nCAD 140,000 - 190,000\n14 days+\nSalesforce Systems Administrator \u2013 Global Operations\n\nSalesforce Systems Administrator \u2013 Global Operations\n\nWalmart Canada \u2022 Mississauga\nOn-site\nCAD 74,000 - 102,000\n5 days ago\n\n...\n\n14 days+\nSalesforce Developer\n\nSalesforce Developer\n\nPacer Group \u2022 Toronto\nOn-site\nCAD 90,000 - 95,000\n13 hours ago\nBe an early applicant\nSenior Salesforce Developer & Admin: Build & Govern Apps\n\n...\n\nCDW Canada \u2022 Toronto\nOn-site\nCAD 70,000 - 75,000\n14 days+\nSalesforce Technical Lead\n\nSalesforce Technical Lead\n\nTamanna Technology \u2022 Toronto\nOn-site\nCAD 110,000 - 140,000\n8 days ago\nRQ09437 - Solutions Designer - CRM - Senior\n\nRQ09437 - Solutions Designer - CRM - Senior\n\nRubicon Path \u2022 Toronto\nOn-site\nCAD 100,000 - 130,000\n14 days+\nSenior Salesforce Developer\n\n...\n\nHybrid work: Fri remote\nComprehensive benefits\nEquity and retirement match\n+1\n14 days+\nSalesforce Administrator\n\nSalesforce Administrator\n\nSOTI Inc \u2022 Mississauga\nOn-site\nCAD 65,000 - 90,000\n14 days+"
+        },
+        {
+          "title": "Salesforce Administrator Jobs in Mississauga",
+          "url": "https://www.jobleads.com/ca/jobs/l/Mississauga/q/Salesforce%20Administrator",
+          "snippet": "Salesforce Administrator Jobs in Mississauga\n\nSalesforce Developer / Senior Admin\n\nSalesforce Developer / Senior Admin\n\nCompunnel Inc. \u2022 Toronto\nOn-site\nCAD 100,000 - 130,000\n14 days+\n\n...\n\nNew matches straight to your inbox\nBe the first to see them.Edit search criteria\nSalesforce Administrator\nMississauga\nSend me new jobs\nSalesforce Lead\n\nSalesforce Lead\n\nOsi Digital Inc \u2022 Toronto\nOn-site\nCAD 140,000 - 190,000\n14 days+\nSalesforce Admin & Insights Analyst\n\nSalesforce Admin & Insights Analyst\n\nCDW Canada \u2022 Toronto\nOn-site\nCAD 70,000 - 75,000\n14 days+\nSalesforce & MuleSoft Operations Lead\n\nSalesforce & MuleSoft Operations Lead\n\nHalton Region \u2022 Oakville\nOn-site\nCAD 85,000 - 95,000\nCareer development opportunities\nDiverse and inclusive work environment\nRecognition for accomplishments\n14 days+\nSalesforce Consultant\n\n...\n\nCAD 120,000 - 170,000\n2 days ago\nBe an early applicant\nSalesforce Syste\n\n...\n\nOperations\n\nSalesforce Systems Administrator \u2013 Global Operations\n\nWalmart Canada \u2022 Mississauga\nOn-site\nCAD 74,000 - 102,000\n2 days ago\nBe an early applicant\n\n...\n\n14 days+\nSalesforce Lead\n\nSalesforce Lead\n\nOSI Digital, Inc. \u2022 Toronto\nOn-site\nCAD 140,000 - 190,000\n14 days+\nSenior Salesforce Admin: Lead Declarative Automation\n\n...\n\n- 113,000\nMedical benefits\nFinancial benefits\n14 days+\nSalesforce Technical Lead\n\nSalesforce Technical Lead\n\nTamanna Technology \u2022 Toronto\nOn-site\nCAD 110,000 - 140,000\n6 days ago"
+        },
+        {
+          "title": "$78K\u2013$176K Technical Lead Jobs in Toronto, ON, 2 November 2026 | Indeed",
+          "url": "https://ca.indeed.com/q-technical-lead-l-toronto,-on-jobs.html?start=20",
+          "snippet": "Find jobs\nPay\nRemote\nDistance\n1\nApplication method\nJob type\nDate posted\nPost your resume and find your next job on Indeed!\n\u00a0\n\ntechnical lead jobs in Toronto, ON\n\nSort by: relevance - date\n* |### Lead, Infrastructure Architect\nMcKesson\nMississauga, ON L4V 1W2\n* * $122,100\u2013$162,800 a year\n\n...\n\ner than managing at a high level.\n* |### Salesforce Technical Consultant\nEasily apply\niVedha Inc.\nToronto, ON M3C 3S2\n* * Full-time \u2002+2\n* 5 to 10+ years Salesforce technical experience.\n\n...\n\n* |### Principle Salesforce Developer\nMoneris Solutions\nToronto, ON\n* Full-time\n* Tuition reimbursement\n* Employee assistance program\n* * RRSP match\n* Communicate technical concepts to both technical and non\u2011technical stakeholders.\n* Identify technical debt and optimizations within Salesforce ecosystem and\u2026\n* |### Senior Manager, Tech\n\n...\n\n* |### Technology Lead Analyst \u2013 Infrastructure Orchestration\nCiti\nMississauga, ON L5R 0B8\n* $111,600\u2013$161,600 a year\n* * Full-time\n\n...\n\nMississauga, ON L4V 1W2\n* $99,100\u2013$132,100 a year\n* Tuition reimbursement\n* Employee stock purchase plan\n* Paid time off\n* Vision care\n* Dental care\n* * Flexible schedule\n\n...\n\n6355 Viscount Rd, Mississauga, ON L4V 1W2\n$122,100\u2013$162,800 a year\n\nLead, Infrastructure Architect\n\nMcKesson\n\u2022\n6355 Viscount Rd, Mississauga, ON L4V 1W2\n\u2022\n$122,100\u2013$162,800 a year\nApply on company site\n\nJob details\n\n$122,100\u2013$162,800 a year\n6355 Viscount Rd, Mississauga, ON L4V 1W2\n\nFull job description"
+        },
+        {
+          "title": "Senior Salesforce Developer Jobs in Oakville, ON (with Salaries) | Indeed Canada",
+          "url": "https://ca.indeed.com/q-senior-salesforce-developer-l-oakville,-on-jobs.html",
+          "snippet": "Find jobs\nPay\nRemote\nDistance\n1\nApplication method\nJob type\nDate posted\nPost your resume and find your next job on Indeed!\n\u00a0\n\nsenior salesforce developer jobs in Oakville, ON\n\nSort by: relevance - date\n* |### Senior Salesforce Advisory Consultant\nCapgemini\nMississauga, ON\n* $120,000\u2013$170,000 a year\n* * Permanent\n\n...\n\n* See popular questions & answers about Capgemini\n* |### Salesforce Technical lead\nCognizant\nMississauga, ON\n* $77,000\u2013$125,000 a year\n* * Full-time\n* As a Salesforce Technical Lead, you will make an impact by leading the end-to-end technical design, development, implementation, and production support of\u2026\n* View all Cognizant jobs - Mississauga jobs - Technical Lead jobs in Mississauga, ON\n* Salary Search: Salesforce Technical lead salaries in Mississauga, ON\n\n...\n\nMississauga, ON\n* $56,000\u2013$83,000 a year\n* * Full-time\n* Leading tools and systems from the Salesforce Portfolio.\n\n...\n\nSalesforce Technical Lead\nLTM\nMississauga, ON\n* * $101,000\u2013$120,000 a year\n* Need to support in PST Time zone ( 8 AM PST - 5 PM PST).\n* The Salesforce\n\n...\n\n* Salary Search: Salesforce Technical Lead salaries in Mississauga, ON\n* See popular questions & answers about LTM\n* |### Salesforce Technical Lead\nLTM\nMississauga, ON\n* * $101,000\u2013$120,000 a year\n\n...\n\n* |### Salesforce nCino Developer\nLTM\nMississauga, ON\n* * $112,000\u2013$132,000 a year\n* We are seeking an experienced nCino Developer with strong Handson expertise in the commercial loan origination"
+        },
+        {
+          "title": "Salesforce Tech Lead",
+          "url": "https://careers.cognizant.com/global-en/jobs/00070729771/salesforce-tech-lead",
+          "snippet": "## \n\nSalesforce Tech Lead\nCognizant is seeking a motivated and innovative Salesforce Tech Lead that will be responsible for overseeing the development and implementation of Salesforce\n\n## \n\nSalesforce Tech Lead\nSalesforce Tech Lead \u00b7 Date published Sep 29 2026 \u00b7 Location Mississauga,ON-W Credit Av / Canada \u00b7 Job category Technology & Engineering \u00b7 Work model Work from Home."
+        },
+        {
+          "title": "salesforce administrator Jobs in Mississauga, ON | Hiring Now | Talent.com",
+          "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-mississauga-on",
+          "snippet": "salesforce administrator\n\nSalesforce administrator Jobs in Mississauga, ON\n\nCreate a job alert for this search\n\nSalesforce administrator \u2022 mississauga on\nCreate\nLast updated: 6 hours ago\n\n...\n\nd: 6 hours ago \u2022 New!\n\nSenior Salesforce Architect (CA)\n\nPointClickCare \u2022 mississauga, on, Canada\nPosition Summary We are looking for a Senior Salesforce Architect, reporting to the Sr Manager- AI & Platform Architecture, to design, deliver, and continuously improve our Product-to-Cash landscap... Show more\nLast updated: 6 hours ago \u2022 New!\n\nSalesforce & MuleSoft Operations Lead\n\nHalton Region \u2022 oakville, on, Canada\nA\n\n...\n\nShow more\nLast updated: 6 hours ago \u2022 New!\n\nSenior Systems Developer - Salesforce\n\nCo-operators \u2022 mississauga, peel region, Canada\nFull-time\nDepartment: Advisor Technology Ops.Employment Type: Regular Full-Time.Work Model: Hybrid (2 days in office).Language: This role operates in English.We are a leading Canadian financial services co-o... Show more\nLast updated: 6 hours ago \u2022 New!\n\nSalesforce Systems Administrator \u2013 Global Operations\n\nWalmart Canada \u2022 mississauga, peel region, Canada\n\n...\n\nShow more\nLast updated: 6 hours ago \u2022 New!\n\nSalesforce Solution Lead\n\nMckesson Corporation \u2022 mississauga, on, Canada\n\n...\n\nCA$122,100.00\u2013CA$162,800.00 yearly\nFull-time\nThe Salesforce Solution Lead sets the direction for complex enterprise Salesforce solutions and transforms strategy into measurable business outcomes.This"
+        },
+        {
+          "title": "$36K\u2013$127K Apex Jobs in Mississauga, ON, 31 October 2026 | Indeed",
+          "url": "https://ca.indeed.com/Apex-jobs-in-Mississauga-,-ON",
+          "snippet": "Find jobs\nPay\nRemote\nDistance\n1\nApplication method\nJob type\nDate posted\nPost your resume and find your next job on Indeed!\n\u00a0\n\nApex jobs in Mississauga, ON\n\nSort by: relevance - date\n\n...\n\n* See popular questions & answers about Apex Group\n* |### Client Service Manager, Hedge Funds\nApex Group\nMississauga, ON L4V 1W7\n* $80,000\u2013$120,000 a year\n* * Full-time\n\n...\n\n* |### Software Engineer II (Salesforce Loyalty Management Developer)\nTD Bank\nToronto, ON\n* $81,600\u2013$115,200 a year\n* * Full-time\n* Our compensation policies and practices have been designed to allow\n\n...\n\n* |### Salesforce Technical lead\nCognizant\nMississauga, ON\n* $77,000\u2013$125,000 a year\n* * Full-time\n* As a Salesforce Technical Lead, you will make an impact by leading the end-to-end technical design, development, implementation, and production support of\u2026\n* View all Cognizant jobs - Mississauga jobs - Technical Lead jobs in Mississauga, ON\n* Salary Search: Salesforce Technical lead salaries in Mississauga, ON\n* See popular questions & answers about Cognizant\n* |### Salesforce FSC Developer\nCognizant\nToronto, ON\n* $100,000\u2013$130,000 a year\n* * Full-time\n* Experience: 8+ years overall IT experience, including 5+ years in Salesforce and 2+ years hands-on with Financial Services Cloud (FSC).\n* View all Cognizant jobs - Toronto jobs - Salesforce Developer jobs in Toronto, ON\n* Salary Search: Salesforc"
+        },
+        {
+          "title": "Salesforce Tech Lead",
+          "url": "https://careers.cognizant.com/ca-en/jobs/00070729771/salesforce-tech-lead",
+          "snippet": "## \n\nSalesforce Tech Lead\nAI in hiring: We use artificial intelligence (AI) tools to help us screen and assess applications more efficiently. Our team performs additional human\n\n## \n\nSalesforce Tech Lead\nSep 29, 2026 \u2014 Salesforce Tech Lead \u00b7 Date published Sep. 29 2026 \u00b7 Location Mississauga,ON-W Credit Av / Canada \u00b7 Job category Technology & Engineering \u00b7 Work model Work from"
+        }
+      ]
+    },
+    {
+      "provider": "tavily",
+      "query": "\"Salesforce Platform Developer I\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "302 Salesforce platform developer jobs in Canada",
+          "url": "https://www.glassdoor.ca/Job/salesforce-platform-developer-jobs-SRCH_KO0,29.htm",
+          "snippet": "Senior Developer Mississauga $75K - $106K (Glassdoor Est.) Salesforce Platform Developer I certification required;"
+        },
+        {
+          "title": "Salesforce Developer Jobs in Mississauga (261 Open Roles)",
+          "url": "https://ca.linkedin.com/jobs/salesforce-developer-jobs-mississauga-on",
+          "snippet": "Today's top 261 Salesforce Developer jobs in Mississauga. Leverage your professional network, and get hired. New Salesforce Developer jobs added daily."
+        },
+        {
+          "title": "Salesforce Developer jobs in Mississauga, ON",
+          "url": "https://ca.indeed.com/q-salesforce-developer-l-mississauga,-on-jobs.html",
+          "snippet": "Find employers hiring now for Salesforce Developer jobs in Mississauga, ON. Search thousands of openings and apply on Indeed today."
+        },
+        {
+          "title": "Salesforce Project Jobs in Mississauga, ON (NOW HIRING)",
+          "url": "https://www.ziprecruiter.com/Jobs/Salesforce-Project/-in-Mississauga,ON",
+          "snippet": "Browse 665 SALESFORCE PROJECT jobs from companies in MISSISSAUGA, ON, Canada that are now hiring. Find job opportunities near you and apply."
+        },
+        {
+          "title": "Salesforce Technical lead",
+          "url": "https://careers.cognizant.com/us-en/jobs/00070906481/salesforce-technical-lead",
+          "snippet": "Salesforce Technical lead \u00b7 Date published Oct 13 2026 \u00b7 Location Mississauga,ON-W Credit Av / \u00b7 Job category Technology & \u00b7 Work model Work from Home"
+        },
+        {
+          "title": "Salesforce Developer Job - Mississauga, ON, Canada (VBeyond Corporation)",
+          "url": "https://www.iitjobs.com/job/salesforce-developer-mississauga-on-canada-salesforce-developer-519018",
+          "snippet": "logo\n\nNew Feature Alert!\n\nCollege Groups is here! Connecting with the right opportunities just got easier!\n\nJoin your school's network \u2013 Find peers, alumni, and recruiters from your college.\n\nAccess exclusive job postings \u2013 Get opportunities tailored for your school.\n\nCollaborate & share insights \u2013 Discuss career tips, interview experiences, and industry trends.\n\nNew Feature Alert!\n\nCollege Groups is here! Connecting with the right opportunities just got easier! [...] Join your school's network \u2013 Find peers, alumni, and recruiters from your college.\n\nAccess exclusive job postings \u2013 Get opportunities tailored for your school.\n\nCollaborate & share insights \u2013 Discuss career tips, interview experiences, and industry trends."
+        },
+        {
+          "title": "Salesforce Jobs",
+          "url": "https://www.salesforce.com/company/careers/jobs",
+          "snippet": "Hesse\n\nIdaho\n\nIllinois\n\nIndiana\n\nIowa\n\nJakarta Raya\n\nJonkoping County\n\nKansas\n\nKarn\u0101taka\n\nKentucky\n\nLisbon\n\nLondon, City of\n\nLouisiana\n\nMadrid\n\nMah\u0101r\u0101shtra\n\nMaine\n\nMaryland\n\nMassachusetts\n\nMaxdorf\n\nMichigan\n\nMilano\n\nMinnesota\n\nMississippi\n\nMissouri\n\nMontana\n\nNational Capital Region\n\nNebraska\n\nNevada\n\nNew Hampshire\n\nNew Jersey\n\nNew Mexico\n\nNew South Wales\n\nNew York\n\nNorth Carolina\n\nNorth Dakota\n\nNorth Holland\n\nNorth Rhine-Westphalia\n\nOhio\n\nOklahoma\n\nOntario\n\nOregon\n\nOsaka\n\nOslo\n\nParis [...] Skip to content\n\n# Jobs\n\nFilter jobs\n\nFilter jobs\n\nKeywords Clear filters\n\nCountry \n\nArgentina\n\nAustralia\n\nAustria\n\nBelgium\n\nBrazil\n\nCanada\n\nChile\n\nColombia\n\nDenmark\n\nFinland\n\nFrance\n\nGermany\n\nIndia\n\nIndonesia\n\nIreland\n\nIsrael\n\nItaly\n\nJapan\n\nKorea, Republic of\n\nMexico\n\nMorocco\n\nNetherlands\n\nNew Zealand\n\nNorway\n\nPhilippines\n\nPoland\n\nPortugal\n\nSaudi Arabia\n\nSingapore\n\nSouth Africa\n\nSpain\n\nSweden\n\nSwitzerland\n\nTaiwan\n\nThailand\n\nUnited Arab Emirates\n\nUnited Kingdom\n\nUnited States of America\n\nRegion [...] Amsterdam\n\nAtlanta\n\nAuckland\n\nAustin\n\nBangalore\n\nBarcelona\n\nBellevue\n\nBerlin\n\nBogota\n\nBoston\n\nBrisbane\n\nBrussels\n\nBuenos Aires\n\nBurlington\n\nCanberra\n\nChennai\n\nChicago\n\nCopenhagen\n\nDallas\n\nDenver\n\nDublin\n\nDusseldorf\n\nFinland\n\nFrankfurt\n\nFukuoka\n\nGurgaon\n\nHerndon\n\nHyderabad\n\nIndianapolis\n\nIrvine\n\nJaipur\n\nJakarta\n\nJena\n\nJohannesburg\n\nKhlong Toei\n\nLausanne\n\nLisbon\n\nLondon\n\nLyon\n\nMadrid\n\nMannheim\n\nMarseille\n\nMaxdorf\n\nMclean\n\nMelbourne\n\nMetro Manila\n\nMexico\n\nMexico City\n\nMilan\n\nMontreal\n\nMorocco"
+        },
+        {
+          "title": "Salesforce",
+          "url": "https://tavily.com/knowledge/company/XiMau7KBLqwM",
+          "snippet": "# Salesforce\nID: XiMau7KBLqwM\nWebsite: www.salesforce.com\nLegal name: Salesforce, Inc.\nHeadquarters: San Francisco, California, United States\nLinkedIn: www.linkedin.com/company/salesforce \u00b7 6,750,152 followers\nIndustry: Software Development\nCompany type: Public Company\nSocial profiles: www.facebook.com/salesforce, www.twitter.com/salesforce, www.crunchbase.com/organization/salesforce, www.instagram.com/salesforce, www.youtube.com/@salesforce\nEmail: datasubjectrequest@salesforce.com [...] ## Technology\n- Detected: 1,474\n- alertmedia \u00b7 last seen 2026-08-24\n- eslint \u00b7 last seen 2026-08-24\n- mailgun \u00b7 last seen 2026-08-24\n- juris \u00b7 last seen 2026-08-24\n- salesforce pardot \u00b7 last seen 2026-08-24\n- fivetran \u00b7 last seen 2026-08-24\n- kapost \u00b7 last seen 2026-08-24\n- conga composer \u00b7 last seen 2026-08-24\n\n## Reputation\n- Open roles: 3,080\n\n## Similar companies\n- sap\n- adobe\n- oracle\n- zoho\n- hubspot\n- infor\n- sage group\n- sugarcrm [...] Phone: 1-800-664-9073, +1 800-420-7332\nDescription: Salesforce is an AI CRM platform that helps companies become Agentic Enterprises where humans and agents drive success together through a unified AI, data, and Customer 360 platform."
+        }
+      ]
+    },
+    {
+      "provider": "tavily_alt",
+      "query": "\"ServiceNow CSA CAD certified\" jobs Mississauga posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Servicenow csa certification jobs",
+          "url": "https://www.indeed.com/q-servicenow-csa-certification-jobs.html",
+          "snippet": "Browse 1186 Servicenow Csa Certification jobs. New jobs posted today. Apply now and find your next opportunity on Indeed.com."
+        },
+        {
+          "title": "ServiceNow Fresher (CSA, CAD certified) - Looking ... - ServiceNow Community",
+          "url": "https://www.servicenow.com/community/servicenow-jobs-forum/servicenow-fresher-csa-cad-certified-looking-for-entry-level/m-p/3560430",
+          "snippet": "Options\n\n Mark as New\n Bookmark\n Subscribe\n Mute\n Subscribe to RSS Feed\n Permalink\n Print\n Report Inappropriate Content\n\n\u200e06-17-2026 01:04 AM\n\nHi everyone,\n\nI'm Nikhilendra, 2026 grad , CSA and CAD certified, also completed CIS-Data Foundations. Looking for an entry-level ServiceNow Developer role - open to full-time.\n\nI've been spending the last few months building hands-on projects on my PDI. [...] Open to ServiceNow Opportunities | CSA & CAD Certified in ServiceNow Jobs forum\n Workflow Automation Developer Full-Time - Toronto, Ontario, Canada in ServiceNow Jobs forum\n Actively Seeking ServiceNow Opportunities in ServiceNow Jobs forum\n Seeking Opportunities ServiceNow Developer 3+years Experience in ServiceNow Jobs forum [...] [[Seeking Remote/Hybrid Internship] Dual-Certified ServiceNow Developer (CAD & CSA)|Final-Year B.Tech](/community/servicenow-jobs-forum/seeking-remote-hybrid-internship-dual-certified-servicenow/td-p/3609156) in ServiceNow Jobs forum"
+        },
+        {
+          "title": "Seeking Entry-Level ServiceNow Opportunities | CSA... - ServiceNow Community",
+          "url": "https://www.servicenow.com/community/servicenow-jobs-forum/seeking-entry-level-servicenow-opportunities-csa-amp-cad/m-p/3568390",
+          "snippet": "Title: Seeking Entry-Level ServiceNow Opportunities | CSA & CAD Certified | 2026 B.Tech Graduate\n\nHello ServiceNow Community,\n\nI am a 2026 B.Tech Computer Science & Engineering graduate actively seeking entry-level opportunities in the ServiceNow ecosystem. [...] I have successfully earned my ServiceNow Certified System Administrator (CSA) and Certified Application Developer (CAD) certifications (Jan-2026 Delta) and completed a ServiceNow Virtual Internship through SmartBridge / ServiceNow University.\n\nWhat I have built:\n\nI developed a Smart Employee Onboarding & Asset Provisioning System on my PDI using Service Catalog, Flow Designer, Business Rules, Client Scripts, Notifications, SLA Management, and Reports & Dashboards.\n\nI am open to roles such as: [...] Join the Community\n\n ServiceNow Community\n Connect\n ServiceNow Jobs\n ServiceNow Jobs\n Seeking Entry-Level ServiceNow Opportunities | CSA...\n\nOptions\n\n Subscribe to RSS Feed\n Mark Question as New\n Mark Question as Read\n Float this Question for Current User\n Bookmark\n Subscribe\n Mute\n Printer Friendly Page\n\n# Seeking Entry-Level ServiceNow Opportunities | CSA & CAD Certified | Final-Year B.Tech Student\n\nManish2026\n\nManish2026 \n\nGiga Expert\n\nOptions"
+        },
+        {
+          "title": "ServiceNow Jobs - ServiceNow Community",
+          "url": "https://www.servicenow.com/community/servicenow-jobs/ct-p/servicenow-jobs",
+          "snippet": "### [[Seeking Remote/Hybrid Internship] Dual-Certified ServiceNow Developer (CAD & CSA)|Final-Year B.Tech]( \"[Seeking Remote/Hybrid Internship] Dual-Certified ServiceNow Developer (CAD & CSA)|Final-Year B.Tech\")\n\nHello ServiceNow Community,I am a final-year B.Tech Computer Science & Engineering (Data Science) student (8.66 CGPA) and a Dual-Certified ServiceNow Developer actively seeking remote, hybrid, or virtual internship/entry-level opportunities.Key Quali... [...] | Seeking Remote/Hybrid Job CSA CAD ServiceNow, last...  ServiceNow Jobs forum | Miguel Palma | 2 weeks ago | [...] Hello everyone!I\u2019m currently looking for a ServiceNow System Administrator position, preferably remote. I have hands-on experience with ITSM, Knowledge Management, platform administration, troubleshooting, and configuration. I\u2019m also CSA certified. l...\n\n Question\n Contract Jobs\n Full-Time\n\n### Seeking Opportunities ServiceNow Developer 3+years Experience"
+        },
+        {
+          "title": "Servicenow Csa Jobs in Toronto, ON (NOW HIRING) Oct 26",
+          "url": "https://www.ziprecruiter.com/Jobs/Servicenow-Csa/-in-Toronto,ON",
+          "snippet": "Browse 38 SERVICENOW CSA jobs from companies in TORONTO, ONTARIO, Canada that are now hiring. Find job opportunities near you and apply today."
+        },
+        {
+          "title": "ServiceNow Jobs & Careers | SNPro.jobs \u2014 The ServiceNow Placement Engine",
+          "url": "https://snpro.jobs",
+          "snippet": "Compare ServiceNow developer, admin, architect, and consultant salaries by certification, location, and experience level. Data pulled live from every active job posting on the board \u2014 updated daily.\n\nView the ServiceNow salary guide \u2192\n\n## ServiceNow Certification Guides\n\nGuides to every ServiceNow certification \u2014 CSA, CAD, CIS, CTA, CMA \u2014 including study paths, salary premiums, and the jobs that require each credential.\n\nBrowse certification guides \u2192\n\n## Jobs at ServiceNow (the Company) [...] ServiceNow administrator roles covering ITSM configuration, user management, reporting, and upgrades. Filter by CSA certification, location, and remote eligibility to find admin jobs that match your experience.\n\nExplore ServiceNow admin jobs \u2192\n\n## ServiceNow Architect Jobs\n\nSenior and principal ServiceNow architect positions \u2014 technical architects, solution architects, and enterprise architects at partners and global customers. CTA and CMA-certified roles included. [...] Senior Critical Facilities Manager (M3) \u2014 Oracle (Saline)\n System Analyst \u2013 SuccessFactors \u2014 OceanaGold Corporation (Australia)\n TMO Lead - Consumer Goods, Retail & Logistics \u2014 Infosys (Paris)\n NAMORC- Oracle Fusion Cloud Program Manager \u2014 Infosys (Mississauga)\n IT Client Support Analyst \u2014 W. L. Gore & Associates (China)\n Lead Technical Account Manager \u2014 Dynatrace (Denver)\n Desktop Support Services \u2014 Cushman & Wakefield (St. Louis)\n Senior Technical Account Manager \u2014 Dynatrace (Boston)"
+        },
+        {
+          "title": "Best ServiceNow Certification for HIGHEST Salary? (CSA, CAD, CIS, CMA)",
+          "url": "https://www.youtube.com/watch?v=iFEdG5LECt4",
+          "snippet": "# Best ServiceNow Certification for HIGHEST Salary? (CSA, CAD, CIS, CMA)\n## Channel: Cyntexa\n6.14K subscribers\n194 likes\n\n### Description\n9,514 views\nPosted: 2025-10-07\nWhich ServiceNow Certification Is Best For You in 2025? (CSA, CAD, CIS, CMA)\n\n\u25ba Check out our highly-rated ServiceNow Certification Courses: \n\n\ud83d\udcde Book A FREE Career Consultation Call with our ServiceNow Experts: [...] [5:51] defining enterprisewide digital transformation strategies and guiding organizational road maps. Salaries here\n[5:58] are over 200,000 USD. But here's the key. At this level, your soft skills, communication, stakeholder management,\n[6:06] and strategic problem solving are just as important as coding. So, what's the final strategy and how to stay relevant?\n[6:14] Remember the golden rule? Spend 70% of your time building in a personal developer instance and just 30% on exam [...] [5:24] scale multi-product solutions earning between 130,000 USD to 200,000 USD. And for the CMA, the ultimate elite badge\n[5:33] held by less than 1% of service now professionals. The essentials are lengy, CSA, CAD, CIS, ITSM to additional CIS\n[5:42] certifications, the ITIL foundation certification and 5 to 10 years of deep ecosystem experience. At this level, you shift from building solutions to"
+        },
+        {
+          "title": "ServiceNow | Tavily",
+          "url": "https://tavily.com/knowledge/company/HrDojc2Poqsb",
+          "snippet": "Tavily ranks #1 in Company Search Benchmark. Explore the results \u2192\n\nCut agentic search costs. Join our live Office Hours on Nov 17. Register \u2192\n\nWorld of Tavily NYC is happening November 12. Request to join\u2192\n\nImage 1: Tavily by Nebius\n\nProduct Solutions ResourcesDocsPricing\n\nEndpoints [...] Endpoints\n\nOverview The web access layer for AI agentsSearch Fast and relevant web resultsExtract Clean and structured content for LLMsResearch An agent for in-depth web researchCrawl Content extracted from entire websitesMap Discover URLs across any website\n\nIndustries\n\nFinancialInsurance\n\nExplore\n\nDemosPost-Training\n\nLearn\n\nBlogCertificationEvents\n\nCompany\n\nAboutCustomersCareers\n\n\n\nContact Log in\n\nImage 2: Tavily by NebiusImage 3\n\n# ServiceNow [...] Clear\n\n   - [x] checkbox label label \n\nApply Cancel\n\nConsent Leg.Interest\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\nReject All Confirm My Choices\n\nImage 11: Powered by Onetrust"
+        }
+      ]
+    },
+    {
+      "provider": "firecrawl",
+      "query": "ServiceNow OR Salesforce developer job Mississauga new posting",
+      "status": "HTTP 429",
+      "results": []
+    },
+    {
+      "provider": "exa",
+      "query": "ServiceNow OR Salesforce developer job Toronto new posting",
+      "status": "ok",
+      "results": [
+        {
+          "title": "ServiceNow Developer (CONTRACT ROLE)",
+          "url": "https://brookfield.wd5.myworkdayjobs.com/en-US/brookfieldproperties/job/ServiceNow-Developer--CONTRACT-ROLE-_R2053249",
+          "snippet": ""
+        },
+        {
+          "title": "ServiceNow Developer at Lightspeedhq",
+          "url": "https://jobs.ashbyhq.com/lightspeedhq/2f5c76b1-7cb0-4449-aa8f-9f32f89385f6",
+          "snippet": ""
+        },
+        {
+          "title": "cloud developer - Toronto, ON - Job posting - Job Bank",
+          "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50551818",
+          "snippet": ""
+        },
+        {
+          "title": "ServiceNow Senior Developer at Bdo",
+          "url": "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/ServiceNow-Senior-Developer_JR5588",
+          "snippet": ""
+        },
+        {
+          "title": "Senior Salesforce Developer - Docebo | Built In",
+          "url": "https://builtin.com/job/senior-salesforce-developer/11997811",
+          "snippet": ""
+        },
+        {
+          "title": "Senior ServiceNow Developer & Platform Architect \u2013 SereneAid \u2013 Job Toronto, ON",
+          "url": "https://ca.talent.com/view?id=639659653419962497",
+          "snippet": ""
+        },
+        {
+          "title": "Salesforce Platform Developer - Altus Group | Built In",
+          "url": "https://builtin.com/job/salesforce-platform-developer/11985908",
+          "snippet": ""
+        },
+        {
+          "title": "Salesforce Software Developer | Teladoc Health Canada",
+          "url": "https://www.teladochealth.ca/careers/sf-sw-dev",
+          "snippet": ""
+        }
+      ]
+    },
+    {
+      "provider": "jina",
+      "query": "\"ServiceNow CSA CAD certified\" jobs Markham Ontario posted this week",
+      "status": "HTTP 422",
+      "results": []
+    },
+    {
+      "provider": "parallel",
+      "query": "\"Salesforce Platform Developer I\" jobs Toronto posted this week",
+      "status": "ok",
+      "results": [
+        {
+          "title": "\u201csalesforce platform developer i\u201d jobs in Toronto, ON",
+          "url": "https://ca.indeed.com/q-%E2%80%9Csalesforce-platform-developer-i%E2%80%9D-l-toronto,-on-jobs.html",
+          "snippet": "## \n\n\u201csalesforce platform developer i\u201d jobs in Toronto, ON\n24 hours ago \u2014 ON $45\u2013$65 an hour Contract On call Lead Salesforce integration projects with third-party applications, APIs, ERP systems, websites, social media platforms and\n\n## \n\n\u201csalesforce platform developer i\u201d jobs in Toronto, ON\nSearch 143 \u201csalesforce Platform Developer I\u201d jobs now available in Toronto, ON on Indeed.com, the world's largest job site.\n\n## \n\n\u201csalesforce platform developer i\u201d jobs in Toronto, ON\n22 hours ago \u2014 Business Development Manager, Ontario. Identify, assess, and solve complex business problems for integrating SaaS source data into the analytics platform.\n\n## \n\n\u201csalesforce platform developer i\u201d jobs in Toronto, ON\n5 days ago \u2014 163 \u201csalesforce Platform Developer I\u201d jobs . ON \u2013$65 an hour Contract On call Lead Salesforce integration projects with third-party applications, APIs, ERP\n\n## \n\n\u201csalesforce platform developer i\u201d jobs in Toronto, ON\n5 days ago \u2014 Lead Salesforce integration projects with third-pa\n\n...\n\n\u201csalesforce platform developer i\u201d jobs in Toronto, ON\n7 days ago \u2014 163 \u201csalesforce Platform Developer I\u201d jobs now available in Toronto, Developer, App Builder, ON $69,450\u2013$119,450 a year is here:\n\n...\n\n4 days ago \u2014 163 \u201csalesforce Platform Developer I\u201d jobs now available in Toronto, Vigorate Toronto, ON M2P 1N6 $90,000\u2013$120,000 a year Full-time +1 Paid time off Vision\n\n##"
+        },
+        {
+          "title": "Salesforce Platform Developer @ Reonomy | Lerer Hippeau Job Board",
+          "url": "https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer",
+          "snippet": "Salesforce Platform Developer\n\nReonomy\nReonomy\nSoftware Engineering, Sales & Business Development\u00b7Full-time\nToronto, ON, Canada\nCAD 105k-115k / year\nPostedon Oct 31, 2026\nApply now\nCompensation Range:\nCAD $105,000 - $115,000\nCompensation Disclaimer: The salary range listed reflects the base pay for this role at Altus Group and is provided where required by local regulations. Actual offers may differ based on experience, market conditions, and other relevant factors. The range does not include additional compensation such as bonuses, equity, benefits, or other incentives.\n\n...\n\ndata sets, tools and technology in the industry.\n\nWho we need\n\nReporting to the Director of Enterprise Applications, we are hiring a Salesforce Platform Developer to design, develop, and improve scalable solutions across Altus Group\u2019s Salesforce platform. You will translate business and technical requirements into secure, maintainable solutions, working closely with Salesforce architecture, product, delivery, and business teams. Your work will span hands-on development, platform integrations, automation, release quality, and ongoing improvements to platform performance and stability.\n\n...\n\nYou will design, develop, test, and maintain solutions using Apex, Lightning Web Components (LWC), Flow, and other Salesforce technologies.\n\n...\n\n* Salesforce Platform Developer I (PD1) and/or Platform Developer II (PD2) certification.\n\nWhat you can expect from our interview process:"
+        },
+        {
+          "title": "Salesforce Platform Developer at Altusgroup (Remote)",
+          "url": "https://scoutify.com/companies/altusgroup/jobs/3241937",
+          "snippet": "Skip to job details\nScoutify\nFind jobs Companies Sign in\nCompanies Altusgroup Salesforce Platform Developer\nAltusgroup Real Estate\n\nSalesforce Platform Developer\n\nRemote Full-time\nAltusgroup \u00b7 Salesforce Platform Developer\nLet Scoutify apply for you (free)\nScoutify fills out this application and sends it to Altusgroup for you. It takes about 4 minutes to set up, and your first 3 applications are free. You won't need a card.\nOr apply on Altusgroup's site yourself (about 10 minutes)\nLocation Toronto, Canada Remote\nPay $78k\u201385k / year \u00b7 USD\nEmployment Full-time\nPosted Oct 30, 2026\nExplore related roles\nJob description Related roles 6 \nOverview Compensation Range CAD $105,000 - $115,000 Compensation Disclaimer Who we are\nLocation: Toronto, Ontario\n\nCompensation Range\n\nCAD $105,000 - $115,000\n\nCompensation Disclaimer\n\n...\n\nwith the best data sets, tools and technology in the industry.\n\nWho we need\n\nReporting to the Director of Enterprise Applications, we are hiring a Salesforce Platform Developer to design, develop, and improve scalable solutions across Altus Group\u2019s Salesforce platform. You will translate business and technical requirements into secure, maintainable solutions, working closely with Salesforce architecture, product, delivery, and business teams.\n\n...\n\n* Familiarity with Salesforce AI capabilities such as Agentforce and Einstein.\n* Salesforce Platform Developer I (PD1) and/or Platform Developer II (PD2) certification."
+        },
+        {
+          "title": "Urgent! Salesforce jobs in Toronto, ON - November 2026 (with Salaries!) - Jooble",
+          "url": "https://ca.jooble.org/jobs-salesforce/Toronto%2C-ON",
+          "snippet": "We're looking for a Salesforce Architect to own the architecture of Lyft's commercial platform as it grows through acquisition. Reporting to the Manager, Sales ...\nSalesforce\nFull time\nReport\nLyft\n\n...\n\nFlexible hours\nReport\nAltus Group\nToronto, ON\n1 day ago\n* \n\nSenior Salesforce Developer\n\n... Position Description: CGI is seeking a Senior Salesforce Platform Developer to design and deliver scalable, enterprise Salesforce solutions for our clients. You will collaborate closely with clients and CGI teams to translate business needs into high\u2011quality technical solutions ...\nSalesforce\nFull time\nReport\nCGI\nToronto, ON\n19 hours ago\n*\n\n...\n\nthe Salesforce platform and over 10 years of overall experience with Salesforce. ...\nSalesforce\nFull time\nContract work\nReport\nSoHo Dragon\nToronto, ON\n11 days ago\n* \n\nSalesforce Campaign Specialist\n\n...\n\nRequired: 10+ Years Role Description Lead end-to-end architecture, solution design, and implementation of Salesforce ...\nSalesforce\nPermanent employment\nReport\nAstra North Infoteck Inc.\nToronto, ON\n\n...\n\nSenior Salesforce Developer Position Description CGI is seeking a Senior Salesforce Platform Developer to design and deliver scalable, enterprise Salesforce solutions for our clients.\n\n...\n\nLocation: Downtown Toronto, 3x per week on-site Structure: 10 month contract -- We have a great new opportunity to support one of our clients in a contract capacity!"
+        },
+        {
+          "title": "What  Salesforce Jobs  are in Toronto? | WhatJobs Canada",
+          "url": "https://en-ca.whatjobs.com/jobs/salesforce/toronto-ontario",
+          "snippet": "+ Serves as an escalation point for complex Salesforce issues, provides technical guidance and documentation, supports user adoption and training, evaluates new platform capabilities, and provides\n\n...\n\n+ 7+ years of Salesforce solution delivery experience supporting medium-to-large, complex projects, including 5+ years of hands-on Salesforce development experience. + Salesforce Certified Platform Developer I certification required; Platform Developer II certification is considered an asset. + Additional required Salesforce certifications include Salesforce Certified Administrator and Salesforce Certified Platform App Builder. + Strong functional and technical expertise in Sales Cloud, Se\n\n...\n\nand Salesforce CPQ, with proficiency in Salesforce configuration and platform capabilities. + Advanced experience with Apex, Lightning Web Components (LWC), Salesforce Flow, SOQL/SOSL, triggers,\n\n...\n\nBased on this role's business requirements, this is a **hybrid position requiring 3 days a week in a client or Cognizant office in Toronto, Canada** .\n\n...\n\nSoftware Engineer II (Salesforce Loyalty Management Developer)\n\nToronto $80,000 - $130,000 per year help_outline TD Bank\nPosted 4 days ago\nJob Viewed\nTap Again To Close\n\nJob Description\n\n...\n\n:** + Salesforce Loyalty Management implementation experience + Salesforce Application Architect certification + Salesforce System Architect certification + Salesforce Platform Developer I/II"
+        },
+        {
+          "title": "Salesforce Platform Developer at Altus Group \u2013 Toronto, Ontario | TheJobsMap",
+          "url": "https://www.thejobsmap.com/job/8cfc485a-0c3d-4ba4-bd83-bdc4f6ee2560",
+          "snippet": "TheJobsMap\nCompanies Salaries Collections Jobs by city Interview prep\nLog in Sign up\nCompanies / Altus Group / Salesforce Platform Developer\nA Altus Group logo\nAltus Group\n39 open roles\n\nSalesforce Platform Developer\n\nToronto, Ontario Full-time Posted Oct 30, 2026\nApply on Altus Group's site Similar roles\n\nJob description\n\nCompensation\nCAD $105,000 - $115,000 Compensation Disclaimer: The salary range listed reflects the base pay for this role at Altus Group and is provided where required by local regulations. Actual offers may differ based on experience, market conditions, and other relevant factors. The range does not include additional compensation such as bonuses, equity, benefits, or other incentives.\n\n...\n\nWho we need Reporting to the Director of Enterprise Applications, we are hiring a Salesforce Platform Developer to design, develop, and improve scalable solutions across Altus Group\u2019s Salesforce platform.\nYou will translate business and technical requirements into secure, maintainable solutions, working closely with Salesforce architecture, product, delivery, and business teams. Your work will span hands-on development, platform integrations, automation, release quality, and ongoing improvements to platform performance and stability.\n\n...\n\n. As our new Salesforce Platform Developer, you will Build and improve Salesforce solutions. You will design, develop, test, and maintain solutions using Apex, Lightning Web Components (LWC), Flow,"
+        },
+        {
+          "title": "100 Salesforce Developer Jobs Hiring Now in Toronto, ON | Indeed",
+          "url": "https://ca.indeed.com/q-salesforce-developer-l-toronto,-on-jobs.html",
+          "snippet": "Find jobs\nPay\nRemote\nDistance\n1\nApplication method\nJob type\nDate posted\nPost your resume and find your next job on Indeed!\n\u00a0\n\nsalesforce developer jobs in Toronto, ON\n\nSort by: relevance - date\n* |### Principle Salesforce Developer\nMoneris Solutions\nToronto, ON\n* Full-time\n* Tuition reimbursement\n* Employee assistance program\n* * RRSP match\n* We are looking for a Principal Salesforce Software Developer who is a senior technical leader responsible for designing, developing, and guiding enterprise\u2026\n* |### Salesforce Technical Consultant\n\n...\n\n* |### Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team)\nDeloitte\nToronto, ON M5H 0A9\n* $69,000\u2013$114,000 a year\n* * Permanent\n\n...\n\n* View all Deloitte jobs - Toronto jobs - Senior Technology Consultant jobs in Toronto, ON\n* Salary Search: Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team)\n\n...\n\n* |### Senior Salesforce Developer\nEasily apply\nCGI\nToronto, ON M5B 2L7\n* $80,000\u2013$130,000 a year\n* * Full-time\n* CGI is seeking a Senior Salesforce Platform Developer to design and deliver scalable, enterprise Salesforce solutions for our clients.\n* View all CGI jobs - Toronto jobs\n\n...\n\nMoneris Solutions logo\n\nPrinciple Salesforce Developer\n\nMoneris Solutions\n\u00b7\n3.3\nToronto, ON\n\u2022\nHybrid work\nFull-time\n\nPrinciple Salesforce Developer\n\nMoneris Solutions\n\u2022\nToronto, ON \u2022 Hybrid work"
+        },
+        {
+          "title": "Salesforce Developer \u2013 Hybrid \u00b7 Toronto, ON \u2013 $83K\u2013$113K/yr | Medcan",
+          "url": "https://www.jobs.ca/medcan/jobs/salesforce-developer-toronto-on-91b31e8c9c40",
+          "snippet": "1. Jobs.ca\n2. Explore open jobs\n3. Medcan\n4. Salesforce Developer\nBack to job search\nMedcan logo\nMedcan\n\nSalesforce Developer\n\n* Toronto, ON\n* Hybrid\n* PostedOct 28, 2026\n* 1position\n$82,543.00\u2013$113,495.50 / year\nApply on the employer\u2019s site\nOpens an external site\nSign in to save this job Job alerts Job alerts\nEmployment type Full-time\nExperience level Senior \u00b7 7+ years\nMinimum education Professional degree\nApply by Nov 7, 2026\nPosting language English\nWorking hours 40 hours per week\nOffice presence 2 days per week\n\nJob summary\n\nThe Salesforce Developer will design and implement complex Salesforce solutions, including functional requirements, coding, and support. They will participate in the full software development lifecycle and provide technical leadership and mentorship to the development team.\n\nJob details\n\n...\n\npractices, ensuring high-quality and maintainable solutions What You'll Need: SFDC Platform Developer I certification (minimum) 7+ years of experience as a SF Developer with Sales Cloud, Service\n\n...\n\ncoding assessment by the technical team. This is a full-time hybrid position (2 days in office) working 40 hours per week based on business needs between regular office hours Monday \u2013 Friday (9:00 am\n\n...\n\nA minimum of a Salesforce Platform Developer I certification is required, along with strong skills in Apex, Lightning components, and Agile methodology.\n\nListed skills\n\n* Microsoft Azure \u00b7 Preferred"
+        }
+      ]
+    },
+    {
+      "provider": "tavily_alt",
+      "query": "ServiceNow OR Salesforce developer job Markham Ontario new posting",
+      "status": "ok",
+      "results": [
+        {
+          "title": "Servicenow Developer Jobs in Toronto (202 Open Roles) | LinkedIn",
+          "url": "https://ca.linkedin.com/jobs/servicenow-developer-jobs-toronto-on",
+          "snippet": "Actively Hiring\n ServiceNow Administrator / Developer (Intermediate) \n\n  \n\n  ### ServiceNow Administrator / Developer (Intermediate)\n\n  #### BFG Enterprise Services\n\n  Markham, Ontario, Canada \n\n  Actively Hiring\n Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team \n\n  \n\n  ### Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team\n\n  #### Deloitte\n\n  Toronto, Ontario, Canada [...] ### ServiceNow Senior Developer\n\n  #### BDO Canada\n\n  Toronto, Ontario, Canada \n\n  Actively Hiring\n ServiceNow Senior Developer \n\n  \n\n  ### ServiceNow Senior Developer\n\n  #### BDO Canada\n\n  Markham, Ontario, Canada \n\n  Actively Hiring\n ServiceNow Developer \n\n  \n\n  ### ServiceNow Developer\n\n  #### Rexall Pharmacy Group Ltd.\n\n  Mississauga, Ontario, Canada \n\n  Be an early applicant\n ServiceNow Developer \n\n  \n\n  ### ServiceNow Developer\n\n  #### Lightspeed Commerce [...] ### IT Asset Management Lead (ServiceNow)\n\n  #### company\n\n  Greater Toronto Area, Canada \n\n  Be an early applicant\n Business Specialist \n\n  \n\n  ### Business Specialist\n\n  #### IT Connex\n\n  Greater Toronto Area, Canada \n\n  Actively Hiring\n Senior Salesforce Developer \n\n  \n\n  ### Senior Salesforce Developer\n\n  #### Capgemini\n\n  Mississauga, Ontario, Canada \n\n  Actively Hiring\n Automation Engineer \n\n  \n\n  ### Automation Engineer\n\n  #### BMO\n\n  Toronto, Ontario, Canada"
+        },
+        {
+          "title": "Ontario, Canada | ServiceNow Careers",
+          "url": "https://careers.servicenow.com/locations/ams/ontario-canada",
+          "snippet": "# Ontario, Canada\n\n Show 11 jobs in Ontario, Canada\n\n## Latest jobs in Canada\n\nSee All Jobs\n\n## Sr. Solution Architect\n\n Toronto\n\n## Staff Compliance Analyst\n\n Toronto\n\n## Staff Information Security Analyst\n\n Toronto\n\n## Senior Machine Learning Engineer\n\n Toronto\n\n## Staff Site Reliability Engineer\n\n Toronto\n\nSee All Jobs\n\n## Stay connected\n\nWant to grow your career at ServiceNow but don\u2019t see the right role? Join our talent community to stay in the know and receive company updates. [...] Join Talent Community"
+        },
+        {
+          "title": "Salesforce Jobs",
+          "url": "https://www.salesforce.com/company/careers/jobs",
+          "snippet": "Hesse\n\nIdaho\n\nIllinois\n\nIndiana\n\nIowa\n\nJakarta Raya\n\nJonkoping County\n\nKansas\n\nKarn\u0101taka\n\nKentucky\n\nLisbon\n\nLondon, City of\n\nLouisiana\n\nMadrid\n\nMah\u0101r\u0101shtra\n\nMaine\n\nMaryland\n\nMassachusetts\n\nMaxdorf\n\nMichigan\n\nMilano\n\nMinnesota\n\nMississippi\n\nMissouri\n\nMontana\n\nNational Capital Region\n\nNebraska\n\nNevada\n\nNew Hampshire\n\nNew Jersey\n\nNew Mexico\n\nNew South Wales\n\nNew York\n\nNorth Carolina\n\nNorth Dakota\n\nNorth Holland\n\nNorth Rhine-Westphalia\n\nOhio\n\nOklahoma\n\nOntario\n\nOregon\n\nOsaka\n\nOslo\n\nParis [...] Amsterdam\n\nAtlanta\n\nAuckland\n\nAustin\n\nBangalore\n\nBarcelona\n\nBellevue\n\nBerlin\n\nBogota\n\nBoston\n\nBrisbane\n\nBrussels\n\nBuenos Aires\n\nBurlington\n\nCanberra\n\nChennai\n\nChicago\n\nCopenhagen\n\nDallas\n\nDenver\n\nDublin\n\nDusseldorf\n\nFinland\n\nFrankfurt\n\nFukuoka\n\nGurgaon\n\nHerndon\n\nHyderabad\n\nIndianapolis\n\nIrvine\n\nJaipur\n\nJakarta\n\nJena\n\nJohannesburg\n\nKhlong Toei\n\nLausanne\n\nLisbon\n\nLondon\n\nLyon\n\nMadrid\n\nMannheim\n\nMarseille\n\nMaxdorf\n\nMclean\n\nMelbourne\n\nMetro Manila\n\nMexico\n\nMexico City\n\nMilan\n\nMontreal\n\nMorocco [...] Skip to content\n\n# Jobs\n\nFilter jobs\n\nFilter jobs\n\nKeywords Clear filters\n\nCountry \n\nArgentina\n\nAustralia\n\nAustria\n\nBelgium\n\nBrazil\n\nCanada\n\nChile\n\nColombia\n\nDenmark\n\nFinland\n\nFrance\n\nGermany\n\nIndia\n\nIndonesia\n\nIreland\n\nIsrael\n\nItaly\n\nJapan\n\nKorea, Republic of\n\nMexico\n\nMorocco\n\nNetherlands\n\nNew Zealand\n\nNorway\n\nPhilippines\n\nPoland\n\nPortugal\n\nSaudi Arabia\n\nSingapore\n\nSouth Africa\n\nSpain\n\nSweden\n\nSwitzerland\n\nTaiwan\n\nThailand\n\nUnited Arab Emirates\n\nUnited Kingdom\n\nUnited States of America\n\nRegion"
+        },
+        {
+          "title": "ServiceNow Careers - Join the team putting AI to work for people. | ServiceNow Careers",
+          "url": "https://careers.servicenow.com",
+          "snippet": "The result? Friction fades. Work flows. And people are free to imagine, create, and dream bigger. With solutions used by 85% of the Fortune 500, working at ServiceNow means you\u2019ll have real-world impact every day.\n\nLearn More\n\n## Be a part of the purpose [...] ## The word is out\n\n### Fortune Best Workplaces in Technology 2026\n\n### #5 in Applied AI\n\n### Fortune 100 Best Companies to Work For 2026\n\n### Glassdoor's Best Places to Work in Tech & AI 2026\n\n### Fortune America\u2019s Most Innovative 2026\n\n### LinkedIn Top Companies\n\n### #2 in Computer Software\n\n### Fortune 500\n\n### Fortune World's Best Workplaces 2025\n\n### GPTW certified in 15 countries\n\n## Meet our teams\n\n245 roles\n\n### AI, Engineering, & Product\n\n21 roles\n\n### Corporate Functions\n\n23 roles [...] 2019\n\n### Joined the S&P 500\n\nWe join the S&P 500 club!\n\n### Fortune 500 & big wins\n\nWe join the Fortune 500 and celebrate our first $2 billion revenue quarter.\n\n### 20 years strong\n\nIt's our 20th anniversary! We've been recognized as #3 on Glassdoor's Best Places to Work, ranked #53 on Kantar's Most Valuable Brands, and we're just getting started.\n\n## Stay connected"
+        },
+        {
+          "title": "Explore Jobs | ServiceNow Careers",
+          "url": "https://careers.servicenow.com/jobs",
+          "snippet": "# Explore jobs\n\n## Sign up for job alerts\n\nGet job alerts for this search by email\n\nSorry, the job search is currently unavailable at the present time. Please check back later.\n\n## Recently Viewed Jobs\n\n## Interested in more opportunities?\n\n## Moveworks\n\nMoveworks is now part of the ServiceNow team. Visit their career site to explore opportunities and apply.\n\n See Jobs\n\n## Contractor Positions\n\nOur contingent workforce management firm, Magnit, handles hiring for our contract roles.\n\n See Jobs"
+        },
+        {
+          "title": "Salesforce",
+          "url": "https://tavily.com/knowledge/company/XiMau7KBLqwM",
+          "snippet": "# Salesforce\nID: XiMau7KBLqwM\nWebsite: www.salesforce.com\nLegal name: Salesforce, Inc.\nHeadquarters: San Francisco, California, United States\nLinkedIn: www.linkedin.com/company/salesforce \u00b7 6,750,152 followers\nIndustry: Software Development\nCompany type: Public Company\nSocial profiles: www.facebook.com/salesforce, www.twitter.com/salesforce, www.crunchbase.com/organization/salesforce, www.instagram.com/salesforce, www.youtube.com/@salesforce\nEmail: datasubjectrequest@salesforce.com [...] Phone: 1-800-664-9073, +1 800-420-7332\nDescription: Salesforce is an AI CRM platform that helps companies become Agentic Enterprises where humans and agents drive success together through a unified AI, data, and Customer 360 platform. [...] ## Technology\n- Detected: 1,474\n- alertmedia \u00b7 last seen 2026-08-24\n- eslint \u00b7 last seen 2026-08-24\n- mailgun \u00b7 last seen 2026-08-24\n- juris \u00b7 last seen 2026-08-24\n- salesforce pardot \u00b7 last seen 2026-08-24\n- fivetran \u00b7 last seen 2026-08-24\n- kapost \u00b7 last seen 2026-08-24\n- conga composer \u00b7 last seen 2026-08-24\n\n## Reputation\n- Open roles: 3,080\n\n## Similar companies\n- sap\n- adobe\n- oracle\n- zoho\n- hubspot\n- infor\n- sage group\n- sugarcrm"
+        },
+        {
+          "title": "ServiceNow | Tavily",
+          "url": "https://tavily.com/knowledge/company/HrDojc2Poqsb",
+          "snippet": "Tavily ranks #1 in Company Search Benchmark. Explore the results \u2192\n\nCut agentic search costs. Join our live Office Hours on Nov 17. Register \u2192\n\nWorld of Tavily NYC is happening November 12. Request to join\u2192\n\nImage 1: Tavily by Nebius\n\nProduct Solutions ResourcesDocsPricing\n\nEndpoints [...] # ServiceNow\n\nServiceNow is an AI platform that streamlines enterprise workflows for both customers and employees.\n\nImage 4: ServiceNow logo\n\nServiceNow\n\nIndustry Software Development\n\nHeadquarters Santa Clara, CA, United States\n\nWebsiteservicenow.com\n\nSocials\n   \n   \n   \n   \n   \n\n   Headcount\n   Financials\n   Funding\n   Mergers & Acquisitions\n   Products and services\n   Similar companies\n\n## Get it all with one API call\n\nPython TypeScript cURL [...] Clear\n\n   - [x] checkbox label label \n\nApply Cancel\n\nConsent Leg.Interest\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\nReject All Confirm My Choices\n\nImage 11: Powered by Onetrust"
+        },
+        {
+          "title": "AMD Jobs and Career Opportunities | Search Open Roles",
+          "url": "https://careers.amd.com/careers-home/jobs",
+          "snippet": "Fraud Alert: Our recruiters never use personal emails, ask for fees, make offers via text, charge for resume reviews, or request personal ID documents during the application process. Learn how to protect yourself from job scams and report suspicious activity here.\n\nlogo  Careers\n\nSee jobs by:\n\n Categories   Locations\n\n## Not ready to apply?\n\nLet\u2019s stay in touch!\n\nConnect With Us\n\nJoin Our Talent Community [...] + AMD\n  + AI\n  + Server\n  + Ryzen\n  + Radeon\n  + Embedded\n  + Gaming\n + AMD\n  + Developers\n  + Gaming\n discord-logo) \n\n  + Developers\n  + Gaming\n\n## Company\n\n About AMD\n Management Team\n Corporate Responsibility\n Careers\n Contact Us\n\n## News & Events\n\n Newsroom\n Events\n Media Library\n\n## Resources\n\n Developer Central\n Blogs\n Case Studies\n Webinars\n\n## Partners\n\n AMD Partner Hub\n Authorized Distributors\n AMD University Program\n\n## Investors [...] ## Investors\n\n Investor Relations\n Financial Information\n Board of Directors\n Governance Documents\n SEC Filings\n\n Terms and Conditions\n Privacy\n Trademarks\n Supply Chain Transparency\n Fair & Open Competition\n UK Tax Strategy\n Cookies Policy\n\n\u00a92026 Advanced Micro Devices, Inc."
+        }
+      ]
+    },
+    {
+      "provider": "parallel",
+      "query": "ServiceNow OR Salesforce developer job Remote Canada new posting",
+      "status": "ok",
+      "results": [
+        {
+          "title": "[Hiring] ServiceNow Developer @Lightspeed Commerce, Inc.",
+          "url": "https://remotive.com/remote/jobs/software-development/servicenow-developer-5901862",
+          "snippet": "Back to Remote jobs > Software Development > servicenow developer\nServiceNow Developer @Lightspeed Commerce, Inc.\nSoftware Development\n|Salary $85,000 - $105,.. |Remote Location\n* remote Canada\n* Employment Type full-time | Posted 1mth ago\n\n[Hiring] ServiceNow Developer @Lightspeed Commerce, Inc.\n\n1mth ago - Lightspeed Commerce, Inc. is hiring a remote ServiceNow Developer. \ud83d\udcb8 Salary: $85,000 - $105,000 cad \ud83d\udccdLocation: Canada\nRole Description\nWe are looking for a hands-on ServiceNow Developer to join our IT Platform team. This person will own the day-to-day configuration, development, and support of our ServiceNow instance, working across ITSM & HRSD while helping extend the platform through custom development and\n\n...\n\nit requirements.\n* Resolve complex issues:\n* Act as an escalation point for platform-level incidents, perform root cause analysis, and coordinate with infrastructure, security, vendors, and other\n\n...\n\n* Evaluate new ServiceNow releases, test upgrades, remediate breaking changes, and adopt relevant new platform capabilities.\n* Document and enable:\n\n...\n\n* Hands-on experience developing and administering ServiceNow, ideally across ITSM and/or HRSD.\n* Strong JavaScript skills, including ServiceNow scripting APIs such as GlideRecord and GlideAjax.\n\n...\n\nSoftware Development\n|Salary $85,000 - $105,.. |Remote Location\n* remote Canada\n* Employment Type full-time | Posted 1mth ago\nApply for this position\nDid not apply \u2713\nApplied \u2713\nSent Follow-Up \u2713"
+        },
+        {
+          "title": "ServiceNow Developer / ServiceNow Architect - Remote (Canada PST)",
+          "url": "https://www.jobs.ca/saransh-inc/jobs/servicenow-developer-servicenow-architect-remote-canada-pst-remote-canada-d8e56ff7fd08",
+          "snippet": "ServiceNow Developer / ServiceNow Architect - Remote (Canada PST)\n\n* Canada\n* Remote\n* PostedSep 1, 2026\n* 1position\nApply on LinkedIn (LinkedIn sign-in required)\nOpens LinkedIn\nSign in to save this job Job alerts Job alerts\nEmployment type Contract\nExperience level Senior \u00b7 5+ years\nPosting language English\nWorking hours 40 hours per week\nSeniority Mid-Senior level\nApplication method Direct apply is available\n\nJob summary\n\nThe roles involve consulting on ServiceNow best practices and delivering technical solutions through UI and workflow configuration. The Architect specifically focuses on end-to-end architecture design, scalability, and guiding technical decisions across ITX workflows.\n\nJob details\n\nRole: ServiceNow Developer / Engineer & ServiceNow Architect Remote in Canada (Need Candidate from PST zone only) Job Type: Contract (T4) Responsibilities ServiceNow Developer/Engineer Role Description: Consult internal customers on industry and ServiceNow best practices Individual contributor to project delivery and solution delivery, including: Application UI Configuration, Workflow Configuration Develop Custom conversationsBe a key member of the overall implementation project team Drive the continuous improvements of our implementation methodology and service offerings based on customer experiences Requirements More than 4+ years of application development experience on ServiceNow"
+        },
+        {
+          "title": "[Hiring] ServiceNow Developer @FX Innovation - Remotive",
+          "url": "https://remotive.com/remote/jobs/software-development/servicenow-developer-5453608",
+          "snippet": "Back to Remote jobs > Software Development > servicenow developer\nServiceNow Developer @FX Innovation\nSoftware Development\n|Salary unspecified |Remote Location\n* remote Canada\n* Employment Type full-time | Posted 2mths ago\n\n[Hiring] ServiceNow Developer @FX Innovation\n\n2mths ago - FX Innovation is hiring a remote ServiceNow Developer. \ud83d\udcb8 Salary: unspecified \ud83d\udccdLocation: Canada\nRole Description\nYou won't be stuck in maintenance mode. This role helps maximize value for our clients in digital services and organizational transformation. You'll work on ServiceNow implementations with some of the world's leading brands. Your success will be measured by the quality of deliverables, client satisfaction, and your ability to solve complex problems.\nYour Team\nWe hire top-tier talent and give them the space to shine. You'll collaborate with:\n* Architects\n* Business analysts\n* Delivery managers\n* QA and change management teams\nAll under the leadership of the ServiceNow Development Director. No egos, j\n\n...\n\nSoftware Development full-time $52/hour\nEST (UTC-5)\nNew\nView Job >\n* ServiceNow Platform Specialist \u2022 Alimentiv Alimentiv\nSoftware Development full-time mid-level $78,000 - $130,..\nCanada\nNew\n\n...\n\nBefore You Apply\n* remote | Be aware of the location restriction for this remote position\n\n...\n\nServiceNow Developer @FX Innovation\nSoftware Development\n|Salary unspecified |Remote Location\n* remote Canada\n* Employment Type full-time | Posted 2mths ago\nApply for this position\nDid not apply \u2713"
+        },
+        {
+          "title": "Senior ServiceNow Developer \u2013 Remote \u00b7 Canada | Hanalytica GmbH",
+          "url": "https://www.jobs.ca/hanalytica-gmbh/jobs/senior-servicenow-developer-remote-canada-a7dd1dcc0587",
+          "snippet": "1. Jobs.ca\n2. Explore open jobs\n3. Hanalytica GmbH\n4. Senior ServiceNow Developer\nBack to job search\nHanalytica GmbH logo\nHanalytica GmbH\n\nSenior ServiceNow Developer\n\n* Canada\n* Remote\n* PostedSep 24, 2026\n* 1position\nApply on LinkedIn (LinkedIn sign-in required)\nOpens LinkedIn\nSign in to save this job Job alerts Job alerts\nEmployment type Contract\nExperience level Senior \u00b7 5+ years\nMinimum education Professional degree\nPosting language English\nWorking hours 40 hours per week\nSeniority Mid-Senior level\nApplication method Apply on LinkedIn (LinkedIn sign-in required)\n\nJob summary\n\nThe role involves designing, developing, and maintaining enterprise ServiceNow solutions with a focus on CMDB, ITOM, and platform automation. The developer will independently own technical design decisions and troubleshoot complex platform issues to ensure system stability.\n\nJob details\n\nSenior ServiceNow Developer Location: Canada \u2013 Fully Remote Employment Type: Long-Term Contract Experience: 7+ years About the Role We are seeking a Senior ServiceNow Developer for a long-term contract opportunity in Canada. This is a fully remote contract position for candidates based in Canada. The role is focused on designing, developing, integrating, and maintaining enterprise ServiceNow solutions, with particular emphasis on CMDB, ITOM, Service Operations Workspace, integrations,"
+        },
+        {
+          "title": "Senior Salesforce Developer @ Docker",
+          "url": "https://jobs.ashbyhq.com/docker/378b10e7-0e0f-4d01-885b-c769d9e260e8?embed=js",
+          "snippet": "All Jobs\n\nSenior Salesforce Developer\n\nLocation\n\nCanada; United States\n\nEmployment Type\n\nFull time\n\nLocation Type\n\nRemote\n\nDepartment\n\nSales\nOverview Application\n\nAbout Docker\n\n...\n\ntrustworthy by default.\n_______________________________________________________________________\nWe\u2019re looking for a Senior Salesforce Developer to help scale and evolve our Go-To-Market systems and business operations. In this role, you\u2019ll partner closely with Sales, Marketing, Customer Success, Finance, and Security teams to architect and deliver scalable Salesforce solutions that improve productivity, data quality, automation, and customer experience.\n\nResponsibilities\n\n* Design, develop, test, and deploy scalable Salesforce solutions across Sales Cloud, Service Cloud, and integrated third party systems.\n* Lead the architecture and implementation of Salesforce customizations including Apex, Lightning Web Components (LWC), Flows, integrations, and platform automation\n\n...\n\n* 5+ years of hands-on Salesforce development experience in enterprise environments\n* Deep expertise with Apex, Lightning Web Components (LWC), SOQL/SOSL, Salesforce APIs, Flow automation, and\n\n...\n\nCompensation & Equity\nCanada: CA$156,450 \u2013 CA$223,500 + equity\nUnited States: $112,700 \u2013 $161,000 + equity\n______________________________________________________________________\n\nPosting Information"
+        },
+        {
+          "title": "ServiceNow Consultant - REMOTE Job at NTT DATA",
+          "url": "https://www.careerbeacon.com/en/job-9/4010955/ntt-data/servicenow-consultant-remote/ottawa-on",
+          "snippet": "* <Share job on X> X\n* <Share job via email> Email\n\nNTT DATA - 6 Jobs\n\nOttawa, ON\n\nApply Now\nAm I a good fit?View my job fit\nPosted today\nAm I a good fit?View\n\n...\n\nIf you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. NTT DATA's Client is currently seeking a Service Now Consultant to join their team in Ottawa, Ontario (CA-ON), Canada (CA). Position Title - Senior ServiceNow Consultant / Developer Location - Canada, Open to USA Job Summary We are seeking a highly skilled and experienced Senior ServiceNow Consultant / Developer with over 8\u201310 years of expertise in ServiceNow platform development, administration, automation, and enterprise integrations. The ideal candidate will lead the architecture, design, implementation, and optimization of scalable ServiceNow solutions aligned with business and IT objectives. This role requires deep technical kn\n\n...\n\n* Develop and maintain REST/SOAP integrations between ServiceNow and third-party enterprise systems.\n* Configure and manage MID Server integrations.\n* Automate business processes using IntegrationHub, Orchestration, and ETL solutions.\n* Integrate ServiceNow with platforms such as SAP, Azure, Workday, SailPoint, SCCM, Salesforce, Intune, and MobileIron.\n\n...\n\nServiceNow Consultant \\/ Developer<br \\/> Location - Canada, Open to USA<br \\/> Job Summary<br \\/> We are seeking a highly skilled and experienced Senior ServiceNow Consultant \\/ Developer with over"
+        },
+        {
+          "title": "ServiceNow Developer at Zaelab (Remote) | Scoutify",
+          "url": "https://scoutify.com/companies/zaelab/jobs/2940870",
+          "snippet": "Skip to job details\nScoutify\nFind jobs Companies Sign in\nCompanies Zaelab ServiceNow Developer\nZaelab Consulting\n\nServiceNow Developer\n\nRemote Full-time\nZaelab \u00b7 ServiceNow Developer\nApply on employer site Apply to similar roles, free\nLocation Canada Remote\nEmployment Full-time\nVisa history Sometimes sponsors H-1B visas From the company's recent H-1B filings\nPosted Oct 13, 2026\nExplore related roles\nJob description Related roles 3 \nZaelab is seeking a ServiceNow Developer to join our growing ServiceNow practice. This role will focus on configuring and supporting ServiceNow solutions that enable order management, order orchestration, fulfillment, and customer-facing business processes. Because our work sits at the intersection of ServiceNow and complex commerce ecosystems, we are particularly interested in candidates with experience in ServiceNow Order Management (OM), Sales and\n\n...\n\nher order-management-adjacent ServiceNow products.\nYour Responsibilities Configure and maintain ServiceNow solutions supporting order management, order fulfillment, and customer-facing business processes. Design and configure workflows, Flow Designer automations, business rules, UI policies, forms, and platform capabilities.\n\n...\n\nWhy you\u2019ll love working here: Unlimited Vacation/PTO Full Health Benefits and 401k Fixed Percentage Plan (USA only) RRSP (Canada) Fully remote and distributed teams Paid Parental Leave Ongoing"
+        },
+        {
+          "title": "Senior ServieNow Developer - ITSM \u2013 Remote \u00b7 Canada | Jobs.ca",
+          "url": "https://www.jobs.ca/mjb-technology-solutions/jobs/senior-servienow-developer-itsm-remote-canada-fc7c5757e88d",
+          "snippet": "Senior ServieNow Developer - ITSM\n\n* Canada\n* Remote\n* PostedOct 9, 2026\n* 1position\nApply on LinkedIn (LinkedIn sign-in required)\nOpens LinkedIn\nSign in to save this job Job alerts Job alerts\nEmployment type Full-time\nExperience level Senior \u00b7 5+ years\nMinimum education Professional degree\nPosting language English\nWorking hours 40 hours per week\nSeniority Mid-Senior level\nApplication method Apply on LinkedIn (LinkedIn sign-in required)\n\nJob summary\n\nDesign, develop, configure, and support ServiceNow ITSM solutions, including platform scripting, workflows, and integrations with enterprise applications. Collaborate with technical and business teams on requirements, design, testing, deployments, upgrades, troubleshooting, and production support.\n\nJob details\n\nSenior ServiceNow Developer \u2013 ITSM & Integrations Location: Canada \u2013 100% Remote Employment Type: Full time and Contract Experience: 8+ years overall IT experience; 5+ years hands-on ServiceNow development Job Summary We are seeking a Senior ServiceNow Developer with strong experience in ServiceNow ITSM, development, and enterprise integrations. The ideal candidate will have hands-on experience building and supporting ServiceNow solutions. Key Responsibilities Design, develop, configure, and customize ServiceNow solutions primarily across\n\n...\n\nDesign, develop, configure, and support ServiceNow ITSM solutions, including platform scripting, workflows, and integrations with enterprise applications."
+        }
+      ]
+    },
+    {
+      "provider": "jina",
+      "query": "ServiceNow OR Salesforce developer job Ontario Canada new posting",
+      "status": "ok",
+      "results": []
+    }
+  ]
+}
