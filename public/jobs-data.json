@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-03T19:01:23+00:00",
+ "generatedAt": "2026-11-03T19:04:16+00:00",
  "timezone": "America/Toronto",
- "count": 910,
- "appliedHidden": 15,
+ "count": 906,
+ "appliedHidden": 14,
  "sources": [
   "Adzuna",
   "Aggregator",
@@ -26,7 +26,6 @@
   "brightvisiontechnologies.applytojob.com",
   "ca.trabajo.org",
   "careers-itcfederal.icims.com",
-  "careers.celestica.com",
   "careers.cognizant.com",
   "careers.deloitte.ca",
   "careers.equifax.com",
@@ -34,6 +33,7 @@
   "careers.na.panasonic.com",
   "careers.outforundergrad.org",
   "careersen-mackenzieinvestments.icims.com",
+  "cazvid.com",
   "cgi.njoyn.com",
   "charityvillage.com",
   "cofomo.com",
@@ -59,7 +59,6 @@
   "jobs.slalom.com",
   "jobs.toronto.ca",
   "jobs.utoronto.ca",
-  "jobs.wawanesa.com",
   "jobsca.org",
   "randstad.ca",
   "remotive.com",
@@ -72,27 +71,6 @@
   "wsib-iaepup.fa.ocs.oraclecloud.com"
  ],
  "jobs": [
-  {
-   "posted": "2026-11-03",
-   "title": "Network Analyst - Technology Services (ServiceNow Incident/Change; soft)",
-   "company": "Mackenzie Health",
-   "location": "Vaughan, ON",
-   "url": "https://employment-mackenziehealth.icims.com/jobs/18989/network-analyst---technology-services/job",
-   "note": "via grokbot-hospital-boards--2026-11-03--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "employment-mackenziehealth.icims.com",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "network analyst - technology services (servicenow incident/change; soft) mackenzie health vaughan, on employment-mackenziehealth.icims.com servicenow via grokbot-hospital-boards--2026-11-03--v1.md servicenow itsm role fit",
-   "alternates": []
-  },
   {
    "posted": "2026-11-03",
    "title": "ServiceNow Specialist – CMDB / CSDM / Montreal, QC (Onsite) - FTE",
@@ -134,6 +112,27 @@
    ],
    "french": false,
    "search": "servicenow cmdb tata consultancy services montreal, quebec, canada linkedin servicenow via linkedin-guest--2026-11-03--v1.md servicenow cmdb canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Network Analyst - Technology Services (ServiceNow Incident/Change; soft)",
+   "company": "Mackenzie Health",
+   "location": "Vaughan, ON",
+   "url": "https://employment-mackenziehealth.icims.com/jobs/18989/network-analyst---technology-services/job",
+   "note": "via grokbot-hospital-boards--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "employment-mackenziehealth.icims.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "network analyst - technology services (servicenow incident/change; soft) mackenzie health vaughan, on employment-mackenziehealth.icims.com servicenow via grokbot-hospital-boards--2026-11-03--v1.md servicenow itsm role fit",
    "alternates": []
   },
   {
@@ -308,6 +307,38 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Systems Developer - Salesforce",
+   "company": "Co-operators",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487007645",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "systems developer - salesforce co-operators mississauga, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487006794",
+     "label": "LinkedIn · Guelph"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Senior Salesforce Developer",
    "company": "BULL TECHNICAL SERVICES LIMITED",
    "location": "Toronto, Ontario, Canada",
@@ -329,6 +360,48 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Salesforce Tech Lead",
+   "company": "K&amp;K Global Talent Solutions INC.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-tech-lead-at-k-k-global-talent-solutions-inc-4486897098",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce tech lead k&amp;k global talent solutions inc. toronto, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Senior Developer",
+   "company": "IKO North America",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce senior developer iko north america mississauga, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Salesforce Release Engineer",
    "company": "Cognizant",
    "location": "Toronto, Ontario, Canada",
@@ -346,6 +419,48 @@
    ],
    "french": false,
    "search": "salesforce release engineer cognizant toronto, ontario, canada linkedin salesforce via copilot-nextwave--2026-11-03--v1.md salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Marketing Cloud (SFMC) Consultant",
+   "company": "Smart IT Frame LLC",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4486047970",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud (sfmc) consultant smart it frame llc mississauga, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Implementation Consultant &amp; Platform Administrator",
+   "company": "SS&amp;C Technologies",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce implementation consultant &amp; platform administrator ss&amp;c technologies toronto, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -388,128 +503,6 @@
    ],
    "french": false,
    "search": "salesforce datacloud developer cognizant toronto, ontario, canada linkedin salesforce via copilot-nextwave--2026-11-03--v1.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Salesforce Senior Developer",
-   "company": "IKO",
-   "location": "Mississauga, ON",
-   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce senior developer iko mississauga, on workday ats salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399",
-     "label": "LinkedIn · Mississauga"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Systems Developer - Salesforce",
-   "company": "Co-operators",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487007645",
-   "note": "via linkedin-guest--2026-11-03--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "systems developer - salesforce co-operators mississauga, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487006794",
-     "label": "LinkedIn · Guelph"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Salesforce Tech Lead",
-   "company": "K&amp;K Global Talent Solutions INC.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-tech-lead-at-k-k-global-talent-solutions-inc-4486897098",
-   "note": "via linkedin-guest--2026-11-03--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce tech lead k&amp;k global talent solutions inc. toronto, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Salesforce Implementation Consultant &amp; Platform Administrator",
-   "company": "SS&amp;C Technologies",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282",
-   "note": "via linkedin-guest--2026-11-03--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce implementation consultant &amp; platform administrator ss&amp;c technologies toronto, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Salesforce Marketing Cloud (SFMC) Consultant",
-   "company": "Smart IT Frame LLC",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4486047970",
-   "note": "via linkedin-guest--2026-11-03--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce marketing cloud (sfmc) consultant smart it frame llc mississauga, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -639,6 +632,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Développeur(euse) Salesforce",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-salesforce-at-ia-financial-group-industrial-alliance-4479039173",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur(euse) salesforce ia financial group (industrial alliance) quebec, quebec, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Développeur principal/développeuse principale, Salesforce",
    "company": "Canadian Cancer Society",
    "location": "Prince George, British Columbia, Canada",
@@ -687,26 +700,6 @@
      "label": "LinkedIn · Montreal"
     }
    ]
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Développeur(euse) Salesforce",
-   "company": "iA Financial Group (Industrial Alliance)",
-   "location": "Québec, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-salesforce-at-ia-financial-group-industrial-alliance-4479039173",
-   "note": "via linkedin-guest--2026-11-03--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "developpeur(euse) salesforce ia financial group (industrial alliance) quebec, quebec, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce canada / remote",
-   "alternates": []
   },
   {
    "posted": "2026-11-03",
@@ -954,6 +947,27 @@
    ],
    "french": false,
    "search": "servicenow itom consultant 2isolutions inc. canada linkedin servicenow  servicenow itom role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "ServiceNow ITAM/Discovery in Toronto",
+   "company": "CazVid",
+   "location": "Not specified",
+   "url": "https://cazvid.com/en/job/servicenow-itam-discovery-4ca31a51",
+   "note": "via exa web search",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "cazvid.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "ITOM"
+   ],
+   "french": false,
+   "search": "servicenow itam/discovery in toronto cazvid not specified cazvid.com servicenow via exa web search servicenow itam itom",
    "alternates": []
   },
   {
@@ -1356,14 +1370,14 @@
   {
    "posted": "2026-11-02",
    "title": "Senior Salesforce Developer / Admin",
-   "company": "Celestica International LP",
-   "location": "Toronto, ON",
-   "url": "https://careers.celestica.com/job/Toronto-Senior-Salesforce-Developer-Admin-ON/1406609733",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md",
+   "company": "Celestica",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950814412",
+   "note": "restored after over-merge",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "careers.celestica.com",
-   "verified": "Employer board",
+   "source": "Adzuna",
+   "verified": "Aggregator",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -1371,14 +1385,8 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior salesforce developer / admin celestica international lp toronto, on careers.celestica.com salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950814412",
-     "label": "Adzuna · Toronto"
-    }
-   ]
+   "search": "senior salesforce developer / admin celestica toronto, ontario adzuna salesforce restored after over-merge salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-02",
@@ -14095,6 +14103,26 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Principal Solution Architect- ServiceNow",
+   "company": "Built In Toronto",
+   "location": "Not specified",
+   "url": "https://builtintoronto.com/job/principal-solution-architect-servicenow/11971031",
+   "note": "via firecrawl web search",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "BuiltIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "principal solution architect- servicenow built in toronto not specified builtin servicenow via firecrawl web search servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "Principal Solution Architect - ServiceNow - ServiceNow",
    "company": "Canada: Toronto; employer ATS remote=true, hybrid=false",
    "location": "Full-time",
@@ -16597,6 +16625,26 @@
    "alternates": []
   },
   {
+   "posted": "2026-10-25",
+   "title": "ITAM Governance Analyst in Toronto, ON",
+   "company": "Insight Global / MovoJobs",
+   "location": "Not specified",
+   "url": "https://movojobs.ca/insight-global/jobs/itam-governance-analyst-2829388",
+   "note": "via exa web search",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 34,
+   "matchReasons": [
+    "ITAM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "itam governance analyst in toronto, on insight global / movojobs not specified jobs.ca servicenow via exa web search itam role fit",
+   "alternates": []
+  },
+  {
    "posted": "2026-10-24",
    "title": "Senior Lead, ServiceNow ITOM New Toronto, Ontario, Canada",
    "company": "Take-Two Interactive",
@@ -16998,6 +17046,26 @@
    ],
    "french": false,
    "search": "servicenow platform engineer - lightfeather usa: washington, dc; hybrid full-time greenhouse servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-23",
+   "title": "ServiceNow Business Systems Analyst in Toronto, ON",
+   "company": "Insight Global / MovoJobs",
+   "location": "Not specified",
+   "url": "https://movojobs.ca/insight-global/jobs/servicenow-business-systems-analyst-2734332",
+   "note": "via exa web search",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow business systems analyst in toronto, on insight global / movojobs not specified jobs.ca servicenow via exa web search servicenow role fit",
    "alternates": []
   },
   {
@@ -18389,48 +18457,6 @@
    "alternates": []
   },
   {
-   "posted": "2026-10-20",
-   "title": "Salesforce Architect",
-   "company": "CGI",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-at-cgi-4408560005",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce architect cgi toronto, ontario, canada linkedin salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-20",
-   "title": "Engineering Manager, Salesforce",
-   "company": "Brex",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/engineering-manager-salesforce-at-brex-4481791568",
-   "note": "via copilot-pattern-rounds--2026-11-03--v21.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "engineering manager, salesforce brex vancouver, british columbia, canada linkedin salesforce via copilot-pattern-rounds--2026-11-03--v21.md salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
    "posted": "2026-10-19",
    "title": "ServiceNow Developer (Reporting & Analytics)",
    "company": "TELUS Digital",
@@ -18469,27 +18495,6 @@
    ],
    "french": false,
    "search": "expert software engineer - servicenow (oprydafq / ecejrkaa) - teema canada: toronto listing; explicitly remote united states or canada; eastern time full-time app.workwolf.com servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-19",
-   "title": "Product Developer, Salesforce",
-   "company": "NeuraFlash",
-   "location": "Remote - India (Bangalore, Hyderabad, Pune or Delhi Only)",
-   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6228534004",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "product developer, salesforce neuraflash remote - india (bangalore, hyderabad, pune or delhi only) greenhouse salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -18557,27 +18562,6 @@
    "alternates": []
   },
   {
-   "posted": "2026-10-18",
-   "title": "Salesforce Lead Developer",
-   "company": "Wawanesa Insurance",
-   "location": "Toronto (North York), ON + other Canada locations; hybrid",
-   "url": "https://jobs.wawanesa.com/job/Winnipeg%2C-MB-%28Hybrid%29-Salesforce-Lead-Developer-MB/603793117/",
-   "note": "via arlo--2026-11-03--v25.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.wawanesa.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce lead developer wawanesa insurance toronto (north york), on + other canada locations; hybrid jobs.wawanesa.com salesforce via arlo--2026-11-03--v25.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
    "posted": "2026-10-17",
    "title": "Service Now AI Architect",
    "company": "McKesson",
@@ -18627,44 +18611,22 @@
   },
   {
    "posted": "2026-10-17",
-   "title": "Senior Salesforce Developer",
-   "company": "Synechron",
-   "location": "Toronto, ON; hybrid",
-   "url": "https://jobsca.org/senior-salesforce_toronto-c117072/2026-10-synechron_i4248473031",
-   "note": "via grok-job-hunter--2026-11-02--v69.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobsca.org",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer synechron toronto, on; hybrid jobsca.org salesforce via grok-job-hunter--2026-11-02--v69.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-17",
-   "title": "Salesforce Administrator - Assistant Vice President",
-   "company": "iCapital",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-assistant-vice-president-at-icapital-4472203067",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
+   "title": "ServiceNow Developer (Sr. Associate)",
+   "company": "Huron / Built In Toronto",
+   "location": "Not specified",
+   "url": "https://builtintoronto.com/job/servicenow-developer-sr-associate/10653173",
+   "note": "via exa web search",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "BuiltIn",
    "verified": "Aggregator",
-   "match": 60,
+   "match": 76,
    "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
+    "ServiceNow",
+    "Role fit"
    ],
    "french": false,
-   "search": "salesforce administrator - assistant vice president icapital toronto, ontario, canada linkedin salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md salesforce role fit toronto area",
+   "search": "servicenow developer (sr. associate) huron / built in toronto not specified builtin servicenow via exa web search servicenow role fit",
    "alternates": []
   },
   {
@@ -18757,48 +18719,6 @@
   },
   {
    "posted": "2026-10-16",
-   "title": "Salesforce Developer / Administrator",
-   "company": "Astek Canada",
-   "location": "Remote, Canada",
-   "url": "https://www.jobs.ca/astek/jobs/salesforce-developer-administrator-developpeur-administrateur-salesforce-remote-canada-united-states-3d923fd88bc6",
-   "note": "via arlo--2026-11-02--v70.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer / administrator astek canada remote, canada jobs.ca salesforce via arlo--2026-11-02--v70.md salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-16",
-   "title": "Salesforce Administrator",
-   "company": "Doctors of BC",
-   "location": "Greater Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-doctors-of-bc-4479631375",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce administrator doctors of bc greater vancouver, british columbia, canada linkedin salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-16",
    "title": "Staff Site Reliability Engineer",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca",
@@ -18837,26 +18757,6 @@
    ],
    "french": false,
    "search": "senior machine learning engineer servicenow toronto, ontario, ca · remote smartrecruiters servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-16",
-   "title": "Salesforce Senior Developer (REQ-14036) - IKO",
-   "company": "Mississauga, Ontario; work mode not disclosed",
-   "location": "Full-time",
-   "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce senior developer (req-14036) - iko mississauga, ontario; work mode not disclosed full-time workday ats salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md salesforce role fit",
    "alternates": []
   },
   {
