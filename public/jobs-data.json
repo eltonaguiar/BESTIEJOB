@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-02T23:33:43+00:00",
+ "generatedAt": "2026-11-03T00:05:26+00:00",
  "timezone": "America/Toronto",
- "count": 406,
- "appliedHidden": 6,
+ "count": 407,
+ "appliedHidden": 5,
  "sources": [
   "Adzuna",
   "Aggregator",
@@ -43,6 +43,90 @@
   "wsib-iaepup.fa.ocs.oraclecloud.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow System Administrator",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow system administrator gdit any location / remote workday ats servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Developer",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer gdit any location / remote workday ats servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior ServiceNow Developer",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer gdit any location / remote workday ats servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Developer (Cloud Developer)",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Salesforce-Developer--Cloud-Developer-_RQ230765",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer (cloud developer) gdit any location / remote workday ats salesforce  salesforce role fit canada / remote",
+   "alternates": []
+  },
   {
    "posted": "2026-11-02",
    "title": "ServiceNow Software Asset Management Pro (SAM Pro) Consultant",
@@ -7875,27 +7959,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Business Process Consultant, Expert Services for ServiceNow Finance, Procurement & Legal Solutions",
-   "company": "ServiceNow",
-   "location": "Austin, TEXAS, us · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158582579",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "business process consultant, expert services for servicenow finance, procurement & legal solutions servicenow austin, texas, us · remote smartrecruiters servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
    "title": "ServiceNow Senior Technical Advisor",
    "company": "Bell",
    "location": "Toronto, Ontario",
@@ -8384,27 +8447,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "ITAM Governance Analyst",
-   "company": "Insight Global",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5946008454?utm_medium=api&utm_source=54ce986e",
-   "note": "via other-expansion--2026-11-02--v3.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 46,
-   "matchReasons": [
-    "ITAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "itam governance analyst insight global toronto, ontario adzuna servicenow via other-expansion--2026-11-02--v3.md itam role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
    "title": "Senior Salesforce Développeur — Sales Cloud & LWC, Hybride",
    "company": "Nesto Group",
    "location": "Montréal, Québec",
@@ -8421,26 +8463,6 @@
    ],
    "french": true,
    "search": "senior salesforce developpeur — sales cloud & lwc, hybride nesto group montreal, quebec adzuna salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md salesforce quebec",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "ServiceNow System Administrator (RQ230636) - GDIT",
-   "company": "USA: USA; remote",
-   "location": "Full-time",
-   "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow system administrator (rq230636) - gdit usa: usa; remote full-time workday ats servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
    "alternates": []
   }
  ]

@@ -4,11 +4,11 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-02T233343Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T000526Z.md`.
 
 ## Contents
 
-- [Current jobs — as of 2026-11-02](#current-jobs--as-of-2026-11-02)
+- [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
   - [ServiceNow jobs (150)](#servicenow-jobs-150)
   - [Salesforce jobs (150)](#salesforce-jobs-150)
   - [Other jobs (150)](#other-jobs-150)
@@ -16,9 +16,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-02
+## Current jobs — as of 2026-11-03
 
-Window: 2026-10-03 → 2026-11-02 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (150)
 
@@ -28,6 +28,9 @@ _developer / administrator / architect / analyst roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-03 | [ServiceNow System Administrator](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636) | GDIT | Any Location / Remote |  |
+| 2026-11-03 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |  |
+| 2026-11-03 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote |  |
 | 2026-11-02 | [ServiceNow Software Asset Management Pro (SAM Pro) Consultant](https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865) | 2iSolutions Inc. | Canada |  |
 | 2026-11-02 | [ServiceNow SAM Pro Consultant](https://ca.linkedin.com/jobs/view/4486426865) | 2iSolutions Inc. | Canada | via grok-job-hunter--2026-11-02--v41.md |
 | 2026-11-02 | [ServiceNow ITOM Specialist](https://ca.linkedin.com/jobs/view/servicenow-itom-specialist-at-raise-4486460378) | Raise | Saskatoon, Saskatchewan, Canada |  |
@@ -175,9 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-29 | [Principal Solution Architect- ServiceNow](https://www.adzuna.ca/details/5946065109) | ServiceNow | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [Principal Solution Architect - ServiceNow - ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000158575719-principal-solution-architect-servicenow?oga=true) | Canada: Toronto; employer ATS remote=true, hybrid=false | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [OPEN: ServiceNow – Architect](https://www.adzuna.ca/details/5946006914?utm_medium=api&utm_source=54ce986e) | Cpus Engineering Staffing Solutions Inc. | Oshawa, Durham region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ITAM Governance Analyst](https://www.adzuna.ca/details/5946008454?utm_medium=api&utm_source=54ce986e) | Insight Global | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-29 | [Business Process Consultant, Expert Services for ServiceNow Finance, Procurement & Legal Solutions](https://jobs.smartrecruiters.com/ServiceNow/744000158582579) | ServiceNow | Austin, TEXAS, us · Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-28 | [ServiceNow System Administrator (RQ230636) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636) | USA: USA; remote | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 
 </details>
 
@@ -189,6 +189,7 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-03 | [Salesforce Developer (Cloud Developer)](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Salesforce-Developer--Cloud-Developer-_RQ230765) | GDIT | Any Location / Remote |  |
 | 2026-11-02 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://www.adzuna.ca/details/5950813944) | Salesforce Partner Canada | Toronto, Ontario |  |
 | 2026-11-02 | [Senior Salesforce Technical Consultant](https://www.adzuna.ca/details/5950547938) | CYNET SYSTEMS | Mississauga, Peel region |  |
 | 2026-11-02 | [Senior Salesforce Developer / Admin](https://www.adzuna.ca/details/5950814412) | Celestica | Toronto, Ontario |  |
@@ -338,7 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-29 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5945717252?utm_medium=api&utm_source=54ce986e) | Journey Capital | Montréal, Québec | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5945688916) | Hire DigITalent | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [Senior Salesforce Advisory Consultant](https://www.adzuna.ca/details/5945996565?utm_medium=api&utm_source=54ce986e) | Capgemini | Mississauga, Peel region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5946006762?utm_medium=api&utm_source=54ce986e) | Relevance | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
 
 </details>
 
@@ -573,12 +573,16 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-02T23:30:01.246Z** · 761 live postings from 9 public sources · 98 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T00:00:02.066Z** · 761 live postings from 9 public sources · 98 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-03 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |
+| 2026-11-03 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote |
+| 2026-11-03 | [ServiceNow System Administrator](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636) | GDIT | Any Location / Remote |
+| 2026-11-03 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1) | GDIT | Any Location / Remote |
 | 2026-11-02 | [Lead ServiceNow SPM Technical Consultant](https://www.adzuna.ca/details/5950813531) | Peek IT Services | Ottawa, Ottawa region |
 | 2026-11-02 | [ServiceNow SAM Pro Consultant](https://ca.linkedin.com/jobs/view/4486426865) | 2iSolutions Inc. | Canada |
 | 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UFCvcf6MoLp) | Lightspeed Commerce, Inc. | Toronto, ON |
@@ -587,15 +591,12 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-02 | [ServiceNow Architect (526327)](https://www.fxinnovation.com/en/jobs/526327) | Ateko (FX Innovation) | Canada; remote |
 | 2026-11-02 | [Product Owner I - AskHR (ServiceNow HRSD) (R_1519634)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I---AskHR_R_1519634) | TD Bank | Toronto, ON |
 | 2026-11-02 | [Senior Solutions Consultant (603590)](https://crossfuze.pinpointhq.com/en/postings/603590) | Crossfuze (Elite ServiceNow partner) | Canada (remote) |
-| 2026-11-02 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-rexall-pharmacy-group-ltd-4485752549) | Rexall Pharmacy Group Ltd. | Mississauga, Ontario, Canada |
-| 2026-11-02 | [ServiceNow Consultant](https://ca.linkedin.com/jobs/view/servicenow-consultant-at-bull-information-technology-and-services-4485761822) | Bull Information Technology and Services | Toronto, Ontario, Canada |
-| 2026-11-02 | [ServiceNow ITOM Specialist](https://ca.linkedin.com/jobs/view/servicenow-itom-specialist-at-raise-4486460378) | Raise | Saskatoon, Saskatchewan, Canada |
-| 2026-11-02 | [ServiceNow ITOM Consultant](https://ca.linkedin.com/jobs/view/servicenow-itom-consultant-at-2isolutions-inc-4486429594) | 2iSolutions Inc. | Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-03 | [Salesforce Developer (Cloud Developer)](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Salesforce-Developer--Cloud-Developer-_RQ230765) | GDIT | Any Location / Remote |
 | 2026-11-02 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5950814827?utm_medium=api&utm_source=54ce986e) | ATB Financial | Fort Saskatchewan, Edmonton region |
 | 2026-11-02 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5950814682?utm_medium=api&utm_source=54ce986e) | ATB | Fort Saskatchewan, Edmonton region |
 | 2026-11-02 | [Salesforce Developer](https://www.adzuna.ca/details/5950814565) | Workday, Inc. | Canada |
@@ -607,7 +608,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-02 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5950813677) | ATB Financial | Calgary, Calgary region |
 | 2026-11-02 | [Salesforce QA Automation Developer](https://ats.rippling.com/nestogroup/jobs/9927bb74-d12e-4d60-b15d-966ec1147348) | nesto | Canada (remote/hybrid) |
 | 2026-11-02 | [Salesforce Functional Analyst (JR26101237)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Salesforce-Functional-Analyst_JR26101237) | Manulife | Waterloo, ON / Toronto, ON |
-| 2026-11-02 | [CRM Business Analyst (Salesforce) - TD Asset Management (R_1507246)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/CRM-Manager---TD-Asset-Management_R_1507246) | TD Bank | Toronto, ON |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-02T233343Z.md` holds the rows that aged out of the 30-day window on 2026-11-02.
+`README.BAK_2026-11-03T000526Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
