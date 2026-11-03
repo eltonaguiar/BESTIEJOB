@@ -108,3 +108,21 @@ raw 55 | keyword 0 | geo 0 | within 7 days 0 | new 0
 - Firecrawl 429s after ~10 requests/min; the fan-out degrades to the other providers.
 - The 85 new rows are the honest incremental yield: the existing sources are saturated,
   which is why the fan-out pivots to discovering *new employers* instead.
+
+## Follow-up: inbox guard was red for everyone
+
+`inbox/grokbot-hidden-title--2026-11-03--v13.md:10` had `2026-11` in the Posted cell.
+`scripts/check_inbox.py` accepts only `YYYY-MM-DD` or an undated marker, so the
+"Inbox submission guard" workflow failed on **every** push, including ones unrelated to
+that file. The source page shows only a month, so the honest value is an em dash
+(the merger skips undated rows). Guard now reports:
+`OK: every submission is well-formed` — 89 files, 10,200 rows.
+
+Verified live after the final push:
+
+```
+jobs-data.json   977 jobs · 61 dated 2026-11-03 · generatedAt 21:24:20Z
+README (live)    ### ServiceNow jobs (353) · ### Salesforce jobs (440) · ### Other jobs (412)
+Pages deploy     success on 2a7c08b
+Inbox guard      success on 908948b
+```
