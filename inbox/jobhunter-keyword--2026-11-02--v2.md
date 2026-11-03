@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T041008Z: +2 new, 0 duplicate, version 2 -->
 ---
 model: jobhunter-keyword
 ---

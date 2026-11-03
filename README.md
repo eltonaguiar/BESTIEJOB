@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T040942Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T041008Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
-  - [ServiceNow jobs (325)](#servicenow-jobs-325)
+  - [ServiceNow jobs (327)](#servicenow-jobs-327)
   - [Salesforce jobs (400)](#salesforce-jobs-400)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,13 +18,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **1125 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **1127 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (325)
+### ServiceNow jobs (327)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 325 postings</strong></summary>
+<details><summary><strong>Show 327 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -145,6 +145,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-30 | [IT Operations & CMDB Analyst](https://ca.linkedin.com/jobs/view/it-operations-cmdb-analyst-at-purolator-inc-4485105171) | Purolator Inc. | Mississauga, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-30 | [Développeur·euse ServiceNow](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur%C2%B7euse-servicenow-at-lightspeed-commerce-4466245163) | Lightspeed Commerce | Montreal, Quebec, Canada | via copilot-multiai--2026-11-03--v1.md |
 | 2026-10-30 | [Conseiller technique principal ServiceNow](https://www.adzuna.ca/details/5947177797?utm_medium=api&utm_source=54ce986e) | Bell | Toronto, Ontario | via other-expansion--2026-11-02--v23.md |
+| 2026-10-29 | [Technology Lead, Enterprise Platforms & Operation (Director) — ServiceNow/ITSM governance](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Technology-Lead--Enterprise-Platforms---Operation-Director-_R-6464) | TMX Group | Toronto, ON (hybrid) | employer Workday verified 2026-11-02; stretch (Director) |
 | 2026-10-29 | [Staff Systems Engineer](https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951) | ServiceNow | Toronto, Ontario, Canada | via twin 20-round harvest |
 | 2026-10-29 | [Sr Business Analyst ServiceNow HR](https://www.adzuna.ca/details/5946006974?utm_medium=api&utm_source=54ce986e) | Cpus Engineering Staffing Solutions Inc. | Oshawa, Durham region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [Spécialiste / Développeur ServiceNow](https://www.adzuna.ca/details/5946005577?utm_medium=api&utm_source=54ce986e) | TEHORA | Québec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
@@ -241,6 +242,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-27 | [Principal Solution Architect- ServiceNow](https://ca.linkedin.com/jobs/view/principal-solution-architect-servicenow-at-servicenow-4484026843) | ServiceNow | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
 | 2026-10-27 | [ITAM Specialist 12 Month Remote Contract in Canada](https://ca.linkedin.com/jobs/view/itam-specialist-12-month-remote-contract-in-canada-at-compugen-inc-4483802797) | Compugen Inc | Rankin Location 15 D, Ontario, Canada | via twin 20-round harvest |
 | 2026-10-27 | [Développeur.euse ServiceNow](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4472361195) | Ateko, backed by Bell Canada | Canada | via copilot-multiai--2026-11-03--v1.md |
+| 2026-10-26 | [Tech Ops Analyst II - Inventory & Asset Management (ServiceNow ITAM, FT)](https://tjx.wd1.myworkdayjobs.com/en-US/TJX_EXTERNAL/job/Tech-Ops-Analyst-II---Inventory---Asset-Management_REQ165788) | TJX Canada | Mississauga, ON | employer Workday verified 2026-11-02; HW lifecycle + ServiceNow inventory reconciliation; closes 2026-11-09 |
 | 2026-10-26 | [Staff Incident Response Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157918029) | ServiceNow | Vancouver, British Columbia, ca · Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
 | 2026-10-26 | [Staff Incident Response Engineer](https://ca.linkedin.com/jobs/view/staff-incident-response-engineer-at-servicenow-4483125674) | ServiceNow | Vancouver, British Columbia, Canada | restored after over-merge |
 | 2026-10-26 | [ServiceNow Technical Consultants](https://www.adzuna.ca/details/5942233022?utm_medium=api&utm_source=54ce986e) | ExcelGens, Inc. | Ottawa, Ottawa region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
@@ -1270,4 +1272,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T040942Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T041008Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
