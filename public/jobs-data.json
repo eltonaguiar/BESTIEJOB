@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T21:44:56+00:00",
+ "generatedAt": "2026-11-03T21:48:22+00:00",
  "timezone": "America/Toronto",
- "count": 409,
+ "count": 412,
  "appliedHidden": 8,
  "sources": [
   "2.halvolink.liveblog365.com",
@@ -41,6 +41,7 @@
   "careers.mckesson.com",
   "careers.playstation.com",
   "careers.softchoice.com",
+  "clarksonsquare.com",
   "clearedjobs.net",
   "cofomo.com",
   "confidential.careers",
@@ -68,6 +69,7 @@
   "hiring.camp",
   "hiringcafe.com",
   "hirocareers.com",
+  "hostlist.io",
   "hubmub.com",
   "huntr.co",
   "ihiretechnology.com",
@@ -85,6 +87,7 @@
   "jobs.jobvite.com",
   "jobs.jvistg2.com",
   "jobs.scotiabank.com",
+  "jobs.telusdigital.com",
   "jobs.weekday.works",
   "jobsca.org",
   "jobsearch.alstom.com",
@@ -112,10 +115,13 @@
   "randstad.com",
   "recruit.net",
   "recruiting.paylocity.com",
+  "remote.mq.unaux.com",
   "remotejobs.org",
+  "remotery.co",
   "resuminder.com",
   "revopsroles.com",
   "revpath.dealhub.io",
+  "rrrrrrrrr.uk.my-board.org",
   "rsvp.servicenow.com",
   "servicenow.com",
   "servicescientist.com",
@@ -130,7 +136,9 @@
   "technocore360.com",
   "thefountaingroup.com",
   "tryapplynow.com",
+  "wearedevelopers.com",
   "web3.career",
+  "wellfound.com",
   "wingategroup.ca",
   "workopia.io"
  ],
@@ -1030,6 +1038,27 @@
    ],
    "french": false,
    "search": "servicenow platform developer unknown canada group.bnpparibas servicenow 8/10 servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Implementation Specialist",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.telusdigital.com/en_US/MoroccoCareers/PipelineDetail/ServiceNow-Implementation-Specialist/79604",
+   "note": "8/10",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.telusdigital.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow implementation specialist unknown canada jobs.telusdigital.com servicenow 8/10 servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -4249,6 +4278,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Web Designer & Developer job at Elev8 Web Studio in Remote - Job Search",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://clarksonsquare.com/workspread/job/web-designer-developer-at-elev8-web-studio-remote-abac7f6af87dac49jktk-Y2xhcmtzb2",
+   "note": "7/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "clarksonsquare.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "web designer & developer job at elev8 web studio in remote - job search unknown canada clarksonsquare.com other 7/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Software Engineer I, Backend (ML Platform)",
    "company": "Unknown",
    "location": "Canada",
@@ -4305,6 +4354,26 @@
    ],
    "french": false,
    "search": "software engineer i - core product - notification platform team at pagerduty • jobs for developers unknown canada jobsfordevelopers.com other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Software Engineer I (P1) at Qualifacts",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://meterwork.com/job/software-engineer-i-p1_at_qualifacts_Kcki8",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "meterwork.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "software engineer i (p1) at qualifacts unknown canada meterwork.com other 8/10 role fit canada / remote",
    "alternates": []
   },
   {
@@ -4385,6 +4454,46 @@
    ],
    "french": false,
    "search": "senior technology developer (remote) @ koniag government services, llc unknown canada aggregator other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior Software Engineer I - Platform Enablement at Jobgether",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.lever.co/jobgether/6fc6faaf-09f1-432f-a40a-f035c5f04543",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior software engineer i - platform enablement at jobgether unknown canada lever other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior Software Engineer I (Full Stack), Cyber Risk (Remote Canada)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remote.mq.unaux.com/remote-jobs/senior-software-engineer-i-full-stack-cyber-risk-remote-canada-1",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remote.mq.unaux.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior software engineer i (full stack), cyber risk (remote canada) unknown canada remote.mq.unaux.com other 8/10 role fit canada / remote",
    "alternates": []
   },
   {
@@ -4509,6 +4618,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Professional Services Consultant I @ Absorb",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.ashbyhq.com/absorblms/0daca5da-34d3-421c-a54b-09e2c3c25255",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Ashby",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "professional services consultant i @ absorb unknown canada ashby other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Platform Engineer I - Machine Learning Infrastructure at Spotify",
    "company": "Unknown",
    "location": "Canada",
@@ -4589,6 +4718,46 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Jobs GIA Platform Specialist 08-04-2026 Montreal",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobcanadian.com/gia-platform-specialist-job42711",
+   "note": "7/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobcanadian.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "jobs gia platform specialist 08-04-2026 montreal unknown canada jobcanadian.com other 7/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Jobs Frontend Engineer - ONT 08-04-2026 Toronto",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobcanadian.com/frontend-engineer-ont-job37934",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobcanadian.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "jobs frontend engineer - ont 08-04-2026 toronto unknown canada jobcanadian.com other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Jobgether - Senior 3D & AI Systems Software Developer",
    "company": "Unknown",
    "location": "Canada",
@@ -4605,6 +4774,26 @@
    ],
    "french": false,
    "search": "jobgether - senior 3d & ai systems software developer unknown canada lever other 7/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Job Application for Senior Impartner Admin, PRM at Twilio",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8088451",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "job application for senior impartner admin, prm at twilio unknown canada greenhouse other 8/10 role fit canada / remote",
    "alternates": []
   },
   {
@@ -4629,6 +4818,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Intermediate/Senior Full-Stack Software Developer - Platform",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ats.rippling.com/en-CA/gaiias-open-positions/jobs/ec2d8e28-1704-4826-a94a-15e26988ab79",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "ats.rippling.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "intermediate/senior full-stack software developer - platform unknown canada ats.rippling.com other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Int. Application Administrator for our higher education client's DXP platform",
    "company": "Unknown",
    "location": "Canada",
@@ -4649,6 +4858,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Impartner Platform Administrator",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.wearedevelopers.com/jobs/ext/2849398-impartner-platform-administrator",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "wearedevelopers.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "impartner platform administrator unknown canada wearedevelopers.com other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Full-stack web application developer With ensogo Inc. - GTA Others - ON Ontario, CANADA",
    "company": "Unknown",
    "location": "Canada",
@@ -4665,6 +4894,46 @@
    ],
    "french": false,
    "search": "full-stack web application developer with ensogo inc. - gta others - on ontario, canada unknown canada jobforcanadian.com other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Full Stack Developer in Ontario Canada, Ontario - Signal49 Research",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.trabajo.org/job-4038-34c8ac4736b367f165770b6815d08adb",
+   "note": "7/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "ca.trabajo.org",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "full stack developer in ontario canada, ontario - signal49 research unknown canada ca.trabajo.org other 7/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Developer Intern, Trust Platforms - Fall 2026",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://rrrrrrrrr.uk.my-board.org/remote-jobs/developer-intern-trust-platforms-fall-2026-1",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "rrrrrrrrr.uk.my-board.org",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "developer intern, trust platforms - fall 2026 unknown canada rrrrrrrrr.uk.my-board.org other 8/10 role fit canada / remote",
    "alternates": []
   },
   {
@@ -4765,6 +5034,26 @@
    ],
    "french": false,
    "search": "ai platform administrator at le005 abc fitness solutions, llc unknown canada startup.jobs other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "AI Platform Administrator",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobgether.com/offer/6a7f50be490731f1e1a081fa-ai-platform-administrator",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobgether.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "ai platform administrator unknown canada jobgether.com other 8/10 role fit canada / remote",
    "alternates": []
   },
   {
@@ -5329,6 +5618,25 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Remote IT Systems Engineer at Platform.sh / Remotery",
+   "company": "Remotery](https://www.remotery.co/job/remote-it-systems-engineer-at-platformsh-in-canada-full-time-d288e9)",
+   "location": "Unknown",
+   "url": "https://www.remotery.co/job/remote-it-systems-engineer-at-platformsh-in-canada-full-time-d288e9",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remotery.co",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "remote it systems engineer at platform.sh / remotery remotery](https://www.remotery.co/job/remote-it-systems-engineer-at-platformsh-in-canada-full-time-d288e9) unknown remotery.co other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Project Manager, Electrical Utility at CSA Group (Toronto, Ontario) / $86,160-$100,000/annually",
    "company": "$86,160-$100,000/annually](https://www.pmjobs.ca/job/c90e1c64-61a4-4dbe-aef6-bf95a9e9a53b)",
    "location": "Unknown",
@@ -5424,6 +5732,25 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Platform Engineer at Kooltra • Toronto • Remote (Work from Home) / Wellfound",
+   "company": "Wellfound](https://wellfound.com/jobs/4523371-platform-engineer)",
+   "location": "Unknown",
+   "url": "https://wellfound.com/jobs/4523371-platform-engineer",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "wellfound.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "platform engineer at kooltra • toronto • remote (work from home) / wellfound wellfound](https://wellfound.com/jobs/4523371-platform-engineer) unknown wellfound.com other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Mechanical CAD Technician in toronto, on - BPA",
    "company": "Unknown",
    "location": "Canada",
@@ -5462,6 +5789,25 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Lendesk hiring Sr. Full Stack Developer • Remote (Work from Home) / Himalayas",
+   "company": "Himalayas](https://himalayas.app/companies/lendesk/jobs/sr-full-stack-developer)",
+   "location": "Unknown",
+   "url": "https://himalayas.app/companies/lendesk/jobs/sr-full-stack-developer",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "himalayas.app",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "lendesk hiring sr. full stack developer • remote (work from home) / himalayas himalayas](https://himalayas.app/companies/lendesk/jobs/sr-full-stack-developer) unknown himalayas.app other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Learning and Development Coordinator in Winnipeg, Manitoba - CSA Group",
    "company": "Unknown",
    "location": "Canada",
@@ -5481,6 +5827,63 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Lead API/Platform Engineer - IDC Research Inc. / BeBee",
+   "company": "BeBee](https://bebee.com/ca/jobs/lead-api-platform-engineer-idc-research-inc-ca-remote--theirstack-704565135)",
+   "location": "Unknown",
+   "url": "https://bebee.com/ca/jobs/lead-api-platform-engineer-idc-research-inc-ca-remote--theirstack-704565135",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "bebee.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "lead api/platform engineer - idc research inc. / bebee bebee](https://bebee.com/ca/jobs/lead-api-platform-engineer-idc-research-inc-ca-remote--theirstack-704565135) unknown bebee.com other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Intermediate/Senior Full-Stack Software Developer - Platform / Gaiia / Hiretik",
+   "company": "Gaiia",
+   "location": "Hiretik](https://hiretik.com/jobs/1fbe04e3-d504-4623-9a45-1d089082bd3c)",
+   "url": "https://hiretik.com/jobs/1fbe04e3-d504-4623-9a45-1d089082bd3c",
+   "note": "Unknown",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "hiretik.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "intermediate/senior full-stack software developer - platform / gaiia / hiretik gaiia hiretik](https://hiretik.com/jobs/1fbe04e3-d504-4623-9a45-1d089082bd3c) hiretik.com other unknown role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Intermediate/Senior Full-Stack Software Developer - Platform - gaiia / Built In",
+   "company": "Built In](https://builtin.com/job/intermediate-senior-full-stack-software-developer-platform/10102748)",
+   "location": "Unknown",
+   "url": "https://builtin.com/job/intermediate-senior-full-stack-software-developer-platform/10102748",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "BuiltIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "intermediate/senior full-stack software developer - platform - gaiia / built in built in](https://builtin.com/job/intermediate-senior-full-stack-software-developer-platform/10102748) unknown builtin other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Intermediate Bridge CAD Designer in Toronto, Ontario - GHD",
    "company": "Unknown",
    "location": "Canada",
@@ -5496,6 +5899,25 @@
    ],
    "french": false,
    "search": "intermediate bridge cad designer in toronto, ontario - ghd unknown canada ca.trabajo.org other 6/10 canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "IT Systems Engineer at Platform.sh / HOSTLIST.IO",
+   "company": "HOSTLIST.IO](https://hostlist.io/jobs/platform-it-systems-engineer-8635062002)",
+   "location": "Unknown",
+   "url": "https://hostlist.io/jobs/platform-it-systems-engineer-8635062002",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "hostlist.io",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "it systems engineer at platform.sh / hostlist.io hostlist.io](https://hostlist.io/jobs/platform-it-systems-engineer-8635062002) unknown hostlist.io other canada role fit",
    "alternates": []
   },
   {
@@ -5557,6 +5979,25 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Fullscript hiring Senior DevOps Engineer • Remote (Work from Home) / Himalayas",
+   "company": "Himalayas](https://himalayas.app/companies/fullscript/jobs/senior-devops-engineer)",
+   "location": "Unknown",
+   "url": "https://himalayas.app/companies/fullscript/jobs/senior-devops-engineer",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "himalayas.app",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "fullscript hiring senior devops engineer • remote (work from home) / himalayas himalayas](https://himalayas.app/companies/fullscript/jobs/senior-devops-engineer) unknown himalayas.app other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "FrontEnd CMA (CAD) Engineer - Arm / Built In",
    "company": "Built In](https://builtin.com/job/frontend-cma-cad-engineer/10836736)",
    "location": "Unknown",
@@ -5572,6 +6013,25 @@
    ],
    "french": false,
    "search": "frontend cma (cad) engineer - arm / built in built in](https://builtin.com/job/frontend-cma-cad-engineer/10836736) unknown builtin other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Formant hiring Full-Stack Engineer I • Remote (Work from Home) / Himalayas",
+   "company": "Himalayas](https://himalayas.app/companies/formant/jobs/full-stack-engineer-i-445395198)",
+   "location": "Unknown",
+   "url": "https://himalayas.app/companies/formant/jobs/full-stack-engineer-i-445395198",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "himalayas.app",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "formant hiring full-stack engineer i • remote (work from home) / himalayas himalayas](https://himalayas.app/companies/formant/jobs/full-stack-engineer-i-445395198) unknown himalayas.app other canada role fit",
    "alternates": []
   },
   {
@@ -5743,6 +6203,25 @@
    ],
    "french": false,
    "search": "application developer in markham, ontario / careers at adastra head office (markham) careers at adastra head office (markham)](https://careers-adastragrp.icims.com/jobs/5645/application-developer/job) unknown careers-adastragrp.icims.com other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Ai Platform Administrator at ABC Fitness / Workopia",
+   "company": "Workopia](https://workopia.io/jobs/f283458f90057de6c4a6aaee1c6e69e6)",
+   "location": "Unknown",
+   "url": "https://workopia.io/jobs/f283458f90057de6c4a6aaee1c6e69e6",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "workopia.io",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "ai platform administrator at abc fitness / workopia workopia](https://workopia.io/jobs/f283458f90057de6c4a6aaee1c6e69e6) unknown workopia.io other canada role fit",
    "alternates": []
   },
   {
@@ -6976,28 +7455,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Marketing Automation Developer",
-   "company": "JAM CRM",
-   "location": "Toronto",
-   "url": "https://ca.linkedin.com/jobs/view/marketing-automation-developer-at-jam-crm-4486178139",
-   "note": "Salesforce LinkedIn 4486178139",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 50,
-   "matchReasons": [
-    "Salesforce",
-    "Automation",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "marketing automation developer jam crm toronto linkedin other salesforce linkedin 4486178139 salesforce automation role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "Salesforce DevOps Developer",
    "company": "ATB Financial",
    "location": "Calgary, Calgary region",
@@ -7038,27 +7495,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Incident Management, Lead",
-   "company": "Interac Corp.",
-   "location": "Toronto",
-   "url": "https://ca.linkedin.com/jobs/view/incident-management-lead-at-interac-corp-4459420177",
-   "note": "ITSM LinkedIn 4459420177",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 46,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "incident management, lead interac corp. toronto linkedin other itsm linkedin 4459420177 itsm role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "ITAM Specialist",
    "company": "Raise",
    "location": "Saskatoon, Saskatchewan, Canada",
@@ -7080,28 +7516,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "DDI Network Engineer",
-   "company": "BMO Financial",
-   "location": "Toronto; apply by 2026-11-29",
-   "url": "https://www.adzuna.ca/land/ad/5950298778",
-   "note": "ITSM / ITIL Adzuna 5950298778",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 41,
-   "matchReasons": [
-    "ITSM",
-    "ITIL",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "ddi network engineer bmo financial toronto; apply by 2026-11-29 adzuna other itsm / itil adzuna 5950298778 itsm itil role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "Senior Implementation Consultant",
    "company": "Clariti Cloud",
    "location": "Toronto",
@@ -7119,48 +7533,6 @@
    ],
    "french": false,
    "search": "senior implementation consultant clariti cloud toronto adzuna other salesforce adzuna 5950546753 salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Implementation Consultant",
-   "company": "Clariti Cloud",
-   "location": "Toronto",
-   "url": "https://www.adzuna.ca/details/5950539554",
-   "note": "Salesforce Adzuna 5950539554",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 40,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "implementation consultant clariti cloud toronto adzuna other salesforce adzuna 5950539554 salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Architecte de systèmes",
-   "company": "iSteer Inc.",
-   "location": "Toronto; permanent, French-language posting",
-   "url": "https://www.adzuna.ca/details/5950521655",
-   "note": "Salesforce Adzuna 5950521655",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 40,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "architecte de systemes isteer inc. toronto; permanent, french-language posting adzuna other salesforce adzuna 5950521655 salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -7207,27 +7579,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Full Stack Senior Engineering Lead - Inventory Orchestration",
-   "company": "Citi",
-   "location": "Mississauga, Peel region",
-   "url": "https://www.adzuna.ca/details/5950814265?utm_medium=api&utm_source=54ce986e",
-   "note": "Full stack",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 38,
-   "matchReasons": [
-    "Flow Designer",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "full stack senior engineering lead - inventory orchestration citi mississauga, peel region adzuna other full stack flow designer role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "ITAM Management (Mid Level)",
    "company": "Soho Square Solutions",
    "location": "Montreal, Quebec, Canada",
@@ -7244,27 +7595,6 @@
    ],
    "french": false,
    "search": "itam management (mid level) soho square solutions montreal, quebec, canada linkedin servicenow via linkedin-guest--2026-11-02--v8.md itam canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Implementation Specialist (English/Spanish)",
-   "company": "SysAid",
-   "location": "Toronto",
-   "url": "https://ca.linkedin.com/jobs/view/implementation-specialist-english-spanish-at-sysaid-4484338103",
-   "note": "ITSM platform LinkedIn 4484338103",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 33,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "implementation specialist (english/spanish) sysaid toronto linkedin other itsm platform linkedin 4484338103 itsm role fit toronto area",
    "alternates": []
   },
   {
@@ -7307,89 +7637,6 @@
    ],
    "french": false,
    "search": "software developer – senior (sibel crm) innosystech inc toronto, onsite; 4 months adzuna other crm / integration adzuna 5950536165 integration role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Municipal Implementation Consultant",
-   "company": "Agilyx (MUNIvers)",
-   "location": "Victoria, BC; closes 2026-11-15",
-   "url": "https://www.adzuna.ca/details/5950548981",
-   "note": "Salesforce Adzuna 5950548981",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 28,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "municipal implementation consultant agilyx (munivers) victoria, bc; closes 2026-11-15 adzuna other salesforce adzuna 5950548981 salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Middleware Specialist - Senior",
-   "company": "Innosystech Inc",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5950540043?utm_medium=api&utm_source=54ce986e",
-   "note": "ITIL / enterprise platform ops Adzuna 5950540043 — likely same req as Maarut RQ11527 below",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 28,
-   "matchReasons": [
-    "ITIL",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "middleware specialist - senior innosystech inc toronto, ontario adzuna other itil / enterprise platform ops adzuna 5950540043 — likely same req as maarut rq11527 below itil role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Customer Data and Report Analyst",
-   "company": "Hydro One",
-   "location": "Markham",
-   "url": "https://ca.linkedin.com/jobs/view/customer-data-and-report-analyst-at-hydro-one-4485446700",
-   "note": "Power BI / SQL reporting LinkedIn 4485446700",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 26,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "customer data and report analyst hydro one markham linkedin other power bi / sql reporting linkedin 4485446700 data/reporting role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "AI Engineer",
-   "company": "Insight Global",
-   "location": "Toronto",
-   "url": "https://www.adzuna.ca/details/5950337000",
-   "note": "Databricks / SQL Adzuna 5950337000",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 26,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "ai engineer insight global toronto adzuna other databricks / sql adzuna 5950337000 data/reporting role fit toronto area",
    "alternates": []
   },
   {
@@ -7455,27 +7702,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Development Consultant (Bilingual)",
-   "company": "Querentia",
-   "location": "Canada, remote",
-   "url": "https://www.adzuna.ca/details/5950539681",
-   "note": "VBA / multi-language dev Adzuna 5950539681",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 21,
-   "matchReasons": [
-    "Automation",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "development consultant (bilingual) querentia canada, remote adzuna other vba / multi-language dev adzuna 5950539681 automation role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "Senior Manager, Customer Success Applications",
    "company": "Clio",
    "location": "Toronto, ON",
@@ -7536,46 +7762,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "React Native - Mobile Full-Stack Developer",
-   "company": "Zoho",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/react-native-mobile-full-stack-developer-at-zoho-4485746214",
-   "note": "Full stack",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "react native - mobile full-stack developer zoho toronto, ontario, canada linkedin other full stack role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "DevOps Engineer",
-   "company": "TD",
-   "location": "Toronto",
-   "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-td-4486119447",
-   "note": "CI/CD, GitHub Actions LinkedIn 4486119447",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer td toronto linkedin other ci/cd, github actions linkedin 4486119447 role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "AI DevOps Specialist (GCP & Vertex AI)",
    "company": "Experis",
    "location": "Toronto, Ontario",
@@ -7612,66 +7798,6 @@
    ],
    "french": false,
    "search": "senior it specialist gauthier business technologies north vancouver adzuna other itil / msp adzuna 5950433413 itil role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "BSA_UNDERWRITING",
-   "company": "Epsilon Solutions LTD",
-   "location": "Toronto, hybrid; full-time",
-   "url": "https://www.adzuna.ca/details/5950537807",
-   "note": "Business systems analyst Adzuna 5950537807",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "bsa_underwriting epsilon solutions ltd toronto, hybrid; full-time adzuna other business systems analyst adzuna 5950537807 role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": ".Net Full Stack Developer (Canada)",
-   "company": "Rumor",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5950814321?utm_medium=api&utm_source=54ce986e",
-   "note": "Full stack",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": ".net full stack developer (canada) rumor canada adzuna other full stack role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Microsoft NAV / Business Central ERP Systems Analyst",
-   "company": "NPA WorldWide",
-   "location": "Guelph, Wellington region",
-   "url": "https://www.adzuna.ca/land/ad/5950298314",
-   "note": "Tableau / BI adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 14,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "microsoft nav / business central erp systems analyst npa worldwide guelph, wellington region adzuna other tableau / bi adzuna data/reporting role fit",
    "alternates": []
   },
   {
@@ -7729,25 +7855,6 @@
    ],
    "french": false,
    "search": "principal devops engineer - fintech platforms placements24 kimberley, grey adzuna other devops / cloud role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Home Share Strategic Initiatives Analyst (Permanent) - Location Negotiable - 2026.136",
-   "company": "Community Living BC",
-   "location": "Marpole, Vancouver",
-   "url": "https://www.adzuna.ca/details/5950434515",
-   "note": "via peer-buffy-2026-11-02-readme-consolidation--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "home share strategic initiatives analyst (permanent) - location negotiable - 2026.136 community living bc marpole, vancouver adzuna other via peer-buffy-2026-11-02-readme-consolidation--2026-11-02--v1.md role fit",
    "alternates": []
   },
   {
@@ -8260,26 +8367,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "QM – Salesforce Tester",
-   "company": "Tata Consultancy Services",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/qm-%E2%80%93-salesforce-tester-at-tata-consultancy-services-4485403209",
-   "note": "via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "qm – salesforce tester tata consultancy services toronto, ontario, canada linkedin salesforce via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md salesforce toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Senior Consultant, Salesforce Platform - Deloitte Technology Canada (DTC), Platform Team (req 133770)",
    "company": "Toronto, Burlington ON or Fredericton NB",
    "location": "LinkedIn card 2026-11-01; employer requisition live (HTTP 200) 2026-11-02",
@@ -8296,48 +8383,6 @@
    ],
    "french": false,
    "search": "senior consultant, salesforce platform - deloitte technology canada (dtc), platform team (req 133770) toronto, burlington on or fredericton nb linkedin card 2026-11-01; employer requisition live (http 200) 2026-11-02 careers.deloitte.ca salesforce  salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Systems Administrator (Windows/Unix-Linux, Automation)",
-   "company": "BMO Financial",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949574744?utm_medium=api&utm_source=54ce986e",
-   "note": "PowerShell automation; prior BMO experience Adzuna 5949574744",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 30,
-   "matchReasons": [
-    "Automation",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "systems administrator (windows/unix-linux, automation) bmo financial toronto, ontario adzuna other powershell automation; prior bmo experience adzuna 5949574744 automation role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Technical Consultant, Professional Services",
-   "company": "Zensar Technologies",
-   "location": "Canada (remote)",
-   "url": "https://www.adzuna.ca/details/5948985233?utm_medium=api&utm_source=54ce986e",
-   "note": "Technical consulting Adzuna 5948985233",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 26,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "technical consultant, professional services zensar technologies canada (remote) adzuna other technical consulting adzuna 5948985233 consulting/ba role fit canada / remote",
    "alternates": []
   },
   {
