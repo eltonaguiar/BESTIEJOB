@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T03:40:36+00:00",
+ "generatedAt": "2026-11-03T03:53:19+00:00",
  "timezone": "America/Toronto",
- "count": 820,
+ "count": 825,
  "appliedHidden": 20,
  "sources": [
   "Adzuna",
@@ -537,6 +537,50 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Salesforce Marketing Cloud(SFMC) Business Analyst",
+   "company": "Enterprise Solutions Inc.",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 70,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud(sfmc) business analyst enterprise solutions inc. mississauga, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Salesforce Business analyst",
+   "company": "Cloudious LLC",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-cloudious-llc-4486425532",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 70,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce business analyst cloudious llc mississauga, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Salesforce QA Automation Developer",
    "company": "nesto",
    "location": "Canada (remote/hybrid)",
@@ -678,6 +722,48 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Salesforce Technical Architect with Revenue Cloud (RCA)",
+   "company": "LTM",
+   "location": "Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-with-revenue-cloud-rca-at-ltm-4484622096",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect with revenue cloud (rca) ltm ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Salesforce Technical Architect",
+   "company": "LTM",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect ltm toronto, ontario, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Salesforce Marketing Cloud(SFMC) consultant",
    "company": "Smart IT Frame LLC",
    "location": "Mississauga, Ontario, Canada",
@@ -748,7 +834,13 @@
    ],
    "french": false,
    "search": "salesforce functional analyst (jr26101237) manulife waterloo, on / toronto, on workday ats salesforce via grok-job-hunter--2026-11-02--v50.md salesforce role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737",
+     "label": "LinkedIn · Waterloo"
+    }
+   ]
   },
   {
    "posted": "2026-11-02",
@@ -974,6 +1066,27 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
+   "company": "Alithya",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-et-impl%C3%A9mentations-at-alithya-4484606302",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "conseiller ou conseillere en architecture technique salesforce, lwc, apex et implementations alithya montreal, quebec, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Business Systems Analyst – Salesforce",
    "company": "American Iron & Metal (AIM)",
    "location": "Montreal, Quebec, Canada",
@@ -991,6 +1104,27 @@
    ],
    "french": false,
    "search": "business systems analyst – salesforce american iron & metal (aim) montreal, quebec, canada linkedin salesforce via buffy-critical--2026-11-02--v2.md salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Analyste des systèmes d’affaires - Salesforce",
+   "company": "American Iron &amp; Metal (AIM)",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-des-syst%C3%A8mes-d%E2%80%99affaires-salesforce-at-american-iron-metal-aim-4485760072",
+   "note": "via linkedin-guest--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste des systemes d’affaires - salesforce american iron &amp; metal (aim) montreal, quebec, canada linkedin salesforce via linkedin-guest--2026-11-03--v1.md salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -1167,6 +1301,27 @@
      "label": "LinkedIn · Ontario"
     }
    ]
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior Software Engineer, Asset Management Digital Solutions (AMDS)",
+   "company": "KPMG",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5951076681?utm_medium=api&utm_source=54ce986e",
+   "note": "via R10 SN partners A",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "ITAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior software engineer, asset management digital solutions (amds) kpmg toronto, ontario adzuna other via r10 sn partners a itam role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-02",
@@ -2627,6 +2782,27 @@
    ],
    "french": false,
    "search": "directeur(trice), salesforce fonctionnel kpmg canada montreal, quebec, canada linkedin salesforce via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md salesforce canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "Solution Architect (Wealth/ Asset Management)",
+   "company": "CGI",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5949020148?utm_medium=api&utm_source=54ce986e",
+   "note": "via R10 SN partners A",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "ITAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "solution architect (wealth/ asset management) cgi toronto, ontario adzuna other via r10 sn partners a itam role fit toronto area",
    "alternates": []
   },
   {
@@ -4332,6 +4508,25 @@
   },
   {
    "posted": "2026-11-01",
+   "title": "Microsoft Dynamics 365 & Power Platform Developer",
+   "company": "CGI",
+   "location": "Halifax region, Nova Scotia",
+   "url": "https://www.adzuna.ca/details/5949004698?utm_medium=api&utm_source=54ce986e",
+   "note": "via R10 SN partners A",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "microsoft dynamics 365 & power platform developer cgi halifax region, nova scotia adzuna other via r10 sn partners a role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
    "title": "Marketing Sales Specialist ($90K-$210K)",
    "company": "Best Version Media",
    "location": "Surrey, Greater Vancouver",
@@ -5410,6 +5605,27 @@
    ],
    "french": false,
    "search": "manager, financial services-wealth & asset management kpmg toronto, ontario adzuna other via other-expansion--2026-11-02--v13.md itam role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Manager and Senior Advisor, to Deputy Chief Engineer & EVP of Engineering & Asset Management",
+   "company": "Metrolinx",
+   "location": "Railway Lands, City of Toronto",
+   "url": "https://www.adzuna.ca/details/5947843924?utm_medium=api&utm_source=54ce986e",
+   "note": "via R19 direct employers",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "ITAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "manager and senior advisor, to deputy chief engineer & evp of engineering & asset management metrolinx railway lands, city of toronto adzuna other via r19 direct employers itam role fit toronto area",
    "alternates": []
   },
   {
@@ -10110,7 +10326,13 @@
    ],
    "french": false,
    "search": "data center asset management, specialist (433411) bell montreal, qc jobs.bell.ca other via grok-job-hunter--2026-11-02--v37.md itam role fit quebec",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5947564677?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Regina region"
+    }
+   ]
   },
   {
    "posted": "2026-10-30",
@@ -13576,6 +13798,26 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "IT Vendor Management Data Analyst – HYBRID 6M->PERM (1761) 65/hr",
+   "company": "Direct IT Recruiting Inc.",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5945996055?utm_medium=api&utm_source=54ce986e",
+   "note": "via R18 contracting sweep",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "it vendor management data analyst – hybrid 6m->perm (1761) 65/hr direct it recruiting inc. mississauga, peel region adzuna other via r18 contracting sweep role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "Digital Consulting Manager – Oracle Cloud HCM Time & Labor/Absence",
    "company": "Huron Consulting Group Inc.",
    "location": "Toronto, Ontario",
@@ -15227,69 +15469,6 @@
   },
   {
    "posted": "2026-10-25",
-   "title": "Incident Response Consultant",
-   "company": "Insight Global",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5941206022?utm_medium=api&utm_source=54ce986e",
-   "note": "via other-expansion--2026-11-02--v13.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 46,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "incident response consultant insight global toronto, ontario adzuna other via other-expansion--2026-11-02--v13.md itsm role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-25",
-   "title": "RQ11610 - Senior Business Analyst I Toronto ON Onsite I 1 year",
-   "company": "Analyst Technical Solutions",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5941437483?utm_medium=api&utm_source=54ce986e",
-   "note": "via other-expansion--2026-11-02--v13.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 30,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq11610 - senior business analyst i toronto on onsite i 1 year analyst technical solutions toronto, ontario adzuna other via other-expansion--2026-11-02--v13.md consulting/ba role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-25",
-   "title": "RQ00804 - Business Analyst - Junior I Ontario Health I2 Year I Remote/ Hybrid",
-   "company": "Analyst Technical Solutions",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5941408711?utm_medium=api&utm_source=54ce986e",
-   "note": "via other-expansion--2026-11-02--v13.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 30,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq00804 - business analyst - junior i ontario health i2 year i remote/ hybrid analyst technical solutions toronto, ontario adzuna other via other-expansion--2026-11-02--v13.md consulting/ba role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-25",
    "title": "Senior Developer, Business Intelligence",
    "company": "Atlantic Packaging Products",
    "location": "Scarborough, Toronto",
@@ -15307,46 +15486,6 @@
    ],
    "french": false,
    "search": "senior developer, business intelligence atlantic packaging products scarborough, toronto adzuna other via vba excel automation role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-25",
-   "title": "Dayforce WFM System Consultant",
-   "company": "Join us at Align HCM",
-   "location": "Parkdale Village, City of Toronto",
-   "url": "https://www.adzuna.ca/details/5941266135?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "dayforce wfm system consultant join us at align hcm parkdale village, city of toronto adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-25",
-   "title": "Dayforce HCM (HR/Payroll) System Consultant",
-   "company": "Join us at Align HCM",
-   "location": "Parkdale Village, City of Toronto",
-   "url": "https://www.adzuna.ca/details/5941258772?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "dayforce hcm (hr/payroll) system consultant join us at align hcm parkdale village, city of toronto adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md role fit toronto area",
    "alternates": []
   },
   {
@@ -15585,27 +15724,6 @@
    ],
    "french": false,
    "search": "lead technique salesforce – dealer experience brp montreal, quebec adzuna salesforce via salesforce platform developer salesforce role fit quebec",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-24",
-   "title": "Senior Business Analyst",
-   "company": "Analyst Technical Solutions",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5940430771?utm_medium=api&utm_source=54ce986e",
-   "note": "via other-expansion--2026-11-02--v13.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 30,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior business analyst analyst technical solutions toronto, ontario adzuna other via other-expansion--2026-11-02--v13.md consulting/ba role fit toronto area",
    "alternates": []
   },
   {

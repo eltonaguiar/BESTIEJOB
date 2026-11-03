@@ -4,13 +4,13 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T034036Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T035319Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
   - [ServiceNow jobs (268)](#servicenow-jobs-268)
-  - [Salesforce jobs (305)](#salesforce-jobs-305)
+  - [Salesforce jobs (312)](#salesforce-jobs-312)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **973 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **980 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (268)
 
@@ -299,11 +299,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (305)
+### Salesforce jobs (312)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 305 postings</strong></summary>
+<details><summary><strong>Show 312 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -318,12 +318,16 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-02 | [Senior Infrastructure Engineer - Salesforce/MuleSoft](https://ca.linkedin.com/jobs/view/senior-infrastructure-engineer-salesforce-mulesoft-at-lumenalta-4486172923) | Lumenalta | Canada | via buffy-critical--2026-11-02--v2.md |
 | 2026-11-02 | [Senior Consultant - Salesforce](https://www.adzuna.ca/details/5950543320) | fusionSpan | Toronto, Ontario |  |
 | 2026-11-02 | [Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-insight-global-4485783296) | Insight Global | Toronto, Ontario, Canada | via buffy-critical--2026-11-02--v2.md |
+| 2026-11-02 | [Salesforce Technical Architect with Revenue Cloud (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-with-revenue-cloud-rca-at-ltm-4484622096) | LTM | Ontario, Canada | via linkedin-guest--2026-11-03--v1.md |
+| 2026-11-02 | [Salesforce Technical Architect](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899) | LTM | Toronto, Ontario, Canada | via linkedin-guest--2026-11-03--v1.md |
 | 2026-11-02 | [Salesforce QA Automation Developer](https://ats.rippling.com/nestogroup/jobs/9927bb74-d12e-4d60-b15d-966ec1147348) | nesto | Canada (remote/hybrid) | via grok-job-hunter--2026-11-02--v45.md |
 | 2026-11-02 | [Salesforce Marketing Cloud(SFMC) consultant](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4485774136) | Smart IT Frame LLC | Mississauga, Ontario, Canada | via buffy-critical--2026-11-02--v2.md |
+| 2026-11-02 | [Salesforce Marketing Cloud(SFMC) Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125) | Enterprise Solutions Inc. | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-03--v1.md |
 | 2026-11-02 | [Salesforce Industries Cloud Architect (Remote](https://ca.linkedin.com/jobs/view/salesforce-industries-cloud-architect-remote-at-cloudkettle-a-bell-canada-company-4485772584) | CloudKettle, a Bell Canada company | Toronto, Ontario, Canada | via buffy-critical--2026-11-02--v2.md |
 | 2026-11-02 | [Salesforce Industries Cloud Architect (Remote](https://www.adzuna.ca/land/ad/5951040865) | CloudKettle Inc | Toronto, Ontario |  |
 | 2026-11-02 | [Salesforce Functional Manager](https://ca.linkedin.com/jobs/view/salesforce-functional-manager-at-kpmg-canada-4434210237) | KPMG Canada | Montreal, Quebec, Canada |  |
 | 2026-11-02 | [Salesforce Functional Analyst (JR26101237)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Salesforce-Functional-Analyst_JR26101237) | Manulife | Waterloo, ON / Toronto, ON | via grok-job-hunter--2026-11-02--v50.md |
+| 2026-11-02 | [Salesforce Functional Analyst](https://ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737) | Manulife | Waterloo, Ontario, Canada | via linkedin-guest--2026-11-03--v1.md |
 | 2026-11-02 | [Salesforce Developer](https://www.adzuna.ca/details/5950814565) | Workday, Inc. | Canada |  |
 | 2026-11-02 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5950813677) | ATB Financial | Calgary, Calgary region |  |
 | 2026-11-02 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5950814827?utm_medium=api&utm_source=54ce986e) | ATB Financial | Fort Saskatchewan, Edmonton region | via buffy-critical--2026-11-02--v2.md |
@@ -334,11 +338,14 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-02 | [Salesforce Consultant](https://www.adzuna.ca/details/5950813933) | Futran Solutions | Toronto, Ontario |  |
 | 2026-11-02 | [Salesforce Consultant](https://www.adzuna.ca/details/5950538116) | Epsilon Solutions LTD | Toronto, Ontario |  |
 | 2026-11-02 | [Salesforce CPQ Lead Developer](https://ca.linkedin.com/jobs/view/salesforce-cpq-lead-developer-at-arkhya-tech-inc-4486180905) | Arkhya Tech Inc. | Canada | via linkedin-guest--2026-11-02--v1.md |
+| 2026-11-02 | [Salesforce Business analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-cloudious-llc-4486425532) | Cloudious LLC | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-03--v1.md |
 | 2026-11-02 | [RevOps Solutions Architect (HubSpot + Salesforce)](https://ca.linkedin.com/jobs/view/revops-solutions-architect-hubspot-%2B-salesforce-at-properexpression-4479235053) | ProperExpression | Canada | via buffy-critical--2026-11-02--v2.md |
 | 2026-11-02 | [QA Engineer- Salesforce Marketing Cloud (SFMC)](https://ca.linkedin.com/jobs/view/qa-engineer-salesforce-marketing-cloud-sfmc-at-tru-4485435956) | Tru | Toronto, Ontario, Canada |  |
 | 2026-11-02 | [Conseiller(ère) en architecture de solutions Salesforce](https://www.adzuna.ca/details/5950813961) | CAA-Québec | Québec, Canada |  |
+| 2026-11-02 | [Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-et-impl%C3%A9mentations-at-alithya-4484606302) | Alithya | Montreal, Quebec, Canada | via linkedin-guest--2026-11-03--v1.md |
 | 2026-11-02 | [CRM Business Analyst (Salesforce) - TD Asset Management (R_1507246)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/CRM-Manager---TD-Asset-Management_R_1507246) | TD Bank | Toronto, ON | via grok-job-hunter--2026-11-02--v43.md |
 | 2026-11-02 | [Business Systems Analyst – Salesforce](https://ca.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-salesforce-at-american-iron-metal-aim-4485753160) | American Iron & Metal (AIM) | Montreal, Quebec, Canada | via buffy-critical--2026-11-02--v2.md |
+| 2026-11-02 | [Analyste des systèmes d’affaires - Salesforce](https://ca.linkedin.com/jobs/view/analyste-des-syst%C3%A8mes-d%E2%80%99affaires-salesforce-at-american-iron-metal-aim-4485760072) | American Iron &amp; Metal (AIM) | Montreal, Quebec, Canada | via linkedin-guest--2026-11-03--v1.md |
 | 2026-11-01 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5948997248) | Docebo | Toronto, Ontario |  |
 | 2026-11-01 | [Senior Salesforce BSA - Financial Services Cloud](https://www.adzuna.ca/details/5949576437) | Procom-b5a780c3 | Toronto, Ontario |  |
 | 2026-11-01 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5949576662) | Benevity | Canada |  |
@@ -627,6 +634,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-02 | [Software Developer – Senior (Sibel CRM)](https://www.adzuna.ca/details/5950536165) | Innosystech Inc | Toronto, onsite; 4 months | CRM / integration Adzuna 5950536165 |
 | 2026-11-02 | [Sessional Lecturer -BTC1878H: Health Data Visualization with Tableau](https://www.adzuna.ca/details/5950814165?utm_medium=api&utm_source=54ce986e) | University of Toronto | Mississauga, Peel region | Data / BI |
 | 2026-11-02 | [Senior Solutions Consultant (603590)](https://crossfuze.pinpointhq.com/en/postings/603590) | Crossfuze (Elite ServiceNow partner) | Canada (remote) | Pinpoint ATS live, verified 2026-11-02; partner pre-sales/delivery. The talent.com "Architect - ServiceNow, Toronto" car |
+| 2026-11-02 | [Senior Software Engineer, Asset Management Digital Solutions (AMDS)](https://www.adzuna.ca/details/5951076681?utm_medium=api&utm_source=54ce986e) | KPMG | Toronto, Ontario | via R10 SN partners A |
 | 2026-11-02 | [Senior Power BI Developer Consultant (PL867)](https://www.adzuna.ca/details/5951246163?utm_medium=api&utm_source=54ce986e) | Paralucent | Toronto, Ontario | via Power BI |
 | 2026-11-02 | [Senior Manager, Customer Success Applications](https://ca.linkedin.com/jobs/view/senior-manager-customer-success-applications-at-clio-4433416948) | Clio | Toronto, ON | via grok-job-hunter--2026-11-02--v21.md |
 | 2026-11-02 | [Senior Integration Engineer – AI](https://ca.linkedin.com/jobs/view/senior-integration-engineer-%E2%80%93-ai-tax-and-audit-ai-at-thomson-reuters-4485437581) | Thomson Reuters | Toronto | REST / integration LinkedIn 4485437581 |
@@ -665,6 +673,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-01 | [Sr. Consultant, Data Platform DevOps](https://www.adzuna.ca/details/5949576567?utm_medium=api&utm_source=54ce986e) | CIBC | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-11-01 | [Specialist, BI Developer](https://www.adzuna.ca/details/5949200555) | Parkland | Calgary, Calgary region | via nemotron-gap-scan--2026-11-02--v1.md |
 | 2026-11-01 | [Specialist, BI Developer](https://www.adzuna.ca/details/5949020152) | Sunoco LP | Calgary, Calgary region | via nemotron-gap-scan--2026-11-02--v1.md |
+| 2026-11-01 | [Solution Architect (Wealth/ Asset Management)](https://www.adzuna.ca/details/5949020148?utm_medium=api&utm_source=54ce986e) | CGI | Toronto, Ontario | via R10 SN partners A |
 | 2026-11-01 | [Software Engineer III (Full Stack/API Integration)](https://www.adzuna.ca/details/5949577919) | TD | Toronto, Ontario | Full stack |
 | 2026-11-01 | [Software Developer - Full Stack - Senior (Health)](https://www.adzuna.ca/details/5949576712?utm_medium=api&utm_source=54ce986e) | ISG Search Inc | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-11-01 | [Site Reliability Engineer Lead](https://www.adzuna.ca/details/5949576420?utm_medium=api&utm_source=54ce986e) | TD Bank Group | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
@@ -697,6 +706,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-01 | [RQ00828 - Software Developer - Full Stack - Senior](https://www.adzuna.ca/details/5949576643?utm_medium=api&utm_source=54ce986e) | Maarut | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-11-01 | [RQ00734 - Business Intelligence Specialist - Senior](https://www.adzuna.ca/details/5949170504?utm_medium=api&utm_source=54ce986e) | Source Code | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-11-01 | [RQ00731 - Software Developer - Full Stack - Senior](https://www.adzuna.ca/details/5949170138?utm_medium=api&utm_source=54ce986e) | Source Code | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
+| 2026-11-01 | [Microsoft Dynamics 365 & Power Platform Developer](https://www.adzuna.ca/details/5949004698?utm_medium=api&utm_source=54ce986e) | CGI | Halifax region, Nova Scotia | via R10 SN partners A |
 | 2026-11-01 | [Marketing Sales Specialist ($90K-$210K)](https://www.adzuna.ca/details/5949576732) | Best Version Media | Surrey, Greater Vancouver | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-11-01 | [Manager, Capital Data Analytics](https://www.adzuna.ca/land/ad/5949669576) | BMO Financial | Central Bay Street, City of Toronto | Tableau / BI adzuna |
 | 2026-11-01 | [LinkedIn](https://ca.linkedin.com/jobs/view/process-lead-architect-customer-service-management-at-deloitte-4460519030) | Deloitte | Toronto | — ServiceNow [LinkedIn](https://ca.linkedin.com/jobs/view/process-lead-architect-customer-service-management-at-deloitte |
@@ -809,6 +819,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-31 | [MuleSoft Technical Architect- Enterprise (Canada)](https://ca.linkedin.com/jobs/view/mulesoft-technical-architect-enterprise-canada-at-slalom-4409348922) | Slalom | Greater Toronto Area, Canada | via buffy-round3--2026-11-02--v21.md |
 | 2026-10-31 | [MuleSoft Senior Developer- Enterprise (Canada)](https://ca.linkedin.com/jobs/view/mulesoft-senior-developer-enterprise-canada-at-slalom-4409345905) | Slalom | Greater Toronto Area, Canada | via buffy-round3--2026-11-02--v21.md |
 | 2026-10-31 | [Manager, Financial Services-Wealth & Asset Management](https://www.adzuna.ca/details/5948369644?utm_medium=api&utm_source=54ce986e) | KPMG | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
+| 2026-10-31 | [Manager and Senior Advisor, to Deputy Chief Engineer & EVP of Engineering & Asset Management](https://www.adzuna.ca/details/5947843924?utm_medium=api&utm_source=54ce986e) | Metrolinx | Railway Lands, City of Toronto | via R19 direct employers |
 | 2026-10-31 | [MS SQL Database Administrator](https://www.adzuna.ca/details/5948027155) | GTT, LLC | Toronto | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-31 | [Lead Full Stack Developer](https://www.adzuna.ca/details/5948276440?utm_medium=api&utm_source=54ce986e) | Insight Global | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-31 | [LEAD POWER BI - FABRIC CONSULTANT](https://www.adzuna.ca/details/5948019036?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Mississauga, Peel region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
@@ -929,6 +940,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-30 | [DevOps Architect](https://www.adzuna.ca/details/5947169859?utm_medium=api&utm_source=54ce986e) | IT Connex Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-30 | [DevOps & Security Engineer](https://www.adzuna.ca/details/5947169701?utm_medium=api&utm_source=54ce986e) | Martello Technologies | Ottawa, Ottawa region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-30 | [Data Center Asset Management, Specialist (433411)](https://jobs.bell.ca/ca/en/job/433411) | Bell | Montreal, QC | via grok-job-hunter--2026-11-02--v37.md |
+| 2026-10-30 | [Data Center Asset Management, Specialist](https://www.adzuna.ca/details/5947564677?utm_medium=api&utm_source=54ce986e) | Bell | Regina region, Saskatchewan | via R19 direct employers |
 | 2026-10-30 | [Consultant(e), HCM Dayforce - Operate](https://www.adzuna.ca/details/5947446492?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-30 | [Cloud Architect](https://www.adzuna.ca/details/5947169110?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-30 | [Business Data Analyst (Capital Markets)](https://www.adzuna.ca/details/5947001008?utm_medium=api&utm_source=54ce986e) | Jay Analytix | Toronto, Ontario | via peer-buffy-2026-11-02-readme-consolidation--2026-11-02--v10.md |
@@ -983,6 +995,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-29 | [Marketing Operations Analyst (8333965) - D2L](https://www.d2l.com/careers/jobs/?job_id=8333965&gh_jid=8333965) | Canada: Canada; remote status needs employer confirmation | Not disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-29 | [Incident Management, Lead (Bilingual)](https://www.adzuna.ca/details/5946006690?utm_medium=api&utm_source=54ce986e) | Interac | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
 | 2026-10-29 | [Incident Management Lead](https://www.adzuna.ca/details/5946001005?utm_medium=api&utm_source=54ce986e) | Altis Technology | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
+| 2026-10-29 | [IT Vendor Management Data Analyst – HYBRID 6M->PERM (1761) 65/hr](https://www.adzuna.ca/details/5945996055?utm_medium=api&utm_source=54ce986e) | Direct IT Recruiting Inc. | Mississauga, Peel region | via R18 contracting sweep |
 | 2026-10-29 | [IT Asset Management Analyst](https://ca.linkedin.com/jobs/view/4475880068) | The Salvation Army in Canada | Toronto, ON | via grok-job-hunter--2026-11-02--v41.md |
 | 2026-10-29 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Worldwide | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
 | 2026-10-29 | [Forward Deployed Engineer, AI & Agentforce NeuraFlash Middle just now](https://www.adzuna.ca/details/5946006818?utm_medium=api&utm_source=54ce986e) | Remote Genie | Canada | via buffy-critical--2026-11-02--v2.md |
@@ -1017,12 +1030,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-26 | [Event Deviation Change Management Expert](https://www.adzuna.ca/details/5942366308?utm_medium=api&utm_source=54ce986e) | BioTalent Canada | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
 | 2026-10-26 | [Business Analyst - Senior in Toronto, ON (5 days on-site)](https://www.adzuna.ca/details/5942170034?utm_medium=api&utm_source=54ce986e) | Amicis Global | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
 | 2026-10-25 | [Senior Developer, Business Intelligence](https://www.adzuna.ca/details/5941251728?utm_medium=api&utm_source=54ce986e) | Atlantic Packaging Products | Scarborough, Toronto | via VBA Excel |
-| 2026-10-25 | [RQ11610 - Senior Business Analyst I Toronto ON Onsite I 1 year](https://www.adzuna.ca/details/5941437483?utm_medium=api&utm_source=54ce986e) | Analyst Technical Solutions | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
-| 2026-10-25 | [RQ00804 - Business Analyst - Junior I Ontario Health I2 Year I Remote/ Hybrid](https://www.adzuna.ca/details/5941408711?utm_medium=api&utm_source=54ce986e) | Analyst Technical Solutions | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
-| 2026-10-25 | [Incident Response Consultant](https://www.adzuna.ca/details/5941206022?utm_medium=api&utm_source=54ce986e) | Insight Global | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
-| 2026-10-25 | [Dayforce WFM System Consultant](https://www.adzuna.ca/details/5941266135?utm_medium=api&utm_source=54ce986e) | Join us at Align HCM | Parkdale Village, City of Toronto | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
-| 2026-10-25 | [Dayforce HCM (HR/Payroll) System Consultant](https://www.adzuna.ca/details/5941258772?utm_medium=api&utm_source=54ce986e) | Join us at Align HCM | Parkdale Village, City of Toronto | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md |
-| 2026-10-24 | [Senior Business Analyst](https://www.adzuna.ca/details/5940430771?utm_medium=api&utm_source=54ce986e) | Analyst Technical Solutions | Toronto, Ontario | via other-expansion--2026-11-02--v13.md |
 
 </details>
 
@@ -1152,4 +1159,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T034036Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T035319Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.

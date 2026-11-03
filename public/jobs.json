@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-03T03:31:47.233Z",
     "generatedAt": "2026-11-03T03:31:47.233Z",
-    "total": 1000,
+    "total": 1006,
     "newThisScan": 714,
     "retainedFromPrevious": 54,
     "sources": {
@@ -1091,6 +1091,23 @@
       "postedDate": "2026-11-02T12:00:00.000Z",
       "scrapedAt": "2026-11-03T03:40:36.116Z",
       "excerpt": "via Alteryx",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5951076681",
+      "source": "readme",
+      "company": "KPMG",
+      "title": "Senior Software Engineer, Asset Management Digital Solutions (AMDS)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5951076681",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T03:53:19.437Z",
+      "excerpt": "via R10 SN partners A",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -3267,6 +3284,40 @@
       "postedDate": "2026-11-01T12:00:00.000Z",
       "scrapedAt": "2026-11-03T03:40:36.116Z",
       "excerpt": "via Data Analyst",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949020148",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Solution Architect (Wealth/ Asset Management)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949020148",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T03:53:19.437Z",
+      "excerpt": "via R10 SN partners A",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949004698",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Microsoft Dynamics 365 & Power Platform Developer",
+      "location": "Halifax region, Nova Scotia",
+      "url": "https://www.adzuna.ca/details/5949004698",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T03:53:19.437Z",
+      "excerpt": "via R10 SN partners A",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -6032,6 +6083,23 @@
       "postedDate": "2026-10-31T12:00:00.000Z",
       "scrapedAt": "2026-11-03T03:40:36.116Z",
       "excerpt": "via SQL Server developer",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947843924",
+      "source": "readme",
+      "company": "Metrolinx",
+      "title": "Manager and Senior Advisor, to Deputy Chief Engineer & EVP of Engineering & Asset Management",
+      "location": "Railway Lands, City of Toronto",
+      "url": "https://www.adzuna.ca/details/5947843924",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T03:53:19.437Z",
+      "excerpt": "via R19 direct employers",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -10276,6 +10344,23 @@
       ]
     },
     {
+      "id": "readme:adzuna.ca/details/5947564677",
+      "source": "readme",
+      "company": "Bell",
+      "title": "Data Center Asset Management, Specialist",
+      "location": "Regina region, Saskatchewan",
+      "url": "https://www.adzuna.ca/details/5947564677",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T03:53:19.437Z",
+      "excerpt": "via R19 direct employers",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "adzuna:5947007422",
       "source": "adzuna",
       "company": "Amphenol HSIO",
@@ -13280,6 +13365,23 @@
       "postedDate": "2026-10-29T12:00:00.000Z",
       "scrapedAt": "2026-11-03T03:35:24.587Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5945996055",
+      "source": "readme",
+      "company": "Direct IT Recruiting Inc.",
+      "title": "IT Vendor Management Data Analyst – HYBRID 6M->PERM (1761) 65/hr",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5945996055",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T03:53:19.437Z",
+      "excerpt": "via R18 contracting sweep",
       "workArrangement": "unknown",
       "tags": [
         "other"
