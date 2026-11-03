@@ -640,7 +640,7 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (478)
+### Other jobs (476)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
@@ -648,8 +648,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
-| 2026-10-30 | [MuleSoft Integration Engineer, Raleigh, NC, US](https://www.adzuna.ca/details/5947169360?utm_medium=api&utm_source=54ce986e) | Intellibee | Canada | 7-day sweep 2026-11-03 — `mulesoft/Canada` |
-| 2026-10-30 | [Field Service Technician II](https://www.adzuna.ca/land/ad/5946994866?se=6vkMdCDX8RGwU4X4mkVlBg&utm_medium=api&utm_source=54ce986e&v=F348B647B88BCEDAF1985FB8A405C7B5F840A10B) | Zund America | Canada | 7-day sweep 2026-11-03 — `salesforce administrator/Canada` |
 | 2026-10-27 | [Senior Software Engineer - Data Cloud & Marketing Technology](https://www.adzuna.ca/details/5943407657?utm_medium=api&utm_source=54ce986e) | Equinix | Canada | 7-day sweep 2026-11-03 — `salesforce consultant/Canada` |
 | 2026-11-03 | [Data Analyst](https://ca.linkedin.com/jobs/view/data-analyst-at-artemis-4485787835) | Artemis | Aurora, Ontario, Canada | via copilot-multiai--2026-11-03--v1.md |
 | 2026-11-02 | [Spécialiste, FinOps infonuagique et IA](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-finops-infonuagique-et-ia-at-air-canada-4482571267) | Air Canada | Toronto, Ontario, Canada | via copilot-multiai--2026-11-03--v1.md |
