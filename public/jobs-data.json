@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T18:25:16+00:00",
+ "generatedAt": "2026-11-03T18:31:45+00:00",
  "timezone": "America/Toronto",
  "count": 401,
  "appliedHidden": 8,
@@ -351,6 +351,27 @@
    ],
    "french": false,
    "search": "job postings / business system analyst-servicenow / toronto, ontario / bmo financial group / jobillico.com business system analyst-servicenow toronto, ontario jobillico.com servicenow bmo financial group servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Intermediate Technology Specialist, Service Now Developer",
+   "company": "Equitable",
+   "location": "Waterloo, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-service-now-developer-at-equitable-4485018083",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate technology specialist, service now developer equitable waterloo, ontario, canada linkedin servicenow  servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -8311,27 +8332,6 @@
    "matchReasons": [],
    "french": false,
    "search": "peer report toronto, on unknown / peer claim not verified github.com servicenow via peer-copilot-2026-10-30--2026-11-02--v1.md ",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Sr Business Analyst ServiceNow HR",
-   "company": "Cpus Engineering Staffing Solutions Inc.",
-   "location": "Oshawa, Durham region",
-   "url": "https://www.adzuna.ca/details/5946006974?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 86,
-   "matchReasons": [
-    "ServiceNow",
-    "Consulting/BA",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "sr business analyst servicenow hr cpus engineering staffing solutions inc. oshawa, durham region adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow consulting/ba role fit",
    "alternates": []
   }
  ]
