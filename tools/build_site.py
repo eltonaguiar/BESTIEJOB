@@ -93,6 +93,161 @@ def norm(text: str) -> str:
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", strip_accents((text or "").lower())).split())
 
 
+LEGAL_TOKENS = {
+    "inc", "incorporated", "ltd", "limited", "llc", "llp", "lp", "corp", "corporation",
+    "co", "company", "plc", "gmbh", "ag", "sa", "sas", "srl", "pty", "pte", "group",
+    "holdings", "the", "canada", "canadian", "private", "pvt",
+}
+
+CITY_TOKENS = {
+    "toronto", "ontario", "ottawa", "mississauga", "brampton", "markham", "vaughan",
+    "richmond", "hill", "scarborough", "north", "york", "etobicoke", "oakville",
+    "hamilton", "kitchener", "waterloo", "london", "windsor", "oshawa", "durham",
+    "peel", "halton", "gta", "montreal", "montr", "quebec", "laval", "brossard",
+    "gatineau", "sherbrooke", "drummondville", "ville", "marie", "calgary", "edmonton",
+    "alberta", "vancouver", "victoria", "burnaby", "surrey", "winnipeg", "manitoba",
+    "regina", "saskatoon", "saskatchewan", "halifax", "scotia", "fredericton", "moncton",
+    "john", "remote", "hybrid", "onsite", "site", "region", "area", "greater", "city",
+    "national", "capital", "ont", "que", "alb", "bc", "mb", "sk", "ns", "nb", "nl",
+    "usa", "us",
+}
+
+
+def canon_company(name: str) -> str:
+    """Employer identity: drop parenthetical aliases, legal suffixes and country noise so
+    "TD" / "TD Bank" / "TD Bank Group" and "Celestica" / "Celestica International LP"
+    resolve to the same employer."""
+    s = strip_accents(name or "").lower()
+    s = re.sub(r"\([^)]*\)", " ", s)
+    s = re.sub(r"\b(?:an?|the)\s+(?:ibm|cgi|deloitte)\s+company\b", " ", s)
+    s = re.sub(r"[^a-z0-9 ]", " ", s)
+    return " ".join(t for t in s.split() if t not in LEGAL_TOKENS)
+
+
+CONNECTORS = {"and", "of", "the", "for", "at", "in", "de", "du", "la", "le", "des", "et"}
+
+
+def _initials(name: str) -> str:
+    """"Workplace Safety and Insurance Board" -> "wsib" (connector words ignored)."""
+    return "".join(t[0] for t in canon_company(name).split()
+                   if len(t) > 1 and t not in CONNECTORS)
+
+
+def companies_related(a: str, b: str) -> bool:
+    """Same employer written two ways: equal after canonicalisation, one name a token
+    subset of the other (Telus / Telus Communications), or an initialism pairing
+    (WSIB / Workplace Safety and Insurance Board)."""
+    ca, cb = canon_company(a), canon_company(b)
+    if not ca or not cb:
+        return False
+    if ca == cb:
+        return True
+    ta, tb = set(ca.split()), set(cb.split())
+    if ta.issubset(tb) or tb.issubset(ta):
+        small = ta if ta.issubset(tb) else tb
+        return any(len(t) > 2 for t in small)
+    for short, long_ in ((ca, cb), (cb, ca)):
+        if " " not in short and 2 <= len(short) <= 6 and _initials(long_) == short:
+            return True
+    return False
+
+
+def req_ids(text: str) -> set[str]:
+    """Requisition numbers written into titles: "(job 1209)", "R00356212", "(526327)"."""
+    s = strip_accents(text or "").lower()
+    ids: set[str] = set()
+    for m in re.finditer(r"\b(?:job|req|requisition|ref)\s*#?\s*(\d{3,})\b", s):
+        ids.add(m.group(1))
+    for m in re.finditer(r"\b(r0\d{6,}|rq\d{3,})\b", s):
+        ids.add(m.group(1))
+    for m in re.finditer(r"\((\d{5,})\)", s):
+        ids.add(m.group(1))
+    return ids
+
+
+def canon_title(title: str, company: str = "") -> str:
+    """Title identity with the parts that differ between mirrors removed: bracketed
+    noise ("(ITSM)", "(EN/FR)", "(job 1209)"), requisition digits, and a trailing
+    city/vendor clause ("- WSIB", ", Toronto, ON")."""
+    s = strip_accents(title or "").lower()
+    s = re.sub(r"[\[(][^\])]*[\])]", " ", s)
+    s = re.sub(r"\b(?:job|req|requisition|ref)\s*#?\s*\d{3,}\b", " ", s)
+    s = re.sub(r"\b(?:r0\d{6,}|rq\d{3,})\b", " ", s)
+    s = re.sub(r"\b\d{5,}\b", " ", s)
+    toks = re.sub(r"[^a-z0-9 ]", " ", s).split()
+    comp = set(canon_company(company).split())
+    while len(toks) > 2 and (toks[-1] in CITY_TOKENS or toks[-1] in comp or toks[-1] in LEGAL_TOKENS):
+        toks.pop()
+    return " ".join(toks)
+
+
+def titles_related(a: str, b: str) -> bool:
+    """Canonical titles equal, or one a word-prefix of the other ("salesforce developer"
+    vs "salesforce developer canada")."""
+    if not a or not b:
+        return False
+    if a == b:
+        return True
+    ta, tb = a.split(), b.split()
+    return ta[:len(tb)] == tb or tb[:len(ta)] == ta
+
+
+CA_HINTS = (
+    "canada", "ontario", "quebec", "alberta", "british columbia", "manitoba", "saskatchewan",
+    "nova scotia", "new brunswick", "newfoundland", "prince edward", "toronto", "ottawa",
+    "montreal", "montr", "laval", "brossard", "gatineau", "sherbrooke", "drummondville",
+    "mississauga", "brampton", "markham", "vaughan", "waterloo", "kitchener", "windsor",
+    "oshawa", "hamilton", "calgary", "edmonton", "vancouver", "victoria", "kelowna",
+    "winnipeg", "regina", "saskatoon", "halifax", "fredericton", "moncton", "greater vancouver",
+    "london, on", "london, middlesex", "london, ontario", "gta", ", on", ", qc", ", ab", ", bc",
+    ", mb", ", sk", ", ns", ", nb", ", nl",
+)
+
+US_HINTS = (
+    "united states", "usa", "u.s.", "us remote", "remote (us", "remote - us", "anywhere in the us",
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado", "connecticut",
+    "delaware", "florida", "georgia", "hawaii", "idaho", "illinois", "indiana", "iowa",
+    "kansas", "kentucky", "louisiana", "maine", "maryland", "massachusetts", "michigan",
+    "minnesota", "mississippi", "missouri", "montana", "nebraska", "nevada", "new hampshire",
+    "new jersey", "new mexico", "new york", "north carolina", "north dakota", "ohio",
+    "oklahoma", "oregon", "pennsylvania", "rhode island", "south carolina", "south dakota",
+    "tennessee", "texas", "utah", "vermont", "virginia", "west virginia", "wisconsin", "wyoming",
+)
+
+OFFSHORE = {
+    "india": "in", "bengaluru": "in", "bangalore": "in", "hyderabad": "in", "pune": "in",
+    "colombia": "co", "mexico": "mx", "brazil": "br", "united kingdom": "uk", "philippines": "ph",
+    "poland": "pl", "germany": "de", "australia": "au", "singapore": "sg", "japan": "jp",
+    "ireland": "ie", "netherlands": "nl", "spain": "es", "france": "fr", "israel": "il",
+}
+
+
+def region_of(location: str) -> str | None:
+    """Coarse country of a location string, or None when it says nothing usable."""
+    s = strip_accents(location or "").lower()
+    if not s:
+        return None
+    if any(h in s for h in CA_HINTS):
+        return "ca"
+    if any(h in s for h in US_HINTS):
+        return "us"
+    for hint, code in OFFSHORE.items():
+        if hint in s:
+            return code
+    return None
+
+
+def locations_compatible(a: str, b: str) -> bool:
+    """City variants of one requisition merge; the same title posted for Canada and the
+    US (or India, Colombia…) is a different requisition and must stay separate."""
+    ra, rb = region_of(a), region_of(b)
+    return ra is None or rb is None or ra == rb
+
+
+def city_of(location: str) -> str:
+    return (location or "").split(";")[0].split(",")[0].strip()[:28]
+
+
 def source_of(url: str) -> str:
     low = (url or "").lower()
     for needle, label in SOURCE_RULES:
@@ -190,31 +345,99 @@ def rows() -> tuple[list[dict], int]:
         row["match"] = score
         row["matchReasons"] = reasons
         row["french"] = bool(FRENCH.search(r["title"] + " " + row["note"]))
+        row["canonTitle"] = canon_title(r["title"], r["company"])
+        row["reqIds"] = sorted(req_ids(r["title"]))
         row["search"] = strip_accents(" ".join([
             row["title"], row["company"], row["location"], row["source"],
             row["familyLabel"], row["note"], " ".join(reasons)])).lower()
         raw.append(row)
 
-    # cluster duplicates: same normalised title + company -> one card, alternates kept
-    clusters: dict[str, dict] = {}
+    # ---- cluster mirrors so each requisition appears once -------------------
+    # Three signals, because agency mirrors disagree on everything except identity:
+    #   A. same canonical title AND the same employer written two ways
+    #      (WSIB city variants, "Celestica" vs "Celestica International LP")
+    #   B. a shared requisition number in the title ("job 1209", "RQ00206")
+    #   C. same canonical title AND same employer after normalising the title
+    #      ("…(ITSM)" vs "…(ITSM) - WSIB")
+    # a card whose canonical title is one junk token ("Adzuna 5948024028") carries no
+    # identity, so it must never absorb another row
     for row in raw:
-        key = f'{norm(row["title"])[:70]}|{norm(row["company"])[:40]}'
-        if key not in clusters:
-            row["alternates"] = []
-            clusters[key] = row
-            continue
-        primary = clusters[key]
-        # prefer the employer's own board over an aggregator mirror, then the newest
-        if primary["verified"] == "Aggregator" and row["verified"] == "Employer board":
-            row["alternates"] = primary["alternates"] + [{"source": primary["source"], "url": primary["url"]}]
-            clusters[key] = row
-        else:
-            primary["alternates"].append({"source": row["source"], "url": row["url"]})
-    out = list(clusters.values())
-    for row in out:
-        seen_src = {row["source"]}
-        row["alternates"] = [a for a in row["alternates"]
-                             if not (a["source"] in seen_src or seen_src.add(a["source"]))][:4]
+        row["canonWeak"] = len(row["canonTitle"].split()) < 2
+
+    n = len(raw)
+    parent = list(range(n))
+
+    def find(i: int) -> int:
+        while parent[i] != i:
+            parent[i] = parent[parent[i]]
+            i = parent[i]
+        return i
+
+    def union(i: int, j: int) -> None:
+        ri, rj = find(i), find(j)
+        if ri != rj:
+            parent[max(ri, rj)] = min(ri, rj)
+
+    by_title: dict[str, list[int]] = {}
+    by_company: dict[str, list[int]] = {}
+    by_req: dict[str, list[int]] = {}
+    for i, row in enumerate(raw):
+        by_title.setdefault(row["canonTitle"], []).append(i)
+        by_company.setdefault(canon_company(row["company"]), []).append(i)
+        for rid in row["reqIds"]:
+            by_req.setdefault(rid, []).append(i)
+
+    def mergeable(i: int, j: int) -> bool:
+        if raw[i]["canonWeak"] or raw[j]["canonWeak"]:
+            return False
+        return locations_compatible(raw[i]["location"], raw[j]["location"])
+
+    for group in by_title.values():
+        for x in range(len(group)):
+            for y in range(x + 1, len(group)):
+                i, j = group[x], group[y]
+                if mergeable(i, j) and companies_related(raw[i]["company"], raw[j]["company"]):
+                    union(i, j)
+    for group in by_company.values():
+        for i in group[1:]:
+            if mergeable(group[0], i) and raw[i]["canonTitle"] == raw[group[0]]["canonTitle"]:
+                union(group[0], i)
+    for group in by_req.values():
+        for i in group[1:]:
+            if mergeable(group[0], i) and titles_related(raw[i]["canonTitle"], raw[group[0]]["canonTitle"]):
+                union(group[0], i)
+
+    buckets: dict[int, list[dict]] = {}
+    for i, row in enumerate(raw):
+        buckets.setdefault(find(i), []).append(row)
+
+    out: list[dict] = []
+    for members in buckets.values():
+        # the card's representative link: an employer board beats an aggregator mirror,
+        # then the newest posting, then the most complete row
+        members.sort(key=lambda r: (r["verified"] == "Employer board", r["posted"],
+                                    len(r["location"]) + len(r["company"])), reverse=True)
+        primary = members[0]
+        primary["alternates"] = []
+        seen_url = {primary["url"].split("?")[0].rstrip("/").lower()}
+        for dup in members[1:]:
+            u = dup["url"].split("?")[0].rstrip("/").lower()
+            if u in seen_url:
+                continue
+            seen_url.add(u)
+            label = dup["source"]
+            city = city_of(dup["location"])
+            if city and city.lower() not in label.lower():
+                label = f"{label} · {city}"
+            primary["alternates"].append({"source": dup["source"], "url": dup["url"], "label": label})
+            # the card should not claim a city the representative link never mentioned
+            if dup["posted"] > primary["posted"]:
+                primary["posted"] = dup["posted"]
+        primary["alternates"] = primary["alternates"][:6]
+        primary.pop("canonTitle", None)
+        primary.pop("reqIds", None)
+        primary.pop("canonWeak", None)
+        out.append(primary)
     out.sort(key=lambda r: (r["posted"], r["match"]), reverse=True)
     return out, dropped_applied
 
@@ -415,7 +638,7 @@ function render() {
         <span>${esc((j.matchReasons || []).join(" · "))}</span>
       </div>
       ${(j.alternates || []).length ? `<div class="alts"><span>Also listed:</span>` +
-        j.alternates.map(a => `<a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.source)}</a>`).join("") +
+        j.alternates.map(a => `<a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.label || a.source)}</a>`).join("") +
         `</div>` : ""}
     </article>`).join("");
 }
