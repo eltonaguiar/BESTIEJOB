@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-03T00:28:51.591Z",
     "generatedAt": "2026-11-03T00:28:51.591Z",
-    "total": 997,
+    "total": 1072,
     "newThisScan": 698,
     "retainedFromPrevious": 68,
     "sources": {
@@ -37,6 +37,23 @@
     }
   },
   "jobs": [
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/data-analyst-at-artemis-4485787835",
+      "source": "readme",
+      "company": "Artemis",
+      "title": "Data Analyst",
+      "location": "Aurora, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/data-analyst-at-artemis-4485787835",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
     {
       "id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer_rq228138-1",
       "source": "workday",
@@ -953,6 +970,142 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sp%c3%a9cialiste-finops-infonuagique-et-ia-at-air-canada-4482571267",
+      "source": "readme",
+      "company": "Air Canada",
+      "title": "Spécialiste, FinOps infonuagique et IA",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-finops-infonuagique-et-ia-at-air-canada-4482571267",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-data-analyst-at-rogers-communications-4478839960",
+      "source": "readme",
+      "company": "Rogers Communications",
+      "title": "Senior Data Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-data-analyst-at-rogers-communications-4478839960",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-analyst-software-compliance-and-contract-management-t-i-telework-hybrid-at-cbc-radio-canada-4483288205",
+      "source": "readme",
+      "company": "CBC/Radio-Canada",
+      "title": "Senior Analyst, Software Compliance and Contract Management (T & I) (Telework/Hybrid)",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-analyst-software-compliance-and-contract-management-t-i-telework-hybrid-at-cbc-radio-canada-4483288205",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/devops-engineer-azure-at-burgeon-it-services-4484363669",
+      "source": "readme",
+      "company": "BURGEON IT SERVICES",
+      "title": "DevOps Engineer-Azure",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/devops-engineer-azure-at-burgeon-it-services-4484363669",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/devops-engineer-services-team-at-stackadapt-4486401105",
+      "source": "readme",
+      "company": "StackAdapt",
+      "title": "DevOps Engineer (Services Team)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/devops-engineer-services-team-at-stackadapt-4486401105",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/devops-cloud-engineer-at-nasdaq-4383245892",
+      "source": "readme",
+      "company": "Nasdaq",
+      "title": "DevOps Cloud Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/devops-cloud-engineer-at-nasdaq-4383245892",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/data-and-reporting-analyst-at-options-consulting-solutions-4485727680",
+      "source": "readme",
+      "company": "Options Consulting Solutions",
+      "title": "Data and Reporting Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/data-and-reporting-analyst-at-options-consulting-solutions-4485727680",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-intelligence-and-reporting-analyst-at-td-4486464511",
+      "source": "readme",
+      "company": "TD",
+      "title": "Business Intelligence and Reporting Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-intelligence-and-reporting-analyst-at-td-4486464511",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -3075,6 +3228,40 @@
       "postedDate": "2026-11-01T12:00:00.000Z",
       "scrapedAt": "2026-11-03T00:29:41.052Z",
       "excerpt": "via other-expansion--2026-11-02--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-analyst-software-compliance-and-contract-management-t-i-telework-hybrid-at-radio-canada-4483761032",
+      "source": "readme",
+      "company": "Radio-Canada",
+      "title": "Senior Analyst, Software Compliance and Contract Management (T & I) (Telework/Hybrid)",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-analyst-software-compliance-and-contract-management-t-i-telework-hybrid-at-radio-canada-4483761032",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-intelligence-analyst-at-cash-app-4460139081",
+      "source": "readme",
+      "company": "Cash App",
+      "title": "Business Intelligence Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-intelligence-analyst-at-cash-app-4460139081",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -5789,6 +5976,142 @@
       "postedDate": "2026-10-31T12:00:00.000Z",
       "scrapedAt": "2026-11-03T00:29:41.052Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v11.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-staff-cloud-security-engineer-%e2%80%93-financial-services-office-of-the-ciso-at-servicenow-4441419018",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Senior Staff Cloud Security Engineer – Financial Services - Office of the CISO",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-staff-cloud-security-engineer-%E2%80%93-financial-services-office-of-the-ciso-at-servicenow-4441419018",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/forward-deployed-engineer-fde-mid-senior-level-at-salesforce-4460136898",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Forward Deployed Engineer (FDE) (Mid/Senior Level)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/forward-deployed-engineer-fde-mid-senior-level-at-salesforce-4460136898",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technical-specialist-advisory-at-scotiabank-4382231853",
+      "source": "readme",
+      "company": "Scotiabank",
+      "title": "Technical Specialist Advisory",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technical-specialist-advisory-at-scotiabank-4382231853",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-devops-engineer-at-scotiabank-4393049231",
+      "source": "readme",
+      "company": "Scotiabank",
+      "title": "Senior DevOps Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-scotiabank-4393049231",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/premier-ou-premi%c3%a8re-analyste-conformit%c3%a9-des-logiciels-et-gestion-des-contrats-t-et-i-t%c3%a9l%c3%a9travail-hybride-at-cbc-radio-canada-4483743564",
+      "source": "readme",
+      "company": "CBC/Radio-Canada",
+      "title": "Premier ou première analyste, Conformité des logiciels et Gestion des contrats (T et I) (télétravail/hybride)",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/premier-ou-premi%C3%A8re-analyste-conformit%C3%A9-des-logiciels-et-gestion-des-contrats-t-et-i-t%C3%A9l%C3%A9travail-hybride-at-cbc-radio-canada-4483743564",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/lead-software-developer-devops-at-opentext-4466294855",
+      "source": "readme",
+      "company": "OpenText",
+      "title": "Lead Software Developer (DevOps)",
+      "location": "Richmond Hill, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/lead-software-developer-devops-at-opentext-4466294855",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/data-center-asset-management-specialist-at-bell-4485656020",
+      "source": "readme",
+      "company": "Bell",
+      "title": "Data Center Asset Management, Specialist",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/data-center-asset-management-specialist-at-bell-4485656020",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/cx-data-intelligence-analyst-at-agilent-technologies-4485926166",
+      "source": "readme",
+      "company": "Agilent Technologies",
+      "title": "CX Data & Intelligence Analyst",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/cx-data-intelligence-analyst-at-agilent-technologies-4485926166",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -10033,6 +10356,227 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur%c2%b7euse-servicenow-at-lightspeed-commerce-4466245163",
+      "source": "readme",
+      "company": "Lightspeed Commerce",
+      "title": "Développeur·euse ServiceNow",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur%C2%B7euse-servicenow-at-lightspeed-commerce-4466245163",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-salesforce-marketing-cloud-consultant-at-cgi-4449441566",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Senior Salesforce Marketing Cloud Consultant",
+      "location": "Victoria, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-marketing-cloud-consultant-at-cgi-4449441566",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-implementation-consultant-at-ncino-4485101504",
+      "source": "readme",
+      "company": "nCino",
+      "title": "Senior Implementation Consultant",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-implementation-consultant-at-ncino-4485101504",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947169360",
+      "source": "readme",
+      "company": "Intellibee",
+      "title": "MuleSoft Integration Engineer, Raleigh, NC, US",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5947169360",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "7-day sweep 2026-11-03 — `mulesoft/Canada`",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/land/ad/5946994866",
+      "source": "readme",
+      "company": "Zund America",
+      "title": "Field Service Technician II",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/land/ad/5946994866?se=6vkMdCDX8RGwU4X4mkVlBg&v=F348B647B88BCEDAF1985FB8A405C7B5F840A10B",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "7-day sweep 2026-11-03 — `salesforce administrator/Canada`",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/supply-chain-bi-solutions-analyst-at-pet-valu-4467591382",
+      "source": "readme",
+      "company": "Pet Valu",
+      "title": "Supply Chain BI Solutions Analyst",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/supply-chain-bi-solutions-analyst-at-pet-valu-4467591382",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/staff-data-analyst-analyste-de-donn%c3%a9es-principal-at-mistplay-4482470775",
+      "source": "readme",
+      "company": "Mistplay",
+      "title": "Staff Data Analyst // Analyste de données principal",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/staff-data-analyst-analyste-de-donn%C3%A9es-principal-at-mistplay-4482470775",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/specialist-cloud-and-ai-finops-at-air-canada-4482567332",
+      "source": "readme",
+      "company": "Air Canada",
+      "title": "Specialist, Cloud and AI FinOps",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/specialist-cloud-and-ai-finops-at-air-canada-4482567332",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-bi-analyst-at-canadian-tire-corporation-4485391779",
+      "source": "readme",
+      "company": "Canadian Tire Corporation",
+      "title": "Senior BI Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-bi-analyst-at-canadian-tire-corporation-4485391779",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-analyst-identity-and-access-management-at-maple-leaf-foods-inc-4484859590",
+      "source": "readme",
+      "company": "Maple Leaf Foods Inc",
+      "title": "Senior Analyst Identity and Access Management",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-analyst-identity-and-access-management-at-maple-leaf-foods-inc-4484859590",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/data-analyst-at-wellington-altus-4484863793",
+      "source": "readme",
+      "company": "Wellington-Altus",
+      "title": "Data Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/data-analyst-at-wellington-altus-4484863793",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-intelligence-data-analyst-at-tjx-canada-%e2%80%93-winners-marshalls-homesense-4485266579",
+      "source": "readme",
+      "company": "TJX Canada – Winners, Marshalls, HomeSense",
+      "title": "Business intelligence & Data Analyst",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-intelligence-data-analyst-at-tjx-canada-%E2%80%93-winners-marshalls-homesense-4485266579",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/azure-devops-engineer-at-motion-recruitment-4477617464",
+      "source": "readme",
+      "company": "Motion Recruitment",
+      "title": "Azure DevOps Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/azure-devops-engineer-at-motion-recruitment-4477617464",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "adzuna:5947007422",
       "source": "adzuna",
       "company": "Amphenol HSIO",
@@ -13026,6 +13570,261 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466228425",
+      "source": "readme",
+      "company": "Lightspeed Commerce",
+      "title": "ServiceNow Developer",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466228425",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5946002619",
+      "source": "readme",
+      "company": "Experis Canada",
+      "title": "Senior Integration Architect (Salesforce / Boomi and Azure integration services )",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5946002619",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "7-day sweep 2026-11-03 — `salesforce architect/Canada`",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5945999969",
+      "source": "readme",
+      "company": "LTM",
+      "title": "Salesforce Solution / Functional Architect",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/details/5945999969",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "7-day sweep 2026-11-03 — `salesforce architect/Canada`",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5945997267",
+      "source": "readme",
+      "company": "iVedha Inc.",
+      "title": "Salesforce Program Architects",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5945997267",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "7-day sweep 2026-11-03 — `salesforce architect/Canada`",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4449433675",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Senior Salesforce Developer",
+      "location": "Victoria, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4449433675",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technology-lead-enterprise-platforms-operation-director-at-tmx-group-4467103261",
+      "source": "readme",
+      "company": "TMX Group",
+      "title": "Technology Lead, Enterprise Platforms & Operation (Director)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technology-lead-enterprise-platforms-operation-director-at-tmx-group-4467103261",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-analyst-strategic-analytics-at-spin-master-4465967099",
+      "source": "readme",
+      "company": "Spin Master",
+      "title": "Sr. Analyst, Strategic Analytics",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-analyst-strategic-analytics-at-spin-master-4465967099",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/software-asset-management-sam-analyst-at-deloitte-4468276720",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Software Asset Management (SAM) Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/software-asset-management-sam-analyst-at-deloitte-4468276720",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-devops-engineer-healix-at-deloitte-4476906679",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Senior DevOps Engineer - Healix",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-devops-engineer-healix-at-deloitte-4476906679",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/power-bi-specialist-at-amphenol-communications-solutions-4484531887",
+      "source": "readme",
+      "company": "Amphenol Communications Solutions",
+      "title": "Power BI Specialist",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/power-bi-specialist-at-amphenol-communications-solutions-4484531887",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/marketing-database-analyst-at-caa-club-group-4483070352",
+      "source": "readme",
+      "company": "CAA Club Group",
+      "title": "Marketing Database Analyst",
+      "location": "Vaughan, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-database-analyst-at-caa-club-group-4483070352",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/it-asset-specialist-at-tmc-canada-4483087534",
+      "source": "readme",
+      "company": "TMC Canada",
+      "title": "IT Asset Specialist",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/it-asset-specialist-at-tmc-canada-4483087534",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/digital-reporting-lead-at-mckesson-4476769935",
+      "source": "readme",
+      "company": "McKesson",
+      "title": "Digital Reporting Lead",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/digital-reporting-lead-at-mckesson-4476769935",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/data-business-systems-analyst-at-cansel-4483048840",
+      "source": "readme",
+      "company": "Cansel",
+      "title": "Data & Business Systems Analyst",
+      "location": "Greater Montreal Metropolitan Area",
+      "url": "https://ca.linkedin.com/jobs/view/data-business-systems-analyst-at-cansel-4483048840",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-analyst-data-warehouse-business-intelligence-at-fidelity-canada-4482564832",
+      "source": "readme",
+      "company": "Fidelity Canada",
+      "title": "Business Analyst - Data Warehouse & Business Intelligence",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-analyst-data-warehouse-business-intelligence-at-fidelity-canada-4482564832",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "adzuna:5945773024",
       "source": "adzuna",
       "company": "Maarut",
@@ -13737,6 +14536,193 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4382155163",
+      "source": "readme",
+      "company": "KPMG Canada",
+      "title": "Senior Consultant, ServiceNow",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4382155163",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/ncino-tech-lead-at-j-m-group-4484726714",
+      "source": "readme",
+      "company": "J&M Group",
+      "title": "nCino Tech Lead",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/ncino-tech-lead-at-j-m-group-4484726714",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-specialist-salesforce-data-cloud-loyalty-at-havas-cx-canada-4474510658",
+      "source": "readme",
+      "company": "Havas CX Canada",
+      "title": "Sr. Specialist, Salesforce Data Cloud & Loyalty",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-specialist-salesforce-data-cloud-loyalty-at-havas-cx-canada-4474510658",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-business-analyst-salesforce-at-co-operators-4484710343",
+      "source": "readme",
+      "company": "Co-operators",
+      "title": "Senior Business Analyst - Salesforce",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-business-analyst-salesforce-at-co-operators-4484710343",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-product-owner-at-docebo-4457011687",
+      "source": "readme",
+      "company": "Docebo",
+      "title": "Salesforce Product Owner",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-docebo-4457011687",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technology-portfolio-manager-global-technology-solutions-at-tmx-group-4484761059",
+      "source": "readme",
+      "company": "TMX Group",
+      "title": "Technology Portfolio Manager (Global Technology Solutions)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technology-portfolio-manager-global-technology-solutions-at-tmx-group-4484761059",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/tableau-powerbi-developer-at-tata-consultancy-services-4483891006",
+      "source": "readme",
+      "company": "Tata Consultancy Services",
+      "title": "Tableau PowerBI Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/tableau-powerbi-developer-at-tata-consultancy-services-4483891006",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-analytics-developer-at-techtronic-industries-canada-inc-tti-canada-4474402190",
+      "source": "readme",
+      "company": "Techtronic Industries Canada Inc. - TTI Canada",
+      "title": "Sr. Analytics Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-analytics-developer-at-techtronic-industries-canada-inc-tti-canada-4474402190",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-data-analyst-at-sonatype-4457171734",
+      "source": "readme",
+      "company": "Sonatype",
+      "title": "Senior Data Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-data-analyst-at-sonatype-4457171734",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-analyst-walmart-services-wmc-systems-administrator-at-walmart-canada-4484715632",
+      "source": "readme",
+      "company": "Walmart Canada",
+      "title": "Senior Analyst, Walmart Services - WMC Systems Administrator",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-analyst-walmart-services-wmc-systems-administrator-at-walmart-canada-4484715632",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/revenue-ops-systems-analyst-at-appdirect-4467585938",
+      "source": "readme",
+      "company": "AppDirect",
+      "title": "Revenue Ops Systems Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/revenue-ops-systems-analyst-at-appdirect-4467585938",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "adzuna:5944360162",
       "source": "adzuna",
       "company": "Co-operators Career",
@@ -14326,6 +15312,295 @@
       "postedDate": "2026-10-27T12:00:00.000Z",
       "scrapedAt": "2026-11-03T00:29:41.052Z",
       "excerpt": "via peer-buffy-2026-11-02-readme-consolidation--2026-11-02--v10.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-architect-fsm-at-ateko-backed-by-bell-canada-4472356457",
+      "source": "readme",
+      "company": "Ateko, backed by Bell Canada",
+      "title": "ServiceNow Architect - FSM",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-fsm-at-ateko-backed-by-bell-canada-4472356457",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-servicenow-specialist-at-trans-mountain-4484203393",
+      "source": "readme",
+      "company": "Trans Mountain",
+      "title": "Senior ServiceNow Specialist",
+      "location": "Calgary, Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-specialist-at-trans-mountain-4484203393",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4472361195",
+      "source": "readme",
+      "company": "Ateko, backed by Bell Canada",
+      "title": "Développeur.euse ServiceNow",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4472361195",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5943684343",
+      "source": "readme",
+      "company": "Cloudious LLC",
+      "title": "SFDC Omnistudio Developer",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5943684343",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "7-day sweep 2026-11-03 — `omnistudio/Canada`",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/software-engineer-ii-salesforce-loyalty-management-developer-at-td-4484005589",
+      "source": "readme",
+      "company": "TD",
+      "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/software-engineer-ii-salesforce-loyalty-management-developer-at-td-4484005589",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-developer-at-national-bank-of-canada-4481861803",
+      "source": "readme",
+      "company": "National Bank of Canada",
+      "title": "Salesforce Developer",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-national-bank-of-canada-4481861803",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-salesforce-at-national-bank-of-canada-4481861804",
+      "source": "readme",
+      "company": "National Bank of Canada",
+      "title": "Développeur Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-national-bank-of-canada-4481861804",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/analyste-d-affaires-salesforce-at-familiprix-4479141273",
+      "source": "readme",
+      "company": "Familiprix",
+      "title": "Analyste d'affaires Salesforce",
+      "location": "Québec, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/analyste-d-affaires-salesforce-at-familiprix-4479141273",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5943407657",
+      "source": "readme",
+      "company": "Equinix",
+      "title": "Senior Software Engineer - Data Cloud & Marketing Technology",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5943407657",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "7-day sweep 2026-11-03 — `salesforce consultant/Canada`",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/tech-ops-analyst-ii-inventory-asset-management-at-tjx-canada-%e2%80%93-winners-marshalls-homesense-4483781545",
+      "source": "readme",
+      "company": "TJX Canada – Winners, Marshalls, HomeSense",
+      "title": "Tech Ops Analyst II - Inventory & Asset Management",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/tech-ops-analyst-ii-inventory-asset-management-at-tjx-canada-%E2%80%93-winners-marshalls-homesense-4483781545",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4481896932",
+      "source": "readme",
+      "company": "Virtusa",
+      "title": "Lead Software Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4481896932",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/it-analyst-%e2%80%93-developer-at-kativik-llisarniliriniq-4484208279",
+      "source": "readme",
+      "company": "Kativik llisarniliriniq",
+      "title": "IT Analyst – Developer",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/it-analyst-%E2%80%93-developer-at-kativik-llisarniliriniq-4484208279",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/financial-data-bi-analyst-at-mty-food-group-4484233538",
+      "source": "readme",
+      "company": "MTY Food Group",
+      "title": "Financial Data & BI Analyst",
+      "location": "Richmond Hill, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/financial-data-bi-analyst-at-mty-food-group-4484233538",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/finops-specialist-%e2%80%93-multi-vendor-data-cost-analytics-at-akkodis-4483644754",
+      "source": "readme",
+      "company": "Akkodis",
+      "title": "FinOps Specialist – Multi-Vendor Data & Cost Analytics",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/finops-specialist-%E2%80%93-multi-vendor-data-cost-analytics-at-akkodis-4483644754",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/data-analyst-at-farm-mutual-re-4484208723",
+      "source": "readme",
+      "company": "Farm Mutual Re",
+      "title": "Data Analyst",
+      "location": "Cambridge, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/data-analyst-at-farm-mutual-re-4484208723",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/bi-developer-at-sunwing-4482260205",
+      "source": "readme",
+      "company": "Sunwing",
+      "title": "BI Developer",
+      "location": "Etobicoke, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/bi-developer-at-sunwing-4482260205",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/agent-e-en-gestion-des-actifs-et-approvisionnement-ti-at-acensi-4483800139",
+      "source": "readme",
+      "company": "ACENSI",
+      "title": "Agent(e) en gestion des actifs et approvisionnement TI",
+      "location": "Brossard, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/agent-e-en-gestion-des-actifs-et-approvisionnement-ti-at-acensi-4483800139",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T00:50:26.653Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
       "workArrangement": "unknown",
       "tags": [
         "other"

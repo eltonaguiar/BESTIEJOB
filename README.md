@@ -310,7 +310,7 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (315)
+### Salesforce jobs (319)
 
 _developer / administrator / architect / consultant roles_
 
@@ -318,6 +318,10 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-10-29 | [Senior Integration Architect (Salesforce / Boomi and Azure integration services )](https://www.adzuna.ca/details/5946002619?utm_medium=api&utm_source=54ce986e) | Experis Canada | Canada | 7-day sweep 2026-11-03 — `salesforce architect/Canada` |
+| 2026-10-29 | [Salesforce Solution / Functional Architect](https://www.adzuna.ca/details/5945999969?utm_medium=api&utm_source=54ce986e) | LTM | Calgary, Calgary region | 7-day sweep 2026-11-03 — `salesforce architect/Canada` |
+| 2026-10-29 | [Salesforce Program Architects](https://www.adzuna.ca/details/5945997267?utm_medium=api&utm_source=54ce986e) | iVedha Inc. | Canada | 7-day sweep 2026-11-03 — `salesforce architect/Canada` |
+| 2026-10-27 | [SFDC Omnistudio Developer](https://www.adzuna.ca/details/5943684343?utm_medium=api&utm_source=54ce986e) | Cloudious LLC | Canada | 7-day sweep 2026-11-03 — `omnistudio/Canada` |
 | 2026-11-02 | [nCino Consultant](https://www.adzuna.ca/details/5950813856) | Delpath | Toronto, Ontario | Adzuna retry: surfaced by the `salesforce service cloud` query; nCino is built on Salesforce |
 | 2026-11-02 | [Tech Lead Salesforce Financial Services Cloud (FSC)](https://www.adzuna.ca/details/5950768381?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | via buffy-critical--2026-11-02--v2.md |
 | 2026-11-02 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://www.adzuna.ca/details/5950813944) | Salesforce Partner Canada | Toronto, Ontario |  |
@@ -636,7 +640,7 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (474)
+### Other jobs (478)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
@@ -644,6 +648,9 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-10-30 | [MuleSoft Integration Engineer, Raleigh, NC, US](https://www.adzuna.ca/details/5947169360?utm_medium=api&utm_source=54ce986e) | Intellibee | Canada | 7-day sweep 2026-11-03 — `mulesoft/Canada` |
+| 2026-10-30 | [Field Service Technician II](https://www.adzuna.ca/land/ad/5946994866?se=6vkMdCDX8RGwU4X4mkVlBg&utm_medium=api&utm_source=54ce986e&v=F348B647B88BCEDAF1985FB8A405C7B5F840A10B) | Zund America | Canada | 7-day sweep 2026-11-03 — `salesforce administrator/Canada` |
+| 2026-10-27 | [Senior Software Engineer - Data Cloud & Marketing Technology](https://www.adzuna.ca/details/5943407657?utm_medium=api&utm_source=54ce986e) | Equinix | Canada | 7-day sweep 2026-11-03 — `salesforce consultant/Canada` |
 | 2026-11-03 | [Data Analyst](https://ca.linkedin.com/jobs/view/data-analyst-at-artemis-4485787835) | Artemis | Aurora, Ontario, Canada | via copilot-multiai--2026-11-03--v1.md |
 | 2026-11-02 | [Spécialiste, FinOps infonuagique et IA](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-finops-infonuagique-et-ia-at-air-canada-4482571267) | Air Canada | Toronto, Ontario, Canada | via copilot-multiai--2026-11-03--v1.md |
 | 2026-11-02 | [Software Developer, DevOps](https://jobs.ashbyhq.com/benevity/867b18d3-a888-40b4-8186-8dee8f340886) | Benevity | Calgary, Alberta | DevOps / Cloud |
