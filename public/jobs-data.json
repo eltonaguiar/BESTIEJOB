@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T01:04:32+00:00",
+ "generatedAt": "2026-11-03T01:05:10+00:00",
  "timezone": "America/Toronto",
- "count": 900,
+ "count": 901,
  "appliedHidden": 19,
  "sources": [
   "Adzuna",
@@ -13018,6 +13018,26 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Salesforce Commerce Cloud",
+   "company": "Apptoza Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5946001701?utm_medium=api&utm_source=54ce986e",
+   "note": "peer dump 2026-11-03 (kilo v2)",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce commerce cloud apptoza inc. toronto, ontario adzuna salesforce peer dump 2026-11-03 (kilo v2) salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "Senior Salesforce QM tester",
    "company": "Acestack",
    "location": "Regent Park, City of Toronto",
@@ -13098,6 +13118,32 @@
    "french": true,
    "search": "conseiller principal ou conseillere principale en architecture de solutions salesforce - fsc et gestion de patrimoine alithya montreal, quebec adzuna salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md salesforce role fit quebec",
    "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Specialist- Salesforce Architect",
+   "company": "Parkland",
+   "location": "Calgary, Calgary region",
+   "url": "https://www.adzuna.ca/details/5945650283?utm_medium=api&utm_source=54ce986e",
+   "note": "peer dump 2026-11-03 (kilo v2)",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "specialist- salesforce architect parkland calgary, calgary region adzuna salesforce peer dump 2026-11-03 (kilo v2) salesforce role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094",
+     "label": "LinkedIn · Calgary"
+    }
+   ]
   },
   {
    "posted": "2026-10-29",
@@ -16688,27 +16734,6 @@
    ],
    "french": false,
    "search": "salesforce & agentforce functional architect unavailable toronto, ontario adzuna salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-24",
-   "title": "Specialist- Salesforce Architect",
-   "company": "Parkland Corporation",
-   "location": "Calgary, Alberta, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "specialist- salesforce architect parkland corporation calgary, alberta, canada linkedin salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md salesforce role fit canada / remote",
    "alternates": []
   },
   {

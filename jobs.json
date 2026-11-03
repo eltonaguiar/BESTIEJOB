@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-03T00:28:51.591Z",
     "generatedAt": "2026-11-03T00:28:51.591Z",
-    "total": 1072,
+    "total": 1074,
     "newThisScan": 698,
     "retainedFromPrevious": 68,
     "sources": {
@@ -13822,6 +13822,40 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5945650283",
+      "source": "readme",
+      "company": "Parkland",
+      "title": "Specialist- Salesforce Architect",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/details/5945650283",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T01:05:10.602Z",
+      "excerpt": "peer dump 2026-11-03 (kilo v2)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5946001701",
+      "source": "readme",
+      "company": "Apptoza Inc.",
+      "title": "Salesforce Commerce Cloud",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5946001701",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T01:05:10.602Z",
+      "excerpt": "peer dump 2026-11-03 (kilo v2)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {

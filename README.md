@@ -310,7 +310,7 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (319)
+### Salesforce jobs (321)
 
 _developer / administrator / architect / consultant roles_
 
@@ -318,6 +318,8 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-10-29 | [Specialist- Salesforce Architect](https://www.adzuna.ca/details/5945650283?utm_medium=api&utm_source=54ce986e) | Parkland | Calgary, Calgary region | peer dump 2026-11-03 (kilo v2) |
+| 2026-10-29 | [Salesforce Commerce Cloud](https://www.adzuna.ca/details/5946001701?utm_medium=api&utm_source=54ce986e) | Apptoza Inc. | Toronto, Ontario | peer dump 2026-11-03 (kilo v2) |
 | 2026-10-29 | [Senior Integration Architect (Salesforce / Boomi and Azure integration services )](https://www.adzuna.ca/details/5946002619?utm_medium=api&utm_source=54ce986e) | Experis Canada | Canada | 7-day sweep 2026-11-03 — `salesforce architect/Canada` |
 | 2026-10-29 | [Salesforce Solution / Functional Architect](https://www.adzuna.ca/details/5945999969?utm_medium=api&utm_source=54ce986e) | LTM | Calgary, Calgary region | 7-day sweep 2026-11-03 — `salesforce architect/Canada` |
 | 2026-10-29 | [Salesforce Program Architects](https://www.adzuna.ca/details/5945997267?utm_medium=api&utm_source=54ce986e) | iVedha Inc. | Canada | 7-day sweep 2026-11-03 — `salesforce architect/Canada` |
