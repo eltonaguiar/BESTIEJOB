@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T100159Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T103153Z.md`.
 
 ## Contents
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-03T10:00:01.834Z** · 789 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T10:30:01.731Z** · 790 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -601,12 +601,12 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486033076) | Canadian Cancer Society | Calgary, Alberta, Canada |
 | 2026-11-03 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-bull-technical-services-limited-4485775315) | BULL TECHNICAL SERVICES LIMITED | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Datacloud Developer](https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629) | Cognizant | Toronto, Ontario, Canada |
+| 2026-11-03 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-partner-canada-4486835667) | Salesforce Partner Canada | Toronto, Ontario, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486038001) | Canadian Cancer Society | Prince George, British Columbia, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486020904) | Canadian Cancer Society | Ottawa, Ontario, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486019930) | Canadian Cancer Society | Halifax, Nova Scotia, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486019931) | Canadian Cancer Society | Montreal, Quebec, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486032119) | Canadian Cancer Society | Québec, Quebec, Canada |
-| 2026-11-03 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-partner-canada-4486835667) | Salesforce Partner Canada | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Release Engineer](https://ca.linkedin.com/jobs/view/salesforce-release-engineer-at-cognizant-4486018556) | Cognizant | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T100159Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T103153Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
