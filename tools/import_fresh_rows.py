@@ -197,27 +197,27 @@ def main() -> int:
         print("!! could not locate table block — aborting")
         return 1
 
-    # leftover "other"-classified rows from the old block go back to Other jobs
+    # The Other table is edited BEFORE the middle block is replaced: splicing the
+    # middle block first shifts every later offset, which previously truncated the
+    # Other table to a single row.
     if families["other"]:
-        other_start = end
-        other_next = next((m.start() for m in re.finditer(r"^##\s+", text[other_start:], re.M)),
-                          None)
-        other_end = other_start + other_next if other_next else len(text)
-        oblock = text[other_start:other_end]
+        other_next = next((m.start() for m in re.finditer(r"^##\s+", text[end:], re.M)), None)
+        other_end = end + other_next if other_next else len(text)
+        oblock = text[end:other_end]
         sep = oblock.find("|---")
         if sep > 0:
             eol = oblock.find("\n", sep)
-            keep = [l for l in oblock[:eol].splitlines()]
+            head_lines = oblock[:eol].splitlines()
             existing = [l for l in oblock[eol:].splitlines() if ROW.match(l)]
             merged = sorted(existing + [render(r) for r in families["other"]],
                             key=lambda l: l.split("|")[1].strip(), reverse=True)
             tail = [l for l in oblock[eol:].splitlines() if not ROW.match(l)]
-            oblock = "\n".join(keep + merged + tail)
+            oblock = "\n".join(head_lines + merged + tail)
             total = len(merged)
             oblock = re.sub(r"(#{3,4}\s+Other jobs) \(\d+\)", rf"\1 ({total})", oblock, count=1)
             oblock = re.sub(r"<strong>Show \d+ postings</strong>",
                             f"<strong>Show {total} postings</strong>", oblock, count=1)
-            text = text[:other_start] + oblock + text[other_end:]
+            text = text[:end] + oblock + text[other_end:]
             end = text.find("### Other jobs")
 
     text = text[:start] + rebuilt + text[end:]
