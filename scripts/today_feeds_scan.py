@@ -69,15 +69,34 @@ WORKDAY_BOARDS = [
     ("resolvetech", "wd1", "RTS", "Resolve Tech Solutions"),
 ]
 
-GREENHOUSE = [("lightfeatheriollc", "LightFeather"), ("9thwayinsignia", "9th Way Insignia"),
-              ("accenturefederalservices", "Accenture Federal Services"), ("d2l", "D2L"),
-              ("icapitalnetwork", "iCapital"), ("bloomerang", "Bloomerang"),
-              ("neuraflash", "NeuraFlash"), ("movableink", "Movable Ink")]
+# Boards verified 2026-11-03 to actually carry SN/SF titles (count of matching
+# roles in brackets). Dead slugs 404 and are skipped, so this list only grows
+# with boards that proved they post this work.
+GREENHOUSE = [("neuraflash", "NeuraFlash"),        # 47 SN/SF
+              ("brex", "Brex"),                     # 4
+              ("mongodb", "MongoDB"),               # 4
+              ("icapitalnetwork", "iCapital"),      # 2
+              ("toast", "Toast"),                   # 1
+              ("bloomerang", "Bloomerang"),         # 1
+              ("movableink", "Movable Ink"),        # 1
+              ("lightfeatheriollc", "LightFeather"),
+              ("9thwayinsignia", "9th Way Insignia"),
+              ("accenturefederalservices", "Accenture Federal Services"),
+              ("d2l", "D2L")]
 LEVER = [("eqbank", "EQ Bank"), ("alimentiv-2", "Alimentiv"), ("versapay", "Versapay")]
 ASHBY = [("benevity", "Benevity"), ("loopio", "Loopio"), ("moego", "MoeGo")]
 
-JOBBANK_QUERIES = [("servicenow", "Toronto, ON"), ("salesforce", "Toronto, ON"),
-                   ("servicenow", "Ontario"), ("salesforce administrator", "Ontario")]
+# Quoted phrases matter: an unquoted "servicenow" makes Job Bank match any word
+# in the description and returns shipping clerks, while "servicenow consultant"
+# returns the actual postings. Verified 2026-11-03.
+JOBBANK_QUERIES = [
+    ('"servicenow"', "Toronto, ON"), ('"servicenow"', "Ontario"),
+    ('"servicenow developer"', "Ontario"), ('"servicenow consultant"', "Ontario"),
+    ('"servicenow administrator"', "Ontario"), ('"servicenow"', "Mississauga, ON"),
+    ('"salesforce"', "Toronto, ON"), ('"salesforce"', "Ontario"),
+    ('"salesforce developer"', "Ontario"), ('"salesforce administrator"', "Ontario"),
+    ('"servicenow"', "Canada"), ('"salesforce"', "Canada"),
+]
 
 
 def fetch(url: str, *, method="GET", body: bytes | None = None,
@@ -260,11 +279,37 @@ def from_ashby(_: int) -> list[dict]:
     return out
 
 
-DATE_LD = re.compile(r'"datePosted"\s*:\s*"([^"]{8,40})"')
+MONTHS = {name: i + 1 for i, name in enumerate(
+    ("january", "february", "march", "april", "may", "june", "july",
+     "august", "september", "october", "november", "december"))}
+
+# Job Bank does NOT publish schema.org JSON-LD. Its date is a microdata span with
+# human text (verified 2026-11-03):
+#   <span property="datePosted" class="date"> Posted on October 29, 2026 </span>
+# The old `"datePosted": "..."` JSON regex never matched, so this source silently
+# contributed zero rows on every run.
+DATE_POSTED = re.compile(r'property="datePosted"[^>]*>(.*?)</span>', re.S)
+DATE_TEXT = re.compile(r"posted\s+on\s+([a-z]+)\s+(\d{1,2}),\s*(\d{4})", re.I)
+TITLE_TAG = re.compile(r"<title>(.*?)</title>", re.S)
+HIRING_ORG = re.compile(r'property="hiringOrganization".*?property="name"[^>]*>(.*?)</span>', re.S)
+
+
+def jobbank_day(html: str) -> str | None:
+    """Microdata 'Posted on October 29, 2026' -> '2026-10-29'. Never guessed."""
+    span = DATE_POSTED.search(html)
+    if not span:
+        return None
+    m = DATE_TEXT.search(re.sub(r"\s+", " ", span.group(1)))
+    if not m:
+        return None
+    month = MONTHS.get(m.group(1).lower())
+    if not month:
+        return None
+    return f"{int(m.group(3)):04d}-{month:02d}-{int(m.group(2)):02d}"
 
 
 def from_jobbank(max_detail: int) -> list[dict]:
-    """Job Bank has no working JSON API (500). Search HTML -> detail JSON-LD."""
+    """Job Bank has no working JSON API (500). Search HTML -> detail microdata."""
     ids: list[str] = []
     for keyword, location in JOBBANK_QUERIES:
         url = ("https://www.jobbank.gc.ca/jobsearch/jobsearch?"
@@ -286,13 +331,20 @@ def from_jobbank(max_detail: int) -> list[dict]:
             html = fetch(purl, headers={"Accept": "text/html"}).decode("utf-8", "replace")
         except Exception:
             continue
-        m = DATE_LD.search(html)
-        if not m:
+        posted = jobbank_day(html)
+        if not posted:
             continue                       # no published date -> no row, never a guess
-        title = re.search(r"<title>(.*?)</title>", html, re.S)
-        t = re.sub(r"\s+", " ", (title.group(1) if title else "")).replace("| Job Bank", "").strip()
-        out.append({"title": t, "company": "Job Bank employer", "location": "Canada",
-                    "url": purl, "posted": iso_day(m.group(1)), "source": "jobbank"})
+        title = TITLE_TAG.search(html)
+        raw = re.sub(r"\s+", " ", (title.group(1) if title else "")).replace("| Job Bank", "").strip()
+        # "servicenow developer - Toronto, ON - Job posting - Job Bank"
+        parts = [p.strip() for p in raw.split(" - ")]
+        role = parts[0] if parts else raw
+        loc = parts[1] if len(parts) > 1 and "," in parts[1] else "Canada"
+        org = HIRING_ORG.search(html)
+        company = (re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", org.group(1))).strip()
+                   if org else "Job Bank employer")
+        out.append({"title": role, "company": company, "location": loc,
+                    "url": purl, "posted": posted, "source": "jobbank"})
     return out
 
 
@@ -325,7 +377,7 @@ def main() -> int:
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--days", type=int, default=1, help="how many days back counts as fresh")
     ap.add_argument("--source", default=None, help="comma-separated subset")
-    ap.add_argument("--jobbank-max", type=int, default=25)
+    ap.add_argument("--jobbank-max", type=int, default=120)
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 

@@ -47,8 +47,22 @@ KEYWORDS = [
     "Salesforce platform developer", "Salesforce CPQ", "Apex developer",
     "Salesforce Marketing Cloud", "Salesforce Agentforce",
     "CRM developer", "business systems analyst",
+    # Module/ cert-level variants: employers title by module at least as often
+    # as by platform, and LinkedIn's keyword match is title-driven.
+    "ServiceNow GRC", "ServiceNow HRSD", "ServiceNow FSO", "ServiceNow CSM",
+    "ServiceNow SAM", "ServiceNow HAM", "ServiceNow Discovery",
+    "ServiceNow portal", "ServiceNow integration", "ServiceNow QA",
+    "ServiceNow business analyst", "ServiceNow project manager",
+    "ITSM consultant", "ITSM developer", "CMDB administrator",
+    "service catalog developer", "ITOM consultant",
+    "Salesforce Lightning", "Salesforce integration", "Salesforce QA",
+    "Salesforce solution architect", "Salesforce business analyst",
+    "Salesforce DevOps", "Salesforce Experience Cloud",
+    "Salesforce data migration", "Salesforce Pardot", "Apex",
 ]
-LOCATIONS = ["Toronto%2C%20Ontario%2C%20Canada", "Canada"]
+LOCATIONS = ["Toronto%2C%20Ontario%2C%20Canada", "Canada",
+             "Mississauga%2C%20Ontario%2C%20Canada",
+             "Markham%2C%20Ontario%2C%20Canada"]
 
 RELEVANT = re.compile(
     r"servicenow|salesforce|itsm|itam|cmdb|itom|\bsnow\b|apex|mulesoft|"
@@ -127,6 +141,11 @@ def next_version(day: str) -> Path:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=3)
+    # The guest endpoint allows ~1 req/2s; each extra location/pages multiplies
+    # the sweep, so both are capped by a flag rather than edited in place.
+    ap.add_argument("--locations", type=int, default=len(LOCATIONS),
+                    help=f"how many of the {len(LOCATIONS)} locations to sweep")
+    ap.add_argument("--pages", type=int, default=2, help="result pages per keyword (25 jobs each)")
     ap.add_argument("--apply", action="store_true", help="merge into README and rebuild the site")
     ap.add_argument("--max-per-table", type=int, default=150)
     args = ap.parse_args()
@@ -136,8 +155,8 @@ def main() -> int:
 
     found: list[dict] = []
     for kw in KEYWORDS:
-        for loc in LOCATIONS:
-            for start in (0, 25):
+        for loc in LOCATIONS[:max(1, args.locations)]:
+            for start in (0, 25)[:max(1, args.pages)]:
                 found.extend(fetch(kw.replace(" ", "%20"), loc, start, args.days))
                 time.sleep(0.8)
 

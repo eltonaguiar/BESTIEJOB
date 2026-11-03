@@ -168,8 +168,12 @@ def main() -> int:
 
     drop: set[int] = set()
     for c in unique:
-        # keep the earliest posted copy, then the longest title
-        keep = sorted(c, key=lambda i: (rows[i]["posted"], -len(rows[i]["title"])))[0]
+        # Keep the FRESHEST copy, then the longest title. Keeping the earliest
+        # (the old rule) threw away a role reposted today in favour of its
+        # week-old duplicate, so the board quietly lost exactly the rows a job
+        # seeker wants. Undated rows sort last rather than first.
+        keep = sorted(c, key=lambda i: (rows[i]["posted"] or "",
+                                        len(rows[i]["title"])), reverse=True)[0]
         for i in c:
             if i != keep:
                 drop.add(i)
