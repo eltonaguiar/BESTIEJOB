@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T190216Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T193143Z.md`.
 
 ## Contents
 
@@ -58,6 +58,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-03 | [Job opening - ServiceNow Technical Consultant - ITOM, Service Mapping in Toronto / Randstad Canada](https://www.randstad.ca/jobs/servicenow-technical-consultant-itom-service-mapping_toronto_47215222/) | Randstad Canada](https://www.randstad.ca/jobs/servicenow-technical-consultant-itom-service-mapping_toronto_47215222/) | Unknown | Canada |
 | 2026-11-03 | [Job Board             - Job Detail: Bank of Montreal (BMO) - Business System Analyst-ServiceNow - R260023407 Toronto](https://msen.vfairs.com/vfair/en/jb/detail?is_partial=false&job_id=2407787) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Intermediate Technology Specialist, Service Now Developer](https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-service-now-developer-at-equitable-4485018083) | Equitable | Waterloo, Ontario, Canada |  |
+| 2026-11-03 | [FSO-ServiceNow Developer](https://ca.linkedin.com/jobs/view/fso-servicenow-developer-at-national-bank-of-canada-4484699845) | National Bank of Canada | Montreal, Quebec, Canada |  |
 | 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486081043) | Desjardins | Lévis, Quebec, Canada |  |
 | 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486078203) | Desjardins | Montréal-Ouest, Quebec, Canada |  |
 | 2026-11-03 | [Configuration Management Database (CMDB) Analyst Jobs in Softchoice in Toronto - Canada / Dr. Job](https://www.drjobpro.com/canada/jobs/configuration-management-database-cmdb-analyst-toronto-softchoice-MSY772691E9O9LF) | Dr. Job](https://www.drjobpro.com/canada/jobs/configuration-management-database-cmdb-analyst-toronto-softchoice-MSY772691E9O9LF) | Unknown | Canada |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-30 | [Manager - ServiceNow](https://www.adzuna.ca/details/5947366387?utm_medium=api&utm_source=54ce986e) | KPMG | Montréal, Québec | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-30 | [Information Technology Service Management (ITSM) Analyst (JR100183) - CAAT Pension Plan](https://caatpension.wd10.myworkdayjobs.com/Careers/job/Toronto-ON/ITSM-Analyst_JR100183) | Canada: Toronto; hybrid | Full-time | Accepting (ATS) Not disclosed |
 | 2026-10-30 | [IT Operations & CMDB Analyst](https://ca.linkedin.com/jobs/view/it-operations-cmdb-analyst-at-purolator-inc-4485105171) | Purolator Inc. | Mississauga, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
-| 2026-10-30 | [Conseiller technique principal ServiceNow](https://www.adzuna.ca/details/5947177797?utm_medium=api&utm_source=54ce986e) | Bell | Toronto, Ontario | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-03T19:00:01.623Z** · 832 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T19:30:01.315Z** · 834 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -590,7 +590,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Administrateur ServiceNow](https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220744) | Pomerleau | Québec, Quebec, Canada |
 | 2026-11-03 | [ServiceNow CMDB](https://ca.linkedin.com/jobs/view/servicenow-cmdb-at-tata-consultancy-services-4486059065) | Tata Consultancy Services | Montreal, Quebec, Canada |
 | 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486081043) | Desjardins | Lévis, Quebec, Canada |
-| 2026-11-02 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |
+| 2026-11-03 | [FSO-ServiceNow Developer](https://ca.linkedin.com/jobs/view/fso-servicenow-developer-at-national-bank-of-canada-4484699845) | National Bank of Canada | Montreal, Quebec, Canada |
 
 ### Salesforce — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T190216Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T193143Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
