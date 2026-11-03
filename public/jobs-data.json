@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T21:51:11+00:00",
+ "generatedAt": "2026-11-03T22:02:22+00:00",
  "timezone": "America/Toronto",
- "count": 414,
+ "count": 416,
  "appliedHidden": 8,
  "sources": [
   "2.halvolink.liveblog365.com",
@@ -8400,6 +8400,27 @@
   },
   {
    "posted": "2026-11-01",
+   "title": "Salesforce Administrator",
+   "company": "Natural Health",
+   "location": "Hybrid in Toronto",
+   "url": "https://www.adzuna.ca/details/5948993217",
+   "note": "$60-75k Benefits",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce administrator natural health hybrid in toronto adzuna salesforce $60-75k benefits salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
    "title": "Salesforce Solution Architect",
    "company": "iA Financial Group",
    "location": "Canada",
@@ -8499,6 +8520,28 @@
    ],
    "french": false,
    "search": "senior consultant, salesforce platform - deloitte technology canada (dtc), platform team (req 133770) toronto, burlington on or fredericton nb linkedin card 2026-11-01; employer requisition live (http 200) 2026-11-02 careers.deloitte.ca salesforce  salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "ServiceNow Discovery Developer",
+   "company": "Scotiabank",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-discovery-developer-at-scotiabank-4413829229",
+   "note": "via buffy-round3--2026-11-02--v92.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow discovery developer scotiabank toronto, ontario, canada linkedin servicenow via buffy-round3--2026-11-02--v92.md servicenow itom role fit toronto area",
    "alternates": []
   },
   {
