@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T180146Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T182516Z.md`.
 
 ## Contents
 
@@ -28,30 +28,47 @@ _developer / administrator / architect / analyst roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-03 | [The CMDB Senior Developer in Toronto Ontario, ON - J&M Group](https://ca.trabajo.org/job-5018-da456835dc3f44dd12a7729a00d19098) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Sr. Tech Consultant(Servicenow Development) in Toronto, Ontario - Themesoft Inc.](https://ca.trabajo.org/job-4112-b29b87a9d244b3b4cdcb88ea8d74037b) | Unknown | Canada | 9/10 |
 | 2026-11-03 | [Servicenow specialist](https://ca.linkedin.com/jobs/view/servicenow-specialist-at-tata-consultancy-services-4486058172) | Tata Consultancy Services | Montreal, Quebec, Canada |  |
 | 2026-11-03 | [Servicenow Developer Jobs in Triunity Software in Toronto - Canada / Dr. Job](https://www.drjobpro.com/canada/jobs/servicenow-developer-toronto-triunity-software-MT30TV6X1EAAQE2) | Dr. Job](https://www.drjobpro.com/canada/jobs/servicenow-developer-toronto-triunity-software-MT30TV6X1EAAQE2) | Unknown | Canada |
+| 2026-11-03 | [ServiceNow Technical Lead (Director) Job In Toronto, ON CA M1R 0E9/ Nexxt](https://www.nexxt.com/jobs/servicenow-technical-lead-director-toronto-on-ca-3318685441-job.html) | Nexxt](https://www.nexxt.com/jobs/servicenow-technical-lead-director-toronto-on-ca-3318685441-job.html) | Unknown | Canada |
 | 2026-11-03 | [ServiceNow System Administrator](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636) | GDIT | Any Location / Remote |  |
 | 2026-11-03 | [ServiceNow Specialist – CMDB / CSDM / Montreal, QC (Onsite) - FTE](https://ca.linkedin.com/jobs/view/servicenow-specialist-%E2%80%93-cmdb-csdm-montreal-qc-onsite-fte-at-acestack-4486062233) | AceStack | Montreal, Quebec, Canada |  |
 | 2026-11-03 | [ServiceNow Senior Support Analyst job at TELUS in Toronto, ON - Job Search](https://optimuspartners.com/workspread/job/servicenow-senior-support-analyst-at-telus-toronto-on-127534d77473d770jktk-b3B0aW11c3) | Unknown | Canada | 0/10 |
 | 2026-11-03 | [ServiceNow Senior Developer at BDO Canada](https://echojobs.io/job/bdo-canada-servicenow-senior-developer-bbq1q) | Unknown | Canada | 0/10 |
+| 2026-11-03 | [ServiceNow Product and Delivery Manager, Deloitte Global Technology in Toronto Ontario, ON - Deloitte](https://ca.trabajo.org/job-5018-8dd014364c5e1a56eef91ad3a1a0cdab) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |  |
 | 2026-11-03 | [ServiceNow Consultant - REMOTE](https://ca.linkedin.com/jobs/view/servicenow-consultant-remote-at-ntt-data-north-america-4478715652) | NTT DATA North America | Ottawa, Ontario, Canada |  |
+| 2026-11-03 | [ServiceNow CMDB Administrator, ITAM (HAM & SAM)](https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-itam-ham-sam-at-air-miles-reward-program-4238029397) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [ServiceNow CMDB](https://ca.linkedin.com/jobs/view/servicenow-cmdb-at-tata-consultancy-services-4486059065) | Tata Consultancy Services | Montreal, Quebec, Canada |  |
 | 2026-11-03 | [ServiceNow Business Process Consultant  - ITSM AND HRSD Job Details / EY](https://careers.ey.com/ey/job/Toronto-ServiceNow-Business-Process-Consultant-ITSM-AND-HRSD-ON-M5H-0B3/1388519433/?feedId=440033%3DWomenInTech%3Dapply%3Dwomentech_network) | EY](https://careers.ey.com/ey/job/Toronto-ServiceNow-Business-Process-Consultant-ITSM-AND-HRSD-ON-M5H-0B3/1388519433/?feedId=440033%3DWomenInTech%3Dapply%3Dwomentech_network) | Unknown | Canada |
 | 2026-11-03 | [ServiceNow Business Analyst in Toronto, Ontario - Tata Consultancy Services](https://ca.trabajo.org/job-1918-e49d77c4eacc8edc62b33626d8397d7c) | Unknown | Canada | 0/10 |
 | 2026-11-03 | [ServiceNow Business Analyst in Toronto, Ontario - Soroc Technology](https://ca.trabajo.org/job-5475-019264d01442590621e76aee6e71e630) | Unknown | Canada | 0/10 |
+| 2026-11-03 | [ServiceNow Asset Management / ITAM Business Systems Analyst / Application Software Specialist - Spectra Group - Hybrid in Toronto, ON, CA / Dice.com](https://www.dice.com/job-detail/6001b949-6d39-4353-927d-d68dac3ab6cc) | Dice.com](https://www.dice.com/job-detail/6001b949-6d39-4353-927d-d68dac3ab6cc) | Unknown | Canada |
 | 2026-11-03 | [ServiceNow Administrator Specialist Job Details / Scotiabank](https://jobs.scotiabank.com/job/Toronto-ServiceNow-Administrator-Specialist-ON-M5H-1H1/602949717/) | Scotiabank](https://jobs.scotiabank.com/job/Toronto-ServiceNow-Administrator-Specialist-ON-M5H-1H1/602949717/) | Unknown | Canada |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469986334) | Pomerleau | St-Georges, Quebec, Canada |  |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469993127) | Pomerleau | Québec, Quebec, Canada |  |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469975858) | Pomerleau | Montreal, Quebec, Canada |  |
 | 2026-11-03 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote |  |
+| 2026-11-03 | [SENIOR SYSTEMS INTEGRATOR TECHNOLOGY SERVICES (ServiceNow) @ City of Toronto](https://www.tealhq.com/job/senior-systems-integrator-technology-services-servicenow_7ea1a6d80534245ebb2c51f950a9464e9d80f) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Remote ServiceNow Senior Developer at Bdo • $84k – $128k / Hiring.Camp](https://hiring.camp/job/Y56rjO) | Hiring.Camp](https://hiring.camp/job/Y56rjO) | Unknown | Canada |
 | 2026-11-03 | [NEW · ServiceNow Developer & Administrator — Toronto / Apply Now (Themesoft Inc.) / Jobs Near Me](https://jobsnearme.career/jobs/servicenow-developer-administrator-themesoft-inc-toronto) | Apply Now (Themesoft Inc.) | Jobs Near Me](https://jobsnearme.career/jobs/servicenow-developer-administrator-themesoft-inc-toronto) | Unknown |
+| 2026-11-03 | [Job postings / Business System Analyst-ServiceNow / Toronto, Ontario / BMO Financial Group / jobillico.com](https://www.jobillico.com/en/job-offer/bmo-financial-group.sCezZi/business-system-analyst-servicenow/17422056) | Business System Analyst-ServiceNow | Toronto, Ontario | BMO Financial Group |
+| 2026-11-03 | [Job opening - ServiceNow Technical Consultant - ITOM, Service Mapping in Toronto / Randstad Canada](https://www.randstad.ca/jobs/servicenow-technical-consultant-itom-service-mapping_toronto_47215222/) | Randstad Canada](https://www.randstad.ca/jobs/servicenow-technical-consultant-itom-service-mapping_toronto_47215222/) | Unknown | Canada |
+| 2026-11-03 | [Job Board             - Job Detail: Bank of Montreal (BMO) - Business System Analyst-ServiceNow - R260023407 Toronto](https://msen.vfairs.com/vfair/en/jb/detail?is_partial=false&job_id=2407787) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486081043) | Desjardins | Lévis, Quebec, Canada |  |
 | 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486078203) | Desjardins | Montréal-Ouest, Quebec, Canada |  |
+| 2026-11-03 | [Configuration Management Database (CMDB) Analyst Jobs in Softchoice in Toronto - Canada / Dr. Job](https://www.drjobpro.com/canada/jobs/configuration-management-database-cmdb-analyst-toronto-softchoice-MSY772691E9O9LF) | Dr. Job](https://www.drjobpro.com/canada/jobs/configuration-management-database-cmdb-analyst-toronto-softchoice-MSY772691E9O9LF) | Unknown | Canada |
+| 2026-11-03 | [Configuration Management Database (CMDB) Analyst Job Details / Softchoice](https://careers.softchoice.com/job/Toronto-Configuration-Management-Database-%28CMDB%29-Analyst-ON/605135117/) | Softchoice](https://careers.softchoice.com/job/Toronto-Configuration-Management-Database-%28CMDB%29-Analyst-ON/605135117/) | Unknown | Canada |
+| 2026-11-03 | [Business System Analyst-ServiceNow at BMO — Toronto, Ontario, CA](https://hiringcafe.com/job/business-system-analyst-servicenow-bmo-toronto-ontario-no2mofze9pz52uej) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Business System Analyst-ServiceNow / Bmo / Hiretik](https://hiretik.com/jobs/81ebca60-8667-448d-8842-6b043d685ce4) | Bmo | Hiretik](https://hiretik.com/jobs/81ebca60-8667-448d-8842-6b043d685ce4) | Unknown |
+| 2026-11-03 | [Business System Analyst-ServiceNow - BMO / Built In Toronto](https://builtintoronto.com/job/business-system-analyst-servicenow/10589884) | Built In Toronto](https://builtintoronto.com/job/business-system-analyst-servicenow/10589884) | Unknown | Canada |
 | 2026-11-03 | [Bilingual Senior Specialist, ServiceNow ITSM Developer / Jobs.ca](https://www.jobs.ca/cmhc-schl/jobs/bilingual-senior-specialist-servicenow-itsm-developer-toronto-on-9390c8728e44) | Jobs.ca](https://www.jobs.ca/cmhc-schl/jobs/bilingual-senior-specialist-servicenow-itsm-developer-toronto-on-9390c8728e44) | Unknown | Canada |
 | 2026-11-03 | [Administrateur ServiceNow](https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220744) | Pomerleau | Québec, Quebec, Canada |  |
 | 2026-11-03 | [54   Servicenow Remote Jobs in Canada](https://ca.linkedin.com/jobs/servicenow-remote-jobs) | Unknown | Canada | 0/10 |
+| 2026-11-03 | [53   Servicenow Developer Jobs in Toronto](https://ca.linkedin.com/jobs/servicenow-developer-jobs-toronto-on) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [1,000+ Servicenow jobs in Canada](https://ca.linkedin.com/jobs/servicenow-jobs) | Unknown | Canada | 8/10 |
 | 2026-11-02 | [ServiceNow Software Asset Management Pro (SAM Pro) Consultant](https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865) | 2iSolutions Inc. | Canada |  |
 | 2026-11-02 | [ServiceNow SAM Pro Consultant](https://ca.linkedin.com/jobs/view/4486426865) | 2iSolutions Inc. | Canada | via grok-job-hunter--2026-11-02--v41.md |
 | 2026-11-02 | [ServiceNow ITOM Specialist](https://ca.linkedin.com/jobs/view/servicenow-itom-specialist-at-raise-4486460378) | Raise | Saskatoon, Saskatchewan, Canada |  |
@@ -161,23 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-30 | [IT Operations & CMDB Analyst](https://ca.linkedin.com/jobs/view/it-operations-cmdb-analyst-at-purolator-inc-4485105171) | Purolator Inc. | Mississauga, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-30 | [Conseiller technique principal ServiceNow](https://www.adzuna.ca/details/5947177797?utm_medium=api&utm_source=54ce986e) | Bell | Toronto, Ontario | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-29 | [Sr Business Analyst ServiceNow HR](https://www.adzuna.ca/details/5946006974?utm_medium=api&utm_source=54ce986e) | Cpus Engineering Staffing Solutions Inc. | Oshawa, Durham region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [Spécialiste / Développeur ServiceNow](https://www.adzuna.ca/details/5946005577?utm_medium=api&utm_source=54ce986e) | TEHORA | Québec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [Spécialiste / Développeur ServiceNow](https://www.adzuna.ca/details/5946005340?utm_medium=api&utm_source=54ce986e) | TEHORA | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Systems Administrator](https://www.adzuna.ca/details/5946006935?utm_medium=api&utm_source=54ce986e) | Global Technical Talent, an Inc. 5000 Company | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-29 | [ServiceNow Strategic Portfolio Management (SPM) Consultant](https://www.adzuna.ca/details/5946001982?utm_medium=api&utm_source=54ce986e) | RSM US LLP | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Sr. ITAM(SAM/HAM) Developer](https://www.adzuna.ca/details/5946005780?utm_medium=api&utm_source=54ce986e) | ServiceIO Consultancy Services | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Senior Technical Advisor](https://www.adzuna.ca/details/5945995783?utm_medium=api&utm_source=54ce986e) | Bell | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-29 | [ServiceNow Senior Technical Advisor](https://www.adzuna.ca/details/5945998148?utm_medium=api&utm_source=54ce986e) | Bell | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5946004071?utm_medium=api&utm_source=54ce986e) | Alimentiv | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-29 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5946002922?utm_medium=api&utm_source=54ce986e) | Alimentiv | Greater Vancouver, British Columbia | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5946002886?utm_medium=api&utm_source=54ce986e) | Alimentiv | London, Middlesex | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5946002306?utm_medium=api&utm_source=54ce986e) | Alimentiv | Montréal, Québec | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5945477143?utm_medium=api&utm_source=54ce986e) | Alimentiv | Montréal, Québec | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Manager](https://www.adzuna.ca/details/5946007553?utm_medium=api&utm_source=54ce986e) | Ledcor | Kelowna, Central Okanagan | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Manager](https://www.adzuna.ca/details/5946001425?utm_medium=api&utm_source=54ce986e) | Ledcor Group | Kelowna, Central Okanagan | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Manager](https://www.adzuna.ca/details/5946001071?utm_medium=api&utm_source=54ce986e) | Ledcor | Greater Vancouver, British Columbia | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow ITOM SME](https://www.adzuna.ca/details/5946007051?utm_medium=api&utm_source=54ce986e) | LTM | Markham, York region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow GRC Solution Architect](https://www.adzuna.ca/details/5946007870) | Compunnel Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 
 </details>
 
@@ -189,9 +189,14 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-03 | [Verafin - Senior Salesforce Administrator at Nasdaq / Renata](https://hirenata.com/jobs/710b3213-4514-4a58-81a6-a646ecaa2d11) | Renata](https://hirenata.com/jobs/710b3213-4514-4a58-81a6-a646ecaa2d11) | Unknown | Canada |
+| 2026-11-03 | [Verafin - Senior Salesforce Administrator - Nasdaq, Inc. / BeBee](https://bebee.com/ca/jobs/verafin-senior-salesforce-administrator-nasdaq-inc-toronto-on-canada--jobgoal-24997_E5506E67496B952069AC197D268FDE4E) | BeBee](https://bebee.com/ca/jobs/verafin-senior-salesforce-administrator-nasdaq-inc-toronto-on-canada--jobgoal-24997_E5506E67496B952069AC197D268FDE4E) | Unknown | Canada |
+| 2026-11-03 | [Technology and Innovation - Salesforce Developer, Revenue Cloud and CPQ @ Riveron](https://jobs.ashbyhq.com/riveron/ebfa2091-8d4f-4088-82b8-e006463669b9) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058) | Co-operators | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487007645) | Co-operators | Mississauga, Ontario, Canada |  |
+| 2026-11-03 | [Spectrum Health Care Salesforce Developer / SmartRecruiters](https://jobs.smartrecruiters.com/SpectrumHealthCare/744000101404915-salesforce-developer) | SmartRecruiters](https://jobs.smartrecruiters.com/SpectrumHealthCare/744000101404915-salesforce-developer) | Unknown | Canada |
 | 2026-11-03 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-partner-canada-4486835667) | Salesforce Partner Canada | Toronto, Ontario, Canada |  |
+| 2026-11-03 | [Senior Technical Architect, Life Sciences - Salesforce / Built In](https://builtin.com/job/senior-technical-architect-life-sciences/10401465) | Built In](https://builtin.com/job/senior-technical-architect-life-sciences/10401465) | Unknown | Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486033076) | Canadian Cancer Society | Calgary, Alberta, Canada |  |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486019931) | Canadian Cancer Society | Montreal, Quebec, Canada |  |
@@ -201,21 +206,43 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486032119) | Canadian Cancer Society | Québec, Quebec, Canada |  |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486031854) | Canadian Cancer Society | Kelowna, British Columbia, Canada |  |
 | 2026-11-03 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-bull-technical-services-limited-4485775315) | BULL TECHNICAL SERVICES LIMITED | Toronto, Ontario, Canada |  |
+| 2026-11-03 | [Senior Salesforce CPQ Developer at Cognizant - RevPath](https://revpath.dealhub.io/jobs/440762624-senior-salesforce-cpq-developer) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Senior Salesforce Architect (CA) at Pointclickcare](https://jobs.lever.co/pointclickcare/c9d09d1b-bbcb-4afe-a8de-444e2e64ef12) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Senior Associate, Salesforce Technical Consultant at Pwc • $85k – $135k / Hiring.Camp](https://hiring.camp/job/JlZ4Vy) | Hiring.Camp](https://hiring.camp/job/JlZ4Vy) | Unknown | Canada |
 | 2026-11-03 | [Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-at-k-k-global-talent-solutions-inc-4486897098) | K&K Global Talent Solutions INC. | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Release Engineer](https://ca.linkedin.com/jobs/view/salesforce-release-engineer-at-cognizant-4486018556) | Cognizant | Toronto, Ontario, Canada |  |
+| 2026-11-03 | [Salesforce Job Board Sitemap / All Job Listings / Clientell AI](https://www.getclientell.com/jobboard/sitemap) | All Job Listings | Clientell AI](https://www.getclientell.com/jobboard/sitemap) | Unknown |
 | 2026-11-03 | [Salesforce Implementation Consultant & Platform Administrator](https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282) | SS&C Technologies | Toronto, Ontario, Canada |  |
+| 2026-11-03 | [Salesforce Functional Architect at Cognizant — Toronto, Ontario, Canada / LinkedIn Jobs](https://ca.linkedin.com/jobs/view/salesforce-functional-architect-at-cognizant-4460651406) | LinkedIn Jobs](https://ca.linkedin.com/jobs/view/salesforce-functional-architect-at-cognizant-4460651406) | Unknown | Canada |
 | 2026-11-03 | [Salesforce Financial Services Cloud (FSC) Developer](https://ca.linkedin.com/jobs/view/salesforce-financial-services-cloud-fsc-developer-at-top-recruitment-4484687555) | Top Recruitment | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Field Service (FSL) Developer](https://ca.linkedin.com/jobs/view/salesforce-field-service-fsl-developer-at-sciex-4484638102) | SCIEX | Vaughan, Ontario, Canada |  |
+| 2026-11-03 | [Salesforce Devops Engineer at The Retirement World / Workopia](https://workopia.io/jobs/944163f46c200f3498f57a9948e0ac24) | Workopia](https://workopia.io/jobs/944163f46c200f3498f57a9948e0ac24) | Unknown | Canada |
+| 2026-11-03 | [Salesforce Developer with Marketing Cloud Focus in Toronto ON, Toronto Census Division, ON; Ontario - Celestica Inc.](https://ca.trabajo.org/job-2844-2287c6c6a6138061d5b8edfb83431061) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Salesforce Developer FT (Toronto) in Toronto / Kit Job](https://www.kitjob.ca/job/181828515/salesforce-developer-ft-toronto) | Kit Job](https://www.kitjob.ca/job/181828515/salesforce-developer-ft-toronto) | Unknown | Canada |
+| 2026-11-03 | [Salesforce Developer / Senior Admin 1 Job Details / Celestica International LP](https://careers.celestica.com/job/Toronto-Salesforce-Developer-Senior-Admin-1-ON/1390525533/) | Celestica International LP](https://careers.celestica.com/job/Toronto-Salesforce-Developer-Senior-Admin-1-ON/1390525533/) | Unknown | Canada |
 | 2026-11-03 | [Salesforce Developer (Cloud Developer)](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Salesforce-Developer--Cloud-Developer-_RQ230765) | GDIT | Any Location / Remote |  |
 | 2026-11-03 | [Salesforce Datacloud Developer](https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629) | Cognizant | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Consultant, Revenue Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/6242209004) | NeuraFlash | Remote - Colombia |  |
+| 2026-11-03 | [Salesforce CRM Developer at MCKESSON](https://careers.mckesson.com/en/job/mississauga/salesforce-crm-developer/733/96360347680?gh_src=Mass+Digital+Health+job+board) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Salesforce CPQ Architect in Toronto, Ontario - BULLIT SYSTEMS](https://ca.trabajo.org/job-4112-d31cd81f4ff1565e6a544f392564df2f) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Salesforce CPQ & Sales Cloud Developer - Remote Canada Position at NTT Ltd - RevPath](https://revpath.dealhub.io/jobs/499593091-salesforce-cpq-sales-cloud-developer-remote-canada-position) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Salesforce CPQ & Sales Cloud Developer - Remote Canada Position - NTT DATA / BeBee](https://bebee.com/ca/jobs/salesforce-cpq-sales-cloud-developer-remote-canada-position-ntt-data-toronto-on--theirstack-733369976) | BeBee](https://bebee.com/ca/jobs/salesforce-cpq-sales-cloud-developer-remote-canada-position-ntt-data-toronto-on--theirstack-733369976) | Unknown | Canada |
 | 2026-11-03 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto |  |
+| 2026-11-03 | [Salesforce Architect at Adastra - Remote / Jobs.ca](https://www.jobs.ca/job/639ec148-3fc1-473f-9246-2b2c79fc3d9b) | Jobs.ca](https://www.jobs.ca/job/639ec148-3fc1-473f-9246-2b2c79fc3d9b) | Unknown | Canada |
+| 2026-11-03 | [Salesforce Architect Jobs in North Tonawanda, NY / HiringCafe](https://hiringcafe.com/jobs/salesforce-architect-north-tonawanda-ny) | HiringCafe](https://hiringcafe.com/jobs/salesforce-architect-north-tonawanda-ny) | Unknown | Canada |
+| 2026-11-03 | [Salesforce Administrator job at CanPrev Canada, US - empoweradmintt.com](https://empoweradmintt.com/work/job/salesforce-administrator-at-canprev-canada-cTRmZjdJSHY3ZFkwbmJ1NXZBVm8zRjJ4) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Salesforce Administrator in Markham NT Canada - Sentrex - 51C95C](https://www.recruit.net/job/salesforce-administrator-jobs/51C95CABD9B4BC05) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Junior Salesforce Developer - Electric Mind / Built In](https://builtin.com/job/junior-salesforce-developer/6885152) | Built In](https://builtin.com/job/junior-salesforce-developer/6885152) | Unknown | Canada |
+| 2026-11-03 | [Find a Salesforce Related Job / sForceJobs](https://sforcejobs.com/all-jobs) | sForceJobs](https://sforcejobs.com/all-jobs) | Unknown | Canada |
 | 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486836890) | Canadian Cancer Society | Calgary, Alberta, Canada |  |
 | 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486061644) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486071459) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada |  |
 | 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486064610) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada |  |
+| 2026-11-03 | [Docebo - Senior Salesforce Administrator](https://jobs.lever.co/docebo/ffa97c51-991b-4e37-9f63-f0d7b22b2303) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Caseware - Salesforce Administrator](https://jobs.lever.co/caseware/97e057a7-e8a6-46a6-98cc-4cf7dda1b165) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Bmeaningful](https://www.bmeaningful.com/jobs/fb2504ogrw18b/systems-salesforce-administrator) | Unknown | Canada | 8/10 |
 | 2026-11-02 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://www.adzuna.ca/details/5950813944) | Salesforce Partner Canada | Toronto, Ontario |  |
 | 2026-11-02 | [Senior Salesforce Technical Consultant](https://www.adzuna.ca/details/5950547938) | CYNET SYSTEMS | Mississauga, Peel region |  |
 | 2026-11-02 | [Senior Salesforce Developer / Admin](https://www.adzuna.ca/details/5950814412) | Celestica | Toronto, Ontario |  |
@@ -312,33 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-30 | [Senior Production Support Engineer/Salesforce Admin - Remote Canada Position - NTT America, Inc.](https://www.adzuna.ca/details/5933062962?utm_medium=api&utm_source=54ce986e) | Toronto, Ontario | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Senior Product Owner (Salesforce Service/Experience Cloud)](https://www.jobs.ca/dayforce/jobs/product-owner-sr-canada-fed6ce629c90) | Dayforce | Toronto, ON; on-site | via grok-job-hunter--2026-11-02--v9.md |
 | 2026-10-30 | [Senior Developer (Salesforce) - NeuraFlash](https://remotive.com/remote/jobs/software-development/senior-developer-6348018) | Remote | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Technical Lead Developer](https://ca.linkedin.com/jobs/view/4485348889) | Arkhya Tech Inc. | Canada | via grok-job-hunter--2026-11-02--v41.md |
-| 2026-10-30 | [Salesforce Technical Lead - Financial Services Cloud](https://www.adzuna.ca/details/5947169594?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal, Québec | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5946719401?utm_medium=api&utm_source=54ce986e) | Jobgether | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Tech Lead (Canada-Remote)](https://www.adzuna.ca/details/5947169370?utm_medium=api&utm_source=54ce986e) | CloudLabs Inc | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Solution Engineer (Hybrid or Remote)](https://www.adzuna.ca/details/5946997748?utm_medium=api&utm_source=54ce986e) | Traction Rec | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Solution Architect](https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700) | iA Financial Group (Industrial Alliance) | Quebec, Canada | via buffy-round3--2026-11-02--v3.md |
-| 2026-10-30 | [Salesforce Solution Architect](https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-cognizant-4467116032) | Cognizant | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Sales Cloud Developer - Lorven Technologies](https://www.jobs.ca/lorven-technologies-inc/jobs/salesforce-sales-cloud-developer-toronto-on-1357c3a45d88) | Toronto, ON (contract) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Release Engineer - BridgingTheGap](https://bridgingthegap.nexxt.com/jobs/salesforce-release-engineer-toronto-on-canada-3418310953-job.html) | Toronto, ON | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Platform Support](https://ca.linkedin.com/jobs/view/4484899679) | Pacer Group | Toronto, ON | via grok-job-hunter--2026-11-02--v41.md |
-| 2026-10-30 | [Salesforce Platform Developer - Bright Vision Technologies](https://www.adzuna.com/details/5946084558?utm_medium=api&utm_source=54ce986e) | Sugar Land, Fort Bend County | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Platform Developer (R0014087) - Altus Group](https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087) | Toronto preferred; remote with occasional office visits | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Platform Developer](https://ca.linkedin.com/jobs/view/salesforce-platform-developer-at-altus-group-4483476940) | Altus Group | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Omnistudio Developer](https://www.adzuna.ca/details/5947169671) | Galent | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce LWC Developer - Viva / e.Republic](https://www.indeed.com/viewjob?jk=ca1157616f24990e) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Functional Designer](https://www.adzuna.ca/details/5947170188?utm_medium=api&utm_source=54ce986e) | Tamanna Technology | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-30 | [Salesforce FSC Developer (00070907531) - Cognizant](https://careers.cognizant.com/ca-en/jobs/00070907531/salesforce-fsc-developer/) | Canada: Toronto; hybrid | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer III - Availity](https://availity.wd5.myworkdayjobs.com/en-US/Availity_Careers_US/job/Remote-US/Salesforce-Developer-III_R0008319-1) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer / Administrator - Astek](https://www.jobs.ca/astek/jobs/salesforce-developer-administrator-remote-canada-united-states-5119cbc4619e) | Fully remote — Canada or US | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer - Remote (USA) - ICF](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Salesforce-Developer---Remote--USA-_R2603624) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer - Q Point Health](https://remotive.com/remote/jobs/software-development/salesforce-developer-6272007) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer - Procom](https://ca.indeed.com/q-salesforce-developer-l-remote-jobs.html) | Remote (Quebec, QC) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer - ICF](https://remotive.com/remote/jobs/software-development/salesforce-developer-6391386) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer - Homelink Corp](https://remotive.com/remote/jobs/software-development/salesforce-developer-6060068) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer - Digital Customer: Future Opportunities](https://www.jobs.ca/deloitte/jobs/salesforce-developer-digital-customer-future-opportunities-toronto-on-3fbdd58702c2) | Deloitte Canada | Toronto, ON | via grok-job-hunter--2026-11-02--v45.md |
-| 2026-10-30 | [Salesforce Developer - Akaasa Technologies](https://www.adzuna.com/details/5943903388?utm_medium=api&utm_source=54ce986e) | Upper East Side, Manhattan | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer (Service Cloud Voice)](https://www.cofomo.com/en/jobs/86543) | COFOMO | Montreal, QC; hybrid | via grok-job-hunter--2026-11-02--v29.md |
 
 </details>
 
@@ -350,11 +350,34 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-03 | [Umbrella Incorporated Jobs + Careers / Built In](https://builtin.com/company/umbrella-incorporated/jobs) | Built In](https://builtin.com/company/umbrella-incorporated/jobs) | Unknown | Canada |
+| 2026-11-03 | [Technology Support Services Inc hiring CAD / BIM Technician – Reality Capture & Point Cloud Modeling in Toronto, Ontario, Canada / LinkedIn](https://ca.linkedin.com/jobs/view/cad-bim-technician-%E2%80%93-reality-capture-point-cloud-modeling-at-technology-support-services-inc-4444362257) | LinkedIn](https://ca.linkedin.com/jobs/view/cad-bim-technician-%E2%80%93-reality-capture-point-cloud-modeling-at-technology-support-services-inc-4444362257) | Unknown | Canada |
+| 2026-11-03 | [Software Asset Manager at RBC](https://meterwork.com/job/software-asset-manager_at_rbc_tK3vf) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Senior Manager, Standards Product Management (Education)](https://ca.linkedin.com/jobs/view/senior-manager-standards-product-management-education-at-canadian-standards-association-4049160024) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Revenue Operations GTM Systems Architect in Toronto Ontario, ON - Cohere](https://ca.trabajo.org/job-5018-adbab247870d11eb03c8f96a62851c4a) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Project Manager, Electrical Utility at CSA Group (Toronto, Ontario) / $86,160-$100,000/annually](https://www.pmjobs.ca/job/c90e1c64-61a4-4dbe-aef6-bf95a9e9a53b) | $86,160-$100,000/annually](https://www.pmjobs.ca/job/c90e1c64-61a4-4dbe-aef6-bf95a9e9a53b) | Unknown | Canada |
+| 2026-11-03 | [Process Lead Architect, Customer Service Management Job Details / Deloitte](https://careers.deloitte.ca/job/Toronto%2C-ON-Process-Lead-Architect-Customer-Service-Management-ON-M5C-3G7/1349400900/) | Deloitte](https://careers.deloitte.ca/job/Toronto%2C-ON-Process-Lead-Architect-Customer-Service-Management-ON-M5C-3G7/1349400900/) | Unknown | Canada |
+| 2026-11-03 | [Overhead Catenary System (OCS) CAD Designer Job Details / Alstom](https://jobsearch.alstom.com/job/Toronto-Overhead-Catenary-System-%28OCS%29-CAD-Designer-ON/1375726233/) | Alstom](https://jobsearch.alstom.com/job/Toronto-Overhead-Catenary-System-%28OCS%29-CAD-Designer-ON/1375726233/) | Unknown | Canada |
+| 2026-11-03 | [Mechanical CAD Technician in toronto, on - BPA](https://ca.trabajo.org/job-649-edbf06f8f24d377297d77cce3e6243c0) | Unknown | Canada | 2/10 |
+| 2026-11-03 | [Mattamy Homes Careers - CAD/CAM Engineering Specialist](https://jobs.jobvite.com/mattamyhomes/job/oT8GAfw1) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [Mattamy Homes Careers](https://jobs.jvistg2.com/mattamyhomes/jobs) | Unknown | Canada | 0/10 |
+| 2026-11-03 | [Marketing Ops Jobs in Ontario / MarTechJobs](https://martechjobs.io/ontario/jobs/) | MarTechJobs](https://martechjobs.io/ontario/jobs/) | Unknown | Canada |
 | 2026-11-03 | [Job Opportunities / JLI Consulting Talent Search](https://www.jliconsulting.ca/job-opportunities) | JLI Consulting Talent Search](https://www.jliconsulting.ca/job-opportunities) | Unknown | Canada |
+| 2026-11-03 | [Intermediate Bridge CAD Designer in Toronto, Ontario - GHD](https://ca.trabajo.org/job-4011-43a1934f8c8e77c3cbea88fdae096ae6) | Unknown | Canada | 6/10 |
+| 2026-11-03 | [Civil/Structural Designer in Toronto, Ontario / Careers at Canada - Remote](https://careers-epeconsulting.icims.com/jobs/2147/civil-designer---civil-3d-cad-designer-%28energy-infrastructure%29/job) | Careers at Canada - Remote](https://careers-epeconsulting.icims.com/jobs/2147/civil-designer---civil-3d-cad-designer-%28energy-infrastructure%29/job) | Unknown | Canada |
+| 2026-11-03 | [Career opportunities / OTIP RAEO](https://www.otip.com/why-otip/careers/job-detail?postingId=3743990008278296) | OTIP RAEO](https://www.otip.com/why-otip/careers/job-detail?postingId=3743990008278296) | Unknown | Canada |
 | 2026-11-03 | [CRM Developer and Data Analyst](https://ca.linkedin.com/jobs/view/crm-developer-and-data-analyst-at-caldwell-investment-management-ltd-4486062128) | Caldwell Investment Management Ltd. | Toronto, Ontario, Canada | Data / BI |
+| 2026-11-03 | [CAD Mechanical Design Engineer in Markham ON, ON - Ionada Canada Corporation](https://ca.trabajo.org/job-5018-c59e978cccfe9c57cf5fda055dfab821) | Unknown | Canada | 3/10 |
 | 2026-11-03 | [Application Developer in Markham, Ontario / Careers at Adastra Head Office (Markham)](https://careers-adastragrp.icims.com/jobs/5645/application-developer/job) | Careers at Adastra Head Office (Markham)](https://careers-adastragrp.icims.com/jobs/5645/application-developer/job) | Unknown | Canada |
+| 2026-11-03 | [ADL Dental Laboratories Inc. hiring Experienced Dental Technician - CAD/CAM in Markham, Ontario, Canada / LinkedIn](https://ca.linkedin.com/jobs/view/experienced-dental-technician-cad-cam-at-adl-dental-laboratories-inc-4427753533) | LinkedIn](https://ca.linkedin.com/jobs/view/experienced-dental-technician-cad-cam-at-adl-dental-laboratories-inc-4427753533) | Unknown | Canada |
+| 2026-11-03 | [86   Cgi Jobs in Toronto](https://ca.linkedin.com/jobs/cgi-jobs-toronto-on) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [8,000+   Developer Jobs in Canada](https://ca.linkedin.com/jobs/developer-jobs) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [76   Occupational Health And Safety Specialist Jobs in Toronto](https://ca.linkedin.com/jobs/occupational-health-and-safety-specialist-jobs-toronto-on) | Unknown | Canada | 6/10 |
 | 2026-11-03 | [45   Entry Level Law Jobs in Toronto](https://ca.linkedin.com/jobs/entry-level-law-jobs-toronto-on) | Unknown | Canada | 0/10 |
+| 2026-11-03 | [389   Implementation Consultant Jobs in Toronto](https://ca.linkedin.com/jobs/implementation-consultant-jobs-toronto-on) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [36   Creative Technologist Jobs in Toronto](https://ca.linkedin.com/jobs/creative-technologist-jobs-toronto-on) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [325+ CAD Technician Jobs in Canada 2026 / Salaries & Apply / BeBee](https://bebee.com/ca/jobs/role/cad-technician) | Salaries & Apply | BeBee](https://bebee.com/ca/jobs/role/cad-technician) | Unknown |
+| 2026-11-03 | [127   Desktop Support Jobs in Toronto](https://ca.linkedin.com/jobs/desktop-support-jobs-toronto-on) | Unknown | Canada | 8/10 |
 | 2026-11-02 | [Staff FullStack Engineer, Secures AI](https://www.adzuna.ca/details/5950814350?utm_medium=api&utm_source=54ce986e) | Okta | Kitchener, Waterloo region | Full stack |
 | 2026-11-02 | [Software Developer, DevOps](https://jobs.ashbyhq.com/benevity/867b18d3-a888-40b4-8186-8dee8f340886) | Benevity | Calgary, Alberta | DevOps / Cloud |
 | 2026-11-02 | [Software Developer – Senior (Sibel CRM)](https://www.adzuna.ca/details/5950536165) | Innosystech Inc | Toronto, onsite; 4 months | CRM / integration Adzuna 5950536165 |
@@ -477,29 +500,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-01 | [Analyst, Marketing - Strategy and Business Intelligence](https://www.adzuna.ca/details/5949004587?utm_medium=api&utm_source=54ce986e) | Reliance Home Comfort | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-11-01 | [Analyst, IT Support (6 Months Contract)](https://www.workopolis.com/jobsearch/viewjob/oYzCdfpeFTqZHKolYQJRBqrgjDy_im8K7VcA-gXl3pD6xUzECTVmteYlKaJ_rToH) | OMERS | Toronto, ON | ServiceNow, PowerShell, Python, SQL, APIs, Cybersecurity Workopolis/OMERS |
 | 2026-11-01 | [Advanced Deployment Technical Consultant](https://www.adzuna.ca/details/5948974291?utm_medium=api&utm_source=54ce986e) | Hewlett Packard Enterprise | Greater Vancouver, BC | Technical consulting / deployment Adzuna 5948974291 |
-| 2026-11-01 | [AI Fullstack Engineer (Senior Associate) - Canada](https://www.adzuna.ca/details/5949577731) | HCAN Huron Advisors Canada Limited | Toronto, Ontario | Full stack |
-| 2026-11-01 | [AI Automation & Platform Analyst (Senior Analyst)](https://www.adzuna.ca/details/5948614670?utm_medium=api&utm_source=54ce986e) | Mackenzie Investments | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-31 | [eComm Management Analyst/ Data Analyst](https://www.adzuna.ca/details/5948016947?utm_medium=api&utm_source=54ce986e) | Mindlance | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Xperience by Kentico / DevOps - CI/CD Technical Lead - Remote Canada Position](https://www.adzuna.ca/details/5948276767?utm_medium=api&utm_source=54ce986e) | NTT DATA Services | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Xperience by Kentico / DevOps - CI/CD Technical Lead - Remote Canada Position](https://www.adzuna.ca/details/5948276358?utm_medium=api&utm_source=54ce986e) | NTT America, Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Vice-président ou vice-présidente, Partenaires technologiques et d’innovation](https://www.adzuna.ca/details/5948277622?utm_medium=api&utm_source=54ce986e) | Dayforce | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Technical Business Analyst](https://www.adzuna.ca/details/5947778618?utm_medium=api&utm_source=54ce986e) | Insight Global | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-31 | [Tech Support Analyst Splunk/Dynatrace](https://www.adzuna.ca/details/5948015340?utm_medium=api&utm_source=54ce986e) | GTT, LLC | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-31 | [Staff Site Reliability Engineer/ Energy](https://www.adzuna.ca/details/5948277035?utm_medium=api&utm_source=54ce986e) | Kelly Services | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Staff Site Reliability Engineer](https://www.adzuna.ca/details/5948276899?utm_medium=api&utm_source=54ce986e) | KEV Group | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Sr. Software Developer - Full Stack](https://www.adzuna.ca/details/5948276354?utm_medium=api&utm_source=54ce986e) | Russell Tobin | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Solution Architect- SAP Architect](https://www.adzuna.ca/details/5948276591?utm_medium=api&utm_source=54ce986e) | Mphasis | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Software Engineer, Full Stack](https://www.adzuna.ca/details/5948276594?utm_medium=api&utm_source=54ce986e) | GIGI | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Site Reliability Engineer Lead](https://www.adzuna.ca/details/5947778767?utm_medium=api&utm_source=54ce986e) | TD Bank | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Site Reliability Engineer - Application Security Toronto](https://www.adzuna.ca/details/5948277251?utm_medium=api&utm_source=54ce986e) | ContactMonkey Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Senior Software Engineer (Golang, Microservices, DevOps)](https://www.adzuna.ca/details/5948276931?utm_medium=api&utm_source=54ce986e) | VTRAC Consulting Corporation | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Senior Software Engineer (Full-Stack)](https://www.adzuna.ca/details/5948276872?utm_medium=api&utm_source=54ce986e) | Prophix | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Senior Software Developer, Workday Integrations & Extend](https://www.adzuna.ca/details/5947848969?utm_medium=api&utm_source=54ce986e) | Royal Bank of Canada | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Senior MuleSoft Integration Developer](https://www.adzuna.ca/details/5948276684) | S.i. Systems | Calgary, AB | via buffy-second-round--2026-11-02--v6.md |
-| 2026-10-31 | [Senior Microsoft Dynamics Developer](https://www.adzuna.ca/details/5948016255?utm_medium=api&utm_source=54ce986e) | Macpower Digital Assets Edge Private Limited | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-31 | [Senior Manager GRC](https://www.adzuna.ca/details/5948368417?utm_medium=api&utm_source=54ce986e) | KPMG | Toronto, Ontario | via other-expansion--2026-11-02--v3.md |
-| 2026-10-31 | [Senior Java Full Stack Developer](https://www.adzuna.ca/details/5948015144?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via peer-buffy-2026-11-02-readme-consolidation--2026-11-02--v1.md |
-| 2026-10-31 | [Senior Fullstack Developer (Ruby on Rails / React)](https://www.adzuna.ca/details/5948276758?utm_medium=api&utm_source=54ce986e) | talentmanagementsolution | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 
 </details>
 
@@ -568,7 +568,8 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 ("2 days ago") are rejected — the merger refuses rows without a `YYYY-MM-DD` date.
 ## Automated feed (rewritten daily)
 
-Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
+Below is the raw output of `npm run scan:daily`. It may repeat rows from the tables above;
+the three tables are the curated view. The scanner only rewrites between these markers.
 
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
@@ -629,4 +630,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T180146Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T182516Z.md` holds the previous README in full — every older table, the peer-branch reconciliation notes, per-source method write-ups and anything removed from this file on 2026-11-03.
