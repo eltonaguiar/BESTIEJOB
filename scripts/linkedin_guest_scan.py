@@ -170,7 +170,9 @@ def main() -> int:
         seen.add(key)
         fresh.append(j)
 
-    floor = (today - timedelta(days=1)).isoformat()
+    # Was hardcoded to 1 day, which silently discarded everything the widened
+    # --days window had just fetched. The floor now follows the flag.
+    floor = (today - timedelta(days=max(0, args.days))).isoformat()
     fresh = [j for j in fresh if j["posted"] and floor <= j["posted"] <= today.isoformat()]
     fresh.sort(key=lambda j: j["posted"], reverse=True)
 

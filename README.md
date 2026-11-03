@@ -1309,22 +1309,56 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-02T23:04:24.254Z** · 523 live postings from 9 public sources · 65 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T21:10:53.290Z** · 1024 live postings from 8 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-03 | [Network Analyst - Technology Services (ServiceNow Incident/Change; soft)](https://employment-mackenziehealth.icims.com/jobs/18989/network-analyst---technology-services/job) | Mackenzie Health | Vaughan, ON |
+| 2026-11-03 | [ServiceNow Specialist – CMDB / CSDM / Montreal, QC (Onsite) - FTE](https://ca.linkedin.com/jobs/view/servicenow-specialist-%E2%80%93-cmdb-csdm-montreal-qc-onsite-fte-at-acestack-4486062233) | AceStack | Montreal, Quebec, Canada |
+| 2026-11-03 | [ITSM Service Desk Manager](https://ca.linkedin.com/jobs/view/itsm-service-desk-manager-at-poly-tech-talent-4486073599) | Poly Tech Talent | Toronto, Ontario, Canada |
+| 2026-11-03 | [FSO-ServiceNow Developer](https://ca.linkedin.com/jobs/view/fso-servicenow-developer-at-national-bank-of-canada-4484699845) | National Bank of Canada | Montreal, Quebec, Canada |
+| 2026-11-03 | [Développeur ServiceNow - FSO](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-servicenow-fso-at-national-bank-of-canada-4485013355) | National Bank of Canada | Montreal, Quebec, Canada |
+| 2026-11-03 | [Intermediate Technology Specialist, Service Now Developer](https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-service-now-developer-at-equitable-4485018083) | Equitable | Waterloo, Ontario, Canada |
+| 2026-11-03 | [Servicenow specialist](https://ca.linkedin.com/jobs/view/servicenow-specialist-at-tata-consultancy-services-4486058172) | Tata Consultancy Services | Montreal, Quebec, Canada |
+| 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486078203) | Desjardins | Montréal-Ouest, Quebec, Canada |
+| 2026-11-03 | [ServiceNow Consultant - REMOTE](https://ca.linkedin.com/jobs/view/servicenow-consultant-remote-at-ntt-data-north-america-4478715652) | NTT DATA North America | Ottawa, Ontario, Canada |
+| 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486081043) | Desjardins | Lévis, Quebec, Canada |
+| 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469986334) | Pomerleau | St-Georges, Quebec, Canada |
+| 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469993127) | Pomerleau | Québec, Quebec, Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-03 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto |
+| 2026-11-03 | [Salesforce Consultant, Revenue Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/6242209004) | NeuraFlash | Remote - Colombia |
+| 2026-11-03 | [Salesforce Implementation Consultant & Platform Administrator](https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282) | SS&C Technologies | Toronto, Ontario, Canada |
+| 2026-11-03 | [Salesforce Field Service (FSL) Developer](https://ca.linkedin.com/jobs/view/salesforce-field-service-fsl-developer-at-sciex-4484638102) | SCIEX | Vaughan, Ontario, Canada |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486061644) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486071459) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada |
+| 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058) | Co-operators | Toronto, Ontario, Canada |
+| 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487007645) | Co-operators | Mississauga, Ontario, Canada |
+| 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |
+| 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
+| 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |
+| 2026-11-03 | [Salesforce Datacloud Developer](https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629) | Cognizant | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-03 | [Data Analyst](https://ca.linkedin.com/jobs/view/data-analyst-at-artemis-4485787835) | Artemis | Aurora, Ontario, Canada | other |
+| 2026-11-03 | [Senior IT Systems Eng](https://ca.linkedin.com/jobs/view/senior-it-systems-eng-at-cognichip-4486486305) | Cognichip | Toronto, Ontario, Canada | other |
+| 2026-11-03 | [Portfolio Management Analyst (12-Month Contract)](https://ca.linkedin.com/jobs/view/portfolio-management-analyst-12-month-contract-at-gwl-realty-advisors-4484607990) | GWL Realty Advisors | Toronto, Ontario, Canada | other |
+| 2026-11-03 | [Mid-Sr Level Litigation Associate (Cyber Liability)](https://ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-canada-4484615875) | DWF (Canada) | Toronto, Ontario, Canada | other |
+| 2026-11-03 | [Business Intelligence Analyst](https://ca.linkedin.com/jobs/view/business-intelligence-analyst-at-tookli-4484620599) | Tookli | Montreal, Quebec, Canada | other |
+| 2026-11-03 | [BIM Designer](https://ca.linkedin.com/jobs/view/bim-designer-at-ozz-electric-inc-4486484664) | OZZ Electric Inc. | Vaughan, Ontario, Canada | other |
+| 2026-11-03 | [Senior DB2 DBA](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-DB2-DBA_R260029245) | BMO | Toronto, ON, CAN | other |
+| 2026-11-03 | [ITAM Management (Mid Level)](https://ca.linkedin.com/jobs/view/itam-management-mid-level-at-soho-square-solutions-4484365333) | Soho Square Solutions | Montreal, Quebec, Canada | other |
+| 2026-11-02 | [Software Developer, DevOps](https://jobs.ashbyhq.com/benevity/867b18d3-a888-40b4-8186-8dee8f340886) | Benevity | Calgary, Alberta | DevOps / Cloud |
+| 2026-11-02 | [AI DevOps Specialist (GCP & Vertex AI)](https://www.adzuna.ca/details/5950814513) | Experis | Toronto, Ontario | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
