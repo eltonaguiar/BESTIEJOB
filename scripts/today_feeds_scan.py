@@ -141,10 +141,17 @@ def iso_day(value) -> str | None:
 
 
 def workday_day(posted_on: str) -> str | None:
-    """'Posted Today' / 'Posted 13 Days Ago' / 'Posted 30+ Days Ago' -> ISO date."""
+    """'Posted Today' / 'Posted 13 Days Ago' -> ISO date; '30+ Days Ago' -> None.
+
+    Workday's "Posted 30+ Days Ago" is an open-ended bucket, not a day: the true
+    date is *older* than 30 days, never newer. Back-dating it to exactly 30 days
+    would put the freshest possible reading on the stalest postings.
+    """
     if not posted_on:
         return None
     s = posted_on.lower()
+    if "30+" in s:
+        return None
     if "today" in s:
         return NOW.date().isoformat()
     if "yesterday" in s:

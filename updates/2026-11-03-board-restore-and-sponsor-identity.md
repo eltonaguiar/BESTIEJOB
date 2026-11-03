@@ -111,7 +111,59 @@ rows were merged**. The scan output is retained as
 
 ---
 
-## 4. Concurrency warning
+## 4. Deep sweep: all 30 sponsors + 24 associates, zero net-new
+
+`scripts/sponsor_deep_scan.py` goes past slug guessing. It discovers each
+employer's Workday tenant from search results and then queries the **CXS jobs
+endpoint**, which returns `postedOn` per posting — the only sponsor route that
+yields a real date. 54 companies were swept (30 sponsors plus CGI, Accenture,
+Capgemini, Atos, NTT Data, Wipro, Infosys, HCL, Persistent, OpenText, Avanade,
+Prokcom, Robert Half, TEKsystems, ServiceNow itself, and others).
+
+**Result: 2 Canadian rows, 1 with a date, 0 net-new.** The one dated row
+(ServiceNow's own *Principal Solution Architect*, Toronto, 2026-10-29) was
+already on the board.
+
+Why the yield is near zero, honestly:
+
+- Only 19 of 54 companies expose a reachable board at all. Deloitte, EY, KPMG,
+  IBM, Fujitsu, Cognizant, CDW, TELUS, CGI and Capgemini run
+  SuccessFactors/Taleo/Workday tenants whose path cannot be derived from a name;
+  guessed triples return nothing.
+- Where a board *is* reachable, it is mostly not Canadian. DXC publishes 187
+  ServiceNow postings — Hyderabad, Ho Chi Minh City, Nashville, Charleston.
+- The big partners' Canadian ServiceNow roles reach this board through agency
+  mirrors (Robert Half, TEKsystems), not their own ATS.
+
+### Two date/location bugs found and fixed
+
+**`workday_day()` back-dated stale postings.** `"Posted 30+ Days Ago"` was parsed
+as *exactly* 30 days ago. The string is an open-ended bucket — the true date is
+older than 30 days, never newer — so this put the freshest possible reading on
+the stalest postings. It now returns `None`, leaving those rows undated. Used by
+both `today_feeds_scan.py` and `parallel_fanout_scan.py`, so this affected every
+Workday-sourced scan.
+
+**`is_canadian()` matched `ns` inside "Locatio**ns**".** The province-code pattern
+`n\.?s\.?\b` fired on every multi-location requisition, so "9 Locations" counted as
+Canadian and four US postings (`/Atlanta-GA/`, `/CHICAGO/`, `/USA---TN---NASHVILLE/`,
+`/USA---SC---CHARLESTON/`) were treated as Canadian hires. Province codes are now
+case-sensitive with word boundaries, and a bare `N Locations` string is rejected
+outright as carrying no location. This is the same short-token-in-a-long-string
+family as matching `rc` inside "salesforce".
+
+Verification:
+
+```
+'9 Locations'          -> False
+'2 Locations'          -> False
+'Toronto, ON'          -> True
+'Vancouver, BC'        -> True
+'Remote - USA'         -> False
+'Posted 30+ Days Ago'  -> None
+```
+
+## 5. Concurrency warning
 
 During this work another session committed to the same branch (`dd66249`,
 `59857de`) and pushed partner harvests to `main` (`35ddbf6`, `f2544d2`), and had
