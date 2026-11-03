@@ -1870,7 +1870,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-03T21:53:06.367Z** · 1100 live postings from 8 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T22:28:46.083Z** · 1130 live postings from 8 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -1904,7 +1904,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |
-| 2026-11-03 | [Salesforce Datacloud Developer](https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629) | Cognizant | Toronto, Ontario, Canada |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486064610) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 

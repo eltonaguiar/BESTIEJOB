@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T220605Z: +4 new, 0 duplicate, version 2 -->
 ---
 model: ai-keywords
 scanned_at: 2026-11-03T21:40:06Z

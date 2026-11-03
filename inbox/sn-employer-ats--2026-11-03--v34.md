@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T220605Z: +0 new, 0 duplicate, version 34 -->
 # SN employer-ATS sweep — 2026-11-03 ~16:45 ET
 ## LIVE (employer page verified)
 - Rexall – ServiceNow Developer (Mississauga, FT, posted 11/03/2026 repost) https://careers.rexall.ca/servicenow-developer/job/37B80470AD0A44355A6D3D8E2EF2E593

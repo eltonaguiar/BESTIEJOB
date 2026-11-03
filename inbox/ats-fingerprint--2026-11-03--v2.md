@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T220605Z: +1 new, 0 duplicate, version 2 -->
 ---
 model: ats-fingerprint
 scanned_at: 2026-11-03T21:22:58Z

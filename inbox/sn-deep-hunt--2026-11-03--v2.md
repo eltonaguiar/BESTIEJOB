@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T220605Z: +0 new, 0 duplicate, version 2 -->
 # SN deep hunt — 2026-11-03 ~16:45 ET (Grok Bot)
 ## LIVE net-new
 - Cognizant – ServiceNow Senior Technical Consultant (00070349441) — remote Canada (Toronto 199 Bay), $92–102k, published Oct 21 2026, closes Nov 20 — https://careers.cognizant.com/ca-en/jobs/00070349441/servicenow-senior-technical-consultant/
