@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T163142Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T170215Z.md`.
 
 ## Contents
 
@@ -202,6 +202,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-03 | [Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-at-k-k-global-talent-solutions-inc-4486897098) | K&K Global Talent Solutions INC. | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Release Engineer](https://ca.linkedin.com/jobs/view/salesforce-release-engineer-at-cognizant-4486018556) | Cognizant | Toronto, Ontario, Canada |  |
+| 2026-11-03 | [Salesforce Implementation Consultant & Platform Administrator](https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282) | SS&C Technologies | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Financial Services Cloud (FSC) Developer](https://ca.linkedin.com/jobs/view/salesforce-financial-services-cloud-fsc-developer-at-top-recruitment-4484687555) | Top Recruitment | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Field Service (FSL) Developer](https://ca.linkedin.com/jobs/view/salesforce-field-service-fsl-developer-at-sciex-4484638102) | SCIEX | Vaughan, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Developer (Cloud Developer)](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Salesforce-Developer--Cloud-Developer-_RQ230765) | GDIT | Any Location / Remote |  |
@@ -210,6 +211,9 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-03 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto |  |
 | 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486836890) | Canadian Cancer Society | Calgary, Alberta, Canada |  |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486061644) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada |  |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486071459) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada |  |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486064610) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada |  |
 | 2026-11-02 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://www.adzuna.ca/details/5950813944) | Salesforce Partner Canada | Toronto, Ontario |  |
 | 2026-11-02 | [Senior Salesforce Technical Consultant](https://www.adzuna.ca/details/5950547938) | CYNET SYSTEMS | Mississauga, Peel region |  |
 | 2026-11-02 | [Senior Salesforce Developer / Admin](https://www.adzuna.ca/details/5950814412) | Celestica | Toronto, Ontario |  |
@@ -335,10 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-30 | [Salesforce Developer (Service Cloud Voice)](https://www.cofomo.com/en/jobs/86543) | COFOMO | Montreal, QC; hybrid | via grok-job-hunter--2026-11-02--v29.md |
 | 2026-10-30 | [Salesforce Developer (2026-91) - emergiTEL](https://www.jobs.ca/emergitel/jobs/salesforce-developer-2026-91-remote-canada-49cfb170eceb) | Remote (Calgary/Edmonton, AB) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-pacer-group-4483459799) | Pacer Group | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce DevOps Lead](https://ca.linkedin.com/jobs/view/salesforce-devops-lead-fulltime-toronto-on-at-acestack-4484864255) | AceStack | Toronto, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
-| 2026-10-30 | [Salesforce Architect- FSC](https://ca.linkedin.com/jobs/view/salesforce-architect-fsc-at-delpath-4485622243) | Delpath | Toronto, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
-| 2026-10-30 | [Salesforce Administrator and Developer - Walter Surface Technologies](https://fr.simplyhired.ca/job/jyDM39WqVVdY_eXUcgs2p08q-o3gy_I8H0A3lPpSIV1aZDyHs_PAmQ) | Pointe-Claire, QC / Canada | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Administrator / Developer - MIRA CONSTRUCTION](https://remotive.com/remote/jobs/sales/salesforce-administrator-developer-6401737) | UAE (Remote) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-03T16:30:01.241Z** · 816 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T17:00:01.619Z** · 820 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -598,16 +598,16 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 |---|---|---|---|
 | 2026-11-03 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto |
 | 2026-11-03 | [Salesforce Consultant, Revenue Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/6242209004) | NeuraFlash | Remote - Colombia |
+| 2026-11-03 | [Salesforce Implementation Consultant & Platform Administrator](https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282) | SS&C Technologies | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Field Service (FSL) Developer](https://ca.linkedin.com/jobs/view/salesforce-field-service-fsl-developer-at-sciex-4484638102) | SCIEX | Vaughan, Ontario, Canada |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486061644) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486071459) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486064610) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |
 | 2026-11-03 | [Salesforce Datacloud Developer](https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629) | Cognizant | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-at-k-k-global-talent-solutions-inc-4486897098) | K&K Global Talent Solutions INC. | Toronto, Ontario, Canada |
-| 2026-11-03 | [Salesforce Financial Services Cloud (FSC) Developer](https://ca.linkedin.com/jobs/view/salesforce-financial-services-cloud-fsc-developer-at-top-recruitment-4484687555) | Top Recruitment | Toronto, Ontario, Canada |
-| 2026-11-03 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-partner-canada-4486835667) | Salesforce Partner Canada | Toronto, Ontario, Canada |
-| 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486033076) | Canadian Cancer Society | Calgary, Alberta, Canada |
-| 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486038001) | Canadian Cancer Society | Prince George, British Columbia, Canada |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T163142Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T170215Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.

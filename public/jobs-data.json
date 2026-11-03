@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T16:31:42+00:00",
+ "generatedAt": "2026-11-03T17:02:15+00:00",
  "timezone": "America/Toronto",
- "count": 397,
+ "count": 395,
  "appliedHidden": 5,
  "sources": [
   "Adzuna",
@@ -31,7 +31,6 @@
   "drjobpro.com",
   "echojobs.io",
   "empleo.3mtglobal.es",
-  "fr.simplyhired.ca",
   "fxinnovation.com",
   "github.com",
   "hiring.camp",
@@ -630,6 +629,27 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Salesforce Implementation Consultant & Platform Administrator",
+   "company": "SS&C Technologies",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce implementation consultant & platform administrator ss&c technologies toronto, ontario, canada linkedin salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Salesforce Financial Services Cloud (FSC) Developer",
    "company": "Top Recruitment",
    "location": "Toronto, Ontario, Canada",
@@ -751,6 +771,26 @@
    ],
    "french": true,
    "search": "developpeur principal/developpeuse principale, salesforce canadian cancer society toronto, ontario, canada linkedin salesforce  salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Développeur ou développeuse de systèmes – Salesforce",
+   "company": "Co-operators Assurance et services financiers",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486061644",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": true,
+   "search": "developpeur ou developpeuse de systemes – salesforce co-operators assurance et services financiers toronto, ontario, canada linkedin salesforce  salesforce toronto area",
    "alternates": []
   },
   {
@@ -7296,48 +7336,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "Salesforce DevOps Lead",
-   "company": "AceStack",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-devops-lead-fulltime-toronto-on-at-acestack-4484864255",
-   "note": "via buffy-round3--2026-11-02--v3.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce devops lead acestack toronto, ontario, canada linkedin salesforce via buffy-round3--2026-11-02--v3.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
-   "title": "Salesforce Architect- FSC",
-   "company": "Delpath",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-fsc-at-delpath-4485622243",
-   "note": "via buffy-round3--2026-11-02--v3.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce architect- fsc delpath toronto, ontario, canada linkedin salesforce via buffy-round3--2026-11-02--v3.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
    "title": "Senior Salesforce Technical Lead",
    "company": "Arkhya Tech Inc.",
    "location": "Canada",
@@ -7880,46 +7878,6 @@
    ],
    "french": false,
    "search": "salesforce developer (2026-91) - emergitel remote (calgary/edmonton, ab) unknown / peer claim not verified jobs.ca salesforce via peer-copilot-2026-10-30--2026-11-02--v1.md salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
-   "title": "Salesforce Administrator and Developer - Walter Surface Technologies",
-   "company": "Pointe-Claire, QC / Canada",
-   "location": "Unknown / peer claim not verified",
-   "url": "https://fr.simplyhired.ca/job/jyDM39WqVVdY_eXUcgs2p08q-o3gy_I8H0A3lPpSIV1aZDyHs_PAmQ",
-   "note": "via peer-copilot-2026-10-30--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "fr.simplyhired.ca",
-   "verified": "Employer board",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce administrator and developer - walter surface technologies pointe-claire, qc / canada unknown / peer claim not verified fr.simplyhired.ca salesforce via peer-copilot-2026-10-30--2026-11-02--v1.md salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
-   "title": "Salesforce Administrator / Developer - MIRA CONSTRUCTION",
-   "company": "UAE (Remote)",
-   "location": "Unknown / peer claim not verified",
-   "url": "https://remotive.com/remote/jobs/sales/salesforce-administrator-developer-6401737",
-   "note": "via peer-copilot-2026-10-30--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce administrator / developer - mira construction uae (remote) unknown / peer claim not verified remotive.com salesforce via peer-copilot-2026-10-30--2026-11-02--v1.md salesforce role fit",
    "alternates": []
   },
   {
