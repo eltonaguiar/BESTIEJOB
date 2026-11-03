@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T06:20:20+00:00",
+ "generatedAt": "2026-11-03T07:13:30+00:00",
  "timezone": "America/Toronto",
- "count": 990,
+ "count": 995,
  "appliedHidden": 20,
  "sources": [
   "Adzuna",
@@ -3246,28 +3246,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "L2 Analyst (ITSM, ServiceNow asset)",
-   "company": "Canadian Tire Corporation",
-   "location": "Toronto, ON; in-office",
-   "url": "https://builtin.com/job/l2-analyst/11994586",
-   "note": "via grok-job-hunter--2026-11-02--v33.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "l2 analyst (itsm, servicenow asset) canadian tire corporation toronto, on; in-office builtin servicenow via grok-job-hunter--2026-11-02--v33.md servicenow itsm role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Conseiller principal ou conseillère principale, ITOM, ServiceNow",
    "company": "Deloitte",
    "location": "Toronto, Ontario, Canada",
@@ -3368,6 +3346,33 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/principal-solution-architect-servicenow-at-servicenow-4484026843",
      "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "L2 Analyst (ServiceNow support; soft)",
+   "company": "Canadian Tire Corporation",
+   "location": "Toronto, ON",
+   "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/L2-Analyst_JR167134",
+   "note": "via grokbot-agency-ats-overnight--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "l2 analyst (servicenow support; soft) canadian tire corporation toronto, on workday ats servicenow via grokbot-agency-ats-overnight--2026-11-03--v1.md servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "BuiltIn",
+     "url": "https://builtin.com/job/l2-analyst/11994586",
+     "label": "BuiltIn · Toronto"
     }
    ]
   },
@@ -17596,6 +17601,69 @@
    "alternates": []
   },
   {
+   "posted": "2026-10-28",
+   "title": "Problem Management, Lead (ITSM)",
+   "company": "Interac",
+   "location": "Toronto, ON",
+   "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Problem-Management--Lead_REQ-2346",
+   "note": "via grokbot-agency-ats-overnight--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 46,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "problem management, lead (itsm) interac toronto, on workday ats servicenow via grokbot-agency-ats-overnight--2026-11-03--v1.md itsm role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "IT Change Management, Lead (ITSM)",
+   "company": "Interac",
+   "location": "Toronto, ON",
+   "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/IT-Change-Management--Lead_REQ-2367",
+   "note": "via grokbot-agency-ats-overnight--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 46,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "it change management, lead (itsm) interac toronto, on workday ats servicenow via grokbot-agency-ats-overnight--2026-11-03--v1.md itsm role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-27",
+   "title": "Analyste d'affaires, ServiceNow - Finances mondiales",
+   "company": "WSP in Canada",
+   "location": "Laval, Quebec (French)",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-d-affaires-servicenow-finances-mondiales-at-wsp-in-canada-4481177716",
+   "note": "via overnight-quorum--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "analyste d'affaires, servicenow - finances mondiales wsp in canada laval, quebec (french) linkedin servicenow via overnight-quorum--2026-11-03--v1.md servicenow role fit quebec",
+   "alternates": []
+  },
+  {
    "posted": "2026-10-27",
    "title": "Sr. ServiceNow Developer - Sygna Solutions",
    "company": "USA: USA; 100% remote acceptable; local Georgia candidates strongly preferred",
@@ -20736,6 +20804,29 @@
   },
   {
    "posted": "2026-10-14",
+   "title": "Senior Analyst, Software Asset Management (ServiceNow SAM)",
+   "company": "OMERS",
+   "location": "Toronto, ON",
+   "url": "https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/job/Toronto-Ontario/Senior-Analyst--Software-Asset-Management_JR-8443",
+   "note": "via grokbot-agency-ats-overnight--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior analyst, software asset management (servicenow sam) omers toronto, on workday ats servicenow via grokbot-agency-ats-overnight--2026-11-03--v1.md servicenow itam sam/ham role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-14",
    "title": "Bilingual Senior Specialist, ServiceNow ITSM Developer",
    "company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
    "location": "Ottawa, Ontario, Canada",
@@ -21476,6 +21567,27 @@
    ],
    "french": false,
    "search": "salesforce agentforce architect (technical architect) neuraflash remote - united states greenhouse salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v26.md salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-05",
+   "title": "Quality Engineering, Senior Specialist (ServiceNow Platform)",
+   "company": "Interac",
+   "location": "Toronto, ON",
+   "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Quality-Engineering--Senior-Specialist_REQ-2343",
+   "note": "via grokbot-agency-ats-overnight--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "quality engineering, senior specialist (servicenow platform) interac toronto, on workday ats servicenow via grokbot-agency-ats-overnight--2026-11-03--v1.md servicenow role fit toronto area",
    "alternates": []
   },
   {
