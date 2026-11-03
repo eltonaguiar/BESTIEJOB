@@ -1224,6 +1224,87 @@ Auto-harvested via Exa.ai and Firecrawl search APIs on 2026-11-03. Query filter:
 | recent | [6,000+ Application Management jobs in Toronto](https://ca.linkedin.com/jobs/application-management-jobs-toronto-on) | LinkedIn | Toronto, ON | full-time | exa |
 | recent | [Software Developer — Servicenow Contract Jobs in Toronto](https://ca.linkedin.com/jobs/software-developer-%E2%80%94-servicenow-contract-jobs-toronto-on) | LinkedIn | Toronto, ON | contract | exa |
 
+## Exa + Firecrawl Round 5 — Past 7 Days (ServiceNow Partner/Sponsor Companies)
+
+Auto-harvested via Exa.ai search API on 2026-11-03. Query filter: past 7 days, Toronto/GTA/Canada. Focus: ServiceNow Diamond/Platinum/Gold tier partners and sponsors.
+
+| Posted | Role | Company | Location | Type | Source |
+|---|---|---|---|---|---|
+| recent | [ServiceNow Account Executive](https://www.linkedin.com/posts/sweeneytom_senior-account-executive-canada-activity-7450154447424348162-u09Q) | Ateko | Toronto, ON | full-time | exa |
+| recent | [Senior ServiceNow Solution Consultant](https://www.linkedin.com/posts/matthew-sypien-76735614a_senior-servicenow-solution-consultant-activity-7442572335615807488-Coit) | Ateko | Toronto, ON | full-time | exa |
+| recent | [Servicenow System Administrator Canada](https://jobs-ca.jobflurry.com/details/BF872656BCA11C1490D853C5DA0C6813/servicenow-system-administrator-canada) | Ateko | Toronto, ON | full-time | exa |
+| recent | [Senior Servicenow Account Executive](https://jobs-ca.jobflurry.com/details/597FD92B53FDF2588D6AAB0D8FE5C58C/senior-servicenow-account-executive) | Ateko | Toronto, ON | full-time | exa |
+| recent | [Senior Manager, ServiceNow - Operate](https://careers.deloitte.ca/job/Senior-Manager%2C-ServiceNow-Operate/135627-en_US/) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [Senior Consultant, ServiceNow Platform - DTC, Platform Team](https://careers.deloitte.ca/job/Senior-Consultant%2C-ServiceNow-Platform-Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team/133759-en_US/) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [ITSM Process & Product Architect - ServiceNow](https://careers.deloitte.ca/job/Toronto%2C-ON-ITSM-Process-&-Product-Architect-ServiceNow%2C-Deloitte-Global-Technology-ON-M5C-3G7/1220209800/) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Solutions and Product Architect, Global Deloitte Technology](https://careers.deloitte.ca/job/Toronto%2C-ON-ServiceNow-Solutions-and-Product-Architect%2C-Global-Deloitte-Technology-ON-M5C-3G7/1327469200/) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Business Analyst Lead - Operate](https://careers.deloitte.ca/job/Toronto%2C-ON-ServiceNow-Business-Analyst-Lead-Operate-ON-M5C-3G7/1355289700/) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [Senior Consultant, IT Operations Management / Discovery](https://careers.deloitte.ca/job/Toronto%2C-ON-Senior-Consultant-IT-Operations-Management-Discovery-ON-M5C-3G7/1355280400/) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [Lead Specialist, ServiceNow GRC Solution Architect](https://careers.deloitte.ca/job/Lead-Specialist%2C-ServiceNow-GRC-Solution-Architect%2C-Deloitte-Global-Technology/135340-en_US/) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Software Asset Management (SAM) Specialist - Operate](https://careers.deloitte.ca/job/Toronto%2C-ON-ServiceNow-Software-Asset-Management-%28SAM%29-Specialist-Operate-ON-M5C-3G7/1365460700/) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [Senior Business Systems Analyst (ServiceNow), Deloitte Global Operations](https://careers.deloitte.ca/job/Toronto%2C-ON-Senior-Business-Systems-Analyst-%28ServiceNow%29%2C-Deloitte-Global-Operations-ON-M5C-3G7/1362499100/) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [Technical Delivery Mgr, ServiceNow IRM/Sec Ops](https://www.jobs.ca/deloitte/jobs/technical-delivery-mgr-servicenow-irm-sec-ops-deloitte-global-technology-toronto-on-203ccc60394f) | Deloitte | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Business Process Consultant - ITSM AND HRSD](https://careers.ey.com/ey/job/Toronto-ServiceNow-Business-Process-Consultant-ITSM-AND-HRSD-ON-M5H-0B3/1388519433/) | EY | Toronto, ON M5H 0B3 | full-time | exa |
+| recent | [ServiceNow Solution Architect - Manager](https://careers.ey.com/ey/job/Toronto-ServiceNow-Architect-Manager-ON-M5H-0B3/1290113901/) | EY | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Platform Architect (Financial Services) Manager, Technology Consulting](https://careers.ey.com/ey/job/%28M1%29-ServiceNow-Platform-Architect-%28Financial-Services%29-Manager%2C-Technology-Consulting-048583/1451481133/) | EY | Toronto, ON | full-time | exa |
+| recent | [Senior Consultant, ServiceNow](https://careers.kpmg.ca/jobs/31517?lang=en-us) | KPMG | Toronto, ON | full-time | exa |
+| {"title": "Functional Manager - ServiceNow", "company": "KPMG", "location": "Multiple Locations", "url": "https://careers.kpmg.ca/jobs/34115?lang=en-us", "source": "kpmg", "postedDate": None, "excerpt": "Functional Manager ServiceNow at KPMG Canada", "tags": ["servicenow", "consulting"]}, | KPMG | Multiple Locations | full-time | exa |
+| recent | [Senior Consultant, Business Analyst ServiceNow](https://communitech.getro.com/companies/kpmg-canada-2/jobs/90518970-senior-consultant-business-analyst-servicenow) | KPMG | Toronto, ON | full-time | exa |
+| recent | [Manager, ServiceNow Technical Lead](https://communitech.getro.com/companies/kpmg-canada-2/jobs/90518987-manager-servicenow-technical-lead) | KPMG | Toronto, ON | full-time | exa |
+| recent | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://jobily.ca/jobs/senior-consultant-servicenow-itam-itom-kpmg-toronto-ontario-32c442) | KPMG | Toronto, ON | full-time | exa |
+| recent | [Manager, ServiceNow Transformation and Engagement Lead](https://hiretik.com/jobs/46900143-e09e-4282-8767-3e197d0dd8e6) | KPMG | Toronto, ON | full-time | exa |
+| recent | [Service Now Developer](https://ca.linkedin.com/jobs/view/service-now-developer-at-kpmg-canada-4381942370) | KPMG Canada | Vaughan, ON | full-time | exa |
+| recent | [ServiceNow Solution Architect](https://careers.cognizant.com/ca-en/jobs/00069775982/servicenow-solution-architect/) | Cognizant | Toronto, Ontario, Canada | full-time | exa |
+| recent | [ServiceNow Transformation Program Manager](https://careers.cognizant.com/global-en/jobs/00070992531/servicenow-transformation-program-manager/) | Cognizant | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Senior Technical Consultant](https://careers.cognizant.com/ca-en/jobs/00070349441/servicenow-senior-technical-consultant/) | Cognizant | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Technical Consultant](https://careers.cognizant.com/ca-en/jobs/00070349441/servicenow-technical-consultant/) | Cognizant | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Solution Engineer](https://hiringcafe.com/job/servicenow-solution-engineer-cognizant-toronto-ontario-c23y4m1uauz2njj1) | Cognizant | Toronto, ON | full-time | exa |
+| recent | [Senior Solutions Consultant](https://crossfuze.pinpointhq.com/en/postings/83199ba3-93d3-42cd-beb4-d263d7a9a766) | Crossfuze | Toronto, ON | full-time | exa |
+| recent | [Principal Technical Consultant in Canada](https://www.linkedin.com/posts/crossfuze_servicenowjobs-servicenow-activity-7458550828468056064-HRgL) | Crossfuze | Canada | full-time | exa |
+| recent | [ServiceNow Senior Technical Consultant](https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965) | Crossfuze | Remote, Canada | full-time | exa |
+| recent | [ServiceNow Business Process Consultant Manager](https://ca.trabajo.org/job-1918-dab1c943e4295eb5ca2fcbe1a0f9304a) | Crossfuze | Toronto, ON | full-time | exa |
+| recent | [Senior ServiceNow Technical Consultant (Developer)](https://www.linkedin.com/posts/greg-paul-3942153_servicenow-itom-itsm-activity-7373750627589361664-B2jG) | Fujitsu | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Architect - Canada](https://ondarowave.com/job-listing?gh_jid=5271251007) | Ondaro | Canada | full-time | exa |
+| recent | [ServiceNow Program Manager](https://tsenta.com/jobs/ondaro-servicenow-program-manager-canada-1e988c81-5ac8-4624-8b2e-23c8843cba76) | Ondaro | Canada | full-time | exa |
+| recent | [Solution Engineer](https://workopia.io/jobs/18cea62c72200adca5a24fc1e03fcb06) | Tanium | Toronto, ON | full-time | exa |
+| recent | [Senior Software Engineer - ServiceNow", "company": "TeamViewer", "location": "Germany" | TeamViewer | Germany | full-time | exa |
+| recent | [Enterprise Account Executive – ServiceNow Ecosystem](https://www.linkedin.com/posts/xtype_hiring-servicenow-enterprisesales-activity-7462850650121424896-auCm) | xtype.io | United States & Canada | full-time | exa |
+| recent | [ServiceNow Functional Consultant](https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/ServiceNow-Functional-Consultant_JR6421) | BDO Canada | Toronto - Bay St | full-time | exa |
+| recent | [ServiceNow Senior Developer](https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/ServiceNow-Senior-Developer_JR5588) | BDO Canada | Toronto - Bay St | full-time | exa |
+| recent | [Project Manager, ServiceNow](https://maplestack.ca/jobs/bdo-ca/project-manager-servicenow) | BDO Canada | Toronto - Bay St | full-time | exa |
+| recent | [ServiceNow Solutions Architect](https://ca.trabajo.org/job-5475-4180ae5f4cdbd12b3b043e6597f2fdd3) | BDO Canada | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Solution Architect](https://jobcanadian.com/servicenow-solution-architect-job173710) | IBM | Toronto, ON | full-time | exa |
+| {"title": "Solution Architect ServiceNow Service Portal and AI Engineering", "company": "NewRocket", "location": "Remote, Canada", "url": "https://www.jobs.ca/newrocket/jobs/solution-architect-servicenow-service-portal-and-ai-engineering-remote-canada-united-states-9c0b076ee654", "source": "newrocket", "postedDate": None, "excerpt": "Solution Architect ServiceNow Service Portal AI Engineering at NewRocket Remote Canada", "tags": ["servicenow", "consulting", "architect", "remote"]}, | NewRocket | Remote, Canada | full-time | exa |
+| recent | [ServiceNow Solution Architect - FSO, FSM, CSM](https://builtin.com/job/servicenow-solution-architect-fso-fsm-csm/11783642) | NewRocket | Canada | full-time | exa |
+| recent | [ServiceNow Solution Architect — HAM/SAM (Canada)](https://builtin.com/job/servicenow-solution-architect-ham-sam-canada/10856135) | NewRocket | Canada | full-time | exa |
+| recent | [ServiceNow Business Process Consultant – FSO/CSM](https://builtintoronto.com/job/servicenow-business-process-consultant-fso-csm/11948160) | NewRocket | Toronto, ON | full-time | exa |
+| recent | [Senior ServiceNow Engineer](https://www.rapdev.io/jobs/senior-servicenow-developer) | RapDev | Canada | full-time | exa |
+| recent | [Associate ServiceNow Developer](https://www.rapdev.io/jobs/associate-servicenow-developer-66cf2f9a) | RapDev | Canada | full-time | exa |
+| recent | [ServiceNow Engineering Co-op](https://www.rapdev.io/jobs/servicenow-engineering-co-op) | RapDev | Canada | full-time | exa |
+| recent | [Senior Solutions Engineer (Pre-Sales)](https://jobs.ashbyhq.com/rapdev/48283621-8acd-4e71-a0c0-745ee19ac0a0) | RapDev | Canada | full-time | exa |
+| recent | [ServiceNow Tech Lead](https://jobs.ashbyhq.com/rapdev/715f46df-feef-401d-bf5e-2d844f491643) | RapDev | Canada | full-time | exa |
+| recent | [ServiceNow Practice Pre-Sales Consultant", "company": "Compugen Inc.", "location": "Toronto, ON", "url": "https://compugen-pc.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?portal=Standard&vacancyNo=VN9349", "source": "compugen", "postedDate": None, "excerpt": "ServiceNow Practice Pre-Sales Consultant at Compugen Toronto", "tags": ["servicenow", "consulting"]} | Compugen Inc. | Toronto, ON | full-time | exa |
+| recent | [Sr. ServiceNow Developer - Contract](https://www.jobs.ca/compugen-inc/jobs/servicenow-developer-contract-toronto-on-e7f4bc48cdef) | Compugen Inc. | Toronto, ON | contract | exa |
+| recent | [ServiceNow ITOM Specialist - Contract](https://www.simplyhired.ca/job/BC2XeCBqSGw3QdJHKq02VR7syfUAzGSoMAPo1bvXz-dVYHTfTtE22g) | Compugen Inc. | Canada | contract | exa |
+| recent | [Senior Technical Product Manager- ServiceNow", "company": "TELUS", "location": "Toronto, ON", "url": "https://torontojobposting.ca/jobs/senior-technical-product-manager-servicenow/", "source": "telus", "postedDate": "2026-05-20T00:00:00.000Z", "excerpt": "Senior Technical Product Manager ServiceNow at TELUS Toronto", "tags": ["servicenow", "manager"]} | TELUS | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Senior Support Analyst](https://optimuspartners.com/workspread/job/servicenow-senior-support-analyst-at-telus-toronto-on-127534d77473d770jktk-b3B0aW11c3) | TELUS | Toronto, ON | full-time | exa |
+| recent | [Servicenow developer (reporting & analytics)](https://jobsca.org/servicenow-developer_toronto-c117072/2026-10-telus-digital_i4251365891) | TELUS Digital | Toronto, ON | full-time | exa |
+| recent | [Senior Product Manager for TELUS ServiceNow](https://ca.trabajo.org/job-5475-ddc7220e3e4bb15bc2f27e010d49b3b0) | TELUS | Toronto, ON | full-time | exa |
+| recent | [Technology Consultant](https://jobs.ashbyhq.com/telus-digital/1b3a2564-6d3c-42aa-be74-8da0047ade63) | TELUS Digital | Toronto, ON | full-time | exa |
+| recent | [Senior ServiceNow Developer - ITSM](https://jobs.weekday.works/tech-mahindra-senior-servicenow-developer---itsm) | Tech Mahindra | Canada | full-time | exa |
+| recent | [Principal ServiceNow Consultant - CTA, CSM, ITSM](https://hiretik.com/jobs/d319fca1-f4c9-4227-b585-8e8b9de7f59b) | CDW | Toronto, ON | full-time | exa |
+| recent | [Product Manager - Business Platforms](https://www.cdwjobs.com/jobs/18442957-product-manager-business-platforms) | CDW | Toronto, ON | full-time | exa |
+| recent | [ServiceNow Business Process Consultant (BPC) - CSM/TPSM](https://builtin.com/job/servicenow-business-process-consultant-bpc-csm-tpsm/11844762) | CDW | Toronto, ON | full-time | exa |
+| recent | [ServiceNow ITAM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-architect-at-glidefast-consulting-4215152325) | Everforth GlideFast | Toronto, ON | full-time | exa |
+| recent | [ServiceNow experts", "company": "Pentio", "location": "Toronto", "url": "https://pentio.ca/", "source": "pentio", "postedDate": None, "excerpt": "Pentio ServiceNow experts Toronto careers page", "tags": ["servicenow", "consulting"]} | Pentio | Toronto | full-time | exa |
+| recent | [ServiceNow experts", "company": "SageX Transformations", "location": "Toronto", "url": "https://sagextransformations.com/join-our-team-1", "source": "sagex", "postedDate": None, "excerpt": "SageX Transformations careers page", "tags": ["servicenow", "consulting"]} | SageX Transformations | Toronto | full-time | exa |
+| recent | [Careers at Traversal", "company": "Traversal", "location": "Toronto", "url": "https://traversal.cv/careers", "source": "traversal", "postedDate": None, "excerpt": "Traversal careers page", "tags": ["servicenow", "consulting"]} | Traversal | Toronto | full-time | exa |
+| recent | [Wind River careers", "company": "Wind River", "location": "Canada", "url": "https://www.techmahindra.com/careers/", "source": "windriver", "postedDate": None, "excerpt": "Wind River careers page", "tags": ["servicenow"]} | Wind River | Canada | full-time | exa |
+| recent | [Active Directory Analyst", "company": "Blue Mantis", "location": "Toronto/Mississauga, ON", "url": "https://www.careerbeacon.com/en/job-9/3889549/blue-mantis/active-directory-analyst-toronto-mississauga-ontario/toronto", "source": "bluemantis", "postedDate": None, "excerpt": "Active Directory Analyst at Blue Mantis Toronto/Mississauga", "tags": ["servicenow"]} | Blue Mantis | Toronto/Mississauga, ON | full-time | exa |
+| recent | [Account Executive - Toronto Canada Remote](https://bluemantis.pinpointhq.com/postings/a77e916d-0cf8-483e-9c5f-eee094d26847) | Blue Mantis | Toronto, ON | full-time | exa |
+| recent | [Senior Cloud Consultant - Toronto Canada Remote](https://ca.linkedin.com/jobs/view/senior-cloud-consultant-toronto-canada-remote-at-blue-mantis-4192182159) | Blue Mantis | Toronto, ON | full-time | exa |
+| recent | [Senior ServiceNow Developer - ITSM](https://jobs.weekday.works/tech-mahindra-senior-servicenow-developer---itsm) | Tech Mahindra | Canada | full-time | exa |
+
 ## Scan notes
 
 - Sources are public ATS/job-board endpoints; no logins or paid APIs are used.
