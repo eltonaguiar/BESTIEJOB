@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T072613Z: +0 new, 1 duplicate, version 2 -->
 # Overnight quorum hunt — 2026-11-03 (02:00 ET)
 LLMs for query expansion: LLM7 (default), Pollinations openai-fast. Groq 404, Mistral 429.
 Search: Exa (12 queries, since 2026-10-31), Tavily (6 hidden-title/FSC/French, week), Greenhouse (20 slugs) + Lever (13 slugs) probes — 0 GH/Lever hits.
