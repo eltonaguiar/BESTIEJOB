@@ -1,0 +1,907 @@
+{
+ "scannedAt": "2026-11-03T21:22:58+00:00",
+ "fingerprints": [
+  {
+   "name": "RBC",
+   "url": "https://jobs.rbc.com",
+   "status": 200,
+   "phenom": "RBCAA0088"
+  },
+  {
+   "name": "TD",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
+   "status": 200,
+   "workday": {
+    "tenant": "td",
+    "host": "td.wd3.myworkdayjobs.com",
+    "site": "TD_Bank_Careers"
+   }
+  },
+  {
+   "name": "BMO",
+   "url": "https://jobs.bmo.com",
+   "status": 200
+  },
+  {
+   "name": "CIBC",
+   "url": "https://www.cibc.com/en/about-cibc/careers.html",
+   "status": 200,
+   "workday": {
+    "tenant": "cibc",
+    "host": "cibc.wd3.myworkdayjobs.com",
+    "site": "search"
+   }
+  },
+  {
+   "name": "Scotiabank",
+   "url": "https://www.scotiabank.com/careers/en/home.html",
+   "status": 404
+  },
+  {
+   "name": "National Bank",
+   "url": "https://www.nbc.ca/en/careers.html",
+   "status": 404
+  },
+  {
+   "name": "Desjardins",
+   "url": "https://www.desjardins.com/careers/index.jsp",
+   "status": 200,
+   "workday": {
+    "tenant": "desjardins",
+    "host": "desjardins.wd10.myworkdayjobs.com",
+    "site": "Desjardins"
+   }
+  },
+  {
+   "name": "ATB Financial",
+   "url": "https://www.atb.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "Manulife",
+   "url": "https://www.manulife.com/en/careers",
+   "status": 404
+  },
+  {
+   "name": "Sun Life",
+   "url": "https://www.sunlife.com/en/careers/",
+   "status": 200
+  },
+  {
+   "name": "Canada Life",
+   "url": "https://www.canadalife.com/careers.html",
+   "status": 404
+  },
+  {
+   "name": "Intact",
+   "url": "https://www.intactfc.com/en/careers/",
+   "status": 404
+  },
+  {
+   "name": "Co-operators",
+   "url": "https://www.cooperators.ca/en/about-us/careers",
+   "status": 200
+  },
+  {
+   "name": "Equitable Bank",
+   "url": "https://www.eqbank.ca/careers",
+   "status": 200
+  },
+  {
+   "name": "Canada Post",
+   "url": "https://www.canadapost-postescanada.ca/cpc/en/our-company/careers.page",
+   "status": 404
+  },
+  {
+   "name": "Bell",
+   "url": "https://jobs.bell.ca",
+   "status": 200,
+   "phenom": "BECACA"
+  },
+  {
+   "name": "Rogers",
+   "url": "https://jobs.rogers.com",
+   "status": 200,
+   "successfactors": "performancemanager4"
+  },
+  {
+   "name": "Telus",
+   "url": "https://www.telus.com/en/about/careers",
+   "status": 200
+  },
+  {
+   "name": "Videotron",
+   "url": "https://www.videotron.com/carrieres",
+   "status": 404
+  },
+  {
+   "name": "Cogeco",
+   "url": "https://www.cogeco.com/careers",
+   "status": 404
+  },
+  {
+   "name": "SaskTel",
+   "url": "https://www.sasktel.com/about-us/careers",
+   "status": 200
+  },
+  {
+   "name": "Loblaw",
+   "url": "https://www.loblaw.ca/en/careers.html",
+   "status": 404
+  },
+  {
+   "name": "Metro",
+   "url": "https://www.metro.ca/en/careers",
+   "status": 404
+  },
+  {
+   "name": "Walmart Canada",
+   "url": "https://careers.walmart.ca",
+   "status": 200,
+   "workday": {
+    "tenant": "walmart",
+    "host": "walmart.wd504.myworkdayjobs.com",
+    "site": "WalmartExternal"
+   }
+  },
+  {
+   "name": "Canadian Tire",
+   "url": "https://corp.canadiantire.ca/English/careers/default.aspx",
+   "status": 200,
+   "workday": {
+    "tenant": "canadiantirecorporation",
+    "host": "canadiantirecorporation.wd3.myworkdayjobs.com",
+    "site": "Enterprise_External_Careers_Site"
+   }
+  },
+  {
+   "name": "Home Depot Canada",
+   "url": "https://careers.homedepot.ca",
+   "status": 200,
+   "workday": {
+    "tenant": "homedepot",
+    "host": "homedepot.wd5.myworkdayjobs.com",
+    "site": "CareerDepotCanada"
+   }
+  },
+  {
+   "name": "Empire/Sobeys",
+   "url": "https://www.empireco.ca/careers/",
+   "status": 404
+  },
+  {
+   "name": "Purolator",
+   "url": "https://www.purolator.com/en/about-purolator/careers",
+   "status": 404
+  },
+  {
+   "name": "Dayforce",
+   "url": "https://www.dayforce.com/us/company/careers",
+   "status": 404
+  },
+  {
+   "name": "Workday",
+   "url": "https://www.workday.com/en-us/company/careers.html",
+   "status": 200,
+   "workday": {
+    "tenant": "workday",
+    "host": "workday.wd5.myworkdayjobs.com",
+    "site": "Workday"
+   }
+  },
+  {
+   "name": "ServiceNow",
+   "url": "https://careers.servicenow.com",
+   "status": 200
+  },
+  {
+   "name": "Salesforce",
+   "url": "https://careers.salesforce.com",
+   "status": 200
+  },
+  {
+   "name": "Shopify",
+   "url": "https://www.shopify.com/careers",
+   "status": 200
+  },
+  {
+   "name": "OpenText",
+   "url": "https://careers.opentext.com",
+   "status": 200
+  },
+  {
+   "name": "Docebo",
+   "url": "https://www.docebo.com/company/careers/",
+   "status": 200
+  },
+  {
+   "name": "Kinaxis",
+   "url": "https://www.kinaxis.com/en/careers",
+   "status": 200
+  },
+  {
+   "name": "Constellation Software",
+   "url": "https://www.csisoftware.com/careers",
+   "status": 404
+  },
+  {
+   "name": "CGI",
+   "url": "https://www.cgi.com/en/careers",
+   "status": 200
+  },
+  {
+   "name": "Deloitte",
+   "url": "https://careers.deloitte.ca",
+   "status": 200,
+   "successfactors": "performancemanager8"
+  },
+  {
+   "name": "KPMG",
+   "url": "https://kpmg.com/ca/en/home/careers.html",
+   "status": 200
+  },
+  {
+   "name": "PwC",
+   "url": "https://www.pwc.com/ca/en/careers.html",
+   "status": 200
+  },
+  {
+   "name": "EY",
+   "url": "https://www.ey.com/en_ca/careers",
+   "status": 200
+  },
+  {
+   "name": "Accenture",
+   "url": "https://www.accenture.com/ca-en/careers",
+   "status": 200,
+   "workday": {
+    "tenant": "accenture",
+    "host": "accenture.wd103.myworkdayjobs.com",
+    "site": "AccentureCareers"
+   }
+  },
+  {
+   "name": "IBM",
+   "url": "https://www.ibm.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Cognizant",
+   "url": "https://careers.cognizant.com/global/en",
+   "status": 200
+  },
+  {
+   "name": "Infosys",
+   "url": "https://www.infosys.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "TCS",
+   "url": "https://www.tcs.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Capgemini",
+   "url": "https://www.capgemini.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "Slalom",
+   "url": "https://www.slalom.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Long View Systems",
+   "url": "https://www.longviewsystems.com/careers/",
+   "status": 403
+  },
+  {
+   "name": "Artech",
+   "url": "https://www.artech.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "City of Toronto",
+   "url": "https://www.toronto.ca/city-government/council/jobs/",
+   "status": 200,
+   "successfactors": "rmkcdn"
+  },
+  {
+   "name": "TTC",
+   "url": "https://www.ttc.ca/careers",
+   "status": 404
+  },
+  {
+   "name": "Metrolinx",
+   "url": "https://www.metrolinx.com/en/careers",
+   "status": 200,
+   "oracle": {
+    "host": "ehtc.fa.ca2.oraclecloud.com",
+    "site": "CX_1"
+   }
+  },
+  {
+   "name": "Ontario Health",
+   "url": "https://www.ontariohealth.ca/careers",
+   "status": 200
+  },
+  {
+   "name": "OPG",
+   "url": "https://www.opg.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "Hydro One",
+   "url": "https://www.hydroone.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Toronto Hydro",
+   "url": "https://www.torontohydro.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Enbridge",
+   "url": "https://www.enbridge.com/careers",
+   "status": 200,
+   "workday_hint": true
+  },
+  {
+   "name": "UHN",
+   "url": "https://www.uhn.ca/careers",
+   "status": 404
+  },
+  {
+   "name": "SickKids",
+   "url": "https://www.sickkids.ca/en/careers/",
+   "status": 200
+  },
+  {
+   "name": "University of Toronto",
+   "url": "https://people.utoronto.ca/careers/",
+   "status": "unreachable"
+  },
+  {
+   "name": "York University",
+   "url": "https://www.yorku.ca/careers/",
+   "status": 200
+  },
+  {
+   "name": "TMU",
+   "url": "https://www.torontomu.ca/careers/",
+   "status": 200
+  }
+ ],
+ "found": [
+  {
+   "title": "Product Owner I (US) eGRC AI",
+   "location": "2 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Charlotte-North-Carolina/Product-Owner-I--US--eGRC-AI_R_1495342-1",
+   "posted": "2026-10-29",
+   "company": "TD",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce IT Solutions Design Specialist (US)",
+   "location": "3 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Salesforce-IT-Solutions-Design-Specialist--US-_R_1515965-1",
+   "posted": "2026-11-03",
+   "company": "TD",
+   "route": "workday"
+  },
+  {
+   "title": "Marketing Technology Product Owner - Salesforce Loyalty & Offer Management",
+   "location": "6 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Marketing-Technology-Product-Owner---Salesforce-Loyalty---Offer-Management_R_1509480",
+   "posted": "2026-11-03",
+   "company": "TD",
+   "route": "workday"
+  },
+  {
+   "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
+   "posted": "2026-10-26",
+   "company": "TD",
+   "route": "workday"
+  },
+  {
+   "title": "Consultant, ITAM Transactions & Compliance",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--ITAM-Transactions---Compliance_2620855",
+   "posted": "2026-10-29",
+   "company": "CIBC",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developers (ServiceNow Architects, ServiceNow SMEs)",
+   "location": "Taguig, Uptown Bonifacio Tower 2, Philippines",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Taguig/ServiceNow-Developers--ServiceNow-Architects--ServiceNow-SMEs-_R00321995",
+   "posted": "2026-10-13",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Semarang, Menara Suara Merdeka, Indonesia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Semarang/DevOps-Engineer_R00358001",
+   "posted": "2026-10-27",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Monterrey, Torres Moradas 2, Mexico",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Monterrey/ServiceNow-Developer_R00357122",
+   "posted": "2026-09-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Architect",
+   "location": "Madrid, Torre Chamartin, Spain",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/ServiceNow-Architect_14885601",
+   "posted": "2026-10-28",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Prague, Visionary Bldg, Czech Republic",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Developer-for-ServiceNow-platform--Prague-Ostrava-_R00233320",
+   "posted": "2026-09-15",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Canberra, Brindabella Business Park, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra-Brindabella-Business-Park/ServiceNow-Developer_13124345",
+   "posted": "2025-03-27",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Melbourne, 161 Collins Street, Level 5, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-Developer_R00267230",
+   "posted": "2025-04-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Architect",
+   "location": "Singapore, Raffles City Tower, Singapore",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/ServiceNow-Architect_R00270339",
+   "posted": "2025-05-21",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Bratislava, BBC 5 Bldg, Slovakia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bratislava/ServiceNow-Developer_R00280816",
+   "posted": "2026-06-05",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Canberra, Brindabella Business Park, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra-Brindabella-Business-Park/ServiceNow-Developer_13594319",
+   "posted": "2026-02-11",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Kuala Lumpur, Exchange 106, Malaysia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/ServiceNow-Developer_R00300114",
+   "posted": "2025-12-03",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Manager",
+   "location": "Lisbon, Santos 37, Portugal",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon/ServiceNow-Manager_13917986",
+   "posted": "2026-11-02",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Platform Architect",
+   "location": "Stockholm, Alstromergatan 12, Sweden",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/ServiceNow-Platform-Architect_13820887",
+   "posted": "2026-07-17",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer (ArcGIS)",
+   "location": "Singapore, Raffles City Tower, Singapore",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/ServiceNow-Developer--ArcGIS-_14312120",
+   "posted": "2026-04-28",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Solution Architect",
+   "location": "Singapore, Raffles City Tower, Singapore",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/ServiceNow-Solution-Architect_14364541",
+   "posted": "2026-05-22",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Platform Architect",
+   "location": "Vilnius, UNIQ, Lithuania",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Vilnius/ServiceNow-Platform-Architect_R00331910",
+   "posted": "2026-07-07",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow DevOps Engineer",
+   "location": "Oslo, Radhusgata 27, Norway",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Oslo/ServiceNow-DevOps-Engineer_14521038-1",
+   "posted": "2026-10-29",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Senior Developer",
+   "location": "Helsinki, Porkkalankatu 5, Finland",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Helsinki/ServiceNow-Senior-Developer_14579552",
+   "posted": "2026-07-21",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Technical Architect",
+   "location": "Arlington, 1201 Wilson, Corp, United States of America",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Technical-Architect_R00347579",
+   "posted": "2026-10-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Implementation Specialist",
+   "location": "Arlington, 1201 Wilson, Corp, United States of America",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Implementation-Specialist_R00347566",
+   "posted": "2026-10-01",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Warsaw, Sienna 39, Poland",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Salesforce-Architect_14405750",
+   "posted": "2026-05-26",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Budapest, Millennium Gardens, Hungary",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Salesforce-Developer_R00341096-1",
+   "posted": "2026-07-06",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Bucharest, Westgate Park - Bldg H1, Romania",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest/Salesforce-Developer_R00359693",
+   "posted": "2026-09-24",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Mexico City, Torre Arcos, Mexico",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mexico-City/Salesforce-Developer_14766874",
+   "posted": "2026-09-24",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Madrid, Torre Chamartin, Spain",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Torre-Chamartin/Salesforce-Developer_R00358441",
+   "posted": "2026-09-30",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Vilnius, UNIQ, Lithuania",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Vilnius/Salesforce-Architect_R00345638",
+   "posted": "2026-09-30",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Buenos Aires, Parque Patricios, Argentina",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Salesforce-Developer_R00000770",
+   "posted": "2025-11-03",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Buenos Aires, Parque Patricios, Argentina",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Salesforce-Technical-Architect_R00188890",
+   "posted": "2026-07-01",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Lisbon, Exeo Lumnia, Portugal",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon/Salesforce-Architect_R00239925",
+   "posted": "2025-10-14",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Singapore, Raffles City Tower, Singapore",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Salesforce-Architect_R00267240",
+   "posted": "2025-04-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Roma, Via Sciangai 53, Italy",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Salesforce-Developer_R00290421",
+   "posted": "2025-11-28",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Riga, VEF, Latvia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riga/Salesforce-Architect_R00293811",
+   "posted": "2026-06-11",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Engineer",
+   "location": "Bratislava, BBC 5 Bldg, Slovakia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bratislava/Salesforce-Engineer_R00311665",
+   "posted": "2026-06-25",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Agentforce Consultants",
+   "location": "Auckland, 131 Queen, New Zealand",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Auckland/Salesforce-Agentforce-Consultants_R00324544",
+   "posted": "2026-06-12",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer (CPQ)",
+   "location": "Chesterbrook, 955 Chesterbrook Blvd, MS, United States of America",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Salesforce-Developer--CPQ-_R00331987",
+   "posted": "2026-09-28",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Delivery Lead",
+   "location": "Brussels, Picard 11, Belgium",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels-Picard-11/Salesforce-Delivery-Lead_R00336206",
+   "posted": "2026-07-01",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Senior Salesforce Developer",
+   "location": "Budapest, Millennium Gardens, Hungary",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Senior-Salesforce-Developer_R00341091",
+   "posted": "2026-07-06",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Agentforce Architect",
+   "location": "Chesterbrook, 955 Chesterbrook Blvd, MS, United States of America",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Salesforce-Agentforce-Architect_R00343046",
+   "posted": "2026-10-01",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer Sr.",
+   "location": "Monterrey, Torres Moradas 2, Mexico",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Monterrey/Salesforce-Developer-Sr_R00360101",
+   "posted": "2026-10-07",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer (OmniStudio)",
+   "location": "Madrid, Torre Chamartin, Spain",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Castellana-85/Salesforce-Developer--OmniStudio-_R00363216",
+   "posted": "2026-10-14",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Arquiteto(a) de ServiceNow - ITSM | ITOM",
+   "location": "Sao Paulo, Torre Paineira, Brazil",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Arquiteto-a--de-Aplicaes-ServiceNow-Snior_R00361127",
+   "posted": "2026-10-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "L\u00edder Desenvolvedor ServiceNow (ITSM/ITOM) \u2013 Ingl\u00eas Avan\u00e7ado",
+   "location": "Barueri, Green Valley, Andromeda, Brazil",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Lder-Desenvolvedor-ServiceNow--ITSM-ITOM----Ingls-Avanado_14727432",
+   "posted": "2026-10-21",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ITSM PMO Support Analyst",
+   "location": "Sydney, International House, 3 Sussex St, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney/ITSM-PMO-Support-Analyst_13594332",
+   "posted": "2025-11-19",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Service Management Consultant / ITSM Process Specialist",
+   "location": "Melbourne, 161 Collins Street, Level 5, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Service-Management-Consultant---ITSM-Process-Specialist_R00356767",
+   "posted": "2026-09-15",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow ITOM Consultant",
+   "location": "Melbourne, 161 Collins Street, Level 5, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-ITOM-Consultant_R00267231",
+   "posted": "2025-04-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "S&C GN - TS&T \u2013 Strategic Technology Effectiveness - ITSM - Manager",
+   "location": "Gurugram, DDC1A, India",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/S-C-GN---TS-T---Strategic-Technology-Effectiveness---ITSM---Manager_R00343380-1",
+   "posted": "2026-10-12",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Technical Architect \u2013 Integrations & ITOM",
+   "location": "Belen, La Ribera, Costa Rica",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/ServiceNow-Technical-Lead--Integrations-and-AIOps_14791418",
+   "posted": "2026-10-21",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Hardware Asset Management (HAM) Consultant",
+   "location": "Sydney, International House, 3 Sussex St, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/ServiceNow-Hardware-Asset-Management--HAM--Consultant_14379035",
+   "posted": "2026-06-25",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer Sr Analyst/ Specialist",
+   "location": "Buenos Aires, Parque Patricios, Argentina",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/ServiceNow-Developer_R00134107",
+   "posted": "2026-10-21",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Product Administrator",
+   "posted": "2026-11-02",
+   "location": "Minneapolis",
+   "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000186697EXTERNALENCA/Salesforce-Product-Administrator",
+   "company": "RBC",
+   "route": "phenom"
+  },
+  {
+   "title": "Manager, Banking Salesforce Innovation & Enablement",
+   "posted": "2026-11-02",
+   "location": "Toronto",
+   "url": "https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260030015EXTERNALENCA/Manager-Banking-Salesforce-Innovation-Enablement",
+   "company": "BMO",
+   "route": "sitemap"
+  },
+  {
+   "title": "Director, Customer Engagement Strategy \\u0026 Operations, Moveworks from ServiceNow",
+   "posted": "2026-10-27",
+   "location": "Mountain View",
+   "url": "https://careers.servicenow.com/jobs/744000158066509/director-customer-engagement-strategy-operations-moveworks-from-servicenow/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Staff Inbound Product Manager - ServiceNow University",
+   "posted": "2026-10-06",
+   "location": "San Diego",
+   "url": "https://careers.servicenow.com/jobs/744000153739678/staff-inbound-product-manager-servicenow-university/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Staff Application Security Engineer (ServiceNow Instance Security)",
+   "posted": "2026-09-02",
+   "location": "Santa Clara",
+   "url": "https://careers.servicenow.com/jobs/744000147091979/staff-application-security-engineer-servicenow-instance-security/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Principal Solution Architect- ServiceNow",
+   "posted": "2026-10-29",
+   "location": "Toronto",
+   "url": "https://careers.servicenow.com/jobs/744000158575719/principal-solution-architect-servicenow/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Senior Manager, ITOM \\u0026 AIOps Solution Consulting",
+   "posted": "2026-10-29",
+   "location": "Staines",
+   "url": "https://careers.servicenow.com/jobs/744000158480434/senior-manager-itom-aiops-solution-consulting/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Principal\\u202FSolution Architect, ITSM",
+   "posted": "2026-10-15",
+   "location": "Dallas",
+   "url": "https://careers.servicenow.com/jobs/744000155864280/principal-solution-architect-itsm/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Senior Customer Success Executive-ServiceNow",
+   "posted": "2026-11-02",
+   "location": "Kirkland",
+   "url": "https://careers.servicenow.com/jobs/744000159213090/senior-customer-success-executive-servicenow/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Senior Solutions Consultant (ITOM) m/f/x",
+   "posted": "2026-11-01",
+   "location": "Virtual",
+   "url": "https://careers.opentext.com/us/en/job/54203/Senior-Solutions-Consultant-ITOM-m-f-x",
+   "company": "OpenText",
+   "route": "sitemap"
+  },
+  {
+   "title": "Lead Premium Support Specialist - ITSM",
+   "posted": "2026-11-01",
+   "location": "Virtual",
+   "url": "https://careers.opentext.com/us/en/job/53634/Lead-Premium-Support-Specialist-ITSM",
+   "company": "OpenText",
+   "route": "sitemap"
+  }
+ ],
+ "fresh": [
+  {
+   "title": "Consultant, ITAM Transactions & Compliance",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--ITAM-Transactions---Compliance_2620855",
+   "posted": "2026-10-29",
+   "company": "CIBC",
+   "route": "workday"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "scannedAt": "2026-11-03T21:40:06+00:00",
+ "days": 7,
+ "raw": 3179,
+ "per_round": {
+  "ai-keywords": 440,
+  "modules": 1129,
+  "agency-lane": 973,
+  "partners": 637
+ },
+ "fresh": [
+  {
+   "title": "Senior Salesforce Architect - Canada",
+   "company": "Vasa Digital Architects",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-architect-canada-at-vasa-digital-architects-4486076138",
+   "posted": "2026-11-03",
+   "round": "agency-lane"
+  },
+  {
+   "title": "Salesforce Marketing Cloud Developer - Strong Automation Studio, Email Studio and AMPscript",
+   "company": "Smart IT Frame LLC",
+   "location": "Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-strong-automation-studio-email-studio-and-ampscript-at-smart-it-frame-llc-4486057050",
+   "posted": "2026-11-03",
+   "round": "modules"
+  },
+  {
+   "title": "Salesforce Marketing Cloud(SFMC) Business Analyst",
+   "company": "VDart",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-vdart-4485777185",
+   "posted": "2026-11-02",
+   "round": "modules"
+  },
+  {
+   "title": "Salesforce Consultant",
+   "company": "Robert Half",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-robert-half-4484808192",
+   "posted": "2026-10-30",
+   "round": "agency-lane"
+  },
+  {
+   "title": "Salesforce Technical Lead - Financial Services Cloud",
+   "company": "Avanciers Inc.",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-financial-services-cloud-at-avanciers-inc-4485233585",
+   "posted": "2026-10-29",
+   "round": "ai-keywords"
+  },
+  {
+   "title": "Salesforce Application Supervisor - Systems Supervisor",
+   "company": "Minnesota Direct Care and Treatment",
+   "location": "St.-Paul, New Brunswick, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-application-supervisor-systems-supervisor-at-minnesota-direct-care-and-treatment-4483046222",
+   "posted": "2026-10-29",
+   "round": "modules"
+  }
+ ]
+}
