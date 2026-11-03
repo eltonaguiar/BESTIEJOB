@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-03T03:12:56.266Z",
     "generatedAt": "2026-11-03T03:12:56.266Z",
-    "total": 1157,
+    "total": 1256,
     "newThisScan": 713,
     "retainedFromPrevious": 82,
     "sources": {
@@ -66,6 +66,74 @@
       "postedDate": "2026-11-03T12:00:00.000Z",
       "scrapedAt": "2026-11-03T04:01:08.583Z",
       "excerpt": "via copilot-20rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/portfolio-management-analyst-12-month-contract-at-gwl-realty-advisors-4484607990",
+      "source": "readme",
+      "company": "GWL Realty Advisors",
+      "title": "Portfolio Management Analyst (12-Month Contract)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/portfolio-management-analyst-12-month-contract-at-gwl-realty-advisors-4484607990",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-canada-4484615875",
+      "source": "readme",
+      "company": "DWF (Canada)",
+      "title": "Mid-Sr Level Litigation Associate (Cyber Liability)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-canada-4484615875",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-intelligence-analyst-at-tookli-4484620599",
+      "source": "readme",
+      "company": "Tookli",
+      "title": "Business Intelligence Analyst",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-intelligence-analyst-at-tookli-4484620599",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/bim-designer-at-ozz-electric-inc-4486484664",
+      "source": "readme",
+      "company": "OZZ Electric Inc.",
+      "title": "BIM Designer",
+      "location": "Vaughan, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/bim-designer-at-ozz-electric-inc-4486484664",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -1312,6 +1380,550 @@
       "postedDate": "2026-11-02T12:00:00.000Z",
       "scrapedAt": "2026-11-03T04:01:08.583Z",
       "excerpt": "via copilot-20rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-crm-account-executive-at-servicenow-4486453284",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Sr. CRM Account Executive",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-crm-account-executive-at-servicenow-4486453284",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-operations-manager-at-salesforce-4486187876",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Business Operations Manager",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-operations-manager-at-salesforce-4486187876",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/vulnerability-management-specialist-at-hays-4486404341",
+      "source": "readme",
+      "company": "Hays",
+      "title": "Vulnerability Management Specialist",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/vulnerability-management-specialist-at-hays-4486404341",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technicienne-dessinatrice-ou-technicien-dessinateur-at-cima%2b-4486195153",
+      "source": "readme",
+      "company": "CIMA+",
+      "title": "Technicienne dessinatrice ou Technicien dessinateur",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technicienne-dessinatrice-ou-technicien-dessinateur-at-cima%2B-4486195153",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/success-enablement-manager-at-jobber-4483932327",
+      "source": "readme",
+      "company": "Jobber",
+      "title": "Success Enablement Manager",
+      "location": "Kitchener, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/success-enablement-manager-at-jobber-4483932327",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/specialist-marketing-technology-12-month-contract-at-agf-investments-4452505102",
+      "source": "readme",
+      "company": "AGF Investments",
+      "title": "Specialist, Marketing Technology (12-month contract)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/specialist-marketing-technology-12-month-contract-at-agf-investments-4452505102",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-grc-engineer-at-jobgether-4485471875",
+      "source": "readme",
+      "company": "Jobgether",
+      "title": "Senior GRC Engineer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-grc-engineer-at-jobgether-4485471875",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sales-development-representative-oshawa-at-medfar-4484373325",
+      "source": "readme",
+      "company": "MEDFAR",
+      "title": "Sales Development Representative - Oshawa",
+      "location": "Oshawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sales-development-representative-oshawa-at-medfar-4484373325",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/revenue-operations-strategist-at-sysaid-4484323725",
+      "source": "readme",
+      "company": "SysAid",
+      "title": "Revenue Operations Strategist",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/revenue-operations-strategist-at-sysaid-4484323725",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/regional-sales-manager-usa-at-acic-equipment-usa-inc-4485767674",
+      "source": "readme",
+      "company": "ACIC Equipment USA Inc.",
+      "title": "Regional Sales Manager USA",
+      "location": "Brantford, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/regional-sales-manager-usa-at-acic-equipment-usa-inc-4485767674",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/product-owner-client-digital-support-at-mri-software-4485741542",
+      "source": "readme",
+      "company": "MRI Software",
+      "title": "Product Owner, Client & Digital Support",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/product-owner-client-digital-support-at-mri-software-4485741542",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/product-owner-i-askhr-at-td-4486468435",
+      "source": "readme",
+      "company": "TD",
+      "title": "Product Owner I - AskHR",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/product-owner-i-askhr-at-td-4486468435",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/payments-implementation-specialist-canada-at-jonas-club-software-4486443532",
+      "source": "readme",
+      "company": "Jonas Club Software",
+      "title": "Payments Implementation Specialist - Canada",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/payments-implementation-specialist-canada-at-jonas-club-software-4486443532",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-4486426675",
+      "source": "readme",
+      "company": "DWF",
+      "title": "Mid-Sr Level Litigation Associate (Cyber Liability)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-4486426675",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/marketing-automation-consultant-at-marketing-automation-corp-4486198412",
+      "source": "readme",
+      "company": "Marketing Automation Corp.",
+      "title": "Marketing Automation Consultant",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-automation-consultant-at-marketing-automation-corp-4486198412",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-security-grc-at-nesto-4486472726",
+      "source": "readme",
+      "company": "nesto",
+      "title": "Manager, Security GRC",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-security-grc-at-nesto-4486472726",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/int%c3%a9grateur-courriels-et-crm-at-national-bank-of-canada-4484398156",
+      "source": "readme",
+      "company": "National Bank of Canada",
+      "title": "Intégrateur courriels et CRM",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/int%C3%A9grateur-courriels-et-crm-at-national-bank-of-canada-4484398156",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/hiring-application-support-analyst-%e2%80%93-front-office-technology-at-mississauga-on-hybrid-at-zodiac-solutions-inc-4484384678",
+      "source": "readme",
+      "company": "Zodiac Solutions, Inc",
+      "title": "Hiring - Application Support Analyst – Front Office Technology at Mississauga, ON(Hybrid)",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/hiring-application-support-analyst-%E2%80%93-front-office-technology-at-mississauga-on-hybrid-at-zodiac-solutions-inc-4484384678",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/gestionnaire-s%c3%a9curit%c3%a9-grc-at-nesto-4486483094",
+      "source": "readme",
+      "company": "nesto",
+      "title": "Gestionnaire, sécurité GRC",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/gestionnaire-s%C3%A9curit%C3%A9-grc-at-nesto-4486483094",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/executive-director-enterprise-regional-enablement-at-jobgether-4485426794",
+      "source": "readme",
+      "company": "Jobgether",
+      "title": "Executive Director, Enterprise Regional Enablement",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/executive-director-enterprise-regional-enablement-at-jobgether-4485426794",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/digital-marketing-engagement-coordinator-at-ci-financial-4485758218",
+      "source": "readme",
+      "company": "CI Financial",
+      "title": "Digital Marketing Engagement Coordinator",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-engagement-coordinator-at-ci-financial-4485758218",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/deal-desk-specialist-at-instacart-4486452518",
+      "source": "readme",
+      "company": "Instacart",
+      "title": "Deal Desk Specialist",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/deal-desk-specialist-at-instacart-4486452518",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/conseiller-exp-strat%c3%a9gique-gouvernance-de-donn%c3%a9es-et-ia-at-cofomo-4486436029",
+      "source": "readme",
+      "company": "COFOMO",
+      "title": "Conseiller exp. stratégique gouvernance de données et IA",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/conseiller-exp-strat%C3%A9gique-gouvernance-de-donn%C3%A9es-et-ia-at-cofomo-4486436029",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/crm-and-email-integrator-at-national-bank-of-canada-4484381821",
+      "source": "readme",
+      "company": "National Bank of Canada",
+      "title": "CRM and Email Integrator",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/crm-and-email-integrator-at-national-bank-of-canada-4484381821",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-solutions-analyst-at-caa-club-group-4458870834",
+      "source": "readme",
+      "company": "CAA Club Group",
+      "title": "Business Solutions Analyst",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-solutions-analyst-at-caa-club-group-4458870834",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-analyst-at-connex-telecommunications-inc-4486429876",
+      "source": "readme",
+      "company": "Connex Telecommunications Inc.",
+      "title": "Business Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-analyst-at-connex-telecommunications-inc-4486429876",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/braze-architect-at-smart-it-frame-llc-4484124335",
+      "source": "readme",
+      "company": "Smart IT Frame LLC",
+      "title": "Braze Architect",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/braze-architect-at-smart-it-frame-llc-4484124335",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/associate-director-partner-operations-revenue-and-sales-operations-at-boreal-education-4485418916",
+      "source": "readme",
+      "company": "Boreal Education",
+      "title": "Associate Director, Partner Operations (Revenue and Sales Operations)",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/associate-director-partner-operations-revenue-and-sales-operations-at-boreal-education-4485418916",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/asset-protection-representative-at-loblaw-companies-limited-4478361012",
+      "source": "readme",
+      "company": "Loblaw Companies Limited",
+      "title": "Asset Protection Representative",
+      "location": "Oshawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/asset-protection-representative-at-loblaw-companies-limited-4478361012",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/application-support-analyst-%e2%80%93-front-office-technology-at-synechron-4484364674",
+      "source": "readme",
+      "company": "Synechron",
+      "title": "Application Support Analyst – Front Office Technology",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/application-support-analyst-%E2%80%93-front-office-technology-at-synechron-4484364674",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/analyste-des-donn%c3%a9es-principal-e-analyse-de-la-performance-op%c3%a9rationnelle-at-intact-4485771325",
+      "source": "readme",
+      "company": "Intact",
+      "title": "Analyste des données principal(e) - Analyse de la performance opérationnelle",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/analyste-des-donn%C3%A9es-principal-e-analyse-de-la-performance-op%C3%A9rationnelle-at-intact-4485771325",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/ai-gtm-and-automation-specialist-at-maplesoft-4484392296",
+      "source": "readme",
+      "company": "Maplesoft",
+      "title": "AI GTM and Automation Specialist",
+      "location": "Waterloo, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/ai-gtm-and-automation-specialist-at-maplesoft-4484392296",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -3539,6 +4151,74 @@
       "postedDate": "2026-11-01T12:00:00.000Z",
       "scrapedAt": "2026-11-03T04:01:08.583Z",
       "excerpt": "via R10 SN partners A",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/qualified-commercial-account-executive-at-salesforce-4430779269",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Qualified Commercial Account Executive",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/qualified-commercial-account-executive-at-salesforce-4430779269",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/enterprise-account-executive-qualified-at-salesforce-4430779270",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Enterprise Account Executive, Qualified",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/enterprise-account-executive-qualified-at-salesforce-4430779270",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/crm-ic-manager-at-sun-pharma-4485164970",
+      "source": "readme",
+      "company": "SUN PHARMA",
+      "title": "CRM & IC Manager",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/crm-ic-manager-at-sun-pharma-4485164970",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/architecte-principal-de-processus-gestion-du-service-%c3%a0-la-client%c3%a8le-at-deloitte-4459410867",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Architecte principal de processus, Gestion du service à la clientèle",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/architecte-principal-de-processus-gestion-du-service-%C3%A0-la-client%C3%A8le-at-deloitte-4459410867",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -6628,6 +7308,329 @@
       "postedDate": "2026-10-31T12:00:00.000Z",
       "scrapedAt": "2026-11-03T04:01:08.583Z",
       "excerpt": "via copilot-20rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/can-team-leader-asset-protection-12-month-contract-tuesday-to-saturday-8-30am-to-5-00-pm-at-walmart-canada-4485644674",
+      "source": "readme",
+      "company": "Walmart Canada",
+      "title": "[(CAN) Team Leader, Asset Protection [12 Month Contract] Tuesday to Saturday 8:30AM to 5:00 PM](https://ca.linkedin.com/jobs/view/can-team-leader-asset-protection-12-month-contract-tuesday-to-saturday-8-30am-to-5-00-pm-at-walmart-canada-4485644674)",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-team-leader-asset-protection-12-month-contract-tuesday-to-saturday-8-30am-to-5-00-pm-at-walmart-canada-4485644674",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technology-risk-compliance-manager-deloitte-global-audit-and-assurance-at-deloitte-4460515118",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Technology Risk & Compliance Manager, Deloitte Global Audit and Assurance",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technology-risk-compliance-manager-deloitte-global-audit-and-assurance-at-deloitte-4460515118",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-associate-workplace-specialist-av-at-mckesson-4477820672",
+      "source": "readme",
+      "company": "McKesson",
+      "title": "Sr. Associate Workplace Specialist (AV)",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-associate-workplace-specialist-av-at-mckesson-4477820672",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/service-delivery-manager-pa2025q3jb143-at-ss-c-technologies-4440585002",
+      "source": "readme",
+      "company": "SS&C Technologies",
+      "title": "Service Delivery Manager - (PA2025Q3JB143)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/service-delivery-manager-pa2025q3jb143-at-ss-c-technologies-4440585002",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-manager-gto-strategy-transformation-at-manulife-4467584150",
+      "source": "readme",
+      "company": "Manulife",
+      "title": "Senior Manager, GTO Strategy & Transformation",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-manager-gto-strategy-transformation-at-manulife-4467584150",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-consultant-artificial-intelligence-nowassist-at-deloitte-4460501313",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Senior Consultant, Artificial Intelligence - NowAssist",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-artificial-intelligence-nowassist-at-deloitte-4460501313",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/quality-assurance-specialist-at-powerhouse-controls-ltd-4468030445",
+      "source": "readme",
+      "company": "Powerhouse Controls Ltd",
+      "title": "Quality Assurance Specialist",
+      "location": "Cambridge, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/quality-assurance-specialist-at-powerhouse-controls-ltd-4468030445",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-payments-incident-response-resiliency-bilingual-spanish-at-scotiabank-4435479516",
+      "source": "readme",
+      "company": "Scotiabank",
+      "title": "Manager, Payments Incident Response & Resiliency (Bilingual Spanish)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-payments-incident-response-resiliency-bilingual-spanish-at-scotiabank-4435479516",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-innovation-18-month-contract-at-mccarthy-t%c3%a9trault-4468850071",
+      "source": "readme",
+      "company": "McCarthy Tétrault",
+      "title": "Manager, Innovation (18-month Contract)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-innovation-18-month-contract-at-mccarthy-t%C3%A9trault-4468850071",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-business-continuity-planning-at-manulife-4476811984",
+      "source": "readme",
+      "company": "Manulife",
+      "title": "Manager, Business Continuity Planning",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-business-continuity-planning-at-manulife-4476811984",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/key-account-manager-skf-sealing-solutions-at-skf-group-4466918649",
+      "source": "readme",
+      "company": "SKF Group",
+      "title": "Key Account Manager - SKF Sealing Solutions",
+      "location": "Scarborough, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/key-account-manager-skf-sealing-solutions-at-skf-group-4466918649",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/first-nations-inuit-m%c3%a9tis-candidates-cybersecurity-application-security-analyst-consultant-r8dius-at-deloitte-4460511147",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "First Nations/Inuit/Métis Candidates: Cybersecurity, Application Security Analyst/Consultant -R8dius",
+      "location": "Kitchener, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/first-nations-inuit-m%C3%A9tis-candidates-cybersecurity-application-security-analyst-consultant-r8dius-at-deloitte-4460511147",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/customer-service-representative-at-ge-vernova-4485645646",
+      "source": "readme",
+      "company": "GE Vernova",
+      "title": "Customer Service Representative",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/customer-service-representative-at-ge-vernova-4485645646",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-development-associate-at-jonas-software-4460557436",
+      "source": "readme",
+      "company": "Jonas Software",
+      "title": "Business Development Associate",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-development-associate-at-jonas-software-4460557436",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/associate-software-engineer-new-grad-card-expansion-at-capital-one-4485900607",
+      "source": "readme",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/associate-software-engineer-new-grad-card-expansion-at-capital-one-4485900607",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/asset-management-specialist-contract-at-conestoga-college-4485634689",
+      "source": "readme",
+      "company": "Conestoga College",
+      "title": "Asset Management Specialist (Contract)",
+      "location": "Kitchener, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/asset-management-specialist-contract-at-conestoga-college-4485634689",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/application-support-engineer-front-office-at-synechron-4485125316",
+      "source": "readme",
+      "company": "Synechron",
+      "title": "Application Support Engineer (Front Office)",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/application-support-engineer-front-office-at-synechron-4485125316",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/account-representative-ii-events-canada-at-sme-4485699902",
+      "source": "readme",
+      "company": "SME",
+      "title": "Account Representative II (Events - Canada)",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/account-representative-ii-events-canada-at-sme-4485699902",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/account-executive-at-stan-ai-4483941904",
+      "source": "readme",
+      "company": "STAN AI",
+      "title": "Account Executive",
+      "location": "North York, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/account-executive-at-stan-ai-4483941904",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -11178,6 +12181,108 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-wsd-lead-architect-at-sra-group-4483480898",
+      "source": "readme",
+      "company": "SRA Group",
+      "title": "ServiceNow WSD Lead Architect",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-wsd-lead-architect-at-sra-group-4483480898",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-analyst-product-and-pricing-operations-at-salesforce-4477605552",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Sr. Analyst, Product and Pricing Operations",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-analyst-product-and-pricing-operations-at-salesforce-4477605552",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/qualified-success-architect-sr-success-architect-canada-at-salesforce-4459353831",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Qualified Success Architect / Sr. Success Architect (Canada)",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/qualified-success-architect-sr-success-architect-canada-at-salesforce-4459353831",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-product-pricing-integrations-operations-at-salesforce-4485613624",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Manager, Product, Pricing & Integrations Operations",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-product-pricing-integrations-operations-at-salesforce-4485613624",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/customer-success-manager-core-clouds-at-salesforce-4485363485",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Customer Success Manager - Core Clouds",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/customer-success-manager-core-clouds-at-salesforce-4485363485",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-strategy-senior-manager-canadian-public-sector-experience-services-at-salesforce-4459618920",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Business Strategy Senior Manager - Canadian Public Sector Experience Services",
+      "location": "Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-strategy-senior-manager-canadian-public-sector-experience-services-at-salesforce-4459618920",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:5947007422",
       "source": "adzuna",
       "company": "Amphenol HSIO",
@@ -14545,6 +15650,91 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Staff Systems Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-platform-developer-at-acroynon-4484516741",
+      "source": "readme",
+      "company": "acroynon",
+      "title": "ServiceNow Platform Developer",
+      "location": "Etobicoke, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-developer-at-acroynon-4484516741",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-manager-salesforce-engineering-at-scotiabank-4475490374",
+      "source": "readme",
+      "company": "Scotiabank",
+      "title": "Senior Manager, Salesforce Engineering",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-manager-salesforce-engineering-at-scotiabank-4475490374",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-focus-systems-inc-4484538568",
+      "source": "readme",
+      "company": "Focus Systems Inc.",
+      "title": "Salesforce Revenue Cloud Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-focus-systems-inc-4484538568",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/account-executive-core-canadian-federal-government-at-salesforce-4459352763",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Account Executive - Core (Canadian Federal Government)",
+      "location": "Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/account-executive-core-canadian-federal-government-at-salesforce-4459352763",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:5945773024",
       "source": "adzuna",
       "company": "Maarut",
@@ -16633,6 +17823,75 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/itam-specialist-12-month-remote-contract-in-canada-at-compugen-inc-4483802797",
+      "source": "readme",
+      "company": "Compugen Inc",
+      "title": "ITAM Specialist 12 Month Remote Contract in Canada",
+      "location": "Rankin Location 15 D, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/itam-specialist-12-month-remote-contract-in-canada-at-compugen-inc-4483802797",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-project-manager-at-tata-consultancy-services-4483658132",
+      "source": "readme",
+      "company": "Tata Consultancy Services",
+      "title": "Salesforce Project Manager",
+      "location": "Waterloo, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-project-manager-at-tata-consultancy-services-4483658132",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-cognizant-4474633157",
+      "source": "readme",
+      "company": "Cognizant",
+      "title": "Salesforce Data Cloud Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-cognizant-4474633157",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483760655",
+      "source": "readme",
+      "company": "Co-operators",
+      "title": "Manager, Systems Development - Agentic Salesforce Delivery",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483760655",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:5943424777",
       "source": "adzuna",
       "company": "J M Group Inc",
@@ -16993,6 +18252,40 @@
       "postedDate": "2026-10-26T12:00:00.000Z",
       "scrapedAt": "2026-11-03T04:01:08.583Z",
       "excerpt": "via copilot-20rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-developer-at-alldus-4481484353",
+      "source": "readme",
+      "company": "Alldus",
+      "title": "ServiceNow Developer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-alldus-4481484353",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-global-incentive-compensation-at-salesforce-partner-canada-4483749258",
+      "source": "readme",
+      "company": "Salesforce Partner Canada",
+      "title": "Manager, Global Incentive Compensation",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-global-incentive-compensation-at-salesforce-partner-canada-4483749258",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
@@ -17540,6 +18833,74 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-enterprise-account-executive-at-servicenow-4457043708",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Sr Enterprise Account Executive",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-enterprise-account-executive-at-servicenow-4457043708",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-tech-lead-at-onx-4482355546",
+      "source": "readme",
+      "company": "OnX",
+      "title": "ServiceNow Tech Lead",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-tech-lead-at-onx-4482355546",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-business-systems-analyst-servicenow-at-interac-corp-4465181202",
+      "source": "readme",
+      "company": "Interac Corp.",
+      "title": "Senior Business Systems Analyst (ServiceNow)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-business-systems-analyst-servicenow-at-interac-corp-4465181202",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-se-servicenow-senior-%e2%80%93-psds-et-int%c3%a9grations-at-cgi-4434778042",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Développeur(se) ServiceNow Senior – PSDS et Intégrations",
+      "location": "Sherbrooke, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-se-servicenow-senior-%E2%80%93-psds-et-int%C3%A9grations-at-cgi-4434778042",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "linkedin:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-servicenow-itsm-senior-at-cgi-4434789024",
       "source": "linkedin",
       "company": "CGI",
@@ -17926,6 +19287,57 @@
       "postedDate": "2026-10-23T12:00:00.000Z",
       "scrapedAt": "2026-11-03T04:01:08.583Z",
       "excerpt": "via copilot-20rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-software-engineer-at-steadman-brown-4480664272",
+      "source": "readme",
+      "company": "Steadman Brown",
+      "title": "Salesforce Software Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-software-engineer-at-steadman-brown-4480664272",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-23T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-administrator-at-alten-canada-4481008295",
+      "source": "readme",
+      "company": "ALTEN Canada",
+      "title": "Salesforce Administrator",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-alten-canada-4481008295",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-23T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-global-incentive-compensation-at-salesforce-4455919738",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Manager, Global Incentive Compensation",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-global-incentive-compensation-at-salesforce-4455919738",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-23T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
@@ -18391,6 +19803,75 @@
       "postedDate": "2026-10-22T12:00:00.000Z",
       "scrapedAt": "2026-11-03T04:01:08.583Z",
       "excerpt": "via copilot-20rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/principal-solution-consultant-itsm-north-america-at-valiantys-4482768073",
+      "source": "readme",
+      "company": "Valiantys",
+      "title": "Principal Solution Consultant - ITSM - North America",
+      "location": "Greater Montreal Metropolitan Area",
+      "url": "https://ca.linkedin.com/jobs/view/principal-solution-consultant-itsm-north-america-at-valiantys-4482768073",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-solution-architect-at-broadsign-4458760917",
+      "source": "readme",
+      "company": "Broadsign",
+      "title": "Salesforce Solution Architect",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-broadsign-4458760917",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-developer-at-lancesoft-inc-4481396491",
+      "source": "readme",
+      "company": "LanceSoft, Inc.",
+      "title": "Salesforce Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-lancesoft-inc-4481396491",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/enterprise-account-executive-agentforce-data-360-at-salesforce-4472387074",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Enterprise Account Executive, Agentforce & Data 360",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/enterprise-account-executive-agentforce-data-360-at-salesforce-4472387074",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
@@ -18908,6 +20389,159 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/staff-compliance-analyst-at-servicenow-4482013803",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Staff Compliance Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/staff-compliance-analyst-at-servicenow-4482013803",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-architect-canada-at-ondaro-4481168218",
+      "source": "readme",
+      "company": "Ondaro",
+      "title": "ServiceNow Architect - Canada",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-canada-at-ondaro-4481168218",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-servicenow-developer-at-irving-oil-4482079691",
+      "source": "readme",
+      "company": "Irving Oil",
+      "title": "Senior ServiceNow Developer",
+      "location": "Saint John, New Brunswick, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-irving-oil-4482079691",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-servicenow-at-kpmg-canada-4377545135",
+      "source": "readme",
+      "company": "KPMG Canada",
+      "title": "Manager - ServiceNow",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-at-kpmg-canada-4377545135",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/solution-engineer-pre-sales-all-levels-canada-at-salesforce-4414697223",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Solution Engineer (Pre-Sales) - All Levels (Canada)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/solution-engineer-pre-sales-all-levels-canada-at-salesforce-4414697223",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-j-m-group-4482170684",
+      "source": "readme",
+      "company": "J&M Group",
+      "title": "Salesforce Revenue Cloud Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-j-m-group-4482170684",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-astra-north-infoteck-inc-%7e-conquering-today%e2%80%99s-challenges-achieving-tomorrow%e2%80%99s-vision%21-4481126447",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!",
+      "title": "Salesforce Revenue Cloud Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4481126447",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-developer-digital-customer-future-opportunities-at-deloitte-4473525211",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Salesforce Developer - Digital Customer : Future Opportunities",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-digital-customer-future-opportunities-at-deloitte-4473525211",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-developer-at-j-m-group-4482121662",
+      "source": "readme",
+      "company": "J&M Group",
+      "title": "Salesforce Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-j-m-group-4482121662",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5936615388",
       "source": "adzuna",
       "company": "Periscope Search Group",
@@ -19004,6 +20638,57 @@
       "postedDate": "2026-10-20T12:00:00.000Z",
       "scrapedAt": "2026-11-02T23:11:27.044Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/secret-cleared-servicenow-developer-app-engine-at-alldus-4480466540",
+      "source": "readme",
+      "company": "Alldus",
+      "title": "Secret Cleared ServiceNow Developer - App Engine",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/secret-cleared-servicenow-developer-app-engine-at-alldus-4480466540",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/directeur-servicenow-at-kpmg-canada-4377534881",
+      "source": "readme",
+      "company": "KPMG Canada",
+      "title": "Directeur - ServiceNow",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/directeur-servicenow-at-kpmg-canada-4377534881",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/consultant-senior-consultant-service-now-at-kpmg-canada-4377539863",
+      "source": "readme",
+      "company": "KPMG Canada",
+      "title": "Consultant -Senior Consultant Service Now",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-service-now-at-kpmg-canada-4377539863",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-03T04:02:45.179Z",
+      "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
