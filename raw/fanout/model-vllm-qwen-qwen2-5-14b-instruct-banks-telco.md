@@ -6,7 +6,5 @@ Bank of Montreal | Workday | https://www.bmojobs.com/ | Toronto
 Canadian Imperial Bank of Commerce | Workday | https://www.cibc.com/en/about-us/careers.html | Toronto
 Suncor Energy | Workday | https://www.suncor.com/en-ca/careers | Calgary
 Manulife Financial | Workday | https://www.manulife.ca/en/about/careers/ | Toronto
-Great-West Life | Workday | https://www.iqvia.com/en/jobs | Winnipeg
-Telus | Workday | https://www.telus.com/en/ca/about-telus/careers | Vancouver
-Rogers Communications | Workday | https://www.rogers.com/about/careers | Toronto
-Bell Canada | Workday | https://www.bell.ca/Careers | Montreal
+Great-West Life | Workday | https://www.greatwestlife.com/en/ca/about/careers.html | Winnipeg
+Telus | Workday | https://www.telus.com/en-ca/about-telus/careers | Vancouver

@@ -1,14 +1,5 @@
 # search:firecrawl — 5 queries
 
-## "ServiceNow ITSM Analyst" jobs Toronto posted this week  (ok)
-- [58 Servicenow itsm analyst jobs in Canada - Glassdoor](https://www.glassdoor.ca/Job/servicenow-itsm-analyst-jobs-SRCH_KO0,23.htm)
-- [ServiceNow Platform Expert: ITSM & Integrations - JobLeads](https://www.jobleads.com/ca/job/servicenow-platform-expert-itsm-integrations--toronto--london--montreal--vancouver--e2ebd1bfb9e656bf69cee11deceb03d24)
-- [ServiceNow ITSM Analyst: Admin, Integrations & AI — Newport ...](https://vaughan.ca.expertini.com/job/servicenow-itsm-analyst-admin-integrations-ai-vaughan-newport-williams-3f763e2fe7229738d5fd9f2a949e5a73/amp/)
-- [63 Canada jobs - Work from home | Glassdoor](https://www.glassdoor.co.in/Job/canada-servicenow-itsm-analyst-jobs-SRCH_IL.0,6_IN3_KW7,30.htm)
-- [Canada_ServiceNow ITSM Analyst - BeBee](https://bebee.com/ca/jobs/canada-servicenow-itsm-analyst-lancesoft-toronto--ss-ca-29o8s1)
-- [ServiceNow IT Business Analyst | Platform & Process Expert - JobLeads](https://www.jobleads.com/ca/job/servicenow-it-business-analyst-platform-process-expert--canada--e3b063d7a85fbc092ed474a64e46fca0a)
-- [Contract ServiceNow Developer – ITSM/Integrations (Toronto ...](https://ca.expertini.com/job/contract-servicenow-developer-itsmintegrations-toronto-toronto-brookfield-291-11924879/)
-
 ## "ServiceNow Administrator" jobs Toronto posted this week  (ok)
 - [25 Servicenow Administrator Jobs Hiring Now in Toronto, ON | Indeed](https://ca.indeed.com/q-servicenow-administrator-l-toronto,-on-jobs.html)
 - [1000+ Servicenow Administrator Jobs in Canada - LinkedIn](https://ca.linkedin.com/jobs/servicenow-administrator-jobs)
@@ -19,8 +10,14 @@
 - [ServiceNow Community - ServiceNow Jobs](https://www.servicenow.com/community/servicenow-jobs/ct-p/servicenow-jobs)
 - [ServiceNow Systems Administrator Job at GTT, LLC | CareerBeacon](https://www.careerbeacon.com/en/job-9/4010330/gtt-llc/servicenow-systems-administrator/toronto-on)
 
-## "ServiceNow CSA CAD certified" jobs Toronto posted this week  (ok)
-- [AutomationTools.xyz: Developer Ecosystem Updates and Lead ...](https://www.linkedin.com/posts/jurczyk_automation-tools-activity-7482035501169004544-m92C)
+## "ServiceNow ITSM Analyst" jobs Toronto posted this week  (ok)
+- [58 Servicenow itsm analyst jobs in Canada - Glassdoor](https://www.glassdoor.ca/Job/servicenow-itsm-analyst-jobs-SRCH_KO0,23.htm)
+- [ServiceNow Platform Expert: ITSM & Integrations - JobLeads](https://www.jobleads.com/ca/job/servicenow-platform-expert-itsm-integrations--toronto--london--montreal--vancouver--e2ebd1bfb9e656bf69cee11deceb03d24)
+- [ServiceNow ITSM Analyst: Admin, Integrations & AI — Newport ...](https://vaughan.ca.expertini.com/job/servicenow-itsm-analyst-admin-integrations-ai-vaughan-newport-williams-3f763e2fe7229738d5fd9f2a949e5a73/amp/)
+- [63 Canada jobs - Work from home | Glassdoor](https://www.glassdoor.co.in/Job/canada-servicenow-itsm-analyst-jobs-SRCH_IL.0,6_IN3_KW7,30.htm)
+- [Canada_ServiceNow ITSM Analyst - BeBee](https://bebee.com/ca/jobs/canada-servicenow-itsm-analyst-lancesoft-toronto--ss-ca-29o8s1)
+- [ServiceNow IT Business Analyst | Platform & Process Expert - JobLeads](https://www.jobleads.com/ca/job/servicenow-it-business-analyst-platform-process-expert--canada--e3b063d7a85fbc092ed474a64e46fca0a)
+- [Contract ServiceNow Developer – ITSM/Integrations (Toronto ...](https://ca.expertini.com/job/contract-servicenow-developer-itsmintegrations-toronto-toronto-brookfield-291-11924879/)
 
 ## "Salesforce Consultant" jobs Toronto posted this week  (ok)
 - [Salesforce Consultant jobs in Toronto, ON - Indeed](https://ca.indeed.com/q-salesforce-consultant-l-toronto,-on-jobs.html)
@@ -31,6 +28,9 @@
 - [Salesforce jobs in Toronto, ON - Indeed](https://ca.indeed.com/q-salesforce-l-toronto,-on-jobs.html)
 - [Salesforce Consultant at Toronto International Film Festival in ...](https://www.entertainmentcareers.net/toronto-international-film-festival/salesforce-consultant/job/516368/)
 - [148 Salesforce consultant jobs in Toronto, ON - Glassdoor](https://www.glassdoor.ca/Job/toronto-salesforce-consultant-jobs-SRCH_IL.0,7_IC2281069_KO8,29.htm)
+
+## "ServiceNow CSA CAD certified" jobs Toronto posted this week  (ok)
+- [AutomationTools.xyz: Developer Ecosystem Updates and Lead ...](https://www.linkedin.com/posts/jurczyk_automation-tools-activity-7482035501169004544-m92C)
 
 ## ServiceNow OR Salesforce developer job Mississauga new posting  (ok)
 - [Salesforce Developer jobs in Mississauga, ON - Indeed](https://ca.indeed.com/q-salesforce-developer-l-mississauga,-on-jobs.html)

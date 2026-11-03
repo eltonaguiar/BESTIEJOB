@@ -625,7 +625,7 @@ def applicable(row: dict, days: int, known: set[str]) -> bool:
     return norm(url) not in known
 
 
-def aggregate(days: int, dry_run: bool) -> int:
+def aggregate(days: int, dry_run: bool, max_companies: int = 0) -> int:
     models, searches = load_harvest()
     if not models and not searches:
         print("no harvest files under raw/fanout/ — run --phase harvest first")
@@ -635,7 +635,11 @@ def aggregate(days: int, dry_run: bool) -> int:
 
     # A model names a company, never its board token. Resolve each name by probing
     # the platforms that expose a public board API — a wrong guess 404s harmlessly.
-    names = company_names(models)[:60]
+    # Every proposal is worth probing: a wrong guess 404s harmlessly, and the
+    # earlier [:60] cap silently discarded most of what the models proposed.
+    names = company_names(models)
+    if max_companies:
+        names = names[:max_companies]
     print(f"model-proposed companies: {len(names)}")
     for name in names:
         for platform in RESOLVE_PLATFORMS:
@@ -735,13 +739,15 @@ def main() -> int:
     ap.add_argument("--search-only", action="store_true",
                     help="harvest via search APIs only, keep prior model proposals")
     ap.add_argument("--days", type=int, default=7)
+    ap.add_argument("--max-companies", type=int, default=0,
+                    help="cap model-proposed employers (0 = probe every proposal)")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     if args.phase in ("harvest", "all"):
         harvest(search_only=args.search_only)
     if args.phase in ("aggregate", "all"):
-        return aggregate(args.days, args.dry_run)
+        return aggregate(args.days, args.dry_run, args.max_companies)
     return 0
 
 

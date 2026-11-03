@@ -1,30 +1,30 @@
 # mistral/ministral-8b-2512 — salesforce-partners (ok)
 
-Here’s a curated list of **Summit/Ridge/Crest-level Salesforce consulting partners** and **Canadian Salesforce customers** that hire **Apex developers, Salesforce admins, or technical architects**, formatted as requested:
+Here’s a list of **Summit/Ridge/Crest-level Salesforce consulting partners** and **Canadian Salesforce customers** that hire **Apex developers, Salesforce admins, or technical architects**, formatted as requested:
 
 ---
 
 ### **Salesforce Consulting Partners (Summit/Ridge/Crest) in Canada**
-*(Hiring Salesforce roles across Canada)*
-1. **Accenture** | **Workday** | [https://www.accenture.com/ca-en/careers](https://www.accenture.com/ca-en/careers) | Toronto, Vancouver, Montreal, Calgary
-2. **Deloitte Digital** | **Deloitte Hire** | [https://www2.deloitte.com/ca/en/careers.html](https://www2.deloitte.com/ca/en/careers.html) | Toronto, Ottawa, Montreal, Vancouver
-3. **IBM Global Services** | **IBM Careers** | [https://www.ibm.com/ca-en/careers](https://www.ibm.com/ca-en/careers) | Toronto, Montreal, Calgary
-4. **Slalom Consulting** | **Slalom Careers** | [https://www.slalom.com/careers](https://www.slalom.com/careers) | Vancouver, Calgary, Toronto
-5. **Infosys** | **Infosys Careers** | [https://www.infosys.com/careers](https://www.infosys.com/careers) | Toronto, Montreal, Vancouver
-6. **Wipro** | **Wipro Careers** | [https://www.wipro.com/careers](https://www.wipro.com/careers) | Toronto, Montreal, Calgary
-7. **HCL Technologies** | **HCL Careers** | [https://www.hcltech.com/careers](https://www.hcltech.com/careers) | Toronto, Montreal, Vancouver
-8. **LTIMindtree** | **LTI Careers** | [https://www.ltiworld.com/careers](https://www.ltiworld.com/careers) | Toronto, Montreal, Vancouver
-9. **Mastech Digital** | **Mastech Careers** | [https://www.mastech.com/careers](https://www.mastech.com/careers) | Toronto, Montreal, Vancouver
-10. **Sierra-Cedar** | **Sierra-Cedar Careers** | [https://www.sierra-cedar.com/careers](https://www.sierra-cedar.com/careers) | Toronto, Montreal, Vancouver
-11. **CloudKettle** | **CloudKettle Careers** | [https://www.cloudkettle.com/careers](https://www.cloudkettle.com/careers) | Toronto, Montreal, Vancouver
-12. **Simplus** | **Simplus Careers** | [https://www.simplus.com/careers](https://www.simplus.com/careers) | Toronto, Montreal, Vancouver
-13. **Trailblazer Solutions** | **Trailblazer Careers** | [https://www.trailblazersolutions.com/careers](https://www.trailblazersolutions.com/careers) | Toronto, Montreal, Vancouver
-14. **Cloudingo** | **Cloudingo Careers** | [https://www.cloudingo.com/careers](https://www.cloudingo.com/careers) | Toronto, Montreal, Vancouver
-15. **CloudCentric** | **CloudCentric Careers** | [https://www.cloudcentric.com/careers](https://www.cloudcentric.com/careers) | Toronto, Montreal, Vancouver
+1. **Accenture** | **Workday** | [https://www.accenture.com/ca-en/careers](https://www.accenture.com/ca-en/careers) | Toronto, Vancouver, Montreal
+2. **Deloitte Digital** | **Greenhouse** | [https://www2.deloitte.com/ca/en/careers.html](https://www2.deloitte.com/ca/en/careers.html) | Toronto, Ottawa, Calgary
+3. **IBM Global Services** | **Taleo** | [https://www.ibm.com/ca-en/careers](https://www.ibm.com/ca-en/careers) | Toronto, Montreal, Vancouver
+4. **Slalom** | **Greenhouse** | [https://www.slalom.com/careers](https://www.slalom.com/careers) | Vancouver, Calgary, Toronto
+5. **Infosys** (Simplus) | **Greenhouse** | [https://www.infosys.com/careers](https://www.infosys.com/careers) | Toronto, Montreal, Ottawa
+6. **Wipro** | **Greenhouse** | [https://www.wipro.com/careers](https://www.wipro.com/careers) | Toronto, Vancouver
+7. **HCL Technologies** | **Greenhouse** | [https://www.hcltech.com/careers](https://www.hcltech.com/careers) | Toronto, Montreal
+8. **LTIMindtree** | **Greenhouse** | [https://www.ltimmindtree.com/careers](https://www.ltimmindtree.com/careers) | Toronto, Vancouver
+9. **Mastech Digital** | **Greenhouse** | [https://www.mastech.com/careers](https://www.mastech.com/careers) | Toronto, Montreal
+10. **Sierra-Cedar** | **Greenhouse** | [https://www.sierra-cedar.com/careers](https://www.sierra-cedar.com/careers) | Toronto, Vancouver
+11. **CloudKettle** | **Greenhouse** | [https://www.cloudkettle.com/careers](https://www.cloudkettle.com/careers) | Toronto, Montreal
+12. **Coastal Cloud** | **Greenhouse** | [https://www.coastalcloud.com/careers](https://www.coastalcloud.com/careers) | Toronto, Vancouver
+13. **NeuraFlash** | **Greenhouse** | [https://www.neuraflash.com/careers](https://www.neuraflash.com/careers) | Toronto
+14. **Traction on Demand** | **Greenhouse** | [https://www.tractionondemand.com/careers](https://www.tractionondemand.com/careers) | Toronto, Montreal
+15. **Coveo** | **Greenhouse** | [https://www.coveo.com/careers](https://www.coveo.com/careers) | Montreal, Toronto
 
 ---
 
-### **Canadian Salesforce Customers (Hiring Salesforce Roles)**
-*(Publicly known to use Salesforce and post Salesforce jobs)*
-1. **NeuraFlash** | **Greenhouse** | [https://neuraflash.com/careers](https://neuraflash.com/careers) | Montreal
-2. **Coastal Cloud** | **Greenhouse** | [https://www.coastalcloud.com/careers](https://www.coastal
+### **Canadian Salesforce Customers (Hiring Apex/Architects/Admins)**
+1. **TD Bank Group** | **Greenhouse** | [https://www.td.com/careers](https://www.td.com/careers) | Toronto, Montreal
+2. **RBC (Royal Bank of Canada)** | **Workday** | [https://www.rbc.com/careers](https://www.rbc.com/careers) | Toronto, Vancouver
+3. **Scotiabank** | **Greenhouse** | [https://www.scotiabank.com/careers](https://www.scotiabank.com/careers) | Toronto, Montreal
+4. **BMO (Bank of Montreal)** | **Greenhouse** | [https

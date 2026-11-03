@@ -2,13 +2,13 @@
 
 Royal Bank of Canada | Workday | https://jobs.rbc.com/ | Toronto
 Toronto-Dominion Bank | Workday | https://careers.td.com/ | Toronto
-Scotiabank | Workday | https://www.scotiabank.com/careers/ | Toronto
-Bank of Montreal | Workday | https://www.bmo.com/careers/ | Toronto
-CIBC | Workday | https://www.cibc.com/en/careers.html | Toronto
-Manulife | Workday | https://jobs.manulife.com/ | Toronto
-Sun Life Financial | Taleo | https://www.sunlife.com/careers | Toronto
-Intact Financial | Workday | https://careers.intact.ca/ | Toronto
-Canada Life | SuccessFactors | https://www.canadalife.com/careers | Winnipeg
-Bell Canada | Taleo | https://www.bell.ca/careers | Montreal
-Rogers Communications | Workday | https://www.rogers.com/careers | Toronto
-TELUS | Workday | https://www.telus.com/careers | Vancouver
+Bank of Montreal | Workday | https://jobs.bmo.com/ | Toronto
+Canadian Imperial Bank of Commerce | Taleo | https://www.cibc.com/en/careers.html | Toronto
+Scotiabank | Workday | https://www.scotiabank.com/careers | Toronto
+Manulife | Workday | https://www.manulife.com/en/careers.html | Toronto
+Sun Life Financial | Workday | https://www.sunlife.com/en/careers | Toronto
+Canada Life | Workday | https://www.canadalife.com/careers | Toronto
+Intact Financial | Greenhouse | https://www.intact.ca/en/careers | Toronto
+Bell Canada | Taleo | https://www.bell.ca/about/bell/careers | Toronto
+Rogers Communications | Greenhouse | https://www.rogers.com/careers | Toronto
+Telus | Workday | https://www.telus.com/en/careers | Vancouver
