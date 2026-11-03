@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T22:06:27+00:00",
+ "generatedAt": "2026-11-03T23:11:16+00:00",
  "timezone": "America/Toronto",
  "count": 1411,
  "appliedHidden": 23,
@@ -38,6 +38,7 @@
   "careers.deloitte.ca",
   "careers.equifax.com",
   "careers.ey.com",
+  "careers.kpmg.ca",
   "careers.loblaw.ca",
   "careers.na.panasonic.com",
   "careers.outforundergrad.org",
@@ -12777,38 +12778,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "Senior Consultant, ServiceNow",
-   "company": "KPMG Canada",
-   "location": "Kitchener, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4485296202",
-   "note": "restored after over-merge",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior consultant, servicenow kpmg canada kitchener, ontario, canada linkedin servicenow restored after over-merge servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946243019?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Kitchener"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4382155163",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-30",
    "title": "RQ11686 Senior ServiceNow Developer (Cyber Security Div, MPBSDP)",
    "company": "Ontario Public Service (vendor)",
    "location": "Toronto, ON; onsite",
@@ -13499,6 +13468,42 @@
    "french": false,
    "search": "senior consultant, servicenow - kpmg toronto, ontario unknown / peer claim not verified adzuna servicenow via aicert-harvest-2026-11-03 servicenow role fit",
    "alternates": []
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Senior Consultant, ServiceNow (34437)",
+   "company": "KPMG Canada",
+   "location": "Kitchener, ON",
+   "url": "https://careers.kpmg.ca/jobs/34437",
+   "note": "FT; freshest KPMG SN req",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.kpmg.ca",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior consultant, servicenow (34437) kpmg canada kitchener, on careers.kpmg.ca servicenow ft; freshest kpmg sn req servicenow role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4485296202",
+     "label": "LinkedIn · Kitchener"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946243019?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Kitchener"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4382155163",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-10-30",
