@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T23:01:59+00:00",
+ "generatedAt": "2026-11-03T23:31:43+00:00",
  "timezone": "America/Toronto",
- "count": 415,
+ "count": 416,
  "appliedHidden": 10,
  "sources": [
   "2.halvolink.liveblog365.com",
@@ -314,7 +314,12 @@
    ],
    "french": false,
    "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow  servicenow itam sam/ham role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764"
+    }
+   ]
   },
   {
    "posted": "2026-11-03",
@@ -892,6 +897,27 @@
    ],
    "french": false,
    "search": "intermediate technology specialist, service now developer equitable waterloo, ontario, canada linkedin servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Platform Engineer",
+   "company": "Amphenol Communications Solutions",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-engineer-at-amphenol-communications-solutions-4486308344",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow platform engineer amphenol communications solutions markham, ontario, canada linkedin servicenow  servicenow role fit toronto area",
    "alternates": []
   },
   {
