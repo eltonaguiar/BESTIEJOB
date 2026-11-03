@@ -32,7 +32,9 @@ ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 KEYS = Path.home() / "dbpasses.txt"
 MODEL = "mixedbread-ai/mxbai-embed-large-v1"
-NOISE = re.compile(r"\b(senior|snr|sr|junior|jr|lead|principal|staff|ii|iii|iv|i)\b")
+# Seniority words are NOT stripped: "Developer" and "Senior Developer" are two
+# requisitions at most employers, and GDIT/Cognizant post all three levels.
+NOISE = re.compile(r"\b(inc|ltd|corp|llc)\b")
 SUFFIX = re.compile(r"\b(inc|ltd|corp|corporation|llc|limited|canada|technologies|solutions|group)\b")
 ROW = re.compile(r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*\[([^\]]+)\]\((https?://[^)\s]+)[^)]*\)\s*\|\s*([^|]*)\|\s*([^|]*)\|")
 
@@ -144,6 +146,10 @@ def main() -> int:
             for members in by_co.values():
                 for a in range(len(members)):
                     for b in range(a + 1, len(members)):
+                        ia, ib = idx[members[a]], idx[members[b]]
+                        # embeddings may only confirm an exact-title match
+                        if norm_title(rows[ia]["title"]) != norm_title(rows[ib]["title"]):
+                            continue
                         if cosine(vecs[members[a]], vecs[members[b]]) >= args.threshold:
                             clusters.append([idx[members[a]], idx[members[b]]])
         except Exception as exc:                     # noqa: BLE001
