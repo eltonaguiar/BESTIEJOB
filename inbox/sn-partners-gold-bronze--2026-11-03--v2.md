@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T224044Z: +0 new, 0 duplicate, version 2 -->
 # SN Now Forum Gold+Bronze sponsor sweep — 2026-11-03 ~17:45 ET
 No LIVE employer-verified perm FT net-new.
 ## Soft (verify before apply)
