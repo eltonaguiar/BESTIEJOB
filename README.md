@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T075957Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T090759Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
-  - [ServiceNow jobs (317)](#servicenow-jobs-317)
+  - [ServiceNow jobs (318)](#servicenow-jobs-318)
   - [Salesforce jobs (400)](#salesforce-jobs-400)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,13 +18,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **1117 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **1118 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (317)
+### ServiceNow jobs (318)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 317 postings</strong></summary>
+<details><summary><strong>Show 318 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -123,6 +123,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-30 | [ServiceNow Developer - BFG Enterprise Services](https://ca.indeed.com/cmp/BFG-Enterprise-Services) | Markham, ON (hybrid) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Developer (Canada Remote 1016) - Veracity Ventures Inc.](https://veracity-ventures-inc.careerplug.com/jobs/3602568/apps/new) | Fully remote — Canada | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Developer (CSDM, ITOM, CMDB)](https://www.cofomo.com/en/jobs/84848) | COFOMO | Montreal, QC; hybrid | via grok-job-hunter--2026-11-02--v29.md |
+| 2026-10-30 | [ServiceNow Developer](https://jobs.realventures.com/companies/quotemachine/jobs/98564836-servicenow-developer) | QuoteMachine | Toronto, ON (FT) | Real Ventures/Getro board, repost of archived 97699210; ITSM+HRSD, IntegrationHub, ACLs |
 | 2026-10-30 | [ServiceNow CSM/OMT Architect – 12-Month Contract](https://ca.linkedin.com/jobs/view/servicenow-csm-omt-architect-%E2%80%93-12-month-contract-at-alldus-4481452768) | Alldus | Canada | restored after over-merge |
 | 2026-10-30 | [ServiceNow Business Process Consultant – FSO/CSM](https://www.adzuna.ca/details/5946714109?utm_medium=api&utm_source=54ce986e) | NewRocket | Canada | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Business Process Consultant (R00356212) - Accenture](https://www.jobs.ca/accenture/jobs/servicenow-business-process-consultant-remote-toronto-ontario-canada-e57f2877cf95) | Fully remote — Toronto | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
@@ -396,6 +397,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-02 | [Business Systems Analyst – Salesforce](https://ca.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-salesforce-at-american-iron-metal-aim-4485753160) | American Iron & Metal (AIM) | Montreal, Quebec, Canada | via buffy-critical--2026-11-02--v2.md |
 | 2026-11-02 | [Business Operations Manager](https://ca.linkedin.com/jobs/view/business-operations-manager-at-salesforce-4486187876) | Salesforce | Greater Toronto Area, Canada | via twin 20-round harvest |
 | 2026-11-02 | [Analyste des systèmes d’affaires - Salesforce](https://ca.linkedin.com/jobs/view/analyste-des-syst%C3%A8mes-d%E2%80%99affaires-salesforce-at-american-iron-metal-aim-4485760072) | American Iron &amp; Metal (AIM) | Montreal, Quebec, Canada | via linkedin-guest--2026-11-03--v5.md |
+| 2026-11-01 | [nCino Business Analyst (00070195601)](https://careers.cognizant.com/us-en/jobs/00070195601/ncino-business-analyst/) | Cognizant | Toronto, ON (hybrid) | employer careers site; Salesforce BA 4+ yrs |
 | 2026-11-01 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5948997248) | Docebo | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v21.md |
 | 2026-11-01 | [Senior Salesforce BSA - Financial Services Cloud](https://www.adzuna.ca/details/5949576437) | Procom-b5a780c3 | Toronto, Ontario |  |
 | 2026-11-01 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5949576662) | Benevity | Canada |  |
@@ -598,6 +600,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-29 | [Consultant, Salesforce Development](https://www.adzuna.ca/details/5946006781?utm_medium=api&utm_source=54ce986e) | CIBC | Toronto, Ontario | via other-expansion--2026-11-02--v31.md |
 | 2026-10-29 | [Conseiller(ère) en architecture de solutions Salesforce](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-en-architecture-de-solutions-salesforce-at-caa-qu%C3%A9bec-4485208656) | CAA-Québec | Quebec, Canada | via twin 20-round harvest |
 | 2026-10-29 | [Conseiller principal ou conseillère principale en architecture de solutions Salesforce - FSC et gestion de patrimoine](https://www.adzuna.ca/details/5946006952?utm_medium=api&utm_source=54ce986e) | Alithya | Montréal, Québec | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
+| 2026-10-29 | [CPQ Lead Solution Engineer - Salesforce Conga CPQ/PROS (JREQ203225)](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/CPQ-Lead-Solution-Engineer---Salesforce-Conga-CPQ-PROS_JREQ203225-1) | Thomson Reuters | Eagan MN / Toronto, ON (FT) | employer Workday; Toronto listed as additional location |
 | 2026-10-29 | [Architecte technique, Salesforce-Financial Services Cloud](https://www.adzuna.ca/details/5945995834?utm_medium=api&utm_source=54ce986e) | EY | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-29 | [Administrateur / Développeur Salesforce, niveau senior](https://www.adzuna.ca/details/5945999787?utm_medium=api&utm_source=54ce986e) | Procom-b5a780c3 | Québec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-29 | [Account Executive - Core (Canadian Federal Government)](https://ca.linkedin.com/jobs/view/account-executive-core-canadian-federal-government-at-salesforce-4459352763) | Salesforce | Ontario, Canada | via twin 20-round harvest |
@@ -754,8 +757,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-10 | [Architecte applicatif Salesforce](https://ca.linkedin.com/jobs/view/architecte-applicatif-salesforce-at-national-bank-of-canada-4475624025) | National Bank of Canada | Montreal, Quebec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-09 | [Salesforce Revenue Cloud Architect](https://www.academicjobs.com/university-jobs/salesforce-revenue-cloud-architect/890115) | Job Target | Toronto, ON | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-09 | [Salesforce Lead](https://osidigital.applytojob.com/apply/gv5uSBUcho/Salesforce-Lead) | OSI Digital | Toronto, ON; on-site | via grok-job-hunter--2026-11-02--v55.md |
-| 2026-10-08 | [Salesforce Project Manager](https://job-boards.greenhouse.io/neuraflash/jobs/6220751004) | NeuraFlash | Remote - United States | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
-| 2026-10-08 | [Salesforce Project Manager](https://job-boards.greenhouse.io/neuraflash/jobs/6220750004) | NeuraFlash | Remote - Canada (Alberta, British Columbia, Ontario Only) | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 
 </details>
 
@@ -1262,4 +1263,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T075957Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T090759Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
