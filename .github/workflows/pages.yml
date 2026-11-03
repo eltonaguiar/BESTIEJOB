@@ -8,6 +8,11 @@ on:
       - 'README.md'
       - 'tools/build_site.py'
       - '.github/workflows/pages.yml'
+  schedule:
+    # The hourly scan commits its refresh with [skip ci], so a data-only push
+    # never triggered this workflow and the live page could lag behind main
+    # indefinitely. Redeploy hourly, a little after the :00 scan finishes.
+    - cron: '35 * * * *'
   workflow_dispatch:
 
 permissions:

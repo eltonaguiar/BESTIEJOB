@@ -93,6 +93,107 @@ def norm(text: str) -> str:
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", strip_accents((text or "").lower())).split())
 
 
+LEGAL_TOKENS = {
+    "inc", "incorporated", "ltd", "limited", "llc", "llp", "lp", "corp", "corporation",
+    "co", "company", "plc", "gmbh", "ag", "sa", "sas", "srl", "pty", "pte", "group",
+    "holdings", "the", "canada", "canadian", "private", "pvt",
+}
+
+CITY_TOKENS = {
+    "toronto", "ontario", "ottawa", "mississauga", "brampton", "markham", "vaughan",
+    "richmond", "hill", "scarborough", "north", "york", "etobicoke", "oakville",
+    "hamilton", "kitchener", "waterloo", "london", "windsor", "oshawa", "durham",
+    "peel", "halton", "gta", "montreal", "montr", "quebec", "laval", "brossard",
+    "gatineau", "sherbrooke", "drummondville", "ville", "marie", "calgary", "edmonton",
+    "alberta", "vancouver", "victoria", "burnaby", "surrey", "winnipeg", "manitoba",
+    "regina", "saskatoon", "saskatchewan", "halifax", "scotia", "fredericton", "moncton",
+    "john", "remote", "hybrid", "onsite", "site", "region", "area", "greater", "city",
+    "national", "capital", "ont", "que", "alb", "bc", "mb", "sk", "ns", "nb", "nl",
+    "usa", "us",
+}
+
+
+def canon_company(name: str) -> str:
+    """Employer identity: drop parenthetical aliases, legal suffixes and country noise so
+    "TD" / "TD Bank" / "TD Bank Group" and "Celestica" / "Celestica International LP"
+    resolve to the same employer."""
+    s = strip_accents(name or "").lower()
+    s = re.sub(r"\([^)]*\)", " ", s)
+    s = re.sub(r"\b(?:an?|the)\s+(?:ibm|cgi|deloitte)\s+company\b", " ", s)
+    s = re.sub(r"[^a-z0-9 ]", " ", s)
+    return " ".join(t for t in s.split() if t not in LEGAL_TOKENS)
+
+
+CONNECTORS = {"and", "of", "the", "for", "at", "in", "de", "du", "la", "le", "des", "et"}
+
+
+def _initials(name: str) -> str:
+    """\"Workplace Safety and Insurance Board\" -> \"wsib\" (connector words ignored)."""
+    return "".join(t[0] for t in canon_company(name).split()
+                   if len(t) > 1 and t not in CONNECTORS)
+
+
+def companies_related(a: str, b: str) -> bool:
+    """Same employer written two ways: equal after canonicalisation, one name a token
+    subset of the other (Telus / Telus Communications), or an initialism pairing
+    (WSIB / Workplace Safety and Insurance Board)."""
+    ca, cb = canon_company(a), canon_company(b)
+    if not ca or not cb:
+        return False
+    if ca == cb:
+        return True
+    ta, tb = set(ca.split()), set(cb.split())
+    if ta.issubset(tb) or tb.issubset(ta):
+        small = ta if ta.issubset(tb) else tb
+        return any(len(t) > 2 for t in small)
+    for short, long_ in ((ca, cb), (cb, ca)):
+        if " " not in short and 2 <= len(short) <= 6 and _initials(long_) == short:
+            return True
+    return False
+
+
+def req_ids(text: str) -> set[str]:
+    """Requisition numbers written into titles: "(job 1209)", "R00356212", "(526327)". """
+    s = strip_accents(text or "").lower()
+    ids: set[str] = set()
+    for m in re.finditer(r"\b(?:job|req|requisition|ref)\s*#?\s*(\d{3,})\b", s):
+        ids.add(m.group(1))
+    for m in re.finditer(r"\b(r0\d{6,}|rq\d{3,})\b", s):
+        ids.add(m.group(1))
+    for m in re.finditer(r"\((\d{5,})\)", s):
+        ids.add(m.group(1))
+    return ids
+
+
+def canon_title(title: str, company: str = "") -> str:
+    """Title identity with the parts that differ between mirrors removed: bracketed
+    noise ("(ITSM)", "(EN/FR)", "(job 1209)"), requisition digits, and a trailing
+    city/vendor clause ("- WSIB", ", Toronto, ON")."""
+    s = strip_accents(title or "").lower()
+    s = re.sub(r"[\\[(][^\\])]*[\\])]", " ", s)
+    s = re.sub(r"\b(?:job|req|requisition|ref)\s*#?\s*\d{3,}\b", " ", s)
+    s = re.sub(r"\b(?:r0\d{6,}|rq\d{3,})\b", " ", s)
+    s = re.sub(r"\b\d{5,}\b", " ", s)
+    toks = re.sub(r"[^a-z0-9 ]", " ", s).split()
+    comp = set(canon_company(company).split())
+    while len(toks) > 2 and (toks[-1] in CITY_TOKENS or toks[-1] in comp or toks[-1] in LEGAL_TOKENS):
+        toks.pop()
+    return " ".join(toks)
+
+
+def titles_related(a: str, b: str) -> bool:
+    """Canonical titles equal, or one a word-prefix of the other ("salesforce developer"
+    vs "salesforce developer canada")."""
+    if not a or not b:
+        return False
+    ca, cb = canon_title(a), canon_title(b)
+    if ca == cb:
+        return True
+    ta, tb = ca.split(), cb.split()
+    shorter, longer = (ta, tb) if len(ta) <= len(tb) else (tb, ta)
+    return longer[:len(shorter)] == shorter
+
+
 def source_of(url: str) -> str:
     low = (url or "").lower()
     for needle, label in SOURCE_RULES:
