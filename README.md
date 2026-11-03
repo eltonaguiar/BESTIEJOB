@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T214113Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T214456Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
-  - [ServiceNow jobs (150)](#servicenow-jobs-150)
+  - [ServiceNow jobs (148)](#servicenow-jobs-148)
   - [Salesforce jobs (150)](#salesforce-jobs-150)
   - [Other jobs (149)](#other-jobs-149)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,19 +18,20 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **449 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **447 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (150)
+### ServiceNow jobs (148)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 150 postings</strong></summary>
+<details><summary><strong>Show 148 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-03 | [What is ServiceNow ITSM? - A Guide to Information Technology Service Management](https://www.stand8.io/resources/servicenow-itsm) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [The CMDB Senior Developer in Toronto Ontario, ON - J&M Group](https://ca.trabajo.org/job-5018-da456835dc3f44dd12a7729a00d19098) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Technical Lead for ServiceNow Solutions in Halifax, Nova Scotia - MDAEdge](https://ca.trabajo.org/job-4011-33d3dcea70d744a82e8b7e64b8731cf2) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Tech Mahindra hiring for Senior ServiceNow Developer - ITSM](https://jobs.weekday.works/tech-mahindra-senior-servicenow-developer---itsm) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Staff Database Engineer - ServiceNow / Built In](https://builtin.com/job/staff-database-engineer/10971918) | Built In](https://builtin.com/job/staff-database-engineer/10971918) | Unknown | Canada |
 | 2026-11-03 | [Sr. Tech Consultant(Servicenow Development) in Toronto, Ontario - Themesoft Inc.](https://ca.trabajo.org/job-4112-b29b87a9d244b3b4cdcb88ea8d74037b) | Unknown | Canada | 9/10 |
 | 2026-11-03 | [Sr. Partner Manager at ServiceNow](https://meterwork.com/job/sr-partner-manager_at_servicenow_6MLv7) | Unknown | Canada | 8/10 |
@@ -62,11 +63,13 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-03 | [ServiceNow SAM Administrator - ITAM](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096) | BMO | Toronto, ON, CAN |  |
 | 2026-11-03 | [ServiceNow Project Manager in Greater Toronto Area, ON - Opensity Solutions](https://ca.trabajo.org/job-5018-a916db0e4ff201dea6718a4c6620d079) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [ServiceNow Product and Delivery Manager, Deloitte Global Technology in Toronto Ontario, ON - Deloitte](https://ca.trabajo.org/job-5018-8dd014364c5e1a56eef91ad3a1a0cdab) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [ServiceNow Platform Developer](https://group.bnpparibas/en/careers/job-offer/servicenow-platform-developer) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [ServiceNow Implementation Partner / Prosigns CA](https://prosigns.io/ca/services/servicenow/) | Prosigns CA](https://prosigns.io/ca/services/servicenow/) | Unknown | Canada |
 | 2026-11-03 | [ServiceNow Implementation Consultant in  / Careers at Canada](https://careers-cayuseholdings.icims.com/jobs/3910/servicenow-implementation-consultant/job) | Careers at Canada](https://careers-cayuseholdings.icims.com/jobs/3910/servicenow-implementation-consultant/job) | Unknown | Canada |
 | 2026-11-03 | [ServiceNow ITOM & ITAM Setup and Configuration - 2025RFP-25 / MERX](https://www.merx.com/public/supplier/solicitations/notice/443316667521/abstract) | MERX](https://www.merx.com/public/supplier/solicitations/notice/443316667521/abstract) | Unknown | Canada |
 | 2026-11-03 | [ServiceNow ITAM Specialist Consultant Role in Winnipeg MB, Winnipeg Census Division, MB; Manitoba - SoftwareONE Deutschland](https://ca.trabajo.org/job-2844-bed0580aaae66ba863f10aa6f32d4070) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [ServiceNow IT Asset Management Consultant (ITAMHAM) Jobs in Astra North Infoteck Inc. in Montreal - Canada / Dr. Job](https://www.drjobpro.com/canada/jobs/servicenow-it-asset-management-consultant-itamham-montreal-astra-north-infoteck-inc-MPJRA63S1ED3Y08) | Dr. Job](https://www.drjobpro.com/canada/jobs/servicenow-it-asset-management-consultant-itamham-montreal-astra-north-infoteck-inc-MPJRA63S1ED3Y08) | Unknown | Canada |
+| 2026-11-03 | [ServiceNow Developer - Telus Digital / Apply Now July / TryApplyNow](https://www.tryapplynow.com/jobs/telus-digital-servicenow-developer-23bce5d9-17a5-43df-89de-a3e221b3d28c) | Apply Now July | TryApplyNow](https://www.tryapplynow.com/jobs/telus-digital-servicenow-developer-23bce5d9-17a5-43df-89de-a3e221b3d28c) | Unknown |
 | 2026-11-03 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |  |
 | 2026-11-03 | [ServiceNow Consultant - REMOTE](https://ca.linkedin.com/jobs/view/servicenow-consultant-remote-at-ntt-data-north-america-4478715652) | NTT DATA North America | Ottawa, Ontario, Canada |  |
 | 2026-11-03 | [ServiceNow CMDB Integration / ITSM Enhancer Documentation](https://docs.flexera.com/itsm-enhancer/servicenow-connector/replicated-asset-information/servicenow-cmdb-integration) | ITSM Enhancer Documentation](https://docs.flexera.com/itsm-enhancer/servicenow-connector/replicated-asset-information/servicenow-cmdb-integration) | Unknown | Canada |
@@ -105,6 +108,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-03 | [Job Board             - Job Detail: Bank of Montreal (BMO) - Business System Analyst-ServiceNow - R260023407 Toronto](https://msen.vfairs.com/vfair/en/jb/detail?is_partial=false&job_id=2407787) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Intermediate Technology Specialist, Service Now Developer](https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-service-now-developer-at-equitable-4485018083) | Equitable | Waterloo, Ontario, Canada |  |
 | 2026-11-03 | [ITSM Business Architect at Strategize it Inc.](https://jobgether.com/offer/6a7fcf56490731f1e1a1ff78-itsm-business-architect) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [House of Commons (Canada) / Chambre des communes (Canada) ServiceNow Developer (Digital Product Developer) / SmartRecruiters](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000117272647-servicenow-developer-digital-product-developer-) | SmartRecruiters](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000117272647-servicenow-developer-digital-product-developer-) | Unknown | Canada |
 | 2026-11-03 | [Freshservice ITSM Administrator - AspiringIT / BeBee](https://bebee.com/ca/jobs/freshservice-itsm-administrator-aspiringit--theirstack-710230497) | BeBee](https://bebee.com/ca/jobs/freshservice-itsm-administrator-aspiringit--theirstack-710230497) | Unknown | Canada |
 | 2026-11-03 | [FSO-ServiceNow Developer](https://ca.linkedin.com/jobs/view/fso-servicenow-developer-at-national-bank-of-canada-4484699845) | National Bank of Canada | Montreal, Quebec, Canada |  |
 | 2026-11-03 | [Elite ServiceNow Partner Everforth GlideFast Expands from U.S. to Canada](https://blog.glidefast.com/elite-servicenow-partner-glidefast-consulting-expands-from-u-s-to-canada) | Unknown | Canada | 9/10 |
@@ -172,12 +176,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-31 | [ServiceNow Systems Administrator](https://www.adzuna.ca/details/5948015907) | GTT, LLC | Toronto, Ontario |  |
 | 2026-10-31 | [ServiceNow Discovery Developer](https://ca.linkedin.com/jobs/view/servicenow-discovery-developer-at-scotiabank-4413829229) | Scotiabank | Toronto, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
 | 2026-10-31 | [ServiceNow Developer- 26-16925](https://www.adzuna.ca/details/5948016541?utm_medium=api&utm_source=54ce986e) | US Tech Solutions, Inc. | Ottawa, Ottawa region |  |
-| 2026-10-31 | [ServiceNow Consultant / Developer](https://www.adzuna.ca/details/5948006803?utm_medium=api&utm_source=54ce986e) | Artech LLC | Unionville, York region | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
-| 2026-10-31 | [ServiceNow Consultant - REMOTE](https://www.adzuna.ca/details/5948024837?utm_medium=api&utm_source=54ce986e) | NTT DATA | Ottawa, Ottawa region |  |
-| 2026-10-31 | [ServiceNow Business System Architect - CGI](https://ca.linkedin.com/jobs/view/servicenow-business-system-architect-at-cgi-4475089095) | Ontario | LinkedIn card 2026-10-31; employer posting not isolated |  |
-| 2026-10-31 | [ServiceNow Business System Architect (J0926-2617)](https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2617&BRID=&lang=1) | CGI | Toronto, ON; hybrid | via grok-job-hunter--2026-11-02--v9.md |
-| 2026-10-31 | [Senior ServiceNow Architect](https://www.adzuna.ca/details/5948277202) | Optovia | Ottawa, Ottawa region |  |
-| 2026-10-31 | [Senior ITSM Specialist](https://ca.linkedin.com/jobs/view/senior-itsm-specialist-at-master-4466299879) | Master | Montreal, Quebec, Canada | via buffy-round3--2026-11-02--v3.md |
 
 </details>
 
@@ -280,6 +278,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-03 | [Orion Global Solutions hiring Sr. Salesforce Developer - Canada in Toronto, Ontario, Canada / LinkedIn](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-canada-at-orion-global-solutions-4377034503) | LinkedIn](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-canada-at-orion-global-solutions-4377034503) | Unknown | Canada |
 | 2026-11-03 | [Lead Salesforce Platform Developer - Sequoia Connect / Built In](https://builtin.com/job/lead-salesforce-platform-developer/10758210) | Built In](https://builtin.com/job/lead-salesforce-platform-developer/10758210) | Unknown | Canada |
 | 2026-11-03 | [Junior Salesforce Developer - Electric Mind / Built In](https://builtin.com/job/junior-salesforce-developer/6885152) | Built In](https://builtin.com/job/junior-salesforce-developer/6885152) | Unknown | Canada |
+| 2026-11-03 | [Junior Salesforce Administrator – Queen's University – permanent job Kingston, ON](https://ca.talent.com/view?id=629665936273511589) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [Jobs Salesforce Engineer 01-06-2026 Vancouver](https://jobcanadian.com/salesforce-engineer-job44272) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [Jobgether - Salesforce AgentForce Specialist/Developer](https://jobs.lever.co/jobgether/10c2f6bd-b3e6-495e-ab80-1e4278fa1127) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Job Application for Senior Salesforce Developer at Launchpad Technologies](https://job-boards.greenhouse.io/launchpadtechnologiesinc/jobs/4699463006) | Unknown | Canada | 8/10 |
@@ -338,7 +337,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-01 | [Salesforce Administrator — Natural Health — Hybrid in Toronto — $60-75k Benefits](https://www.adzuna.ca/details/5948993217?utm_medium=api&utm_source=54ce986e) | White Bay | Toronto, Ontario | Salesforce Adzuna 5948993217 — same vacancy as Adzuna 5948025592 (Oct 31) |
 | 2026-11-01 | [Salesforce Administrator](https://www.adzuna.ca/details/5948986828?utm_medium=api&utm_source=54ce986e) | RideCo | Waterloo, Ontario | Salesforce Adzuna 5948986828 |
 | 2026-11-01 | [QM – Salesforce Tester](https://ca.linkedin.com/jobs/view/qm-%E2%80%93-salesforce-tester-at-tata-consultancy-services-4485403209) | Tata Consultancy Services | Toronto, Ontario, Canada | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
-| 2026-11-01 | [Marketing Cloud Solution Architect (Remote)](https://www.adzuna.ca/details/5949286092?utm_medium=api&utm_source=54ce986e) | CloudKettle Inc | Toronto, Ontario | Salesforce Adzuna 5949286092 |
 
 </details>
 
@@ -358,8 +356,16 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-03 | [Survey CAD Technician (Intermediate/Senior) in Halifax, Nova Scotia / Careers at Halifax - Chain Lake Drive, NS](https://external-dillon.icims.com/jobs/4107/survey-cad-technician-%28intermediate-senior%29/job) | Careers at Halifax - Chain Lake Drive, NS](https://external-dillon.icims.com/jobs/4107/survey-cad-technician-%28intermediate-senior%29/job) | Unknown | Canada |
 | 2026-11-03 | [Strategic Account Manager - Home and Commercial at CSA Group / Hiring.Camp](https://hiring.camp/job/bZ09jW) | Hiring.Camp](https://hiring.camp/job/bZ09jW) | Unknown | Canada |
 | 2026-11-03 | [Software Engineer- I - PheedLoop Inc. / Toronto, ON](https://www.simplyhired.ca/job/O9bFXPDSrdyt4y5Wte-nOHejLcf-JanuMaHcBXAT9EZynkSt5vLU5Q) | Toronto, ON](https://www.simplyhired.ca/job/O9bFXPDSrdyt4y5Wte-nOHejLcf-JanuMaHcBXAT9EZynkSt5vLU5Q) | Unknown | Canada |
+| 2026-11-03 | [Software Engineer I, Backend (ML Platform)](https://ca.linkedin.com/jobs/view/software-engineer-i-backend-ml-platform-at-affirm-4120708154) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Software Engineer I at TD Bank Group in Toronto, Canada -…](https://confidential.careers/job-detail/software-engineer-i-td-bank-group-toronto) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Software Engineer I - Core Product - Notification Platform Team at PagerDuty • Jobs for Developers](https://jobsfordevelopers.com/jobs/software-engineer-i-core-product-notification-platform-team-at-pagerduty-com-may-22-2026-86f978) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Software Engineer I (P1) / Apply Now August / TryApplyNow](https://www.tryapplynow.com/jobs/qualifacts-software-engineer-i-p1-ad76fb95-dd69-4837-8846-6413f076da38) | Apply Now August | TryApplyNow](https://www.tryapplynow.com/jobs/qualifacts-software-engineer-i-p1-ad76fb95-dd69-4837-8846-6413f076da38) | Unknown |
+| 2026-11-03 | [Software Engineer I](https://jobs.weekday.works/sprypoint-software-engineer-i) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Software Engineer 1 (Full-Stack)](https://jobgether.com/offer/6a869f08a55bd7e3ae0c81ee-software-engineer-1-full-stack) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Software Developer at Fidelity Canada in Toronto, Ontario J54115](https://www.talentify.io/job/software-developer-toronto-ontario-ca-fidelity-canada-j54115) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Software Developer I - Platform Engineering / HubMub](https://www.hubmub.com/jobs/936309/software-developer-i-platform-engineering) | HubMub](https://www.hubmub.com/jobs/936309/software-developer-i-platform-engineering) | Unknown | Canada |
+| 2026-11-03 | [Software Developer I - Platform Engineering / HubMub](https://link.hubmub.com/jobs/936309/software-developer-i-platform-engineering) | HubMub](https://link.hubmub.com/jobs/936309/software-developer-i-platform-engineering) | Unknown | Canada |
+| 2026-11-03 | [Software Developer I (Front End) / HubMub](https://www.hubmub.com/jobs/543963/software-developer-i-front-end) | HubMub](https://www.hubmub.com/jobs/543963/software-developer-i-front-end) | Unknown | Canada |
 | 2026-11-03 | [Software Asset Manager at RBC](https://meterwork.com/job/software-asset-manager_at_rbc_tK3vf) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Senior Technology Developer (REMOTE) in Chantilly, Virginia / ClearedJobs](https://clearedjobs.net/job/senior-technology-developer-remote-chantilly-virginia-1922097) | ClearedJobs](https://clearedjobs.net/job/senior-technology-developer-remote-chantilly-virginia-1922097) | Unknown | Canada |
 | 2026-11-03 | [Senior Technology Developer (REMOTE) @ Koniag Government Services, LLC](https://www.tealhq.com/job/senior-technology-developer_7ea1a96ee60de18c3f7301a637eb7623d3c2c) | Unknown | Canada | 8/10 |
@@ -382,7 +388,9 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-03 | [Professional, Engineering, PLM and CAD for Aircraft Design and Development Job Details / Bombardier](https://jobs.bombardier.com/job/Dorval-Professional%2C-Engineering%2C-PLM-and-CAD-for-Aircraft-Design-and-Development-Qu%C3%A9b-H4S-1Y9/1276497301/) | Bombardier](https://jobs.bombardier.com/job/Dorval-Professional%2C-Engineering%2C-PLM-and-CAD-for-Aircraft-Design-and-Development-Qu%C3%A9b-H4S-1Y9/1276497301/) | Unknown | Canada |
 | 2026-11-03 | [Product Designer at Invictus Direct in Vancouver, Canada -…](https://confidential.careers/job-detail/product-designer-invictus-direct-vancouver) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [Process Lead Architect, Customer Service Management Job Details / Deloitte](https://careers.deloitte.ca/job/Toronto%2C-ON-Process-Lead-Architect-Customer-Service-Management-ON-M5C-3G7/1349400900/) | Deloitte](https://careers.deloitte.ca/job/Toronto%2C-ON-Process-Lead-Architect-Customer-Service-Management-ON-M5C-3G7/1349400900/) | Unknown | Canada |
+| 2026-11-03 | [Platform Support Analyst in Toronto, Ontario - Kensington](https://ca.trabajo.org/job-5475-8fc06ad16803ba01f3eb23273ec744d6) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Platform Support Analyst (L1) / Apply Now July / TryApplyNow](https://www.tryapplynow.com/jobs/range-platform-support-analyst-l1-7c5f5e07-5104-4d5e-8f54-869f10767143) | Apply Now July | TryApplyNow](https://www.tryapplynow.com/jobs/range-platform-support-analyst-l1-7c5f5e07-5104-4d5e-8f54-869f10767143) | Unknown |
+| 2026-11-03 | [Platform Support Analyst (L1) - TripArc / Built In](https://builtin.com/job/platform-support-analyst-l1/8950114) | Built In](https://builtin.com/job/platform-support-analyst-l1/8950114) | Unknown | Canada |
 | 2026-11-03 | [Platform Support Analyst (L1)  / Range / Toronto](https://jobera.com/job/range-platform-support-analyst-l1-50985270/) | Range | Toronto](https://jobera.com/job/range-platform-support-analyst-l1-50985270/) | Unknown |
 | 2026-11-03 | [Platform Engineer I - Machine Learning Infrastructure at Spotify](https://huntr.co/job/6829429ddd3e790052439989) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Platform Engineer I - Machine Learning Infrastructure](https://www.jointaro.com/jobs/spotify/platform-engineer-i-machine-learning-infrastructure/) | Unknown | Canada | 8/10 |
@@ -403,6 +411,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-03 | [Job Opportunities / JLI Consulting Talent Search](https://www.jliconsulting.ca/job-opportunities) | JLI Consulting Talent Search](https://www.jliconsulting.ca/job-opportunities) | Unknown | Canada |
 | 2026-11-03 | [Job Application for Platform Administrator at Hut 8](https://job-boards.greenhouse.io/hut8/jobs/5014172008) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Intermediate Bridge CAD Designer in Toronto, Ontario - GHD](https://ca.trabajo.org/job-4011-43a1934f8c8e77c3cbea88fdae096ae6) | Unknown | Canada | 6/10 |
+| 2026-11-03 | [Int. Application Administrator for our higher education client's DXP platform](https://www.sisystems.com/jobs/int-application-administrator-for-our-higher-education-client-s-dxp-platform/320039003600350034003300/) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [IT Support Administrator I / Affirm / 63k-83k/year / Toronto / August 2026](https://jobera.com/job/affirm-it-support-administrator-i-f82c8792/) | Affirm | 63k-83k/year | Toronto |
 | 2026-11-03 | [IT Support Administrator I - Affirm / Built In](https://builtin.com/job/it-support-administrator-i/10834586) | Built In](https://builtin.com/job/it-support-administrator-i/10834586) | Unknown | Canada |
 | 2026-11-03 | [GTM Engineer at Auvik Networks - Remote / Jobless](https://www.jobless.dev/jobs/gtm-engineer-at-auvik-networks-fcbb24ef) | Jobless](https://www.jobless.dev/jobs/gtm-engineer-at-auvik-networks-fcbb24ef) | Unknown | Canada |
@@ -411,27 +420,33 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-03 | [Field Service Representative (m/f/d) - Northeast Germany at Canadian Standards Association](https://jobgether.com/offer/69b98fbd24d79271ee09a35e-field-service-representative-m-f-d---northeast-germany) | Unknown | Canada | 2/10 |
 | 2026-11-03 | [Elevation Technical Services](https://www.elevationtech.ca/careers/survey-cad-vdc-specialist) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Drafter / CAD Operator (Remote) - Insite Construction Surveys Inc. / Remote](https://www.simplyhired.ca/job/wUa-kdFAMhbU-6sxslS6N-zBZRdIVzfhPkalfwAw7ZRg7h8KtQcNTg) | Remote](https://www.simplyhired.ca/job/wUa-kdFAMhbU-6sxslS6N-zBZRdIVzfhPkalfwAw7ZRg7h8KtQcNTg) | Unknown | Canada |
+| 2026-11-03 | [Developer - Entry Level at Navcanada • $91k – $115k / Hiring.Camp](https://hiring.camp/job/KV8Qrj) | Hiring.Camp](https://hiring.camp/job/KV8Qrj) | Unknown | Canada |
 | 2026-11-03 | [Consultant, Certinia PSA in Halifax, Nova Scotia - Deloitte](https://ca.trabajo.org/job-4112-8984fa0e2e9c9badd2c5b8efca5c7f55) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Computer Application Support – Senior – Randstad Canada – temporary job Ottawa, ON](https://ca.talent.com/view?id=629474191697976523) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [Co-op Student Standards (1-year contract starting September 2026) Jobs in CSA Group in Toronto - Canada / Dr. Job](https://www.drjobpro.com/canada/jobs/co-op-student-standards-1-year-contract-starting-september-2026-toronto-csa-group-MPGNTFNO1EYPBBI) | Dr. Job](https://www.drjobpro.com/canada/jobs/co-op-student-standards-1-year-contract-starting-september-2026-toronto-csa-group-MPGNTFNO1EYPBBI) | Unknown | Canada |
 | 2026-11-03 | [Clinical Research Associate - Oncology - Western Canada - Remote/Field](https://ca.linkedin.com/jobs/view/clinical-research-associate-oncology-western-canada-remote-field-at-icon-strategic-solutions-4199886756) | Unknown | Canada | 3/10 |
 | 2026-11-03 | [Civil/Structural Designer in Toronto, Ontario / Careers at Canada - Remote](https://careers-epeconsulting.icims.com/jobs/2147/civil-designer---civil-3d-cad-designer-%28energy-infrastructure%29/job) | Careers at Canada - Remote](https://careers-epeconsulting.icims.com/jobs/2147/civil-designer---civil-3d-cad-designer-%28energy-infrastructure%29/job) | Unknown | Canada |
 | 2026-11-03 | [Careers — MRDK](https://menarddworkind.com/en/careers) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [Careers at Sony Interactive Entertainment I Software Engineer, Front End (Contract)](https://careers.playstation.com/software-engineer-front-end-contract/job/5789788004) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [Career opportunities / OTIP RAEO](https://www.otip.com/why-otip/careers/job-detail?postingId=3743990008278296) | OTIP RAEO](https://www.otip.com/why-otip/careers/job-detail?postingId=3743990008278296) | Unknown | Canada |
 | 2026-11-03 | [CRM Developer and Data Analyst](https://ca.linkedin.com/jobs/view/crm-developer-and-data-analyst-at-caldwell-investment-management-ltd-4486062128) | Caldwell Investment Management Ltd. | Toronto, Ontario, Canada | Data / BI |
+| 2026-11-03 | [CATALIS - Software Developer I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4281997) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [CAD Mechanical Design Engineer in Markham ON, ON - Ionada Canada Corporation](https://ca.trabajo.org/job-5018-c59e978cccfe9c57cf5fda055dfab821) | Unknown | Canada | 3/10 |
 | 2026-11-03 | [CAD Engineer - Fully Remote / Upto $90/hr – Mercor – Remote job Toronto, ON](https://ca.talent.com/view?id=626159697676413291) | Upto $90/hr – Mercor – Remote job Toronto, ON](https://ca.talent.com/view?id=626159697676413291) | Unknown | Canada |
 | 2026-11-03 | [CAD 2 – GIS Operate in Burnaby British Columbia, BC - BC Hydro](https://ca.trabajo.org/job-5018-c98b4e6cfc23d077a97f512812175ae1) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Azure Google AI/ML Associate Platform Engineer I - TD Bank / Built In](https://builtin.com/job/azure-google-ai-ml-associate-platform-engineer-i/9459275) | Built In](https://builtin.com/job/azure-google-ai-ml-associate-platform-engineer-i/9459275) | Unknown | Canada |
 | 2026-11-03 | [Ateko, backed by Bell Canada Jobs & Careers in Canada / Jobs.ca](https://www.jobs.ca/ateko-backed-by-bell-canada) | Jobs.ca](https://www.jobs.ca/ateko-backed-by-bell-canada) | Unknown | Canada |
 | 2026-11-03 | [Apply for  Site Reliability Engineer I  / Loblaw](https://careers.loblaw.ca/site-reliability-engineer-i/job/PAF-LCL-2BD8E00E-33F5-4749-8CE3-C97727FF4FEA_4479_1771358409_0) | Loblaw](https://careers.loblaw.ca/site-reliability-engineer-i/job/PAF-LCL-2BD8E00E-33F5-4749-8CE3-C97727FF4FEA_4479_1771358409_0) | Unknown | Canada |
 | 2026-11-03 | [Application Developer in Markham, Ontario / Careers at Adastra Head Office (Markham)](https://careers-adastragrp.icims.com/jobs/5645/application-developer/job) | Careers at Adastra Head Office (Markham)](https://careers-adastragrp.icims.com/jobs/5645/application-developer/job) | Unknown | Canada |
 | 2026-11-03 | [Agentforce Specialist. - Pluvo AI Consulting / BeBee](https://bebee.com/ca/jobs/agentforce-specialist-pluvo-ai-consulting--theirstack-678139971) | BeBee](https://bebee.com/ca/jobs/agentforce-specialist-pluvo-ai-consulting--theirstack-678139971) | Unknown | Canada |
+| 2026-11-03 | [AI Platform Administrator at LE005 ABC Fitness Solutions, LLC](https://startup.jobs/ai-platform-administrator-le005-abc-fitness-solutions--9002306) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [ADL Dental Laboratories Inc. hiring Experienced Dental Technician - CAD/CAM in Markham, Ontario, Canada / LinkedIn](https://ca.linkedin.com/jobs/view/experienced-dental-technician-cad-cam-at-adl-dental-laboratories-inc-4427753533) | LinkedIn](https://ca.linkedin.com/jobs/view/experienced-dental-technician-cad-cam-at-adl-dental-laboratories-inc-4427753533) | Unknown | Canada |
 | 2026-11-03 | [89   Front End Developer Remote Jobs in Canada](https://ca.linkedin.com/jobs/front-end-developer-remote-jobs) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [86   Cgi Jobs in Toronto](https://ca.linkedin.com/jobs/cgi-jobs-toronto-on) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [8,000+   Developer Jobs in Canada](https://ca.linkedin.com/jobs/developer-jobs) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [76   Occupational Health And Safety Specialist Jobs in Toronto](https://ca.linkedin.com/jobs/occupational-health-and-safety-specialist-jobs-toronto-on) | Unknown | Canada | 6/10 |
 | 2026-11-03 | [45   Entry Level Law Jobs in Toronto](https://ca.linkedin.com/jobs/entry-level-law-jobs-toronto-on) | Unknown | Canada | 0/10 |
+| 2026-11-03 | [42   Cgi Technical Support Jobs in Canada](https://ca.linkedin.com/jobs/cgi-technical-support-jobs) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [4,000+   Remote Developer Jobs in Canada](https://ca.linkedin.com/jobs/remote-developer-jobs) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [389   Implementation Consultant Jobs in Toronto](https://ca.linkedin.com/jobs/implementation-consultant-jobs-toronto-on) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [36   Creative Technologist Jobs in Toronto](https://ca.linkedin.com/jobs/creative-technologist-jobs-toronto-on) | Unknown | Canada | 8/10 |
@@ -482,23 +497,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-02 | [.Net Full Stack Developer (Canada)](https://www.adzuna.ca/details/5950814321?utm_medium=api&utm_source=54ce986e) | Rumor | Canada | Full stack |
 | 2026-11-01 | [Technical Consultant, Professional Services](https://www.adzuna.ca/details/5948985233?utm_medium=api&utm_source=54ce986e) | Zensar Technologies | Canada (remote) | Technical consulting Adzuna 5948985233 |
 | 2026-11-01 | [Systems Administrator (Windows/Unix-Linux, Automation)](https://www.adzuna.ca/details/5949574744?utm_medium=api&utm_source=54ce986e) | BMO Financial | Toronto, Ontario | PowerShell automation; prior BMO experience Adzuna 5949574744 |
-| 2026-11-01 | [Systems Administrator](https://www.adzuna.ca/details/5950015835) | Magna International, Inc | Concord, York region | SQL Server adzuna |
-| 2026-11-01 | [System Administrator](https://www.adzuna.ca/details/5949576771?utm_medium=api&utm_source=54ce986e) | TekStaff IT Solutions | Toronto, Ontario | PowerShell / sysadmin Adzuna 5949576771 |
-| 2026-11-01 | [Staff Site Reliability Engineer/ Energy](https://www.adzuna.ca/details/5949576398?utm_medium=api&utm_source=54ce986e) | Motion Recruitment | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-11-01 | [Staff Data Scientist](https://www.adzuna.ca/details/5949576986) | BMO | Toronto, Ontario | Python adzuna |
-| 2026-11-01 | [Staff Cloud Engineer , Cloud Platform](https://www.adzuna.ca/details/5949576733) | Kinaxis | Ottawa, Ottawa region | Python adzuna |
-| 2026-11-01 | [Sr. Consultant, Value Excellence](https://www.adzuna.ca/details/5949576289?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | ServiceNow Adzuna 5949576289 |
-| 2026-11-01 | [Sr. Consultant, Data Platform DevOps](https://www.adzuna.ca/details/5949576567?utm_medium=api&utm_source=54ce986e) | CIBC | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-11-01 | [Specialist, BI Developer](https://www.adzuna.ca/details/5949200555) | Parkland | Calgary, Calgary region | via nemotron-gap-scan--2026-11-02--v1.md |
-| 2026-11-01 | [Specialist, BI Developer](https://www.adzuna.ca/details/5949020152) | Sunoco LP | Calgary, Calgary region | via nemotron-gap-scan--2026-11-02--v1.md |
-| 2026-11-01 | [Software Engineer III (Full Stack/API Integration)](https://www.adzuna.ca/details/5949577919) | TD | Toronto, Ontario | Full stack |
-| 2026-11-01 | [Software Developer - Full Stack - Senior (Health)](https://www.adzuna.ca/details/5949576712?utm_medium=api&utm_source=54ce986e) | ISG Search Inc | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-11-01 | [Site Reliability Engineer Lead](https://www.adzuna.ca/details/5949576420?utm_medium=api&utm_source=54ce986e) | TD Bank Group | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-11-01 | [Service Desk Asset Management Officer](https://www.adzuna.ca/details/5949576448?utm_medium=api&utm_source=54ce986e) | Government of Nunavut | Iqaluit, NU | ITAM / ITIL service desk Adzuna 5949576448 |
-| 2026-11-01 | [Senior Technical Business Analyst (Req 264347)](https://jobs.scotiabank.com/job/Toronto-Senior-Technical-Business-Analyst-ON-M5H-1H1/603306117/) | Scotiabank | Toronto, ON | via arlo--2026-11-02--v8.md |
-| 2026-11-01 | [Senior Systems Administrator - Infrastructure & Cloud](https://www.adzuna.ca/details/5949195568?utm_medium=api&utm_source=54ce986e) | Mevotech | Mississauga, Ontario | PowerShell / infrastructure automation Adzuna 5949195568 |
-| 2026-11-01 | [Senior Software Quality Engineer - QGC & Tool Automation](https://www.adzuna.ca/details/5949576614) | PDW | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-11-01 | [Senior Software Developer - Full Stack - Toronto](https://www.adzuna.ca/details/5949576871?utm_medium=api&utm_source=54ce986e) | Randstad Deutschland | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 
 </details>
 
@@ -629,4 +627,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T214113Z.md` holds the previous README in full — every older table, the peer-branch reconciliation notes, per-source method write-ups and anything removed from this file on 2026-11-03.
+`README.BAK_2026-11-03T214456Z.md` holds the previous README in full — every older table, the peer-branch reconciliation notes, per-source method write-ups and anything removed from this file on 2026-11-03.
