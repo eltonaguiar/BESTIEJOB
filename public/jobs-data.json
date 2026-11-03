@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T16:01:59+00:00",
+ "generatedAt": "2026-11-03T16:31:42+00:00",
  "timezone": "America/Toronto",
- "count": 396,
+ "count": 397,
  "appliedHidden": 5,
  "sources": [
   "Adzuna",
@@ -38,7 +38,6 @@
   "jliconsulting.ca",
   "jobleads.com",
   "jobs.ca",
-  "jobs.firstcitizens.com",
   "jobs.jvistg2.com",
   "jobs.scotiabank.com",
   "jobs.toronto.ca",
@@ -50,6 +49,28 @@
   "wsib-iaepup.fa.ocs.oraclecloud.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Specialist – CMDB / CSDM / Montreal, QC (Onsite) - FTE",
+   "company": "AceStack",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-specialist-%E2%80%93-cmdb-csdm-montreal-qc-onsite-fte-at-acestack-4486062233",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "CMDB",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow specialist – cmdb / csdm / montreal, qc (onsite) - fte acestack montreal, quebec, canada linkedin servicenow  servicenow cmdb role fit canada / remote",
+   "alternates": []
+  },
   {
    "posted": "2026-11-03",
    "title": "ServiceNow CMDB",
@@ -689,6 +710,27 @@
    ],
    "french": false,
    "search": "salesforce developer (cloud developer) gdit any location / remote workday ats salesforce  salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Consultant, Revenue Cloud",
+   "company": "NeuraFlash",
+   "location": "Remote - Colombia",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242209004",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce consultant, revenue cloud neuraflash remote - colombia greenhouse salesforce  salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -8229,26 +8271,6 @@
    ],
    "french": false,
    "search": "servicenow developer sme - general dynamics information technology usa: remote usa only; must pass a background investigation for a public trust position. full-time workday ats servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "ServiceNow Developer III (SE3) (Remote CT) - First Citizens Bank",
-   "company": "USA: Remote Connecticut, U.S.; not advertised as unrestricted U.S. or Canada remote.",
-   "location": "Full-time",
-   "url": "https://jobs.firstcitizens.com/jobs/36304",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.firstcitizens.com",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow developer iii (se3) (remote ct) - first citizens bank usa: remote connecticut, u.s.; not advertised as unrestricted u.s. or canada remote. full-time jobs.firstcitizens.com servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
    "alternates": []
   }
  ]

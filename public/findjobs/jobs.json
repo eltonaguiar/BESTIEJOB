@@ -15,24 +15,24 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-03T16:00:01.543Z",
-    "generatedAt": "2026-11-03T16:00:01.543Z",
-    "total": 813,
-    "newThisScan": 333,
-    "retainedFromPrevious": 480,
+    "scrapedAt": "2026-11-03T16:30:01.241Z",
+    "generatedAt": "2026-11-03T16:30:01.241Z",
+    "total": 816,
+    "newThisScan": 329,
+    "retainedFromPrevious": 487,
     "sources": {
       "smartrecruiters": 6,
       "workday": 19,
-      "greenhouse": 19,
+      "greenhouse": 20,
       "lever": 2,
       "ashby": 5,
-      "linkedin": 276,
+      "linkedin": 271,
       "remoteok": 2,
       "remotive": 4
     },
     "primaryCounts": {
-      "servicenow": 279,
-      "salesforce": 360
+      "servicenow": 280,
+      "salesforce": 362
     }
   },
   "jobs": [
@@ -45,10 +45,27 @@
       "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-03T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-11-03T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Ontario · R0014075",
       "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6242209004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Consultant, Revenue Cloud",
+      "location": "Remote - Colombia",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242209004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T16:10:48.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "",
+      "workArrangement": "remote",
       "tags": [
         "salesforce"
       ]
@@ -63,7 +80,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -80,7 +97,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -97,7 +114,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -114,7 +131,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -131,11 +148,29 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "remote",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-specialist-%e2%80%93-cmdb-csdm-montreal-qc-onsite-fte-at-acestack-4486062233",
+      "source": "linkedin",
+      "company": "AceStack",
+      "title": "ServiceNow Specialist – CMDB / CSDM / Montreal, QC (Onsite) - FTE",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-specialist-%E2%80%93-cmdb-csdm-montreal-qc-onsite-fte-at-acestack-4486062233",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "onsite",
+      "tags": [
+        "servicenow",
+        "itam"
       ]
     },
     {
@@ -148,7 +183,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -165,7 +200,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -182,7 +217,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -199,7 +234,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -216,7 +251,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -234,7 +269,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -251,7 +286,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -268,7 +303,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -285,7 +320,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -302,7 +337,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -320,7 +355,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -337,7 +372,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -354,7 +389,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -371,7 +406,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -388,7 +423,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -405,7 +440,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -422,7 +457,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -439,7 +474,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -456,7 +491,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -473,7 +508,24 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-ba-at-smart-it-frame-llc-4486054359",
+      "source": "linkedin",
+      "company": "Smart IT Frame LLC",
+      "title": "Salesforce Marketing Cloud- SFMC, BA",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-ba-at-smart-it-frame-llc-4486054359",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -490,7 +542,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -507,7 +559,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce technical · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -524,7 +576,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce technical · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -541,7 +593,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce platform developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -558,7 +610,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "CRM developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -674,7 +726,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-02T19:22:37.732Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "MEET BENEVITY Benevity is the way the world does good, providing companies (and their employees) with technology to take social action on the issues they care about. Through giving, volunteering, grantmaking, employee resource groups and micro-actions, we help most of the Fortune 100 brands build better cultures and us",
       "workArrangement": "hybrid",
       "tags": [
@@ -690,8 +742,8 @@
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-02T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-11-02T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "RQ228138",
       "workArrangement": "remote",
       "tags": [
@@ -707,8 +759,8 @@
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-02T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-11-02T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "RQ228679",
       "workArrangement": "remote",
       "tags": [
@@ -724,8 +776,8 @@
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-02T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-11-02T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "RQ230636",
       "workArrangement": "remote",
       "tags": [
@@ -741,8 +793,8 @@
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Salesforce-Developer--Cloud-Developer-_RQ230765",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-02T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-11-02T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "RQ230765",
       "workArrangement": "remote",
       "tags": [
@@ -2629,7 +2681,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -2646,7 +2698,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -2663,7 +2715,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -2680,7 +2732,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -2697,7 +2749,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -2714,11 +2766,164 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/digital-consulting-architect-servicenow-at-zaelab-4461309483",
+      "source": "linkedin",
+      "company": "Zaelab",
+      "title": "Digital Consulting Architect, ServiceNow",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/digital-consulting-architect-servicenow-at-zaelab-4461309483",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865",
+      "source": "linkedin",
+      "company": "2iSolutions Inc.",
+      "title": "ServiceNow Software Asset Management Pro (SAM Pro) Consultant",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/itam-specialist-at-raise-4486445797",
+      "source": "linkedin",
+      "company": "Raise",
+      "title": "ITAM Specialist",
+      "location": "Saskatoon, Saskatchewan, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/itam-specialist-at-raise-4486445797",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "itam"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4485774136",
+      "source": "linkedin",
+      "company": "Smart IT Frame LLC",
+      "title": "Salesforce Marketing Cloud(SFMC) consultant",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4485774136",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125",
+      "source": "linkedin",
+      "company": "Enterprise Solutions Inc.",
+      "title": "Salesforce Marketing Cloud(SFMC) Business Analyst",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737",
+      "source": "linkedin",
+      "company": "Manulife",
+      "title": "Salesforce Functional Analyst",
+      "location": "Waterloo, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/analyste-des-syst%c3%a8mes-d%e2%80%99affaires-salesforce-at-american-iron-metal-aim-4485760072",
+      "source": "linkedin",
+      "company": "American Iron & Metal (AIM)",
+      "title": "Analyste des systèmes d’affaires - Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/analyste-des-syst%C3%A8mes-d%E2%80%99affaires-salesforce-at-american-iron-metal-aim-4485760072",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/business-systems-analyst-%e2%80%93-salesforce-at-american-iron-metal-aim-4485753160",
+      "source": "linkedin",
+      "company": "American Iron & Metal (AIM)",
+      "title": "Business Systems Analyst – Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-salesforce-at-american-iron-metal-aim-4485753160",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/conseiller-ou-conseill%c3%a8re-en-architecture-technique-salesforce-lwc-apex-et-impl%c3%a9mentations-at-alithya-4484606302",
+      "source": "linkedin",
+      "company": "Alithya",
+      "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-et-impl%C3%A9mentations-at-alithya-4484606302",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "Salesforce consultant · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -2740,108 +2945,6 @@
       ]
     },
     {
-      "id": "linkedin:ca.linkedin.com/jobs/view/digital-consulting-architect-servicenow-at-zaelab-4461309483",
-      "source": "linkedin",
-      "company": "Zaelab",
-      "title": "Digital Consulting Architect, ServiceNow",
-      "location": "Canada",
-      "url": "https://ca.linkedin.com/jobs/view/digital-consulting-architect-servicenow-at-zaelab-4461309483",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865",
-      "source": "linkedin",
-      "company": "2iSolutions Inc.",
-      "title": "ServiceNow Software Asset Management Pro (SAM Pro) Consultant",
-      "location": "Canada",
-      "url": "https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/itam-specialist-at-raise-4486445797",
-      "source": "linkedin",
-      "company": "Raise",
-      "title": "ITAM Specialist",
-      "location": "Saskatoon, Saskatchewan, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/itam-specialist-at-raise-4486445797",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "itam"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4485774136",
-      "source": "linkedin",
-      "company": "Smart IT Frame LLC",
-      "title": "Salesforce Marketing Cloud(SFMC) consultant",
-      "location": "Mississauga, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4485774136",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125",
-      "source": "linkedin",
-      "company": "Enterprise Solutions Inc.",
-      "title": "Salesforce Marketing Cloud(SFMC) Business Analyst",
-      "location": "Mississauga, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737",
-      "source": "linkedin",
-      "company": "Manulife",
-      "title": "Salesforce Functional Analyst",
-      "location": "Waterloo, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
       "id": "linkedin:ca.linkedin.com/jobs/view/revops-solutions-architect-hubspot-%2b-salesforce-at-properexpression-4479235053",
       "source": "linkedin",
       "company": "ProperExpression",
@@ -2853,57 +2956,6 @@
       "postedDate": "2026-11-02T00:00:00.000Z",
       "scrapedAt": "2026-11-03T16:00:01.543Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/analyste-des-syst%c3%a8mes-d%e2%80%99affaires-salesforce-at-american-iron-metal-aim-4485760072",
-      "source": "linkedin",
-      "company": "American Iron & Metal (AIM)",
-      "title": "Analyste des systèmes d’affaires - Salesforce",
-      "location": "Montreal, Quebec, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/analyste-des-syst%C3%A8mes-d%E2%80%99affaires-salesforce-at-american-iron-metal-aim-4485760072",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/business-systems-analyst-%e2%80%93-salesforce-at-american-iron-metal-aim-4485753160",
-      "source": "linkedin",
-      "company": "American Iron & Metal (AIM)",
-      "title": "Business Systems Analyst – Salesforce",
-      "location": "Montreal, Quebec, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-salesforce-at-american-iron-metal-aim-4485753160",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/conseiller-ou-conseill%c3%a8re-en-architecture-technique-salesforce-lwc-apex-et-impl%c3%a9mentations-at-alithya-4484606302",
-      "source": "linkedin",
-      "company": "Alithya",
-      "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
-      "location": "Montreal, Quebec, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-et-impl%C3%A9mentations-at-alithya-4484606302",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "Salesforce consultant · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
@@ -5376,7 +5428,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -7295,7 +7347,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -7312,7 +7364,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -7329,7 +7381,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -7383,8 +7435,8 @@
       "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-30T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-30T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Ontario · R0014087",
       "workArrangement": "unknown",
       "tags": [
@@ -9023,7 +9075,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9040,7 +9092,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9134,7 +9186,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-29T17:09:14.897Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Req JB0076386",
       "workArrangement": "remote",
       "tags": [
@@ -9150,8 +9202,8 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Manager--Salesforce-Innovation---Enablement_R260030015",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-29T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-29T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "R260030015",
       "workArrangement": "unknown",
       "tags": [
@@ -11429,7 +11481,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -11446,7 +11498,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -11521,7 +11573,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-28T21:43:28.498Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "MEET BENEVITY Benevity is the way the world does good, providing companies (and their employees) with technology to take social action on the issues they care about. Through giving, volunteering, grantmaking, employee resource groups and micro-actions, we help most of the Fortune 100 brands build better cultures and us",
       "workArrangement": "hybrid",
       "tags": [
@@ -11538,7 +11590,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-28T21:43:19.188Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "MEET BENEVITY Benevity is the way the world does good, providing companies (and their employees) with technology to take social action on the issues they care about. Through giving, volunteering, grantmaking, employee resource groups and micro-actions, we help most of the Fortune 100 brands build better cultures and us",
       "workArrangement": "hybrid",
       "tags": [
@@ -11555,7 +11607,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T21:41:50.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -11597,8 +11649,8 @@
       "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-28T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-28T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "JR106006",
       "workArrangement": "unknown",
       "tags": [
@@ -11614,8 +11666,8 @@
       "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-28T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-28T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "R1280",
       "workArrangement": "remote",
       "tags": [
@@ -11980,7 +12032,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -11997,7 +12049,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12014,7 +12066,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12031,7 +12083,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12048,7 +12100,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12065,7 +12117,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12082,7 +12134,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12099,7 +12151,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12116,7 +12168,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12217,8 +12269,8 @@
       "url": "https://medcan.wd10.myworkdayjobs.com/en-US/medcan/job/Toronto/Salesforce-Developer_MED02518",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-27T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-27T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "MED02518",
       "workArrangement": "unknown",
       "tags": [
@@ -12261,7 +12313,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-27T13:40:19.528Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Alimentiv is a global CRO with a singular focus: advancing therapies for patients with gastrointestinal diseases. GI is our WHY and for more than 30 years that purpose has driven our scientific rigour, operational excellence, and deep therapeutic expertise, including supporting more than 70% of IBD compounds in develop",
       "workArrangement": "unknown",
       "tags": [
@@ -12372,7 +12424,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12389,7 +12441,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12406,7 +12458,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12440,7 +12492,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-26T22:09:07.399Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Req JB0076504",
       "workArrangement": "remote",
       "tags": [
@@ -12456,8 +12508,8 @@
       "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-26T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-26T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "R_1509038 · Software Engineering",
       "workArrangement": "unknown",
       "tags": [
@@ -12623,7 +12675,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12709,7 +12761,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-25T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12811,7 +12863,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12828,7 +12880,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12845,7 +12897,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12862,7 +12914,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12879,7 +12931,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13140,7 +13192,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-23T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13158,7 +13210,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-23T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13175,7 +13227,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-23T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13192,7 +13244,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-23T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13550,7 +13602,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-21T17:50:42.773Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Location: Remote (US, West Coast) Department: RevOps Reports to: RevOps Systems Lead About MoeGo 🐾 MoeGo is on a mission to transform the future of pet care business, from small-business groomers to franchise doggie hotels. The dedicated entrepreneurs behind these businesses keep our beloved pets happy and healthy—the",
       "workArrangement": "remote",
       "tags": [
@@ -13566,8 +13618,8 @@
       "url": "https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-21T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-21T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "JR100193",
       "workArrangement": "unknown",
       "tags": [
@@ -13754,7 +13806,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-21T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13771,7 +13823,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-21T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13788,7 +13840,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-21T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13843,7 +13895,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-20T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "remote",
       "tags": [
@@ -13860,7 +13912,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-20T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13877,7 +13929,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-20T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13894,7 +13946,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-19T18:42:34.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -13979,7 +14031,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -13996,7 +14048,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14014,7 +14066,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14031,7 +14083,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14048,7 +14100,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14065,7 +14117,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14116,7 +14168,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-17T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14133,7 +14185,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-17T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14150,7 +14202,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-17T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14167,26 +14219,9 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T19:25:34.080Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Req JB0074896",
       "workArrangement": "remote",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000156040224",
-      "source": "smartrecruiters",
-      "company": "ServiceNow",
-      "title": "Staff Site Reliability Engineer",
-      "location": "Toronto, Ontario, ca",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156040224",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-16T16:18:12.809Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
-      "excerpt": "Req JB0076283",
-      "workArrangement": "unknown",
       "tags": [
         "servicenow"
       ]
@@ -14200,12 +14235,29 @@
       "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-16T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-16T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "REQ-14036",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000156040224",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Staff Site Reliability Engineer",
+      "location": "Toronto, Ontario, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156040224",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T16:18:12.809Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
+      "excerpt": "Req JB0076283",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -14303,7 +14355,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14320,7 +14372,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14337,7 +14389,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14354,7 +14406,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14371,7 +14423,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14388,7 +14440,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14405,7 +14457,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-15T14:51:25.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -14456,7 +14508,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-15T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14473,7 +14525,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-15T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14490,7 +14542,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-15T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14507,7 +14559,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-15T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14661,7 +14713,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-14T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14678,7 +14730,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-14T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14695,7 +14747,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-14T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14729,7 +14781,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-13T20:27:09.680Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "TAKE YOUR CAREER TO NEW HEIGHTS WITH LOOPIO! 🚀✨ Loopio is a workplace that unleashes learning & growth opportunities for our Loopers. We provide autonomous, challenging work that allows each employee to master their craft. We attract and retain people who are naturally curious, have grit and are eager to grow and buil",
       "workArrangement": "remote",
       "tags": [
@@ -14814,7 +14866,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-13T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14831,7 +14883,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T18:47:23.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -14848,7 +14900,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T18:46:08.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -14865,7 +14917,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T18:36:18.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -14882,7 +14934,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T18:30:39.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -14899,7 +14951,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14916,7 +14968,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14950,7 +15002,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-10T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14967,7 +15019,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-09T22:43:34.604Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Req JB0073869",
       "workArrangement": "unknown",
       "tags": [
@@ -15052,7 +15104,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-09T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15069,7 +15121,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-08T17:37:27.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15086,7 +15138,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-08T17:35:56.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15121,7 +15173,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-07T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15138,7 +15190,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-06T19:28:42.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15155,7 +15207,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-06T19:27:13.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15172,7 +15224,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-06T19:26:01.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15189,7 +15241,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-06T19:21:50.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15205,8 +15257,8 @@
       "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-06T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-06T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "JR0154441",
       "workArrangement": "unknown",
       "tags": [
@@ -15240,7 +15292,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-06T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15256,8 +15308,8 @@
       "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-12533",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-04T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-04T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "REQ-12533",
       "workArrangement": "unknown",
       "tags": [
@@ -15273,8 +15325,8 @@
       "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Salesforce-Delivery-Lead_JR0147161",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-04T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-04T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "JR0147161",
       "workArrangement": "unknown",
       "tags": [
@@ -15290,8 +15342,8 @@
       "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-04T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-04T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "JR0147159",
       "workArrangement": "unknown",
       "tags": [
@@ -15307,8 +15359,8 @@
       "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-04T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-04T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "JR0147163",
       "workArrangement": "unknown",
       "tags": [
@@ -15324,8 +15376,8 @@
       "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-04T16:00:01.543Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "postedDate": "2026-10-04T16:30:01.241Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "R1213",
       "workArrangement": "remote",
       "tags": [
@@ -15376,7 +15428,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-01T15:50:04.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15393,7 +15445,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15410,7 +15462,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15427,7 +15479,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15444,7 +15496,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15461,7 +15513,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15478,7 +15530,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15495,7 +15547,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15512,7 +15564,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15529,7 +15581,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15546,7 +15598,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15563,7 +15615,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-25T17:36:00.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "unknown",
       "tags": [
@@ -15580,7 +15632,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-24T17:37:41.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15597,7 +15649,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-24T17:36:06.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15614,7 +15666,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-24T17:34:01.000Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -15631,7 +15683,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-09-22T19:38:03.081Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Join a Challenger At EQ, we're remaking banking so every Canadian gets ahead, every day. Serving nearly 4 million Canadians from coast to coast, we offer a wide variety of financial services from banking and lending, to trust and credit union solutions. We've been at this since 1970, challenging the conventions of trad",
       "workArrangement": "unknown",
       "tags": [
@@ -15648,7 +15700,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-21T17:29:45.355Z",
-      "scrapedAt": "2026-11-03T16:00:01.543Z",
+      "scrapedAt": "2026-11-03T16:30:01.241Z",
       "excerpt": "Req JB0074850",
       "workArrangement": "unknown",
       "tags": [
