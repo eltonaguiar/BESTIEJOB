@@ -63,3 +63,37 @@ missing" bug).
 - `public/jobs-data.json`: 849 cards · `scripts/check_site_links.py` passes.
 - `jobs.json`: 1,902 rows, 0 null `postedDate`.
 - Pages deploy for commit `81bd01a`: **success** (run 41543499689); Inbox guard + README guard green.
+
+## 2026-11-03 retry addendum — the 429s cost no coverage
+
+Re-ran the 21 Adzuna variants that had been throttled or come back empty on 2026-11-02, serially
+with backoff (8s/16s/24s, up to 4 attempts) and a 3-day window instead of today-only. **All 21
+answered on the first attempt** — the 429s were concurrency, not quota. 99 platform rows came back.
+
+Ten of those URLs were absent from `README.md`, `jobs.json` and this file; four were mirrors of
+requisitions already listed (collapsed by canonical title + employer). The six remaining candidates
+all returned **HTTP 200**, and none is in scope for this file:
+
+| Candidate | Employer | Why it is not a critical miss |
+|---|---|---|
+| Manager, Product, Pricing & Integrations Operations | Salesforce | Vendor-side product role — the exclusion already applied above to Salesforce's SMTS / CSM / product-marketing reqs |
+| Customer Success Manager - Core Clouds | Salesforce | Vendor CSM — excluded earlier for the same reason |
+| Senior Data Engineer | Apply Digital | No platform token in the title; matched only because the JD mentions Experience Cloud |
+| Information Technology_CAN - CAN_Platform Architect | Artech LLC | Generic "platform architect"; the posting never names ServiceNow or Salesforce |
+| IVR/Contact Centre Solution Architect | Epsilon Solutions | Contact-centre architecture; Service Cloud is plausible but unproven from the posting |
+| Hiring Technical Lead in Toronto, ON | Artech LLC | Scrape artefact — the title is a search phrase, not a role |
+
+So this retry adds nothing to the table above. The one genuine find it produced — **nCino
+Consultant, Delpath, Toronto, 2026-11-02** — went straight into `README.md` (commit `d07b436`),
+because nCino is Salesforce-platform work and it had been landing in the "Other" tab only because
+the family classifier did not know Salesforce ISV products.
+
+### Worth a human look (verified live, not promoted)
+
+- IVR/Contact Centre Solution Architect — Epsilon Solutions, Toronto, 2026-10-31 — https://www.adzuna.ca/details/5948021696
+- CAN_Platform Architect — Artech LLC, Toronto, 2026-10-31 — https://www.adzuna.ca/details/5948024055
+
+### State at this addendum
+
+- `README.md`: 1021 job rows · `public/jobs-data.json`: 836 cards · `scripts/check_site_links.py` PASS
+- This retry: 21/21 variants answered, 0 failures, 99 platform rows, 6 candidates, 0 in scope.
