@@ -1,9 +1,17 @@
 # Deep ATS sweep: 257 employer boards, verified dates only
 
 **Date:** 2026-11-03
-**Result:** board 1,411 → **1,413 jobs**; 2 net-new postings, both dated by the
-employer's own ATS. 257 boards swept, 19,145 raw rows, 643 keyword-relevant,
-89 Canadian, 30 dated inside 21 days, 25 already on the board.
+**Result:** board 1,411 → **1,413 jobs**. The sweep contributed three rows —
+Danaher's Salesforce Field Service Developer (Concord, ON, 2026-11-02), SAIT's
+ServiceNow Fundamentals instructor (Calgary, 2026-10-13) and Highmetric/NewRocket's
+ServiceNow BPC (2026-10-28). Two of the three survived as live additions; the third
+was contributed by another scanner inside the same merge window.
+
+257 boards swept, 19,145 raw rows, 643 keyword-relevant, 89 Canadian, 30 dated
+inside 21 days, 25 already on the board. The remaining two candidates (Take-Two's
+ServiceNow ITOM lead, Lightspeed's ServiceNow Developer) turned out to be rows
+another scanner had already merged under a different URL — the exact duplicate
+that URL-only dedupe misses.
 
 ## The problem this addresses
 
