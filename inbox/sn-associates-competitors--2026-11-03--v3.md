@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T234911Z: +0 new, 0 duplicate, version 2 -->
 # SN associates/competitors sweep — 2026-11-03 ~17:50 ET
 LIVE net-new: none (Toronto/GTA/remote-CA perm FT, employer ATS).
 ## Soft

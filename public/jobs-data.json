@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T23:29:47+00:00",
+ "generatedAt": "2026-11-03T23:50:58+00:00",
  "timezone": "America/Toronto",
- "count": 1411,
+ "count": 1413,
  "appliedHidden": 23,
  "sources": [
   "Adzuna",
@@ -172,7 +172,13 @@
    ],
    "french": false,
    "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow  servicenow itam sam/ham role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-03",
@@ -306,6 +312,27 @@
    ],
    "french": false,
    "search": "servicenow senior developer - toronto, on indeed toronto, on indeed servicenow full-time servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Platform Engineer",
+   "company": "Amphenol Communications Solutions",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-engineer-at-amphenol-communications-solutions-4486308344",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow platform engineer amphenol communications solutions markham, ontario, canada linkedin servicenow  servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -3242,6 +3269,11 @@
    "french": false,
    "search": "salesforce field service (fsl) developer (r1321882) danaher concord, ontario; full time; employer workday canapply=true workday ats salesforce via gap-fill employer workday salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "Workday ATS",
+     "url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Concord-Ontario-Canada/Salesforce-Field-Service--FSL--Developer_R1321882",
+     "label": "Workday ATS · Concord"
+    },
     {
      "source": "roleweek.com",
      "url": "https://roleweek.com/job/salesforce-field-service-fsl-developer-danaher-toronto-f1706185/",
@@ -29533,6 +29565,25 @@
    ],
    "french": false,
    "search": "servicenow development analyst - accenture federal services usa: washington, dc; work mode not explicitly established not explicitly disclosed greenhouse servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v43.md servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-13",
+   "title": "Adjunct Instructor- Service Now Fundamentals- Corporate Delivery Opportunity Talent Pool",
+   "company": "SAIT",
+   "location": "Calgary, AB",
+   "url": "https://jobs.lever.co/sait/64c37a3d-9377-4229-8d85-847c6eb5bed8",
+   "note": "via ats-sweep--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 68,
+   "matchReasons": [
+    "ServiceNow"
+   ],
+   "french": false,
+   "search": "adjunct instructor- service now fundamentals- corporate delivery opportunity talent pool sait calgary, ab lever servicenow via ats-sweep--2026-11-03--v1.md servicenow",
    "alternates": []
   },
   {
