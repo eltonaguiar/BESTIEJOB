@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T07:31:01+00:00",
+ "generatedAt": "2026-11-03T07:40:32+00:00",
  "timezone": "America/Toronto",
- "count": 906,
+ "count": 909,
  "appliedHidden": 20,
  "sources": [
   "Adzuna",
@@ -43,11 +43,13 @@
   "dice.com",
   "empleo.3mtglobal.es",
   "emplois.bnc.ca",
+  "employment-mackenziehealth.icims.com",
   "exphire-kpmgca.icims.com",
   "fr.simplyhired.ca",
   "fxinnovation.com",
   "georgebrown.csod.com",
   "github.com",
+  "iadyup.fa.ocs.oraclecloud.com",
   "jobicy.com",
   "jobleads.com",
   "jobs.bell.ca",
@@ -64,6 +66,7 @@
   "osidigital.applytojob.com",
   "randstad.ca",
   "remotive.com",
+  "roberthalf.com",
   "sagehr.my.salesforce-sites.com",
   "searchcareers.caci.com",
   "sygnasolutions.betterteam.com",
@@ -72,6 +75,27 @@
   "wsib-iaepup.fa.ocs.oraclecloud.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-03",
+   "title": "Network Analyst - Technology Services (ServiceNow Incident/Change; soft)",
+   "company": "Mackenzie Health",
+   "location": "Vaughan, ON",
+   "url": "https://employment-mackenziehealth.icims.com/jobs/18989/network-analyst---technology-services/job",
+   "note": "via grokbot-hospital-boards--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "employment-mackenziehealth.icims.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "network analyst - technology services (servicenow incident/change; soft) mackenzie health vaughan, on employment-mackenziehealth.icims.com servicenow via grokbot-hospital-boards--2026-11-03--v1.md servicenow itsm role fit",
+   "alternates": []
+  },
   {
    "posted": "2026-11-03",
    "title": "Salesforce Release Engineer",
@@ -15443,6 +15467,26 @@
   },
   {
    "posted": "2026-10-28",
+   "title": "Advisor - CS&I Application (ServiceNow asset; soft)",
+   "company": "Trillium Health Partners",
+   "location": "Mississauga, ON",
+   "url": "https://iadyup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9075",
+   "note": "via grokbot-hospital-boards--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "iadyup.fa.ocs.oraclecloud.com",
+   "verified": "Employer board",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "advisor - cs&i application (servicenow asset; soft) trillium health partners mississauga, on iadyup.fa.ocs.oraclecloud.com servicenow via grokbot-hospital-boards--2026-11-03--v1.md servicenow toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
    "title": "Administrateur ServiceNow",
    "company": "Bell",
    "location": "Toronto, Ontario, Canada",
@@ -15922,6 +15966,27 @@
    ],
    "french": false,
    "search": "salesforce project manager tata consultancy services waterloo, ontario, canada linkedin salesforce via twin 20-round harvest salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-27",
+   "title": "Salesforce Developer (Permanent, hybrid 3d, $90-95k; via Robert Half)",
+   "company": "Robert Half (client undisclosed)",
+   "location": "Toronto, ON",
+   "url": "https://www.roberthalf.com/ca/en/job/toronto-on/salesforce-developer/05090-0013532287-caen",
+   "note": "via grokbot-hospital-boards--2026-11-03--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "roberthalf.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer (permanent, hybrid 3d, $90-95k; via robert half) robert half (client undisclosed) toronto, on roberthalf.com salesforce via grokbot-hospital-boards--2026-11-03--v1.md salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -18876,6 +18941,27 @@
   },
   {
    "posted": "2026-10-15",
+   "title": "Senior Advisor - Cap Epic Connect (ServiceNow/ITIL asset; soft)",
+   "company": "Trillium Health Partners",
+   "location": "Mississauga, ON",
+   "url": "https://iadyup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9015",
+   "note": "via grokbot-hospital-boards--2026-11-03--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "iadyup.fa.ocs.oraclecloud.com",
+   "verified": "Employer board",
+   "match": 96,
+   "matchReasons": [
+    "ServiceNow",
+    "ITIL",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior advisor - cap epic connect (servicenow/itil asset; soft) trillium health partners mississauga, on iadyup.fa.ocs.oraclecloud.com servicenow via grokbot-hospital-boards--2026-11-03--v1.md servicenow itil toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-15",
    "title": "ServiceNow Administrator/Developer",
    "company": "CGI",
    "location": "Toronto, Ontario, Canada",
@@ -19655,27 +19741,6 @@
    ],
    "french": false,
    "search": "sr. servicenow developer - stanfield systems usa: remote u.s. job-board posting, no travel required; confirm eligible states and work authorization with the recruiter. contract dice.com servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-06",
-   "title": "Salesforce Technical Architect, AI and Agentforce",
-   "company": "NeuraFlash",
-   "location": "Remote - Colombia",
-   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6218559004",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical architect, ai and agentforce neuraflash remote - colombia greenhouse salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md salesforce role fit canada / remote",
    "alternates": []
   },
   {

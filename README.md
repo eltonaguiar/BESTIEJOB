@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T073101Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T074032Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
-  - [ServiceNow jobs (310)](#servicenow-jobs-310)
+  - [ServiceNow jobs (313)](#servicenow-jobs-313)
   - [Salesforce jobs (400)](#salesforce-jobs-400)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,16 +18,17 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **1110 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **1113 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (310)
+### ServiceNow jobs (313)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 310 postings</strong></summary>
+<details><summary><strong>Show 313 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-03 | [Network Analyst - Technology Services (ServiceNow Incident/Change; soft)](https://employment-mackenziehealth.icims.com/jobs/18989/network-analyst---technology-services/job) | Mackenzie Health | Vaughan, ON | via grokbot-hospital-boards--2026-11-03--v1.md |
 | 2026-11-02 | [Sr. CRM Account Executive](https://ca.linkedin.com/jobs/view/sr-crm-account-executive-at-servicenow-4486453284) | ServiceNow | Montreal, Quebec, Canada | via twin 20-round harvest |
 | 2026-11-02 | [ServiceNow Software Asset Management Pro (SAM Pro) Consultant](https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865) | 2iSolutions Inc. | Canada |  |
 | 2026-11-02 | [ServiceNow SAM Pro Consultant](https://ca.linkedin.com/jobs/view/4486426865) | 2iSolutions Inc. | Canada | restored after over-merge |
@@ -219,6 +220,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-28 | [Senior Consultant, ServiceNow](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4382155163) | KPMG Canada | Toronto, Ontario, Canada | restored after over-merge |
 | 2026-10-28 | [Conseiller technique principal ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-technique-principal-servicenow-at-bell-4476360201) | Bell | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-28 | [Conseiller technique principal ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-technique-principal-servicenow-at-bell-4476346779) | Bell | Montreal, Quebec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
+| 2026-10-28 | [Advisor - CS&I Application (ServiceNow asset; soft)](https://iadyup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9075) | Trillium Health Partners | Mississauga, ON | via grokbot-hospital-boards--2026-11-03--v1.md |
 | 2026-10-28 | [Administrateur ServiceNow](https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-bell-4476348750) | Bell | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-27 | [Sr. ServiceNow Developer - Sygna Solutions](https://sygnasolutions.betterteam.com/sr.-servicenow-developer) | USA: USA; 100% remote acceptable; local Georgia candidates strongly preferred | Contract | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-27 | [Sr ServiceNow Developer / Architect - HPTech](https://www.dice.com/job-detail/0e33cd66-ad50-469f-ad16-3a39076da95c) | USA: Metadata specifies TELECOMMUTE and applicant country USA. Confirm permitted states, work authorization, and contract terms with the recruiter. | Confirm with recruiter | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
@@ -312,6 +314,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-16 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480397231) | KPMG Canada | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-16 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892) | KPMG Canada | Ottawa, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-15 | [ServiceNow Administrator/Developer](https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907) | CGI | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
+| 2026-10-15 | [Senior Advisor - Cap Epic Connect (ServiceNow/ITIL asset; soft)](https://iadyup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9015) | Trillium Health Partners | Mississauga, ON | via grokbot-hospital-boards--2026-11-03--v1.md |
 | 2026-10-15 | [Functional Consultant/Senior Consultant, ServiceNow (34113) - KPMG Canada](https://exphire-kpmgca.icims.com/jobs/34113/login) | Canada: Toronto, Montreal or Ottawa; hybrid | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-15 | [Développeur ServiceNow](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-servicenow-at-delan-it-talent-solutions-4463528450) | DELAN - IT Talent Solutions | Montreal, Quebec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-15 | [Consultant/Senior Consultant, ServiceNow Solution Developer (33919) - KPMG Canada](https://exphire-kpmgca.icims.com/jobs/33919/login) | Canada: Toronto, Montreal or Ottawa; hybrid | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
@@ -622,6 +625,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-27 | [Salesforce Solution Architect, Service Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/5730028004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | restored after over-merge |
 | 2026-10-27 | [Salesforce Solution Architect, Field Service](https://job-boards.greenhouse.io/neuraflash/jobs/6011721004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | restored after over-merge |
 | 2026-10-27 | [Salesforce Project Manager](https://ca.linkedin.com/jobs/view/salesforce-project-manager-at-tata-consultancy-services-4483658132) | Tata Consultancy Services | Waterloo, Ontario, Canada | via twin 20-round harvest |
+| 2026-10-27 | [Salesforce Developer (Permanent, hybrid 3d, $90-95k; via Robert Half)](https://www.roberthalf.com/ca/en/job/toronto-on/salesforce-developer/05090-0013532287-caen) | Robert Half (client undisclosed) | Toronto, ON | via grokbot-hospital-boards--2026-11-03--v1.md |
 | 2026-10-27 | [Salesforce Developer (MED02518) - Medcan](https://medcan.wd10.myworkdayjobs.com/medcan/job/Toronto/Salesforce-Developer_MED02518) | Canada: Toronto; hybrid, two office days; full-time; Platform Developer I required; deadline Nov 6 | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-27 | [Salesforce Developer](https://medcan.wd10.myworkdayjobs.com/en-US/medcan/job/Toronto/Salesforce-Developer_MED02518) | Medcan | Toronto | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-27 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797) | Medcan | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
@@ -748,7 +752,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-09 | [Salesforce Lead](https://osidigital.applytojob.com/apply/gv5uSBUcho/Salesforce-Lead) | OSI Digital | Toronto, ON; on-site | via grok-job-hunter--2026-11-02--v55.md |
 | 2026-10-08 | [Salesforce Project Manager](https://job-boards.greenhouse.io/neuraflash/jobs/6220751004) | NeuraFlash | Remote - United States | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-08 | [Salesforce Project Manager](https://job-boards.greenhouse.io/neuraflash/jobs/6220750004) | NeuraFlash | Remote - Canada (Alberta, British Columbia, Ontario Only) | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
-| 2026-10-06 | [Salesforce Technical Architect, AI and Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/6218559004) | NeuraFlash | Remote - Colombia | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 
 </details>
 
@@ -1255,4 +1258,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T073101Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T074032Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
