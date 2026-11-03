@@ -4,12 +4,20 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
+<<<<<<< HEAD
 Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T190407Z.md`.
+=======
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T211528Z.md`.
+>>>>>>> b836898 (inbox: SN fresh - Alimentiv Lever, Stikeman Workflow Automation Dev)
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
+<<<<<<< HEAD
   - [ServiceNow jobs (321)](#servicenow-jobs-321)
+=======
+  - [ServiceNow jobs (307)](#servicenow-jobs-307)
+>>>>>>> b836898 (inbox: SN fresh - Alimentiv Lever, Stikeman Workflow Automation Dev)
   - [Salesforce jobs (400)](#salesforce-jobs-400)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,6 +26,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
+<<<<<<< HEAD
 Window: 2026-10-04 → 2026-11-03 · **1121 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (321)
@@ -25,6 +34,15 @@ Window: 2026-10-04 → 2026-11-03 · **1121 live postings** · deduplicated by U
 _developer / administrator / architect / analyst roles_
 
 <details><summary><strong>Show 321 postings</strong></summary>
+=======
+Window: 2026-10-04 → 2026-11-03 · **1107 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+
+### ServiceNow jobs (307)
+
+_developer / administrator / architect / analyst roles_
+
+<details><summary><strong>Show 307 postings</strong></summary>
+>>>>>>> b836898 (inbox: SN fresh - Alimentiv Lever, Stikeman Workflow Automation Dev)
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -62,7 +80,12 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-02 | [ITAM Management (Mid Level)](https://ca.linkedin.com/jobs/view/itam-management-mid-level-at-soho-square-solutions-4484365333) | Soho Square Solutions | Montreal, Quebec, Canada | via linkedin-guest--2026-11-02--v8.md |
 | 2026-11-02 | [Global ServiceNow Alliance Performance and Operations Lead, Deloitte Global Ecosystem and Alliances](https://ca.linkedin.com/jobs/view/global-servicenow-alliance-performance-and-operations-lead-deloitte-global-ecosystem-and-alliances-at-deloitte-4460508256) | Deloitte | Toronto, Ontario, Canada | via linkedin-guest--2026-11-02--v1.md |
 | 2026-11-02 | [Digital Consulting Architect, ServiceNow](https://ca.linkedin.com/jobs/view/4461309483) | Zaelab | Canada; remote | via grok-job-hunter--2026-11-02--v47.md |
+<<<<<<< HEAD
 | 2026-11-01 | [Sr. Consultant, Value Excellence](https://www.adzuna.ca/details/5949576289) | ServiceNow | Toronto, Ontario | via aicert-harvest-2026-11-03 |
+=======
+| 2026-11-02 | [Digital Consulting Architect, ServiceNow](https://ca.linkedin.com/jobs/view/digital-consulting-architect-servicenow-at-zaelab-4461309483) | Zaelab | Canada | restored after over-merge |
+| 2026-11-01 | [Workflow Automation Developer (ServiceNow + Power Platform)](https://recruiting.ultipro.ca/SES5000SELLP/JobBoard/9cea37d8-40ac-4583-84aa-5469ad18b526/OpportunityDetail?opportunityId=fac9db73-486d-4760-b98e-a53208c36588) | Stikeman Elliott LLP | Toronto, Ontario | full-time permanent |
+>>>>>>> b836898 (inbox: SN fresh - Alimentiv Lever, Stikeman Workflow Automation Dev)
 | 2026-11-01 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v21.md |
 | 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948976549?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Estrie | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v20.md |
 | 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948965055?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v20.md |
@@ -1365,4 +1388,8 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
+<<<<<<< HEAD
 `README.BAK_2026-11-03T190407Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+=======
+`README.BAK_2026-11-03T211528Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+>>>>>>> b836898 (inbox: SN fresh - Alimentiv Lever, Stikeman Workflow Automation Dev)
