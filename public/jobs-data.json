@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-03T21:38:04+00:00",
+ "generatedAt": "2026-11-03T21:41:13+00:00",
  "timezone": "America/Toronto",
- "count": 413,
- "appliedHidden": 7,
+ "count": 412,
+ "appliedHidden": 8,
  "sources": [
   "2.halvolink.liveblog365.com",
   "Adzuna",
@@ -37,6 +37,7 @@
   "careers.deloitte.ca",
   "careers.ey.com",
   "careers.hootsuite.com",
+  "careers.loblaw.ca",
   "careers.mckesson.com",
   "careers.softchoice.com",
   "cgi.njoyn.com",
@@ -66,10 +67,15 @@
   "hiring.camp",
   "hiringcafe.com",
   "hirocareers.com",
+  "hubmub.com",
+  "huntr.co",
+  "ihiretechnology.com",
   "insightglobal.com",
   "istreetlabs.com",
   "jliconsulting.ca",
   "jobcanadian.com",
+  "jobera.com",
+  "jobforcanadian.com",
   "jobgether.com",
   "jobillico.com",
   "jobless.dev",
@@ -80,7 +86,9 @@
   "jobs.scotiabank.com",
   "jobsca.org",
   "jobsearch.alstom.com",
+  "jobsfordevelopers.com",
   "jobsnearme.career",
+  "jointaro.com",
   "karotech.ca",
   "kitjob.ca",
   "leveragesn.com",
@@ -1830,6 +1838,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Analyst, Platform Management – ServiceNow / SNPro.jobs",
+   "company": "SNPro.jobs](https://snpro.jobs/jobs/analyst-platform-management-servicenow-602fb)",
+   "location": "Unknown",
+   "url": "https://snpro.jobs/jobs/analyst-platform-management-servicenow-602fb",
+   "note": "Canada",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "snpro.jobs",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "analyst, platform management – servicenow / snpro.jobs snpro.jobs](https://snpro.jobs/jobs/analyst-platform-management-servicenow-602fb) unknown snpro.jobs servicenow canada servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Administrateur ServiceNow",
    "company": "Pomerleau",
    "location": "Québec, Quebec, Canada",
@@ -3069,6 +3097,27 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "2,000+   Salesforce Administrator Remote Jobs in Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/salesforce-administrator-remote-jobs",
+   "note": "8/10",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "2,000+   salesforce administrator remote jobs in canada unknown canada linkedin salesforce 8/10 salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Développeur principal/développeuse principale, Salesforce",
    "company": "Canadian Cancer Society",
    "location": "Toronto, Ontario, Canada",
@@ -3947,6 +3996,27 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Platform Support Analyst (L1)  / Range / Toronto",
+   "company": "Range",
+   "location": "Toronto](https://jobera.com/job/range-platform-support-analyst-l1-50985270/)",
+   "url": "https://jobera.com/job/range-platform-support-analyst-l1-50985270/",
+   "note": "Unknown",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobera.com",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "IT operations",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "platform support analyst (l1)  / range / toronto range toronto](https://jobera.com/job/range-platform-support-analyst-l1-50985270/) jobera.com other unknown it operations role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Jobs Business Analyst, IT 08-04-2026 Hamilton",
    "company": "Unknown",
    "location": "Canada",
@@ -3988,6 +4058,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Platform Support Analyst (L1) / Apply Now July / TryApplyNow",
+   "company": "Apply Now July",
+   "location": "TryApplyNow](https://www.tryapplynow.com/jobs/range-platform-support-analyst-l1-7c5f5e07-5104-4d5e-8f54-869f10767143)",
+   "url": "https://www.tryapplynow.com/jobs/range-platform-support-analyst-l1-7c5f5e07-5104-4d5e-8f54-869f10767143",
+   "note": "Unknown",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "tryapplynow.com",
+   "verified": "Employer board",
+   "match": 18,
+   "matchReasons": [
+    "IT operations",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "platform support analyst (l1) / apply now july / tryapplynow apply now july tryapplynow](https://www.tryapplynow.com/jobs/range-platform-support-analyst-l1-7c5f5e07-5104-4d5e-8f54-869f10767143) tryapplynow.com other unknown it operations role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "reputed company Building Structural Technologist for Remote Work Opportunities with a Leading Engineering Firm",
    "company": "Unknown",
    "location": "Canada",
@@ -4004,6 +4094,26 @@
    ],
    "french": false,
    "search": "reputed company building structural technologist for remote work opportunities with a leading engineering firm unknown canada 2.halvolink.liveblog365.com other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Software Engineer I - Core Product - Notification Platform Team at PagerDuty • Jobs for Developers",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobsfordevelopers.com/jobs/software-engineer-i-core-product-notification-platform-team-at-pagerduty-com-may-22-2026-86f978",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobsfordevelopers.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "software engineer i - core product - notification platform team at pagerduty • jobs for developers unknown canada jobsfordevelopers.com other 8/10 role fit canada / remote",
    "alternates": []
   },
   {
@@ -4148,6 +4258,46 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Platform Engineer I - Machine Learning Infrastructure at Spotify",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://huntr.co/job/6829429ddd3e790052439989",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "huntr.co",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "platform engineer i - machine learning infrastructure at spotify unknown canada huntr.co other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Platform Engineer I - Machine Learning Infrastructure",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jointaro.com/jobs/spotify/platform-engineer-i-machine-learning-infrastructure/",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jointaro.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "platform engineer i - machine learning infrastructure unknown canada jointaro.com other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Mattamy Homes Careers - CAD/CAM Engineering Specialist",
    "company": "Unknown",
    "location": "Canada",
@@ -4208,6 +4358,46 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Job Application for Platform Administrator at Hut 8",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://job-boards.greenhouse.io/hut8/jobs/5014172008",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "job application for platform administrator at hut 8 unknown canada greenhouse other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Full-stack web application developer With ensogo Inc. - GTA Others - ON Ontario, CANADA",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobforcanadian.com/348480/jobsearch/full-stack-web-application-developer-job-postings-gtaothers-on-canada",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobforcanadian.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "full-stack web application developer with ensogo inc. - gta others - on ontario, canada unknown canada jobforcanadian.com other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Consultant, Certinia PSA in Halifax, Nova Scotia - Deloitte",
    "company": "Unknown",
    "location": "Canada",
@@ -4244,6 +4434,26 @@
    ],
    "french": false,
    "search": "cad mechanical design engineer in markham on, on - ionada canada corporation unknown canada ca.trabajo.org other 3/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "89   Front End Developer Remote Jobs in Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/front-end-developer-remote-jobs",
+   "note": "7/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "89   front end developer remote jobs in canada unknown canada linkedin other 7/10 role fit canada / remote",
    "alternates": []
   },
   {
@@ -4288,6 +4498,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "4,000+   Remote Developer Jobs in Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/remote-developer-jobs",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "4,000+   remote developer jobs in canada unknown canada linkedin other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "389   Implementation Consultant Jobs in Toronto",
    "company": "Unknown",
    "location": "Canada",
@@ -4304,6 +4534,86 @@
    ],
    "french": false,
    "search": "389   implementation consultant jobs in toronto unknown canada linkedin other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "3,000+   Remote Software Engineer Jobs in Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/remote-software-engineer-jobs",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "3,000+   remote software engineer jobs in canada unknown canada linkedin other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "25,000+   Software Engineering Jobs in Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/software-engineering-jobs",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "25,000+   software engineering jobs in canada unknown canada linkedin other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "2,000+   React Js Developer Jobs in Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/react-js-developer-jobs",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "2,000+   react js developer jobs in canada unknown canada linkedin other 8/10 role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "144   Junior Frontend Developer Jobs in Toronto",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/junior-frontend-developer-jobs-toronto-on",
+   "note": "5/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "144   junior frontend developer jobs in toronto unknown canada linkedin other 5/10 role fit canada / remote",
    "alternates": []
   },
   {
@@ -4365,6 +4675,44 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Winter Intern 2027 - Platform Developer (Toronto Office) - Toronto, Ontario / iHireTechnology",
+   "company": "iHireTechnology](https://www.ihiretechnology.com/jobs/view/534764667)",
+   "location": "Unknown",
+   "url": "https://www.ihiretechnology.com/jobs/view/534764667",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "ihiretechnology.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "winter intern 2027 - platform developer (toronto office) - toronto, ontario / ihiretechnology ihiretechnology](https://www.ihiretechnology.com/jobs/view/534764667) unknown ihiretechnology.com other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Technology Support Specialist I (Onsite- Toronto) - PointClickCare / Built In Toronto",
+   "company": "Built In Toronto](https://builtintoronto.com/job/technology-support-specialist-i-onsite-toronto/10611052)",
+   "location": "Unknown",
+   "url": "https://builtintoronto.com/job/technology-support-specialist-i-onsite-toronto/10611052",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "BuiltIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "technology support specialist i (onsite- toronto) - pointclickcare / built in toronto built in toronto](https://builtintoronto.com/job/technology-support-specialist-i-onsite-toronto/10611052) unknown builtin other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Strategic Account Manager - Home and Commercial at CSA Group / Hiring.Camp",
    "company": "Hiring.Camp](https://hiring.camp/job/bZ09jW)",
    "location": "Unknown",
@@ -4380,6 +4728,44 @@
    ],
    "french": false,
    "search": "strategic account manager - home and commercial at csa group / hiring.camp hiring.camp](https://hiring.camp/job/bz09jw) unknown hiring.camp other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Software Engineer- I - PheedLoop Inc. / Toronto, ON",
+   "company": "Toronto, ON](https://www.simplyhired.ca/job/O9bFXPDSrdyt4y5Wte-nOHejLcf-JanuMaHcBXAT9EZynkSt5vLU5Q)",
+   "location": "Unknown",
+   "url": "https://www.simplyhired.ca/job/O9bFXPDSrdyt4y5Wte-nOHejLcf-JanuMaHcBXAT9EZynkSt5vLU5Q",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "simplyhired.ca",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "software engineer- i - pheedloop inc. / toronto, on toronto, on](https://www.simplyhired.ca/job/o9bfxpdsrdyt4y5wte-nohejlcf-janumahcbxat9ezynkst5vlu5q) unknown simplyhired.ca other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Software Developer I - Platform Engineering / HubMub",
+   "company": "HubMub](https://www.hubmub.com/jobs/936309/software-developer-i-platform-engineering)",
+   "location": "Unknown",
+   "url": "https://www.hubmub.com/jobs/936309/software-developer-i-platform-engineering",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "hubmub.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "software developer i - platform engineering / hubmub hubmub](https://www.hubmub.com/jobs/936309/software-developer-i-platform-engineering) unknown hubmub.com other canada role fit",
    "alternates": []
   },
   {
@@ -4726,6 +5112,44 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "IT Support Administrator I / Affirm / 63k-83k/year / Toronto / August 2026",
+   "company": "Affirm",
+   "location": "63k-83k/year",
+   "url": "https://jobera.com/job/affirm-it-support-administrator-i-f82c8792/",
+   "note": "Toronto",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobera.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "it support administrator i / affirm / 63k-83k/year / toronto / august 2026 affirm 63k-83k/year jobera.com other toronto role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "IT Support Administrator I - Affirm / Built In",
+   "company": "Built In](https://builtin.com/job/it-support-administrator-i/10834586)",
+   "location": "Unknown",
+   "url": "https://builtin.com/job/it-support-administrator-i/10834586",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "BuiltIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "it support administrator i - affirm / built in built in](https://builtin.com/job/it-support-administrator-i/10834586) unknown builtin other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "GTM Engineer at Auvik Networks - Remote / Jobless",
    "company": "Jobless](https://www.jobless.dev/jobs/gtm-engineer-at-auvik-networks-fcbb24ef)",
    "location": "Unknown",
@@ -4878,6 +5302,25 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Apply for  Site Reliability Engineer I  / Loblaw",
+   "company": "Loblaw](https://careers.loblaw.ca/site-reliability-engineer-i/job/PAF-LCL-2BD8E00E-33F5-4749-8CE3-C97727FF4FEA_4479_1771358409_0)",
+   "location": "Unknown",
+   "url": "https://careers.loblaw.ca/site-reliability-engineer-i/job/PAF-LCL-2BD8E00E-33F5-4749-8CE3-C97727FF4FEA_4479_1771358409_0",
+   "note": "Canada",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "careers.loblaw.ca",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "apply for  site reliability engineer i  / loblaw loblaw](https://careers.loblaw.ca/site-reliability-engineer-i/job/paf-lcl-2bd8e00e-33f5-4749-8ce3-c97727ff4fea_4479_1771358409_0) unknown careers.loblaw.ca other canada role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Application Developer in Markham, Ontario / Careers at Adastra Head Office (Markham)",
    "company": "Careers at Adastra Head Office (Markham)](https://careers-adastragrp.icims.com/jobs/5645/application-developer/job)",
    "location": "Unknown",
@@ -4969,6 +5412,44 @@
    ],
    "french": false,
    "search": "36   creative technologist jobs in toronto unknown canada linkedin other 8/10 canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "21   Ltimindtree Jobs in Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/ltimindtree-jobs",
+   "note": "8/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "21   ltimindtree jobs in canada unknown canada linkedin other 8/10 canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "185   Support Desk Jobs in Toronto",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/support-desk-jobs-toronto-on",
+   "note": "7/10",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "185   support desk jobs in toronto unknown canada linkedin other 7/10 canada / remote",
    "alternates": []
   },
   {
@@ -7477,112 +7958,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "LinkedIn",
-   "company": "Deloitte",
-   "location": "Toronto",
-   "url": "https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232",
-   "note": "— Salesforce [LinkedIn](https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-cana",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 36,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "linkedin deloitte toronto linkedin salesforce — salesforce [linkedin](https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-cana salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "LinkedIn",
-   "company": "Thomson Reuters",
-   "location": "Toronto",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926",
-   "note": "— Salesforce [LinkedIn](https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926)",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 36,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "linkedin thomson reuters toronto linkedin salesforce — salesforce [linkedin](https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926) salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Business Analyst, Loan Servicing Technology",
-   "company": "BMO",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949972415",
-   "note": "Tableau / BI adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 36,
-   "matchReasons": [
-    "Data/reporting",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior business analyst, loan servicing technology bmo toronto, ontario adzuna other tableau / bi adzuna data/reporting consulting/ba role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior IT Business Systems Analyst",
-   "company": "Canada Life",
-   "location": "Toronto",
-   "url": "https://www.adzuna.ca/details/5949111244",
-   "note": "ITSM-adjacent BSA, requirements + process Adzuna 5949111244",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 33,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior it business systems analyst canada life toronto adzuna other itsm-adjacent bsa, requirements + process adzuna 5949111244 itsm role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Python Developer",
-   "company": "CGI",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948965023?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 32,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior python developer cgi toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md data/reporting role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Systems Administrator (Windows/Unix-Linux, Automation)",
    "company": "BMO Financial",
    "location": "Toronto, Ontario",
@@ -7621,27 +7996,6 @@
    ],
    "french": false,
    "search": "senior technical business analyst (req 264347) scotiabank toronto, on jobs.scotiabank.com other via arlo--2026-11-02--v8.md consulting/ba role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "RQ11527 - Middleware Specialist - Senior",
-   "company": "Maarut",
-   "location": "East York, Toronto",
-   "url": "https://www.adzuna.ca/details/5949202435?utm_medium=api&utm_source=54ce986e",
-   "note": "ITIL / enterprise platform ops; Ontario public-sector req Adzuna 5949202435",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 28,
-   "matchReasons": [
-    "ITIL",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq11527 - middleware specialist - senior maarut east york, toronto adzuna other itil / enterprise platform ops; ontario public-sector req adzuna 5949202435 itil role fit toronto area",
    "alternates": []
   },
   {
@@ -7688,27 +8042,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "Senior DevOps / DevSecOps Engineer",
-   "company": "Capco Group",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576723",
-   "note": "Python adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 26,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior devops / devsecops engineer capco group toronto, ontario adzuna other python adzuna data/reporting role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "System Administrator",
    "company": "TekStaff IT Solutions",
    "location": "Toronto, Ontario",
@@ -7747,47 +8080,6 @@
    ],
    "french": false,
    "search": "senior systems administrator - infrastructure & cloud mevotech mississauga, ontario adzuna other powershell / infrastructure automation adzuna 5949195568 automation role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior GRC Engineer",
-   "company": "J.D. Power",
-   "location": "Ottawa",
-   "url": "https://www.adzuna.ca/details/5949576062",
-   "note": "GRC/IRM parallel to CIS-RC work Adzuna 5949576062",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 22,
-   "matchReasons": [
-    "Risk/GRC",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior grc engineer j.d. power ottawa adzuna other grc/irm parallel to cis-rc work adzuna 5949576062 risk/grc role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Backend Developer, AI Systems",
-   "company": "Jobgether",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5949577273",
-   "note": "Python adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 22,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior backend developer, ai systems jobgether canada adzuna other python adzuna data/reporting role fit canada / remote",
    "alternates": []
   },
   {
@@ -7892,246 +8184,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "Senior Payroll Specialist",
-   "company": "goeasy",
-   "location": "Mississauga, Peel region",
-   "url": "https://www.adzuna.ca/details/5949207752?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior payroll specialist goeasy mississauga, peel region adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Java Full Stack Engineer, TD Securities",
-   "company": "TD",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576776?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior java full stack engineer, td securities td toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Full-Stack Engineer / Technical Lead - Onsite",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576278?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full-stack engineer / technical lead - onsite cognizant toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Full Stack Developer (AWS)",
-   "company": "RedPico",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576439?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full stack developer (aws) redpico toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior DevOps Engineer",
-   "company": "Symbiotic Group",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576204?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior devops engineer symbiotic group toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Data Analyst",
-   "company": "Konrad",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949020506?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior data analyst konrad toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "SAP Finance/ Functional Lead (FI, GL)",
-   "company": "Accenture PLC",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576497?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sap finance/ functional lead (fi, gl) accenture plc toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "RQ11653/ RQ11654/ RQ11500 - Software Developer - CRM - Senior",
-   "company": "Source Code",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949187538?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq11653/ rq11654/ rq11500 - software developer - crm - senior source code toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "RQ00831 - DevOPS/Cloud Engineer - Senior",
-   "company": "Maarut",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576683?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq00831 - devops/cloud engineer - senior maarut toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "RQ00828 - Software Developer - Full Stack - Senior",
-   "company": "Maarut",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576643?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq00828 - software developer - full stack - senior maarut toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "RQ00734 - Business Intelligence Specialist - Senior",
-   "company": "Source Code",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949170504?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq00734 - business intelligence specialist - senior source code toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "RQ00731 - Software Developer - Full Stack - Senior",
-   "company": "Source Code",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949170138?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq00731 - software developer - full stack - senior source code toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Staff Data Scientist",
    "company": "BMO",
    "location": "Toronto, Ontario",
@@ -8148,67 +8200,6 @@
    ],
    "french": false,
    "search": "staff data scientist bmo toronto, ontario adzuna other python adzuna data/reporting toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Manager - Senior Tech Lead - AI & Technology Transformation",
-   "company": "KPMG",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5949969958",
-   "note": "Python adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 18,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit",
-    "Quebec"
-   ],
-   "french": false,
-   "search": "senior manager - senior tech lead - ai & technology transformation kpmg montreal, quebec adzuna other python adzuna data/reporting role fit quebec",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Data Scientist - Operations Research",
-   "company": "Xanadu",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949577061",
-   "note": "Python adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 18,
-   "matchReasons": [
-    "Data/reporting",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior data scientist - operations research xanadu toronto, ontario adzuna other python adzuna data/reporting toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Analytics Engineer (m/f/d)",
-   "company": "AutoTrader.ca",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5949577699",
-   "note": "Data / BI adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior analytics engineer (m/f/d) autotrader.ca canada adzuna other data / bi adzuna role fit canada / remote",
    "alternates": []
   },
   {
@@ -8351,27 +8342,6 @@
    ],
    "french": false,
    "search": "servicenow business system architect (j0926-2617) cgi toronto, on; hybrid cgi.njoyn.com servicenow via grok-job-hunter--2026-11-02--v9.md servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Principal Solution Architect- ServiceNow",
-   "company": "ServiceNow, Inc.",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5947778885",
-   "note": "via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "principal solution architect- servicenow servicenow, inc. toronto, ontario adzuna servicenow via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md servicenow role fit toronto area",
    "alternates": []
   },
   {
