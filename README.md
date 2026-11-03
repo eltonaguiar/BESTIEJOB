@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T220959Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T223150Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
-  - [ServiceNow jobs (148)](#servicenow-jobs-148)
+  - [ServiceNow jobs (150)](#servicenow-jobs-150)
   - [Salesforce jobs (150)](#salesforce-jobs-150)
   - [Other jobs (150)](#other-jobs-150)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,16 +18,18 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **448 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (148)
+### ServiceNow jobs (150)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 148 postings</strong></summary>
+<details><summary><strong>Show 150 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-03 | [[[Lta-Itcd] Prp / Snr Engineer, Citizen Systems (Salesforce) / (Servicenow) — Careers@gov, Singapore (Hiring Now)](https://sg.expertini.com/job/lta-itcd-prp-snr-engineer-citizen-systems-salesforce-servicenow-singapore-careersgov-623919435832233452.pdf) | Singapore Jobs Expertini](https://sg.expertini.com/job/lta-itcd-prp-snr-engineer-citizen-systems-salesforce-servicenow-singapore-careersgov-623919435832233452.pdf) | Unknown | Canada |
+| 2026-11-03 | [[[LTA-ITCD] PRP / SNR ENGINEER, CITIZEN SYSTEMS (SALESFORCE) / (SERVICENOW) at Land Transport Authority (LTA) Singapore in Singapore](https://www.jobstore.com/sg/job/l17371463/lta-itcd-prp-snr-engineer-citizen-systems-salesforce-servicenow-job) | Jobstore.com](https://www.jobstore.com/sg/job/l17371463/lta-itcd-prp-snr-engineer-citizen-systems-salesforce-servicenow-job) | Unknown | Canada |
 | 2026-11-03 | [What is ServiceNow ITSM? - A Guide to Information Technology Service Management](https://www.stand8.io/resources/servicenow-itsm) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [The CMDB Senior Developer in Toronto Ontario, ON - J&M Group](https://ca.trabajo.org/job-5018-da456835dc3f44dd12a7729a00d19098) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Technical Lead for ServiceNow Solutions in Halifax, Nova Scotia - MDAEdge](https://ca.trabajo.org/job-4011-33d3dcea70d744a82e8b7e64b8731cf2) | Unknown | Canada | 8/10 |
@@ -349,6 +351,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-03 | [reputed company Building Structural Technologist for Remote Work Opportunities with a Leading Engineering Firm](https://2.halvolink.liveblog365.com/job/1066660) | Unknown | Canada | 8/10 |
+| 2026-11-03 | [[VO2 Group - [VO2 Canada] - Développeuse.eur  Fullstack- Missions Ponctuelles](https://jobs.lever.co/vo2-group/a3c728fd-aa1d-4192-a1ed-7c05f29728a2)](https://jobs.lever.co/vo2-group/a3c728fd-aa1d-4192-a1ed-7c05f29728a2) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Work With InfraDev / Talent Network & Client Placements in Canada](https://infradevconsulting.com/careers/) | Talent Network & Client Placements in Canada](https://infradevconsulting.com/careers/) | Unknown | Canada |
 | 2026-11-03 | [Winter Intern 2027 - Platform Developer (Toronto Office) - Toronto, Ontario / iHireTechnology](https://www.ihiretechnology.com/jobs/view/534764667) | iHireTechnology](https://www.ihiretechnology.com/jobs/view/534764667) | Unknown | Canada |
 | 2026-11-03 | [Web Designer & Developer job at Elev8 Web Studio in Remote - Job Search](https://clarksonsquare.com/workspread/job/web-designer-developer-at-elev8-web-studio-remote-abac7f6af87dac49jktk-Y2xhcmtzb2) | Unknown | Canada | 7/10 |
@@ -497,7 +500,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-02 | [Senior Full stack AI Developer (Python & Angular/React)](https://www.adzuna.ca/details/5950814698?utm_medium=api&utm_source=54ce986e) | Intact | Montréal, Québec | Full stack |
 | 2026-11-02 | [Senior Full Stack Developer - React / TypeScript & .NET](https://www.adzuna.ca/details/5950815048?utm_medium=api&utm_source=54ce986e) | Nutrien Ag Solutions | Calgary, Calgary region | Full stack |
 | 2026-11-02 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5950813719) | EPAM Systems | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-02 | [Senior DevOps](https://www.adzuna.ca/details/5950814973?utm_medium=api&utm_source=54ce986e) | Nord Quantique | Sherbrooke, Estrie | DevOps / Cloud |
 
 </details>
 
@@ -566,13 +568,12 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 ("2 days ago") are rejected — the merger refuses rows without a `YYYY-MM-DD` date.
 ## Automated feed (rewritten daily)
 
-Below is the raw output of `npm run scan:daily`. It may repeat rows from the tables above;
-the three tables are the curated view. The scanner only rewrites between these markers.
+Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-03T22:00:01.675Z** · 836 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T22:30:01.347Z** · 838 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -586,10 +587,10 @@ the three tables are the curated view. The scanner only rewrites between these m
 | 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486078203) | Desjardins | Montréal-Ouest, Quebec, Canada |
 | 2026-11-03 | [ServiceNow Consultant - REMOTE](https://ca.linkedin.com/jobs/view/servicenow-consultant-remote-at-ntt-data-north-america-4478715652) | NTT DATA North America | Ottawa, Ontario, Canada |
 | 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486081043) | Desjardins | Lévis, Quebec, Canada |
+| 2026-11-03 | [ServiceNow CMDB](https://ca.linkedin.com/jobs/view/servicenow-cmdb-at-tata-consultancy-services-4486059065) | Tata Consultancy Services | Montreal, Quebec, Canada |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469986334) | Pomerleau | St-Georges, Quebec, Canada |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469993127) | Pomerleau | Québec, Quebec, Canada |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469975858) | Pomerleau | Montreal, Quebec, Canada |
-| 2026-11-03 | [Administrateur ServiceNow](https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220744) | Pomerleau | Québec, Quebec, Canada |
 
 ### Salesforce — newest 12
 
@@ -601,12 +602,12 @@ the three tables are the curated view. The scanner only rewrites between these m
 | 2026-11-03 | [Salesforce Field Service (FSL) Developer](https://ca.linkedin.com/jobs/view/salesforce-field-service-fsl-developer-at-sciex-4484638102) | SCIEX | Vaughan, Ontario, Canada |
 | 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486061644) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada |
 | 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486071459) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada |
-| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486064610) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada |
 | 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058) | Co-operators | Toronto, Ontario, Canada |
 | 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487007645) | Co-operators | Mississauga, Ontario, Canada |
-| 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487006794) | Co-operators | Guelph, Ontario, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |
+| 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |
+| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486064610) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
@@ -628,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T220959Z.md` holds the previous README in full — every older table, the peer-branch reconciliation notes, per-source method write-ups and anything removed from this file on 2026-11-03.
+`README.BAK_2026-11-03T223150Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
