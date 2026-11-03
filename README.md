@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T075832Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T075854Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
-  - [ServiceNow jobs (316)](#servicenow-jobs-316)
+  - [ServiceNow jobs (317)](#servicenow-jobs-317)
   - [Salesforce jobs (400)](#salesforce-jobs-400)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,13 +18,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **1116 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **1117 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (316)
+### ServiceNow jobs (317)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 316 postings</strong></summary>
+<details><summary><strong>Show 317 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -331,6 +331,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-14 | [Senior ServiceNow Engineer](https://ca.linkedin.com/jobs/view/senior-servicenow-engineer-at-eq-bank-4470497806) | EQ Bank | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-14 | [FSO-ServiceNow Developer (33633) - National Bank of Canada](https://emplois.bnc.ca/en_CA/careers/JobDetail/MONTREAL-Quebec-Canada-P5I27-DEVELOPPEUR-PRINCIPAL/33633) | Montreal, Quebec; hybrid; French listed | Permanent full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-14 | [Bilingual Senior Specialist, ServiceNow ITSM Developer](https://ca.linkedin.com/jobs/view/bilingual-senior-specialist-servicenow-itsm-developer-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4444741717) | Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL) | Ottawa, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
+| 2026-10-13 | [Sr BSA ServiceNow ITAM (contract $55–67/hr)](https://www.apexsystems.com/job/3055722_usa/senior-business-systems-analyst-servicenow-itam) | Apex Systems | Toronto, ON; hybrid | soft: contract |
 | 2026-10-13 | [ServiceNow Development Lead - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4721707006?gh_jid=4721707006) | USA: Washington, DC; work mode not explicitly established | Not explicitly disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-13 | [ServiceNow Development Analyst - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4721709006?gh_jid=4721709006) | USA: Washington, DC; work mode not explicitly established | Not explicitly disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
 | 2026-10-09 | [Staff Database Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000154789179) | ServiceNow | Toronto, Ontario, ca | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v29.md |
@@ -1261,4 +1262,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T075832Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T075854Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
