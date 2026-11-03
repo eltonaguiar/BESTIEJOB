@@ -1,3 +1,8 @@
+> **SUPERSEDED — do not merge.** This pass used a description-based classifier that
+> misread company technology lists as role evidence (e.g. "Java Integration Developer"
+> and "Solutions Architect" became Salesforce roles). Use
+> `ROUNDS_HARVEST_2026-11-03T0346Z.md`, which requires title evidence.
+
 # 20-round fresh job campaign — 2026-11-03 03:42 UTC
 
 Window: last 14 days. Source: Adzuna CA across 20 rounds / 123 queries.
