@@ -1,0 +1,184 @@
+<!-- merged 2026-11-03T040628Z: +55 new, 116 duplicate, version 2 -->
+---
+model: restore-dedupe
+task: undo-overmerge
+---
+
+# Restored rows — 171
+
+Rows removed by the first dedupe pass, which merged distinct requisitions
+that share a company, city and title stem (e.g. Developer vs Senior Developer).
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-02 | [ServiceNow SAM Pro Consultant](https://ca.linkedin.com/jobs/view/4486426865) | 2iSolutions Inc. | Canada | restored after over-merge |
+| 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UFCvcf6MoLp) | Lightspeed Commerce, Inc. | Toronto, ON | restored after over-merge |
+| 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/kb-FDzAD1CpbRzck4uIlmzc_hsBnI_gBEfAnY4pquMHvJN7m1INfH79IrEamLzPK) | Lightspeed Commerce, Inc. | Ottawa, ON | restored after over-merge |
+| 2026-11-02 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/4485752549) | Rexall Pharmacy Group Ltd. | Mississauga, ON | restored after over-merge |
+| 2026-11-02 | [Digital Consulting Architect, ServiceNow](https://ca.linkedin.com/jobs/view/digital-consulting-architect-servicenow-at-zaelab-4461309483) | Zaelab | Canada | restored after over-merge |
+| 2026-11-01 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | restored after over-merge |
+| 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948976549?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Québec | restored after over-merge |
+| 2026-11-01 | [Solutions Architect (ServiceNow)](https://www.adzuna.ca/details/5948965055?utm_medium=api&utm_source=54ce986e) | CGI | Drummondville, Drummond | restored after over-merge |
+| 2026-11-01 | [Principal Solution Architect- ServiceNow](https://www.adzuna.ca/details/5949576383) | ServiceNow | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Manager - ServiceNow](https://www.adzuna.ca/details/5949968733?utm_medium=api&utm_source=54ce986e) | KPMG | Montréal, Québec | restored after over-merge |
+| 2026-11-01 | [Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971682) | Deloitte | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology](https://www.adzuna.ca/details/5949971672) | Deloitte | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Développeur(se) ServiceNow Senior – ITSM](https://www.adzuna.ca/details/5949011727?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Québec | restored after over-merge |
+| 2026-10-31 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://ca.linkedin.com/jobs/view/stage-coop%C3%A9ratif-hiver-2027-analyste-servicenow-4-months-at-cgi-4469236664) | CGI | Drummondville, Quebec, Canada | restored after over-merge |
+| 2026-10-31 | [Senior ServiceNow Architect](https://www.adzuna.ca/details/5948277202) | Optovia | Ottawa, Ottawa region | restored after over-merge |
+| 2026-10-31 | [Principal Solution Architect- ServiceNow](https://www.adzuna.ca/details/5947778885) | ServiceNow, Inc. | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [IT Operations & CMDB Analyst](https://www.adzuna.ca/details/5948258787) | Purolator | Mississauga | restored after over-merge |
+| 2026-10-30 | [ServiceNow Technical Consultant - Cognizant](https://www.adzuna.ca/details/5938973159?utm_medium=api&utm_source=54ce986e) | Toronto, Ontario | Unknown / peer claim not verified | restored after over-merge |
+| 2026-10-30 | [ServiceNow OMT Architect](https://www.adzuna.ca/details/5947169729?utm_medium=api&utm_source=54ce986e) | Alldus | Canada | restored after over-merge |
+| 2026-10-30 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1) | GDIT | Any Location / Remote | restored after over-merge |
+| 2026-10-30 | [ServiceNow Developer - eTelligent Group](https://job-boards.greenhouse.io/etelligentgroup/jobs/6175605004) | Remote (US, DC) | Unknown / peer claim not verified | restored after over-merge |
+| 2026-10-30 | [ServiceNow CSM/OMT Architect – 12-Month Contract](https://ca.linkedin.com/jobs/view/servicenow-csm-omt-architect-%E2%80%93-12-month-contract-at-alldus-4481452768) | Alldus | Canada | restored after over-merge |
+| 2026-10-30 | [ServiceNow AIOps Architect.](https://www.adzuna.ca/details/5947169710) | BULL-IT SOLUTIONS LTD | Toronto, Ontario | restored after over-merge |
+| 2026-10-30 | [Senior Consultant, ServiceNow](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4485296202) | KPMG Canada | Kitchener, Ontario, Canada | restored after over-merge |
+| 2026-10-30 | [Conseiller technique principal ServiceNow](https://www.adzuna.ca/details/5947177797?utm_medium=api&utm_source=54ce986e) | Bell | Toronto, Ontario | restored after over-merge |
+| 2026-10-29 | [ServiceNow Senior Technical Advisor](https://www.adzuna.ca/details/5945995783?utm_medium=api&utm_source=54ce986e) | Bell | Toronto, Ontario | restored after over-merge |
+| 2026-10-29 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5946004071?utm_medium=api&utm_source=54ce986e) | Alimentiv | Toronto, Ontario | restored after over-merge |
+| 2026-10-29 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5946002886?utm_medium=api&utm_source=54ce986e) | Alimentiv | London, Middlesex | restored after over-merge |
+| 2026-10-29 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5945477143?utm_medium=api&utm_source=54ce986e) | Alimentiv | Montréal, Québec | restored after over-merge |
+| 2026-10-29 | [ServiceNow Manager](https://www.adzuna.ca/details/5946001425?utm_medium=api&utm_source=54ce986e) | Ledcor Group | Kelowna, Central Okanagan | restored after over-merge |
+| 2026-10-29 | [ServiceNow Developer – S2P](https://ca.linkedin.com/jobs/view/4483056086) | Alldus | Canada | restored after over-merge |
+| 2026-10-29 | [ServiceNow Developer – S2P](https://ca.linkedin.com/jobs/view/servicenow-developer-%E2%80%93-s2p-at-alldus-4483056086) | Alldus | Canada | restored after over-merge |
+| 2026-10-29 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466228425) | Lightspeed Commerce | Ottawa, Ontario, Canada | restored after over-merge |
+| 2026-10-29 | [ServiceNow Architect](https://www.jobs.ca/tata-consultancy-services/jobs/servicenow-architect-toronto-on-ec39ec076eb4) | Tata Consultancy Services | Toronto, ON | restored after over-merge |
+| 2026-10-29 | [Principal Solution Architect- ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000158575719) | ServiceNow | Toronto, Ontario, ca · Remote | restored after over-merge |
+| 2026-10-29 | [Principal Solution Architect- ServiceNow](https://www.adzuna.ca/details/5946065109) | ServiceNow | Toronto, Ontario | restored after over-merge |
+| 2026-10-29 | [ITAM Governance Analyst](https://www.adzuna.ca/details/5946008454?utm_medium=api&utm_source=54ce986e) | Insight Global | Toronto, Ontario | restored after over-merge |
+| 2026-10-28 | [ServiceNow System Administrator](https://ca.linkedin.com/jobs/view/servicenow-system-administrator-at-bell-4476350097) | Bell | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-28 | [ServiceNow Platform Specialist](https://ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483654163) | Alimentiv | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-28 | [ServiceNow Developer Principal (RQ230501) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Principal_RQ230501-1) | USA: USA; remote | Full-time | restored after over-merge |
+| 2026-10-28 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote | restored after over-merge |
+| 2026-10-28 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466234344) | Lightspeed Commerce | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-28 | [Senior ServiceNow Developer (RQ228679) - GDIT](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | USA: USA; remote | Full-time | restored after over-merge |
+| 2026-10-28 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote | restored after over-merge |
+| 2026-10-28 | [Senior Consultant, ServiceNow](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4382155163) | KPMG Canada | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-27 | [ServiceNow Senior Technical Advisor](https://ca.linkedin.com/jobs/view/servicenow-senior-technical-advisor-at-bell-4476333981) | Bell | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-26 | [Staff Incident Response Engineer](https://ca.linkedin.com/jobs/view/staff-incident-response-engineer-at-servicenow-4483125674) | ServiceNow | Vancouver, British Columbia, Canada | restored after over-merge |
+| 2026-10-25 | [Senior Lead, ServiceNow ITOM](https://www.adzuna.ca/details/5941645750?utm_medium=api&utm_source=54ce986e) | Take-Two Interactive | Toronto, Ontario | restored after over-merge |
+| 2026-10-23 | [Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology](https://www.adzuna.ca/details/5939808966?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | restored after over-merge |
+| 2026-10-23 | [Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology](https://ca.linkedin.com/jobs/view/technical-delivery-mgr-servicenow-irm-sec-ops-deloitte-global-technology-at-deloitte-4482812205) | Deloitte | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-23 | [ServiceNow Platform Engineer - LightFeather](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462859008) | USA: Washington, DC; hybrid | Full-time | restored after over-merge |
+| 2026-10-22 | [ServiceNow Technical Lead](https://www.adzuna.ca/details/5937649084?utm_medium=api&utm_source=54ce986e) | CAAT Pension Plan | Toronto, Ontario | restored after over-merge |
+| 2026-10-22 | [ServiceNow Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-at-cognizant-4481192199) | Cognizant | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-22 | [ServiceNow Developer](https://www.adzuna.ca/details/5937652882?utm_medium=api&utm_source=54ce986e) | Lightspeed Commerce | Canada | restored after over-merge |
+| 2026-10-21 | [ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/servicenow-technical-lead-at-caat-pension-plan-4481155245) | CAAT Pension Plan | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-21 | [Senior Manager, ServiceNow - Operate](https://www.adzuna.ca/details/5937220371) | Deloitte | Toronto, Ontario | restored after over-merge |
+| 2026-10-21 | [Senior Manager, ServiceNow - Operate](https://ca.linkedin.com/jobs/view/senior-manager-servicenow-operate-at-deloitte-4482101798) | Deloitte | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-18 | [Senior Technical Consultant, ServiceNow Developer](https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454544020) | KPMG Canada | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-18 | [Consultant, ServiceNow Developer](https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454532959) | KPMG Canada | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-17 | [Senior Consultant, Developer, ServiceNow](https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454531951) | KPMG Canada | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-14 | [ServiceNow Sr. Developer - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4711687006?gh_jid=4711687006) | USA: Springfield, Virginia; onsite, four-five days for Now Assist/Portal | Not explicitly disclosed | restored after over-merge |
+| 2026-10-14 | [ServiceNow Sr. Developer (Portal) - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4704135006?gh_jid=4704135006) | USA: Springfield, Virginia; onsite, four-five days for Now Assist/Portal | Not explicitly disclosed | restored after over-merge |
+| 2026-10-14 | [ServiceNow Sr. Developer (CSM) - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4704225006?gh_jid=4704225006) | USA: Washington, DC; work mode not explicitly established | Not explicitly disclosed | restored after over-merge |
+| 2026-10-13 | [ServiceNow Development Lead - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4721707006?gh_jid=4721707006) | USA: Washington, DC; work mode not explicitly established | Not explicitly disclosed | restored after over-merge |
+| 2026-11-02 | [nCino Consultant](https://www.adzuna.ca/details/5950813856) | Delpath | Toronto, Ontario | restored after over-merge |
+| 2026-11-02 | [Tech Lead Salesforce Financial Services Cloud (FSC)](https://www.adzuna.ca/details/5950768381?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | restored after over-merge |
+| 2026-11-02 | [Senior Salesforce Developer / Admin](https://www.adzuna.ca/details/5950814412) | Celestica | Toronto, Ontario | restored after over-merge |
+| 2026-11-02 | [Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-insight-global-4485783296) | Insight Global | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-11-02 | [Salesforce Functional Analyst](https://ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737) | Manulife | Waterloo, Ontario, Canada | restored after over-merge |
+| 2026-11-02 | [Salesforce Consultant](https://www.adzuna.ca/details/5950538116) | Epsilon Solutions LTD | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5948997248) | Docebo | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/land/ad/5949286084) | CloudKettle Inc | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5949286084?utm_medium=api&utm_source=54ce986e) | CloudKettle Inc | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Salesforce Platform Developer](https://www.adzuna.ca/details/5949004280) | Altus Group | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Salesforce Administrator](https://www.adzuna.ca/details/5948986828?utm_medium=api&utm_source=54ce986e) | RideCo | Waterloo, Ontario | restored after over-merge |
+| 2026-10-31 | [Senior Salesforce Developer](https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad) | Docebo | Toronto, ON (55 York St, M5J 1R7) | restored after over-merge |
+| 2026-10-31 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5947973988) | Epsilon Solutions LTD | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5948276995?utm_medium=api&utm_source=54ce986e) | Jobgether | Canada | restored after over-merge |
+| 2026-10-31 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5948276350) | Orion Global Solutions | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Salesforce Platform Developer](https://builtin.com/job/salesforce-platform-developer/11985908) | Altus Group | Toronto, ON | restored after over-merge |
+| 2026-10-31 | [Salesforce Platform Developer](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087) | Altus Group | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Salesforce Devops Lead](https://ca.linkedin.com/jobs/view/salesforce-devops-lead-at-atb-financial-4485306213) | ATB Financial | Edmonton, Alberta, Canada | restored after over-merge |
+| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948021504?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948024454) | Epsilon Solutions LTD | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948023880?utm_medium=api&utm_source=54ce986e) | Macpower Digital Assets Edge Private Limited | Calgary, Calgary region | restored after over-merge |
+| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5947991002) | Epsilon Solutions LTD | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5947778702?utm_medium=api&utm_source=54ce986e) | Panasonic North America | Mississauga, Peel region | restored after over-merge |
+| 2026-10-31 | [Principal Solutions Consultant – Salesforce & Digital Transformation](https://www.adzuna.ca/details/5948276722?utm_medium=api&utm_source=54ce986e) | Chapman Tate Associates | Canada | restored after over-merge |
+| 2026-10-31 | [DevOps Engineer(Salesforce)](https://ca.linkedin.com/jobs/view/devops-engineer-salesforce-at-scotiabank-4476839954) | Scotiabank | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-30 | [Senior Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/senior-salesforce-technical-lead-at-arkhya-tech-inc-4485357239) | Arkhya Tech Inc. | Canada | restored after over-merge |
+| 2026-10-30 | [Senior Salesforce Developer](https://www.workopolis.com/jobsearch/viewjob/OXjQph21lhSlSOWbNhVAyEHEkgj9DHdHDfWT4Jg0w6Nh62qBhkopJKmyayCkKirh) | Docebo | Toronto, ON (Hybrid) | restored after over-merge |
+| 2026-10-30 | [Senior Full Stack Developer - Salesforce (Contract)](https://ca.linkedin.com/jobs/view/senior-full-stack-developer-salesforce-contract-at-electric-mind-4459609783) | Electric Mind | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-30 | [Salesforce Technical Lead Developer](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-developer-at-arkhya-tech-inc-4485348889) | Arkhya Tech Inc. | Canada | restored after over-merge |
+| 2026-10-30 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5946719401?utm_medium=api&utm_source=54ce986e) | Jobgether | Canada | restored after over-merge |
+| 2026-10-30 | [Salesforce Tech Lead (Canada-Remote)](https://www.adzuna.ca/details/5947169370?utm_medium=api&utm_source=54ce986e) | CloudLabs Inc | Canada | restored after over-merge |
+| 2026-10-30 | [Salesforce Platform Support](https://ca.linkedin.com/jobs/view/salesforce-platform-support-at-pacer-group-4484899679) | Pacer Group | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-30 | [Salesforce Omnistudio Developer](https://www.adzuna.ca/details/5947169671) | Galent | Toronto, Ontario | restored after over-merge |
+| 2026-10-30 | [Salesforce Developer - ICF](https://remotive.com/remote/jobs/software-development/salesforce-developer-6391386) | Remote (US) | Unknown / peer claim not verified | restored after over-merge |
+| 2026-10-30 | [Salesforce Developer - Digital Customer: Future Opportunities](https://www.jobs.ca/deloitte/jobs/salesforce-developer-digital-customer-future-opportunities-toronto-on-3fbdd58702c2) | Deloitte Canada | Toronto, ON | restored after over-merge |
+| 2026-10-30 | [Principle Salesforce Developer](https://ca.linkedin.com/jobs/view/principle-salesforce-developer-at-moneris-4466619394) | Moneris | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-30 | [Customer Success Manager - Core Clouds](https://ca.linkedin.com/jobs/view/customer-success-manager-core-clouds-at-salesforce-4485354997) | Salesforce | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-29 | [Specialist- Salesforce Architect](https://www.adzuna.ca/details/5945650283?utm_medium=api&utm_source=54ce986e) | Parkland | Calgary, Calgary region | restored after over-merge |
+| 2026-10-29 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5946001608) | Tamanna Technology | Toronto, Ontario | restored after over-merge |
+| 2026-10-29 | [Salesforce Technical Lead - Financial Services Cloud](https://www.adzuna.ca/details/5945773024?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | restored after over-merge |
+| 2026-10-29 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5946002102) | Tamanna Technology | Toronto, Ontario | restored after over-merge |
+| 2026-10-29 | [Salesforce Solution Lead](https://www.adzuna.ca/details/5945478146?utm_medium=api&utm_source=54ce986e) | McKesson | Mississauga, Peel region | restored after over-merge |
+| 2026-10-29 | [Salesforce Senior Developer](https://www.adzuna.ca/details/5946061272) | Acestack | Regent Park, City of Toronto | restored after over-merge |
+| 2026-10-29 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5946061305) | Acestack | Regent Park, City of Toronto | restored after over-merge |
+| 2026-10-29 | [Salesforce Marketing Cloud Developer](https://www.adzuna.ca/details/5946003198?utm_medium=api&utm_source=54ce986e) | McKesson | Mississauga, Peel region | restored after over-merge |
+| 2026-10-29 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-panasonic-north-america-4483402268) | Panasonic North America | Mississauga, Ontario, Canada | restored after over-merge |
+| 2026-10-29 | [Salesforce Communications Cloud Architect](https://www.adzuna.ca/details/5946061253) | Acestack | Regent Park, City of Toronto | restored after over-merge |
+| 2026-10-29 | [Salesforce Business Analyst (Financial Services Cloud)](https://www.adzuna.ca/details/5945714329?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | restored after over-merge |
+| 2026-10-29 | [Marketing Cloud Specialist](https://www.adzuna.ca/details/5945494725?utm_medium=api&utm_source=54ce986e) | Medcan | Toronto, Ontario | restored after over-merge |
+| 2026-10-29 | [Développeur ou développeuse principal(e), Salesforce](https://www.adzuna.ca/details/5945675026?utm_medium=api&utm_source=54ce986e) | Journey Capital | Montréal, Québec | restored after over-merge |
+| 2026-10-28 | [Software Engineer II (Salesforce Loyalty Management Developer)](https://www.adzuna.ca/details/5944215581?utm_medium=api&utm_source=54ce986e) | TD Bank | Toronto, Ontario | restored after over-merge |
+| 2026-10-28 | [Senior Salesforce Architect (CA)](https://ca.linkedin.com/jobs/view/senior-salesforce-architect-ca-at-pointclickcare-4460993936) | PointClickCare | Mississauga, Ontario, Canada | restored after over-merge |
+| 2026-10-28 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484135980) | Benevity | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-28 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484146485) | Benevity | Calgary, Alberta, Canada | restored after over-merge |
+| 2026-10-27 | [Salesforce Solution Architect, Service Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/5730028004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | restored after over-merge |
+| 2026-10-27 | [Salesforce Solution Architect, Field Service](https://job-boards.greenhouse.io/neuraflash/jobs/6011721004) | NeuraFlash (Accenture) | Remote - Canada (AB, BC, ON only) | restored after over-merge |
+| 2026-10-27 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797) | Medcan | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-27 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-delpath-4484206074) | Delpath | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-26 | [Salesforce Consultant](https://www.adzuna.ca/details/5942366203?utm_medium=api&utm_source=54ce986e) | Axiom Global Technologies | Toronto, Ontario | restored after over-merge |
+| 2026-10-26 | [Salesforce Commerce Cloud Developer](https://www.adzuna.ca/details/5942157871) | Eminence Organic Skin Care | Vancouver, Greater Vancouver | restored after over-merge |
+| 2026-10-26 | [B2B Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/b2b-salesforce-business-analyst-at-staples-canada-4430798266) | Staples Canada | Richmond Hill, Ontario, Canada | restored after over-merge |
+| 2026-10-25 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5941205903?utm_medium=api&utm_source=54ce986e) | Cognizant | Toronto, Ontario | restored after over-merge |
+| 2026-10-25 | [Request ID: 114275 - Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5941645141) | Flexstaf IT | Toronto, Ontario | restored after over-merge |
+| 2026-10-24 | [Solution Architect - (Healthcare/Life Sciences or Financial Services)](https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457034728) | Salesforce | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-23 | [Salesforce FSC Developer](https://www.adzuna.ca/details/5938973162?utm_medium=api&utm_source=54ce986e) | Cognizant | Toronto, Ontario | restored after over-merge |
+| 2026-10-23 | [Salesforce Communications Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-communications-cloud-developer-at-j-m-group-4483147998) | J&M Group | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-22 | [Technical Architect Director - PubSec - Mulesoft Canada](https://ca.linkedin.com/jobs/view/technical-architect-director-pubsec-mulesoft-canada-at-salesforce-4473921931) | Salesforce | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-21 | [Salesforce Revenue Cloud Developer](https://www.adzuna.ca/details/5937070752?utm_medium=api&utm_source=54ce986e) | Astra North Infoteck Inc. | Toronto, Ontario | restored after over-merge |
+| 2026-10-21 | [Salesforce Revenue Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4481136121) | Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision! | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-21 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5937070757?utm_medium=api&utm_source=54ce986e) | Astra North Infoteck Inc. | Toronto, Ontario | restored after over-merge |
+| 2026-10-21 | [Salesforce Revenue Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4481126447) | Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision! | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-21 | [Salesforce Communications Cloud Architect](https://www.adzuna.ca/details/5937070754) | Astra North Infoteck Inc. | Toronto, Ontario | restored after over-merge |
+| 2026-10-21 | [Salesforce Communications Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-communications-cloud-architect-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4481129319) | Astra-North Infoteck Inc.  ~ Conquering today’s challenges, achieving tomorrow’s vision! | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-11-03 | [Mid-Sr Level Litigation Associate (Cyber Liability)](https://ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-canada-4484615875) | DWF (Canada) | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-11-02 | [React Native - Mobile Full Stack Developer](https://ca.linkedin.com/jobs/view/react-native-mobile-full-stack-developer-at-zoho-4485763566) | Zoho | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-11-02 | [Implementation Consultant](https://www.adzuna.ca/details/5950539554) | Clariti Cloud | Toronto | restored after over-merge |
+| 2026-11-01 | [Site Reliability Engineer Lead](https://www.adzuna.ca/details/5949576420?utm_medium=api&utm_source=54ce986e) | TD Bank Group | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Senior DevOps / DevSecOps Engineer](https://www.adzuna.ca/details/5949576723) | Capco Group | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [LinkedIn](https://ca.linkedin.com/jobs/view/process-lead-architect-customer-service-management-at-deloitte-4460519030) | Deloitte | Toronto | restored after over-merge |
+| 2026-11-01 | [LinkedIn](https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-intelligence-artificielle-now-assist-at-deloitte-4459418991) | Deloitte | Toronto | restored after over-merge |
+| 2026-11-01 | [LinkedIn](https://ca.linkedin.com/jobs/view/senior-consultant-it-operations-management-discovery-at-deloitte-4460512143) | Deloitte | Toronto | restored after over-merge |
+| 2026-11-01 | [Job Bank 50631248](https://www.jobbank.gc.ca/jobsearch/jobposting/50631248) | CloudKettle Inc | Toronto, ON | restored after over-merge |
+| 2026-11-01 | [Job Bank 50631226](https://www.jobbank.gc.ca/jobsearch/jobposting/50631226) | CloudKettle Inc | Toronto, ON | restored after over-merge |
+| 2026-11-01 | [Job Bank 50631214](https://www.jobbank.gc.ca/jobsearch/jobposting/50631214) | CloudKettle Inc | Toronto, ON | restored after over-merge |
+| 2026-11-01 | [Job Bank 50631185](https://www.jobbank.gc.ca/jobsearch/jobposting/50631185) | CloudKettle Inc | Toronto, ON | restored after over-merge |
+| 2026-11-01 | [Data Analyst](https://www.adzuna.ca/details/5949024762?utm_medium=api&utm_source=54ce986e) | Konrad | Toronto, Ontario | restored after over-merge |
+| 2026-11-01 | [Business Intelligence Analyst, Google Cloud Support](https://www.adzuna.ca/details/5948845128?utm_medium=api&utm_source=54ce986e) | Google | Waterloo region, Ontario | restored after over-merge |
+| 2026-10-31 | [Senior Full-Stack Developer (Senior Digital Product Developer)](https://www.adzuna.ca/details/5947988378) | House of Commons  / Chambre des communes | Ottawa, Ottawa region | restored after over-merge |
+| 2026-10-31 | [Senior Cloud DevOps Engineer](https://www.adzuna.ca/details/5948013696?utm_medium=api&utm_source=54ce986e) | Charger Logistics Inc | Brampton, Peel region | restored after over-merge |
+| 2026-10-31 | [Java Full stack Developer](https://www.adzuna.ca/details/5948025866?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Java Full Stack Developer](https://www.adzuna.ca/details/5948026440?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Java Full Stack Developer](https://www.adzuna.ca/details/5948026005?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Full-Stack Developer (Digital Product Developer)](https://www.adzuna.ca/details/5948024790) | House of Commons / Chambre des communes | Ottawa, Ottawa region | restored after over-merge |
+| 2026-10-31 | [Full Stack Developer](https://www.adzuna.ca/details/5948026525?utm_medium=api&utm_source=54ce986e) | Axelon Services Corporation | Mississauga, Peel region | restored after over-merge |
+| 2026-10-31 | [DevOps Engineer](https://www.adzuna.ca/details/5948006876?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [CAN_Business Analyst](https://www.adzuna.ca/details/5948017591?utm_medium=api&utm_source=54ce986e) | Varite, Inc | Toronto, Ontario | restored after over-merge |
+| 2026-10-31 | [Business Analyst](https://www.adzuna.ca/details/5948025153?utm_medium=api&utm_source=54ce986e) | Mindlance | Toronto, Ontario | restored after over-merge |
+| 2026-11-02 | [Software Developer, DevOps](https://jobs.ashbyhq.com/benevity/867b18d3-a888-40b4-8186-8dee8f340886) | Benevity | Calgary, Alberta | restored after over-merge |
+| 2026-11-02 | [AI DevOps Specialist (GCP & Vertex AI)](https://www.adzuna.ca/details/5950814513) | Experis | Toronto, Ontario | restored after over-merge |
+| 2026-11-02 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5950813719) | EPAM Systems | Toronto, Ontario | restored after over-merge |
+| 2026-11-02 | [ITAM Specialist](https://ca.linkedin.com/jobs/view/itam-specialist-at-raise-4486445797) | Raise | Saskatoon, Saskatchewan, Canada | restored after over-merge |
+| 2026-11-02 | [React Native - Mobile Full-Stack Developer](https://ca.linkedin.com/jobs/view/react-native-mobile-full-stack-developer-at-zoho-4485746214) | Zoho | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-26 | [Manager, Global Incentive Compensation](https://ca.linkedin.com/jobs/view/manager-global-incentive-compensation-at-salesforce-partner-canada-4483749258) | Salesforce Partner Canada | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-23 | [Manager, Global Incentive Compensation](https://ca.linkedin.com/jobs/view/manager-global-incentive-compensation-at-salesforce-4455919738) | Salesforce | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-21 | [Lead Solution Engineer, ECS, Public Sector](https://ca.linkedin.com/jobs/view/lead-solution-engineer-ecs-public-sector-at-salesforce-4482013708) | Salesforce | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-21 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4462540700) | Alithya | Montreal, Quebec, Canada | restored after over-merge |
+| 2026-10-30 | [Business Analyst – Senior](https://www.adzuna.ca/details/5947216858?utm_medium=api&utm_source=54ce986e) | Innosystech Inc | Regent Park, City of Toronto | restored after over-merge |
