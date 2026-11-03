@@ -105,6 +105,34 @@ const ADZUNA_VARIANTS = [
   { what: "salesforce administrator", where: "Canada" },
 ];
 
+// AI panel keyword proposals (tools/ai_panel.py). The panel is a proposal
+// source, not an authority: anything without the shape of a job keyword is
+// dropped again here, so a hallucinated phrase can never reach the API.
+function loadAiVariants() {
+  const flagged = process.argv.find((a) => a.startsWith("--variants-file="));
+  const file = flagged ? flagged.split("=")[1] : path.join(ROOT, "raw", "ai_queries.json");
+  let payload;
+  try {
+    payload = JSON.parse(fs.readFileSync(file, "utf8"));
+  } catch {
+    return [];
+  }
+  const raw = Array.isArray(payload) ? payload : payload.keywords || [];
+  const known = new Set(ADZUNA_VARIANTS.map((v) => v.what.toLowerCase()));
+  const out = [];
+  for (const item of raw) {
+    const what = String(item || "").trim().toLowerCase();
+    if (!what || known.has(what)) continue;
+    if (!/^[a-z0-9][a-z0-9 .+#/-]{2,40}$/.test(what)) continue;
+    if (what.split(/\s+/).length > 4) continue;
+    if (/\b(toronto|canada|ontario|remote)\b/.test(what)) continue;
+    known.add(what);
+    out.push({ what, where: "Canada" });
+  }
+  if (out.length) console.log(`[gap:adzuna] +${out.length} AI-suggested variants from ${file}`);
+  return out;
+}
+
 const MAX_DETAIL_PAGES = 24;
 const DETAIL_CONCURRENCY = 4;
 
@@ -384,7 +412,8 @@ async function scanAdzunaVariants() {
   const appId = process.env.ADZUNA_APP_ID || "54ce986e";
   const appKey = process.env.ADZUNA_API_KEY || "db851f299e966c0a2a72af525dce6199";
   const jobs = [];
-  const perQuery = await mapLimit(ADZUNA_VARIANTS, 4, async ({ what, where }) => {
+  const variants = [...ADZUNA_VARIANTS, ...loadAiVariants()];
+  const perQuery = await mapLimit(variants, 4, async ({ what, where }) => {
     const url =
       "https://api.adzuna.com/v1/api/jobs/ca/search/1" +
       `?app_id=${encodeURIComponent(appId)}&app_key=${encodeURIComponent(appKey)}` +
@@ -414,7 +443,7 @@ async function scanAdzunaVariants() {
     }
   });
   for (const list of perQuery) jobs.push(...list);
-  console.log(`[gap:adzuna] variants=${ADZUNA_VARIANTS.length} today-only matches=${jobs.length}`);
+  console.log(`[gap:adzuna] variants=${variants.length} today-only matches=${jobs.length}`);
   return jobs;
 }
 

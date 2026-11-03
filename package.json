@@ -13,6 +13,11 @@
     "deploy": "node scripts/upload-gotjob.js",
     "deploy:gotjob": "node scripts/upload-gotjob.js",
     "scan:daily": "node scripts/daily_job_scan.mjs",
+    "ai:ping": "python3 tools/ai_panel.py ping",
+    "ai:queries": "python3 tools/ai_panel.py queries --out raw/ai_queries.json",
+    "ai:triage": "python3 tools/ai_panel.py triage --input raw/ai_triage_in.json",
+    "ai:triage:inbox": "python3 tools/ai_panel.py triage-inbox",
+    "scan:websearch": "python3 scripts/web_search_scan.py",
     "scan:daily:playwright": "node scripts/daily_job_scan.mjs --playwright"
   },
   "dependencies": {

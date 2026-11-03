@@ -51,6 +51,44 @@ Run `scripts/daily_job_scan.mjs` (or equivalent) against Adzuna CA:
 - `max_days_old=14`, `sort_by=date`, `results_per_page=25`
 - Output: `jobs.json` + `public/jobs-data.json` + `FRESH_JOBS.md`
 
+#### 1a-bis. Free-AI keyword proposals (`tools/ai_panel.py`)
+`scripts/daily_scan.sh` runs this automatically right before `gap_scan.mjs`:
+
+```bash
+python3 tools/ai_panel.py ping                       # which free peers answer today
+python3 tools/ai_panel.py queries --count 12 \
+  --out raw/ai_queries.json                          # new Adzuna `what` variants
+python3 tools/ai_panel.py triage --input <jobs>.json  # second-opinion on ambiguous rows
+```
+
+Peers are tried local (`:8000`/`:11434`/`:4000`) → keyless (Kilo, Pollinations, LLM7, OVH)
+→ keyed free tiers (Groq, Gemini, Cohere, Mistral, SiliconFlow, …). Keys come from
+`~/dbpasses.txt` and are never printed. **Proposals are hypotheses only:** the panel and
+`gap_scan.mjs` both drop anything that isn't a 2–4 word keyword, and no date, salary, or
+company ever comes from a model. A failed panel is non-fatal — the static list still runs.
+
+The same script reviews the inbox:
+
+```bash
+python3 tools/ai_panel.py triage-inbox --limit 20
+```
+
+It reads `inbox/*.md`, takes the rows whose Posted cell is an undated marker, and writes
+`inbox/_ai-triage--<date>--v<N>.md` — a verdict table (`servicenow` / `salesforce` /
+`other` / `reject` plus the peers' reasons). The leading underscore makes the merger and
+`check_inbox.py` ignore it, so a review report can never become a submission or acquire a
+date. Read it before opening the raw inbox files.
+
+#### 1a-ter. Web search (`scripts/web_search_scan.py`)
+
+Real search, not aggregator scraping: Tavily (×2 keys), Exa and Firecrawl, 8 job-focused
+queries each, results filtered against board **category** pages ("ServiceNow Developer
+Jobs in Toronto (500 Open Roles)" is not a posting), then keyword + geo + dedupe.
+
+**A date comes only from the page** (`datePosted` JSON-LD, `article:published_time`,
+`itemprop=datePosted`). No date means an em dash and an `inbox/` row the merger skips.
+Most web-search hits are undated — treat this source as a review queue, not a feed.
+
 #### 1b. Web search (per category)
 Run 3-6 targeted web searches per category using the websearch tool:
 
