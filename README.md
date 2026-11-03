@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T091911Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T092031Z.md`.
 
 ## Contents
 
@@ -36,8 +36,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-02 | [ServiceNow ITOM Consultant](https://ca.linkedin.com/jobs/view/servicenow-itom-consultant-at-2isolutions-inc-4486429594) | 2iSolutions Inc. | Canada |  |
 | 2026-11-02 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-rexall-pharmacy-group-ltd-4485752549) | Rexall Pharmacy Group Ltd. | Mississauga, Ontario, Canada |  |
 | 2026-11-02 | [ServiceNow Developer](https://www.adzuna.ca/details/5926069932) | Zaelab | Montreal, QC | ServiceNow practice role; configuring and supporting ServiceNow solutions Adzuna 5926069932 |
-| 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UFCvcf6MoLp) | Lightspeed Commerce, Inc. | Toronto, ON | restored after over-merge |
-| 2026-11-02 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/kb-FDzAD1CpbRzck4uIlmzc_hsBnI_gBEfAnY4pquMHvJN7m1INfH79IrEamLzPK) | Lightspeed Commerce, Inc. | Ottawa, ON | restored after over-merge |
 | 2026-11-02 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/4485752549) | Rexall Pharmacy Group Ltd. | Mississauga, ON | restored after over-merge |
 | 2026-11-02 | [ServiceNow Consultant (Discovery & ITAM SME)](https://ca.linkedin.com/jobs/view/4485761822) | Bull Information Technology and Services | Toronto, ON | via grok-job-hunter--2026-11-02--v47.md |
 | 2026-11-02 | [ServiceNow Consultant](https://ca.linkedin.com/jobs/view/servicenow-consultant-at-bull-information-technology-and-services-4485761822) | Bull Information Technology and Services | Toronto, Ontario, Canada |  |
@@ -113,7 +111,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-30 | [ServiceNow Developer - Sika AG](https://empleo.3mtglobal.es/jobs/8525862-salesforce-senior-developer) | Remote-eligible (USA) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Developer - Northrop Grumman](https://simplify.jobs/p/c93b9c62-cd0a-4bd8-96be-17be52390763) | Roy, UT (contract) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Developer - MANTECH](https://www.tealhq.com/job/servicenow-developer_7ea1a1aef814edcd42f24316d105d73bc9d4e) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [ServiceNow Developer - Lightspeed Commerce](https://www.jobleads.com/ca/job/servicenow-developer_7ea1a5eef4700462e87edc77bd42e768c5a1a) | Toronto, ON (onsite) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Developer - LightFeather](https://builtin.com/job/servicenow-developer/10247534) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Developer - Levio](https://simplify.jobs/p/c666186a-938e-4be5-b78f-1da32d574a01/ServiceNow-Developer) | Fully remote — Toronto/Canada | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Developer - Leidos](https://builtin.com/job/servicenow-developer/10872287) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
@@ -123,7 +120,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-30 | [ServiceNow Developer - BFG Enterprise Services](https://ca.indeed.com/cmp/BFG-Enterprise-Services) | Markham, ON (hybrid) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Developer (Canada Remote 1016) - Veracity Ventures Inc.](https://veracity-ventures-inc.careerplug.com/jobs/3602568/apps/new) | Fully remote — Canada | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Developer (CSDM, ITOM, CMDB)](https://www.cofomo.com/en/jobs/84848) | COFOMO | Montreal, QC; hybrid | via grok-job-hunter--2026-11-02--v29.md |
-| 2026-10-30 | [ServiceNow Developer](https://jobs.realventures.com/companies/quotemachine/jobs/98564836-servicenow-developer) | QuoteMachine | Toronto, ON (FT) | Real Ventures/Getro board, repost of archived 97699210; ITSM+HRSD, IntegrationHub, ACLs |
 | 2026-10-30 | [ServiceNow CSM/OMT Architect – 12-Month Contract](https://ca.linkedin.com/jobs/view/servicenow-csm-omt-architect-%E2%80%93-12-month-contract-at-alldus-4481452768) | Alldus | Canada | restored after over-merge |
 | 2026-10-30 | [ServiceNow Business Process Consultant – FSO/CSM](https://www.adzuna.ca/details/5946714109?utm_medium=api&utm_source=54ce986e) | NewRocket | Canada | via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md |
 | 2026-10-30 | [ServiceNow Business Process Consultant (R00356212) - Accenture](https://www.jobs.ca/accenture/jobs/servicenow-business-process-consultant-remote-toronto-ontario-canada-e57f2877cf95) | Fully remote — Toronto | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
@@ -147,7 +143,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-30 | [L2 Analyst (ServiceNow support; soft)](https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/L2-Analyst_JR167134) | Canadian Tire Corporation | Toronto, ON | via grokbot-agency-ats-overnight--2026-11-03--v1.md |
 | 2026-10-30 | [Information Technology Service Management (ITSM) Analyst (JR100183) - CAAT Pension Plan](https://caatpension.wd10.myworkdayjobs.com/Careers/job/Toronto-ON/ITSM-Analyst_JR100183) | Canada: Toronto; hybrid | Full-time | Accepting (ATS) Not disclosed |
 | 2026-10-30 | [IT Operations & CMDB Analyst](https://ca.linkedin.com/jobs/view/it-operations-cmdb-analyst-at-purolator-inc-4485105171) | Purolator Inc. | Mississauga, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
-| 2026-10-30 | [Développeur·euse ServiceNow](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur%C2%B7euse-servicenow-at-lightspeed-commerce-4466245163) | Lightspeed Commerce | Montreal, Quebec, Canada | via copilot-multiai--2026-11-03--v1.md |
 | 2026-10-30 | [Conseiller technique principal ServiceNow](https://www.adzuna.ca/details/5947177797?utm_medium=api&utm_source=54ce986e) | Bell | Toronto, Ontario | via other-expansion--2026-11-02--v23.md |
 | 2026-10-29 | [Technology Lead, Enterprise Platforms & Operation (Director) — ServiceNow/ITSM governance](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Technology-Lead--Enterprise-Platforms---Operation-Director-_R-6464) | TMX Group | Toronto, ON (hybrid) | employer Workday verified 2026-11-02; stretch (Director) |
 | 2026-10-29 | [Staff Systems Engineer](https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951) | ServiceNow | Toronto, Ontario, Canada | via twin 20-round harvest |
@@ -178,6 +173,11 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-29 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1) | GDIT | Any Location / Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v20.md |
 | 2026-10-29 | [ServiceNow Developer III (SE3) (Remote CT) - First Citizens Bank](https://jobs.firstcitizens.com/jobs/36304) | USA: Remote Connecticut, U.S.; not advertised as unrestricted U.S. or Canada remote. | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [ServiceNow Developer II (SE2) (Remote TX) - First Citizens Bank](https://jobs.firstcitizens.com/jobs/36303) | USA: Remote Texas, U.S.; not advertised as unrestricted U.S. or Canada remote. | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
+| 2026-10-29 | [ServiceNow Developer (SAM Pro) - First Citizens Bank](https://jobs.firstcitizens.com/jobs/36298) | USA: Remote North Carolina, Texas, Arizona, or Florida, U.S. | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v40.md |
+| 2026-10-29 | [ServiceNow Developer](https://www.adzuna.ca/details/5946004239?utm_medium=api&utm_source=54ce986e) | LeverageTek Staffing Solutions | Ottawa, Ottawa region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v40.md |
+| 2026-10-29 | [ServiceNow CSM/OMT Architect – 12-Month Contract](https://www.adzuna.ca/details/5946004861?utm_medium=api&utm_source=54ce986e) | Alldus | Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v40.md |
+| 2026-10-29 | [ServiceNow Architect](https://www.adzuna.ca/details/5946061285?utm_medium=api&utm_source=54ce986e) | Acestack | Regent Park, City of Toronto | via other-expansion--2026-11-02--v42.md |
+| 2026-10-29 | [ServiceNow Architect](https://www.jobs.ca/tata-consultancy-services/jobs/servicenow-architect-toronto-on-ec39ec076eb4) | Tata Consultancy Services | Toronto, ON | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v40.md |
 
 </details>
 
@@ -595,4 +595,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T091911Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T092031Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.

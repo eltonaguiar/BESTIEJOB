@@ -28,3 +28,21 @@ to; they are kept here for tracking instead of the live tables.
   R260030015). The BMO Automation Engineer row (R260029070) was also removed from Arlo's own
   inbox file so his merges no longer re-add it. Durable fix for whoever maintains the merger:
   exclude URLs listed in this file when regenerating the tables.
+
+
+## Applied — Lightspeed / QuoteMachine ServiceNow Developer (archived 2026-11-03)
+
+Already applied (Lightspeed SN Developer; QuoteMachine/Real Ventures is the same JD twin). All reposts/aggregator twins below are archived so the merger treats them as known and never re-adds them.
+
+| URL |
+|---|
+| https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UFCvcf6MoLp |
+| https://www.workopolis.com/jobsearch/viewjob/kb-FDzAD1CpbRzck4uIlmzc_hsBnI_gBEfAnY4pquMHvJN7m1INfH79IrEamLzPK |
+| https://www.jobleads.com/ca/job/servicenow-developer_7ea1a5eef4700462e87edc77bd42e768c5a1a |
+| https://jobs.realventures.com/companies/quotemachine/jobs/98564836-servicenow-developer |
+| https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur%C2%B7euse-servicenow-at-lightspeed-commerce-4466245163 |
+| https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466228425 |
+| https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466234344 |
+| https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4482529562 |
+| https://www.adzuna.ca/details/5937652882?utm_medium=api&utm_source=54ce986e |
+| https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4478929274 |
