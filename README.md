@@ -1303,7 +1303,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-03T22:28:46.083Z** · 1130 live postings from 8 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T22:41:44.477Z** · 1173 live postings from 8 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -1328,7 +1328,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 |---|---|---|---|
 | 2026-11-03 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto |
 | 2026-11-03 | [Salesforce Consultant, Revenue Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/6242209004) | NeuraFlash | Remote - Colombia |
-| 2026-11-03 | [Salesforce Implementation Consultant & Platform Administrator](https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282) | SS&C Technologies | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Field Service (FSL) Developer](https://ca.linkedin.com/jobs/view/salesforce-field-service-fsl-developer-at-sciex-4484638102) | SCIEX | Vaughan, Ontario, Canada |
 | 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486061644) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada |
 | 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486071459) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada |
@@ -1337,7 +1336,8 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |
-| 2026-11-03 | [Développeur ou développeuse de systèmes – Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst%C3%A8mes-%E2%80%93-salesforce-at-co-operators-assurance-et-services-financiers-4486064610) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada |
+| 2026-11-03 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-hrbrain-inc-4486083993) | HRbrain Inc. | Toronto, Ontario, Canada |
+| 2026-11-03 | [Salesforce Datacloud Developer](https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629) | Cognizant | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
