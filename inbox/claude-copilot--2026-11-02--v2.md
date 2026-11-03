@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T034958Z: +2 new, 2 duplicate, version 2 -->
 ---
 model: claude-copilot
 scanned_at: 2026-11-02T15:45:00Z
