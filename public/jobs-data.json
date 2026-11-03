@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T06:09:36+00:00",
+ "generatedAt": "2026-11-03T06:33:36+00:00",
  "timezone": "America/Toronto",
- "count": 407,
+ "count": 405,
  "appliedHidden": 5,
  "sources": [
   "Adzuna",
@@ -343,6 +343,27 @@
    ],
    "french": false,
    "search": "54   servicenow remote jobs in canada unknown canada linkedin servicenow 0/10 servicenow canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior Salesforce Engineer",
+   "company": "Canadian Cancer Society",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce engineer canadian cancer society toronto, ontario, canada linkedin salesforce  salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -8387,68 +8408,6 @@
    ],
    "french": false,
    "search": "sr. salesforce developer (marketing cloud) periscope search group toronto, ontario adzuna salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Senior Salesforce Marketing Developer",
-   "company": "MSITEK",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5946006888?utm_medium=api&utm_source=54ce986e",
-   "note": "via other-expansion--2026-11-02--v3.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce marketing developer msitek toronto, ontario adzuna salesforce via other-expansion--2026-11-02--v3.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Sr. Salesforce Developer",
-   "company": "Exavalu",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5946003578?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "sr. salesforce developer exavalu canada adzuna salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Senior Salesforce QM tester",
-   "company": "Acestack",
-   "location": "Regent Park, City of Toronto",
-   "url": "https://www.adzuna.ca/details/5946061319",
-   "note": "via buffy-second-round--2026-11-02--v4.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce qm tester acestack regent park, city of toronto adzuna salesforce via buffy-second-round--2026-11-02--v4.md salesforce toronto area",
    "alternates": []
   },
   {
