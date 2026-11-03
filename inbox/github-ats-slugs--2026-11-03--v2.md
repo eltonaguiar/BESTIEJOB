@@ -1,3 +1,4 @@
+<!-- merged 2026-11-03T112643Z: +1 new, 0 duplicate, version 2 -->
 ---
 model: github-ats-slugs
 scanned_at: 2026-11-03T09:35:00Z
