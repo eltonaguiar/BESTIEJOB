@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T220222Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T220959Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
-  - [ServiceNow jobs (150)](#servicenow-jobs-150)
+  - [ServiceNow jobs (148)](#servicenow-jobs-148)
   - [Salesforce jobs (150)](#salesforce-jobs-150)
   - [Other jobs (150)](#other-jobs-150)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,13 +18,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **448 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (150)
+### ServiceNow jobs (148)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 150 postings</strong></summary>
+<details><summary><strong>Show 148 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -175,9 +175,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-01 | [Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459426848) | Deloitte | Laval, Quebec, Canada |  |
 | 2026-11-01 | [Conseiller principal ou conseillère principale, ITOM, ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-itom-servicenow-at-deloitte-4459429838) | Deloitte | Toronto, Ontario, Canada |  |
 | 2026-11-01 | [Analyste QA ServiceNow](https://www.adzuna.ca/details/5948948163?utm_medium=api&utm_source=54ce986e) | CGI | Sherbrooke, Québec | ServiceNow Adzuna 5948948163 |
-| 2026-10-31 | [Stage coopératif - Hiver 2027– Développement ServiceNow (4 months)](https://ca.linkedin.com/jobs/view/stage-coop%C3%A9ratif-hiver-2027%E2%80%93-d%C3%A9veloppement-servicenow-4-months-at-cgi-4466637706) | CGI | Drummondville, Quebec, Canada | via buffy-round3--2026-11-02--v3.md |
-| 2026-10-31 | [Stage coopératif - Hiver 2027 Analyste ServiceNow (4 months)](https://ca.linkedin.com/jobs/view/stage-coop%C3%A9ratif-hiver-2027-analyste-servicenow-4-months-at-cgi-4469236664) | CGI | Drummondville, Quebec, Canada | via buffy-round3--2026-11-02--v3.md |
-| 2026-10-31 | [ServiceNow Discovery Developer](https://ca.linkedin.com/jobs/view/servicenow-discovery-developer-at-scotiabank-4413829229) | Scotiabank | Toronto, Ontario, Canada | via buffy-round3--2026-11-02--v92.md |
+| 2026-10-31 | [ServiceNow Discovery Developer](https://ca.linkedin.com/jobs/view/servicenow-discovery-developer-at-scotiabank-4413829229) | Scotiabank | Toronto, Ontario, Canada | via buffy-round3--2026-11-02--v101.md |
 
 </details>
 
@@ -203,6 +201,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-03 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-partner-canada-4486835667) | Salesforce Partner Canada | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Senior salesforce administrator - Movable Ink (Toronto)](https://jobsca.org/senior-salesforce_toronto-c117072/2026-08-movable-ink_i4180007339) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Senior platform administrator (salesforce) - its - ft support](https://jobsca.org/platform-administrator_toronto-c117072/2026-08-faculty-of-applied-sciences-technology-at-humber-polytechnic_i4179107547) | Unknown | Canada | 7/10 |
+| 2026-11-03 | [Senior platform administrator (salesforce) - its - ft support](https://jobsca.org/platform-administrator_toronto-c117072/2026-08-humber-college_i4179114583) | Unknown | Canada | 7/10 |
 | 2026-11-03 | [Senior Technical Architect, Life Sciences - Salesforce / Built In](https://builtin.com/job/senior-technical-architect-life-sciences/10401465) | Built In](https://builtin.com/job/senior-technical-architect-life-sciences/10401465) | Unknown | Canada |
 | 2026-11-03 | [Senior Salesforce Software Engineer at Portside](https://hirocareers.com/jobs/96298ce6-5043-466b-8c4b-e0b987c480de) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |  |
@@ -337,7 +336,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-01 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/land/ad/5949286084) | CloudKettle Inc | Toronto, Ontario |  |
 | 2026-11-01 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5949286084?utm_medium=api&utm_source=54ce986e) | CloudKettle Inc | Toronto, Ontario | Salesforce Adzuna 5949286084 — corroborates the undated Workopolis peer claim lower in this README |
 | 2026-11-01 | [Salesforce Platform Developer](https://www.adzuna.ca/details/5949004280) | Altus Group | Toronto, Ontario |  |
-| 2026-11-01 | [Salesforce Industries Cloud Architect (Remote](https://www.adzuna.ca/land/ad/5949286090) | CloudKettle Inc | Toronto, Ontario |  |
 | 2026-11-01 | [Salesforce Administrator](https://www.adzuna.ca/details/5948993217) | Natural Health | Hybrid in Toronto | $60-75k Benefits |
 
 </details>
@@ -351,7 +349,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-03 | [reputed company Building Structural Technologist for Remote Work Opportunities with a Leading Engineering Firm](https://2.halvolink.liveblog365.com/job/1066660) | Unknown | Canada | 8/10 |
-| 2026-11-03 | [[VO2 Group - [VO2 Canada] - Développeuse.eur  Fullstack- Missions Ponctuelles](https://jobs.lever.co/vo2-group/a3c728fd-aa1d-4192-a1ed-7c05f29728a2)](https://jobs.lever.co/vo2-group/a3c728fd-aa1d-4192-a1ed-7c05f29728a2) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Work With InfraDev / Talent Network & Client Placements in Canada](https://infradevconsulting.com/careers/) | Talent Network & Client Placements in Canada](https://infradevconsulting.com/careers/) | Unknown | Canada |
 | 2026-11-03 | [Winter Intern 2027 - Platform Developer (Toronto Office) - Toronto, Ontario / iHireTechnology](https://www.ihiretechnology.com/jobs/view/534764667) | iHireTechnology](https://www.ihiretechnology.com/jobs/view/534764667) | Unknown | Canada |
 | 2026-11-03 | [Web Designer & Developer job at Elev8 Web Studio in Remote - Job Search](https://clarksonsquare.com/workspread/job/web-designer-developer-at-elev8-web-studio-remote-abac7f6af87dac49jktk-Y2xhcmtzb2) | Unknown | Canada | 7/10 |
@@ -500,6 +497,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-02 | [Senior Full stack AI Developer (Python & Angular/React)](https://www.adzuna.ca/details/5950814698?utm_medium=api&utm_source=54ce986e) | Intact | Montréal, Québec | Full stack |
 | 2026-11-02 | [Senior Full Stack Developer - React / TypeScript & .NET](https://www.adzuna.ca/details/5950815048?utm_medium=api&utm_source=54ce986e) | Nutrien Ag Solutions | Calgary, Calgary region | Full stack |
 | 2026-11-02 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5950813719) | EPAM Systems | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-02 | [Senior DevOps](https://www.adzuna.ca/details/5950814973?utm_medium=api&utm_source=54ce986e) | Nord Quantique | Sherbrooke, Estrie | DevOps / Cloud |
 
 </details>
 
@@ -568,7 +566,8 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 ("2 days ago") are rejected — the merger refuses rows without a `YYYY-MM-DD` date.
 ## Automated feed (rewritten daily)
 
-Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
+Below is the raw output of `npm run scan:daily`. It may repeat rows from the tables above;
+the three tables are the curated view. The scanner only rewrites between these markers.
 
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
@@ -629,4 +628,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T220222Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T220959Z.md` holds the previous README in full — every older table, the peer-branch reconciliation notes, per-source method write-ups and anything removed from this file on 2026-11-03.
