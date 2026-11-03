@@ -14,7 +14,7 @@ partners, events) is captured separately in `JOB_SITES_CANADA__paid-mode_2026-11
 | `docs/ADDITIONAL_SKILLS__kilo-auto.md` | kilo-auto / free (Hermes Agent) | Cost per cert, role→cert matrices |
 | `docs/ADDITIONAL_SKILLS__deepseek-v4.1-flash.MD` | Buffy — DeepSeek V4.1 Flash | Copado/Gearset, ATF depth, UI Builder, ITIL 4 MP, architecture artefact, Data Cloud |
 | `docs/ADDITIONAL_SKILLS__claude-copilot.MD` | Claude (Anthropic) via Copilot SDK | Portfolio packaging, GitHub Actions cert, AI-102, Now Assist path, cert-maintenance debt |
-| `ADDITIONAL_SKILLS__nemotron.MD` (working tree — not yet committed by its author) | Nemotron (NVIDIA NIM) | AI-hybrid market framing, Now Assist hands-on, 90-day sequencing |
+| `docs/ADDITIONAL_SKILLS__nemotron.MD` | Nemotron (NVIDIA NIM) | AI-hybrid market framing, Now Assist hands-on, 90-day sequencing |
 
 Five independent advisors, one verdict, **zero contradictions on substance**: the profile is
 **over-certified on breadth, under-certified on depth**, and the fix is a small number of depth
