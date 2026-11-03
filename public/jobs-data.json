@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T00:12:18+00:00",
+ "generatedAt": "2026-11-03T00:16:14+00:00",
  "timezone": "America/Toronto",
- "count": 835,
+ "count": 836,
  "appliedHidden": 19,
  "sources": [
   "Adzuna",
@@ -1151,6 +1151,27 @@
    ],
    "french": false,
    "search": "ddi network engineer bmo financial toronto; apply by 2026-11-29 adzuna other itsm / itil adzuna 5950298778 itsm itil role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "nCino Consultant",
+   "company": "Delpath",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950813856",
+   "note": "Adzuna retry: surfaced by the `salesforce service cloud` query; nCino is built on Salesforce",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "ncino consultant delpath toronto, ontario adzuna salesforce adzuna retry: surfaced by the `salesforce service cloud` query; ncino is built on salesforce salesforce role fit toronto area",
    "alternates": []
   },
   {

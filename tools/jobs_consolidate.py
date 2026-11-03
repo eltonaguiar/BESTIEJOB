@@ -58,7 +58,7 @@ def classify(title: str, url: str, location: str = "") -> str:
     hay = f"{title} {url} {location}".lower()
     if re.search(r"service\s?now|\bsn\b|itsm|itam|cmdb|itom", hay):
         return "servicenow"
-    if re.search(r"salesforce|apex|visualforce|soql|marketing cloud|sfdc", hay):
+    if re.search(r"salesforce|apex|visualforce|soql|marketing cloud|sfdc|ncino|vlocity|omnistudio", hay):
         return "salesforce"
     return "other"
 
