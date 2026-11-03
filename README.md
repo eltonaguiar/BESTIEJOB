@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T133147Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T140147Z.md`.
 
 ## Contents
 
@@ -199,6 +199,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486032119) | Canadian Cancer Society | Québec, Quebec, Canada |  |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486031854) | Canadian Cancer Society | Kelowna, British Columbia, Canada |  |
 | 2026-11-03 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-bull-technical-services-limited-4485775315) | BULL TECHNICAL SERVICES LIMITED | Toronto, Ontario, Canada |  |
+| 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Release Engineer](https://ca.linkedin.com/jobs/view/salesforce-release-engineer-at-cognizant-4486018556) | Cognizant | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Field Service (FSL) Developer](https://ca.linkedin.com/jobs/view/salesforce-field-service-fsl-developer-at-sciex-4484638102) | SCIEX | Vaughan, Ontario, Canada |  |
 | 2026-11-03 | [Salesforce Developer (Cloud Developer)](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Salesforce-Developer--Cloud-Developer-_RQ230765) | GDIT | Any Location / Remote |  |
@@ -338,7 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-30 | [Salesforce Administrator - Trader Interactive](https://remotive.com/remote/jobs/all-others/salesforce-administrator-6404412) | Remote (US) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Salesforce Administrator - FranklinCovey](https://www.adzuna.com/details/5947007704?utm_medium=api&utm_source=54ce986e) | US | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Salesforce Administrator - Christian Reformed Church](https://www.charityvillage.com/job/salesforce-administrator-353326) | Remote (Canada) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-rideco-on-demand-transit-4484883003) | RideCo On-Demand Transit | Waterloo, Ontario, Canada | via buffy-round3--2026-11-02--v3.md |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-03T13:30:01.618Z** · 802 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T14:00:01.834Z** · 803 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -599,6 +599,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Salesforce Field Service (FSL) Developer](https://ca.linkedin.com/jobs/view/salesforce-field-service-fsl-developer-at-sciex-4484638102) | SCIEX | Vaughan, Ontario, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
+| 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |
 | 2026-11-03 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-bull-technical-services-limited-4485775315) | BULL TECHNICAL SERVICES LIMITED | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Datacloud Developer](https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629) | Cognizant | Toronto, Ontario, Canada |
 | 2026-11-03 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-partner-canada-4486835667) | Salesforce Partner Canada | Toronto, Ontario, Canada |
@@ -607,7 +608,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486020904) | Canadian Cancer Society | Ottawa, Ontario, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486019930) | Canadian Cancer Society | Halifax, Nova Scotia, Canada |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486031854) | Canadian Cancer Society | Kelowna, British Columbia, Canada |
-| 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486032119) | Canadian Cancer Society | Québec, Quebec, Canada |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T133147Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T140147Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
