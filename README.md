@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T035357Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T035509Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
-  - [ServiceNow jobs (282)](#servicenow-jobs-282)
+  - [ServiceNow jobs (283)](#servicenow-jobs-283)
   - [Salesforce jobs (321)](#salesforce-jobs-321)
   - [Other jobs (400)](#other-jobs-400)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,13 +18,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **1003 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **1004 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (282)
+### ServiceNow jobs (283)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 282 postings</strong></summary>
+<details><summary><strong>Show 283 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -198,6 +198,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-28 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
 | 2026-10-28 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4482543161) | Lightspeed Commerce | Toronto, Ontario, Canada | via copilot-multiai--2026-11-03--v1.md |
 | 2026-10-28 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466232343) | Lightspeed Commerce | Montreal, Quebec, Canada | via copilot-multiai--2026-11-03--v1.md |
+| 2026-10-28 | [ServiceNow Business Process Consultant – FSO/CSM](https://www.newrocket.com/careers/job?gh_jid=6230570004) | NewRocket | Remote - US or Canada | via grok-job-hunter--2026-11-02--v62.md |
 | 2026-10-28 | [ServiceNow Architect](https://ca.linkedin.com/jobs/view/servicenow-architect-at-tata-consultancy-services-4483870856) | Tata Consultancy Services | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
 | 2026-10-28 | [ServiceNow Architect](https://www.jobs.ca/tekshapers/jobs/servicenow-architect-toronto-on-b6507928d0da) | Tekshapers | Toronto, ON | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
 | 2026-10-28 | [Senior ServiceNow Developer - Resolve Tech Solutions](https://resolvetech.wd1.myworkdayjobs.com/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280) | USA: Employer location US Remote - TX; confirm permitted residence and work authorization. | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md |
@@ -1182,4 +1183,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T035357Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T035509Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.

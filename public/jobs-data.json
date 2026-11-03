@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T03:53:57+00:00",
+ "generatedAt": "2026-11-03T03:55:09+00:00",
  "timezone": "America/Toronto",
  "count": 833,
  "appliedHidden": 19,
@@ -60,6 +60,7 @@
   "jobs.slalom.com",
   "jobs.toronto.ca",
   "jobsca.org",
+  "newrocket.com",
   "osidigital.applytojob.com",
   "randstad.ca",
   "remotive.com",
@@ -8752,13 +8753,13 @@
    "posted": "2026-10-30",
    "title": "ServiceNow Business Process Consultant – FSO/CSM",
    "company": "NewRocket",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5946714109?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md",
+   "location": "Remote - US or Canada",
+   "url": "https://www.newrocket.com/careers/job?gh_jid=6230570004",
+   "note": "via grok-job-hunter--2026-11-02--v62.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "newrocket.com",
+   "verified": "Employer board",
    "match": 84,
    "matchReasons": [
     "ServiceNow",
@@ -8766,8 +8767,14 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "servicenow business process consultant – fso/csm newrocket canada adzuna servicenow via peer-buffy-2026-11-02-date-correction-note--2026-11-02--v1.md servicenow role fit canada / remote",
-   "alternates": []
+   "search": "servicenow business process consultant – fso/csm newrocket remote - us or canada newrocket.com servicenow via grok-job-hunter--2026-11-02--v62.md servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946714109?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada"
+    }
+   ]
   },
   {
    "posted": "2026-10-30",
