@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T170215Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T173141Z.md`.
 
 ## Contents
 
@@ -47,6 +47,8 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-03 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote |  |
 | 2026-11-03 | [Remote ServiceNow Senior Developer at Bdo • $84k – $128k / Hiring.Camp](https://hiring.camp/job/Y56rjO) | Hiring.Camp](https://hiring.camp/job/Y56rjO) | Unknown | Canada |
 | 2026-11-03 | [NEW · ServiceNow Developer & Administrator — Toronto / Apply Now (Themesoft Inc.) / Jobs Near Me](https://jobsnearme.career/jobs/servicenow-developer-administrator-themesoft-inc-toronto) | Apply Now (Themesoft Inc.) | Jobs Near Me](https://jobsnearme.career/jobs/servicenow-developer-administrator-themesoft-inc-toronto) | Unknown |
+| 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486081043) | Desjardins | Lévis, Quebec, Canada |  |
+| 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486078203) | Desjardins | Montréal-Ouest, Quebec, Canada |  |
 | 2026-11-03 | [Bilingual Senior Specialist, ServiceNow ITSM Developer / Jobs.ca](https://www.jobs.ca/cmhc-schl/jobs/bilingual-senior-specialist-servicenow-itsm-developer-toronto-on-9390c8728e44) | Jobs.ca](https://www.jobs.ca/cmhc-schl/jobs/bilingual-senior-specialist-servicenow-itsm-developer-toronto-on-9390c8728e44) | Unknown | Canada |
 | 2026-11-03 | [Administrateur ServiceNow](https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220744) | Pomerleau | Québec, Quebec, Canada |  |
 | 2026-11-03 | [54   Servicenow Remote Jobs in Canada](https://ca.linkedin.com/jobs/servicenow-remote-jobs) | Unknown | Canada | 0/10 |
@@ -176,8 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-29 | [ServiceNow Manager](https://www.adzuna.ca/details/5946001071?utm_medium=api&utm_source=54ce986e) | Ledcor | Greater Vancouver, British Columbia | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [ServiceNow ITOM SME](https://www.adzuna.ca/details/5946007051?utm_medium=api&utm_source=54ce986e) | LTM | Markham, York region | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 | 2026-10-29 | [ServiceNow GRC Solution Architect](https://www.adzuna.ca/details/5946007870) | Compunnel Inc. | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
-| 2026-10-29 | [ServiceNow Developer – S2P](https://ca.linkedin.com/jobs/view/4483056086) | Alldus | Canada | via grok-job-hunter--2026-11-02--v41.md |
-| 2026-10-29 | [ServiceNow Developer SME - General Dynamics Information Technology](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1) | USA: Remote USA only; must pass a background investigation for a Public Trust position. | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 
 </details>
 
@@ -189,6 +189,8 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058) | Co-operators | Toronto, Ontario, Canada |  |
+| 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487007645) | Co-operators | Mississauga, Ontario, Canada |  |
 | 2026-11-03 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-partner-canada-4486835667) | Salesforce Partner Canada | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |  |
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486033076) | Canadian Cancer Society | Calgary, Alberta, Canada |  |
@@ -337,8 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-30 | [Salesforce Developer - Digital Customer: Future Opportunities](https://www.jobs.ca/deloitte/jobs/salesforce-developer-digital-customer-future-opportunities-toronto-on-3fbdd58702c2) | Deloitte Canada | Toronto, ON | via grok-job-hunter--2026-11-02--v45.md |
 | 2026-10-30 | [Salesforce Developer - Akaasa Technologies](https://www.adzuna.com/details/5943903388?utm_medium=api&utm_source=54ce986e) | Upper East Side, Manhattan | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
 | 2026-10-30 | [Salesforce Developer (Service Cloud Voice)](https://www.cofomo.com/en/jobs/86543) | COFOMO | Montreal, QC; hybrid | via grok-job-hunter--2026-11-02--v29.md |
-| 2026-10-30 | [Salesforce Developer (2026-91) - emergiTEL](https://www.jobs.ca/emergitel/jobs/salesforce-developer-2026-91-remote-canada-49cfb170eceb) | Remote (Calgary/Edmonton, AB) | Unknown / peer claim not verified | via peer-copilot-2026-10-30--2026-11-02--v1.md |
-| 2026-10-30 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-pacer-group-4483459799) | Pacer Group | Toronto, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-03T17:00:01.619Z** · 820 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-03T17:30:01.821Z** · 827 live postings from 8 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -582,15 +582,15 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Servicenow specialist](https://ca.linkedin.com/jobs/view/servicenow-specialist-at-tata-consultancy-services-4486058172) | Tata Consultancy Services | Montreal, Quebec, Canada |
 | 2026-11-03 | [ServiceNow Consultant - REMOTE](https://ca.linkedin.com/jobs/view/servicenow-consultant-remote-at-ntt-data-north-america-4478715652) | NTT DATA North America | Ottawa, Ontario, Canada |
 | 2026-11-03 | [ServiceNow Specialist – CMDB / CSDM / Montreal, QC (Onsite) - FTE](https://ca.linkedin.com/jobs/view/servicenow-specialist-%E2%80%93-cmdb-csdm-montreal-qc-onsite-fte-at-acestack-4486062233) | AceStack | Montreal, Quebec, Canada |
+| 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486081043) | Desjardins | Lévis, Quebec, Canada |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469986334) | Pomerleau | St-Georges, Quebec, Canada |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469993127) | Pomerleau | Québec, Quebec, Canada |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469975858) | Pomerleau | Montreal, Quebec, Canada |
 | 2026-11-03 | [Administrateur ServiceNow](https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220744) | Pomerleau | Québec, Quebec, Canada |
 | 2026-11-03 | [ServiceNow CMDB](https://ca.linkedin.com/jobs/view/servicenow-cmdb-at-tata-consultancy-services-4486059065) | Tata Consultancy Services | Montreal, Quebec, Canada |
+| 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486078203) | Desjardins | Montréal-Ouest, Quebec, Canada |
 | 2026-11-02 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |
 | 2026-11-02 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote |
-| 2026-11-02 | [ServiceNow System Administrator](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636) | GDIT | Any Location / Remote |
-| 2026-11-02 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1) | GDIT | Any Location / Remote |
 
 ### Salesforce — newest 12
 
@@ -606,8 +606,8 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada |
-| 2026-11-03 | [Salesforce Datacloud Developer](https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629) | Cognizant | Toronto, Ontario, Canada |
-| 2026-11-03 | [Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-at-k-k-global-talent-solutions-inc-4486897098) | K&K Global Talent Solutions INC. | Toronto, Ontario, Canada |
+| 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058) | Co-operators | Toronto, Ontario, Canada |
+| 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487007645) | Co-operators | Mississauga, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T170215Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T173141Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.

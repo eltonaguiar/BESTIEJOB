@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-03T17:02:15+00:00",
+ "generatedAt": "2026-11-03T17:31:41+00:00",
  "timezone": "America/Toronto",
- "count": 395,
+ "count": 393,
  "appliedHidden": 5,
  "sources": [
   "Adzuna",
@@ -430,6 +430,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR",
+   "company": "Desjardins",
+   "location": "Lévis, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486081043",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "conseiller ou conseillere en gestion des vulnerabilites et servicenow secops-fr desjardins levis, quebec, canada linkedin servicenow  servicenow canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Administrateur ServiceNow",
    "company": "Pomerleau",
    "location": "Québec, Quebec, Canada",
@@ -521,6 +541,27 @@
      "url": "https://www.adzuna.ca/details/5948973102?utm_medium=api&utm_source=54ce986e"
     }
    ]
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Systems Developer - Salesforce",
+   "company": "Co-operators",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "systems developer - salesforce co-operators toronto, ontario, canada linkedin salesforce  salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-03",
@@ -7315,27 +7356,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "Salesforce Developer",
-   "company": "Pacer Group",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-pacer-group-4483459799",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer pacer group toronto, ontario, canada linkedin salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
    "title": "Senior Salesforce Technical Lead",
    "company": "Arkhya Tech Inc.",
    "location": "Canada",
@@ -7862,26 +7882,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "Salesforce Developer (2026-91) - emergiTEL",
-   "company": "Remote (Calgary/Edmonton, AB)",
-   "location": "Unknown / peer claim not verified",
-   "url": "https://www.jobs.ca/emergitel/jobs/salesforce-developer-2026-91-remote-canada-49cfb170eceb",
-   "note": "via peer-copilot-2026-10-30--2026-11-02--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce developer (2026-91) - emergitel remote (calgary/edmonton, ab) unknown / peer claim not verified jobs.ca salesforce via peer-copilot-2026-10-30--2026-11-02--v1.md salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
    "title": "Manager IT Service Management (ITSM)",
    "company": "Workplace Safety and Insurance Board (WSIB)",
    "location": "Ontario, Canada",
@@ -8132,27 +8132,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "ServiceNow Developer – S2P",
-   "company": "Alldus",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/4483056086",
-   "note": "via grok-job-hunter--2026-11-02--v41.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer – s2p alldus canada linkedin servicenow via grok-job-hunter--2026-11-02--v41.md servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
    "title": "ServiceNow Senior Technical Advisor",
    "company": "Bell",
    "location": "Toronto, Ontario",
@@ -8209,26 +8188,6 @@
    ],
    "french": false,
    "search": "servicenow manager ledcor group kelowna, central okanagan adzuna servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "ServiceNow Developer SME - General Dynamics Information Technology",
-   "company": "USA: Remote USA only; must pass a background investigation for a Public Trust position.",
-   "location": "Full-time",
-   "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow developer sme - general dynamics information technology usa: remote usa only; must pass a background investigation for a public trust position. full-time workday ats servicenow via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md servicenow role fit",
    "alternates": []
   }
  ]
