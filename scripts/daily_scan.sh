@@ -68,6 +68,8 @@ STARTED="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
     fi
     # Curated README rows (inbox merges, partner finds) must also reach the
     # jobs.json feed, otherwise the API and app.js never see them.
+    # Reworded reposts survive URL dedupe; catch them before the feed is built.
+    python3 scripts/semantic_dedupe.py --apply || echo "semantic dedupe failed (non-fatal)"
     node scripts/sync_readme_to_jobs.mjs || echo "readme sync failed (non-fatal)"
     # The live page renders public/jobs-data.json built from README.md, so it
     # must be rebuilt after every scan or it serves yesterday's rows.
