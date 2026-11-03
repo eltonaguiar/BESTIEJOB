@@ -4,21 +4,21 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T213150Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-03T213752Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-03](#current-jobs--as-of-2026-11-03)
   - [ServiceNow jobs (150)](#servicenow-jobs-150)
   - [Salesforce jobs (150)](#salesforce-jobs-150)
-  - [Other jobs (150)](#other-jobs-150)
+  - [Other jobs (149)](#other-jobs-149)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-03
 
-Window: 2026-10-04 → 2026-11-03 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-04 → 2026-11-03 · **449 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (150)
 
@@ -342,16 +342,15 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (150)
+### Other jobs (149)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 150 postings</strong></summary>
+<details><summary><strong>Show 149 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-03 | [reputed company Building Structural Technologist for Remote Work Opportunities with a Leading Engineering Firm](https://2.halvolink.liveblog365.com/job/1066660) | Unknown | Canada | 8/10 |
-| 2026-11-03 | [[VO2 Group - [VO2 Canada] - Développeuse.eur  Fullstack- Missions Ponctuelles](https://jobs.lever.co/vo2-group/a3c728fd-aa1d-4192-a1ed-7c05f29728a2)](https://jobs.lever.co/vo2-group/a3c728fd-aa1d-4192-a1ed-7c05f29728a2) | Unknown | Canada | 8/10 |
 | 2026-11-03 | [Umbrella Incorporated Jobs + Careers / Built In](https://builtin.com/company/umbrella-incorporated/jobs) | Built In](https://builtin.com/company/umbrella-incorporated/jobs) | Unknown | Canada |
 | 2026-11-03 | [Technology Support Services Inc hiring CAD / BIM Technician – Reality Capture & Point Cloud Modeling in Toronto, Ontario, Canada / LinkedIn](https://ca.linkedin.com/jobs/view/cad-bim-technician-%E2%80%93-reality-capture-point-cloud-modeling-at-technology-support-services-inc-4444362257) | LinkedIn](https://ca.linkedin.com/jobs/view/cad-bim-technician-%E2%80%93-reality-capture-point-cloud-modeling-at-technology-support-services-inc-4444362257) | Unknown | Canada |
 | 2026-11-03 | [Survey CAD Technician (Intermediate/Senior) in Halifax, Nova Scotia / Careers at Halifax - Chain Lake Drive, NS](https://external-dillon.icims.com/jobs/4107/survey-cad-technician-%28intermediate-senior%29/job) | Careers at Halifax - Chain Lake Drive, NS](https://external-dillon.icims.com/jobs/4107/survey-cad-technician-%28intermediate-senior%29/job) | Unknown | Canada |
@@ -568,7 +567,8 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 ("2 days ago") are rejected — the merger refuses rows without a `YYYY-MM-DD` date.
 ## Automated feed (rewritten daily)
 
-Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
+Below is the raw output of `npm run scan:daily`. It may repeat rows from the tables above;
+the three tables are the curated view. The scanner only rewrites between these markers.
 
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-03T213150Z.md` holds the rows that aged out of the 30-day window on 2026-11-03.
+`README.BAK_2026-11-03T213752Z.md` holds the previous README in full — every older table, the peer-branch reconciliation notes, per-source method write-ups and anything removed from this file on 2026-11-03.
