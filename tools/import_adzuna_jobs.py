@@ -23,18 +23,16 @@ APP_ID = "54ce986e"
 APP_KEY = "db851f299e966c0a2a72af525dce6199"
 COUNTRY = "ca"
 
-# Fresh keyword angles from AI panel + manual exploration
+# Fresh keyword angles from AI panel + manual exploration + LiteLLM proposals
 QUERIES = [
-    ("servicenow platform architect", "canada"),
-    ("servicenow technical consultant", "canada"),
-    ("salesforce revenue cloud", "toronto"),
-    ("salesforce platform developer", "canada"),
-    ("salesforce solution architect", "toronto"),
-    ("servicenow cmdb", "toronto"),
-    ("servicenow change management", "toronto"),
-    ("servicenow spm", "canada"),
-    ("salesforce marketing cloud", "toronto"),
-    ("it asset manager", "toronto"),
+    ("hrsd servicenow specialist", "canada"),
+    ("csm servicenow consultant", "canada"),
+    ("itom servicenow engineer", "canada"),
+    ("spm servicenow analyst", "canada"),
+    ("grc servicenow architect", "canada"),
+    ("secops servicenow admin", "canada"),
+    ("health cloud consultant", "toronto"),
+    ("financial services cloud", "toronto"),
 ]
 
 SN_KW = re.compile(r"service\s?now|itsm|itam|cmdb|itom|csdm|hrsd|servicenow", re.I)
