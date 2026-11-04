@@ -1,0 +1,600 @@
+{
+ "scannedAt": "2026-11-03T01:06:56.873Z",
+ "total": 32,
+ "sites": {
+  "FX Innovation / Ateko": {
+   "url": "https://www.fxinnovation.com/en/jobs",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Cofomo": {
+   "url": "https://www.cofomo.com/en/careers/",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Everforth": {
+   "url": "https://everforth.com/careers",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Coaxxion": {
+   "url": "https://coaxxion.com/en/careers/",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "CloudKettle": {
+   "url": "https://cloudkettle.com/careers/",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Lane Four": {
+   "url": "https://lanefour.com/opportunities/",
+   "jsonLd": 0,
+   "anchors": 2
+  },
+  "Crossfuze": {
+   "url": "https://crossfuze.pinpointhq.com/",
+   "jsonLd": 0,
+   "anchors": 0
+  }
+ },
+ "undated": [
+  {
+   "site": "Lane Four",
+   "title": "Salesforce Consultant",
+   "company": "Lane Four",
+   "location": "",
+   "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+   "excerpt": "Skip to content Why Lane Four? Who We Are Consulting Foursight Labs Blog Toolbox Contact Us About Lane Four Lane Four is growing! We hope you will consider join"
+  },
+  {
+   "site": "Lane Four",
+   "title": "Salesforce Administrator",
+   "company": "Lane Four",
+   "location": "",
+   "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+   "excerpt": "Skip to content Why Lane Four? Who We Are Consulting Foursight Labs Blog Toolbox Contact Us About Lane Four Lane Four is growing! We hope you will consider join"
+  }
+ ],
+ "dated": [],
+ "jobs": [
+  {
+   "id": "adzuna:adzuna.ca/details/5950813944",
+   "source": "adzuna",
+   "company": "Salesforce Partner Canada",
+   "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950813944",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:47.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "The Experience The Solutions Architect, Salesforce Migrations is an individual contributor who leads complex customer migration engagements from kickoff through successful go-live. You serve as the primary technical and strategic point of contact for your migration pod — building trust with customers, coordinating with",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814412",
+   "source": "adzuna",
+   "company": "Celestica",
+   "title": "Senior Salesforce Developer / Admin",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950814412",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:06:03.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Summary We are seeking a hands-on Senior Salesforce Developer with strong Marketing Cloud expertise to join our Salesforce Center of Excellence. This is a hands-on solutioning and development role — the successful candidate will personally analyze requirements, design solutions, and build and implement them through con",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813933",
+   "source": "adzuna",
+   "company": "Futran Solutions",
+   "title": "Salesforce Consultant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950813933",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:46.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Strong hands-on experience of 5-8 years with Salesforce Data Cloud and core Salesforce platform and Designing experience Architect and design robust and scalable Salesforce Data Cloud solutions based on client requirements and industry best practices. Define and implement data modelling, schema design, and data governa",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950538116",
+   "source": "adzuna",
+   "company": "Epsilon Solutions LTD",
+   "title": "Salesforce Consultant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950538116",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-02T07:20:06.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Job Description Job Description Title: Salesforce Consultant Work site: Toronto - Hybrid Duration: Contract About the Role We are looking for a Senior Salesforce Consultant to provide domain, technical and architectural depth on a capability assessment for a large enterprise client. You will evaluate how the Salesforce",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813944",
+   "source": "adzuna",
+   "company": "Salesforce Partner Canada",
+   "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950813944",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:47.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "The Experience The Solutions Architect, Salesforce Migrations is an individual contributor who leads complex customer migration engagements from kickoff through successful go-live. You serve as the primary technical and strategic point of contact for your migration pod — building trust with customers, coordinating with",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813856",
+   "source": "adzuna",
+   "company": "Delpath",
+   "title": "nCino Consultant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950813856",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:43.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Delpath is a Toronto based Technical & Business Consulting firm providing recruitment & contracting services for our enterprise clients across North America. We are currently supporting a large Canadian Bank in their search for a contractor to meet their needs in the following area. Location: Toronto, ON Business Group",
+   "workArrangement": "unknown",
+   "tags": []
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950538116",
+   "source": "adzuna",
+   "company": "Epsilon Solutions LTD",
+   "title": "Salesforce Consultant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950538116",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-02T07:20:06.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Job Description Job Description Title: Salesforce Consultant Work site: Toronto - Hybrid Duration: Contract About the Role We are looking for a Senior Salesforce Consultant to provide domain, technical and architectural depth on a capability assessment for a large enterprise client. You will evaluate how the Salesforce",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814412",
+   "source": "adzuna",
+   "company": "Celestica",
+   "title": "Senior Salesforce Developer / Admin",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950814412",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:06:03.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Summary We are seeking a hands-on Senior Salesforce Developer with strong Marketing Cloud expertise to join our Salesforce Center of Excellence. This is a hands-on solutioning and development role — the successful candidate will personally analyze requirements, design solutions, and build and implement them through con",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950546447",
+   "source": "adzuna",
+   "company": "NeuraFlash, Part of Accenture",
+   "title": "Salesforce Consultant, Change Management",
+   "location": "Vancouver, Greater Vancouver",
+   "url": "https://www.adzuna.ca/details/5950546447",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T07:27:37.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Job Description Job Description Why NeuraFlash, Part of Accenture: At NeuraFlash, Part of Accenture, we are redefining the future of business through the power of AI and groundbreaking technologies like Agentforce. As a trusted leader in AI, AWS, and Salesforce innovation, we craft intelligent solutions—integrating Sal",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813531",
+   "source": "adzuna",
+   "company": "Peek IT Services",
+   "title": "Lead ServiceNow SPM Technical Consultant",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5950813531",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:22.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "You will lead the technical consulting work on a ServiceNow Strategic Portfolio Management (SPM) engagement, running workshops, configuring the solution and advising stakeholders. This is a remote W2 contract of roughly 266 hours at about 30 hours per week, open to candidates located in the United States or Canada. It ",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814278",
+   "source": "adzuna",
+   "company": "Workplace Safety and Insurance Board",
+   "title": "Manager IT Service Management (ITSM)",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950814278",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:58.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Locations 300 Tartan Dr, London, ON, N5V 0E9, CA 100 King St W, Hamilton, ON, L8P 1A2, CA 4 Robert Speck Parkway, Mississauga, ON, L4Z 1S1, CA 5650 Yonge Street, North York, ON, M2M 4G3, CA 300 Consilium Place, Scarborough, ON, M1H 3G2, CA Apply Before 11/15/2026, 05:00 AM Job Schedule Full time Job Description We're h",
+   "workArrangement": "unknown",
+   "tags": [
+    "it-reporting"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814284",
+   "source": "adzuna",
+   "company": "Workplace Safety and Insurance Board",
+   "title": "Manager IT Service Management (ITSM)",
+   "location": "Hamilton region, Ontario",
+   "url": "https://www.adzuna.ca/details/5950814284",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:58.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Locations 300 Tartan Dr, London, ON, N5V 0E9, CA 100 King St W, Hamilton, ON, L8P 1A2, CA 4 Robert Speck Parkway, Mississauga, ON, L4Z 1S1, CA 5650 Yonge Street, North York, ON, M2M 4G3, CA 300 Consilium Place, Scarborough, ON, M1H 3G2, CA Apply Before 11/15/2026, 05:00 AM Job Schedule Full time Job Description We're h",
+   "workArrangement": "unknown",
+   "tags": [
+    "it-reporting"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814153",
+   "source": "adzuna",
+   "company": "Workplace Safety and Insurance Board",
+   "title": "Manager IT Service Management (ITSM)",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5950814153",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:54.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Locations 300 Tartan Dr, London, ON, N5V 0E9, CA 100 King St W, Hamilton, ON, L8P 1A2, CA 4 Robert Speck Parkway, Mississauga, ON, L4Z 1S1, CA 5650 Yonge Street, North York, ON, M2M 4G3, CA 300 Consilium Place, Scarborough, ON, M1H 3G2, CA Apply Before 11/15/2026, 05:00 AM Job Schedule Full time Job Description We're h",
+   "workArrangement": "unknown",
+   "tags": [
+    "it-reporting"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813531",
+   "source": "adzuna",
+   "company": "Peek IT Services",
+   "title": "Lead ServiceNow SPM Technical Consultant",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5950813531",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:22.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "You will lead the technical consulting work on a ServiceNow Strategic Portfolio Management (SPM) engagement, running workshops, configuring the solution and advising stakeholders. This is a remote W2 contract of roughly 266 hours at about 30 hours per week, open to candidates located in the United States or Canada. It ",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814565",
+   "source": "adzuna",
+   "company": "Workday, Inc.",
+   "title": "Salesforce Developer",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5950814565",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:06:08.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company and a leading AI platform for managing people, money, and agents, we’re shaping the future of work so teams can reach their potential and focus on what matters",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814412",
+   "source": "adzuna",
+   "company": "Celestica",
+   "title": "Senior Salesforce Developer / Admin",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950814412",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:06:03.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Summary We are seeking a hands-on Senior Salesforce Developer with strong Marketing Cloud expertise to join our Salesforce Center of Excellence. This is a hands-on solutioning and development role — the successful candidate will personally analyze requirements, design solutions, and build and implement them through con",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814100",
+   "source": "adzuna",
+   "company": "Webflow",
+   "title": "Senior Salesforce Developer",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5950814100",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:52.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing craft or quality. We're",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814014",
+   "source": "adzuna",
+   "company": "State Street Corp",
+   "title": "Business Analyst, Assistant Vice President",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950814014",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:49.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Who we are looking for The Business Analyst , AVP has responsibility to support the Canada CEO and head of Canada Relationship Management (RM) by: building and maintaining executive reporting and presentations, overseeing and maintaining Salesforce, providing governance over strategic initiatives and sales pipeline, su",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813933",
+   "source": "adzuna",
+   "company": "Futran Solutions",
+   "title": "Salesforce Consultant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950813933",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:46.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Strong hands-on experience of 5-8 years with Salesforce Data Cloud and core Salesforce platform and Designing experience Architect and design robust and scalable Salesforce Data Cloud solutions based on client requirements and industry best practices. Define and implement data modelling, schema design, and data governa",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813856",
+   "source": "adzuna",
+   "company": "Delpath",
+   "title": "nCino Consultant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950813856",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:43.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Delpath is a Toronto based Technical & Business Consulting firm providing recruitment & contracting services for our enterprise clients across North America. We are currently supporting a large Canadian Bank in their search for a contractor to meet their needs in the following area. Location: Toronto, ON Business Group",
+   "workArrangement": "unknown",
+   "tags": []
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813677",
+   "source": "adzuna",
+   "company": "ATB Financial",
+   "title": "Salesforce DevOps Developer",
+   "location": "Calgary, Calgary region",
+   "url": "https://www.adzuna.ca/details/5950813677",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:35.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Job ID3500Work TypeHybridBusiness unitClient Experience and TechnologyPay gradeL - OTHApply before13 November 2026Number of openings1Posting typeInternal & ExternalAt ATB, we exist to make it possible for our clients, team members and communities. Our purpose is more than aspirational. It's a real commitment we live ev",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950768381",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "Tech Lead Salesforce Financial Services Cloud (FSC)",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5950768381",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T11:22:01.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "The client is looking for the Salesforce technical reference of its delivery teams, positioned between enterprise and business architects, Data Tech Leads and developers. This person designs the FSC architecture (360° client view, financial relationships, onboarding, personalized service) and connects it to data founda",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950768384",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "Senior Business Architecture Advisor, Direct Distribution",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5950768384",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T11:22:01.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "The client is looking for the Salesforce technical reference of its delivery teams, positioned between enterprise and business architects, Data Tech Leads and developers. This person designs the FSC architecture (360° client view, financial relationships, onboarding, personalized service) and connects it to data founda",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950547938",
+   "source": "adzuna",
+   "company": "CYNET SYSTEMS",
+   "title": "Senior Salesforce Technical Consultant",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5950547938",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T07:31:41.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Job Description Job Description Pay Range: $50.00hr - $55.00hr Job Overview: A Salesforce Technical Consultant is responsible for designing, developing, implementing, and supporting Salesforce solutions that meet business requirements. The role involves working closely with business stakeholders, functional consultants",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950539606",
+   "source": "adzuna",
+   "company": "Ensiti",
+   "title": "Salesforce Consultants (remote Canada )",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5950539606",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T07:21:27.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Job Description Job Description Job Description Company Description We are looking for a Salesforce Consultant to join a dynamic team and contribute to a variety of client projects across North America. This remote position is ideal for a self-driven, client-focused professional with a strong understanding of the Sales",
+   "workArrangement": "remote",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950814412",
+   "source": "adzuna",
+   "company": "Celestica",
+   "title": "Senior Salesforce Developer / Admin",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950814412",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:06:03.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Summary We are seeking a hands-on Senior Salesforce Developer with strong Marketing Cloud expertise to join our Salesforce Center of Excellence. This is a hands-on solutioning and development role — the successful candidate will personally analyze requirements, design solutions, and build and implement them through con",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813933",
+   "source": "adzuna",
+   "company": "Futran Solutions",
+   "title": "Salesforce Consultant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950813933",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:46.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Strong hands-on experience of 5-8 years with Salesforce Data Cloud and core Salesforce platform and Designing experience Architect and design robust and scalable Salesforce Data Cloud solutions based on client requirements and industry best practices. Define and implement data modelling, schema design, and data governa",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950813856",
+   "source": "adzuna",
+   "company": "Delpath",
+   "title": "nCino Consultant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950813856",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-02T12:05:43.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Delpath is a Toronto based Technical & Business Consulting firm providing recruitment & contracting services for our enterprise clients across North America. We are currently supporting a large Canadian Bank in their search for a contractor to meet their needs in the following area. Location: Toronto, ON Business Group",
+   "workArrangement": "unknown",
+   "tags": []
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950768381",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "Tech Lead Salesforce Financial Services Cloud (FSC)",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5950768381",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T11:22:01.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "The client is looking for the Salesforce technical reference of its delivery teams, positioned between enterprise and business architects, Data Tech Leads and developers. This person designs the FSC architecture (360° client view, financial relationships, onboarding, personalized service) and connects it to data founda",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950768384",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "Senior Business Architecture Advisor, Direct Distribution",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5950768384",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T11:22:01.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "The client is looking for the Salesforce technical reference of its delivery teams, positioned between enterprise and business architects, Data Tech Leads and developers. This person designs the FSC architecture (360° client view, financial relationships, onboarding, personalized service) and connects it to data founda",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950547938",
+   "source": "adzuna",
+   "company": "CYNET SYSTEMS",
+   "title": "Senior Salesforce Technical Consultant",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5950547938",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T07:31:41.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Job Description Job Description Pay Range: $50.00hr - $55.00hr Job Overview: A Salesforce Technical Consultant is responsible for designing, developing, implementing, and supporting Salesforce solutions that meet business requirements. The role involves working closely with business stakeholders, functional consultants",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5950543320",
+   "source": "adzuna",
+   "company": "fusionSpan",
+   "title": "Senior Consultant - Salesforce",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5950543320",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-02T07:24:38.000Z",
+   "scrapedAt": "2026-11-03T01:06:56.873Z",
+   "excerpt": "Job Description Job Description fusionSpan is a dynamic hybrid and remote work environment that prioritizes innovation, trust, and community in everything we do. We are a team of highly-committed individuals inspired by technology's impact on society, and we recognize our work's role in the well-being of our nonprofit ",
+   "workArrangement": "remote",
+   "tags": [
+    "salesforce"
+   ]
+  }
+ ]
+}
