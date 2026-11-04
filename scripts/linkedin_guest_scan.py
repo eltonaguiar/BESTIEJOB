@@ -59,6 +59,11 @@ KEYWORDS = [
     "Salesforce solution architect", "Salesforce business analyst",
     "Salesforce DevOps", "Salesforce Experience Cloud",
     "Salesforce data migration", "Salesforce Pardot", "Apex",
+    # 2026-11-04 AI-panel keyword sweep (raw/ai_queries_60d.json): module and
+    # product names employers use in titles that the list above still missed.
+    "CMDB specialist", "ITAM consultant", "ServiceNow GSD",
+    "ServiceNow sysdev", "ServiceNow release", "ServiceNow table",
+    "Salesforce Wave", "Salesforce AHC", "Salesforce Flow", "Salesforce Apex",
 ]
 LOCATIONS = ["Toronto%2C%20Ontario%2C%20Canada", "Canada",
              "Mississauga%2C%20Ontario%2C%20Canada",

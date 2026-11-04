@@ -109,6 +109,147 @@ function identKey(job) {
     .trim()}`;
 }
 
+/**
+ * Salary stated by the posting, as {min,max,currency}. Purely extractive: only
+ * numbers the text actually contains, and only annual-scale figures, so an
+ * hourly rate can never masquerade as a 25-dollar salary.
+ */
+function inferSalary(text) {
+  const t = String(text || "").replace(/\u00a0/g, " ").replace(/\s+/g, " ");
+  // A bare number range ("25,000 to 30,000") is as likely to be square footage,
+  // headcount or a job id, so the text must also signal money.
+  if (!/\$|\bcad\b|\busd\b|salary|compensation|\bpay\b|annually|per year|per annum/i.test(t)) return null;
+  const num = (s) => Number(s.replace(/,/g, ""));
+  const pair = t.match(
+    /\$?\s?(\d{2,3}(?:,\d{3})+|\d{5,6})(?:\.\d+)?\s*(?:-|–|—|to|and)\s*\$?\s?(\d{2,3}(?:,\d{3})+|\d{5,6})(?:\.\d+)?(?:[^\d]{0,24}(?:CAD|USD))?/i
+  );
+  if (pair) {
+    const min = Math.min(num(pair[1]), num(pair[2]));
+    const max = Math.max(num(pair[1]), num(pair[2]));
+    if (min >= 20000 && max <= 400000) {
+      const currency = /usd|\bus\$/i.test(t) ? "USD" : "CAD";
+      return { min, max, currency };
+    }
+  }
+  const single = t.match(
+    /\$\s?(\d{2,3}(?:,\d{3})+|\d{5,6})\s?(?:CAD|USD)?\s*(?:per year|annually|annual|\/\s?year|a year|salary)/i
+  );
+  if (single) {
+    const v = num(single[1]);
+    if (v >= 20000 && v <= 400000) {
+      return { min: v, max: v, currency: /usd/i.test(t) ? "USD" : "CAD" };
+    }
+  }
+  return null;
+}
+
+/**
+ * Remote / hybrid / onsite from explicit wording only. Location wins when it
+ * says something, then the title, then the excerpt.
+ */
+function inferArrangement(title, location, excerpt) {
+  const loc = String(location || "").toLowerCase();
+  const hay = `${title || ""} ${excerpt || ""}`.toLowerCase();
+  if (/remote|t[ée]l[ée]travail|work from home|work-from-home|telework|travail [àa] distance/.test(loc)) return "remote";
+  if (/hybrid|hybride/.test(loc)) return "hybrid";
+  // "fully on-site, no remote option" must not read as remote.
+  const negated = /(?:not|no|non)[- ]?(?:a )?(?:fully )?(?:remote|hybrid)|remote (?:is )?not (?:available|offered|possible)/.test(hay);
+  if (negated) return /on-?site|in[- ]office/.test(hay) ? "onsite" : null;
+  if (/hybrid|hybride|\d\s*days? (?:a|per) week in (?:the )?office|days in office/.test(hay)) return "hybrid";
+  if (/fully remote|100% remote|remote[- ]first|remote position|remote role|\bremote\b|t[ée]l[ée]travail/.test(hay)) return "remote";
+  if (/on-?site|in[- ]office|in person only/.test(hay)) return "onsite";
+  return null;
+}
+
+const AGGREGATOR_HOST = /(^|\.)(adzuna\.|linkedin\.|indeed\.|glassdoor\.|ziprecruiter\.|eluta\.ca|talent\.com|whatjobs\.|workopolis\.|jobbank\.gc\.ca|jobs\.ca|jobsca\.)/i;
+
+function cityOf(location) {
+  const raw = String(location || "").toLowerCase();
+  if (!raw.trim()) return "";
+  const first = raw.split(",")[0];
+  return first.replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
+}
+
+/**
+ * One row per role-and-city. The feed used to carry the same requisition from
+ * Adzuna + LinkedIn + the employer board as separate entries (116 company+title
+ * clusters, 177 excess rows on 2026-11-04), which inflated every count and made
+ * the API disagree with the page, where build_site.py already clusters them.
+ * The dropped mirrors are kept on the surviving row as `alternates`, the same
+ * shape the cards use, so nothing is lost.
+ *
+ * Multi-city reposts (one role advertised per province) are deliberately NOT
+ * collapsed: different city means a different listing on the board.
+ */
+function dedupeRows(rows) {
+  const buckets = new Map();
+  for (const row of rows) {
+    const key = `${(row.company || "").toLowerCase().trim()}|${(row.title || "")
+      .toLowerCase()
+      .replace(/\s+/g, " ")
+      .trim()}|${cityOf(row.location)}`;
+    const bucket = buckets.get(key);
+    if (bucket) bucket.push(row);
+    else buckets.set(key, [row]);
+  }
+
+  const rank = (r) => [
+    AGGREGATOR_HOST.test((r.url || "").replace(/^https?:\/\/(www\.)?/, "")) ? 0 : 1,
+    r.postedDate || "",
+    (r.location || "").length + (r.company || "").length,
+  ];
+  const out = [];
+  let collapsed = 0;
+  for (const members of buckets.values()) {
+    if (members.length === 1) {
+      out.push(members[0]);
+      continue;
+    }
+    members.sort((a, b) => {
+      const ra = rank(a);
+      const rb = rank(b);
+      return ra[0] !== rb[0] ? rb[0] - ra[0] : ra[1] !== rb[1] ? (ra[1] < rb[1] ? 1 : -1) : rb[2] - ra[2];
+    });
+    const [primary, ...dups] = members;
+    const seen = new Set([(primary.url || "").split("?")[0].replace(/\/$/, "").toLowerCase()]);
+    primary.alternates = primary.alternates || [];
+    for (const dup of dups) {
+      collapsed += 1;
+      const u = (dup.url || "").split("?")[0].replace(/\/$/, "").toLowerCase();
+      if (!u || seen.has(u) || primary.alternates.length >= 6) continue;
+      seen.add(u);
+      primary.alternates.push({ source: dup.source, url: dup.url, label: dup.source });
+      if ((dup.postedDate || "") > (primary.postedDate || "")) primary.postedDate = dup.postedDate;
+    }
+    out.push(primary);
+  }
+  return { rows: out, collapsed };
+}
+
+/** Fill blank salary / arrangement fields from the row's own text. */
+function enrichRows(rows) {
+  let salaryFilled = 0;
+  let arrangementFilled = 0;
+  for (const row of rows) {
+    const hay = `${row.title || ""} ${row.excerpt || ""}`;
+    if (!row.salary) {
+      const salary = inferSalary(hay);
+      if (salary) {
+        row.salary = salary;
+        salaryFilled += 1;
+      }
+    }
+    if (!row.workArrangement || row.workArrangement === "unknown") {
+      const arrangement = inferArrangement(row.title, row.location, row.excerpt);
+      if (arrangement) {
+        row.workArrangement = arrangement;
+        arrangementFilled += 1;
+      }
+    }
+  }
+  return { salaryFilled, arrangementFilled };
+}
+
 function detectTags(title, excerpt) {
   const hay = `${title} ${excerpt}`;
   const tags = [];
@@ -230,7 +371,10 @@ function main() {
     byIdent.set(identKey(row), row);
   }
 
-  const all = [...[...byUrl.values()], ...added.filter((r) => !byUrl.has(urlKey(r.url)))];
+  const enriched = enrichRows([...byUrl.values()]);
+  const deduped = dedupeRows([...byUrl.values()]);
+
+  const all = [...deduped.rows, ...added.filter((r) => !byUrl.has(urlKey(r.url)))];
   // byUrl already holds added rows (set above); dedupe by object identity
   const merged = [...new Set(all)].sort((a, b) =>
     a.postedDate < b.postedDate ? 1 : a.postedDate > b.postedDate ? -1 : 0
@@ -239,7 +383,8 @@ function main() {
   console.log(
     `[sync] readme rows=${readmeRows.length} already-in-feed=${duplicated} added=${added.length} ` +
       `undated-dropped=${undated} listing-pages-skipped=${listingSkipped} ` +
-      `listing-pages-purged=${listingDropped} total=${merged.length}`
+      `listing-pages-purged=${listingDropped} salary-filled=${enriched.salaryFilled} ` +
+      `arrangement-filled=${enriched.arrangementFilled} dupes-collapsed=${deduped.collapsed} total=${merged.length}`
   );
 
   if (DRY) {
