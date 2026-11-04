@@ -1,41 +1,21 @@
-# SALESFORCE — 30 todos / 30 rounds — 2026-11-04
+# SALESFORCE — 30 todos / 10 rounds — 2026-11-04
 
-Liveness verified: **yes** · generated 05:44 UTC
+Liveness verified: **no** · generated 19:00 UTC
 
 | # | Target | Route | Fetched | Matched | Live | New | Secs |
 |---|--------|-------|--------:|--------:|-----:|----:|-----:|
-| 1 | Salesforce | workday | 100 | 0 | 0 | 0 | 3.3 |
-| 2 | NeuraFlash | greenhouse | 75 | 15 | 15 | 2 | 0.8 |
-| 3 | Highmetric | greenhouse | 50 | 0 | 0 | 0 | 0.1 |
-| 4 | nCino | greenhouse | 31 | 0 | 0 | 0 | 0.1 |
-| 5 | Varicent | greenhouse | 22 | 0 | 0 | 0 | 0.1 |
-| 6 | SiteTracker | lever | 11 | 0 | 0 | 0 | 0.6 |
+| 1 | Salesforce | workday | 100 | 0 | 0 | 0 | 3.8 |
+| 2 | NeuraFlash | greenhouse | 75 | 15 | 15 | 0 | 20.2 |
+| 3 | Highmetric | greenhouse | 48 | 0 | 0 | 0 | 0.1 |
+| 4 | nCino | greenhouse | 29 | 0 | 0 | 0 | 0.1 |
+| 5 | Varicent | greenhouse | 22 | 0 | 0 | 0 | 0.2 |
+| 6 | SiteTracker | lever | 8 | 0 | 0 | 0 | 10.1 |
 | 7 | Flosum | workable | 147 | 0 | 0 | 0 | 0.5 |
 | 8 | Zaelab | workable | 7 | 0 | 0 | 0 | 0.3 |
-| 9 | Avacone | workable | 20 | 0 | 0 | 0 | 0.3 |
+| 9 | Avacone | workable | 20 | 0 | 0 | 0 | 0.4 |
 | 10 | RapDev | ashby | 8 | 0 | 0 | 0 | 0.0 |
-| 11 | Directive | ashby | 63 | 0 | 0 | 0 | 0.0 |
-| 12 | Loopio | ashby | 18 | 1 | 1 | 0 | 0.4 |
-| 13 | Docebo | ashby | 36 | 2 | 2 | 2 | 0.4 |
-| 14 | Benevity | ashby | 20 | 2 | 2 | 0 | 0.2 |
-| 15 | Lightspeed Commerce | ashby | 126 | 0 | 0 | 0 | 0.1 |
-| 16 | Accenture | workday | 100 | 0 | 0 | 0 | 10.7 |
-| 17 | Altus Group | workday | 5 | 2 | 2 | 0 | 1.7 |
-| 18 | BMO | workday | 13 | 1 | 1 | 0 | 1.7 |
-| 19 | TD Bank | workday | 14 | 1 | 1 | 0 | 2.0 |
-| 20 | CIBC | workday | 8 | 0 | 0 | 0 | 1.0 |
-| 21 | Sun Life | workday | 13 | 0 | 0 | 0 | 1.3 |
-| 22 | Manulife | workday | 35 | 0 | 0 | 0 | 2.2 |
-| 23 | OMERS | workday | 1 | 0 | 0 | 0 | 0.8 |
-| 24 | TMX Group | workday | 6 | 0 | 0 | 0 | 0.6 |
-| 25 | Thomson Reuters | workday | 73 | 0 | 0 | 0 | 3.7 |
-| 26 | Moneris | workday | 3 | 1 | 1 | 0 | 1.3 |
-| 27 | McKesson | workday | 55 | 4 | 4 | 0 | 3.4 |
-| 28 | Cloudera | workday | 2 | 0 | 0 | 0 | 0.8 |
-| 29 | Harris Computer | workday | 16 | 0 | 0 | 0 | 0.9 |
-| 30 | GDIT | workday | 9 | 0 | 0 | 0 | 0.8 |
 
-**Totals** — fetched 1087, matched 29, live-verified 29, net-new 4, errors 0, 40.2s.
+**Totals** — fetched 464, matched 15, live-verified 15, net-new 0, errors 0, 35.9s.
 
 ## Round 2 — NeuraFlash (15 live)
 
@@ -56,57 +36,3 @@ Liveness verified: **yes** · generated 05:44 UTC
 | 2026-04-14 | [Salesforce Consultant, Change Management](https://job-boards.greenhouse.io/neuraflash/jobs/5969708004) | NeuraFlash, Part of Accenture | Remote - Canada (Alberta, British Colu | 200 |
 | 2026-01-14 | [Salesforce Experience Architect, AI and Agentforce (Solution Architect)](https://job-boards.greenhouse.io/neuraflash/jobs/5764374004) | NeuraFlash, Part of Accenture | Remote - Canada (Alberta, British Colu | 200 |
 | 2025-12-05 | [Salesforce Solution Architect, Service Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/5730028004) | NeuraFlash, Part of Accenture | Remote - Canada (Alberta, British Colu | 200 |
-
-## Round 12 — Loopio (1 live)
-
-| Posted | Title | Company | Location | Live |
-|--------|-------|---------|----------|------|
-| 2026-10-13 | [Senior Salesforce Administrator](https://jobs.ashbyhq.com/loopio/b8d91233-b646-43f7-941e-ca654b21921e) | Loopio | Toronto, ON Hub | 200 |
-
-## Round 13 — Docebo (2 live)
-
-| Posted | Title | Company | Location | Live |
-|--------|-------|---------|----------|------|
-| 2026-10-30 | [Senior Salesforce Developer](https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad) | Docebo | Toronto, Ontario | 200 |
-| 2026-10-02 | [Salesforce Product Owner](https://jobs.ashbyhq.com/docebo/6c6ced29-4d69-4e93-b808-e6aea83d87f3) | Docebo | Toronto, Ontario | 200 |
-
-## Round 14 — Benevity (2 live)
-
-| Posted | Title | Company | Location | Live |
-|--------|-------|---------|----------|------|
-| 2026-10-28 | [Senior Salesforce Administrator](https://jobs.ashbyhq.com/benevity/f943cad9-7eed-466f-8ff5-398ac15dd14d) | Benevity | Calgary, Alberta | 200 |
-| 2026-10-28 | [Senior Salesforce Administrator](https://jobs.ashbyhq.com/benevity/78798ad7-2d39-497e-98af-dad3a2ea8e20) | Benevity | Toronto, Ontario | 200 |
-
-## Round 17 — Altus Group (2 live)
-
-| Posted | Title | Company | Location | Live |
-|--------|-------|---------|----------|------|
-| 2026-11-04 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto | 200 |
-| 2026-10-31 | [Salesforce Platform Developer](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087) | Altus Group | Toronto, Ontario | 200 |
-
-## Round 18 — BMO (1 live)
-
-| Posted | Title | Company | Location | Live |
-|--------|-------|---------|----------|------|
-| 2026-10-30 | [Manager, Banking Salesforce Innovation & Enablement](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Manager--Salesforce-Innovation---Enablement_R260030015) | BMO | Toronto, ON, CAN | 200 |
-
-## Round 19 — TD Bank (1 live)
-
-| Posted | Title | Company | Location | Live |
-|--------|-------|---------|----------|------|
-| 2026-10-27 | [Software Engineer II (Salesforce Loyalty Management Developer)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038) | TD Bank | Toronto, Ontario | 200 |
-
-## Round 26 — Moneris (1 live)
-
-| Posted | Title | Company | Location | Live |
-|--------|-------|---------|----------|------|
-| 2026-10-29 | [Principle Salesforce Developer](https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2) | Moneris | Toronto | 200 |
-
-## Round 27 — McKesson (4 live)
-
-| Posted | Title | Company | Location | Live |
-|--------|-------|---------|----------|------|
-| 2026-10-07 | [Lead Salesforce Solution Architect](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441) | McKesson | CAN, ON, Mississauga | 200 |
-| — | [Salesforce Delivery Lead](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Salesforce-Delivery-Lead_JR0147161) | McKesson | CAN, ON, Mississauga | 200 |
-| — | [Salesforce Marketing Cloud Developer](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159) | McKesson | CAN, ON, Mississauga | 200 |
-| — | [Sr. Salesforce CRM Development Lead](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163) | McKesson | CAN, ON, Mississauga | 200 |

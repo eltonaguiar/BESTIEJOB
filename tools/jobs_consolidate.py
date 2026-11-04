@@ -63,6 +63,50 @@ def classify(title: str, url: str, location: str = "") -> str:
     return "other"
 
 
+# Aggregator result pages masquerading as postings. Evidence: of 367 rows the
+# websearch harvesters carried that were absent from the board, the ones with no
+# posting id were Exa's answer to "data analyst toronto" — a category or search
+# URL, not a role. Each host below has a stable search/category shape, so the URL
+# alone identifies it; a real posting on the same host carries an id and does not
+# match. Checked against the 39 listing pages in that set (all caught) and every
+# URL on the board (only the 7 search pages already listed there matched).
+LISTING_RULES = (
+    # /jobs/<keywords>-jobs[-<city>] is a search page; /jobs/view/<id> is a posting.
+    (r"(^|\.)linkedin\.com$", r"^/jobs/(?!view/)[a-z0-9%-]*-jobs"),
+    # Glassdoor marks result pages with -jobs-SRCH_ keys.
+    (r"(^|\.)glassdoor\.[a-z.]+$", r"(?i)-jobs-srch_|srch_|/job/jobs\.htm"),
+    (r"(^|\.)wellfound\.com$", r"^/role/"),
+    # Robert Half category pages: /ca/en/jobs/<city>[/<keyword>]; a posting is
+    # /ca/en/jobs/detail/<id>/<slug>, so "detail/" is the exclusion.
+    (r"(^|\.)roberthalf\.[a-z.]+$",
+     r"^/[a-z]{2}/[a-z]{2}/jobs/(?!detail/)[a-z][a-z0-9-]*(?:/[a-z0-9-]+)?/?$"),
+    (r"(^|\.)randstad\.[a-z.]+$", r"^/jobs/q-"),
+    (r"(^|\.)eluta\.ca$", r"(?i)-jobs-in-"),
+    (r"(^|\.)jobbank\.gc\.ca$", r"^/marketreport/"),
+    (r"(^|\.)ziprecruiter\.com$", r"^/Jobs/"),
+    (r"(^|\.)whatjobs\.com$", r"^/jobs/[a-z0-9-]+/[a-z0-9-]+/?$"),
+    (r"(^|\.)adzuna\.[a-z.]+$", r"^/[a-z0-9-]+/?$"),
+    (r"(^|\.)indeed\.[a-z.]+$", r"^/q-"),
+)
+LISTING_QUERY = re.compile(r"(?i)[?&](q|query|search|keywords?|k|ss|term|what|jobtitle)=")
+# Slash-delimited only: "/jobsearch/jobposting/<id>" (Job Bank) and
+# "/jobsearch/viewjob/<token>" (Workopolis) are postings, not searches.
+LISTING_PATH = re.compile(r"(?i)/(jobs?|careers?)/(search|results|browse)(/|$)")
+
+
+def is_listing_url(url: str) -> bool:
+    """True for an aggregator search/category page, which is not a posting."""
+    m = re.match(r"https?://([^/?#]+)([^?#]*)(\?[^#]*)?", url or "")
+    if not m:
+        return False
+    host = m.group(1).lower().removeprefix("www.")
+    path = m.group(2) or "/"
+    query = m.group(3) or ""
+    if LISTING_QUERY.search(query) or LISTING_PATH.search(path):
+        return True
+    return any(re.search(h, host) and re.search(p, path) for h, p in LISTING_RULES)
+
+
 def normalise_url(url: str) -> str:
     url = url.split("#")[0]
     url = re.sub(r"[?&](utm_[^&]+|se|v|utm_medium|utm_source)=[^&]*", "", url)

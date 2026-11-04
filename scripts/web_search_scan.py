@@ -24,6 +24,7 @@ import concurrent.futures as futures
 import json
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -44,20 +45,26 @@ MAX_AGE_DAYS = 31
 
 # Queries the aggregator keyword lists do not ask. Kept short on purpose: each
 # one costs a search-API credit and a handful of page fetches.
+#
+# These queries MUST be scoped with `site:` to an ATS domain.  A bare keyword
+# query ("ServiceNow developer jobs Toronto") describes a *listing page*, and a
+# search engine answers it with listing pages: measured 2026-11-04, 16 of 20
+# raw results were index/category pages that INDEX_URL and INDEX_TITLE correctly
+# discarded, so the run returned 0 rows while spending 100 search credits.
+# Scoping to an ATS host can only surface that host's individual postings.
 QUERIES = [
-    "ServiceNow developer jobs Toronto",
-    "ServiceNow architect jobs Toronto Ontario",
-    "ServiceNow ITOM CMDB jobs Canada",
-    "ServiceNow HRSD jobs Toronto",
-    "Salesforce developer jobs Toronto",
-    "Salesforce CPQ Revenue Cloud jobs Canada",
-    "Salesforce Agentforce jobs Toronto",
-    "ITAM software asset management ServiceNow jobs Toronto",
-    # certification-targeted: employers name the cert when they want it
-    "ServiceNow CSA CAD certified jobs Toronto",
-    "Salesforce Platform Developer I certified jobs Toronto",
-    "Salesforce JavaScript Developer I jobs Canada",
-    "Salesforce certified administrator jobs Toronto",
+    "site:myworkdayjobs.com ServiceNow Toronto",
+    "site:myworkdayjobs.com Salesforce Toronto",
+    "site:myworkdayjobs.com ServiceNow Ontario",
+    "site:myworkdayjobs.com Salesforce Canada",
+    "site:boards.greenhouse.io ServiceNow Canada",
+    "site:boards.greenhouse.io Salesforce Toronto",
+    "site:jobs.lever.co ServiceNow Toronto",
+    "site:jobs.lever.co Salesforce Canada",
+    "site:jobs.ashbyhq.com ServiceNow",
+    "site:jobs.ashbyhq.com Salesforce Toronto",
+    "site:jobs.smartrecruiters.com ServiceNow Canada",
+    "site:jobs.smartrecruiters.com Salesforce Toronto",
 ]
 
 KW = re.compile(
@@ -162,7 +169,10 @@ def search_firecrawl(query: str, limit: int) -> list[dict]:
             for r in items]
 
 
-SEARCHERS = {"tavily": search_tavily, "exa": search_exa, "firecrawl": search_firecrawl}
+# Ordered by observed availability, not preference.  On 2026-11-04 Tavily was
+# HTTP 432 (plan set-usage limit) and Exa HTTP 402 (credits exhausted), so
+# trying them first would burn a run before reaching the provider that answers.
+SEARCHERS = {"firecrawl": search_firecrawl, "tavily": search_tavily, "exa": search_exa}
 
 
 # ---------------------------------------------------------------------------
@@ -344,18 +354,29 @@ def main() -> int:
     queries = QUERIES[: args.max_queries]
     results: list[dict] = []
     for provider in live:
+        dead = False
         for query in queries:
+            if dead:
+                break
             try:
                 found = SEARCHERS[provider](query, 10)
             except urllib.error.HTTPError as exc:
                 detail = exc.read().decode("utf-8", "replace")[:120].replace("\n", " ")
                 print(f"[websearch:{provider}] HTTP {exc.code} {detail}")
+                # 429 is a *rate* limit, not a plan limit: the provider is still
+                # usable next run and the query list is worth finishing on a
+                # slower path, but mid-run it carries no recovery. Stop, keep
+                # what this provider already returned.
+                dead = True
                 break
             except Exception as exc:                       # noqa: BLE001
                 print(f"[websearch:{provider}] {type(exc).__name__}: {str(exc)[:100]}")
+                dead = True
                 break
             results.extend(found)
             print(f"[websearch:{provider}] '{query}' -> {len(found)} results")
+            if provider == "firecrawl" and len(found):
+                time.sleep(6)      # free/entry plan caps at 11 req/min
 
     known = known_urls()
     dated, undated = build_rows(results, known, args.max_fetch)
