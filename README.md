@@ -18,9 +18,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-04
 
-Window: 2026-10-05 → 2026-11-04 · **1181 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-05 → 2026-11-04 · **1182 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (381)
+### ServiceNow jobs (330)
 
 _developer / administrator / architect / analyst roles_
 
@@ -30,6 +30,7 @@ _developer / administrator / architect / analyst roles_
 |---|---|---|---|---|
 | 2026-11-04 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159519949) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-04 | [ServiceNow SAM Administrator - ITAM](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096) | BMO | Toronto, ON, CAN |  |
+| 2026-11-04 | [Support Analyst, ITSM](https://ca.linkedin.com/jobs/view/support-analyst-itsm-at-mccarthy-t%C3%A9trault-4479055952) | McCarthy Tétrault | Vancouver, British Columbia, Canada | JD-verified: 1× ServiceNow mention, 3 yrs min, hybrid — via round6 (r6_public) |
 | 2026-11-03 | [Servicenow specialist](https://ca.linkedin.com/jobs/view/servicenow-specialist-at-tata-consultancy-services-4486058172) | Tata Consultancy Services | Montreal, Quebec, Canada | via linkedin-guest--2026-11-03--v1.md |
 | 2026-11-03 | [Servicenow Developer - Mississauga, Ontario](https://www.ihiretechnology.com/jobs/view/530745977) | iHireTechnology | Mississauga, Ontario | full-time |
 | 2026-11-03 | [ServiceNow Technical Consultant - ITOM, Service Mapping](https://www.randstad.ca/jobs/servicenow-technical-consultant-itom-service-mapping_toronto_47215222/) | Randstad Canada | Toronto, ON | full-time |
@@ -1176,7 +1177,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-04T19:02:46.604Z** · 1444 live postings from 9 public sources · 82 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-04T19:54:57.375Z** · 1446 live postings from 9 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
