@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T081703Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T083314Z.md`.
 
 ## Contents
 
@@ -573,12 +573,13 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-04T08:00:01.322Z** · 867 live postings from 9 public sources · 105 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-04T08:30:01.290Z** · 868 live postings from 9 public sources · 105 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-04 | [ITAM PROJECT MANAGER - SERVICENOW HAM/SAM](https://www.adzuna.ca/details/5952756292) | Insight Global | Toronto, Ontario |
 | 2026-11-04 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159519949) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-03 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159518980) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-03 | [Service Now ITAM/Discovery](https://www.adzuna.ca/details/5952066568) | Acestack | Regent Park, City of Toronto |
@@ -590,7 +591,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Intermediate Technology Specialist, Service Now Developer](https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-service-now-developer-at-equitable-4485018083) | Equitable | Waterloo, Ontario, Canada |
 | 2026-11-03 | [Servicenow specialist](https://ca.linkedin.com/jobs/view/servicenow-specialist-at-tata-consultancy-services-4486058172) | Tata Consultancy Services | Montreal, Quebec, Canada |
 | 2026-11-03 | [Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR](https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486078203) | Desjardins | Montréal-Ouest, Quebec, Canada |
-| 2026-11-03 | [ServiceNow Consultant - REMOTE](https://ca.linkedin.com/jobs/view/servicenow-consultant-remote-at-ntt-data-north-america-4478715652) | NTT DATA North America | Ottawa, Ontario, Canada |
 
 ### Salesforce — newest 12
 
@@ -613,6 +613,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-04 | [Business Intelligence and Reporting Analyst](https://www.adzuna.ca/details/5952756666?utm_medium=api&utm_source=54ce986e) | TD Bank | Toronto, Ontario | Data / BI |
 | 2026-11-04 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5952726500) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-04 | [Staff Site Reliability Engineer, Canada Protected B](https://ca.linkedin.com/jobs/view/staff-site-reliability-engineer-canada-protected-b-at-servicenow-4487203515) | ServiceNow | Toronto, Ontario, Canada | DevOps / Cloud |
 | 2026-11-04 | [Senior Site Reliability Engineer, Canada Protected B](https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-canada-protected-b-at-servicenow-4487200713) | ServiceNow | Toronto, Ontario, Canada | DevOps / Cloud |
@@ -622,11 +623,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Finance Business & Data Analyst](https://www.adzuna.ca/details/5952066517?utm_medium=api&utm_source=54ce986e) | TekWissen LLC | Westmount, Montréal | Data / BI |
 | 2026-11-03 | [Java Full stack engineer](https://www.adzuna.ca/details/5952066479) | VDart Inc | Regent Park, City of Toronto | Full stack |
 | 2026-11-03 | [DevOps Engineer \| Azure GitHub Enterprise](https://www.adzuna.ca/details/5951979981) | Insight Global | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-03 | [Senior Full Stack Engineer, AI Products - Stout Strategy](https://www.adzuna.ca/details/5951979916?utm_medium=api&utm_source=54ce986e) | Stout | Canada | Full stack |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-04T081703Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
+`README.BAK_2026-11-04T083314Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
