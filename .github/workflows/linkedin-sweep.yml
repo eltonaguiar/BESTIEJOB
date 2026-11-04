@@ -33,7 +33,7 @@ jobs:
         run: pip install curl_cffi
 
       - name: Sweep LinkedIn and merge
-        run: python3 scripts/linkedin_guest_scan.py --days 3 --apply --max-per-table 150
+        run: python3 scripts/linkedin_guest_scan.py --days 3 --apply --max-per-table 400
 
       - name: Commit and push
         run: |

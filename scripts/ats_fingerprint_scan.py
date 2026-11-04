@@ -455,7 +455,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=45)
     ap.add_argument("--apply", action="store_true")
-    ap.add_argument("--max-per-table", type=int, default=150)
+    ap.add_argument("--max-per-table", type=int, default=400)
     ap.add_argument("--all-locations", action="store_true")
     ap.add_argument("--only", help="limit to one route (workday/oracle/phenom/sitemap/...)")
     ap.add_argument("--sitemap-cap", type=int, default=40,
