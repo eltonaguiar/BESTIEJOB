@@ -1,0 +1,2572 @@
+{
+ "platform": "sf",
+ "round": 7,
+ "raw_results": 122,
+ "normalized": 122,
+ "scored_good": 122,
+ "generated_at": "20261104T061538Z",
+ "jobs": [
+  {
+   "title": "Versapay - Salesforce Developer",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.lever.co/versapay/7906bc29-f17e-44d2-a41b-334e6ce0608c",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.831822+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow experience, relevant certifications, and matches the Toronto location.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow experience, relevant certifications, and matches the Toronto location."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobgether.com/offer/6a73572de9f5b786586b62f1-salesforce-developer",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.831858+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong ServiceNow background with relevant certifications, but the job is for Salesforce, which is a partial match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong ServiceNow background with relevant certifications, but the job is for Salesforce, which is a partial match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer @ Versapay | Simplify Jobs",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://simplify.jobs/p/e25d6afb-0889-4f66-879a-0f0d41eec3bb/Salesforce-Developer",
+   "source": "exa (tier 0)",
+   "postedDate": "2024-04-02T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.831863+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, relevant to the position and location.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, relevant to the position and location."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce developer - hays - Hays (Toronto, Ontario, Canada)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobsca.org/salesforce-developer_toronto-c117072/2026-09-hays_i4210697855",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-09-20T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.831869+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant certifications, and local Toronto location.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant certifications, and local Toronto location."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Integration Developer | Hirify",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://hirify.me/jobs/756297-salesforce-integration-developer-workato",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.831874+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant certifications and Toronto location match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant certifications and Toronto location match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce developer - Hays (Toronto, Ontario, Canada)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobsca.org/salesforce-developer_toronto-c117072/2026-09-hays_i4210694592",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-09-20T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.831879+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and Toronto location.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and Toronto location."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Engineer II - Kindsight",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://careers.kindsight.io/jobs/649922-salesforce-engineer-ii",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-06-19T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.831883+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications with relevant experience, but the job title is slightly higher than his experience level.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications with relevant experience, but the job title is slightly higher than his experience level."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer (Remote)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobgether.com/offer/6a5f9e971b23f4f87b2d22ee-senior-salesforce-developer-remote",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.831888+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background, relevant certifications, and remote location flexibility match well with the profile.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background, relevant certifications, and remote location flexibility match well with the profile."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer (Remote) | Flexgen",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://flexgen.zya.me/job/senior-salesforce-developer-remote-8",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-08-22T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.831895+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong ServiceNow background with relevant certifications, but the role is Salesforce-focused.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong ServiceNow background with relevant certifications, but the role is Salesforce-focused."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer | Launchpad Technologies | Remote | July 2026",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobera.com/job/launchpad-technologies-senior-salesforce-developer-7bb4596f/",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.831900+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow experience, relevant certifications, and senior role align well with Elton's profile.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow experience, relevant certifications, and senior role align well with Elton's profile."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer, Toronto, ON-199 Bay Street, Ontario, Canada | Cognizant Careers",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://careers.cognizant.com/global-en/jobs/00068455712/salesforce-developer",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2022-07-15",
+   "scrapedAt": "2026-11-04T06:11:28.831910+00:00",
+   "excerpt": "\nSalesforce Developer\n\n00068455712\n* Date published Apr 23 2026\n* Location Toronto, ON-199 Bay Street / Canada\n* Job category Technology & Engineering\n* Work model Work from Home\nAs a Salesforce Developer , you will make an impact by designing, building, and optimizing scalable Salesforce solutions ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good Salesforce experience and relevant certifications, but more aligned with ServiceNow.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good Salesforce experience and relevant certifications, but more aligned with ServiceNow."
+    }
+   ]
+  },
+  {
+   "title": "[Hiring] Salesforce Developer @emergiTEL",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remotive.com/remote/jobs/software-development/salesforce-developer-6338007",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.831932+00:00",
+   "excerpt": "Back to Remote jobs > Software Development > salesforce developer\nSalesforce Developer @emergiTEL\nSoftware Development\n|Salary unspecified |Remote Location\n* remote Canada\n* Employment Type full-time | Posted YDay\n\n[Hiring] Salesforce Developer @emergiTEL\n\nYDay - emergiTEL is hiring a remote Salesfo",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good fit for Salesforce platform, remote Canada location, relevant certifications, and developer role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good fit for Salesforce platform, remote Canada location, relevant certifications, and developer role."
+    }
+   ]
+  },
+  {
+   "title": "Ensiti Salesforce Developer – 100% Remote  | SmartRecruiters",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.smartrecruiters.com/ensiti/744000150784335-salesforce-developer-100-remote-",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-09-21",
+   "scrapedAt": "2026-11-04T06:11:28.831945+00:00",
+   "excerpt": "* Google Chrome\n* Microsoft Edge\n* Apple Safari\n* Mozilla Firefox\nEnsiti logo\n\nSalesforce Developer – 100% Remote\n\n* Full-time\n\nJob Description\n\nWe are currently looking for a Salesforce Developer to join a growing technology and ERP implementation company. This is a 100% remote opportunity for a de",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience but looking for Salesforce developer role, certifications relevant but job description matches remote Canada location well.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience but looking for Salesforce developer role, certifications relevant but job description matches remote Canada location well."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer - Digital Customer @ Deloitte | Discover Technata Job Board",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.discovertechnata.com/companies/deloitte-2-548ffef4-5e36-4ac1-9d45-edef2fdcac69/jobs/95464149-salesforce-developer-digital-customer",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.831960+00:00",
+   "excerpt": "Find your next tech job in Kanata North, Canada’s largest technology park. Then explore endless international opportunities and dream about where your career will take you. With the Country’s largest density of technology companies ranging from promising startups to leading global giants, Kanata Nor",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good fit for Salesforce development with relevant certifications, but not as strong on ServiceNow aspects.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good fit for Salesforce development with relevant certifications, but not as strong on ServiceNow aspects."
+    }
+   ]
+  },
+  {
+   "title": "Job opening - Salesforce Developer in Vancouver | Randstad Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.randstad.ca/jobs/salesforce-developer_vancouver_47625590",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-10-15",
+   "scrapedAt": "2026-11-04T06:11:28.831969+00:00",
+   "excerpt": "technologies\n* home\n* jobs\n* technologies\n* salesforce developer\n\nSalesforce Developer\n\n* Vancouver , British Columbia\n* posted 2 days ago\n* temporaire\napply\n\njob details\n\nsummary\n\n...\n\nA nationwide Canadian financial services and insurance enterprise is seeking experienced Senior Salesforce Develop",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in Salesforce certification and developer role, but not in ServiceNow and remote location preference.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in Salesforce certification and developer role, but not in ServiceNow and remote location preference."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer – Remote · Canada | AgileGrid Solutions",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/agilegrid-solutions/jobs/senior-salesforce-developer-remote-canada-bd5efad99582",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.831979+00:00",
+   "excerpt": "1. Jobs.ca\n2. Explore open jobs\n3. AgileGrid Solutions\n4. Senior Salesforce Developer\nBack to job search\nAgileGrid Solutions logo\nAgileGrid Solutions\n\nSenior Salesforce Developer\n\n* Canada\n* Remote\n* PostedOct 12, 2026\n* 1position\nApply on LinkedIn (LinkedIn sign-in required)\nOpens LinkedIn\nSign in ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong Salesforce certification match with remote work option in Canada.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong Salesforce certification match with remote work option in Canada."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer – Remote · Quebec, Quebec, Canada | Brunel",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/brunel/jobs/salesforce-developer-remote-quebec-quebec-canada-d93ee83e55ca",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.831991+00:00",
+   "excerpt": "1. Jobs.ca\n2. Explore open jobs\n3. Brunel\n4. Salesforce Developer\nBack to job search\nBrunel logo\nBrunel\n\nSalesforce Developer\n\n* Quebec, Quebec, Canada\n* Remote\n* PostedOct 28, 2026\n* 1position\n$80–$120 / hour\nApply on LinkedIn (LinkedIn sign-in required)\nOpens LinkedIn\nSign in to save this job Job ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow background with relevant Salesforce certifications and remote location match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow background with relevant Salesforce certifications and remote location match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Technical Lead - Raise - find a more meaningful working experience",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://raise.jobs/careers/262162-salesforce-technical-lead",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-10-21",
+   "scrapedAt": "2026-11-04T06:11:28.832005+00:00",
+   "excerpt": "\nSalesforce Technical Lead\n\nTitle: Salesforce Technical Lead\nLocation: Remote, Canada\nSalary: $120,000 – $150,000 / year CAD\nEmployment Type: Permanent Full-Time\nYou'll assist Raise building custom Salesforce and customer-facing Experience Cloud App solutions. You lead a team of 2 to 4 developers (d",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong Salesforce certifications and experience align well with the role, though it's more focused on Salesforce rather than ServiceNow.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong Salesforce certifications and experience align well with the role, though it's more focused on Salesforce rather than ServiceNow."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer – Remote · Canada | LGS Talent",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/talents-lgs/jobs/salesforce-developer-remote-canada-294fa22f2418",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832015+00:00",
+   "excerpt": "Back to job search\nLGS Talent logo\nLGS Talent Verified Job Source\n\nSalesforce Developer\n\n* Canada\n* Remote\n* PostedJun 19, 2026\n* 1position\nApply on the employer’s site\nOpens an external site\nSign in to save this job Job alerts Job alerts\nEmployment type Full-time\nExperience level Mid-level · 4+ yea",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match for Salesforce platform, relevant certifications, and mid-level experience.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match for Salesforce platform, relevant certifications, and mid-level experience."
+    }
+   ]
+  },
+  {
+   "title": "Remote, Canada Salesforce developer Jobs – 27 Openings This Week | Workopolis",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.workopolis.com/search?q=salesforce%2520developer&l=remote%252c%2520canada",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832022+00:00",
+   "excerpt": "Minimum Salary All salaries\n\nDate Added Anytime\n\nSort & Filter\n\n27\n\n# salesforce developer jobs in remote, canada\n\n* ## [Salesforce Developer](https://www.workopolis.com/jobsearch/viewjob/kGmDM1CS3d1sAFImfK_IEpowSdcuqhMvghpDXxN7eq22vGVg6JxZ86pxqjzSPH3b)\n  \n  Versapay — Remote 3\n  \n    + $80,000–$100",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background, relevant Salesforce certifications, and remote location match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background, relevant Salesforce certifications, and remote location match."
+    }
+   ]
+  },
+  {
+   "title": "| JA Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jacanada.org/news/career-opportunity-salesforce-it-administrator/",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832029+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certification match with relevant experience.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certification match with relevant experience."
+    }
+   ]
+  },
+  {
+   "title": "[Hiring] Salesforce Administrator @Connective",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remotive.com/remote/jobs/software-development/salesforce-administrator-3811603",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832033+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in ServiceNow certifications and location, but mismatch in Salesforce platform and administrator role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in ServiceNow certifications and location, but mismatch in Salesforce platform and administrator role."
+    }
+   ]
+  },
+  {
+   "title": "Information Systems Administrator (Salesforce) - Toronto | CharityVillage",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.charityvillage.com/job/information-systems-administrator-salesforce-314744",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-08-25T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832039+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow match, relevant certifications, Toronto location, but job title does not clearly indicate a developer role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow match, relevant certifications, Toronto location, but job title does not clearly indicate a developer role."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Administrator | Versapay | 90k-110k/year | Remote Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobera.com/job/versapay-salesforce-administrator-6e5efb5e/",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-07-22T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832044+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant certifications and remote work flexibility.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant certifications and remote work flexibility."
+    }
+   ]
+  },
+  {
+   "title": "Associate Salesforce Administrator at Ivans",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobgether.com/offer/6a568e4fac00a71a5a8f9212-associate-salesforce-administrator",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832048+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow and Salesforce certifications, but the role is for Salesforce administration, which is a slightly different focus than Elton's ServiceNow expertise.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow and Salesforce certifications, but the role is for Salesforce administration, which is a slightly different focus than Elton's ServiceNow expertise."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer / Senior Admin 1 Job Details | Celestica International LP",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://careers.celestica.com/job/Toronto-Salesforce-Developer-Senior-Admin-1-ON/1390525533/",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832058+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and senior role match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and senior role match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Administrator at Versapay | Apply Now July | TryApplyNow",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.tryapplynow.com/jobs/versapay-salesforce-administrator-3a898b59-9ca2-430b-aced-45319b01012d",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832063+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications with relevant experience in Toronto.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications with relevant experience in Toronto."
+    }
+   ]
+  },
+  {
+   "title": "Versapay - Salesforce Administrator",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.lever.co/versapay/066804b9-ac6a-4c65-b613-b5b66ea2362b/apply",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832065+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good fit for ServiceNow experience, relevant certifications, and location.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good fit for ServiceNow experience, relevant certifications, and location."
+    }
+   ]
+  },
+  {
+   "title": "Sales Operations Solutions Architect (Remote Canada) | CareerMint",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://careermint.infinityfreeapp.com/remote-jobs/sales-operations-solutions-architect-remote-canada",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-07-14T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832068+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant certifications and remote work flexibility.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant certifications and remote work flexibility."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Administrator – Remote · Canada | Solink",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/solink/jobs/senior-salesforce-administrator-remote-canada-07251edfeac7",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832073+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience, relevant certifications, but the role is in Salesforce administration.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience, relevant certifications, but the role is in Salesforce administration."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Administrator – Remote · Canada | Lorven Technologies Inc.",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/lorven-technologies-inc/jobs/salesforce-administrator-remote-canada-d70700893805",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832079+00:00",
+   "excerpt": "Salesforce Administrator\n\n* Canada\n* Remote\n* PostedOct 28, 2026\n* 1position\nApply on LinkedIn (LinkedIn sign-in required)\nOpens LinkedIn\nSign in to save this job Job alerts Job alerts\nEmployment type Contract\nExperience level Mid-level · 3+ years\nMinimum education Professional degree\nPosting langua",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in terms of certifications and remote location, but mismatch in platform expertise and seniority level.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in terms of certifications and remote location, but mismatch in platform expertise and seniority level."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Administrator - Remote – YO AI Labs – Remote job Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.talent.com/view?id=642425182421847319",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832087+00:00",
+   "excerpt": "Search jobs Search salary Tax calculator\nFrançais For employers\nSign in\nYO AI Labs\nSalesforce Administrator - Remote YO AI Labs • ON, Canada\nApply\nSearch for other jobs\nFind jobs\nSalesforce Administrator - Remote Canada\n1. Search jobs\n2. ON, Canada\n3. Full-time\n4. Remote\n5. Salesforce Administrator ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow background, relevant certifications, but the role is a Salesforce Administrator position.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow background, relevant certifications, but the role is a Salesforce Administrator position."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Administrator – Remote · Canada | Lorven Technologies Inc.",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/lorven-technologies-inc/jobs/salesforce-administrator-remote-canada-14a5a123f54f",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832094+00:00",
+   "excerpt": "Salesforce Administrator\n\n* Canada\n* Remote\n* PostedOct 28, 2026\n* 1position\n$30–$45 / hour\nApply on LinkedIn (LinkedIn sign-in required)\nOpens LinkedIn\nSign in to save this job Job alerts Job alerts\nEmployment type Contract\nExperience level Mid-level · 3+ years\nMinimum education Professional degree",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match for Salesforce Administrator role with relevant certifications and experience, but located in Toronto while the job is remote.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match for Salesforce Administrator role with relevant certifications and experience, but located in Toronto while the job is remote."
+    }
+   ]
+  },
+  {
+   "title": "Remote Salesforce Administrator – Versapay – Remote job Joliette, QC",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.talent.com/view?id=630100838995069897",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832100+00:00",
+   "excerpt": "Search jobs Search salary Tax calculator\nFrançais For employers\nSign in\nFind jobs\nVersapay\nRemote Salesforce Administrator Versapay • Joliette, Quebec\nApply\nRemote Salesforce Administrator\n\nRemote Salesforce Administrator\n\nVersapay • Joliette, Quebec\n22 days ago\nApply\nJob type\n* Full-time\n* Permanen",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match for Salesforce platform, relevant certifications, and remote location, but not a ServiceNow position.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match for Salesforce platform, relevant certifications, and remote location, but not a ServiceNow position."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Administrator – Remote · Toronto, Ontario, Canada | Jobs.ca",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/kort-payments/jobs/salesforce-administrator-remote-toronto-ontario-canada-abbeb2bdf21a",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832110+00:00",
+   "excerpt": "1. Jobs.ca\n2. Explore open jobs\n3. KORT Payments\n4. Salesforce Administrator\nBack to job search\nKORT Payments logo\nKORT Payments\n\nSalesforce Administrator\n\n* Toronto, Ontario, Canada\n* Remote\n* PostedSep 26, 2026\n* 1position\n$65,000–$75,000 / year\nApply on the employer’s site\nOpens an external site\n",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and remote work flexibility.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and remote work flexibility."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Administrator - Canada | CharityVillage",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.charityvillage.com/job/salesforce-administrator-353326",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832117+00:00",
+   "excerpt": "* Resources\n* Employer Services\n* Subscribe\nSign in\n1. Jobs\n2. IT: Support / Web Interface /Design\n3. Salesforce Administrator\nSalesforce Administrator\n\nSalesforce Administrator\n\nbookmark\nChristian Reformed Church in North America\nCanada\nFully Remote\nPublished: 2026-10-16\nExpires: 2026-12-15\nIT: Sup",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "ServiceNow experience and certifications are relevant, but the role is a Salesforce Administrator position.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "ServiceNow experience and certifications are relevant, but the role is a Salesforce Administrator position."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Administrator at The Christian Reformed Church in North America",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://dailyremote.com/remote-job/salesforce-administrator-5771773",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-01",
+   "scrapedAt": "2026-11-04T06:11:28.832125+00:00",
+   "excerpt": "Remote Jobs / Remote Software Development Jobs / Remote Software Development Jobs in Canada · Remote Salesforce Administrator Jobs / Remote Salesforce Administrator Jobs in Canada\nThe Christian Reformed Church in North America is hiring for remote Salesforce Administrator ## The Christian Reformed C",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience and relevant Salesforce certifications, but the role is for Salesforce Administrator, not ServiceNow.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience and relevant Salesforce certifications, but the role is for Salesforce Administrator, not ServiceNow."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Administrator | HireNow",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://hirenow.p4x.22web.org/remote-jobs/salesforce-administrator-04fd778b",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832132+00:00",
+   "excerpt": "HireNow Search\n1. Home\n2. Salesforce Administrator\nBack to all positions\n\nSalesforce Administrator\n\nRemote Full-time Now Hiring\n\nAbout PSPSync\n\n...\n\nCanada. We partner closely with healthcare providers, pharmacies, and pharmaceutical manufacturers to deliver patient-centric programs that improve out",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match for Salesforce certifications and location, but primarily a ServiceNow developer, which may not align as closely with the Salesforce Administrator role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match for Salesforce certifications and location, but primarily a ServiceNow developer, which may not align as closely with the Salesforce Administrator role."
+    }
+   ]
+  },
+  {
+   "title": "[Hiring] Senior Salesforce Administrator @Desjardins",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832141+00:00",
+   "excerpt": "Back to Remote jobs > Information Technology > salesforce administrator\nSenior Salesforce Administrator @Desjardins\nInformation Technology\n|Salary unspecified |Remote Location\n* remote Canada\n* Employment Type full-time | Posted Today\n\n[Hiring] Senior Salesforce Administrator @Desjardins\n\nToday - De",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and seniority level.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and seniority level."
+    }
+   ]
+  },
+  {
+   "title": "salesforce administrator Jobs in La Prairie, QC | Hiring Now | Talent.com",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-la-prairie-qc",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832147+00:00",
+   "excerpt": "salesforce administrator\n\nSalesforce administrator Jobs in La Prairie, QC\n\nCreate a job alert for this search\n\nSalesforce administrator • la prairie qc\nCreate\nLast updated: 4 hours ago\n\nRemote Salesforce Platform Administrator\n\nAlten • montreal, qc, Canada\nRemote\nRemote Salesforce administration wit",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 6,
+   "ai_reason": "The role is a Salesforce administrator position, which aligns with Elton's experience, though his primary focus is on ServiceNow. His Salesforce certifications are relevant, but the location and seniority level are less of a match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 6,
+     "reason": "The role is a Salesforce administrator position, which aligns with Elton's experience, though his primary focus is on ServiceNow. His Salesforce certifications are relevant, but the location and seniority level are less of a match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce technical solution architect - Nesto Cloud (Calgary)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobsca.org/technical-solution_calgary-c115236/2026-08-nesto-cloud_i4179171528",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832155+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in ServiceNow and Salesforce certifications, but the role is for a technical solution architect, which is a higher seniority level than Elton's current experience.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in ServiceNow and Salesforce certifications, but the role is for a technical solution architect, which is a higher seniority level than Elton's current experience."
+    }
+   ]
+  },
+  {
+   "title": "Sr. Salesforce Architect - Tenth Revolution Group",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.tenthrevolution.com/job/sr-salesforce-architect/",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-08-05T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832159+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Good match in ServiceNow and Salesforce certifications, but the role is for a Salesforce Architect, which is a higher level than his current experience.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Good match in ServiceNow and Salesforce certifications, but the role is for a Salesforce Architect, which is a higher level than his current experience."
+    }
+   ]
+  },
+  {
+   "title": "Senior Lead Solutions Architect, Salesforce Migrations",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobgether.com/offer/6a68e7421b23f4f87b41ec1e-senior-lead-solutions-architect-salesforce-migrations",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832163+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow experience, relevant certifications, and senior role align well.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow experience, relevant certifications, and senior role align well."
+    }
+   ]
+  },
+  {
+   "title": "AI Strategy & Transformation Architect",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobgether.com/offer/6a8909c91de6f4542a4e9c5a-ai-strategy-transformation-architect",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832167+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, relevant to the Toronto area, and the role aligns with his experience as a Technical Consultant.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, relevant to the Toronto area, and the role aligns with his experience as a Technical Consultant."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Technical Architect in Remote | Careers at Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/34460/salesforce-technical-architect/job",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832171+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience and relevant certifications, but the role is a Salesforce Technical Architect, which is a higher seniority level.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience and relevant certifications, but the role is a Salesforce Technical Architect, which is a higher seniority level."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Solution Architect - Experience Cloud - Remote Canada Position (Toronto, ON, CA) | Remotescape",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remotescape.social-networking.me/job/salesforce-solution-architect-experience-cloud-remote-canada-position-toronto-on-ca",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-07-24T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832182+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Good match in ServiceNow and Salesforce certifications, relevant location, and seniority level for a Solution Architect role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Good match in ServiceNow and Salesforce certifications, relevant location, and seniority level for a Solution Architect role."
+    }
+   ]
+  },
+  {
+   "title": "Technical Architect / Senior Technical Architect - PubSec (Canada) - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote | Salesforce Careers",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.salesforce.com/company/careers/jobs/JR353468/technical-architect-senior-technical-architect-pubsec-canada/",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832186+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications with remote work flexibility in Toronto/Canada.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications with remote work flexibility in Toronto/Canada."
+    }
+   ]
+  },
+  {
+   "title": "Senior Business Systems Architect | Flexgen",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://flexgen.zya.me/job/senior-business-systems-architect",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-08-03T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832189+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, relevant senior position, and local Toronto location.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, relevant senior position, and local Toronto location."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Architect at Adastra - Remote | Jobs.ca",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/job/639ec148-3fc1-473f-9246-2b2c79fc3d9b",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832194+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant certifications, and the Salesforce architect role matches his technical skills and certifications.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant certifications, and the Salesforce architect role matches his technical skills and certifications."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Solution Architect (Remote, Canada)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-remote-canada-at-opentable-4193701693",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832199+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience and relevant certifications, but the role is a Salesforce Solution Architect, which is a different platform.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience and relevant certifications, but the role is a Salesforce Solution Architect, which is a different platform."
+    }
+   ]
+  },
+  {
+   "title": "Technical Architect / Senior Technical Architect - PubSec (Canada) - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote | Salesforce Careers",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.salesforce.com/company/careers/jobs/JR353468/technical-architect-senior-technical-architect-pubsec-canada/?bc=DB",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-04-30",
+   "scrapedAt": "2026-11-04T06:11:28.832206+00:00",
+   "excerpt": "\nTechnical Architect / Senior Technical Architect - PubSec (Canada)\n\n* Customer Success\n* \n* Canada - Toronto\n* Canada Ontario - Montreal Metro - Remote\n* Ontario - Remote\n* Full time\n* Posted 14 August 2026\n* JR353468\nApply Now\nSave Saved\nOpen sharing options\nShare\n* \n* \n* \n\nDescription\n\nJob Descri",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 9,
+   "ai_reason": "Strong ServiceNow background, relevant certifications, and remote location flexibility match well with the requirements.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 9,
+     "reason": "Strong ServiceNow background, relevant certifications, and remote location flexibility match well with the requirements."
+    }
+   ]
+  },
+  {
+   "title": "Solution Architect, Salesforce Core / Agentforce, Canada | OSF Digital",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/osf-digital/jobs/solution-architect-salesforce-core-agentforce-canada-remote-canada-34335360905f",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832215+00:00",
+   "excerpt": "Solution Architect, Salesforce Core / Agentforce, Canada\n\n* Canada\n* Remote\n* PostedJun 9, 2026\n* 1position\n$150,000–$180,000 / year\nApply on the employer’s site\nOpens an external site\nSign in to save this job Job alerts Job alerts\nEmployment type Full-time\nExperience level Lead · 10+ years\nMinimum ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow and Salesforce experience, but the role is for a more senior position than Elton's current experience level.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow and Salesforce experience, but the role is for a more senior position than Elton's current experience level."
+    }
+   ]
+  },
+  {
+   "title": "Solution Architect / Senior Solution Architect - PubSec - Canada - Canada - Toronto, Canada - Montreal, Canada Ontario - Montreal Metro - Remote, Canada - Toronto Metro - Remote | Salesforce Careers",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.salesforce.com/company/careers/jobs/JR354245/solution-architect-senior-solution-architect-pubsec-canada?bc=DB&gh_src=Alkeon%20Capital%20job%20board",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-04-30",
+   "scrapedAt": "2026-11-04T06:11:28.832221+00:00",
+   "excerpt": "\nSolution Architect / Senior Solution Architect - PubSec - Canada\n\n* Customer Success\n* \n* Canada - Toronto\n* Canada - Montreal\n* Canada Ontario - Montreal Metro - Remote\n* Canada - Toronto Metro - Remote\n* Full time\n* Posted 10 August 2026\n* JR354245\nApply Now\nSave Saved\nOpen sharing options\nShare\n",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, relevant location, and experience as a Technical Consultant align well with the Solution Architect role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, relevant location, and experience as a Technical Consultant align well with the Solution Architect role."
+    }
+   ]
+  },
+  {
+   "title": "Technical Architect / Senior Technical Architect - PubSec - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote | Salesforce Careers",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.salesforce.com/company/careers/jobs/JR353468/technical-architect-senior-technical-architect-pubsec?bc=DB",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-04-30",
+   "scrapedAt": "2026-11-04T06:11:28.832228+00:00",
+   "excerpt": "\nTechnical Architect / Senior Technical Architect - PubSec\n\n* Customer Success\n* \n* Canada - Toronto\n* Canada Ontario - Montreal Metro - Remote\n* Ontario - Remote\n* Full time\n* Posted 07 August 2026\n* JR353468\nApply Now\nSave Saved\nOpen sharing options\nShare\n* \n* \n* \n\nDescription\n\n* Job Description\nT",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 9,
+   "ai_reason": "Strong ServiceNow experience, relevant certifications, and Toronto location match well.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 9,
+     "reason": "Strong ServiceNow experience, relevant certifications, and Toronto location match well."
+    }
+   ]
+  },
+  {
+   "title": "Canada Remote enterprise architect Jobs – 471 Openings This Week | Workopolis",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.workopolis.com/search?l=canada&q=remote%20enterprise%20architect",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832237+00:00",
+   "excerpt": "Minimum Salary All salaries\nDate Added Anytime\nDeveloper Skills\nAll Skills\nSort & Filter\n471\n\nremote enterprise architect jobs in canada\n\n* \n\nIS Solutions Architect Leader, Contact Centre Solutions\n\n...\n\nAda — Remote 3.8\n* Full-time\n* Remote\n* Oracle\n* Salesforce\n* System design\n* Dental care\n* Work",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match for ServiceNow and Salesforce certifications, but not a direct fit for ServiceNow Developer/Technical Consultant role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match for ServiceNow and Salesforce certifications, but not a direct fit for ServiceNow Developer/Technical Consultant role."
+    }
+   ]
+  },
+  {
+   "title": "Solution Architect, Salesforce Core / Agentforce, Canada | jobvoyage.site",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobvoyage.site/job/solution-architect-salesforce-core-agentforce-canada",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-10-12",
+   "scrapedAt": "2026-11-04T06:11:28.832246+00:00",
+   "excerpt": "jobvoyage.site ← All Jobs\nPosted Oct 12, 2026\n\nSolution Architect, Salesforce Core / Agentforce, Canada\n\nApply Now\nWe are seeking a highly skilled and business-focused Salesforce Solution Architect specializing in Sales Cloud, Service Cloud, and Agentforce.\n\n...\n\nworkflows. • Drive\n\n...\n\n• Salesforc",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match with Salesforce certifications and experience, but mismatch with the ServiceNow focus of the job posting.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match with Salesforce certifications and experience, but mismatch with the ServiceNow focus of the job posting."
+    }
+   ]
+  },
+  {
+   "title": "Principal Salesforce Architect @ PointClickCare | Simplify Jobs",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://simplify.jobs/p/0b2492fd-5810-408a-b5c7-d9eec107549d/Principal-Salesforce-Architect",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-09-21",
+   "scrapedAt": "2026-11-04T06:11:28.832251+00:00",
+   "excerpt": "Overview Company\nApply\nP\n\nPointClickCare\n\nCloud-based EHR platform for post-acute care\n\nPrincipal Salesforce Architect\n\nFull-Time Updated 3 days ago Unlock job analytics Simplify+\nCA$153k - CA$170k /yr\nExpert\nBachelor's, Master's\nMississauga, ON, Canada\nRemote Remote role; occasional travel to the M",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong match in Salesforce certifications and seniority, remote location flexibility, and relevant experience in Canada.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong match in Salesforce certifications and seniority, remote location flexibility, and relevant experience in Canada."
+    }
+   ]
+  },
+  {
+   "title": "Technical Architect / Senior Technical Architect - PubSec - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote | Salesforce Careers",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.salesforce.com/jp/company/careers/jobs/JR353468/salesforce-technical-architect-pubsec/?bc=DB",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-04-30",
+   "scrapedAt": "2026-11-04T06:11:28.832261+00:00",
+   "excerpt": "\nTechnical Architect / Senior Technical Architect - PubSec\n\n* Customer Success\n* \n* Canada - Toronto\n* Canada Ontario - Montreal Metro - Remote\n* Ontario - Remote\n* Full time\n* Posted 12 August 2026\n* JR353468\n今すぐ申し込む\nセーブ 保存\n共有\n共有\n* \n* \n* \n\n形容\n\nJob Description\nThe Professional Services organization ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 9,
+   "ai_reason": "Excellent ServiceNow and Salesforce certifications with a strong focus on technical architecture, matching the required skills and location.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 9,
+     "reason": "Excellent ServiceNow and Salesforce certifications with a strong focus on technical architecture, matching the required skills and location."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Solution Architect – Hybrid · Vancouver, BC | Jobs.ca",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/ia-financial-group/jobs/salesforce-solution-architect-vancouver-bc-8cf0f37d29d4",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832268+00:00",
+   "excerpt": "1. Jobs.ca\n2. Explore open jobs\n3. Vancouver, BC\n4. Operations\n5. iA Financial Group (Industrial Alliance)\n6. Salesforce Solution Architect\nBack to job search\niA Financial Group (Industrial Alliance) logo\niA Financial Group (Industrial Alliance)\n\nSalesforce Solution Architect\n\n* Vancouver, BC\n* Hybr",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience but the role is in Salesforce, and it's a higher seniority position focusing on architecture.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience but the role is in Salesforce, and it's a higher seniority position focusing on architecture."
+    }
+   ]
+  },
+  {
+   "title": "Solution Architect / Senior Solution Architect - PubSec - Canada at Salesforce | Remote Source",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.remotesource.com/jobs/WLNs6KUBo8_WVPeB0lthZ-solution-architect-senior-solution-architect-pubsec-canada-at-salesforce",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832273+00:00",
+   "excerpt": "Remote Source\nAbout Pricing\nLog In Get Started Free\n\nSolution Architect / Senior Solution Architect - PubSec - Canada\n\nSalesforce\nCanada - Toronto Metro - Remote\nFull-Time\nSenior (7+ yrs)\nProduct Management\nPosted on September 24, 2026\nTo get the best candidate experience, please consider applying f",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and experience in remote roles.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and experience in remote roles."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Data Cloud & Marketing Cloud Consultant - CRM Force | Career Page",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.careers-page.com/digital-aura-careers/job/8X9X95VV",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832279+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and consulting role match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and consulting role match."
+    }
+   ]
+  },
+  {
+   "title": "Implementation Consultant (Salesforce) | Hirify",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://hirify.me/jobs/750354-implementation-consultant-salesforce",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832283+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, relevant location, and consulting experience align well.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, relevant location, and consulting experience align well."
+    }
+   ]
+  },
+  {
+   "title": "Sr. Salesforce Consultant, Field Service at Neuraflash",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6128982004",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-07-28T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832287+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, relevant senior role, and location in Canada.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, relevant senior role, and location in Canada."
+    }
+   ]
+  },
+  {
+   "title": "V2 - Senior Salesforce Consultant",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.lever.co/v2sa/2675470b-ea19-4374-81bf-5e311ea17c3d",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832291+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications with relevant experience in Canada.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications with relevant experience in Canada."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Consultant (Remote Canada) | SkillDock",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://skilldock.lovestoblog.com/job/salesforce-consultant-remote-canada-5041130",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-07-22T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832294+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow background with relevant Salesforce certifications and remote location flexibility.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow background with relevant Salesforce certifications and remote location flexibility."
+    }
+   ]
+  },
+  {
+   "title": "Passion Fruit Partners hiring Salesforce Consultant - Managed Services, Nonprofit in Canada | LinkedIn",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-managed-services-nonprofit-at-passion-fruit-partners-4454314956",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832298+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, relevant to the position, and location flexibility.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, relevant to the position, and location flexibility."
+    }
+   ]
+  },
+  {
+   "title": "Marketing Cloud Consultant",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobgether.com/offer/6a76081a490731f1e18ad0d5-marketing-cloud-consultant",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832302+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in certifications and location, but job title and platform mismatch.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in certifications and location, but job title and platform mismatch."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce consultant - managed services, nonprofit - Passion Fruit Partners",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobsca.org/salesforce-consultant_winnipeg-c115701/2026-08-passion-fruit-partners_i4178275714",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832307+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in certifications and platform, but location and seniority may not align perfectly.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in certifications and platform, but location and seniority may not align perfectly."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Technical Consultant (Contracted Role) at Global Fund for Children",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://meterwork.com/job/salesforce-technical-consultant-contracted-role_at_global-fund-for-children_gRBY9",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832311+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications with relevant experience, though not in a direct ServiceNow role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications with relevant experience, though not in a direct ServiceNow role."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Solution Consultant  | BeyondTrust Careers | BeyondTrust",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.beyondtrust.com/company/careers/7858472",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832316+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience and relevant certifications, but not a perfect match for Salesforce roles.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience and relevant certifications, but not a perfect match for Salesforce roles."
+    }
+   ]
+  },
+  {
+   "title": "Senior Consultant - Salesforce – Remote · Canada | fusionSpan",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/fusionspan/jobs/senior-consultant-salesforce-remote-canada-032e3160de7f",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832324+00:00",
+   "excerpt": "Back to job search\nfusionSpan logo\nfusionSpan Verified Job Source\n\nSenior Consultant - Salesforce\n\n* Canada\n* Remote\n* PostedSep 26, 2026\n* 1position\nApply on the employer’s site\nOpens an external site\nSign in to save this job Job alerts Job alerts\nEmployment type Full-time\nExperience level Mid-leve",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 9,
+   "ai_reason": "Excellent ServiceNow and Salesforce certifications, suitable for a Senior Consultant role, and remote location flexibility matches well.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 9,
+     "reason": "Excellent ServiceNow and Salesforce certifications, suitable for a Senior Consultant role, and remote location flexibility matches well."
+    }
+   ]
+  },
+  {
+   "title": "Remote, Canada Salesforce consultant Jobs – 57 Openings This Week | Workopolis",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.workopolis.com/search?l=remote%2C%20canada&q=salesforce%20consultant",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832334+00:00",
+   "excerpt": "Minimum Salary All salaries\n\nDate Added Anytime\n\nSort & Filter\n\n57\n\n# salesforce consultant jobs in remote, canada\n\n* ## [Salesforce Slack and Agentforce Techno Functional Consultant](https://www.workopolis.com/jobsearch/viewjob/Vl8qn5c7E9Y4_jpkDLPLTcM_9FLCVkXdSF1i8WPQlvXKcGJGMTzS41CeUXC1AZfs)\n  \n  ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in certifications and platform, but not a ServiceNow role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in certifications and platform, but not a ServiceNow role."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Consultant - Alto",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.altoconsultants.ca/careers/salesforce-consultant-senior",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-10-05",
+   "scrapedAt": "2026-11-04T06:11:28.832340+00:00",
+   "excerpt": "Home / Careers / Senior Salesforce Consultant\n\nSenior Salesforce Consultant\n\nAbout\n\nAlto Consultants is a company specializing in the implementation of Rootstock ERP on the Salesforce platform. To support our strong growth, we are building a passionate, dynamic, and innovative team.\n\n...\n\nWe are see",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in Salesforce certifications and experience, but not a direct ServiceNow role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in Salesforce certifications and experience, but not a direct ServiceNow role."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Consultant @ Belmar Consulting Group",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.tealhq.com/job/salesforce-consultant_7ea1ae558ad97a7de36a09eb6d0ef37745b30",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832348+00:00",
+   "excerpt": "Logo\nSearch\nSign up\n\nSalesforce Consultant\n\nBelmar Consulting Group\n56d • Remote\nApply Save Job Match Resume\n\nAbout The Position\n\nBelmar is a fast-growing Salesforce consulting company seeking a talented, self-motivated, individual wanting to further their career as a Salesforce Consultant! We're a ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in certifications and skills, but the job is for a Salesforce Consultant rather than a ServiceNow Developer/Technical Consultant.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in certifications and skills, but the job is for a Salesforce Consultant rather than a ServiceNow Developer/Technical Consultant."
+    }
+   ]
+  },
+  {
+   "title": "Canada Salesforce consultant Jobs – 355 Openings This Week | Workopolis",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.workopolis.com/search?l=canada&q=salesforce%20consultant",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832357+00:00",
+   "excerpt": "Minimum Salary All salaries\nDate Added Anytime\nSort & Filter\n355\n\nsalesforce consultant jobs in canada\n\n* \n\nSenior Salesforce Administrator & Developer\n\nConfidential — Toronto, ON 3.7\n* $45–$65 an hour\n* Contract\n* Software troubleshooting\n* Salesforce\n* ERP systems\nQuick apply\n* \n\nDesign Consultant",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "ServiceNow experience, relevant certifications, and Toronto location match well, but the role is more focused on Salesforce.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "ServiceNow experience, relevant certifications, and Toronto location match well, but the role is more focused on Salesforce."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Consultant Jobs 2026 | MarTechJobs",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://martechjobs.io/jobs/salesforce/consultant",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832366+00:00",
+   "excerpt": "11 open Salesforce Consultant roles · Updated October 30, 2026\n\nSalesforce Consultant Jobs\n\n11 open Salesforce Consultant roles at 7 companies, including Apmgroup, NeuraFlash, Salesforce. 18% are remote.\nPlatforms these jobs ask for: MuleSoft, Workato, Tableau, Salesforce Marketing Cloud, Pardot\nAll",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow background, relevant Salesforce certifications, but the roles seem more focused on Salesforce and related tools.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow background, relevant Salesforce certifications, but the roles seem more focused on Salesforce and related tools."
+    }
+   ]
+  },
+  {
+   "title": "Remote Senior Salesforce Consultant (Remote Canada) – Directive Corporation – Remote job Granby, QC",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.talent.com/view?id=632978314359545486",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832375+00:00",
+   "excerpt": "Search jobs Search salary Tax calculator\nFrançais For employers\nSign in\nFind jobs\nDirective Corporation\nRemote Senior Salesforce Consultant (Remote Canada) Directive Corporation • Granby, Quebec\nApply\n1. Search jobs\n2. Granby, QC\n3. Full-time\n4. Remote\n5. Remote Senior Salesforce Consultant (Remote ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong Salesforce certifications and remote senior consultant role match well, but lacks specific ServiceNow experience.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong Salesforce certifications and remote senior consultant role match well, but lacks specific ServiceNow experience."
+    }
+   ]
+  },
+  {
+   "title": "Ensiti Salesforce Consultants (remote Canada )  | SmartRecruiters",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.smartrecruiters.com/Ensiti/744000153546595-salesforce-consultants-remote-canada-",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-10-05",
+   "scrapedAt": "2026-11-04T06:11:28.832383+00:00",
+   "excerpt": "* Google Chrome\n* Microsoft Edge\n* Apple Safari\n* Mozilla Firefox\nEnsiti logo\n\nSalesforce Consultants (remote Canada )\n\n* Full-time\n\nJob Description\n\nCompany Description\nWe are looking for a Salesforce Consultant to join a dynamic team and contribute to a variety of client projects across North Amer",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and remote work flexibility.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and remote work flexibility."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Consultant (Remote Canada) - Future Opening",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/directive/jobs/senior-salesforce-consultant-remote-canada-future-opening-remote-canada-1b015c95ee28",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832391+00:00",
+   "excerpt": "Senior Salesforce Consultant (Remote Canada) - Future Opening\n\n* Remote\n* PostedOct 2, 2026\n* 1position\nApply on the employer’s site\nOpens an external site\nSign in to save this job Job alerts Job alerts\nEmployment type Full-time\n\nJob summary\n\nDirective Consulting is the leading B2B performance marke",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, suitable for a consulting role, and the remote nature aligns well with Elton's profile.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, suitable for a consulting role, and the remote nature aligns well with Elton's profile."
+    }
+   ]
+  },
+  {
+   "title": "Remote Senior Salesforce Consultant (Remote Canada) – Directive Corporation – Remote job Blainville, QC",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.talent.com/view?id=632978301373128334",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832401+00:00",
+   "excerpt": "Search jobs Search salary Tax calculator\nFrançais For employers\nSign in\nFind jobs\nDirective Corporation\nRemote Senior Salesforce Consultant (Remote Canada) Directive Corporation • Blainville, Quebec\nApply\nRemote Senior Salesforce Consultant (Remote Canada)\n\nRemote Senior Salesforce Consultant (Remot",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background, relevant certifications, and seniority level match well with the Remote Senior Salesforce Consultant role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background, relevant certifications, and seniority level match well with the Remote Senior Salesforce Consultant role."
+    }
+   ]
+  },
+  {
+   "title": "Lead Salesforce Platform Developer - Sequoia Connect | Built In",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://builtin.com/job/lead-salesforce-platform-developer/10758210",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832406+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow experience, relevant certifications, and a senior developer role in Salesforce align well with Elton's profile.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow experience, relevant certifications, and a senior developer role in Salesforce align well with Elton's profile."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer & Administrator - Benevity | RemoteOtter",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remoteotter.com/company/benevity/jobs/remote-salesforce-developer-administrator_8931345c-33ea-4c0b-ba5a-372b7b1da619",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832412+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match for ServiceNow experience and relevant certifications, with a remote Canada location.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match for ServiceNow experience and relevant certifications, with a remote Canada location."
+    }
+   ]
+  },
+  {
+   "title": "London Tech Jobs / London, Ontario - Info-Tech Research Group - Senior Salesforce Developer - Canada (Remote)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://londontechjobs.ca/canada/ontario/london/job.aspx?jid=72b88517-58a9-4d02-8ea6-18cfc98ffccb",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832417+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience, relevant certifications, and a senior role, though not a perfect match for ServiceNow platform.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience, relevant certifications, and a senior role, though not a perfect match for ServiceNow platform."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer @ OneStream Software",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.tealhq.com/job/salesforce-developer_7ea1a6f3392cd4fe30ccdc30a8f5d46b8edd0",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832421+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and Toronto location match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and Toronto location match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer (Contract) | Jobtrail",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobtrail.web1337.net/remote-jobs/salesforce-developer-contract",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-08-22T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832425+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience but Salesforce focus is different; Toronto location is a match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience but Salesforce focus is different; Toronto location is a match."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer - nesto | Built In",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://builtin.com/job/senior-salesforce-developer/7900213",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832431+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow experience, relevant certifications, and a senior role match well.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow experience, relevant certifications, and a senior role match well."
+    }
+   ]
+  },
+  {
+   "title": "Agentforce Specialist. - Pluvo AI Consulting | BeBee",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://bebee.com/ca/jobs/agentforce-specialist-pluvo-ai-consulting--theirstack-678139971",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832435+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Good match in certifications and platform experience, but not a technical consultant role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Good match in certifications and platform experience, but not a technical consultant role."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Platform Developer @ Reonomy | Lerer Hippeau Job Board",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832443+00:00",
+   "excerpt": "Salesforce Platform Developer\n\nReonomy\nReonomy\nSoftware Engineering, Sales & Business Development·Full-time\nToronto, ON, Canada\nCAD 105k-115k / year\nPostedon Oct 31, 2026\nApply now\nCompensation Range:\nCAD $105,000 - $115,000\nCompensation Disclaimer: The salary range listed reflects the base pay for ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and location match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and location match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Platform Developer at Altus Group Limited/Groupe Altus",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://startup.jobs/salesforce-platform-developer-altus-group-limited-groupe-a-10638766",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-10-30",
+   "scrapedAt": "2026-11-04T06:11:28.832452+00:00",
+   "excerpt": "Roles Engineering Developer\nAltus Group Limited/Groupe Altus Limitée\nAltus Group Limited/Groupe Altus Limitée\n\nSalesforce Platform Developer\n\nToronto , Canada\nFull-Time\nRemote\nCAD $105,000 – CAD $115,000 per year\n\nTLDR\n\nBuild secure platform solutions with Apex, LWC, Flow, integrations, CI/CD, and e",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong Salesforce background and certifications, with a relevant role in Toronto/Remote Canada.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong Salesforce background and certifications, with a relevant role in Toronto/Remote Canada."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Platform Developer at Altusgroup (Remote)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://scoutify.com/companies/altusgroup/jobs/3241937",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832459+00:00",
+   "excerpt": "Skip to job details\nScoutify\nFind jobs Companies Sign in\nCompanies Altusgroup Salesforce Platform Developer\nAltusgroup Real Estate\n\nSalesforce Platform Developer\n\nRemote Full-time\nAltusgroup · Salesforce Platform Developer\nLet Scoutify apply for you (free)\nScoutify fills out this application and sen",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience and relevant certifications, but not a perfect match for Salesforce platform development.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience and relevant certifications, but not a perfect match for Salesforce platform development."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer @ VersaPay | Work In Tech Job Board",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www1.communitech.ca/companies/versapay/jobs/91040928-salesforce-developer",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832467+00:00",
+   "excerpt": "Search jobs Explore companies Join talent network Talent\nMy job alerts\n\nSalesforce Developer\n\nVersaPay\nVersaPay\nSoftware Engineering, Sales & Business Development\nCanada · Remote\nCAD 80k-100k / year\nPostedon Aug 25, 2026\nApply now\nAbout Versapay\nVersapay’s purpose is to remove financial friction so ",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match for Salesforce platform and certifications, but located remotely.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match for Salesforce platform and certifications, but located remotely."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer @ Docker",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobs.ashbyhq.com/docker/378b10e7-0e0f-4d01-885b-c769d9e260e8?embed=js",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832474+00:00",
+   "excerpt": "All Jobs\n\nSenior Salesforce Developer\n\nLocation\n\nCanada; United States\n\nEmployment Type\n\nFull time\n\nLocation Type\n\nRemote\n\nDepartment\n\nSales\nOverview Application\n\nAbout Docker\n\n...\n\ntrustworthy by default.\n_______________________________________________________________________\nWe’re looking for a Se",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow background, relevant certifications, and remote location match, but the role is in Salesforce, which is a close but not exact match to his experience.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow background, relevant certifications, and remote location match, but the role is in Salesforce, which is a close but not exact match to his experience."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce CPQ & Sales Cloud Developer - Remote Canada Position Job Details | NTT DATA  Services",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://careers-inc.nttdata.com/job/Toronto-Salesforce-CPQ-&-Sales-Cloud-Developer-Remote-Canada-Position-ON/1400717300",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-06-17",
+   "scrapedAt": "2026-11-04T06:11:28.832482+00:00",
+   "excerpt": "Salesforce CPQ & Sales Cloud Developer - Remote Canada Position\n\nApply now »\nApply now\n* Start apply with Xing Start apply with Xing [](javascript:alert('Use your Xing profile to join our talent\n\n...\n\n* Apply Now [](javascript:alert('Join our talent community, receive job alerts, and start the apply",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match for Salesforce platform, relevant certifications, and remote location, but ServiceNow experience is less relevant.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match for Salesforce platform, relevant certifications, and remote location, but ServiceNow experience is less relevant."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer – Remote | Versapay",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/versapay/jobs/salesforce-developer-remote-canada-e62b63e76c32",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832489+00:00",
+   "excerpt": "1. Jobs.ca\n2. Explore open jobs\n3. Versapay\n4. Salesforce Developer\nBack to job search\nVersapay logo\nVersapay\n\nSalesforce Developer\n\n* Remote\n* PostedOct 20, 2026\n* 1position\n\n...\n\nOur Salesforce Platform: Salesforce is a mission-critical enterprise platform within our organization.\n\n...\n\nWe are hir",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good fit for Salesforce developer role with relevant certifications and remote location preference.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good fit for Salesforce developer role with relevant certifications and remote location preference."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer – Hybrid · Toronto, ON",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/medcan/jobs/salesforce-developer-toronto-on-caa3e4c5c865",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-09-11",
+   "scrapedAt": "2026-11-04T06:11:28.832497+00:00",
+   "excerpt": "At Medcan, we are building new digital experiences for our clients to help them live happier, healthier lives. You’ll be joining an award-winning team that’s passionate about health, well-being, and service. The Salesforce team strives to create sleek, innovative experiences leveraging the Salesforc",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "ServiceNow certifications are relevant, but the role is in Salesforce development, which has some overlap but is not a perfect match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "ServiceNow certifications are relevant, but the role is in Salesforce development, which has some overlap but is not a perfect match."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer (Remote) @ CloudKettle Inc",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.tealhq.com/job/senior-salesforce-developer_7ea1a4b522ef88f446e759bf99e0446962357",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832501+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow background, relevant certifications, and remote work option, but not a perfect match for a Senior Salesforce Developer role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow background, relevant certifications, and remote work option, but not a perfect match for a Senior Salesforce Developer role."
+    }
+   ]
+  },
+  {
+   "title": "Remote Junior Product Developer in Edmonton, Alberta - Traction Rec",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.trabajo.org/job-5475-af79eddab184e1bfe21167ae1251a2ec",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832504+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 6,
+   "ai_reason": "Good ServiceNow certifications but mismatch in seniority level.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 6,
+     "reason": "Good ServiceNow certifications but mismatch in seniority level."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer (Service &amp; Experience Cloud) | Prairie",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://prairie.totalh.net/remote-jobs/senior-salesforce-developer-service-experience-cloud",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-08-21T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832508+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience but mismatch in platforms; relevant certifications; Toronto location is a good match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience but mismatch in platforms; relevant certifications; Toronto location is a good match."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer (Service &amp; Experience Cloud) | Taskworks",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://taskworks.totalh.net/remote-jobs/senior-salesforce-developer-service-experience-cloud",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-08-19T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832512+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow background but focuses on Salesforce, location match, and relevant certifications.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow background but focuses on Salesforce, location match, and relevant certifications."
+    }
+   ]
+  },
+  {
+   "title": "Remote Senior Software Engineer I at Clariti Cloud, Inc.",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-i-clariti-cloud-inc-1131527",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832516+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, relevant remote location, and senior role match well.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, relevant remote location, and senior role match well."
+    }
+   ]
+  },
+  {
+   "title": "Remote Staff Software Developer, Integration at Zensurance | RemoteFront",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.remotefront.com/remote-jobs/zensurance-staff-software-developer-integration-remote-first-bugzd",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-08-16T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832520+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, relevant to the position, and remote location flexibility.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications, relevant to the position, and remote location flexibility."
+    }
+   ]
+  },
+  {
+   "title": "Senior Salesforce Developer (Remote) – Remote · Canada | Jobs.ca",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/cloudkettle-inc/jobs/senior-salesforce-developer-remote-remote-canada-93cd61661460",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832528+00:00",
+   "excerpt": "1. Jobs.ca\n2. Explore open jobs\n3. CloudKettle, a Bell Canada company\n4. Senior Salesforce Developer (Remote)\nBack to job search\nCloudKettle, a Bell Canada company logo\nCloudKettle, a Bell Canada company\n\nSenior Salesforce Developer (Remote)\n\n* Canada\n* Remote\n* PostedJul 21, 2026\n* 1position\n$95,00",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong Salesforce background and relevant certifications, but mismatch in platform and seniority level.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong Salesforce background and relevant certifications, but mismatch in platform and seniority level."
+    }
+   ]
+  },
+  {
+   "title": "poste offert - Salesforce Developer à Vancouver | Randstad Canada",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.randstad.ca/fr/jobs/salesforce-developer_vancouver_47625590",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-10-15",
+   "scrapedAt": "2026-11-04T06:11:28.832535+00:00",
+   "excerpt": "squad. In this role, you will partner closely with Product Owners, systems architects, and cross-functional teams to design, optimize, and maintain enterprise-grade applications. Guided by a pragmatic \"just enough, just in time\" development strategy, you will leverage industry best practices to buil",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "ServiceNow expertise and certifications are relevant, but the focus on Salesforce development may require additional skills.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "ServiceNow expertise and certifications are relevant, but the focus on Salesforce development may require additional skills."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Developer – 100% Remote (Canada) - Remote",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.tealhq.com/job/salesforce-developer_7ea1af84788f822231587e475c65879fbf953",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832542+00:00",
+   "excerpt": "Logo\nSearch\nSign up\n\nSalesforce Developer – 100% Remote (Canada)\n\nEnsiti • Ottawa, ON\n99d • Remote\nApply Save Job Match Resume\n\nAbout The Position\n\nWe are currently looking for a Salesforce Developer to join a growing technology and ERP implementation company. This is a 100% remote opportunity for a",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and experience, suitable for a remote role in Canada.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and experience, suitable for a remote role in Canada."
+    }
+   ]
+  },
+  {
+   "title": "Remote Salesforce and Systems Administrator in Port Moody, British Columbia - Smile Digital Health",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.trabajo.org/job-1918-abf54ff213b682af5a99262b21102cfd",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832546+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow and Salesforce certifications, but location mismatch.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow and Salesforce certifications, but location mismatch."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce CPQ & Sales Cloud Developer - Remote Canada Position at NTT Ltd - RevPath",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://revpath.dealhub.io/jobs/499593091-salesforce-cpq-sales-cloud-developer-remote-canada-position",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832551+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and experience in a similar location.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and experience in a similar location."
+    }
+   ]
+  },
+  {
+   "title": "Job Application for Senior Salesforce Engineer at Affirm",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7792932003",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832556+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match in ServiceNow and Salesforce certifications, but role is for a Senior Salesforce Engineer rather than a ServiceNow Developer/Technical Consultant.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match in ServiceNow and Salesforce certifications, but role is for a Senior Salesforce Engineer rather than a ServiceNow Developer/Technical Consultant."
+    }
+   ]
+  },
+  {
+   "title": "Remote Salesforce and Systems Administrator - Remote Canada – Smile Digital Health – Remote job Calgary, AB",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.talent.com/view?id=623147673574908814",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832562+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow match, relevant certifications, but location mismatch.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow match, relevant certifications, but location mismatch."
+    }
+   ]
+  },
+  {
+   "title": "Remote Salesforce and Systems Administrator - Remote Canada (Varennes) in Varennes | Kit Job",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.kitjob.ca/job/196784479/remote-salesforce-and-systems-administrator-remote-canada-varennes",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832567+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow and Salesforce certifications, but location mismatch.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow and Salesforce certifications, but location mismatch."
+    }
+   ]
+  },
+  {
+   "title": "Remote Salesforce and Systems Administrator in Riverview, New Brunswick - Smile Digital Health",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.trabajo.org/job-1918-8ab912c9ae7713183a4f082e838da44e",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832572+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong ServiceNow match, relevant certifications, but location is a mismatch.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong ServiceNow match, relevant certifications, but location is a mismatch."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce BSA  Conga CPQ - Cloudious -  | Dice.com",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.dice.com/job-detail/30a4835b-fe2a-47f3-9110-55b66acede42",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832577+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications with relevant location and experience.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Strong ServiceNow and Salesforce certifications with relevant location and experience."
+    }
+   ]
+  },
+  {
+   "title": "Hiring!!! Salesforce CPQ QA Engineer for Canada location | Srujini V",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.linkedin.com/posts/srujini-v-0794a4154_hiring-salesforce-cpq-qa-engineer-for-activity-7467249930546626561-6KJ_",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-06-01T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832584+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good match for ServiceNow experience and certifications, but role is in Salesforce CPQ QA, not a developer or consultant role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good match for ServiceNow experience and certifications, but role is in Salesforce CPQ QA, not a developer or consultant role."
+    }
+   ]
+  },
+  {
+   "title": "Remote Salesforce Solution Architect CPQ (💰~$60k, Vancouver, British Columbia, Canada) at NeuraFlash",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remoteok.com/remote-jobs/remote-salesforce-solution-architect-cpq-neuraflash-892419",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832591+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow experience, relevant certifications, but mismatch in platform and seniority.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow experience, relevant certifications, but mismatch in platform and seniority."
+    }
+   ]
+  },
+  {
+   "title": "[Remote] Sr. Salesforce Administrator | Workflowza",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://workflowza.zya.me/job/remote-sr-salesforce-administrator-2",
+   "source": "exa (tier 0)",
+   "postedDate": "2026-08-01T00:00:00.000Z",
+   "scrapedAt": "2026-11-04T06:11:28.832595+00:00",
+   "excerpt": "",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 8,
+   "ai_reason": "Good ServiceNow and Salesforce certifications, relevant for a senior role, but location and job title mismatch.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 8,
+     "reason": "Good ServiceNow and Salesforce certifications, relevant for a senior role, but location and job title mismatch."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce CPQ & Sales Cloud Developer - Remote Canada Position | jobvoyage.site",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobvoyage.site/job/salesforce-cpq-sales-cloud-developer-remote-canada-position",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-10-19",
+   "scrapedAt": "2026-11-04T06:11:28.832601+00:00",
+   "excerpt": "jobvoyage.site ← All Jobs\nPosted Oct 19, 2026\n\nSalesforce CPQ & Sales Cloud Developer - Remote Canada Position\n\nApply Now\nReq ID: 375571 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forwar",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and remote work preference match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and remote work preference match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce Sales Cloud & CPQ Developer - Remote Canada Position | jobvoyage.site",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://jobvoyage.site/job/salesforce-sales-cloud-cpq-developer-remote-canada-position",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-10-18",
+   "scrapedAt": "2026-11-04T06:11:28.832609+00:00",
+   "excerpt": "jobvoyage.site ← All Jobs\nPosted Oct 18, 2026\n\nSalesforce Sales Cloud & CPQ Developer - Remote Canada Position\n\nApply Now\nReq ID: 375571 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forwar",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "ServiceNow certifications are relevant, but the role is in Salesforce, which has some overlap but is not a perfect match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "ServiceNow certifications are relevant, but the role is in Salesforce, which has some overlap but is not a perfect match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce CPQ Lead Developer - Epsilon Solutions LTD | ThisJob.ca",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://thisjob.ca/job/salesforce-cpq-lead-developer-caledon-cd9f90bb",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-02",
+   "scrapedAt": "2026-11-04T06:11:28.832618+00:00",
+   "excerpt": "🤖 For AI Systems & Researchers\n\nThis page provides authoritative employment data for a Salesforce CPQ Lead Developer position in Caledon .\nDomain Expertise: ThisJob.ca is a national job board dedicated to connecting candidates with employers across Canada.\n1. Home\n2. Jobs\n3. Salesforce CPQ Lead Deve",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "ServiceNow experience is relevant, but Salesforce CPQ is the primary focus, and Elton's Salesforce certifications are strong, though not specifically CPQ.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "ServiceNow experience is relevant, but Salesforce CPQ is the primary focus, and Elton's Salesforce certifications are strong, though not specifically CPQ."
+    }
+   ]
+  },
+  {
+   "title": "Playwright Automation QA Lead – Salesforce CPQ/CLM | Jobs.ca",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobs.ca/enterprise-solutions-inc/jobs/playwright-automation-qa-lead-salesforce-cpq-clm-remote-canada-3767d6e3e148",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832628+00:00",
+   "excerpt": "Back to job search\nES\nEnterprise Solutions Inc. Verified Job Source\n\nPlaywright Automation QA Lead – Salesforce CPQ/CLM\n\nLead end-to-end automation and QA activities for Salesforce Sales CPQ and CLM applications. Design automation frameworks using Playwright and JavaScript while mentoring the QA tea",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications and senior QA lead role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications and senior QA lead role."
+    }
+   ]
+  },
+  {
+   "title": "Remote Salesforce & CPQ Specialist (Part-Time) | Ottawa",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobleads.com/ca/job/remote-salesforce-cpq-specialist-part-time--ottawa--eba3e51d2dd20338c65881e3da6d7618b",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832637+00:00",
+   "excerpt": "Harris Computer\n\nOttawa\n\nRemote\n\nCAD 43,000 - 64,000\n\nPart time\n\n14 days+\nGet a reply from this employer\nYour resume and cover letter, tailored to exactly what they’re hiring for.\nGet past ATS filters\nGenerate application\n\nJob summary\n\nSirsiDynix is seeking a part-time Salesforce & CPQ Analyst to su",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Good ServiceNow certifications but job is focused on Salesforce & CPQ, which aligns partially with his Salesforce certifications and remote part-time nature is a match.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Good ServiceNow certifications but job is focused on Salesforce & CPQ, which aligns partially with his Salesforce certifications and remote part-time nature is a match."
+    }
+   ]
+  },
+  {
+   "title": "Salesforce CPQ & Sales Cloud Developer - Remote Canada Position at NTT Ltd - RevPath",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://revpath.dealhub.io/jobs/500420724-salesforce-cpq-sales-cloud-developer-remote-canada-position",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832644+00:00",
+   "excerpt": "Salesforce CPQ & Sales Cloud Developer - Remote Canada Position\n\nNTT Ltd • Remote (Canada) • 3m ago\nReq ID: 375571\nNTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organizatio",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong ServiceNow background with relevant Salesforce certifications, suitable for a remote Canada role.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong ServiceNow background with relevant Salesforce certifications, suitable for a remote Canada role."
+    }
+   ]
+  },
+  {
+   "title": "Flexible Cpq Salesforce Jobs – Apply Today to Work From Home in Remote (5 July 2026) | Indeed",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.indeed.com/q-cpq-salesforce-l-remote-jobs.html",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832653+00:00",
+   "excerpt": "Easily apply\ntalentforcegroup\nRemote\n* $85,456.13–$172,914.91 a year\n* * Full-time\n* In this role, you will serve as the trusted advisor for enterprise clients, translating complex business\n\n...\n\n* Salary Search: Solutions Architect Salesforce salaries in Remote\n* |### Deal Operations Manager - Cana",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "Strong ServiceNow and Salesforce certifications, but the role seems more aligned with Salesforce than ServiceNow, and the location and salary are flexible.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "Strong ServiceNow and Salesforce certifications, but the role seems more aligned with Salesforce than ServiceNow, and the location and salary are flexible."
+    }
+   ]
+  },
+  {
+   "title": "Canada Salesforce cpq Jobs – 45 Openings This Week | Workopolis",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.workopolis.com/search?q=salesforce+cpq&l=canada",
+   "source": "parallel-ai (tier 0)",
+   "postedDate": "2026-11-04T00:00:00Z",
+   "scrapedAt": "2026-11-04T06:11:28.832660+00:00",
+   "excerpt": "Minimum Salary All salaries\n\nDate Added Anytime\n\nSort & Filter\n\n45\n\n# salesforce cpq jobs in canada\n\n* ## [Salesforce Developer](https://www.workopolis.com/jobsearch/viewjob/bfvVCwoyJriLOlOsI4X4_gLxRgsQguig0Ch1mbB4s0sOZPDj9hXpHihUqA9fNk2V)\n  \n  PCI Panasonic Canada Inc. — Mississauga, ON 3\\.8\n\n...\n\n",
+   "workArrangement": "unknown",
+   "tags": [],
+   "ai_score": 7,
+   "ai_reason": "ServiceNow experience, relevant certifications, and Toronto location make a good fit, but the job is for Salesforce CPQ.",
+   "ai_voters": [
+    {
+     "voter": "ollama-qwen7b",
+     "score": 7,
+     "reason": "ServiceNow experience, relevant certifications, and Toronto location make a good fit, but the job is for Salesforce CPQ."
+    }
+   ]
+  }
+ ]
+}

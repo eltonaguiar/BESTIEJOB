@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Search-only phase: run all 36 platform-focused rounds (12 each: sn, sf, other),
-collect raw results, save to scan_results/. Scoring done separately.
+Search-only phase: run platform-focused rounds, collect raw results, save to scan_results/.
+Scoring done separately via finalize_rounds.py (keyword-based, fast).
 """
 from __future__ import annotations
 
+import argparse
 import json
 import sys
 import time
@@ -55,8 +56,13 @@ def build_queries(platform: str, round_num: int) -> list[tuple[str, str]]:
 
 
 def main() -> int:
-    platforms = ["sn", "sf", "other"]
-    rounds_per = 12
+    ap = argparse.ArgumentParser(description="Search-only platform rounds")
+    ap.add_argument("--platform", choices=["sn", "sf", "other", "all"], default="all")
+    ap.add_argument("--rounds", type=int, default=30)
+    args = ap.parse_args()
+
+    platforms = ["sn", "sf", "other"] if args.platform == "all" else [args.platform]
+    rounds_per = args.rounds
     total = len(platforms) * rounds_per
 
     print(f"=== SEARCH-ONLY: {total} rounds ({rounds_per} per platform) ===")
