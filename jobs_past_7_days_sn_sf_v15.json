@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-11-04T21:40:28.876321",
-    "count": 509,
+    "generatedAt": "2026-11-04T21:42:43.497449",
+    "count": 507,
     "window_days": 7
   },
   "jobs": [
@@ -6454,23 +6454,6 @@
       ]
     },
     {
-      "id": "greenhouse:job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
-      "source": "greenhouse",
-      "company": "9th Way Insignia",
-      "title": "ServiceNow Developer",
-      "location": "United States - Remote",
-      "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-28T21:41:50.000Z",
-      "scrapedAt": "2026-11-03T21:08:41.978Z",
-      "excerpt": "",
-      "workArrangement": "remote",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
       "id": "exa:workday:ServiceNow-Developer--CONTRACT-ROLE-_R20",
       "source": "workday",
       "company": "Brookfield Properties",
@@ -8480,18 +8463,6 @@
       "tags": [
         "jira",
         "remote"
-      ],
-      "postedDate": "2026-11-04"
-    },
-    {
-      "title": "Senior Technical Consultant - ServiceNow",
-      "company": "Cognizant",
-      "location": "Toronto, ON",
-      "url": "https://careers.cognizant.com/us-en/jobs/00070349441/servicenow-senior-technical-consultant/",
-      "source": "cognizant",
-      "tags": [
-        "servicenow",
-        "consultant"
       ],
       "postedDate": "2026-11-04"
     }
