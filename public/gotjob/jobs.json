@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-04T11:24:28.398Z",
     "generatedAt": "2026-11-04T11:24:28.398Z",
-    "total": 1291,
+    "total": 1483,
     "newThisScan": 749,
     "retainedFromPrevious": 542,
     "sources": {
@@ -686,6 +686,57 @@
       "tags": [
         "servicenow",
         "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:movojobs.ca/bmo/jobs/servicenow-sam-administrator-itam-3387123",
+      "source": "readme",
+      "company": "ITAM in Toronto, ON / BMO / MovoJobs",
+      "title": "ServiceNow SAM Administrator",
+      "location": "Not specified",
+      "url": "https://movojobs.ca/bmo/jobs/servicenow-sam-administrator-itam-3387123",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-salesforce-architect-canada-at-vasa-digital-architects-4486076138",
+      "source": "readme",
+      "company": "Vasa Digital Architects",
+      "title": "Senior Salesforce Architect - Canada",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-architect-canada-at-vasa-digital-architects-4486076138",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via ai-keywords--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/enterprise-architect-salesforce-%e2%80%93-healthcare-life-sciences-at-customertimes-4487036443",
+      "source": "readme",
+      "company": "Customertimes",
+      "title": "Enterprise Architect (Salesforce) – Healthcare &amp; Life Sciences",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/enterprise-architect-salesforce-%E2%80%93-healthcare-life-sciences-at-customertimes-4487036443",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via linkedin-guest--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -3966,24 +4017,6 @@
       ]
     },
     {
-      "id": "partner:deloitte:",
-      "source": "deloitte",
-      "company": "Deloitte",
-      "title": "Senior Manager, ServiceNow - Operate",
-      "location": "Toronto, ON",
-      "url": "https://careers.deloitte.ca/job/Senior-Manager%2C-ServiceNow-Operate/135627-en_US/",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T22:40:18.161991+00:00",
-      "excerpt": "Senior Manager ServiceNow Operate at Deloitte Toronto",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow",
-        "consulting"
-      ]
-    },
-    {
       "id": "partner:deloitte:technical-delivery-mgr-servicenow-irm-se",
       "source": "deloitte",
       "company": "Deloitte",
@@ -4501,24 +4534,6 @@
         "servicenow",
         "consulting",
         "principal"
-      ]
-    },
-    {
-      "id": "partner:cdw:18442957-product-manager-business-platfo",
-      "source": "cdw",
-      "company": "CDW",
-      "title": "Product Manager - Business Platforms",
-      "location": "Toronto, ON",
-      "url": "https://www.cdwjobs.com/jobs/18442957-product-manager-business-platforms",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-03T00:00:00+00:00",
-      "scrapedAt": "2026-11-03T22:40:18.161991+00:00",
-      "excerpt": "Product Manager Business Platforms at CDW Toronto",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow",
-        "manager"
       ]
     },
     {
@@ -6145,6 +6160,24 @@
       ]
     },
     {
+      "id": "partner:cdw:18442957-product-manager-business-platfo",
+      "source": "cdw",
+      "company": "CDW",
+      "title": "Product Manager - Business Platforms",
+      "location": "Toronto, ON",
+      "url": "https://www.cdwjobs.com/jobs/18442957-product-manager-business-platforms",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-03T00:00:00+00:00",
+      "scrapedAt": "2026-11-03T22:40:18.161991+00:00",
+      "excerpt": "Product Manager Business Platforms at CDW Toronto",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "manager"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/land/ad/5951040865",
       "source": "adzuna",
       "company": "CloudKettle Inc",
@@ -7390,6 +7423,670 @@
       "tags": [
         "servicenow",
         "itam"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/itam-specialist-at-raise-4486445797",
+      "source": "readme",
+      "company": "Raise",
+      "title": "ITAM Specialist",
+      "location": "Saskatoon, Saskatchewan, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/itam-specialist-at-raise-4486445797",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "restored after over-merge",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/vulnerability-management-specialist-at-hays-4486404341",
+      "source": "readme",
+      "company": "Hays",
+      "title": "Vulnerability Management Specialist",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/vulnerability-management-specialist-at-hays-4486404341",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technicienne-dessinatrice-ou-technicien-dessinateur-at-cima%2b-4486195153",
+      "source": "readme",
+      "company": "CIMA+",
+      "title": "Technicienne dessinatrice ou Technicien dessinateur",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technicienne-dessinatrice-ou-technicien-dessinateur-at-cima%2B-4486195153",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technical-business-analyst-montreal-qc-hybrid-fte-at-acestack-4485758996",
+      "source": "readme",
+      "company": "AceStack",
+      "title": "Technical Business Analyst / Montreal, QC (Hybrid) - FTE",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technical-business-analyst-montreal-qc-hybrid-fte-at-acestack-4485758996",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via copilot-pattern-rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/system-engineer-at-teema-4485754576",
+      "source": "readme",
+      "company": "TEEMA",
+      "title": "System Engineer",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/system-engineer-at-teema-4485754576",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via copilot-pattern-rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/success-enablement-manager-at-jobber-4483932327",
+      "source": "readme",
+      "company": "Jobber",
+      "title": "Success Enablement Manager",
+      "location": "Kitchener, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/success-enablement-manager-at-jobber-4483932327",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/specialist-marketing-technology-12-month-contract-at-agf-investments-4452505102",
+      "source": "readme",
+      "company": "AGF Investments",
+      "title": "Specialist, Marketing Technology (12-month contract)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/specialist-marketing-technology-12-month-contract-at-agf-investments-4452505102",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-grc-engineer-at-jobgether-4485471875",
+      "source": "readme",
+      "company": "Jobgether",
+      "title": "Senior GRC Engineer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-grc-engineer-at-jobgether-4485471875",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sales-development-representative-oshawa-at-medfar-4484373325",
+      "source": "readme",
+      "company": "MEDFAR",
+      "title": "Sales Development Representative - Oshawa",
+      "location": "Oshawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sales-development-representative-oshawa-at-medfar-4484373325",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/revenue-operations-strategist-at-sysaid-4484323725",
+      "source": "readme",
+      "company": "SysAid",
+      "title": "Revenue Operations Strategist",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/revenue-operations-strategist-at-sysaid-4484323725",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/regional-sales-manager-usa-at-acic-equipment-usa-inc-4485767674",
+      "source": "readme",
+      "company": "ACIC Equipment USA Inc.",
+      "title": "Regional Sales Manager USA",
+      "location": "Brantford, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/regional-sales-manager-usa-at-acic-equipment-usa-inc-4485767674",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/product-owner-client-digital-support-at-mri-software-4485741542",
+      "source": "readme",
+      "company": "MRI Software",
+      "title": "Product Owner, Client & Digital Support",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/product-owner-client-digital-support-at-mri-software-4485741542",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/product-owner-i-askhr-at-td-4486468435",
+      "source": "readme",
+      "company": "TD",
+      "title": "Product Owner I - AskHR",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/product-owner-i-askhr-at-td-4486468435",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/payments-implementation-specialist-canada-at-jonas-club-software-4486443532",
+      "source": "readme",
+      "company": "Jonas Club Software",
+      "title": "Payments Implementation Specialist - Canada",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/payments-implementation-specialist-canada-at-jonas-club-software-4486443532",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/mobile-developer-%e2%80%93-react-native-toronto-on-canada-onsite-at-acestack-4485755608",
+      "source": "readme",
+      "company": "AceStack",
+      "title": "Mobile Developer – React Native : Toronto, ON, Canada : Onsite",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/mobile-developer-%E2%80%93-react-native-toronto-on-canada-onsite-at-acestack-4485755608",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via copilot-pattern-rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-4486426675",
+      "source": "readme",
+      "company": "DWF",
+      "title": "Mid-Sr Level Litigation Associate (Cyber Liability)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-4486426675",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/marketing-automation-consultant-at-marketing-automation-corp-4486198412",
+      "source": "readme",
+      "company": "Marketing Automation Corp.",
+      "title": "Marketing Automation Consultant",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-automation-consultant-at-marketing-automation-corp-4486198412",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-security-grc-at-nesto-4486472726",
+      "source": "readme",
+      "company": "nesto",
+      "title": "Manager, Security GRC",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-security-grc-at-nesto-4486472726",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/mdm-developer-java-j2ee-at-tamanna-technology-4482129361",
+      "source": "readme",
+      "company": "Tamanna Technology",
+      "title": "MDM Developer - Java, J2EE",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/mdm-developer-java-j2ee-at-tamanna-technology-4482129361",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via copilot-pattern-rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/int%c3%a9grateur-courriels-et-crm-at-national-bank-of-canada-4484398156",
+      "source": "readme",
+      "company": "National Bank of Canada",
+      "title": "Intégrateur courriels et CRM",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/int%C3%A9grateur-courriels-et-crm-at-national-bank-of-canada-4484398156",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/ibm-mdm-java-developers-at-tamanna-technology-4482128372",
+      "source": "readme",
+      "company": "Tamanna Technology",
+      "title": "IBM MDM/Java Developers",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/ibm-mdm-java-developers-at-tamanna-technology-4482128372",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via copilot-pattern-rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/hiring-application-support-analyst-%e2%80%93-front-office-technology-at-mississauga-on-hybrid-at-zodiac-solutions-inc-4484384678",
+      "source": "readme",
+      "company": "Zodiac Solutions, Inc",
+      "title": "Hiring - Application Support Analyst – Front Office Technology at Mississauga, ON(Hybrid)",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/hiring-application-support-analyst-%E2%80%93-front-office-technology-at-mississauga-on-hybrid-at-zodiac-solutions-inc-4484384678",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/gestionnaire-s%c3%a9curit%c3%a9-grc-at-nesto-4486483094",
+      "source": "readme",
+      "company": "nesto",
+      "title": "Gestionnaire, sécurité GRC",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/gestionnaire-s%C3%A9curit%C3%A9-grc-at-nesto-4486483094",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/executive-director-enterprise-regional-enablement-at-jobgether-4485426794",
+      "source": "readme",
+      "company": "Jobgether",
+      "title": "Executive Director, Enterprise Regional Enablement",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/executive-director-enterprise-regional-enablement-at-jobgether-4485426794",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/digital-marketing-engagement-coordinator-at-ci-financial-4485758218",
+      "source": "readme",
+      "company": "CI Financial",
+      "title": "Digital Marketing Engagement Coordinator",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-engagement-coordinator-at-ci-financial-4485758218",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/deal-desk-specialist-at-instacart-4486452518",
+      "source": "readme",
+      "company": "Instacart",
+      "title": "Deal Desk Specialist",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/deal-desk-specialist-at-instacart-4486452518",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/conseiller-strat%c3%a9gique-gouvernance-de-donn%c3%a9es-et-ia-at-astek-4485756556",
+      "source": "readme",
+      "company": "Astek",
+      "title": "Conseiller stratégique gouvernance de données et IA",
+      "location": "Greater Montreal Metropolitan Area",
+      "url": "https://ca.linkedin.com/jobs/view/conseiller-strat%C3%A9gique-gouvernance-de-donn%C3%A9es-et-ia-at-astek-4485756556",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via copilot-pattern-rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/conseiller-exp-strat%c3%a9gique-gouvernance-de-donn%c3%a9es-et-ia-at-cofomo-4486436029",
+      "source": "readme",
+      "company": "COFOMO",
+      "title": "Conseiller exp. stratégique gouvernance de données et IA",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/conseiller-exp-strat%C3%A9gique-gouvernance-de-donn%C3%A9es-et-ia-at-cofomo-4486436029",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/camunda-architect-at-tamanna-technology-4486197523",
+      "source": "readme",
+      "company": "Tamanna Technology",
+      "title": "Camunda Architect",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/camunda-architect-at-tamanna-technology-4486197523",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via copilot-pattern-rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/crm-and-email-integrator-at-national-bank-of-canada-4484381821",
+      "source": "readme",
+      "company": "National Bank of Canada",
+      "title": "CRM and Email Integrator",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/crm-and-email-integrator-at-national-bank-of-canada-4484381821",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-solutions-analyst-at-caa-club-group-4458870834",
+      "source": "readme",
+      "company": "CAA Club Group",
+      "title": "Business Solutions Analyst",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-solutions-analyst-at-caa-club-group-4458870834",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-analyst-at-connex-telecommunications-inc-4486429876",
+      "source": "readme",
+      "company": "Connex Telecommunications Inc.",
+      "title": "Business Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-analyst-at-connex-telecommunications-inc-4486429876",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/braze-architect-at-smart-it-frame-llc-4484124335",
+      "source": "readme",
+      "company": "Smart IT Frame LLC",
+      "title": "Braze Architect",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/braze-architect-at-smart-it-frame-llc-4484124335",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/associate-director-partner-operations-revenue-and-sales-operations-at-boreal-education-4485418916",
+      "source": "readme",
+      "company": "Boreal Education",
+      "title": "Associate Director, Partner Operations (Revenue and Sales Operations)",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/associate-director-partner-operations-revenue-and-sales-operations-at-boreal-education-4485418916",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/asset-protection-representative-at-loblaw-companies-limited-4478361012",
+      "source": "readme",
+      "company": "Loblaw Companies Limited",
+      "title": "Asset Protection Representative",
+      "location": "Oshawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/asset-protection-representative-at-loblaw-companies-limited-4478361012",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/application-support-analyst-%e2%80%93-front-office-technology-at-synechron-4484364674",
+      "source": "readme",
+      "company": "Synechron",
+      "title": "Application Support Analyst – Front Office Technology",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/application-support-analyst-%E2%80%93-front-office-technology-at-synechron-4484364674",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/analyste-des-donn%c3%a9es-principal-e-analyse-de-la-performance-op%c3%a9rationnelle-at-intact-4485771325",
+      "source": "readme",
+      "company": "Intact",
+      "title": "Analyste des données principal(e) - Analyse de la performance opérationnelle",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/analyste-des-donn%C3%A9es-principal-e-analyse-de-la-performance-op%C3%A9rationnelle-at-intact-4485771325",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/ai-gtm-and-automation-specialist-at-maplesoft-4484392296",
+      "source": "readme",
+      "company": "Maplesoft",
+      "title": "AI GTM and Automation Specialist",
+      "location": "Waterloo, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/ai-gtm-and-automation-specialist-at-maplesoft-4484392296",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/2027-graduate-program-technology-services-delivery-excellence-architecture-at-bell-4469282040",
+      "source": "readme",
+      "company": "Bell",
+      "title": "2027 Graduate Program, Technology Services - Delivery, Excellence & Architecture",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/2027-graduate-program-technology-services-delivery-excellence-architecture-at-bell-4469282040",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via copilot-20rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -8905,6 +9602,840 @@
       "workArrangement": "hybrid",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:recruiting.ultipro.ca/ses5000sellp/jobboard/9cea37d8-40ac-4583-84aa-5469ad18b526/opportunitydetail",
+      "source": "readme",
+      "company": "Stikeman Elliott LLP",
+      "title": "Workflow Automation Developer (ServiceNow + Power Platform)",
+      "location": "Toronto, Ontario",
+      "url": "https://recruiting.ultipro.ca/SES5000SELLP/JobBoard/9cea37d8-40ac-4583-84aa-5469ad18b526/OpportunityDetail?opportunityId=fac9db73-486d-4760-b98e-a53208c36588",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "full-time permanent",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948985233",
+      "source": "readme",
+      "company": "Zensar Technologies",
+      "title": "Technical Consultant, Professional Services",
+      "location": "Canada (remote)",
+      "url": "https://www.adzuna.ca/details/5948985233",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Technical consulting Adzuna 5948985233",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949574744",
+      "source": "readme",
+      "company": "BMO Financial",
+      "title": "Systems Administrator (Windows/Unix-Linux, Automation)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949574744",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "PowerShell automation; prior BMO experience Adzuna 5949574744",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5950015835",
+      "source": "readme",
+      "company": "Magna International, Inc",
+      "title": "Systems Administrator",
+      "location": "Concord, York region",
+      "url": "https://www.adzuna.ca/details/5950015835",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "SQL Server adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576771",
+      "source": "readme",
+      "company": "TekStaff IT Solutions",
+      "title": "System Administrator",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949576771",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "PowerShell / sysadmin Adzuna 5949576771",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576986",
+      "source": "readme",
+      "company": "BMO",
+      "title": "Staff Data Scientist",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949576986",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Python adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576733",
+      "source": "readme",
+      "company": "Kinaxis",
+      "title": "Staff Cloud Engineer , Cloud Platform",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5949576733",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Python adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949200555",
+      "source": "readme",
+      "company": "Parkland",
+      "title": "Specialist, BI Developer",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/details/5949200555",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via nemotron-gap-scan--2026-11-02--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949020152",
+      "source": "readme",
+      "company": "Sunoco LP",
+      "title": "Specialist, BI Developer",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/details/5949020152",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via nemotron-gap-scan--2026-11-02--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949020148",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Solution Architect (Wealth/ Asset Management)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949020148",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via R10 SN partners A",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576448",
+      "source": "readme",
+      "company": "Government of Nunavut",
+      "title": "Service Desk Asset Management Officer",
+      "location": "Iqaluit, NU",
+      "url": "https://www.adzuna.ca/details/5949576448",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "ITAM / ITIL service desk Adzuna 5949576448",
+      "workArrangement": "unknown",
+      "tags": [
+        "it-reporting",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:jobs.scotiabank.com/job/toronto-senior-technical-business-analyst-on-m5h-1h1/603306117",
+      "source": "readme",
+      "company": "Scotiabank",
+      "title": "Senior Technical Business Analyst (Req 264347)",
+      "location": "Toronto, ON",
+      "url": "https://jobs.scotiabank.com/job/Toronto-Senior-Technical-Business-Analyst-ON-M5H-1H1/603306117/",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via arlo--2026-11-02--v8.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949195568",
+      "source": "readme",
+      "company": "Mevotech",
+      "title": "Senior Systems Administrator - Infrastructure & Cloud",
+      "location": "Mississauga, Ontario",
+      "url": "https://www.adzuna.ca/details/5949195568",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "PowerShell / infrastructure automation Adzuna 5949195568",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576614",
+      "source": "readme",
+      "company": "PDW",
+      "title": "Senior Software Quality Engineer - QGC & Tool Automation",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5949576614",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949207752",
+      "source": "readme",
+      "company": "goeasy",
+      "title": "Senior Payroll Specialist",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5949207752",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949969958",
+      "source": "readme",
+      "company": "KPMG",
+      "title": "Senior Manager - Senior Tech Lead - AI & Technology Transformation",
+      "location": "Montréal, Québec",
+      "url": "https://www.adzuna.ca/details/5949969958",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Python adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949111244",
+      "source": "readme",
+      "company": "Canada Life",
+      "title": "Senior IT Business Systems Analyst",
+      "location": "Toronto",
+      "url": "https://www.adzuna.ca/details/5949111244",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "ITSM-adjacent BSA, requirements + process Adzuna 5949111244",
+      "workArrangement": "unknown",
+      "tags": [
+        "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576062",
+      "source": "readme",
+      "company": "J.D. Power",
+      "title": "Senior GRC Engineer",
+      "location": "Ottawa",
+      "url": "https://www.adzuna.ca/details/5949576062",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "GRC/IRM parallel to CIS-RC work Adzuna 5949576062",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949577061",
+      "source": "readme",
+      "company": "Xanadu",
+      "title": "Senior Data Scientist - Operations Research",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949577061",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Python adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949972415",
+      "source": "readme",
+      "company": "BMO",
+      "title": "Senior Business Analyst, Loan Servicing Technology",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949972415",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Tableau / BI adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949577273",
+      "source": "readme",
+      "company": "Jobgether",
+      "title": "Senior Backend Developer, AI Systems",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5949577273",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Python adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949577699",
+      "source": "readme",
+      "company": "AutoTrader.ca",
+      "title": "Senior Analytics Engineer (m/f/d)",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5949577699",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Data / BI adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-analyst-software-compliance-and-contract-management-t-i-telework-hybrid-at-radio-canada-4483761032",
+      "source": "readme",
+      "company": "Radio-Canada",
+      "title": "Senior Analyst, Software Compliance and Contract Management (T & I) (Telework/Hybrid)",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-analyst-software-compliance-and-contract-management-t-i-telework-hybrid-at-radio-canada-4483761032",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949205893",
+      "source": "readme",
+      "company": "Zodiac Solutions",
+      "title": "SQL Database Developer with Data Modelling - Toronto, ON - Fulltime opportunity",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949205893",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via Data Analyst",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576497",
+      "source": "readme",
+      "company": "Accenture PLC",
+      "title": "SAP Finance/ Functional Lead (FI, GL)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949576497",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949187538",
+      "source": "readme",
+      "company": "Source Code",
+      "title": "RQ11653/ RQ11654/ RQ11500 - Software Developer - CRM - Senior",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949187538",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949202435",
+      "source": "readme",
+      "company": "Maarut",
+      "title": "RQ11527 - Middleware Specialist - Senior",
+      "location": "East York, Toronto",
+      "url": "https://www.adzuna.ca/details/5949202435",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "ITIL / enterprise platform ops; Ontario public-sector req Adzuna 5949202435",
+      "workArrangement": "unknown",
+      "tags": [
+        "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949004698",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Microsoft Dynamics 365 & Power Platform Developer",
+      "location": "Halifax region, Nova Scotia",
+      "url": "https://www.adzuna.ca/details/5949004698",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via R10 SN partners A",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576732",
+      "source": "readme",
+      "company": "Best Version Media",
+      "title": "Marketing Sales Specialist ($90K-$210K)",
+      "location": "Surrey, Greater Vancouver",
+      "url": "https://www.adzuna.ca/details/5949576732",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/land/ad/5949669576",
+      "source": "readme",
+      "company": "BMO Financial",
+      "title": "Manager, Capital Data Analytics",
+      "location": "Central Bay Street, City of Toronto",
+      "url": "https://www.adzuna.ca/land/ad/5949669576",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Tableau / BI adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/land/ad/5949669657",
+      "source": "readme",
+      "company": "BMO Financial",
+      "title": "Lead Cloud Software Developer - (AWS / AI / Real Time Payment Systems)",
+      "location": "Central Bay Street, City of Toronto",
+      "url": "https://www.adzuna.ca/land/ad/5949669657",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "Python adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50631252",
+      "source": "readme",
+      "company": "CloudKettle Inc",
+      "title": "Job Bank 50631252",
+      "location": "Toronto, ON",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50631252",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "$135,000–$150,000/yr [Job Bank 50631252](https://www.jobbank.gc.ca/jobsearch/jobposting/50631252)",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50631248",
+      "source": "readme",
+      "company": "CloudKettle Inc",
+      "title": "Job Bank 50631248",
+      "location": "Toronto, ON",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50631248",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "restored after over-merge",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50631226",
+      "source": "readme",
+      "company": "CloudKettle Inc",
+      "title": "Job Bank 50631226",
+      "location": "Toronto, ON",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50631226",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "restored after over-merge",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50631214",
+      "source": "readme",
+      "company": "CloudKettle Inc",
+      "title": "Job Bank 50631214",
+      "location": "Toronto, ON",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50631214",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "restored after over-merge",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948946813",
+      "source": "readme",
+      "company": "CI Financial",
+      "title": "IT Change Management and Release Engineer II",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948946813",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576937",
+      "source": "readme",
+      "company": "WSP Global",
+      "title": "IT Automation Architect",
+      "location": "Toronto",
+      "url": "https://www.adzuna.ca/details/5949576937",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949199445",
+      "source": "readme",
+      "company": "Dexterra Group",
+      "title": "HCM & Reporting Analyst - Dayforce (8 mos contract)",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5949199445",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949971673",
+      "source": "readme",
+      "company": "KPMG",
+      "title": "Engagement Analyst (12 Month Contract)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949971673",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949011861",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Développeur(euse) MuleSoft",
+      "location": "Montréal, QC",
+      "url": "https://www.adzuna.ca/details/5949011861",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949577347",
+      "source": "readme",
+      "company": "Amphenol ICC",
+      "title": "Data Engineer",
+      "location": "Markham, York region",
+      "url": "https://www.adzuna.ca/details/5949577347",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949576686",
+      "source": "readme",
+      "company": "Charles River Associates - Private",
+      "title": "Consulting Associate/Cybersecurity & Incident Response (Forensic Services practice)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949576686",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/crm-ic-manager-at-sun-pharma-4485164970",
+      "source": "readme",
+      "company": "SUN PHARMA",
+      "title": "CRM & IC Manager",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/crm-ic-manager-at-sun-pharma-4485164970",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948996988",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Business Analyst, Microsoft Dynamics CE / Power Platform",
+      "location": "Montréal, Québec",
+      "url": "https://www.adzuna.ca/details/5948996988",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948933036",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Bilingual Dayforce Core HR & WFM Implementation Consultant",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5948933036",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5949577037",
+      "source": "readme",
+      "company": "Four Seasons",
+      "title": "BI Engineer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5949577037",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/architecte-principal-de-processus-gestion-du-service-%c3%a0-la-client%c3%a8le-at-deloitte-4459410867",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Architecte principal de processus, Gestion du service à la clientèle",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/architecte-principal-de-processus-gestion-du-service-%C3%A0-la-client%C3%A8le-at-deloitte-4459410867",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948974291",
+      "source": "readme",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Advanced Deployment Technical Consultant",
+      "location": "Greater Vancouver, BC",
+      "url": "https://www.adzuna.ca/details/5948974291",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948614670",
+      "source": "readme",
+      "company": "Mackenzie Investments",
+      "title": "AI Automation & Platform Analyst (Senior Analyst)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948614670",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -10515,6 +12046,1111 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/project-manager-netsuite-salesforce-cpq-ftc-until-end-of-june-2027-at-keyloop-4477874619",
+      "source": "readme",
+      "company": "Keyloop",
+      "title": "Project Manager (Netsuite, Salesforce CPQ) - FTC until end of June 2027",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/project-manager-netsuite-salesforce-cpq-ftc-until-end-of-june-2027-at-keyloop-4477874619",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948277622",
+      "source": "readme",
+      "company": "Dayforce",
+      "title": "Vice-président ou vice-présidente, Partenaires technologiques et d’innovation",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948277622",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technology-risk-compliance-manager-deloitte-global-audit-and-assurance-at-deloitte-4460515118",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Technology Risk & Compliance Manager, Deloitte Global Audit and Assurance",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technology-risk-compliance-manager-deloitte-global-audit-and-assurance-at-deloitte-4460515118",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947778618",
+      "source": "readme",
+      "company": "Insight Global",
+      "title": "Technical Business Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947778618",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948015340",
+      "source": "readme",
+      "company": "GTT, LLC",
+      "title": "Tech Support Analyst Splunk/Dynatrace",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948015340",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-associate-workplace-specialist-av-at-mckesson-4477820672",
+      "source": "readme",
+      "company": "McKesson",
+      "title": "Sr. Associate Workplace Specialist (AV)",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-associate-workplace-specialist-av-at-mckesson-4477820672",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948276591",
+      "source": "readme",
+      "company": "Mphasis",
+      "title": "Solution Architect- SAP Architect",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948276591",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/service-delivery-manager-pa2025q3jb143-at-ss-c-technologies-4440585002",
+      "source": "readme",
+      "company": "SS&C Technologies",
+      "title": "Service Delivery Manager - (PA2025Q3JB143)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/service-delivery-manager-pa2025q3jb143-at-ss-c-technologies-4440585002",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947848969",
+      "source": "readme",
+      "company": "Royal Bank of Canada",
+      "title": "Senior Software Developer, Workday Integrations & Extend",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947848969",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/senior-react-developer_2622017",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Senior React Developer - Simplii Financial",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Senior-React-Developer_2622017",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948016255",
+      "source": "readme",
+      "company": "Macpower Digital Assets Edge Private Limited",
+      "title": "Senior Microsoft Dynamics Developer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948016255",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-manager-gto-strategy-transformation-at-manulife-4467584150",
+      "source": "readme",
+      "company": "Manulife",
+      "title": "Senior Manager, GTO Strategy & Transformation",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-manager-gto-strategy-transformation-at-manulife-4467584150",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948368417",
+      "source": "readme",
+      "company": "KPMG",
+      "title": "Senior Manager GRC",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948368417",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948015144",
+      "source": "readme",
+      "company": "Epsilon Solutions LTD",
+      "title": "Senior Java Full Stack Developer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948015144",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947988378",
+      "source": "readme",
+      "company": "House of Commons  / Chambre des communes",
+      "title": "Senior Full-Stack Developer (Senior Digital Product Developer)",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5947988378",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948019031",
+      "source": "readme",
+      "company": "Epsilon Solutions LTD",
+      "title": "Senior Full Stack Engineer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948019031",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948021581",
+      "source": "readme",
+      "company": "Mitchell Martin",
+      "title": "Senior Full Stack Developer React/JavaScript",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948021581",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948011972",
+      "source": "readme",
+      "company": "GTT, LLC",
+      "title": "Senior Databricks Developer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948011972",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-consultant-artificial-intelligence-nowassist-at-deloitte-4460501313",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Senior Consultant, Artificial Intelligence - NowAssist",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-artificial-intelligence-nowassist-at-deloitte-4460501313",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948020416",
+      "source": "readme",
+      "company": "Amicis Global",
+      "title": "Senior Business Analyst in Toronto, ON M5G 2H1",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948020416",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948026702",
+      "source": "readme",
+      "company": "Mindlance",
+      "title": "Senior Business Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948026702",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948018024",
+      "source": "readme",
+      "company": "Klick Health",
+      "title": "Senior Business Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948018024",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947846346",
+      "source": "readme",
+      "company": "Agnico Eagle",
+      "title": "Senior Advisor, Asset Management Services",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947846346",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948024412",
+      "source": "readme",
+      "company": "Tekfortune Inc.",
+      "title": "SAP Time Management Consultant",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948024412",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948006823",
+      "source": "readme",
+      "company": "Epsilon Solutions LTD",
+      "title": "SAP SuccessFactors -Senior Consultant",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948006823",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948024738",
+      "source": "readme",
+      "company": "Tekfortune Inc.",
+      "title": "SAP ECC Payroll & Time Consultant",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948024738",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948018569",
+      "source": "readme",
+      "company": "Mindlance",
+      "title": "Reporting Analyst - Expert",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948018569",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948022174",
+      "source": "readme",
+      "company": "Source Code",
+      "title": "RQ11330 - Application Support Specialist - Junior",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948022174",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948007365",
+      "source": "readme",
+      "company": "Source Code",
+      "title": "RQ11276 - Sr. Change Management Consultant",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948007365",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948023941",
+      "source": "readme",
+      "company": "Source Code",
+      "title": "RQ00727 Business Analyst- Intermediate",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948023941",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948024259",
+      "source": "readme",
+      "company": "Source Code",
+      "title": "RQ00721 - Jr. Business Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948024259",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/quality-assurance-specialist-at-powerhouse-controls-ltd-4468030445",
+      "source": "readme",
+      "company": "Powerhouse Controls Ltd",
+      "title": "Quality Assurance Specialist",
+      "location": "Cambridge, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/quality-assurance-specialist-at-powerhouse-controls-ltd-4468030445",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/product-engineering-fabric-data-engineering-at-allstate-canada-4458304396",
+      "source": "readme",
+      "company": "Allstate Canada",
+      "title": "Product Engineering (Fabric Data Engineering)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/product-engineering-fabric-data-engineering-at-allstate-canada-4458304396",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948369749",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Payroll Senior Consultant (Workday) - Human Capital, Operate",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948369749",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948025927",
+      "source": "readme",
+      "company": "Artech LLC",
+      "title": "Package Consultant SuccessFactors Payroll",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5948025927",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947822446",
+      "source": "readme",
+      "company": "The Citco Group",
+      "title": "Oracle Integration Cloud (OIC) Developer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947822446",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948024072",
+      "source": "readme",
+      "company": "Artech LLC",
+      "title": "Oracle C- loud Absence Lead",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948024072",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/mulesoft-technical-architect-enterprise-canada-at-slalom-4409348922",
+      "source": "readme",
+      "company": "Slalom",
+      "title": "MuleSoft Technical Architect- Enterprise (Canada)",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/mulesoft-technical-architect-enterprise-canada-at-slalom-4409348922",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/mulesoft-senior-developer-enterprise-canada-at-slalom-4409345905",
+      "source": "readme",
+      "company": "Slalom",
+      "title": "MuleSoft Senior Developer- Enterprise (Canada)",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/mulesoft-senior-developer-enterprise-canada-at-slalom-4409345905",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-payments-incident-response-resiliency-bilingual-spanish-at-scotiabank-4435479516",
+      "source": "readme",
+      "company": "Scotiabank",
+      "title": "Manager, Payments Incident Response & Resiliency (Bilingual Spanish)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-payments-incident-response-resiliency-bilingual-spanish-at-scotiabank-4435479516",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-innovation-18-month-contract-at-mccarthy-t%c3%a9trault-4468850071",
+      "source": "readme",
+      "company": "McCarthy Tétrault",
+      "title": "Manager, Innovation (18-month Contract)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-innovation-18-month-contract-at-mccarthy-t%C3%A9trault-4468850071",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948369644",
+      "source": "readme",
+      "company": "KPMG",
+      "title": "Manager, Financial Services-Wealth & Asset Management",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948369644",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-business-continuity-planning-at-manulife-4476811984",
+      "source": "readme",
+      "company": "Manulife",
+      "title": "Manager, Business Continuity Planning",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-business-continuity-planning-at-manulife-4476811984",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947843924",
+      "source": "readme",
+      "company": "Metrolinx",
+      "title": "Manager and Senior Advisor, to Deputy Chief Engineer & EVP of Engineering & Asset Management",
+      "location": "Railway Lands, City of Toronto",
+      "url": "https://www.adzuna.ca/details/5947843924",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948027155",
+      "source": "readme",
+      "company": "GTT, LLC",
+      "title": "MS SQL Database Administrator",
+      "location": "Toronto",
+      "url": "https://www.adzuna.ca/details/5948027155",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947847001",
+      "source": "readme",
+      "company": "Eupraxia Pharmaceuticals",
+      "title": "Intermediate IT Service Desk Analyst",
+      "location": "Vancouver, BC",
+      "url": "https://www.adzuna.ca/details/5947847001",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948015118",
+      "source": "readme",
+      "company": "House of Commons  / Chambre des communes",
+      "title": "Intermediate Full-Stack Developer (Intermediate Digital Product Developer)",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5948015118",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947997761",
+      "source": "readme",
+      "company": "Artech LLC",
+      "title": "Information Technology_CAN - CAN_Business Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947997761",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/incident-and-release-manager-fcc-at-fidelity-canada-4429486609",
+      "source": "readme",
+      "company": "Fidelity Canada",
+      "title": "Incident and Release Manager (FCC) (FT)",
+      "location": "Toronto, ON",
+      "url": "https://ca.linkedin.com/jobs/view/incident-and-release-manager-fcc-at-fidelity-canada-4429486609",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947988316",
+      "source": "readme",
+      "company": "Artech LLC",
+      "title": "Hiring MS SQL Managed Instance DBA in Brampton, ON",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947988316",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948021444",
+      "source": "readme",
+      "company": "Artech LLC",
+      "title": "Hiring Java Full Stack Developer in Montreal, QC",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948021444",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948022676",
+      "source": "readme",
+      "company": "Artech LLC",
+      "title": "Hiring Business Analyst in Toronto, ON",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948022676",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948017605",
+      "source": "readme",
+      "company": "Hour Consulting Corporation",
+      "title": "Full Stack Developer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948017605",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/first-nations-inuit-m%c3%a9tis-candidates-cybersecurity-application-security-analyst-consultant-r8dius-at-deloitte-4460511147",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "First Nations/Inuit/Métis Candidates: Cybersecurity, Application Security Analyst/Consultant -R8dius",
+      "location": "Kitchener, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/first-nations-inuit-m%C3%A9tis-candidates-cybersecurity-application-security-analyst-consultant-r8dius-at-deloitte-4460511147",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947778830",
+      "source": "readme",
+      "company": "TD Bank",
+      "title": "Engineering Manager, Workday Integrations & Platform",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947778830",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948009437",
+      "source": "readme",
+      "company": "Artech LLC",
+      "title": "ERP Programmer Analyst (PeopleSoft) Level 3",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5948009437",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947998724",
+      "source": "readme",
+      "company": "NTT DATA",
+      "title": "Dynamics 365 Functional Solution Architect (Finance and Supply Chain)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947998724",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/data-center-asset-management-specialist-at-bell-4485628993",
+      "source": "readme",
+      "company": "Bell",
+      "title": "Data Center Asset Management, Specialist",
+      "location": "Regina, Saskatchewan, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/data-center-asset-management-specialist-at-bell-4485628993",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948018492",
+      "source": "readme",
+      "company": "Varite, Inc",
+      "title": "CAN_Business Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948018492",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948021506",
+      "source": "readme",
+      "company": "Q1 Technologies, Inc",
+      "title": "Business Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948021506",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948025153",
+      "source": "readme",
+      "company": "Mindlance",
+      "title": "Business Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948025153",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/associate-software-engineer-new-grad-card-expansion-at-capital-one-4485900607",
+      "source": "readme",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/associate-software-engineer-new-grad-card-expansion-at-capital-one-4485900607",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/asset-management-specialist-contract-at-conestoga-college-4485634689",
+      "source": "readme",
+      "company": "Conestoga College",
+      "title": "Asset Management Specialist (Contract)",
+      "location": "Kitchener, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/asset-management-specialist-contract-at-conestoga-college-4485634689",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/application-support-engineer-front-office-at-synechron-4485125316",
+      "source": "readme",
+      "company": "Synechron",
+      "title": "Application Support Engineer (Front Office)",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/application-support-engineer-front-office-at-synechron-4485125316",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948011839",
+      "source": "readme",
+      "company": "Epsilon Solutions LTD",
+      "title": "Application Support",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948011839",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -12592,23 +15228,6 @@
       ]
     },
     {
-      "id": "adzuna:adzuna.ca/details/5947169370",
-      "source": "adzuna",
-      "company": "CloudLabs Inc",
-      "title": "Salesforce Tech Lead (Canada-Remote)",
-      "location": "Canada",
-      "url": "https://www.adzuna.ca/details/5947169370",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-30T13:31:48.000Z",
-      "scrapedAt": "2026-11-04T11:24:28.398Z",
-      "excerpt": "CloudLabs Inc was founded in 2014 with the mission to provide exceptional IT & Business consulting services at a competitive price, to help clients realize the best value from their investments. Within a short span, CloudLabs evolved from pure-play consulting into a transformative partner for Business Acceleration Advi",
-      "workArrangement": "remote",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
       "id": "5947169371",
       "source": "adzuna",
       "company": "S.i. Systems",
@@ -12625,6 +15244,23 @@
       "posted_bucket": "YESTERDAY",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "adzuna:adzuna.ca/details/5947169370",
+      "source": "adzuna",
+      "company": "CloudLabs Inc",
+      "title": "Salesforce Tech Lead (Canada-Remote)",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5947169370",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T13:31:48.000Z",
+      "scrapedAt": "2026-11-04T11:24:28.398Z",
+      "excerpt": "CloudLabs Inc was founded in 2014 with the mission to provide exceptional IT & Business consulting services at a competitive price, to help clients realize the best value from their investments. Within a short span, CloudLabs evolved from pure-play consulting into a transformative partner for Business Acceleration Advi",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -14171,6 +16807,448 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-qa-at-delpath-4485623229",
+      "source": "readme",
+      "company": "Delpath",
+      "title": "Salesforce QA",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-qa-at-delpath-4485623229",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-consultant-at-robert-half-4484808192",
+      "source": "readme",
+      "company": "Robert Half",
+      "title": "Salesforce Consultant",
+      "location": "Calgary, Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-robert-half-4484808192",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/executive-producer-head-of-production-apex-legends-at-respawn-entertainment-4475238234",
+      "source": "readme",
+      "company": "Respawn Entertainment",
+      "title": "Executive Producer, Head of Production (Apex Legends)",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/executive-producer-head-of-production-apex-legends-at-respawn-entertainment-4475238234",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5946726299",
+      "source": "readme",
+      "company": "McKesson",
+      "title": "Workday Solutions Delivery Manager",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5946726299",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5946997257",
+      "source": "readme",
+      "company": "Atlantis IT group",
+      "title": "Workday Integration Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5946997257",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/workday-analyst-at-green-infrastructure-partners-4459360329",
+      "source": "readme",
+      "company": "Green Infrastructure Partners",
+      "title": "Workday Analyst",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/workday-analyst-at-green-infrastructure-partners-4459360329",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technology-lead-enterprise-platforms-and-operations-at-tundra-technical-solutions-4485356140",
+      "source": "readme",
+      "company": "Tundra Technical Solutions",
+      "title": "Technology Lead Enterprise Platforms and Operations",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technology-lead-enterprise-platforms-and-operations-at-tundra-technical-solutions-4485356140",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/support-analyst---unified-communications_r260028142",
+      "source": "readme",
+      "company": "BMO",
+      "title": "Support Analyst - Mobility & Unified Communications",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Support-Analyst---Unified-Communications_R260028142",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-digital-operations-lead-at-mckesson-4477413543",
+      "source": "readme",
+      "company": "McKesson",
+      "title": "Sr. Digital Operations Lead",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-digital-operations-lead-at-mckesson-4477413543",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947004920",
+      "source": "readme",
+      "company": "Amicis Global",
+      "title": "Sr. DevOPS/Cloud Engineer in Toronto, ON (Hybrid)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947004920",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5946997694",
+      "source": "readme",
+      "company": "Amicis Global",
+      "title": "Sr. Business Analyst - Training and Change Management in Toronto, ON (5 day Onsite)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5946997694",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947169837",
+      "source": "readme",
+      "company": "BeachHead Inc.",
+      "title": "Sr. Angular Front End Engineer - Azure DevOps/Banking",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947169837",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947169919",
+      "source": "readme",
+      "company": "emergiTEL",
+      "title": "Sr DevOps Engg - AWS",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947169919",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947005935",
+      "source": "readme",
+      "company": "Amicis Global",
+      "title": "Sr Business Analyst - Toronto, ON (5 days on-site)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947005935",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sp%c3%a9cialiste-gestion-des-actifs-de-centres-de-donn%c3%a9es-at-bell-4485612534",
+      "source": "readme",
+      "company": "Bell",
+      "title": "Spécialiste, gestion des actifs de centres de données",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-gestion-des-actifs-de-centres-de-donn%C3%A9es-at-bell-4485612534",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947004184",
+      "source": "readme",
+      "company": "Innosystech Inc",
+      "title": "Software Developer - ERP / Case Management - Senior (PeopleSoft)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947004184",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947169040",
+      "source": "readme",
+      "company": "Manulife",
+      "title": "Senior Mulesoft Software Engineer",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5947169040",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947169656",
+      "source": "readme",
+      "company": "Cim",
+      "title": "Senior HR Workday Technology Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947169656",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-governance-risk-compliance-consultant-at-ontario-power-generation-4483482263",
+      "source": "readme",
+      "company": "Ontario Power Generation",
+      "title": "Senior Governance, Risk & Compliance Consultant",
+      "location": "Oshawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-governance-risk-compliance-consultant-at-ontario-power-generation-4483482263",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-gtm-systems-ai-and-automation-engineer-at-camunda-4465998775",
+      "source": "readme",
+      "company": "Camunda",
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-gtm-systems-ai-and-automation-engineer-at-camunda-4465998775",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947169821",
+      "source": "readme",
+      "company": "Randstad Digital",
+      "title": "Senior DevOps Engineer (Azure Infrastructure & Platform)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947169821",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-consultant-governance-risk-and-compliance-services-at-kpmg-canada-4365612676",
+      "source": "readme",
+      "company": "KPMG Canada",
+      "title": "Senior Consultant, Governance, Risk and Compliance Services",
+      "location": "Regina, Saskatchewan, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-governance-risk-and-compliance-services-at-kpmg-canada-4365612676",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sales-operations-manager-at-kinaxis-4477610183",
+      "source": "readme",
+      "company": "Kinaxis",
+      "title": "Sales Operations Manager",
+      "location": "Waterloo, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sales-operations-manager-at-kinaxis-4477610183",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5947004710",
+      "source": "readme",
+      "company": "CorGTA",
+      "title": "SAP SF EC Payroll Lead - 15 month contract - Fully Remote",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5947004710",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/quality-assurance-automation-developer-at-atb-financial-4482590474",
+      "source": "readme",
+      "company": "ATB Financial",
+      "title": "Quality Assurance Automation Developer",
+      "location": "Calgary, Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/quality-assurance-automation-developer-at-atb-financial-4482590474",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5946993489",
+      "source": "readme",
+      "company": "Infinity Solutions",
+      "title": "Peoplesoft techo-functional consultant",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5946993489",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -16725,6 +19803,111 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/itam-risk-process-and-operational-expert-at-axelon-services-corporation-4484523749",
+      "source": "readme",
+      "company": "Axelon Services Corporation",
+      "title": "ITAM Risk, Process and Operational Expert",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/itam-risk-process-and-operational-expert-at-axelon-services-corporation-4484523749",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5946008454",
+      "source": "readme",
+      "company": "Insight Global",
+      "title": "ITAM Governance Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5946008454",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/consultant--itam-transactions---compliance_2620855",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Consultant, ITAM Transactions & Compliance",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--ITAM-Transactions---Compliance_2620855",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-technical-lead-financial-services-cloud-at-avanciers-inc-4485233585",
+      "source": "readme",
+      "company": "Avanciers Inc.",
+      "title": "Salesforce Technical Lead - Financial Services Cloud",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-financial-services-cloud-at-avanciers-inc-4485233585",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-architect-1851-%24120-130hr-at-direct-it-recruiting-inc-4480718663",
+      "source": "readme",
+      "company": "Direct IT Recruiting Inc.",
+      "title": "Salesforce Architect (1851) $120-130hr",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-1851-%24120-130hr-at-direct-it-recruiting-inc-4480718663",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-application-supervisor-systems-supervisor-at-minnesota-direct-care-and-treatment-4483046222",
+      "source": "readme",
+      "company": "Minnesota Direct Care and Treatment",
+      "title": "Salesforce Application Supervisor - Systems Supervisor",
+      "location": "St.-Paul, New Brunswick, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-application-supervisor-systems-supervisor-at-minnesota-direct-care-and-treatment-4483046222",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/manager--salesforce-innovation---enablement_r260030015",
       "source": "workday",
       "company": "BMO",
@@ -17609,6 +20792,58 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "readme:newrocket.com/careers/job",
+      "source": "readme",
+      "company": "NewRocket",
+      "title": "ServiceNow Senior Software Engineer - ITAM",
+      "location": "Remote",
+      "url": "https://www.newrocket.com/careers/job?gh_jid=6237192004&gh_jid=6237192004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-devops-lead-at-j-m-group-4484718847",
+      "source": "readme",
+      "company": "J&amp;M Group",
+      "title": "Salesforce DevOps Lead",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-devops-lead-at-j-m-group-4484718847",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-architect-at-avanciers-inc-4443005718",
+      "source": "readme",
+      "company": "Avanciers Inc.",
+      "title": "Salesforce Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-at-avanciers-inc-4443005718",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -20541,6 +23776,23 @@
       ]
     },
     {
+      "id": "readme:careers.deloitte.ca/job/senior-manager%2c-servicenow-operate/135627-en_us",
+      "source": "readme",
+      "company": "Canada: Toronto primary; multiple Canadian cities; hybrid",
+      "title": "Senior Manager, ServiceNow - Operate (135627) - Deloitte Canada",
+      "location": "Permanent",
+      "url": "https://careers.deloitte.ca/job/Senior-Manager%2C-ServiceNow-Operate/135627-en_US",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-02T23:11:27.044Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "readme:caatpension.wd10.myworkdayjobs.com/careers/job/toronto-on/servicenow-technical-lead_jr100193-1",
       "source": "readme",
       "company": "Canada: Toronto; hybrid",
@@ -20615,23 +23867,6 @@
       "title": "Senior ServiceNow Developer (R129586) - Irving Oil",
       "location": "Full-time",
       "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_Primary/job/Saint-John/Senior-ServiceNow-Developer_R129586",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-21T12:00:00.000Z",
-      "scrapedAt": "2026-11-02T23:11:27.044Z",
-      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "readme:careers.deloitte.ca/job/senior-manager%2c-servicenow-operate/135627-en_us",
-      "source": "readme",
-      "company": "Canada: Toronto primary; multiple Canadian cities; hybrid",
-      "title": "Senior Manager, ServiceNow - Operate (135627) - Deloitte Canada",
-      "location": "Permanent",
-      "url": "https://careers.deloitte.ca/job/Senior-Manager%2C-ServiceNow-Operate/135627-en_US",
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-21T12:00:00.000Z",
@@ -21395,6 +24630,23 @@
       "tags": [
         "servicenow",
         "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:jobs.ashbyhq.com/lightspeedhq/a044bcfd-59a4-42f1-a7f0-a01f570051eb",
+      "source": "readme",
+      "company": "lightspeedhq",
+      "title": "ServiceNow Developer",
+      "location": "Remote in Canada",
+      "url": "https://jobs.ashbyhq.com/lightspeedhq/a044bcfd-59a4-42f1-a7f0-a01f570051eb",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -22582,6 +25834,23 @@
       "tags": [
         "servicenow",
         "itam"
+      ]
+    },
+    {
+      "id": "readme:jobs.lever.co/sait/64c37a3d-9377-4229-8d85-847c6eb5bed8",
+      "source": "readme",
+      "company": "SAIT",
+      "title": "Adjunct Instructor- Service Now Fundamentals- Corporate Delivery Opportunity Talent Pool",
+      "location": "Calgary, AB",
+      "url": "https://jobs.lever.co/sait/64c37a3d-9377-4229-8d85-847c6eb5bed8",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-13T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:46:04.451Z",
+      "excerpt": "via buffy-peerharvest--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
