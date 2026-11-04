@@ -22,6 +22,8 @@ import path from "path";
 import { fileURLToPath } from "url";
 import * as cheerio from "cheerio";
 
+import { carryExistingJobs } from "./lib/feed_carry.mjs";
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 
@@ -765,30 +767,27 @@ async function scanAdzuna() {
 // ---------------------------------------------------------------------------
 
 function loadExistingJobs() {
-  const candidates = [path.join(ROOT, "jobs.json")];
-  const merged = [];
-  for (const file of candidates) {
-    try {
-      const data = JSON.parse(fs.readFileSync(file, "utf8"));
-      const list = Array.isArray(data) ? data : Array.isArray(data.jobs) ? data.jobs : [];
-      for (const job of list) {
-        if (!job?.postedDate || !job?.url || !job?.title) continue;
-        const ageDays = (NOW - new Date(job.postedDate)) / 864e5;
-        if (!Number.isFinite(ageDays) || ageDays > MAX_AGE_DAYS) continue;
-        // Drop generic career-homepage entries carried over from older scrapes.
-        if (/^careers?$|^job openings$|^open positions$/i.test(job.title.trim())) continue;
-        if (!job.tags || job.tags.length === 0) {
-          const tags = matchTags(job.title);
-          if (tags.length === 0) continue;
-          job.tags = tags;
-        }
-        merged.push(job);
-      }
-    } catch {
-      /* no existing cache */
-    }
+  const rows = [];
+  try {
+    const data = JSON.parse(fs.readFileSync(path.join(ROOT, "jobs.json"), "utf8"));
+    const list = Array.isArray(data) ? data : Array.isArray(data.jobs) ? data.jobs : [];
+    rows.push(...list);
+  } catch {
+    /* no existing cache */
   }
-  return merged;
+  // Keyword tags gate what a scrape may add, never what already-published rows
+  // may keep — see scripts/lib/feed_carry.mjs for the 2026-11-04 loss this fixes.
+  const { jobs, dropped } = carryExistingJobs(rows, {
+    now: NOW,
+    maxAgeDays: MAX_AGE_DAYS,
+    matchTags,
+  });
+  if (dropped.invalid || dropped.stale || dropped.generic) {
+    console.log(
+      `[scan] carried-prune invalid=${dropped.invalid} stale=${dropped.stale} generic=${dropped.generic}`,
+    );
+  }
+  return jobs;
 }
 
 function dedupeJobs(jobs) {
