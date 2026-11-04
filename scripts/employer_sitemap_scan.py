@@ -128,7 +128,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=30, help="keep postings newer than N days")
     ap.add_argument("--apply", action="store_true")
-    ap.add_argument("--max-per-table", type=int, default=150)
+    ap.add_argument("--max-per-table", type=int, default=400)
     ap.add_argument("--all-locations", action="store_true", help="keep non-Canadian rows too")
     args = ap.parse_args()
 
