@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-04T16:46:04+00:00",
+ "generatedAt": "2026-11-04T16:50:17+00:00",
  "timezone": "America/Toronto",
- "count": 1237,
+ "count": 1286,
  "appliedHidden": 26,
  "sources": [
   "103.careerplug.com",
@@ -28,6 +28,7 @@
   "ats.rippling.com",
   "basecareer.co",
   "bluemantis.pinpointhq.com",
+  "brex.com",
   "bridgingthegap.nexxt.com",
   "brightvisiontechnologies.applytojob.com",
   "ca.expertini.com",
@@ -111,6 +112,7 @@
   "jobstore.com",
   "kitjob.ca",
   "maplestack.ca",
+  "mongodb.com",
   "mymiltonontario.ca",
   "newrocket.com",
   "nortonrosefulbright.com",
@@ -490,20 +492,71 @@
    "title": "Salesforce Product Owner",
    "company": "Jobgether",
    "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-jobgether-4486345433",
-   "note": "linkedin",
+   "url": "https://jobs.lever.co/jobgether/21e87319-889e-4c0b-bfff-d889f5edb354",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "Lever",
+   "verified": "Employer board",
    "match": 48,
    "matchReasons": [
     "Salesforce",
     "Canada / remote"
    ],
    "french": false,
-   "search": "salesforce product owner jobgether canada linkedin salesforce linkedin salesforce canada / remote",
+   "search": "salesforce product owner jobgether canada lever salesforce via buffy-scan60d--2026-11-04--v1.md salesforce canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-jobgether-4486345433",
+     "label": "LinkedIn · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Data Analyst – Center of Excellence & Data Analytics",
+   "company": "Canadian Tire",
+   "location": "Toronto, ON",
+   "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Analyst---Center-of-Excellence---Data-Analytics_JR163585-1",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data analyst – center of excellence & data analytics canadian tire toronto, on workday ats other readme role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Product Owner - Product management",
+   "company": "Desjardins",
+   "location": "Montréal",
+   "url": "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Responsable-de-produit--Plateforme-Azure_R2610067-1",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 4,
+   "matchReasons": [
+    "Quebec"
+   ],
+   "french": false,
+   "search": "product owner - product management desjardins montreal workday ats other readme quebec",
+   "alternates": [
+    {
+     "source": "Workday ATS",
+     "url": "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Responsable-de-produit--Donnes-et-analytique-financire_R2612972-1",
+     "label": "Workday ATS · Montréal"
+    }
+   ]
   },
   {
    "posted": "2026-11-03",
@@ -4320,13 +4373,13 @@
    "posted": "2026-11-03",
    "title": "Senior Salesforce Developer",
    "company": "Docebo",
-   "location": "Toronto, ON",
-   "url": "https://builtin.com/job/senior-salesforce-developer/11997811",
-   "note": "builtin",
+   "location": "Toronto, Ontario",
+   "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
+   "source": "Ashby",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -4334,8 +4387,13 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior salesforce developer docebo toronto, on builtin salesforce builtin salesforce role fit toronto area",
+   "search": "senior salesforce developer docebo toronto, ontario ashby salesforce via buffy-scan60d--2026-11-04--v1.md salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "BuiltIn",
+     "url": "https://builtin.com/job/senior-salesforce-developer/11997811",
+     "label": "BuiltIn · Toronto"
+    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5948997248",
@@ -6328,6 +6386,33 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Business Analyst Co-op (Winter 2027)",
+   "company": "CIBC",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Business-Analyst-Co-op--Winter-2027-_2622741-1",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business analyst co-op (winter 2027) cibc toronto, on workday ats other readme consulting/ba role fit toronto area",
+   "alternates": [
+    {
+     "source": "Workday ATS",
+     "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Business-Analyst-co-op_2622052-1",
+     "label": "Workday ATS · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-03",
    "title": "ServiceNow Practice Pre-Sales Consultant",
    "company": "Compugen Inc.",
    "location": "Toronto, ON",
@@ -6489,6 +6574,66 @@
    ],
    "french": false,
    "search": "data analyst artemis aurora, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "T&O Senior Data Analyst, Financial Data",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/T-O-Senior-Data-Analyst---Financial-Data_R260030331",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "t&o senior data analyst, financial data bmo toronto, on, can workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Sr. Business Systems Analyst (Nodejs, Java and E-signature Platforms)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Sr-Business-Systems-Analyst--Nodejs--Java-and-E-signature-Platforms-_R_1501989",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. business systems analyst (nodejs, java and e-signature platforms) td bank toronto, ontario workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "(C) Project Manager",
+   "company": "MLSE",
+   "location": "Toronto, Ontario",
+   "url": "https://mlse.wd3.myworkdayjobs.com/en-US/MLSE/job/Toronto-Ontario/XMLNAME--C--Project-Manager_JR0000926-1",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "(c) project manager mlse toronto, ontario workday ats other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -6957,6 +7102,44 @@
    ],
    "french": false,
    "search": "senior db2 dba bmo toronto, on, can workday ats other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Sr. Data Scientist, Fraud Analytics",
+   "company": "CIBC",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Sr-Data-Scientist--Fraud-Analytics_2622550",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. data scientist, fraud analytics cibc toronto, on workday ats other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Product Owner - Agentic",
+   "company": "CIBC",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Product-Owner---Agentic_2622389-1",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "product owner - agentic cibc toronto, on workday ats other readme toronto area",
    "alternates": []
   },
   {
@@ -7796,6 +7979,11 @@
    "search": "salesforce field service (fsl) developer (r1321882) danaher concord, ontario; full time; employer workday canapply=true workday ats salesforce readme salesforce role fit toronto area",
    "alternates": [
     {
+     "source": "Workday ATS",
+     "url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Concord-Ontario-Canada/Salesforce-Field-Service--FSL--Developer_R1321882",
+     "label": "Workday ATS · Concord"
+    },
+    {
      "source": "roleweek.com",
      "url": "https://roleweek.com/job/salesforce-field-service-fsl-developer-danaher-toronto-f1706185/",
      "label": "roleweek.com · Concord"
@@ -8299,13 +8487,13 @@
    "posted": "2026-11-02",
    "title": "Salesforce Consultants (remote Canada )",
    "company": "Ensiti",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5950539606?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
+   "location": "Montréal, QC, ca",
+   "url": "https://jobs.smartrecruiters.com/ensiti/744000153546595",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
    "match": 52,
    "matchReasons": [
     "Salesforce",
@@ -8313,8 +8501,14 @@
     "Quebec"
    ],
    "french": false,
-   "search": "salesforce consultants (remote canada ) ensiti montreal, quebec adzuna salesforce adzuna salesforce role fit quebec",
-   "alternates": []
+   "search": "salesforce consultants (remote canada ) ensiti montreal, qc, ca smartrecruiters salesforce via buffy-scan60d--2026-11-04--v1.md salesforce role fit quebec",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5950539606?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Montréal"
+    }
+   ]
   },
   {
    "posted": "2026-11-02",
@@ -8461,6 +8655,27 @@
    ],
    "french": false,
    "search": "senior integration developer york university toronto, on linkedin other readme integration role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior Manager, Data Engineer, Applied AI Data Ingestion & Integration",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Lead-Data-Engineer--Applied-AI-Data-Ingestion---Integration_R260022306",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 38,
+   "matchReasons": [
+    "Integration",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior manager, data engineer, applied ai data ingestion & integration bmo toronto, on, can workday ats other readme integration role fit toronto area",
    "alternates": []
   },
   {
@@ -8671,6 +8886,27 @@
    ],
    "french": false,
    "search": "ai gtm and automation specialist maplesoft waterloo, ontario, canada linkedin other readme automation role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Business Analyst, Operational Excellence (Workday HCM & Security)",
+   "company": "Salvation Army Canada",
+   "location": "Toronto, ON",
+   "url": "https://salvationarmyca.wd3.myworkdayjobs.com/en-US/TSACB/job/Toronto-ON/Business-Analyst--Operational-Excellence--Workday-HCM---Security-_JR115123",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business analyst, operational excellence (workday hcm & security) salvation army canada toronto, on workday ats other readme consulting/ba role fit toronto area",
    "alternates": []
   },
   {
@@ -9384,6 +9620,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Business Systems Analyst III",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-III_R_1513928-1",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business systems analyst iii td bank toronto, ontario workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "React Native - Mobile Full Stack Developer",
    "company": "Zoho",
    "location": "Toronto, Ontario, Canada",
@@ -9407,6 +9663,26 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Technical Business Analyst",
+   "company": "BMO",
+   "location": "Calgary, AB, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/Technical-Business-Analyst_R260021226",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 18,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "technical business analyst bmo calgary, ab, can workday ats other readme consulting/ba role fit",
+   "alternates": []
   },
   {
    "posted": "2026-11-02",
@@ -10964,13 +11240,13 @@
    "posted": "2026-11-01",
    "title": "Senior Business Analyst, Loan Servicing Technology",
    "company": "BMO",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949972415",
-   "note": "readme",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Business-Analyst--Loan-Servicing-Technology_R260029892",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
    "family": "other",
    "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "Workday ATS",
+   "verified": "Employer board",
    "match": 30,
    "matchReasons": [
     "Consulting/BA",
@@ -10978,8 +11254,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior business analyst, loan servicing technology bmo toronto, ontario adzuna other readme consulting/ba role fit toronto area",
-   "alternates": []
+   "search": "senior business analyst, loan servicing technology bmo toronto, on, can workday ats other via buffy-scan60d--2026-11-04--v1.md consulting/ba role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5949972415",
+     "label": "Adzuna · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-01",
@@ -14275,14 +14557,14 @@
   {
    "posted": "2026-10-31",
    "title": "Senior Business Analyst",
-   "company": "Klick Health",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948018024",
+   "company": "Klick",
+   "location": "Toronto, Ontario, ca",
+   "url": "https://jobs.smartrecruiters.com/klick1/744000158832490",
    "note": "readme",
    "family": "other",
    "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
    "match": 30,
    "matchReasons": [
     "Consulting/BA",
@@ -14290,8 +14572,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior business analyst klick health toronto, ontario adzuna other readme consulting/ba role fit toronto area",
-   "alternates": []
+   "search": "senior business analyst klick toronto, ontario, ca smartrecruiters other readme consulting/ba role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5948018024",
+     "label": "Adzuna · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-10-31",
@@ -14487,12 +14775,12 @@
    "title": "Senior Audit Manager, (Business Intelligence & Analytics)",
    "company": "TD Bank",
    "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5947778854?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Audit-Manager---Business-Intelligence---Analytics-_R_1509570",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
    "family": "other",
    "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "Workday ATS",
+   "verified": "Employer board",
    "match": 30,
    "matchReasons": [
     "Controls/ACL",
@@ -14500,8 +14788,13 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior audit manager, (business intelligence & analytics) td bank toronto, ontario adzuna other adzuna controls/acl role fit toronto area",
+   "search": "senior audit manager, (business intelligence & analytics) td bank toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v1.md controls/acl role fit toronto area",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5947778854?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5947851342?utm_medium=api&utm_source=54ce986e",
@@ -14514,12 +14807,12 @@
    "title": "Audit Manager II ( Business Intelligence Engineering)",
    "company": "TD Bank",
    "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5947778866?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Audit-Manager-II---Business-Intelligence-Engineering-_R_1509564",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
    "family": "other",
    "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "Workday ATS",
+   "verified": "Employer board",
    "match": 30,
    "matchReasons": [
     "Controls/ACL",
@@ -14527,8 +14820,13 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "audit manager ii ( business intelligence engineering) td bank toronto, ontario adzuna other adzuna controls/acl role fit toronto area",
+   "search": "audit manager ii ( business intelligence engineering) td bank toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v1.md controls/acl role fit toronto area",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5947778866?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5947825122?utm_medium=api&utm_source=54ce986e",
@@ -18141,6 +18439,27 @@
   },
   {
    "posted": "2026-10-30",
+   "title": "Business Analyst",
+   "company": "Manulife",
+   "location": "CAN, Quebec, Montreal, 900 Boulevard de Maisonneuve Ouest",
+   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/CAN-Quebec-Montreal-900-Boulevard-de-Maisonneuve-Ouest/Business-Analyst_JR26100201-2",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 22,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "business analyst manulife can, quebec, montreal, 900 boulevard de maisonneuve ouest workday ats other readme consulting/ba role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-30",
    "title": "Devops Engineer",
    "company": "hireVouch",
    "location": "Toronto, Ontario",
@@ -18536,6 +18855,25 @@
    ],
    "french": false,
    "search": "sr devops engg - aws emergitel toronto, ontario adzuna other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Senior Data Scientist, Predictive Modelling",
+   "company": "Canadian Tire",
+   "location": "Toronto, ON",
+   "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/Senior-Data-Scientist--Predictive-Modelling_JR166754",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior data scientist, predictive modelling canadian tire toronto, on workday ats other readme toronto area",
    "alternates": []
   },
   {
@@ -20860,6 +21198,110 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Workday Business Analyst",
+   "company": "TMX Group",
+   "location": "Toronto - 100 Adelaide St W",
+   "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Workday-Business-Analyst_R-6057",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "workday business analyst tmx group toronto - 100 adelaide st w workday ats other readme consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Senior Business Intelligence Business Analyst",
+   "company": "TMX Group",
+   "location": "Toronto - 100 Adelaide St W",
+   "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Senior-Business-Intelligence-Business-Analyst_R-6055",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior business intelligence business analyst tmx group toronto - 100 adelaide st w workday ats other readme consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Data Business Analyst Lead",
+   "company": "BMO",
+   "location": "REMOTE/TELETRAVAIL, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/REMOTETELETRAVAIL-ON-CAN/Data-Business-Analyst-Lead_R260030150",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 26,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "data business analyst lead bmo remote/teletravail, on, can workday ats other readme consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Python Analyst/Programmer",
+   "company": "TMX Group",
+   "location": "Montreal - 1190 av. des Canadiens-de-Montreal",
+   "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Python-Analyst-Programmer_R-6475",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 24,
+   "matchReasons": [
+    "Data/reporting",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "python analyst/programmer tmx group montreal - 1190 av. des canadiens-de-montreal workday ats other readme data/reporting role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Sr. Business Systems Analyst Specialist, TD Securities",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Sr-Business-Systems-Analyst-Specialist--TD-Securities_R_1513631",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. business systems analyst specialist, td securities td bank toronto, ontario workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "Forward Deployed Engineer, AI & Agentforce NeuraFlash Middle just now",
    "company": "Remote Genie",
    "location": "Canada",
@@ -20876,6 +21318,25 @@
    ],
    "french": false,
    "search": "forward deployed engineer, ai & agentforce neuraflash middle just now remote genie canada adzuna other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Product Owner",
+   "company": "TMX Group",
+   "location": "Toronto - 100 Adelaide St W",
+   "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Product-Owner_R-6497",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "product owner tmx group toronto - 100 adelaide st w workday ats other readme toronto area",
    "alternates": []
   },
   {
@@ -20966,14 +21427,14 @@
   {
    "posted": "2026-10-28",
    "title": "ServiceNow Engagement Manager",
-   "company": "RSM Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-engagement-manager-at-rsm-canada-4457195669",
+   "company": "RSM",
+   "location": "Toronto",
+   "url": "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Toronto/ServiceNow-Engagement-Manager_JR120860",
    "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "Workday ATS",
+   "verified": "Employer board",
    "match": 88,
    "matchReasons": [
     "ServiceNow",
@@ -20981,8 +21442,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "servicenow engagement manager rsm canada toronto, ontario, canada linkedin servicenow readme servicenow role fit toronto area",
-   "alternates": []
+   "search": "servicenow engagement manager rsm toronto workday ats servicenow readme servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-engagement-manager-at-rsm-canada-4457195669",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-10-28",
@@ -21586,21 +22053,27 @@
    "posted": "2026-10-28",
    "title": "Salesforce Product Owner",
    "company": "Docebo",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-docebo-4457011687",
-   "note": "readme",
+   "location": "Toronto, Ontario",
+   "url": "https://jobs.ashbyhq.com/docebo/6c6ced29-4d69-4e93-b808-e6aea83d87f3",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "Ashby",
+   "verified": "Employer board",
    "match": 52,
    "matchReasons": [
     "Salesforce",
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce product owner docebo toronto, ontario, canada linkedin salesforce readme salesforce toronto area",
-   "alternates": []
+   "search": "salesforce product owner docebo toronto, ontario ashby salesforce via buffy-scan60d--2026-11-04--v1.md salesforce toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-docebo-4457011687",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-10-28",
@@ -21789,6 +22262,25 @@
    ],
    "french": false,
    "search": "ncino tech lead j&m group toronto, ontario, canada linkedin salesforce readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "Business Systems Analyst",
+   "company": "SAIT",
+   "location": "Calgary, AB",
+   "url": "https://jobs.lever.co/sait/5845fffb-048f-4e65-9077-9f81082b3b17",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "business systems analyst sait calgary, ab lever other readme role fit",
    "alternates": []
   },
   {
@@ -22409,6 +22901,68 @@
   },
   {
    "posted": "2026-10-27",
+   "title": "Senior Business Analyst - Enterprise Data Management Office (EDMO)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Business-Analyst---Enterprise-Data-Management-Office--EDMO-_R_1513235",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior business analyst - enterprise data management office (edmo) td bank toronto, ontario workday ats other readme consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-27",
+   "title": "Business Analyst III",
+   "company": "Moneris",
+   "location": "Toronto",
+   "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Business-Analyst-III_JR106083",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business analyst iii moneris toronto workday ats other readme consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-27",
+   "title": "Data Analyst co-op",
+   "company": "CIBC",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Data-Analyst-co-op_2622122-1",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data analyst co-op cibc toronto, on workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-27",
    "title": "SFDC Omnistudio Developer",
    "company": "Cloudious LLC",
    "location": "Canada",
@@ -22764,6 +23318,85 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "Data Scientist, Model Performance Monitoring and Reporting",
+   "company": "CIBC",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Data-Scientist--Model-Performance-Monitoring-and-Reporting_2621552",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 24,
+   "matchReasons": [
+    "AIOps",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data scientist, model performance monitoring and reporting cibc toronto, on workday ats other readme aiops toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "Technology Senior Business System Analyst -Insurance",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Business-System-Analyst--Insurance---Technology-_R260027490",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "technology senior business system analyst -insurance bmo toronto, on, can workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "Business Systems Analyst Co-op (Winter 2027), Enterprise Technology & Business Management",
+   "company": "CIBC",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Business-Systems-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621526",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business systems analyst co-op (winter 2027), enterprise technology & business management cibc toronto, on workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "Product Owner, AI & AWS Delivery",
+   "company": "NeuraFlash, Part of Accenture",
+   "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6235251004",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "product owner, ai & aws delivery neuraflash, part of accenture remote - canada (alberta, british columbia, ontario only) greenhouse other readme toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-10-25",
@@ -24031,6 +24664,26 @@
   },
   {
    "posted": "2026-10-22",
+   "title": "Sr. Business Systems Analyst, TD Securities",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Sr-Business-Systems-Analyst--TD-Securities_R_1509315",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. business systems analyst, td securities td bank toronto, ontario workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-22",
    "title": "Functional Lead, AI & Agentforce Delivery",
    "company": "NeuraFlash",
    "location": "Canada",
@@ -24733,6 +25386,26 @@
   },
   {
    "posted": "2026-10-21",
+   "title": "Senior Business Systems Analyst",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Business-Systems-Analyst_R260028494",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior business systems analyst bmo toronto, on, can workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-21",
    "title": "cloud developer",
    "company": "Employment, Social Development Canada",
    "location": "Toronto, ON",
@@ -25025,12 +25698,12 @@
    "title": "Engineering Manager, Salesforce",
    "company": "Brex",
    "location": "Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/engineering-manager-salesforce-at-brex-4481791568",
-   "note": "readme",
+   "url": "https://www.brex.com/careers/8904121002?gh_jid=8904121002",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "brex.com",
+   "verified": "Employer board",
    "match": 56,
    "matchReasons": [
     "Salesforce",
@@ -25038,7 +25711,73 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "engineering manager, salesforce brex vancouver, british columbia, canada linkedin salesforce readme salesforce role fit canada / remote",
+   "search": "engineering manager, salesforce brex vancouver, british columbia, canada brex.com salesforce via buffy-scan60d--2026-11-04--v1.md salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/engineering-manager-salesforce-at-brex-4481791568",
+     "label": "LinkedIn · Vancouver"
+    }
+   ]
+  },
+  {
+   "posted": "2026-10-20",
+   "title": "Senior Business Intelligence Analyst (Workday Reporting)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Business-Intelligence-Analyst_R_1517005",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior business intelligence analyst (workday reporting) td bank toronto, ontario workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-20",
+   "title": "Senior Analyst, Business Intelligence (12 month Contract)",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Senior-Analyst--Business-Intelligence--12-month-Contract-_JR0154225",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior analyst, business intelligence (12 month contract) mckesson can, on, mississauga workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-20",
+   "title": "Analyste principal(e) en intelligence d’affaires/ Senior Analyst, Business Intelligence (contrat 12 mois)",
+   "company": "McKesson",
+   "location": "CAN, QC, Montreal, Ville Saint-Laurent",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Analyste-principal-e--en-intelligence-d-affaires--Senior-Analyst--Business-Intelligence--contrat-12-mois-_JR0155967",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "analyste principal(e) en intelligence d’affaires/ senior analyst, business intelligence (contrat 12 mois) mckesson can, qc, montreal, ville saint-laurent workday ats other readme role fit quebec",
    "alternates": []
   },
   {
@@ -25143,6 +25882,87 @@
    ],
    "french": false,
    "search": "product developer, salesforce neuraflash remote - india (bangalore, hyderabad, pune or delhi only) greenhouse salesforce greenhouse salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-19",
+   "title": "Senior Business Analyst, Portfolio Servicing Platform (12-Month Contract)",
+   "company": "OMERS",
+   "location": "Toronto, Ontario",
+   "url": "https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/job/Toronto-Ontario/Senior-Business-Analyst--Portfolio-Servicing-Platform--12-Month-Contract-_JR-8519",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior business analyst, portfolio servicing platform (12-month contract) omers toronto, ontario workday ats other readme consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-19",
+   "title": "Test/QA Analyst Co-op (Winter 2027), Enterprise Technology & Business Management",
+   "company": "CIBC",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Test-QA-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621525-1",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "test/qa analyst co-op (winter 2027), enterprise technology & business management cibc toronto, on workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-19",
+   "title": "Business Systems Analyst Co-op (Winter 2027), Capital Markets Technology",
+   "company": "CIBC",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Business-Systems-Analyst-Co-op--Winter-2027---Capital-Markets-Technology_2621522-1",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business systems analyst co-op (winter 2027), capital markets technology cibc toronto, on workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-19",
+   "title": "Data Analyst",
+   "company": "Canadian Tire",
+   "location": "Laval, QC",
+   "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "data analyst canadian tire laval, qc workday ats other readme role fit quebec",
    "alternates": []
   },
   {
@@ -25567,6 +26387,46 @@
    "alternates": []
   },
   {
+   "posted": "2026-10-16",
+   "title": "Analyst, Data Scientist",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Analyst--Data-Scientist_R260026946",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "analyst, data scientist bmo toronto, on, can workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-16",
+   "title": "Analyste des systèmes d’affaires, Solutions de transport/Business Systems Analyst, Transportation Solutions",
+   "company": "McKesson",
+   "location": "CAN, QC, Montreal, Ville Saint-Laurent",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Analyste-des-systmes-d-affaires-Business-Systems-Analyst_JR0151840",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "analyste des systemes d’affaires, solutions de transport/business systems analyst, transportation solutions mckesson can, qc, montreal, ville saint-laurent workday ats other readme role fit quebec",
+   "alternates": []
+  },
+  {
    "posted": "2026-10-15",
    "title": "Senior Advisor - Cap Epic Connect (ServiceNow/ITIL asset; soft)",
    "company": "Trillium Health Partners",
@@ -25708,6 +26568,66 @@
    ],
    "french": false,
    "search": "salesforce consultant, revenue cloud neuraflash remote - india (delhi/ncr, hyderabad, bangalore, pune, jaipur only) greenhouse salesforce greenhouse salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-15",
+   "title": "Sr. Business Systems Analyst I",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Sr-Business-Systems-Analyst-I_R_1516269",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. business systems analyst i td bank toronto, ontario workday ats other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-15",
+   "title": "Project Manager",
+   "company": "TELUS Digital",
+   "location": "Remote, Manitoba",
+   "url": "https://jobs.ashbyhq.com/telus-digital/14c039f3-fc72-4693-b21d-787cd77b3b6d",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Ashby",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "project manager telus digital remote, manitoba ashby other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-15",
+   "title": "Gestionnaire de projets, Finance / Finance Project Manager, Pricing",
+   "company": "McKesson",
+   "location": "CAN, QC, Montreal, Ville Saint-Laurent",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Gestionnaire-de-projets--Finance---Finance-Project-Manager--Pricing_JR0150081",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "gestionnaire de projets, finance / finance project manager, pricing mckesson can, qc, montreal, ville saint-laurent workday ats other readme role fit quebec",
    "alternates": []
   },
   {
@@ -25908,6 +26828,27 @@
    "alternates": []
   },
   {
+   "posted": "2026-10-14",
+   "title": "JR-8304 Business Analyst, Program Management and Delivery",
+   "company": "OMERS",
+   "location": "Toronto, Ontario",
+   "url": "https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/job/Toronto-Ontario/JR-8304-Business-Analyst--Program-Management-and-Delivery_JR-8296",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "jr-8304 business analyst, program management and delivery omers toronto, ontario workday ats other readme consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
    "posted": "2026-10-13",
    "title": "Sr BSA ServiceNow ITAM (contract $55–67/hr)",
    "company": "Apex Systems",
@@ -26070,6 +27011,26 @@
    ],
    "french": false,
    "search": "salesforce administrator - christian reformed church in north america canada: canada or usa; remote full-time, 36 hours/week crcna.pinpointhq.com salesforce readme salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-13",
+   "title": "Senior Project Manager",
+   "company": "Klick",
+   "location": "Toronto, Ontario, ca",
+   "url": "https://jobs.smartrecruiters.com/klick1/744000155329990",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior project manager klick toronto, ontario, ca smartrecruiters other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -26410,6 +27371,26 @@
    "alternates": []
   },
   {
+   "posted": "2026-10-08",
+   "title": "AWS Project Manager",
+   "company": "NeuraFlash, Part of Accenture",
+   "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220772004",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "aws project manager neuraflash, part of accenture remote - canada (alberta, british columbia, ontario only) greenhouse other readme role fit toronto area",
+   "alternates": []
+  },
+  {
    "posted": "2026-10-07",
    "title": "Migration Consultant (Salesforce/ServiceNow data)",
    "company": "Slalom",
@@ -26643,6 +27624,25 @@
    "alternates": []
   },
   {
+   "posted": "2026-10-06",
+   "title": "Senior Project Manager - Professional Services",
+   "company": "MongoDB",
+   "location": "Vancouver",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8213748",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "mongodb.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior project manager - professional services mongodb vancouver mongodb.com other readme role fit",
+   "alternates": []
+  },
+  {
    "posted": "2026-10-05",
    "title": "Quality Engineering, Senior Specialist (ServiceNow Platform)",
    "company": "Interac",
@@ -26822,6 +27822,27 @@
    ]
   },
   {
+   "posted": "2026-10-02",
+   "title": "Business Analyst",
+   "company": "SiteTracker",
+   "location": "Toronto",
+   "url": "https://jobs.lever.co/sitetracker/bdb64fc3-6a0b-48e9-9c23-e1f1e4bb342e",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business analyst sitetracker toronto lever other via buffy-scan60d--2026-11-04--v1.md consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
    "posted": "2026-10-01",
    "title": "Salesforce Data Architect, Revenue Solutions",
    "company": "NeuraFlash",
@@ -26841,6 +27862,46 @@
    "french": false,
    "search": "salesforce data architect, revenue solutions neuraflash remote - united states greenhouse salesforce greenhouse salesforce role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-09-28",
+   "title": "Project Manager, Leger Opinion",
+   "company": "Leger",
+   "location": "Vancouver, British Columbia, ca",
+   "url": "https://jobs.smartrecruiters.com/leger2/744000152255439",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "project manager, leger opinion leger vancouver, british columbia, ca smartrecruiters other via buffy-scan60d--2026-11-04--v1.md role fit",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/leger2/744000152255889",
+     "label": "SmartRecruiters · Winnipeg"
+    },
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/leger2/744000152254769",
+     "label": "SmartRecruiters · Edmonton"
+    },
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/leger2/744000152255109",
+     "label": "SmartRecruiters · Calgary"
+    },
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/leger2/744000152254318",
+     "label": "SmartRecruiters · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-09-25",
@@ -26966,6 +28027,26 @@
    ],
    "french": false,
    "search": "senior research engineer/scientist servicenow montreal, quebec, ca smartrecruiters servicenow smartrecruiters servicenow role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-09-21",
+   "title": "Project Manager, Digital & Enterprise Solutions",
+   "company": "Spectrum Health",
+   "location": "Toronto, ON, ca",
+   "url": "https://jobs.smartrecruiters.com/spectrumhealthcare/744000150720884",
+   "note": "via buffy-scan60d--2026-11-04--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "project manager, digital & enterprise solutions spectrum health toronto, on, ca smartrecruiters other via buffy-scan60d--2026-11-04--v1.md role fit toronto area",
    "alternates": []
   }
  ]

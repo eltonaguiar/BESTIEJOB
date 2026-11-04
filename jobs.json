@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-04T11:24:28.398Z",
     "generatedAt": "2026-11-04T11:24:28.398Z",
-    "total": 1483,
+    "total": 1533,
     "newThisScan": 749,
     "retainedFromPrevious": 542,
     "sources": {
@@ -37,6 +37,40 @@
     }
   },
   "jobs": [
+    {
+      "id": "readme:desjardins.wd10.myworkdayjobs.com/en-us/desjardins/job/montral/responsable-de-produit--plateforme-azure_r2610067-1",
+      "source": "readme",
+      "company": "Desjardins",
+      "title": "Product Owner - Product  management",
+      "location": "Montréal",
+      "url": "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Responsable-de-produit--Plateforme-Azure_R2610067-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:canadiantirecorporation.wd3.myworkdayjobs.com/en-us/enterprise_external_careers_site/job/toronto-on/data-analyst---center-of-excellence---data-analytics_jr163585-1",
+      "source": "readme",
+      "company": "Canadian Tire",
+      "title": "Data Analyst – Center of Excellence & Data Analytics",
+      "location": "Toronto, ON",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Analyst---Center-of-Excellence---Data-Analytics_JR163585-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
     {
       "id": "adzuna:adzuna.ca/details/5952816248",
       "source": "adzuna",
@@ -737,6 +771,108 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/t-o-senior-data-analyst---financial-data_r260030331",
+      "source": "readme",
+      "company": "BMO",
+      "title": "T&O Senior Data Analyst,  Financial Data",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/T-O-Senior-Data-Analyst---Financial-Data_R260030331",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/sr-data-scientist--fraud-analytics_2622550",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Sr. Data Scientist, Fraud Analytics",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Sr-Data-Scientist--Fraud-Analytics_2622550",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/sr-business-systems-analyst--nodejs--java-and-e-signature-platforms-_r_1501989",
+      "source": "readme",
+      "company": "TD Bank",
+      "title": "Sr. Business Systems Analyst (Nodejs, Java and E-signature Platforms)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Sr-Business-Systems-Analyst--Nodejs--Java-and-E-signature-Platforms-_R_1501989",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/product-owner---agentic_2622389-1",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Product Owner - Agentic",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Product-Owner---Agentic_2622389-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/business-analyst-co-op--winter-2027-_2622741-1",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Business Analyst Co-op (Winter 2027)",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Business-Analyst-Co-op--Winter-2027-_2622741-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:mlse.wd3.myworkdayjobs.com/en-us/mlse/job/toronto-ontario/xmlname--c--project-manager_jr0000926-1",
+      "source": "readme",
+      "company": "MLSE",
+      "title": "(C) Project Manager",
+      "location": "Toronto, Ontario",
+      "url": "https://mlse.wd3.myworkdayjobs.com/en-US/MLSE/job/Toronto-Ontario/XMLNAME--C--Project-Manager_JR0000926-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -8084,6 +8220,74 @@
       "postedDate": "2026-11-02T12:00:00.000Z",
       "scrapedAt": "2026-11-04T16:46:04.451Z",
       "excerpt": "via copilot-20rounds--2026-11-03--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:bmo.wd3.myworkdayjobs.com/en-us/external/job/calgary-ab-can/technical-business-analyst_r260021226",
+      "source": "readme",
+      "company": "BMO",
+      "title": "Technical Business Analyst",
+      "location": "Calgary, AB, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/Technical-Business-Analyst_R260021226",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/lead-data-engineer--applied-ai-data-ingestion---integration_r260022306",
+      "source": "readme",
+      "company": "BMO",
+      "title": "Senior Manager, Data Engineer, Applied AI Data Ingestion & Integration",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Lead-Data-Engineer--Applied-AI-Data-Ingestion---Integration_R260022306",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/business-systems-analyst-iii_r_1513928-1",
+      "source": "readme",
+      "company": "TD Bank",
+      "title": "Business Systems Analyst III",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-III_R_1513928-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:salvationarmyca.wd3.myworkdayjobs.com/en-us/tsacb/job/toronto-on/business-analyst--operational-excellence--workday-hcm---security-_jr115123",
+      "source": "readme",
+      "company": "Salvation Army Canada",
+      "title": "Business Analyst, Operational Excellence (Workday HCM & Security)",
+      "location": "Toronto, ON",
+      "url": "https://salvationarmyca.wd3.myworkdayjobs.com/en-US/TSACB/job/Toronto-ON/Business-Analyst--Operational-Excellence--Workday-HCM---Security-_JR115123",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -17252,6 +17456,57 @@
       ]
     },
     {
+      "id": "readme:canadiantirecorporation.wd3.myworkdayjobs.com/en-us/enterprise_external_careers_site/job/toronto-on/senior-data-scientist--predictive-modelling_jr166754",
+      "source": "readme",
+      "company": "Canadian Tire",
+      "title": "Senior Data Scientist, Predictive Modelling",
+      "location": "Toronto, ON",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/Senior-Data-Scientist--Predictive-Modelling_JR166754",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:jobs.smartrecruiters.com/klick1/744000158832490",
+      "source": "readme",
+      "company": "Klick",
+      "title": "Senior Business Analyst",
+      "location": "Toronto, Ontario, ca",
+      "url": "https://jobs.smartrecruiters.com/klick1/744000158832490",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:manulife.wd3.myworkdayjobs.com/en-us/mfcjh_jobs/job/can-quebec-montreal-900-boulevard-de-maisonneuve-ouest/business-analyst_jr26100201-2",
+      "source": "readme",
+      "company": "Manulife",
+      "title": "Business Analyst",
+      "location": "CAN, Quebec, Montreal, 900 Boulevard de Maisonneuve Ouest",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/CAN-Quebec-Montreal-900-Boulevard-de-Maisonneuve-Ouest/Business-Analyst_JR26100201-2",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "workday:altusgroup.wd3.myworkdayjobs.com/en-us/altusgroup/job/toronto-ontario/salesforce-platform-developer_r0014087",
       "source": "workday",
       "company": "Altus Group",
@@ -19908,6 +20163,108 @@
       ]
     },
     {
+      "id": "readme:tmx.wd3.myworkdayjobs.com/en-us/tmx_careers/job/toronto---100-adelaide-st-w/workday-business-analyst_r-6057",
+      "source": "readme",
+      "company": "TMX Group",
+      "title": "Workday Business Analyst",
+      "location": "Toronto - 100 Adelaide St W",
+      "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Workday-Business-Analyst_R-6057",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/sr-business-systems-analyst-specialist--td-securities_r_1513631",
+      "source": "readme",
+      "company": "TD Bank",
+      "title": "Sr. Business Systems Analyst Specialist, TD Securities",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Sr-Business-Systems-Analyst-Specialist--TD-Securities_R_1513631",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:tmx.wd3.myworkdayjobs.com/en-us/tmx_careers/job/toronto---100-adelaide-st-w/senior-business-intelligence-business-analyst_r-6055",
+      "source": "readme",
+      "company": "TMX Group",
+      "title": "Senior Business Intelligence Business Analyst",
+      "location": "Toronto - 100 Adelaide St W",
+      "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Senior-Business-Intelligence-Business-Analyst_R-6055",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:tmx.wd3.myworkdayjobs.com/en-us/tmx_careers/job/montreal---1190-av-des-canadiens-de-montreal/python-analyst-programmer_r-6475",
+      "source": "readme",
+      "company": "TMX Group",
+      "title": "Python Analyst/Programmer",
+      "location": "Montreal - 1190 av. des Canadiens-de-Montreal",
+      "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Python-Analyst-Programmer_R-6475",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:tmx.wd3.myworkdayjobs.com/en-us/tmx_careers/job/toronto---100-adelaide-st-w/product-owner_r-6497",
+      "source": "readme",
+      "company": "TMX Group",
+      "title": "Product Owner",
+      "location": "Toronto - 100 Adelaide St W",
+      "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Product-Owner_R-6497",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:bmo.wd3.myworkdayjobs.com/en-us/external/job/remoteteletravail-on-can/data-business-analyst-lead_r260030150",
+      "source": "readme",
+      "company": "BMO",
+      "title": "Data Business Analyst Lead",
+      "location": "REMOTE/TELETRAVAIL, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/REMOTETELETRAVAIL-ON-CAN/Data-Business-Analyst-Lead_R260030150",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/manager--salesforce-innovation---enablement_r260030015",
       "source": "workday",
       "company": "BMO",
@@ -20844,6 +21201,23 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobs.lever.co/sait/5845fffb-048f-4e65-9077-9f81082b3b17",
+      "source": "readme",
+      "company": "SAIT",
+      "title": "Business Systems Analyst",
+      "location": "Calgary, AB",
+      "url": "https://jobs.lever.co/sait/5845fffb-048f-4e65-9077-9f81082b3b17",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -21851,6 +22225,74 @@
       ]
     },
     {
+      "id": "readme:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/senior-business-analyst---enterprise-data-management-office--edmo-_r_1513235",
+      "source": "readme",
+      "company": "TD Bank",
+      "title": "Senior Business Analyst - Enterprise Data Management Office (EDMO)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Business-Analyst---Enterprise-Data-Management-Office--EDMO-_R_1513235",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:desjardins.wd10.myworkdayjobs.com/en-us/desjardins/job/montral/responsable-de-produit--donnes-et-analytique-financire_r2612972-1",
+      "source": "readme",
+      "company": "Desjardins",
+      "title": "Product Owner, Product  management",
+      "location": "Montréal",
+      "url": "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Responsable-de-produit--Donnes-et-analytique-financire_R2612972-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/data-analyst-co-op_2622122-1",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Data Analyst co-op",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Data-Analyst-co-op_2622122-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:moneris.wd3.myworkdayjobs.com/en-us/moneris/job/toronto/business-analyst-iii_jr106083",
+      "source": "readme",
+      "company": "Moneris",
+      "title": "Business Analyst III",
+      "location": "Toronto",
+      "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Business-Analyst-III_JR106083",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "workday:medcan.wd10.myworkdayjobs.com/en-us/medcan/job/toronto/salesforce-developer_med02518",
       "source": "workday",
       "company": "Medcan",
@@ -22181,6 +22623,91 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/senior-business-system-analyst--insurance---technology-_r260027490",
+      "source": "readme",
+      "company": "BMO",
+      "title": "Technology Senior Business System Analyst -Insurance",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Business-System-Analyst--Insurance---Technology-_R260027490",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:job-boards.greenhouse.io/neuraflash/jobs/6235251004",
+      "source": "readme",
+      "company": "NeuraFlash, Part of Accenture",
+      "title": "Product Owner, AI & AWS Delivery",
+      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6235251004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/data-scientist--model-performance-monitoring-and-reporting_2621552",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Data Scientist, Model Performance Monitoring and Reporting",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Data-Scientist--Model-Performance-Monitoring-and-Reporting_2621552",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/business-systems-analyst-co-op--winter-2027---enterprise-technology---business-management_2621526",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Business Systems Analyst Co-op (Winter 2027), Enterprise Technology & Business Management",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Business-Systems-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621526",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/business-analyst-co-op_2622052-1",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Business Analyst co-op",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Business-Analyst-co-op_2622052-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -23588,6 +24115,23 @@
       ]
     },
     {
+      "id": "readme:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/sr-business-systems-analyst--td-securities_r_1509315",
+      "source": "readme",
+      "company": "TD Bank",
+      "title": "Sr. Business Systems Analyst, TD Securities",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Sr-Business-Systems-Analyst--TD-Securities_R_1509315",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5937871952",
       "source": "adzuna",
       "company": "Ensiti",
@@ -24303,6 +24847,23 @@
       ]
     },
     {
+      "id": "readme:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/senior-business-systems-analyst_r260028494",
+      "source": "readme",
+      "company": "BMO",
+      "title": "Senior Business Systems Analyst",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Business-Systems-Analyst_R260028494",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "workday:caatpension.wd10.myworkdayjobs.com/en-us/careers/job/toronto-on/servicenow-technical-lead_jr100193-1",
       "source": "workday",
       "company": "CAAT Pension Plan",
@@ -24650,6 +25211,57 @@
       ]
     },
     {
+      "id": "readme:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/senior-business-intelligence-analyst_r_1517005",
+      "source": "readme",
+      "company": "TD Bank",
+      "title": "Senior Business Intelligence Analyst (Workday Reporting)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Business-Intelligence-Analyst_R_1517005",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/senior-analyst--business-intelligence--12-month-contract-_jr0154225",
+      "source": "readme",
+      "company": "McKesson",
+      "title": "Senior Analyst, Business Intelligence (12 month Contract)",
+      "location": "CAN, ON, Mississauga",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Senior-Analyst--Business-Intelligence--12-month-Contract-_JR0154225",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-qc-montreal-ville-saint-laurent/analyste-principal-e--en-intelligence-d-affaires--senior-analyst--business-intelligence--contrat-12-mois-_jr0155967",
+      "source": "readme",
+      "company": "McKesson",
+      "title": "Analyste principal(e) en intelligence d’affaires/ Senior Analyst, Business Intelligence (contrat 12 mois)",
+      "location": "CAN, QC, Montreal, Ville Saint-Laurent",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Analyste-principal-e--en-intelligence-d-affaires--Senior-Analyst--Business-Intelligence--contrat-12-mois-_JR0155967",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5935440272",
       "source": "adzuna",
       "company": "Maarut",
@@ -24804,6 +25416,74 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/test-qa-analyst-co-op--winter-2027---enterprise-technology---business-management_2621525-1",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Test/QA Analyst Co-op (Winter 2027), Enterprise Technology & Business Management",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Test-QA-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621525-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:omers.wd3.myworkdayjobs.com/en-us/omers_external/job/toronto-ontario/senior-business-analyst--portfolio-servicing-platform--12-month-contract-_jr-8519",
+      "source": "readme",
+      "company": "OMERS",
+      "title": "Senior Business Analyst, Portfolio Servicing Platform (12-Month Contract)",
+      "location": "Toronto, Ontario",
+      "url": "https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/job/Toronto-Ontario/Senior-Business-Analyst--Portfolio-Servicing-Platform--12-Month-Contract-_JR-8519",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:canadiantirecorporation.wd3.myworkdayjobs.com/en-us/enterprise_external_careers_site/job/laval-qc/data-analyst_jr166738",
+      "source": "readme",
+      "company": "Canadian Tire",
+      "title": "Data Analyst",
+      "location": "Laval, QC",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:cibc.wd3.myworkdayjobs.com/en-us/search/job/toronto-on/business-systems-analyst-co-op--winter-2027---capital-markets-technology_2621522-1",
+      "source": "readme",
+      "company": "CIBC",
+      "title": "Business Systems Analyst Co-op (Winter 2027), Capital Markets Technology",
+      "location": "Toronto, ON",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/Search/job/Toronto-ON/Business-Systems-Analyst-Co-op--Winter-2027---Capital-Markets-Technology_2621522-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -25148,6 +25828,57 @@
       ]
     },
     {
+      "id": "readme:rsm.wd1.myworkdayjobs.com/en-us/rsmcareers/job/toronto/servicenow-engagement-manager_jr120860",
+      "source": "readme",
+      "company": "RSM",
+      "title": "ServiceNow Engagement Manager",
+      "location": "Toronto",
+      "url": "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Toronto/ServiceNow-Engagement-Manager_JR120860",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-qc-montreal-ville-saint-laurent/analyste-des-systmes-d-affaires-business-systems-analyst_jr0151840",
+      "source": "readme",
+      "company": "McKesson",
+      "title": "Analyste des systèmes d’affaires, Solutions de transport/Business Systems Analyst, Transportation Solutions",
+      "location": "CAN, QC, Montreal, Ville Saint-Laurent",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Analyste-des-systmes-d-affaires-Business-Systems-Analyst_JR0151840",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/analyst--data-scientist_r260026946",
+      "source": "readme",
+      "company": "BMO",
+      "title": "Analyst, Data Scientist",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Analyst--Data-Scientist_R260026946",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "workday:iko.wd3.myworkdayjobs.com/en-us/iko_careers/job/mississauga-on/salesforce-senior-developer_req-14036",
       "source": "workday",
       "company": "IKO",
@@ -25425,6 +26156,57 @@
       ]
     },
     {
+      "id": "readme:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/sr-business-systems-analyst-i_r_1516269",
+      "source": "readme",
+      "company": "TD Bank",
+      "title": "Sr. Business Systems Analyst I",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Sr-Business-Systems-Analyst-I_R_1516269",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:jobs.ashbyhq.com/telus-digital/14c039f3-fc72-4693-b21d-787cd77b3b6d",
+      "source": "readme",
+      "company": "TELUS Digital",
+      "title": "Project Manager",
+      "location": "Remote, Manitoba",
+      "url": "https://jobs.ashbyhq.com/telus-digital/14c039f3-fc72-4693-b21d-787cd77b3b6d",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-qc-montreal-ville-saint-laurent/gestionnaire-de-projets--finance---finance-project-manager--pricing_jr0150081",
+      "source": "readme",
+      "company": "McKesson",
+      "title": "Gestionnaire de projets, Finance / Finance Project Manager, Pricing",
+      "location": "CAN, QC, Montreal, Ville Saint-Laurent",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Gestionnaire-de-projets--Finance---Finance-Project-Manager--Pricing_JR0150081",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "linkedin:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-servicenow-at-delan-it-talent-solutions-4463528450",
       "source": "linkedin",
       "company": "DELAN - IT Talent Solutions",
@@ -25666,6 +26448,23 @@
       ]
     },
     {
+      "id": "readme:omers.wd3.myworkdayjobs.com/en-us/omers_external/job/toronto-ontario/jr-8304-business-analyst--program-management-and-delivery_jr-8296",
+      "source": "readme",
+      "company": "OMERS",
+      "title": "JR-8304 Business Analyst, Program Management and Delivery",
+      "location": "Toronto, Ontario",
+      "url": "https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/job/Toronto-Ontario/JR-8304-Business-Analyst--Program-Management-and-Delivery_JR-8296",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-14T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "linkedin:ca.linkedin.com/jobs/view/bilingual-senior-specialist-servicenow-itsm-developer-at-canada-mortgage-and-housing-corporation-cmhc-soci%c3%a9t%c3%a9-canadienne-d-hypoth%c3%a8ques-et-de-logement-schl-4444741717",
       "source": "linkedin",
       "company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
@@ -25851,6 +26650,23 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "readme:jobs.smartrecruiters.com/klick1/744000155329990",
+      "source": "readme",
+      "company": "Klick",
+      "title": "Senior Project Manager",
+      "location": "Toronto, Ontario, ca",
+      "url": "https://jobs.smartrecruiters.com/klick1/744000155329990",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-13T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -26179,6 +26995,23 @@
       ]
     },
     {
+      "id": "readme:job-boards.greenhouse.io/neuraflash/jobs/6220772004",
+      "source": "readme",
+      "company": "NeuraFlash, Part of Accenture",
+      "title": "AWS Project Manager",
+      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220772004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-08T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "readme:jobs.slalom.com/en_us/careersmarketplace/jobdetail/migration-consultant/3803",
       "source": "readme",
       "company": "Slalom",
@@ -26333,6 +27166,23 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "readme:mongodb.com/careers/job",
+      "source": "readme",
+      "company": "MongoDB",
+      "title": "Senior Project Manager - Professional Services",
+      "location": "Vancouver",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8213748",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-04T16:50:17.316Z",
+      "excerpt": "via buffy-scan60d--2026-11-04--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
