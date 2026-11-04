@@ -50,7 +50,7 @@ jobs:
             git fetch -q origin main
             git rebase -q origin/main || {
               git checkout origin/main -- README.md
-              python3 tools/jobs_merge_inbox.py --max-per-table 400
+              python3 tools/jobs_merge_inbox.py --max-per-table 400 --bump-inbox
               python3 tools/build_site.py
               git add README.md public inbox tools
               GIT_EDITOR=true git rebase --continue

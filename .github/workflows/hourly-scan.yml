@@ -58,7 +58,7 @@ jobs:
       - name: Merge inbox submissions into README
         run: |
           if [ -n "$(git status --porcelain -- inbox)" ]; then
-            python3 tools/jobs_merge_inbox.py --max-per-table 400
+            python3 tools/jobs_merge_inbox.py --max-per-table 400 --bump-inbox
           else
             echo "no new inbox submissions"
           fi

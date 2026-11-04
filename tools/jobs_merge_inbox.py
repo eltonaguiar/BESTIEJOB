@@ -7,9 +7,12 @@ Agents submit work by dropping a file in inbox/ (or a PR that only adds one), na
     inbox/<model-slug>--<YYYY-MM-DD>--v<N>.md
 
 If the file is submitted again — a correction, a later scan from the same model on the
-same day — increment N instead of creating a second file. The merger does that
-automatically: after a successful run every merged file is renamed to the next version
-and stamped with what it contributed.
+same day — increment N instead of creating a second file.
+
+By default the merger leaves inbox/ alone: a hand run must never rewrite another
+agent's submission. Pass --bump-inbox to get the old behaviour (rename each merged
+file to the next version and stamp it with what it contributed); the CI workflows do
+that so the commit records which version was merged.
 
 Usage:
   python3 tools/jobs_merge_inbox.py --dry-run
@@ -41,6 +44,7 @@ from jobs_consolidate import (  # noqa: E402
     dedupe,
     extract_rows,
     extract_scan_block,
+    is_listing_url,
     normalise_url,
     render,
 )
@@ -49,9 +53,18 @@ INBOX = ROOT / "inbox"
 # The board is a technical ServiceNow/Salesforce listing, and every scanner that
 # feeds it rejects sales/marketing roles. The merger used to accept them, so a
 # harvest could smuggle "Regional Sales Manager" onto a technical table.
+#
+# Match the marketing *job function*, not the word: bare "marketing"/"growth" threw
+# out platform work ("Marketing Cloud Specialist") and analytics work ("Data
+# Scientist, Growth", "Lead Data Analyst, Growth Marketing"), which are exactly the
+# roles this board exists for.
 EXCL = re.compile(r"\b(account executive|account manager|sales representative|"
                   r"sales manager|business development|recruiter|talent acquisition|"
-                  r"pre-?sales|customer success|marketing|growth|product marketing)\b", re.I)
+                  r"pre-?sales|customer success|product marketing|"
+                  r"demand gen(?:eration)?|content marketing|email marketing|"
+                  r"social media|brand manager|growth hacker|growth marketing manager|"
+                  r"marketing (?:manager|specialist|coordinator|director|associate|"
+                  r"intern|consultant|executive|ops|operations))\b", re.I)
 NAME_RE = re.compile(r"^(?P<model>[a-z0-9._-]+)--(?P<date>\d{4}-\d{2}-\d{2})--v(?P<ver>\d+)\.md$", re.I)
 LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
 BARE_URL_RE = re.compile(r"https?://[^\s|)]+")
@@ -108,6 +121,12 @@ def main() -> int:
     ap.add_argument("--days", type=int, default=30)
     ap.add_argument("--max-per-table", type=int, default=150)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument(
+        "--bump-inbox",
+        action="store_true",
+        help="rename merged inbox files to the next v<N> and stamp them (CI only; "
+        "without it a run never touches another agent's submission)",
+    )
     args = ap.parse_args()
 
     today = date.fromisoformat(args.today) if args.today else datetime.now(timezone.utc).date()
@@ -142,11 +161,14 @@ def main() -> int:
         if not NAME_RE.match(path.name):
             print(f"skip {path.name}: name must be <model>--<YYYY-MM-DD>--v<N>.md")
             continue
-        added = dup = bad = 0
+        added = dup = bad = listing = 0
         for row in parse_inbox_file(path):
             key = normalise_url(row["url"])
             if key in known:
                 dup += 1
+                continue
+            if is_listing_url(row["url"]):
+                listing += 1
                 continue
             if EXCL.search(row.get("title") or ""):
                 bad += 1
@@ -154,8 +176,9 @@ def main() -> int:
             known.add(key)
             incoming.append(row)
             added += 1
-        per_file[path.name] = {"added": added, "duplicate": dup, "bad": bad}
-        print(f"{path.name}: +{added} new, {dup} duplicate")
+        per_file[path.name] = {"added": added, "duplicate": dup, "bad": bad, "listing": listing}
+        extra = f", {listing} listing page(s)" if listing else ""
+        print(f"{path.name}: +{added} new, {dup} duplicate{extra}")
 
     merged = readme_rows + incoming
     unique, dropped = dedupe(merged)
@@ -171,8 +194,11 @@ def main() -> int:
     counts = {k: sum(1 for r in current if r["family"] == k) for k in ("servicenow", "salesforce", "other")}
 
     off_board = sum(v["bad"] for v in per_file.values())
+    listing_pages = sum(v["listing"] for v in per_file.values())
+    if listing_pages:
+        print(f"\nskipped          : {listing_pages} rows that are aggregator listing pages, not postings")
     if off_board:
-        print(f"\nskipped          : {off_board} rows outside the board's remit (sales/marketing)")
+        print(f"skipped          : {off_board} rows outside the board's remit (sales/marketing)")
     print(f"\nincoming rows    : {len(incoming)}")
     print(f"total unique     : {len(unique)} (dupes merged: {dropped})")
     print(f"in {args.days}-day window: {len(current)}  {counts}")
@@ -210,6 +236,10 @@ def main() -> int:
     )
     README.write_text(doc, encoding="utf-8")
     print(f"wrote README.md with {len(current)} rows; archived {len(expired)} to {archive_name}")
+
+    if not args.bump_inbox:
+        print("inbox/left as submitted (pass --bump-inbox to version-stamp merged files)")
+        return 0
 
     for path in submissions:
         m = NAME_RE.match(path.name)

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T17:10:29+00:00",
+ "generatedAt": "2026-11-04T17:23:31+00:00",
  "timezone": "America/Toronto",
  "count": 1297,
  "appliedHidden": 26,
@@ -2509,27 +2509,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Servicenow Developers Jobs in Toronto",
-   "company": "LinkedIn",
-   "location": "Toronto, ON",
-   "url": "https://ca.linkedin.com/jobs/servicenow-developers-jobs-toronto-on",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developers jobs in toronto linkedin toronto, on linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Software Developer — Servicenow Contract Jobs in Toronto",
    "company": "LinkedIn",
    "location": "Toronto, ON",
@@ -2894,6 +2873,27 @@
    ],
    "french": false,
    "search": "servicenow developer - remote · canada careers at servicenow toronto, on careers.servicenow.com servicenow servicenow-careers servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Servicenow Developers Jobs in Toronto",
+   "company": "LinkedIn",
+   "location": "Toronto, ON",
+   "url": "https://ca.linkedin.com/jobs/servicenow-developers-jobs-toronto-on",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developers jobs in toronto linkedin toronto, on linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -3566,26 +3566,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "339 Servicenow Jobs in Toronto",
-   "company": "LinkedIn",
-   "location": "Toronto, ON",
-   "url": "https://ca.linkedin.com/jobs/servicenow-jobs-toronto-on",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 80,
-   "matchReasons": [
-    "ServiceNow",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "339 servicenow jobs in toronto linkedin toronto, on linkedin servicenow linkedin servicenow toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Project Manager - Servicenow Implementation - C$80 - C$90 An Hour",
    "company": "Kit Job",
    "location": "Laval",
@@ -3610,46 +3590,6 @@
      "label": "kitjob.ca · Laval"
     }
    ]
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Servicenow Sales Jobs in Toronto, ON",
-   "company": "ZipRecruiter",
-   "location": "Toronto, ON",
-   "url": "https://www.ziprecruiter.com/Jobs/Servicenow-Sales/-in-Toronto,ON",
-   "note": "ziprecruiter",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "ziprecruiter.com",
-   "verified": "Aggregator",
-   "match": 80,
-   "matchReasons": [
-    "ServiceNow",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow sales jobs in toronto, on ziprecruiter toronto, on ziprecruiter.com servicenow ziprecruiter servicenow toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Servicenow jobs in Toronto, ON",
-   "company": "Indeed",
-   "location": "Toronto, ON",
-   "url": "https://ca.indeed.com/q-servicenow-l-toronto,-on-jobs.html",
-   "note": "indeed",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Indeed",
-   "verified": "Aggregator",
-   "match": 80,
-   "matchReasons": [
-    "ServiceNow",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow jobs in toronto, on indeed toronto, on indeed servicenow indeed servicenow toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-03",
@@ -3729,6 +3669,66 @@
    ],
    "french": false,
    "search": "servicenow careers and employment servicenow toronto indeed servicenow servicenow-careers servicenow toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Servicenow jobs in Toronto, ON",
+   "company": "Indeed",
+   "location": "Toronto, ON",
+   "url": "https://ca.indeed.com/q-servicenow-l-toronto,-on-jobs.html",
+   "note": "indeed",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Indeed",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow jobs in toronto, on indeed toronto, on indeed servicenow indeed servicenow toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Servicenow Sales Jobs in Toronto, ON",
+   "company": "ZipRecruiter",
+   "location": "Toronto, ON",
+   "url": "https://www.ziprecruiter.com/Jobs/Servicenow-Sales/-in-Toronto,ON",
+   "note": "ziprecruiter",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "ziprecruiter.com",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow sales jobs in toronto, on ziprecruiter toronto, on ziprecruiter.com servicenow ziprecruiter servicenow toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "339 Servicenow Jobs in Toronto",
+   "company": "LinkedIn",
+   "location": "Toronto, ON",
+   "url": "https://ca.linkedin.com/jobs/servicenow-jobs-toronto-on",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "339 servicenow jobs in toronto linkedin toronto, on linkedin servicenow linkedin servicenow toronto area",
    "alternates": []
   },
   {
@@ -3819,26 +3819,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Servicenow Jobs in Canada",
-   "company": "LinkedIn",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/servicenow-jobs",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow jobs in canada linkedin canada linkedin servicenow linkedin servicenow canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Functional Manager - ServiceNow",
    "company": "KPMG",
    "location": "Multiple Locations",
@@ -3915,6 +3895,26 @@
    ],
    "french": false,
    "search": "servicenow senior developer myticas consulting ottawa, on jobstore.com servicenow jobstore servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Servicenow Jobs in Canada",
+   "company": "LinkedIn",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/servicenow-jobs",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow jobs in canada linkedin canada linkedin servicenow linkedin servicenow canada / remote",
    "alternates": []
   },
   {
@@ -7538,25 +7538,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "6,000+ Application Management jobs in Toronto",
-   "company": "LinkedIn",
-   "location": "Toronto, ON",
-   "url": "https://ca.linkedin.com/jobs/application-management-jobs-toronto-on",
-   "note": "linkedin",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "6,000+ application management jobs in toronto linkedin toronto, on linkedin other linkedin toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Careers at Traversal",
    "company": "Traversal",
    "location": "Toronto",
@@ -7572,6 +7553,25 @@
    ],
    "french": false,
    "search": "careers at traversal traversal toronto traversal.cv other traversal toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "6,000+ Application Management jobs in Toronto",
+   "company": "LinkedIn",
+   "location": "Toronto, ON",
+   "url": "https://ca.linkedin.com/jobs/application-management-jobs-toronto-on",
+   "note": "linkedin",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "6,000+ application management jobs in toronto linkedin toronto, on linkedin other linkedin toronto area",
    "alternates": []
   },
   {
@@ -18199,26 +18199,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "Salesforce Developer - Procom",
-   "company": "Remote (Quebec, QC)",
-   "location": "Unknown / peer claim not verified",
-   "url": "https://ca.indeed.com/q-salesforce-developer-l-remote-jobs.html",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Indeed",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce developer - procom remote (quebec, qc) unknown / peer claim not verified indeed salesforce readme salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
    "title": "Salesforce Developer - ICF",
    "company": "Remote (US)",
    "location": "Unknown / peer claim not verified",
@@ -18455,6 +18435,26 @@
    ],
    "french": false,
    "search": "executive producer, head of production (apex legends) respawn entertainment vancouver, british columbia, canada linkedin salesforce readme salesforce canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Salesforce Developer - Procom",
+   "company": "Remote (Quebec, QC)",
+   "location": "Unknown / peer claim not verified",
+   "url": "https://ca.indeed.com/q-salesforce-developer-l-remote-jobs.html",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Indeed",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce developer - procom remote (quebec, qc) unknown / peer claim not verified indeed salesforce readme salesforce role fit",
    "alternates": []
   },
   {

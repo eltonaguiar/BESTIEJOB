@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-04T17:09:47.516Z",
     "generatedAt": "2026-11-04T17:09:47.516Z",
-    "total": 1551,
+    "total": 1543,
     "newThisScan": 768,
     "retainedFromPrevious": 558,
     "sources": {
@@ -3463,23 +3463,6 @@
       ]
     },
     {
-      "id": "exa4:linkedin:servicenow-jobs-toronto-on",
-      "source": "linkedin",
-      "company": "LinkedIn",
-      "title": "339 Servicenow Jobs in Toronto",
-      "location": "Toronto, ON",
-      "url": "https://ca.linkedin.com/jobs/servicenow-jobs-toronto-on",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T22:28:28.381426+00:00",
-      "excerpt": "339 Servicenow Jobs in Toronto via LinkedIn",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
       "id": "exa4:analystit:1146b1b7-58c9-41e5-a367-ff7ae51a4656",
       "source": "analystit",
       "company": "Analyst Technical Solutions",
@@ -4339,23 +4322,6 @@
       ]
     },
     {
-      "id": "exa4:linkedin:servicenow-developers-jobs-toronto-on",
-      "source": "linkedin",
-      "company": "LinkedIn",
-      "title": "Servicenow Developers Jobs in Toronto",
-      "location": "Toronto, ON",
-      "url": "https://ca.linkedin.com/jobs/servicenow-developers-jobs-toronto-on",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T22:28:28.381426+00:00",
-      "excerpt": "Servicenow Developers Jobs in Toronto 200 Open Roles via LinkedIn",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
       "id": "exa4:freelanceradar:toronto",
       "source": "freelanceradar",
       "company": "Freelance Radar",
@@ -4372,74 +4338,6 @@
         "servicenow",
         "salesforce",
         "contract"
-      ]
-    },
-    {
-      "id": "exa4:ziprecruiter:-in-Toronto,ON",
-      "source": "ziprecruiter",
-      "company": "ZipRecruiter",
-      "title": "Servicenow Sales Jobs in Toronto, ON",
-      "location": "Toronto, ON",
-      "url": "https://www.ziprecruiter.com/Jobs/Servicenow-Sales/-in-Toronto,ON",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T22:28:28.381426+00:00",
-      "excerpt": "Servicenow Sales Jobs in Toronto ON NOW HIRING via ZipRecruiter",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "exa4:linkedin:servicenow-jobs",
-      "source": "linkedin",
-      "company": "LinkedIn",
-      "title": "Servicenow Jobs in Canada",
-      "location": "Canada",
-      "url": "https://ca.linkedin.com/jobs/servicenow-jobs",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T22:28:28.381426+00:00",
-      "excerpt": "Servicenow Jobs in Canada 4000+ Open Roles via LinkedIn",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "exa4:indeed:q-servicenow-l-toronto,-on-jobs.html",
-      "source": "indeed",
-      "company": "Indeed",
-      "title": "Servicenow jobs in Toronto, ON",
-      "location": "Toronto, ON",
-      "url": "https://ca.indeed.com/q-servicenow-l-toronto,-on-jobs.html",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T22:28:28.381426+00:00",
-      "excerpt": "Servicenow jobs in Toronto ON via Indeed",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "exa4:linkedin:application-management-jobs-toronto-on",
-      "source": "linkedin",
-      "company": "LinkedIn",
-      "title": "6,000+ Application Management jobs in Toronto",
-      "location": "Toronto, ON",
-      "url": "https://ca.linkedin.com/jobs/application-management-jobs-toronto-on",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T22:28:28.381426+00:00",
-      "excerpt": "6000+ Application Management jobs in Toronto via LinkedIn",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
       ]
     },
     {
@@ -7748,24 +7646,6 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
-    },
-    {
-      "id": "readme:insightglobal.com/jobs/search/toronto/servicenow",
-      "source": "readme",
-      "company": "Insight Global",
-      "title": "ITAM Project Manager – ServiceNow HAM/SAM (contract ~$62+/hr)",
-      "location": "Toronto, ON; on-site",
-      "url": "https://insightglobal.com/jobs/search/toronto/servicenow",
-      "employmentType": "contract",
-      "salary": null,
-      "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-03T19:00:55.193Z",
-      "excerpt": "soft contract; search URL only (no per-job Apply href)",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow",
-        "itam"
       ]
     },
     {
@@ -16819,23 +16699,6 @@
       "title": "Salesforce Developer - Q Point Health",
       "location": "Unknown / peer claim not verified",
       "url": "https://remotive.com/remote/jobs/software-development/salesforce-developer-6272007",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-30T12:00:00.000Z",
-      "scrapedAt": "2026-11-02T23:11:27.044Z",
-      "excerpt": "via peer-copilot-2026-10-30--2026-11-02--v1.md",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "readme:ca.indeed.com/q-salesforce-developer-l-remote-jobs.html",
-      "source": "readme",
-      "company": "Remote (Quebec, QC)",
-      "title": "Salesforce Developer - Procom",
-      "location": "Unknown / peer claim not verified",
-      "url": "https://ca.indeed.com/q-salesforce-developer-l-remote-jobs.html",
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-30T12:00:00.000Z",
