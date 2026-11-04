@@ -15,10 +15,10 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "7days",
-    "scrapedAt": "2026-11-04T00:35:22.317452+00:00",
-    "generatedAt": "2026-11-04T00:35:22.317452+00:00",
-    "total": 1295,
-    "newThisScan": 774,
+    "scrapedAt": "2026-11-04T05:04:51.857785+00:00",
+    "generatedAt": "2026-11-04T05:04:51.857785+00:00",
+    "total": 1296,
+    "newThisScan": 775,
     "retainedFromPrevious": 521,
     "sources": {
       "workday": 27,
@@ -38,7 +38,7 @@
       "celestica": 2,
       "paralucent": 2,
       "careerplug": 1,
-      "onicosolutions": 1,
+      "onicosolutions": 2,
       "bfg": 2,
       "adastra": 1,
       "recruit.net": 1,
@@ -168,7 +168,7 @@
       "ia-financial-group": 1
     },
     "primaryCounts": {
-      "servicenow": 544,
+      "servicenow": 545,
       "salesforce": 581
     }
   },
@@ -23858,6 +23858,23 @@
         "salesforce",
         "contract",
         "consulting"
+      ]
+    },
+    {
+      "id": "round6:onicosolutions:",
+      "source": "onicosolutions",
+      "company": "Onico Solutions",
+      "title": "ServiceNow Developer",
+      "location": "Canada",
+      "url": "https://www.onicosolutions.com/jobs/servicenow-developer/",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-03T00:00:00.000Z",
+      "scrapedAt": "2026-11-04T05:04:51.857785+00:00",
+      "excerpt": "ServiceNow Developer at Onico Solutions",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     }
   ]
