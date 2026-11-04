@@ -9,22 +9,22 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-04](#current-jobs--as-of-2026-11-04)
-  - [ServiceNow jobs (381)](#servicenow-jobs-381)
-  - [Salesforce jobs (400)](#salesforce-jobs-400)
-  - [Other jobs (400)](#other-jobs-400)
+  - [ServiceNow jobs (329)](#servicenow-jobs-329)
+  - [Salesforce jobs (346)](#salesforce-jobs-346)
+  - [Other jobs (380)](#other-jobs-380)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-04
 
-Window: 2026-10-05 → 2026-11-04 · **1182 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-05 → 2026-11-04 · **1054 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (330)
+### ServiceNow jobs (329)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 381 postings</strong></summary>
+<details><summary><strong>Show 329 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -360,11 +360,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (400)
+### Salesforce jobs (346)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 400 postings</strong></summary>
+<details><summary><strong>Show 346 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -717,11 +717,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (400)
+### Other jobs (380)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 400 postings</strong></summary>
+<details><summary><strong>Show 380 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -1177,7 +1177,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-04T19:54:57.375Z** · 1446 live postings from 9 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-04T21:40:59.247Z** · 1457 live postings from 9 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
