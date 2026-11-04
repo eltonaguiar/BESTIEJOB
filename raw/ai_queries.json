@@ -15,7 +15,12 @@
     "servicenow table",
     "salesforce integration",
     "servicenow event",
-    "salesforce commerce"
+    "salesforce commerce",
+    "itam consultant",
+    "servicenow sysdev",
+    "servicenow release",
+    "salesforce ahc",
+    "salesforce flow"
   ],
   "per_peer": {
     "vllm/Qwen/Qwen2.5-14B-Instruct": [

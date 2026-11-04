@@ -47,6 +47,16 @@ jobs:
           ADZUNA_API_KEY: ${{ secrets.ADZUNA_API_KEY }}
         run: node scripts/gap_scan.mjs
 
+      # Public-sector boards the rest of the pipeline cannot see: City of Toronto
+      # (SuccessFactors tiles + schema.org datePosted) and Ontario Public Service
+      # (gojobs is bot-walled, so the Job Bank OPS employer feed is the documented
+      # fallback). Usually contributes few rows — public-sector IT postings are
+      # rare and internal-only competitions are invisible — but it is the only
+      # channel that surfaces them at all.
+      - name: Public-sector scan (OPS + City of Toronto)
+        continue-on-error: true
+        run: python3 scripts/public_sector_scan.py
+
       # A row whose Posted cell is not an absolute YYYY-MM-DD is dropped by the
       # merger without an error, so fail here first.
       - name: Validate inbox submissions
