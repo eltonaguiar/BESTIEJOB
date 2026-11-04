@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-04T18:14:18+00:00",
+ "generatedAt": "2026-11-04T19:09:58+00:00",
  "timezone": "America/Toronto",
- "count": 1304,
+ "count": 1305,
  "appliedHidden": 26,
  "sources": [
   "103.careerplug.com",
@@ -335,6 +335,33 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946006839",
      "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "ServiceNow Associate Software Engineer",
+   "company": "Sunlife",
+   "location": "North York, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-associate-software-engineer-at-sunlife-4486509766",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow associate software engineer sunlife north york, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-associate-software-engineer-at-sunlife-4486505818",
+     "label": "LinkedIn · Waterloo"
     }
    ]
   },
@@ -4498,6 +4525,27 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Senior Salesforce Developer",
+   "company": "HRbrain Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-hrbrain-inc-4486083993",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer hrbrain inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Systems Developer - Salesforce",
    "company": "Co-operators",
    "location": "Mississauga, Ontario, Canada",
@@ -4527,27 +4575,6 @@
      "label": "LinkedIn · Guelph"
     }
    ]
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Senior Salesforce Developer",
-   "company": "HRbrain Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-hrbrain-inc-4486083993",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer hrbrain inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-03",
@@ -4604,27 +4631,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Salesforce Data Cloud Developer",
-   "company": "J&M Group",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-j-m-group-4487070187",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce data cloud developer j&m group toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Salesforce Data Cloud consultant",
    "company": "Cloudious LLC",
    "location": "Toronto, Ontario, Canada",
@@ -4642,6 +4648,27 @@
    ],
    "french": false,
    "search": "salesforce data cloud consultant cloudious llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Data Cloud Developer",
+   "company": "J&M Group",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-j-m-group-4487070187",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce data cloud developer j&m group toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -6472,7 +6499,7 @@
    "title": "Salesforce BSA",
    "company": "Cognizant",
    "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486310181",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486313159",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -6488,7 +6515,7 @@
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486313159",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486310181",
      "label": "LinkedIn · Toronto"
     }
    ]
@@ -20222,27 +20249,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Salesforce Revenue Cloud Developer",
-   "company": "Acestack",
-   "location": "Regent Park, City of Toronto",
-   "url": "https://www.adzuna.ca/details/5946061316",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce revenue cloud developer acestack regent park, city of toronto adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
    "title": "Salesforce DevOps Lead",
    "company": "Acestack",
    "location": "Regent Park, City of Toronto",
@@ -20281,6 +20287,27 @@
    ],
    "french": false,
    "search": "salesforce senior developer acestack regent park, city of toronto adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Salesforce Revenue Cloud Developer",
+   "company": "Acestack",
+   "location": "Regent Park, City of Toronto",
+   "url": "https://www.adzuna.ca/details/5946061316",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud developer acestack regent park, city of toronto adzuna salesforce adzuna salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -28130,27 +28157,6 @@
   },
   {
    "posted": "2026-10-05",
-   "title": "Salesforce Delivery Lead",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Salesforce-Delivery-Lead_JR0147161",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce delivery lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-05",
    "title": "Sr. Salesforce CRM Development Lead",
    "company": "McKesson",
    "location": "CAN, ON, Mississauga",
@@ -28168,6 +28174,27 @@
    ],
    "french": false,
    "search": "sr. salesforce crm development lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-05",
+   "title": "Salesforce Delivery Lead",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Salesforce-Delivery-Lead_JR0147161",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce delivery lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
    "alternates": []
   },
   {
