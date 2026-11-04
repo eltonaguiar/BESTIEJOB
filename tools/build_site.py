@@ -33,10 +33,12 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 
-from jobs_consolidate import README, extract_rows  # noqa: E402
+from jobs_consolidate import README, classify, extract_rows  # noqa: E402
 
 PUBLIC = ROOT / "public"
 APPLIED = ROOT / "APPLIED.md"
+JOBS_JSON = ROOT / "jobs.json"
+POSTED_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 FAMILY_LABEL = {"servicenow": "ServiceNow", "salesforce": "Salesforce", "other": "Other"}
 
 AGGREGATORS = ("adzuna.", "linkedin.com", "indeed.", "jooble", "talent.com", "eluta",
@@ -307,8 +309,49 @@ def match_score(row: dict) -> tuple[int, list[str]]:
     return min(100, score), reasons[:5]
 
 
+def jobs_json_rows() -> list[dict]:
+    """Postings from jobs.json, in the same shape extract_rows() returns for README rows.
+
+    jobs.json is the scan's system of record; the README tables are a capped, rendered view
+    of it. Building the page from the README alone let a per-table cap (`--max-per-table`)
+    silently delete postings from the site: 924 were missing on 2026-11-04 because one
+    workflow rewrote the README with a 150-row cap. Rendering the union means a display
+    limit can never hide a posting again.
+    """
+    if not JOBS_JSON.exists():
+        return []
+    payload = json.loads(JOBS_JSON.read_text(encoding="utf-8"))
+    jobs = payload.get("jobs", []) if isinstance(payload, dict) else payload
+    out: list[dict] = []
+    for job in jobs:
+        url = (job.get("url") or "").strip()
+        title = " ".join((job.get("title") or "").split()).replace("|", "/")
+        posted = (job.get("postedDate") or job.get("posted") or "")[:10]
+        # no date, no row: the board shows a posting date, never a guess
+        if not url.startswith("http") or not title or not POSTED_RE.match(posted):
+            continue
+        out.append({
+            "posted": posted,
+            "title": title,
+            "url": url,
+            "company": (job.get("company") or "").strip().replace("|", "/"),
+            "location": (job.get("location") or "").strip().replace("|", "/"),
+            "note": (job.get("source") or "").strip()[:120],
+            "family": classify(title, url),
+        })
+    return out
+
+
 def rows() -> tuple[list[dict], int]:
     parsed, _ = extract_rows(README.read_text(encoding="utf-8"))
+    from_json = jobs_json_rows()
+    if from_json:
+        def _key(u: str) -> str:
+            return (u or "").split("?")[0].rstrip("/").lower()
+
+        have = {_key(r["url"]) for r in from_json}
+        # jobs.json leads; README rows survive only where the JSON does not know them yet
+        parsed = from_json + [r for r in parsed if _key(r["url"]) not in have]
     skip, skip_keys = applied_index()
     seen: set[str] = set()
     raw: list[dict] = []
