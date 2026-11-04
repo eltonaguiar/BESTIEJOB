@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T093323Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T100522Z.md`.
 
 ## Contents
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-04T09:30:01.201Z** · 872 live postings from 9 public sources · 105 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-04T10:00:01.566Z** · 872 live postings from 9 public sources · 105 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -613,6 +613,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-04 | [Spécialiste en visualisation de données – Power BI / SQL / Intelligence d'affaires](https://www.adzuna.ca/details/5952820091?utm_medium=api&utm_source=54ce986e) | Xideral | Outremont, Montréal | Data / BI |
 | 2026-11-04 | [Marketing Data Analyst / CRO](https://www.adzuna.ca/details/5952815780?utm_medium=api&utm_source=54ce986e) | CoVet | Canada | Data / BI |
 | 2026-11-04 | [Business Intelligence Student - Pulp & Paper Division - Winter 2027](https://www.adzuna.ca/details/5952814872?utm_medium=api&utm_source=54ce986e) | J.D. Irving | Saint John, Saint John region | Data / BI |
 | 2026-11-04 | [BI Analyst / Data Analyst](https://www.adzuna.ca/details/5952809678?utm_medium=api&utm_source=54ce986e) | CGI | Montréal, Québec | Data / BI |
@@ -622,11 +623,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-04 | [Senior Site Reliability Engineer, Canada Protected B](https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-canada-protected-b-at-servicenow-4487200713) | ServiceNow | Toronto, Ontario, Canada | DevOps / Cloud |
 | 2026-11-03 | [Manager, Site Reliability Engineering](https://www.adzuna.ca/details/5952305446?utm_medium=api&utm_source=54ce986e) | Northbridge Financial Corporation | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-03 | [Senior Software Engineer (AI & Full Stack)](https://www.adzuna.ca/details/5952125390) | Fable | Toronto, Ontario | Full stack |
-| 2026-11-03 | [Business Data Analyst - Analyste de données d’affaires](https://www.adzuna.ca/details/5952066551?utm_medium=api&utm_source=54ce986e) | CYNET SYSTEMS | Westmount, Montréal | Data / BI |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-04T093323Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
+`README.BAK_2026-11-04T100522Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
