@@ -43,6 +43,9 @@ import json
 import re
 import subprocess
 import sys
+import threading
+import time
+import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
@@ -347,6 +350,36 @@ def fetch_json(url: str, *, method="GET", body=None, timeout=25):
     return r.json()
 
 
+_FC_SLOT = threading.Semaphore(2)      # Firecrawl 429s above ~2 concurrent
+_EMPLOYER: dict[str, str] = {}
+_EMPLOYER_LOCK = threading.Lock()
+
+
+def greenhouse_employer(token: str, fallback: str) -> str:
+    """The employer's own name from the board endpoint.
+
+    A Greenhouse token is a handle, not a company name: '12Jlkfsk' is Orion
+    Global Solutions and 'highmetric' is NewRocket (the acquisition kept the
+    token). Labelling rows with the token produced companies called '12Jlkfsk'
+    and split one employer across two names -- which is what made the same
+    posting survive twice under two URLs.
+    """
+    with _EMPLOYER_LOCK:
+        if token in _EMPLOYER:
+            return _EMPLOYER[token]
+    name = fallback
+    try:
+        data = fetch_json(f"https://boards-api.greenhouse.io/v1/boards/{token}")
+        candidate = (data.get("name") or "").strip()
+        if candidate:
+            name = candidate
+    except Exception:                                   # noqa: BLE001
+        pass
+    with _EMPLOYER_LOCK:
+        _EMPLOYER[token] = name
+    return name
+
+
 def firecrawl_json(url: str, timeout: int = 90):
     """Fetch a JSON endpoint through Firecrawl's egress.
 
@@ -362,17 +395,27 @@ def firecrawl_json(url: str, timeout: int = 90):
         raise RuntimeError("no FIRECRAWL_API_KEY")
     payload = json.dumps({"url": url, "formats": ["rawHtml"],
                           "onlyMainContent": False}).encode()
-    req = urllib.request.Request(
-        "https://api.firecrawl.dev/v2/scrape", data=payload,
-        headers={"Content-Type": "application/json",
-                 "Authorization": f"Bearer {key}"})
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        body = json.loads(resp.read())
-    raw = (body.get("data") or {}).get("rawHtml") or (body.get("data") or {}).get("html") or ""
-    raw = raw.strip()
-    if not raw:
-        raise RuntimeError("empty scrape")
-    return json.loads(raw)
+    last: Exception | None = None
+    for attempt in range(3):
+        with _FC_SLOT:                       # cap concurrency; 429 above ~2
+            req = urllib.request.Request(
+                "https://api.firecrawl.dev/v2/scrape", data=payload,
+                headers={"Content-Type": "application/json",
+                         "Authorization": f"Bearer {key}"})
+            try:
+                with urllib.request.urlopen(req, timeout=timeout) as resp:
+                    body = json.loads(resp.read())
+                raw = ((body.get("data") or {}).get("rawHtml")
+                       or (body.get("data") or {}).get("html") or "").strip()
+                if not raw:
+                    raise RuntimeError("empty scrape")
+                return json.loads(raw)
+            except urllib.error.HTTPError as exc:
+                last = exc
+                if exc.code != 429:
+                    raise
+        time.sleep(2 + 2 * attempt)          # 2s, 4s, 6s backoff
+    raise last if last else RuntimeError("firecrawl failed")
 
 
 def from_workday(board) -> list[dict]:
@@ -432,9 +475,10 @@ def from_greenhouse(board) -> list[dict]:
     except Exception as exc:
         print(f"  [greenhouse:{token}] {type(exc).__name__} {str(exc)[:44]}")
         return out
+    name = greenhouse_employer(token, label)
     for j in data.get("jobs") or []:
         loc = (j.get("location") or {}).get("name") or ""
-        out.append({"title": j.get("title") or "", "company": label, "location": loc,
+        out.append({"title": j.get("title") or "", "company": name, "location": loc,
                     "url": j.get("absolute_url") or "",
                     "posted": day_from_iso(j.get("first_published") or j.get("updated_at")),
                     "source": f"greenhouse:{token}"})
@@ -521,11 +565,12 @@ def from_workable(board) -> list[dict]:
             print(f"  [workable:{sub}] {type(exc).__name__} + firecrawl "
                   f"{type(exc2).__name__} {str(exc2)[:40]}")
             return out
+    name = (data.get("name") or "").strip() or label   # Workable states it
     for j in data.get("jobs") or []:
         loc = j.get("location") or {}
         place = ", ".join(x for x in (loc.get("city"), loc.get("region"),
                                       loc.get("country")) if x)
-        out.append({"title": j.get("title") or "", "company": label, "location": place,
+        out.append({"title": j.get("title") or "", "company": name, "location": place,
                     "url": j.get("url") or j.get("shortlink") or "",
                     "posted": day_from_iso(j.get("published_on")),
                     "source": f"workable:{sub}"})
@@ -664,19 +709,16 @@ def relevant(row: dict) -> bool:
     return True
 
 
-def board_rows() -> set[tuple[str, str]]:
-    """(company, title) pairs already on the board.
+def board_rows() -> list[dict]:
+    """Rows already on the board, as crossurl-comparable dicts.
 
-    URL dedupe is not enough here: the same requisition is on the board from an
-    aggregator and in the sweep from the employer's ATS, which are different
-    URLs for one job.
+    URL dedupe is not enough here: one requisition reaches the board from an
+    aggregator under the employer's full name and from the employer's ATS under
+    its ATS handle, which is two URLs and two labels for one job. Comparing
+    (company, title) after a regex squash missed exactly that -- 'Lightspeed
+    Commerce' and 'lightspeedhq' squash to different strings.
     """
-    def key(s: str) -> str:
-        s = re.sub(r"\b(sr|senior|jr|junior|lead|principal|staff|ii|iii|iv)\b", " ",
-                   (s or "").lower())
-        return re.sub(r"[^a-z0-9]+", "", s)
-
-    out: set[tuple[str, str]] = set()
+    out: list[dict] = []
     # README is the board. jobs-data.json only holds the recent window, so
     # checking it alone lets older rows through and the merger then drops them
     # as URL duplicates -- wasted rows reported as net-new.
@@ -691,8 +733,10 @@ def board_rows() -> set[tuple[str, str]]:
         if len(cells) < 5 or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", cells[0]):
             continue
         link = re.search(r"\[([^\]]+)\]", cells[1])
-        title = link.group(1) if link else cells[1]
-        out.add((key(cells[2]), key(title)))
+        out.append({"posted": cells[0],
+                    "title": link.group(1) if link else cells[1],
+                    "company": cells[2],
+                    "location": cells[3] if len(cells) > 3 else ""})
     return out
 
 
@@ -737,22 +781,24 @@ def main() -> int:
     print(f"dated within {args.days}d: {len(dated)}")
 
     known = board_rows()
+    by_company: dict[str, list[dict]] = {}
+    for row in known:
+        k = board_company_key(row["company"])
+        by_company.setdefault(k[:4] if len(k) >= 4 else k, []).append(row)
+
     seen, rows, already = set(), [], 0
     for r in dated:
         url_key = re.sub(r"\?.*$", "", (r.get("url") or "").rstrip("/").lower())
         if not url_key or url_key in seen:
             continue
         seen.add(url_key)
-        pair = (re.sub(r"[^a-z0-9]+", "", (r.get("company") or "").lower()),
-                (r.get("title") or "").lower())
-        norm_pair = (pair[0], re.sub(r"\b(sr|senior|jr|junior|lead|principal|staff|ii|iii|iv)\b",
-                                     " ", pair[1]))
-        norm_pair = (norm_pair[0], re.sub(r"[^a-z0-9]+", "", norm_pair[1]))
-        if norm_pair in known:
+        k = board_company_key(r.get("company") or "")
+        bucket = by_company.get(k[:4] if len(k) >= 4 else k, [])
+        if any(same_posting(r, row) for row in bucket):
             already += 1
             continue
         rows.append(r)
-    print(f"already on the board: {already}")
+    print(f"already on the board (cross-URL match): {already}")
 
     rows.sort(key=lambda r: (r["posted"], r["company"]), reverse=True)
     for r in rows:

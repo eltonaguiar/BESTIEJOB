@@ -1,5 +1,10 @@
 # Deep ATS sweep: 257 employer boards, verified dates only
 
+> **Partly superseded 2026-11-04.** The Tavily 432 recorded below as a throttle
+> was a plan limit, and Workable's 429 was a per-IP ban — both are fixed. The
+> sweep now covers 479 boards and finds 0 net-new rows. See
+> `2026-11-04-cross-url-dedupe-and-rate-limit-fixes.md`.
+
 **Date:** 2026-11-03
 **Result:** board 1,411 → **1,413 jobs**. The sweep contributed three rows —
 Danaher's Salesforce Field Service Developer (Concord, ON, 2026-11-02), SAIT's

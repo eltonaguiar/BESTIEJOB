@@ -98,15 +98,70 @@ NOT_AN_EMPLOYER = {
 }
 
 
+def _post(url: str, body: dict, headers: dict | None = None, timeout: int = 45) -> dict:
+    req = urllib.request.Request(
+        url, data=json.dumps(body).encode(),
+        headers={"Content-Type": "application/json", **(headers or {})})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read())
+
+
 def tavily(query: str, key: str, max_results: int = 40) -> list[str]:
-    body = json.dumps({"api_key": key, "query": query,
-                       "max_results": max_results, "search_depth": "advanced",
-                       "include_answer": False}).encode()
-    req = urllib.request.Request("https://api.tavily.com/search", data=body,
-                                 headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=40) as r:
-        data = json.loads(r.read())
+    data = _post("https://api.tavily.com/search",
+                 {"api_key": key, "query": query, "max_results": max_results,
+                  "search_depth": "advanced", "include_answer": False})
     return [x.get("url") for x in (data.get("results") or []) if x.get("url")]
+
+
+def exa(query: str, key: str, max_results: int = 40) -> list[str]:
+    data = _post("https://api.exa.ai/search",
+                 {"query": query, "numResults": min(max_results, 100), "type": "auto"},
+                 {"x-api-key": key})
+    return [x.get("url") for x in (data.get("results") or []) if x.get("url")]
+
+
+def firecrawl(query: str, key: str, max_results: int = 40) -> list[str]:
+    data = _post("https://api.firecrawl.dev/v2/search",
+                 {"query": query, "limit": min(max_results, 100)},
+                 {"Authorization": f"Bearer {key}"})
+    items = data.get("data") or []
+    if isinstance(items, dict):
+        items = items.get("web") or []
+    return [x.get("url") for x in items if isinstance(x, dict) and x.get("url")]
+
+
+# Provider pool. Tavily's 432 is "plan limit reached" (both keys carry separate
+# quotas and both hit it), so discovery used to stop dead and report it as a
+# transient throttle. Rotating across three providers means one exhausted plan
+# no longer ends the pass -- which is what "205 of the tokens" actually was.
+POOL = (("tavily", "TAVILY_API_KEY", tavily),
+        ("tavily-alt", "TAVILY_API_KEY_ALT", tavily),
+        ("exa", "EXA_API_KEY", exa),
+        ("firecrawl", "FIRECRAWL_API_KEY", firecrawl))
+
+# A 401/402/403/429/432 means this credential is not usable right now; further
+# calls only burn time. Anything else (timeout, malformed body) is worth
+# retrying on the next query.
+FATAL = {401, 402, 403, 429, 432}
+
+
+def search(query: str, dead: set[str], max_results: int = 40) -> tuple[list[str], str]:
+    last = "no provider"
+    for name, env, fn in POOL:
+        if name in dead:
+            continue
+        key = get_key(env)
+        if not key:
+            dead.add(name)
+            continue
+        try:
+            return fn(query, key, max_results), name
+        except Exception as exc:                            # noqa: BLE001
+            code = getattr(exc, "code", None)
+            last = f"{name}:{type(exc).__name__}{code or ''}"
+            if code in FATAL:
+                dead.add(name)
+    return [], last
 
 
 def main() -> int:
@@ -116,19 +171,14 @@ def main() -> int:
     ap.add_argument("--max-queries", type=int, default=len(QUERIES) + len(CITY_ANCHOR))
     args = ap.parse_args()
 
-    key = get_key("TAVILY_API_KEY") or get_key("TAVILY_API_KEY_ALT")
-    if not key:
-        print("no Tavily key; nothing to do")
-        return 1
-
     known = json.loads(OUT.read_text()) if OUT.exists() else {}
     found: dict[str, set[str]] = {k: set(v) for k, v in known.items()}
+    dead: set[str] = set()
 
     for route, query in (QUERIES + CITY_ANCHOR)[:args.max_queries]:
-        try:
-            urls = tavily(query, key)
-        except Exception as exc:
-            print(f"[{route}] {type(exc).__name__} {str(exc)[:60]}")
+        urls, provider = search(query, dead)
+        if not urls:
+            print(f"[{route:16}] no results ({provider})")
             continue
         pat = EXTRACT[route]
         before = len(found.get(route, set()))
@@ -140,8 +190,10 @@ def main() -> int:
                     continue
                 found.setdefault(route, set()).add(slug)
         gained = len(found.get(route, set())) - before
-        print(f"[{route:16}] {len(urls):2} urls -> +{gained} new "
+        print(f"[{route:16}] {provider:10} {len(urls):3} urls -> +{gained} new "
               f"(total {len(found.get(route, set()))})")
+    if dead:
+        print(f"providers exhausted: {', '.join(sorted(dead))}")
 
     payload = {k: sorted(v) for k, v in found.items() if v}
     if args.dry_run:
