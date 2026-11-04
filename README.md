@@ -1176,56 +1176,56 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-04T16:33:31.611Z** · 1414 live postings from 9 public sources · 82 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-04T17:19:32.396Z** · 1439 live postings from 9 public sources · 82 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-04 | [Service Now ITAM/Discovery – Remote · Canada \| Zodiac Solutions, Inc](https://www.jobs.ca/zodiac-solutions-inc/jobs/service-now-itam-discovery-remote-canada-2bdbd9cfbe4b) | Remote · Canada \| Zodiac Solutions, Inc | Canada |
+| 2026-11-04 | [ServiceNow ITAM Consultant - Secret Clearance - Alldus International Consulting Limited - Remote \| Dice.com](https://www.dice.com/job-detail/0a53baba-3486-426c-b6f3-4046fd578f7c) | Unknown | Canada |
+| 2026-11-04 | [Remote IT Asset Manager - ServiceNow & Global Portfolio - Vancouver \| Sercanto](https://fr.ca.sercanto.com/detail/a/remote-strong-it-strong-asset-manager-servicenow-global-portfolio_vancouver_172004063) | ServiceNow & Global Portfolio - Vancouver \| Sercanto | Canada |
+| 2026-11-04 | [ServiceNow Technical Consultant, Toronto, Ontario, Canada \| Cognizant Careers](https://careers.cognizant.com/global-en/jobs/00069526961/servicenow-technical-consultant/) | Cognizant Careers | Canada |
+| 2026-11-04 | [Remote Canada ServiceNow SAM Automation Engineer - Vancouver \| Sercanto](https://ca.sercanto.com/detail/a/remote-canada-servicenow-sam-automation-engineer_vancouver_171870159) | Vancouver \| Sercanto | Canada |
+| 2026-11-04 | [ServiceNow ITAM Architect - Ateko, backed by Bell Canada in Canada \| Jobstore](https://www.jobstore.com/ca/job/l12659855/servicenow-itam-architect-job) | Ateko, backed by Bell Canada in Canada \| Jobstore | Canada |
+| 2026-11-04 | [Senior ITAM Governance Analyst / Business Systems Analyst - Dacaro Software Services Inc \| Toronto, ON](https://www.simplyhired.ca/job/NLMJBONxJ8pGOcAi4qdgT9e0Zz8z2O9vyjFMr8_fipV4azimlY86rw) | Dacaro Software Services Inc \| Toronto, ON | Canada |
+| 2026-11-04 | [Associate ServiceNow Application Developer (September 2026 - Calgary) - Calgary \| Sercanto](https://ca.sercanto.com/detail/a/associate-servicenow-application-developer-september-2026-calgary_calgary_185221933) | Calgary) - Calgary \| Sercanto | Canada |
 | 2026-11-04 | [Job opening - ServiceNow Technical Architect in Toronto \| Randstad](https://www.randstad.com/jobs/servicenow-technical-architect_toronto_47644537/) | ServiceNow Technical Architect in Toronto \| Randstad | Canada |
 | 2026-11-04 | [ServiceNow Architect Job - Toronto, ON, Canada (Epsilon Solutions)](https://www.iitjobs.com/job/servicenow-architect-toronto-on-canada-566748) | Toronto, ON, Canada (Epsilon Solutions) | Canada |
 | 2026-11-04 | [Sr Principal Platform Architect, Toronto \| ServiceNow Careers](https://careers.servicenow.com/jobs/744000127485110/sr-principal-platform-architect/) | ServiceNow Careers | Canada |
 | 2026-11-04 | [Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology - Deloitte \| Toronto, ON](https://www.simplyhired.ca/job/4TUUvRXR2rvRtpg1WHfN5J8KI17lGncJ06igD2Bw_K8iPLDa0po4HQ) | Deloitte \| Toronto, ON | Canada |
-| 2026-11-04 | [ServiceNow Developer \| Insight Global Jobs](https://insightglobal.dejobs.org/vancouver-bc/servicenow-developer/4815E8EE49E944CCBFA5934F8AFED634/job/) | Insight Global Jobs | Canada |
-| 2026-11-04 | [ServiceNow Developer Job - Toronto, ON, Canada (Epsilon Solutions)](https://www.iitjobs.com/job/servicenow-developer-toronto-on-canada-495963) | Toronto, ON, Canada (Epsilon Solutions) | Canada |
-| 2026-11-04 | [Remote ServiceNow WSD Dev for 3-Month Contract](https://www.jobleads.com/ca/job/remote-servicenow-wsd-dev-for-3-month-contract--canada--e39b2f838521d43bb3c3eed2c6ab1bc3a) | Unknown | Canada |
-| 2026-11-04 | [Senior ServiceNow Developer (ITSM & ITOM) – Remote · Canada \| Jobs.ca](https://www.jobs.ca/systematix/jobs/senior-servicenow-developer-itsm-itom-remote-canada-4fffe5013291) | Remote · Canada \| Jobs.ca | Canada |
-| 2026-11-04 | [ServiceNow Developer — Soroc Technology, Remote (Hiring Now) \| Canada Jobs Expertini](https://ca.expertini.com/job/servicenow-developer-remote-soroc-technology-3875-9670297/) | Canada Jobs Expertini | Canada |
-| 2026-11-04 | [ServiceNow Developer (Canada) in Canada \| Kit Job](https://www.kitjob.ca/job/181847876/servicenow-developer-canada) | Kit Job | Canada |
-| 2026-11-04 | [ServiceNow Functional/Technical Consultant - Operate \| Deloitte Jobs](https://jobsus.deloitte.com/toronto-on-on/servicenow-functionaltechnical-consultant-operate/6168D7B29E6F4C14B8FA6EB8C17698FD/job/) | Operate \| Deloitte Jobs | Canada |
-| 2026-11-04 | [ServiceNow Business Process Consultant (Manager) - Huron \| Built In Toronto](https://builtintoronto.com/job/servicenow-business-process-consultant-manager/10711317) | Huron \| Built In Toronto | Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
-| 2026-11-04 | [Technical Architect / Senior Technical Architect - PubSec (Canada) - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote \| Salesforce Careers](https://www.salesforce.com/company/careers/jobs/JR353468/technical-architect-senior-technical-architect-pubsec-canada/) | Unknown | Canada |
-| 2026-11-04 | [Salesforce Tech Lead / Architect with Health Cloud - Recutify Inc. \| Toronto, ON](https://www.simplyhired.ca/job/cPtl4MEh3a-Vu0muhmbq58dIZ_aU9XbYksQ0kVjlxrffsQdOhfLbTw) | Recutify Inc. \| Toronto, ON | Canada |
-| 2026-11-04 | [Solution Architect, Salesforce Core / Agentforce, Canada - OSF Digital \| Built In Toronto](https://builtintoronto.com/job/solution-architect-salesforce-core-agentforce-canada/10184300) | OSF Digital \| Built In Toronto | Canada |
-| 2026-11-04 | [Salesforce Platform Architect – Remote \| GoTo](https://www.jobs.ca/goto/jobs/salesforce-platform-architect-remote-canada-ff11ceb583c1) | Remote \| GoTo | Canada |
-| 2026-11-04 | [Remote Salesforce Technical Architect in Toronto, Ontario - Orion Global Solutions](https://ca.trabajo.org/job-1918-274f8ab1f9b2cb3ba4aa1bbb9a831df2) | Orion Global Solutions | Canada |
-| 2026-11-04 | [Salesforce Industries Cloud Architect (Remote - CloudKettle Inc \| Toronto, ON](https://www.simplyhired.ca/job/zB_R8fQYap01hyQv9CNPqFq8kDc60329tJOZgPfdQFE3OvVt0Ykneg) | CloudKettle Inc \| Toronto, ON | Canada |
-| 2026-11-04 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds) - Canada - Toronto, Canada - Montreal, Canada - Vancouver \| Salesforce Careers](https://www.salesforce.com/jp/company/careers/jobs/JR353172/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds/) | Unknown | Canada |
-| 2026-11-04 | [Salesforce Administrator - Remote \| YO AI Labs](https://yoailabs.careers-page.com/jobs/d8251b1a-1b6d-4c1d-8162-9c5f28edc5ef) | Remote \| YO AI Labs | Canada |
-| 2026-11-04 | [Salesforce Administrator – Aviva – Toronto, ON \| Placetohire](https://placetohire.com/jobs/description/salesforce-administrator/59124977) | Aviva – Toronto, ON \| Placetohire | Canada |
-| 2026-11-04 | [Salesforce Administrator – Remote · Toronto, Ontario, Canada \| Jobs.ca](https://www.jobs.ca/kort-payments/jobs/salesforce-administrator-remote-toronto-ontario-canada-abbeb2bdf21a) | Remote · Toronto, Ontario, Canada \| Jobs.ca | Canada |
-| 2026-11-04 | [Salesforce Administrator - Applied Systems \| Built In Toronto](https://builtintoronto.com/job/associate-salesforce-administrator/10171072) | Applied Systems \| Built In Toronto | Canada |
-| 2026-11-04 | [Salesforce Administrator (Contract position)](https://jobboard.d9f.my-board.org/remote-jobs/salesforce-administrator-contract-position) | Unknown | Canada |
+| 2026-11-04 | [Front-End Salesforce Commerce Cloud Job(Sfcc) Developer at GTT - Toronto, OH](https://www.sonara.ai/job-details/front-end-salesforce-commerce-cloud-at-gtt-202f34c3-f609-f317-cc69-b8cf5dcdf1e8) | GTT - Toronto, OH | Canada |
+| 2026-11-04 | [Salesforce Commerce Cloud Architect Job - Toronto, ON, Canada (MSR Technology Group)](https://www.iitjobs.com/job/salesforce-commerce-cloud-architect-toronto-on-canada-630054) | Toronto, ON, Canada (MSR Technology Group) | Canada |
+| 2026-11-04 | [Salesforce Commerce Cloud – Hybrid · Toronto, ON \| Apptoza Inc.](https://www.jobs.ca/apptoza-inc/jobs/salesforce-commerce-cloud-toronto-on-6e8d707c471d) | Hybrid · Toronto, ON \| Apptoza Inc. | Canada |
+| 2026-11-04 | [Salesforce Commerce Cloud – Hybrid · Toronto, ON \| Apptoza Inc.](https://www.jobs.ca/apptoza-inc/jobs/salesforce-commerce-cloud-toronto-on-3dcffb5abc78) | Hybrid · Toronto, ON \| Apptoza Inc. | Canada |
+| 2026-11-04 | [Salesforce Developer \| Spait Infotech](https://www.jobs.ca/spait-infotech/jobs/salesforce-developer-canada-21f68191f6c0) | Spait Infotech | Canada |
+| 2026-11-04 | [Salesforce Developer (up to $11,000) - Jobright.ai in Canada \| Jobstore](https://www.jobstore.com/ca/job/l29362516/salesforce-developer-job) | Jobright.ai in Canada \| Jobstore | Canada |
+| 2026-11-04 | [242 Junior Salesforce Developer jobs in Canada](https://ca.linkedin.com/jobs/junior-salesforce-developer-jobs) | Unknown | Canada |
+| 2026-11-04 | [NTT DATA hiring Salesforce QA Automation Engineer (Junior/Mid) with CRT - Remote Canada Position • Remote (Work from Home) \| Himalayas](https://himalayas.app/companies/nttdata/jobs/salesforce-qa-automation-engineer-junior-mid-with-crt-remote-canada-position) | NTT DATA | Canada |
+| 2026-11-04 | [Salesforce Developer - Campus4Tech \| BeBee](https://bebee.com/ca/jobs/salesforce-developer-campus4tech-none-canada--jobgoal-29323_161104898506) | Campus4Tech \| BeBee | Canada |
+| 2026-11-04 | [Junior Salesforce Developer - Electric Mind \| Built In Toronto](https://builtintoronto.com/job/junior-salesforce-developer/6885152) | Electric Mind \| Built In Toronto | Canada |
+| 2026-11-04 | [BMO Campus Junior Salesforce Administrator - BMO \| BeBee](https://bebee.com/ca/jobs/bmo-campus-junior-salesforce-administrator-bmo-toronto-on-canada--jobgoal-24997_C289431925C95DB00CAA82713FF38657) | BMO \| BeBee | Canada |
+| 2026-11-04 | [Salesforce Business Analyst - Remote Canada Role @ NTT DATA Services](https://www.tealhq.com/job/salesforce-business-analyst_7ea1a31a54ca25da6e8f2158e7db34c917924) | Remote Canada Role @ NTT DATA Services | Canada |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
-| 2026-11-04 | [Business Analyst, Toronto Job Details \| Fitch Group](https://careers.fitch.group/job/Toronto-Business-Analyst%2C-Toronto-ON/1428213533/) | Fitch Group | Canada | other |
-| 2026-11-04 | [BUSINESS ANALYST 311 Job Details \| City of Toronto](https://jobs.toronto.ca/jobsatcity/job/Toronto-BUSINESS-ANALYST-311-ON-M5V-3C6/607576217/) | City of Toronto | Canada | other |
-| 2026-11-04 | [Flight Centre Careers Job Listings](https://careers.fctgcareers.com/en/job/531594/fcm-business-analyst-toronto-on) | Unknown | Canada | other |
-| 2026-11-04 | [Business Analyst Jobs in Toronto, ON](https://www.roberthalf.com/ca/en/jobs/toronto-on/business-analyst) | Unknown | Canada | other |
-| 2026-11-04 | [Business Process Analyst in the Toronto Region \| Available jobs - Job Bank](https://www.jobbank.gc.ca/marketreport/jobs/296426/geo9219) | Available jobs - Job Bank | Canada | other |
-| 2026-11-04 | [327 Business Jobs in Toronto, Ontario \| Randstad Canada](https://www.randstad.ca/jobs/q-business/ontario/toronto/) | Randstad Canada | Canada | other |
-| 2026-11-04 | [Data Analyst Job Details \| Aecon](https://jobs.aecon.com/ONxpress/job/Toronto-Data-Analyst-ON/599680217/) | Aecon | Canada | other |
-| 2026-11-04 | [GRO - Data Analyst at Manulife](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/GRO---Data-Analyst_JR26061467) | Data Analyst at Manulife | Canada | other |
-| 2026-11-04 | [713 entry level data analyst jobs in Toronto, ON, October 2026 \| Glassdoor](https://www.glassdoor.ca/Job/toronto-entry-level-data-analyst-jobs-SRCH_IL.0,7_IC2281069_KO8,32.htm) | Glassdoor | Canada | other |
-| 2026-11-04 | [Data Analyst Jobs in Ontario, Canada - 2026 \| Wellfound](https://wellfound.com/role/l/data-analyst/ontario) | 2026 \| Wellfound | Canada | other |
+| 2026-11-04 | [Senior SFCC Full Stack Engineer – Hybrid · Toronto, ON \| Jobs.ca](https://www.jobs.ca/global-technical-talent-an-inc-5000-company/jobs/senior-sfcc-full-stack-engineer-toronto-on-59465089f58c) | Hybrid · Toronto, ON \| Jobs.ca | Canada | other |
+| 2026-11-04 | [Manager, IT Operations – Toronto, ON \| Armstrong Fluid Technology](https://www.jobs.ca/armstrong-fluid-technology/jobs/manager-it-operations-toronto-on-8a5ab071869f) | Toronto, ON \| Armstrong Fluid Technology | Canada | other |
+| 2026-11-04 | [IT End User Support Manager](https://www.getclera.com/jobs/kpmg-canada/it-end-user-support-manager-yqbqd5zr1rzq) | Unknown | Canada | other |
+| 2026-11-04 | [IT Service Manager - Tuor Networks Inc \| Greater Toronto Area, ON](https://www.simplyhired.ca/job/QgswNsxyJroRSW1bHA-s-brBT86p6_sor7UxVEw3SqHTkLZhOcm9ag) | Tuor Networks Inc \| Greater Toronto Area, ON | Canada | other |
+| 2026-11-04 | [Manager, Service Desk in toronto, on - Vena](https://ca.trabajo.org/job-649-1b63b4fd94ca7d2bc570b4c4469147ff) | Vena | Canada | other |
+| 2026-11-04 | [201 IT director Jobs in Canada \| March 2026 \| Adzuna.ca](https://www.adzuna.ca/it-director) | March 2026 \| Adzuna.ca | Canada | other |
+| 2026-11-04 | [Senior Director, Information Technology (Transformation, AI &…](https://www.jobs.ca/quantum-technology-recruiting-inc-qtr/jobs/senior-director-information-technology-transformation-ai-enterprise-systems-toronto-on-74233b8e3ad8) | Unknown | Canada | other |
+| 2026-11-04 | [Manager, Enterprise Technology & Service Delivery - Parkinson Canada - Career Page](https://parkinsoncanada.applytojob.com/apply/p9YOBke1Oh/Manager-Enterprise-Technology-Service-Delivery) | Parkinson Canada - Career Page | Canada | other |
+| 2026-11-04 | [IT Manager – Toronto, ON – US$70K–US$80K/yr \| Dawn Recruiting Agency](https://www.jobs.ca/dawn-recruiting-agency-f7137064c913/jobs/it-manager-toronto-on-3075f02bd5ee) | Toronto, ON – US$70K–US$80K/yr \| Dawn Recruiting Agency | Canada | other |
+| 2026-11-04 | [It Manager Jobs in Toronto (1,000+ Open Roles) \| LinkedIn](https://ca.linkedin.com/jobs/it-manager-jobs-toronto-on) | LinkedIn | Canada | other |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
