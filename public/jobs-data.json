@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-04T06:35:22+00:00",
+ "generatedAt": "2026-11-04T07:05:33+00:00",
  "timezone": "America/Toronto",
- "count": 422,
+ "count": 421,
  "appliedHidden": 6,
  "sources": [
   "Adzuna",
@@ -4954,6 +4954,10 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/staff-site-reliability-engineer-canada-protected-b-at-servicenow-4487203515"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5952726500"
     }
    ]
   },
@@ -8836,26 +8840,6 @@
    ],
    "french": false,
    "search": "java full stack engineer vdart inc regent park, city of toronto adzuna other full stack role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Cloud Architect",
-   "company": "GlassHouse Systems",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5951979726?utm_medium=api&utm_source=54ce986e",
-   "note": "DevOps / Cloud",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "cloud architect glasshouse systems toronto, ontario adzuna other devops / cloud role fit toronto area",
    "alternates": []
   },
   {
