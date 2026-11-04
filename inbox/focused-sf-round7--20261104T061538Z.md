@@ -1,0 +1,134 @@
+---
+model: focused-platform-sf
+scanned_at: 20261104T061538Z
+task: sf-focused-search-round-7
+---
+
+# SF Focused Search — Round 7
+
+Raw results: 122 | Normalized: 122 | Score >= 5: 122
+
+| Posted | Role | Company | Location | Score | Source |
+|---|---|---|---|---|---|
+| 2026-11-04 | [Versapay - Salesforce Developer](https://jobs.lever.co/versapay/7906bc29-f17e-44d2-a41b-334e6ce0608c) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Developer](https://jobgether.com/offer/6a73572de9f5b786586b62f1-salesforce-developer) | Unknown | Canada | 7 | exa (tier 0) |
+| 2024-04-02 | [Salesforce Developer @ Versapay / Simplify Jobs](https://simplify.jobs/p/e25d6afb-0889-4f66-879a-0f0d41eec3bb/Salesforce-Developer) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-09-20 | [Salesforce developer - hays - Hays (Toronto, Ontario, Canada)](https://jobsca.org/salesforce-developer_toronto-c117072/2026-09-hays_i4210697855) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Integration Developer / Hirify](https://hirify.me/jobs/756297-salesforce-integration-developer-workato) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-09-20 | [Salesforce developer - Hays (Toronto, Ontario, Canada)](https://jobsca.org/salesforce-developer_toronto-c117072/2026-09-hays_i4210694592) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-06-19 | [Salesforce Engineer II - Kindsight](https://careers.kindsight.io/jobs/649922-salesforce-engineer-ii) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Senior Salesforce Developer (Remote)](https://jobgether.com/offer/6a5f9e971b23f4f87b2d22ee-senior-salesforce-developer-remote) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-08-22 | [Senior Salesforce Developer (Remote) / Flexgen](https://flexgen.zya.me/job/senior-salesforce-developer-remote-8) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Senior Salesforce Developer / Launchpad Technologies / Remote / July 2026](https://jobera.com/job/launchpad-technologies-senior-salesforce-developer-7bb4596f/) | Unknown | Canada | 8 | exa (tier 0) |
+| 2022-07-15 | [Salesforce Developer, Toronto, ON-199 Bay Street, Ontario, Canada / Cognizant Careers](https://careers.cognizant.com/global-en/jobs/00068455712/salesforce-developer) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [[Hiring] Salesforce Developer @emergiTEL](https://remotive.com/remote/jobs/software-development/salesforce-developer-6338007) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-09-21 | [Ensiti Salesforce Developer – 100% Remote  / SmartRecruiters](https://jobs.smartrecruiters.com/ensiti/744000150784335-salesforce-developer-100-remote-) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Developer - Digital Customer @ Deloitte / Discover Technata Job Board](https://jobs.discovertechnata.com/companies/deloitte-2-548ffef4-5e36-4ac1-9d45-edef2fdcac69/jobs/95464149-salesforce-developer-digital-customer) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-10-15 | [Job opening - Salesforce Developer in Vancouver / Randstad Canada](https://www.randstad.ca/jobs/salesforce-developer_vancouver_47625590) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Senior Salesforce Developer – Remote · Canada / AgileGrid Solutions](https://www.jobs.ca/agilegrid-solutions/jobs/senior-salesforce-developer-remote-canada-bd5efad99582) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Developer – Remote · Quebec, Quebec, Canada / Brunel](https://www.jobs.ca/brunel/jobs/salesforce-developer-remote-quebec-quebec-canada-d93ee83e55ca) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-10-21 | [Salesforce Technical Lead - Raise - find a more meaningful working experience](https://raise.jobs/careers/262162-salesforce-technical-lead) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Developer – Remote · Canada / LGS Talent](https://www.jobs.ca/talents-lgs/jobs/salesforce-developer-remote-canada-294fa22f2418) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Remote, Canada Salesforce developer Jobs – 27 Openings This Week / Workopolis](https://www.workopolis.com/search?q=salesforce%2520developer&l=remote%252c%2520canada) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [/ JA Canada](https://jacanada.org/news/career-opportunity-salesforce-it-administrator/) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [[Hiring] Salesforce Administrator @Connective](https://remotive.com/remote/jobs/software-development/salesforce-administrator-3811603) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-08-25 | [Information Systems Administrator (Salesforce) - Toronto / CharityVillage](https://www.charityvillage.com/job/information-systems-administrator-salesforce-314744) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-07-22 | [Salesforce Administrator / Versapay / 90k-110k/year / Remote Canada](https://jobera.com/job/versapay-salesforce-administrator-6e5efb5e/) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Associate Salesforce Administrator at Ivans](https://jobgether.com/offer/6a568e4fac00a71a5a8f9212-associate-salesforce-administrator) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Developer / Senior Admin 1 Job Details / Celestica International LP](https://careers.celestica.com/job/Toronto-Salesforce-Developer-Senior-Admin-1-ON/1390525533/) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Administrator at Versapay / Apply Now July / TryApplyNow](https://www.tryapplynow.com/jobs/versapay-salesforce-administrator-3a898b59-9ca2-430b-aced-45319b01012d) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Versapay - Salesforce Administrator](https://jobs.lever.co/versapay/066804b9-ac6a-4c65-b613-b5b66ea2362b/apply) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-07-14 | [Sales Operations Solutions Architect (Remote Canada) / CareerMint](https://careermint.infinityfreeapp.com/remote-jobs/sales-operations-solutions-architect-remote-canada) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Senior Salesforce Administrator – Remote · Canada / Solink](https://www.jobs.ca/solink/jobs/senior-salesforce-administrator-remote-canada-07251edfeac7) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Administrator – Remote · Canada / Lorven Technologies Inc.](https://www.jobs.ca/lorven-technologies-inc/jobs/salesforce-administrator-remote-canada-d70700893805) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Administrator - Remote – YO AI Labs – Remote job Canada](https://ca.talent.com/view?id=642425182421847319) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Administrator – Remote · Canada / Lorven Technologies Inc.](https://www.jobs.ca/lorven-technologies-inc/jobs/salesforce-administrator-remote-canada-14a5a123f54f) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Remote Salesforce Administrator – Versapay – Remote job Joliette, QC](https://ca.talent.com/view?id=630100838995069897) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Administrator – Remote · Toronto, Ontario, Canada / Jobs.ca](https://www.jobs.ca/kort-payments/jobs/salesforce-administrator-remote-toronto-ontario-canada-abbeb2bdf21a) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Administrator - Canada / CharityVillage](https://www.charityvillage.com/job/salesforce-administrator-353326) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-01 | [Salesforce Administrator at The Christian Reformed Church in North America](https://dailyremote.com/remote-job/salesforce-administrator-5771773) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Administrator / HireNow](https://hirenow.p4x.22web.org/remote-jobs/salesforce-administrator-04fd778b) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [[Hiring] Senior Salesforce Administrator @Desjardins](https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [salesforce administrator Jobs in La Prairie, QC / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-salesforce-administrator-l-la-prairie-qc) | Unknown | Canada | 6 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce technical solution architect - Nesto Cloud (Calgary)](https://jobsca.org/technical-solution_calgary-c115236/2026-08-nesto-cloud_i4179171528) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-08-05 | [Sr. Salesforce Architect - Tenth Revolution Group](https://www.tenthrevolution.com/job/sr-salesforce-architect/) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Senior Lead Solutions Architect, Salesforce Migrations](https://jobgether.com/offer/6a68e7421b23f4f87b41ec1e-senior-lead-solutions-architect-salesforce-migrations) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [AI Strategy & Transformation Architect](https://jobgether.com/offer/6a8909c91de6f4542a4e9c5a-ai-strategy-transformation-architect) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Technical Architect in Remote / Careers at Canada](https://careers-kinaxis.icims.com/jobs/34460/salesforce-technical-architect/job) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-07-24 | [Salesforce Solution Architect - Experience Cloud - Remote Canada Position (Toronto, ON, CA) / Remotescape](https://remotescape.social-networking.me/job/salesforce-solution-architect-experience-cloud-remote-canada-position-toronto-on-ca) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Technical Architect / Senior Technical Architect - PubSec (Canada) - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote / Salesforce Careers](https://www.salesforce.com/company/careers/jobs/JR353468/technical-architect-senior-technical-architect-pubsec-canada/) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-08-03 | [Senior Business Systems Architect / Flexgen](https://flexgen.zya.me/job/senior-business-systems-architect) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Architect at Adastra - Remote / Jobs.ca](https://www.jobs.ca/job/639ec148-3fc1-473f-9246-2b2c79fc3d9b) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Solution Architect (Remote, Canada)](https://ca.linkedin.com/jobs/view/salesforce-solution-architect-remote-canada-at-opentable-4193701693) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-04-30 | [Technical Architect / Senior Technical Architect - PubSec (Canada) - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote / Salesforce Careers](https://www.salesforce.com/company/careers/jobs/JR353468/technical-architect-senior-technical-architect-pubsec-canada/?bc=DB) | Unknown | Canada | 9 | parallel-ai (tier 0) |
+| 2026-11-04 | [Solution Architect, Salesforce Core / Agentforce, Canada / OSF Digital](https://www.jobs.ca/osf-digital/jobs/solution-architect-salesforce-core-agentforce-canada-remote-canada-34335360905f) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-04-30 | [Solution Architect / Senior Solution Architect - PubSec - Canada - Canada - Toronto, Canada - Montreal, Canada Ontario - Montreal Metro - Remote, Canada - Toronto Metro - Remote / Salesforce Careers](https://www.salesforce.com/company/careers/jobs/JR354245/solution-architect-senior-solution-architect-pubsec-canada?bc=DB&gh_src=Alkeon%20Capital%20job%20board) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-04-30 | [Technical Architect / Senior Technical Architect - PubSec - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote / Salesforce Careers](https://www.salesforce.com/company/careers/jobs/JR353468/technical-architect-senior-technical-architect-pubsec?bc=DB) | Unknown | Canada | 9 | parallel-ai (tier 0) |
+| 2026-11-04 | [Canada Remote enterprise architect Jobs – 471 Openings This Week / Workopolis](https://www.workopolis.com/search?l=canada&q=remote%20enterprise%20architect) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-10-12 | [Solution Architect, Salesforce Core / Agentforce, Canada / jobvoyage.site](https://jobvoyage.site/job/solution-architect-salesforce-core-agentforce-canada) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-09-21 | [Principal Salesforce Architect @ PointClickCare / Simplify Jobs](https://simplify.jobs/p/0b2492fd-5810-408a-b5c7-d9eec107549d/Principal-Salesforce-Architect) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-04-30 | [Technical Architect / Senior Technical Architect - PubSec - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote / Salesforce Careers](https://www.salesforce.com/jp/company/careers/jobs/JR353468/salesforce-technical-architect-pubsec/?bc=DB) | Unknown | Canada | 9 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Solution Architect – Hybrid · Vancouver, BC / Jobs.ca](https://www.jobs.ca/ia-financial-group/jobs/salesforce-solution-architect-vancouver-bc-8cf0f37d29d4) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Solution Architect / Senior Solution Architect - PubSec - Canada at Salesforce / Remote Source](https://www.remotesource.com/jobs/WLNs6KUBo8_WVPeB0lthZ-solution-architect-senior-solution-architect-pubsec-canada-at-salesforce) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Data Cloud & Marketing Cloud Consultant - CRM Force / Career Page](https://www.careers-page.com/digital-aura-careers/job/8X9X95VV) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Implementation Consultant (Salesforce) / Hirify](https://hirify.me/jobs/750354-implementation-consultant-salesforce) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-07-28 | [Sr. Salesforce Consultant, Field Service at Neuraflash](https://job-boards.greenhouse.io/neuraflash/jobs/6128982004) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [V2 - Senior Salesforce Consultant](https://jobs.lever.co/v2sa/2675470b-ea19-4374-81bf-5e311ea17c3d) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-07-22 | [Salesforce Consultant (Remote Canada) / SkillDock](https://skilldock.lovestoblog.com/job/salesforce-consultant-remote-canada-5041130) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Passion Fruit Partners hiring Salesforce Consultant - Managed Services, Nonprofit in Canada / LinkedIn](https://ca.linkedin.com/jobs/view/salesforce-consultant-managed-services-nonprofit-at-passion-fruit-partners-4454314956) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Marketing Cloud Consultant](https://jobgether.com/offer/6a76081a490731f1e18ad0d5-marketing-cloud-consultant) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Salesforce consultant - managed services, nonprofit - Passion Fruit Partners](https://jobsca.org/salesforce-consultant_winnipeg-c115701/2026-08-passion-fruit-partners_i4178275714) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Technical Consultant (Contracted Role) at Global Fund for Children](https://meterwork.com/job/salesforce-technical-consultant-contracted-role_at_global-fund-for-children_gRBY9) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Solution Consultant  / BeyondTrust Careers / BeyondTrust](https://www.beyondtrust.com/company/careers/7858472) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Senior Consultant - Salesforce – Remote · Canada / fusionSpan](https://www.jobs.ca/fusionspan/jobs/senior-consultant-salesforce-remote-canada-032e3160de7f) | Unknown | Canada | 9 | parallel-ai (tier 0) |
+| 2026-11-04 | [Remote, Canada Salesforce consultant Jobs – 57 Openings This Week / Workopolis](https://www.workopolis.com/search?l=remote%2C%20canada&q=salesforce%20consultant) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-10-05 | [Senior Salesforce Consultant - Alto](https://www.altoconsultants.ca/careers/salesforce-consultant-senior) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Consultant @ Belmar Consulting Group](https://www.tealhq.com/job/salesforce-consultant_7ea1ae558ad97a7de36a09eb6d0ef37745b30) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Canada Salesforce consultant Jobs – 355 Openings This Week / Workopolis](https://www.workopolis.com/search?l=canada&q=salesforce%20consultant) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Consultant Jobs 2026 / MarTechJobs](https://martechjobs.io/jobs/salesforce/consultant) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Remote Senior Salesforce Consultant (Remote Canada) – Directive Corporation – Remote job Granby, QC](https://ca.talent.com/view?id=632978314359545486) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-10-05 | [Ensiti Salesforce Consultants (remote Canada )  / SmartRecruiters](https://jobs.smartrecruiters.com/Ensiti/744000153546595-salesforce-consultants-remote-canada-) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [Senior Salesforce Consultant (Remote Canada) - Future Opening](https://www.jobs.ca/directive/jobs/senior-salesforce-consultant-remote-canada-future-opening-remote-canada-1b015c95ee28) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [Remote Senior Salesforce Consultant (Remote Canada) – Directive Corporation – Remote job Blainville, QC](https://ca.talent.com/view?id=632978301373128334) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [Lead Salesforce Platform Developer - Sequoia Connect / Built In](https://builtin.com/job/lead-salesforce-platform-developer/10758210) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Developer & Administrator - Benevity / RemoteOtter](https://remoteotter.com/company/benevity/jobs/remote-salesforce-developer-administrator_8931345c-33ea-4c0b-ba5a-372b7b1da619) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [London Tech Jobs / London, Ontario - Info-Tech Research Group - Senior Salesforce Developer - Canada (Remote)](https://londontechjobs.ca/canada/ontario/london/job.aspx?jid=72b88517-58a9-4d02-8ea6-18cfc98ffccb) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Developer @ OneStream Software](https://www.tealhq.com/job/salesforce-developer_7ea1a6f3392cd4fe30ccdc30a8f5d46b8edd0) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-08-22 | [Salesforce Developer (Contract) / Jobtrail](https://jobtrail.web1337.net/remote-jobs/salesforce-developer-contract) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Senior Salesforce Developer - nesto / Built In](https://builtin.com/job/senior-salesforce-developer/7900213) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Agentforce Specialist. - Pluvo AI Consulting / BeBee](https://bebee.com/ca/jobs/agentforce-specialist-pluvo-ai-consulting--theirstack-678139971) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Salesforce Platform Developer @ Reonomy / Lerer Hippeau Job Board](https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-10-30 | [Salesforce Platform Developer at Altus Group Limited/Groupe Altus](https://startup.jobs/salesforce-platform-developer-altus-group-limited-groupe-a-10638766) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Platform Developer at Altusgroup (Remote)](https://scoutify.com/companies/altusgroup/jobs/3241937) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Developer @ VersaPay / Work In Tech Job Board](https://www1.communitech.ca/companies/versapay/jobs/91040928-salesforce-developer) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Senior Salesforce Developer @ Docker](https://jobs.ashbyhq.com/docker/378b10e7-0e0f-4d01-885b-c769d9e260e8?embed=js) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-06-17 | [Salesforce CPQ & Sales Cloud Developer - Remote Canada Position Job Details / NTT DATA  Services](https://careers-inc.nttdata.com/job/Toronto-Salesforce-CPQ-&-Sales-Cloud-Developer-Remote-Canada-Position-ON/1400717300) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Developer – Remote / Versapay](https://www.jobs.ca/versapay/jobs/salesforce-developer-remote-canada-e62b63e76c32) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-09-11 | [Salesforce Developer – Hybrid · Toronto, ON](https://www.jobs.ca/medcan/jobs/salesforce-developer-toronto-on-caa3e4c5c865) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Senior Salesforce Developer (Remote) @ CloudKettle Inc](https://www.tealhq.com/job/senior-salesforce-developer_7ea1a4b522ef88f446e759bf99e0446962357) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Remote Junior Product Developer in Edmonton, Alberta - Traction Rec](https://ca.trabajo.org/job-5475-af79eddab184e1bfe21167ae1251a2ec) | Unknown | Canada | 6 | exa (tier 0) |
+| 2026-08-21 | [Senior Salesforce Developer (Service &amp; Experience Cloud) / Prairie](https://prairie.totalh.net/remote-jobs/senior-salesforce-developer-service-experience-cloud) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-08-19 | [Senior Salesforce Developer (Service &amp; Experience Cloud) / Taskworks](https://taskworks.totalh.net/remote-jobs/senior-salesforce-developer-service-experience-cloud) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Remote Senior Software Engineer I at Clariti Cloud, Inc.](https://remoteok.com/remote-jobs/remote-senior-software-engineer-i-clariti-cloud-inc-1131527) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-08-16 | [Remote Staff Software Developer, Integration at Zensurance / RemoteFront](https://www.remotefront.com/remote-jobs/zensurance-staff-software-developer-integration-remote-first-bugzd) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Senior Salesforce Developer (Remote) – Remote · Canada / Jobs.ca](https://www.jobs.ca/cloudkettle-inc/jobs/senior-salesforce-developer-remote-remote-canada-93cd61661460) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-10-15 | [poste offert - Salesforce Developer à Vancouver / Randstad Canada](https://www.randstad.ca/fr/jobs/salesforce-developer_vancouver_47625590) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce Developer – 100% Remote (Canada) - Remote](https://www.tealhq.com/job/salesforce-developer_7ea1af84788f822231587e475c65879fbf953) | Unknown | Canada | 8 | parallel-ai (tier 0) |
+| 2026-11-04 | [Remote Salesforce and Systems Administrator in Port Moody, British Columbia - Smile Digital Health](https://ca.trabajo.org/job-1918-abf54ff213b682af5a99262b21102cfd) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Salesforce CPQ & Sales Cloud Developer - Remote Canada Position at NTT Ltd - RevPath](https://revpath.dealhub.io/jobs/499593091-salesforce-cpq-sales-cloud-developer-remote-canada-position) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-11-04 | [Job Application for Senior Salesforce Engineer at Affirm](https://job-boards.greenhouse.io/affirm/jobs/7792932003) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Remote Salesforce and Systems Administrator - Remote Canada – Smile Digital Health – Remote job Calgary, AB](https://ca.talent.com/view?id=623147673574908814) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Remote Salesforce and Systems Administrator - Remote Canada (Varennes) in Varennes / Kit Job](https://www.kitjob.ca/job/196784479/remote-salesforce-and-systems-administrator-remote-canada-varennes) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Remote Salesforce and Systems Administrator in Riverview, New Brunswick - Smile Digital Health](https://ca.trabajo.org/job-1918-8ab912c9ae7713183a4f082e838da44e) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Salesforce BSA  Conga CPQ - Cloudious -  / Dice.com](https://www.dice.com/job-detail/30a4835b-fe2a-47f3-9110-55b66acede42) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-06-01 | [Hiring!!! Salesforce CPQ QA Engineer for Canada location / Srujini V](https://www.linkedin.com/posts/srujini-v-0794a4154_hiring-salesforce-cpq-qa-engineer-for-activity-7467249930546626561-6KJ_) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-11-04 | [Remote Salesforce Solution Architect CPQ (💰~$60k, Vancouver, British Columbia, Canada) at NeuraFlash](https://remoteok.com/remote-jobs/remote-salesforce-solution-architect-cpq-neuraflash-892419) | Unknown | Canada | 7 | exa (tier 0) |
+| 2026-08-01 | [[Remote] Sr. Salesforce Administrator / Workflowza](https://workflowza.zya.me/job/remote-sr-salesforce-administrator-2) | Unknown | Canada | 8 | exa (tier 0) |
+| 2026-10-19 | [Salesforce CPQ & Sales Cloud Developer - Remote Canada Position / jobvoyage.site](https://jobvoyage.site/job/salesforce-cpq-sales-cloud-developer-remote-canada-position) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-10-18 | [Salesforce Sales Cloud & CPQ Developer - Remote Canada Position / jobvoyage.site](https://jobvoyage.site/job/salesforce-sales-cloud-cpq-developer-remote-canada-position) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-02 | [Salesforce CPQ Lead Developer - Epsilon Solutions LTD / ThisJob.ca](https://thisjob.ca/job/salesforce-cpq-lead-developer-caledon-cd9f90bb) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Playwright Automation QA Lead – Salesforce CPQ/CLM / Jobs.ca](https://www.jobs.ca/enterprise-solutions-inc/jobs/playwright-automation-qa-lead-salesforce-cpq-clm-remote-canada-3767d6e3e148) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Remote Salesforce & CPQ Specialist (Part-Time) / Ottawa](https://www.jobleads.com/ca/job/remote-salesforce-cpq-specialist-part-time--ottawa--eba3e51d2dd20338c65881e3da6d7618b) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Salesforce CPQ & Sales Cloud Developer - Remote Canada Position at NTT Ltd - RevPath](https://revpath.dealhub.io/jobs/500420724-salesforce-cpq-sales-cloud-developer-remote-canada-position) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Flexible Cpq Salesforce Jobs – Apply Today to Work From Home in Remote (5 July 2026) / Indeed](https://ca.indeed.com/q-cpq-salesforce-l-remote-jobs.html) | Unknown | Canada | 7 | parallel-ai (tier 0) |
+| 2026-11-04 | [Canada Salesforce cpq Jobs – 45 Openings This Week / Workopolis](https://www.workopolis.com/search?q=salesforce+cpq&l=canada) | Unknown | Canada | 7 | parallel-ai (tier 0) |
