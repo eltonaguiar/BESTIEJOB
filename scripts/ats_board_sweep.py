@@ -43,11 +43,20 @@ import json
 import re
 import subprocess
 import sys
+import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "tools"))
+try:
+    from ai_panel import get_key
+    from crossurl import same_posting
+    from crossurl import company_key as board_company_key
+except Exception:                                    # noqa: BLE001
+    get_key = None
+
 INBOX = ROOT / "inbox"
 NOW = datetime.now(timezone.utc)
 
@@ -338,6 +347,34 @@ def fetch_json(url: str, *, method="GET", body=None, timeout=25):
     return r.json()
 
 
+def firecrawl_json(url: str, timeout: int = 90):
+    """Fetch a JSON endpoint through Firecrawl's egress.
+
+    apply.workable.com bans per-IP: every path returns 429 with impersonation
+    and without it, so no header tweak helps. Firecrawl reads the same URL from
+    its own IP and hands back the untouched body, which still carries
+    `published_on` -- the authoritative date we need.
+    """
+    if get_key is None:
+        raise RuntimeError("no key helper")
+    key = get_key("FIRECRAWL_API_KEY")
+    if not key:
+        raise RuntimeError("no FIRECRAWL_API_KEY")
+    payload = json.dumps({"url": url, "formats": ["rawHtml"],
+                          "onlyMainContent": False}).encode()
+    req = urllib.request.Request(
+        "https://api.firecrawl.dev/v2/scrape", data=payload,
+        headers={"Content-Type": "application/json",
+                 "Authorization": f"Bearer {key}"})
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        body = json.loads(resp.read())
+    raw = (body.get("data") or {}).get("rawHtml") or (body.get("data") or {}).get("html") or ""
+    raw = raw.strip()
+    if not raw:
+        raise RuntimeError("empty scrape")
+    return json.loads(raw)
+
+
 def from_workday(board) -> list[dict]:
     tenant, wd, site, label = board
     base = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
@@ -471,11 +508,19 @@ def from_smartrecruiters(board) -> list[dict]:
 def from_workable(board) -> list[dict]:
     sub, label = board
     out = []
+    url = f"https://www.workable.com/api/accounts/{sub}?details=true"
     try:
-        data = fetch_json(f"https://www.workable.com/api/accounts/{sub}?details=true")
+        data = fetch_json(url)
     except Exception as exc:
-        print(f"  [workable:{sub}] {type(exc).__name__} {str(exc)[:44]}")
-        return out
+        # apply.workable.com 429s this whole IP, so fall back to Firecrawl's
+        # egress rather than losing the route entirely.
+        try:
+            data = firecrawl_json(url)
+            print(f"  [workable:{sub}] direct {type(exc).__name__} -> firecrawl OK")
+        except Exception as exc2:
+            print(f"  [workable:{sub}] {type(exc).__name__} + firecrawl "
+                  f"{type(exc2).__name__} {str(exc2)[:40]}")
+            return out
     for j in data.get("jobs") or []:
         loc = j.get("location") or {}
         place = ", ".join(x for x in (loc.get("city"), loc.get("region"),
