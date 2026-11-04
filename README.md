@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T195721Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T220041Z.md`.
 
 ## Contents
 
@@ -33,9 +33,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [🚀 ServiceNow Architect / Toronto (Hybrid) / Norm Daigle](https://www.linkedin.com/posts/ndaigle_servicenow-architect-position-join-our-activity-7430285267233767424-FnWI) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [🔧 Job Title: Senior ServiceNow Developer – CSDM/APM (Hybrid / Long-Term Contract) / Konstantina Kyrtsos](https://www.linkedin.com/posts/kkyrtsos_job-title-senior-servicenow-developer-activity-7348067975716814848-3Eoz) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [servicenow administrator Remote Jobs / Remotive.com](https://remotive.com/remote-jobs/o-servicenow-administrator) | Unknown | Canada | 8 |
-| 2026-11-04 | [((Remote) Staff Full Stack Engineer (ServiceNow) / SkillDock)(https://skilldock.lovestoblog.com/job/remote-staff-full-stack-engineer-servicenow)](https://skilldock.lovestoblog.com/job/remote-staff-full-stack-engineer-servicenow) | Unknown | Canada | 6/10 via |
-| 2026-11-04 | [((Remote) ServiceNow Technical Consultant / Taskworks)(https://taskworks.totalh.net/remote-jobs/remote-servicenow-technical-consultant)](https://taskworks.totalh.net/remote-jobs/remote-servicenow-technical-consultant) | Unknown | Canada | 7/10 via |
-| 2026-11-04 | [((Remote) ServiceNow Administrator / Willow)(https://willow.2kool4u.net/remote-jobs/remote-servicenow-administrator-5)](https://willow.2kool4u.net/remote-jobs/remote-servicenow-administrator-5) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [What Senior Itsm Consultant Jobs Are Near Me? / ClicksJobs Canada](https://ca.clickajobs.com/jobs/senior-itsm-consultant?id=91230827) | Unknown | Canada | 8 |
 | 2026-11-04 | [Technical Lead – ServiceNow – Vancouver, BC, Canada / N2P Systems](https://www.n2psystems.com/jobs/REQ-43682) | Unknown | Canada | 9/10 via 2026-11-04_other_round10_raw_20261104T004447Z.json |
 | 2026-11-04 | [Support Analyst, ITSM at McCarthy Tétrault · Vancouver, BC, Canada · ApplyHour](https://applyhour.com/job/support-analyst-itsm-mccarthy-tetrault/14b7a7cd-e4c1-4806-8e95-6f9f183b0e6f) | Unknown | Canada | 7 |
@@ -178,6 +175,9 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [Bilingual Senior Specialist, ServiceNow ITSM in Ottawa, ON - CMHC - SCHL](https://ca.trabajo.org/job-2813-88b4e2666760cdec71f27864f271e49d) | Unknown | Canada | 7 |
 | 2026-11-04 | [Bilingual Senior Specialist, ServiceNow ITSM Developer / Procom](https://myprocom-portal.procomservices.com/jobs/bilingual-senior-specialist-servicenow-itsm-developer-ottawa-757c6287) | Unknown | Canada | 9/10 via 2026-11-04_other_round3_raw_20261104T004311Z.json |
 | 2026-11-04 | [Bilingual Senior Specialist, ServiceNow ITSM (Incident Management) Job Details / CMHC - SCHL](https://careers.cmhc-schl.gc.ca/job/Ottawa-Bilingual-Senior-Specialist%2C-ServiceNow-ITSM-%28Incident-Management%29/601524317/) | Unknown | Canada | 9 |
+| 2026-11-04 | [((Remote) Staff Full Stack Engineer (ServiceNow) / SkillDock)(https://skilldock.lovestoblog.com/job/remote-staff-full-stack-engineer-servicenow)](https://skilldock.lovestoblog.com/job/remote-staff-full-stack-engineer-servicenow) | Unknown | Canada | 6/10 via |
+| 2026-11-04 | [((Remote) ServiceNow Technical Consultant / Taskworks)(https://taskworks.totalh.net/remote-jobs/remote-servicenow-technical-consultant)](https://taskworks.totalh.net/remote-jobs/remote-servicenow-technical-consultant) | Unknown | Canada | 7/10 via |
+| 2026-11-04 | [((Remote) ServiceNow Administrator / Willow)(https://willow.2kool4u.net/remote-jobs/remote-servicenow-administrator-5)](https://willow.2kool4u.net/remote-jobs/remote-servicenow-administrator-5) | Unknown | Canada | 7/10 via |
 
 </details>
 
@@ -208,9 +208,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [salesforce administrator Jobs in Burnaby, BC / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-salesforce-administrator-l-burnaby-bc) | Unknown | Canada | 7 |
 | 2026-11-04 | [salesforce administrator Jobs in Brampton, ON / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-salesforce-administrator-l-brampton-on) | Unknown | Canada | 5 |
 | 2026-11-04 | [lululemon Senior Solution Architect - Salesforce Service Cloud - Vancouver / Blackboardjob](https://ca.blackboardjob.com/detail/a/lululemon-senior-solution-architect-salesforce-service-cloud_vancouver_183378119) | Unknown | Canada | 7 |
-| 2026-11-04 | [((Hiring) Senior Salesforce Administrator @Desjardins)(https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269)](https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269) | Unknown | Canada | 8 |
-| 2026-11-04 | [((Hiring) Salesforce Developer @emergiTEL)(https://remotive.com/remote/jobs/software-development/salesforce-developer-6338007)](https://remotive.com/remote/jobs/software-development/salesforce-developer-6338007) | Unknown | Canada | 7 |
-| 2026-11-04 | [((Hiring) Salesforce Administrator @Connective)(https://remotive.com/remote/jobs/software-development/salesforce-administrator-3811603)](https://remotive.com/remote/jobs/software-development/salesforce-administrator-3811603) | Unknown | Canada | 7 |
 | 2026-11-04 | [Versapay - Salesforce Administrator](https://jobs.lever.co/versapay/066804b9-ac6a-4c65-b613-b5b66ea2362b/apply) | Unknown | Canada | 7 |
 | 2026-11-04 | [V2 - Senior Salesforce Consultant](https://jobs.lever.co/v2sa/2675470b-ea19-4374-81bf-5e311ea17c3d) | Unknown | Canada | 8 |
 | 2026-11-04 | [Urgent! Salesforce business analyst jobs in Ottawa, ON - September 2026 (with Salaries!) - Jooble](https://ca.jooble.org/jobs-salesforce-business-analyst/Ottawa%2C-ON) | Unknown | Canada | 6 |
@@ -339,6 +336,9 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Associate Salesforce Administrator at Ivans](https://jobgether.com/offer/6a568e4fac00a71a5a8f9212-associate-salesforce-administrator) | Unknown | Canada | 7 |
 | 2026-11-04 | [3319 - Intermediate Salesforce Marketing Cloud Specialist](https://ca.linkedin.com/jobs/view/3319-intermediate-salesforce-marketing-cloud-specialist-at-amyantek-4487270331) | Amyantek | Toronto, Ontario, Canada | via buffy-linkedin60d--2026-11-04--v1.md |
 | 2026-11-04 | [/ JA Canada](https://jacanada.org/news/career-opportunity-salesforce-it-administrator/) | Unknown | Canada | 8 |
+| 2026-11-04 | [((Hiring) Senior Salesforce Administrator @Desjardins)(https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269)](https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269) | Unknown | Canada | 8 |
+| 2026-11-04 | [((Hiring) Salesforce Developer @emergiTEL)(https://remotive.com/remote/jobs/software-development/salesforce-developer-6338007)](https://remotive.com/remote/jobs/software-development/salesforce-developer-6338007) | Unknown | Canada | 7 |
+| 2026-11-04 | [((Hiring) Salesforce Administrator @Connective)(https://remotive.com/remote/jobs/software-development/salesforce-administrator-3811603)](https://remotive.com/remote/jobs/software-development/salesforce-administrator-3811603) | Unknown | Canada | 7 |
 
 </details>
 
@@ -359,8 +359,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [help desk technician Jobs in Vancouver, BC / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-help-desk-technician-l-vancouver-bc) | Unknown | Canada | 7 |
 | 2026-11-04 | [director of information technology Jobs in Toronto, ON / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-director-of-information-technology-l-toronto-on) | Unknown | Canada | 7 |
 | 2026-11-04 | [crm analyst Jobs in Vancouver, BC / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-crm-analyst-l-vancouver-bc) | Unknown | Canada | 5 |
-| 2026-11-04 | [((Hiring) Helpdesk Associate @NTT DATA)(https://remotive.com/remote/jobs/customer-service/helpdesk-associate-6180587)](https://remotive.com/remote/jobs/customer-service/helpdesk-associate-6180587) | Unknown | Canada | 7 |
-| 2026-11-04 | [((Hiring) Business Systems Analyst @Canopy Planet Society)(https://remotive.com/remote/jobs/all-others/business-systems-analyst-3375355)](https://remotive.com/remote/jobs/all-others/business-systems-analyst-3375355) | Unknown | Canada | 7 |
 | 2026-11-04 | [What Cloud Platform Engineer Jobs Are Near Me? / ClicksJobs Canada](https://ca.clickajobs.com/jobs/cloud-platform-engineer?id=107765277) | Unknown | Canada | 7 |
 | 2026-11-04 | [VP of IT Infrastructure & Operations @ Serve Robotics](https://jobs.ashbyhq.com/serverobotics/dd03616c-cd2e-4db2-8c49-2ad4ea889e0b) | Unknown | Canada | 8 |
 | 2026-11-04 | [The Salvation Army in Canada hiring Senior Business Systems Analyst in Ontario, Canada / LinkedIn](https://ca.linkedin.com/jobs/view/senior-business-systems-analyst-at-the-salvation-army-in-canada-4454808056) | Unknown | Canada | 8 |
@@ -500,6 +498,8 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [AI Platform Administrator @ ABC Financial Services](https://www.tealhq.com/job/ai-platform-administrator_7ea1a9b8e79e5828889256439970b62d32ed5) | Unknown | Canada | 7 |
 | 2026-11-04 | [AI Platform Administrator - ABC Fitness Solutions / Built In](https://builtin.com/job/ai-platform-administrator/10681982) | Unknown | Canada | 8 |
 | 2026-11-04 | [AI Platform Administrator](https://jobgether.com/offer/6a7f50be490731f1e1a081fa-ai-platform-administrator) | Unknown | Canada | 8 |
+| 2026-11-04 | [((Hiring) Helpdesk Associate @NTT DATA)(https://remotive.com/remote/jobs/customer-service/helpdesk-associate-6180587)](https://remotive.com/remote/jobs/customer-service/helpdesk-associate-6180587) | Unknown | Canada | 7 |
+| 2026-11-04 | [((Hiring) Business Systems Analyst @Canopy Planet Society)(https://remotive.com/remote/jobs/all-others/business-systems-analyst-3375355)](https://remotive.com/remote/jobs/all-others/business-systems-analyst-3375355) | Unknown | Canada | 7 |
 
 </details>
 
@@ -635,4 +635,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-04T195721Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
+`README.BAK_2026-11-04T220041Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
