@@ -97,12 +97,19 @@ def key_of(row: dict) -> tuple[str, str, str]:
     )
 
 
-def remote_branches() -> list[str]:
+def candidate_branches() -> list[str]:
+    """Every branch that may hold rows: local heads plus origin's remote heads.
+
+    Local-only branches matter here — agents scan on their own machine and often
+    commit the results without pushing, so `refs/remotes/origin` alone misses
+    them (`job-hunt-2026-11-03` held 17 in-remit postings nobody could see).
+    """
     out = subprocess.run(
-        ["git", "for-each-ref", "--format=%(refname:short)", "refs/remotes/origin"],
+        ["git", "for-each-ref", "--format=%(refname:short)", "refs/heads", "refs/remotes/origin"],
         cwd=ROOT, capture_output=True, text=True, check=True,
     ).stdout.split()
-    return [b for b in out if b.strip() not in ("origin", "origin/main", "origin/HEAD")]
+    skip = {"origin", "origin/main", "origin/HEAD", "main", "master"}
+    return [b for b in out if b.strip() not in skip]
 
 
 def branch_rows(branch: str) -> list[dict]:

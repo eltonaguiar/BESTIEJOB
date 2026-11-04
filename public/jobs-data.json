@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-04T20:20:23+00:00",
+ "generatedAt": "2026-11-04T20:23:37+00:00",
  "timezone": "America/Toronto",
- "count": 2489,
+ "count": 2505,
  "appliedHidden": 28,
  "sources": [
   "103.careerplug.com",
@@ -25,6 +25,7 @@
   "Workopolis",
   "academicjobs.com",
   "accenture.com",
+  "adecco.com",
   "alldus.com",
   "analystit.careers-page.com",
   "apexsystems.com",
@@ -195,6 +196,7 @@
   "osidigital.applytojob.com",
   "pentio.ca",
   "prairie.totalh.net",
+  "procomservices.com",
   "raise.jobs",
   "randstad.ca",
   "randstad.com",
@@ -12409,6 +12411,73 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "ServiceNow Asset Management / ITAM Business Systems Analyst",
+   "company": "Spectra Group",
+   "location": "Toronto, ON, CA",
+   "url": "https://www.dice.com/job-detail/6001b949-6d39-4353-927d-d68dac3ab6cc",
+   "note": "dice",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow asset management / itam business systems analyst spectra group toronto, on, ca dice.com servicenow dice servicenow itam role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Hybrid Contract: ServiceNow Business Analyst (ITSM)",
+   "company": "JobLeads",
+   "location": "Toronto",
+   "url": "https://www.jobleads.com/ca/job/hybrid-contract-servicenow-business-analyst-itsm--toronto--e88b34a3261e04d9b067af2b9b39ca1eb",
+   "note": "jobleads",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobleads.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "hybrid contract: servicenow business analyst (itsm) jobleads toronto jobleads.com servicenow jobleads servicenow itsm consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Service Now Administrator /ITOM Analyst",
+   "company": "Sercanto",
+   "location": "Toronto",
+   "url": "https://ca.sercanto.com/detail/a/service-now-administrator-itom-analyst_toronto_181692533",
+   "note": "sercanto",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "ca.sercanto.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "service now administrator /itom analyst sercanto toronto ca.sercanto.com servicenow sercanto servicenow itom role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "ServiceNow Technical Consultant/Developer for Finance & Supply Chain Solution Implementations",
    "company": "WeLanceALot.com",
    "location": "Toronto, Ontario, Canada",
@@ -12515,6 +12584,28 @@
    ],
    "french": false,
    "search": "servicenow solutions architect - irm/grc (canada) highmetric remote, canada tryremotely.com servicenow highmetric servicenow risk/grc role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Business Analyst Lead - Operate",
+   "company": "Deloitte",
+   "location": "Toronto, ON M5C 3G7",
+   "url": "https://careers.deloitte.ca/job/Toronto%2C-ON-ServiceNow-Business-Analyst-Lead-Operate-ON-M5C-3G7/1355289700/",
+   "note": "deloitte",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.deloitte.ca",
+   "verified": "Employer board",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow business analyst lead - operate deloitte toronto, on m5c 3g7 careers.deloitte.ca servicenow deloitte servicenow consulting/ba role fit toronto area",
    "alternates": []
   },
   {
@@ -12887,7 +12978,13 @@
    ],
    "french": false,
    "search": "servicenow developer - mississauga, ontario ihiretechnology mississauga, ontario ihiretechnology.com servicenow ihiretechnology servicenow role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "ihiretechnology.com",
+     "url": "https://www.ihiretechnology.com/jobs/view/533876818",
+     "label": "ihiretechnology.com · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-03",
@@ -13686,6 +13783,174 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "ServiceNow Consulting Manager",
+   "company": "RSM US LLP",
+   "location": "Toronto, ON",
+   "url": "https://jobs.rsmus.com/posting/servicenow-consulting-manager/JR117474/",
+   "note": "rsmus",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.rsmus.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow consulting manager rsm us llp toronto, on jobs.rsmus.com servicenow rsmus servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Solutions Architect",
+   "company": "Michael Page",
+   "location": "Toronto, ON",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-solutions-architect-at-michael-page-4219196049",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow solutions architect michael page toronto, on linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Specialist",
+   "company": "Adecco",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adecco.com/fr-ca/offres-d-emploi/servicenow-specialist-toronto-ontario/ca_en_1_020517_2378758",
+   "note": "adecco",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "adecco.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow specialist adecco toronto, ontario adecco.com servicenow adecco servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Engineering Lead",
+   "company": "Northern Trust",
+   "location": "Toronto",
+   "url": "https://builtin.com/job/servicenow-engineering-lead/11784607",
+   "note": "builtin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "BuiltIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow engineering lead northern trust toronto builtin servicenow builtin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Technical Lead (Director)",
+   "company": "Huron",
+   "location": "Toronto",
+   "url": "https://builtintoronto.com/job/servicenow-technical-lead-director/9186900",
+   "note": "builtintoronto",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "BuiltIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow technical lead (director) huron toronto builtin servicenow builtintoronto servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Sr. Tech Consultant(Servicenow Development)",
+   "company": "Themesoft Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://ca.trabajo.org/job-4112-b29b87a9d244b3b4cdcb88ea8d74037b",
+   "note": "trabajo",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "ca.trabajo.org",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. tech consultant(servicenow development) themesoft inc. toronto, ontario ca.trabajo.org servicenow trabajo servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Administrator Specialist",
+   "company": "Scotiabank",
+   "location": "Toronto, ON M5H 1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-ServiceNow-Administrator-Specialist-ON-M5H-1H1/602949717/",
+   "note": "scotiabank",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.scotiabank.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow administrator specialist scotiabank toronto, on m5h 1h1 jobs.scotiabank.com servicenow scotiabank servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow Admin",
+   "company": "ForHyre",
+   "location": "Toronto",
+   "url": "https://www.careerbeacon.com/en/job-9/3828416/forhyre/servicenow-admin/toronto",
+   "note": "careerbeacon",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "CareerBeacon",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow admin forhyre toronto careerbeacon servicenow careerbeacon servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "FSO-ServiceNow Developer",
    "company": "National Bank of Canada",
    "location": "Montreal, Quebec, Canada",
@@ -14303,6 +14568,27 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Senior ServiceNow Engineer",
+   "company": "Nesto",
+   "location": "Canada",
+   "url": "https://ats.rippling.com/nesto/jobs/57c4dc9a-b466-4a32-bd22-b64958cdd891",
+   "note": "rippling",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "ats.rippling.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow engineer nesto canada ats.rippling.com servicenow rippling servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Open to ServiceNow Opportunities / CSA & CAD Certified",
    "company": "ServiceNow Community",
    "location": "Toronto, Ontario, Canada",
@@ -14440,6 +14726,26 @@
    ],
    "french": false,
    "search": "servicenow careers and employment servicenow toronto indeed servicenow servicenow-careers servicenow toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ServiceNow - ServiceNow Recruitment Experts",
+   "company": "Procom Services",
+   "location": "Toronto",
+   "url": "https://procomservices.com/en-ca/servicenow-recruitment-experts/",
+   "note": "procom",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "procomservices.com",
+   "verified": "Employer board",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow - servicenow recruitment experts procom services toronto procomservices.com servicenow procom servicenow toronto area",
    "alternates": []
   },
   {
@@ -17636,6 +17942,27 @@
    ],
    "french": false,
    "search": "developer customization & automation snpro.jobs toronto, on snpro.jobs other snpro automation role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Intermediate Service Support Analyst",
+   "company": "Seneca College",
+   "location": "Toronto, Ontario",
+   "url": "https://www.talentify.io/job/intermediate-service-support-analyst-toronto-ontario-ca-seneca-college-5396",
+   "note": "talentify",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "talentify.io",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "IT operations",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate service support analyst seneca college toronto, ontario talentify.io other talentify it operations role fit toronto area",
    "alternates": []
   },
   {
@@ -27329,26 +27656,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "Site Reliability Engineer Lead",
-   "company": "The Toronto-Dominion Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576420",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "site reliability engineer lead the toronto-dominion bank toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Senior Full Stack Developer (AWS)",
    "company": "RedPico",
    "location": "Toronto, Ontario",
@@ -27365,6 +27672,26 @@
    ],
    "french": false,
    "search": "senior full stack developer (aws) redpico toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "Site Reliability Engineer Lead",
+   "company": "The Toronto-Dominion Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5949576420",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "site reliability engineer lead the toronto-dominion bank toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -27509,26 +27836,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "Senior DevOps Engineer",
-   "company": "Symbiotic Group",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576204",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior devops engineer symbiotic group toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Full-Stack Developer - Core",
    "company": "MaintainX",
    "location": "Toronto, Ontario",
@@ -27545,6 +27852,26 @@
    ],
    "french": false,
    "search": "full-stack developer - core maintainx toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "Senior DevOps Engineer",
+   "company": "Symbiotic Group",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5949576204",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior devops engineer symbiotic group toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -29184,25 +29511,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "SAP Service Management Consultant",
-   "company": "Illumiti Inc.",
-   "location": "Vaughan, York region",
-   "url": "https://www.adzuna.ca/details/5949577279",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "sap service management consultant illumiti inc. vaughan, york region adzuna other adzuna role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Staff Engineer (Site Reliability)",
    "company": "Babylist",
    "location": "Ottawa, Ottawa region",
@@ -29218,6 +29526,25 @@
    ],
    "french": false,
    "search": "staff engineer (site reliability) babylist ottawa, ottawa region adzuna other adzuna role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "SAP Service Management Consultant",
+   "company": "Illumiti Inc.",
+   "location": "Vaughan, York region",
+   "url": "https://www.adzuna.ca/details/5949577279",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "sap service management consultant illumiti inc. vaughan, york region adzuna other adzuna role fit",
    "alternates": []
   },
   {
@@ -46935,6 +47262,27 @@
    ],
    "french": false,
    "search": "tech ops analyst ii - inventory & asset management (servicenow itam, ft) tjx canada mississauga, on workday ats servicenow readme servicenow itam role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "Help Desk Analyst - ServiceNow",
+   "company": "Procom",
+   "location": "Toronto",
+   "url": "https://myprocom-portal.procomservices.com/jobs/help-desk-analyst-servicenow-toronto-26395810",
+   "note": "procom",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "myprocom-portal.procomservices.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "help desk analyst - servicenow procom toronto myprocom-portal.procomservices.com servicenow procom servicenow role fit toronto area",
    "alternates": []
   },
   {
