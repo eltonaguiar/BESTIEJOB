@@ -76,7 +76,17 @@ const KEYWORDS = [
   "cryptography engineer", "PKI engineer", "SSL engineer",
   "firewall engineer", "WAF engineer", "DDoS engineer",
   "forensics analyst", "incident response manager", "SOC analyst",
-  "security operations manager", "threat hunter", "malware analyst"
+  "security operations manager", "threat hunter", "malware analyst",
+  // Platform keywords the list was missing entirely (2026-11-04): Adzuna is
+  // one of the board's larger sources, yet it was never queried for
+  // ServiceNow, and only ever for "salesforce developer".
+  "servicenow", "servicenow developer", "servicenow administrator",
+  "servicenow architect", "servicenow consultant", "servicenow itom",
+  "cmdb specialist", "itam consultant", "servicenow gsd", "servicenow sysdev",
+  "servicenow release", "servicenow table",
+  "salesforce", "salesforce administrator", "salesforce consultant",
+  "salesforce pardot", "salesforce wave", "salesforce apex", "salesforce ahc",
+  "salesforce flow", "itsm", "itam"
 ];
 
 const LOCATIONS = [
