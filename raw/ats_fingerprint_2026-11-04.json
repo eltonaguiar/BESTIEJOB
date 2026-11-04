@@ -1,5 +1,5 @@
 {
- "scannedAt": "2026-11-04T05:00:31+00:00",
+ "scannedAt": "2026-11-04T17:29:02+00:00",
  "fingerprints": [
   {
    "name": "RBC",
@@ -293,8 +293,7 @@
   {
    "name": "Long View Systems",
    "url": "https://www.longviewsystems.com/careers/",
-   "status": 200,
-   "lever": "lvs1"
+   "status": 403
   },
   {
    "name": "Artech",
@@ -386,14 +385,6 @@
    "title": "Salesforce IT Solutions Design Specialist (US)",
    "location": "3 Locations",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Salesforce-IT-Solutions-Design-Specialist--US-_R_1515965-1",
-   "posted": "2026-11-03",
-   "company": "TD",
-   "route": "workday"
-  },
-  {
-   "title": "Marketing Technology Product Owner - Salesforce Loyalty & Offer Management",
-   "location": "6 Locations",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Marketing-Technology-Product-Owner---Salesforce-Loyalty---Offer-Management_R_1509480",
    "posted": "2026-11-03",
    "company": "TD",
    "route": "workday"
@@ -567,10 +558,10 @@
    "route": "workday"
   },
   {
-   "title": "ServiceNow Implementation Specialist",
-   "location": "Arlington, 1201 Wilson, Corp, United States of America",
-   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Implementation-Specialist_R00347566",
-   "posted": "2026-10-01",
+   "title": "Senior ServiceNow Architect",
+   "location": "Brussels, Picard 11, Belgium",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Senior-ServiceNow-Architect_R00345702",
+   "posted": "2026-09-08",
    "company": "Accenture",
    "route": "workday"
   },
@@ -759,6 +750,22 @@
    "route": "workday"
   },
   {
+   "title": "S&C GN - Tech Strategy & Transformation - ITSM - Manager",
+   "location": "Bengaluru, BDC7C, India",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/S-C-GN---Tech-Strategy---TS-OM-Strategy---Consultant_R00311471",
+   "posted": "2026-11-04",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "S&CGN - Tech Strategy & Advisory - ITSM - Manager",
+   "location": "Pune, PDC3B, India",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune-PDC3B/S-CGN---Tech-Strategy---Advisory---ITSM---Manager_R00315550",
+   "posted": "2026-11-04",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
    "title": "ServiceNow ITOM Consultant",
    "location": "Melbourne, 161 Collins Street, Level 5, Australia",
    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-ITOM-Consultant_R00267231",
@@ -797,6 +804,94 @@
    "posted": "2026-10-21",
    "company": "Accenture",
    "route": "workday"
+  },
+  {
+   "title": "Salesforce Product Administrator",
+   "posted": "2026-11-02",
+   "location": "Minneapolis",
+   "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000186697EXTERNALENCA/Salesforce-Product-Administrator",
+   "company": "RBC",
+   "route": "phenom"
+  },
+  {
+   "title": "Manager, Banking Salesforce Innovation & Enablement",
+   "posted": "2026-11-02",
+   "location": "Toronto",
+   "url": "https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260030015EXTERNALENCA/Manager-Banking-Salesforce-Innovation-Enablement",
+   "company": "BMO",
+   "route": "sitemap"
+  },
+  {
+   "title": "Director, Customer Engagement Strategy \\u0026 Operations, Moveworks from ServiceNow",
+   "posted": "2026-10-27",
+   "location": "Mountain View",
+   "url": "https://careers.servicenow.com/jobs/744000158066509/director-customer-engagement-strategy-operations-moveworks-from-servicenow/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Staff Inbound Product Manager - ServiceNow University",
+   "posted": "2026-10-06",
+   "location": "San Diego",
+   "url": "https://careers.servicenow.com/jobs/744000153739678/staff-inbound-product-manager-servicenow-university/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Staff Application Security Engineer (ServiceNow Instance Security)",
+   "posted": "2026-09-02",
+   "location": "Santa Clara",
+   "url": "https://careers.servicenow.com/jobs/744000147091979/staff-application-security-engineer-servicenow-instance-security/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Principal Solution Architect- ServiceNow",
+   "posted": "2026-10-29",
+   "location": "Toronto",
+   "url": "https://careers.servicenow.com/jobs/744000158575719/principal-solution-architect-servicenow/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Senior Manager, ITOM \\u0026 AIOps Solution Consulting",
+   "posted": "2026-10-29",
+   "location": "Staines",
+   "url": "https://careers.servicenow.com/jobs/744000158480434/senior-manager-itom-aiops-solution-consulting/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Principal\\u202FSolution Architect, ITSM",
+   "posted": "2026-10-15",
+   "location": "Dallas",
+   "url": "https://careers.servicenow.com/jobs/744000155864280/principal-solution-architect-itsm/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Senior Customer Success Executive-ServiceNow",
+   "posted": "2026-11-02",
+   "location": "Kirkland",
+   "url": "https://careers.servicenow.com/jobs/744000159213090/senior-customer-success-executive-servicenow/",
+   "company": "ServiceNow",
+   "route": "sitemap"
+  },
+  {
+   "title": "Senior Solutions Consultant (ITOM) m/f/x",
+   "posted": "2026-11-01",
+   "location": "Virtual",
+   "url": "https://careers.opentext.com/us/en/job/54203/Senior-Solutions-Consultant-ITOM-m-f-x",
+   "company": "OpenText",
+   "route": "sitemap"
+  },
+  {
+   "title": "Lead Premium Support Specialist - ITSM",
+   "posted": "2026-11-01",
+   "location": "Virtual",
+   "url": "https://careers.opentext.com/us/en/job/53634/Lead-Premium-Support-Specialist-ITSM",
+   "company": "OpenText",
+   "route": "sitemap"
   }
  ],
  "fresh": []
