@@ -46,6 +46,12 @@ from jobs_consolidate import (  # noqa: E402
 )
 
 INBOX = ROOT / "inbox"
+# The board is a technical ServiceNow/Salesforce listing, and every scanner that
+# feeds it rejects sales/marketing roles. The merger used to accept them, so a
+# harvest could smuggle "Regional Sales Manager" onto a technical table.
+EXCL = re.compile(r"\b(account executive|account manager|sales representative|"
+                  r"sales manager|business development|recruiter|talent acquisition|"
+                  r"pre-?sales|customer success|marketing|growth|product marketing)\b", re.I)
 NAME_RE = re.compile(r"^(?P<model>[a-z0-9._-]+)--(?P<date>\d{4}-\d{2}-\d{2})--v(?P<ver>\d+)\.md$", re.I)
 LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
 BARE_URL_RE = re.compile(r"https?://[^\s|)]+")
@@ -142,6 +148,9 @@ def main() -> int:
             if key in known:
                 dup += 1
                 continue
+            if EXCL.search(row.get("title") or ""):
+                bad += 1
+                continue
             known.add(key)
             incoming.append(row)
             added += 1
@@ -161,6 +170,9 @@ def main() -> int:
     current = sorted(kept, key=lambda r: r["posted"], reverse=True)
     counts = {k: sum(1 for r in current if r["family"] == k) for k in ("servicenow", "salesforce", "other")}
 
+    off_board = sum(v["bad"] for v in per_file.values())
+    if off_board:
+        print(f"\nskipped          : {off_board} rows outside the board's remit (sales/marketing)")
     print(f"\nincoming rows    : {len(incoming)}")
     print(f"total unique     : {len(unique)} (dupes merged: {dropped})")
     print(f"in {args.days}-day window: {len(current)}  {counts}")

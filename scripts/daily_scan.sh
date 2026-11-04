@@ -36,7 +36,28 @@ STARTED="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
     # of landing in raw/ only, so they enter the same review queue as every
     # other agent's finds instead of being invisible.
     if [ "${SCAN_GAP:-1}" = "1" ]; then
+      # Free-AI panel proposes extra Adzuna `what` variants the hard-coded list
+      # misses (tools/ai_panel.py — keyless/local peers first, then keyed free
+      # tiers). gap_scan re-filters every proposal for keyword shape, so a
+      # failed or hallucinating panel can only cost a few wasted API calls.
+      python3 tools/ai_panel.py queries --count "${SCAN_AI_QUERIES:-12}" \
+        --out raw/ai_queries.json || echo "ai query panel failed (non-fatal)"
       node scripts/gap_scan.mjs || echo "gap scan failed (non-fatal)"
+      # Real web search (Exa / Tavily / Firecrawl) for employer + partner pages
+      # the aggregators never index. Dates come only from the page's own
+      # datePosted; everything else lands undated in inbox/ for review.
+      python3 scripts/web_search_scan.py || echo "web search scan failed (non-fatal)"
+      # Employer ATS feeds + Job Bank: the only sources that publish a
+      # timestamp today. Workday's "Posted Today" is converted; nothing guessed.
+      python3 scripts/today_feeds_scan.py --days "${SCAN_TODAY_DAYS:-2}" \
+        || echo "today feeds scan failed (non-fatal)"
+    fi
+    # Second opinion on undated inbox rows before a human reads them. The
+    # report is written as inbox/_ai-triage--<date>--v<N>.md, which both the
+    # merger and check_inbox.py ignore because of the leading underscore.
+    if [ "${SCAN_AI_TRIAGE:-1}" = "1" ]; then
+      python3 tools/ai_panel.py triage-inbox --limit "${SCAN_AI_TRIAGE_LIMIT:-20}" \
+        || echo "ai inbox triage failed (non-fatal)"
     fi
     # Fold new inbox submissions into README. Guarded on uncommitted inbox
     # changes: without the guard every run re-bumps every submission's version
@@ -47,6 +68,8 @@ STARTED="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
     fi
     # Curated README rows (inbox merges, partner finds) must also reach the
     # jobs.json feed, otherwise the API and app.js never see them.
+    # Reworded reposts survive URL dedupe; catch them before the feed is built.
+    python3 scripts/semantic_dedupe.py --apply || echo "semantic dedupe failed (non-fatal)"
     node scripts/sync_readme_to_jobs.mjs || echo "readme sync failed (non-fatal)"
     # The live page renders public/jobs-data.json built from README.md, so it
     # must be rebuilt after every scan or it serves yesterday's rows.
