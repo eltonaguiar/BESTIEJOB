@@ -190,8 +190,12 @@ def render(jobs: list[dict], today: date, days: int, cutoff: date, archive_name:
         out.append("|---|---|---|---|---|")
         for j in group:
             note = j["note"] or ""
+            # a square bracket in the title ("[Hiring] ServiceNow Developer") closes the
+            # markdown link early, so LINK_RE cannot parse the row back out and the
+            # posting silently disappears from the board on the next read
+            title = j["title"].replace("[", "(").replace("]", ")")
             out.append(
-                f"| {j['posted']} | [{j['title']}]({j['url']}) | {j['company']} | {j['location']} | {note} |"
+                f"| {j['posted']} | [{title}]({j['url']}) | {j['company']} | {j['location']} | {note} |"
             )
         out.append("")
         out.append("</details>")
