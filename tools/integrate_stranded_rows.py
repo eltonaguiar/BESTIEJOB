@@ -155,7 +155,7 @@ def main() -> int:
             if alt_url:
                 seen_urls.add(clean_url(alt_url))
 
-    branches = args.branches.split(",") if args.branches else remote_branches()
+    branches = args.branches.split(",") if args.branches else candidate_branches()
     per_branch = Counter()
     candidates: dict[str, dict] = {}
     for branch in branches:
