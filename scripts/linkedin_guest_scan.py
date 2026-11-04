@@ -147,7 +147,7 @@ def main() -> int:
                     help=f"how many of the {len(LOCATIONS)} locations to sweep")
     ap.add_argument("--pages", type=int, default=2, help="result pages per keyword (25 jobs each)")
     ap.add_argument("--apply", action="store_true", help="merge into README and rebuild the site")
-    ap.add_argument("--max-per-table", type=int, default=150)
+    ap.add_argument("--max-per-table", type=int, default=400)
     args = ap.parse_args()
 
     today = datetime.now(timezone.utc).date()
