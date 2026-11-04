@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T050402Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T050649Z.md`.
 
 ## Contents
 
@@ -31,7 +31,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [🚀 We’re Hiring: Intermediate Business Analyst – ServiceNow GRC/IRM / AMANST Inc.](https://www.linkedin.com/posts/amanst-inc_businessanalyst-servicenow-grc-activity-7483550703525912576-xjYc) | Unknown | Canada | 6/10 (OTHER) via older-good |
 | 2026-11-04 | [🚀 ServiceNow Architect / Toronto (Hybrid) / Norm Daigle](https://www.linkedin.com/posts/ndaigle_servicenow-architect-position-join-our-activity-7430285267233767424-FnWI) | Unknown | Canada | 7/10 (SN) via older-good |
 | 2026-11-04 | [🔧 Job Title: Senior ServiceNow Developer – CSDM/APM (Hybrid / Long-Term Contract) / Konstantina Kyrtsos](https://www.linkedin.com/posts/kkyrtsos_job-title-senior-servicenow-developer-activity-7348067975716814848-3Eoz) | Unknown | Canada | 7/10 (SN) via older-good |
-| 2026-11-04 | [[[Remote] Staff Full Stack Engineer (ServiceNow) / SkillDock](https://skilldock.lovestoblog.com/job/remote-staff-full-stack-engineer-servicenow)](https://skilldock.lovestoblog.com/job/remote-staff-full-stack-engineer-servicenow) | Unknown | Canada | 6/10 (SN) via older-good |
 | 2026-11-04 | [[[Remote] ServiceNow Technical Consultant / Taskworks](https://taskworks.totalh.net/remote-jobs/remote-servicenow-technical-consultant)](https://taskworks.totalh.net/remote-jobs/remote-servicenow-technical-consultant) | Unknown | Canada | 7/10 (SN) via older-good |
 | 2026-11-04 | [What Senior Itsm Consultant Jobs Are Near Me? / ClicksJobs Canada](https://ca.clickajobs.com/jobs/senior-itsm-consultant?id=91230827) | Unknown | Canada | 5/10 via 2026-11-04_other_round11_raw_20261104T004458Z.json |
 | 2026-11-04 | [Vancouver, Bc Servicenow careers Jobs – 28 Openings This Week / Workopolis](https://www.workopolis.com/search?l=vancouver%252c%2520bc&q=servicenow%2520careers) | Unknown | Canada | 7/10 via 2026-11-04_other_round10_raw_20261104T004447Z.json |
@@ -66,6 +65,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Senior Technical Consultant / Prairie](https://prairie.totalh.net/remote-jobs/servicenow-senior-technical-consultant) | Unknown | Canada | 7/10 (SN) via older-good |
 | 2026-11-04 | [ServiceNow Senior Technical Consultant / Hireorbit](https://hireorbit.social-networking.me/remote-jobs/servicenow-senior-technical-consultant) | Unknown | Canada | 7/10 (SN) via older-good |
 | 2026-11-04 | [ServiceNow Senior Developer @ BDO Canada / Simplify Jobs](https://simplify.jobs/p/2b694590-33f3-408c-9f4f-918c4ba38883/ServiceNow-Senior-Developer) | Unknown | Canada | 7/10 (SN) via older-good |
+| 2026-11-04 | [ServiceNow SAM Administrator - ITAM](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096) | BMO | Toronto, ON, CAN |  |
 | 2026-11-04 | [ServiceNow Platform Developer / Toronto](https://www.jobleads.com/ca/job/servicenow-platform-developer--toronto--e7075ef17c4e52299af33d12ec4a98d5a) | Unknown | Canada | 9/10 via 2026-11-04_sn_round12_raw_20261104T003950Z.json |
 | 2026-11-04 | [ServiceNow ITSM Consultant - SNICND - Navitas Healthcare LLC - Toronto, ON / Ladders](https://www.theladders.com/job/servicenow-itsm-consultant-snicnd-navitas-healthcare-llc-toronto-on_87207258) | Unknown | Canada | 7/10 via 2026-11-04_other_round12_raw_20261104T004509Z.json |
 | 2026-11-04 | [ServiceNow ITOM Developer in Toronto, ON M8X ...](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260004810EXTERNALENCA/ServiceNow-ITOM-Developer) | Unknown | Canada | 7/10 (SN) via older-good |
@@ -376,7 +376,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [administrator Jobs in Toronto, ON / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-administrator-l-north-york-on) | Unknown | Canada | 5/10 via 2026-11-04_other_round12_raw_20261104T004509Z.json |
 | 2026-11-04 | [administrator Jobs in Brampton, ON / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-administrator-l-brampton-on) | Unknown | Canada | 5/10 via 2026-11-04_other_round2_raw_20261104T004255Z.json |
 | 2026-11-04 | [admin Jobs in North Vancouver, BC / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-admin-l-north-vancouver-bc) | Unknown | Canada | 5/10 via 2026-11-04_other_round10_raw_20261104T004447Z.json |
-| 2026-11-04 | [[[C] Senior Software Engineer - Developer Platform Job at MLSE](https://www.careerbeacon.com/en/job-22/3943362/mlse/c-senior-software-engineer-developer-platform/toronto-on)](https://www.careerbeacon.com/en/job-22/3943362/mlse/c-senior-software-engineer-developer-platform/toronto-on) | Unknown | Canada | 5/10 via 2026-11-04_other_round12_raw_20261104T004509Z.json |
 | 2026-11-04 | [What Data Platform Administrator Cloud Admin Jobs Are Near Me? / ClicksJobs Canada](https://ca.clickajobs.com/jobs/data-platform-administrator-cloud-admin?id=92796507) | Unknown | Canada | 5/10 via 2026-11-04_other_round3_raw_20261104T004311Z.json |
 | 2026-11-04 | [What  IT Services Jobs  are in Vancouver? / WhatJobs Canada](https://en-ca.whatjobs.com/jobs/it-services/vancouver-british-columbia) | Unknown | Canada | 5/10 via 2026-11-04_other_round10_raw_20261104T004447Z.json |
 | 2026-11-04 | [What  Help Desk Positions Jobs  are in Calgary? / WhatJobs Canada](https://en-ca.whatjobs.com/jobs/help-desk-positions/calgary-alberta) | Unknown | Canada | 5/10 via 2026-11-04_other_round11_raw_20261104T004458Z.json |
@@ -496,6 +495,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [147 platform administrator jobs in Vancouver, BC, November 2026 / Glassdoor](https://www.glassdoor.ca/Job/vancouver-platform-administrator-jobs-SRCH_IL.0,9_IC2278756_KO10,32.htm) | Unknown | Canada | 5/10 via 2026-11-04_other_round10_raw_20261104T004447Z.json |
 | 2026-11-04 | [$76K–$167K Information Technology Operations Manager Jobs in Toronto, ON, 2 November 2026 / Indeed](https://ca.indeed.com/q-information-technology-operations-manager-l-toronto,-on-jobs.html) | Unknown | Canada | 5/10 via 2026-11-04_other_round10_raw_20261104T004447Z.json |
 | 2026-11-04 | [$65K–$161K Cloud Engineer Jobs in Canada, 3 November 2026 / Indeed](https://ca.indeed.com/q-cloud-engineer-l-canada-jobs.html) | Unknown | Canada | 5/10 via 2026-11-04_other_round11_raw_20261104T004458Z.json |
+| 2026-11-04 | [$53K–$86K IT Administrator Jobs in Toronto, ON, 2 November 2026 / Indeed](https://ca.indeed.com/q-it-administrator-l-toronto,-on-jobs.html?start=10) | Unknown | Canada | 7/10 via 2026-11-04_other_round12_raw_20261104T004509Z.json |
 | 2026-11-04 | [$51K–$87K Application Administrator Jobs in Toronto, ON, 2 November 2026 / Indeed](https://ca.indeed.com/q-application-administrator-l-toronto,-on-jobs.html?start=40) | Unknown | Canada | 5/10 via 2026-11-04_other_round12_raw_20261104T004509Z.json |
 | 2026-11-04 | [$28K–$110K Administrator Jobs in Brampton, ON, 1 November 2026 / Indeed](https://ca.indeed.com/q-administrator-l-brampton,-on-jobs.html) | Unknown | Canada | 5/10 via 2026-11-04_other_round2_raw_20261104T004255Z.json |
 | 2026-11-04 | [$106K–$192K Director Information Technology Jobs in Toronto, ON, 2 November 2026 / Indeed](https://ca.indeed.com/q-director-information-technology-l-toronto,-on-jobs.html) | Unknown | Canada | 5/10 via 2026-11-04_other_round3_raw_20261104T004311Z.json |
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-04T050402Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
+`README.BAK_2026-11-04T050649Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.

@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-04T05:04:06+00:00",
+ "generatedAt": "2026-11-04T05:06:49+00:00",
  "timezone": "America/Toronto",
- "count": 422,
+ "count": 423,
  "appliedHidden": 6,
  "sources": [
   "Adzuna",
@@ -218,6 +218,34 @@
    "french": false,
    "search": "servicenow technical lead – itsm, itom, cmdb & secops – astra north infoteck inc. – permanent job vancouver, bc unknown canada talent.com servicenow 7/10 via 2026-11-04_other_round10_raw_20261104t004447z.json servicenow itsm cmdb itom role fit",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "ServiceNow SAM Administrator - ITAM",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow  servicenow itam sam/ham role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -482,34 +510,6 @@
    "french": false,
    "search": "astra north infoteck inc. - solution architect – servicenow, itsm, itom, cmdb & secops in vancouver unknown canada astra-north.zohorecruit.ca servicenow 7/10 via 2026-11-04_sn_round10_raw_20261104t003924z.json servicenow itsm cmdb itom role fit",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow SAM Administrator - ITAM",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
-   "note": "",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "SAM/HAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow  servicenow itam sam/ham role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764"
-    }
-   ]
   },
   {
    "posted": "2026-11-04",
@@ -8147,6 +8147,26 @@
    ],
    "french": false,
    "search": "$65k–$161k cloud engineer jobs in canada, 3 november 2026 / indeed unknown canada indeed other 5/10 via 2026-11-04_other_round11_raw_20261104t004458z.json role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "$53K–$86K IT Administrator Jobs in Toronto, ON, 2 November 2026 / Indeed",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://ca.indeed.com/q-it-administrator-l-toronto,-on-jobs.html?start=10",
+   "note": "7/10 via 2026-11-04_other_round12_raw_20261104T004509Z.json",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Indeed",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "$53k–$86k it administrator jobs in toronto, on, 2 november 2026 / indeed unknown canada indeed other 7/10 via 2026-11-04_other_round12_raw_20261104t004509z.json role fit canada / remote",
    "alternates": []
   },
   {
