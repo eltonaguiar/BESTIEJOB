@@ -1,0 +1,348 @@
+{
+  "generated_at": "2026-11-04T07:18:26Z",
+  "rows": [
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+      "title": "Salesforce Consultant",
+      "origin": "gap-scan--2026-11-02--v46.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce Consultant role, Canada location",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+      "title": "Salesforce Administrator",
+      "origin": "gap-scan--2026-11-02--v46.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce Administrator role, Canada location",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+      "title": "Salesforce Consultant",
+      "origin": "gap-scan--2026-11-03--v44.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce Consultant role, Canada location",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+      "title": "Salesforce Administrator",
+      "origin": "gap-scan--2026-11-03--v44.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce Administrator role, Canada location",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+      "title": "Salesforce Consultant",
+      "origin": "gap-scan--2026-11-04--v1.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce Consultant role, Canada location",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+      "title": "Salesforce Administrator",
+      "origin": "gap-scan--2026-11-04--v1.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce Administrator role, Canada location",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://www.careerbeacon.com/en/job-9/2093614/pri-technology/servicenow-developer-cmdb-itsm-itom/toronto-on",
+      "title": "ServiceNow Developer CMDB ITSM ITOM / IRM (FT, agency)",
+      "origin": "grokbot-hidden-title--2026-11-03--v18.md",
+      "posted": "\u2014",
+      "ai_verdict": "servicenow",
+      "ai_votes": {
+        "servicenow": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: ServiceNow Developer in Toronto",
+        "litellm: ServiceNow Developer role, Toronto hybrid",
+        "llm7: ServiceNow Developer role in Toronto; agency repost"
+      ]
+    },
+    {
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
+      "title": "Technical Architect Director - PubSec - Mulesoft Canada",
+      "origin": "todayfeeds--2026-11-04--v1.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 1,
+        "other": 1,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Mulesoft/Salesforce Technical Architect in Canada",
+        "litellm: Mulesoft Architect role, not Salesforce/Servicenow",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://careers.cognizant.com/us-en/jobs/00069775982/servicenow-solution-architect/",
+      "title": "ServiceNow Solution Architect, Toronto, Ontario, Canada",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "servicenow",
+      "ai_votes": {
+        "servicenow": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: ServiceNow Solution Architect in Toronto",
+        "litellm: ServiceNow Solution Architect, Toronto",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://careers.hootsuite.com/jobs/senior-salesforce-developer-toronto-ontario-canada-vancouver-british-columbia",
+      "title": "Senior Salesforce Developer - Toronto, Ontario, Canada - Vancouver, British Columbia, Canada",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Senior Salesforce Developer in Toronto",
+        "litellm: Senior Salesforce Developer, Toronto",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://careers.cognizant.com/emea-en/jobs/00069315271/salesforce-omnistudio-lead/",
+      "title": "Salesforce Omnistudio Lead, Toronto, Ontario, Canada",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Omnistudio Lead in Toronto",
+        "litellm: Salesforce Omnistudio Lead, Toronto",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://www.jobs.ca/veracity-ventures-inc/jobs/salesforce-developer-1014-toronto-on-d2d37218c0b5",
+      "title": "Salesforce Developer 1014",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Developer in Toronto",
+        "litellm: Salesforce Developer, Toronto",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://www.iitjobs.com/job/salesforce-developer-canada-582091",
+      "title": "Salesforce Developer in Canada (United Software Group Inc)",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Developer in Canada",
+        "litellm: Salesforce Developer, Canada",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://ca.linkedin.com/jobs/view/production-support-analyst-engineer-%E2%80%93-salesforce-admin-certified-at-synechron-4423691005",
+      "title": "Synechron hiring Production Support Analyst / Engineer \u2013 Salesforce Admin Certified in Toronto, Ontario, Canada / LinkedIn",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Admin Production Support in Toronto",
+        "litellm: Salesforce Admin Production Support, Toronto",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://hiringcafe.com/job/sales-operations-and-salesforce-administrator-flosonics-medical-ci46ixsetjpt2s37",
+      "title": "Sales Operations & Salesforce Administrator",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator in Toronto",
+        "litellm: Sales Operations & Salesforce Admin, Toronto",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://www.jobs.ca/aviva-canada/jobs/salesforce-administrator-toronto-on-4f5a555aa7df",
+      "title": "Salesforce Administrator",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator in Toronto",
+        "litellm: Salesforce Administrator, Toronto",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://ca.linkedin.com/jobs/view/servicenow%E2%80%94systems-administrator-csa-certification-required-at-spectraforce-4482700989",
+      "title": "ServiceNow\u2014Systems Administrator (CSA certification required)",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "other",
+      "ai_votes": {
+        "other": 1,
+        "servicenow": 1,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Low confidence: location not specified",
+        "litellm: ServiceNow Systems Administrator, CSA required",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://www.jobs.ca/mehbooba/jobs/servicenow-developer-administrator-cad-and-csa-certified-toronto-on-81c081ce5eaf",
+      "title": "ServiceNow Developer & Administrator (CAD and CSA ...",
+      "origin": "websearch--2026-11-03--v45.md",
+      "posted": "\u2014",
+      "ai_verdict": "other",
+      "ai_votes": {
+        "other": 1,
+        "servicenow": 1,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Low confidence: location not specified",
+        "litellm: ServiceNow Developer & Administrator, CAD/CSA",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-itom-sme-at-ltm-4422749500",
+      "title": "ServiceNow ITOM SME",
+      "origin": "websearch--2026-11-03--v8.md",
+      "posted": "\u2014",
+      "ai_verdict": "servicenow",
+      "ai_votes": {
+        "servicenow": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: ServiceNow ITOM SME in Ontario",
+        "litellm: ServiceNow ITOM SME, Ontario",
+        "llm7: Title and company only; no location or description"
+      ]
+    },
+    {
+      "url": "https://insightglobal.com/jobs/30ac5b2c-4d79-42bf-8f1b-a72248771c80",
+      "title": "ITAM PROJECT MANAGER",
+      "origin": "websearch--2026-11-03--v8.md",
+      "posted": "\u2014",
+      "ai_verdict": "servicenow",
+      "ai_votes": {
+        "servicenow": 2,
+        "?": 1
+      },
+      "ai_voters": 3,
+      "ai_reasons": [
+        "ollama: Low confidence: location not specified",
+        "litellm: ITAM Project Manager, ServiceNow HAM/SAM",
+        "llm7: Title and company only; no location or description"
+      ]
+    }
+  ]
+}

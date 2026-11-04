@@ -1,0 +1,642 @@
+{
+ "generated": "2026-11-04T05:44:02.580441+00:00",
+ "per_bucket": 30,
+ "buckets": {
+  "salesforce": [
+   {
+    "round": 1,
+    "target": "Salesforce",
+    "route": "workday",
+    "note": "the vendor itself",
+    "search": null
+   },
+   {
+    "round": 2,
+    "target": "NeuraFlash",
+    "route": "greenhouse",
+    "note": "Salesforce Summit partner",
+    "search": null
+   },
+   {
+    "round": 3,
+    "target": "Highmetric",
+    "route": "greenhouse",
+    "note": "Salesforce partner",
+    "search": null
+   },
+   {
+    "round": 4,
+    "target": "nCino",
+    "route": "greenhouse",
+    "note": "financial-services Salesforce ISV",
+    "search": null
+   },
+   {
+    "round": 5,
+    "target": "Varicent",
+    "route": "greenhouse",
+    "note": "Salesforce-adjacent comp platform",
+    "search": null
+   },
+   {
+    "round": 6,
+    "target": "SiteTracker",
+    "route": "lever",
+    "note": "Salesforce-native field ops",
+    "search": null
+   },
+   {
+    "round": 7,
+    "target": "Flosum",
+    "route": "workable",
+    "note": "Salesforce DevOps ISV",
+    "search": null
+   },
+   {
+    "round": 8,
+    "target": "Zaelab",
+    "route": "workable",
+    "note": "Salesforce commerce partner",
+    "search": null
+   },
+   {
+    "round": 9,
+    "target": "Avacone",
+    "route": "workable",
+    "note": "Salesforce partner",
+    "search": null
+   },
+   {
+    "round": 10,
+    "target": "RapDev",
+    "route": "ashby",
+    "note": "Salesforce/ServiceNow consultancy",
+    "search": null
+   },
+   {
+    "round": 11,
+    "target": "Directive",
+    "route": "ashby",
+    "note": "Salesforce partner",
+    "search": null
+   },
+   {
+    "round": 12,
+    "target": "Loopio",
+    "route": "ashby",
+    "note": "Salesforce-using SaaS",
+    "search": null
+   },
+   {
+    "round": 13,
+    "target": "Docebo",
+    "route": "ashby",
+    "note": "55 York St, downtown Toronto",
+    "search": null
+   },
+   {
+    "round": 14,
+    "target": "Benevity",
+    "route": "ashby",
+    "note": "Calgary/Toronto, Salesforce shop",
+    "search": null
+   },
+   {
+    "round": 15,
+    "target": "Lightspeed Commerce",
+    "route": "ashby",
+    "note": "Montreal/Toronto",
+    "search": null
+   },
+   {
+    "round": 16,
+    "target": "Accenture",
+    "route": "workday",
+    "note": "global SI",
+    "search": null
+   },
+   {
+    "round": 17,
+    "target": "Altus Group",
+    "route": "workday",
+    "note": "Salesforce Platform, Toronto",
+    "search": null
+   },
+   {
+    "round": 18,
+    "target": "BMO",
+    "route": "workday",
+    "note": "bank",
+    "search": null
+   },
+   {
+    "round": 19,
+    "target": "TD Bank",
+    "route": "workday",
+    "note": "bank",
+    "search": null
+   },
+   {
+    "round": 20,
+    "target": "CIBC",
+    "route": "workday",
+    "note": "bank",
+    "search": null
+   },
+   {
+    "round": 21,
+    "target": "Sun Life",
+    "route": "workday",
+    "note": "insurer",
+    "search": null
+   },
+   {
+    "round": 22,
+    "target": "Manulife",
+    "route": "workday",
+    "note": "insurer",
+    "search": null
+   },
+   {
+    "round": 23,
+    "target": "OMERS",
+    "route": "workday",
+    "note": "pension",
+    "search": null
+   },
+   {
+    "round": 24,
+    "target": "TMX Group",
+    "route": "workday",
+    "note": "exchange operator",
+    "search": null
+   },
+   {
+    "round": 25,
+    "target": "Thomson Reuters",
+    "route": "workday",
+    "note": "Toronto HQ",
+    "search": null
+   },
+   {
+    "round": 26,
+    "target": "Moneris",
+    "route": "workday",
+    "note": "payments",
+    "search": null
+   },
+   {
+    "round": 27,
+    "target": "McKesson",
+    "route": "workday",
+    "note": "healthcare distribution",
+    "search": null
+   },
+   {
+    "round": 28,
+    "target": "Cloudera",
+    "route": "workday",
+    "note": "data platform",
+    "search": null
+   },
+   {
+    "round": 29,
+    "target": "Harris Computer",
+    "route": "workday",
+    "note": "vertical software",
+    "search": null
+   },
+   {
+    "round": 30,
+    "target": "GDIT",
+    "route": "workday",
+    "note": "defense IT integrator",
+    "search": null
+   }
+  ],
+  "servicenow": [
+   {
+    "round": 1,
+    "target": "ServiceNow",
+    "route": "smartrecruiters",
+    "note": "the vendor itself",
+    "search": null
+   },
+   {
+    "round": 2,
+    "target": "Ensiti",
+    "route": "smartrecruiters",
+    "note": "ServiceNow partner",
+    "search": null
+   },
+   {
+    "round": 3,
+    "target": "Spruce Infotech",
+    "route": "smartrecruiters",
+    "note": "ServiceNow staffing",
+    "search": null
+   },
+   {
+    "round": 4,
+    "target": "Crossfuze",
+    "route": "workable",
+    "note": "ServiceNow Elite partner",
+    "search": null
+   },
+   {
+    "round": 5,
+    "target": "Highmetric",
+    "route": "greenhouse",
+    "note": "ServiceNow partner",
+    "search": null
+   },
+   {
+    "round": 6,
+    "target": "NeuraFlash",
+    "route": "greenhouse",
+    "note": "ServiceNow + Salesforce",
+    "search": null
+   },
+   {
+    "round": 7,
+    "target": "RapDev",
+    "route": "ashby",
+    "note": "ServiceNow consultancy",
+    "search": null
+   },
+   {
+    "round": 8,
+    "target": "Directive",
+    "route": "ashby",
+    "note": "ServiceNow partner",
+    "search": null
+   },
+   {
+    "round": 9,
+    "target": "Accenture",
+    "route": "workday",
+    "note": "global SI",
+    "search": null
+   },
+   {
+    "round": 10,
+    "target": "DXC Technology",
+    "route": "workday",
+    "note": "ITSM outsourcing",
+    "search": null
+   },
+   {
+    "round": 11,
+    "target": "GDIT",
+    "route": "workday",
+    "note": "defense IT integrator",
+    "search": null
+   },
+   {
+    "round": 12,
+    "target": "Harris Computer",
+    "route": "workday",
+    "note": "vertical software",
+    "search": null
+   },
+   {
+    "round": 13,
+    "target": "Huron",
+    "route": "workday",
+    "note": "consulting",
+    "search": null
+   },
+   {
+    "round": 14,
+    "target": "ICF",
+    "route": "workday",
+    "note": "consulting",
+    "search": null
+   },
+   {
+    "round": 15,
+    "target": "Resolve Tech Solutions",
+    "route": "workday",
+    "note": "IT services",
+    "search": null
+   },
+   {
+    "round": 16,
+    "target": "SOTI",
+    "route": "workday",
+    "note": "Mississauga, MDM",
+    "search": null
+   },
+   {
+    "round": 17,
+    "target": "Moneris",
+    "route": "workday",
+    "note": "payments",
+    "search": null
+   },
+   {
+    "round": 18,
+    "target": "BMO",
+    "route": "workday",
+    "note": "bank",
+    "search": null
+   },
+   {
+    "round": 19,
+    "target": "TD Bank",
+    "route": "workday",
+    "note": "bank",
+    "search": null
+   },
+   {
+    "round": 20,
+    "target": "CIBC",
+    "route": "workday",
+    "note": "bank",
+    "search": null
+   },
+   {
+    "round": 21,
+    "target": "Sun Life",
+    "route": "workday",
+    "note": "insurer",
+    "search": null
+   },
+   {
+    "round": 22,
+    "target": "Manulife",
+    "route": "workday",
+    "note": "insurer",
+    "search": null
+   },
+   {
+    "round": 23,
+    "target": "OMERS",
+    "route": "workday",
+    "note": "pension",
+    "search": null
+   },
+   {
+    "round": 24,
+    "target": "TMX Group",
+    "route": "workday",
+    "note": "exchange operator",
+    "search": null
+   },
+   {
+    "round": 25,
+    "target": "Interac",
+    "route": "workday",
+    "note": "payments",
+    "search": null
+   },
+   {
+    "round": 26,
+    "target": "McKesson",
+    "route": "workday",
+    "note": "healthcare distribution",
+    "search": null
+   },
+   {
+    "round": 27,
+    "target": "Salvation Army Canada",
+    "route": "workday",
+    "note": "nonprofit",
+    "search": null
+   },
+   {
+    "round": 28,
+    "target": "CAAT Pension Plan",
+    "route": "workday",
+    "note": "pension",
+    "search": null
+   },
+   {
+    "round": 29,
+    "target": "Brookfield",
+    "route": "workday",
+    "note": "asset manager",
+    "search": null
+   },
+   {
+    "round": 30,
+    "target": "Medcan",
+    "route": "workday",
+    "note": "health services, Toronto",
+    "search": null
+   }
+  ],
+  "other": [
+   {
+    "round": 1,
+    "target": "Geotab",
+    "route": "greenhouse",
+    "note": "Oakville, telematics",
+    "search": null
+   },
+   {
+    "round": 2,
+    "target": "D2L",
+    "route": "greenhouse",
+    "note": "Kitchener, edtech",
+    "search": null
+   },
+   {
+    "round": 3,
+    "target": "MongoDB",
+    "route": "greenhouse",
+    "note": "database",
+    "search": null
+   },
+   {
+    "round": 4,
+    "target": "Okta",
+    "route": "greenhouse",
+    "note": "identity",
+    "search": null
+   },
+   {
+    "round": 5,
+    "target": "Brex",
+    "route": "greenhouse",
+    "note": "fintech",
+    "search": null
+   },
+   {
+    "round": 6,
+    "target": "Take-Two",
+    "route": "greenhouse",
+    "note": "games",
+    "search": null
+   },
+   {
+    "round": 7,
+    "target": "iCapital",
+    "route": "greenhouse",
+    "note": "fintech",
+    "search": null
+   },
+   {
+    "round": 8,
+    "target": "Toast",
+    "route": "greenhouse",
+    "note": "restaurant POS",
+    "search": null
+   },
+   {
+    "round": 9,
+    "target": "Movable Ink",
+    "route": "greenhouse",
+    "note": "martech",
+    "search": null
+   },
+   {
+    "round": 10,
+    "target": "EQ Bank",
+    "route": "lever",
+    "note": "digital bank, Toronto",
+    "search": null
+   },
+   {
+    "round": 11,
+    "target": "PointClickCare",
+    "route": "lever",
+    "note": "Mississauga, health SaaS",
+    "search": null
+   },
+   {
+    "round": 12,
+    "target": "Versapay",
+    "route": "lever",
+    "note": "fintech",
+    "search": null
+   },
+   {
+    "round": 13,
+    "target": "Achievers",
+    "route": "lever",
+    "note": "Toronto HR SaaS",
+    "search": null
+   },
+   {
+    "round": 14,
+    "target": "Emburse",
+    "route": "lever",
+    "note": "expense SaaS",
+    "search": null
+   },
+   {
+    "round": 15,
+    "target": "Electric Mind",
+    "route": "lever",
+    "note": "Toronto data consultancy",
+    "search": null
+   },
+   {
+    "round": 16,
+    "target": "1Password",
+    "route": "ashby",
+    "note": "Toronto security",
+    "search": null
+   },
+   {
+    "round": 17,
+    "target": "Docker",
+    "route": "ashby",
+    "note": "devtools",
+    "search": null
+   },
+   {
+    "round": 18,
+    "target": "Webflow",
+    "route": "ashby",
+    "note": "web platform",
+    "search": null
+   },
+   {
+    "round": 19,
+    "target": "Inovalon",
+    "route": "ashby",
+    "note": "healthcare data",
+    "search": null
+   },
+   {
+    "round": 20,
+    "target": "TELUS Digital",
+    "route": "ashby",
+    "note": "Canadian telco digital",
+    "search": null
+   },
+   {
+    "round": 21,
+    "target": "Canadian Tire",
+    "route": "workday",
+    "note": "retail, data/BI",
+    "search": null
+   },
+   {
+    "round": 22,
+    "target": "Desjardins",
+    "route": "workday",
+    "note": "financial co-op",
+    "search": null
+   },
+   {
+    "round": 23,
+    "target": "BDO Canada",
+    "route": "workday",
+    "note": "professional services",
+    "search": null
+   },
+   {
+    "round": 24,
+    "target": "RSM",
+    "route": "workday",
+    "note": "professional services",
+    "search": null
+   },
+   {
+    "round": 25,
+    "target": "IKO",
+    "route": "workday",
+    "note": "building products",
+    "search": null
+   },
+   {
+    "round": 26,
+    "target": "MLSE",
+    "route": "workday",
+    "note": "sports/entertainment",
+    "search": null
+   },
+   {
+    "round": 27,
+    "target": "TJX",
+    "route": "workday",
+    "note": "retail",
+    "search": null
+   },
+   {
+    "round": 28,
+    "target": "AGF",
+    "route": "workday",
+    "note": "asset manager",
+    "search": null
+   },
+   {
+    "round": 29,
+    "target": "Canadian Tire",
+    "route": "workday",
+    "note": "second pass: analytics titles",
+    "search": "data analyst"
+   },
+   {
+    "round": 30,
+    "target": "Desjardins",
+    "route": "workday",
+    "note": "second pass: BI titles",
+    "search": "business intelligence"
+   }
+  ]
+ }
+}
