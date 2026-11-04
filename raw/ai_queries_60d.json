@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-11-04T19:08:21Z",
+  "city": "Toronto / GTA / Canada",
+  "peers_answered": 5,
+  "peers_failed": 1,
+  "keywords": [
+    "servicenow itom",
+    "cmdb specialist",
+    "itam consultant",
+    "servicenow gsd",
+    "salesforce pardot",
+    "salesforce wave",
+    "servicenow sysdev",
+    "salesforce apex",
+    "servicenow release",
+    "salesforce ahc",
+    "servicenow table",
+    "salesforce flow"
+  ],
+  "per_peer": {
+    "vllm/Qwen/Qwen2.5-14B-Instruct": [
+      "servicenow itom",
+      "cmdb specialist",
+      "itam consultant",
+      "servicenow gsd",
+      "salesforce pardot",
+      "salesforce wave",
+      "servicenow sysdev",
+      "salesforce apex",
+      "servicenow release",
+      "salesforce ahc",
+      "servicenow table",
+      "salesforce flow"
+    ],
+    "ollama/gemma4:31b-cloud": [
+      "servicenow hrsd",
+      "servicenow itom",
+      "servicenow irm",
+      "servicenow secops",
+      "salesforce cpq",
+      "salesforce marketing cloud",
+      "salesforce experience cloud",
+      "salesforce health cloud",
+      "cmdb manager",
+      "itam specialist",
+      "servicenow consultant",
+      "salesforce architect"
+    ],
+    "litellm/paid-mode": [
+      "servicenow orchestration",
+      "servicenow performance analytics",
+      "servicenow integration hub",
+      "servicenow virtual agent",
+      "salesforce marketing cloud",
+      "salesforce field service",
+      "salesforce cpq",
+      "salesforce lightning",
+      "servicenow security incident",
+      "servicenow asset management",
+      "servicenow change management",
+      "salesforce app builder"
+    ],
+    "pollinations/openai-fast": [
+      "servicenow hrsd",
+      "salesforce cpq",
+      "servicenow itil",
+      "servicenow virtual agent",
+      "salesforce field service",
+      "salesforce experience cloud",
+      "servicenow asset mgmt",
+      "servicenow change mgmt",
+      "servicenow incident mgmt",
+      "servicenow problem mgmt",
+      "servicenow knowledge mgmt",
+      "salesforce marketing cloud"
+    ],
+    "llm7/codestral-latest": [
+      "servicenow itam",
+      "servicenow cmdb",
+      "servicenow sn_hrsd",
+      "salesforce cpq",
+      "salesforce field service",
+      "salesforce marketing cloud",
+      "salesforce einstein analytics",
+      "servicenow integration hub",
+      "servicenow mid server",
+      "salesforce lightning web components",
+      "servicenow flow designer",
+      "salesforce apex"
+    ]
+  },
+  "dropped": []
+}
