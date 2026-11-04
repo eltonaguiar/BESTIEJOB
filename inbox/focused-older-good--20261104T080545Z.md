@@ -1,0 +1,105 @@
+---
+model: focused-older-jobs
+scanned_at: 20261104T080545Z
+task: older-jobs-reference
+---
+
+# Older Jobs (Score >= 6)
+
+Count: 93
+
+| Score | Platform | Role | Company | Location |
+|---|---|---|---|---|---|
+| 9 | SN | [Lead ServiceNow Architecture Consultant — CGI / Calgary, AB / Jobily](https://www.jobily.ca/jobs/lead-servicenow-architecture-consultant-cgi-calgary-calgary--f8752b) | Unknown | Canada |
+| 9 | SN | [Spruce InfoTech Inc. 🚨 Hiring Alert – ServiceNow TSOM Consultant/Architect with expertise in ITOM, CMDB, Event Management, and Telecom Service Assurance. CSA & CAD required; CIS-ITOM preferred. / Abhishek Madduri](https://www.linkedin.com/posts/abhishek-madduri-a5a84b396_sprucecanada-hiring-servicenow-activity-7439422428461645824-HXDE) | Unknown | Canada |
+| 9 | SN | [Senior ServiceNow Developer (Remote), CA$101,900 - CA$151,900 CAD per year at Elastic](https://wantremote.com/job/senior-servicenow-developer-80910) | Unknown | Canada |
+| 7 | OTHER | [Senior Business Systems Analyst, ServiceNow CSM - EN 125 / Export Development Canada / Exportation et développement Canada / Jobs by Workable](https://jobs.workable.com/view/uraC6Uf1h8Kio8QB1QCq6Q/hybrid-senior-business-systems-analyst%2C-servicenow-csm---en-125-in-ottawa-at-export-development-canada-%7C-exportation-et-d%C3%A9veloppement-canada) | Unknown | Canada |
+| 7 | OTHER | [Sr ServiceNow Implementation Consultant / HireSub](https://hiresub.infinityfree.me/job/sr-servicenow-implementation-consultant-5063185) | Unknown | Canada |
+| 7 | OTHER | [Senior Business Systems Analyst, ServiceNow CSM - EN 125 / Export Development Canada / Exportation et développement Canada / Jobs by Workable](https://jobs.workable.com/view/5y9TmpwHVoi5k9wzKVb1wC/hybrid-senior-business-systems-analyst%2C-servicenow-csm---en-125-in-halifax-at-export-development-canada-%7C-exportation-et-d%C3%A9veloppement-canada) | Unknown | Canada |
+| 7 | OTHER | [Dynamics 365 CRM / Power Platform Developer (Contractor Positions) - Endeavor4 CRM](https://www.endeavor4crm.com/careers/dynamics-power-platform-developer/) | Unknown | Canada |
+| 7 | OTHER | [Senior Business Systems Analyst, ServiceNow CSM - EN 125 at Export-development-canada](https://apply.workable.com/j/6054C80368) | Unknown | Canada |
+| 7 | SF | [Salesforce Architect at Lyft](https://startup.jobs/salesforce-architect-lyft-10219340) | Unknown | Canada |
+| 7 | SF | [Salesforce Platform Developer at Altus Group Limited/Groupe Altus](https://startup.jobs/salesforce-platform-developer-altus-group-limited-groupe-a-10638766) | Unknown | Canada |
+| 7 | SF | [Salesforce Technical Lead - Raise - find a more meaningful working experience](https://raise.jobs/careers/262162-salesforce-technical-lead) | Unknown | Canada |
+| 7 | SN | [Now hiring a ServiceNow Developer with 6+ years of experience in scripting, Service Portal, UI Builder, and integrations. / Shane Toevs](https://www.linkedin.com/posts/shanetoevs_epamcanada-servicenow-remotework-activity-7396954300607815680-fZim) | Unknown | Canada |
+| 7 | SN | [We are hiring a Senior ServiceNow Developer with CSM and HAM/SAM experience on a 6-12 month full-time contract in the Vancouver area. The work is mostly remote with onsite required for some … / Encor Partners](https://www.linkedin.com/posts/encor-partners_servicenow-servicemanagement-itsm-activity-7417048663782297600-l6VV) | Unknown | Canada |
+| 7 | SN | [ServiceNow Developer / CACI / Handshake](https://app.joinhandshake.com/public/jobs/11710643) | Unknown | Canada |
+| 7 | SN | [🚀 We're Hiring / Senior ServiceNow Administrator MJB Technology Solutions / MJB Technology Solutions](https://www.linkedin.com/posts/mjb-technology-solutions_servicenow-hiring-hiringnow-activity-7450813475229970432-f5D1) | Unknown | Canada |
+| 7 | SN | [ServiceNow Administrator, BA Enablement Associate / RSM Careers](https://jobs.rsmus.com/posting/servicenow-administrator-ba-enablement-associate/JR120431) | Unknown | Canada |
+| 7 | SN | [Exciting opportunity alert! 🚀 We're seeking a skilled ServiceNow Architect with expertise in Solution Design and Architecture to join our team for deployment and enhancement projects with a top-tier Canadian Bank. If … / Balaji Ayyappan](https://www.linkedin.com/posts/balajiayyappan_servicenow-architect-banking-activity-7315408211228991489-gO_X) | Unknown | Canada |
+| 7 | SN | [ServiceNow ITSM Business Process Consultant with SPM and SLM - Remote working USA or Canada / EST working - Platform 6](https://www.platform-6.com/job/servicenow-itsm-business-process-consultant-with-spm-and-slm-remote-working-usa-or-canada-est-working/) | Unknown | Canada |
+| 7 | SN | [ServiceNow ITAM Architect / Talentpulse](https://talentpulse.66ghz.com/remote-jobs/servicenow-itam-architect) | Unknown | Canada |
+| 7 | SN | [ServiceNow ITAM Architect / Flexstack](https://flexstack.my-board.org/remote-jobs/servicenow-itam-architect) | Unknown | Canada |
+| 7 | SN | [Lead ServiceNow Technical Consultant with CMDB / CSDM / Discovery - Remote working USA or Canada - Platform 6](https://www.platform-6.com/job/lead-servicenow-technical-consultant-with-cmdb-csdm-discovery-remote-working-usa-or-canada/) | Unknown | Canada |
+| 7 | SN | [Senior ServiceNow Developer - Raise - find a more meaningful working experience](https://raise.jobs/careers/260525-senior-servicenow-developer/) | Unknown | Canada |
+| 7 | SN | [ServiceNow Developer / Leading Talent](https://leadingtalent.ca/jobs/servicenow-developer-in-calgary-alberta-ca-2/) | Unknown | Canada |
+| 7 | SN | [Senior ServiceNow Specialist Job Details / Trans Mountain](https://careers.transmountain.com/job/Calgary-Senior-ServiceNow-Specialist-Albe/1291695447) | Unknown | Canada |
+| 7 | SN | [Hiring: AI Architect – ServiceNow AI Control Tower (AICT) / Remote – Canada / Vivek Kirni](https://www.linkedin.com/posts/vivek-kirni_hiring-ai-architect-servicenow-ai-control-activity-7469761581137018880-ECly) | Unknown | Canada |
+| 7 | SN | [Senior consultant - servicenow hrsd - Infosys (Calgary)](https://jobsca.org/senior-consultant_calgary-c115236/2026-10-infosys_i4244341027) | Unknown | Canada |
+| 7 | SN | [ServiceNow Consultant](https://www.aplin.com/job/60931142-servicenow-consultant-canada-remote) | Unknown | Canada |
+| 7 | SN | [ServiceNow Strategic Portfolio Management (SPM) Consultant / RSM Careers](https://jobs.rsmus.com/posting/servicenow-strategic-portfolio-management-spm-consultant/JR119221) | Unknown | Canada |
+| 7 | SN | [Senior Developer, ServiceNow CSM - EN 395 / Export Development Canada / Exportation et développement Canada / Jobs by Workable](https://jobs.workable.com/view/1tHY9Uh8U9mpJBCrtqhcPG/hybrid-senior-developer%2C-servicenow-csm---en-395-in-calgary-at-export-development-canada-%7C-exportation-et-d%C3%A9veloppement-canada) | Unknown | Canada |
+| 7 | SN | [🚨 Hiring: CMDB Senior Developer (ServiceNow) / Tarun Kumar](https://www.linkedin.com/posts/tarun-kumar-704aa318b_hiring-cmdb-senior-developer-servicenow-activity-7481433462705623041-qCJr) | Unknown | Canada |
+| 7 | SN | [🔧 Job Title: Senior ServiceNow Developer – CSDM/APM (Hybrid / Long-Term Contract) / Konstantina Kyrtsos](https://www.linkedin.com/posts/kkyrtsos_job-title-senior-servicenow-developer-activity-7348067975716814848-3Eoz) | Unknown | Canada |
+| 7 | SN | [ServiceNow Sr Developer (ITSM - AI - GRC) in Toronto, ON M8X 1C4, Canada / Technology at Bank of Montreal](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260027442EXTERNALENCA/ServiceNow-Sr-Developer-ITSM-AI-GRC) | Unknown | Canada |
+| 7 | SN | [ServiceNow Developer in Toronto, ON M8X 1C4, Canada](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260024416EXTERNALENCA/ServiceNow-Developer) | Unknown | Canada |
+| 7 | SN | [🚀 We are hiring! Role: ServiceNow GRC Developer/Administrator / Satish Kumar](https://www.linkedin.com/posts/satish123456_servicenow-grc-developer-activity-7371558643768549376-jgE1) | Unknown | Canada |
+| 7 | SN | [ServiceNow System Administrator Job / Operations & IT Infrastructure Jobs at Bell Canada](https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator) | Unknown | Canada |
+| 7 | SN | [Job opening - ServiceNow Technical Architect in Toronto / Randstad Canada](https://www.randstad.ca/jobs/servicenow-technical-architect_toronto_47644537) | Unknown | Canada |
+| 7 | SN | [ServiceNow Technical Consultant, Toronto, ON-199 Bay Street, Ontario, Canada / Cognizant Careers](https://careers.cognizant.com/us-en/jobs/00070336611/servicenow-technical-consultant/) | Unknown | Canada |
+| 7 | SN | [ServiceNow Developer at Caatpension](https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Developer_JR100181) | Unknown | Canada |
+| 7 | SN | [ServiceNow ITOM Developer in Toronto, ON M8X ...](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260004810EXTERNALENCA/ServiceNow-ITOM-Developer) | Unknown | Canada |
+| 7 | SN | [ServiceNow Developer at Levio](https://job-boards.greenhouse.io/levio/jobs/8684331002) | Unknown | Canada |
+| 7 | SN | [Hiring: ServiceNow CPQ Architect / Toronto, Canada 🇨🇦 / MAHESH CH](https://www.linkedin.com/posts/mahesh-ch-225404115_servicenow-cpq-som-activity-7470837281440862210-EdLi) | Unknown | Canada |
+| 7 | SN | [ServiceNow  SAM Administrator - ITAM at BMO, $55,500–120,000 a year / Emploive](https://emploive.com/jobs/9405625/servicenow-sam-administrator-itam-bmo) | Unknown | Canada |
+| 7 | SN | [🚀 ServiceNow Architect / Toronto (Hybrid) / Norm Daigle](https://www.linkedin.com/posts/ndaigle_servicenow-architect-position-join-our-activity-7430285267233767424-FnWI) | Unknown | Canada |
+| 7 | SN | [Job opening - ServiceNow Technical Architect in Toronto / Randstad Canada](https://www.randstad.ca/jobs/servicenow-technical-architect_toronto_47644537/) | Unknown | Canada |
+| 7 | SN | [ServiceNow Developer Lead / Architect / LATAM / Flexgen](https://flexgen.zya.me/job/servicenow-developer-lead-architect-latam-2) | Unknown | Canada |
+| 7 | SN | [ServiceNow Developer / Willow](https://willow.2kool4u.net/remote-jobs/servicenow-developer-15) | Unknown | Canada |
+| 7 | SN | [ServiceNow Developer Lead / Architect / LATAM / Willow](https://willow.2kool4u.net/remote-jobs/servicenow-developer-lead-architect-latam) | Unknown | Canada |
+| 7 | SN | [Job opening - ServiceNow Developer in Ottawa / Randstad Canada](https://www.randstad.ca/jobs/servicenow-developer_ottawa_47576614) | Unknown | Canada |
+| 7 | SN | [[Remote] ServiceNow Administrator / Willow](https://willow.2kool4u.net/remote-jobs/remote-servicenow-administrator-5) | Unknown | Canada |
+| 7 | SN | [ServiceNow Solution Architect – AI at NewRocket - Canada Remote](https://www.remoterocketship.com/ca/company/newrocket/jobs/servicenow-solution-architect-ai-canada-remote/) | Unknown | Canada |
+| 7 | SN | [ServiceNow Solution Architect — HAM/SAM (Canada) at NewRocket](https://meterwork.com/job/servicenow-solution-architect-hamsam-canada_at_newrocket_vg3g1) | Unknown | Canada |
+| 7 | SN | [ServiceNow Architect (Sr.) – SOM/OMT + Telecom / Remote Canada 🇨🇦 / Srinath Yadav](https://www.linkedin.com/posts/srinath-yadav-technical-recruiter_servicenow-servicenowjobs-servicenowarchitect-activity-7419035773972369409-3xfP) | Unknown | Canada |
+| 7 | SN | [ServiceNow Solution Architect, Toronto, Ontario, Canada / Cognizant Careers](https://careers.cognizant.com/us-en/jobs/00069775981/servicenow-solution-architect) | Unknown | Canada |
+| 7 | SN | [Job opening - ServiceNow Technical Architect in Toronto / Randstad](https://www.randstad.com/jobs/servicenow-technical-architect_toronto_47644537) | Unknown | Canada |
+| 7 | SN | [Job opening - ServiceNow Technical Consultant in Montréal / Randstad Canada](https://www.randstad.ca/jobs/servicenow-technical-consultant_montreal_47286381) | Unknown | Canada |
+| 7 | SN | [ServiceNow Senior Technical Consultant / Hireorbit](https://hireorbit.social-networking.me/remote-jobs/servicenow-senior-technical-consultant) | Unknown | Canada |
+| 7 | SN | [ServiceNow Senior Technical Consultant / Prairie](https://prairie.totalh.net/remote-jobs/servicenow-senior-technical-consultant) | Unknown | Canada |
+| 7 | SN | [Principal Solution Architect – ServiceNow at ServiceNow / Remote Job / Kickstart Remote](https://kickstartremote.com/remote-jobs/principal-solution-architect-servicenow-canada-remote-3734) | Unknown | Canada |
+| 7 | SN | [ServiceNow ITAM Architect / Taskpilotx](https://taskpilotx.22web.org/remote-jobs/servicenow-itam-architect) | Unknown | Canada |
+| 7 | SN | [ServiceNow - Senior Developer / Leading Talent](https://leadingtalent.ca/jobs/servicenow-senior-developer-in-toronto-ontario-ca-4/) | Unknown | Canada |
+| 7 | SN | [Servicenow Developer / Triunity Software, Inc. / Handshake](https://app.joinhandshake.com/public/jobs/11766074) | Unknown | Canada |
+| 7 | SN | [ServiceNow Administrator / Developer (Intermediate) - BFG Enterprise Services](https://careers.bfg.ca/jobs/707075-servicenow-administrator-developer-intermediate) | Unknown | Canada |
+| 7 | SN | [📌We’re Hiring: ServiceNow Solution Architect / Sowmya R Hullur](https://www.linkedin.com/posts/sowmyahullur_wearecgi-cgi-servicenow-activity-7427442086997786624-6V04) | Unknown | Canada |
+| 7 | SN | [🚨WE’RE HIRING / ServiceNow Solution Architect – CTA Certified / Devansh Gupta](https://www.linkedin.com/posts/devansh-gupta-0489b9222_hiring-servicenow-servicenowjobs-activity-7501335133141184513-aasr) | Unknown | Canada |
+| 7 | SN | [Service Now AI Architect at MCKESSON](https://careers.mckesson.com/en/job/mississauga/service-now-ai-architect/733/99174908624) | Unknown | Canada |
+| 7 | SN | [[Remote] ServiceNow Technical Consultant / Taskworks](https://taskworks.totalh.net/remote-jobs/remote-servicenow-technical-consultant) | Unknown | Canada |
+| 7 | SN | [ServiceNow Senior Developer @ BDO Canada / Simplify Jobs](https://simplify.jobs/p/2b694590-33f3-408c-9f4f-918c4ba38883/ServiceNow-Senior-Developer) | Unknown | Canada |
+| 7 | SN | [Job opening - ServiceNow Developer in Ottawa / Randstad](https://www.randstad.com/jobs/servicenow-developer_ottawa_47576614) | Unknown | Canada |
+| 7 | SN | [Job opening - Senior ServiceNow Developer / Technical Lead in Ottawa / Randstad Canada](https://www.randstad.ca/jobs/senior-servicenow-developer-technical-lead_ottawa_47297495) | Unknown | Canada |
+| 7 | SN | [ServiceNow Enterprise Architect / Myticas Consulting](https://myticas.com/jobs/servicenow-enterprise-architect-35761/) | Unknown | Canada |
+| 7 | SN | [🚨 Senior ServiceNow Developers (2) / Government Contract / Remote / Reliability Clearance Required (through PSPC) / Weronika Dubois](https://www.linkedin.com/posts/weronikadubois_servicenow-hrsd-integrationhub-activity-7486122869505273856-QXSR) | Unknown | Canada |
+| 7 | SN | [Senior Developer, ServiceNow CSM - EN 395 / Export Development Canada / Exportation et développement Canada / Jobs by Workable](https://jobs.workable.com/view/tQ5LH472AdGanixLpLhEdw/hybrid-senior-developer%2C-servicenow-csm---en-395-in-ottawa-at-export-development-canada-%7C-exportation-et-d%C3%A9veloppement-canada) | Unknown | Canada |
+| 7 | SN | [ServiceNow Technical Lead](https://www.aplin.com/job/60542083-servicenow-technical-lead-ottawa-ontario) | Unknown | Canada |
+| 7 | SN | [Job opening - ServiceNow Technical Consultant in Montréal / Randstad Canada](https://www.randstad.ca/jobs/servicenow-technical-consultant_montreal_47286381/) | Unknown | Canada |
+| 7 | SN | [ServiceNow Architect, Singapore,SG, Singapore, Singapore / Cognizant Careers](https://careers.cognizant.com/ca-en/jobs/47801/servicenow-architect) | Unknown | Canada |
+| 7 | SN | [ServiceNow Architect (NV1 Cleared) - Tenth Revolution Group](https://www.tenthrevolution.com/job/servicenow-architect-nv1-cleared/) | Unknown | Canada |
+| 7 | SN | [ServiceNow Consultant jobs in Your Area / Jobs-search ORG](https://jobs-search.org/information-technology/servicenow-consultant) | Unknown | Canada |
+| 6 | OTHER | [🚀 We’re Hiring: Intermediate Business Analyst – ServiceNow GRC/IRM / AMANST Inc.](https://www.linkedin.com/posts/amanst-inc_businessanalyst-servicenow-grc-activity-7483550703525912576-xjYc) | Unknown | Canada |
+| 6 | OTHER | [Job opening - ServiceNow Business Analyst in Toronto / Randstad Canada](https://www.randstad.ca/jobs/servicenow-business-analyst_toronto_47010114) | Unknown | Canada |
+| 6 | OTHER | [ServiceNow Business Analyst-Canada job with Zortech Solutions / 14230476](https://jobs.accaglobal.com/job/14230476/servicenow-business-analyst-canada) | Unknown | Canada |
+| 6 | OTHER | [ServiceNow Business Analyst job with Cognizant Technology Solutions / 14133456](https://jobs.accaglobal.com/job/14133456/servicenow-business-analyst/) | Unknown | Canada |
+| 6 | OTHER | [ServiceNow Business Analyst / Taskworks](https://taskworks.totalh.net/remote-jobs/servicenow-business-analyst-6) | Unknown | Canada |
+| 6 | SN | [ServiceNow Professionals — this one’s for you! 👀 / Brían Glancy](https://www.linkedin.com/posts/reelieunderscorerecruit_peopledrivegrowth-bestincraft-madewithhumility-activity-7441921720124522496-nZwD) | Unknown | Canada |
+| 6 | SN | [📣 We’re hiring ServiceNow talent in Toronto! 🍁 / Customizo / ServiceNow Elite Partner](https://www.linkedin.com/posts/customizo-sn_were-hiring-servicenow-talent-in-toronto-activity-7424814073021661184-4Kyw) | Unknown | Canada |
+| 6 | SN | [Staff Software Engineer – SRE & AIOps at ServiceNow](https://jobs.smartrecruiters.com/servicenow/744000147358329) | Unknown | Canada |
+| 6 | SN | [Staff Software Engineer – SRE & AIOps Jobs in ServiceNow in Vancouver - Canada / Dr. Job](https://www.drjobpro.com/canada/jobs/staff-software-engineer-sre-aiops-vancouver-servicenow-MTMJOHLF1E0LSJN) | Unknown | Canada |
+| 6 | SN | [[Remote] Staff Full Stack Engineer (ServiceNow) / SkillDock](https://skilldock.lovestoblog.com/job/remote-staff-full-stack-engineer-servicenow) | Unknown | Canada |
+| 6 | SN | [Data Analyst- ServiceNow - Raise - find a more meaningful working experience](https://raise.jobs/careers/240630-data-analyst-servicenow) | Unknown | Canada |
+| 6 | SN | [ServiceNow Dev &amp; BA (Remote - LATAM) / SkillDock](https://skilldock.lovestoblog.com/job/servicenow-dev-ba-remote-latam) | Unknown | Canada |
+| 6 | SN | [ServiceNow Business Analyst-Canada job with Zortech Solutions / 14213007](https://jobs.accaglobal.com/job/14213007/servicenow-business-analyst-canada/) | Unknown | Canada |
+| 6 | SN | [Associate Customer Success Manager - French at ServiceNow - Montréal, Canada](https://remotefirstjobs.com/companies/servicenow/jobs/associate-customer-success-manager-french-878631) | Unknown | Canada |
+| 6 | SN | [Staff Information Security Analyst - ServiceNow, Inc. / JobsBrampton.ca](https://jobsbrampton.ca/job/staff-information-security-analyst-toronto-650c4666) | Unknown | Canada |
+| 6 | SN | [Job opening - ServiceNow Engineer in Mississauga / Randstad Canada](https://www.randstad.ca/jobs/servicenow-engineer_mississauga_47244789) | Unknown | Canada |
