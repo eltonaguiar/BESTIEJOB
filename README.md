@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T053327Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T060729Z.md`.
 
 ## Contents
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-04T05:30:01.743Z** · 866 live postings from 9 public sources · 110 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-04T06:00:01.352Z** · 866 live postings from 9 public sources · 106 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -615,18 +615,18 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 |---|---|---|---|---|
 | 2026-11-04 | [Staff Site Reliability Engineer, Canada Protected B](https://ca.linkedin.com/jobs/view/staff-site-reliability-engineer-canada-protected-b-at-servicenow-4487203515) | ServiceNow | Toronto, Ontario, Canada | DevOps / Cloud |
 | 2026-11-04 | [Senior Site Reliability Engineer, Canada Protected B](https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-canada-protected-b-at-servicenow-4487200713) | ServiceNow | Toronto, Ontario, Canada | DevOps / Cloud |
+| 2026-11-03 | [Manager, Site Reliability Engineering](https://www.adzuna.ca/details/5952305446?utm_medium=api&utm_source=54ce986e) | Northbridge Financial Corporation | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-03 | [Senior Software Engineer (AI & Full Stack)](https://www.adzuna.ca/details/5952125390) | Fable | Toronto, Ontario | Full stack |
 | 2026-11-03 | [Business Data Analyst - Analyste de données d’affaires](https://www.adzuna.ca/details/5952066551?utm_medium=api&utm_source=54ce986e) | CYNET SYSTEMS | Westmount, Montréal | Data / BI |
 | 2026-11-03 | [Finance Business & Data Analyst](https://www.adzuna.ca/details/5952066517?utm_medium=api&utm_source=54ce986e) | TekWissen LLC | Westmount, Montréal | Data / BI |
 | 2026-11-03 | [Java Full stack engineer](https://www.adzuna.ca/details/5952066479) | VDart Inc | Regent Park, City of Toronto | Full stack |
 | 2026-11-03 | [DevOps Engineer \| Azure GitHub Enterprise](https://www.adzuna.ca/details/5951979981) | Insight Global | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-03 | [Senior Full Stack Engineer, AI Products - Stout Strategy](https://www.adzuna.ca/details/5951979916?utm_medium=api&utm_source=54ce986e) | Stout | Canada | Full stack |
 | 2026-11-03 | [Cloud Architect](https://www.adzuna.ca/details/5951979726?utm_medium=api&utm_source=54ce986e) | GlassHouse Systems | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-03 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5951979297?utm_medium=api&utm_source=54ce986e) | Bounteous | Canada | DevOps / Cloud |
-| 2026-11-03 | [BI Platform Operations Engineer - (Tableau, Amazon QuickSight & AWS)](https://www.adzuna.ca/details/5951769289?utm_medium=api&utm_source=54ce986e) | Tech Talent International | Toronto, Ontario | Data / BI |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-04T053327Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
+`README.BAK_2026-11-04T060729Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
