@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T050649Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T053327Z.md`.
 
 ## Contents
 
@@ -31,7 +31,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [🚀 We’re Hiring: Intermediate Business Analyst – ServiceNow GRC/IRM / AMANST Inc.](https://www.linkedin.com/posts/amanst-inc_businessanalyst-servicenow-grc-activity-7483550703525912576-xjYc) | Unknown | Canada | 6/10 (OTHER) via older-good |
 | 2026-11-04 | [🚀 ServiceNow Architect / Toronto (Hybrid) / Norm Daigle](https://www.linkedin.com/posts/ndaigle_servicenow-architect-position-join-our-activity-7430285267233767424-FnWI) | Unknown | Canada | 7/10 (SN) via older-good |
 | 2026-11-04 | [🔧 Job Title: Senior ServiceNow Developer – CSDM/APM (Hybrid / Long-Term Contract) / Konstantina Kyrtsos](https://www.linkedin.com/posts/kkyrtsos_job-title-senior-servicenow-developer-activity-7348067975716814848-3Eoz) | Unknown | Canada | 7/10 (SN) via older-good |
-| 2026-11-04 | [[[Remote] ServiceNow Technical Consultant / Taskworks](https://taskworks.totalh.net/remote-jobs/remote-servicenow-technical-consultant)](https://taskworks.totalh.net/remote-jobs/remote-servicenow-technical-consultant) | Unknown | Canada | 7/10 (SN) via older-good |
 | 2026-11-04 | [What Senior Itsm Consultant Jobs Are Near Me? / ClicksJobs Canada](https://ca.clickajobs.com/jobs/senior-itsm-consultant?id=91230827) | Unknown | Canada | 5/10 via 2026-11-04_other_round11_raw_20261104T004458Z.json |
 | 2026-11-04 | [Vancouver, Bc Servicenow careers Jobs – 28 Openings This Week / Workopolis](https://www.workopolis.com/search?l=vancouver%252c%2520bc&q=servicenow%2520careers) | Unknown | Canada | 7/10 via 2026-11-04_other_round10_raw_20261104T004447Z.json |
 | 2026-11-04 | [Vancouver, Bc Itsm Jobs – 33 Openings This Week / Workopolis](https://www.workopolis.com/search?cursor=ABkAAYEAGQAAAAAAAAAAAAAAAllCH4cADwEAMiockNMJG1Nrpda6SAAA&l=vancouver%252c%2520bc&q=itsm) | Unknown | Canada | 5/10 via 2026-11-04_other_round4_raw_20261104T004328Z.json |
@@ -106,6 +105,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow  SAM Administrator - ITAM at BMO, $55,500–120,000 a year / Emploive](https://emploive.com/jobs/9405625/servicenow-sam-administrator-itam-bmo) | Unknown | Canada | 7/10 (SN) via older-good |
 | 2026-11-04 | [Service Now AI Architect at MCKESSON](https://careers.mckesson.com/en/job/mississauga/service-now-ai-architect/733/99174908624) | Unknown | Canada | 7/10 (SN) via older-good |
 | 2026-11-04 | [Senior consultant - servicenow hrsd - Infosys (Calgary)](https://jobsca.org/senior-consultant_calgary-c115236/2026-10-infosys_i4244341027) | Unknown | Canada | 7/10 (SN) via older-good |
+| 2026-11-04 | [Senior Site Reliability Engineer, Canada Protected B](https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-canada-protected-b-at-servicenow-4487200713) | ServiceNow | Toronto, Ontario, Canada | DevOps / Cloud |
 | 2026-11-04 | [Senior ServiceNow ITOM Developer / Calgary](https://www.jobleads.com/ca/job/senior-servicenow-itom-cmdb-discovery-developer--calgary--e1bf4260ef923846fd1e7d5c43754a7f9) | Unknown | Canada | 9/10 via 2026-11-04_sn_round5_raw_20261104T003819Z.json |
 | 2026-11-04 | [Senior ServiceNow Developer - Raise - find a more meaningful working experience](https://raise.jobs/careers/260525-senior-servicenow-developer/) | Unknown | Canada | 7/10 (SN) via older-good |
 | 2026-11-04 | [Senior ServiceNow Developer (Remote), CA$101,900 - CA$151,900 CAD per year at Elastic](https://wantremote.com/job/senior-servicenow-developer-80910) | Unknown | Canada | 9/10 (SN) via older-good |
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-04T05:00:01.818Z** · 861 live postings from 9 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-04T05:30:01.743Z** · 866 live postings from 9 public sources · 110 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -582,6 +582,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-04 | [ServiceNow SAM Administrator - ITAM](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096) | BMO | Toronto, ON, CAN |
 | 2026-11-04 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159519949) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-03 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159518980) | ServiceNow | Toronto, Ontario, ca |
+| 2026-11-03 | [Service Now ITAM/Discovery](https://www.adzuna.ca/details/5952066568) | Acestack | Regent Park, City of Toronto |
 | 2026-11-03 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1) | GDIT | Any Location / Remote |
 | 2026-11-03 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote |
 | 2026-11-03 | [ServiceNow System Administrator](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636) | GDIT | Any Location / Remote |
@@ -590,13 +591,13 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [FSO-ServiceNow Developer](https://ca.linkedin.com/jobs/view/fso-servicenow-developer-at-national-bank-of-canada-4484699845) | National Bank of Canada | Montreal, Quebec, Canada |
 | 2026-11-03 | [Développeur ServiceNow - FSO](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-servicenow-fso-at-national-bank-of-canada-4485013355) | National Bank of Canada | Montreal, Quebec, Canada |
 | 2026-11-03 | [Intermediate Technology Specialist, Service Now Developer](https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-service-now-developer-at-equitable-4485018083) | Equitable | Waterloo, Ontario, Canada |
-| 2026-11-03 | [Servicenow specialist](https://ca.linkedin.com/jobs/view/servicenow-specialist-at-tata-consultancy-services-4486058172) | Tata Consultancy Services | Montreal, Quebec, Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
 | 2026-11-04 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto |
+| 2026-11-04 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430) | CGI | Victoria, British Columbia, Canada |
 | 2026-11-04 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486318615) | Canadian Cancer Society | Vancouver, British Columbia, Canada |
 | 2026-11-04 | [Salesforce Revenue Cloud Solution Architect-Toronto](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-solution-architect-toronto-at-slalom-4449798982) | Slalom | Greater Toronto Area, Canada |
 | 2026-11-03 | [Salesforce Developer - Digital Customer : Future Opportunities](https://www.adzuna.ca/details/5952232489) | Deloitte | Toronto, Ontario |
@@ -606,14 +607,15 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Salesforce Industries Cloud Architect (Remote](https://www.adzuna.ca/details/5951980509) | CloudKettle Inc | Toronto, Ontario |
 | 2026-11-03 | [Solutions Architect, Salesforce & Digital Experience Platforms](https://www.adzuna.ca/details/5951980227?utm_medium=api&utm_source=54ce986e) | S.i. Systems | Winnipeg region, Manitoba |
 | 2026-11-03 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5951979773?utm_medium=api&utm_source=54ce986e) | ATB Financial | Fort Saskatchewan, Edmonton region |
-| 2026-11-03 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5951979109) | ATB | Calgary, Calgary region |
-| 2026-11-03 | [Tech Lead Salesforce Financial Services Cloud (FSC)](https://www.adzuna.ca/details/5951768537?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal |
+| 2026-11-03 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5951979426) | Orion Global Solutions | Toronto, Ontario |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
 | 2026-11-04 | [Staff Site Reliability Engineer, Canada Protected B](https://ca.linkedin.com/jobs/view/staff-site-reliability-engineer-canada-protected-b-at-servicenow-4487203515) | ServiceNow | Toronto, Ontario, Canada | DevOps / Cloud |
+| 2026-11-04 | [Senior Site Reliability Engineer, Canada Protected B](https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-canada-protected-b-at-servicenow-4487200713) | ServiceNow | Toronto, Ontario, Canada | DevOps / Cloud |
+| 2026-11-03 | [Senior Software Engineer (AI & Full Stack)](https://www.adzuna.ca/details/5952125390) | Fable | Toronto, Ontario | Full stack |
 | 2026-11-03 | [Business Data Analyst - Analyste de données d’affaires](https://www.adzuna.ca/details/5952066551?utm_medium=api&utm_source=54ce986e) | CYNET SYSTEMS | Westmount, Montréal | Data / BI |
 | 2026-11-03 | [Finance Business & Data Analyst](https://www.adzuna.ca/details/5952066517?utm_medium=api&utm_source=54ce986e) | TekWissen LLC | Westmount, Montréal | Data / BI |
 | 2026-11-03 | [Java Full stack engineer](https://www.adzuna.ca/details/5952066479) | VDart Inc | Regent Park, City of Toronto | Full stack |
@@ -621,12 +623,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Cloud Architect](https://www.adzuna.ca/details/5951979726?utm_medium=api&utm_source=54ce986e) | GlassHouse Systems | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-03 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5951979297?utm_medium=api&utm_source=54ce986e) | Bounteous | Canada | DevOps / Cloud |
 | 2026-11-03 | [BI Platform Operations Engineer - (Tableau, Amazon QuickSight & AWS)](https://www.adzuna.ca/details/5951769289?utm_medium=api&utm_source=54ce986e) | Tech Talent International | Toronto, Ontario | Data / BI |
-| 2026-11-03 | [Data Warehouse Backend Developer and Power BI Support](https://www.adzuna.ca/details/5951703214?utm_medium=api&utm_source=54ce986e) | THREE POINT TURN INC | Canada | Data / BI |
-| 2026-11-03 | [Fullstack Technical Lead – Commercial Lending & Asset Finance](https://www.adzuna.ca/details/5951679420) | Astra North Infoteck Inc. | Toronto, Ontario | Full stack |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-04T050649Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
+`README.BAK_2026-11-04T053327Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.

@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-04T05:06:49+00:00",
+ "generatedAt": "2026-11-04T05:33:27+00:00",
  "timezone": "America/Toronto",
- "count": 423,
+ "count": 422,
  "appliedHidden": 6,
  "sources": [
   "Adzuna",
@@ -4912,6 +4912,27 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Senior Salesforce Developer",
+   "company": "CGI",
+   "location": "Victoria, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce developer cgi victoria, british columbia, canada linkedin salesforce  salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Staff Site Reliability Engineer, Canada Protected B",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca",
@@ -8401,6 +8422,28 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Service Now ITAM/Discovery",
+   "company": "Acestack",
+   "location": "Regent Park, City of Toronto",
+   "url": "https://www.adzuna.ca/details/5952066568",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "ITOM",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "service now itam/discovery acestack regent park, city of toronto adzuna servicenow  servicenow itam itom toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "ServiceNow Platform Engineer",
    "company": "Amphenol Communications Solutions",
    "location": "Markham, Ontario, Canada",
@@ -8527,27 +8570,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Servicenow specialist",
-   "company": "Tata Consultancy Services",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-specialist-at-tata-consultancy-services-4486058172",
-   "note": "",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow specialist tata consultancy services montreal, quebec, canada linkedin servicenow  servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Développeur ServiceNow - FSO",
    "company": "National Bank of Canada",
    "location": "Montreal, Quebec, Canada",
@@ -8631,6 +8653,27 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Salesforce Technical Architect",
+   "company": "Orion Global Solutions",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5951979426",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect orion global solutions toronto, ontario adzuna salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Salesforce Consultant, Revenue Cloud",
    "company": "NeuraFlash",
    "location": "Remote - Colombia",
@@ -8669,7 +8712,12 @@
    ],
    "french": false,
    "search": "senior site reliability engineer, canada protected b servicenow toronto, ontario, ca smartrecruiters servicenow  servicenow role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-canada-protected-b-at-servicenow-4487200713"
+    }
+   ]
   },
   {
    "posted": "2026-11-03",
@@ -8689,27 +8737,6 @@
    ],
    "french": false,
    "search": "salesforce marketing cloud vdart inc ontario, canada adzuna salesforce  salesforce toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Tech Lead Salesforce Financial Services Cloud (FSC)",
-   "company": "Maarut",
-   "location": "Montréal East, Montréal",
-   "url": "https://www.adzuna.ca/details/5951768537?utm_medium=api&utm_source=54ce986e",
-   "note": "",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Quebec"
-   ],
-   "french": false,
-   "search": "tech lead salesforce financial services cloud (fsc) maarut montreal east, montreal adzuna salesforce  salesforce role fit quebec",
    "alternates": []
   },
   {
@@ -8754,26 +8781,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Salesforce DevOps Developer",
-   "company": "ATB",
-   "location": "Calgary, Calgary region",
-   "url": "https://www.adzuna.ca/details/5951979109",
-   "note": "",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce devops developer atb calgary, calgary region adzuna salesforce  salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "BI Platform Operations Engineer - (Tableau, Amazon QuickSight & AWS)",
    "company": "Tech Talent International",
    "location": "Toronto, Ontario",
@@ -8791,6 +8798,26 @@
    ],
    "french": false,
    "search": "bi platform operations engineer - (tableau, amazon quicksight & aws) tech talent international toronto, ontario adzuna other data / bi data/reporting role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior Software Engineer (AI & Full Stack)",
+   "company": "Fable",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5952125390",
+   "note": "Full stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior software engineer (ai & full stack) fable toronto, ontario adzuna other full stack role fit toronto area",
    "alternates": []
   },
   {
@@ -8831,26 +8858,6 @@
    ],
    "french": false,
    "search": "cloud architect glasshouse systems toronto, ontario adzuna other devops / cloud role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Fullstack Technical Lead – Commercial Lending & Asset Finance",
-   "company": "Astra North Infoteck Inc.",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5951679420",
-   "note": "Full stack",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "fullstack technical lead – commercial lending & asset finance astra north infoteck inc. toronto, ontario adzuna other full stack role fit toronto area",
    "alternates": []
   },
   {
@@ -8911,28 +8918,6 @@
    ],
    "french": false,
    "search": "finance business & data analyst tekwissen llc westmount, montreal adzuna other data / bi role fit quebec",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Data Warehouse Backend Developer and Power BI Support",
-   "company": "THREE POINT TURN INC",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5951703214?utm_medium=api&utm_source=54ce986e",
-   "note": "Data / BI",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 9,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit",
-    "Canada / remote",
-    "weak title match"
-   ],
-   "french": false,
-   "search": "data warehouse backend developer and power bi support three point turn inc canada adzuna other data / bi data/reporting role fit canada / remote weak title match",
    "alternates": []
   },
   {
