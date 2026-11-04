@@ -96,8 +96,9 @@ before pushing: regenerating from a stale inbox silently shrinks the board.
 
 - `git add` with a pathspec that no longer exists (merge renames files) aborts
   the whole add silently — check the staged count.
-- `jobs_merge_inbox.py` bumps every inbox file each run; a post-gap run yields a
-  large diff that is churn, not content.
+- `jobs_merge_inbox.py` no longer touches `inbox/` unless you pass `--bump-inbox`
+  (CI does). Before that change it renamed and stamped every submission each run,
+  so a hand run silently rewrote other agents' files.
 - CIBC is excluded (user ineligible until ~Apr 2027) — envelope rule for imports.
 - Adzuna's newest record is usually yesterday; "posted today" only comes from
   Workday-style ATS feeds.

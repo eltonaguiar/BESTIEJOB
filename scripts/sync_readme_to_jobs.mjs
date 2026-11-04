@@ -56,6 +56,43 @@ function cleanUrl(raw) {
   }
 }
 
+/**
+ * Aggregator search/category pages are not postings. Exa answers "data analyst
+ * toronto" with a category URL, so harvests used to land LinkedIn /jobs/<keywords>-jobs
+ * and Robert Half /ca/en/jobs/<city> rows in jobs.json where the page rendered them
+ * as if they were roles. Kept in sync with is_listing_url() in tools/jobs_consolidate.py.
+ */
+const LISTING_RULES = [
+  [/(^|\.)linkedin\.com$/, /^\/jobs\/(?!view\/)[a-z0-9%-]*-jobs/],
+  [/(^|\.)glassdoor\.[a-z.]+$/, /-jobs-srch_|srch_|\/job\/jobs\.htm/i],
+  [/(^|\.)wellfound\.com$/, /^\/role\//],
+  // Robert Half category pages; a posting is /ca/en/jobs/detail/<id>/<slug>.
+  [/(^|\.)roberthalf\.[a-z.]+$/, /^\/[a-z]{2}\/[a-z]{2}\/jobs\/(?!detail\/)[a-z][a-z0-9-]*(?:\/[a-z0-9-]+)?\/?$/],
+  [/(^|\.)randstad\.[a-z.]+$/, /^\/jobs\/q-/],
+  [/(^|\.)eluta\.ca$/, /-jobs-in-/i],
+  [/(^|\.)jobbank\.gc\.ca$/, /^\/marketreport\//],
+  [/(^|\.)ziprecruiter\.com$/, /^\/Jobs\//],
+  [/(^|\.)whatjobs\.com$/, /^\/jobs\/[a-z0-9-]+\/[a-z0-9-]+\/?$/],
+  [/(^|\.)adzuna\.[a-z.]+$/, /^\/[a-z0-9-]+\/?$/],
+  [/(^|\.)indeed\.[a-z.]+$/, /^\/q-/],
+];
+const LISTING_QUERY = /[?&](q|query|search|keywords?|k|ss|term|what|jobtitle)=/i;
+// Slash-delimited only: "/jobsearch/jobposting/<id>" (Job Bank) and
+// "/jobsearch/viewjob/<token>" (Workopolis) are postings, not searches.
+const LISTING_PATH = /\/(jobs?|careers?)\/(search|results|browse)(\/|$)/i;
+
+function isListingUrl(raw) {
+  let u;
+  try {
+    u = new URL(raw);
+  } catch {
+    return false;
+  }
+  const host = u.hostname.toLowerCase().replace(/^www\./, "");
+  if (LISTING_QUERY.test(u.search) || LISTING_PATH.test(u.pathname)) return true;
+  return LISTING_RULES.some(([h, p]) => h.test(host) && p.test(u.pathname));
+}
+
 function urlKey(raw) {
   try {
     const u = new URL(raw);
@@ -160,9 +197,14 @@ function main() {
   const byUrl = new Map();
   const byIdent = new Map();
   let undated = 0;
+  let listingDropped = 0;
   for (const job of existing) {
     if (!job?.postedDate) {
       undated += 1;
+      continue;
+    }
+    if (isListingUrl(job.url)) {
+      listingDropped += 1;
       continue;
     }
     byUrl.set(urlKey(job.url), job);
@@ -171,7 +213,12 @@ function main() {
 
   const added = [];
   let duplicated = 0;
+  let listingSkipped = 0;
   for (const row of readmeRows) {
+    if (isListingUrl(row.url)) {
+      listingSkipped += 1;
+      continue;
+    }
     if (byUrl.has(urlKey(row.url)) || byIdent.has(identKey(row))) {
       duplicated += 1;
       continue;
@@ -191,7 +238,8 @@ function main() {
 
   console.log(
     `[sync] readme rows=${readmeRows.length} already-in-feed=${duplicated} added=${added.length} ` +
-      `undated-dropped=${undated} total=${merged.length}`
+      `undated-dropped=${undated} listing-pages-skipped=${listingSkipped} ` +
+      `listing-pages-purged=${listingDropped} total=${merged.length}`
   );
 
   if (DRY) {
