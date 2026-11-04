@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T013312Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-04T020414Z.md`.
 
 ## Contents
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-04T01:30:01.105Z** · 858 live postings from 9 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-04T02:00:01.591Z** · 860 live postings from 9 public sources · 113 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -599,6 +599,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-04 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto |
 | 2026-11-04 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486318615) | Canadian Cancer Society | Vancouver, British Columbia, Canada |
 | 2026-11-04 | [Salesforce Revenue Cloud Solution Architect-Toronto](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-solution-architect-toronto-at-slalom-4449798982) | Slalom | Greater Toronto Area, Canada |
+| 2026-11-03 | [Salesforce Developer - Digital Customer : Future Opportunities](https://www.adzuna.ca/details/5952232489) | Deloitte | Toronto, Ontario |
 | 2026-11-03 | [Salesforce Consultant, Revenue Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/6242209004) | NeuraFlash | Remote - Colombia |
 | 2026-11-03 | [Sr. Salesforce Developer](https://www.adzuna.ca/details/5952066622) | Acestack | Regent Park, City of Toronto |
 | 2026-11-03 | [Salesforce Marketing Cloud](https://www.adzuna.ca/details/5952066503) | VDart Inc | Ontario, Canada |
@@ -607,7 +608,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-03 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5951979773?utm_medium=api&utm_source=54ce986e) | ATB Financial | Fort Saskatchewan, Edmonton region |
 | 2026-11-03 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5951979109) | ATB | Calgary, Calgary region |
 | 2026-11-03 | [Tech Lead Salesforce Financial Services Cloud (FSC)](https://www.adzuna.ca/details/5951768537?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal |
-| 2026-11-03 | [Salesforce Implementation Consultant & Platform Administrator](https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282) | SS&C Technologies | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-04T013312Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
+`README.BAK_2026-11-04T020414Z.md` holds the rows that aged out of the 30-day window on 2026-11-04.
