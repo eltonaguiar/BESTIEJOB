@@ -65,6 +65,17 @@ QUERIES = [
     "site:jobs.ashbyhq.com Salesforce Toronto",
     "site:jobs.smartrecruiters.com ServiceNow Canada",
     "site:jobs.smartrecruiters.com Salesforce Toronto",
+    # Non-mainstream / Canadian-specific boards
+    "site:jobbank.gc.ca ServiceNow Toronto",
+    "site:jobbank.gc.ca Salesforce Toronto",
+    "site:torontojobs.ca ServiceNow",
+    "site:torontojobs.ca Salesforce",
+    "site:charityvillage.com ServiceNow",
+    "site:charityvillage.com Salesforce",
+    "site:civicjobs.ca ServiceNow",
+    "site:civicjobs.ca Salesforce",
+    "site:techjobs.ca ServiceNow",
+    "site:techjobs.ca Salesforce",
 ]
 
 KW = re.compile(
@@ -86,7 +97,9 @@ JOBISH = re.compile(
     r"linkedin\.com/jobs|indeed\.|jobbank\.gc\.ca|adzuna\.|workopolis|jooble|"
     r"greenhouse\.io|lever\.co|ashbyhq\.com|myworkdayjobs\.com|smartrecruiters\.com|"
     r"recruitee\.com|workable\.com|bamboohr\.com|pinpointhq\.com|builtin\.com|"
-    r"careerbeacon|eluta\.ca|glassdoor|/jobs?/|job[-_]?(detail|posting|opening)", re.I)
+    r"careerbeacon|eluta\.ca|glassdoor|torontojobs\.ca|charityvillage\.com|civicjobs\.ca|"
+    r"techjobs\.ca|startupjobs\.ca|jobillico\.com|neuvoo\.com|talent\.com|ziprecruiter\.ca|"
+    r"monster\.ca|simplyhired\.ca|hired\.ca|/jobs?/|job[-_]?(detail|posting|opening)", re.I)
 
 NON_JOB = re.compile(
     r"\.(pdf|png|jpe?g|zip)$|/(blog|news|insights?|events?|webinars?|press|"
@@ -98,15 +111,43 @@ NON_JOB = re.compile(
 # than spending a page fetch each.
 INDEX_URL = re.compile(
     r"[?&](q|query|k|keyword|keywords|search|what|jobtitle)="          # search parameters
+    # pagination / page-identity params: every hit is a listing view, never a
+    # posting. Measured 2026-11-04 on the new non-mainstream boards — all 8
+    # charityvillage hits carrying `page=`/`jobId=`/`sorting=`/`geo_location=`
+    # were listing pages, while `/job/<slug>-<id>` (no query) was the posting.
+    r"|[?&](page|jobid|job_id|sorting|geo_location|gclid|gad_source|sfin\d*|pg)="
     r"|/q-[^/]*jobs|/jobs-in-|/-jobs\.html"
     r"|/(jobs?|jobsearch|job-search|search|careers?|opportunities)/?$"  # listing root
     r"|linkedin\.com/jobs/(search|collections)|indeed\.[a-z.]+/(q|jobs)\b"
-    r"|jooble\.org/(job|jobs)/?$|glassdoor\.[a-z.]+/Job/", re.I)
+    r"|jooble\.org/(job|jobs)/?$|glassdoor\.[a-z.]+/Job/"
+    # board-internal index/company/content pages that are not postings. A
+    # posting on these boards always lives at `/job/` or `/jobposting/`
+    # (singular); anything else on the host is navigation.
+    r"|/company(?:ies)?/\d|/employers?(?:-list)?/?$|/author/|/blog/"
+    r"|jobbank\.gc\.ca/(findajob|jobsearch/jobsearch)"
+    r"|charityvillage\.com/jobs\b(?!\?)", re.I)
 
 INDEX_TITLE = re.compile(
     r"\bjobs? in\b|\bopen roles?\b|\bnow hiring\b|\bhiring now\b|\bexplore jobs\b"
     r"|\bjob search\b|\d[\d,]*\+?\s+(open\s+)?(jobs|roles|openings|vacanc)"
     r"|^jobs?\b|\bcareers? (opportunities|openings|page)\b", re.I)
+
+# ATS detail URLs usually carry the location as the first path segment after
+# /job/ — Workday writes `/job/Toronto-ON/ServiceNow-Developer_JR100181/` and
+# `/job/toronto-ontario/servicenow-developer...`. The search snippet almost never
+# repeats it, so a GEO test on title+snippet alone silently drops real Toronto
+# postings. Measured 2026-11-04: 5 of 5 genuinely-new ServiceNow/Toronto rows
+# were rejected with "no-GEO" while their own URLs said Toronto-ON.
+# Only the FIRST segment after the marker is used, and it must itself match GEO,
+# so a company slug ("toronto-hydro") cannot leak a false location.
+URL_LOC = re.compile(r"/(?:job|jobs|positions?|postings?|opening|openings)/([^/?#]+)", re.I)
+
+
+def location_segment(url: str) -> str:
+    m = URL_LOC.search(url)
+    if not m:
+        return ""
+    return m.group(1).replace("-", " ").replace("_", " ").strip()
 
 DATE_PATTERNS = [
     re.compile(r'"datePosted"\s*:\s*"([^"]{8,40})"'),
@@ -169,10 +210,25 @@ def search_firecrawl(query: str, limit: int) -> list[dict]:
             for r in items]
 
 
+def search_brave(query: str, limit: int) -> list[dict]:
+    key = get_key("BRAVE_SEARCH_API_KEY")
+    if not key:
+        return []
+    req = urllib.request.Request(
+        f"https://api.search.brave.com/res/v1/web/search?q={urllib.parse.quote(query)}&count={limit}",
+        headers={"X-Subscription-Token": key, "Accept": "application/json", "User-Agent": UA}
+    )
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        data = json.loads(resp.read())
+    return [{"title": r.get("title") or "", "url": r.get("url") or "",
+             "snippet": r.get("description") or "", "source": "brave"}
+            for r in data.get("web", {}).get("results", [])]
+
+
 # Ordered by observed availability, not preference.  On 2026-11-04 Tavily was
 # HTTP 432 (plan set-usage limit) and Exa HTTP 402 (credits exhausted), so
 # trying them first would burn a run before reaching the provider that answers.
-SEARCHERS = {"firecrawl": search_firecrawl, "tavily": search_tavily, "exa": search_exa}
+SEARCHERS = {"firecrawl": search_firecrawl, "tavily": search_tavily, "exa": search_exa, "brave": search_brave}
 
 
 # ---------------------------------------------------------------------------
@@ -277,7 +333,9 @@ def build_rows(results: list[dict], known: set[str], max_fetch: int) -> tuple[li
         hay = f"{title} {snippet}"
         if EXCLUDE.search(title) or not KW.search(hay):
             continue
-        if not GEO.search(hay):
+        # GEO: title/snippet first, then the ATS URL's own location segment.
+        loc = location_segment(url)
+        if not GEO.search(hay) and not (loc and GEO.search(loc)):
             continue
         key = url_key(url)
         if key in known or key in seen:
@@ -345,7 +403,8 @@ def main() -> int:
     providers = [args.provider] if args.provider else list(SEARCHERS)
     live = [p for p in providers if get_key({"tavily": "TAVILY_API_KEY",
                                              "exa": "EXA_API_KEY",
-                                             "firecrawl": "FIRECRAWL_API_KEY"}[p])]
+                                             "firecrawl": "FIRECRAWL_API_KEY",
+                                             "brave": "BRAVE_SEARCH_API_KEY"}[p])]
     if not live:
         print("no search API key found (TAVILY_API_KEY / EXA_API_KEY / FIRECRAWL_API_KEY) "
               "— web search skipped")

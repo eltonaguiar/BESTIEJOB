@@ -1177,7 +1177,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-04T21:40:59.247Z** · 1457 live postings from 9 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-04T22:44:55.062Z** · 1459 live postings from 9 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
