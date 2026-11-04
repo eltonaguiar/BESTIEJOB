@@ -25,15 +25,15 @@ COUNTRY = "ca"
 
 # Fresh keyword angles from AI panel + manual exploration
 QUERIES = [
-    ("servicenow itam", "toronto"),
-    ("servicenow developer", "canada"),
+    ("servicenow platform architect", "canada"),
+    ("servicenow technical consultant", "canada"),
+    ("salesforce revenue cloud", "toronto"),
+    ("salesforce platform developer", "canada"),
+    ("salesforce solution architect", "toronto"),
+    ("servicenow cmdb", "toronto"),
     ("servicenow change management", "toronto"),
     ("servicenow spm", "canada"),
-    ("servicenow administrator", "remote canada"),
-    ("salesforce commerce cloud", "toronto"),
-    ("salesforce developer", "canada"),
-    ("salesforce administrator", "toronto"),
-    ("salesforce field service", "toronto"),
+    ("salesforce marketing cloud", "toronto"),
     ("it asset manager", "toronto"),
 ]
 
