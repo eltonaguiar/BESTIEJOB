@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-04T22:11:25+00:00",
+ "generatedAt": "2026-11-04T23:11:27+00:00",
  "timezone": "America/Toronto",
- "count": 1530,
+ "count": 1531,
  "appliedHidden": 26,
  "sources": [
   "103.careerplug.com",
@@ -1340,27 +1340,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Implementation Architect",
-   "company": "Wipro",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-wipro-4486514927",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow implementation architect wipro mississauga, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "ServiceNow Architect",
    "company": "RSM Canada",
    "location": "Toronto, Ontario, Canada",
@@ -1378,6 +1357,27 @@
    ],
    "french": false,
    "search": "servicenow architect rsm canada toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "ServiceNow Implementation Architect",
+   "company": "Wipro",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-wipro-4486514927",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow implementation architect wipro mississauga, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -3523,27 +3523,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Data Cloud Developer",
-   "company": "Diverse Lynx",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-diverse-lynx-4486388939",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce data cloud developer diverse lynx toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Salesforce Datcloud Tech Lead",
    "company": "Cognizant",
    "location": "Mississauga, Ontario, Canada",
@@ -3637,6 +3616,48 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Salesforce Data Cloud Architect",
+   "company": "Enterprise Solutions Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce data cloud architect enterprise solutions inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Salesforce Data Cloud Developer",
+   "company": "Diverse Lynx",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-diverse-lynx-4486388939",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce data cloud developer diverse lynx toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-04",
@@ -6319,33 +6340,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Technical Lead (Req 00070906481)",
-   "company": "Cognizant",
-   "location": "Remote, Canada",
-   "url": "https://careers.cognizant.com/apj-en/jobs/00070906481/salesforce-techical-lead/",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical lead (req 00070906481) cognizant remote, canada careers.cognizant.com salesforce readme salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-cognizant-4478163469",
-     "label": "LinkedIn · Mississauga"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Senior Salesforce Developer",
    "company": "CGI",
    "location": "Victoria, British Columbia, Canada",
@@ -6409,6 +6403,33 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Salesforce Technical Lead (Req 00070906481)",
+   "company": "Cognizant",
+   "location": "Remote, Canada",
+   "url": "https://careers.cognizant.com/apj-en/jobs/00070906481/salesforce-techical-lead/",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce technical lead (req 00070906481) cognizant remote, canada careers.cognizant.com salesforce readme salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-cognizant-4478163469",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Senior Salesforce Lead",
    "company": "Quantum World Technologies Inc.",
    "location": "Canada",
@@ -6468,6 +6489,27 @@
    ],
    "french": false,
    "search": "revops solutions architect (hubspot + salesforce) properexpression canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
+   "company": "Alithya",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-et-impl%C3%A9mentations-at-alithya-4487552279",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "conseiller ou conseillere en architecture technique salesforce, lwc, apex et implementations alithya montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -18367,27 +18409,6 @@
    ],
    "french": false,
    "search": "salesforce developer (cloud developer) gdit any location / remote workday ats salesforce workday salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
-   "company": "Alithya",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-et-impl%C3%A9mentations-at-alithya-4484606302",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "conseiller ou conseillere en architecture technique salesforce, lwc, apex et implementations alithya montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
