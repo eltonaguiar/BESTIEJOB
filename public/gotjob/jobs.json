@@ -17,8 +17,8 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-04T14:09:06.459Z",
     "generatedAt": "2026-11-04T14:09:06.459Z",
-    "total": 1431,
-    "newThisScan": 98,
+    "total": 1456,
+    "newThisScan": 25,
     "retainedFromPrevious": 576,
     "sources": {
       "smartrecruiters": 8,
@@ -30,13 +30,13 @@
       "remoteok": 2,
       "remotive": 4,
       "adzuna": 426,
-      "exa": 98
+      "exa": 25
     },
     "primaryCounts": {
-      "servicenow": 563,
-      "salesforce": 647
+      "servicenow": 569,
+      "salesforce": 653
     },
-    "lastExaNormalize": "2026-11-04T14:11:17.090612+00:00"
+    "lastExaNormalize": "2026-11-04T14:12:16.774061+00:00"
   },
   "jobs": [
     {
@@ -26017,6 +26017,431 @@
       "scrapedAt": "2026-11-04T14:11:17.090612+00:00",
       "excerpt": "607 Canada jobs - Work from home | Glassdoor",
       "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://ca.linkedin.com/jobs/view/salesforce-developer-at-plan-international-canada-4426151479",
+      "source": "exa",
+      "company": "Unknown",
+      "title": "Salesforce Developer at Plan International Canada \u2014 Toronto, Ontario, Canada | LinkedIn Jobs",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-plan-international-canada-4426151479",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Salesforce Developer at Plan International Canada \u2014 Toronto, Ontario, Canada | LinkedIn Jobs",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "exa:https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-the-citco-group-limited-4426425126",
+      "source": "exa",
+      "company": "LinkedIn",
+      "title": "The Citco Group Limited hiring Senior Salesforce Developer in Toronto, Ontario, Canada | LinkedIn",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-the-citco-group-limited-4426425126",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "The Citco Group Limited hiring Senior Salesforce Developer in Toronto, Ontario, Canada | LinkedIn",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "exa:https://www.simplyhired.ca/job/tbyubyq5ksxdrymi9cnvaxm1naw5hq4merh5cqkswqbljhefvxt8nq",
+      "source": "exa",
+      "company": "Triorise It Solutions | Toronto, ON",
+      "title": "Salesforce Developer - Triorise It Solutions | Toronto, ON",
+      "location": "Canada",
+      "url": "https://www.simplyhired.ca/job/tBYuBYQ5kSxDryMI9cnvAxM1nAW5hQ4MErh5cQkSwQBLjHEFVxT8NQ",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Salesforce Developer - Triorise It Solutions | Toronto, ON",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "exa:https://careers.hootsuite.com/jobs/senior-salesforce-developer-toronto-ontario-canada-vancouver-british-columbia",
+      "source": "exa",
+      "company": "Unknown",
+      "title": "Senior Salesforce Developer - Toronto, Ontario, Canada - Vancouver, British Columbia, Canada",
+      "location": "Canada",
+      "url": "https://careers.hootsuite.com/jobs/senior-salesforce-developer-toronto-ontario-canada-vancouver-british-columbia",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Senior Salesforce Developer - Toronto, Ontario, Canada - Vancouver, British Columbia, Canada",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "exa:https://jadeglobal.wd5.myworkdayjobs.com/en-us/jade_careers/job/toronto/nutanix---onshore-sfdc-developer_r-104178",
+      "source": "exa",
+      "company": "Onshore SFDC Developer at Jadeglobal",
+      "title": "Nutanix - Onshore SFDC Developer at Jadeglobal",
+      "location": "Canada",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Toronto/Nutanix---Onshore-SFDC-Developer_R-104178",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2025-11-07T00:00:00.000Z",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Nutanix - Onshore SFDC Developer at Jadeglobal",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "exa:https://www.glassdoor.ca/job/toronto-salesforce-developer-jobs-srch_il.0,7_ic2281069_ko8,28.htm",
+      "source": "exa",
+      "company": "Glassdoor",
+      "title": "63 salesforce developer jobs in Toronto, ON, November 2026 | Glassdoor",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/Job/toronto-salesforce-developer-jobs-SRCH_IL.0,7_IC2281069_KO8,28.htm",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "63 salesforce developer jobs in Toronto, ON, November 2026 | Glassdoor",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "exa:https://www.jobs.ca/beachhead/jobs/servicenow-administrator-csa-banking-toronto-on-76564c61aead",
+      "source": "exa",
+      "company": "Toronto, ON | BeachHead",
+      "title": "ServiceNow Administrator-CSA/Banking \u2013 Toronto, ON | BeachHead",
+      "location": "Canada",
+      "url": "https://www.jobs.ca/beachhead/jobs/servicenow-administrator-csa-banking-toronto-on-76564c61aead",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "ServiceNow Administrator-CSA/Banking \u2013 Toronto, ON | BeachHead",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "exa:https://jobs.scotiabank.com/job/toronto-servicenow-developer-on-m5h-1h1/603030017",
+      "source": "exa",
+      "company": "Scotiabank",
+      "title": "ServiceNow Developer Job Details | Scotiabank",
+      "location": "Canada",
+      "url": "https://jobs.scotiabank.com/job/Toronto-ServiceNow-Developer-ON-M5H-1H1/603030017/",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "ServiceNow Developer Job Details | Scotiabank",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "exa:https://leadingtalent.ca/jobs/servicenow-administratordeveloper-in-toronto-ontario-ca-2",
+      "source": "exa",
+      "company": "Leading Talent",
+      "title": "ServiceNow Administrator/Developer | Leading Talent",
+      "location": "Canada",
+      "url": "https://leadingtalent.ca/jobs/servicenow-administratordeveloper-in-toronto-ontario-ca-2/",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T06:02:15.000Z",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "ServiceNow Administrator/Developer | Leading Talent",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "exa:https://www.jobstore.com/ca/job/l32493612/senior-servicenow-developer-platform-architect-job",
+      "source": "exa",
+      "company": "SereneAid in Toronto | Jobstore",
+      "title": "Senior ServiceNow Developer & Platform Architect (up to $13,000) - SereneAid in Toronto | Jobstore",
+      "location": "Canada",
+      "url": "https://www.jobstore.com/ca/job/l32493612/senior-servicenow-developer-platform-architect-job",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Senior ServiceNow Developer & Platform Architect (up to $13,000) - SereneAid in Toronto | Jobstore",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "exa:https://caatpension.wd10.myworkdayjobs.com/en-us/careers/job/toronto-on/servicenow-developer_jr100181",
+      "source": "exa",
+      "company": "Caatpension",
+      "title": "ServiceNow Developer at Caatpension",
+      "location": "Canada",
+      "url": "https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Developer_JR100181",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-08-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "ServiceNow Developer at Caatpension",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "exa:https://bdo.wd3.myworkdayjobs.com/en-us/bdo/job/toronto---bay-st/servicenow-senior-developer_jr5588",
+      "source": "exa",
+      "company": "Bdo",
+      "title": "ServiceNow Senior Developer at Bdo",
+      "location": "Canada",
+      "url": "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/ServiceNow-Senior-Developer_JR5588",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-08-24T00:00:00.000Z",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "ServiceNow Senior Developer at Bdo",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "exa:https://www.careerbeacon.com/en/job-9/3796853/source-code/rq00757-specialized-it-consultant-intermediate/toronto",
+      "source": "exa",
+      "company": "Specialized IT Consultant - Intermediate",
+      "title": "RQ00757 - Specialized IT Consultant - Intermediate",
+      "location": "Canada",
+      "url": "https://www.careerbeacon.com/en/job-9/3796853/source-code/rq00757-specialized-it-consultant-intermediate/toronto",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "RQ00757 - Specialized IT Consultant - Intermediate",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://jobs.ashbyhq.com/directive/8ebe1fcd-f56f-4148-a16d-fbc8348ef291",
+      "source": "exa",
+      "company": "Directive",
+      "title": "Director of IT Security (Remote Canada) @ Directive",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/directive/8ebe1fcd-f56f-4148-a16d-fbc8348ef291",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Director of IT Security (Remote Canada) @ Directive",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://www.jobs.ca/2isolutions-inc/jobs/it-sap-director-remote-canada-047f48ae215e",
+      "source": "exa",
+      "company": "Remote \u00b7 Canada | 2iSolutions Inc.",
+      "title": "IT/SAP Director \u2013 Remote \u00b7 Canada | 2iSolutions Inc.",
+      "location": "Canada",
+      "url": "https://www.jobs.ca/2isolutions-inc/jobs/it-sap-director-remote-canada-047f48ae215e",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "IT/SAP Director \u2013 Remote \u00b7 Canada | 2iSolutions Inc.",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://myprocom-portal.procomservices.com/jobs/director-of-it-operations-toronto-c7ae1853",
+      "source": "exa",
+      "company": "Procom",
+      "title": "Director of IT Operations | Procom",
+      "location": "Canada",
+      "url": "https://myprocom-portal.procomservices.com/jobs/director-of-it-operations-toronto-c7ae1853",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-16T00:00:00.000Z",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Director of IT Operations | Procom",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://jobs.learnetrm.com/jobs/director-of-it-mv6dndvf",
+      "source": "exa",
+      "company": "Plum Gas Solutions | LearnETRM Jobs",
+      "title": "Director of IT Remote Job | Plum Gas Solutions | LearnETRM Jobs",
+      "location": "Canada",
+      "url": "https://jobs.learnetrm.com/jobs/director-of-it-mv6dndvf",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Director of IT Remote Job | Plum Gas Solutions | LearnETRM Jobs",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://jobera.com/remote-job/director-it-engineering-affirm-remote-canada",
+      "source": "exa",
+      "company": "Affirm | Remote (Canada) - Jobera",
+      "title": "Director, IT Engineering | Affirm | Remote (Canada) - Jobera",
+      "location": "Canada",
+      "url": "https://jobera.com/remote-job/director-it-engineering-affirm-remote-canada/",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Director, IT Engineering | Affirm | Remote (Canada) - Jobera",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://www.kitjob.ca/job/181807478/director-of-it-network-architect-remote-canada",
+      "source": "exa",
+      "company": "Kit Job",
+      "title": "Director of IT/Network Architect (Remote) (Canada) in Canada | Kit Job",
+      "location": "Canada",
+      "url": "https://www.kitjob.ca/job/181807478/director-of-it-network-architect-remote-canada",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Director of IT/Network Architect (Remote) (Canada) in Canada | Kit Job",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773",
+      "source": "exa",
+      "company": "Unknown",
+      "title": "[Hiring] Director of IT & Security @Xello",
+      "location": "Canada",
+      "url": "https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "[Hiring] Director of IT & Security @Xello",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://ca.linkedin.com/jobs/view/director-of-it-security-remote-canada-at-directive-4435346316",
+      "source": "exa",
+      "company": "LinkedIn",
+      "title": "Directive hiring Director of IT Security (Remote Canada) in Canada | LinkedIn",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/director-of-it-security-remote-canada-at-directive-4435346316",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Directive hiring Director of IT Security (Remote Canada) in Canada | LinkedIn",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://jobmesh.io/job/50548879-c6e5-40f5-804e-e0acb39cad28",
+      "source": "exa",
+      "company": "Unknown",
+      "title": "IT Operations & Security Director Remote Canada",
+      "location": "Canada",
+      "url": "https://jobmesh.io/job/50548879-c6e5-40f5-804e-e0acb39cad28",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "IT Operations & Security Director Remote Canada",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://likeremote.com/remote-jobs/medfar-remote-job-director-information-systems-and-it-operations-6960938",
+      "source": "exa",
+      "company": "Medfar",
+      "title": "Remote Director, Information Systems and IT Operations at Medfar",
+      "location": "Canada",
+      "url": "https://likeremote.com/remote-jobs/medfar-remote-job-director-information-systems-and-it-operations-6960938",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Remote Director, Information Systems and IT Operations at Medfar",
+      "workArrangement": "remote",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://ca.trabajo.org/job-5475-7584f0115e960ea519f4689b66e9341d",
+      "source": "exa",
+      "company": "Altis Technology",
+      "title": "Director of IT Infrastructure in Toronto, Ontario - Altis Technology",
+      "location": "Canada",
+      "url": "https://ca.trabajo.org/job-5475-7584f0115e960ea519f4689b66e9341d",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "Director of IT Infrastructure in Toronto, Ontario - Altis Technology",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "exa:https://jobpilot.suxrobgm.net/jobs/national-director-information-technology-at-breakthrough-t1d-canada-perc-e-dt1-5c938c",
+      "source": "exa",
+      "company": "Breakthrough T1D Canada | Perc\u00e9e DT1 \u00b7 Remote \u00b7 JobPilot",
+      "title": "National Director, Information Technology at Breakthrough T1D Canada | Perc\u00e9e DT1 \u00b7 Remote \u00b7 JobPilot",
+      "location": "Canada",
+      "url": "https://jobpilot.suxrobgm.net/jobs/national-director-information-technology-at-breakthrough-t1d-canada-perc-e-dt1-5c938c",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T14:12:16.774061+00:00",
+      "scrapedAt": "2026-11-04T14:12:16.774061+00:00",
+      "excerpt": "National Director, Information Technology at Breakthrough T1D Canada | Perc\u00e9e DT1 \u00b7 Remote \u00b7 JobPilot",
+      "workArrangement": "remote",
       "tags": [
         "other"
       ]
