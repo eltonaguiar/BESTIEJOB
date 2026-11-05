@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T09:05:24+00:00",
+ "generatedAt": "2026-11-05T09:33:10+00:00",
  "timezone": "America/Toronto",
- "count": 442,
+ "count": 439,
  "appliedHidden": 12,
  "sources": [
   "Adzuna",
@@ -328,6 +328,26 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Technical Lead",
+   "company": "Finning",
+   "location": "Surrey, Greater Vancouver",
+   "url": "https://www.adzuna.ca/details/5954076592",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce technical lead finning surrey, greater vancouver adzuna salesforce  salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Senior Associate, Business Intelligence & Reporting Developer",
    "company": "MUFG Investor Services",
    "location": "Toronto, Ontario",
@@ -364,6 +384,45 @@
    ],
    "french": false,
    "search": "intermediate fullstack engineer, subscription lifecycle gitlab canada adzuna other full stack role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Analyste de données - Data Analyst",
+   "company": "Jam Industries",
+   "location": "Baie-d'Urfé, Montréal",
+   "url": "https://www.adzuna.ca/details/5954059163?utm_medium=api&utm_source=54ce986e",
+   "note": "Data / BI",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "analyste de donnees - data analyst jam industries baie-d'urfe, montreal adzuna other data / bi role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Business Intelligence (BI) Data Engineer",
+   "company": "Semex",
+   "location": "Guelph, Wellington region",
+   "url": "https://www.adzuna.ca/details/5954077021?utm_medium=api&utm_source=54ce986e",
+   "note": "Data / BI",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "business intelligence (bi) data engineer semex guelph, wellington region adzuna other data / bi role fit",
    "alternates": []
   },
   {
@@ -3570,27 +3629,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds) - Canada - Toronto, Canada - Montreal, Canada - Vancouver \\/ Salesforce Careers",
-   "company": "Salesforce Careers](https://www.salesforce.com/jp/company/careers/jobs/JR353172/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds/)",
-   "location": "Unknown",
-   "url": "https://www.salesforce.com/jp/company/careers/jobs/JR353172/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds/",
-   "note": "Canada",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "salesforce.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Data/reporting",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "solutions architect, salesforce migrations (data360, revenue, tableau, or marketing clouds) - canada - toronto, canada - montreal, canada - vancouver \\/ salesforce careers salesforce careers](https://www.salesforce.com/jp/company/careers/jobs/jr353172/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds/) unknown salesforce.com salesforce canada salesforce data/reporting role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "NTT DATA hiring Salesforce QA Automation Engineer (Junior/Mid) with CRT - Remote Canada Position • Remote (Work from Home) \\/ Himalayas",
    "company": "Himalayas](https://himalayas.app/companies/nttdata/jobs/salesforce-qa-automation-engineer-junior-mid-with-crt-remote-canada-position)",
    "location": "NTT DATA",
@@ -5855,27 +5893,6 @@
    ],
    "french": false,
    "search": "salesforce developer – remote · canada / lgs talent unknown canada jobs.ca salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Developer – Remote / Versapay",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/versapay/jobs/salesforce-developer-remote-canada-e62b63e76c32",
-   "note": "8",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer – remote / versapay unknown canada jobs.ca salesforce 8 salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -9076,46 +9093,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Platform Engineer (Remote) – Remote · Canada / ThinkOn",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/thinkon-inc/jobs/platform-engineer-remote-remote-canada-37dbc0f7ed97",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "platform engineer (remote) – remote · canada / thinkon unknown canada jobs.ca other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Platform Engineer (Full Stack) - Origin North Integrated Solutions Inc. / BeBee",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://bebee.com/ca/jobs/platform-engineer-full-stack-origin-north-integrated-solutions-inc-markham-ontario--theirstack-691003241",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "bebee.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "platform engineer (full stack) - origin north integrated solutions inc. / bebee unknown canada bebee.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "IT End User Support Manager",
    "company": "Unknown",
    "location": "Canada",
@@ -9303,44 +9280,6 @@
    ],
    "french": false,
    "search": "remote director, it service experience at yorkville university / hiring.camp unknown canada hiring.camp other 8 canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Director, Information Technology (Transformation, AI &…",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/quantum-technology-recruiting-inc-qtr/jobs/senior-director-information-technology-transformation-ai-enterprise-systems-toronto-on-74233b8e3ad8",
-   "note": "other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior director, information technology (transformation, ai &... unknown canada jobs.ca other other canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Business Intelligence and Reporting Analyst – $67K–$94K/yr \\/ TD",
-   "company": "TD](https://www.jobs.ca/td/jobs/business-intelligence-and-reporting-analyst-toronto-on-7d00dbe22f6b)",
-   "location": "$67K–$94K/yr \\",
-   "url": "https://www.jobs.ca/td/jobs/business-intelligence-and-reporting-analyst-toronto-on-7d00dbe22f6b",
-   "note": "TD Canada other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "business intelligence and reporting analyst – $67k–$94k/yr \\/ td td](https://www.jobs.ca/td/jobs/business-intelligence-and-reporting-analyst-toronto-on-7d00dbe22f6b) $67k–$94k/yr \\ jobs.ca other td canada other role fit",
    "alternates": []
   },
   {
