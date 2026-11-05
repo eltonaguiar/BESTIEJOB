@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T18:49:36.959Z** · 1510 live postings from 8 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-05T20:43:55.307Z** · 1512 live postings from 8 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -602,12 +602,12 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Request ID: 114262-1 - Salesforce Communications Cloud Developer](https://www.adzuna.ca/details/5954288531) | Flexstaf IT | Toronto, Ontario |
 | 2026-11-05 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5954046522) | Altus Group | Canada |
 | 2026-11-05 | [Salesforce BSA](https://www.adzuna.ca/details/5953986381) | Cognizant | Toronto, Ontario |
+| 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |
 | 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486792181) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 | 2026-11-05 | [Salesforce Consultant - FSC Cloud](https://ca.linkedin.com/jobs/view/salesforce-consultant-fsc-cloud-at-enterprise-solutions-inc-4483663839) | Enterprise Solutions Inc. | Toronto, Ontario, Canada |
 | 2026-11-05 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 | 2026-11-05 | [Salesforce Data Cloud Consultant](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-smart-it-frame-llc-4486392374) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 | 2026-11-05 | [Salesforce Data Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483) | Enterprise Solutions Inc. | Toronto, Ontario, Canada |
-| 2026-11-05 | [Salesforce Marketing Cloud(SFMC) Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125) | Enterprise Solutions Inc. | Mississauga, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 

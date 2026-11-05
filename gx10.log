@@ -326,3 +326,33 @@
 2026-11-05 18:49:44,013 INFO   workday: 33 boards returned nothing
 2026-11-05 18:49:44,013 INFO Wrote inbox/gx10--2026-11-05--v2.md (16 rows)
 2026-11-05 18:49:44,013 INFO Done in 3.9s
+2026-11-05 18:52:54,695 INFO gx10 runner start (dry_run=False)
+2026-11-05 18:52:54,712 INFO Mined 13133 URLs from 119 files
+2026-11-05 18:52:54,712 WARNING No probe implemented for ultipro (1 ids)
+2026-11-05 18:52:54,712 WARNING No probe implemented for careerplug (1 ids)
+2026-11-05 18:52:54,712 INFO Watchlist: ashby=10, careerplug=1, greenhouse=12, icims=1, lever=9, oracle=2, smartrecruiters=5, ultipro=1, workday=33 — 72 boards
+2026-11-05 18:52:54,735 INFO Known corpus URLs: 3204
+2026-11-05 18:53:20,124 INFO Probe result: 0 net-new rows — ashby=0, greenhouse=0, icims=0, lever=0, oracle=0, smartrecruiters=0, workday=0
+2026-11-05 18:53:20,124 INFO   ashby: 10 boards returned nothing
+2026-11-05 18:53:20,124 INFO   greenhouse: 12 boards returned nothing
+2026-11-05 18:53:20,124 INFO   icims: 1 boards returned nothing
+2026-11-05 18:53:20,124 INFO   lever: 9 boards returned nothing
+2026-11-05 18:53:20,124 INFO   oracle: 2 boards returned nothing
+2026-11-05 18:53:20,124 INFO   smartrecruiters: 5 boards returned nothing
+2026-11-05 18:53:20,124 INFO   workday: 33 boards returned nothing
+2026-11-05 18:53:20,124 INFO Nothing new. Elapsed 25.4s
+2026-11-05 20:44:07,398 INFO gx10 runner start (dry_run=False)
+2026-11-05 20:44:07,416 INFO Mined 13133 URLs from 120 files
+2026-11-05 20:44:07,416 WARNING No probe implemented for ultipro (1 ids)
+2026-11-05 20:44:07,416 WARNING No probe implemented for careerplug (1 ids)
+2026-11-05 20:44:07,416 INFO Watchlist: ashby=10, careerplug=1, greenhouse=12, icims=1, lever=9, oracle=2, smartrecruiters=5, ultipro=1, workday=33 — 72 boards
+2026-11-05 20:44:07,439 INFO Known corpus URLs: 3204
+2026-11-05 20:44:17,062 INFO Probe result: 0 net-new rows — ashby=0, greenhouse=0, icims=0, lever=0, oracle=0, smartrecruiters=0, workday=0
+2026-11-05 20:44:17,062 INFO   ashby: 10 boards returned nothing
+2026-11-05 20:44:17,062 INFO   greenhouse: 12 boards returned nothing
+2026-11-05 20:44:17,062 INFO   icims: 1 boards returned nothing
+2026-11-05 20:44:17,062 INFO   lever: 9 boards returned nothing
+2026-11-05 20:44:17,062 INFO   oracle: 2 boards returned nothing
+2026-11-05 20:44:17,062 INFO   smartrecruiters: 5 boards returned nothing
+2026-11-05 20:44:17,062 INFO   workday: 33 boards returned nothing
+2026-11-05 20:44:17,062 INFO Nothing new. Elapsed 9.7s

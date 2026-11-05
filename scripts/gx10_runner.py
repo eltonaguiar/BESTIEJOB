@@ -176,6 +176,38 @@ def get(url: str, **kw) -> Optional[Any]:
         return None
 
 
+def post_impersonated(url: str, body: dict) -> Optional[Any]:
+    """POST with a real Chrome TLS/HTTP2 fingerprint.
+
+    Workday's CXS endpoint 400s or 403s a plain `requests` POST because the
+    TLS fingerprint does not match the UA we advertise. curl_cffi reproduces
+    a genuine Chrome handshake, which is what `ats_fingerprint_scan.py` uses
+    successfully. Falls back to plain requests when curl_cffi is absent so the
+    runner still degrades gracefully on a bare box.
+    """
+    try:
+        from curl_cffi import requests as cr
+    except ImportError:
+        logging.debug("curl_cffi unavailable, falling back to requests")
+        return post_json(url, body)
+    try:
+        return cr.post(
+            url, json=body, impersonate="chrome124", timeout=TIMEOUT,
+            headers={
+                "User-Agent": (
+                    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+                ),
+                "Accept": "application/json",
+                "Content-Type": "application/json",
+                "Accept-Language": "en-CA,en;q=0.9",
+            },
+        )
+    except Exception as exc:  # noqa: BLE001
+        logging.debug("Impersonated POST failed %s: %s", url, exc)
+        return None
+
+
 def post_json(url: str, body: dict) -> Optional[Any]:
     try:
         return _get_session().post(
@@ -281,12 +313,13 @@ def merge_extra(watch: dict[str, set], path: Path) -> dict[str, set]:
 # Stage 2 — board probes. Each returns real rows or nothing.
 # --------------------------------------------------------------------------
 def probe_workday(identity: str) -> list[dict]:
-    host_and_wd, _, site = identity.partition("|")
-    url = f"https://{host_and_wd}/wday/cxs/{host_and_wd.split('.')[0]}/{site}/jobs"
+    tenant_wd, _, site = identity.partition("|")
+    tenant, wd = tenant_wd.split(".")
+    url = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
     out: list[dict] = []
     for keyword in ("ServiceNow", "Salesforce"):
-        r = post_json(url, {"appliedFacets": {}, "limit": 20, "offset": 0,
-                            "searchText": keyword})
+        r = post_impersonated(url, {"appliedFacets": {}, "limit": 20, "offset": 0,
+                                    "searchText": keyword})
         if r is None or r.status_code != 200:
             continue
         try:
@@ -307,10 +340,10 @@ def probe_workday(identity: str) -> list[dict]:
                 continue
             out.append({
                 "source": "workday",
-                "company": host_and_wd.split(".")[0].upper(),
+                "company": tenant.upper(),
                 "title": title,
                 "location": clean(p.get("locationsText")) or "Unknown",
-                "url": f"https://{host_and_wd}/en-US/{site}{path}",
+                "url": f"https://{tenant}.{wd}.myworkdayjobs.com/en-US/{site}{path}",
                 "postedDate": posted,
                 "tags": [tag_for(title)],
             })
