@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T07:13:54+00:00",
+ "generatedAt": "2026-11-05T08:17:14+00:00",
  "timezone": "America/Toronto",
  "count": 1537,
  "appliedHidden": 26,
@@ -303,6 +303,11 @@
      "label": "SmartRecruiters · Toronto"
     },
     {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5953989200",
+     "label": "Adzuna · Toronto"
+    },
+    {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-canada-protected-b-at-servicenow-4487200713",
      "label": "LinkedIn · Toronto"
@@ -335,6 +340,11 @@
      "label": "SmartRecruiters · Toronto"
     },
     {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5953989159",
+     "label": "Adzuna · Toronto"
+    },
+    {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/staff-site-reliability-engineer-canada-protected-b-at-servicenow-4487203515",
      "label": "LinkedIn · Toronto"
@@ -345,6 +355,26 @@
      "label": "Adzuna · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce BSA",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5953986381",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce bsa cognizant toronto, ontario adzuna salesforce adzuna salesforce toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-04",
@@ -725,35 +755,6 @@
    "french": true,
    "search": "bilingual senior specialist, servicenow itsm (incident management) job details / cmhc - schl unknown canada careers.cmhc-schl.gc.ca servicenow readme servicenow itsm role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow SAM Administrator - ITAM",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "SAM/HAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow workday servicenow itam sam/ham role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-04",
@@ -3274,34 +3275,6 @@
    "french": false,
    "search": "salesforce marketing cloud (sfmc) business analyst vdart inc mississauga, peel region adzuna salesforce adzuna salesforce consulting/ba role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Business Analyst",
-   "company": "Altus Group",
-   "location": "300 - Toronto",
-   "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 70,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce business analyst altus group 300 - toronto workday ats salesforce workday salesforce consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948973102",
-     "label": "Adzuna · Canada"
-    }
-   ]
   },
   {
    "posted": "2026-11-04",
@@ -11150,6 +11123,35 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "ServiceNow SAM Administrator - ITAM",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow workday servicenow itam sam/ham role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-03",
    "title": "ServiceNow CMDB",
    "company": "Tata Consultancy Services",
    "location": "Montreal, Quebec, Canada",
@@ -13171,48 +13173,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "ServiceNow Developer",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "ServiceNow System Administrator",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "FSO-ServiceNow Developer",
    "company": "National Bank of Canada",
    "location": "Montreal, Quebec, Canada",
@@ -14229,6 +14189,34 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621",
      "label": "LinkedIn · Vancouver"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce Business Analyst",
+   "company": "Altus Group",
+   "location": "300 - Toronto",
+   "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 70,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce business analyst altus group 300 - toronto workday ats salesforce workday salesforce consulting/ba role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5948973102",
+     "label": "Adzuna · Canada"
     }
    ]
   },
@@ -16371,26 +16359,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Salesforce BSA",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486313159",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce bsa cognizant toronto, ontario, canada linkedin salesforce linkedin salesforce toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Développeur ou développeuse de systèmes – Salesforce",
    "company": "Co-operators Assurance et services financiers",
    "location": "Mississauga, Ontario, Canada",
@@ -18166,6 +18134,48 @@
    ],
    "french": false,
    "search": "servicenow developer sme gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "ServiceNow Developer",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "ServiceNow System Administrator",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -25057,27 +25067,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Senior ServiceNow Developer",
-   "company": "Resolve Tech Solutions",
-   "location": "US Remote - TX",
-   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
    "title": "ServiceNow Senior Technical Advisor (432829)",
    "company": "Bell",
    "location": "Toronto / Montreal",
@@ -25988,27 +25977,6 @@
      "label": "LinkedIn · Greater Toronto Area"
     }
    ]
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Principle Salesforce Developer",
-   "company": "Moneris",
-   "location": "Toronto",
-   "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "principle salesforce developer moneris toronto workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-10-29",
@@ -27148,6 +27116,27 @@
   },
   {
    "posted": "2026-10-28",
+   "title": "Senior ServiceNow Developer",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - TX",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
    "title": "ServiceNow Administrator - Innovation & Systems (soft: QC/French)",
    "company": "Pomerleau",
    "location": "Montreal / Quebec City / St-Georges, QC",
@@ -27477,10 +27466,10 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "Salesforce Developer",
-   "company": "Medcan",
+   "title": "Principle Salesforce Developer",
+   "company": "Moneris",
    "location": "Toronto",
-   "url": "https://medcan.wd10.myworkdayjobs.com/en-US/medcan/job/Toronto/Salesforce-Developer_MED02518",
+   "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
    "note": "workday",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -27493,7 +27482,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce developer medcan toronto workday ats salesforce workday salesforce role fit toronto area",
+   "search": "principle salesforce developer moneris toronto workday ats salesforce workday salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -28112,6 +28101,27 @@
    ],
    "french": false,
    "search": "salesforce developer (permanent, hybrid 3d, $90-95k; via robert half) robert half (client undisclosed) toronto, on roberthalf.com salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-27",
+   "title": "Salesforce Developer",
+   "company": "Medcan",
+   "location": "Toronto",
+   "url": "https://medcan.wd10.myworkdayjobs.com/en-US/medcan/job/Toronto/Salesforce-Developer_MED02518",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer medcan toronto workday ats salesforce workday salesforce role fit toronto area",
    "alternates": []
   },
   {
