@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T08:17:14+00:00",
+ "generatedAt": "2026-11-05T09:14:02+00:00",
  "timezone": "America/Toronto",
  "count": 1537,
  "appliedHidden": 26,
@@ -251,6 +251,61 @@
  "jobs": [
   {
    "posted": "2026-11-05",
+   "title": "Intermediate Technology Specialist, Service Now Developer",
+   "company": "Equitable",
+   "location": "Waterloo region, Ontario",
+   "url": "https://www.adzuna.ca/details/5954040266",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate technology specialist, service now developer equitable waterloo region, ontario adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-service-now-developer-at-equitable-4485018083",
+     "label": "LinkedIn · Waterloo"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Business Analyst",
+   "company": "Altus Group",
+   "location": "300 - Toronto",
+   "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 70,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce business analyst altus group 300 - toronto workday ats salesforce workday salesforce consulting/ba role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5954046522",
+     "label": "Adzuna · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Senior Associate, Salesforce Technical Consultant",
    "company": "PwC Canada",
    "location": "Ottawa, Ontario, Canada",
@@ -374,6 +429,46 @@
    ],
    "french": false,
    "search": "salesforce bsa cognizant toronto, ontario adzuna salesforce adzuna salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Technical Lead",
+   "company": "Finning",
+   "location": "Surrey, Greater Vancouver",
+   "url": "https://www.adzuna.ca/details/5954076592",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce technical lead finning surrey, greater vancouver adzuna salesforce adzuna salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Intermediate Fullstack Engineer, Subscription Lifecycle",
+   "company": "GitLab",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5954059558",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "intermediate fullstack engineer, subscription lifecycle gitlab canada adzuna other adzuna role fit canada / remote",
    "alternates": []
   },
   {
@@ -11946,27 +12041,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Intermediate Technology Specialist, Service Now Developer",
-   "company": "Equitable",
-   "location": "Waterloo, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-service-now-developer-at-equitable-4485018083",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "intermediate technology specialist, service now developer equitable waterloo, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "ServiceNow Consultant - REMOTE",
    "company": "NTT DATA North America",
    "location": "Ottawa, Ontario, Canada",
@@ -14194,34 +14268,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Salesforce Business Analyst",
-   "company": "Altus Group",
-   "location": "300 - Toronto",
-   "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 70,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce business analyst altus group 300 - toronto workday ats salesforce workday salesforce consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948973102",
-     "label": "Adzuna · Canada"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Servicenow Advisor - Government Of Canada Client",
    "company": "JobFlurry",
    "location": "Ottawa, ON",
@@ -15903,27 +15949,6 @@
    ],
    "french": false,
    "search": "enterprise architect (salesforce) – healthcare &amp; life sciences customertimes canada linkedin salesforce readme salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Salesforce Technical Lead",
-   "company": "Finning",
-   "location": "Surrey, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-finning-4486311390",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical lead finning surrey, british columbia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -20782,26 +20807,6 @@
    ],
    "french": false,
    "search": "senior full-stack engineer / technical lead - onsite cognizant toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Full-Stack Developer - Core",
-   "company": "MaintainX",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576203?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "full-stack developer - core maintainx toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
