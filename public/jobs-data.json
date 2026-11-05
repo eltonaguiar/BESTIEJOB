@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T18:06:28+00:00",
+ "generatedAt": "2026-11-05T18:33:16+00:00",
  "timezone": "America/Toronto",
- "count": 415,
+ "count": 410,
  "appliedHidden": 12,
  "sources": [
   "Adzuna",
@@ -34,8 +34,6 @@
   "ca.blackboardjob.com",
   "ca.clickajobs.com",
   "ca.jobrapido.com",
-  "ca.mncjobz.com",
-  "ca.sercanto.com",
   "ca.trabajo.org",
   "calgary.ca.expertini.com",
   "callcentrejob.ca",
@@ -82,10 +80,8 @@
   "jobera.com",
   "jobgether.com",
   "jobleads.com",
-  "jobportal.altis.com",
   "jobr.pro",
   "jobs-cast.com",
-  "jobs-search.org",
   "jobs.accel.com",
   "jobs.bmo.com",
   "jobs.ca",
@@ -133,8 +129,6 @@
   "salesforce.com",
   "scoutify.com",
   "simplyhired.ca",
-  "sisystems.com",
-  "skilldock.lovestoblog.com",
   "snpro.jobs",
   "sorce.jobs",
   "stackitrecruitment.com",
@@ -197,6 +191,69 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "ServiceNow ITOM Specialist",
+   "company": "Raise",
+   "location": "Saskatoon, Saskatchewan",
+   "url": "https://www.adzuna.ca/details/5954561186?utm_medium=api&utm_source=54ce986e",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow itom specialist raise saskatoon, saskatchewan adzuna servicenow  servicenow itom role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "ServiceNow ITOM Specialist",
+   "company": "Raise - find a more meaningful working experience",
+   "location": "Saskatoon, Saskatchewan",
+   "url": "https://www.adzuna.ca/details/5954560296?utm_medium=api&utm_source=54ce986e",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow itom specialist raise - find a more meaningful working experience saskatoon, saskatchewan adzuna servicenow  servicenow itom role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "ServiceNow Developer",
+   "company": "Rexall",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5954560026",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer rexall mississauga, peel region adzuna servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "ServiceNow Architect",
    "company": "Flexstaf IT",
    "location": "Ontario, Canada",
@@ -235,6 +292,27 @@
    ],
    "french": false,
    "search": "service now developers flexstaf it ontario, canada adzuna servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior ServiceNow Developer & Product Owner (Remote)",
+   "company": "Huron Consulting Group",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954561155",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow developer & product owner (remote) huron consulting group toronto, ontario adzuna servicenow  servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -515,6 +593,27 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Solution Architect",
+   "company": "IA Financial Services",
+   "location": "Québec, Canada",
+   "url": "https://www.adzuna.ca/details/5954559999",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce solution architect ia financial services quebec, canada adzuna salesforce  salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Revenue Cloud CPQ (RCA) Architect",
    "company": "Smart IT Frame LLC",
    "location": "Canada",
@@ -732,6 +831,47 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Sr Python Engineer 26-21269",
+   "company": "US Tech Solutions",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954561344",
+   "note": "Python",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Data/reporting",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr python engineer 26-21269 us tech solutions toronto, ontario adzuna other python data/reporting role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Software Engineer (AI & Full Stack)",
+   "company": "Makeitfable",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954561307",
+   "note": "Full stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior software engineer (ai & full stack) makeitfable toronto, ontario adzuna other full stack role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Senior Data Analyst, Live Games",
    "company": "Big Viking Games",
    "location": "Toronto, Ontario",
@@ -768,6 +908,46 @@
    ],
    "french": false,
    "search": "senior associate, business intelligence & reporting developer mufg investor services toronto, ontario adzuna other data / bi role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "DevOps Engineer",
+   "company": "TD",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560658",
+   "note": "DevOps / Cloud",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer td toronto, ontario adzuna other devops / cloud role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "DevOps Engineer",
+   "company": "OceanMD, a WELLSTAR Company",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560568",
+   "note": "DevOps / Cloud",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer oceanmd, a wellstar company toronto, ontario adzuna other devops / cloud role fit toronto area",
    "alternates": []
   },
   {
@@ -812,6 +992,25 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Associate Director, Full-Stack Applications - Credit Module",
+   "company": "Fitch Group",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560788",
+   "note": "Full stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "associate director, full-stack applications - credit module fitch group toronto, ontario adzuna other full stack toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Analyste de données - Data Analyst",
    "company": "Jam Industries",
    "location": "Baie-d'Urfé, Montréal",
@@ -847,6 +1046,25 @@
    ],
    "french": false,
    "search": "business intelligence (bi) data engineer semex guelph, wellington region adzuna other data / bi role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Azure Cloud Architect - Manager",
+   "company": "EY",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5954561343?utm_medium=api&utm_source=54ce986e",
+   "note": "DevOps / Cloud",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "azure cloud architect - manager ey ottawa, ottawa region adzuna other devops / cloud role fit",
    "alternates": []
   },
   {
@@ -1500,27 +1718,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Cyber Sales Executive (Senior Manager)",
-   "company": "Deloitte",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5953648278",
-   "note": "",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow cyber sales executive (senior manager) deloitte toronto, ontario adzuna servicenow  servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "ServiceNow HRSD expert",
    "company": "Unknown",
    "location": "Canada",
@@ -1559,27 +1756,6 @@
    ],
    "french": false,
    "search": "servicenow hrsd - technical product owner, deloitte global technology job details / deloitte unknown canada careers.deloitte.ca servicenow 9 servicenow hrsd / va canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Dev &amp; BA (Remote - LATAM) / SkillDock",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://skilldock.lovestoblog.com/job/servicenow-dev-ba-remote-latam",
-   "note": "6/10 via",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "skilldock.lovestoblog.com",
-   "verified": "Employer board",
-   "match": 86,
-   "matchReasons": [
-    "ServiceNow",
-    "Consulting/BA",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow dev &amp; ba (remote - latam) / skilldock unknown canada skilldock.lovestoblog.com servicenow 6/10 via servicenow consulting/ba canada / remote",
    "alternates": []
   },
   {
@@ -3264,48 +3440,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Dev & Solutions Consultant - Vancouver / Sercanto",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.sercanto.com/detail/a/servicenow-dev-solutions-consultant_vancouver_171845681",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "ca.sercanto.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow dev & solutions consultant - vancouver / sercanto unknown canada ca.sercanto.com servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Consultant jobs in Your Area / Jobs-search ORG",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs-search.org/information-technology/servicenow-consultant",
-   "note": "7/10 via",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs-search.org",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow consultant jobs in your area / jobs-search org unknown canada jobs-search.org servicenow 7/10 via servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "servicenow Jobs in Calgary, AB / Hiring Now / Talent.com",
    "company": "Unknown",
    "location": "Canada",
@@ -3342,26 +3476,6 @@
    ],
    "french": false,
    "search": "servicenow jobs & careers - 11 open positions / glassdoor unknown canada glassdoor servicenow 8 servicenow canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Designer (Figma)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobportal.altis.com/ad?b=altisprofessional&jobid=22608",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobportal.altis.com",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow designer (figma) unknown canada jobportal.altis.com servicenow 8 servicenow canada / remote",
    "alternates": []
   },
   {
@@ -5712,27 +5826,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Functional Analyst",
-   "company": "Manulife",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5952816248",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce functional analyst manulife canada adzuna salesforce adzuna salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Support Analyst, ITSM at McCarthy Tétrault · Vancouver, BC, Canada · ApplyHour",
    "company": "Unknown",
    "location": "Canada",
@@ -6800,27 +6893,6 @@
    ],
    "french": false,
    "search": "senior business analyst unknown canada jobgether.com other 7 consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Remote IT Operations Manager at Rival Technologies • $110k – $135k / Hiring.Camp",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://hiring.camp/job/B3DDRA",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "hiring.camp",
-   "verified": "Employer board",
-   "match": 26,
-   "matchReasons": [
-    "IT operations",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "remote it operations manager at rival technologies • $110k – $135k / hiring.camp unknown canada hiring.camp other 8 it operations role fit canada / remote",
    "alternates": []
   },
   {
@@ -8485,146 +8557,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Req ID: 1047. Senior DevOps Engineer with deep expertise in Google Cloud Platform (GCP) to design, build, and operate secure, scalable, and resilient cloud infrastructure and CI/CD pipelines.",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.sisystems.com/jobs/req-id-1047-senior-devops-engineer-with-deep-expertise-in-google-cloud-platform-gcp-to-design-build-and-operate-secure-scalable-and-resilient-cloud-infrastructure-and-ci-cd-pipelines/330031003600360031003100/",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "sisystems.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "req id: 1047. senior devops engineer with deep expertise in google cloud platform (gcp) to design, build, and operate secure, scalable, and resilient cloud infrastructure and ci/cd pipelines. unknown canada sisystems.com other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Remote SAP S/4HANA Advanced TM Consultant in vancouver, metro vancouver regional district - Sapsol Technologies Inc",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-649-8a1f18a26cc5cda85ea1e41b6824a21e",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "remote sap s/4hana advanced tm consultant in vancouver, metro vancouver regional district - sapsol technologies inc unknown canada ca.trabajo.org other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Remote Enterprise Applications Analyst in Ottawa, Ontario - Semios",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-5475-37c57470f22842f4a6fe102753968380",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "remote enterprise applications analyst in ottawa, ontario - semios unknown canada ca.trabajo.org other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "RQ11698 – Software Developer – CRM – Senior – Toronto, ON / Jobs.ca",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/s-m-software-solutions-inc/jobs/rq11698-software-developer-crm-senior-toronto-on-3a4367e613b8",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "rq11698 – software developer – crm – senior – toronto, on / jobs.ca unknown canada jobs.ca other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "RQ11434 – Software Developer – CRM – Senior at S M Software Solutions Inc — Toronto, Ontario, Canada / LinkedIn Jobs",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/rq11434-%E2%80%93-software-developer-%E2%80%93-crm-%E2%80%93-senior-at-s-m-software-solutions-inc-4458138654",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "rq11434 – software developer – crm – senior at s m software solutions inc — toronto, ontario, canada / linkedin jobs unknown canada linkedin other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "RQ09848 - Software Developer - CRM - Senior Job in Bytecraft Soultions - Toronto, ON, CA",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.mncjobz.com/jobs/rq09848-software-developer-crm-senior-toronto-3052745",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.mncjobz.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "rq09848 - software developer - crm - senior job in bytecraft soultions - toronto, on, ca unknown canada ca.mncjobz.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Product Specialist - CRM / Dayforce Jobs",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.dayforcehcm.com/en-US/pbssystems/103772/jobs/11162",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.dayforcehcm.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "product specialist - crm / dayforce jobs unknown canada jobs.dayforcehcm.com other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "The Vector Digital Talent Hub: Where Canadian AI Talent and AI Employers Connect",
    "company": "Unknown",
    "location": "Canada",
@@ -8773,44 +8705,6 @@
    ],
    "french": false,
    "search": "senior aws platform owner - ottawa, on, ca - ref1142c / general dynamics mission systems–canada unknown canada gdmissionsystems.ca other 7 canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Remote Director, IT Service Experience at Yorkville University / Hiring.Camp",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://hiring.camp/job/gx1m2g",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "hiring.camp",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "remote director, it service experience at yorkville university / hiring.camp unknown canada hiring.camp other 8 canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Product Owner - Product  management",
-   "company": "Desjardins",
-   "location": "Montréal",
-   "url": "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Responsable-de-produit--Plateforme-Azure_R2610067-1",
-   "note": "via buffy-scan60d--2026-11-04--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 4,
-   "matchReasons": [
-    "Quebec"
-   ],
-   "french": false,
-   "search": "product owner - product  management desjardins montreal workday ats other via buffy-scan60d--2026-11-04--v1.md quebec",
    "alternates": []
   }
  ]
