@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T14:33:49+00:00",
+ "generatedAt": "2026-11-05T15:04:28+00:00",
  "timezone": "America/Toronto",
- "count": 426,
+ "count": 422,
  "appliedHidden": 12,
  "sources": [
   "Adzuna",
@@ -139,7 +139,6 @@
   "sisystems.com",
   "skilldock.lovestoblog.com",
   "snpro.jobs",
-  "sonara.ai",
   "sorce.jobs",
   "stackitrecruitment.com",
   "startup.jobs",
@@ -309,6 +308,27 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Data Cloud Consultant",
+   "company": "Smart IT Frame LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-smart-it-frame-llc-4486392374",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce data cloud consultant smart it frame llc toronto, ontario, canada linkedin salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Data Cloud Architect",
    "company": "Enterprise Solutions Inc.",
    "location": "Toronto, Ontario, Canada",
@@ -431,7 +451,12 @@
    ],
    "french": false,
    "search": "staff site reliability engineer, canada protected b servicenow toronto, ontario, ca smartrecruiters servicenow  servicenow role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5953992050"
+    }
+   ]
   },
   {
    "posted": "2026-11-05",
@@ -452,7 +477,12 @@
    ],
    "french": false,
    "search": "senior site reliability engineer, canada protected b servicenow toronto, ontario, ca smartrecruiters servicenow  servicenow role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5953992006"
+    }
+   ]
   },
   {
    "posted": "2026-11-05",
@@ -5812,48 +5842,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Developer, WMC CRM - Calgary Job at RBC Dominion Securities",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.careerbeacon.com/en/job/2225811/rbc-dominion-securities/salesforce-developer-wmc-crm-calgary/calgary-ab",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "CareerBeacon",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer, wmc crm - calgary job at rbc dominion securities unknown canada careerbeacon salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Front-End Salesforce Commerce Cloud Job(Sfcc) Developer at GTT - Toronto, OH",
-   "company": "GTT - Toronto, OH",
-   "location": "Canada",
-   "url": "https://www.sonara.ai/job-details/front-end-salesforce-commerce-cloud-at-gtt-202f34c3-f609-f317-cc69-b8cf5dcdf1e8",
-   "note": "",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "sonara.ai",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "front-end salesforce commerce cloud job(sfcc) developer at gtt - toronto, oh gtt - toronto, oh canada sonara.ai salesforce  salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Support Analyst, ITSM at McCarthy Tétrault · Vancouver, BC, Canada · ApplyHour",
    "company": "Unknown",
    "location": "Canada",
@@ -6963,46 +6951,6 @@
    ],
    "french": false,
    "search": "pointclickcare senior business analyst / welcome to the jungle (formerly otta) unknown canada app.welcometothejungle.com other 7 consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "DevOps Engineer",
-   "company": "Devdort",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5953663671",
-   "note": "DevOps / Cloud",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer devdort toronto, ontario adzuna other devops / cloud role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Business intelligence Solution Designer/ Architect",
-   "company": "Northbridge Financial Corporation",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5953647738?utm_medium=api&utm_source=54ce986e",
-   "note": "Data / BI",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "business intelligence solution designer/ architect northbridge financial corporation toronto, ontario adzuna other data / bi role fit toronto area",
    "alternates": []
   },
   {
@@ -8823,26 +8771,6 @@
    ],
    "french": false,
    "search": "principal software engineer - ai platform at workday unknown canada echojobs.io other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Platform engineer (pss) - Flair Airlines Ltd. (Calgary)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobsca.org/platform-engineer_calgary-c115236/2026-08-flair-airlines-ltd_i4182766429",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobsca.org",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "platform engineer (pss) - flair airlines ltd. (calgary) unknown canada jobsca.org other 7 role fit canada / remote",
    "alternates": []
   },
   {
