@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T20:31:43+00:00",
+ "generatedAt": "2026-11-05T20:45:45+00:00",
  "timezone": "America/Toronto",
  "count": 409,
  "appliedHidden": 11,
@@ -142,6 +142,26 @@
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-06",
+   "title": "HiringCafe",
+   "company": "Senior Salesforce Engineer",
+   "location": "Canadian Cancer Society",
+   "url": "https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i",
+   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v55.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "hiringcafe.com",
+   "verified": "Employer board",
+   "match": 24,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "hiringcafe senior salesforce engineer canadian cancer society hiringcafe.com salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v55.md salesforce role fit",
+   "alternates": []
+  },
   {
    "posted": "2026-11-05",
    "title": "ServiceNow OTSM and CMDB Technical Consultant",
@@ -4060,27 +4080,6 @@
    ],
    "french": false,
    "search": "salesforce revenue cloud solution architect-toronto slalom greater toronto area, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Functional Analyst",
-   "company": "Manulife",
-   "location": "Waterloo, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737",
-   "note": "via linkedin-rounds51-60--2026-11-06--v5.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce functional analyst manulife waterloo, ontario, canada linkedin salesforce via linkedin-rounds51-60--2026-11-06--v5.md salesforce role fit toronto area",
    "alternates": []
   },
   {
