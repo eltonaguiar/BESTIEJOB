@@ -1,3 +1,4 @@
+<!-- merged 2026-11-05T014508Z: +10 new, 30 duplicate, version 2 -->
 ---
 model: linkedin-guest
 scanned_at: 2026-11-04T22:55:48Z

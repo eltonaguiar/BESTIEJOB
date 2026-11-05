@@ -1,3 +1,4 @@
+<!-- merged 2026-11-05T014508Z: +10 new, 0 duplicate, version 2 -->
 ---
 model: next_batch
 scanned_at: 2026-11-04T15:02:03Z

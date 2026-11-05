@@ -1,3 +1,4 @@
+<!-- merged 2026-11-05T014508Z: +2 new, 9 duplicate, version 2 -->
 ---
 model: buffy
 scanned_at: 2026-11-04T22:52:00Z
