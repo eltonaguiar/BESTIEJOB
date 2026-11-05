@@ -113,6 +113,12 @@ Verified idempotent: re-running against a tree that already contains the submiss
 `186 cards → 0 net-new`. The duplicate `v2` and the empty `v3` were deleted; `v1` is the
 submission of record.
 
+A second CI run then committed an *empty* submission: the scanner always wrote an inbox file,
+so "0 net-new" produced a header-only `v2` and the workflow committed it. The scanner now
+writes the diagnostic report but no submission when there is nothing new, and the workflow
+stages only `inbox/linkedin-pattern--*.md` (the raw report has a fresh timestamp every run, so
+committing it was a no-op commit every week either way).
+
 ## The seed was lost, and what that changed
 
 `raw/linkedin_manual_2026-11-04.json` was **never committed** — `raw/` is untracked working

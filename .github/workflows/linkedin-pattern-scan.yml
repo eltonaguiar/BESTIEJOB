@@ -85,9 +85,11 @@ jobs:
           set -euo pipefail
           git config user.name "bestiejob-sweep"
           git config user.email "bestiejob-sweep@users.noreply.github.com"
-          git add raw/linkedin_pattern_*.json inbox/linkedin-pattern--*.md
+          # Submission files only. The raw report is diagnostic working data with a fresh
+          # timestamp every run, so committing it produced a no-op commit every week.
+          git add inbox/linkedin-pattern--*.md
           if git diff --cached --quiet; then
-            echo "no new rows this week"
+            echo "no new rows this week — nothing committed"
             exit 0
           fi
           git commit -m "chore(scan): weekly LinkedIn pattern scan $(date -u +%Y-%m-%d) [skip ci]"

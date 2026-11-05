@@ -307,6 +307,15 @@ def main() -> None:
         "jobs": fresh,
     }, indent=1), encoding="utf-8")
 
+    if not fresh:
+        # Nothing new: write the diagnostic report but no submission. Writing a header-only
+        # inbox file made the workflow commit an empty submission every run.
+        print(f"\n{len(found)} cards → 0 net-new: nothing to submit")
+        print(f"wrote raw/linkedin_pattern_{today}.json")
+        if failed:
+            print(f"WARNING: {len(failed)} queries never returned HTML: {failed[:4]}")
+        return
+
     INBOX.mkdir(exist_ok=True)
     version = 1
     while (INBOX / f"linkedin-pattern--{today}--v{version}.md").exists():
