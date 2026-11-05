@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T140651Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T143349Z.md`.
 
 ## Contents
 
@@ -29,6 +29,8 @@ _developer / administrator / architect / analyst roles_
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744570) | ServiceNow | Toronto, Ontario, ca |  |
+| 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486753505) | Yochana | Canada |  |
+| 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486757401) | Yochana | Canada |  |
 | 2026-11-05 | [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985) | DXC Technology | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744779) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-05 | [Intermediate Technology Specialist, Service Now Developer](https://www.adzuna.ca/details/5954040266) | Equitable | Waterloo region, Ontario |  |
@@ -176,8 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Consultant - REMOTE Contract Job](https://qualitycontracts.co.uk/contract-jobs/remote-servicenow-consultant-remote-in-remote-1791894181) | Unknown | Canada | 9 |
 | 2026-11-04 | [ServiceNow Consultant - REMOTE - NTT Data, Inc. - Ottawa, ON / Ladders](https://www.theladders.com/job/servicenow-consultant-remote-ntt-data-inc-ottawa-on_89348353?source=similar) | Unknown | Canada | 8 |
 | 2026-11-04 | [(ServiceNow Architect – Remote · ("Canada") / Enterprise Solutions Inc.)(https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-architect-remote-canada-99e333eaaa46)](https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-architect-remote-canada-99e333eaaa46) | Unknown | Canada | 8 |
-| 2026-11-04 | [((Hiring) ServiceNow Specialist @NexGedia Enterprise)(https://remotive.com/remote/jobs/all-others/servicenow-specialist-5792496)](https://remotive.com/remote/jobs/all-others/servicenow-specialist-5792496) | Unknown | Canada | 8 |
-| 2026-11-04 | [((Hiring) ServiceNow Senior Technical Consultant @Crossfuze)(https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965)](https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965) | Unknown | Canada | 9 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T14:00:01.985Z** · 2025 live postings from 9 public sources · 77 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-05T14:30:01.246Z** · 2027 live postings from 9 public sources · 77 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -584,13 +584,13 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744570) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-05 | [Architecte de solutions (ServiceNow)](https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4434772040) | CGI | Sherbrooke, Quebec, Canada |
 | 2026-11-05 | [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985) | DXC Technology | Ottawa, Ontario, Canada |
+| 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486753505) | Yochana | Canada |
+| 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486757401) | Yochana | Canada |
 | 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://www.adzuna.ca/details/5953648278) | Deloitte | Toronto, Ontario |
 | 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://www.adzuna.ca/details/5953557971) | Deloitte | Toronto, Ontario |
 | 2026-11-04 | [ServiceNow ITAM Consultant - Secret Clearance - Alldus International Consulting Limited - Remote \| Dice.com](https://www.dice.com/job-detail/0a53baba-3486-426c-b6f3-4046fd578f7c) | Unknown | Canada |
 | 2026-11-04 | [Remote IT Asset Manager - ServiceNow & Global Portfolio - Vancouver \| Sercanto](https://fr.ca.sercanto.com/detail/a/remote-strong-it-strong-asset-manager-servicenow-global-portfolio_vancouver_172004063) | ServiceNow & Global Portfolio - Vancouver \| Sercanto | Canada |
 | 2026-11-04 | [ServiceNow Technical Consultant, Toronto, Ontario, Canada \| Cognizant Careers](https://careers.cognizant.com/global-en/jobs/00069526961/servicenow-technical-consultant/) | Cognizant Careers | Canada |
-| 2026-11-04 | [Job opening - ServiceNow Technical Architect in Toronto \| Randstad](https://www.randstad.com/jobs/servicenow-technical-architect_toronto_47644537/) | ServiceNow Technical Architect in Toronto \| Randstad | Canada |
-| 2026-11-04 | [Sr Principal Platform Architect, Toronto \| ServiceNow Careers](https://careers.servicenow.com/jobs/744000127485110/sr-principal-platform-architect/) | ServiceNow Careers | Canada |
 
 ### Salesforce — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-05T140651Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
+`README.BAK_2026-11-05T143349Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.

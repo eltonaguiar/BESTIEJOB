@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T14:06:51+00:00",
+ "generatedAt": "2026-11-05T14:33:49+00:00",
  "timezone": "America/Toronto",
- "count": 428,
+ "count": 426,
  "appliedHidden": 12,
  "sources": [
   "Adzuna",
@@ -126,7 +126,6 @@
   "qualitycontracts.co.uk",
   "queertech.getro.com",
   "raise.jobs",
-  "randstad.com",
   "remote.mq.unaux.com",
   "remoterocketship.com",
   "remotesource.com",
@@ -155,6 +154,29 @@
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-05",
+   "title": "ServiceNow OTSM and CMDB Technical Consultant",
+   "company": "Yochana",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486753505",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "CMDB",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow otsm and cmdb technical consultant yochana canada linkedin servicenow  servicenow cmdb consulting/ba role fit canada / remote",
+   "alternates": []
+  },
   {
    "posted": "2026-11-05",
    "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
@@ -1305,28 +1327,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "((Hiring) ServiceNow Senior Technical Consultant @Crossfuze)(https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965",
-   "note": "9",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 94,
-   "matchReasons": [
-    "ServiceNow",
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "((hiring) servicenow senior technical consultant @crossfuze)(https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965) unknown canada remotive.com servicenow 9 servicenow consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "ServiceNow Cyber Sales Executive (Senior Manager)",
    "company": "Deloitte",
    "location": "Toronto, Ontario",
@@ -1344,27 +1344,6 @@
    ],
    "french": false,
    "search": "servicenow cyber sales executive (senior manager) deloitte toronto, ontario adzuna servicenow  servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Job opening - ServiceNow Technical Architect in Toronto \\/ Randstad",
-   "company": "Randstad](https://www.randstad.com/jobs/servicenow-technical-architect_toronto_47644537/)",
-   "location": "ServiceNow Technical Architect in Toronto \\",
-   "url": "https://www.randstad.com/jobs/servicenow-technical-architect_toronto_47644537/",
-   "note": "Randstad Canada",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "randstad.com",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "job opening - servicenow technical architect in toronto \\/ randstad randstad](https://www.randstad.com/jobs/servicenow-technical-architect_toronto_47644537/) servicenow technical architect in toronto \\ randstad.com servicenow randstad canada servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -3255,27 +3234,6 @@
    ],
    "french": false,
    "search": "(servicenow architect – remote · (\"canada\") / enterprise solutions inc.)(https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-architect-remote-canada-99e333eaaa46) unknown canada jobs.ca servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "((Hiring) ServiceNow Specialist @NexGedia Enterprise)(https://remotive.com/remote/jobs/all-others/servicenow-specialist-5792496)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://remotive.com/remote/jobs/all-others/servicenow-specialist-5792496",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "((hiring) servicenow specialist @nexgedia enterprise)(https://remotive.com/remote/jobs/all-others/servicenow-specialist-5792496) unknown canada remotive.com servicenow 8 servicenow role fit canada / remote",
    "alternates": []
   },
   {
