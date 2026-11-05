@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T19:02:21+00:00",
+ "generatedAt": "2026-11-05T19:21:27+00:00",
  "timezone": "America/Toronto",
  "count": 409,
  "appliedHidden": 11,
@@ -62,7 +62,6 @@
   "flexgen.zya.me",
   "flexstack.my-board.org",
   "getcanadianjob.com",
-  "getclera.com",
   "getclientell.com",
   "growthroles.com",
   "hireorbit.social-networking.me",
@@ -143,6 +142,26 @@
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-06",
+   "title": "HiringCafe",
+   "company": "Senior Salesforce Engineer",
+   "location": "Canadian Cancer Society",
+   "url": "https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i",
+   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v47.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "hiringcafe.com",
+   "verified": "Employer board",
+   "match": 24,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "hiringcafe senior salesforce engineer canadian cancer society hiringcafe.com salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v47.md salesforce role fit",
+   "alternates": []
+  },
   {
    "posted": "2026-11-05",
    "title": "ServiceNow OTSM and CMDB Technical Consultant",
@@ -509,6 +528,27 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Data360 Developer",
+   "company": "The Corporate",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-data360-developer-at-thecorporate-4486752848",
+   "note": "via linkedin-rounds71-80--2026-11-06--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce data360 developer the corporate toronto, ontario, canada linkedin salesforce via linkedin-rounds71-80--2026-11-06--v1.md salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Data Cloud Consultant",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario, Canada",
@@ -610,6 +650,27 @@
    ],
    "french": false,
    "search": "salesforce administrator (hybrid) survalent mississauga, peel region adzuna salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Administrator",
+   "company": "Survalent",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-survalent-4486500184",
+   "note": "via linkedin-rounds21-30--2026-11-06--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce administrator survalent greater toronto area, canada linkedin salesforce via linkedin-rounds21-30--2026-11-06--v1.md salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -1186,6 +1247,26 @@
    ],
    "french": false,
    "search": "devops engineer oceanmd, a wellstar company toronto, ontario adzuna other devops / cloud role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Configuration Analyst",
+   "company": "RBC",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487232661",
+   "note": "via linkedin-rounds41-50--2026-11-06--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior configuration analyst rbc calgary, alberta, canada linkedin other via linkedin-rounds41-50--2026-11-06--v1.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -5914,69 +5995,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Lead – Vancouver, BC – $40K–$130K/yr / OSI Digital",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/osi-digital/jobs/salesforce-lead-vancouver-bc-886d857aeebf",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce lead – vancouver, bc – $40k–$130k/yr / osi digital unknown canada jobs.ca salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Lead at OSI Digital (Vancouver) / Scoutify",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://scoutify.com/companies/osidigital/jobs/2791979",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "scoutify.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce lead at osi digital (vancouver) / scoutify unknown canada scoutify.com salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Lead",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/salesforce-lead--toronto--ebd2ba9d9c12c909132bae96983f1aca8",
-   "note": "5/10 via 2026-11-04_sf_round3_raw_20261104T004035Z.json",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce lead unknown canada jobleads.com salesforce 5/10 via 2026-11-04_sf_round3_raw_20261104t004035z.json salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Support Analyst, ITSM at McCarthy Tétrault · Vancouver, BC, Canada · ApplyHour",
    "company": "Unknown",
    "location": "Canada",
@@ -8541,26 +8559,6 @@
    ],
    "french": false,
    "search": "senior crm software developer @ meridian credit union unknown canada aggregator other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior CRM Software Developer",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.getclera.com/jobs/meridian-credit-union/senior-crm-software-developer-9j9h3t0gqr8i",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "getclera.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior crm software developer unknown canada getclera.com other 8 role fit canada / remote",
    "alternates": []
   },
   {
