@@ -1,3 +1,4 @@
+<!-- merged 2026-11-05T204642Z: +2 new, 0 duplicate, version 2 -->
 ---
 model: websearch
 scanned_at: 2026-11-05T20:45:50Z
