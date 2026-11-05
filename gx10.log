@@ -1,0 +1,37 @@
+2026-11-05 18:39:20,148 - INFO - Starting GX10 Job Runner...
+2026-11-05 18:39:20,153 - INFO - Loaded 1510 existing job URLs.
+2026-11-05 18:39:20,154 - INFO - Probing Workday: https://gdit.wd5.myworkdayjobs.com/wday/cxs/api/gdit/jobs
+2026-11-05 18:39:20,154 - INFO - Probing Workday: https://bmo.wd3.myworkdayjobs.com/wday/cxs/api/bmo/jobs
+2026-11-05 18:39:20,154 - INFO - Probing Workday: https://caatpension.wd10.myworkdayjobs.com/wday/cxs/api/caatpension/jobs
+2026-11-05 18:39:20,154 - INFO - Probing Workday: https://td.wd3.myworkdayjobs.com/wday/cxs/api/td/jobs
+2026-11-05 18:39:20,154 - INFO - Probing Greenhouse: https://boards-api.greenhouse.io/v1/boards/etelligentgroup/jobs
+2026-11-05 18:39:20,155 - INFO - Probing SmartRecruiters: https://api.smartrecruiters.com/v1/companies/ServiceNow/postings
+2026-11-05 18:39:20,155 - INFO - Probing Workday: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/api/brookfield/jobs
+2026-11-05 18:39:20,155 - INFO - Probing Lever: https://api.lever.co/v0/postings/elfbeauty?mode=json
+2026-11-05 18:39:20,155 - INFO - Probing Ashby: https://jobs.ashbyhq.com/benevity/job-board
+2026-11-05 18:39:20,156 - INFO - Probing Workday: https://cibc.wd3.myworkdayjobs.com/wday/cxs/api/cibc/jobs
+2026-11-05 18:39:20,156 - INFO - Probing Workday: https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/api/thomsonreuters/jobs
+2026-11-05 18:39:20,156 - INFO - Probing Workday: https://moneris.wd3.myworkdayjobs.com/wday/cxs/api/moneris/jobs
+2026-11-05 18:39:20,156 - INFO - Probing Workday: https://mckesson.wd3.myworkdayjobs.com/wday/cxs/api/mckesson/jobs
+2026-11-05 18:39:20,156 - INFO - Probing Workday: https://medcan.wd10.myworkdayjobs.com/wday/cxs/api/medcan/jobs
+2026-11-05 18:39:20,156 - INFO - Probing Workday: https://icf.wd5.myworkdayjobs.com/wday/cxs/api/icf/jobs
+2026-11-05 18:39:20,156 - INFO - Probing iCIMS: https://careers-mackenziehealth.icims.com/jobs/search?query=ServiceNow
+2026-11-05 18:39:20,157 - INFO - Found 1 new jobs from Workday.
+2026-11-05 18:39:20,386 - INFO - Probing Greenhouse: https://boards-api.greenhouse.io/v1/boards/okta/jobs
+2026-11-05 18:39:20,403 - WARNING - Failed to fetch https://jobs.ashbyhq.com/benevity/job-board: 404 Client Error: Not Found for url: https://jobs.ashbyhq.com/benevity/job-board
+2026-11-05 18:39:20,404 - INFO - Probing Oracle Cloud HCM: https://wsib-iaepup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobSearch?q=ServiceNow
+2026-11-05 18:39:20,404 - INFO - Found 0 new jobs from Ashby.
+2026-11-05 18:39:20,456 - INFO - Probing iCIMS: https://careers-adastragrp.icims.com/jobs/search?query=ServiceNow
+2026-11-05 18:39:20,471 - INFO - Probing Greenhouse: https://boards-api.greenhouse.io/v1/boards/neuraflash/jobs
+2026-11-05 18:39:20,553 - INFO - Probing CareerPlug: https://veracity-ventures-inc.careerplug.com/jobs
+2026-11-05 18:39:20,554 - INFO - Found 444 new jobs from Greenhouse.
+2026-11-05 18:39:20,638 - INFO - Probing Ultipro: https://recruiting.ultipro.ca/SES5000SELLP/JobBoard
+2026-11-05 18:39:20,638 - ERROR - SmartRecruiters generated an exception: 'str' object has no attribute 'get'
+2026-11-05 18:39:20,731 - INFO - Found 1 new jobs from iCIMS.
+2026-11-05 18:39:21,116 - INFO - Found 69 new jobs from Lever.
+2026-11-05 18:39:21,222 - INFO - Found 1 new jobs from CareerPlug.
+2026-11-05 18:39:21,288 - WARNING - Failed to fetch https://recruiting.ultipro.ca/SES5000SELLP/JobBoard: 404 Client Error: Not Found for url: https://recruiting.ultipro.ca/SES5000SELLP/JobBoard
+2026-11-05 18:39:21,289 - INFO - Found 0 new jobs from Ultipro.
+2026-11-05 18:39:21,369 - INFO - Found 1 new jobs from Oracle Cloud HCM.
+2026-11-05 18:39:21,370 - INFO - Dry run: Would have written 517 jobs to inbox.
+2026-11-05 18:39:21,370 - INFO - GX10 Job Runner finished in 1.22 seconds.

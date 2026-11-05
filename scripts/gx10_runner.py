@@ -30,6 +30,17 @@ JOBS_JSON = REPO_ROOT / "jobs.json"
 # Regex to extract URLs
 URL_REGEX = re.compile(r'https?://[^\s\)\|<>]+\b')
 
+# Keyword gate — a posting is only kept when its title matches one of these.
+# Without this the ATS routes dump hundreds of irrelevant rows (Greenhouse
+# returns whole boards, not filtered results).
+KEYWORDS: list[str] = [
+    "servicenow", "service now", "salesforce", "sfdc", "sfcc", "cpq",
+    "itam", "itsm", "cmdb", "sam ", "sam,", "hardware asset",
+    "vba", "alteryx", "full-stack", "full stack", "devops", "python",
+    "it reporting", "power platform", "gainsight", "nCino".lower(),
+]
+KEYWORD_RE = re.compile("|".join(re.escape(k.strip()) for k in KEYWORDS), re.I)
+
 # --- Helper Functions (adapted from existing scripts) ---
 
 def _fetch_url(url: str, timeout: int = 25) -> Optional[str]:
