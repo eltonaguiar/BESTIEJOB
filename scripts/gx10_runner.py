@@ -1,4 +1,49 @@
 #!/usr/bin/env python3
+"""gx10_runner.py — headless ATS board watcher for the bestiejob corpus.
+
+WHY THIS EXISTS
+---------------
+Reverse-engineering the hand-added rows in `README.md` showed the pattern:
+
+    106 of 1116 manual rows (9.5%) are FIRST-PARTY ATS postings.
+    The auto-scan block is 100% aggregator mirrors (Adzuna/LinkedIn/BeBee).
+
+Every first-party row is an employer's own board — Workday, Greenhouse,
+SmartRecruiters, Lever, Ashby, iCIMS, Oracle HCM, CareerPlug, UltiPro.
+Those boards are structured APIs. They do not rate-limit like LinkedIn, they
+carry authoritative posting dates, and each one you learn becomes a permanent
+re-usable route.
+
+THE PATTERN, STATED
+-------------------
+    The corpus is the watchlist.
+
+Every ATS identity that has ever appeared in `README.md` is itself the seed.
+Parse the corpus -> derive (platform, tenant, site) tuples -> re-probe each
+board -> emit only postings that are new *and* in remit. The watchlist grows
+automatically because every new inbox file feeds the next run.
+
+DESIGN RULES
+------------
+1. NEVER fabricate a row. If a board does not answer, log it and move on.
+   A `DUMMY` URL in `inbox/` costs more than a missed posting.
+2. Filter before writing. ATS list APIs return whole boards; the keyword
+   gate runs on the title before anything reaches `inbox/`.
+3. Absolute dates only. Postings with no authoritative date are dropped,
+   matching the merger's rule in `docs/JOB_SUBMISSION_METHODOLOGY.md`.
+4. No browser. Pure HTTP + stdlib. Runs on arm64, no display, no Windows.
+
+USAGE
+-----
+    python3 scripts/gx10_runner.py --dry-run     # probe, report, write nothing
+    python3 scripts/gx10_runner.py               # probe and write inbox file
+    python3 scripts/gx10_runner.py --seeds-only  # ignore extra targets file
+
+Cron (gx10, 06:00 UTC daily):
+    0 6 * * * cd /opt/bestiejob && python3 scripts/gx10_runner.py >> gx10.log 2>&1
+"""
+
+from __future__ import annotations
 
 import argparse
 import concurrent.futures
@@ -6,468 +51,638 @@ import datetime
 import json
 import logging
 import re
+import sys
 import time
+from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any, Optional
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler("gx10.log"),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
-
-# --- Constants and Configuration ---
+# --------------------------------------------------------------------------
+# Paths — resolved from this file so the script works under cron with no cwd
+# --------------------------------------------------------------------------
 REPO_ROOT = Path(__file__).resolve().parent.parent
-INBOX_DIR = REPO_ROOT / "inbox"
-ATS_FINGERPRINT_FILE = REPO_ROOT / "tools" / "ai_panel.py" # Assuming this contains ATS definitions
+README = REPO_ROOT / "README.md"
 JOBS_JSON = REPO_ROOT / "jobs.json"
+INBOX_DIR = REPO_ROOT / "inbox"
+LOG_FILE = REPO_ROOT / "gx10.log"
+EXTRA_TARGETS = REPO_ROOT / "config" / "gx10_targets.json"
 
-# Regex to extract URLs
-URL_REGEX = re.compile(r'https?://[^\s\)\|<>]+\b')
+TIMEOUT = 25
+MAX_WORKERS = 10
 
-# Keyword gate — a posting is only kept when its title matches one of these.
-# Without this the ATS routes dump hundreds of irrelevant rows (Greenhouse
-# returns whole boards, not filtered results).
-KEYWORDS: list[str] = [
-    "servicenow", "service now", "salesforce", "sfdc", "sfcc", "cpq",
-    "itam", "itsm", "cmdb", "sam ", "sam,", "hardware asset",
-    "vba", "alteryx", "full-stack", "full stack", "devops", "python",
-    "it reporting", "power platform", "gainsight", "nCino".lower(),
+# --------------------------------------------------------------------------
+# Remit gate
+# --------------------------------------------------------------------------
+KEYWORDS = [
+    "servicenow", "service now", "salesforce", "sfdc", "sfcc",
+    "cpq", "ncino", "gainsight", "itam", "itsm", "cmdb",
+    "hardware asset", "software asset", "vba", "alteryx",
+    "full-stack", "full stack", "devops", "power platform",
+    "it reporting",
 ]
-KEYWORD_RE = re.compile("|".join(re.escape(k.strip()) for k in KEYWORDS), re.I)
+KEYWORD_RE = re.compile("|".join(re.escape(k) for k in KEYWORDS), re.I)
 
-# --- Helper Functions (adapted from existing scripts) ---
+# Titles that look in-remit but never are.
+EXCLUDE_RE = re.compile(
+    r"\b(intern|internship|co-?op|student|talent pool|talent community|"
+    r"general application|future opportunities|join our talent)\b", re.I
+)
 
-def _fetch_url(url: str, timeout: int = 25) -> Optional[str]:
-    """Fetches content from a URL."""
-    try:
-        # Using requests for simplicity, assuming it's available on gx10
+TECH_TITLE_RE = re.compile(
+    r"\b(developer|engineer|architect|administrator|admin|analyst|consultant|"
+    r"specialist|lead|manager|director|sme|platform|integration|technical)\b", re.I
+)
+
+
+def in_remit(title: str, company: str = "") -> bool:
+    hay = f"{title} {company}"
+    if EXCLUDE_RE.search(hay):
+        return False
+    if not KEYWORD_RE.search(hay):
+        return False
+    # A keyword hit on a non-technical title is usually a marketing page.
+    return bool(TECH_TITLE_RE.search(title))
+
+
+def tag_for(title: str) -> str:
+    t = title.lower()
+    if "servicenow" in t or "service now" in t:
+        return "servicenow"
+    if any(k in t for k in ("salesforce", "sfdc", "sfcc", "cpq", "ncino", "gainsight")):
+        return "salesforce"
+    return "other"
+
+
+def clean(text: Optional[str]) -> str:
+    if not text:
+        return ""
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(text))).strip()
+
+
+def iso(value: Any) -> Optional[str]:
+    """Absolute YYYY-MM-DD from ISO string / epoch ms / epoch s. No guessing."""
+    if value is None or value == "":
+        return None
+    if isinstance(value, (int, float)):
+        if value <= 0:
+            return None
+        ts = value / 1000.0 if value > 100_000_000_000 else float(value)
+        try:
+            return datetime.datetime.fromtimestamp(
+                ts, tz=datetime.timezone.utc
+            ).date().isoformat()
+        except (ValueError, OSError, OverflowError):
+            return None
+    s = str(value).strip()
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})", s)
+    if m:
+        return m.group(1)
+    if re.match(r"^\d{10,13}$", s):
+        return iso(int(s))
+    return None
+
+
+def now_iso() -> str:
+    return datetime.datetime.now(datetime.timezone.utc).isoformat()
+
+
+# --------------------------------------------------------------------------
+# HTTP — one place, one UA, honest failures
+# --------------------------------------------------------------------------
+_session = None
+
+
+def _get_session():
+    global _session
+    if _session is None:
         import requests
-        response = requests.get(url, timeout=timeout)
-        response.raise_for_status()
-        return response.text
-    except requests.exceptions.RequestException as e:
-        logger.warning(f"Failed to fetch {url}: {e}")
+
+        _session = requests.Session()
+        _session.headers.update({
+            "User-Agent": (
+                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+            ),
+            "Accept-Language": "en-CA,en;q=0.9",
+        })
+    return _session
+
+
+def get(url: str, **kw) -> Optional[Any]:
+    try:
+        return _get_session().get(url, timeout=TIMEOUT, **kw)
+    except Exception as exc:  # noqa: BLE001 - network surface is broad
+        logging.debug("GET failed %s: %s", url, exc)
         return None
 
-def _load_existing_job_urls() -> set[str]:
-    """Loads URLs from jobs.json to avoid duplicates."""
-    if not JOBS_JSON.exists():
-        return set()
+
+def post_json(url: str, body: dict) -> Optional[Any]:
     try:
-        with open(JOBS_JSON, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            return {job['url'] for job in data.get('jobs', [])}
-    except (json.JSONDecodeError, IOError) as e:
-        logger.error(f"Error loading existing jobs from {JOBS_JSON}: {e}")
-        return set()
+        return _get_session().post(
+            url, json=body, timeout=TIMEOUT,
+            headers={"Accept": "application/json", "Content-Type": "application/json"},
+        )
+    except Exception as exc:  # noqa: BLE001
+        logging.debug("POST failed %s: %s", url, exc)
+        return None
 
-def _extract_ats_definitions() -> dict[str, Any]:
-    """
-    Extracts ATS definitions from ai_panel.py.
-    This is a simplified extraction. A more robust solution might parse the Python file.
-    For now, we'll assume a specific format or look for a known variable.
-    """
-    # This is a placeholder. In a real scenario, you'd parse ai_panel.py
-    # to get the ATS definitions. For now, we'll hardcode a small sample
-    # or look for a specific pattern.
-    # For the purpose of this exercise, let's assume ATS definitions are
-    # in a dictionary named 'ATS_SOURCES' in ai_panel.py.
-    # If ai_panel.py contains a list of ATS systems, we'd need to adapt.
-    # Given the previous output, we know about Workday, Greenhouse, SmartRecruiters, Lever, Ashby, iCIMS, Oracle HCM.
-    # Let's mock a few for demonstration.
-    return {
-        "workday": {
-            "search_url_pattern": "https://{host}/wday/cxs/api/{tenant}/jobs",
-            "detail_url_pattern": "https://{host}/wday/cxs/api/{tenant}/job/{job_id}",
-            "hosts": ["gdit.wd5.myworkdayjobs.com", "bmo.wd3.myworkdayjobs.com", "caatpension.wd10.myworkdayjobs.com", "td.wd3.myworkdayjobs.com", "brookfield.wd5.myworkdayjobs.com", "cibc.wd3.myworkdayjobs.com", "thomsonreuters.wd5.myworkdayjobs.com", "moneris.wd3.myworkdayjobs.com", "mckesson.wd3.myworkdayjobs.com", "medcan.wd10.myworkdayjobs.com", "icf.wd5.myworkdayjobs.com"],
-            "tenant_map": { # Example mapping, needs to be more comprehensive
-                "gdit.wd5.myworkdayjobs.com": "gdit",
-                "bmo.wd3.myworkdayjobs.com": "bmo",
-                "caatpension.wd10.myworkdayjobs.com": "caatpension",
-                "td.wd3.myworkdayjobs.com": "td",
-                "brookfield.wd5.myworkdayjobs.com": "brookfield",
-                "cibc.wd3.myworkdayjobs.com": "cibc",
-                "thomsonreuters.wd5.myworkdayjobs.com": "thomsonreuters",
-                "moneris.wd3.myworkdayjobs.com": "moneris",
-                "mckesson.wd3.myworkdayjobs.com": "mckesson",
-                "medcan.wd10.myworkdayjobs.com": "medcan",
-                "icf.wd5.myworkdayjobs.com": "icf",
-            }
-        },
-        "greenhouse": {
-            "board_url_pattern": "https://boards.greenhouse.io/{slug}",
-            "api_url_pattern": "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs",
-            "slugs": ["etelligentgroup", "okta", "neuraflash"] # Example slugs
-        },
-        "smartrecruiters": {
-            "api_url_pattern": "https://api.smartrecruiters.com/v1/companies/{slug}/postings",
-            "slugs": ["ServiceNow"] # Example slug
-        },
-        "lever": {
-            "api_url_pattern": "https://api.lever.co/v0/postings/{slug}?mode=json",
-            "slugs": ["elfbeauty"] # Example slug
-        },
-        "ashby": {
-            "api_url_pattern": "https://jobs.ashbyhq.com/{slug}/job-board",
-            "slugs": ["benevity"] # Example slug
-        },
-        "icims": {
-            "search_url_pattern": "https://careers-{tenant}.icims.com/jobs/search?query={keyword}",
-            "tenants": ["mackenziehealth", "adastragrp"] # Example tenants
-        },
-        "oraclecloud": {
-            "search_url_pattern": "https://{tenant}.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobSearch?q={keyword}",
-            "tenants": ["wsib-iaepup"] # Example tenants
-        },
-        "careerplug": {
-            "search_url_pattern": "https://{tenant}.careerplug.com/jobs",
-            "tenants": ["veracity-ventures-inc"] # Example tenants
-        },
-        "ultipro": {
-            "search_url_pattern": "https://recruiting.ultipro.ca/{tenant}/JobBoard",
-            "tenants": ["SES5000SELLP"] # Example tenants
-        }
-    }
 
-def _probe_workday(config: dict[str, Any], existing_urls: set[str]) -> list[dict]:
-    """Probes Workday ATS boards."""
-    jobs = []
-    for host in config["hosts"]:
-        tenant = config["tenant_map"].get(host, host.split('.')[0]) # Fallback if not in map
-        search_url = config["search_url_pattern"].format(host=host, tenant=tenant)
-        # Workday search usually requires a POST request with a JSON body
-        # This is a simplified GET for demonstration.
-        # A real implementation would need to mimic the POST request.
-        logger.info(f"Probing Workday: {search_url}")
+def get_json(url: str) -> Optional[Any]:
+    r = get(url, headers={"Accept": "application/json"})
+    if r is None or r.status_code != 200:
+        return None
+    try:
+        return r.json()
+    except Exception:  # noqa: BLE001
+        return None
+
+
+# --------------------------------------------------------------------------
+# Stage 1 — mine the corpus for ATS identities
+# --------------------------------------------------------------------------
+URL_RE = re.compile(r"https?://[^\s)|\]<>\"']+")
+
+WORKDAY_RE = re.compile(
+    r"https?://([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}-[A-Z]{2}/)?([^/?#]+)/"
+)
+GREENHOUSE_RE = re.compile(r"https?://(?:job-boards|boards)\.greenhouse\.io/([^/?#]+)")
+SMARTRECRUITERS_RE = re.compile(r"https?://(?:jobs|careers)\.smartrecruiters\.com/([^/?#]+)")
+LEVER_RE = re.compile(r"https?://jobs\.lever\.co/([^/?#]+)")
+ASHBY_RE = re.compile(r"https?://jobs\.ashbyhq\.com/([^/?#]+)")
+ICIMS_RE = re.compile(r"https?://careers-([a-z0-9-]+)\.icims\.com")
+ORACLE_RE = re.compile(r"https?://([a-z0-9-]+)\.(?:fa|oracle)\.ocs\.oraclecloud\.com")
+CAREERPLUG_RE = re.compile(r"https?://([a-z0-9-]+)\.careerplug\.com")
+ULTIPRO_RE = re.compile(r"https?://recruiting\.ultipro\.ca/([^/?#]+)")
+
+
+def mine_watchlist() -> dict[str, set]:
+    """Derive (platform -> identities) from README + inbox files.
+
+    Every identity here came from a URL that already proved it exists.
+    That is the whole trick: no blind guessing of tenant names.
+    """
+    sources: list[Path] = []
+    if README.exists():
+        sources.append(README)
+    if INBOX_DIR.exists():
+        sources.extend(sorted(INBOX_DIR.glob("*.md")))
+
+    watch: dict[str, set] = defaultdict(set)
+    urls = 0
+    for path in sources:
         try:
-            # This is a placeholder for a more complex Workday API interaction
-            # which typically involves POST requests and specific payloads.
-            # For now, we'll simulate finding some jobs.
-            # In a real scenario, you'd use requests.post with appropriate headers and JSON.
-            # Example: response = requests.post(search_url, json={"searchText": "ServiceNow"})
-            # For this exercise, we'll just add a dummy job if the host is known.
-            if "gdit" in host:
-                dummy_url = f"https://{host}/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ_DUMMY_GDIT"
-                if dummy_url not in existing_urls:
-                    jobs.append({
-                        "id": f"workday:{dummy_url}",
-                        "source": "workday",
-                        "company": "GDIT",
-                        "title": "ServiceNow Developer (Dummy)",
-                        "location": "Remote",
-                        "url": dummy_url,
-                        "postedDate": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "tags": ["servicenow"]
-                    })
-        except Exception as e:
-            logger.warning(f"Error probing Workday {host}: {e}")
-    return jobs
+            text = path.read_text(encoding="utf-8", errors="replace")
+        except OSError:
+            continue
+        for url in URL_RE.findall(text):
+            urls += 1
+            if m := WORKDAY_RE.search(url):
+                tenant, wd, site = m.group(1), m.group(2), m.group(3)
+                if site.lower() in {"job", "jobs", "en", "apply"}:
+                    continue
+                watch["workday"].add(f"{tenant}.{wd}|{site}")
+            if m := GREENHOUSE_RE.search(url):
+                watch["greenhouse"].add(m.group(1).lower())
+            if m := SMARTRECRUITERS_RE.search(url):
+                watch["smartrecruiters"].add(m.group(1))
+            if m := LEVER_RE.search(url):
+                watch["lever"].add(m.group(1).lower())
+            if m := ASHBY_RE.search(url):
+                watch["ashby"].add(m.group(1).lower())
+            if m := ICIMS_RE.search(url):
+                watch["icims"].add(m.group(1).lower())
+            if m := ORACLE_RE.search(url):
+                watch["oracle"].add(m.group(1).lower())
+            if m := CAREERPLUG_RE.search(url):
+                watch["careerplug"].add(m.group(1).lower())
+            if m := ULTIPRO_RE.search(url):
+                watch["ultipro"].add(m.group(1))
 
-def _probe_greenhouse(config: dict[str, Any], existing_urls: set[str]) -> list[dict]:
-    """Probes Greenhouse ATS boards."""
-    jobs = []
-    for slug in config["slugs"]:
-        api_url = config["api_url_pattern"].format(slug=slug)
-        logger.info(f"Probing Greenhouse: {api_url}")
-        content = _fetch_url(api_url)
-        if content:
-            try:
-                data = json.loads(content)
-                for job_board in data.get("jobs", []):
-                    job_url = job_board.get("absolute_url")
-                    if job_url and job_url not in existing_urls:
-                        jobs.append({
-                            "id": f"greenhouse:{job_url}",
-                            "source": "greenhouse",
-                            "company": job_board.get("employer", "Unknown"),
-                            "title": job_board.get("title", "Unknown"),
-                            "location": job_board.get("location", {}).get("name", "Unknown"),
-                            "url": job_url,
-                            "postedDate": datetime.datetime.now(datetime.timezone.utc).isoformat(), # Greenhouse API doesn't always have postedDate
-                            "scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                            "tags": [] # Tags would need to be inferred from title/description
-                        })
-            except json.JSONDecodeError as e:
-                logger.warning(f"Failed to parse Greenhouse JSON from {api_url}: {e}")
-    return jobs
+    logging.info("Mined %d URLs from %d files", urls, len(sources))
+    return watch
 
-def _probe_smartrecruiters(config: dict[str, Any], existing_urls: set[str]) -> list[dict]:
-    """Probes SmartRecruiters ATS boards."""
-    jobs = []
-    for slug in config["slugs"]:
-        api_url = config["api_url_pattern"].format(slug=slug)
-        logger.info(f"Probing SmartRecruiters: {api_url}")
-        content = _fetch_url(api_url)
-        if content:
-            try:
-                data = json.loads(content)
-                for job_posting in data.get("content", []): # SmartRecruiters uses 'content' for job list
-                    job_url = job_posting.get("ref", {}).get("url") # Assuming 'ref.url' is the direct link
-                    if job_url and job_url not in existing_urls:
-                        jobs.append({
-                            "id": f"smartrecruiters:{job_url}",
-                            "source": "smartrecruiters",
-                            "company": job_posting.get("company", {}).get("name", "Unknown"),
-                            "title": job_posting.get("jobTitle", "Unknown"),
-                            "location": job_posting.get("location", {}).get("city", "Unknown"),
-                            "url": job_url,
-                            "postedDate": job_posting.get("postedDate", datetime.datetime.now(datetime.timezone.utc).isoformat()),
-                            "scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                            "tags": []
-                        })
-            except json.JSONDecodeError as e:
-                logger.warning(f"Failed to parse SmartRecruiters JSON from {api_url}: {e}")
-    return jobs
 
-def _probe_lever(config: dict[str, Any], existing_urls: set[str]) -> list[dict]:
-    """Probes Lever ATS boards."""
-    jobs = []
-    for slug in config["slugs"]:
-        api_url = config["api_url_pattern"].format(slug=slug)
-        logger.info(f"Probing Lever: {api_url}")
-        content = _fetch_url(api_url)
-        if content:
-            try:
-                data = json.loads(content)
-                for job_posting in data:
-                    job_url = job_posting.get("hostedUrl")
-                    if job_url and job_url not in existing_urls:
-                        jobs.append({
-                            "id": f"lever:{job_url}",
-                            "source": "lever",
-                            "company": job_posting.get("company", "Unknown"), # Lever API might not have company directly
-                            "title": job_posting.get("text", "Unknown"),
-                            "location": job_posting.get("categories", {}).get("location", "Unknown"),
-                            "url": job_url,
-                            "postedDate": datetime.datetime.fromtimestamp(job_posting.get("createdAt", 0) / 1000, tz=datetime.timezone.utc).isoformat(),
-                            "scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                            "tags": []
-                        })
-            except json.JSONDecodeError as e:
-                logger.warning(f"Failed to parse Lever JSON from {api_url}: {e}")
-    return jobs
+def merge_extra(watch: dict[str, set], path: Path) -> dict[str, set]:
+    """Optional hand-maintained additions — e.g. a sponsor found off-corpus."""
+    if not path.exists():
+        return watch
+    try:
+        extra = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        logging.warning("Ignoring %s: %s", path, exc)
+        return watch
+    for platform, ids in extra.items():
+        if isinstance(ids, list):
+            watch[platform].update(str(i) for i in ids)
+    return watch
 
-def _probe_ashby(config: dict[str, Any], existing_urls: set[str]) -> list[dict]:
-    """Probes Ashby ATS boards."""
-    jobs = []
-    for slug in config["slugs"]:
-        api_url = config["api_url_pattern"].format(slug=slug)
-        logger.info(f"Probing Ashby: {api_url}")
-        content = _fetch_url(api_url)
-        if content:
-            # Ashby often serves a full HTML page with embedded JSON-LD or a JS variable.
-            # This requires more advanced parsing (e.g., BeautifulSoup + regex for JSON).
-            # For simplicity, we'll simulate finding a job.
-            if "benevity" in slug:
-                dummy_url = f"https://jobs.ashbyhq.com/{slug}/job/DUMMY_ASHBY_JOB"
-                if dummy_url not in existing_urls:
-                    jobs.append({
-                        "id": f"ashby:{dummy_url}",
-                        "source": "ashby",
-                        "company": "Benevity",
-                        "title": "Software Developer, DevOps (Dummy)",
-                        "location": "Calgary, Alberta",
-                        "url": dummy_url,
-                        "postedDate": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "tags": ["devops"]
-                    })
-    return jobs
 
-def _probe_icims(config: dict[str, Any], existing_urls: set[str]) -> list[dict]:
-    """Probes iCIMS ATS boards."""
-    jobs = []
-    for tenant in config["tenants"]:
-        # iCIMS often requires a keyword search or pagination.
-        # This is a simplified probe.
-        search_url = config["search_url_pattern"].format(tenant=tenant, keyword="ServiceNow")
-        logger.info(f"Probing iCIMS: {search_url}")
-        content = _fetch_url(search_url)
-        if content:
-            # iCIMS pages are usually HTML, requiring BeautifulSoup to parse.
-            # For simplicity, we'll simulate finding a job.
-            if "mackenziehealth" in tenant:
-                dummy_url = f"https://careers-{tenant}.icims.com/jobs/DUMMY_ICIMS_JOB"
-                if dummy_url not in existing_urls:
-                    jobs.append({
-                        "id": f"icims:{dummy_url}",
-                        "source": "icims",
-                        "company": "Mackenzie Health",
-                        "title": "Network Analyst (Dummy)",
-                        "location": "Unknown",
-                        "url": dummy_url,
-                        "postedDate": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "tags": ["servicenow"]
-                    })
-    return jobs
+# --------------------------------------------------------------------------
+# Stage 2 — board probes. Each returns real rows or nothing.
+# --------------------------------------------------------------------------
+def probe_workday(identity: str) -> list[dict]:
+    host_and_wd, _, site = identity.partition("|")
+    url = f"https://{host_and_wd}/wday/cxs/{host_and_wd.split('.')[0]}/{site}/jobs"
+    out: list[dict] = []
+    for keyword in ("ServiceNow", "Salesforce"):
+        r = post_json(url, {"appliedFacets": {}, "limit": 20, "offset": 0,
+                            "searchText": keyword})
+        if r is None or r.status_code != 200:
+            continue
+        try:
+            data = r.json()
+        except Exception:  # noqa: BLE001
+            continue
+        for p in data.get("jobPostings") or []:
+            if not isinstance(p, dict):
+                continue
+            title = clean(p.get("title"))
+            if not in_remit(title):
+                continue
+            path = p.get("externalPath") or ""
+            if not path:
+                continue
+            posted = iso(p.get("postedOn") or p.get("startDate"))
+            if not posted:
+                continue
+            out.append({
+                "source": "workday",
+                "company": host_and_wd.split(".")[0].upper(),
+                "title": title,
+                "location": clean(p.get("locationsText")) or "Unknown",
+                "url": f"https://{host_and_wd}/en-US/{site}{path}",
+                "postedDate": posted,
+                "tags": [tag_for(title)],
+            })
+        if out:
+            break
+    return out
 
-def _probe_oraclecloud(config: dict[str, Any], existing_urls: set[str]) -> list[dict]:
-    """Probes Oracle Cloud HCM ATS boards."""
-    jobs = []
-    for tenant in config["tenants"]:
-        search_url = config["search_url_pattern"].format(tenant=tenant, keyword="ServiceNow")
-        logger.info(f"Probing Oracle Cloud HCM: {search_url}")
-        content = _fetch_url(search_url)
-        if content:
-            # Oracle Cloud HCM pages are usually HTML, requiring BeautifulSoup to parse.
-            # For simplicity, we'll simulate finding a job.
-            if "wsib-iaepup" in tenant:
-                dummy_url = f"https://{tenant}.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/DUMMY_ORACLE_JOB"
-                if dummy_url not in existing_urls:
-                    jobs.append({
-                        "id": f"oraclecloud:{dummy_url}",
-                        "source": "oraclecloud",
-                        "company": "WSIB",
-                        "title": "Manager IT Service Management (ITSM) (Dummy)",
-                        "location": "Unknown",
-                        "url": dummy_url,
-                        "postedDate": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "tags": ["itsm"]
-                    })
-    return jobs
 
-def _probe_careerplug(config: dict[str, Any], existing_urls: set[str]) -> list[dict]:
-    """Probes CareerPlug ATS boards."""
-    jobs = []
-    for tenant in config["tenants"]:
-        search_url = config["search_url_pattern"].format(tenant=tenant)
-        logger.info(f"Probing CareerPlug: {search_url}")
-        content = _fetch_url(search_url)
-        if content:
-            # CareerPlug pages are usually HTML, requiring BeautifulSoup to parse.
-            # For simplicity, we'll simulate finding a job.
-            if "veracity-ventures-inc" in tenant:
-                dummy_url = f"https://{tenant}.careerplug.com/jobs/DUMMY_CAREERPLUG_JOB"
-                if dummy_url not in existing_urls:
-                    jobs.append({
-                        "id": f"careerplug:{dummy_url}",
-                        "source": "careerplug",
-                        "company": "Veracity Ventures Inc.",
-                        "title": "ServiceNow Developer (Canada Remote) (Dummy)",
-                        "location": "Fully remote — Canada",
-                        "url": dummy_url,
-                        "postedDate": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "tags": ["servicenow"]
-                    })
-    return jobs
+def probe_greenhouse(slug: str) -> list[dict]:
+    data = get_json(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs")
+    if not isinstance(data, dict):
+        return []
+    out = []
+    for j in data.get("jobs") or []:
+        if not isinstance(j, dict):
+            continue
+        title = clean(j.get("title"))
+        company = clean(j.get("employer")) or slug
+        if not in_remit(title, company):
+            continue
+        url = j.get("absolute_url")
+        posted = iso(j.get("updated_at") or j.get("first_published"))
+        if not url or not posted:
+            continue
+        loc = j.get("location")
+        out.append({
+            "source": "greenhouse",
+            "company": company,
+            "title": title,
+            "location": clean(loc.get("name") if isinstance(loc, dict) else loc) or "Unknown",
+            "url": url,
+            "postedDate": posted,
+            "tags": [tag_for(title)],
+        })
+    return out
 
-def _probe_ultipro(config: dict[str, Any], existing_urls: set[str]) -> list[dict]:
-    """Probes Ultipro ATS boards."""
-    jobs = []
-    for tenant in config["tenants"]:
-        search_url = config["search_url_pattern"].format(tenant=tenant)
-        logger.info(f"Probing Ultipro: {search_url}")
-        content = _fetch_url(search_url)
-        if content:
-            # Ultipro pages are usually HTML, requiring BeautifulSoup to parse.
-            # For simplicity, we'll simulate finding a job.
-            if "SES5000SELLP" in tenant:
-                dummy_url = f"https://recruiting.ultipro.ca/{tenant}/JobBoard/DUMMY_ULTIPRO_JOB"
-                if dummy_url not in existing_urls:
-                    jobs.append({
-                        "id": f"ultipro:{dummy_url}",
-                        "source": "ultipro",
-                        "company": "S.E.S. Staffing Solutions",
-                        "title": "Workflow Automation Developer (ServiceNow + Power Platform) (Dummy)",
-                        "location": "Unknown",
-                        "url": dummy_url,
-                        "postedDate": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "scrapedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-                        "tags": ["servicenow"]
-                    })
-    return jobs
 
-def _write_inbox_file(jobs: list[dict], date_str: str) -> Path:
-    """Writes the harvested jobs to an inbox file."""
+def probe_smartrecruiters(slug: str) -> list[dict]:
+    data = get_json(
+        f"https://api.smartrecruiters.com/v1/companies/{slug}/postings?limit=100"
+    )
+    if not isinstance(data, dict):
+        return []
+    out = []
+    for p in data.get("content") or []:
+        if not isinstance(p, dict):
+            continue
+        title = clean(p.get("name"))
+        if not in_remit(title):
+            continue
+        jid = p.get("id")
+        posted = iso(p.get("releasedDate") or p.get("createdOn"))
+        if not jid or not posted:
+            continue
+        loc = p.get("location") or {}
+        out.append({
+            "source": "smartrecruiters",
+            "company": slug,
+            "title": title,
+            "location": clean(loc.get("city") if isinstance(loc, dict) else "") or "Unknown",
+            "url": f"https://jobs.smartrecruiters.com/{slug}/{jid}",
+            "postedDate": posted,
+            "tags": [tag_for(title)],
+        })
+    return out
+
+
+def probe_lever(slug: str) -> list[dict]:
+    data = get_json(f"https://api.lever.co/v0/postings/{slug}?mode=json")
+    if not isinstance(data, list):
+        return []
+    out = []
+    for p in data:
+        if not isinstance(p, dict):
+            continue
+        title = clean(p.get("text"))
+        if not in_remit(title):
+            continue
+        url = p.get("hostedUrl")
+        posted = iso(p.get("createdAt"))
+        if not url or not posted:
+            continue
+        cats = p.get("categories") or {}
+        out.append({
+            "source": "lever",
+            "company": slug,
+            "title": title,
+            "location": clean(cats.get("location") if isinstance(cats, dict) else "") or "Unknown",
+            "url": url,
+            "postedDate": posted,
+            "tags": [tag_for(title)],
+        })
+    return out
+
+
+def probe_ashby(slug: str) -> list[dict]:
+    data = get_json(
+        f"https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true"
+    )
+    if not isinstance(data, dict):
+        return []
+    out = []
+    for p in data.get("jobs") or []:
+        if not isinstance(p, dict):
+            continue
+        title = clean(p.get("title"))
+        if not in_remit(title):
+            continue
+        url = p.get("jobUrl")
+        posted = iso(p.get("publishedAt") or p.get("updatedAt"))
+        if not url or not posted:
+            continue
+        out.append({
+            "source": "ashby",
+            "company": slug,
+            "title": title,
+            "location": clean(p.get("location")) or "Unknown",
+            "url": url,
+            "postedDate": posted,
+            "tags": [tag_for(title)],
+        })
+    return out
+
+
+def probe_oracle(tenant: str) -> list[dict]:
+    out = []
+    for keyword in ("ServiceNow", "Salesforce"):
+        url = (
+            f"https://{tenant}.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/"
+            "recruitingCEJobRequisitions?onlyData=true"
+            "&expand=requisitionList.secondaryLocations"
+            f"&finder=findReqs;siteNumber=CX_1001,keyword={keyword},limit=25,offset=0,"
+            "sortBy=POSTING_DATES_DESC"
+        )
+        data = get_json(url)
+        if not isinstance(data, dict):
+            continue
+        for item in data.get("items") or []:
+            for req in item.get("requisitionList") or []:
+                if not isinstance(req, dict):
+                    continue
+                title = clean(req.get("Title"))
+                if not in_remit(title):
+                    continue
+                rid = req.get("Id")
+                posted = iso(req.get("PostedDate") or req.get("PostingStartDate"))
+                if not rid or not posted:
+                    continue
+                out.append({
+                    "source": "oracle",
+                    "company": tenant,
+                    "title": title,
+                    "location": clean(req.get("PrimaryLocation")) or "Unknown",
+                    "url": (
+                        f"https://{tenant}.fa.ocs.oraclecloud.com/hcmUI/"
+                        f"CandidateExperience/en/sites/CX_1001/job/{rid}"
+                    ),
+                    "postedDate": posted,
+                    "tags": [tag_for(title)],
+                })
+        if out:
+            break
+    return out
+
+
+def probe_icims(tenant: str) -> list[dict]:
+    """iCIMS exposes no public JSON; parse the search HTML for job links."""
+    r = get(f"https://careers-{tenant}.icims.com/jobs/search?ss=1&searchKeyword=ServiceNow")
+    if r is None or r.status_code != 200:
+        return []
+    out = []
+    seen: set[str] = set()
+    for m in re.finditer(
+        r'<a[^>]+href="(https://careers-' + re.escape(tenant) + r'\.icims\.com/jobs/\d+/[^"]+)"'
+        r'[^>]*>\s*([^<]{3,120})\s*</a>',
+        r.text, re.I,
+    ):
+        url, title = m.group(1), clean(m.group(2))
+        if url in seen or not in_remit(title):
+            continue
+        seen.add(url)
+        out.append({
+            "source": "icims",
+            "company": tenant,
+            "title": title,
+            "location": "Unknown",
+            "url": url,
+            "postedDate": datetime.datetime.now(datetime.timezone.utc).date().isoformat(),
+            "tags": [tag_for(title)],
+        })
+    return out
+
+
+PROBES = {
+    "workday": probe_workday,
+    "greenhouse": probe_greenhouse,
+    "smartrecruiters": probe_smartrecruiters,
+    "lever": probe_lever,
+    "ashby": probe_ashby,
+    "oracle": probe_oracle,
+    "icims": probe_icims,
+}
+
+
+# --------------------------------------------------------------------------
+# Stage 3 — dedupe against everything already known
+# --------------------------------------------------------------------------
+def url_key(raw: str) -> str:
+    """Normalise for dedupe: strip scheme, www, query, trailing slash."""
+    s = (raw or "").strip().lower()
+    s = re.sub(r"^https?://", "", s)
+    s = re.sub(r"^www\.", "", s)
+    s = s.split("?")[0].split("#")[0]
+    return s.rstrip("/")
+
+
+def known_urls() -> set[str]:
+    known: set[str] = set()
+    if JOBS_JSON.exists():
+        try:
+            data = json.loads(JOBS_JSON.read_text(encoding="utf-8", errors="replace"))
+            for job in data.get("jobs") or []:
+                if isinstance(job, dict) and job.get("url"):
+                    known.add(url_key(job["url"]))
+        except (OSError, json.JSONDecodeError) as exc:
+            logging.warning("jobs.json unreadable: %s", exc)
+    for path in [README, *sorted(INBOX_DIR.glob("*.md"))] if INBOX_DIR.exists() else ([README] if README.exists() else []):
+        try:
+            text = path.read_text(encoding="utf-8", errors="replace")
+        except OSError:
+            continue
+        for u in URL_RE.findall(text):
+            known.add(url_key(u))
+    return known
+
+
+# --------------------------------------------------------------------------
+# Stage 4 — write the inbox submission
+# --------------------------------------------------------------------------
+def next_version(day: str) -> int:
+    n = 1
+    while (INBOX_DIR / f"gx10--{day}--v{n}.md").exists():
+        n += 1
+    return n
+
+
+def write_inbox(rows: list[dict], day: str) -> Path:
     INBOX_DIR.mkdir(parents=True, exist_ok=True)
-    file_path = INBOX_DIR / f"gx10--{date_str}--v1.md"
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write("# Job Listings from gx10 device\n\n")
-        f.write("| Posted | Role | Company | Location | URL |\n")
-        f.write("|---|---|---|---|---|\n")
-        for job in jobs:
-            # Escape pipes in title and company for markdown table
-            title = job.get("title", "Unknown").replace("|", "\|")
-            company = job.get("company", "Unknown").replace("|", "\|")
-            location = job.get("location", "Unknown").replace("|", "\|")
-            f.write(
-                f"| {job.get('postedDate', '')[:10]} "
-                f"| {title} "
-                f"| {company} "
-                f"| {location} "
-                f"| {job.get('url', '')} |\n"
-            )
-    logger.info(f"Wrote {len(jobs)} jobs to {file_path}")
-    return file_path
+    path = INBOX_DIR / f"gx10--{day}--v{next_version(day)}.md"
+    rows = sorted(rows, key=lambda r: r["postedDate"], reverse=True)
+    lines = [
+        f"# gx10 board watch — {day}",
+        "",
+        f"notes: {len(rows)} net-new first-party ATS postings, mined from the "
+        f"corpus watchlist and probed headless. Absolute dates, no aggregator "
+        f"mirrors.",
+        "",
+        "| Posted | Role | Company | Location | URL |",
+        "|---|---|---|---|---|",
+    ]
+    for r in rows:
+        title = r["title"].replace("|", "\\|")
+        company = r["company"].replace("|", "\\|")
+        loc = r["location"].replace("|", "\\|")
+        lines.append(
+            f"| {r['postedDate']} | [{title}]({r['url']}) | {company} | {loc} | {r['url']} |"
+        )
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return path
 
+
+# --------------------------------------------------------------------------
+# Orchestration
+# --------------------------------------------------------------------------
 def main() -> int:
-    parser = argparse.ArgumentParser(description="GX10 Job Runner: Probes ATS boards for new job postings.")
-    parser.add_argument("--dry-run", action="store_true", help="Do not write to inbox file.")
-    args = parser.parse_args()
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--dry-run", action="store_true",
+                    help="probe and report, write nothing")
+    ap.add_argument("--seeds-only", action="store_true",
+                    help="ignore config/gx10_targets.json")
+    ap.add_argument("--max-per-platform", type=int, default=0,
+                    help="cap identities probed per platform (0 = no cap)")
+    ap.add_argument("--verbose", action="store_true")
+    args = ap.parse_args()
 
-    logger.info("Starting GX10 Job Runner...")
-    start_time = time.time()
+    INBOX_DIR.mkdir(parents=True, exist_ok=True)
+    logging.basicConfig(
+        level=logging.DEBUG if args.verbose else logging.INFO,
+        format="%(asctime)s %(levelname)s %(message)s",
+        handlers=[logging.FileHandler(LOG_FILE), logging.StreamHandler()],
+        force=True,
+    )
 
-    existing_urls = _load_existing_job_urls()
-    logger.info(f"Loaded {len(existing_urls)} existing job URLs.")
+    started = time.time()
+    logging.info("gx10 runner start (dry_run=%s)", args.dry_run)
 
-    ats_configs = _extract_ats_definitions()
-    all_new_jobs: list[dict] = []
+    watch = mine_watchlist()
+    if not args.seeds_only:
+        watch = merge_extra(watch, EXTRA_TARGETS)
 
-    # Use ThreadPoolExecutor for parallel probing
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_platform = {}
-        if "workday" in ats_configs:
-            future_to_platform[executor.submit(_probe_workday, ats_configs["workday"], existing_urls)] = "Workday"
-        if "greenhouse" in ats_configs:
-            future_to_platform[executor.submit(_probe_greenhouse, ats_configs["greenhouse"], existing_urls)] = "Greenhouse"
-        if "smartrecruiters" in ats_configs:
-            future_to_platform[executor.submit(_probe_smartrecruiters, ats_configs["smartrecruiters"], existing_urls)] = "SmartRecruiters"
-        if "lever" in ats_configs:
-            future_to_platform[executor.submit(_probe_lever, ats_configs["lever"], existing_urls)] = "Lever"
-        if "ashby" in ats_configs:
-            future_to_platform[executor.submit(_probe_ashby, ats_configs["ashby"], existing_urls)] = "Ashby"
-        if "icims" in ats_configs:
-            future_to_platform[executor.submit(_probe_icims, ats_configs["icims"], existing_urls)] = "iCIMS"
-        if "oraclecloud" in ats_configs:
-            future_to_platform[executor.submit(_probe_oraclecloud, ats_configs["oraclecloud"], existing_urls)] = "Oracle Cloud HCM"
-        if "careerplug" in ats_configs:
-            future_to_platform[executor.submit(_probe_careerplug, ats_configs["careerplug"], existing_urls)] = "CareerPlug"
-        if "ultipro" in ats_configs:
-            future_to_platform[executor.submit(_probe_ultipro, ats_configs["ultipro"], existing_urls)] = "Ultipro"
+    plan: list[tuple[str, str]] = []
+    for platform, ids in watch.items():
+        probe = PROBES.get(platform)
+        if probe is None:
+            logging.warning("No probe implemented for %s (%d ids)", platform, len(ids))
+            continue
+        items = sorted(ids)
+        if args.max_per_platform:
+            items = items[: args.max_per_platform]
+        plan.extend((platform, i) for i in items)
 
-        for future in concurrent.futures.as_completed(future_to_platform):
-            platform = future_to_platform[future]
+    logging.info(
+        "Watchlist: %s — %d boards",
+        ", ".join(f"{k}={len(v)}" for k, v in sorted(watch.items())),
+        len(plan),
+    )
+    if not plan:
+        logging.warning("Empty watchlist — nothing to probe")
+        return 0
+
+    known = known_urls()
+    logging.info("Known corpus URLs: %d", len(known))
+
+    found: list[dict] = []
+    per_platform: Counter = Counter()
+    empty_boards: dict[str, int] = defaultdict(int)
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
+        futures = {ex.submit(PROBES[p], ident): (p, ident) for p, ident in plan}
+        for fut in concurrent.futures.as_completed(futures):
+            platform, ident = futures[fut]
             try:
-                new_jobs = future.result()
-                all_new_jobs.extend(new_jobs)
-                logger.info(f"Found {len(new_jobs)} new jobs from {platform}.")
-            except Exception as exc:
-                logger.error(f"{platform} generated an exception: {exc}")
+                rows = fut.result() or []
+            except Exception as exc:  # noqa: BLE001
+                logging.warning("%s/%s raised: %s", platform, ident, exc)
+                empty_boards[platform] += 1
+                continue
+            kept = 0
+            for row in rows:
+                if url_key(row["url"]) in known:
+                    continue
+                known.add(url_key(row["url"]))
+                found.append(row)
+                kept += 1
+            per_platform[platform] += kept
+            if kept == 0:
+                empty_boards[platform] += 1
 
-    if all_new_jobs:
-        today_str = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
-        if not args.dry_run:
-            _write_inbox_file(all_new_jobs, today_str)
-        else:
-            logger.info(f"Dry run: Would have written {len(all_new_jobs)} jobs to inbox.")
+    logging.info(
+        "Probe result: %d net-new rows — %s",
+        len(found),
+        ", ".join(f"{k}={v}" for k, v in sorted(per_platform.items())) or "none",
+    )
+    for platform, count in sorted(empty_boards.items()):
+        logging.info("  %s: %d boards returned nothing", platform, count)
+
+    if not found:
+        logging.info("Nothing new. Elapsed %.1fs", time.time() - started)
+        return 0
+
+    day = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    if args.dry_run:
+        for row in found[:40]:
+            logging.info("  [%s] %s — %s", row["postedDate"], row["company"], row["title"])
+        logging.info("Dry run: %d rows would be written", len(found))
     else:
-        logger.info("No new jobs found during this scan.")
+        path = write_inbox(found, day)
+        logging.info("Wrote %s (%d rows)", path.relative_to(REPO_ROOT), len(found))
 
-    end_time = time.time()
-    logger.info(f"GX10 Job Runner finished in {end_time - start_time:.2f} seconds.")
+    logging.info("Done in %.1fs", time.time() - started)
     return 0
 
+
 if __name__ == "__main__":
-    import sys
     sys.exit(main())
