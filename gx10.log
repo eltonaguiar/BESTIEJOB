@@ -35,3 +35,294 @@
 2026-11-05 18:39:21,369 - INFO - Found 1 new jobs from Oracle Cloud HCM.
 2026-11-05 18:39:21,370 - INFO - Dry run: Would have written 517 jobs to inbox.
 2026-11-05 18:39:21,370 - INFO - GX10 Job Runner finished in 1.22 seconds.
+2026-11-05 18:41:01,261 INFO gx10 runner start (dry_run=True)
+2026-11-05 18:41:01,281 INFO Mined 14363 URLs from 116 files
+2026-11-05 18:41:01,281 WARNING No probe implemented for ultipro (1 ids)
+2026-11-05 18:41:01,281 WARNING No probe implemented for careerplug (1 ids)
+2026-11-05 18:41:01,281 INFO Watchlist: ashby=10, careerplug=1, greenhouse=12, icims=1, lever=9, oracle=2, smartrecruiters=5, ultipro=1, workday=33 — 72 boards
+2026-11-05 18:41:01,307 INFO Known corpus URLs: 2912
+2026-11-05 18:41:01,353 DEBUG Starting new HTTPS connection (1): agf.wd3:443
+2026-11-05 18:41:01,353 DEBUG Starting new HTTPS connection (1): api.smartrecruiters.com:443
+2026-11-05 18:41:01,355 DEBUG Starting new HTTPS connection (1): altusgroup.wd3:443
+2026-11-05 18:41:01,356 DEBUG Starting new HTTPS connection (1): availity.wd5:443
+2026-11-05 18:41:01,357 DEBUG Starting new HTTPS connection (1): api.smartrecruiters.com:443
+2026-11-05 18:41:01,357 DEBUG Starting new HTTPS connection (1): api.smartrecruiters.com:443
+2026-11-05 18:41:01,357 DEBUG Starting new HTTPS connection (1): bmo.wd3:443
+2026-11-05 18:41:01,357 DEBUG Starting new HTTPS connection (1): api.smartrecruiters.com:443
+2026-11-05 18:41:01,357 DEBUG Starting new HTTPS connection (1): accenture.wd103:443
+2026-11-05 18:41:01,358 DEBUG Starting new HTTPS connection (1): api.smartrecruiters.com:443
+2026-11-05 18:41:01,445 DEBUG POST failed https://altusgroup.wd3/wday/cxs/altusgroup/AltusGroup/jobs: HTTPSConnectionPool(host='altusgroup.wd3', port=443): Max retries exceeded with url: /wday/cxs/altusgroup/AltusGroup/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd51c0>: Failed to resolve 'altusgroup.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,446 DEBUG Starting new HTTPS connection (1): altusgroup.wd3:443
+2026-11-05 18:41:01,481 DEBUG POST failed https://accenture.wd103/wday/cxs/accenture/AccentureCareers/jobs: HTTPSConnectionPool(host='accenture.wd103', port=443): Max retries exceeded with url: /wday/cxs/accenture/AccentureCareers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd6900>: Failed to resolve 'accenture.wd103' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,481 DEBUG POST failed https://agf.wd3/wday/cxs/agf/AGF_Careers/jobs: HTTPSConnectionPool(host='agf.wd3', port=443): Max retries exceeded with url: /wday/cxs/agf/AGF_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd43b0>: Failed to resolve 'agf.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,482 DEBUG POST failed https://availity.wd5/wday/cxs/availity/Availity_Careers_US/jobs: HTTPSConnectionPool(host='availity.wd5', port=443): Max retries exceeded with url: /wday/cxs/availity/Availity_Careers_US/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd5c70>: Failed to resolve 'availity.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,482 DEBUG Starting new HTTPS connection (1): accenture.wd103:443
+2026-11-05 18:41:01,483 DEBUG Starting new HTTPS connection (1): agf.wd3:443
+2026-11-05 18:41:01,483 DEBUG Starting new HTTPS connection (1): availity.wd5:443
+2026-11-05 18:41:01,486 DEBUG POST failed https://bmo.wd3/wday/cxs/bmo/External/jobs: HTTPSConnectionPool(host='bmo.wd3', port=443): Max retries exceeded with url: /wday/cxs/bmo/External/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd65a0>: Failed to resolve 'bmo.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,486 DEBUG Starting new HTTPS connection (2): bmo.wd3:443
+2026-11-05 18:41:01,507 DEBUG POST failed https://altusgroup.wd3/wday/cxs/altusgroup/AltusGroup/jobs: HTTPSConnectionPool(host='altusgroup.wd3', port=443): Max retries exceeded with url: /wday/cxs/altusgroup/AltusGroup/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd74a0>: Failed to resolve 'altusgroup.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,507 DEBUG Starting new HTTPS connection (1): brookfield.wd5:443
+2026-11-05 18:41:01,521 DEBUG POST failed https://availity.wd5/wday/cxs/availity/Availity_Careers_US/jobs: HTTPSConnectionPool(host='availity.wd5', port=443): Max retries exceeded with url: /wday/cxs/availity/Availity_Careers_US/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d004a0>: Failed to resolve 'availity.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,522 DEBUG Starting new HTTPS connection (2): brookfield.wd5:443
+2026-11-05 18:41:01,537 DEBUG POST failed https://agf.wd3/wday/cxs/agf/AGF_Careers/jobs: HTTPSConnectionPool(host='agf.wd3', port=443): Max retries exceeded with url: /wday/cxs/agf/AGF_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd7fb0>: Failed to resolve 'agf.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,538 DEBUG Starting new HTTPS connection (1): caatpension.wd10:443
+2026-11-05 18:41:01,555 DEBUG POST failed https://bmo.wd3/wday/cxs/bmo/External/jobs: HTTPSConnectionPool(host='bmo.wd3', port=443): Max retries exceeded with url: /wday/cxs/bmo/External/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d009b0>: Failed to resolve 'bmo.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,555 DEBUG Starting new HTTPS connection (1): canadiantirecorporation.wd3:443
+2026-11-05 18:41:01,596 DEBUG POST failed https://accenture.wd103/wday/cxs/accenture/AccentureCareers/jobs: HTTPSConnectionPool(host='accenture.wd103', port=443): Max retries exceeded with url: /wday/cxs/accenture/AccentureCareers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd7ec0>: Failed to resolve 'accenture.wd103' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,596 DEBUG Starting new HTTPS connection (1): ci.wd3:443
+2026-11-05 18:41:01,611 DEBUG POST failed https://brookfield.wd5/wday/cxs/brookfield/brookfieldproperties/jobs: HTTPSConnectionPool(host='brookfield.wd5', port=443): Max retries exceeded with url: /wday/cxs/brookfield/brookfieldproperties/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7b00402b3e0>: Failed to resolve 'brookfield.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,611 DEBUG POST failed https://brookfield.wd5/wday/cxs/brookfield/brookfield/jobs: HTTPSConnectionPool(host='brookfield.wd5', port=443): Max retries exceeded with url: /wday/cxs/brookfield/brookfield/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1ea7d10>: Failed to resolve 'brookfield.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,611 DEBUG Starting new HTTPS connection (3): brookfield.wd5:443
+2026-11-05 18:41:01,612 DEBUG Starting new HTTPS connection (4): brookfield.wd5:443
+2026-11-05 18:41:01,620 DEBUG POST failed https://canadiantirecorporation.wd3/wday/cxs/canadiantirecorporation/Enterprise_External_Careers_Site/jobs: HTTPSConnectionPool(host='canadiantirecorporation.wd3', port=443): Max retries exceeded with url: /wday/cxs/canadiantirecorporation/Enterprise_External_Careers_Site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd4200>: Failed to resolve 'canadiantirecorporation.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,621 DEBUG Starting new HTTPS connection (2): canadiantirecorporation.wd3:443
+2026-11-05 18:41:01,680 DEBUG POST failed https://brookfield.wd5/wday/cxs/brookfield/brookfieldproperties/jobs: HTTPSConnectionPool(host='brookfield.wd5', port=443): Max retries exceeded with url: /wday/cxs/brookfield/brookfieldproperties/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd4f50>: Failed to resolve 'brookfield.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,680 DEBUG POST failed https://brookfield.wd5/wday/cxs/brookfield/brookfield/jobs: HTTPSConnectionPool(host='brookfield.wd5', port=443): Max retries exceeded with url: /wday/cxs/brookfield/brookfield/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d00cb0>: Failed to resolve 'brookfield.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,681 DEBUG POST failed https://caatpension.wd10/wday/cxs/caatpension/Careers/jobs: HTTPSConnectionPool(host='caatpension.wd10', port=443): Max retries exceeded with url: /wday/cxs/caatpension/Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd4cb0>: Failed to resolve 'caatpension.wd10' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,681 DEBUG Starting new HTTPS connection (1): cibc.wd3:443
+2026-11-05 18:41:01,682 DEBUG Starting new HTTPS connection (2): caatpension.wd10:443
+2026-11-05 18:41:01,682 DEBUG Starting new HTTPS connection (1): danaher.wd1:443
+2026-11-05 18:41:01,682 DEBUG POST failed https://ci.wd3/wday/cxs/ci/CI_FINANCIAL_EXTERNAL_CAREER-SITE/jobs: HTTPSConnectionPool(host='ci.wd3', port=443): Max retries exceeded with url: /wday/cxs/ci/CI_FINANCIAL_EXTERNAL_CAREER-SITE/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd4680>: Failed to resolve 'ci.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,683 DEBUG Starting new HTTPS connection (2): ci.wd3:443
+2026-11-05 18:41:01,698 DEBUG POST failed https://canadiantirecorporation.wd3/wday/cxs/canadiantirecorporation/Enterprise_External_Careers_Site/jobs: HTTPSConnectionPool(host='canadiantirecorporation.wd3', port=443): Max retries exceeded with url: /wday/cxs/canadiantirecorporation/Enterprise_External_Careers_Site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d00fb0>: Failed to resolve 'canadiantirecorporation.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,698 DEBUG Starting new HTTPS connection (1): dxctechnology.wd1:443
+2026-11-05 18:41:01,741 DEBUG POST failed https://danaher.wd1/wday/cxs/danaher/DanaherJobs/jobs: HTTPSConnectionPool(host='danaher.wd1', port=443): Max retries exceeded with url: /wday/cxs/danaher/DanaherJobs/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd5550>: Failed to resolve 'danaher.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,742 DEBUG Starting new HTTPS connection (2): danaher.wd1:443
+2026-11-05 18:41:01,753 DEBUG POST failed https://caatpension.wd10/wday/cxs/caatpension/Careers/jobs: HTTPSConnectionPool(host='caatpension.wd10', port=443): Max retries exceeded with url: /wday/cxs/caatpension/Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd7e60>: Failed to resolve 'caatpension.wd10' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,754 DEBUG Starting new HTTPS connection (1): gdit.wd5:443
+2026-11-05 18:41:01,760 DEBUG POST failed https://ci.wd3/wday/cxs/ci/CI_FINANCIAL_EXTERNAL_CAREER-SITE/jobs: HTTPSConnectionPool(host='ci.wd3', port=443): Max retries exceeded with url: /wday/cxs/ci/CI_FINANCIAL_EXTERNAL_CAREER-SITE/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd7b00>: Failed to resolve 'ci.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,760 DEBUG Starting new HTTPS connection (1): harriscomputer.wd3:443
+2026-11-05 18:41:01,774 DEBUG POST failed https://danaher.wd1/wday/cxs/danaher/DanaherJobs/jobs: HTTPSConnectionPool(host='danaher.wd1', port=443): Max retries exceeded with url: /wday/cxs/danaher/DanaherJobs/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d01220>: Failed to resolve 'danaher.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,775 DEBUG Starting new HTTPS connection (1): huron.wd1:443
+2026-11-05 18:41:01,800 DEBUG POST failed https://cibc.wd3/wday/cxs/cibc/search/jobs: HTTPSConnectionPool(host='cibc.wd3', port=443): Max retries exceeded with url: /wday/cxs/cibc/search/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7b00402b3e0>: Failed to resolve 'cibc.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,800 DEBUG Starting new HTTPS connection (2): cibc.wd3:443
+2026-11-05 18:41:01,800 DEBUG POST failed https://dxctechnology.wd1/wday/cxs/dxctechnology/DXCJobs/jobs: HTTPSConnectionPool(host='dxctechnology.wd1', port=443): Max retries exceeded with url: /wday/cxs/dxctechnology/DXCJobs/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd79e0>: Failed to resolve 'dxctechnology.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,801 DEBUG Starting new HTTPS connection (2): dxctechnology.wd1:443
+2026-11-05 18:41:01,856 DEBUG POST failed https://harriscomputer.wd3/wday/cxs/harriscomputer/1/jobs: HTTPSConnectionPool(host='harriscomputer.wd3', port=443): Max retries exceeded with url: /wday/cxs/harriscomputer/1/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d00290>: Failed to resolve 'harriscomputer.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,856 DEBUG POST failed https://gdit.wd5/wday/cxs/gdit/External_Career_Site/jobs: HTTPSConnectionPool(host='gdit.wd5', port=443): Max retries exceeded with url: /wday/cxs/gdit/External_Career_Site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd7c50>: Failed to resolve 'gdit.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,857 DEBUG Starting new HTTPS connection (2): harriscomputer.wd3:443
+2026-11-05 18:41:01,857 DEBUG Starting new HTTPS connection (2): gdit.wd5:443
+2026-11-05 18:41:01,859 DEBUG https://api.smartrecruiters.com:443 "GET /v1/companies/ServiceNow/postings?limit=100 HTTP/1.1" 200 None
+2026-11-05 18:41:01,864 DEBUG POST failed https://cibc.wd3/wday/cxs/cibc/search/jobs: HTTPSConnectionPool(host='cibc.wd3', port=443): Max retries exceeded with url: /wday/cxs/cibc/search/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d01970>: Failed to resolve 'cibc.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,867 DEBUG Starting new HTTPS connection (1): icf.wd5:443
+2026-11-05 18:41:01,870 DEBUG Starting new HTTPS connection (1): iko.wd3:443
+2026-11-05 18:41:01,870 DEBUG POST failed https://dxctechnology.wd1/wday/cxs/dxctechnology/DXCJobs/jobs: HTTPSConnectionPool(host='dxctechnology.wd1', port=443): Max retries exceeded with url: /wday/cxs/dxctechnology/DXCJobs/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d01ee0>: Failed to resolve 'dxctechnology.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,870 DEBUG POST failed https://harriscomputer.wd3/wday/cxs/harriscomputer/1/jobs: HTTPSConnectionPool(host='harriscomputer.wd3', port=443): Max retries exceeded with url: /wday/cxs/harriscomputer/1/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe20b38f0>: Failed to resolve 'harriscomputer.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,870 DEBUG Starting new HTTPS connection (1): irvingoil.wd3:443
+2026-11-05 18:41:01,871 DEBUG Starting new HTTPS connection (1): interac.wd3:443
+2026-11-05 18:41:01,871 DEBUG https://api.smartrecruiters.com:443 "GET /v1/companies/Spruceinfotech2/postings?limit=100 HTTP/1.1" 200 None
+2026-11-05 18:41:01,873 DEBUG Starting new HTTPS connection (1): mckesson.wd3:443
+2026-11-05 18:41:01,883 DEBUG https://api.smartrecruiters.com:443 "GET /v1/companies/systemCanadaTechnologies/postings?limit=100 HTTP/1.1" 200 None
+2026-11-05 18:41:01,888 DEBUG POST failed https://huron.wd1/wday/cxs/huron/huroncareers/jobs: HTTPSConnectionPool(host='huron.wd1', port=443): Max retries exceeded with url: /wday/cxs/huron/huroncareers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1cd5be0>: Failed to resolve 'huron.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:01,888 DEBUG Starting new HTTPS connection (1): medcan.wd10:443
+2026-11-05 18:41:01,889 DEBUG Starting new HTTPS connection (1): huron.wd1:443
+2026-11-05 18:41:01,915 DEBUG https://api.smartrecruiters.com:443 "GET /v1/companies/SpectrumHealthCare/postings?limit=100 HTTP/1.1" 200 None
+2026-11-05 18:41:01,919 DEBUG https://api.smartrecruiters.com:443 "GET /v1/companies/SATechnologiesInc4/postings?limit=100 HTTP/1.1" 200 None
+2026-11-05 18:41:01,923 DEBUG Starting new HTTPS connection (1): moneris.wd3:443
+2026-11-05 18:41:01,925 DEBUG Starting new HTTPS connection (1): omers.wd3:443
+2026-11-05 18:41:02,013 DEBUG POST failed https://gdit.wd5/wday/cxs/gdit/External_Career_Site/jobs: HTTPSConnectionPool(host='gdit.wd5', port=443): Max retries exceeded with url: /wday/cxs/gdit/External_Career_Site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1ea7740>: Failed to resolve 'gdit.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,013 DEBUG POST failed https://mckesson.wd3/wday/cxs/mckesson/External_Careers/jobs: HTTPSConnectionPool(host='mckesson.wd3', port=443): Max retries exceeded with url: /wday/cxs/mckesson/External_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9ea20>: Failed to resolve 'mckesson.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,014 DEBUG Starting new HTTPS connection (2): mckesson.wd3:443
+2026-11-05 18:41:02,014 DEBUG Starting new HTTPS connection (1): resolvetech.wd1:443
+2026-11-05 18:41:02,014 DEBUG POST failed https://huron.wd1/wday/cxs/huron/huroncareers/jobs: HTTPSConnectionPool(host='huron.wd1', port=443): Max retries exceeded with url: /wday/cxs/huron/huroncareers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe203aba0>: Failed to resolve 'huron.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,015 DEBUG Starting new HTTPS connection (1): salesforce.wd12:443
+2026-11-05 18:41:02,028 DEBUG POST failed https://interac.wd3/wday/cxs/interac/Interac/jobs: HTTPSConnectionPool(host='interac.wd3', port=443): Max retries exceeded with url: /wday/cxs/interac/Interac/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9d220>: Failed to resolve 'interac.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,028 DEBUG Starting new HTTPS connection (2): interac.wd3:443
+2026-11-05 18:41:02,040 DEBUG POST failed https://icf.wd5/wday/cxs/icf/icfexternal_career_site/jobs: HTTPSConnectionPool(host='icf.wd5', port=443): Max retries exceeded with url: /wday/cxs/icf/icfexternal_career_site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7b00402b3e0>: Failed to resolve 'icf.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,041 DEBUG Starting new HTTPS connection (1): icf.wd5:443
+2026-11-05 18:41:02,054 DEBUG POST failed https://irvingoil.wd3/wday/cxs/irvingoil/IOL_Careers_Primary/jobs: HTTPSConnectionPool(host='irvingoil.wd3', port=443): Max retries exceeded with url: /wday/cxs/irvingoil/IOL_Careers_Primary/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9d100>: Failed to resolve 'irvingoil.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,055 DEBUG Starting new HTTPS connection (2): irvingoil.wd3:443
+2026-11-05 18:41:02,055 DEBUG POST failed https://iko.wd3/wday/cxs/iko/IKO_Careers/jobs: HTTPSConnectionPool(host='iko.wd3', port=443): Max retries exceeded with url: /wday/cxs/iko/IKO_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9c320>: Failed to resolve 'iko.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,056 DEBUG Starting new HTTPS connection (1): iko.wd3:443
+2026-11-05 18:41:02,116 DEBUG POST failed https://moneris.wd3/wday/cxs/moneris/Moneris/jobs: HTTPSConnectionPool(host='moneris.wd3', port=443): Max retries exceeded with url: /wday/cxs/moneris/Moneris/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9dca0>: Failed to resolve 'moneris.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,116 DEBUG Starting new HTTPS connection (2): moneris.wd3:443
+2026-11-05 18:41:02,117 DEBUG POST failed https://medcan.wd10/wday/cxs/medcan/medcan/jobs: HTTPSConnectionPool(host='medcan.wd10', port=443): Max retries exceeded with url: /wday/cxs/medcan/medcan/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1ba46b0>: Failed to resolve 'medcan.wd10' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,117 DEBUG Starting new HTTPS connection (1): medcan.wd10:443
+2026-11-05 18:41:02,142 DEBUG POST failed https://omers.wd3/wday/cxs/omers/OMERS_External/jobs: HTTPSConnectionPool(host='omers.wd3', port=443): Max retries exceeded with url: /wday/cxs/omers/OMERS_External/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9e510>: Failed to resolve 'omers.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,142 DEBUG Starting new HTTPS connection (2): omers.wd3:443
+2026-11-05 18:41:02,146 DEBUG POST failed https://iko.wd3/wday/cxs/iko/IKO_Careers/jobs: HTTPSConnectionPool(host='iko.wd3', port=443): Max retries exceeded with url: /wday/cxs/iko/IKO_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1fea6f0>: Failed to resolve 'iko.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,147 DEBUG POST failed https://mckesson.wd3/wday/cxs/mckesson/External_Careers/jobs: HTTPSConnectionPool(host='mckesson.wd3', port=443): Max retries exceeded with url: /wday/cxs/mckesson/External_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9ed80>: Failed to resolve 'mckesson.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,147 DEBUG Starting new HTTPS connection (2): salesforce.wd12:443
+2026-11-05 18:41:02,147 DEBUG Starting new HTTPS connection (1): salvationarmyca.wd3:443
+2026-11-05 18:41:02,158 DEBUG POST failed https://interac.wd3/wday/cxs/interac/Interac/jobs: HTTPSConnectionPool(host='interac.wd3', port=443): Max retries exceeded with url: /wday/cxs/interac/Interac/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9f950>: Failed to resolve 'interac.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,159 DEBUG Starting new HTTPS connection (1): sunlife.wd3:443
+2026-11-05 18:41:02,164 DEBUG POST failed https://medcan.wd10/wday/cxs/medcan/medcan/jobs: HTTPSConnectionPool(host='medcan.wd10', port=443): Max retries exceeded with url: /wday/cxs/medcan/medcan/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d01400>: Failed to resolve 'medcan.wd10' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,165 DEBUG Starting new HTTPS connection (1): td.wd3:443
+2026-11-05 18:41:02,195 DEBUG POST failed https://resolvetech.wd1/wday/cxs/resolvetech/RTS/jobs: HTTPSConnectionPool(host='resolvetech.wd1', port=443): Max retries exceeded with url: /wday/cxs/resolvetech/RTS/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9ec90>: Failed to resolve 'resolvetech.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,196 DEBUG Starting new HTTPS connection (1): resolvetech.wd1:443
+2026-11-05 18:41:02,207 DEBUG POST failed https://salesforce.wd12/wday/cxs/salesforce/External_Career_Site/jobs: HTTPSConnectionPool(host='salesforce.wd12', port=443): Max retries exceeded with url: /wday/cxs/salesforce/External_Career_Site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9f5c0>: Failed to resolve 'salesforce.wd12' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,208 DEBUG Starting new HTTPS connection (3): salesforce.wd12:443
+2026-11-05 18:41:02,208 DEBUG POST failed https://irvingoil.wd3/wday/cxs/irvingoil/IOL_Careers_Primary/jobs: HTTPSConnectionPool(host='irvingoil.wd3', port=443): Max retries exceeded with url: /wday/cxs/irvingoil/IOL_Careers_Primary/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9ffe0>: Failed to resolve 'irvingoil.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,208 DEBUG POST failed https://moneris.wd3/wday/cxs/moneris/Moneris/jobs: HTTPSConnectionPool(host='moneris.wd3', port=443): Max retries exceeded with url: /wday/cxs/moneris/Moneris/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d00b60>: Failed to resolve 'moneris.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,209 DEBUG Starting new HTTPS connection (1): thomsonreuters.wd5:443
+2026-11-05 18:41:02,209 DEBUG Starting new HTTPS connection (1): tjx.wd1:443
+2026-11-05 18:41:02,210 DEBUG POST failed https://icf.wd5/wday/cxs/icf/icfexternal_career_site/jobs: HTTPSConnectionPool(host='icf.wd5', port=443): Max retries exceeded with url: /wday/cxs/icf/icfexternal_career_site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9fa70>: Failed to resolve 'icf.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,212 DEBUG Starting new HTTPS connection (1): tmx.wd3:443
+2026-11-05 18:41:02,248 DEBUG POST failed https://omers.wd3/wday/cxs/omers/OMERS_External/jobs: HTTPSConnectionPool(host='omers.wd3', port=443): Max retries exceeded with url: /wday/cxs/omers/OMERS_External/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe203bd10>: Failed to resolve 'omers.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,248 DEBUG Starting new HTTPS connection (1): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,285 DEBUG POST failed https://salesforce.wd12/wday/cxs/salesforce/external_career_site/jobs: HTTPSConnectionPool(host='salesforce.wd12', port=443): Max retries exceeded with url: /wday/cxs/salesforce/external_career_site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9c590>: Failed to resolve 'salesforce.wd12' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,285 DEBUG POST failed https://salvationarmyca.wd3/wday/cxs/salvationarmyca/tsacb/jobs: HTTPSConnectionPool(host='salvationarmyca.wd3', port=443): Max retries exceeded with url: /wday/cxs/salvationarmyca/tsacb/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9cd70>: Failed to resolve 'salvationarmyca.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,285 DEBUG Starting new HTTPS connection (4): salesforce.wd12:443
+2026-11-05 18:41:02,286 DEBUG POST failed https://sunlife.wd3/wday/cxs/sunlife/Experienced-Jobs/jobs: HTTPSConnectionPool(host='sunlife.wd3', port=443): Max retries exceeded with url: /wday/cxs/sunlife/Experienced-Jobs/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9d220>: Failed to resolve 'sunlife.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,286 DEBUG Starting new HTTPS connection (2): salvationarmyca.wd3:443
+2026-11-05 18:41:02,286 DEBUG Starting new HTTPS connection (2): sunlife.wd3:443
+2026-11-05 18:41:02,299 DEBUG POST failed https://salesforce.wd12/wday/cxs/salesforce/External_Career_Site/jobs: HTTPSConnectionPool(host='salesforce.wd12', port=443): Max retries exceeded with url: /wday/cxs/salesforce/External_Career_Site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d02450>: Failed to resolve 'salesforce.wd12' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,299 DEBUG Starting new HTTPS connection (2): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,324 DEBUG POST failed https://thomsonreuters.wd5/wday/cxs/thomsonreuters/External_Career_Site/jobs: HTTPSConnectionPool(host='thomsonreuters.wd5', port=443): Max retries exceeded with url: /wday/cxs/thomsonreuters/External_Career_Site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9e360>: Failed to resolve 'thomsonreuters.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,325 DEBUG Starting new HTTPS connection (2): thomsonreuters.wd5:443
+2026-11-05 18:41:02,326 DEBUG POST failed https://resolvetech.wd1/wday/cxs/resolvetech/RTS/jobs: HTTPSConnectionPool(host='resolvetech.wd1', port=443): Max retries exceeded with url: /wday/cxs/resolvetech/RTS/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d00fb0>: Failed to resolve 'resolvetech.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,326 DEBUG POST failed https://td.wd3/wday/cxs/td/TD_Bank_Careers/jobs: HTTPSConnectionPool(host='td.wd3', port=443): Max retries exceeded with url: /wday/cxs/td/TD_Bank_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d004a0>: Failed to resolve 'td.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,326 DEBUG Starting new HTTPS connection (3): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,326 DEBUG Starting new HTTPS connection (2): td.wd3:443
+2026-11-05 18:41:02,346 DEBUG POST failed https://salesforce.wd12/wday/cxs/salesforce/external_career_site/jobs: HTTPSConnectionPool(host='salesforce.wd12', port=443): Max retries exceeded with url: /wday/cxs/salesforce/external_career_site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9eba0>: Failed to resolve 'salesforce.wd12' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,347 DEBUG Starting new HTTPS connection (4): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,348 DEBUG POST failed https://tjx.wd1/wday/cxs/tjx/TJX_EXTERNAL/jobs: HTTPSConnectionPool(host='tjx.wd1', port=443): Max retries exceeded with url: /wday/cxs/tjx/TJX_EXTERNAL/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d02c30>: Failed to resolve 'tjx.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,349 DEBUG Starting new HTTPS connection (2): tjx.wd1:443
+2026-11-05 18:41:02,350 DEBUG POST failed https://tmx.wd3/wday/cxs/tmx/TMX_Careers/jobs: HTTPSConnectionPool(host='tmx.wd3', port=443): Max retries exceeded with url: /wday/cxs/tmx/TMX_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9d460>: Failed to resolve 'tmx.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,351 DEBUG Starting new HTTPS connection (2): tmx.wd3:443
+2026-11-05 18:41:02,370 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/9thwayinsignia/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,399 DEBUG POST failed https://thomsonreuters.wd5/wday/cxs/thomsonreuters/External_Career_Site/jobs: HTTPSConnectionPool(host='thomsonreuters.wd5', port=443): Max retries exceeded with url: /wday/cxs/thomsonreuters/External_Career_Site/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9f170>: Failed to resolve 'thomsonreuters.wd5' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,399 DEBUG Starting new HTTPS connection (5): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,402 DEBUG POST failed https://tjx.wd1/wday/cxs/tjx/TJX_EXTERNAL/jobs: HTTPSConnectionPool(host='tjx.wd1', port=443): Max retries exceeded with url: /wday/cxs/tjx/TJX_EXTERNAL/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7b003de4f80>: Failed to resolve 'tjx.wd1' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,403 DEBUG Starting new HTTPS connection (6): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,406 DEBUG POST failed https://tmx.wd3/wday/cxs/tmx/TMX_Careers/jobs: HTTPSConnectionPool(host='tmx.wd3', port=443): Max retries exceeded with url: /wday/cxs/tmx/TMX_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d02990>: Failed to resolve 'tmx.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,407 DEBUG Starting new HTTPS connection (7): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,410 DEBUG POST failed https://salvationarmyca.wd3/wday/cxs/salvationarmyca/tsacb/jobs: HTTPSConnectionPool(host='salvationarmyca.wd3', port=443): Max retries exceeded with url: /wday/cxs/salvationarmyca/tsacb/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9e240>: Failed to resolve 'salvationarmyca.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,410 DEBUG Starting new HTTPS connection (8): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,412 DEBUG POST failed https://sunlife.wd3/wday/cxs/sunlife/Experienced-Jobs/jobs: HTTPSConnectionPool(host='sunlife.wd3', port=443): Max retries exceeded with url: /wday/cxs/sunlife/Experienced-Jobs/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9e1e0>: Failed to resolve 'sunlife.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,413 DEBUG Starting new HTTPS connection (9): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,414 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/etelligentgroup/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,425 DEBUG POST failed https://td.wd3/wday/cxs/td/TD_Bank_Careers/jobs: HTTPSConnectionPool(host='td.wd3', port=443): Max retries exceeded with url: /wday/cxs/td/TD_Bank_Careers/jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7afe1d9d0d0>: Failed to resolve 'td.wd3' ([Errno -2] Name or service not known)"))
+2026-11-05 18:41:02,425 DEBUG Starting new HTTPS connection (10): boards-api.greenhouse.io:443
+2026-11-05 18:41:02,427 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/braze/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,435 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/dscout/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,435 DEBUG Starting new HTTPS connection (1): api.lever.co:443
+2026-11-05 18:41:02,435 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/accenturefederalservices/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,436 DEBUG Starting new HTTPS connection (2): api.lever.co:443
+2026-11-05 18:41:02,455 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/taketwo/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,456 DEBUG Starting new HTTPS connection (3): api.lever.co:443
+2026-11-05 18:41:02,458 DEBUG Starting new HTTPS connection (4): api.lever.co:443
+2026-11-05 18:41:02,538 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/icapitalnetwork/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,542 DEBUG Starting new HTTPS connection (5): api.lever.co:443
+2026-11-05 18:41:02,548 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/lightfeatheriollc/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,548 DEBUG Starting new HTTPS connection (6): api.lever.co:443
+2026-11-05 18:41:02,549 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/kensingtontours/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,550 DEBUG Starting new HTTPS connection (7): api.lever.co:443
+2026-11-05 18:41:02,553 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/okta/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,561 DEBUG Starting new HTTPS connection (8): api.lever.co:443
+2026-11-05 18:41:02,561 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/neuraflash/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,561 DEBUG https://boards-api.greenhouse.io:443 "GET /v1/boards/zoominfo/jobs HTTP/1.1" 200 None
+2026-11-05 18:41:02,564 DEBUG Starting new HTTPS connection (1): iadyup.fa.ocs.oraclecloud.com:443
+2026-11-05 18:41:02,564 DEBUG Starting new HTTPS connection (9): api.lever.co:443
+2026-11-05 18:41:02,765 DEBUG https://iadyup.fa.ocs.oraclecloud.com:443 "GET /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1001,keyword=ServiceNow,limit=25,offset=0,sortBy=POSTING_DATES_DESC HTTP/1.1" 200 779
+2026-11-05 18:41:02,919 DEBUG https://iadyup.fa.ocs.oraclecloud.com:443 "GET /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1001,keyword=Salesforce,limit=25,offset=0,sortBy=POSTING_DATES_DESC HTTP/1.1" 200 778
+2026-11-05 18:41:02,920 DEBUG Starting new HTTPS connection (1): wsib-iaepup.fa.ocs.oraclecloud.com:443
+2026-11-05 18:41:02,967 DEBUG https://api.lever.co:443 "GET /v0/postings/vo2-group?mode=json HTTP/1.1" 200 1109721
+2026-11-05 18:41:03,010 DEBUG https://api.lever.co:443 "GET /v0/postings/immiland-canada-inc?mode=json HTTP/1.1" 200 436488
+2026-11-05 18:41:03,258 DEBUG Starting new HTTPS connection (1): careers-itcfederal.icims.com:443
+2026-11-05 18:41:03,259 DEBUG https://api.lever.co:443 "GET /v0/postings/pointclickcare?mode=json HTTP/1.1" 200 2816998
+2026-11-05 18:41:03,286 DEBUG https://api.lever.co:443 "GET /v0/postings/alimentiv-2?mode=json HTTP/1.1" 200 703013
+2026-11-05 18:41:03,295 DEBUG Starting new HTTPS connection (1): api.ashbyhq.com:443
+2026-11-05 18:41:03,372 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/1password?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,400 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/abacum?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,425 DEBUG https://wsib-iaepup.fa.ocs.oraclecloud.com:443 "GET /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1001,keyword=ServiceNow,limit=25,offset=0,sortBy=POSTING_DATES_DESC HTTP/1.1" 200 1445
+2026-11-05 18:41:03,425 DEBUG Starting new HTTPS connection (2): api.ashbyhq.com:443
+2026-11-05 18:41:03,433 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/benevity?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,442 DEBUG https://careers-itcfederal.icims.com:443 "GET /jobs/search?ss=1&searchKeyword=ServiceNow HTTP/1.1" 200 None
+2026-11-05 18:41:03,452 DEBUG Starting new HTTPS connection (3): api.ashbyhq.com:443
+2026-11-05 18:41:03,457 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/directive?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,487 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/cohere?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,504 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/docebo?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,523 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/loopio?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,524 DEBUG Starting new HTTPS connection (4): api.ashbyhq.com:443
+2026-11-05 18:41:03,530 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/lightspeedhq?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,546 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/moego?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,551 DEBUG https://api.lever.co:443 "GET /v0/postings/versapay?mode=json HTTP/1.1" 200 369054
+2026-11-05 18:41:03,574 DEBUG https://api.ashbyhq.com:443 "GET /posting-api/job-board/webflow?includeCompensation=true HTTP/1.1" 200 None
+2026-11-05 18:41:03,676 DEBUG https://api.lever.co:443 "GET /v0/postings/elfbeauty?mode=json HTTP/1.1" 200 1245487
+2026-11-05 18:41:14,679 DEBUG https://api.lever.co:443 "GET /v0/postings/ttecdigital?mode=json HTTP/1.1" 200 1232112
+2026-11-05 18:41:27,723 DEBUG GET failed https://api.lever.co/v0/postings/eqbank?mode=json: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=25)
+2026-11-05 18:41:27,752 DEBUG GET failed https://api.lever.co/v0/postings/jobgether?mode=json: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=25)
+2026-11-05 18:41:27,753 INFO Probe result: 180 net-new rows — ashby=6, greenhouse=137, icims=0, lever=27, oracle=0, smartrecruiters=10, workday=0
+2026-11-05 18:41:27,753 INFO   ashby: 8 boards returned nothing
+2026-11-05 18:41:27,753 INFO   greenhouse: 4 boards returned nothing
+2026-11-05 18:41:27,753 INFO   icims: 1 boards returned nothing
+2026-11-05 18:41:27,753 INFO   lever: 5 boards returned nothing
+2026-11-05 18:41:27,754 INFO   oracle: 2 boards returned nothing
+2026-11-05 18:41:27,754 INFO   smartrecruiters: 1 boards returned nothing
+2026-11-05 18:41:27,754 INFO   workday: 33 boards returned nothing
+2026-11-05 18:41:27,754 INFO   [2026-11-05] ServiceNow — Senior DevOps Engineer (Kubernetes) - Federal
+2026-11-05 18:41:27,754 INFO   [2026-11-04] ServiceNow — Senior DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-11-04] ServiceNow — CRM Specialist Account Executive, CPQ
+2026-11-05 18:41:27,754 INFO   [2026-11-03] ServiceNow — Engineering Manager, DevOps - Moveworks
+2026-11-05 18:41:27,754 INFO   [2026-11-03] ServiceNow — Key Account Director - CRM ( CPQ)
+2026-11-05 18:41:27,754 INFO   [2025-07-28] Spruceinfotech2 — Salesforce Business Systems Analyst (BSA)
+2026-11-05 18:41:27,754 INFO   [2014-05-15] systemCanadaTechnologies — SFDC Developer / Analyst ( intermediate level ) - Contract role
+2026-11-05 18:41:27,754 INFO   [2014-04-11] systemCanadaTechnologies — Salesforce Developer & Sales force Architect.
+2026-11-05 18:41:27,754 INFO   [2017-05-17] SATechnologiesInc4 — Project Manager (Salesforce)
+2026-11-05 18:41:27,754 INFO   [2017-04-11] SATechnologiesInc4 — DevOps Specialist
+2026-11-05 18:41:27,754 INFO   [2026-10-23] dscout — Senior DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — AI Augmented Full Stack Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — AI/ML Full Stack Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — Angular Full Stack Developer
+2026-11-05 18:41:27,754 INFO   [2026-10-30] accenturefederalservices — Azure Infrastructure & DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-16] accenturefederalservices — Cleared DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-27] accenturefederalservices — Cleared DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — Cleared Full Stack Developer
+2026-11-05 18:41:27,754 INFO   [2026-10-19] accenturefederalservices — Cloud DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-11-02] accenturefederalservices — Cloud DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — Cloud DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — Cloud DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-14] accenturefederalservices — Cloud DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-15] accenturefederalservices — Custom Dev/DevOps Developer
+2026-11-05 18:41:27,754 INFO   [2026-11-03] accenturefederalservices — D365 Power Platform Technical Architect Lead
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — DevOps Architect
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — DevOps Cloud Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-23] accenturefederalservices — DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — DevOps Engineer
+2026-11-05 18:41:27,754 INFO   [2026-10-12] accenturefederalservices — DevOps Engineer
+2026-11-05 18:41:27,755 INFO   [2026-10-12] accenturefederalservices — DevOps Engineer
+2026-11-05 18:41:27,755 INFO   [2026-10-20] accenturefederalservices — DevOps Engineer - Cloud Automation
+2026-11-05 18:41:27,755 INFO   [2026-10-14] accenturefederalservices — DevOps Engineer - Senior
+2026-11-05 18:41:27,755 INFO   [2026-10-12] accenturefederalservices — DevOps/Infrastructure Engineer
+2026-11-05 18:41:27,755 INFO   [2026-10-12] accenturefederalservices — DevOps / Platform Engineer
+2026-11-05 18:41:27,755 INFO   [2026-10-12] accenturefederalservices — Full Stack Developer
+2026-11-05 18:41:27,755 INFO   [2026-10-12] accenturefederalservices — Full Stack Developer
+2026-11-05 18:41:27,755 INFO   [2026-10-12] accenturefederalservices — Full Stack Developer
+2026-11-05 18:41:27,755 INFO Dry run: 180 rows would be written
+2026-11-05 18:41:27,755 INFO Done in 26.5s
+2026-11-05 18:41:34,037 INFO gx10 runner start (dry_run=False)
+2026-11-05 18:41:34,057 INFO Mined 14363 URLs from 116 files
+2026-11-05 18:41:34,057 WARNING No probe implemented for ultipro (1 ids)
+2026-11-05 18:41:34,057 WARNING No probe implemented for careerplug (1 ids)
+2026-11-05 18:41:34,057 INFO Watchlist: ashby=10, careerplug=1, greenhouse=12, icims=1, lever=9, oracle=2, smartrecruiters=5, ultipro=1, workday=33 — 72 boards
+2026-11-05 18:41:34,082 INFO Known corpus URLs: 2912
+2026-11-05 18:41:45,271 INFO Probe result: 279 net-new rows — ashby=6, greenhouse=137, icims=0, lever=126, oracle=0, smartrecruiters=10, workday=0
+2026-11-05 18:41:45,272 INFO   ashby: 8 boards returned nothing
+2026-11-05 18:41:45,272 INFO   greenhouse: 4 boards returned nothing
+2026-11-05 18:41:45,272 INFO   icims: 1 boards returned nothing
+2026-11-05 18:41:45,272 INFO   lever: 5 boards returned nothing
+2026-11-05 18:41:45,272 INFO   oracle: 2 boards returned nothing
+2026-11-05 18:41:45,272 INFO   smartrecruiters: 1 boards returned nothing
+2026-11-05 18:41:45,272 INFO   workday: 33 boards returned nothing
+2026-11-05 18:41:45,273 INFO Wrote inbox/gx10--2026-11-05--v1.md (279 rows)
+2026-11-05 18:41:45,273 INFO Done in 11.2s
+2026-11-05 18:49:40,093 INFO gx10 runner start (dry_run=False)
+2026-11-05 18:49:40,111 INFO Mined 13101 URLs from 117 files
+2026-11-05 18:49:40,111 WARNING No probe implemented for ultipro (1 ids)
+2026-11-05 18:49:40,111 WARNING No probe implemented for careerplug (1 ids)
+2026-11-05 18:49:40,111 INFO Watchlist: ashby=10, careerplug=1, greenhouse=12, icims=1, lever=9, oracle=2, smartrecruiters=5, ultipro=1, workday=33 — 72 boards
+2026-11-05 18:49:40,134 INFO Known corpus URLs: 3188
+2026-11-05 18:49:44,012 INFO Probe result: 16 net-new rows — ashby=0, greenhouse=0, icims=0, lever=16, oracle=0, smartrecruiters=0, workday=0
+2026-11-05 18:49:44,013 INFO   ashby: 10 boards returned nothing
+2026-11-05 18:49:44,013 INFO   greenhouse: 12 boards returned nothing
+2026-11-05 18:49:44,013 INFO   icims: 1 boards returned nothing
+2026-11-05 18:49:44,013 INFO   lever: 8 boards returned nothing
+2026-11-05 18:49:44,013 INFO   oracle: 2 boards returned nothing
+2026-11-05 18:49:44,013 INFO   smartrecruiters: 5 boards returned nothing
+2026-11-05 18:49:44,013 INFO   workday: 33 boards returned nothing
+2026-11-05 18:49:44,013 INFO Wrote inbox/gx10--2026-11-05--v2.md (16 rows)
+2026-11-05 18:49:44,013 INFO Done in 3.9s
