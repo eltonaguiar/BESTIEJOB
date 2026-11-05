@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T204543Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T205218Z.md`.
 
 ## Contents
 
@@ -32,6 +32,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159910447) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobsbycountry.com/job/staff-site-reliability-engineer-canada-protected-b-servicenow744000159519949) | ServiceNow | Toronto, Ontario, Canada | via non-mainstream-harvest--2026-11-05--v1.md |
 | 2026-11-05 | [Sr. Consultant, Value Excellence](https://jobsbycountry.com/job/sr-consultant-value-excellence-servicenow744000158578039) | ServiceNow | Toronto, Ontario, Canada | via non-mainstream-harvest--2026-11-05--v1.md |
+| 2026-11-05 | [ServiceNow SAM Administrator - ITAM](https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764) | BMO | Toronto, Ontario, Canada | via linkedin-round103--2026-11-06--v1.md |
 | 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486753505) | Yochana | Canada |  |
 | 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486757401) | Yochana | Canada |  |
 | 2026-11-05 | [ServiceNow ITOM Specialist](https://www.adzuna.ca/details/5954561186?utm_medium=api&utm_source=54ce986e) | Raise | Saskatoon, Saskatchewan |  |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Developer / Calgary](https://www.jobleads.com/ca/job/servicenow-developer--calgary--e1eedc8da500f785d74021359313819ff) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Developer / CACI / Handshake](https://app.joinhandshake.com/public/jobs/11710643) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [ServiceNow Developer - Stir Consulting Inc. / Career Page](https://careers-page.com/stir-consulting/job/7XW5R785) | Unknown | Canada | 9 |
-| 2026-11-04 | [ServiceNow Developer - Lightspeed Commerce, Inc. / Ottawa, ON](https://www.simplyhired.ca/job/NVNfkNrnv4f-tEd3NdS_3yZpsEiSZOSPLWXovsEy11rK2d_TKi_v1g) | Unknown | Canada | 7 |
 
 </details>
 
@@ -207,6 +207,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-05 | [Salesforce Data Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483) | Enterprise Solutions Inc. | Toronto, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Consultant - FSC Cloud](https://ca.linkedin.com/jobs/view/salesforce-consultant-fsc-cloud-at-enterprise-solutions-inc-4483663839) | Enterprise Solutions Inc. | Toronto, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5954046522) | Altus Group | Canada |  |
+| 2026-11-05 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-campus4tech-4488011817) | Campus4Tech | Canada | via linkedin-round102--2026-11-06--v1.md |
 | 2026-11-05 | [Salesforce BSA](https://www.adzuna.ca/details/5953986381) | Cognizant | Toronto, Ontario |  |
 | 2026-11-05 | [Salesforce Architect](https://martechjobs.io/job/30657/salesforce-architect-at-lyft/) | Lyft | Toronto, Canada | via non-mainstream-harvest--2026-11-05--v1.md |
 | 2026-11-05 | [Salesforce Administrator (Hybrid)](https://www.adzuna.ca/details/5954406900) | Survalent | Mississauga, Peel region |  |
@@ -338,7 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Salesforce Platform Administrator – Hybrid · Calgary, AB / Jobs.ca](https://www.jobs.ca/finning/jobs/salesforce-platform-administrator-calgary-ab-4ac6d84b0d61) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce Platform Administrator at Finning / RevOps Roles](https://revopsroles.com/jobs/33dec6d5-2025-4f1d-a707-e384ae34dfd8) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce Marketing Cloud Engineer II job in Vancouver, British Columbia / Insight Global Careers](https://jobs.insightglobal.com/find_a_job/british-columbia/job-280447/) | Unknown | Canada | 7 |
-| 2026-11-04 | [Salesforce Marketing Cloud Architect in Vancouver, British Columbia - Gallagher](https://ca.trabajo.org/job-4112-5a093783062a0e15a165844785254fa6) | Unknown | Canada | 7 |
 
 </details>
 
@@ -366,6 +366,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-05 | [Senior Full Stack .NET Developer](https://www.adzuna.ca/details/5954395994?utm_medium=api&utm_source=54ce986e) | PEPOLTek LTD | Laval, Laval region | Full stack |
 | 2026-11-05 | [Senior Data Analyst, Live Games](https://www.adzuna.ca/details/5954408838) | Big Viking Games | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Senior Configuration Analyst](https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487232661) | RBC | Calgary, Alberta, Canada | via linkedin-rounds41-50--2026-11-06--v1.md |
+| 2026-11-05 | [Senior Configuration Analyst](https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487249068) | RBC | Vancouver, British Columbia, Canada | via linkedin-round103--2026-11-06--v1.md |
 | 2026-11-05 | [Senior Associate, Business Intelligence & Reporting Developer](https://www.adzuna.ca/details/5953992113?utm_medium=api&utm_source=54ce986e) | MUFG Investor Services | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Senior Associate, Business Intelligence & Reporting Developer](https://www.adzuna.ca/details/5954387116?utm_medium=api&utm_source=54ce986e) | MUFG Investor Services | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Principal Solution Architect](https://jobsbycountry.com/job/principal-solution-architect-servenow744000158575719) | ServiceNow | Toronto, Ontario, Canada | via non-mainstream-harvest--2026-11-05--v1.md |
@@ -499,7 +500,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [Senior Change Management Specialist - Calgary, Alberta / iHireHR](https://www.ihirehr.com/jobs/view/534097708) | Unknown | Canada | 7 |
 | 2026-11-04 | [Senior Change Management Specialist](https://jobr.pro/job/82950268/senior-change-management-specialist) | Unknown | Canada | 8 |
 | 2026-11-04 | [Senior CRM – Software Developer Job - Toronto, ON, Canada (Akkodis)](https://www.iitjobs.com/job/senior-crm-software-developer-toronto-on-canada-342127) | Unknown | Canada | 8 |
-| 2026-11-04 | [Senior CRM Software Developer @ Meridian Credit Union](https://www.tealhq.com/job/senior-crm-software-developer_7ea1a0dcce1d9730036e12f87566471265efb) | Unknown | Canada | 8 |
 
 </details>
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-05T204543Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-05T205218Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
