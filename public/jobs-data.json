@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T17:12:29+00:00",
+ "generatedAt": "2026-11-05T18:15:57+00:00",
  "timezone": "America/Toronto",
- "count": 1740,
+ "count": 1746,
  "appliedHidden": 27,
  "sources": [
   "103.careerplug.com",
@@ -307,6 +307,64 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Senior ServiceNow Developer & Product Owner (Remote)",
+   "company": "Huron Consulting Group",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954561155",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow developer & product owner (remote) huron consulting group toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "ServiceNow Developer",
+   "company": "Rexall",
+   "location": "Toronto, ON",
+   "url": "https://careers.rexall.ca/servicenow-developer/job/37B80470AD0A44355A6D3D8E2EF2E593",
+   "note": "rexall",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.rexall.ca",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer rexall toronto, on careers.rexall.ca servicenow rexall servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5954560026",
+     "label": "Adzuna · Mississauga"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-rexall-pharmacy-group-ltd-4485752549",
+     "label": "LinkedIn · Mississauga"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/4485752549",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
    "title": "ServiceNow Architect",
    "company": "Flexstaf IT",
    "location": "Ontario, Canada",
@@ -497,6 +555,55 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Business Analyst",
+   "company": "Campus4Tech",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-campus4tech-4488011817",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 66,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce business analyst campus4tech canada linkedin salesforce linkedin salesforce consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Technical Architect",
+   "company": "LTM",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560876",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect ltm toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Administrator (Hybrid)",
    "company": "Survalent",
    "location": "Mississauga, Peel region",
@@ -677,6 +784,38 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Solution Architect",
+   "company": "IA Financial Services",
+   "location": "Québec, Canada",
+   "url": "https://www.adzuna.ca/details/5954559999",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce solution architect ia financial services quebec, canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Developer",
    "company": "Versapay",
    "location": "Canada",
@@ -694,6 +833,27 @@
    ],
    "french": false,
    "search": "salesforce developer versapay canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Technical Architect Revenue Cloud CPQ",
+   "company": "Enterprise Solutions Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce technical architect revenue cloud cpq enterprise solutions inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -876,10 +1036,10 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "Développeur en automatisation QA Salesforce",
-   "company": "nesto",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4452435364",
+   "title": "Développeur(euse) Salesforce",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-salesforce-at-ia-financial-group-industrial-alliance-4479589741",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -891,8 +1051,65 @@
     "Canada / remote"
    ],
    "french": true,
-   "search": "developpeur en automatisation qa salesforce nesto canada linkedin salesforce linkedin salesforce canada / remote",
-   "alternates": []
+   "search": "developpeur(euse) salesforce ia financial group (industrial alliance) vancouver, british columbia, canada linkedin salesforce linkedin salesforce canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-salesforce-at-ia-financial-group-industrial-alliance-4479039173",
+     "label": "LinkedIn · Québec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Développeur principal/développeuse principale, Salesforce",
+   "company": "Canadian Cancer Society",
+   "location": "Kelowna, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486855172",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur principal/developpeuse principale, salesforce canadian cancer society kelowna, british columbia, canada linkedin salesforce linkedin salesforce canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486854199",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486838849",
+     "label": "LinkedIn · Québec"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486842632",
+     "label": "LinkedIn · Prince George"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4487010102",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4487009139",
+     "label": "LinkedIn · Halifax"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-05",
@@ -916,6 +1133,47 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Développeur en automatisation QA Salesforce",
+   "company": "nesto",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4452435364",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur en automatisation qa salesforce nesto canada linkedin salesforce linkedin salesforce canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Sr Python Engineer 26-21269",
+   "company": "US Tech Solutions",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954561344",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Data/reporting",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr python engineer 26-21269 us tech solutions toronto, ontario adzuna other adzuna data/reporting role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Director, Governance, Risk &amp; Compliance (GRC)",
    "company": "Robertson &amp; Company Ltd.",
    "location": "Toronto, Ontario, Canada",
@@ -932,6 +1190,112 @@
    ],
    "french": false,
    "search": "director, governance, risk &amp; compliance (grc) robertson &amp; company ltd. toronto, ontario, canada linkedin other readme risk/grc toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Software Engineer (AI & Full Stack)",
+   "company": "Makeitfable",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954561307",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior software engineer (ai & full stack) makeitfable toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "DevOps Engineer",
+   "company": "TD",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560658",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer td toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-td-4486119447",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "DevOps Engineer",
+   "company": "OceanMD, a WELLSTAR Company",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560568",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer oceanmd, a wellstar company toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "DevOps Engineer (Services Team)",
+   "company": "StackAdapt",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560206",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer (services team) stackadapt toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Lead DevOps Engineer - Corner Brook",
+   "company": "Linuxassociation",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560007",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead devops engineer - corner brook linuxassociation toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -973,6 +1337,31 @@
    "french": false,
    "search": "intermediate fullstack engineer, subscription lifecycle gitlab canada adzuna other adzuna role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Associate Director, Full-Stack Applications - Credit Module",
+   "company": "Fitch Group, Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954559995",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "associate director, full-stack applications - credit module fitch group, inc. toronto, ontario adzuna other adzuna toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5954560788",
+     "label": "Adzuna · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -7136,27 +7525,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Developer",
-   "company": "iA Financial Group (Industrial Alliance)",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479085152",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer ia financial group (industrial alliance) quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Salesforce FinancialForce PSA (Certinia) Developer",
    "company": "YDC Pro",
    "location": "Canada",
@@ -7174,6 +7542,27 @@
    ],
    "french": false,
    "search": "salesforce financialforce psa (certinia) developer ydc pro canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Salesforce Developer",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479085152",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer ia financial group (industrial alliance) quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -13504,38 +13893,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "ServiceNow Developer",
-   "company": "Rexall",
-   "location": "Toronto, ON",
-   "url": "https://careers.rexall.ca/servicenow-developer/job/37B80470AD0A44355A6D3D8E2EF2E593",
-   "note": "rexall",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.rexall.ca",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer rexall toronto, on careers.rexall.ca servicenow rexall servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-rexall-pharmacy-group-ltd-4485752549",
-     "label": "LinkedIn · Mississauga"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/4485752549",
-     "label": "LinkedIn · Mississauga"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-03",
    "title": "ServiceNow Developer Job",
    "company": "VDart",
    "location": "Toronto, ON",
@@ -17186,77 +17543,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Développeur(euse) Salesforce",
-   "company": "iA Financial Group (Industrial Alliance)",
-   "location": "Québec, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-salesforce-at-ia-financial-group-industrial-alliance-4479039173",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "developpeur(euse) salesforce ia financial group (industrial alliance) quebec, quebec, canada linkedin salesforce linkedin salesforce canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Développeur principal/développeuse principale, Salesforce",
-   "company": "Canadian Cancer Society",
-   "location": "Prince George, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486842632",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "developpeur principal/developpeuse principale, salesforce canadian cancer society prince george, british columbia, canada linkedin salesforce linkedin salesforce canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4487010102",
-     "label": "LinkedIn · Vancouver"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486855172",
-     "label": "LinkedIn · Kelowna"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4487009139",
-     "label": "LinkedIn · Halifax"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486836890",
-     "label": "LinkedIn · Calgary"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486836892",
-     "label": "LinkedIn · Montreal"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Business Systems Consultant - Salesforce",
    "company": "Everforth Apex",
    "location": "USA",
@@ -19390,27 +19676,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Salesforce Technical Architect",
-   "company": "LTM",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce technical architect ltm toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "Salesforce Technical Architect with Revenue Cloud (RCA)",
    "company": "LTM",
    "location": "Ontario, Canada",
@@ -20774,26 +21039,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "DevOps Engineer",
-   "company": "TD",
-   "location": "Toronto",
-   "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-td-4486119447",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer td toronto linkedin other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "Customer Data and Report Analyst",
    "company": "Hydro One",
    "location": "Markham",
@@ -20910,26 +21155,6 @@
    ],
    "french": false,
    "search": "business intelligence analyst insight global toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Site Reliability Engineer",
-   "company": "Insight Global",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5950336986",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "site reliability engineer insight global toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -21178,6 +21403,37 @@
    "french": false,
    "search": "sr. crm account executive servicenow montreal, quebec, canada linkedin servicenow readme servicenow canada / remote weak title match",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "DevOps Specialist - Shared Services",
+   "company": "Intact Financial",
+   "location": "Laval, Laval region",
+   "url": "https://www.adzuna.ca/details/5950813059",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "devops specialist - shared services intact financial laval, laval region adzuna other adzuna role fit quebec",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5950813387",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5950813069",
+     "label": "Adzuna · Montréal"
+    }
+   ]
   },
   {
    "posted": "2026-11-02",
@@ -21445,41 +21701,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5950813173",
      "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "DevOps Specialist - Shared Services",
-   "company": "Intact Financial",
-   "location": "Saint-Hyacinthe, Les Maskoutains",
-   "url": "https://www.adzuna.ca/details/5950812682",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "devops specialist - shared services intact financial saint-hyacinthe, les maskoutains adzuna other adzuna role fit",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950813059",
-     "label": "Adzuna · Laval"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950813387",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950813069",
-     "label": "Adzuna · Montréal"
     }
    ]
   },
@@ -22238,33 +22459,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "Salesforce Solution Architect",
-   "company": "iA Financial Group",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce solution architect ia financial group canada adzuna salesforce adzuna salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700",
-     "label": "LinkedIn · Quebec"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Sr. Consultant, Value Excellence",
    "company": "ServiceNow",
    "location": "Toronto, Canada",
@@ -22974,26 +23168,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "DevOps Engineer",
-   "company": "Equinix",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576836",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer equinix toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Senior Software Developer - Full Stack - Toronto",
    "company": "Randstad Deutschland",
    "location": "Toronto, Ontario",
@@ -23070,46 +23244,6 @@
    ],
    "french": false,
    "search": "rq00828 - software developer - full stack - senior maarut toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Full Stack Developer (AWS)",
-   "company": "RedPico",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576439?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full stack developer (aws) redpico toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Senior Full-Stack Engineer / Technical Lead - Onsite",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576278?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full-stack engineer / technical lead - onsite cognizant toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -23290,6 +23424,46 @@
    ],
    "french": false,
    "search": "senior it business systems analyst canada life toronto adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "Senior Full-Stack Engineer / Technical Lead - Onsite",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5949576278",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior full-stack engineer / technical lead - onsite cognizant toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "Senior Full Stack Developer (AWS)",
+   "company": "RedPico",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5949576439",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior full stack developer (aws) redpico toronto, ontario adzuna other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -23490,6 +23664,26 @@
    ],
    "french": false,
    "search": "engagement analyst (12 month contract) kpmg toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "DevOps Engineer",
+   "company": "Equinix",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5949576836",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer equinix toronto, ontario adzuna other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -24169,25 +24363,6 @@
    ],
    "french": false,
    "search": "data warehouse backend developer and power bi support three point turn inc toronto, ontario adzuna other adzuna data/reporting role fit toronto area weak title match",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "Staff Engineer (Site Reliability)",
-   "company": "Babylist",
-   "location": "Ottawa, Ottawa region",
-   "url": "https://www.adzuna.ca/details/5949577298",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "staff engineer (site reliability) babylist ottawa, ottawa region adzuna other adzuna role fit",
    "alternates": []
   },
   {
@@ -37869,27 +38044,6 @@
    ],
    "french": false,
    "search": "salesforce sr. developer, ai & agentforce neuraflash remote - india (bengaluru, chennai, gurugram, hyderabad, noida, or pune only) greenhouse salesforce greenhouse salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-09-21",
-   "title": "Senior Research Engineer/Scientist",
-   "company": "ServiceNow",
-   "location": "Montreal, QUEBEC, ca",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000150755769",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 46,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Quebec"
-   ],
-   "french": false,
-   "search": "senior research engineer/scientist servicenow montreal, quebec, ca smartrecruiters servicenow smartrecruiters servicenow role fit quebec",
    "alternates": []
   }
  ]
