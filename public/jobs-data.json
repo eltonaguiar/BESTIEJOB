@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T20:57:41+00:00",
+ "generatedAt": "2026-11-05T21:01:47+00:00",
  "timezone": "America/Toronto",
  "count": 407,
  "appliedHidden": 11,
@@ -142,26 +142,6 @@
   "wtop.themuse.com"
  ],
  "jobs": [
-  {
-   "posted": "2026-11-06",
-   "title": "HiringCafe",
-   "company": "Senior Salesforce Engineer",
-   "location": "Canadian Cancer Society",
-   "url": "https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v55.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "hiringcafe.com",
-   "verified": "Employer board",
-   "match": 24,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "hiringcafe senior salesforce engineer canadian cancer society hiringcafe.com salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v55.md salesforce role fit",
-   "alternates": []
-  },
   {
    "posted": "2026-11-05",
    "title": "ServiceNow OTSM and CMDB Technical Consultant",
@@ -5976,6 +5956,27 @@
    ],
    "french": false,
    "search": "salesforce marketing cloud engineer ii job in vancouver, british columbia / insight global careers unknown canada jobs.insightglobal.com salesforce 7 salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Salesforce Analyst / Administrator",
+   "company": "Astek",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-analyst-administrator-analyste-administrateur-salesforce-at-astek-4479128400",
+   "note": "via linkedin-round101--2026-11-06--v6.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce analyst / administrator astek canada linkedin salesforce via linkedin-round101--2026-11-06--v6.md salesforce role fit canada / remote",
    "alternates": []
   },
   {
