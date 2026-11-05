@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T18:15:57+00:00",
+ "generatedAt": "2026-11-05T19:09:55+00:00",
  "timezone": "America/Toronto",
- "count": 1746,
+ "count": 1748,
  "appliedHidden": 27,
  "sources": [
   "103.careerplug.com",
@@ -505,28 +505,6 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "Salesforce Marketing Cloud(SFMC) Business Analyst",
-   "company": "Enterprise Solutions Inc.",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 70,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce marketing cloud(sfmc) business analyst enterprise solutions inc. mississauga, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
    "title": "Senior Associate, Salesforce Technical Consultant",
    "company": "PwC Canada",
    "location": "Ottawa, Ontario, Canada",
@@ -552,6 +530,28 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Marketing Cloud(SFMC) Business Analyst",
+   "company": "Enterprise Solutions Inc.",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 70,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud(sfmc) business analyst enterprise solutions inc. mississauga, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -655,7 +655,7 @@
    "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486756619",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486792181",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -810,6 +810,33 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Developer",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479575758",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer ia financial group (industrial alliance) vancouver, british columbia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479085152",
      "label": "LinkedIn · Quebec"
     }
    ]
@@ -1149,6 +1176,26 @@
    ],
    "french": true,
    "search": "developpeur en automatisation qa salesforce nesto canada linkedin salesforce linkedin salesforce canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Student, IT Asset Management",
+   "company": "Cameco Corporation",
+   "location": "Saskatoon, Saskatchewan, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/student-it-asset-management-at-cameco-corporation-4487718419",
+   "note": "linkedin",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 34,
+   "matchReasons": [
+    "ITAM",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "student, it asset management cameco corporation saskatoon, saskatchewan, canada linkedin other linkedin itam canada / remote",
    "alternates": []
   },
   {
@@ -2577,6 +2624,27 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Senior ServiceNow Developer",
+   "company": "Procom",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-procom-4486536078",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow developer procom toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "ServiceNow Associate Software Engineer",
    "company": "Sunlife",
    "location": "North York, Ontario, Canada",
@@ -2601,27 +2669,6 @@
      "label": "LinkedIn · Waterloo"
     }
    ]
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior ServiceNow Developer",
-   "company": "Procom",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-procom-4486536078",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior servicenow developer procom toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-04",
@@ -7542,27 +7589,6 @@
    ],
    "french": false,
    "search": "salesforce financialforce psa (certinia) developer ydc pro canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Developer",
-   "company": "iA Financial Group (Industrial Alliance)",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479085152",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer ia financial group (industrial alliance) quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -22410,7 +22436,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5948025592",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -34707,27 +34733,6 @@
   },
   {
    "posted": "2026-10-22",
-   "title": "ServiceNow Technical Lead",
-   "company": "CAAT Pension Plan",
-   "location": "Toronto, ON",
-   "url": "https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow technical lead caat pension plan toronto, on workday ats servicenow workday servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-22",
    "title": "ServiceNow Transformation Program Manager",
    "company": "Cognizant",
    "location": "Toronto, Ontario",
@@ -34938,6 +34943,26 @@
   },
   {
    "posted": "2026-10-22",
+   "title": "Senior DevOps Engineer",
+   "company": "Lemon.io",
+   "location": "Remote",
+   "url": "https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+   "note": "remoteok",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remoteok.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior devops engineer lemon.io remote remoteok.com other remoteok role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-22",
    "title": "Functional Lead, AI & Agentforce Delivery",
    "company": "NeuraFlash",
    "location": "Canada",
@@ -34996,6 +35021,27 @@
    ],
    "french": false,
    "search": "senior manager, servicenow - operate deloitte toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-21",
+   "title": "ServiceNow Technical Lead",
+   "company": "CAAT Pension Plan",
+   "location": "Toronto, ON",
+   "url": "https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow technical lead caat pension plan toronto, on workday ats servicenow workday servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -36298,7 +36344,13 @@
    ],
    "french": false,
    "search": "consultant/senior consultant - servicenow solution developer kpmg canada toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480500031",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
   },
   {
    "posted": "2026-10-16",
