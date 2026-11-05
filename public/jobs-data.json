@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-05T18:33:16+00:00",
+ "generatedAt": "2026-11-05T18:55:24+00:00",
  "timezone": "America/Toronto",
- "count": 410,
- "appliedHidden": 12,
+ "count": 409,
+ "appliedHidden": 11,
  "sources": [
   "Adzuna",
   "Aggregator",
@@ -61,7 +61,6 @@
   "expertini.in",
   "flexgen.zya.me",
   "flexstack.my-board.org",
-  "gdmissionsystems.ca",
   "getcanadianjob.com",
   "getclera.com",
   "getclientell.com",
@@ -105,12 +104,13 @@
   "jobs.wawanesa.com",
   "jobs.womenforhire.com",
   "jobsbrampton.ca",
+  "jobsbycountry.com",
   "jobsca.org",
   "jobstore.com",
   "leadingtalent.ca",
+  "martechjobs.io",
   "meterwork.com",
   "morson.com",
-  "myprocom-portal.procomservices.com",
   "mysmartpros.com",
   "myticas.com",
   "n2psystems.com",
@@ -129,7 +129,6 @@
   "salesforce.com",
   "scoutify.com",
   "simplyhired.ca",
-  "snpro.jobs",
   "sorce.jobs",
   "stackitrecruitment.com",
   "startup.jobs",
@@ -359,6 +358,28 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Staff Incident Response Engineer",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobsbycountry.com/job/staff-incident-response-engineer-servenow744000157521404",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobsbycountry.com",
+   "verified": "Employer board",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff incident response engineer servicenow toronto, ontario, canada jobsbycountry.com other via non-mainstream-harvest--2026-11-05--v1.md servicenow itsm role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Senior Associate, Salesforce Technical Consultant",
    "company": "PwC Canada",
    "location": "Ottawa, Ontario, Canada",
@@ -551,6 +572,27 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Architect",
+   "company": "Lyft",
+   "location": "Toronto, Canada",
+   "url": "https://martechjobs.io/job/30657/salesforce-architect-at-lyft/",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "martechjobs.io",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce architect lyft toronto, canada martechjobs.io salesforce via non-mainstream-harvest--2026-11-05--v1.md salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Administrator (Hybrid)",
    "company": "Survalent",
    "location": "Mississauga, Peel region",
@@ -677,6 +719,27 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Engineering Manager, Salesforce",
+   "company": "Brex",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://martechjobs.io/job/30675/engineering-manager-salesforce-at-brex/",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "martechjobs.io",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "engineering manager, salesforce brex vancouver, british columbia, canada martechjobs.io salesforce via non-mainstream-harvest--2026-11-05--v1.md salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Staff Site Reliability Engineer, Canada Protected B",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca",
@@ -696,10 +759,35 @@
    "search": "staff site reliability engineer, canada protected b servicenow toronto, ontario, ca smartrecruiters servicenow  servicenow role fit toronto area",
    "alternates": [
     {
+     "source": "jobsbycountry.com",
+     "url": "https://jobsbycountry.com/job/staff-site-reliability-engineer-canada-protected-b-servicenow744000159519949"
+    },
+    {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5953992050"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Sr. Consultant, Value Excellence",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobsbycountry.com/job/sr-consultant-value-excellence-servicenow744000158578039",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobsbycountry.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. consultant, value excellence servicenow toronto, ontario, canada jobsbycountry.com servicenow via non-mainstream-harvest--2026-11-05--v1.md servicenow role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -721,6 +809,10 @@
    "french": false,
    "search": "senior site reliability engineer, canada protected b servicenow toronto, ontario, ca smartrecruiters servicenow  servicenow role fit toronto area",
    "alternates": [
+    {
+     "source": "jobsbycountry.com",
+     "url": "https://jobsbycountry.com/job/senior-site-reliability-engineer-canada-protected-b-servicenow744000159744779"
+    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5953992006"
@@ -750,6 +842,90 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Staff Site Reliability Engineer",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobsbycountry.com/job/staff-site-reliability-engineer-servenow744000156040224",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobsbycountry.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff site reliability engineer servicenow toronto, ontario, canada jobsbycountry.com other via non-mainstream-harvest--2026-11-05--v1.md servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Staff Information Security Analyst",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobsbycountry.com/job/staff-information-security-analyst-servenow744000156415909",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobsbycountry.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff information security analyst servicenow toronto, ontario, canada jobsbycountry.com other via non-mainstream-harvest--2026-11-05--v1.md servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Staff Compliance Analyst",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobsbycountry.com/job/staff-compliance-analyst-servenow744000156422439",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobsbycountry.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff compliance analyst servicenow toronto, ontario, canada jobsbycountry.com other via non-mainstream-harvest--2026-11-05--v1.md servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Sr. Solution Architect",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobsbycountry.com/job/sr-solution-architect-servenow744000157855472",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobsbycountry.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. solution architect servicenow toronto, ontario, canada jobsbycountry.com other via non-mainstream-harvest--2026-11-05--v1.md servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Senior Site Reliability Engineer, Canada Protected B",
    "company": "ServiceNow, Inc.",
    "location": "Toronto, Ontario",
@@ -767,6 +943,48 @@
    ],
    "french": false,
    "search": "senior site reliability engineer, canada protected b servicenow, inc. toronto, ontario adzuna other devops / cloud servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Machine Learning Engineer",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobsbycountry.com/job/senior-machine-learning-engineer-servenow744000156069368",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobsbycountry.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior machine learning engineer servicenow toronto, ontario, canada jobsbycountry.com other via non-mainstream-harvest--2026-11-05--v1.md servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Principal Solution Architect",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobsbycountry.com/job/principal-solution-architect-servenow744000158575719",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobsbycountry.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "principal solution architect servicenow toronto, ontario, canada jobsbycountry.com other via non-mainstream-harvest--2026-11-05--v1.md servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -908,6 +1126,26 @@
    ],
    "french": false,
    "search": "senior associate, business intelligence & reporting developer mufg investor services toronto, ontario adzuna other data / bi role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Marketing Technology Lead",
+   "company": "Lyft",
+   "location": "Toronto, Canada",
+   "url": "https://martechjobs.io/job/30656/marketing-technology-lead-at-lyft/",
+   "note": "via non-mainstream-harvest--2026-11-05--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "martechjobs.io",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "marketing technology lead lyft toronto, canada martechjobs.io other via non-mainstream-harvest--2026-11-05--v1.md role fit toronto area",
    "alternates": []
   },
   {
@@ -1538,28 +1776,6 @@
    ],
    "french": false,
    "search": "servicenow itam architect / flexstack unknown canada flexstack.my-board.org servicenow 7/10 via servicenow itam role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa - DXC Technology / Ottawa, ON",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.workopolis.com/jobsearch/viewjob/eBO-aFOAKdIH5P5n172QtTk6nybg5ti7IRasTZUMjhtiO5xOQDBP7igfSVqmYYKB",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workopolis",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer (itsm module) at client site in ottawa - dxc technology / ottawa, on unknown canada workopolis servicenow 8 servicenow itsm role fit canada / remote",
    "alternates": []
   },
   {
@@ -3419,27 +3635,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Developer - 111282 - IBM",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://careers.ibm.com/fr_CA/careers/JobDetail/ServiceNow-Developer/111282",
-   "note": "9",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.ibm.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer - 111282 - ibm unknown canada careers.ibm.com servicenow 9 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "servicenow Jobs in Calgary, AB / Hiring Now / Talent.com",
    "company": "Unknown",
    "location": "Canada",
@@ -3476,50 +3671,6 @@
    ],
    "french": false,
    "search": "servicenow jobs & careers - 11 open positions / glassdoor unknown canada glassdoor servicenow 8 servicenow canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Integration Developer / Hirify",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://hirify.me/jobs/756297-salesforce-integration-developer-workato",
-   "note": "8",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "hirify.me",
-   "verified": "Employer board",
-   "match": 74,
-   "matchReasons": [
-    "Integration",
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce integration developer / hirify unknown canada hirify.me salesforce 8 integration salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Integration Architect / Procom",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://myprocom-portal.procomservices.com/jobs/salesforce-integration-architect-8fd62e89",
-   "note": "5/10 via 2026-11-04_sf_round13_raw_20261104T062121Z.json",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "myprocom-portal.procomservices.com",
-   "verified": "Employer board",
-   "match": 74,
-   "matchReasons": [
-    "Integration",
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce integration architect / procom unknown canada myprocom-portal.procomservices.com salesforce 5/10 via 2026-11-04_sf_round13_raw_20261104t062121z.json integration salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -6834,69 +6985,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Senior Business Intelligence Business Analyst / SNPro.jobs",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://snpro.jobs/jobs/senior-business-intelligence-business-analyst-c8daa",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "snpro.jobs",
-   "verified": "Employer board",
-   "match": 26,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior business intelligence business analyst / snpro.jobs unknown canada snpro.jobs other 8 consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Business Analyst, Revenue at Telesat — Ottawa, Ontario, Canada / LinkedIn Jobs",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-business-analyst-revenue-at-telesat-4454599858",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 26,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior business analyst, revenue at telesat — ottawa, ontario, canada / linkedin jobs unknown canada linkedin other 7 consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Business Analyst",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobgether.com/offer/6a6ab7531b23f4f87b4668e6-senior-business-analyst",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobgether.com",
-   "verified": "Employer board",
-   "match": 26,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior business analyst unknown canada jobgether.com other 7 consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "What IT Operations Jobs Are Near Me? / ClicksJobs Canada",
    "company": "Unknown",
    "location": "Canada",
@@ -8477,86 +8565,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Senior Business Systems Analyst at The Salvation Army in Canada",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobgether.com/offer/6a262bacf4c10b44932373c5-senior-business-systems-analyst",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobgether.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior business systems analyst at the salvation army in canada unknown canada jobgether.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Business Applications Analyst in Montréal QC, QC - TECSYS Inc.",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-5018-db5479a4743a7bcf5c05ce54277fb950",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior business applications analyst in montreal qc, qc - tecsys inc. unknown canada ca.trabajo.org other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Azure Cloud Platform Engineer, Toronto, ON-199 Bay Street, Ontario, Canada / Cognizant Careers",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://careers.cognizant.com/global-en/jobs/00068913931/senior-azure-cloud-platform-engineer/",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior azure cloud platform engineer, toronto, on-199 bay street, ontario, canada / cognizant careers unknown canada careers.cognizant.com other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior .NET Developer for Innovative Revenue Management Systems in ottawa, on - servicePath™",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-649-68efd6185f36ed829756d7c5bc07e918",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior .net developer for innovative revenue management systems in ottawa, on - servicepathtm unknown canada ca.trabajo.org other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "The Vector Digital Talent Hub: Where Canadian AI Talent and AI Employers Connect",
    "company": "Unknown",
    "location": "Canada",
@@ -8686,25 +8694,6 @@
    ],
    "french": false,
    "search": "senior devops in ottawa, ontario - dominion dynamics unknown canada ca.trabajo.org other 7 canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior AWS Platform Owner - Ottawa, ON, CA - REF1142C / General Dynamics Mission Systems–Canada",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://gdmissionsystems.ca/careers/senior-aws-platform-owner-ottawa-on-ca-ref1142c-opportunity",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "gdmissionsystems.ca",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior aws platform owner - ottawa, on, ca - ref1142c / general dynamics mission systems–canada unknown canada gdmissionsystems.ca other 7 canada / remote",
    "alternates": []
   }
  ]
