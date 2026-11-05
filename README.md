@@ -4,11 +4,11 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T192125Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T193159Z.md`.
 
 ## Contents
 
-- [Current jobs — as of 2026-11-06](#current-jobs--as-of-2026-11-06)
+- [Current jobs — as of 2026-11-05](#current-jobs--as-of-2026-11-05)
   - [ServiceNow jobs (150)](#servicenow-jobs-150)
   - [Salesforce jobs (150)](#salesforce-jobs-150)
   - [Other jobs (150)](#other-jobs-150)
@@ -16,9 +16,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-06
+## Current jobs — as of 2026-11-05
 
-Window: 2026-10-07 → 2026-11-06 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-06 → 2026-11-05 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (150)
 
@@ -189,7 +189,6 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
-| 2026-11-06 | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) | Senior Salesforce Engineer | Canadian Cancer Society | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v47.md |
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5954076592) | Finning | Surrey, Greater Vancouver |  |
 | 2026-11-05 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
@@ -339,6 +338,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Salesforce Platform Administrator at Finning / RevOps Roles](https://revopsroles.com/jobs/33dec6d5-2025-4f1d-a707-e384ae34dfd8) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce Marketing Cloud Engineer II job in Vancouver, British Columbia / Insight Global Careers](https://jobs.insightglobal.com/find_a_job/british-columbia/job-280447/) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce Marketing Cloud Architect in Vancouver, British Columbia - Gallagher](https://ca.trabajo.org/job-4112-5a093783062a0e15a165844785254fa6) | Unknown | Canada | 7 |
+| 2026-11-04 | [Salesforce Functional Analyst](https://ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737) | Manulife | Waterloo, Ontario, Canada | via linkedin-rounds51-60--2026-11-06--v5.md |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T19:07:22.599Z** · 2052 live postings from 8 public sources · 73 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-05T19:30:01.232Z** · 2052 live postings from 8 public sources · 73 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-05T192125Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-05T193159Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
