@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T123314Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T130433Z.md`.
 
 ## Contents
 
@@ -32,6 +32,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-05 | [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985) | DXC Technology | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744779) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-05 | [Intermediate Technology Specialist, Service Now Developer](https://www.adzuna.ca/details/5954040266) | Equitable | Waterloo region, Ontario |  |
+| 2026-11-05 | [Architecte de solutions (ServiceNow)](https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4434772040) | CGI | Sherbrooke, Quebec, Canada |  |
 | 2026-11-04 | [🚨WE’RE HIRING / ServiceNow Solution Architect – CTA Certified / Devansh Gupta](https://www.linkedin.com/posts/devansh-gupta-0489b9222_hiring-servicenow-servicenowjobs-activity-7501335133141184513-aasr) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [🚀 We’re Hiring: Intermediate Business Analyst – ServiceNow GRC/IRM / AMANST Inc.](https://www.linkedin.com/posts/amanst-inc_businessanalyst-servicenow-grc-activity-7483550703525912576-xjYc) | Unknown | Canada | 6/10 via |
 | 2026-11-04 | [🚀 ServiceNow Architect / Toronto (Hybrid) / Norm Daigle](https://www.linkedin.com/posts/ndaigle_servicenow-architect-position-join-our-activity-7430285267233767424-FnWI) | Unknown | Canada | 7/10 via |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [(ServiceNow Architect – Remote · ("Canada") / Enterprise Solutions Inc.)(https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-architect-remote-canada-99e333eaaa46)](https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-architect-remote-canada-99e333eaaa46) | Unknown | Canada | 8 |
 | 2026-11-04 | [((Hiring) ServiceNow Specialist @NexGedia Enterprise)(https://remotive.com/remote/jobs/all-others/servicenow-specialist-5792496)](https://remotive.com/remote/jobs/all-others/servicenow-specialist-5792496) | Unknown | Canada | 8 |
 | 2026-11-04 | [((Hiring) ServiceNow Senior Technical Consultant @Crossfuze)(https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965)](https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965) | Unknown | Canada | 9 |
-| 2026-11-04 | [((Hiring) ServiceNow ITAM Architect @FX Innovation - Remote jobs)(https://remotive.com/remote/jobs/all-others/servicenow-itam-architect-5201901)](https://remotive.com/remote/jobs/all-others/servicenow-itam-architect-5201901) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T12:30:01.920Z** · 2024 live postings from 9 public sources · 78 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-05T13:00:01.849Z** · 2024 live postings from 9 public sources · 78 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -582,6 +582,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Intermediate Technology Specialist, Service Now Developer](https://www.adzuna.ca/details/5954040266) | Equitable | Waterloo region, Ontario |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744779) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744570) | ServiceNow | Toronto, Ontario, ca |
+| 2026-11-05 | [Architecte de solutions (ServiceNow)](https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4434772040) | CGI | Sherbrooke, Quebec, Canada |
 | 2026-11-05 | [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985) | DXC Technology | Ottawa, Ontario, Canada |
 | 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://www.adzuna.ca/details/5953648278) | Deloitte | Toronto, Ontario |
 | 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://www.adzuna.ca/details/5953557971) | Deloitte | Toronto, Ontario |
@@ -590,7 +591,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-04 | [ServiceNow Technical Consultant, Toronto, Ontario, Canada \| Cognizant Careers](https://careers.cognizant.com/global-en/jobs/00069526961/servicenow-technical-consultant/) | Cognizant Careers | Canada |
 | 2026-11-04 | [Job opening - ServiceNow Technical Architect in Toronto \| Randstad](https://www.randstad.com/jobs/servicenow-technical-architect_toronto_47644537/) | ServiceNow Technical Architect in Toronto \| Randstad | Canada |
 | 2026-11-04 | [Sr Principal Platform Architect, Toronto \| ServiceNow Careers](https://careers.servicenow.com/jobs/744000127485110/sr-principal-platform-architect/) | ServiceNow Careers | Canada |
-| 2026-11-04 | [Remote ServiceNow WSD Dev for 3-Month Contract](https://www.jobleads.com/ca/job/remote-servicenow-wsd-dev-for-3-month-contract--canada--e39b2f838521d43bb3c3eed2c6ab1bc3a) | Unknown | Canada |
 
 ### Salesforce — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-05T123314Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
+`README.BAK_2026-11-05T130433Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
