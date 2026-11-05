@@ -9,25 +9,47 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-04](#current-jobs--as-of-2026-11-04)
-  - [ServiceNow jobs (329)](#servicenow-jobs-329)
-  - [Salesforce jobs (346)](#salesforce-jobs-346)
-  - [Other jobs (380)](#other-jobs-380)
+  - [ServiceNow jobs (351)](#servicenow-jobs-351)
+  - [Salesforce jobs (384)](#salesforce-jobs-384)
+  - [Other jobs (379)](#other-jobs-379)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-04
 
-Window: 2026-10-05 → 2026-11-04 · **1054 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-05 → 2026-11-04 · **1114 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (329)
+### ServiceNow jobs (351)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 329 postings</strong></summary>
+<details><summary><strong>Show 351 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-04 | [ServiceNow Architect](https://ca.linkedin.com/jobs/view/servicenow-architect-at-rsm-canada-4486537303) | RSM Canada | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 38× ServiceNow, 6 yrs min, remote/hybrid |
+| 2026-11-04 | [ServiceNow Associate Software Engineer](https://ca.linkedin.com/jobs/view/servicenow-associate-software-engineer-at-sunlife-4486509766) | Sunlife | North York, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 3× ServiceNow, 2 yrs min, remote/hybrid |
+| 2026-11-04 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-wipro-4486514927) | Wipro | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 3× ServiceNow, 10 yrs min |
+| 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://ca.linkedin.com/jobs/view/servicenow-cyber-sales-executive-senior-manager-at-deloitte-4487555122) | Deloitte | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 17× ServiceNow, 5 yrs min, remote/hybrid |
+| 2026-11-04 | [Conseiller(ère) principal(e) technique, Développeur(euse) sénior ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-technique-d%C3%A9veloppeur-euse-s%C3%A9nior-servicenow-at-kpmg-canada-4479284494) | KPMG Canada | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× ServiceNow |
+| 2026-11-04 | [Consultant Senior, ServiceNow](https://ca.linkedin.com/jobs/view/consultant-senior-servicenow-at-kpmg-canada-4479287244) | KPMG Canada | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 15× ServiceNow |
+| 2026-11-04 | [Senior ServiceNow Developer](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-procom-4486536078) | Procom | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 22× ServiceNow, 5 yrs min, remote/hybrid |
+| 2026-11-04 | [Spécialiste principal bilingue ServiceNow GSTI (Gestion des incidents) 1](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-principal-bilingue-servicenow-gsti-gestion-des-incidents-1-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4476476792) | Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL) | Ottawa, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 14× ServiceNow |
+| 2026-11-04 | [Configurateur(trice) - ServiceNow](https://ca.linkedin.com/jobs/view/configurateur-trice-servicenow-at-exo-%E2%80%93-r%C3%A9seau-de-transport-m%C3%A9tropolitain-4443991466) | Exo – Réseau de transport métropolitain | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 8× ServiceNow |
+| 2026-11-04 | [Consultant ServiceNow](https://ca.linkedin.com/jobs/view/consultant-servicenow-at-catchub-4486526689) | Catchub | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 5× ServiceNow |
+| 2026-11-04 | [Analyste d’affaires ServiceNow](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-servicenow-at-cgi-4443093088) | CGI | Sherbrooke, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 7× ServiceNow |
+| 2026-11-04 | [ServiceNow Architect](https://ca.linkedin.com/jobs/view/servicenow-architect-at-rsm-canada-4486537303) | RSM Canada | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 38× ServiceNow, 6 yrs min, remote/hybrid |
+| 2026-11-04 | [ServiceNow Associate Software Engineer](https://ca.linkedin.com/jobs/view/servicenow-associate-software-engineer-at-sunlife-4486509766) | Sunlife | North York, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 3× ServiceNow, 2 yrs min, remote/hybrid |
+| 2026-11-04 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-wipro-4486514927) | Wipro | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 3× ServiceNow, 10 yrs min |
+| 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://ca.linkedin.com/jobs/view/servicenow-cyber-sales-executive-senior-manager-at-deloitte-4487555122) | Deloitte | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 17× ServiceNow, 5 yrs min, remote/hybrid |
+| 2026-11-04 | [Conseiller(ère) principal(e) technique, Développeur(euse) sénior ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-technique-d%C3%A9veloppeur-euse-s%C3%A9nior-servicenow-at-kpmg-canada-4479284494) | KPMG Canada | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× ServiceNow |
+| 2026-11-04 | [Consultant Senior, ServiceNow](https://ca.linkedin.com/jobs/view/consultant-senior-servicenow-at-kpmg-canada-4479287244) | KPMG Canada | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 15× ServiceNow |
+| 2026-11-04 | [Senior ServiceNow Developer](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-procom-4486536078) | Procom | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 22× ServiceNow, 5 yrs min, remote/hybrid |
+| 2026-11-04 | [Spécialiste principal bilingue ServiceNow GSTI (Gestion des incidents) 1](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-principal-bilingue-servicenow-gsti-gestion-des-incidents-1-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4476476792) | Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL) | Ottawa, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 14× ServiceNow |
+| 2026-11-04 | [Configurateur(trice) - ServiceNow](https://ca.linkedin.com/jobs/view/configurateur-trice-servicenow-at-exo-%E2%80%93-r%C3%A9seau-de-transport-m%C3%A9tropolitain-4443991466) | Exo – Réseau de transport métropolitain | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 8× ServiceNow |
+| 2026-11-04 | [Consultant ServiceNow](https://ca.linkedin.com/jobs/view/consultant-servicenow-at-catchub-4486526689) | Catchub | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 5× ServiceNow |
+| 2026-11-04 | [Analyste d’affaires ServiceNow](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-servicenow-at-cgi-4443093088) | CGI | Sherbrooke, Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 7× ServiceNow |
 | 2026-11-04 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159519949) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-04 | [ServiceNow SAM Administrator - ITAM](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096) | BMO | Toronto, ON, CAN |  |
 | 2026-11-04 | [Support Analyst, ITSM](https://ca.linkedin.com/jobs/view/support-analyst-itsm-at-mccarthy-t%C3%A9trault-4479055952) | McCarthy Tétrault | Vancouver, British Columbia, Canada | JD-verified: 1× ServiceNow mention, 3 yrs min, hybrid — via round6 (r6_public) |
@@ -360,19 +382,57 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (346)
+### Salesforce jobs (384)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 346 postings</strong></summary>
+<details><summary><strong>Show 384 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-04 | [Salesforce Data Cloud Consultant](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-smart-it-frame-llc-4486392374) | Smart IT Frame LLC | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce, 3 yrs min |
+| 2026-11-04 | [Salesforce Data Cloud Architect - Strong Data Governance, Data Integration and Customer 360](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-strong-data-governance-data-integration-and-customer-360-at-smart-it-frame-llc-4486395376) | Smart IT Frame LLC | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 10× Salesforce, 3 yrs min, remote/hybrid |
+| 2026-11-04 | [Salesforce Data Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483) | Enterprise Solutions Inc. | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 11× Salesforce, 3 yrs min, remote/hybrid |
+| 2026-11-04 | [Salesforce QA](https://ca.linkedin.com/jobs/view/salesforce-qa-at-tata-consultancy-services-4486398282) | Tata Consultancy Services | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 4× Salesforce |
+| 2026-11-04 | [CPQ Lead Solution Engineer - Salesforce Conga CPQ/PROS](https://ca.linkedin.com/jobs/view/cpq-lead-solution-engineer-salesforce-conga-cpq-pros-at-thomson-reuters-4460296550) | Thomson Reuters | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 3× Salesforce, 4 yrs min, remote/hybrid |
+| 2026-11-04 | [3319 - Intermediate Salesforce Marketing Cloud Specialist](https://ca.linkedin.com/jobs/view/3319-intermediate-salesforce-marketing-cloud-specialist-at-amyantek-4487270331) | Amyantek | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 28× Salesforce, 1 yrs min, remote/hybrid |
+| 2026-11-04 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-survalent-4486500184) | Survalent | Greater Toronto Area, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 15× Salesforce, 5 yrs min |
+| 2026-11-04 | [Salesforce Data Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-galent-4485500327) | Galent | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce, remote/hybrid |
+| 2026-11-04 | [Salesforce Data Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-diverse-lynx-4486388939) | Diverse Lynx | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 13× Salesforce, remote/hybrid |
+| 2026-11-04 | [Salesforce Administrator - ITS4](https://ca.linkedin.com/jobs/view/salesforce-administrator-its4-at-minnesota-direct-care-and-treatment-4485079779) | Minnesota Direct Care and Treatment | St.-Paul, New Brunswick, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 30× Salesforce, remote/hybrid |
+| 2026-11-04 | [Salesforce Release Manager](https://ca.linkedin.com/jobs/view/salesforce-release-manager-at-ia-financial-group-industrial-alliance-4462021968) | iA Financial Group (Industrial Alliance) | Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 13× Salesforce, remote/hybrid |
+| 2026-11-04 | [Salesforce Datcloud Tech Lead](https://ca.linkedin.com/jobs/view/salesforce-datcloud-tech-lead-at-cognizant-4486504207) | Cognizant | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce, 2 yrs min, remote/hybrid |
+| 2026-11-04 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479085152) | iA Financial Group (Industrial Alliance) | Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce, 3 yrs min, remote/hybrid |
+| 2026-11-04 | [Salesforce Data Cloud Consultant](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-smart-it-frame-llc-4486392374) | Smart IT Frame LLC | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce, 3 yrs min |
+| 2026-11-04 | [Salesforce Data Cloud Architect - Strong Data Governance, Data Integration and Customer 360](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-strong-data-governance-data-integration-and-customer-360-at-smart-it-frame-llc-4486395376) | Smart IT Frame LLC | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 10× Salesforce, 3 yrs min, remote/hybrid |
+| 2026-11-04 | [Salesforce Data Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483) | Enterprise Solutions Inc. | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 11× Salesforce, 3 yrs min, remote/hybrid |
+| 2026-11-04 | [Salesforce QA](https://ca.linkedin.com/jobs/view/salesforce-qa-at-tata-consultancy-services-4486398282) | Tata Consultancy Services | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 4× Salesforce |
+| 2026-11-04 | [CPQ Lead Solution Engineer - Salesforce Conga CPQ/PROS](https://ca.linkedin.com/jobs/view/cpq-lead-solution-engineer-salesforce-conga-cpq-pros-at-thomson-reuters-4460296550) | Thomson Reuters | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 3× Salesforce, 4 yrs min, remote/hybrid |
+| 2026-11-04 | [3319 - Intermediate Salesforce Marketing Cloud Specialist](https://ca.linkedin.com/jobs/view/3319-intermediate-salesforce-marketing-cloud-specialist-at-amyantek-4487270331) | Amyantek | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 28× Salesforce, 1 yrs min, remote/hybrid |
+| 2026-11-04 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-survalent-4486500184) | Survalent | Greater Toronto Area, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 15× Salesforce, 5 yrs min |
+| 2026-11-04 | [Salesforce Data Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-galent-4485500327) | Galent | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce, remote/hybrid |
+| 2026-11-04 | [Salesforce Data Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-diverse-lynx-4486388939) | Diverse Lynx | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 13× Salesforce, remote/hybrid |
+| 2026-11-04 | [Salesforce Administrator - ITS4](https://ca.linkedin.com/jobs/view/salesforce-administrator-its4-at-minnesota-direct-care-and-treatment-4485079779) | Minnesota Direct Care and Treatment | St.-Paul, New Brunswick, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 30× Salesforce, remote/hybrid |
+| 2026-11-04 | [Salesforce Release Manager](https://ca.linkedin.com/jobs/view/salesforce-release-manager-at-ia-financial-group-industrial-alliance-4462021968) | iA Financial Group (Industrial Alliance) | Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 13× Salesforce, remote/hybrid |
+| 2026-11-04 | [Salesforce Datcloud Tech Lead](https://ca.linkedin.com/jobs/view/salesforce-datcloud-tech-lead-at-cognizant-4486504207) | Cognizant | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce, 2 yrs min, remote/hybrid |
+| 2026-11-04 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479085152) | iA Financial Group (Industrial Alliance) | Quebec, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce, 3 yrs min, remote/hybrid |
 | 2026-11-04 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486318615) | Canadian Cancer Society | Vancouver, British Columbia, Canada |  |
 | 2026-11-04 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430) | CGI | Victoria, British Columbia, Canada |  |
 | 2026-11-04 | [Salesforce Revenue Cloud Solution Architect-Toronto](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-solution-architect-toronto-at-slalom-4449798982) | Slalom | Greater Toronto Area, Canada |  |
 | 2026-11-04 | [Salesforce Product Owner](https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-jobgether-4486345433) | Jobgether | Canada |  |
 | 2026-11-04 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto |  |
+| 2026-11-03 | [Salesforce BSA](https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486313159) | Cognizant | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 6× Salesforce, 4 yrs min |
+| 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 17× Salesforce, 4 yrs min |
+| 2026-11-03 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-hrbrain-inc-4486083993) | HRbrain Inc. | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 20× Salesforce, 2 yrs min, remote/hybrid |
+| 2026-11-03 | [Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-finning-4486311390) | Finning | Surrey, British Columbia, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 35× Salesforce, 3 yrs min |
+| 2026-11-03 | [Salesforce Data Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-themesoft-inc-4487082252) | Themesoft Inc. | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce |
+| 2026-11-03 | [Salesforce Data Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-j-m-group-4487070187) | J&M Group | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 4× Salesforce |
+| 2026-11-03 | [Salesforce BSA](https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486313159) | Cognizant | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 6× Salesforce, 4 yrs min |
+| 2026-11-03 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399) | IKO North America | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 17× Salesforce, 4 yrs min |
+| 2026-11-03 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-hrbrain-inc-4486083993) | HRbrain Inc. | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 20× Salesforce, 2 yrs min, remote/hybrid |
+| 2026-11-03 | [Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-finning-4486311390) | Finning | Surrey, British Columbia, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 35× Salesforce, 3 yrs min |
+| 2026-11-03 | [Salesforce Data Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-themesoft-inc-4487082252) | Themesoft Inc. | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 9× Salesforce |
+| 2026-11-03 | [Salesforce Data Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-j-m-group-4487070187) | J&M Group | Toronto, Ontario, Canada | via linkedin-guest--2026-11-04--v1.md · JD-verified 4× Salesforce |
 | 2026-11-03 | [Versapay - Salesforce Developer](https://jobs.lever.co/versapay/7906bc29-f17e-44d2-a41b-334e6ce0608c) | Versapay | Remote, Canada | full-time |
 | 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058) | Co-operators | Toronto, Ontario, Canada | via linkedin-guest--2026-11-03--v1.md |
 | 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487007645) | Co-operators | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-03--v1.md |
@@ -717,11 +777,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (380)
+### Other jobs (379)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 380 postings</strong></summary>
+<details><summary><strong>Show 379 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
