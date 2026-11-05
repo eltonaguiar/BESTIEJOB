@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T08:06:58+00:00",
+ "generatedAt": "2026-11-05T08:33:20+00:00",
  "timezone": "America/Toronto",
- "count": 448,
+ "count": 445,
  "appliedHidden": 12,
  "sources": [
   "Adzuna",
@@ -41,7 +41,6 @@
   "calgary.ca.expertini.com",
   "callcentrejob.ca",
   "canada.recruit.net",
-  "careers-adastragrp.icims.com",
   "careers-cayuseholdings.icims.com",
   "careers-kinaxis.icims.com",
   "careers-page.com",
@@ -83,7 +82,6 @@
   "iitjobs.com",
   "insightglobal.com",
   "ipsscyber.com",
-  "jobboard.d9f.my-board.org",
   "jobera.com",
   "jobgether.com",
   "jobleads.com",
@@ -221,6 +219,68 @@
    ],
    "french": false,
    "search": "senior site reliability engineer, canada protected b servicenow toronto, ontario, ca smartrecruiters servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Staff Site Reliability Engineer, Canada Protected B",
+   "company": "ServiceNow, Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5953989159",
+   "note": "DevOps / Cloud",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff site reliability engineer, canada protected b servicenow, inc. toronto, ontario adzuna other devops / cloud servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Site Reliability Engineer, Canada Protected B",
+   "company": "ServiceNow, Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5953989200",
+   "note": "DevOps / Cloud",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior site reliability engineer, canada protected b servicenow, inc. toronto, ontario adzuna other devops / cloud servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce BSA",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5953986381",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce bsa cognizant toronto, ontario adzuna salesforce  salesforce toronto area",
    "alternates": []
   },
   {
@@ -5800,27 +5860,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "((C) Salesforce Engineer / Developer Job at MLSE)(https://www.careerbeacon.com/en/job-22/3409860/mlse/c-salesforce-engineer-developer/toronto-on)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.careerbeacon.com/en/job-22/3409860/mlse/c-salesforce-engineer-developer/toronto-on",
-   "note": "5/10 via 2026-11-04_sf_round6_raw_20261104T004121Z.json",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "CareerBeacon",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "((c) salesforce engineer / developer job at mlse)(https://www.careerbeacon.com/en/job-22/3409860/mlse/c-salesforce-engineer-developer/toronto-on) unknown canada careerbeacon salesforce 5/10 via 2026-11-04_sf_round6_raw_20261104t004121z.json salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Front-End Salesforce Commerce Cloud Job(Sfcc) Developer at GTT - Toronto, OH",
    "company": "GTT - Toronto, OH",
    "location": "Canada",
@@ -5859,27 +5898,6 @@
    ],
    "french": false,
    "search": "remote salesforce technical architect in toronto, ontario - orion global solutions orion global solutions canada ca.trabajo.org salesforce  salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Administrator (Contract position)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobboard.d9f.my-board.org/remote-jobs/salesforce-administrator-contract-position",
-   "note": "",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobboard.d9f.my-board.org",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce administrator (contract position) unknown canada jobboard.d9f.my-board.org salesforce  salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -7214,46 +7232,6 @@
    ],
    "french": false,
    "search": "business intelligence solution designer/ architect northbridge financial corporation toronto, ontario adzuna other data / bi role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Data Product Analyst (Data Science) in Markham, Ontario \\/ Careers at Adastra Head Office (Markham)",
-   "company": "Careers at Adastra Head Office (Markham)](https://careers-adastragrp.icims.com/jobs/5714/data-product-analyst-%28data-science%29/job)",
-   "location": "Careers at Adastra Head Office (Markham)",
-   "url": "https://careers-adastragrp.icims.com/jobs/5714/data-product-analyst-%28data-science%29/job",
-   "note": "Canada other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers-adastragrp.icims.com",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "data product analyst (data science) in markham, ontario \\/ careers at adastra head office (markham) careers at adastra head office (markham)](https://careers-adastragrp.icims.com/jobs/5714/data-product-analyst-%28data-science%29/job) careers at adastra head office (markham) careers-adastragrp.icims.com other canada other role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "NEARSOURCE TECHNOLOGIES hiring Senior Data Analyst (SQL, Power BI, Looker) in Toronto, Ontario, Canada \\/ LinkedIn",
-   "company": "LinkedIn](https://ca.linkedin.com/jobs/view/senior-data-analyst-sql-power-bi-looker-at-nearsource-technologies-4415089045)",
-   "location": "LinkedIn",
-   "url": "https://ca.linkedin.com/jobs/view/senior-data-analyst-sql-power-bi-looker-at-nearsource-technologies-4415089045",
-   "note": "Canada other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "nearsource technologies hiring senior data analyst (sql, power bi, looker) in toronto, ontario, canada \\/ linkedin linkedin](https://ca.linkedin.com/jobs/view/senior-data-analyst-sql-power-bi-looker-at-nearsource-technologies-4415089045) linkedin linkedin other canada other data/reporting role fit",
    "alternates": []
   },
   {
@@ -9194,46 +9172,6 @@
    ],
    "french": false,
    "search": "platform architect, core engine in calgary ab, calgary census division, ab; alberta - kinaxis unknown canada ca.trabajo.org other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "NCino Developer Job at RBC / CareerBeacon",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.careerbeacon.com/en/job-4/3211564/rbc/ncino-developer/toronto-on",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "CareerBeacon",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "ncino developer job at rbc / careerbeacon unknown canada careerbeacon other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "((C) Senior Software Engineer - Developer Platform Job at MLSE)(https://www.careerbeacon.com/en/job-22/3943362/mlse/c-senior-software-engineer-developer-platform/toronto-on)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.careerbeacon.com/en/job-22/3943362/mlse/c-senior-software-engineer-developer-platform/toronto-on",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "CareerBeacon",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "((c) senior software engineer - developer platform job at mlse)(https://www.careerbeacon.com/en/job-22/3943362/mlse/c-senior-software-engineer-developer-platform/toronto-on) unknown canada careerbeacon other 8 role fit canada / remote",
    "alternates": []
   },
   {
