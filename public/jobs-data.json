@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T12:17:31+00:00",
+ "generatedAt": "2026-11-05T13:12:46+00:00",
  "timezone": "America/Toronto",
- "count": 1733,
+ "count": 1734,
  "appliedHidden": 27,
  "sources": [
   "103.careerplug.com",
@@ -300,6 +300,33 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Architecte de solutions (ServiceNow)",
+   "company": "CGI",
+   "location": "Sherbrooke, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4434772040",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "architecte de solutions (servicenow) cgi sherbrooke, quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4438571090",
+     "label": "LinkedIn · Drummondville"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Business Analyst",
    "company": "Altus Group",
    "location": "300 - Toronto",
@@ -363,6 +390,27 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Developer",
+   "company": "Versapay",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-versapay-4479594702",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer versapay canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -33528,33 +33576,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/quality-engineering-senior-specialist-servicenow-platform-at-interac-corp-4465182167",
      "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-24",
-   "title": "Architecte de solutions (ServiceNow)",
-   "company": "CGI",
-   "location": "Drummondville, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4438571090",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "architecte de solutions (servicenow) cgi drummondville, quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4434772040",
-     "label": "LinkedIn · Sherbrooke"
     }
    ]
   },
