@@ -96,6 +96,23 @@ scan degrades to "nothing merged" instead of a corrupted board.
   its body was executed against the real report (`16/16 queries returned HTML · 186 cards ·
   13 net-new`).
 
+## The duplicate it produced, and the fix
+
+The first CI run of the workflow (41952135652) scanned cleanly — `16/16 queries returned
+HTML · 186 cards · 24 net-new`, matching the local run — and then re-submitted the same 24
+rows as `inbox/linkedin-pattern--2026-11-05--v2.md`, byte-identical to the `v1` file already
+on main.
+
+Cause: `known_ids()` matched only the *slugged* URL shape
+(`.../service-now-developer-at-kpmg-4482155163`), which is what `jobs.json` and older inbox
+files use. The scanner writes the canonical bare form (`.../jobs/view/4482155163`), so it could
+not recognise its own previous submissions and every run looked new. One regex now accepts
+both (`LINKEDIN_ID`), and `known_ids()` went from missing them to 947 ids.
+
+Verified idempotent: re-running against a tree that already contains the submission gives
+`186 cards → 0 net-new`. The duplicate `v2` and the empty `v3` were deleted; `v1` is the
+submission of record.
+
 ## The seed was lost, and what that changed
 
 `raw/linkedin_manual_2026-11-04.json` was **never committed** — `raw/` is untracked working

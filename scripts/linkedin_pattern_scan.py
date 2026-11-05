@@ -205,22 +205,27 @@ def parse_cards(html: str) -> list[dict]:
     return out
 
 
+# Both shapes occur in the repo: slugged (".../service-now-developer-at-kpmg-4482155163",
+# which jobs.json and the older inbox files use) and bare (".../jobs/view/4482155163", which
+# this scanner writes). Matching only the slugged form made every one of its own submissions
+# invisible to the next run, so each run re-submitted the same rows.
+LINKEDIN_ID = re.compile(r"linkedin\.com/jobs/view/(?:[^\s|)]*?-)?(\d{8,})(?=[\s|)?#]|$)")
+
+
 def known_ids() -> set[str]:
     """Every LinkedIn posting id already on the board, in an inbox submission, or archived."""
     ids: set[str] = set()
     for job in json.loads((ROOT / "jobs.json").read_text(encoding="utf-8"))["jobs"]:
         url = job.get("url") or ""
         if "linkedin" in url:
-            m = re.search(r"-(\d{8,})(?:\?|$)", url)
+            m = LINKEDIN_ID.search(url)
             if m:
                 ids.add(m.group(1))
     sources = [ROOT / "README.md", ROOT / "APPLIED.md"]
     sources += list(INBOX.glob("*.md"))
     for path in sources:
         try:
-            ids.update(re.findall(
-                r"linkedin\.com/jobs/view/[^\s|)]*?-(\d{8,})",
-                path.read_text(encoding="utf-8", errors="ignore")))
+            ids.update(LINKEDIN_ID.findall(path.read_text(encoding="utf-8", errors="ignore")))
         except OSError:
             continue
     return ids
