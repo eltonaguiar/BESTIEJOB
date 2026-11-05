@@ -1,0 +1,365 @@
+{
+ "scannedAt": "2026-11-05T01:58:18+00:00",
+ "method": "linkedin guest fragment endpoint (no login, no browser)",
+ "pattern": {
+  "seed_rows": 193,
+  "base_queries": [
+   {
+    "keyword": "ServiceNow",
+    "geo": "Toronto",
+    "rows": 60
+   },
+   {
+    "keyword": "Salesforce",
+    "geo": "Toronto",
+    "rows": 60
+   },
+   {
+    "keyword": "ServiceNow",
+    "geo": "Canada",
+    "rows": 40
+   },
+   {
+    "keyword": "Salesforce",
+    "geo": "Canada",
+    "rows": 33
+   }
+  ],
+  "role_variants": [
+   "Developer",
+   "Administrator",
+   "Architect",
+   "Consultant",
+   "Analyst",
+   "Technical Lead",
+   "Business Analyst",
+   "ITSM",
+   "ITAM",
+   "CMDB",
+   "ITOM",
+   "CSM",
+   "GRC",
+   "Platform",
+   "Engineer",
+   "Specialist"
+  ],
+  "employers": [
+   {
+    "company": "KPMG Canada",
+    "rows": 39
+   },
+   {
+    "company": "Salesforce",
+    "rows": 24
+   },
+   {
+    "company": "BDO Canada",
+    "rows": 9
+   },
+   {
+    "company": "Deloitte",
+    "rows": 8
+   },
+   {
+    "company": "CGI",
+    "rows": 8
+   },
+   {
+    "company": "Canadian Cancer Society",
+    "rows": 8
+   },
+   {
+    "company": "Tata Consultancy Services",
+    "rows": 5
+   },
+   {
+    "company": "Infosys",
+    "rows": 4
+   },
+   {
+    "company": "ServiceNow",
+    "rows": 4
+   },
+   {
+    "company": "PointClickCare",
+    "rows": 4
+   },
+   {
+    "company": "McKesson",
+    "rows": 4
+   },
+   {
+    "company": "Harris Computer",
+    "rows": 4
+   }
+  ],
+  "date_range": [
+   "2026-02-07",
+   "2026-11-01"
+  ],
+  "undated_share": 0.72
+ },
+ "queries": [
+  "ServiceNow \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow \u00d7 Canada",
+  "Salesforce \u00d7 Toronto, Ontario, Canada",
+  "Salesforce \u00d7 Canada",
+  "ServiceNow Developer \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow Administrator \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow Architect \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow Consultant \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow Analyst \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow Technical Lead \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow Business Analyst \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow ITSM \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow ITAM \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow CMDB \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow ITOM \u00d7 Toronto, Ontario, Canada",
+  "ServiceNow CSM \u00d7 Toronto, Ontario, Canada"
+ ],
+ "failed_queries": [],
+ "found": 186,
+ "net_new": 24,
+ "jobs": [
+  {
+   "id": "4484586343",
+   "title": "Senior Salesforce Developer / Admin",
+   "company": "Celestica",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-10-29",
+   "url": "https://ca.linkedin.com/jobs/view/4484586343",
+   "query": "Salesforce \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": false
+  },
+  {
+   "id": "4482543161",
+   "title": "ServiceNow Developer",
+   "company": "Lightspeed Commerce",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-10-28",
+   "url": "https://ca.linkedin.com/jobs/view/4482543161",
+   "query": "ServiceNow \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": false
+  },
+  {
+   "id": "4483743941",
+   "title": "D\u00e9veloppeur Salesforce",
+   "company": "CGI",
+   "location": "Montreal, Quebec, Canada",
+   "posted": "2026-10-27",
+   "url": "https://ca.linkedin.com/jobs/view/4483743941",
+   "query": "Salesforce \u00d7 Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4420467002",
+   "title": "Sr. Salesforce CRM Development Lead",
+   "company": "McKesson",
+   "location": "Mississauga, Ontario, Canada",
+   "posted": "2026-10-26",
+   "url": "https://ca.linkedin.com/jobs/view/4420467002",
+   "query": "Salesforce \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4481180659",
+   "title": "ServiceNow Senior Technical Consultant",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-10-22",
+   "url": "https://ca.linkedin.com/jobs/view/4481180659",
+   "query": "ServiceNow Developer \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": false
+  },
+  {
+   "id": "4408542861",
+   "title": "Senior Salesforce Developer",
+   "company": "CGI",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-10-19",
+   "url": "https://ca.linkedin.com/jobs/view/4408542861",
+   "query": "Salesforce \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4480274599",
+   "title": "Sr. Salesforce Developer \u2013 Financial Services Cloud",
+   "company": "Sagen",
+   "location": "Oakville, Ontario, Canada",
+   "posted": "2026-10-19",
+   "url": "https://ca.linkedin.com/jobs/view/4480274599",
+   "query": "Salesforce \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": false
+  },
+  {
+   "id": "4480255313",
+   "title": "Senior Salesforce Developer",
+   "company": "Capgemini",
+   "location": "Mississauga, Ontario, Canada",
+   "posted": "2026-10-19",
+   "url": "https://ca.linkedin.com/jobs/view/4480255313",
+   "query": "Salesforce \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": false
+  },
+  {
+   "id": "4454529945",
+   "title": "Senior Consultant, ServiceNow (ITAM/ITOM)",
+   "company": "KPMG Canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "posted": "2026-10-18",
+   "url": "https://ca.linkedin.com/jobs/view/4454529945",
+   "query": "ServiceNow \u00d7 Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4377531962",
+   "title": "Conseiller.\u00e8re /Conseiller.\u00e8re principal.e Service Now",
+   "company": "KPMG Canada",
+   "location": "Montreal, Quebec, Canada",
+   "posted": "2026-10-17",
+   "url": "https://ca.linkedin.com/jobs/view/4377531962",
+   "query": "ServiceNow \u00d7 Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4453621290",
+   "title": "Manager, ServiceNow Technical Lead",
+   "company": "KPMG Canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-10-16",
+   "url": "https://ca.linkedin.com/jobs/view/4453621290",
+   "query": "ServiceNow \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4480387793",
+   "title": "Conseiller.\u00e8re /Conseiller.\u00e8re principal.e fonctionnel.le - Service Now",
+   "company": "KPMG Canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-10-16",
+   "url": "https://ca.linkedin.com/jobs/view/4480387793",
+   "query": "ServiceNow \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4453623282",
+   "title": "Manager, ServiceNow Technical Lead",
+   "company": "KPMG Canada",
+   "location": "Halifax, Nova Scotia, Canada",
+   "posted": "2026-10-16",
+   "url": "https://ca.linkedin.com/jobs/view/4453623282",
+   "query": "ServiceNow \u00d7 Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4453621291",
+   "title": "Manager, ServiceNow Technical Lead",
+   "company": "KPMG Canada",
+   "location": "Ottawa, Ontario, Canada",
+   "posted": "2026-10-15",
+   "url": "https://ca.linkedin.com/jobs/view/4453621291",
+   "query": "ServiceNow \u00d7 Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4479142802",
+   "title": "Senior Technical Business Systems Analyst",
+   "company": "Tata Consultancy Services",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-10-15",
+   "url": "https://ca.linkedin.com/jobs/view/4479142802",
+   "query": "ServiceNow Business Analyst \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4462376036",
+   "title": "ServiceNow Sr. ITAM(SAM/HAM) Developer",
+   "company": "ServiceIO Consultancy Services",
+   "location": "Regional Municipality of Peel, Ontario, Canada",
+   "posted": "2026-09-05",
+   "url": "https://ca.linkedin.com/jobs/view/4462376036",
+   "query": "ServiceNow Developer \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": false
+  },
+  {
+   "id": "4456177001",
+   "title": "Expert Software Engineer \u2013 ServiceNow",
+   "company": "Lynn Rodens",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-08-19",
+   "url": "https://ca.linkedin.com/jobs/view/4456177001",
+   "query": "ServiceNow Developer \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": false
+  },
+  {
+   "id": "4447307207",
+   "title": "Salesforce Developer",
+   "company": "Intelli-CloudWare Inc",
+   "location": "Scarborough, Ontario, Canada",
+   "posted": "2026-08-04",
+   "url": "https://ca.linkedin.com/jobs/view/4447307207",
+   "query": "Salesforce \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": false
+  },
+  {
+   "id": "4424737052",
+   "title": "ServiceNow Functional Consultant",
+   "company": "BDO Canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-06-16",
+   "url": "https://ca.linkedin.com/jobs/view/4424737052",
+   "query": "ServiceNow Consultant \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4424731903",
+   "title": "ServiceNow Functional Consultant",
+   "company": "BDO Canada",
+   "location": "Markham, Ontario, Canada",
+   "posted": "2026-06-16",
+   "url": "https://ca.linkedin.com/jobs/view/4424731903",
+   "query": "ServiceNow Consultant \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4424743028",
+   "title": "ServiceNow Functional Consultant",
+   "company": "BDO Canada",
+   "location": "Oakville, Ontario, Canada",
+   "posted": "2026-06-15",
+   "url": "https://ca.linkedin.com/jobs/view/4424743028",
+   "query": "ServiceNow Consultant \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4361500005",
+   "title": "ServiceNow Senior Developer",
+   "company": "BDO Canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted": "2026-01-16",
+   "url": "https://ca.linkedin.com/jobs/view/4361500005",
+   "query": "ServiceNow \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4361275403",
+   "title": "ServiceNow Senior Developer",
+   "company": "BDO Canada",
+   "location": "Markham, Ontario, Canada",
+   "posted": "2026-01-16",
+   "url": "https://ca.linkedin.com/jobs/view/4361275403",
+   "query": "ServiceNow Developer \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  },
+  {
+   "id": "4361169871",
+   "title": "ServiceNow Senior Developer",
+   "company": "BDO Canada",
+   "location": "Oakville, Ontario, Canada",
+   "posted": "2026-01-16",
+   "url": "https://ca.linkedin.com/jobs/view/4361169871",
+   "query": "ServiceNow Developer \u00d7 Toronto, Ontario, Canada",
+   "pattern_employer": true
+  }
+ ]
+}
