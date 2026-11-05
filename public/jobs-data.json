@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T12:06:15+00:00",
+ "generatedAt": "2026-11-05T12:33:14+00:00",
  "timezone": "America/Toronto",
- "count": 439,
+ "count": 436,
  "appliedHidden": 12,
  "sources": [
   "Adzuna",
@@ -114,7 +114,6 @@
   "jobsbrampton.ca",
   "jobsca.org",
   "jobstore.com",
-  "kitjob.ca",
   "leadingtalent.ca",
   "meterwork.com",
   "morson.com",
@@ -157,6 +156,28 @@
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-05",
+   "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
+   "company": "DXC Technology",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer (itsm module) at client site in ottawa dxc technology ottawa, ontario, canada linkedin servicenow  servicenow itsm role fit toronto area",
+   "alternates": []
+  },
   {
    "posted": "2026-11-05",
    "title": "Intermediate Technology Specialist, Service Now Developer",
@@ -220,6 +241,27 @@
    ],
    "french": false,
    "search": "salesforce business analyst altus group canada adzuna salesforce  salesforce consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Developer",
+   "company": "Versapay",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-versapay-4479594702",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer versapay canada linkedin salesforce  salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -344,6 +386,26 @@
    ],
    "french": false,
    "search": "salesforce technical lead finning surrey, greater vancouver adzuna salesforce  salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Production Support Associate",
+   "company": "NTT DATA North America",
+   "location": "Halifax, Nova Scotia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-production-support-associate-at-ntt-data-north-america-4479283413",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce production support associate ntt data north america halifax, nova scotia, canada linkedin salesforce  salesforce canada / remote",
    "alternates": []
   },
   {
@@ -3094,27 +3156,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "((Hiring) Senior ServiceNow Implementation Specialist @TELUS Digital)(https://remotive.com/remote/jobs/software-development/senior-servicenow-implementation-specialist-4156554)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://remotive.com/remote/jobs/software-development/senior-servicenow-implementation-specialist-4156554",
-   "note": "9",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "((hiring) senior servicenow implementation specialist @telus digital)(https://remotive.com/remote/jobs/software-development/senior-servicenow-implementation-specialist-4156554) unknown canada remotive.com servicenow 9 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "servicenow Jobs in Calgary, AB / Hiring Now / Talent.com",
    "company": "Unknown",
    "location": "Canada",
@@ -3211,26 +3252,6 @@
    ],
    "french": false,
    "search": "remote servicenow wsd dev for 3-month contract unknown canada jobleads.com servicenow  servicenow canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer (Canada) in Canada \\/ Kit Job",
-   "company": "Kit Job](https://www.kitjob.ca/job/181847876/servicenow-developer-canada)",
-   "location": "Kit Job",
-   "url": "https://www.kitjob.ca/job/181847876/servicenow-developer-canada",
-   "note": "Canada",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "kitjob.ca",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow developer (canada) in canada \\/ kit job kit job](https://www.kitjob.ca/job/181847876/servicenow-developer-canada) kit job kitjob.ca servicenow canada servicenow role fit",
    "alternates": []
   },
   {
@@ -5855,48 +5876,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Developer – Remote · Quebec, Quebec, Canada / Brunel",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/brunel/jobs/salesforce-developer-remote-quebec-quebec-canada-d93ee83e55ca",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer – remote · quebec, quebec, canada / brunel unknown canada jobs.ca salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Developer – Remote · Canada / LGS Talent",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/talents-lgs/jobs/salesforce-developer-remote-canada-294fa22f2418",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer – remote · canada / lgs talent unknown canada jobs.ca salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Front-End Salesforce Commerce Cloud Job(Sfcc) Developer at GTT - Toronto, OH",
    "company": "GTT - Toronto, OH",
    "location": "Canada",
@@ -5914,27 +5893,6 @@
    ],
    "french": false,
    "search": "front-end salesforce commerce cloud job(sfcc) developer at gtt - toronto, oh gtt - toronto, oh canada sonara.ai salesforce  salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Remote Salesforce Technical Architect in Toronto, Ontario - Orion Global Solutions",
-   "company": "Orion Global Solutions",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-1918-274f8ab1f9b2cb3ba4aa1bbb9a831df2",
-   "note": "",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "remote salesforce technical architect in toronto, ontario - orion global solutions orion global solutions canada ca.trabajo.org salesforce  salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -6267,26 +6225,6 @@
    ],
    "french": false,
    "search": "bmo campus junior salesforce administrator - bmo \\/ bebee bebee](https://bebee.com/ca/jobs/bmo-campus-junior-salesforce-administrator-bmo-toronto-on-canada--jobgoal-24997_c289431925c95db00caa82713ff38657) bmo \\ bebee.com salesforce bebee canada salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Solution Architect, Salesforce Core / Agentforce, Canada - OSF Digital \\/ Built In Toronto",
-   "company": "Built In Toronto](https://builtintoronto.com/job/solution-architect-salesforce-core-agentforce-canada/10184300)",
-   "location": "OSF Digital \\",
-   "url": "https://builtintoronto.com/job/solution-architect-salesforce-core-agentforce-canada/10184300",
-   "note": "Built In Toronto Canada",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "solution architect, salesforce core / agentforce, canada - osf digital \\/ built in toronto built in toronto](https://builtintoronto.com/job/solution-architect-salesforce-core-agentforce-canada/10184300) osf digital \\ builtin salesforce built in toronto canada salesforce role fit",
    "alternates": []
   },
   {

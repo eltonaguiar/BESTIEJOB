@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T120615Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T123314Z.md`.
 
 ## Contents
 
@@ -29,6 +29,7 @@ _developer / administrator / architect / analyst roles_
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744570) | ServiceNow | Toronto, Ontario, ca |  |
+| 2026-11-05 | [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985) | DXC Technology | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744779) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-05 | [Intermediate Technology Specialist, Service Now Developer](https://www.adzuna.ca/details/5954040266) | Equitable | Waterloo region, Ontario |  |
 | 2026-11-04 | [🚨WE’RE HIRING / ServiceNow Solution Architect – CTA Certified / Devansh Gupta](https://www.linkedin.com/posts/devansh-gupta-0489b9222_hiring-servicenow-servicenowjobs-activity-7501335133141184513-aasr) | Unknown | Canada | 7/10 via |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [((Hiring) ServiceNow Specialist @NexGedia Enterprise)(https://remotive.com/remote/jobs/all-others/servicenow-specialist-5792496)](https://remotive.com/remote/jobs/all-others/servicenow-specialist-5792496) | Unknown | Canada | 8 |
 | 2026-11-04 | [((Hiring) ServiceNow Senior Technical Consultant @Crossfuze)(https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965)](https://remotive.com/remote/jobs/software-development/servicenow-senior-technical-consultant-4902965) | Unknown | Canada | 9 |
 | 2026-11-04 | [((Hiring) ServiceNow ITAM Architect @FX Innovation - Remote jobs)(https://remotive.com/remote/jobs/all-others/servicenow-itam-architect-5201901)](https://remotive.com/remote/jobs/all-others/servicenow-itam-architect-5201901) | Unknown | Canada | 8 |
-| 2026-11-04 | [((Hiring) Senior ServiceNow Implementation Specialist @TELUS Digital)(https://remotive.com/remote/jobs/software-development/senior-servicenow-implementation-specialist-4156554)](https://remotive.com/remote/jobs/software-development/senior-servicenow-implementation-specialist-4156554) | Unknown | Canada | 9 |
 
 </details>
 
@@ -191,6 +191,8 @@ _developer / administrator / architect / consultant roles_
 |---|---|---|---|---|
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5954076592) | Finning | Surrey, Greater Vancouver |  |
+| 2026-11-05 | [Salesforce Production Support Associate](https://ca.linkedin.com/jobs/view/salesforce-production-support-associate-at-ntt-data-north-america-4479283413) | NTT DATA North America | Halifax, Nova Scotia, Canada |  |
+| 2026-11-05 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-versapay-4479594702) | Versapay | Canada |  |
 | 2026-11-05 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5954046522) | Altus Group | Canada |  |
 | 2026-11-05 | [Salesforce BSA](https://www.adzuna.ca/details/5953986381) | Cognizant | Toronto, Ontario |  |
 | 2026-11-04 | [salesforce developer Jobs in Gatineau, QC / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-salesforce-developer-l-gatineau-qc) | Unknown | Canada | 5 |
@@ -337,8 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Salesforce Developer – Toronto, ON / Tundra Technical Solutions](https://www.jobs.ca/tundra-technical-solutions/jobs/salesforce-developer-toronto-on-ae421bdd5862) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce Developer – Toronto, ON / Intelli-CloudWare Inc](https://www.jobs.ca/intelli-cloudware-inc/jobs/salesforce-developer-toronto-on-543d02a0da9c) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce Developer – Sales, Service & Marketing / Cloud Data Vision](https://www.jobs.ca/cloud-data-vision/jobs/salesforce-developer-sales-service-marketing-calgary-ab-d45e2c2f87f7) | Unknown | Canada | 6 |
-| 2026-11-04 | [Salesforce Developer – Remote · Quebec, Quebec, Canada / Brunel](https://www.jobs.ca/brunel/jobs/salesforce-developer-remote-quebec-quebec-canada-d93ee83e55ca) | Unknown | Canada | 7 |
-| 2026-11-04 | [Salesforce Developer – Remote · Canada / LGS Talent](https://www.jobs.ca/talents-lgs/jobs/salesforce-developer-remote-canada-294fa22f2418) | Unknown | Canada | 7 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T12:00:01.367Z** · 2023 live postings from 9 public sources · 78 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-05T12:30:01.920Z** · 2024 live postings from 9 public sources · 78 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -582,6 +582,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Intermediate Technology Specialist, Service Now Developer](https://www.adzuna.ca/details/5954040266) | Equitable | Waterloo region, Ontario |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744779) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744570) | ServiceNow | Toronto, Ontario, ca |
+| 2026-11-05 | [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985) | DXC Technology | Ottawa, Ontario, Canada |
 | 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://www.adzuna.ca/details/5953648278) | Deloitte | Toronto, Ontario |
 | 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://www.adzuna.ca/details/5953557971) | Deloitte | Toronto, Ontario |
 | 2026-11-04 | [ServiceNow ITAM Consultant - Secret Clearance - Alldus International Consulting Limited - Remote \| Dice.com](https://www.dice.com/job-detail/0a53baba-3486-426c-b6f3-4046fd578f7c) | Unknown | Canada |
@@ -590,7 +591,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-04 | [Job opening - ServiceNow Technical Architect in Toronto \| Randstad](https://www.randstad.com/jobs/servicenow-technical-architect_toronto_47644537/) | ServiceNow Technical Architect in Toronto \| Randstad | Canada |
 | 2026-11-04 | [Sr Principal Platform Architect, Toronto \| ServiceNow Careers](https://careers.servicenow.com/jobs/744000127485110/sr-principal-platform-architect/) | ServiceNow Careers | Canada |
 | 2026-11-04 | [Remote ServiceNow WSD Dev for 3-Month Contract](https://www.jobleads.com/ca/job/remote-servicenow-wsd-dev-for-3-month-contract--canada--e39b2f838521d43bb3c3eed2c6ab1bc3a) | Unknown | Canada |
-| 2026-11-04 | [ServiceNow Developer (Canada) in Canada \| Kit Job](https://www.kitjob.ca/job/181847876/servicenow-developer-canada) | Kit Job | Canada |
 
 ### Salesforce — newest 12
 
@@ -599,15 +599,15 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5954076592) | Finning | Surrey, Greater Vancouver |
 | 2026-11-05 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5954046522) | Altus Group | Canada |
 | 2026-11-05 | [Salesforce BSA](https://www.adzuna.ca/details/5953986381) | Cognizant | Toronto, Ontario |
+| 2026-11-05 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-versapay-4479594702) | Versapay | Canada |
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |
+| 2026-11-05 | [Salesforce Production Support Associate](https://ca.linkedin.com/jobs/view/salesforce-production-support-associate-at-ntt-data-north-america-4479283413) | NTT DATA North America | Halifax, Nova Scotia, Canada |
 | 2026-11-04 | [Front-End Salesforce Commerce Cloud Job(Sfcc) Developer at GTT - Toronto, OH](https://www.sonara.ai/job-details/front-end-salesforce-commerce-cloud-at-gtt-202f34c3-f609-f317-cc69-b8cf5dcdf1e8) | GTT - Toronto, OH | Canada |
 | 2026-11-04 | [Salesforce Developer \| Spait Infotech](https://www.jobs.ca/spait-infotech/jobs/salesforce-developer-canada-21f68191f6c0) | Spait Infotech | Canada |
 | 2026-11-04 | [NTT DATA hiring Salesforce QA Automation Engineer (Junior/Mid) with CRT - Remote Canada Position • Remote (Work from Home) \| Himalayas](https://himalayas.app/companies/nttdata/jobs/salesforce-qa-automation-engineer-junior-mid-with-crt-remote-canada-position) | NTT DATA | Canada |
 | 2026-11-04 | [Salesforce Developer - Campus4Tech \| BeBee](https://bebee.com/ca/jobs/salesforce-developer-campus4tech-none-canada--jobgoal-29323_161104898506) | Campus4Tech \| BeBee | Canada |
 | 2026-11-04 | [Junior Salesforce Developer - Electric Mind \| Built In Toronto](https://builtintoronto.com/job/junior-salesforce-developer/6885152) | Electric Mind \| Built In Toronto | Canada |
 | 2026-11-04 | [BMO Campus Junior Salesforce Administrator - BMO \| BeBee](https://bebee.com/ca/jobs/bmo-campus-junior-salesforce-administrator-bmo-toronto-on-canada--jobgoal-24997_C289431925C95DB00CAA82713FF38657) | BMO \| BeBee | Canada |
-| 2026-11-04 | [Solution Architect, Salesforce Core / Agentforce, Canada - OSF Digital \| Built In Toronto](https://builtintoronto.com/job/solution-architect-salesforce-core-agentforce-canada/10184300) | OSF Digital \| Built In Toronto | Canada |
-| 2026-11-04 | [Remote Salesforce Technical Architect in Toronto, Ontario - Orion Global Solutions](https://ca.trabajo.org/job-1918-274f8ab1f9b2cb3ba4aa1bbb9a831df2) | Orion Global Solutions | Canada |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-05T120615Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
+`README.BAK_2026-11-05T123314Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
