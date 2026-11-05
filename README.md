@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T230159Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T233144Z.md`.
 
 ## Contents
 
@@ -195,6 +195,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-05 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486756619) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486792181) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
+| 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486914315) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5954560876) | LTM | Toronto, Ontario |  |
 | 2026-11-05 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5954559999) | IA Financial Services | Québec, Canada |  |
 | 2026-11-05 | [Salesforce Revenue Cloud CPQ (RCA) Architect](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-cpq-rca-architect-at-smart-it-frame-llc-4486767430) | Smart IT Frame LLC | Canada |  |
@@ -213,6 +214,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-05 | [Salesforce Administrator (Hybrid)](https://www.adzuna.ca/details/5954406900) | Survalent | Mississauga, Peel region |  |
 | 2026-11-05 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-survalent-4486500184) | Survalent | Greater Toronto Area, Canada | via linkedin-rounds21-30--2026-11-06--v1.md |
 | 2026-11-05 | [Request ID: 114262-1 - Salesforce Communications Cloud Developer](https://www.adzuna.ca/details/5954288531) | Flexstaf IT | Toronto, Ontario |  |
+| 2026-11-05 | [Principal Application Engineer (Salesforce)](https://ca.linkedin.com/jobs/view/principal-application-engineer-salesforce-at-pointclickcare-4486922215) | PointClickCare | Mississauga, Ontario, Canada |  |
 | 2026-11-05 | [Engineering Manager, Salesforce](https://martechjobs.io/job/30675/engineering-manager-salesforce-at-brex/) | Brex | Vancouver, British Columbia, Canada | via non-mainstream-harvest--2026-11-05--v1.md |
 | 2026-11-04 | [salesforce developer Jobs in Gatineau, QC / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-salesforce-developer-l-gatineau-qc) | Unknown | Canada | 5 |
 | 2026-11-04 | [salesforce developer Jobs in Calgary, AB / Hiring Now / Talent.com](https://ca.talent.com/jobs/k-salesforce-developer-l-calgary-ab) | Unknown | Canada | 7 |
@@ -337,8 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Salesforce Platform Developer at Altus Group Limited/Groupe Altus](https://startup.jobs/salesforce-platform-developer-altus-group-limited-groupe-a-10638766) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [Salesforce Platform Developer R0014087](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Salesforce-Platform-Developer_R0014087) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce Platform Developer @ Reonomy / Lerer Hippeau Job Board](https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer) | Unknown | Canada | 8 |
-| 2026-11-04 | [Salesforce Platform Administrator – Hybrid · Calgary, AB / Jobs.ca](https://www.jobs.ca/finning/jobs/salesforce-platform-administrator-calgary-ab-4ac6d84b0d61) | Unknown | Canada | 7 |
-| 2026-11-04 | [Salesforce Platform Administrator at Finning / RevOps Roles](https://revopsroles.com/jobs/33dec6d5-2025-4f1d-a707-e384ae34dfd8) | Unknown | Canada | 7 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T23:00:01.153Z** · 2064 live postings from 8 public sources · 73 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-05T23:30:02.029Z** · 2064 live postings from 8 public sources · 73 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -605,9 +605,9 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Salesforce BSA](https://www.adzuna.ca/details/5953986381) | Cognizant | Toronto, Ontario |
 | 2026-11-05 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-loopio-4488056674) | Loopio | Toronto, Ontario, Canada |
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |
-| 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486792181) | Smart IT Frame LLC | Toronto, Ontario, Canada |
+| 2026-11-05 | [Principal Application Engineer (Salesforce)](https://ca.linkedin.com/jobs/view/principal-application-engineer-salesforce-at-pointclickcare-4486922215) | PointClickCare | Mississauga, Ontario, Canada |
+| 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486914315) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 | 2026-11-05 | [Salesforce Consultant - FSC Cloud](https://ca.linkedin.com/jobs/view/salesforce-consultant-fsc-cloud-at-enterprise-solutions-inc-4483663839) | Enterprise Solutions Inc. | Toronto, Ontario, Canada |
-| 2026-11-05 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-05T230159Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
+`README.BAK_2026-11-05T233144Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.

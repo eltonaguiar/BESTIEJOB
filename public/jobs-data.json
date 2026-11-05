@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T23:02:00+00:00",
+ "generatedAt": "2026-11-05T23:31:44+00:00",
  "timezone": "America/Toronto",
- "count": 406,
+ "count": 405,
  "appliedHidden": 13,
  "sources": [
   "Adzuna",
@@ -122,7 +122,6 @@
   "remotesource.com",
   "remotive.com",
   "resuminder.com",
-  "revopsroles.com",
   "revpath.dealhub.io",
   "salesforce.com",
   "scoutify.com",
@@ -693,6 +692,27 @@
    ],
    "french": false,
    "search": "request id: 114262-1 - salesforce communications cloud developer flexstaf it toronto, ontario adzuna salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Principal Application Engineer (Salesforce)",
+   "company": "PointClickCare",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/principal-application-engineer-salesforce-at-pointclickcare-4486922215",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "principal application engineer (salesforce) pointclickcare mississauga, ontario, canada linkedin salesforce  salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -5913,48 +5933,6 @@
    ],
    "french": false,
    "search": "salesforce platform developer @ reonomy / lerer hippeau job board unknown canada jobs.lererhippeau.com salesforce 8 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Platform Administrator – Hybrid · Calgary, AB / Jobs.ca",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/finning/jobs/salesforce-platform-administrator-calgary-ab-4ac6d84b0d61",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce platform administrator – hybrid · calgary, ab / jobs.ca unknown canada jobs.ca salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Platform Administrator at Finning / RevOps Roles",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://revopsroles.com/jobs/33dec6d5-2025-4f1d-a707-e384ae34dfd8",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "revopsroles.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce platform administrator at finning / revops roles unknown canada revopsroles.com salesforce 7 salesforce role fit canada / remote",
    "alternates": []
   },
   {
