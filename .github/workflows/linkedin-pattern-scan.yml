@@ -1,0 +1,101 @@
+name: Weekly LinkedIn pattern scan
+
+# Complements the daily sweep in linkedin-sweep.yml, which asks LinkedIn for the last
+# three days only (`f_TPR=r259200`) and drops any row without a posted date. That window
+# cannot see a posting that is still open but was listed two weeks ago — which is exactly
+# what the manual harvest of 2026-11-04 turned up: 100 of its 193 rows were missing from
+# jobs.json, and 72% of them were undated.
+#
+# This job repeats the manual harvest's method instead: the query matrix and employer set
+# are derived from raw/linkedin_manual_2026-11-04.json (scripts/linkedin_pattern_scan.py
+# --derive prints them), there is no date filter, and the guest endpoint is used directly
+# so it needs no browser, no display and no Windows machine.
+#
+# It writes only raw/ and inbox/. The merger picks the submission up on its next run, so a
+# bad scan degrades to "nothing merged" rather than corrupting the board.
+
+on:
+  schedule:
+    - cron: '40 9 * * 1'   # Mondays 09:40 UTC = 04:40 America/Toronto
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: 'Pages of 10 results per query'
+        required: false
+        default: '3'
+      max_queries:
+        description: 'How many keyword x geo queries'
+        required: false
+        default: '16'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: linkedin-pattern
+  cancel-in-progress: false
+
+jobs:
+  pattern:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install curl_cffi
+
+      - name: Derive the pattern from the manual harvest
+        run: python3 scripts/linkedin_pattern_scan.py --derive
+
+      - name: Scan
+        env:
+          PAGES: ${{ github.event.inputs.pages || '3' }}
+          MAXQ: ${{ github.event.inputs.max_queries || '16' }}
+        run: python3 scripts/linkedin_pattern_scan.py --pages "$PAGES" --max-queries "$MAXQ"
+
+      - name: Refuse to publish a silent failure
+        # A datacenter IP gets HTTP 429 from this endpoint. The scanner retries with backoff,
+        # but if every query failed the run must be red — an empty submission is not "no jobs".
+        run: |
+          set -euo pipefail
+          report=$(ls -t raw/linkedin_pattern_*.json | head -1)
+          python3 - "$report" <<'PY'
+          import json, sys
+          d = json.load(open(sys.argv[1]))
+          failed, queries = len(d["failed_queries"]), len(d["queries"])
+          print(f"{queries - failed}/{queries} queries returned HTML · {d['found']} cards · {d['net_new']} net-new")
+          if failed and failed == queries:
+              sys.exit("::error::every query was blocked (429?) — nothing was scanned, not even a partial page")
+          if failed:
+              print(f"::warning::{failed} of {queries} queries never returned HTML")
+          PY
+
+      - name: Validate the submission
+        run: python3 scripts/check_inbox.py
+
+      - name: Commit the submission
+        run: |
+          set -euo pipefail
+          git config user.name "bestiejob-sweep"
+          git config user.email "bestiejob-sweep@users.noreply.github.com"
+          git add raw/linkedin_pattern_*.json inbox/linkedin-pattern--*.md
+          if git diff --cached --quiet; then
+            echo "no new rows this week"
+            exit 0
+          fi
+          git commit -m "chore(scan): weekly LinkedIn pattern scan $(date -u +%Y-%m-%d) [skip ci]"
+          for i in 1 2 3 4; do
+            git fetch -q origin main
+            git rebase -q origin/main || { git rebase --abort; sleep 5; continue; }
+            git push -q origin HEAD:main && { echo "pushed on attempt $i"; exit 0; }
+            sleep 5
+          done
+          echo "::error::could not push after retries"
+          exit 1
