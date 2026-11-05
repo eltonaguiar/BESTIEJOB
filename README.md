@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T153315Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T160446Z.md`.
 
 ## Contents
 
@@ -29,12 +29,14 @@ _developer / administrator / architect / analyst roles_
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744570) | ServiceNow | Toronto, Ontario, ca |  |
+| 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159910447) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486753505) | Yochana | Canada |  |
 | 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486757401) | Yochana | Canada |  |
 | 2026-11-05 | [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985) | DXC Technology | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [ServiceNow Architect](https://www.adzuna.ca/details/5954388577) | Flexstaf IT | Ontario, Canada |  |
 | 2026-11-05 | [Service Now Developers](https://www.adzuna.ca/details/5954388583) | Flexstaf IT | Ontario, Canada |  |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744779) | ServiceNow | Toronto, Ontario, ca |  |
+| 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159911194) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-05 | [Intermediate Technology Specialist, Service Now Developer](https://www.adzuna.ca/details/5954040266) | Equitable | Waterloo region, Ontario |  |
 | 2026-11-05 | [Architecte de solutions (ServiceNow)](https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4434772040) | CGI | Sherbrooke, Quebec, Canada |  |
 | 2026-11-04 | [🚨WE’RE HIRING / ServiceNow Solution Architect – CTA Certified / Devansh Gupta](https://www.linkedin.com/posts/devansh-gupta-0489b9222_hiring-servicenow-servicenowjobs-activity-7501335133141184513-aasr) | Unknown | Canada | 7/10 via |
@@ -176,8 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Dev & Solutions Consultant - Vancouver / Sercanto](https://ca.sercanto.com/detail/a/servicenow-dev-solutions-consultant_vancouver_171845681) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Designer (Figma)](https://jobportal.altis.com/ad?b=altisprofessional&jobid=22608) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Consultant jobs in Your Area / Jobs-search ORG](https://jobs-search.org/information-technology/servicenow-consultant) | Unknown | Canada | 7/10 via |
-| 2026-11-04 | [ServiceNow Consultant - REMOTE Job at NTT DATA](https://www.careerbeacon.com/en/job-9/4010955/ntt-data/servicenow-consultant-remote/ottawa-on) | Unknown | Canada | 9 |
-| 2026-11-04 | [ServiceNow Consultant - REMOTE Contract Job](https://qualitycontracts.co.uk/contract-jobs/remote-servicenow-consultant-remote-in-remote-1791894181) | Unknown | Canada | 9 |
 
 </details>
 
@@ -192,6 +192,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5954076592) | Finning | Surrey, Greater Vancouver |  |
 | 2026-11-05 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
+| 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486756619) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Revenue Cloud CPQ (RCA) Architect](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-cpq-rca-architect-at-smart-it-frame-llc-4486767430) | Smart IT Frame LLC | Canada |  |
 | 2026-11-05 | [Salesforce Quality Engineering Lead](https://ca.linkedin.com/jobs/view/salesforce-quality-engineering-lead-at-brunel-4475434632) | Brunel | Quebec, Canada |  |
 | 2026-11-05 | [Salesforce Production Support Associate](https://ca.linkedin.com/jobs/view/salesforce-production-support-associate-at-ntt-data-north-america-4479283413) | NTT DATA North America | Halifax, Nova Scotia, Canada |  |
@@ -338,7 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Salesforce Functional Analyst](https://www.adzuna.ca/details/5952816248) | Manulife | Canada | adzuna |
 | 2026-11-04 | [Salesforce Financial Services Cloud Consultant/Developer - Plign Digital Inc. (DBA Modes Technology) / Vancouver, BC](https://www.workopolis.com/jobsearch/viewjob/q4ae5_DqcAvZyv2kqZ60O6rzUzD4ZDfzA_w6Ir3nBWVSsd8TrisGMT8i1KLI3yM2) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce Financial Services Cloud Consultant in Toronto ON, Toronto Census Division, ON; Ontario - Manulife](https://ca.trabajo.org/job-2844-2cf3a4280ff3c6b283f7bbfaad706132) | Unknown | Canada | 7 |
-| 2026-11-04 | [Salesforce Engineering Manager - PRM Systems in Vancouver, BC • Asana Jobs](https://asana.com/jobs/apply/7387310?gh_src=2853c6e01us) | Unknown | Canada | 7 |
 
 </details>
 
@@ -355,8 +355,10 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953989200) | ServiceNow, Inc. | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953992006) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-05 | [Senior Full Stack .NET Developer](https://www.adzuna.ca/details/5954277117?utm_medium=api&utm_source=54ce986e) | PEPOLTek LTD | Laval, Laval region | Full stack |
+| 2026-11-05 | [Senior Full Stack .NET Developer](https://www.adzuna.ca/details/5954395994?utm_medium=api&utm_source=54ce986e) | PEPOLTek LTD | Laval, Laval region | Full stack |
 | 2026-11-05 | [Senior Data Analyst, Live Games](https://www.adzuna.ca/details/5954408838) | Big Viking Games | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Senior Associate, Business Intelligence & Reporting Developer](https://www.adzuna.ca/details/5953992113?utm_medium=api&utm_source=54ce986e) | MUFG Investor Services | Toronto, Ontario | Data / BI |
+| 2026-11-05 | [Senior Associate, Business Intelligence & Reporting Developer](https://www.adzuna.ca/details/5954387116?utm_medium=api&utm_source=54ce986e) | MUFG Investor Services | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Intermediate Fullstack Engineer, Subscription Lifecycle](https://www.adzuna.ca/details/5954059558) | GitLab | Canada | Full stack |
 | 2026-11-05 | [Business Intelligence (BI) Data Engineer](https://www.adzuna.ca/details/5954077021?utm_medium=api&utm_source=54ce986e) | Semex | Guelph, Wellington region | Data / BI |
 | 2026-11-05 | [Business Intelligence (BI) Data Engineer](https://www.adzuna.ca/details/5954203118?utm_medium=api&utm_source=54ce986e) | Semex | Guelph, Wellington region | Data / BI |
@@ -498,8 +500,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [RQ09848 - Software Developer - CRM - Senior Job in Bytecraft Soultions - Toronto, ON, CA](https://ca.mncjobz.com/jobs/rq09848-software-developer-crm-senior-toronto-3052745) | Unknown | Canada | 8 |
 | 2026-11-04 | [Product Specialist - CRM / Dayforce Jobs](https://jobs.dayforcehcm.com/en-US/pbssystems/103772/jobs/11162) | Unknown | Canada | 7 |
 | 2026-11-04 | [Product Owner - Product  management](https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Responsable-de-produit--Plateforme-Azure_R2610067-1) | Desjardins | Montréal | via buffy-scan60d--2026-11-04--v1.md |
-| 2026-11-04 | [Principal Software Engineer - AI Platform at Workday](https://echojobs.io/job/workday-principal-software-engineer-ai-platform-msr4n) | Unknown | Canada | 8 |
-| 2026-11-04 | [Principal Engineer, Cloud Platforms – Autodesk – Job Toronto, ON](https://ca.talent.com/view?id=642209450363848719) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,12 +573,14 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T15:30:01.278Z** · 2032 live postings from 9 public sources · 77 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-05T16:00:01.219Z** · 2035 live postings from 9 public sources · 76 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159911194) | ServiceNow | Toronto, Ontario, ca |
+| 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159910447) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-05 | [ServiceNow Architect](https://www.adzuna.ca/details/5954388577) | Flexstaf IT | Ontario, Canada |
 | 2026-11-05 | [Service Now Developers](https://www.adzuna.ca/details/5954388583) | Flexstaf IT | Ontario, Canada |
 | 2026-11-05 | [Intermediate Technology Specialist, Service Now Developer](https://www.adzuna.ca/details/5954040266) | Equitable | Waterloo region, Ontario |
@@ -589,8 +591,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486753505) | Yochana | Canada |
 | 2026-11-05 | [ServiceNow OTSM and CMDB Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486757401) | Yochana | Canada |
 | 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://www.adzuna.ca/details/5953648278) | Deloitte | Toronto, Ontario |
-| 2026-11-04 | [ServiceNow Cyber Sales Executive (Senior Manager)](https://www.adzuna.ca/details/5953557971) | Deloitte | Toronto, Ontario |
-| 2026-11-04 | [ServiceNow ITAM Consultant - Secret Clearance - Alldus International Consulting Limited - Remote \| Dice.com](https://www.dice.com/job-detail/0a53baba-3486-426c-b6f3-4046fd578f7c) | Unknown | Canada |
 
 ### Salesforce — newest 12
 
@@ -606,14 +606,16 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Salesforce Data Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483) | Enterprise Solutions Inc. | Toronto, Ontario, Canada |
 | 2026-11-05 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-versapay-4479594702) | Versapay | Canada |
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |
+| 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486756619) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 | 2026-11-05 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |
-| 2026-11-05 | [Salesforce Revenue Cloud CPQ (RCA) Architect](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-cpq-rca-architect-at-smart-it-frame-llc-4486767430) | Smart IT Frame LLC | Canada |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
 | 2026-11-05 | [Senior Data Analyst, Live Games](https://www.adzuna.ca/details/5954408838) | Big Viking Games | Toronto, Ontario | Data / BI |
+| 2026-11-05 | [Senior Full Stack .NET Developer](https://www.adzuna.ca/details/5954395994?utm_medium=api&utm_source=54ce986e) | PEPOLTek LTD | Laval, Laval region | Full stack |
+| 2026-11-05 | [Senior Associate, Business Intelligence & Reporting Developer](https://www.adzuna.ca/details/5954387116?utm_medium=api&utm_source=54ce986e) | MUFG Investor Services | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Senior Full Stack .NET Developer](https://www.adzuna.ca/details/5954277117?utm_medium=api&utm_source=54ce986e) | PEPOLTek LTD | Laval, Laval region | Full stack |
 | 2026-11-05 | [Business Intelligence (BI) Data Engineer](https://www.adzuna.ca/details/5954203118?utm_medium=api&utm_source=54ce986e) | Semex | Guelph, Wellington region | Data / BI |
 | 2026-11-05 | [Business Intelligence (BI) Data Engineer](https://www.adzuna.ca/details/5954077021?utm_medium=api&utm_source=54ce986e) | Semex | Guelph, Wellington region | Data / BI |
@@ -621,12 +623,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Analyste de données - Data Analyst](https://www.adzuna.ca/details/5954059163?utm_medium=api&utm_source=54ce986e) | Jam Industries | Baie-d'Urfé, Montréal | Data / BI |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953992050) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-05 | [Senior Associate, Business Intelligence & Reporting Developer](https://www.adzuna.ca/details/5953992113?utm_medium=api&utm_source=54ce986e) | MUFG Investor Services | Toronto, Ontario | Data / BI |
-| 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953992006) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953989200) | ServiceNow, Inc. | Toronto, Ontario | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-05T153315Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
+`README.BAK_2026-11-05T160446Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
