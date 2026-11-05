@@ -15,24 +15,24 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-05T19:09:10.406Z",
-    "generatedAt": "2026-11-05T19:09:10.406Z",
-    "total": 1954,
-    "newThisScan": 298,
-    "retainedFromPrevious": 1364,
+    "scrapedAt": "2026-11-05T20:11:42.287Z",
+    "generatedAt": "2026-11-05T20:11:42.287Z",
+    "total": 1956,
+    "newThisScan": 302,
+    "retainedFromPrevious": 1362,
     "sources": {
       "smartrecruiters": 7,
       "workday": 16,
       "greenhouse": 20,
       "lever": 2,
       "ashby": 3,
-      "linkedin": 244,
+      "linkedin": 248,
       "remoteok": 2,
       "remotive": 4
     },
     "primaryCounts": {
       "servicenow": 715,
-      "salesforce": 775
+      "salesforce": 777
     }
   },
   "jobs": [
@@ -46,7 +46,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T15:58:07.255Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Req JB0076846",
       "workArrangement": "unknown",
       "tags": [
@@ -63,7 +63,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T15:55:56.650Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Req JB0076847",
       "workArrangement": "unknown",
       "tags": [
@@ -145,6 +145,11 @@
         "salesforce"
       ],
       "alternates": [
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899",
+          "label": "linkedin"
+        },
         {
           "source": "linkedin",
           "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899",
@@ -543,7 +548,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -560,7 +565,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -577,12 +582,29 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "servicenow",
         "itam"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-solution-architect-at-apptoza-inc-4485857398",
+      "source": "linkedin",
+      "company": "Apptoza Inc.",
+      "title": "ServiceNow Solution Architect",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-solution-architect-at-apptoza-inc-4485857398",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-05T00:00:00.000Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -595,7 +617,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -612,18 +634,11 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ],
-      "alternates": [
-        {
-          "source": "linkedin",
-          "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486756619",
-          "label": "linkedin"
-        }
       ]
     },
     {
@@ -636,7 +651,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -653,7 +668,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -670,7 +685,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -687,12 +702,29 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "salesforce",
         "devops"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-solution-consultant-at-galent-4485866051",
+      "source": "linkedin",
+      "company": "Galent",
+      "title": "Salesforce Marketing Cloud(SFMC) Business Analyst /Solution Consultant",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-solution-consultant-at-galent-4485866051",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-05T00:00:00.000Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -705,7 +737,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -722,7 +754,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -739,7 +771,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -756,7 +788,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -773,7 +805,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -790,7 +822,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -807,7 +839,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -824,11 +856,35 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-ba-at-smart-it-frame-llc-4486796529",
+      "source": "linkedin",
+      "company": "Smart IT Frame LLC",
+      "title": "Salesforce Marketing Cloud- SFMC, BA",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-ba-at-smart-it-frame-llc-4486796529",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-05T00:00:00.000Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "alternates": [
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-ba-at-smart-it-frame-llc-4486054359",
+          "label": "linkedin"
+        }
       ]
     },
     {
@@ -841,7 +897,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -858,11 +914,28 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce consultant · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/itam-management-mid-level-at-soho-square-solutions-4484365333",
+      "source": "linkedin",
+      "company": "Soho Square Solutions",
+      "title": "ITAM Management (Mid Level)",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/itam-management-mid-level-at-soho-square-solutions-4484365333",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-05T00:00:00.000Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "ServiceNow ITAM · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "itam"
       ]
     },
     {
@@ -6725,23 +6798,6 @@
       ]
     },
     {
-      "id": "readme:hiringcafe.com/job/service-experience-manager-nucleus-networks-vancouver-british-columbia-s6yersnd3ml0dxfl",
-      "source": "readme",
-      "company": "Unknown",
-      "title": "Service Experience Manager at Nucleus Networks — Multiple Locations",
-      "location": "Canada",
-      "url": "https://hiringcafe.com/job/service-experience-manager-nucleus-networks-vancouver-british-columbia-s6yersnd3ml0dxfl",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-04T20:04:39.746Z",
-      "excerpt": "8",
-      "workArrangement": "unknown",
-      "tags": [
-        "other"
-      ]
-    },
-    {
       "id": "readme:ca.linkedin.com/jobs/view/director-of-production-content-monetization-progression-apex-legends-at-respawn-entertainment-4468943693",
       "source": "readme",
       "company": "Respawn Entertainment",
@@ -6759,6 +6815,23 @@
       ]
     },
     {
+      "id": "readme:hiringcafe.com/job/service-experience-manager-nucleus-networks-vancouver-british-columbia-s6yersnd3ml0dxfl",
+      "source": "readme",
+      "company": "Unknown",
+      "title": "Service Experience Manager at Nucleus Networks — Multiple Locations",
+      "location": "Canada",
+      "url": "https://hiringcafe.com/job/service-experience-manager-nucleus-networks-vancouver-british-columbia-s6yersnd3ml0dxfl",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T12:00:00.000Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
+      "excerpt": "8",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "readme:jobs.ca/employment-hero/jobs/service-desk-analyst-remote-remote-canada-a75463a275b2",
       "source": "readme",
       "company": "Unknown",
@@ -6768,7 +6841,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "remote",
       "tags": [
@@ -6785,7 +6858,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "remote",
       "tags": [
@@ -6802,7 +6875,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -6819,7 +6892,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -6836,7 +6909,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -6853,7 +6926,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -6870,7 +6943,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -6887,7 +6960,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -6904,7 +6977,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -6921,7 +6994,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -6938,7 +7011,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -6955,7 +7028,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via linkedin-guest--2026-11-05--v1.md",
       "workArrangement": "unknown",
       "tags": [
@@ -6972,7 +7045,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -6989,7 +7062,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7006,7 +7079,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7023,7 +7096,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7040,7 +7113,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7057,7 +7130,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -7074,7 +7147,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7091,7 +7164,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7108,7 +7181,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7125,7 +7198,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7142,7 +7215,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "remote",
       "tags": [
@@ -7159,7 +7232,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -7176,7 +7249,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -7193,7 +7266,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7210,7 +7283,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7227,7 +7300,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7244,7 +7317,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7261,7 +7334,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -7278,7 +7351,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7295,7 +7368,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7312,7 +7385,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "6",
       "workArrangement": "unknown",
       "tags": [
@@ -7329,7 +7402,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "6",
       "workArrangement": "unknown",
       "tags": [
@@ -7346,7 +7419,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7363,7 +7436,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7380,7 +7453,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -7397,7 +7470,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "remote",
       "tags": [
@@ -7414,7 +7487,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -7431,7 +7504,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7448,7 +7521,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7465,7 +7538,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7482,7 +7555,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7499,7 +7572,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7516,7 +7589,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7533,7 +7606,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7550,7 +7623,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7567,7 +7640,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "hybrid",
       "tags": [
@@ -7584,7 +7657,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7601,7 +7674,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -7618,7 +7691,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7635,7 +7708,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7652,7 +7725,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7669,7 +7742,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7686,7 +7759,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7703,7 +7776,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7720,7 +7793,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7737,7 +7810,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7754,7 +7827,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -7771,7 +7844,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7788,7 +7861,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7805,7 +7878,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -7822,7 +7895,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7839,7 +7912,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "hybrid",
       "tags": [
@@ -7856,7 +7929,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7873,7 +7946,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7890,7 +7963,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "hybrid",
       "tags": [
@@ -7907,7 +7980,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7924,7 +7997,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -7941,7 +8014,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7958,7 +8031,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7975,7 +8048,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -7992,7 +8065,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8009,7 +8082,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8026,7 +8099,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8043,7 +8116,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8060,7 +8133,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8077,7 +8150,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8094,7 +8167,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8111,7 +8184,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8128,7 +8201,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8145,7 +8218,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8162,7 +8235,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8179,7 +8252,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8196,7 +8269,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7/10 via",
       "workArrangement": "unknown",
       "tags": [
@@ -8213,7 +8286,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8230,7 +8303,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8247,7 +8320,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8264,7 +8337,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8281,7 +8354,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8298,7 +8371,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8315,7 +8388,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "9",
       "workArrangement": "hybrid",
       "tags": [
@@ -8332,7 +8405,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8349,7 +8422,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8366,7 +8439,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8383,7 +8456,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8400,7 +8473,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "remote",
       "tags": [
@@ -8417,7 +8490,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -8434,7 +8507,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "6",
       "workArrangement": "unknown",
       "tags": [
@@ -8451,7 +8524,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8468,7 +8541,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8485,7 +8558,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8502,7 +8575,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8519,7 +8592,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8536,7 +8609,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "remote",
       "tags": [
@@ -8553,7 +8626,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "9",
       "workArrangement": "unknown",
       "tags": [
@@ -8570,7 +8643,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "remote",
       "tags": [
@@ -8587,7 +8660,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8604,7 +8677,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "7",
       "workArrangement": "unknown",
       "tags": [
@@ -8621,7 +8694,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -8638,7 +8711,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "8",
       "workArrangement": "unknown",
       "tags": [
@@ -9063,7 +9136,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Join a Challenger At EQ, we're remaking banking so every Canadian gets ahead, every day. Serving nearly 4 million Canadians from coast to coast, we offer a wide variety of financial services from banking and lending, to trust and credit union solutions. We've been at this since 1970, challenging the conventions of trad",
       "workArrangement": "unknown",
       "tags": [
@@ -9087,7 +9160,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9104,7 +9177,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9121,7 +9194,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9138,7 +9211,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9155,7 +9228,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -9172,7 +9245,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -9189,7 +9262,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -9206,11 +9279,28 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow consultant · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4485774136",
+      "source": "linkedin",
+      "company": "Smart IT Frame LLC",
+      "title": "Salesforce Marketing Cloud(SFMC) consultant",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4485774136",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T00:00:00.000Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -9228,23 +9318,6 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4485774136",
-      "source": "linkedin",
-      "company": "Smart IT Frame LLC",
-      "title": "Salesforce Marketing Cloud(SFMC) consultant",
-      "location": "Mississauga, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-consultant-at-smart-it-frame-llc-4485774136",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-04T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
-      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
       ]
     },
     {
@@ -9876,8 +9949,8 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-03T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "postedDate": "2026-11-03T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "R260030096",
       "workArrangement": "unknown",
       "tags": [
@@ -9901,8 +9974,8 @@
       "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-03T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "postedDate": "2026-11-03T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Ontario · R0014075",
       "workArrangement": "unknown",
       "tags": [
@@ -9940,7 +10013,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T16:10:48.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -10435,7 +10508,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -10452,7 +10525,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -10469,7 +10542,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -10486,7 +10559,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "other",
       "workArrangement": "unknown",
       "tags": [
@@ -10503,7 +10576,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via copilot-pattern-rounds--2026-11-03--v32.md",
       "workArrangement": "unknown",
       "tags": [
@@ -10520,7 +10593,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -10537,7 +10610,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "other",
       "workArrangement": "unknown",
       "tags": [
@@ -10554,7 +10627,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "other",
       "workArrangement": "unknown",
       "tags": [
@@ -10571,7 +10644,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "other",
       "workArrangement": "unknown",
       "tags": [
@@ -10588,7 +10661,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "other",
       "workArrangement": "unknown",
       "tags": [
@@ -10605,7 +10678,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -10622,7 +10695,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -10639,7 +10712,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -10821,7 +10894,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -11688,23 +11761,6 @@
       "postedDate": "2026-11-03T00:00:00.000Z",
       "scrapedAt": "2026-11-04T00:30:41.243Z",
       "excerpt": "Salesforce platform developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-ba-at-smart-it-frame-llc-4486054359",
-      "source": "linkedin",
-      "company": "Smart IT Frame LLC",
-      "title": "Salesforce Marketing Cloud- SFMC, BA",
-      "location": "Mississauga, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-ba-at-smart-it-frame-llc-4486054359",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-03T22:28:46.083Z",
-      "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
@@ -16559,6 +16615,23 @@
       ]
     },
     {
+      "id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer_rq228138-1",
+      "source": "workday",
+      "company": "GDIT",
+      "title": "ServiceNow Developer",
+      "location": "Any Location / Remote",
+      "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "RQ228138",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "ashby:jobs.ashbyhq.com/benevity/867b18d3-a888-40b4-8186-8dee8f340886",
       "source": "ashby",
       "company": "Benevity",
@@ -16573,23 +16646,6 @@
       "workArrangement": "hybrid",
       "tags": [
         "devops"
-      ]
-    },
-    {
-      "id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer_rq228138-1",
-      "source": "workday",
-      "company": "GDIT",
-      "title": "ServiceNow Developer",
-      "location": "Any Location / Remote",
-      "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
-      "excerpt": "RQ228138",
-      "workArrangement": "remote",
-      "tags": [
-        "servicenow"
       ]
     },
     {
@@ -18081,24 +18137,6 @@
       ]
     },
     {
-      "id": "readme:ca.linkedin.com/jobs/view/itam-management-mid-level-at-soho-square-solutions-4484365333",
-      "source": "readme",
-      "company": "Soho Square Solutions",
-      "title": "ITAM Management (Mid Level)",
-      "location": "Montreal, Quebec, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/itam-management-mid-level-at-soho-square-solutions-4484365333",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T12:17:30.749Z",
-      "excerpt": "via linkedin-guest--2026-11-02--v81.md",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow",
-        "itam"
-      ]
-    },
-    {
       "id": "readme:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-vdart-4485777185",
       "source": "readme",
       "company": "VDart",
@@ -18125,7 +18163,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18142,7 +18180,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18159,7 +18197,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via copilot-pattern-rounds--2026-11-03--v32.md",
       "workArrangement": "hybrid",
       "tags": [
@@ -18176,7 +18214,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18193,7 +18231,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via copilot-pattern-rounds--2026-11-03--v32.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18210,7 +18248,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18227,7 +18265,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18244,7 +18282,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18261,7 +18299,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via R10 SN partners A",
       "workArrangement": "unknown",
       "tags": [
@@ -18278,7 +18316,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via Power BI",
       "workArrangement": "unknown",
       "tags": [
@@ -18295,7 +18333,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18312,7 +18350,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18329,7 +18367,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18346,7 +18384,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18363,7 +18401,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via Alteryx",
       "workArrangement": "unknown",
       "tags": [
@@ -18380,7 +18418,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18397,7 +18435,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18414,7 +18452,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18431,7 +18469,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18448,7 +18486,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18465,7 +18503,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via copilot-pattern-rounds--2026-11-03--v32.md",
       "workArrangement": "onsite",
       "tags": [
@@ -18482,7 +18520,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18499,7 +18537,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18516,7 +18554,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18533,7 +18571,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18550,7 +18588,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via copilot-pattern-rounds--2026-11-03--v32.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18567,7 +18605,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18584,7 +18622,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18601,7 +18639,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18618,7 +18656,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via copilot-pattern-rounds--2026-11-03--v32.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18635,7 +18673,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18652,7 +18690,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "hybrid",
       "tags": [
@@ -18669,7 +18707,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18686,7 +18724,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18703,7 +18741,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18720,7 +18758,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "remote",
       "tags": [
@@ -18737,7 +18775,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18754,7 +18792,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via Alteryx",
       "workArrangement": "unknown",
       "tags": [
@@ -18771,7 +18809,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18788,7 +18826,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via copilot-pattern-rounds--2026-11-03--v32.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18805,7 +18843,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18822,7 +18860,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via copilot-pattern-rounds--2026-11-03--v32.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18839,7 +18877,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18856,7 +18894,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18873,7 +18911,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18890,7 +18928,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-scan60d--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -18907,7 +18945,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18924,7 +18962,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18941,7 +18979,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "hybrid",
       "tags": [
@@ -18958,7 +18996,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18975,7 +19013,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -18992,7 +19030,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -19009,7 +19047,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -19026,7 +19064,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -19043,7 +19081,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -19294,7 +19332,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -20529,7 +20567,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "remote",
       "tags": [
@@ -20546,7 +20584,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20563,7 +20601,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20580,7 +20618,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20597,7 +20635,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20614,7 +20652,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20631,7 +20669,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20648,7 +20686,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20665,7 +20703,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via nemotron-gap-scan--2026-11-02--v64.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20682,7 +20720,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via nemotron-gap-scan--2026-11-02--v64.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20699,7 +20737,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via R10 SN partners A",
       "workArrangement": "unknown",
       "tags": [
@@ -20716,7 +20754,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20733,7 +20771,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20750,7 +20788,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via arlo--2026-11-02--v81.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20767,7 +20805,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20784,7 +20822,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20801,7 +20839,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20818,7 +20856,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20835,7 +20873,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20852,7 +20890,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20869,7 +20907,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "onsite",
       "tags": [
@@ -20886,7 +20924,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20903,7 +20941,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20920,7 +20958,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20937,7 +20975,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20954,7 +20992,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20971,7 +21009,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -20988,7 +21026,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21005,7 +21043,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via Data Analyst",
       "workArrangement": "unknown",
       "tags": [
@@ -21022,7 +21060,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21039,7 +21077,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21056,7 +21094,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21073,7 +21111,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21090,7 +21128,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21107,7 +21145,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via R10 SN partners A",
       "workArrangement": "unknown",
       "tags": [
@@ -21124,7 +21162,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21141,7 +21179,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21158,7 +21196,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "restored after over-merge",
       "workArrangement": "unknown",
       "tags": [
@@ -21175,7 +21213,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "restored after over-merge",
       "workArrangement": "unknown",
       "tags": [
@@ -21192,7 +21230,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "restored after over-merge",
       "workArrangement": "unknown",
       "tags": [
@@ -21209,7 +21247,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "restored after over-merge",
       "workArrangement": "unknown",
       "tags": [
@@ -21226,7 +21264,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21243,7 +21281,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21260,7 +21298,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21277,7 +21315,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21294,7 +21332,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21311,7 +21349,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21328,7 +21366,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21345,7 +21383,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21362,7 +21400,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21379,7 +21417,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21396,7 +21434,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21413,7 +21451,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21430,7 +21468,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21447,7 +21485,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21464,7 +21502,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21481,7 +21519,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21498,7 +21536,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21515,7 +21553,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21532,7 +21570,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21549,7 +21587,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21566,7 +21604,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21583,7 +21621,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -21600,7 +21638,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -22247,7 +22285,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -22484,6 +22522,11 @@
         "servicenow"
       ],
       "alternates": [
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-architect-at-optovia-4484139182",
+          "label": "linkedin"
+        },
         {
           "source": "linkedin",
           "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-architect-at-optovia-4484139182",
@@ -22926,7 +22969,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "remote",
       "tags": [
@@ -22943,7 +22986,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "remote",
       "tags": [
@@ -22960,7 +23003,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -22977,7 +23020,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -22994,7 +23037,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23011,7 +23054,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23028,7 +23071,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23045,7 +23088,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23062,7 +23105,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23079,7 +23122,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23096,7 +23139,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23113,7 +23156,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23130,7 +23173,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23147,7 +23190,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23164,7 +23207,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-second-round--2026-11-02--v89.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23181,7 +23224,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23198,7 +23241,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23215,7 +23258,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23232,7 +23275,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23249,7 +23292,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23266,7 +23309,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23283,7 +23326,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23300,7 +23343,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via Data Analyst",
       "workArrangement": "unknown",
       "tags": [
@@ -23317,7 +23360,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23334,7 +23377,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23351,7 +23394,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23368,7 +23411,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23385,7 +23428,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23402,7 +23445,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23419,7 +23462,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23436,7 +23479,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23453,7 +23496,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23470,7 +23513,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23487,7 +23530,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23504,7 +23547,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23521,7 +23564,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23538,7 +23581,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23555,7 +23598,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23572,7 +23615,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23589,7 +23632,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23606,7 +23649,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23623,7 +23666,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23640,7 +23683,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23657,7 +23700,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23674,7 +23717,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23691,7 +23734,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23708,7 +23751,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23725,7 +23768,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23742,7 +23785,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23759,7 +23802,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23776,7 +23819,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23793,7 +23836,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23810,7 +23853,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23827,7 +23870,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23844,7 +23887,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via SQL Server developer",
       "workArrangement": "unknown",
       "tags": [
@@ -23861,7 +23904,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23878,7 +23921,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23895,7 +23938,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via nemotron-gap-scan--2026-11-02--v64.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23912,7 +23955,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23929,7 +23972,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23946,7 +23989,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23963,7 +24006,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23980,7 +24023,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -23997,7 +24040,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -24014,7 +24057,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -24031,7 +24074,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via other-expansion--2026-11-02--v56.md",
       "workArrangement": "unknown",
       "tags": [
@@ -24048,7 +24091,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -24065,7 +24108,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -24082,7 +24125,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -24099,7 +24142,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -24116,7 +24159,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -24133,7 +24176,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T12:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:54.519Z",
+      "scrapedAt": "2026-11-05T20:12:25.631Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v2.md",
       "workArrangement": "unknown",
       "tags": [
@@ -25213,7 +25256,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -25230,7 +25273,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -25247,7 +25290,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-31T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -27115,7 +27158,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -27132,7 +27175,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -27191,8 +27234,8 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Manager--Salesforce-Innovation---Enablement_R260030015",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-29T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "postedDate": "2026-10-29T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "R260030015",
       "workArrangement": "unknown",
       "tags": [
@@ -29696,7 +29739,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -29713,7 +29756,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -29775,7 +29818,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-28T21:43:28.498Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "MEET BENEVITY Benevity is the way the world does good, providing companies (and their employees) with technology to take social action on the issues they care about. Through giving, volunteering, grantmaking, employee resource groups and micro-actions, we help most of the Fortune 100 brands build better cultures and us",
       "workArrangement": "hybrid",
       "tags": [
@@ -29799,7 +29842,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-28T21:43:19.188Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "MEET BENEVITY Benevity is the way the world does good, providing companies (and their employees) with technology to take social action on the issues they care about. Through giving, volunteering, grantmaking, employee resource groups and micro-actions, we help most of the Fortune 100 brands build better cultures and us",
       "workArrangement": "hybrid",
       "tags": [
@@ -29823,7 +29866,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T21:41:50.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -29865,8 +29908,8 @@
       "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-28T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "postedDate": "2026-10-28T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "JR106006",
       "workArrangement": "unknown",
       "tags": [
@@ -29882,8 +29925,8 @@
       "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-28T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "postedDate": "2026-10-28T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "R1280",
       "workArrangement": "remote",
       "tags": [
@@ -30559,7 +30602,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Alimentiv is a global CRO with a singular focus: advancing therapies for patients with gastrointestinal diseases. GI is our WHY and for more than 30 years that purpose has driven our scientific rigour, operational excellence, and deep therapeutic expertise, including supporting more than 70% of IBD compounds in develop",
       "workArrangement": "unknown",
       "tags": [
@@ -30583,7 +30626,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -30600,7 +30643,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -30617,7 +30660,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -30634,7 +30677,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -30651,7 +30694,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -30710,6 +30753,30 @@
       ]
     },
     {
+      "id": "workday:medcan.wd10.myworkdayjobs.com/en-us/medcan/job/toronto/salesforce-developer_med02518",
+      "source": "workday",
+      "company": "Medcan",
+      "title": "Salesforce Developer",
+      "location": "Toronto",
+      "url": "https://medcan.wd10.myworkdayjobs.com/en-US/medcan/job/Toronto/Salesforce-Developer_MED02518",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "MED02518",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "alternates": [
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797",
+          "label": "linkedin"
+        }
+      ]
+    },
+    {
       "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/salesforce-solution-lead_jr0156424-1",
       "source": "workday",
       "company": "McKesson",
@@ -30724,30 +30791,6 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
-    },
-    {
-      "id": "workday:medcan.wd10.myworkdayjobs.com/en-us/medcan/job/toronto/salesforce-developer_med02518",
-      "source": "workday",
-      "company": "Medcan",
-      "title": "Salesforce Developer",
-      "location": "Toronto",
-      "url": "https://medcan.wd10.myworkdayjobs.com/en-US/medcan/job/Toronto/Salesforce-Developer_MED02518",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-27T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
-      "excerpt": "MED02518",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ],
-      "alternates": [
-        {
-          "source": "linkedin",
-          "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797",
-          "label": "linkedin"
-        }
       ]
     },
     {
@@ -31340,7 +31383,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-26T22:09:07.399Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Req JB0076504",
       "workArrangement": "remote",
       "tags": [
@@ -31356,8 +31399,8 @@
       "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-26T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "postedDate": "2026-10-26T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "R_1509038 · Software Engineering",
       "workArrangement": "unknown",
       "tags": [
@@ -31658,7 +31701,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -31700,6 +31743,11 @@
         "servicenow"
       ],
       "alternates": [
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-take-two-interactive-4481160381",
+          "label": "linkedin"
+        },
         {
           "source": "linkedin",
           "url": "https://ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-take-two-interactive-4481160381",
@@ -31852,7 +31900,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-25T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -32107,7 +32155,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -32124,7 +32172,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -32141,7 +32189,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -32158,7 +32206,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -32540,7 +32588,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-23T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -32615,7 +32663,7 @@
         "currency": "USD"
       },
       "postedDate": "2026-10-22T12:58:28.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "devops, engineer, dev, python, golang, aws, gcp, kubernetes, sql, linux, ansible, ai, full time, full stack, remote, remote work",
       "workArrangement": "remote",
       "tags": [
@@ -33022,6 +33070,23 @@
       ]
     },
     {
+      "id": "workday:caatpension.wd10.myworkdayjobs.com/en-us/careers/job/toronto-on/servicenow-technical-lead_jr100193-1",
+      "source": "workday",
+      "company": "CAAT Pension Plan",
+      "title": "ServiceNow Technical Lead",
+      "location": "Toronto, ON",
+      "url": "https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "JR100193",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5937070757",
       "source": "adzuna",
       "company": "Astra North Infoteck Inc.",
@@ -33084,23 +33149,6 @@
       "tags": [
         "salesforce",
         "devops"
-      ]
-    },
-    {
-      "id": "workday:caatpension.wd10.myworkdayjobs.com/en-us/careers/job/toronto-on/servicenow-technical-lead_jr100193-1",
-      "source": "workday",
-      "company": "CAAT Pension Plan",
-      "title": "ServiceNow Technical Lead",
-      "location": "Toronto, ON",
-      "url": "https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-21T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
-      "excerpt": "JR100193",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
       ]
     },
     {
@@ -33683,7 +33731,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-21T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -33937,7 +33985,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-20T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "remote",
       "tags": [
@@ -33954,7 +34002,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-20T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -33971,7 +34019,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-20T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -33988,7 +34036,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-19T18:42:34.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -34056,7 +34104,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34176,7 +34224,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34193,7 +34241,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34210,7 +34258,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34278,7 +34326,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-17T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34295,7 +34343,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-17T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "unknown",
       "tags": [
@@ -34327,23 +34375,6 @@
       ]
     },
     {
-      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000156069368",
-      "source": "smartrecruiters",
-      "company": "ServiceNow",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Toronto, Ontario, ca · Remote",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156069368",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-16T19:25:34.080Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
-      "excerpt": "Req JB0074896",
-      "workArrangement": "remote",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
       "id": "workday:iko.wd3.myworkdayjobs.com/en-us/iko_careers/job/mississauga-on/salesforce-senior-developer_req-14036",
       "source": "workday",
       "company": "IKO",
@@ -34352,8 +34383,8 @@
       "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-16T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "postedDate": "2026-10-16T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "REQ-14036",
       "workArrangement": "unknown",
       "tags": [
@@ -34368,6 +34399,23 @@
       ]
     },
     {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000156069368",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Toronto, Ontario, ca · Remote",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156069368",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T19:25:34.080Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "Req JB0074896",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000156040224",
       "source": "smartrecruiters",
       "company": "ServiceNow",
@@ -34377,7 +34425,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T16:18:12.809Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Req JB0076283",
       "workArrangement": "unknown",
       "tags": [
@@ -34564,7 +34612,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34581,7 +34629,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34598,7 +34646,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34615,7 +34663,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34632,7 +34680,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34649,7 +34697,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34738,7 +34786,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-15T14:51:25.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -34877,7 +34925,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-15T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34894,7 +34942,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-15T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -35101,7 +35149,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-14T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "TAKE YOUR CAREER TO NEW HEIGHTS WITH LOOPIO! 🚀✨ Loopio is a workplace that unleashes learning & growth opportunities for our Loopers. We provide autonomous, challenging work that allows each employee to master their craft. We attract and retain people who are naturally curious, have grit and are eager to grow and buil",
       "workArrangement": "remote",
       "tags": [
@@ -35315,7 +35363,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T18:47:23.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -35332,7 +35380,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T18:46:08.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -35349,7 +35397,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T18:36:18.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -35366,7 +35414,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T18:30:39.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -35383,7 +35431,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -35400,7 +35448,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-12T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -35434,7 +35482,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-10T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -35468,7 +35516,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-09T22:43:34.604Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "Req JB0073869",
       "workArrangement": "unknown",
       "tags": [
@@ -35570,7 +35618,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-09T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -35587,7 +35635,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-08T17:37:27.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -35604,7 +35652,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-08T17:35:56.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -35691,7 +35739,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-07T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -35719,6 +35767,74 @@
       ]
     },
     {
+      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/job-description-salesforce-marketing-cloud-developer_jr0147159",
+      "source": "workday",
+      "company": "McKesson",
+      "title": "Salesforce Marketing Cloud Developer",
+      "location": "CAN, ON, Mississauga",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-06T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "JR0147159",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/lead-salesforce-solution-architect_jr0154441",
+      "source": "workday",
+      "company": "McKesson",
+      "title": "Lead Salesforce Solution Architect",
+      "location": "CAN, ON, Mississauga",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-06T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "JR0154441",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/sr-salesforce-crm-development-lead_jr0147163",
+      "source": "workday",
+      "company": "McKesson",
+      "title": "Sr. Salesforce CRM Development Lead",
+      "location": "CAN, ON, Mississauga",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-06T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "JR0147163",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/senior-servicenow-engineer_r1213",
+      "source": "workday",
+      "company": "Resolve Tech Solutions",
+      "title": "Senior ServiceNow Engineer",
+      "location": "US Remote - FL",
+      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-06T20:11:42.287Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
+      "excerpt": "R1213",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6218559004",
       "source": "greenhouse",
       "company": "NeuraFlash",
@@ -35728,7 +35844,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-06T19:28:42.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -35745,7 +35861,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-06T19:27:13.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -35762,7 +35878,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-06T19:26:01.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -35779,79 +35895,11 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-06T19:21:50.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
-    },
-    {
-      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/job-description-salesforce-marketing-cloud-developer_jr0147159",
-      "source": "workday",
-      "company": "McKesson",
-      "title": "Salesforce Marketing Cloud Developer",
-      "location": "CAN, ON, Mississauga",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-06T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
-      "excerpt": "JR0147159",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/lead-salesforce-solution-architect_jr0154441",
-      "source": "workday",
-      "company": "McKesson",
-      "title": "Lead Salesforce Solution Architect",
-      "location": "CAN, ON, Mississauga",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-06T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
-      "excerpt": "JR0154441",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/sr-salesforce-crm-development-lead_jr0147163",
-      "source": "workday",
-      "company": "McKesson",
-      "title": "Sr. Salesforce CRM Development Lead",
-      "location": "CAN, ON, Mississauga",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-06T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
-      "excerpt": "JR0147163",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/senior-servicenow-engineer_r1213",
-      "source": "workday",
-      "company": "Resolve Tech Solutions",
-      "title": "Senior ServiceNow Engineer",
-      "location": "US Remote - FL",
-      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-06T19:09:10.406Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
-      "excerpt": "R1213",
-      "workArrangement": "remote",
-      "tags": [
-        "servicenow"
       ]
     },
     {
@@ -36040,7 +36088,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-01T15:50:04.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -36057,7 +36105,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -36074,7 +36122,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -36091,7 +36139,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -36108,7 +36156,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-30T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -36125,7 +36173,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -36142,7 +36190,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -36159,7 +36207,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -36176,7 +36224,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -36193,7 +36241,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-29T00:00:00.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -36228,7 +36276,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-24T17:37:41.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -36245,7 +36293,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-24T17:36:06.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -36262,7 +36310,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-09-24T17:34:01.000Z",
-      "scrapedAt": "2026-11-05T19:09:10.406Z",
+      "scrapedAt": "2026-11-05T20:11:42.287Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
