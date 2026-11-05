@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T15:04:28+00:00",
+ "generatedAt": "2026-11-05T15:33:15+00:00",
  "timezone": "America/Toronto",
- "count": 422,
+ "count": 420,
  "appliedHidden": 12,
  "sources": [
   "Adzuna",
@@ -64,7 +64,6 @@
   "expertini.in",
   "flexgen.zya.me",
   "flexstack.my-board.org",
-  "fr.ca.sercanto.com",
   "gdmissionsystems.ca",
   "getcanadianjob.com",
   "getclera.com",
@@ -200,6 +199,48 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "ServiceNow Architect",
+   "company": "Flexstaf IT",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5954388577",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow architect flexstaf it ontario, canada adzuna servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Service Now Developers",
+   "company": "Flexstaf IT",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5954388583",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "service now developers flexstaf it ontario, canada adzuna servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Intermediate Technology Specialist, Service Now Developer",
    "company": "Equitable",
    "location": "Waterloo region, Ontario",
@@ -308,6 +349,27 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
+   "company": "Smart IT Frame LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect revenue cloud cpq (rca) smart it frame llc toronto, ontario, canada linkedin salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Data Cloud Consultant",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario, Canada",
@@ -371,6 +433,27 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Administrator (Hybrid)",
+   "company": "Survalent",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5954406900",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce administrator (hybrid) survalent mississauga, peel region adzuna salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Request ID: 114262-1 - Salesforce Communications Cloud Developer",
    "company": "Flexstaf IT",
    "location": "Toronto, Ontario",
@@ -388,6 +471,27 @@
    ],
    "french": false,
    "search": "request id: 114262-1 - salesforce communications cloud developer flexstaf it toronto, ontario adzuna salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Revenue Cloud CPQ (RCA) Architect",
+   "company": "Smart IT Frame LLC",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-cpq-rca-architect-at-smart-it-frame-llc-4486767430",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud cpq (rca) architect smart it frame llc canada linkedin salesforce  salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -584,6 +688,26 @@
    ],
    "french": false,
    "search": "salesforce production support associate ntt data north america halifax, nova scotia, canada linkedin salesforce  salesforce canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Data Analyst, Live Games",
+   "company": "Big Viking Games",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954408838",
+   "note": "Data / BI",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior data analyst, live games big viking games toronto, ontario adzuna other data / bi role fit toronto area",
    "alternates": []
   },
   {
@@ -1437,27 +1561,6 @@
    ],
    "french": false,
    "search": "servicenow dev &amp; ba (remote - latam) / skilldock unknown canada skilldock.lovestoblog.com servicenow 6/10 via servicenow consulting/ba canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Technical Consultant, Toronto, Ontario, Canada \\/ Cognizant Careers",
-   "company": "Cognizant Careers](https://careers.cognizant.com/global-en/jobs/00069526961/servicenow-technical-consultant/)",
-   "location": "Cognizant Careers",
-   "url": "https://careers.cognizant.com/global-en/jobs/00069526961/servicenow-technical-consultant/",
-   "note": "Canada",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 86,
-   "matchReasons": [
-    "ServiceNow",
-    "Consulting/BA",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow technical consultant, toronto, ontario, canada \\/ cognizant careers cognizant careers](https://careers.cognizant.com/global-en/jobs/00069526961/servicenow-technical-consultant/) cognizant careers careers.cognizant.com servicenow canada servicenow consulting/ba role fit",
    "alternates": []
   },
   {
@@ -3226,48 +3329,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Consultant - REMOTE - NTT Data, Inc. - Ottawa, ON / Ladders",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.theladders.com/job/servicenow-consultant-remote-ntt-data-inc-ottawa-on_89348353?source=similar",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "theladders.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow consultant - remote - ntt data, inc. - ottawa, on / ladders unknown canada theladders.com servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "(ServiceNow Architect – Remote · (\"Canada\") / Enterprise Solutions Inc.)(https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-architect-remote-canada-99e333eaaa46)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-architect-remote-canada-99e333eaaa46",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "(servicenow architect – remote · (\"canada\") / enterprise solutions inc.)(https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-architect-remote-canada-99e333eaaa46) unknown canada jobs.ca servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "servicenow Jobs in Calgary, AB / Hiring Now / Talent.com",
    "company": "Unknown",
    "location": "Canada",
@@ -3324,26 +3385,6 @@
    ],
    "french": false,
    "search": "servicenow designer (figma) unknown canada jobportal.altis.com servicenow 8 servicenow canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Remote IT Asset Manager - ServiceNow & Global Portfolio - Vancouver \\/ Sercanto",
-   "company": "Sercanto](https://fr.ca.sercanto.com/detail/a/remote-strong-it-strong-asset-manager-servicenow-global-portfolio_vancouver_172004063)",
-   "location": "ServiceNow & Global Portfolio - Vancouver \\",
-   "url": "https://fr.ca.sercanto.com/detail/a/remote-strong-it-strong-asset-manager-servicenow-global-portfolio_vancouver_172004063",
-   "note": "Sercanto Canada",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "fr.ca.sercanto.com",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "remote it asset manager - servicenow & global portfolio - vancouver \\/ sercanto sercanto](https://fr.ca.sercanto.com/detail/a/remote-strong-it-strong-asset-manager-servicenow-global-portfolio_vancouver_172004063) servicenow & global portfolio - vancouver \\ fr.ca.sercanto.com servicenow sercanto canada servicenow role fit",
    "alternates": []
   },
   {
@@ -3630,28 +3671,6 @@
    ],
    "french": false,
    "search": "salesforce solution consultant  / beyondtrust careers / beyondtrust unknown canada beyondtrust.com salesforce 7 salesforce consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Developer/ Technical BA - OSI Digital - Vancouver, BC / Ladders",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.theladders.com/job/salesforce-developer-technical-ba-osidigital-vancouver-bc_88933427",
-   "note": "5/10 via 2026-11-04_sf_round4_raw_20261104T061947Z.json",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "theladders.com",
-   "verified": "Employer board",
-   "match": 66,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer/ technical ba - osi digital - vancouver, bc / ladders unknown canada theladders.com salesforce 5/10 via 2026-11-04_sf_round4_raw_20261104t061947z.json salesforce consulting/ba role fit canada / remote",
    "alternates": []
   },
   {
@@ -5800,48 +5819,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Developer/Tech Lead at Sentrex – Markham – Apply Now! – Jooble",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.jooble.org/rjdp/4267974312217683342",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Jooble",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer/tech lead at sentrex – markham – apply now! – jooble unknown canada jooble salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Developer- Enhance & Operate - 1969 - Slalom",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.slalom.com/de_DE/careersmarketplace/JobDetail/Salesforce-Developer-Enhance-Operate/1969",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.slalom.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer- enhance & operate - 1969 - slalom unknown canada jobs.slalom.com salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Support Analyst, ITSM at McCarthy Tétrault · Vancouver, BC, Canada · ApplyHour",
    "company": "Unknown",
    "location": "Canada",
@@ -6930,27 +6907,6 @@
    ],
    "french": false,
    "search": "remote it operations manager at rival technologies • $110k – $135k / hiring.camp unknown canada hiring.camp other 8 it operations role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Pointclickcare Senior Business Analyst / Welcome to the Jungle (formerly Otta)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://app.welcometothejungle.com/jobs/6B0fBuT2",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "app.welcometothejungle.com",
-   "verified": "Employer board",
-   "match": 26,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "pointclickcare senior business analyst / welcome to the jungle (formerly otta) unknown canada app.welcometothejungle.com other 7 consulting/ba role fit canada / remote",
    "alternates": []
   },
   {
