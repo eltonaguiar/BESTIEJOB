@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T033311Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T040439Z.md`.
 
 ## Contents
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T03:30:01.329Z** · 2010 live postings from 9 public sources · 85 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-05T04:00:01.874Z** · 2010 live postings from 9 public sources · 85 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -613,6 +613,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-04 | [Business intelligence Solution Designer/ Architect](https://www.adzuna.ca/details/5953647738?utm_medium=api&utm_source=54ce986e) | Northbridge Financial Corporation | Toronto, Ontario | Data / BI |
 | 2026-11-04 | [IT End User Support Manager](https://www.getclera.com/jobs/kpmg-canada/it-end-user-support-manager-yqbqd5zr1rzq) | Unknown | Canada | other |
 | 2026-11-04 | [Manager, Service Desk in toronto, on - Vena](https://ca.trabajo.org/job-649-1b63b4fd94ca7d2bc570b4c4469147ff) | Vena | Canada | other |
 | 2026-11-04 | [Senior Director, Information Technology (Transformation, AI &…](https://www.jobs.ca/quantum-technology-recruiting-inc-qtr/jobs/senior-director-information-technology-transformation-ai-enterprise-systems-toronto-on-74233b8e3ad8) | Unknown | Canada | other |
@@ -622,11 +623,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-04 | [Data Product Analyst (Data Science) in Markham, Ontario \| Careers at Adastra Head Office (Markham)](https://careers-adastragrp.icims.com/jobs/5714/data-product-analyst-%28data-science%29/job) | Careers at Adastra Head Office (Markham) | Canada | other |
 | 2026-11-04 | [NEARSOURCE TECHNOLOGIES hiring Senior Data Analyst (SQL, Power BI, Looker) in Toronto, Ontario, Canada \| LinkedIn](https://ca.linkedin.com/jobs/view/senior-data-analyst-sql-power-bi-looker-at-nearsource-technologies-4415089045) | LinkedIn | Canada | other |
 | 2026-11-04 | [[Hiring] Senior Data Analyst @Laivly](https://remotive.com/remote/jobs/data/senior-data-analyst-6427068) | Unknown | Canada | other |
-| 2026-11-04 | [Data Analyst (REMOTE) / NTT DATA BCU, Inc. \| Eluta.ca](https://www.eluta.ca/spl/data-analyst-remote-01f2842f3b11ed556923799b20f0f4e6) | Eluta.ca | Canada | other |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-05T033311Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
+`README.BAK_2026-11-05T040439Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
