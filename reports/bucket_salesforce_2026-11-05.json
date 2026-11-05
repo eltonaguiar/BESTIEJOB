@@ -1,16 +1,16 @@
 {
  "bucket": "salesforce",
- "generated": "2026-11-05T20:49:43.642870+00:00",
+ "generated": "2026-11-05T22:29:36.661569+00:00",
  "rounds_planned": 30,
- "rounds_run": 10,
+ "rounds_run": 30,
  "verify_liveness": false,
  "totals": {
-  "fetched": 475,
-  "matched": 14,
-  "live": 14,
+  "fetched": 1104,
+  "matched": 26,
+  "live": 26,
   "new": 0,
   "errors": 0,
-  "secs": 5.2
+  "secs": 36.6
  },
  "rounds": [
   {
@@ -221,7 +221,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 0.2,
+   "secs": 0.1,
    "jobs": []
   },
   {
@@ -249,7 +249,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 0.1,
+   "secs": 0.2,
    "jobs": []
   },
   {
@@ -264,6 +264,397 @@
    "new": 0,
    "error": null,
    "secs": 0.0,
+   "jobs": []
+  },
+  {
+   "round": 11,
+   "target": "Directive",
+   "route": "ashby",
+   "note": "Salesforce partner",
+   "fetched": 67,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.0,
+   "jobs": []
+  },
+  {
+   "round": 12,
+   "target": "Loopio",
+   "route": "ashby",
+   "note": "Salesforce-using SaaS",
+   "fetched": 16,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 13,
+   "target": "Docebo",
+   "route": "ashby",
+   "note": "55 York St, downtown Toronto",
+   "fetched": 35,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": [
+    {
+     "title": "Salesforce Product Owner",
+     "company": "Docebo",
+     "location": "Toronto, Ontario",
+     "url": "https://jobs.ashbyhq.com/docebo/6c6ced29-4d69-4e93-b808-e6aea83d87f3",
+     "posted": "2026-10-02",
+     "source": "ashby:docebo"
+    },
+    {
+     "title": "Senior Salesforce Developer",
+     "company": "Docebo",
+     "location": "Toronto, Ontario",
+     "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
+     "posted": "2026-10-30",
+     "source": "ashby:docebo"
+    }
+   ]
+  },
+  {
+   "round": 14,
+   "target": "Benevity",
+   "route": "ashby",
+   "note": "Calgary/Toronto, Salesforce shop",
+   "fetched": 24,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": [
+    {
+     "title": "Senior Salesforce Administrator",
+     "company": "Benevity",
+     "location": "Calgary, Alberta",
+     "url": "https://jobs.ashbyhq.com/benevity/f943cad9-7eed-466f-8ff5-398ac15dd14d",
+     "posted": "2026-10-28",
+     "source": "ashby:benevity"
+    },
+    {
+     "title": "Senior Salesforce Administrator",
+     "company": "Benevity",
+     "location": "Toronto, Ontario",
+     "url": "https://jobs.ashbyhq.com/benevity/78798ad7-2d39-497e-98af-dad3a2ea8e20",
+     "posted": "2026-10-28",
+     "source": "ashby:benevity"
+    }
+   ]
+  },
+  {
+   "round": 15,
+   "target": "Lightspeed Commerce",
+   "route": "ashby",
+   "note": "Montreal/Toronto",
+   "fetched": 135,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 16,
+   "target": "Accenture",
+   "route": "workday",
+   "note": "global SI",
+   "fetched": 100,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 10.5,
+   "jobs": []
+  },
+  {
+   "round": 17,
+   "target": "Altus Group",
+   "route": "workday",
+   "note": "Salesforce Platform, Toronto",
+   "fetched": 5,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 1.0,
+   "jobs": [
+    {
+     "title": "Salesforce Platform Developer",
+     "company": "Altus Group",
+     "location": "Toronto, Ontario",
+     "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
+     "posted": "2026-10-30",
+     "posted_raw": "Posted 6 Days Ago",
+     "source": "workday:altusgroup"
+    },
+    {
+     "title": "Salesforce Business Analyst",
+     "company": "Altus Group",
+     "location": "300 - Toronto",
+     "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
+     "posted": "2026-11-03",
+     "posted_raw": "Posted 2 Days Ago",
+     "source": "workday:altusgroup"
+    }
+   ]
+  },
+  {
+   "round": 18,
+   "target": "BMO",
+   "route": "workday",
+   "note": "bank",
+   "fetched": 12,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 1.1,
+   "jobs": [
+    {
+     "title": "Manager, Banking Salesforce Innovation & Enablement",
+     "company": "BMO",
+     "location": "Toronto, ON, CAN",
+     "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Manager--Salesforce-Innovation---Enablement_R260030015",
+     "posted": "2026-10-29",
+     "posted_raw": "Posted 7 Days Ago",
+     "source": "workday:bmo"
+    }
+   ]
+  },
+  {
+   "round": 19,
+   "target": "TD Bank",
+   "route": "workday",
+   "note": "bank",
+   "fetched": 13,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 1.3,
+   "jobs": [
+    {
+     "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
+     "company": "TD Bank",
+     "location": "Toronto, Ontario",
+     "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
+     "posted": "2026-10-26",
+     "posted_raw": "Posted 10 Days Ago",
+     "source": "workday:td"
+    }
+   ]
+  },
+  {
+   "round": 20,
+   "target": "CIBC",
+   "route": "workday",
+   "note": "bank",
+   "fetched": 9,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.0,
+   "jobs": []
+  },
+  {
+   "round": 21,
+   "target": "Sun Life",
+   "route": "workday",
+   "note": "insurer",
+   "fetched": 14,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.1,
+   "jobs": []
+  },
+  {
+   "round": 22,
+   "target": "Manulife",
+   "route": "workday",
+   "note": "insurer",
+   "fetched": 36,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 2.2,
+   "jobs": []
+  },
+  {
+   "round": 23,
+   "target": "OMERS",
+   "route": "workday",
+   "note": "pension",
+   "fetched": 1,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.9,
+   "jobs": []
+  },
+  {
+   "round": 24,
+   "target": "TMX Group",
+   "route": "workday",
+   "note": "exchange operator",
+   "fetched": 5,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.9,
+   "jobs": []
+  },
+  {
+   "round": 25,
+   "target": "Thomson Reuters",
+   "route": "workday",
+   "note": "Toronto HQ",
+   "fetched": 75,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 4.3,
+   "jobs": []
+  },
+  {
+   "round": 26,
+   "target": "Moneris",
+   "route": "workday",
+   "note": "payments",
+   "fetched": 2,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 0.7,
+   "jobs": [
+    {
+     "title": "Principle Salesforce Developer",
+     "company": "Moneris",
+     "location": "Toronto",
+     "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
+     "posted": "2026-10-28",
+     "posted_raw": "Posted 8 Days Ago",
+     "source": "workday:moneris"
+    }
+   ]
+  },
+  {
+   "round": 27,
+   "target": "McKesson",
+   "route": "workday",
+   "note": "healthcare distribution",
+   "fetched": 55,
+   "matched": 3,
+   "dupes": 0,
+   "live": 3,
+   "new": 0,
+   "error": null,
+   "secs": 3.0,
+   "jobs": [
+    {
+     "title": "Salesforce Marketing Cloud Developer",
+     "company": "McKesson",
+     "location": "CAN, ON, Mississauga",
+     "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:mckesson"
+    },
+    {
+     "title": "Lead Salesforce Solution Architect",
+     "company": "McKesson",
+     "location": "CAN, ON, Mississauga",
+     "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+     "posted": "2026-10-06",
+     "posted_raw": "Posted 30 Days Ago",
+     "source": "workday:mckesson"
+    },
+    {
+     "title": "Sr. Salesforce CRM Development Lead",
+     "company": "McKesson",
+     "location": "CAN, ON, Mississauga",
+     "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:mckesson"
+    }
+   ]
+  },
+  {
+   "round": 28,
+   "target": "Cloudera",
+   "route": "workday",
+   "note": "data platform",
+   "fetched": 3,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.9,
+   "jobs": []
+  },
+  {
+   "round": 29,
+   "target": "Harris Computer",
+   "route": "workday",
+   "note": "vertical software",
+   "fetched": 13,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.0,
+   "jobs": []
+  },
+  {
+   "round": 30,
+   "target": "GDIT",
+   "route": "workday",
+   "note": "defense IT integrator",
+   "fetched": 9,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.2,
    "jobs": []
   }
  ]

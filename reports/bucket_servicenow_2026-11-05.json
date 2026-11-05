@@ -1,16 +1,16 @@
 {
  "bucket": "servicenow",
- "generated": "2026-11-05T20:49:43.129082+00:00",
+ "generated": "2026-11-05T22:29:36.182560+00:00",
  "rounds_planned": 30,
- "rounds_run": 10,
+ "rounds_run": 30,
  "verify_liveness": false,
  "totals": {
-  "fetched": 711,
-  "matched": 6,
-  "live": 3,
+  "fetched": 987,
+  "matched": 11,
+  "live": 8,
   "new": 0,
   "errors": 0,
-  "secs": 17.0
+  "secs": 41.6
  },
  "rounds": [
   {
@@ -75,7 +75,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 0.2,
+   "secs": 0.3,
    "jobs": []
   },
   {
@@ -154,7 +154,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 9.4,
+   "secs": 11.1,
    "jobs": []
   },
   {
@@ -168,7 +168,7 @@
    "live": 1,
    "new": 0,
    "error": null,
-   "secs": 5.0,
+   "secs": 4.4,
    "jobs": [
     {
      "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
@@ -180,6 +180,334 @@
      "source": "workday:dxctechnology"
     }
    ]
+  },
+  {
+   "round": 11,
+   "target": "GDIT",
+   "route": "workday",
+   "note": "defense IT integrator",
+   "fetched": 100,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 4.6,
+   "jobs": []
+  },
+  {
+   "round": 12,
+   "target": "Harris Computer",
+   "route": "workday",
+   "note": "vertical software",
+   "fetched": 19,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.9,
+   "jobs": []
+  },
+  {
+   "round": 13,
+   "target": "Huron",
+   "route": "workday",
+   "note": "consulting",
+   "fetched": 11,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.2,
+   "jobs": []
+  },
+  {
+   "round": 14,
+   "target": "ICF",
+   "route": "workday",
+   "note": "consulting",
+   "fetched": 24,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.9,
+   "jobs": []
+  },
+  {
+   "round": 15,
+   "target": "Resolve Tech Solutions",
+   "route": "workday",
+   "note": "IT services",
+   "fetched": 10,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.6,
+   "jobs": []
+  },
+  {
+   "round": 16,
+   "target": "SOTI",
+   "route": "workday",
+   "note": "Mississauga, MDM",
+   "fetched": 0,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.6,
+   "jobs": []
+  },
+  {
+   "round": 17,
+   "target": "Moneris",
+   "route": "workday",
+   "note": "payments",
+   "fetched": 1,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.7,
+   "jobs": []
+  },
+  {
+   "round": 18,
+   "target": "BMO",
+   "route": "workday",
+   "note": "bank",
+   "fetched": 7,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 1.0,
+   "jobs": [
+    {
+     "title": "ServiceNow  SAM Administrator - ITAM",
+     "company": "BMO",
+     "location": "Toronto, ON, CAN",
+     "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
+     "posted": "2026-11-03",
+     "posted_raw": "Posted 2 Days Ago",
+     "source": "workday:bmo"
+    }
+   ]
+  },
+  {
+   "round": 19,
+   "target": "TD Bank",
+   "route": "workday",
+   "note": "bank",
+   "fetched": 15,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.4,
+   "jobs": []
+  },
+  {
+   "round": 20,
+   "target": "CIBC",
+   "route": "workday",
+   "note": "bank",
+   "fetched": 7,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.2,
+   "jobs": []
+  },
+  {
+   "round": 21,
+   "target": "Sun Life",
+   "route": "workday",
+   "note": "insurer",
+   "fetched": 4,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.1,
+   "jobs": []
+  },
+  {
+   "round": 22,
+   "target": "Manulife",
+   "route": "workday",
+   "note": "insurer",
+   "fetched": 13,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.2,
+   "jobs": []
+  },
+  {
+   "round": 23,
+   "target": "OMERS",
+   "route": "workday",
+   "note": "pension",
+   "fetched": 1,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.8,
+   "jobs": []
+  },
+  {
+   "round": 24,
+   "target": "TMX Group",
+   "route": "workday",
+   "note": "exchange operator",
+   "fetched": 11,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.6,
+   "jobs": []
+  },
+  {
+   "round": 25,
+   "target": "Interac",
+   "route": "workday",
+   "note": "payments",
+   "fetched": 9,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.9,
+   "jobs": [
+    {
+     "title": "Senior Business Systems Analyst (ServiceNow)",
+     "company": "Interac",
+     "location": "Toronto",
+     "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Senior-Business-Systems-Analyst_REQ-2351",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:interac"
+    },
+    {
+     "title": "Quality Engineering, Senior Specialist (ServiceNow Platform))",
+     "company": "Interac",
+     "location": "Toronto",
+     "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Quality-Engineering--Senior-Specialist_REQ-2343",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:interac"
+    }
+   ]
+  },
+  {
+   "round": 26,
+   "target": "McKesson",
+   "route": "workday",
+   "note": "healthcare distribution",
+   "fetched": 32,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 2.4,
+   "jobs": []
+  },
+  {
+   "round": 27,
+   "target": "Salvation Army Canada",
+   "route": "workday",
+   "note": "nonprofit",
+   "fetched": 1,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.8,
+   "jobs": []
+  },
+  {
+   "round": 28,
+   "target": "CAAT Pension Plan",
+   "route": "workday",
+   "note": "pension",
+   "fetched": 3,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.4,
+   "jobs": [
+    {
+     "title": "ServiceNow Technical Lead",
+     "company": "CAAT Pension Plan",
+     "location": "Toronto, ON",
+     "url": "https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1",
+     "posted": "2026-10-21",
+     "posted_raw": "Posted 15 Days Ago",
+     "source": "workday:caatpension"
+    },
+    {
+     "title": "Information Technology Service Management (ITSM) Analyst",
+     "company": "CAAT Pension Plan",
+     "location": "Toronto, ON",
+     "url": "https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ITSM-Analyst_JR100183",
+     "posted": "2026-10-30",
+     "posted_raw": "Posted 6 Days Ago",
+     "source": "workday:caatpension"
+    }
+   ]
+  },
+  {
+   "round": 29,
+   "target": "Brookfield",
+   "route": "workday",
+   "note": "asset manager",
+   "fetched": 8,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.9,
+   "jobs": []
+  },
+  {
+   "round": 30,
+   "target": "Medcan",
+   "route": "workday",
+   "note": "health services, Toronto",
+   "fetched": 0,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.4,
+   "jobs": []
   }
  ]
 }
