@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-05T08:33:20+00:00",
+ "generatedAt": "2026-11-05T09:05:24+00:00",
  "timezone": "America/Toronto",
- "count": 445,
+ "count": 442,
  "appliedHidden": 12,
  "sources": [
   "Adzuna",
@@ -159,6 +159,27 @@
  "jobs": [
   {
    "posted": "2026-11-05",
+   "title": "Intermediate Technology Specialist, Service Now Developer",
+   "company": "Equitable",
+   "location": "Waterloo region, Ontario",
+   "url": "https://www.adzuna.ca/details/5954040266",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate technology specialist, service now developer equitable waterloo region, ontario adzuna servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Senior Associate, Salesforce Technical Consultant",
    "company": "PwC Canada",
    "location": "Ottawa, Ontario, Canada",
@@ -177,6 +198,28 @@
    ],
    "french": false,
    "search": "senior associate, salesforce technical consultant pwc canada ottawa, ontario, canada linkedin salesforce  salesforce consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Business Analyst",
+   "company": "Altus Group",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5954046522",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 66,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce business analyst altus group canada adzuna salesforce  salesforce consulting/ba role fit canada / remote",
    "alternates": []
   },
   {
@@ -281,6 +324,46 @@
    ],
    "french": false,
    "search": "salesforce bsa cognizant toronto, ontario adzuna salesforce  salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Associate, Business Intelligence & Reporting Developer",
+   "company": "MUFG Investor Services",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5953992113?utm_medium=api&utm_source=54ce986e",
+   "note": "Data / BI",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior associate, business intelligence & reporting developer mufg investor services toronto, ontario adzuna other data / bi role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Intermediate Fullstack Engineer, Subscription Lifecycle",
+   "company": "GitLab",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5954059558",
+   "note": "Full stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "intermediate fullstack engineer, subscription lifecycle gitlab canada adzuna other full stack role fit canada / remote",
    "alternates": []
   },
   {
@@ -798,28 +881,6 @@
    ],
    "french": false,
    "search": "((hiring) servicenow itam architect @fx innovation - remote jobs)(https://remotive.com/remote/jobs/all-others/servicenow-itam-architect-5201901) unknown canada remotive.com servicenow 8 servicenow itam role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "((Hiring) Director of Expert Services, ITAM and ITOM @ServiceNow)(https://remotive.com/remote/jobs/all-others/director-of-expert-services-itam-and-itom-6318950)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://remotive.com/remote/jobs/all-others/director-of-expert-services-itam-and-itom-6318950",
-   "note": "7",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "ITOM",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "((hiring) director of expert services, itam and itom @servicenow)(https://remotive.com/remote/jobs/all-others/director-of-expert-services-itam-and-itom-6318950) unknown canada remotive.com servicenow 7 servicenow itam itom canada / remote",
    "alternates": []
   },
   {
@@ -3111,26 +3172,6 @@
    ],
    "french": false,
    "search": "servicenow developer (canada) in canada \\/ kit job kit job](https://www.kitjob.ca/job/181847876/servicenow-developer-canada) kit job kitjob.ca servicenow canada servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Business Process Consultant (Manager) - Huron \\/ Built In Toronto",
-   "company": "Built In Toronto](https://builtintoronto.com/job/servicenow-business-process-consultant-manager/10711317)",
-   "location": "Huron \\",
-   "url": "https://builtintoronto.com/job/servicenow-business-process-consultant-manager/10711317",
-   "note": "Built In Toronto Canada",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow business process consultant (manager) - huron \\/ built in toronto built in toronto](https://builtintoronto.com/job/servicenow-business-process-consultant-manager/10711317) huron \\ builtin servicenow built in toronto canada servicenow role fit",
    "alternates": []
   },
   {
@@ -5839,27 +5880,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Developer – Hybrid · Toronto, ON / Themesoft Inc.",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/themesoft-inc/jobs/salesforce-developer-toronto-on-fa6db3ff4533",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer – hybrid · toronto, on / themesoft inc. unknown canada jobs.ca salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Front-End Salesforce Commerce Cloud Job(Sfcc) Developer at GTT - Toronto, OH",
    "company": "GTT - Toronto, OH",
    "location": "Canada",
@@ -6250,26 +6270,6 @@
    ],
    "french": false,
    "search": "solution architect, salesforce core / agentforce, canada - osf digital \\/ built in toronto built in toronto](https://builtintoronto.com/job/solution-architect-salesforce-core-agentforce-canada/10184300) osf digital \\ builtin salesforce built in toronto canada salesforce role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Administrator - Applied Systems \\/ Built In Toronto",
-   "company": "Built In Toronto](https://builtintoronto.com/job/associate-salesforce-administrator/10171072)",
-   "location": "Applied Systems \\",
-   "url": "https://builtintoronto.com/job/associate-salesforce-administrator/10171072",
-   "note": "Built In Toronto Canada",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce administrator - applied systems \\/ built in toronto built in toronto](https://builtintoronto.com/job/associate-salesforce-administrator/10171072) applied systems \\ builtin salesforce built in toronto canada salesforce role fit",
    "alternates": []
   },
   {
@@ -7152,46 +7152,6 @@
    ],
    "french": false,
    "search": "pointclickcare senior business analyst / welcome to the jungle (formerly otta) unknown canada app.welcometothejungle.com other 7 consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Manager GRC in Toronto \\/ ONjobcentre.ca",
-   "company": "ONjobcentre.ca](https://www.onjobcentre.ca/jobs/senior-manager-grc-toronto-1616320)",
-   "location": "ONjobcentre.ca",
-   "url": "https://www.onjobcentre.ca/jobs/senior-manager-grc-toronto-1616320",
-   "note": "Canada other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "onjobcentre.ca",
-   "verified": "Employer board",
-   "match": 22,
-   "matchReasons": [
-    "Risk/GRC",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior manager grc in toronto \\/ onjobcentre.ca onjobcentre.ca](https://www.onjobcentre.ca/jobs/senior-manager-grc-toronto-1616320) onjobcentre.ca onjobcentre.ca other canada other risk/grc role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Job opening - Senior Cybersecurity GRC Analyst/ Security Specialist in Toronto \\/ Randstad",
-   "company": "Randstad](https://www.randstad.com/jobs/senior-cybersecurity-grc-analyst-security-specialist_toronto_47267704/)",
-   "location": "Unknown",
-   "url": "https://www.randstad.com/jobs/senior-cybersecurity-grc-analyst-security-specialist_toronto_47267704/",
-   "note": "Canada other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "randstad.com",
-   "verified": "Employer board",
-   "match": 22,
-   "matchReasons": [
-    "Risk/GRC",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "job opening - senior cybersecurity grc analyst/ security specialist in toronto \\/ randstad randstad](https://www.randstad.com/jobs/senior-cybersecurity-grc-analyst-security-specialist_toronto_47267704/) unknown randstad.com other canada other risk/grc role fit",
    "alternates": []
   },
   {
@@ -9152,26 +9112,6 @@
    ],
    "french": false,
    "search": "platform engineer (full stack) - origin north integrated solutions inc. / bebee unknown canada bebee.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Platform Architect, Core Engine in Calgary AB, Calgary Census Division, AB; Alberta - Kinaxis",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-2844-4af3ef0c4ee1975bf9cfc12b22813d29",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "platform architect, core engine in calgary ab, calgary census division, ab; alberta - kinaxis unknown canada ca.trabajo.org other 7 role fit canada / remote",
    "alternates": []
   },
   {
