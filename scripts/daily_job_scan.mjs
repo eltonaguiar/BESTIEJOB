@@ -889,7 +889,18 @@ function buildFreshMarkdown(jobs, stats) {
   return lines.join("\n");
 }
 
-function buildReadmeBlock(jobs, stats) {
+// The "newest" tables below restate rows the merger has already written into the
+// main tables, and README job-row guard counts every repeat as a duplicate URL
+// (growth > 5 fails the build). Show only postings that are not on the board yet.
+function normalizeUrl(url) {
+  return String(url || "")
+    .split("#")[0]
+    .split("?")[0]
+    .replace(/\/+$/, "");
+}
+
+function buildReadmeBlock(jobs, stats, existingUrls = new Set()) {
+  jobs = jobs.filter((j) => !existingUrls.has(normalizeUrl(j.url)));
   const nov1 = jobs.filter((j) => j.postedDate?.slice(0, 10) === "2026-11-01").length;
   const lines = [];
   lines.push("<!-- DAILY-SCAN:START -->");
@@ -939,10 +950,19 @@ function buildReadmeBlock(jobs, stats) {
 function writeReadmeBlock(jobs, stats) {
   const readmePath = path.join(ROOT, "README.md");
   if (!fs.existsSync(readmePath)) return;
-  const block = buildReadmeBlock(jobs, stats);
   let readme = fs.readFileSync(readmePath, "utf8");
   const start = "<!-- DAILY-SCAN:START -->";
   const end = "<!-- DAILY-SCAN:END -->";
+  const blockStart = readme.indexOf(start);
+  const blockEnd = readme.indexOf(end);
+  const outsideBlock =
+    blockStart >= 0 && blockEnd > blockStart
+      ? readme.slice(0, blockStart) + readme.slice(blockEnd + end.length)
+      : readme;
+  const existingUrls = new Set(
+    [...outsideBlock.matchAll(/\]\((https?:\/\/[^)\s]+)\)/g)].map((m) => normalizeUrl(m[1]))
+  );
+  const block = buildReadmeBlock(jobs, stats, existingUrls);
 
   const startIndex = readme.indexOf(start);
   const endIndex = readme.indexOf(end);
