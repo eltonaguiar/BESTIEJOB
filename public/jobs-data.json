@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-06T05:33:22+00:00",
+ "generatedAt": "2026-11-06T06:06:41+00:00",
  "timezone": "America/Toronto",
- "count": 404,
+ "count": 403,
  "appliedHidden": 12,
  "sources": [
   "Adzuna",
@@ -118,7 +118,6 @@
   "remotesource.com",
   "remotive.com",
   "resuminder.com",
-  "revpath.dealhub.io",
   "salesforce.com",
   "scoutify.com",
   "simplyhired.ca",
@@ -215,6 +214,28 @@
    ],
    "french": false,
    "search": "hiringcafe senior salesforce engineer canadian cancer society hiringcafe.com salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v67.md salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior Functional Analyst, Salesforce Retail CRM",
+   "company": "ATB Financial",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-functional-analyst-salesforce-retail-crm-at-atb-financial-4485680197",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 19,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote",
+    "weak title match"
+   ],
+   "french": false,
+   "search": "senior functional analyst, salesforce retail crm atb financial calgary, alberta, canada linkedin salesforce  salesforce role fit canada / remote weak title match",
    "alternates": []
   },
   {
@@ -473,6 +494,27 @@
    ],
    "french": false,
    "search": "architecte de solutions (servicenow) cgi sherbrooke, quebec, canada linkedin servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Site Reliability Engineer (SRE) with ServiceNow & Application Infrastructure - Canada",
+   "company": "Saransh Inc",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954255954?utm_medium=api&utm_source=54ce986e",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "site reliability engineer (sre) with servicenow & application infrastructure - canada saransh inc montreal, quebec adzuna servicenow  servicenow role fit quebec",
    "alternates": []
   },
   {
@@ -1235,6 +1277,27 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Technical Architecture Advisor, LWC, Apex & Implementations",
+   "company": "Alithya",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954560427?utm_medium=api&utm_source=54ce986e",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "salesforce technical architecture advisor, lwc, apex & implementations alithya montreal, quebec adzuna salesforce  salesforce role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce BSA",
    "company": "Cognizant",
    "location": "Toronto, Ontario",
@@ -1252,6 +1315,52 @@
    "french": false,
    "search": "salesforce bsa cognizant toronto, ontario adzuna salesforce  salesforce toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
+   "company": "Alithya",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954561323?utm_medium=api&utm_source=54ce986e",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": true,
+   "search": "conseiller ou conseillere en architecture technique salesforce, lwc, apex et implementations alithya montreal, quebec adzuna salesforce  salesforce role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Salesforce Developer",
+   "company": "CGI",
+   "location": "Victoria, Capital",
+   "url": "https://www.adzuna.ca/details/5954051182?utm_medium=api&utm_source=54ce986e",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior salesforce developer cgi victoria, capital adzuna salesforce  salesforce role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430"
+    }
+   ]
   },
   {
    "posted": "2026-11-05",
@@ -1417,6 +1526,26 @@
    ],
    "french": false,
    "search": "power bi technical lead vdart inc canada adzuna other data / bi data/reporting role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Tableau- BI Data Visualization Consultant",
+   "company": "Astra North Infoteck Inc.",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5954893786?utm_medium=api&utm_source=54ce986e",
+   "note": "Data / BI",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Data/reporting",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "tableau- bi data visualization consultant astra north infoteck inc. greater vancouver, british columbia adzuna other data / bi data/reporting role fit",
    "alternates": []
   },
   {
@@ -3906,27 +4035,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Developer / ServiceNow Architect - Remote (Canada PST)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/saransh-inc/jobs/servicenow-developer-servicenow-architect-remote-canada-pst-remote-canada-d8e56ff7fd08",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer / servicenow architect - remote (canada pst) unknown canada jobs.ca servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "servicenow Jobs in Calgary, AB / Hiring Now / Talent.com",
    "company": "Unknown",
    "location": "Canada",
@@ -5219,27 +5327,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Senior Salesforce Developer",
-   "company": "CGI",
-   "location": "Victoria, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior salesforce developer cgi victoria, british columbia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Senior Salesforce Consultant (Remote Canada) at Directive",
    "company": "Unknown",
    "location": "Canada",
@@ -5975,48 +6062,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Release Manager",
-   "company": "iA Financial Group (Industrial Alliance)",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-release-manager-at-ia-financial-group-industrial-alliance-4462021968",
-   "note": "via buffy-linkedin60d--2026-11-04--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce release manager ia financial group (industrial alliance) quebec, canada linkedin salesforce via buffy-linkedin60d--2026-11-04--v1.md salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Principal Consultant - CPQ/RCA at Plative - RevPath",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://revpath.dealhub.io/jobs/456717587-salesforce-principal-consultant-cpq-rca",
-   "note": "8",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "revpath.dealhub.io",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce principal consultant - cpq/rca at plative - revpath unknown canada revpath.dealhub.io salesforce 8 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Support Analyst, ITSM at McCarthy Tétrault · Vancouver, BC, Canada · ApplyHour",
    "company": "Unknown",
    "location": "Canada",
@@ -6101,26 +6146,6 @@
    ],
    "french": false,
    "search": "support analyst, itsm mccarthy tetrault vancouver, british columbia, canada linkedin servicenow via buffy-linkedin60d--2026-11-04--v1.md itsm it operations role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce QA",
-   "company": "Tata Consultancy Services",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-qa-at-tata-consultancy-services-4486398282",
-   "note": "via buffy-linkedin60d--2026-11-04--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce qa tata consultancy services toronto, ontario, canada linkedin salesforce via buffy-linkedin60d--2026-11-04--v1.md salesforce toronto area",
    "alternates": []
   },
   {
@@ -6245,26 +6270,6 @@
    ],
    "french": false,
    "search": "salesforce support in calgary, ab - manulife unknown canada ca.trabajo.org salesforce 7 salesforce canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Product Owner",
-   "company": "Jobgether",
-   "location": "Canada",
-   "url": "https://jobs.lever.co/jobgether/21e87319-889e-4c0b-bfff-d889f5edb354",
-   "note": "via buffy-scan60d--2026-11-04--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce product owner jobgether canada lever salesforce via buffy-scan60d--2026-11-04--v1.md salesforce canada / remote",
    "alternates": []
   },
   {
@@ -8438,26 +8443,6 @@
    ],
    "french": false,
    "search": "senior cloud platform engineer - scotiabank - toronto, on / ladders unknown canada theladders.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Cloud Engineer, Cloud Platform in Remote / Careers at Canada",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://careers-kinaxis.icims.com/jobs/34961/senior-cloud-engineer%2C-cloud-platform/job",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers-kinaxis.icims.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior cloud engineer, cloud platform in remote / careers at canada unknown canada careers-kinaxis.icims.com other 8 role fit canada / remote",
    "alternates": []
   },
   {
