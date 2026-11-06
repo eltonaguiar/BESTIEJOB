@@ -13,13 +13,30 @@ const WEEK_AGO = new Date(NOW.getTime() - 7 * 86400000).toISOString().slice(0, 1
 console.log("TODAY:", TODAY, "YESTERDAY:", YESTERDAY, "WEEK_AGO:", WEEK_AGO);
 
 const SN_KEYWORDS = [
+  // Core ServiceNow roles
   "ServiceNow", "ServiceNow Administrator", "ServiceNow Developer",
-  "ServiceNow CSA", "ServiceNow CAD", "ServiceNow Architect"
+  "ServiceNow CSA", "ServiceNow CAD", "ServiceNow Architect",
+  // ServiceNow modules / practice areas
+  "ServiceNow ITSM", "ServiceNow ITOM", "ServiceNow CSM", "ServiceNow FSM",
+  "ServiceNow HRSD", "ServiceNow App Engine", "ServiceNow Flow Designer",
+  // ServiceNow adjacent titles
+  "ServiceNow Implementation", "ServiceNow Consultant", "ServiceNow Technical Consultant",
+  "ServiceNow Business Analyst", "ServiceNow Project Manager",
+  // Platform terms
+  "CMDB", "IT Service Management", "GlideScript", "ServiceNow Admin"
 ];
 const SF_KEYWORDS = [
+  // Core Salesforce roles
   "Salesforce Administrator", "Salesforce Platform Administrator",
   "Salesforce Platform Developer", "Salesforce Platform Developer I",
-  "Salesforce Developer", "Salesforce Consultant", "Salesforce Admin"
+  "Salesforce Developer", "Salesforce Consultant", "Salesforce Admin",
+  // Salesforce clouds / certs
+  "Salesforce CPQ", "Salesforce Revenue Cloud", "Salesforce Marketing Cloud",
+  "Salesforce Service Cloud", "Salesforce Experience Cloud",
+  "Salesforce Certified Platform Developer", "Salesforce Certified Platform Administrator",
+  // Adjacent titles
+  "Salesforce BA", "Salesforce Architect", "Salesforce Technical Consultant",
+  "Apex Developer", "LWC Developer"
 ];
 
 const LOCATIONS = [

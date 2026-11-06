@@ -1,7 +1,7 @@
-<!-- merged 2026-11-02T150824Z: +0 new, 66 duplicate, version 2 -->
+<!-- merged 2026-11-02T150946Z: +0 new, 66 duplicate, version 2 -->
 ---
-source: origin/Copilot/2026-10-31-junior-review
-migrated: 2026-11-02T15:08:23+00:00
+source: origin/Copilot/2026-10-31-bank-refresh
+migrated: 2026-11-02T15:09:45+00:00
 rows: 66
 ---
 
@@ -67,7 +67,7 @@ rows: 66
 | 2026-10-30 | Salesforce Administrator - Christian Reformed Church | Remote (Canada) | Unknown / peer claim not verified | https://www.charityvillage.com/job/salesforce-administrator-353326 |
 | 2026-10-30 | Salesforce Admin/Developer - Allied Technology Services | Remote | Unknown / peer claim not verified | https://remotive.com/remote/jobs/software-development/salesforce-administrator-developer-6349194 |
 | 2026-10-30 | Salesforce Admin - Jobot | Clearwater, Pinellas County | Unknown / peer claim not verified | https://www.adzuna.com/details/5946652941?utm_medium=api&utm_source=54ce986e |
-| 2026-10-30 | SYSTEMS INTEGRATOR 1 (SERVICENOW DEVELOPER) - City of Toronto | Toronto, ON (peer details) | October 5-20 period supplied, not currently exposed | https://jobs.toronto.ca/jobsatcity/job/Toronto-SYSTEMS-INTEGRATOR-1-%28SERVICENOW-DEVELOPER%29-ON-M5V-3C6/606700617 |
+| 2026-10-30 | SYSTEMS INTEGRATOR 1 (SERVICENOW DEVELOPER) - City of Toronto | Toronto, ON (hybrid, 92 Front St E) | Unknown / peer claim not verified | https://jobs.toronto.ca/jobsatcity/job/Toronto-SYSTEMS-INTEGRATOR-1-%28SERVICENOW-DEVELOPER%29-ON-M5V-3C6/606700617 |
 | 2026-10-30 | Peer report | Toronto, ON | Unknown / peer claim not verified | https://github.com/eltonaguiar/BESTIEJOB/blob/buffy-2026-10-30/buffy-2026-10-30-servicenow-salesforce-jobs.md |
 | 2026-10-22 | ServiceNow Developer (CONTRACT ROLE) - Brookfield Properties / Handshake | Apparent duplicate of #07: same Toronto November 2026-June 2027 contract and duties. Handshake validThrough November 21 at 10:11:50 UTC is a mirror expiry, not confirmed employer deadline. Earlier employer date October 20 retained; current Workday refresh returned non-JSON and did not confirm continued employer acceptance. |  | https://app.joinhandshake.com/public/jobs/11747479 |
 | 2026-10-16 | Staff Site Reliability Engineer - ServiceNow | Official SmartRecruiters record verified; Toronto hybrid. Kubernetes/SRE/DevOps role, not ServiceNow application development; excluded from platform count. [Official application](https://jobs.smartrecruiters.com/ServiceNow/744000156040224-staff-site-reliability-engineer?oga=true). |  | https://careers.servicenow.com/jobs/744000156040224/staff-site-reliability-engineer/ |
