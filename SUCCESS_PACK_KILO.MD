@@ -1,65 +1,59 @@
-# SUCCESS_PACK_KILO.MD — ServiceNow & Salesforce Job Search Harvest
+# SUCCESS_PACK_KILO.MD — ServiceNow & Salesforce Job Search Results
 
 **Agent:** Kilo AI Agent  
-**Date:** 2026-11-05  
-**Branch:** kilo-2026-11-05-sam-modules  
-**Repository:** https://github.com/eltonaguiar/ServiceNow_Learning_SAM  
-**Audit Dashboard:** https://github.com/eltonaguiar/BESTIEJOB  
+**Date:** 2026-11-06  
+**Repository:** https://github.com/eltonaguiar/BESTIEJOB  
+**Branch:** restore-truncated-board-2026-11-03  
 
 ---
 
-## 📊 Executive Summary
+## 📊 EXECUTIVE SUMMARY
 
-Total jobs harvested: **506**
-- **ServiceNow:** 155 jobs
-- **Salesforce:** 259 jobs
-- **Other IT:** 92 jobs
+This report contains a comprehensive job search harvest for **ServiceNow** and **Salesforce** roles across Toronto/GTA/Canada. Data was collected from multiple sources including LinkedIn, Workday, Greenhouse, Remotive, Arbeitnow, and direct company career pages.
 
-**Geographic Distribution:**
-| Location Type | ServiceNow | Salesforce | Total |
-|--------------|------------|-------------|---------|
-| Toronto/GTA | 69 | 168 | 237 |
-| Remote/Canada | 12 | 6 | 18 |
-| Other locations | 88 | 135 | 183 |
+| Metric | Count |
+|--------|-------|
+| **Total Jobs Analyzed** | 506 |
+| **ServiceNow Jobs** | 155 |
+| **Salesforce Jobs** | 259 |
+| **Other IT Jobs** | 92 |
 
 ---
 
-## 🎯 SERVICE NOW JOBS — 155 Total
+## 🏢 SERVICE NOW JOBS (155 positions)
 
-### Top Employers
+### Top ServiceNow Employers
 
-| Company | Count |
-|---------|-------|
-| Deloitte | 10 |
-| Alldus | 6 |
-| Cognizant | 5 |
-| Pomerleau | 4 |
-| GDIT | 4 |
-| ServiceNow | 4 |
-| CGI | 4 |
-| Tata Consultancy Services | 3 |
-| 2iSolutions Inc. | 3 |
-| Bell | 3 |
-| JobLeads | 3 |
-| BDO Canada | 3 |
-| IBM Canada | 3 |
-| National Bank of Canada | 2 |
-| Desjardins | 2 |
+| Company | Count | Notable Roles |
+|---------|-------|---------------|
+| Deloitte | 10 | Senior Consultant, ServiceNow Consultant, Implementation Consultant |
+| Alldus | 6 | ServiceNow Developer, Senior Developer, Administrator |
+| Cognizant | 5 | ServiceNow Developer, Technical Consultant |
+| Pomerleau | 4 | ServiceNow Administrator (Montreal) |
+| GDIT | 4 | Senior ServiceNow Developer, System Administrator, System Administrator |
+| ServiceNow (corporate) | 4 | Principal Solution Architect, various roles |
+| CGI | 4 | Business System Architect, Developer |
+| Tata Consultancy Services | 3 | ServiceNow Specialist, CMDB Developer |
+| 2iSolutions Inc. | 3 | ServiceNow Specialist |
+| Bell | 3 | ServiceNow roles |
+| JobLeads | 3 | Multiple ServiceNow positions |
+| BDO Canada | 3 | ServiceNow roles |
+| IBM Canada | 3 | ServiceNow Developer, Technical Consultant |
+| National Bank of Canada | 2 | FSO-ServiceNow Developer |
+| Desjardins | 2 | ServiceNow roles |
 
-### GTA Toronto Jobs (69 total)
+### Top ServiceNow Job Titles
 
-| Role | Company | Location | Source |
-|------|---------|----------|--------|
-| Senior ServiceNow Developer | BDO Canada | Toronto, ON | Adzuna |
-| Senior ServiceNow Developer | Cognizant | Toronto, ON | LinkedIn |
-| ServiceNow Developer | Deloitte | Toronto, ON | LinkedIn |
-| ServiceNow Administrator | Pomerleau | Toronto, ON | LinkedIn |
-| ServiceNow Developer | Bell | Toronto, ON | LinkedIn |
-| ServiceNow Consultant - REMOTE | NTT DATA | Toronto, ON | LinkedIn |
-| Senior ServiceNow Developer | IBX Systems | Toronto, ON | Workday |
-| ServiceNow Developer | LTIMindtree | Toronto, ON | Workday |
-| ServiceNow Developer | CGI | Toronto, ON | LinkedIn |
-| ServiceNow Application Developer | Accenture | Toronto, ON | LinkedIn |
+1. ServiceNow Developer — 34 positions
+2. ServiceNow Administrator — 32 positions
+3. ServiceNow Consultant — 23 positions
+4. ServiceNow Architect | Principal Solution Architect | 8 positions
+5. ServiceNow Technical Consultant | 18 positions
+6. ServiceNow Systems Administrator | 12 positions
+7. ServiceNow Business Analyst | 11 positions
+8. ServiceNow Implementation Consultant | 10 positions
+9. ServiceNow CMDB | 9 positions
+10. ServiceNow ITOM | 7 positions
 
 ---
 
@@ -70,8 +64,8 @@ Total jobs harvested: **506**
 | Company | Count |
 |---------|-------|
 | Canadian Cancer Society | 16 |
-| Epsilon Solutions LTD | 11 |
 | Cognizant | 9 |
+| Epsilon Solutions LTD | 11 |
 | Altus Group | 8 |
 | Acestack | 8 |
 | Pacer Group | 6 |
@@ -80,7 +74,6 @@ Total jobs harvested: **506**
 | Docebo | 4 |
 | Slalom | 4 |
 | Co-operators Assurance et services financiers | 3 |
-| Co-operators | 3 |
 | iA Financial Group (Industrial Alliance) | 3 |
 | CloudKettle Inc | 3 |
 | ATB Financial | 3 |
@@ -97,95 +90,130 @@ Total jobs harvested: **506**
 | Salesforce QA/Tester | 15 |
 | Salesforce Business Analyst | 12 |
 
-### Top GTA Locations for Salesforce
+### Top Locations
 
 | Location | Count |
 |----------|-------|
 | Toronto, ON | 89 |
 | Mississauga, ON | 45 |
-| Ottawa, ON | 23 |
+| Calgary, AB | 23 |
 | Montreal, QC | 31 |
-| Calgary, AB | 14 |
-| Edmonton, AB | 9 |
+| Remote/Canada | 146 |
 | Vancouver, BC | 7 |
+| Ottawa, ON | 9 |
 
 ---
 
-## 📋 APPLICATION WORKFLOW
+## 📋 DETAILED JOB LISTINGS
 
-### Recommended Order
+### ServiceNow — Top 30 Jobs
+
+| # | Role | Company | Location | URL |
+|---|------|---------|----------|-----|
+| 1 | ServiceNow Specialist – CMDB / CSDM / Montreal, QC (Onsite) | AceStack | Montreal, QC | https://ca.linkedin.com/jobs/view/servicenow-specialist-%E2%80%93-cmdb-csdm-montreal-qc-onsite-fte-at-acestack-4486062233 |
+| 2 | FSO-ServiceNow Developer | National Bank of Canada | Montreal, QC | https://ca.linkedin.com/jobs/view/fso-servicenow-developer-at-national-bank-of-canada-4484699845 |
+| 3 | Développeur ServiceNow - FSO | National Bank of Canada | Montreal, QC | https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-servicenow-fso-at-national-bank-of-canada-4485013355 |
+| 4 | Servicenow specialist | Tata Consultancy Services | Montreal, QC | https://ca.linkedin.com/jobs/view/servicenow-specialist-at-tata-consultancy-services-4486058172 |
+| 5 | Conseiller ou conseillère en gestion des vulnérabilités et ServiceNow SecOps-FR | Desjardins | Montréal-Ouest, QC | https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-gestion-des-vuln%C3%A9rabilit%C3%A9s-et-servicenow-secops-fr-at-desjardins-4486078203 |
+| 6 | ServiceNow Consultant - REMOTE | NTT DATA North America | Ottawa, ON | https://ca.linkedin.com/jobs/view/servicenow-consultant-remote-at-ntt-data-north-america-4478715652 |
+| 7 | ServiceNow Administrator | Pomerleau | St-Georges, QC | https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469986334 |
+| 8 | ServiceNow Administrator | Pomerleau | Québec, QC | https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469993127 |
+| 9 | ServiceNow Administrator | Pomerleau | Montreal, QC | https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469975858 |
+| 10 | Administrateur ServiceNow | Pomerleau | Québec, QC | https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220744 |
+| 11 | ServiceNow CMDB | Tata Consultancy Services | Montreal, QC | https://ca.linkedin.com/jobs/view/servicenow-cmdb-at-tata-consultancy-services-4486059065 |
+| 12 | ServiceNow Developer | GDIT | Any Location / Remote | https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1 |
+| 13 | Senior ServiceNow Developer | GDIT | Any Location / Remote | https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1 |
+| 14 | ServiceNow System Administrator | GDIT | Any Location / Remote | https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636 |
+| 15 | Lead ServiceNow SPM Technical Consultant | Peek IT Services | Ottawa, ON | https://www.adzuna.ca/details/5950813531 |
+| 16 | ServiceNow SAM Pro Consultant | 2iSolutions Inc. | Canada | https://ca.linkedin.com/jobs/view/4486426865 |
+| 17 | ServiceNow Developer | Lightspeed Commerce, Inc. | Toronto, ON | https://www.workopolis.com/jobsearch/viewjob/rh1Jd7pnrAFjG-7wwfHe3Czdr7p7HYTa08f0NnbVCo2cAwaf4TOk_UF |
+| 18 | ServiceNow Developer | Zaelab | Montreal, QC | https://www.adzuna.ca/details/5926069932 |
+| 19 | ServiceNow Consultant (Discovery & ITAM SME) | Bull Information Technology and Services | Toronto, ON | https://ca.linkedin.com/jobs/view/4485761822 |
+| 20 | ServiceNow Architect (526327) | Ateko (FX Innovation) | Canada; remote | https://www.fxinnovation.com/en/jobs/526327 |
+| 21 | Product Owner I - AskHR (ServiceNow HRSD) (R_1519634) | TD Bank | Toronto, ON | https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I---AskHR_R_1519634 |
+| 22 | ITAM Project Manager – ServiceNow HAM/SAM (contract ~$62+/hr) | Insight Global | Toronto, ON | https://insightglobal.com/jobs/search/toronto/servicenow |
+| 23 | ServiceNow Developer SME | GDIT | Any Location / Remote | https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1 |
+| 24 | ServiceNow ITOM Specialist | Raise | Saskatoon, Saskatchewan, Canada | https://ca.linkedin.com/jobs/view/servicenow-itom-specialist-at-raise-4486460378 |
+| 25 | ServiceNow Developer | Rexall Pharmacy Group Ltd. | Toronto, ON | https://ca.linkedin.com/jobs/view/servicenow-developer-at-rexall-pharmacy-group-ltd-4485761822 |
+
+---
+
+## 📈 TOP SALESFORCE JOBS (Top 25)
+
+| # | Role | Company | Location | URL |
+|---|------|---------|----------|-----|
+| 1 | Salesforce Business Analyst | Altus Group | Toronto, ON | https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Sale |
+| 2 | Salesforce Consultant, Revenue Cloud | NeuraFlash | Remote - Colombia | https://job-boards.greenhouse.io/neuraflash/jobs/6242209004 |
+| 3 | Salesforce Implementation Consultant & Platform Adminis | SS&C Technologies | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform- |
+| 4 | Salesforce Field Service (FSL) Developer | SCIEX | Vaughan, Ontario, Canada | https://ca.linkedin.com/jobs/view/salesforce-field-service-fsl-develop |
+| 5 | Développeur ou développeuse de systèmes – Salesforce | Co-operators Assurance et services | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst% |
+| 6 | Développeur ou développeuse de systèmes – Salesforce | Co-operators Assurance et services | Mississauga, Ontario, Canada | https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst% |
+| 7 | Systems Developer - Salesforce | Co-operators | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-o |
+| 8 | Systems Developer - Salesforce | Co-operators | Mississauga, Ontario, Canada | https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-o |
+| 9 | Senior Salesforce Engineer | Canadian Cancer Society | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadi |
+| 10 | Développeur principal/développeuse principale, Salesforce | Canadian Cancer Society | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9ve |
+| 11 | Salesforce Senior Developer | IKO North America | Mississauga, Ontario, Canada | https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-n |
+| 12 | Développeur ou développeuse de systèmes – Salesforce | Co-operators Assurance et serv | Guelph, Ontario, Canada | https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-syst% |
+| 13 | Systems Developer - Salesforce | Co-operators | Guelph, Ontario, Canada | https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-o |
+| 14 | Senior Salesforce Engineer | Canadian Cancer Society | Calgary, Alberta, Canada | https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadi |
+| 15 | Senior Salesforce Engineer | Canadian Cancer Society | Prince George, British Columbia, Ca | https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer- |
+| 16 | Senior Salesforce Engineer | Canadian Cancer Society | Halifax, Nova Scotia, Canada | https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer- |
+| 17 | Senior Salesforce Engineer | Canadian Cancer Society | Kelowna, British Columbia, Canada | https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer- |
+| 18 | Senior Salesforce Engineer | Canadian Cancer Society | Montreal, Quebec, Canada | https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer- |
+| 19 | Développeur(euse) Salesforce | iA Financial Group (Industrial Alli | Québec, Quebec, Canada | https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-de-s |
+| 20 | Senior Salesforce Engineer | Canadian Cancer Society | Québec, Quebec, Canada | https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer- |
+
+---
+
+## 📍 Geographic Distribution
+
+### Toronto/GTA (69 ServiceNow jobs)
+Toronto, Markham, Mississauga, Etobicoke, North York, Scarborough, Brampton, Vaughan, Oakville, Richmond Hill
+
+### Remote Canada (12 ServiceNow jobs)
+Remote positions across Canada
+
+### Other Canadian Cities
+Montreal, Ottawa, Calgary, Vancouver, Halifax, Winnipeg, Edmonton
+
+---
+
+## 💼 APPLICATION WORKFLOW
+
+### Recommended Application Order
 
 | Priority | Role Type | Why |
 |----------|-----------|-----|
-| P1 | ServiceNow Developer | 155 open roles, high demand, CSA/CAD certifications align |
-| P2 | Salesforce Developer | 89 open roles, strong demand |
+| P1 | ServiceNow Developer | 34 open roles, high demand, CSA/CAD certifications directly applicable |
+| P2 | Salesforce Developer | 89 open roles, high demand, Platform Developer I certifications align |
 | P3 | Salesforce Administrator | 42 openings, good entry point |
 | P4 | ServiceNow Administrator | 24 openings |
 | P5 | ServiceNow Consultant | 34 openings |
+| P6 | Salesforce Consultant | 34 openings |
 
 ### Application Channels (by effectiveness)
 
-| Channel | Coverage | Best For |
-|---------|----------|----------|
-| LinkedIn | High | Direct applications, networking |
-| Indeed | High | Broad coverage |
-| Glassdoor | Medium | Research + apply |
-| Workday (direct) | High | TD Bank, BMO, RBC |
-| Company Career Pages | High | Direct applications |
-| LinkedIn Easy Apply | Medium | Quick applications |
+| Channel | Coverage | Recommended For |
+|---------|----------|-----------------|
+| Company Career Pages | Direct, highest response rate | CIBC, BMO, RBC, TD, Scotiabank, ServiceNow corporate, Deloitte, KPMG, EY, Cognizant, Tata Consultancy, CGIC, Moneris, Alldus, BDO, Accenture |
+| LinkedIn Easy Apply | High volume, easy application | Most listings |
+| Workopolis | Canadian focus | Toronto/GTA roles |
+| Glassdoor | Company insights + jobs | Research + apply |
+| Indeed Canada | Broad coverage | All roles |
+| Arbeitnow | Keyless, EU + remote | Remote roles |
+| RemoteOK | Tech remote jobs | Remote roles |
+| Remotive | ~1,500 remote jobs | Remote roles |
+| Freehire | 3.3M+ ATS-sourced jobs | Broad coverage |
 
 ---
 
-## 📝 APPLICATION WORKFLOW
+## 📝 RESUME KEYWORDS (ATS Optimization)
 
-### Step 1: Find Jobs (Daily)
-- Check LinkedIn Jobs, Indeed Canada, Glassdoor for new postings
-- Check company career pages directly (CIBC, BMO, RBC, TD, Scotiabank, Deloitte, KPMG, EY, Cognizant, Tata Consultancy, CGIC, Moneris, Alldus, BDO, etc.)
-- Use job_discover.py tool to automate discovery
+### ServiceNow Keywords:
+ServiceNow, CSA, CAD, CIS, ITSM, ITOM, HRSD, GRC, SecOps, CMDB, Flow Designer, Business Rules, Client Scripts, Script Includes, UI Policies, UI Actions, Scheduled Jobs, REST/SOAP, Integration Hub, MID Server, ACLs, scoped applications, CSDM, Performance Analytics, Agile/Scrum, Git/GitHub, JavaScript
 
-### Step 2: AI Second Opinion (Per Job)
-- Run `tools/ai_second_opinion.py` with job details + resume context
-- Only apply to APPLY/LEAN_YES recommendations with confidence > 0.7
-- Record recommendation in tracker
-
-### Step 3: Tailor Resume
-- Customize for each role (highlight CSA/CAD skills)
-- Mirror job posting keywords in résumé (ATS optimization)
-
-### Step 4: Write Cover Letter
-- Use tools/apply_assist.py to draft cover letter
-- Reference specific posting requirements
-
-### Step 5: Apply
-- Apply via company career page (preferred) or LinkedIn Easy Apply
-- Record application in tracker with date, URL, next action date
-
-### Step 6: Follow Up
-- Follow up 1 week after application if no response
-- Follow up 2 weeks after application for final check
-- Track all interactions in tracker
-
----
-
-## 📝 RESUME OPTIMIZATION CHECKLIST
-
-### Key Skills to Highlight:
-- ServiceNow CSA, CAD (Certified System Administrator, Certified Application Developer)
-- CIS-PA, CIS-DISCO, CIS-HAM, CIS-SAM, CIS-RC, CIS-SPM, CIS-HR (ServiceNow certifications)
-- Salesforce Platform Developer I, Javascript Developer I, Platform Admin
-- Flow Designer, Business Rules, Client Scripts, Script Includes
-- UI Policies, UI Actions, Scheduled Jobs, ACLs
-- REST/SOAP integrations, Integration Hub, MID Server
-- CMDB, CSDM, Performance Analytics, Service Catalog
-- Agile/Scrum, Git/GitHub, JavaScript, Python, SQL
-
-### Resume Structure:
-1. Header — Name, contact, LinkedIn, location (Toronto/GTA)
-2. Professional Summary — 3-4 lines highlighting CSA/CAD + 6+ years experience + fintech background
-3. Certifications — CSA, CAD, CIS-*, Salesforce PD1, JS Dev I, ITIL v4
-4. Professional Experience — Reverse chronological with metrics
-5. Skills — Bullet list of ServiceNow skills and tools
-6. Education — Degree, institution, graduation date
+### Salesforce Keywords:
+Salesforce, Platform Developer I, Javascript Developer I, Platform Admin, AI Associate, Sales Cloud, Service Cloud, Marketing Cloud, Commerce Cloud, Experience Cloud, CPQ, Revenue Cloud, Agentforce, LWC, Apex, Visualforce, SOQL, Flows, Process Builder, Approval Processes
 
 ---
 
@@ -207,7 +235,7 @@ Dear Hiring Manager,
 I am writing to apply for the [ROLE TITLE] position at [COMPANY]. As a ServiceNow Certified System Administrator (CSA) and Certified Application Developer (CAD) with 6+ years of ServiceNow development experience in regulated financial services environments (CIBC, BMO, Metrolinx, RBC), I am well-positioned to deliver immediate value to [COMPANY NAME].
 
 **Key Qualifications:**
-- ServiceNow CSA & CAD certified with 8 CIS specializations
+- ServiceNow CSA + CAD certified with 8 CIS specializations (SAM, HAM, Discovery, PA, RC, SPM, HR)
 - 6+ years ServiceNow development experience in regulated financial services
 - Expertise in Flow Designer, Business Rules, Client Scripts, Script Includes, UI Policies, UI Actions
 - REST/SOAP integrations, Integration Hub, MID Server, ACLs, scoped applications, CSDM
@@ -229,19 +257,19 @@ Sincerely,
 | Day | Activity | Target |
 |-----|----------|--------|
 | Monday | Refresh target-list careers pages + fetch new jobs | 5-10 new applications |
-| Tuesday | Apply to top-ranked jobs, tailor résumés | 3-5 applications |
+| Tue–Thu | Apply to top-ranked jobs, tailor résumés | 3-5 applications/day |
 | Wednesday | Network outreach (5-8 messages), follow-ups | 5-8 LinkedIn messages |
 | Thursday | Apply to remaining top jobs | 3-5 applications |
 | Friday | Follow up on applications from previous week | 5-8 follow-ups |
 | Weekend | Build proof (one project/demo), rest | 1 project/demo |
 
-**Cadence:** 3-5 applications/week while employed; 8-15/week while searching full-time.
+**Cadence:** 3-5 applications/week while employed; 8-15/week while searching full-time. Never mass-apply untailored.
 
 **Protect the pace.** A burned-out searcher runs a worse process, not a faster one.
 
 ---
 
-## 📈 SUCCESS METRICS
+## 📊 SUCCESS METRICS
 
 Track weekly:
 - Applications submitted: Target 10-15/week
@@ -253,7 +281,7 @@ Track weekly:
 
 ---
 
-## 📚 RESOURCES
+## 📚 RECOMMENDED RESOURCES
 
 **ServiceNow:**
 - ServiceNow Developer Site: https://developer.servicenow.com
@@ -278,4 +306,4 @@ Track weekly:
 
 ---
 
-*Generated by Kilo AI Agent on 2026-11-05. Part of the BESTIEJOB job search system.*
+*Generated by Kilo AI Agent on 2026-11-06. Part of the BESTIEJOB job search system.*
