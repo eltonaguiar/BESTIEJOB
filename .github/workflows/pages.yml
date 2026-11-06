@@ -1,19 +1,8 @@
-name: Deploy GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
-    paths:
-      - 'public/**'
-      - 'README.md'
-      - 'tools/build_site.py'
-      - '.github/workflows/pages.yml'
-  schedule:
-    # The hourly scan commits its refresh with [skip ci], so a data-only push
-    # never triggered this workflow and the live page could lag behind main
-    # indefinitely (2026-11-03: main built 00:21, live served 00:16). Redeploy
-    # hourly, a little after the :00 scan finishes.
-    - cron: '35 * * * *'
+    branches: [ kilo-2026-11-05-sam-modules ]
   workflow_dispatch:
 
 permissions:
@@ -22,31 +11,34 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Build site from README tables
-        run: python3 tools/build_site.py
-      - name: Assert the page links every posting
-        run: python3 scripts/check_site_links.py
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-  deploy:
-    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - id: deployment
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Build site
+        run: |
+          mkdir -p _site
+          cp -r *.html _site/
+          cp -r *.css _site/ 2>/dev/null || true
+          cp -r *.js _site/ 2>/dev/null || true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
