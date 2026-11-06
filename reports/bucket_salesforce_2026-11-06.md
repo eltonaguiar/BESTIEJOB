@@ -1,41 +1,41 @@
 # SALESFORCE — 30 todos / 30 rounds — 2026-11-06
 
-Liveness verified: **no** · generated 14:43 UTC
+Liveness verified: **yes** · generated 20:02 UTC
 
 | # | Target | Route | Fetched | Matched | Live | New | Secs |
 |---|--------|-------|--------:|--------:|-----:|----:|-----:|
 | 1 | Salesforce | workday | 100 | 0 | 0 | 0 | 3.5 |
-| 2 | NeuraFlash | greenhouse | 75 | 14 | 14 | 0 | 0.3 |
+| 2 | NeuraFlash | greenhouse | 75 | 14 | 14 | 2 | 0.8 |
 | 3 | Highmetric | greenhouse | 48 | 0 | 0 | 0 | 0.1 |
-| 4 | nCino | greenhouse | 29 | 0 | 0 | 0 | 0.1 |
+| 4 | nCino | greenhouse | 30 | 0 | 0 | 0 | 0.1 |
 | 5 | Varicent | greenhouse | 23 | 0 | 0 | 0 | 0.1 |
-| 6 | SiteTracker | lever | 9 | 0 | 0 | 0 | 0.5 |
+| 6 | SiteTracker | lever | 8 | 0 | 0 | 0 | 0.5 |
 | 7 | Flosum | workable | 155 | 0 | 0 | 0 | 0.2 |
 | 8 | Zaelab | workable | 7 | 0 | 0 | 0 | 0.1 |
 | 9 | Avacone | workable | 19 | 0 | 0 | 0 | 0.1 |
 | 10 | RapDev | ashby | 9 | 0 | 0 | 0 | 0.0 |
-| 11 | Directive | ashby | 67 | 0 | 0 | 0 | 0.0 |
+| 11 | Directive | ashby | 67 | 0 | 0 | 0 | 0.1 |
 | 12 | Loopio | ashby | 16 | 0 | 0 | 0 | 0.0 |
-| 13 | Docebo | ashby | 33 | 2 | 2 | 0 | 0.0 |
-| 14 | Benevity | ashby | 24 | 2 | 2 | 0 | 0.0 |
+| 13 | Docebo | ashby | 35 | 2 | 2 | 2 | 0.4 |
+| 14 | Benevity | ashby | 25 | 2 | 2 | 0 | 0.3 |
 | 15 | Lightspeed Commerce | ashby | 135 | 0 | 0 | 0 | 0.1 |
-| 16 | Accenture | workday | 100 | 0 | 0 | 0 | 9.8 |
-| 17 | Altus Group | workday | 6 | 2 | 2 | 0 | 0.9 |
-| 18 | BMO | workday | 11 | 1 | 1 | 0 | 1.1 |
-| 19 | TD Bank | workday | 12 | 1 | 1 | 0 | 1.2 |
-| 20 | CIBC | workday | 9 | 0 | 0 | 0 | 1.0 |
+| 16 | Accenture | workday | 100 | 0 | 0 | 0 | 10.5 |
+| 17 | Altus Group | workday | 6 | 2 | 2 | 0 | 1.6 |
+| 18 | BMO | workday | 12 | 1 | 1 | 0 | 2.2 |
+| 19 | TD Bank | workday | 12 | 1 | 1 | 0 | 2.6 |
+| 20 | CIBC | workday | 9 | 0 | 0 | 0 | 1.2 |
 | 21 | Sun Life | workday | 11 | 0 | 0 | 0 | 1.1 |
-| 22 | Manulife | workday | 38 | 0 | 0 | 0 | 2.4 |
-| 23 | OMERS | workday | 1 | 0 | 0 | 0 | 0.8 |
-| 24 | TMX Group | workday | 5 | 0 | 0 | 0 | 0.5 |
-| 25 | Thomson Reuters | workday | 76 | 0 | 0 | 0 | 3.7 |
-| 26 | Moneris | workday | 2 | 1 | 1 | 0 | 0.7 |
-| 27 | McKesson | workday | 52 | 3 | 3 | 0 | 2.9 |
-| 28 | Cloudera | workday | 3 | 0 | 0 | 0 | 0.7 |
+| 22 | Manulife | workday | 39 | 0 | 0 | 0 | 2.2 |
+| 23 | OMERS | workday | 1 | 0 | 0 | 0 | 1.1 |
+| 24 | TMX Group | workday | 5 | 0 | 0 | 0 | 0.6 |
+| 25 | Thomson Reuters | workday | 78 | 0 | 0 | 0 | 4.1 |
+| 26 | Moneris | workday | 2 | 1 | 1 | 0 | 1.5 |
+| 27 | McKesson | workday | 54 | 3 | 3 | 0 | 3.6 |
+| 28 | Cloudera | workday | 3 | 0 | 0 | 0 | 0.8 |
 | 29 | Harris Computer | workday | 13 | 0 | 0 | 0 | 0.9 |
 | 30 | GDIT | workday | 9 | 0 | 0 | 0 | 0.9 |
 
-**Totals** — fetched 1097, matched 26, live-verified 26, net-new 0, errors 0, 34.0s.
+**Totals** — fetched 1106, matched 26, live-verified 26, net-new 4, errors 0, 41.2s.
 
 ## Round 2 — NeuraFlash (14 live)
 

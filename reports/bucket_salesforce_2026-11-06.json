@@ -1,16 +1,16 @@
 {
  "bucket": "salesforce",
- "generated": "2026-11-06T14:43:12.518068+00:00",
+ "generated": "2026-11-06T20:02:50.543418+00:00",
  "rounds_planned": 30,
  "rounds_run": 30,
- "verify_liveness": false,
+ "verify_liveness": true,
  "totals": {
-  "fetched": 1097,
+  "fetched": 1106,
   "matched": 26,
   "live": 26,
-  "new": 0,
+  "new": 4,
   "errors": 0,
-  "secs": 34.0
+  "secs": 41.2
  },
  "rounds": [
   {
@@ -36,9 +36,9 @@
    "matched": 14,
    "dupes": 0,
    "live": 14,
-   "new": 0,
+   "new": 2,
    "error": null,
-   "secs": 0.3,
+   "secs": 0.8,
    "jobs": [
     {
      "title": "Forward Deployed Engineer, AI & Agentforce",
@@ -46,7 +46,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6225939004",
      "posted": "2026-10-15",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Functional Lead, AI & Agentforce Delivery",
@@ -54,7 +55,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6228522004",
      "posted": "2026-10-20",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Engagement Manager",
@@ -62,7 +64,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220891004",
      "posted": "2026-10-08",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Experience Architect, AI and Agentforce (Solution Architect)",
@@ -70,7 +73,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5764374004",
      "posted": "2026-01-14",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Manager, AI & Agentforce Delivery",
@@ -78,7 +82,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6206506004",
      "posted": "2026-09-24",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Project Manager",
@@ -86,7 +91,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220750004",
      "posted": "2026-10-08",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Solution Architect, Field Service",
@@ -94,7 +100,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6011721004",
      "posted": "2026-06-02",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Solution Architect, Revenue Cloud",
@@ -102,7 +109,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222627004",
      "posted": "2026-10-12",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Solution Architect, Service Cloud",
@@ -110,7 +118,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5730028004",
      "posted": "2025-12-05",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Solution Architect, Service Cloud Voice",
@@ -118,7 +127,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5993680004",
      "posted": "2026-05-11",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Solution Engineer,  RCA & RCB",
@@ -126,7 +136,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6015378004",
      "posted": "2026-06-05",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Technical Architect",
@@ -134,7 +145,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222640004",
      "posted": "2026-10-12",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Salesforce Technical Architect, AI and Agentforce",
@@ -142,7 +154,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6218548004",
      "posted": "2026-10-06",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     },
     {
      "title": "Sr. Developer, AI and Agentforce",
@@ -150,7 +163,8 @@
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6231605004",
      "posted": "2026-10-21",
-     "source": "greenhouse:neuraflash"
+     "source": "greenhouse:neuraflash",
+     "http_status": 200
     }
    ]
   },
@@ -173,7 +187,7 @@
    "target": "nCino",
    "route": "greenhouse",
    "note": "financial-services Salesforce ISV",
-   "fetched": 29,
+   "fetched": 30,
    "matched": 0,
    "dupes": 0,
    "live": 0,
@@ -201,7 +215,7 @@
    "target": "SiteTracker",
    "route": "lever",
    "note": "Salesforce-native field ops",
-   "fetched": 9,
+   "fetched": 8,
    "matched": 0,
    "dupes": 0,
    "live": 0,
@@ -277,7 +291,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 0.0,
+   "secs": 0.1,
    "jobs": []
   },
   {
@@ -299,13 +313,13 @@
    "target": "Docebo",
    "route": "ashby",
    "note": "55 York St, downtown Toronto",
-   "fetched": 33,
+   "fetched": 35,
    "matched": 2,
    "dupes": 0,
    "live": 2,
-   "new": 0,
+   "new": 2,
    "error": null,
-   "secs": 0.0,
+   "secs": 0.4,
    "jobs": [
     {
      "title": "Salesforce Product Owner",
@@ -313,7 +327,8 @@
      "location": "Toronto, Ontario",
      "url": "https://jobs.ashbyhq.com/docebo/6c6ced29-4d69-4e93-b808-e6aea83d87f3",
      "posted": "2026-10-02",
-     "source": "ashby:docebo"
+     "source": "ashby:docebo",
+     "http_status": 200
     },
     {
      "title": "Senior Salesforce Developer",
@@ -321,7 +336,8 @@
      "location": "Toronto, Ontario",
      "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
      "posted": "2026-10-30",
-     "source": "ashby:docebo"
+     "source": "ashby:docebo",
+     "http_status": 200
     }
    ]
   },
@@ -330,13 +346,13 @@
    "target": "Benevity",
    "route": "ashby",
    "note": "Calgary/Toronto, Salesforce shop",
-   "fetched": 24,
+   "fetched": 25,
    "matched": 2,
    "dupes": 0,
    "live": 2,
    "new": 0,
    "error": null,
-   "secs": 0.0,
+   "secs": 0.3,
    "jobs": [
     {
      "title": "Senior Salesforce Administrator",
@@ -344,7 +360,8 @@
      "location": "Calgary, Alberta",
      "url": "https://jobs.ashbyhq.com/benevity/f943cad9-7eed-466f-8ff5-398ac15dd14d",
      "posted": "2026-10-28",
-     "source": "ashby:benevity"
+     "source": "ashby:benevity",
+     "http_status": 200
     },
     {
      "title": "Senior Salesforce Administrator",
@@ -352,7 +369,8 @@
      "location": "Toronto, Ontario",
      "url": "https://jobs.ashbyhq.com/benevity/78798ad7-2d39-497e-98af-dad3a2ea8e20",
      "posted": "2026-10-28",
-     "source": "ashby:benevity"
+     "source": "ashby:benevity",
+     "http_status": 200
     }
    ]
   },
@@ -381,7 +399,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 9.8,
+   "secs": 10.5,
    "jobs": []
   },
   {
@@ -395,7 +413,7 @@
    "live": 2,
    "new": 0,
    "error": null,
-   "secs": 0.9,
+   "secs": 1.6,
    "jobs": [
     {
      "title": "Salesforce Platform Developer",
@@ -404,7 +422,8 @@
      "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
      "posted": "2026-10-30",
      "posted_raw": "Posted 7 Days Ago",
-     "source": "workday:altusgroup"
+     "source": "workday:altusgroup",
+     "http_status": 200
     },
     {
      "title": "Salesforce Business Analyst",
@@ -413,7 +432,8 @@
      "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
      "posted": "2026-11-03",
      "posted_raw": "Posted 3 Days Ago",
-     "source": "workday:altusgroup"
+     "source": "workday:altusgroup",
+     "http_status": 200
     }
    ]
   },
@@ -422,13 +442,13 @@
    "target": "BMO",
    "route": "workday",
    "note": "bank",
-   "fetched": 11,
+   "fetched": 12,
    "matched": 1,
    "dupes": 0,
    "live": 1,
    "new": 0,
    "error": null,
-   "secs": 1.1,
+   "secs": 2.2,
    "jobs": [
     {
      "title": "Manager, Banking Salesforce Innovation & Enablement",
@@ -437,7 +457,8 @@
      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Manager--Salesforce-Innovation---Enablement_R260030015",
      "posted": "2026-10-29",
      "posted_raw": "Posted 8 Days Ago",
-     "source": "workday:bmo"
+     "source": "workday:bmo",
+     "http_status": 200
     }
    ]
   },
@@ -452,7 +473,7 @@
    "live": 1,
    "new": 0,
    "error": null,
-   "secs": 1.2,
+   "secs": 2.6,
    "jobs": [
     {
      "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
@@ -461,7 +482,8 @@
      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
      "posted": "2026-10-26",
      "posted_raw": "Posted 11 Days Ago",
-     "source": "workday:td"
+     "source": "workday:td",
+     "http_status": 200
     }
    ]
   },
@@ -476,7 +498,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 1.0,
+   "secs": 1.2,
    "jobs": []
   },
   {
@@ -498,13 +520,13 @@
    "target": "Manulife",
    "route": "workday",
    "note": "insurer",
-   "fetched": 38,
+   "fetched": 39,
    "matched": 0,
    "dupes": 0,
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 2.4,
+   "secs": 2.2,
    "jobs": []
   },
   {
@@ -518,7 +540,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 0.8,
+   "secs": 1.1,
    "jobs": []
   },
   {
@@ -532,7 +554,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 0.5,
+   "secs": 0.6,
    "jobs": []
   },
   {
@@ -540,13 +562,13 @@
    "target": "Thomson Reuters",
    "route": "workday",
    "note": "Toronto HQ",
-   "fetched": 76,
+   "fetched": 78,
    "matched": 0,
    "dupes": 0,
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 3.7,
+   "secs": 4.1,
    "jobs": []
   },
   {
@@ -560,7 +582,7 @@
    "live": 1,
    "new": 0,
    "error": null,
-   "secs": 0.7,
+   "secs": 1.5,
    "jobs": [
     {
      "title": "Principle Salesforce Developer",
@@ -569,7 +591,8 @@
      "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
      "posted": "2026-10-28",
      "posted_raw": "Posted 9 Days Ago",
-     "source": "workday:moneris"
+     "source": "workday:moneris",
+     "http_status": 200
     }
    ]
   },
@@ -578,13 +601,13 @@
    "target": "McKesson",
    "route": "workday",
    "note": "healthcare distribution",
-   "fetched": 52,
+   "fetched": 54,
    "matched": 3,
    "dupes": 0,
    "live": 3,
    "new": 0,
    "error": null,
-   "secs": 2.9,
+   "secs": 3.6,
    "jobs": [
     {
      "title": "Salesforce Marketing Cloud Developer",
@@ -593,7 +616,8 @@
      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159",
      "posted": null,
      "posted_raw": "Posted 30+ Days Ago",
-     "source": "workday:mckesson"
+     "source": "workday:mckesson",
+     "http_status": 200
     },
     {
      "title": "Lead Salesforce Solution Architect",
@@ -602,7 +626,8 @@
      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
      "posted": null,
      "posted_raw": "Posted 30+ Days Ago",
-     "source": "workday:mckesson"
+     "source": "workday:mckesson",
+     "http_status": 200
     },
     {
      "title": "Sr. Salesforce CRM Development Lead",
@@ -611,7 +636,8 @@
      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
      "posted": null,
      "posted_raw": "Posted 30+ Days Ago",
-     "source": "workday:mckesson"
+     "source": "workday:mckesson",
+     "http_status": 200
     }
    ]
   },
@@ -626,7 +652,7 @@
    "live": 0,
    "new": 0,
    "error": null,
-   "secs": 0.7,
+   "secs": 0.8,
    "jobs": []
   },
   {
