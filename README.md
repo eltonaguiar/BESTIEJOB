@@ -4,13 +4,13 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T144905Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T200216Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-06](#current-jobs--as-of-2026-11-06)
   - [ServiceNow jobs (534)](#servicenow-jobs-534)
-  - [Salesforce jobs (699)](#salesforce-jobs-699)
+  - [Salesforce jobs (704)](#salesforce-jobs-704)
   - [Other jobs (2000)](#other-jobs-2000)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-06
 
-Window: 2026-10-07 → 2026-11-06 · **3233 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-07 → 2026-11-06 · **3238 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (534)
 
@@ -565,25 +565,29 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (699)
+### Salesforce jobs (704)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 699 postings</strong></summary>
+<details><summary><strong>Show 704 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-06 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://www.eluta.ca/spl/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketingclouds-d9371817356bc63f59c37e01388f61be) | Salesforce | Toronto ON | via canada-index--2026-11-06--v1.md |
+| 2026-11-06 | [Senior Salesforce Architect - Canada](https://www.adzuna.ca/details/5955917274?utm_medium=api&utm_source=54ce986e) | Vasa Digital Architects | Canada | via adzuna-round15--2026-11-06--v1.md |
 | 2026-11-06 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-make-a-wish-canada-4486201660) | Make-A-Wish Canada | Toronto, Ontario, Canada |  |
 | 2026-11-06 | [Salesforce nCino Developer](https://www.eluta.ca/spl/salesforce-ncino-developer-e9c39b48cb8e14aae52c6ea6a4a99322) | Cognizant Technology Solutions | Toronto ON | via canada-index--2026-11-06--v1.md |
+| 2026-11-06 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5955917323?utm_medium=api&utm_source=54ce986e) | Finning International Inc. | Surrey, Greater Vancouver | via adzuna-round15--2026-11-06--v1.md |
 | 2026-11-06 | [Salesforce Solution Architect](https://www.eluta.ca/spl/salesforce-solution-architect-427e7e6aba33e22fd89b37c8b7c90df6) | Broadsign Canada Company | Montréal QC | via canada-index--2026-11-06--v1.md |
 | 2026-11-06 | [Salesforce Developer](https://www.eluta.ca/spl/salesforce-developer-d2fc84b06a640d3e35dacf1685024ef8) | Industrial Alliance Insurance and Financial Services Inc. | Vancouver BC | via canada-index--2026-11-06--v1.md |
 | 2026-11-06 | [Salesforce Datcloud Tech Lead](https://www.adzuna.ca/details/5955420127?utm_medium=api&utm_source=54ce986e) | Cognizant | Mississauga, Peel region | via adzuna-round14--2026-11-06--v1.md |
+| 2026-11-06 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5955972080?utm_medium=api&utm_source=54ce986e) | estaffing Inc | Canada | via adzuna-round15--2026-11-06--v1.md |
 | 2026-11-06 | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) | Senior Salesforce Engineer | Canadian Cancer Society | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v63.md |
 | 2026-11-06 | [Développeur(euse) Salesforce](https://www.eluta.ca/spl/d%C3%A9veloppeur-euse-salesforce-7501156c7789450ef75b026599ea919b) | Industrial Alliance Insurance and Financial Services Inc. | Vancouver BC | via canada-index--2026-11-06--v1.md |
 | 2026-11-06 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |  |
 | 2026-11-06 | [DevOps Engineer(Salesforce)](https://www.adzuna.ca/details/5955295565) | Scotiabank | Toronto, Ontario |  |
 | 2026-11-06 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-applied-systems-canada-4486934306) | Applied Systems Canada | Canada |  |
+| 2026-11-06 | [Aquiva, Canada - Senior Salesforce Engineer](https://www.adzuna.ca/details/5955916664?utm_medium=api&utm_source=54ce986e) | Aquiva and Hapi | Greater Vancouver, British Columbia | via adzuna-round15--2026-11-06--v1.md |
 | 2026-11-06 | [(VO2 Canada) - Consultant.e Salesforce](https://www.eluta.ca/spl/vo2-canada-consultant-e-salesforce-66d78ae634ad947ee326f1e42f95a1cc) | VO2 Group | Montréal QC | via canada-index--2026-11-06--v1.md |
 | 2026-11-06 | [(VO2 Canada) - Business Analyst (BA) Junior – Tremplin Salesforce IA](https://www.eluta.ca/spl/vo2-canada-business-analyst-ba-junior-%E2%80%93-tremplin-salesforce-ia-79916b511cd83271b4c27e07266baf9b) | VO2 Group | Montréal QC | via canada-index--2026-11-06--v1.md |
 | 2026-11-06 | [(VO2 Canada) - Administratrice.teur Salesforce Administrator](https://www.eluta.ca/spl/vo2-canada-administratrice-teur-salesforce-administrator-9adf8459802e34a5daf7ab22ef3e1a97) | VO2 Group | Montréal QC | via canada-index--2026-11-06--v1.md |
@@ -602,6 +606,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-05 | [Salesforce Quality Engineering Lead](https://ca.linkedin.com/jobs/view/salesforce-quality-engineering-lead-at-brunel-4475434632) | Brunel | Quebec, Canada | via freebuff--2026-11-05--v1.md |
 | 2026-11-05 | [Salesforce Production Support Associate](https://ca.linkedin.com/jobs/view/salesforce-production-support-associate-at-ntt-data-north-america-4479283413) | NTT DATA North America | Halifax, Nova Scotia, Canada | via freebuff--2026-11-05--v1.md |
 | 2026-11-05 | [Salesforce Lead Developer](https://www.eluta.ca/spl/salesforce-lead-developer-c9ced06c8eca9ed784d7004c17bf29f3) | Wawanesa Mutual Insurance Company, The | Winnipeg MB | via canada-index--2026-11-06--v1.md |
+| 2026-11-05 | [Salesforce Implementation Consultant & Platform Administrator](https://www.adzuna.ca/details/5954045892?utm_medium=api&utm_source=54ce986e) | SS&C | Toronto, Ontario | via adzuna-round15--2026-11-06--v1.md |
 | 2026-11-05 | [Salesforce Datcloud Tech Lead](https://www.eluta.ca/spl/salesforce-datcloud-tech-lead-49c605d30c1ff8f9f3f2ba17f8b66404) | Cognizant Technology Solutions | Mississauga ON | via canada-index--2026-11-06--v1.md |
 | 2026-11-05 | [Salesforce Consultants (remote Canada )](https://www.adzuna.ca/details/5954387535?utm_medium=api&utm_source=54ce986e) | Ensiti | Montréal, Québec | via adzuna-round14--2026-11-06--v1.md |
 | 2026-11-05 | [Salesforce Consultant - FSC Cloud](https://ca.linkedin.com/jobs/view/salesforce-consultant-fsc-cloud-at-enterprise-solutions-inc-4483663839) | Enterprise Solutions Inc. | Toronto, Ontario, Canada |  |
@@ -1286,7 +1291,9 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-06 | [Test Administrator](https://www.adzuna.ca/details/5955457734?utm_medium=api&utm_source=54ce986e) | Pearson | Edmonton, Edmonton region | Adzuna/service management developer |
 | 2026-11-06 | [Software Developer - Full Stack](https://www.adzuna.ca/details/5955746489) | Innosystech Inc | Toronto, Ontario | Full stack |
 | 2026-11-06 | [Senior Product Manager - Digital Asset Management](https://www.adzuna.ca/details/5955455934?utm_medium=api&utm_source=54ce986e) | Jobgether | Canada | via adzuna-round14--2026-11-06--v1.md |
+| 2026-11-06 | [Senior Product Manager - Digital Asset Management](https://www.adzuna.ca/details/5955916608?utm_medium=api&utm_source=54ce986e) | Veeva Systems | Toronto, Ontario | via adzuna-round15--2026-11-06--v1.md |
 | 2026-11-06 | [Senior Integration Developer](https://www.adzuna.ca/details/5955745408?utm_medium=api&utm_source=54ce986e) | Klick Health | Toronto, Ontario | via adzuna-round14--2026-11-06--v1.md |
+| 2026-11-06 | [Senior Integration Developer](https://www.adzuna.ca/details/5955424730?utm_medium=api&utm_source=54ce986e) | Klick Health | Toronto, Ontario | via adzuna-round15--2026-11-06--v1.md |
 | 2026-11-06 | [Senior Information Security Analyst](https://www.adzuna.ca/details/5955295146?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | Adzuna/servicenow technical |
 | 2026-11-06 | [Senior FullStack Engineer - Grafana Catalog \/ Canada\/ Remote](https://www.adzuna.ca/details/5955475926) | Canada\ | Remote](https://www.adzuna.ca/details/5955475926) | Grafana Labs Canada Full stack |
 | 2026-11-06 | [Senior Director, Technology Risk Assessments](https://www.adzuna.ca/details/5955294606?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | Adzuna/servicenow GRC |
@@ -1300,6 +1307,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-06 | [IT Asset Administrator](https://www.adzuna.ca/details/5955730345?utm_medium=api&utm_source=54ce986e) | Kronos Consulting | Québec, Canada | via adzuna-round14b--2026-11-06--v1.md |
 | 2026-11-06 | [Fire Extinguisher Technician](https://www.adzuna.ca/details/5955457472?utm_medium=api&utm_source=54ce986e) | Brogan Safety | Canada | Adzuna/service management developer |
 | 2026-11-06 | [Director, Surveys and Geomatics](https://www.adzuna.ca/details/5955448382?utm_medium=api&utm_source=54ce986e) | Infrastructure Ontario | Toronto, Ontario | Adzuna/service management developer |
+| 2026-11-06 | [Directeur(trice) principal(e), Technologie marketing, analytique et plateformes numériques](https://www.adzuna.ca/details/5955916119?utm_medium=api&utm_source=54ce986e) | Intact Financial Corporation | Montréal, Québec | via adzuna-round15--2026-11-06--v1.md |
 | 2026-11-05 | [Workforce Support (HR) Specialist (12 month contract)](https://www.adzuna.ca/details/5953992137?utm_medium=api&utm_source=54ce986e) | Avery Dennison | Toronto, Ontario | via rounds1-8--2026-11-05--v1.md |
 | 2026-11-05 | [WFS Integration Consultant / Consultant en intgration WFS](https://www.adzuna.ca/details/5953985103?utm_medium=api&utm_source=54ce986e) | ADP | Etobicoke, Toronto | via adzuna-round14--2026-11-06--v1.md |
 | 2026-11-05 | [VP, Legal & Compliance - Canada](https://www.adzuna.ca/details/5954565429?utm_medium=api&utm_source=54ce986e) | LGBT Great | Toronto, Ontario | via adzuna-round13--2026-11-06--v1.md |
@@ -3280,9 +3288,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-02 | [AI Transformation Owner, Product & Design](https://job-boards.greenhouse.io/gitlab/jobs/8716179002) | gitlab | Remote, Canada; Remote, United Kingdom; Remote, United States | via round11-cached--2026-11-05--v7.md |
 | 2026-11-02 | [AI Transformation Owner, CRO](https://job-boards.greenhouse.io/gitlab/jobs/8638232002) | gitlab | Remote, United States | via round11-cached--2026-11-05--v7.md |
 | 2026-11-02 | [AI Operations Lead, Toast IQ](https://careers.toasttab.com/jobs?gh_jid=8054004) | toast | Remote, US | via round11-cached--2026-11-05--v7.md |
-| 2026-11-02 | [(IT Project Manager (4987))(https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e)](https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e) | Alteo | Montréal, Québec | via adzuna-autonomous--2026-11-05--v10.md |
-| 2026-11-02 | [(Forward Deployed Engineer, Finance (Office of the CTO))(https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932)](https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932) | coinbase | Remote - USA | via round11-cached--2026-11-05--v7.md |
-| 2026-11-02 | [(Embedded Engineer, Compliance (Office of the CTO))(https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099)](https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099) | coinbase | Remote - USA | via round11-cached--2026-11-05--v7.md |
 
 </details>
 
@@ -3412,4 +3417,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-06T144905Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T200216Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
