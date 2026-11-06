@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-06T20:05:49.579998+00:00",
     "generatedAt": "2026-11-06T20:05:49.579998+00:00",
-    "total": 3256,
+    "total": 3267,
     "newThisScan": 6,
     "retainedFromPrevious": 3251,
     "sources": {
@@ -746,6 +746,24 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/itsm-analyst-at-the-salvation-army-in-canada-4488419108",
+      "source": "readme",
+      "company": "The Salvation Army in Canada",
+      "title": "ITSM Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/itsm-analyst-at-the-salvation-army-in-canada-4488419108",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
       ]
     },
     {
@@ -11467,6 +11485,23 @@
       "postedDate": "2026-11-04T12:00:00.000Z",
       "scrapedAt": "2026-11-06T20:04:21.285Z",
       "excerpt": "via round11-cached--2026-11-05--v7.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487245231",
+      "source": "readme",
+      "company": "RBC",
+      "title": "Senior Configuration Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487245231",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -51656,6 +51691,23 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/commerce-functional-lead-at-accenture-4482952448",
+      "source": "readme",
+      "company": "Accenture",
+      "title": "Commerce Functional Lead",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/commerce-functional-lead-at-accenture-4482952448",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5942233022",
       "source": "adzuna",
       "company": "ExcelGens, Inc.",
@@ -52162,6 +52214,40 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/software-integrations-developer-crm-at-quadra-group-4473351743",
+      "source": "readme",
+      "company": "Quadra Group",
+      "title": "Software & Integrations Developer (CRM)",
+      "location": "Vaudreuil-Dorion, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/software-integrations-developer-crm-at-quadra-group-4473351743",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/bilingual-senior-specialist-it-operations-monitoring-service-insights-at-canada-mortgage-and-housing-corporation-cmhc-soci%c3%a9t%c3%a9-canadienne-d-hypoth%c3%a8ques-et-de-logement-schl-4404316848",
+      "source": "readme",
+      "company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
+      "title": "Bilingual Senior Specialist, IT Operations Monitoring & Service Insights",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/bilingual-senior-specialist-it-operations-monitoring-service-insights-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4404316848",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -54688,6 +54774,40 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-salesforce-developer-at-capgemini-4480255313",
+      "source": "readme",
+      "company": "Capgemini",
+      "title": "Senior Salesforce Developer",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-capgemini-4480255313",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/consultant-en-salesforce-marketing-cloud-et-data-cloud-at-accenture-4480279907",
+      "source": "readme",
+      "company": "Accenture",
+      "title": "Consultant en Salesforce Marketing Cloud et Data Cloud",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/consultant-en-salesforce-marketing-cloud-et-data-cloud-at-accenture-4480279907",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-movable-ink-4453734384",
       "source": "linkedin",
       "company": "Movable Ink",
@@ -55061,6 +55181,40 @@
       "workArrangement": "remote",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480382878",
+      "source": "readme",
+      "company": "KPMG Canada",
+      "title": "Directeur.rice fonctionnel.le - ServiceNow",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480382878",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793",
+      "source": "readme",
+      "company": "KPMG Canada",
+      "title": "Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -55724,6 +55878,23 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-analyst-salesforce-marketing-cloud-at-siriusxm-canada-4477021353",
+      "source": "readme",
+      "company": "SiriusXM Canada",
+      "title": "Senior Analyst, Salesforce Marketing Cloud",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-analyst-salesforce-marketing-cloud-at-siriusxm-canada-4477021353",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-14T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-tata-consultancy-services-4478463407",
       "source": "linkedin",
       "company": "Tata Consultancy Services",
@@ -55927,6 +56098,23 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/principal-commerce-technology-advisor-at-accenture-4478180316",
+      "source": "readme",
+      "company": "Accenture",
+      "title": "Principal Commerce Technology Advisor",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/principal-commerce-technology-advisor-at-accenture-4478180316",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-13T12:00:00.000Z",
+      "scrapedAt": "2026-11-06T20:21:26.380Z",
+      "excerpt": "via buffy-round15b--2026-11-06--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
