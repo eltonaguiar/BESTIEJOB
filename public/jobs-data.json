@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-06T06:06:41+00:00",
+ "generatedAt": "2026-11-06T06:33:24+00:00",
  "timezone": "America/Toronto",
- "count": 403,
- "appliedHidden": 12,
+ "count": 402,
+ "appliedHidden": 14,
  "sources": [
   "Adzuna",
   "Aggregator",
@@ -57,7 +57,6 @@
   "echojobs.io",
   "emploive.com",
   "employmenthero.com",
-  "expertini.in",
   "flexgen.zya.me",
   "flexstack.my-board.org",
   "getcanadianjob.com",
@@ -97,7 +96,6 @@
   "jobs.utoronto.ca",
   "jobs.vancouver.ca",
   "jobs.wawanesa.com",
-  "jobs.womenforhire.com",
   "jobsbrampton.ca",
   "jobsbycountry.com",
   "jobsca.org",
@@ -153,6 +151,27 @@
    ],
    "french": false,
    "search": "senior servicenow developer (app engine / hrsd) resonaite ottawa, ontario, canada linkedin servicenow  servicenow hrsd / va role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "DevOps Engineer(Salesforce)",
+   "company": "Scotiabank",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955295565",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer(salesforce) scotiabank toronto, ontario adzuna salesforce  salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -214,6 +233,26 @@
    ],
    "french": false,
    "search": "hiringcafe senior salesforce engineer canadian cancer society hiringcafe.com salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v67.md salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior Analyst, Business Intelligence Systems",
+   "company": "Scotiabank",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955294957",
+   "note": "Data / BI",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior analyst, business intelligence systems scotiabank toronto, ontario adzuna other data / bi role fit toronto area",
    "alternates": []
   },
   {
@@ -6020,48 +6059,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Revenue Cloud Architect – CPQ, Quote-to-Cash, Apex & Lightning Web Components at Astra North Infoteck Inc. — Montreal, QC, Canada / Expertini.in",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://expertini.in/vacancy/salesforce-revenue-cloud-architect-cpq-quote-to-montreal-astra-north-infoteck-1695000039-canada/",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "expertini.in",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce revenue cloud architect – cpq, quote-to-cash, apex & lightning web components at astra north infoteck inc. — montreal, qc, canada / expertini.in unknown canada expertini.in salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Revenue Cloud Architect in Toronto, Canada / GetHiredToday",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.womenforhire.com/job/canada/toronto-on/salesforce-revenue-cloud-architect-010791",
-   "note": "5/10 via 2026-11-04_sf_round12_raw_20261104T004221Z.json",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.womenforhire.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce revenue cloud architect in toronto, canada / gethiredtoday unknown canada jobs.womenforhire.com salesforce 5/10 via 2026-11-04_sf_round12_raw_20261104t004221z.json salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Support Analyst, ITSM at McCarthy Tétrault · Vancouver, BC, Canada · ApplyHour",
    "company": "Unknown",
    "location": "Canada",
@@ -8423,26 +8420,6 @@
    ],
    "french": false,
    "search": "senior cloud platform engineer at bank of montreal unknown canada echojobs.io other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Cloud Platform Engineer - Scotiabank - Toronto, ON / Ladders",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.theladders.com/job/senior-cloud-platform-engineer-scotiabank-toronto-on_87858731",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "theladders.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior cloud platform engineer - scotiabank - toronto, on / ladders unknown canada theladders.com other 8 role fit canada / remote",
    "alternates": []
   },
   {
