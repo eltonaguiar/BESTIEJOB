@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-06T18:33:10+00:00",
+ "generatedAt": "2026-11-06T19:05:38+00:00",
  "timezone": "America/Toronto",
- "count": 397,
+ "count": 396,
  "appliedHidden": 14,
  "sources": [
   "Adzuna",
@@ -115,7 +115,6 @@
   "salesforce.com",
   "scoutify.com",
   "simplyhired.ca",
-  "sorce.jobs",
   "stackitrecruitment.com",
   "talenthub.vectorinstitute.ai",
   "taskpilotx.22web.org",
@@ -125,6 +124,29 @@
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-06",
+   "title": "ServiceNow Software Asset Management Pro (SAM Pro) Consultant",
+   "company": "2iSolutions Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow software asset management pro (sam pro) consultant 2isolutions inc. canada linkedin servicenow  servicenow itam sam/ham role fit canada / remote",
+   "alternates": []
+  },
   {
    "posted": "2026-11-06",
    "title": "Senior ServiceNow Developer (App Engine / HRSD)",
@@ -549,6 +571,27 @@
    ],
    "french": false,
    "search": "analyste d’affaires salesforce alithya montreal, quebec, canada linkedin salesforce  salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Staff Systems Engineer",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160277860",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff systems engineer servicenow toronto, ontario, ca smartrecruiters servicenow  servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -4306,69 +4349,6 @@
    ],
    "french": false,
    "search": "servicenow developer cum architect – mississauga, on / w3global unknown canada jobs.ca servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer at Zaelab (Remote) / Scoutify",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://scoutify.com/companies/zaelab/jobs/2940870",
-   "note": "9",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "scoutify.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer at zaelab (remote) / scoutify unknown canada scoutify.com servicenow 9 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer at Lightspeed Commerce - Canada Remote",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.remoterocketship.com/ca/company/lightspeed-commerce/jobs/servicenow-developer-canada-remote",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "remoterocketship.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer at lightspeed commerce - canada remote unknown canada remoterocketship.com servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer at Levio / Sorce Jobs",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.sorce.jobs/jobs/servicenow-developer-levio-j1_3FNHZkkvVL0zZtAZDLKBMTDv8kvYGcVcbE7aiJs0NqgG-8CLzQ",
-   "note": "9",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "sorce.jobs",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer at levio / sorce jobs unknown canada sorce.jobs servicenow 9 servicenow role fit canada / remote",
    "alternates": []
   },
   {
