@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-06T13:33:08+00:00",
+ "generatedAt": "2026-11-06T14:05:24+00:00",
  "timezone": "America/Toronto",
- "count": 400,
+ "count": 398,
  "appliedHidden": 14,
  "sources": [
   "Adzuna",
@@ -26,7 +26,6 @@
   "app.joinhandshake.com",
   "app.welcometothejungle.com",
   "applyhour.com",
-  "ats.rippling.com",
   "bebee.com",
   "bettercareer.ca",
   "beyondtrust.com",
@@ -386,6 +385,27 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Co-op Power BI Developer (4 months)",
+   "company": "Atlantic Packaging Products Ltd",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955734937?utm_medium=api&utm_source=54ce986e",
+   "note": "Data / BI",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Data/reporting",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "co-op power bi developer (4 months) atlantic packaging products ltd toronto, ontario adzuna other data / bi data/reporting role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "HiringCafe",
    "company": "Senior Salesforce Engineer",
    "location": "Canadian Cancer Society",
@@ -544,6 +564,25 @@
    ],
    "french": false,
    "search": "senior fullstack engineer - grafana catalog \\/ canada\\/ remote canada\\ remote](https://www.adzuna.ca/details/5955475926) adzuna other grafana labs canada full stack role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior Hybrid Cloud Architect",
+   "company": "Bulletproof Solutions Inc",
+   "location": "Fredericton, York region",
+   "url": "https://www.adzuna.ca/details/5955744708?utm_medium=api&utm_source=54ce986e",
+   "note": "DevOps / Cloud",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior hybrid cloud architect bulletproof solutions inc fredericton, york region adzuna other devops / cloud role fit",
    "alternates": []
   },
   {
@@ -8338,46 +8377,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Senior Full-Stack Software Developer - CRM",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ats.rippling.com/en-CA/gaiias-open-positions/jobs/2bdbc3de-66ed-45f6-b3c6-8c5826b712d7",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ats.rippling.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior full-stack software developer - crm unknown canada ats.rippling.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior DevOps Engineer in Calgary, Alberta - Fullscript",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-4011-9ff5b7e74eef0130d92e93ff2a29cff9",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior devops engineer in calgary, alberta - fullscript unknown canada ca.trabajo.org other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "The Vector Digital Talent Hub: Where Canadian AI Talent and AI Employers Connect",
    "company": "Unknown",
    "location": "Canada",
@@ -8469,44 +8468,6 @@
    ],
    "french": false,
    "search": "vp of it infrastructure & operations @ serve robotics unknown canada ashby other 8 canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior DevOps in Toronto, ON - Dominion Dynamics",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-2252-663b20b8dcce2943331c28d3e1493b8e",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior devops in toronto, on - dominion dynamics unknown canada ca.trabajo.org other 8 canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior DevOps in Ottawa, Ontario - Dominion Dynamics",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-4111-0cd631681bc08e8ce074686cfd0e4135",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior devops in ottawa, ontario - dominion dynamics unknown canada ca.trabajo.org other 7 canada / remote",
    "alternates": []
   }
  ]
