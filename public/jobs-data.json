@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T19:33:19+00:00",
+ "generatedAt": "2026-11-06T20:04:38+00:00",
  "timezone": "America/Toronto",
  "count": 396,
  "appliedHidden": 14,
@@ -27,7 +27,6 @@
   "applyhour.com",
   "bebee.com",
   "bettercareer.ca",
-  "beyondtrust.com",
   "buildingonfund.ca",
   "ca.blackboardjob.com",
   "ca.clickajobs.com",
@@ -360,6 +359,28 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Salesforce Business Analyst",
+   "company": "estaffing Inc",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5955972080",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 66,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce business analyst estaffing inc canada adzuna salesforce  salesforce consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario, Canada",
@@ -440,6 +461,27 @@
    ],
    "french": false,
    "search": "salesforce data cloud architect smart it frame llc toronto, ontario, canada linkedin salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Salesforce Consultant",
+   "company": "Lane Four",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-lane-four-4487341676",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce consultant lane four toronto, ontario, canada linkedin salesforce  salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -934,6 +976,25 @@
    ],
    "french": false,
    "search": "full-time institutional research advanced data analyst algonquin college ottawa, ottawa region adzuna other data / bi role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Credit Collections Reporting Analyst",
+   "company": "NRG",
+   "location": "Edmonton, Edmonton region",
+   "url": "https://www.adzuna.ca/details/5955884960?utm_medium=api&utm_source=54ce986e",
+   "note": "other",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "credit collections reporting analyst nrg edmonton, edmonton region adzuna other other role fit",
    "alternates": []
   },
   {
@@ -4674,28 +4735,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Solution Consultant  / BeyondTrust Careers / BeyondTrust",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.beyondtrust.com/company/careers/7858472",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "beyondtrust.com",
-   "verified": "Employer board",
-   "match": 66,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce solution consultant  / beyondtrust careers / beyondtrust unknown canada beyondtrust.com salesforce 7 salesforce consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Specialist I, IT Service Management Office – ITOM & CMDB Jobs in Enbridge in Calgary - Canada / Dr. Job",
    "company": "Unknown",
    "location": "Canada",
@@ -6122,27 +6161,6 @@
    ],
    "french": false,
    "search": "salesforce system administrator jobs in ottawa unknown canada jobleads.com salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Solutions Architect - REMOTE - Indus River Technologies Inc. - Remote / Dice.com",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.dice.com/job-detail/f0346418-28fb-4dee-b2a3-8a901ca1c80d",
-   "note": "8",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "dice.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce solutions architect - remote - indus river technologies inc. - remote / dice.com unknown canada dice.com salesforce 8 salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -8308,26 +8326,6 @@
    ],
    "french": false,
    "search": "senior infosphere platform administrator - system canada technologies / built in vancouver unknown canada builtin other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Implementation Consultant - nCino, Inc. / Built In",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://builtin.com/job/senior-implementation-consultant/10014268",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior implementation consultant - ncino, inc. / built in unknown canada builtin other 8 role fit canada / remote",
    "alternates": []
   },
   {
