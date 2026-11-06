@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T080629Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T083308Z.md`.
 
 ## Contents
 
@@ -191,6 +191,7 @@ _developer / administrator / architect / consultant roles_
 |---|---|---|---|---|
 | 2026-11-06 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-make-a-wish-canada-4486201660) | Make-A-Wish Canada | Toronto, Ontario, Canada |  |
 | 2026-11-06 | [Senior Functional Analyst, Salesforce Retail CRM](https://ca.linkedin.com/jobs/view/senior-functional-analyst-salesforce-retail-crm-at-atb-financial-4485680197) | ATB Financial | Calgary, Alberta, Canada |  |
+| 2026-11-06 | [Salesforce Datcloud Tech Lead](https://www.adzuna.ca/details/5955420127) | Cognizant | Mississauga, Peel region |  |
 | 2026-11-06 | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) | Senior Salesforce Engineer | Canadian Cancer Society | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v67.md |
 | 2026-11-06 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |  |
 | 2026-11-06 | [DevOps Engineer(Salesforce)](https://www.adzuna.ca/details/5955295565) | Scotiabank | Toronto, Ontario |  |
@@ -338,7 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Salesforce Senior Consultant Manager (Remote Canada) @ Directive](https://jobs.ashbyhq.com/directive/157059d7-9c7e-417f-8e3f-c317bcf1fa00) | Unknown | Canada | 8 |
 | 2026-11-04 | [Salesforce Senior Consultant Manager (Remote Canada) - Future Opening (up to $11,875) - Directive in Ottawa / Jobstore](https://www.jobstore.com/ca/job/l36823173/salesforce-senior-consultant-manager-remote-canada-future-opening-job) | Unknown | Canada | 5/10 via 2026-11-04_sf_round9_raw_20261104T062041Z.json |
 | 2026-11-04 | [Salesforce Senior Consultant / RSM Careers](https://jobs.rsmus.com/posting/salesforce-senior-consultant/JR118750) | Unknown | Canada | 7 |
-| 2026-11-04 | [Salesforce Revenue Cloud Solution Architect-Toronto](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-solution-architect-toronto-at-slalom-4449798982) | Slalom | Greater Toronto Area, Canada | linkedin |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-06T08:00:01.129Z** · 2069 live postings from 9 public sources · 61 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T08:30:01.839Z** · 2070 live postings from 9 public sources · 61 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -597,6 +597,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | Posted | Role | Company | Location |
 |---|---|---|---|
 | 2026-11-06 | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) | Senior Salesforce Engineer | Canadian Cancer Society |
+| 2026-11-06 | [Salesforce Datcloud Tech Lead](https://www.adzuna.ca/details/5955420127) | Cognizant | Mississauga, Peel region |
 | 2026-11-06 | [DevOps Engineer(Salesforce)](https://www.adzuna.ca/details/5955295565) | Scotiabank | Toronto, Ontario |
 | 2026-11-06 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-make-a-wish-canada-4486201660) | Make-A-Wish Canada | Toronto, Ontario, Canada |
 | 2026-11-06 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
@@ -607,7 +608,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5954560876) | LTM | Toronto, Ontario |
 | 2026-11-05 | [Salesforce Technical Architecture Advisor, LWC, Apex & Implementations](https://www.adzuna.ca/details/5954560427?utm_medium=api&utm_source=54ce986e) | Alithya | Montréal, Québec |
 | 2026-11-05 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5954559999) | IA Financial Services | Québec, Canada |
-| 2026-11-05 | [Salesforce Administrator (Hybrid)](https://www.adzuna.ca/details/5954406900) | Survalent | Mississauga, Peel region |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-06T080629Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T083308Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
