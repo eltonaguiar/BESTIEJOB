@@ -1,0 +1,767 @@
+{
+ "scannedAt": "2026-11-06T07:16:03.369Z",
+ "total": 41,
+ "sites": {
+  "FX Innovation / Ateko": {
+   "url": "https://www.fxinnovation.com/en/jobs",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Cofomo": {
+   "url": "https://www.cofomo.com/en/careers/",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Everforth": {
+   "url": "https://everforth.com/careers",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Coaxxion": {
+   "url": "https://coaxxion.com/en/careers/",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "CloudKettle": {
+   "url": "https://cloudkettle.com/careers/",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Lane Four": {
+   "url": "https://lanefour.com/opportunities/",
+   "jsonLd": 0,
+   "anchors": 2
+  },
+  "Crossfuze": {
+   "url": "https://crossfuze.pinpointhq.com/",
+   "jsonLd": 0,
+   "anchors": 0
+  }
+ },
+ "undated": [
+  {
+   "site": "Lane Four",
+   "title": "Salesforce Consultant",
+   "company": "Lane Four",
+   "location": "",
+   "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+   "excerpt": "Skip to content Why Lane Four? Who We Are Consulting Foursight Labs Blog Toolbox Contact Us About Lane Four Lane Four is growing! We hope you will consider join"
+  },
+  {
+   "site": "Lane Four",
+   "title": "Salesforce Administrator",
+   "company": "Lane Four",
+   "location": "",
+   "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+   "excerpt": "Skip to content Why Lane Four? Who We Are Consulting Foursight Labs Blog Toolbox Contact Us About Lane Four Lane Four is growing! We hope you will consider join"
+  }
+ ],
+ "dated": [],
+ "jobs": [
+  {
+   "id": "adzuna:adzuna.ca/details/5954288531",
+   "source": "adzuna",
+   "company": "Flexstaf IT",
+   "title": "Request ID: 114262-1 - Salesforce Communications Cloud Developer",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954288531",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-05T08:15:08.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description: Salesforce Communications Cloud Developer responsible for designing, developing, and supporting Salesforce Industries (Vlocity) solutions, including Communications Cloud, EPC, CPQ, Digital Commerce, and Order Management within telecom environments. Location: Toronto, ON - Hybrid (2-3 Days WFO) Contract",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954559999",
+   "source": "adzuna",
+   "company": "IA Financial Services",
+   "title": "Salesforce Solution Architect",
+   "location": "Québec, Canada",
+   "url": "https://www.adzuna.ca/details/5954559999",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:07.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Build the future with us Would you like to contribute to a large-scale digital transformation and apply your architecture expertise to strategic initiatives? As a Salesforce Solution Architect , you will play a key role within the Horizon program, a major transformation initiative in the Group Insurance",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954040810",
+   "source": "adzuna",
+   "company": "Salesforce",
+   "title": "Software Engineering SMTS",
+   "location": "Vancouver, Greater Vancouver",
+   "url": "https://www.adzuna.ca/details/5954040810",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:42:40.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts. Job Category Software Engineering Job Details About Salesforce Salesforce is the 1 AI CRM, where humans with agents drive customer success together. Here, ambition meets ac",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954561155",
+   "source": "adzuna",
+   "company": "Huron Consulting Group",
+   "title": "Senior ServiceNow Developer & Product Owner (Remote)",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954561155",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:16.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Remote Chicago - 550 Van Buren Toronto - 55 University Ave Full time JR-0016235 Huron is redefining what a global consulting organization can be. Advancing new ideas every day to build even stronger clients, individuals and communities. We’re helping our clients find new ways to drive growth, enhance business performan",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954560026",
+   "source": "adzuna",
+   "company": "Rexall",
+   "title": "ServiceNow Developer",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5954560026",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:07.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Purpose: The ServiceNow Developer configures, customizes, and scales Rexall's ServiceNow platform to streamline business processes, optimize IT service management, and deliver automated workflows for Rexall's corporate offices and retail network. The role bridges Rexall's internal legacy systems and cloud ecosystem",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954388577",
+   "source": "adzuna",
+   "company": "Flexstaf IT",
+   "title": "ServiceNow Architect",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5954388577",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T10:12:14.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Work onsite 5 days per week; Location: Nepean, ON Overview Our client is seeking an experienced ServiceNow Enterprise Architect to lead the design, governance, and implementation of a ServiceNow CMDB and Security Operations transformation initiative. This role will provide technical leadership, establish platform stand",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow",
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954388583",
+   "source": "adzuna",
+   "company": "Flexstaf IT",
+   "title": "Service Now Developers",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5954388583",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T10:12:14.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Work onsite - 5 days per week; Location: Nepean, ON K1A 0K2 Overview Our client is seeking a highly skilled ServiceNow Senior Developer to support the implementation and enhancement of the ServiceNow CMDB and Security Operations capabilities. The successful candidate will be responsible for hands-on development, config",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow",
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954353813",
+   "source": "adzuna",
+   "company": "Whopper Technologies",
+   "title": "ServiceNow GRC Developer/Administrator",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954353813",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-05T09:39:41.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Job Description Job Title: ServiceNow GRC Developer/Administrator Location: Toronto, ON - Onsite/Hybrid - Toronto, 4 days a week - Onsite Duration:: Long Term Contract Job Summary: We are seeking a skilled and certified ServiceNow professional to develop, configure, and support ServiceNow’s Governance, ",
+   "workArrangement": "hybrid",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954255954",
+   "source": "adzuna",
+   "company": "Saransh Inc",
+   "title": "Site Reliability Engineer (SRE) with ServiceNow & Application Infrastructure - Canada",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954255954",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T08:04:50.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Job Description Role: Site Reliability Engineer (SRE), ServiceNow, Application Infrastructure Location: Montreal, QC, Canada (Onsite from Day 1) Description: Looking for an intermediate between 2 to 5 years’ experience. SRE practices include task optimization and automation, prioritizing technical debt,",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954069148",
+   "source": "adzuna",
+   "company": "Morson",
+   "title": "Specialist, ServiceNow ITAM (BTS) CCJ1JP00000997",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5954069148",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:53:19.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Role: Specialist, ServiceNow ITAM (BTS) Location: Saskatoon, SK – 40 hours per week Duration: December 1, 2026 – November 30, 2027 (12 months) Job Description Cameco is seeking a ServiceNow IT Asset Management (ITAM) Specialist to provide technical expertise for the implementation and ongoing developmen",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow",
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954388577",
+   "source": "adzuna",
+   "company": "Flexstaf IT",
+   "title": "ServiceNow Architect",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5954388577",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T10:12:14.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Work onsite 5 days per week; Location: Nepean, ON Overview Our client is seeking an experienced ServiceNow Enterprise Architect to lead the design, governance, and implementation of a ServiceNow CMDB and Security Operations transformation initiative. This role will provide technical leadership, establish platform stand",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow",
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954561155",
+   "source": "adzuna",
+   "company": "Huron Consulting Group",
+   "title": "Senior ServiceNow Developer & Product Owner (Remote)",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954561155",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:16.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Remote Chicago - 550 Van Buren Toronto - 55 University Ave Full time JR-0016235 Huron is redefining what a global consulting organization can be. Advancing new ideas every day to build even stronger clients, individuals and communities. We’re helping our clients find new ways to drive growth, enhance business performan",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954560026",
+   "source": "adzuna",
+   "company": "Rexall",
+   "title": "ServiceNow Developer",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5954560026",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:07.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Purpose: The ServiceNow Developer configures, customizes, and scales Rexall's ServiceNow platform to streamline business processes, optimize IT service management, and deliver automated workflows for Rexall's corporate offices and retail network. The role bridges Rexall's internal legacy systems and cloud ecosystem",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954388577",
+   "source": "adzuna",
+   "company": "Flexstaf IT",
+   "title": "ServiceNow Architect",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5954388577",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T10:12:14.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Work onsite 5 days per week; Location: Nepean, ON Overview Our client is seeking an experienced ServiceNow Enterprise Architect to lead the design, governance, and implementation of a ServiceNow CMDB and Security Operations transformation initiative. This role will provide technical leadership, establish platform stand",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow",
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954353813",
+   "source": "adzuna",
+   "company": "Whopper Technologies",
+   "title": "ServiceNow GRC Developer/Administrator",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954353813",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-05T09:39:41.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Job Description Job Title: ServiceNow GRC Developer/Administrator Location: Toronto, ON - Onsite/Hybrid - Toronto, 4 days a week - Onsite Duration:: Long Term Contract Job Summary: We are seeking a skilled and certified ServiceNow professional to develop, configure, and support ServiceNow’s Governance, ",
+   "workArrangement": "hybrid",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954255954",
+   "source": "adzuna",
+   "company": "Saransh Inc",
+   "title": "Site Reliability Engineer (SRE) with ServiceNow & Application Infrastructure - Canada",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954255954",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T08:04:50.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Job Description Role: Site Reliability Engineer (SRE), ServiceNow, Application Infrastructure Location: Montreal, QC, Canada (Onsite from Day 1) Description: Looking for an intermediate between 2 to 5 years’ experience. SRE practices include task optimization and automation, prioritizing technical debt,",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954079283",
+   "source": "adzuna",
+   "company": "Bank of Montreal",
+   "title": "ServiceNow SAM Administrator - ITAM",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954079283",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T04:01:28.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Application Deadline: 11/22/2026 Address: 250 Yonge Street Job Family Group: Technology We are seeking an enthusiastic, passionate professional to join our Software Asset Management (SAM) team. BMO’s Blue Rewards SAM practice focuses on inventory management, product catalog management, exception management, reporting, ",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow",
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954069148",
+   "source": "adzuna",
+   "company": "Morson",
+   "title": "Specialist, ServiceNow ITAM (BTS) CCJ1JP00000997",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5954069148",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:53:19.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Role: Specialist, ServiceNow ITAM (BTS) Location: Saskatoon, SK – 40 hours per week Duration: December 1, 2026 – November 30, 2027 (12 months) Job Description Cameco is seeking a ServiceNow IT Asset Management (ITAM) Specialist to provide technical expertise for the implementation and ongoing developmen",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow",
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5953989200",
+   "source": "adzuna",
+   "company": "ServiceNow, Inc.",
+   "title": "Senior Site Reliability Engineer, Canada Protected B",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5953989200",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:04:27.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone-freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower ",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5953989159",
+   "source": "adzuna",
+   "company": "ServiceNow, Inc.",
+   "title": "Staff Site Reliability Engineer, Canada Protected B",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5953989159",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:04:26.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone-freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower ",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5955295565",
+   "source": "adzuna",
+   "company": "Scotiabank",
+   "title": "DevOps Engineer(Salesforce)",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955295565",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-06T00:33:43.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Requisition ID: 276046 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. The Commercial Banking Engineering team is seeking a Salesforce DevOps Engineer who will be responsible for ideation support, design, development, and implementation of software to ensure contin",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954561323",
+   "source": "adzuna",
+   "company": "Alithya",
+   "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954561323",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:18.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Votre rôle, votre impact En tant que conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations, vous dirigerez la conception et la mise en œuvre de solutions Salesforce à grande échelle. Vous mettrez à profit votre expertise des Lightning Web Components (LWC), d’Apex et des intégratio",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954561104",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "11851",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954561104",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:16.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Tech Lead Salesforce Financial Services Cloud (FSC) Term December 22, 2026 to December 31, 2027 Assigned Recruiter(s) Madhumitha Mulakaluri Job Opening ID 11851 City Montreal Country Canada Number of Positions 1 Work Experience 7-10 Years Job Description The client is looking for the Salesforce technical referenceof it",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954560876",
+   "source": "adzuna",
+   "company": "LTM",
+   "title": "Salesforce Technical Architect",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560876",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:14.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Role Description Job Title: Salesforce Technical Architect Job Location :Toronto, Ontario-Canada We are looking for an experienced Salesforce Technical Architect to lead the architecture design and technical delivery of enterprise scale Salesforce solutions The role will serve as the key technical interface with busine",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954560615",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "11852",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954560615",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:12.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Senior Business Architecture Advisor, Direct Distribution Term November 23, 2026 to December 31, 2027 City Montreal Country Canada Number of Positions 1 Work Experience 7-10 Years Job Description The client is looking for the Salesforce technical reference of its delivery teams, positioned between enterprise and busine",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954560427",
+   "source": "adzuna",
+   "company": "Alithya",
+   "title": "Salesforce Technical Architecture Advisor, LWC, Apex & Implementations",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954560427",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:10.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Salesforce Technical Architecture Advisor, LWC, Apex & Implementations Job Info Job Identification 1925 Job Category IT - Development Posting Date 2026-11-02, 04:44 PM Job Schedule Full time Need Justification New Position Your role, your impact As a Salesforce Technical Architecture Advisor, LWC, Apex & Implementation",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954288531",
+   "source": "adzuna",
+   "company": "Flexstaf IT",
+   "title": "Request ID: 114262-1 - Salesforce Communications Cloud Developer",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954288531",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-05T08:15:08.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description: Salesforce Communications Cloud Developer responsible for designing, developing, and supporting Salesforce Industries (Vlocity) solutions, including Communications Cloud, EPC, CPQ, Digital Commerce, and Order Management within telecom environments. Location: Toronto, ON - Hybrid (2-3 Days WFO) Contract",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954076592",
+   "source": "adzuna",
+   "company": "Finning",
+   "title": "Salesforce Technical Lead",
+   "location": "Surrey, Greater Vancouver",
+   "url": "https://www.adzuna.ca/details/5954076592",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:56:32.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Company: Finning International Inc. Number of Openings: 1 Worker Type: Permanent Position Overview: Reporting to the Software Delivery Manager, the Salesforce Technical Lead is responsible for leading a Salesforce delivery team in the design, development, testing, and release of scalable enterprise solutions. This role",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5955295565",
+   "source": "adzuna",
+   "company": "Scotiabank",
+   "title": "DevOps Engineer(Salesforce)",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955295565",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-06T00:33:43.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Requisition ID: 276046 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. The Commercial Banking Engineering team is seeking a Salesforce DevOps Engineer who will be responsible for ideation support, design, development, and implementation of software to ensure contin",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954560615",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "11852",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954560615",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:12.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Senior Business Architecture Advisor, Direct Distribution Term November 23, 2026 to December 31, 2027 City Montreal Country Canada Number of Positions 1 Work Experience 7-10 Years Job Description The client is looking for the Salesforce technical reference of its delivery teams, positioned between enterprise and busine",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954406900",
+   "source": "adzuna",
+   "company": "Survalent",
+   "title": "Salesforce Administrator (Hybrid)",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5954406900",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T10:24:34.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Job Description Salesforce Administrator (Hybrid) Mississauga, Ontario, Canada Survalent Technology is looking for a proactive, solutions-focused Salesforce Administrator to join our Sales Operations team. This is an exciting opportunity to take ownership of a business-critical Salesforce environment th",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954046522",
+   "source": "adzuna",
+   "company": "Altus Group",
+   "title": "Salesforce Business Analyst",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5954046522",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:43:39.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Compensation Range: $95,000 - $105,000 CAD Compensation Disclaimer: The salary range listed reflects the base pay for this role at Altus Group and is provided where required by local regulations. Actual offers may differ based on experience, market conditions, and other relevant factors. The range does not include addi",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954045892",
+   "source": "adzuna",
+   "company": "SS&C",
+   "title": "Salesforce Implementation Consultant & Platform Administrator",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954045892",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:43:19.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "SS&C is a leading provider of mission-critical, AI-powered technology and services empowering financial services and healthcare organizations to work smarter, faster, and securely. Founded in 1986, SS&C is headquartered in Windsor, Connecticut, and has offices worldwide. More than 23,000 financial services and healthca",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954560026",
+   "source": "adzuna",
+   "company": "Rexall",
+   "title": "ServiceNow Developer",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5954560026",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:07.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Purpose: The ServiceNow Developer configures, customizes, and scales Rexall's ServiceNow platform to streamline business processes, optimize IT service management, and deliver automated workflows for Rexall's corporate offices and retail network. The role bridges Rexall's internal legacy systems and cloud ecosystem",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954069148",
+   "source": "adzuna",
+   "company": "Morson",
+   "title": "Specialist, ServiceNow ITAM (BTS) CCJ1JP00000997",
+   "location": "Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5954069148",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:53:19.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Role: Specialist, ServiceNow ITAM (BTS) Location: Saskatoon, SK – 40 hours per week Duration: December 1, 2026 – November 30, 2027 (12 months) Job Description Cameco is seeking a ServiceNow IT Asset Management (ITAM) Specialist to provide technical expertise for the implementation and ongoing developmen",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow",
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954561323",
+   "source": "adzuna",
+   "company": "Alithya",
+   "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954561323",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:18.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Votre rôle, votre impact En tant que conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations, vous dirigerez la conception et la mise en œuvre de solutions Salesforce à grande échelle. Vous mettrez à profit votre expertise des Lightning Web Components (LWC), d’Apex et des intégratio",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954560876",
+   "source": "adzuna",
+   "company": "LTM",
+   "title": "Salesforce Technical Architect",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560876",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:14.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Role Description Job Title: Salesforce Technical Architect Job Location :Toronto, Ontario-Canada We are looking for an experienced Salesforce Technical Architect to lead the architecture design and technical delivery of enterprise scale Salesforce solutions The role will serve as the key technical interface with busine",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954560427",
+   "source": "adzuna",
+   "company": "Alithya",
+   "title": "Salesforce Technical Architecture Advisor, LWC, Apex & Implementations",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5954560427",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T12:01:10.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Salesforce Technical Architecture Advisor, LWC, Apex & Implementations Job Info Job Identification 1925 Job Category IT - Development Posting Date 2026-11-02, 04:44 PM Job Schedule Full time Need Justification New Position Your role, your impact As a Salesforce Technical Architecture Advisor, LWC, Apex & Implementation",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954288531",
+   "source": "adzuna",
+   "company": "Flexstaf IT",
+   "title": "Request ID: 114262-1 - Salesforce Communications Cloud Developer",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954288531",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-05T08:15:08.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description: Salesforce Communications Cloud Developer responsible for designing, developing, and supporting Salesforce Industries (Vlocity) solutions, including Communications Cloud, EPC, CPQ, Digital Commerce, and Order Management within telecom environments. Location: Toronto, ON - Hybrid (2-3 Days WFO) Contract",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954406900",
+   "source": "adzuna",
+   "company": "Survalent",
+   "title": "Salesforce Administrator (Hybrid)",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5954406900",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T10:24:34.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "Job Description Job Description Salesforce Administrator (Hybrid) Mississauga, Ontario, Canada Survalent Technology is looking for a proactive, solutions-focused Salesforce Administrator to join our Sales Operations team. This is an exciting opportunity to take ownership of a business-critical Salesforce environment th",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5954045892",
+   "source": "adzuna",
+   "company": "SS&C",
+   "title": "Salesforce Implementation Consultant & Platform Administrator",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954045892",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-05T03:43:19.000Z",
+   "scrapedAt": "2026-11-06T07:16:03.369Z",
+   "excerpt": "SS&C is a leading provider of mission-critical, AI-powered technology and services empowering financial services and healthcare organizations to work smarter, faster, and securely. Founded in 1986, SS&C is headquartered in Windsor, Connecticut, and has offices worldwide. More than 23,000 financial services and healthca",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  }
+ ]
+}

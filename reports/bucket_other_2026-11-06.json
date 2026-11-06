@@ -1,0 +1,662 @@
+{
+ "bucket": "other",
+ "generated": "2026-11-06T14:43:51.862461+00:00",
+ "rounds_planned": 30,
+ "rounds_run": 30,
+ "verify_liveness": false,
+ "totals": {
+  "fetched": 2861,
+  "matched": 32,
+  "live": 25,
+  "new": 0,
+  "errors": 0,
+  "secs": 36.4
+ },
+ "rounds": [
+  {
+   "round": 1,
+   "target": "Geotab",
+   "route": "greenhouse",
+   "note": "Oakville, telematics",
+   "fetched": 62,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 2,
+   "target": "D2L",
+   "route": "greenhouse",
+   "note": "Kitchener, edtech",
+   "fetched": 25,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 3,
+   "target": "MongoDB",
+   "route": "greenhouse",
+   "note": "database",
+   "fetched": 370,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.2,
+   "jobs": []
+  },
+  {
+   "round": 4,
+   "target": "Okta",
+   "route": "greenhouse",
+   "note": "identity",
+   "fetched": 381,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 5,
+   "target": "Brex",
+   "route": "greenhouse",
+   "note": "fintech",
+   "fetched": 272,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 6,
+   "target": "Take-Two",
+   "route": "greenhouse",
+   "note": "games",
+   "fetched": 34,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": [
+    {
+     "title": "Business Intelligence Developer",
+     "company": "Take-Two Interactive Software, Inc.",
+     "location": "Toronto, Ontario, Canada",
+     "url": "https://job-boards.greenhouse.io/taketwo/jobs/8165127",
+     "posted": "2026-09-02",
+     "source": "greenhouse:taketwo"
+    },
+    {
+     "title": "Data Developer (Python/Spark)",
+     "company": "Take-Two Interactive Software, Inc.",
+     "location": "Toronto, Ontario, Canada",
+     "url": "https://job-boards.greenhouse.io/taketwo/jobs/7851352",
+     "posted": "2026-04-24",
+     "source": "greenhouse:taketwo"
+    }
+   ]
+  },
+  {
+   "round": 7,
+   "target": "iCapital",
+   "route": "greenhouse",
+   "note": "fintech",
+   "fetched": 224,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 8,
+   "target": "Toast",
+   "route": "greenhouse",
+   "note": "restaurant POS",
+   "fetched": 332,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": [
+    {
+     "title": "Staff Data Scientist",
+     "company": "Toast",
+     "location": "Canada",
+     "url": "https://careers.toasttab.com/jobs?gh_jid=8052293",
+     "posted": "2026-07-08",
+     "source": "greenhouse:toast"
+    }
+   ]
+  },
+  {
+   "round": 9,
+   "target": "Movable Ink",
+   "route": "greenhouse",
+   "note": "martech",
+   "fetched": 33,
+   "matched": 4,
+   "dupes": 3,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": [
+    {
+     "title": "Data Engineer",
+     "company": "Movable Ink",
+     "location": "Movable Ink - Toronto (Remote) ",
+     "url": "https://movableink.com/job-listing?gh_jid=8188477",
+     "posted": "2026-09-14",
+     "source": "greenhouse:movableink"
+    }
+   ]
+  },
+  {
+   "round": 10,
+   "target": "EQ Bank",
+   "route": "lever",
+   "note": "digital bank, Toronto",
+   "fetched": 81,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 5.2,
+   "jobs": [
+    {
+     "title": "Data Scientist, Growth (12 month contract)",
+     "company": "EQ Bank",
+     "location": "Toronto",
+     "url": "https://jobs.lever.co/eqbank/6d858052-8862-47b5-a25e-5915424c6691",
+     "posted": "2026-10-23",
+     "source": "lever:eqbank"
+    }
+   ]
+  },
+  {
+   "round": 11,
+   "target": "PointClickCare",
+   "route": "lever",
+   "note": "Mississauga, health SaaS",
+   "fetched": 80,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.7,
+   "jobs": [
+    {
+     "title": "(Canada) Principal ML System Engineer",
+     "company": "PointClickCare",
+     "location": "Remote or Mississauga",
+     "url": "https://jobs.lever.co/pointclickcare/ccdecc93-aef2-4b2b-a981-6843f3c16221",
+     "posted": "2026-08-13",
+     "source": "lever:pointclickcare"
+    },
+    {
+     "title": "Senior Machine Learning Systems Engineer (CAD)",
+     "company": "PointClickCare",
+     "location": "Mississauga",
+     "url": "https://jobs.lever.co/pointclickcare/150b07cd-04e9-46c4-9015-114498f3798c",
+     "posted": "2026-09-22",
+     "source": "lever:pointclickcare"
+    }
+   ]
+  },
+  {
+   "round": 12,
+   "target": "Versapay",
+   "route": "lever",
+   "note": "fintech",
+   "fetched": 28,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.5,
+   "jobs": []
+  },
+  {
+   "round": 13,
+   "target": "Achievers",
+   "route": "lever",
+   "note": "Toronto HR SaaS",
+   "fetched": 13,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.5,
+   "jobs": []
+  },
+  {
+   "round": 14,
+   "target": "Emburse",
+   "route": "lever",
+   "note": "expense SaaS",
+   "fetched": 30,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.6,
+   "jobs": []
+  },
+  {
+   "round": 15,
+   "target": "Electric Mind",
+   "route": "lever",
+   "note": "Toronto data consultancy",
+   "fetched": 14,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.5,
+   "jobs": [
+    {
+     "title": "Business Systems Analyst",
+     "company": "Electric Mind",
+     "location": "Downtown Toronto",
+     "url": "https://jobs.lever.co/electricmind/510d7946-47f6-4a0c-8f72-a46e6ac3499a",
+     "posted": "2026-01-22",
+     "source": "lever:electricmind"
+    },
+    {
+     "title": "Senior Consultant/Manager - Data Engineer",
+     "company": "Electric Mind",
+     "location": "Downtown Toronto",
+     "url": "https://jobs.lever.co/electricmind/e4a7e006-4e14-420b-b165-5acddb39ec96",
+     "posted": "2026-11-05",
+     "source": "lever:electricmind"
+    }
+   ]
+  },
+  {
+   "round": 16,
+   "target": "1Password",
+   "route": "ashby",
+   "note": "Toronto security",
+   "fetched": 78,
+   "matched": 4,
+   "dupes": 0,
+   "live": 4,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": [
+    {
+     "title": "Staff Data Analyst, Marketing",
+     "company": "1Password",
+     "location": "Remote (United States | Canada)",
+     "url": "https://jobs.ashbyhq.com/1password/45393747-1ed7-4eb9-bcda-4c74fe5e9824",
+     "posted": "2026-07-13",
+     "source": "ashby:1password"
+    },
+    {
+     "title": "Senior Enterprise Systems Engineer",
+     "company": "1Password",
+     "location": "Remote (United States | Canada)",
+     "url": "https://jobs.ashbyhq.com/1password/363ebcb3-897b-4266-8734-aa7592bd532d",
+     "posted": "2026-09-03",
+     "source": "ashby:1password"
+    },
+    {
+     "title": "Senior Data Analyst, Enterprise",
+     "company": "1Password",
+     "location": "Remote (United States | Canada)",
+     "url": "https://jobs.ashbyhq.com/1password/577f47a1-f80d-4d5b-8212-9e38e749c004",
+     "posted": "2026-10-23",
+     "source": "ashby:1password"
+    },
+    {
+     "title": "Finance Systems Analyst - Integrations and Automation",
+     "company": "1Password",
+     "location": "Remote (United States | Canada)",
+     "url": "https://jobs.ashbyhq.com/1password/9d3f7564-490b-4107-b315-ece3146760a8",
+     "posted": "2026-10-30",
+     "source": "ashby:1password"
+    }
+   ]
+  },
+  {
+   "round": 17,
+   "target": "Docker",
+   "route": "ashby",
+   "note": "devtools",
+   "fetched": 51,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 18,
+   "target": "Webflow",
+   "route": "ashby",
+   "note": "web platform",
+   "fetched": 22,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 19,
+   "target": "Inovalon",
+   "route": "ashby",
+   "note": "healthcare data",
+   "fetched": 43,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 20,
+   "target": "TELUS Digital",
+   "route": "ashby",
+   "note": "Canadian telco digital",
+   "fetched": 56,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 0.0,
+   "jobs": [
+    {
+     "title": "Senior DevOps Engineer",
+     "company": "TELUS Digital",
+     "location": "Remote, British Columbia",
+     "url": "https://jobs.ashbyhq.com/telus-digital/b880f4d2-824a-48ce-bab9-3188f343db9b",
+     "posted": "2026-10-20",
+     "source": "ashby:telus-digital"
+    }
+   ]
+  },
+  {
+   "round": 21,
+   "target": "Canadian Tire",
+   "route": "workday",
+   "note": "retail, data/BI",
+   "fetched": 51,
+   "matched": 4,
+   "dupes": 0,
+   "live": 4,
+   "new": 0,
+   "error": null,
+   "secs": 3.0,
+   "jobs": [
+    {
+     "title": "Data Analyst",
+     "company": "Canadian Tire",
+     "location": "Laval, QC",
+     "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738",
+     "posted": "2026-11-05",
+     "posted_raw": "Posted Yesterday",
+     "source": "workday:canadiantirecorporation"
+    },
+    {
+     "title": "Data Analyst \u2013 Center of Excellence & Data Analytics",
+     "company": "Canadian Tire",
+     "location": "Toronto, ON",
+     "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Analyst---Center-of-Excellence---Data-Analytics_JR163585-1",
+     "posted": "2026-11-04",
+     "posted_raw": "Posted 2 Days Ago",
+     "source": "workday:canadiantirecorporation"
+    },
+    {
+     "title": "Senior Data Scientist, Predictive Modelling",
+     "company": "Canadian Tire",
+     "location": "Toronto, ON",
+     "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/Senior-Data-Scientist--Predictive-Modelling_JR166754",
+     "posted": "2026-10-30",
+     "posted_raw": "Posted 7 Days Ago",
+     "source": "workday:canadiantirecorporation"
+    },
+    {
+     "title": "Data Analyst (Two Open Roles)",
+     "company": "Canadian Tire",
+     "location": "Mississauga, ON",
+     "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Mississauga-ON/Business-Analyst--Two-Open-Roles-_JR162250",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:canadiantirecorporation"
+    }
+   ]
+  },
+  {
+   "round": 22,
+   "target": "Desjardins",
+   "route": "workday",
+   "note": "financial co-op",
+   "fetched": 100,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 2.9,
+   "jobs": [
+    {
+     "title": "Credit Risk Strategy Data Scientist",
+     "company": "Desjardins",
+     "location": "Montr\u00e9al",
+     "url": "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Scientifique-de-donnes--Stratgies-risque-de-crdit_R2613542-1",
+     "posted": "2026-11-05",
+     "posted_raw": "Posted Yesterday",
+     "source": "workday:desjardins"
+    }
+   ]
+  },
+  {
+   "round": 23,
+   "target": "BDO Canada",
+   "route": "workday",
+   "note": "professional services",
+   "fetched": 100,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 5.0,
+   "jobs": [
+    {
+     "title": "DevOps Engineer - New Grad (January 2027)",
+     "company": "BDO Canada",
+     "location": "Toronto - Bay St",
+     "url": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7194",
+     "posted": "2026-10-08",
+     "posted_raw": "Posted 29 Days Ago",
+     "source": "workday:bdo"
+    }
+   ]
+  },
+  {
+   "round": 24,
+   "target": "RSM",
+   "route": "workday",
+   "note": "professional services",
+   "fetched": 100,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 5.3,
+   "jobs": [
+    {
+     "title": "Supervisor, Data Architect",
+     "company": "RSM",
+     "location": "Toronto",
+     "url": "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Toronto/Supervisor--Data-Architect_JR122224",
+     "posted": "2026-11-03",
+     "posted_raw": "Posted 3 Days Ago",
+     "source": "workday:rsm"
+    }
+   ]
+  },
+  {
+   "round": 25,
+   "target": "IKO",
+   "route": "workday",
+   "note": "building products",
+   "fetched": 93,
+   "matched": 3,
+   "dupes": 0,
+   "live": 3,
+   "new": 0,
+   "error": null,
+   "secs": 4.2,
+   "jobs": [
+    {
+     "title": "Senior Data Engineer",
+     "company": "IKO",
+     "location": "Mississauga, ON",
+     "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Senior-Data-Engineer_REQ-13061",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:iko"
+    },
+    {
+     "title": "Senior Data Engineer",
+     "company": "IKO",
+     "location": "Mississauga, ON",
+     "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Senior-Data-Engineer_REQ-14014",
+     "posted": "2026-10-19",
+     "posted_raw": "Posted 18 Days Ago",
+     "source": "workday:iko"
+    },
+    {
+     "title": "SR. Business Systems Analyst - Finance",
+     "company": "IKO",
+     "location": "Mississauga, ON",
+     "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/SR-Business-Systems-Analyst---Finance_REQ-13596",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:iko"
+    }
+   ]
+  },
+  {
+   "round": 26,
+   "target": "MLSE",
+   "route": "workday",
+   "note": "sports/entertainment",
+   "fetched": 18,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.0,
+   "jobs": []
+  },
+  {
+   "round": 27,
+   "target": "TJX",
+   "route": "workday",
+   "note": "retail",
+   "fetched": 100,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.9,
+   "jobs": []
+  },
+  {
+   "round": 28,
+   "target": "AGF",
+   "route": "workday",
+   "note": "asset manager",
+   "fetched": 12,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 0.8,
+   "jobs": [
+    {
+     "title": "CRM Data Engineer",
+     "company": "AGF",
+     "location": "Toronto, ON",
+     "url": "https://agf.wd3.myworkdayjobs.com/en-US/AGF_Careers/job/Toronto-ON/Salesforce-Developer--Solution-Designer_R11306-3",
+     "posted": "2026-10-21",
+     "posted_raw": "Posted 16 Days Ago",
+     "source": "workday:agf"
+    }
+   ]
+  },
+  {
+   "round": 29,
+   "target": "Canadian Tire",
+   "route": "workday",
+   "note": "second pass: analytics titles",
+   "fetched": 27,
+   "matched": 4,
+   "dupes": 4,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.6,
+   "jobs": []
+  },
+  {
+   "round": 30,
+   "target": "Desjardins",
+   "route": "workday",
+   "note": "second pass: BI titles",
+   "fetched": 31,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.2,
+   "jobs": []
+  }
+ ]
+}

@@ -1,346 +1,304 @@
 {
-  "generated_at": "2026-11-05T07:19:49Z",
+  "generated_at": "2026-11-06T07:18:21Z",
   "rows": [
     {
       "url": "https://lanefour.com/job-posting/salesforce-consultant/",
       "title": "Salesforce Consultant",
-      "origin": "gap-scan--2026-11-02--v52.md",
+      "origin": "gap-scan--2026-11-02--v59.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 2,
+        "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Title matches, location Canada is broad but relevant",
-        "llm7: Title and company only; no description"
+        "ollama: Title matches; location Canada is broad but relevant"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-administrator/",
       "title": "Salesforce Administrator",
-      "origin": "gap-scan--2026-11-02--v52.md",
+      "origin": "gap-scan--2026-11-02--v59.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 2,
+        "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Title matches, location Canada is broad but relevant",
-        "llm7: Title and company only; no description"
+        "ollama: Title matches; location Canada is broad but relevant"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-consultant/",
       "title": "Salesforce Consultant",
-      "origin": "gap-scan--2026-11-03--v50.md",
+      "origin": "gap-scan--2026-11-03--v57.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 2,
+        "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Title matches, location Canada is broad but relevant",
-        "llm7: Title and company only; no description"
+        "ollama: Title matches; location Canada is broad but relevant"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-administrator/",
       "title": "Salesforce Administrator",
-      "origin": "gap-scan--2026-11-03--v50.md",
+      "origin": "gap-scan--2026-11-03--v57.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 2,
+        "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Title matches, location Canada is broad but relevant",
-        "llm7: Title and company only; no description"
+        "ollama: Title matches; location Canada is broad but relevant"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-consultant/",
       "title": "Salesforce Consultant",
-      "origin": "gap-scan--2026-11-04--v7.md",
+      "origin": "gap-scan--2026-11-04--v14.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 2,
+        "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Title matches, location Canada is broad but relevant",
-        "llm7: Title and company only; no description"
+        "ollama: Title matches; location Canada is broad but relevant"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-administrator/",
       "title": "Salesforce Administrator",
-      "origin": "gap-scan--2026-11-04--v7.md",
+      "origin": "gap-scan--2026-11-04--v14.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 2,
+        "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Title matches, location Canada is broad but relevant",
-        "llm7: Title and company only; no description"
+        "ollama: Title matches; location Canada is broad but relevant"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-consultant/",
       "title": "Salesforce Consultant",
-      "origin": "gap-scan--2026-11-05--v1.md",
+      "origin": "gap-scan--2026-11-05--v8.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 2,
+        "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Title matches, location Canada is broad but relevant",
-        "llm7: Title and company only; no description"
+        "ollama: Title matches; location Canada is broad but relevant"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-administrator/",
       "title": "Salesforce Administrator",
-      "origin": "gap-scan--2026-11-05--v1.md",
+      "origin": "gap-scan--2026-11-05--v8.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 2,
+        "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Title matches, location Canada is broad but relevant",
-        "llm7: Title and company only; no description"
+        "ollama: Title matches; location Canada is broad but relevant"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+      "title": "Salesforce Consultant",
+      "origin": "gap-scan--2026-11-06--v1.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 1,
+        "?": 1
+      },
+      "ai_voters": 2,
+      "ai_reasons": [
+        "ollama: Title matches; location Canada is broad but relevant"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+      "title": "Salesforce Administrator",
+      "origin": "gap-scan--2026-11-06--v1.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 1,
+        "?": 1
+      },
+      "ai_voters": 2,
+      "ai_reasons": [
+        "ollama: Title matches; location Canada is broad but relevant"
       ]
     },
     {
       "url": "https://www.careerbeacon.com/en/job-9/2093614/pri-technology/servicenow-developer-cmdb-itsm-itom/toronto-on",
       "title": "ServiceNow Developer CMDB ITSM ITOM / IRM (FT, agency)",
-      "origin": "grokbot-hidden-title--2026-11-03--v24.md",
+      "origin": "grokbot-hidden-title--2026-11-03--v31.md",
       "posted": "\u2014",
       "ai_verdict": "servicenow",
       "ai_votes": {
-        "servicenow": 2,
+        "servicenow": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Explicit ServiceNow role in Toronto",
-        "llm7: ServiceNow role, Toronto location, agency"
+        "ollama: Direct match for ServiceNow role in Toronto"
       ]
     },
     {
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
       "title": "Technical Architect Director - PubSec - Mulesoft Canada",
-      "origin": "todayfeeds--2026-11-04--v7.md",
+      "origin": "todayfeeds--2026-11-04--v14.md",
       "posted": "\u2014",
-      "ai_verdict": "other",
+      "ai_verdict": "salesforce",
       "ai_votes": {
-        "other": 1,
         "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Mulesoft is Salesforce platform; Architect role",
-        "llm7: Salesforce role, not Toronto location"
+        "ollama: Mulesoft is a Salesforce platform; technical architect role"
       ]
     },
     {
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
       "title": "Technical Architect Director - PubSec - Mulesoft Canada",
-      "origin": "todayfeeds--2026-11-05--v1.md",
+      "origin": "todayfeeds--2026-11-05--v8.md",
       "posted": "\u2014",
-      "ai_verdict": "other",
+      "ai_verdict": "salesforce",
       "ai_votes": {
-        "other": 1,
         "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Mulesoft is Salesforce platform; Architect role",
-        "llm7: Salesforce role, not Toronto location"
+        "ollama: Mulesoft is a Salesforce platform; technical architect role"
+      ]
+    },
+    {
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
+      "title": "Technical Architect Director - PubSec - Mulesoft Canada",
+      "origin": "todayfeeds--2026-11-06--v1.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 1,
+        "?": 1
+      },
+      "ai_voters": 2,
+      "ai_reasons": [
+        "ollama: Mulesoft is a Salesforce platform; technical architect role"
+      ]
+    },
+    {
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
+      "title": "Technical Architect Director - PubSec - Mulesoft Canada",
+      "origin": "todayfeeds--2026-11-06--v2.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 1,
+        "?": 1
+      },
+      "ai_voters": 2,
+      "ai_reasons": [
+        "ollama: Mulesoft is a Salesforce platform; technical architect role"
       ]
     },
     {
       "url": "https://ca.linkedin.com/jobs/view/servicenow-itom-sme-at-ltm-4422749500",
       "title": "ServiceNow ITOM SME",
-      "origin": "websearch--2026-11-03--v14.md",
+      "origin": "websearch--2026-11-03--v21.md",
       "posted": "\u2014",
       "ai_verdict": "servicenow",
       "ai_votes": {
-        "servicenow": 2,
+        "servicenow": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: ServiceNow ITOM role in Ontario",
-        "llm7: ServiceNow role, no location specified"
+        "ollama: ServiceNow ITOM role in Ontario"
       ]
     },
     {
       "url": "https://insightglobal.com/jobs/30ac5b2c-4d79-42bf-8f1b-a72248771c80",
       "title": "ITAM PROJECT MANAGER",
-      "origin": "websearch--2026-11-03--v14.md",
+      "origin": "websearch--2026-11-03--v21.md",
       "posted": "\u2014",
       "ai_verdict": "servicenow",
       "ai_votes": {
-        "servicenow": 2,
+        "servicenow": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: ITAM Project Manager for ServiceNow HAM/SAM",
-        "llm7: ServiceNow role, no location specified"
+        "ollama: ServiceNow HAM/SAM project management role"
       ]
     },
     {
       "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-agentforce-ai-platform-integration-architect-at-jade-global-4430400215",
       "title": "Jade Global hiring Senior Salesforce / Agentforce AI Platform Integration Architect in Toronto, Ontario, Canada",
-      "origin": "websearch--2026-11-03--v14.md",
+      "origin": "websearch--2026-11-03--v21.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 2,
+        "salesforce": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Salesforce Architect role in Toronto",
-        "llm7: Salesforce role, no location specified"
+        "ollama: Direct match for Salesforce Architect in Toronto"
       ]
     },
     {
       "url": "https://www.ihiretechnology.com/jobs/view/533876818",
       "title": "ServiceNow Developer",
-      "origin": "websearch--2026-11-03--v14.md",
+      "origin": "websearch--2026-11-03--v21.md",
       "posted": "\u2014",
       "ai_verdict": "servicenow",
       "ai_votes": {
-        "servicenow": 2,
+        "servicenow": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: ServiceNow Developer role in Toronto",
-        "llm7: ServiceNow role, no location specified"
+        "ollama: Direct match for ServiceNow Developer in Toronto"
       ]
     },
     {
       "url": "https://careers.cognizant.com/us-en/jobs/00069775982/servicenow-solution-architect/",
       "title": "ServiceNow Solution Architect, Toronto, Ontario, Canada",
-      "origin": "websearch--2026-11-03--v51.md",
+      "origin": "websearch--2026-11-03--v58.md",
       "posted": "\u2014",
       "ai_verdict": "servicenow",
       "ai_votes": {
-        "servicenow": 2,
+        "servicenow": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 2,
       "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: ServiceNow Architect role in Toronto",
-        "llm7: ServiceNow role, no location specified"
-      ]
-    },
-    {
-      "url": "https://careers.hootsuite.com/jobs/senior-salesforce-developer-toronto-ontario-canada-vancouver-british-columbia",
-      "title": "Senior Salesforce Developer - Toronto, Ontario, Canada - Vancouver, British Columbia, Canada",
-      "origin": "websearch--2026-11-03--v51.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Salesforce Developer role in Toronto",
-        "llm7: Salesforce role, no location specified"
-      ]
-    },
-    {
-      "url": "https://careers.cognizant.com/emea-en/jobs/00069315271/salesforce-omnistudio-lead/",
-      "title": "Salesforce Omnistudio Lead, Toronto, Ontario, Canada",
-      "origin": "websearch--2026-11-03--v51.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Salesforce Omnistudio role in Toronto",
-        "llm7: Salesforce role, no location specified"
-      ]
-    },
-    {
-      "url": "https://www.jobs.ca/veracity-ventures-inc/jobs/salesforce-developer-1014-toronto-on-d2d37218c0b5",
-      "title": "Salesforce Developer 1014",
-      "origin": "websearch--2026-11-03--v51.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Salesforce Developer role in Toronto",
-        "llm7: Salesforce role, no location specified"
-      ]
-    },
-    {
-      "url": "https://www.iitjobs.com/job/salesforce-developer-canada-582091",
-      "title": "Salesforce Developer in Canada (United Software Group Inc)",
-      "origin": "websearch--2026-11-03--v51.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "vllm: Title matches criteria",
-        "ollama: Salesforce Developer role in Canada",
-        "llm7: Salesforce role, no location specified"
+        "ollama: Direct match for ServiceNow Architect in Toronto"
       ]
     }
   ]
