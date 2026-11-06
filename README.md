@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T113315Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T120629Z.md`.
 
 ## Contents
 
@@ -30,6 +30,7 @@ _developer / administrator / architect / analyst roles_
 |---|---|---|---|---|
 | 2026-11-06 | [ServiceNow Associate Software Engineer](https://www.adzuna.ca/details/5955452799) | Sun Life | Canada |  |
 | 2026-11-06 | [ServiceNow Architect](https://www.adzuna.ca/details/5955472312) | RSM | Toronto, Ontario |  |
+| 2026-11-06 | [ServiceNow Administrator/Developer](https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907) | CGI | Toronto, Ontario, Canada |  |
 | 2026-11-06 | [Senior ServiceNow Developer (App Engine / HRSD)](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816) | Resonaite | Ottawa, Ontario, Canada |  |
 | 2026-11-06 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453622314) | KPMG Canada | Vancouver, British Columbia, Canada |  |
 | 2026-11-06 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621291) | KPMG Canada | Ottawa, Ontario, Canada |  |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Developer Lead / Architect / LATAM / Flexgen](https://flexgen.zya.me/job/servicenow-developer-lead-architect-latam-2) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [ServiceNow Developer Jobs in Vancouver](https://www.jobleads.com/ca/jobs/l/Vancouver/q/ServiceNow%20Developer) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Developer Jobs in Mississauga](https://www.jobleads.com/ca/jobs/l/Mississauga/q/ServiceNow%20Developer) | Unknown | Canada | 9 |
-| 2026-11-04 | [ServiceNow Developer Job at ScotiaBank](https://employmenthero.com/en-ca/jobs/position/careerbeacon-demo-servicenow-developer-31qvk) | Unknown | Canada | 9 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-06T11:30:01.515Z** · 2074 live postings from 9 public sources · 58 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T12:00:01.954Z** · 2074 live postings from 9 public sources · 58 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -581,6 +581,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 |---|---|---|---|
 | 2026-11-06 | [ServiceNow Architect](https://www.adzuna.ca/details/5955472312) | RSM | Toronto, Ontario |
 | 2026-11-06 | [ServiceNow Associate Software Engineer](https://www.adzuna.ca/details/5955452799) | Sun Life | Canada |
+| 2026-11-06 | [ServiceNow Administrator/Developer](https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907) | CGI | Toronto, Ontario, Canada |
 | 2026-11-06 | [Senior ServiceNow Developer (App Engine / HRSD)](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816) | Resonaite | Ottawa, Ontario, Canada |
 | 2026-11-06 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453622314) | KPMG Canada | Vancouver, British Columbia, Canada |
 | 2026-11-06 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621291) | KPMG Canada | Ottawa, Ontario, Canada |
@@ -590,7 +591,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Senior ServiceNow Developer & Product Owner (Remote)](https://www.adzuna.ca/details/5954561155) | Huron Consulting Group | Toronto, Ontario |
 | 2026-11-05 | [ServiceNow ITOM Specialist](https://www.adzuna.ca/details/5954560296?utm_medium=api&utm_source=54ce986e) | Raise - find a more meaningful working experience | Saskatoon, Saskatchewan |
 | 2026-11-05 | [ServiceNow Developer](https://www.adzuna.ca/details/5954560026) | Rexall | Mississauga, Peel region |
-| 2026-11-05 | [Sr. Consultant, Value Excellence](https://jobsbycountry.com/job/sr-consultant-value-excellence-servicenow744000158578039) | ServiceNow | Toronto, Ontario, Canada |
 
 ### Salesforce — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-06T113315Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T120629Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
