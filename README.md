@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T144647Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T144905Z.md`.
 
 ## Contents
 
@@ -1297,6 +1297,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-06 | [Mental Health Housing Worker - HART Hub](https://www.adzuna.ca/details/5955448823?utm_medium=api&utm_source=54ce986e) | Canadian Mental Health Association-Haliburton, Kawartha, Pine Ridge | Peterborough, Peterborough region | Adzuna/service management developer |
 | 2026-11-06 | [Insurance Client Executive, Small Market Commercial Sales](https://www.adzuna.ca/details/5955616367?utm_medium=api&utm_source=54ce986e) | NFP, an Aon company | Hamilton region, Ontario | Adzuna/service management developer |
 | 2026-11-06 | [Incident Coordinator](https://www.adzuna.ca/details/5955295495?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | Adzuna/servicenow ITSM |
+| 2026-11-06 | [IT Asset Administrator](https://www.adzuna.ca/details/5955730345?utm_medium=api&utm_source=54ce986e) | Kronos Consulting | Québec, Canada | via adzuna-round14b--2026-11-06--v1.md |
 | 2026-11-06 | [Fire Extinguisher Technician](https://www.adzuna.ca/details/5955457472?utm_medium=api&utm_source=54ce986e) | Brogan Safety | Canada | Adzuna/service management developer |
 | 2026-11-06 | [Director, Surveys and Geomatics](https://www.adzuna.ca/details/5955448382?utm_medium=api&utm_source=54ce986e) | Infrastructure Ontario | Toronto, Ontario | Adzuna/service management developer |
 | 2026-11-05 | [Workforce Support (HR) Specialist (12 month contract)](https://www.adzuna.ca/details/5953992137?utm_medium=api&utm_source=54ce986e) | Avery Dennison | Toronto, Ontario | via rounds1-8--2026-11-05--v1.md |
@@ -1341,6 +1342,8 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-05 | [Propriétaire de produit - Observabilité-FR 503](https://www.adzuna.ca/details/5954291955?utm_medium=api&utm_source=54ce986e) | Export Development Canada / Exportation et développement Canada | Halifax, Halifax region | via adzuna-round12--2026-11-06--v1.md |
 | 2026-11-05 | [Propriétaire de produit - Observabilité-FR 503](https://www.adzuna.ca/details/5954416523?utm_medium=api&utm_source=54ce986e) | Export Development Canada - Exportation et développement Canada | Ottawa, Ottawa region | Adzuna/servicenow consultant |
 | 2026-11-05 | [Propriétaire de produit - Observabilité-FR 503](https://www.adzuna.ca/details/5954411259?utm_medium=api&utm_source=54ce986e) | Export Development Canada - Exportation et développement Canada | Montréal, Québec | Adzuna/servicenow consultant |
+| 2026-11-05 | [Product Manager - Business Platforms](https://www.adzuna.ca/details/5954258620?utm_medium=api&utm_source=54ce986e) | CDW | Toronto, Ontario | via adzuna-round14b--2026-11-06--v1.md |
+| 2026-11-05 | [Product Manager - Business Platforms](https://www.adzuna.ca/details/5954049224?utm_medium=api&utm_source=54ce986e) | CDW | Toronto, Ontario | via adzuna-round14b--2026-11-06--v1.md |
 | 2026-11-05 | [Power BI Developer - ETL](https://www.adzuna.ca/details/5954643713) | Cleo Consulting | Regent Park, City of Toronto | Data / BI |
 | 2026-11-05 | [Operations Analyst - Bilingual(FR/EN) - Remote](https://www.adzuna.ca/details/5954202777?utm_medium=api&utm_source=54ce986e) | Compugen Inc | Richmond Hill, York region | Adzuna/servicenow ITSM |
 | 2026-11-05 | [Observability Product Owner-EN 503](https://www.adzuna.ca/details/5954353363?utm_medium=api&utm_source=54ce986e) | Export Development Canada / Exportation et développement Canada | Ottawa, Ottawa region | via adzuna-round12--2026-11-06--v1.md |
@@ -1396,9 +1399,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-05 | [AWS DevOps/Security Engineer Senior/Architect](https://jobs.lever.co/jobgether/6e3d1905-f603-4e9b-bd04-50ca0203fed8) | jobgether | US | via gx10--2026-11-05--v1.md |
 | 2026-11-05 | [11852](https://www.adzuna.ca/details/5954560615?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal, Québec | via rounds1-8--2026-11-05--v1.md |
 | 2026-11-05 | [11851](https://www.adzuna.ca/details/5954561104?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal, Québec | via adzuna-round12--2026-11-06--v1.md |
-| 2026-11-04 | [((Hiring) Senior Data Analyst @Laivly)(https://remotive.com/remote/jobs/data/senior-data-analyst-6427068)](https://remotive.com/remote/jobs/data/senior-data-analyst-6427068) | Unknown | Canada | via round11-cached--2026-11-05--v7.md |
-| 2026-11-04 | [((Hiring) Senior Data Analyst @Ada)(https://remotive.com/remote/jobs/data/senior-data-analyst-3329010)](https://remotive.com/remote/jobs/data/senior-data-analyst-3329010) | Unknown | Canada | via round11-cached--2026-11-05--v7.md |
-| 2026-11-04 | [((Hiring) Director of IT & Security @Xello)(https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773)](https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773) | Unknown | Canada | via round11-cached--2026-11-05--v7.md |
 | 2026-11-04 | [ZoomInfo Jobs: Senior Data Engineer](https://boards.greenhouse.io/zoominfo/jobs/8888836002) | Greenhouse | Not specified | via firecrawl web search |
 | 2026-11-04 | [Wealth Operations Manager](https://www.adzuna.ca/details/5953110588?utm_medium=api&utm_source=54ce986e) | The Successful Investor | Toronto, Ontario | via adzuna-round13--2026-11-06--v1.md |
 | 2026-11-04 | [Vice President of Marketing](https://www.adzuna.ca/details/5953261614?utm_medium=api&utm_source=54ce986e) | Onni Group | Greater Vancouver, British Columbia | via adzuna-autonomous--2026-11-05--v1.md |
@@ -1746,6 +1746,9 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [AI Software Engineer](https://www.adzuna.ca/details/5952817412?utm_medium=api&utm_source=54ce986e) | SS&C | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v10.md |
 | 2026-11-04 | [1815 - Application Developer III](https://ca.linkedin.com/jobs/view/1815-application-developer-iii-at-amyantek-4480183141) | Amyantek | Toronto, ON | via round11-cached--2026-11-05--v7.md |
 | 2026-11-04 | [(Senior) Vice President (m/f/d), Index Management – Equity Rebalance](https://www.adzuna.ca/details/5953623419?utm_medium=api&utm_source=54ce986e) | Solactive AG | Church and Wellesley, City of Toronto | via adzuna-round13--2026-11-06--v2.md |
+| 2026-11-04 | [((Hiring) Senior Data Analyst @Laivly)(https://remotive.com/remote/jobs/data/senior-data-analyst-6427068)](https://remotive.com/remote/jobs/data/senior-data-analyst-6427068) | Unknown | Canada | via round11-cached--2026-11-05--v7.md |
+| 2026-11-04 | [((Hiring) Senior Data Analyst @Ada)(https://remotive.com/remote/jobs/data/senior-data-analyst-3329010)](https://remotive.com/remote/jobs/data/senior-data-analyst-3329010) | Unknown | Canada | via round11-cached--2026-11-05--v7.md |
+| 2026-11-04 | [((Hiring) Director of IT & Security @Xello)(https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773)](https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773) | Unknown | Canada | via round11-cached--2026-11-05--v7.md |
 | 2026-11-03 | [Transformation Director](https://www.adzuna.ca/details/5952066588?utm_medium=api&utm_source=54ce986e) | Acestack | Regent Park, City of Toronto | via adzuna-autonomous--2026-11-05--v10.md |
 | 2026-11-03 | [Training Data & Digital Tools Analyst](https://www.adzuna.ca/details/5951679414?utm_medium=api&utm_source=54ce986e) | Gestal Amérique du Nord Inc. | Mirabel, Thérèse-De Blainville | via adzuna-autonomous--2026-11-05--v10.md |
 | 2026-11-03 | [Total Rewards Analyst](https://www.adzuna.ca/details/5951671450?utm_medium=api&utm_source=54ce986e) | Schawk Canada Inc. | Toronto, Ontario | via adzuna-round13--2026-11-06--v2.md |
@@ -1860,9 +1863,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-02 | [⚙️ Senior/Staff Platform Engineer](https://jobs.ashbyhq.com/runway/950876a1-709e-49b7-93f3-6e130efdf6fa) | runway | North America | via round11-cached--2026-11-05--v7.md |
 | 2026-11-02 | [⚙️ Engineering Manager](https://jobs.ashbyhq.com/runway/e22fd0c9-06f5-4b27-9157-f3d8bac5b80a) | runway | North America | via round11-cached--2026-11-05--v7.md |
 | 2026-11-02 | [iOS Engineer - Creative App](https://jobs.ashbyhq.com/elevenlabs/815547bf-0ade-482d-84b0-4163ab1161e5) | elevenlabs | Remote | via round11-cached--2026-11-05--v7.md |
-| 2026-11-02 | [(IT Project Manager (4987))(https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e)](https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e) | Alteo | Montréal, Québec | via adzuna-autonomous--2026-11-05--v10.md |
-| 2026-11-02 | [(Forward Deployed Engineer, Finance (Office of the CTO))(https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932)](https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932) | coinbase | Remote - USA | via round11-cached--2026-11-05--v7.md |
-| 2026-11-02 | [(Embedded Engineer, Compliance (Office of the CTO))(https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099)](https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099) | coinbase | Remote - USA | via round11-cached--2026-11-05--v7.md |
 | 2026-11-02 | [Workday Integration Developer](https://www.asana.com/jobs/apply/8214792?gh_jid=8214792) | asana | Vancouver, BC | via round11-cached--2026-11-05--v7.md |
 | 2026-11-02 | [West Coast Strategic Cuisines Thai & Asian Cuisine District Manager](https://careers.toasttab.com/jobs?gh_jid=8208177) | toast | Remote- US | via round11-cached--2026-11-05--v7.md |
 | 2026-11-02 | [Vulnerability Management Specialist](https://ca.linkedin.com/jobs/view/vulnerability-management-specialist-at-hays-4486404341) | Hays | Montreal, Quebec, Canada | via twin 20-round harvest |
@@ -3280,9 +3280,9 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-02 | [AI Transformation Owner, Product & Design](https://job-boards.greenhouse.io/gitlab/jobs/8716179002) | gitlab | Remote, Canada; Remote, United Kingdom; Remote, United States | via round11-cached--2026-11-05--v7.md |
 | 2026-11-02 | [AI Transformation Owner, CRO](https://job-boards.greenhouse.io/gitlab/jobs/8638232002) | gitlab | Remote, United States | via round11-cached--2026-11-05--v7.md |
 | 2026-11-02 | [AI Operations Lead, Toast IQ](https://careers.toasttab.com/jobs?gh_jid=8054004) | toast | Remote, US | via round11-cached--2026-11-05--v7.md |
-| 2026-11-02 | [AI Engineer](https://www.adzuna.ca/details/5950337000) | Insight Global | Toronto | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v66.md |
-| 2026-11-02 | [AI DevOps Specialist (GCP & Vertex AI)](https://www.adzuna.ca/details/5950814513) | Experis | Toronto, Ontario | restored after over-merge |
-| 2026-11-02 | [AI Deployment Manager, Scale](https://jobs.ashbyhq.com/cursor/0130118d-1cce-4eea-8325-2fc95ab6c584) | cursor | Remote | via round11-cached--2026-11-05--v7.md |
+| 2026-11-02 | [(IT Project Manager (4987))(https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e)](https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e) | Alteo | Montréal, Québec | via adzuna-autonomous--2026-11-05--v10.md |
+| 2026-11-02 | [(Forward Deployed Engineer, Finance (Office of the CTO))(https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932)](https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932) | coinbase | Remote - USA | via round11-cached--2026-11-05--v7.md |
+| 2026-11-02 | [(Embedded Engineer, Compliance (Office of the CTO))(https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099)](https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099) | coinbase | Remote - USA | via round11-cached--2026-11-05--v7.md |
 
 </details>
 
@@ -3412,4 +3412,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-06T144647Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T144905Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
