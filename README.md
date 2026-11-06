@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T063324Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T070435Z.md`.
 
 ## Contents
 
@@ -350,6 +350,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-06 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5955295396?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-06 | [Senior Analyst, Business Intelligence Systems](https://www.adzuna.ca/details/5955294957) | Scotiabank | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Tableau- BI Data Visualization Consultant](https://www.adzuna.ca/details/5954893786?utm_medium=api&utm_source=54ce986e) | Astra North Infoteck Inc. | Greater Vancouver, British Columbia | Data / BI |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953989159) | ServiceNow, Inc. | Toronto, Ontario | DevOps / Cloud |
@@ -499,7 +500,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [Senior Cloud and AI Platform Engineer at Matrix Global](https://echojobs.io/job/matrix-global-senior-cloud-ai-platform-engineer-rd5vu) | Unknown | Canada | 8 |
 | 2026-11-04 | [Senior Cloud Platform Engineer, DevOps - ProCogia / Vancouver, BC](https://www.workopolis.com/jobsearch/viewjob/VLA856m7jNtzHzjFSyMBrzhOcj6_QweVBjG-YdtHtjYHi4KqWUMaMARIfaXM-Vva) | Unknown | Canada | 7 |
 | 2026-11-04 | [Senior Cloud Platform Engineer in Toronto Ontario, ON - Scotiabank](https://ca.trabajo.org/job-5018-b06657e7384a00b143e39e10ad50a340) | Unknown | Canada | 8 |
-| 2026-11-04 | [Senior Cloud Platform Engineer at Bank of Montreal](https://echojobs.io/job/bank-of-montreal-senior-cloud-platform-engineer-gvmcl) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-06T06:30:01.741Z** · 2069 live postings from 9 public sources · 61 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T07:00:02.039Z** · 2069 live postings from 9 public sources · 61 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -598,10 +598,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 |---|---|---|---|
 | 2026-11-06 | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) | Senior Salesforce Engineer | Canadian Cancer Society |
 | 2026-11-06 | [DevOps Engineer(Salesforce)](https://www.adzuna.ca/details/5955295565) | Scotiabank | Toronto, Ontario |
+| 2026-11-06 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-make-a-wish-canada-4486201660) | Make-A-Wish Canada | Toronto, Ontario, Canada |
 | 2026-11-06 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-06 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-applied-systems-canada-4486934306) | Applied Systems Canada | Canada |
 | 2026-11-06 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486318615) | Canadian Cancer Society | Vancouver, British Columbia, Canada |
-| 2026-11-06 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-make-a-wish-canada-4486201660) | Make-A-Wish Canada | Toronto, Ontario, Canada |
 | 2026-11-06 | [Senior Functional Analyst, Salesforce Retail CRM](https://ca.linkedin.com/jobs/view/senior-functional-analyst-salesforce-retail-crm-at-atb-financial-4485680197) | ATB Financial | Calgary, Alberta, Canada |
 | 2026-11-05 | [Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations](https://www.adzuna.ca/details/5954561323?utm_medium=api&utm_source=54ce986e) | Alithya | Montréal, Québec |
 | 2026-11-05 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5954560876) | LTM | Toronto, Ontario |
@@ -613,6 +613,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-06 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5955295396?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-06 | [Senior Analyst, Business Intelligence Systems](https://www.adzuna.ca/details/5955294957) | Scotiabank | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Tableau- BI Data Visualization Consultant](https://www.adzuna.ca/details/5954893786?utm_medium=api&utm_source=54ce986e) | Astra North Infoteck Inc. | Greater Vancouver, British Columbia | Data / BI |
 | 2026-11-05 | [Senior Azure Cloud Platform Engineer – Power BI & Informatica](https://www.adzuna.ca/details/5954892537?utm_medium=api&utm_source=54ce986e) | Recrute Action | Church and Wellesley, City of Toronto | Data / BI |
@@ -622,11 +623,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Power BI Technical Lead](https://www.adzuna.ca/details/5954643605?utm_medium=api&utm_source=54ce986e) | VDart Inc | Canada | Data / BI |
 | 2026-11-05 | [Senior Software Engineer (AI & Full Stack)](https://www.adzuna.ca/details/5954561307) | Makeitfable | Toronto, Ontario | Full stack |
 | 2026-11-05 | [Sr Python Engineer 26-21269](https://www.adzuna.ca/details/5954561344) | US Tech Solutions | Toronto, Ontario | Python |
-| 2026-11-05 | [Azure Cloud Architect - Manager](https://www.adzuna.ca/details/5954561343?utm_medium=api&utm_source=54ce986e) | EY | Ottawa, Ottawa region | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-06T063324Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T070435Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
