@@ -1,3 +1,4 @@
+<!-- merged 2026-11-06T041126Z: +68 new, 0 duplicate, version 2 -->
 # Eluta / Job Bank sweep — 2026-11-06
 
 Sources: eluta.ca (55 pages), jobbank.gc.ca (0 pages). Buckets: servicenow, salesforce.
