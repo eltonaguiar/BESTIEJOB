@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T230205Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T233146Z.md`.
 
 ## Contents
 
@@ -41,6 +41,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-06 | [ServiceNow Associate Software Engineer](https://www.adzuna.ca/details/5955452799) | Sun Life | Canada |  |
 | 2026-11-06 | [ServiceNow Architect](https://www.adzuna.ca/details/5955472312) | RSM | Toronto, Ontario |  |
 | 2026-11-06 | [ServiceNow Administrator/Developer](https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907) | CGI | Toronto, Ontario, Canada |  |
+| 2026-11-06 | [ServiceNow Administrator & Developer](https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-sheridan-college-4486264240) | Sheridan College | Oakville, Ontario, Canada |  |
 | 2026-11-06 | [Service Now Administrator & Developer](https://ca.linkedin.com/jobs/view/service-now-administrator-developer-at-sheridan-college-4486264240) | Sheridan College | Oakville, Ontario, Canada |  |
 | 2026-11-06 | [Senior Staff Security Engineer \/ Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294989) | Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294989) | ServiceNow | Toronto, Ontario, ca · Remote |
 | 2026-11-06 | [Senior ServiceNow Developer and Administrator](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-and-administrator-at-mnp-4469795709) | MNP | Calgary, Alberta, Canada |  |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Functional Consultant at BDO Canada](https://echojobs.io/job/bdo-canada-servicenow-functional-consultant-zduw3) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Enterprise Architect – Myticas Consulting – Job Ottawa, ON](https://ca.talent.com/view?id=634724953899794945) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Enterprise Architect / Myticas Consulting](https://myticas.com/jobs/servicenow-enterprise-architect-35761/) | Unknown | Canada | 7/10 via |
-| 2026-11-04 | [ServiceNow Developer – Randstad Canada – temporary job Ottawa, ON](https://ca.talent.com/view?id=570085234202380237) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-06T23:00:01.415Z** · 2103 live postings from 8 public sources · 56 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T23:30:01.891Z** · 2104 live postings from 8 public sources · 56 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -589,8 +589,8 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-06 | [ServiceNow Architect](https://www.adzuna.ca/details/5955472312) | RSM | Toronto, Ontario |
 | 2026-11-06 | [ServiceNow Associate Software Engineer](https://www.adzuna.ca/details/5955452799) | Sun Life | Canada |
 | 2026-11-06 | [ServiceNow Administrator/Developer](https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907) | CGI | Toronto, Ontario, Canada |
-| 2026-11-06 | [Service Now Administrator & Developer](https://ca.linkedin.com/jobs/view/service-now-administrator-developer-at-sheridan-college-4486264240) | Sheridan College | Oakville, Ontario, Canada |
-| 2026-11-06 | [Solution Architect - ServiceNow Expert](https://ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4488181037) | HRConnects | Vancouver, British Columbia, Canada |
+| 2026-11-06 | [ServiceNow SAM Administrator - ITAM](https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764) | BMO | Toronto, Ontario, Canada |
+| 2026-11-06 | [ServiceNow Administrator & Developer](https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-sheridan-college-4486264240) | Sheridan College | Oakville, Ontario, Canada |
 
 ### Salesforce — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-06T230205Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T233146Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
