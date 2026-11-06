@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T23:31:44+00:00",
+ "generatedAt": "2026-11-06T00:05:52+00:00",
  "timezone": "America/Toronto",
  "count": 405,
  "appliedHidden": 13,
@@ -89,7 +89,6 @@
   "jobs.insightglobal.com",
   "jobs.insightpartners.com",
   "jobs.jobvite.com",
-  "jobs.lererhippeau.com",
   "jobs.nutrien.com",
   "jobs.omegavp.com",
   "jobs.rbc.com",
@@ -140,6 +139,26 @@
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-06",
+   "title": "HiringCafe",
+   "company": "Senior Salesforce Engineer",
+   "location": "Canadian Cancer Society",
+   "url": "https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i",
+   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v67.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "hiringcafe.com",
+   "verified": "Employer board",
+   "match": 24,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "hiringcafe senior salesforce engineer canadian cancer society hiringcafe.com salesforce via peer-bestiejob-scan-refresh-20261102--2026-11-02--v67.md salesforce role fit",
+   "alternates": []
+  },
   {
    "posted": "2026-11-05",
    "title": "ServiceNow OTSM and CMDB Technical Consultant",
@@ -5912,27 +5931,6 @@
    ],
    "french": false,
    "search": "salesforce platform developer r0014087 unknown canada workday ats salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Platform Developer @ Reonomy / Lerer Hippeau Job Board",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer",
-   "note": "8",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.lererhippeau.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce platform developer @ reonomy / lerer hippeau job board unknown canada jobs.lererhippeau.com salesforce 8 salesforce role fit canada / remote",
    "alternates": []
   },
   {

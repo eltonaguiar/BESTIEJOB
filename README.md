@@ -4,11 +4,11 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T233144Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T000552Z.md`.
 
 ## Contents
 
-- [Current jobs — as of 2026-11-05](#current-jobs--as-of-2026-11-05)
+- [Current jobs — as of 2026-11-06](#current-jobs--as-of-2026-11-06)
   - [ServiceNow jobs (150)](#servicenow-jobs-150)
   - [Salesforce jobs (150)](#salesforce-jobs-150)
   - [Other jobs (150)](#other-jobs-150)
@@ -16,9 +16,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-05
+## Current jobs — as of 2026-11-06
 
-Window: 2026-10-06 → 2026-11-05 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-07 → 2026-11-06 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (150)
 
@@ -189,6 +189,7 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-06 | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) | Senior Salesforce Engineer | Canadian Cancer Society | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v67.md |
 | 2026-11-05 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-loopio-4488056674) | Loopio | Toronto, Ontario, Canada |  |
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5954076592) | Finning | Surrey, Greater Vancouver |  |
@@ -338,7 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Salesforce Platform Developer at Altus Group – Toronto, Ontario / TheJobsMap](https://www.thejobsmap.com/job/8cfc485a-0c3d-4ba4-bd83-bdc4f6ee2560) | Unknown | Canada | 8 |
 | 2026-11-04 | [Salesforce Platform Developer at Altus Group Limited/Groupe Altus](https://startup.jobs/salesforce-platform-developer-altus-group-limited-groupe-a-10638766) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [Salesforce Platform Developer R0014087](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Salesforce-Platform-Developer_R0014087) | Unknown | Canada | 7 |
-| 2026-11-04 | [Salesforce Platform Developer @ Reonomy / Lerer Hippeau Job Board](https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T23:30:02.029Z** · 2064 live postings from 8 public sources · 73 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T00:00:01.520Z** · 2063 live postings from 9 public sources · 73 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-05T233144Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
+`README.BAK_2026-11-06T000552Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
