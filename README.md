@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T140524Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T143307Z.md`.
 
 ## Contents
 
@@ -350,6 +350,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-06 | [Software Developer - Full Stack](https://www.adzuna.ca/details/5955746489) | Innosystech Inc | Toronto, Ontario | Full stack |
 | 2026-11-06 | [Senior Hybrid Cloud Architect](https://www.adzuna.ca/details/5955744708?utm_medium=api&utm_source=54ce986e) | Bulletproof Solutions Inc | Fredericton, York region | DevOps / Cloud |
 | 2026-11-06 | [Senior Hybrid Cloud Architect](https://www.adzuna.ca/details/5955744476?utm_medium=api&utm_source=54ce986e) | Bulletproof Solutions Inc | Halifax, Halifax region | DevOps / Cloud |
 | 2026-11-06 | [Senior Hybrid Cloud Architect](https://www.adzuna.ca/details/5955734039?utm_medium=api&utm_source=54ce986e) | Bulletproof Solutions Inc | Moncton, Westmorland | DevOps / Cloud |
@@ -499,7 +500,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [Senior Manager ICT Delivery & Technical Operations » Toronto, ON, Canada / Vancouver, BC, Canada / Calgary, AB, Canada / DNV careers](https://jobs.dnv.com/job-search/business-assurance/manager/toronto-on-canada-vancouver-bc-calgary-ab/senior-manager-ict-delivery-technical-operations/300001713641796) | Unknown | Canada | 8 |
 | 2026-11-04 | [Senior InfoSphere Platform Administrator - System Canada Technologies / Built In Vancouver](https://builtinvancouver.org/job/senior-infosphere-platform-administrator/9798930) | Unknown | Canada | 7 |
 | 2026-11-04 | [Senior Implementation Consultant - nCino, Inc. / Built In](https://builtin.com/job/senior-implementation-consultant/10014268) | Unknown | Canada | 8 |
-| 2026-11-04 | [Senior Full-Stack Software Developer - CRM - gaiia / Built In](https://builtin.com/job/senior-full-stack-software-developer-crm/9211150) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-06T14:00:01.884Z** · 2077 live postings from 9 public sources · 57 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T14:30:01.499Z** · 2077 live postings from 9 public sources · 56 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -601,18 +601,19 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-06 | [DevOps Engineer(Salesforce)](https://www.adzuna.ca/details/5955295565) | Scotiabank | Toronto, Ontario |
 | 2026-11-06 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-make-a-wish-canada-4486201660) | Make-A-Wish Canada | Toronto, Ontario, Canada |
 | 2026-11-06 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
+| 2026-11-06 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |
+| 2026-11-06 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486318615) | Canadian Cancer Society | Vancouver, British Columbia, Canada |
 | 2026-11-06 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-applied-systems-canada-4486934306) | Applied Systems Canada | Canada |
 | 2026-11-06 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4462540700) | Alithya | Montreal, Quebec, Canada |
-| 2026-11-06 | [Senior Functional Analyst, Salesforce Retail CRM](https://ca.linkedin.com/jobs/view/senior-functional-analyst-salesforce-retail-crm-at-atb-financial-4485680197) | ATB Financial | Calgary, Alberta, Canada |
 | 2026-11-06 | [Salesforce Platform Owner](https://ca.linkedin.com/jobs/view/salesforce-platform-owner-at-parkland-corporation-4469321507) | Parkland Corporation | Calgary, Alberta, Canada |
-| 2026-11-06 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486318615) | Canadian Cancer Society | Vancouver, British Columbia, Canada |
 | 2026-11-06 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4470107427) | CGI | Halifax, Nova Scotia, Canada |
-| 2026-11-05 | [Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations](https://www.adzuna.ca/details/5954561323?utm_medium=api&utm_source=54ce986e) | Alithya | Montréal, Québec |
+| 2026-11-06 | [Senior Functional Analyst, Salesforce Retail CRM](https://ca.linkedin.com/jobs/view/senior-functional-analyst-salesforce-retail-crm-at-atb-financial-4485680197) | ATB Financial | Calgary, Alberta, Canada |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-06 | [Software Developer - Full Stack](https://www.adzuna.ca/details/5955746489) | Innosystech Inc | Toronto, Ontario | Full stack |
 | 2026-11-06 | [Senior Hybrid Cloud Architect](https://www.adzuna.ca/details/5955744708?utm_medium=api&utm_source=54ce986e) | Bulletproof Solutions Inc | Fredericton, York region | DevOps / Cloud |
 | 2026-11-06 | [Senior Hybrid Cloud Architect](https://www.adzuna.ca/details/5955744476?utm_medium=api&utm_source=54ce986e) | Bulletproof Solutions Inc | Halifax, Halifax region | DevOps / Cloud |
 | 2026-11-06 | [Co-op Power BI Developer (4 months)](https://www.adzuna.ca/details/5955734937?utm_medium=api&utm_source=54ce986e) | Atlantic Packaging Products Ltd | Toronto, Ontario | Data / BI |
@@ -622,11 +623,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-06 | [Data Analyst – Center of Excellence & Data Analytics](https://www.adzuna.ca/details/5955469754?utm_medium=api&utm_source=54ce986e) | Canadian Tire Corporation | Toronto, Ontario | Data / BI |
 | 2026-11-06 | [Senior DevOps Engineer (Azure)](https://www.adzuna.ca/details/5955455424?utm_medium=api&utm_source=54ce986e) | Agilno | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-06 | [Lead Site Reliability Engineer - Interface & Connectivity](https://www.adzuna.ca/details/5955448064?utm_medium=api&utm_source=54ce986e) | SimCorp | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-06 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5955295396?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-06T140524Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T143307Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
