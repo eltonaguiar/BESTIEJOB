@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-06T10:33:06+00:00",
+ "generatedAt": "2026-11-06T11:07:01+00:00",
  "timezone": "America/Toronto",
- "count": 402,
+ "count": 401,
  "appliedHidden": 14,
  "sources": [
   "Adzuna",
@@ -76,7 +76,6 @@
   "jobgether.com",
   "jobleads.com",
   "jobs-cast.com",
-  "jobs.accel.com",
   "jobs.bmo.com",
   "jobs.ca",
   "jobs.crelate.com",
@@ -195,6 +194,27 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Manager, ServiceNow Technical Lead",
+   "company": "KPMG Canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453622314",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "manager, servicenow technical lead kpmg canada vancouver, british columbia, canada linkedin servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Salesforce Datcloud Tech Lead",
    "company": "Cognizant",
    "location": "Mississauga, Peel region",
@@ -254,6 +274,27 @@
    ],
    "french": false,
    "search": "associate salesforce administrator applied systems canada canada linkedin salesforce  salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Analyste d’affaires Salesforce",
+   "company": "Alithya",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4462540700",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste d’affaires salesforce alithya montreal, quebec, canada linkedin salesforce  salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -4170,48 +4211,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Developer Job at CONFIGURETEK",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.careerbeacon.com/en/job-9/3760986/configuretek/servicenow-developer/ottawa-on",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "CareerBeacon",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer job at configuretek unknown canada careerbeacon servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer @ Lightspeed / Accel Job Board",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.accel.com/companies/lightspeed-2-66ea6e12-7c39-4826-9c09-a08e11eabdb6/jobs/97700362-servicenow-developer",
-   "note": "9",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.accel.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer @ lightspeed / accel job board unknown canada jobs.accel.com servicenow 9 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "servicenow Jobs in Calgary, AB / Hiring Now / Talent.com",
    "company": "Unknown",
    "location": "Canada",
@@ -6151,27 +6150,6 @@
    ],
    "french": false,
    "search": "salesforce senior consultant manager (remote canada) - future opening (up to $11,875) - directive in ottawa / jobstore unknown canada jobstore.com salesforce 5/10 via 2026-11-04_sf_round9_raw_20261104t062041z.json salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Senior Consultant / RSM Careers",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.rsmus.com/posting/salesforce-senior-consultant/JR118750",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.rsmus.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce senior consultant / rsm careers unknown canada jobs.rsmus.com salesforce 7 salesforce role fit canada / remote",
    "alternates": []
   },
   {

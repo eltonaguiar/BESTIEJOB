@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T103306Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T110701Z.md`.
 
 ## Contents
 
@@ -31,6 +31,8 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-06 | [ServiceNow Associate Software Engineer](https://www.adzuna.ca/details/5955452799) | Sun Life | Canada |  |
 | 2026-11-06 | [ServiceNow Architect](https://www.adzuna.ca/details/5955472312) | RSM | Toronto, Ontario |  |
 | 2026-11-06 | [Senior ServiceNow Developer (App Engine / HRSD)](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816) | Resonaite | Ottawa, Ontario, Canada |  |
+| 2026-11-06 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453622314) | KPMG Canada | Vancouver, British Columbia, Canada |  |
+| 2026-11-06 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621291) | KPMG Canada | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744570) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159910447) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobsbycountry.com/job/staff-site-reliability-engineer-canada-protected-b-servicenow744000159519949) | ServiceNow | Toronto, Ontario, Canada | via non-mainstream-harvest--2026-11-05--v1.md |
@@ -176,8 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Developer Jobs in Vancouver](https://www.jobleads.com/ca/jobs/l/Vancouver/q/ServiceNow%20Developer) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Developer Jobs in Mississauga](https://www.jobleads.com/ca/jobs/l/Mississauga/q/ServiceNow%20Developer) | Unknown | Canada | 9 |
 | 2026-11-04 | [ServiceNow Developer Job at ScotiaBank](https://employmenthero.com/en-ca/jobs/position/careerbeacon-demo-servicenow-developer-31qvk) | Unknown | Canada | 9 |
-| 2026-11-04 | [ServiceNow Developer Job at CONFIGURETEK](https://www.careerbeacon.com/en/job-9/3760986/configuretek/servicenow-developer/ottawa-on) | Unknown | Canada | 8 |
-| 2026-11-04 | [ServiceNow Developer @ Lightspeed / Accel Job Board](https://jobs.accel.com/companies/lightspeed-2-66ea6e12-7c39-4826-9c09-a08e11eabdb6/jobs/97700362-servicenow-developer) | Unknown | Canada | 9 |
 
 </details>
 
@@ -196,6 +196,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-06 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |  |
 | 2026-11-06 | [DevOps Engineer(Salesforce)](https://www.adzuna.ca/details/5955295565) | Scotiabank | Toronto, Ontario |  |
 | 2026-11-06 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-applied-systems-canada-4486934306) | Applied Systems Canada | Canada |  |
+| 2026-11-06 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4462540700) | Alithya | Montreal, Quebec, Canada |  |
 | 2026-11-05 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486031854) | Canadian Cancer Society | Kelowna, British Columbia, Canada |  |
 | 2026-11-05 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5954051182?utm_medium=api&utm_source=54ce986e) | CGI | Victoria, Capital |  |
 | 2026-11-05 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-loopio-4488056674) | Loopio | Toronto, Ontario, Canada |  |
@@ -338,7 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Salesforce Senior Developer - Recutify Inc. / Calgary, AB](https://www.simplyhired.ca/job/beCD2SS47C2GtOegDvvB-jx0b3urPLi9YDbyu55MJ5KFIfIoN2_0Iw) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce Senior Consultant Manager (Remote Canada) @ Directive](https://jobs.ashbyhq.com/directive/157059d7-9c7e-417f-8e3f-c317bcf1fa00) | Unknown | Canada | 8 |
 | 2026-11-04 | [Salesforce Senior Consultant Manager (Remote Canada) - Future Opening (up to $11,875) - Directive in Ottawa / Jobstore](https://www.jobstore.com/ca/job/l36823173/salesforce-senior-consultant-manager-remote-canada-future-opening-job) | Unknown | Canada | 5/10 via 2026-11-04_sf_round9_raw_20261104T062041Z.json |
-| 2026-11-04 | [Salesforce Senior Consultant / RSM Careers](https://jobs.rsmus.com/posting/salesforce-senior-consultant/JR118750) | Unknown | Canada | 7 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-06T10:30:01.308Z** · 2072 live postings from 9 public sources · 58 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T11:00:01.896Z** · 2074 live postings from 9 public sources · 58 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -582,6 +582,8 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-06 | [ServiceNow Architect](https://www.adzuna.ca/details/5955472312) | RSM | Toronto, Ontario |
 | 2026-11-06 | [ServiceNow Associate Software Engineer](https://www.adzuna.ca/details/5955452799) | Sun Life | Canada |
 | 2026-11-06 | [Senior ServiceNow Developer (App Engine / HRSD)](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816) | Resonaite | Ottawa, Ontario, Canada |
+| 2026-11-06 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453622314) | KPMG Canada | Vancouver, British Columbia, Canada |
+| 2026-11-06 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621291) | KPMG Canada | Ottawa, Ontario, Canada |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159911194) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159910447) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-05 | [ServiceNow ITOM Specialist](https://www.adzuna.ca/details/5954561186?utm_medium=api&utm_source=54ce986e) | Raise | Saskatoon, Saskatchewan |
@@ -589,8 +591,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [ServiceNow ITOM Specialist](https://www.adzuna.ca/details/5954560296?utm_medium=api&utm_source=54ce986e) | Raise - find a more meaningful working experience | Saskatoon, Saskatchewan |
 | 2026-11-05 | [ServiceNow Developer](https://www.adzuna.ca/details/5954560026) | Rexall | Mississauga, Peel region |
 | 2026-11-05 | [Sr. Consultant, Value Excellence](https://jobsbycountry.com/job/sr-consultant-value-excellence-servicenow744000158578039) | ServiceNow | Toronto, Ontario, Canada |
-| 2026-11-05 | [ServiceNow Architect](https://www.adzuna.ca/details/5954388577) | Flexstaf IT | Ontario, Canada |
-| 2026-11-05 | [Service Now Developers](https://www.adzuna.ca/details/5954388583) | Flexstaf IT | Ontario, Canada |
 
 ### Salesforce — newest 12
 
@@ -603,11 +603,11 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-06 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada |
 | 2026-11-06 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-applied-systems-canada-4486934306) | Applied Systems Canada | Canada |
 | 2026-11-06 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486318615) | Canadian Cancer Society | Vancouver, British Columbia, Canada |
+| 2026-11-06 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4462540700) | Alithya | Montreal, Quebec, Canada |
 | 2026-11-06 | [Senior Functional Analyst, Salesforce Retail CRM](https://ca.linkedin.com/jobs/view/senior-functional-analyst-salesforce-retail-crm-at-atb-financial-4485680197) | ATB Financial | Calgary, Alberta, Canada |
 | 2026-11-05 | [Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations](https://www.adzuna.ca/details/5954561323?utm_medium=api&utm_source=54ce986e) | Alithya | Montréal, Québec |
 | 2026-11-05 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5954560876) | LTM | Toronto, Ontario |
 | 2026-11-05 | [Salesforce Technical Architecture Advisor, LWC, Apex & Implementations](https://www.adzuna.ca/details/5954560427?utm_medium=api&utm_source=54ce986e) | Alithya | Montréal, Québec |
-| 2026-11-05 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5954559999) | IA Financial Services | Québec, Canada |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-06T103306Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T110701Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
