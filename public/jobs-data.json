@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-06T13:03:58+00:00",
+ "generatedAt": "2026-11-06T13:33:08+00:00",
  "timezone": "America/Toronto",
- "count": 401,
+ "count": 400,
  "appliedHidden": 14,
  "sources": [
   "Adzuna",
@@ -278,6 +278,32 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Senior Salesforce Developer",
+   "company": "CGI",
+   "location": "Halifax, Nova Scotia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4470107427",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce developer cgi halifax, nova scotia, canada linkedin salesforce  salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5954051182?utm_medium=api&utm_source=54ce986e"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Associate Salesforce Administrator",
    "company": "Applied Systems Canada",
    "location": "Canada",
@@ -336,6 +362,26 @@
    ],
    "french": true,
    "search": "developpeur principal/developpeuse principale, salesforce canadian cancer society toronto, ontario, canada linkedin salesforce  salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Salesforce Platform Owner",
+   "company": "Parkland Corporation",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-platform-owner-at-parkland-corporation-4469321507",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce platform owner parkland corporation calgary, alberta, canada linkedin salesforce  salesforce canada / remote",
    "alternates": []
   },
   {
@@ -1617,31 +1663,6 @@
    "french": true,
    "search": "conseiller ou conseillere en architecture technique salesforce, lwc, apex et implementations alithya montreal, quebec adzuna salesforce  salesforce role fit quebec",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Senior Salesforce Developer",
-   "company": "CGI",
-   "location": "Victoria, Capital",
-   "url": "https://www.adzuna.ca/details/5954051182?utm_medium=api&utm_source=54ce986e",
-   "note": "",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior salesforce developer cgi victoria, capital adzuna salesforce  salesforce role fit",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430"
-    }
-   ]
   },
   {
    "posted": "2026-11-05",
@@ -6108,48 +6129,6 @@
    ],
    "french": false,
    "search": "salesforce senior developer - recutify inc. / calgary, ab unknown canada simplyhired.ca salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Senior Consultant Manager (Remote Canada) @ Directive",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.ashbyhq.com/directive/157059d7-9c7e-417f-8e3f-c317bcf1fa00",
-   "note": "8",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Ashby",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce senior consultant manager (remote canada) @ directive unknown canada ashby salesforce 8 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Senior Consultant Manager (Remote Canada) - Future Opening (up to $11,875) - Directive in Ottawa / Jobstore",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobstore.com/ca/job/l36823173/salesforce-senior-consultant-manager-remote-canada-future-opening-job",
-   "note": "5/10 via 2026-11-04_sf_round9_raw_20261104T062041Z.json",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobstore.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce senior consultant manager (remote canada) - future opening (up to $11,875) - directive in ottawa / jobstore unknown canada jobstore.com salesforce 5/10 via 2026-11-04_sf_round9_raw_20261104t062041z.json salesforce role fit canada / remote",
    "alternates": []
   },
   {
