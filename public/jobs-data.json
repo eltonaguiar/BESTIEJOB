@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T09:06:27+00:00",
+ "generatedAt": "2026-11-06T09:33:06+00:00",
  "timezone": "America/Toronto",
  "count": 402,
  "appliedHidden": 14,
@@ -126,8 +126,6 @@
   "theladders.com",
   "velaio.zohorecruit.com",
   "welancealot.com",
-  "willow.2kool4u.net",
-  "winobell.com",
   "wtop.themuse.com"
  ],
  "jobs": [
@@ -151,6 +149,48 @@
    ],
    "french": false,
    "search": "senior servicenow developer (app engine / hrsd) resonaite ottawa, ontario, canada linkedin servicenow  servicenow hrsd / va role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "ServiceNow Architect",
+   "company": "RSM",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955472312",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow architect rsm toronto, ontario adzuna servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "ServiceNow Associate Software Engineer",
+   "company": "Sun Life",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5955452799",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow associate software engineer sun life canada adzuna servicenow  servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -298,6 +338,26 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Lead Site Reliability Engineer - Interface & Connectivity",
+   "company": "SimCorp",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955448064?utm_medium=api&utm_source=54ce986e",
+   "note": "DevOps / Cloud",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead site reliability engineer - interface & connectivity simcorp toronto, ontario adzuna other devops / cloud role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Senior Functional Analyst, Salesforce Retail CRM",
    "company": "ATB Financial",
    "location": "Calgary, Alberta, Canada",
@@ -316,6 +376,26 @@
    ],
    "french": false,
    "search": "senior functional analyst, salesforce retail crm atb financial calgary, alberta, canada linkedin salesforce  salesforce role fit canada / remote weak title match",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior FullStack Engineer - Grafana Catalog \\/ Canada\\/ Remote",
+   "company": "Canada\\",
+   "location": "Remote](https://www.adzuna.ca/details/5955475926)",
+   "url": "https://www.adzuna.ca/details/5955475926",
+   "note": "Grafana Labs Canada Full stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior fullstack engineer - grafana catalog \\/ canada\\/ remote canada\\ remote](https://www.adzuna.ca/details/5955475926) adzuna other grafana labs canada full stack role fit canada / remote",
    "alternates": []
   },
   {
@@ -4069,48 +4149,6 @@
    ],
    "french": false,
    "search": "servicenow developer @ lightspeed / accel job board unknown canada jobs.accel.com servicenow 9 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer / Winobell",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.winobell.com/jobs/servicenow-developer",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "winobell.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer / winobell unknown canada winobell.com servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer / Willow",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://willow.2kool4u.net/remote-jobs/servicenow-developer-15",
-   "note": "7/10 via",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "willow.2kool4u.net",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer / willow unknown canada willow.2kool4u.net servicenow 7/10 via servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -8380,46 +8418,6 @@
    ],
    "french": false,
    "search": "senior cloud and ai platform engineer at matrix global unknown canada echojobs.io other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Cloud Platform Engineer, DevOps - ProCogia / Vancouver, BC",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.workopolis.com/jobsearch/viewjob/VLA856m7jNtzHzjFSyMBrzhOcj6_QweVBjG-YdtHtjYHi4KqWUMaMARIfaXM-Vva",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Workopolis",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior cloud platform engineer, devops - procogia / vancouver, bc unknown canada workopolis other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Cloud Platform Engineer in Toronto Ontario, ON - Scotiabank",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-5018-b06657e7384a00b143e39e10ad50a340",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior cloud platform engineer in toronto ontario, on - scotiabank unknown canada ca.trabajo.org other 8 role fit canada / remote",
    "alternates": []
   },
   {
