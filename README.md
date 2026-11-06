@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T093306Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T100404Z.md`.
 
 ## Contents
 
@@ -351,9 +351,12 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-06 | [Senior FullStack Engineer - Grafana Catalog \/ Canada\/ Remote](https://www.adzuna.ca/details/5955475926) | Canada\ | Remote](https://www.adzuna.ca/details/5955475926) | Grafana Labs Canada Full stack |
+| 2026-11-06 | [Senior DevOps Engineer (Azure)](https://www.adzuna.ca/details/5955455424?utm_medium=api&utm_source=54ce986e) | Agilno | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-06 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5955295396?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-06 | [Senior Analyst, Business Intelligence Systems](https://www.adzuna.ca/details/5955294957) | Scotiabank | Toronto, Ontario | Data / BI |
 | 2026-11-06 | [Lead Site Reliability Engineer - Interface & Connectivity](https://www.adzuna.ca/details/5955448064?utm_medium=api&utm_source=54ce986e) | SimCorp | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-06 | [Full-time Institutional Research Advanced Data Analyst](https://www.adzuna.ca/details/5955481889?utm_medium=api&utm_source=54ce986e) | Algonquin College | Ottawa, Ottawa region | Data / BI |
+| 2026-11-06 | [Data Analyst – Center of Excellence & Data Analytics](https://www.adzuna.ca/details/5955469754?utm_medium=api&utm_source=54ce986e) | Canadian Tire Corporation | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Tableau- BI Data Visualization Consultant](https://www.adzuna.ca/details/5954893786?utm_medium=api&utm_source=54ce986e) | Astra North Infoteck Inc. | Greater Vancouver, British Columbia | Data / BI |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953989159) | ServiceNow, Inc. | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953992050) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
@@ -497,9 +500,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [Senior DevOps in Toronto, ON - Dominion Dynamics](https://ca.trabajo.org/job-2252-663b20b8dcce2943331c28d3e1493b8e) | Unknown | Canada | 8 |
 | 2026-11-04 | [Senior DevOps in Ottawa, Ontario - Dominion Dynamics](https://ca.trabajo.org/job-4111-0cd631681bc08e8ce074686cfd0e4135) | Unknown | Canada | 7 |
 | 2026-11-04 | [Senior DevOps Engineer in Calgary, Alberta - Fullscript](https://ca.trabajo.org/job-4011-9ff5b7e74eef0130d92e93ff2a29cff9) | Unknown | Canada | 7 |
-| 2026-11-04 | [Senior DevOps / Platform Engineer — Cloud at Dominion Dynamics — Multiple Locations](https://hiringcafe.com/job/senior-devops-platform-engineer-cloud-dominion-dynamics-ottawa-ontario-6dlgk3pm87gz92y3) | Unknown | Canada | 8 |
-| 2026-11-04 | [Senior Data Platform Administrator - EN 533 / Ottawa](https://www.jobleads.com/ca/job/senior-data-platform-administrator-en-533--ottawa--e030905e8ab9d8eb23a9f0119f9569bd7) | Unknown | Canada | 7 |
-| 2026-11-04 | [Senior Cloud and AI Platform Engineer at Matrix Global](https://echojobs.io/job/matrix-global-senior-cloud-ai-platform-engineer-rd5vu) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-06T09:30:01.992Z** · 2072 live postings from 9 public sources · 60 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T10:00:01.529Z** · 2072 live postings from 9 public sources · 58 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -613,20 +613,20 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-06 | [Full-time Institutional Research Advanced Data Analyst](https://www.adzuna.ca/details/5955481889?utm_medium=api&utm_source=54ce986e) | Algonquin College | Ottawa, Ottawa region | Data / BI |
 | 2026-11-06 | [Senior FullStack Engineer - Grafana Catalog \| Canada\| Remote](https://www.adzuna.ca/details/5955475926) | Grafana Labs | Canada | Full stack |
+| 2026-11-06 | [Data Analyst – Center of Excellence & Data Analytics](https://www.adzuna.ca/details/5955469754?utm_medium=api&utm_source=54ce986e) | Canadian Tire Corporation | Toronto, Ontario | Data / BI |
+| 2026-11-06 | [Senior DevOps Engineer (Azure)](https://www.adzuna.ca/details/5955455424?utm_medium=api&utm_source=54ce986e) | Agilno | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-06 | [Lead Site Reliability Engineer - Interface & Connectivity](https://www.adzuna.ca/details/5955448064?utm_medium=api&utm_source=54ce986e) | SimCorp | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-06 | [Senior DevOps Engineer](https://www.adzuna.ca/details/5955295396?utm_medium=api&utm_source=54ce986e) | Scotiabank | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-06 | [Senior Analyst, Business Intelligence Systems](https://www.adzuna.ca/details/5955294957) | Scotiabank | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Tableau- BI Data Visualization Consultant](https://www.adzuna.ca/details/5954893786?utm_medium=api&utm_source=54ce986e) | Astra North Infoteck Inc. | Greater Vancouver, British Columbia | Data / BI |
 | 2026-11-05 | [Senior Azure Cloud Platform Engineer – Power BI & Informatica](https://www.adzuna.ca/details/5954892537?utm_medium=api&utm_source=54ce986e) | Recrute Action | Church and Wellesley, City of Toronto | Data / BI |
 | 2026-11-05 | [Power BI Developer - ETL](https://www.adzuna.ca/details/5954643713) | Cleo Consulting | Regent Park, City of Toronto | Data / BI |
-| 2026-11-05 | [Senior Azure Data Engineer / Power BI Developer - ETL](https://www.adzuna.ca/details/5954643700?utm_medium=api&utm_source=54ce986e) | Cleo Consulting | Regent Park, City of Toronto | Data / BI |
-| 2026-11-05 | [Power BI Developer](https://www.adzuna.ca/details/5954643679?utm_medium=api&utm_source=54ce986e) | vTech Solution | Ontario, Canada | Data / BI |
-| 2026-11-05 | [Power BI Technical Lead](https://www.adzuna.ca/details/5954643605?utm_medium=api&utm_source=54ce986e) | VDart Inc | Canada | Data / BI |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-06T093306Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T100404Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
