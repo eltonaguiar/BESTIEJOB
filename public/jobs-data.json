@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-06T20:21:26+00:00",
+ "generatedAt": "2026-11-06T21:10:03+00:00",
  "timezone": "America/Toronto",
- "count": 2804,
+ "count": 2810,
  "appliedHidden": 36,
  "sources": [
   "103.careerplug.com",
@@ -221,6 +221,28 @@
  "jobs": [
   {
    "posted": "2026-11-06",
+   "title": "ServiceNow ITOM Specialist",
+   "company": "Morson Edge",
+   "location": "Saskatoon, Saskatchewan, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-itom-specialist-at-morson-edge-4487328904",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow itom specialist morson edge saskatoon, saskatchewan, canada linkedin servicenow linkedin servicenow itom role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "ServiceNow Software Asset Management Pro (SAM Pro) Consultant",
    "company": "2iSolutions Inc.",
    "location": "Canada",
@@ -262,6 +284,28 @@
    ],
    "french": false,
    "search": "senior servicenow developer (app engine / hrsd) resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow hrsd / va role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior Business Analyst – ServiceNow Platform & CoE",
+   "company": "Resonaite",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-business-analyst-%E2%80%93-servicenow-platform-coe-at-resonaite-4487352030",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior business analyst – servicenow platform & coe resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
    "alternates": []
   },
   {
@@ -390,6 +434,27 @@
    ],
    "french": false,
    "search": "service now administrator & developer sheridan college oakville, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior ServiceNow Platform Architect (CoE / Vault)",
+   "company": "Resonaite",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-platform-architect-coe-vault-at-resonaite-4487330849",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow platform architect (coe / vault) resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -1126,6 +1191,96 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Staff Security Engineer / Enterprise Security",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160297239",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / enterprise security servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Staff Security Engineer / Security Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / security engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior Staff Security Engineer / Systems Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294989",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160290325",
+     "label": "SmartRecruiters · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Staff Security Engineer / Systems Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294309",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Staff Systems Engineer",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca",
@@ -1501,14 +1656,14 @@
   {
    "posted": "2026-11-06",
    "title": "ITSM Analyst",
-   "company": "Salvation Army Canada",
-   "location": "Toronto, ON",
-   "url": "https://salvationarmyca.wd3.myworkdayjobs.com/en-US/TSACB/job/Toronto-ON/ITSM-Analyst_JR114608-1",
-   "note": "workday",
+   "company": "The Salvation Army in Canada",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/itsm-analyst-at-the-salvation-army-in-canada-4488425020",
+   "note": "via buffy-round15b--2026-11-06--v1.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
    "match": 46,
    "matchReasons": [
     "ITSM",
@@ -1516,13 +1671,8 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "itsm analyst salvation army canada toronto, on workday ats servicenow workday itsm role fit toronto area",
+   "search": "itsm analyst the salvation army in canada greater toronto area, canada linkedin servicenow via buffy-round15b--2026-11-06--v1.md itsm role fit toronto area",
    "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/itsm-analyst-at-the-salvation-army-in-canada-4488425020",
-     "label": "LinkedIn · Greater Toronto Area"
-    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/itsm-analyst-at-the-salvation-army-in-canada-4488419108",
@@ -4053,6 +4203,132 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Internal Controls Governance Analyst - 12-month Contract",
+   "company": "Zurich NA",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5953990641",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "internal controls governance analyst - 12-month contract zurich na toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Intermediate Technology Specialist, IT Service Management",
+   "company": "Equitable",
+   "location": "Waterloo region, Ontario",
+   "url": "https://www.adzuna.ca/details/5954052965",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate technology specialist, it service management equitable waterloo region, ontario adzuna other readme role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-it-service-management-at-equitable-4485010499",
+     "label": "LinkedIn · Waterloo"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "IT Services Specialist",
+   "company": "Genesys",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954061767",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "it services specialist genesys toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Marketing Technology Engineer",
+   "company": "LeanScale, Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560091",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "marketing technology engineer leanscale, inc. toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Marketing & Sales Strategy Manager",
+   "company": "Warehousing & Distribution.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954560669",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "marketing & sales strategy manager warehousing & distribution. toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "MarTech / AdTech Technical Lead",
+   "company": "Capgemini",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5954560917",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "martech / adtech technical lead capgemini mississauga, peel region adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Manager, Workforce Insights",
    "company": "Scotiabank",
    "location": "Toronto, Ontario",
@@ -4185,152 +4461,6 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "Fund and Community Relationship Specialist",
-   "company": "Native Child and Family Services of Toronto",
-   "location": "Central Bay Street, City of Toronto",
-   "url": "https://www.adzuna.ca/details/5954879362",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "fund and community relationship specialist native child and family services of toronto central bay street, city of toronto adzuna other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Marketing Technology Engineer",
-   "company": "LeanScale, Inc.",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5954560091",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "marketing technology engineer leanscale, inc. toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Marketing & Sales Strategy Manager",
-   "company": "Warehousing & Distribution.",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5954560669",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "marketing & sales strategy manager warehousing & distribution. toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "MarTech / AdTech Technical Lead",
-   "company": "Capgemini",
-   "location": "Mississauga, Peel region",
-   "url": "https://www.adzuna.ca/details/5954560917",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "martech / adtech technical lead capgemini mississauga, peel region adzuna other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Internal Controls Governance Analyst - 12-month Contract",
-   "company": "Zurich NA",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5953990641",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "internal controls governance analyst - 12-month contract zurich na toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Intermediate Technology Specialist, IT Service Management",
-   "company": "Equitable",
-   "location": "Waterloo region, Ontario",
-   "url": "https://www.adzuna.ca/details/5954052965",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "intermediate technology specialist, it service management equitable waterloo region, ontario adzuna other readme role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-it-service-management-at-equitable-4485010499",
-     "label": "LinkedIn · Waterloo"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "IT Services Specialist",
-   "company": "Genesys",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5954061767",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "it services specialist genesys toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
    "title": "HR & Sales Ops Senior Admin",
    "company": "SRED.io",
    "location": "Toronto, Ontario",
@@ -4347,6 +4477,26 @@
    ],
    "french": false,
    "search": "hr & sales ops senior admin sred.io toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Fund and Community Relationship Specialist",
+   "company": "Native Child and Family Services of Toronto",
+   "location": "Central Bay Street, City of Toronto",
+   "url": "https://www.adzuna.ca/details/5954879362",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "fund and community relationship specialist native child and family services of toronto central bay street, city of toronto adzuna other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -4939,63 +5089,6 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "Lead Engineer - AI Workflows",
-   "company": "Xero",
-   "location": "Greater Vancouver, British Columbia",
-   "url": "https://www.adzuna.ca/details/5954565535",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "lead engineer - ai workflows xero greater vancouver, british columbia adzuna other readme role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Java Product Engineer / Full Stack Java Developer",
-   "company": "jobgether",
-   "location": "US",
-   "url": "https://jobs.lever.co/jobgether/4ea64dc7-e141-46d9-9e8e-9ebaae34b21c",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "java product engineer / full stack java developer jobgether us lever other readme role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Senior Manager, Guest Communication & Engagement",
-   "company": "Armstrong Collective",
-   "location": "Greater Vancouver, British Columbia",
-   "url": "https://www.adzuna.ca/details/5954561033",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior manager, guest communication & engagement armstrong collective greater vancouver, british columbia adzuna other readme role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
    "title": "DevSecOps Engineer",
    "company": "KPMG",
    "location": "Vaughan, York region",
@@ -5030,6 +5123,63 @@
    ],
    "french": false,
    "search": "desktop support technician cgi canada adzuna other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Manager, Guest Communication & Engagement",
+   "company": "Armstrong Collective",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5954561033",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior manager, guest communication & engagement armstrong collective greater vancouver, british columbia adzuna other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Lead Engineer - AI Workflows",
+   "company": "Xero",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5954565535",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "lead engineer - ai workflows xero greater vancouver, british columbia adzuna other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Java Product Engineer / Full Stack Java Developer",
+   "company": "jobgether",
+   "location": "US",
+   "url": "https://jobs.lever.co/jobgether/4ea64dc7-e141-46d9-9e8e-9ebaae34b21c",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "java product engineer / full stack java developer jobgether us lever other readme role fit",
    "alternates": []
   },
   {
@@ -12006,6 +12156,26 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Q3- NAMORC- Oracle Fusion Cloud Program Manager - Canada",
+   "company": "Infosys",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5952816015",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "q3- namorc- oracle fusion cloud program manager - canada infosys canada adzuna other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Technical Business Systems Analyst / InfiCare Staffing",
    "company": "InfiCare Staffing",
    "location": "Canada",
@@ -12163,6 +12333,37 @@
    "french": false,
    "search": "senior financial analyst brookfield canada adzuna other readme role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Senior Configuration Analyst",
+   "company": "RBC",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487249068",
+   "note": "via buffy-round15b--2026-11-06--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior configuration analyst rbc vancouver, british columbia, canada linkedin other via buffy-round15b--2026-11-06--v1.md role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487245231",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487232661",
+     "label": "LinkedIn · Calgary"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -12362,26 +12563,6 @@
    ],
    "french": false,
    "search": "remote business intelligence analyst at circana / remotery circana / remotery canada remotery.co other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Q3- NAMORC- Oracle Fusion Cloud Program Manager - Canada",
-   "company": "Infosys",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5952816015",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "q3- namorc- oracle fusion cloud program manager - canada infosys canada adzuna other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -13266,37 +13447,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Senior Configuration Analyst",
-   "company": "RBC",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487249068",
-   "note": "via buffy-round15b--2026-11-06--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior configuration analyst rbc vancouver, british columbia, canada linkedin other via buffy-round15b--2026-11-06--v1.md role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487245231",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487232661",
-     "label": "LinkedIn · Calgary"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Agentforce Specialist (Remote, Canada) - Pluvo AI Careers",
    "company": "Pluvo AI Careers",
    "location": "Canada",
@@ -13813,6 +13963,50 @@
    ],
    "french": false,
    "search": "(senior) vice president (m/f/d), index management – equity rebalance solactive ag church and wellesley, city of toronto adzuna other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Executive Director, Enterprise Regional Enablement",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5953261393",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "executive director, enterprise regional enablement jobgether canada adzuna other readme canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5951543592?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Application Support Engineer - Vancouver, BC, Canada - Fulltime opportunity",
+   "company": "Zodiac Solutions",
+   "location": "Vancouver, Greater Vancouver",
+   "url": "https://www.adzuna.ca/details/5952978473",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "application support engineer - vancouver, bc, canada - fulltime opportunity zodiac solutions vancouver, greater vancouver adzuna other readme role fit",
    "alternates": []
   },
   {
@@ -14641,31 +14835,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Executive Director, Enterprise Regional Enablement",
-   "company": "Jobgether",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5953261393",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "executive director, enterprise regional enablement jobgether canada adzuna other readme canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5951543592?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-04",
    "title": "ERP Training Specialist (Contract)",
    "company": "Startec",
    "location": "Calgary, Calgary region",
@@ -14947,25 +15116,6 @@
    ],
    "french": false,
    "search": "azure platform & devops architect fidus systems ottawa, ottawa region adzuna other readme role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Application Support Engineer - Vancouver, BC, Canada - Fulltime opportunity",
-   "company": "Zodiac Solutions",
-   "location": "Vancouver, Greater Vancouver",
-   "url": "https://www.adzuna.ca/details/5952978473",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "application support engineer - vancouver, bc, canada - fulltime opportunity zodiac solutions vancouver, greater vancouver adzuna other readme role fit",
    "alternates": []
   },
   {
@@ -22163,6 +22313,46 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Manager, Risk Quantification - EN 071",
+   "company": "Export Development Canada",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5951979101",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "manager, risk quantification - en 071 export development canada canada adzuna other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "IT Support Specialist",
+   "company": "iFlow Inc",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5951702825",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "it support specialist iflow inc canada adzuna other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Staff Analytics Engineer",
    "company": "Jobgether",
    "location": "Canada",
@@ -22279,46 +22469,6 @@
    ],
    "french": false,
    "search": "netsuite alliances manager jobgether canada adzuna other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Manager, Risk Quantification - EN 071",
-   "company": "Export Development Canada",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5951979101",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "manager, risk quantification - en 071 export development canada canada adzuna other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "IT Support Specialist",
-   "company": "iFlow Inc",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5951702825",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "it support specialist iflow inc canada adzuna other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -23465,6 +23615,23 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Datacenter Facilities Management",
+   "company": "Acestack",
+   "location": "Florenceville-Bristol, Bristol",
+   "url": "https://www.adzuna.ca/details/5952066609",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 0,
+   "matchReasons": [],
+   "french": false,
+   "search": "datacenter facilities management acestack florenceville-bristol, bristol adzuna other readme ",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Sr Advisor IT Systems",
    "company": "Enbridge",
    "location": "Calgary, Calgary region",
@@ -23490,23 +23657,6 @@
      "label": "Adzuna · Calgary"
     }
    ]
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Datacenter Facilities Management",
-   "company": "Acestack",
-   "location": "Florenceville-Bristol, Bristol",
-   "url": "https://www.adzuna.ca/details/5952066609",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 0,
-   "matchReasons": [],
-   "french": false,
-   "search": "datacenter facilities management acestack florenceville-bristol, bristol adzuna other readme ",
-   "alternates": []
   },
   {
    "posted": "2026-11-03",
@@ -25287,6 +25437,27 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Specialist II TIS Application Observability",
+   "company": "Oil Authority",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5950813543",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 28,
+   "matchReasons": [
+    "AIOps",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialist ii tis application observability oil authority canada adzuna other readme aiops role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Staff Software Engineer, Backend (Observability)",
    "company": "affirm",
    "location": "Remote Canada",
@@ -25356,27 +25527,6 @@
    ],
    "french": false,
    "search": "staff product manager - agent & systems observability render remote: united states ashby other readme aiops role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Specialist II TIS Application Observability",
-   "company": "Oil Authority",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5950813543",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 28,
-   "matchReasons": [
-    "AIOps",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "specialist ii tis application observability oil authority canada adzuna other readme aiops role fit canada / remote",
    "alternates": []
   },
   {
@@ -41438,6 +41588,63 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Platform Engineer, Network Operations",
+   "company": "Insight Global",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5950336754",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "platform engineer, network operations insight global greater vancouver, british columbia adzuna other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Network Operations Engineer",
+   "company": "Insight Global",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5950813987",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "network operations engineer insight global greater vancouver, british columbia adzuna other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "DevOps Engineer - Halifax, NS(4 Days hybrid) - Fulltime Opportunity",
+   "company": "Zodiac Solutions",
+   "location": "Halifax, Halifax region",
+   "url": "https://www.adzuna.ca/details/5950532229",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "devops engineer - halifax, ns(4 days hybrid) - fulltime opportunity zodiac solutions halifax, halifax region adzuna other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "⚙️ Senior/Staff Product Engineer",
    "company": "runway",
    "location": "North America",
@@ -43082,25 +43289,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Platform Engineer, Network Operations",
-   "company": "Insight Global",
-   "location": "Greater Vancouver, British Columbia",
-   "url": "https://www.adzuna.ca/details/5950336754",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "platform engineer, network operations insight global greater vancouver, british columbia adzuna other readme role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "People Generalist",
    "company": "twilio",
    "location": "Remote - India",
@@ -43173,25 +43361,6 @@
    ],
    "french": false,
    "search": "operations technology product designer lyft montreal, canada app.careerpuck.com other readme canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Network Operations Engineer",
-   "company": "Insight Global",
-   "location": "Greater Vancouver, British Columbia",
-   "url": "https://www.adzuna.ca/details/5950813987",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "network operations engineer insight global greater vancouver, british columbia adzuna other readme role fit",
    "alternates": []
   },
   {
@@ -44432,25 +44601,6 @@
    ],
    "french": false,
    "search": "devops/cloud engineer jobgether us lever other readme role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "DevOps Engineer - Halifax, NS(4 Days hybrid) - Fulltime Opportunity",
-   "company": "Zodiac Solutions",
-   "location": "Halifax, Halifax region",
-   "url": "https://www.adzuna.ca/details/5950532229",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "devops engineer - halifax, ns(4 days hybrid) - fulltime opportunity zodiac solutions halifax, halifax region adzuna other readme role fit",
    "alternates": []
   },
   {
@@ -57840,28 +57990,22 @@
   {
    "posted": "2026-10-22",
    "title": "Functional Lead, AI & Agentforce Delivery",
-   "company": "NeuraFlash, Part of Accenture",
-   "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
-   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6228522004",
-   "note": "greenhouse",
+   "company": "NeuraFlash",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5937617115",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 20,
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
    "matchReasons": [
     "Role fit",
-    "Toronto area"
+    "Canada / remote"
    ],
    "french": false,
-   "search": "functional lead, ai & agentforce delivery neuraflash, part of accenture remote - canada (alberta, british columbia, ontario only) greenhouse other greenhouse role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5937617115",
-     "label": "Adzuna · Canada"
-    }
-   ]
+   "search": "functional lead, ai & agentforce delivery neuraflash canada adzuna other readme role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-10-22",
@@ -59597,26 +59741,6 @@
    ],
    "french": false,
    "search": "salesforce consultant, revenue cloud neuraflash remote - india (delhi/ncr, hyderabad, bangalore, pune, jaipur only) greenhouse salesforce greenhouse salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-15",
-   "title": "Forward Deployed Engineer, AI & Agentforce",
-   "company": "NeuraFlash, Part of Accenture",
-   "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
-   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6225939004",
-   "note": "greenhouse",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "forward deployed engineer, ai & agentforce neuraflash, part of accenture remote - canada (alberta, british columbia, ontario only) greenhouse other greenhouse role fit toronto area",
    "alternates": []
   },
   {
