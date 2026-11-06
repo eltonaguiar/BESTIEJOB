@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-06T05:06:52+00:00",
+ "generatedAt": "2026-11-06T05:33:22+00:00",
  "timezone": "America/Toronto",
- "count": 403,
- "appliedHidden": 13,
+ "count": 404,
+ "appliedHidden": 12,
  "sources": [
   "Adzuna",
   "Aggregator",
@@ -102,7 +102,6 @@
   "jobsbycountry.com",
   "jobsca.org",
   "jobstore.com",
-  "leadingtalent.ca",
   "martechjobs.io",
   "meterwork.com",
   "morson.com",
@@ -135,6 +134,28 @@
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-06",
+   "title": "Senior ServiceNow Developer (App Engine / HRSD)",
+   "company": "Resonaite",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "HRSD / VA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow developer (app engine / hrsd) resonaite ottawa, ontario, canada linkedin servicenow  servicenow hrsd / va role fit toronto area",
+   "alternates": []
+  },
   {
    "posted": "2026-11-06",
    "title": "Associate Salesforce Administrator",
@@ -198,6 +219,29 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "ServiceNow SAM Administrator - ITAM",
+   "company": "Bank of Montreal",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954079283",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow sam administrator - itam bank of montreal toronto, ontario adzuna servicenow  servicenow itam sam/ham role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "ServiceNow OTSM and CMDB Technical Consultant",
    "company": "Yochana",
    "location": "Canada",
@@ -217,6 +261,28 @@
    ],
    "french": false,
    "search": "servicenow otsm and cmdb technical consultant yochana canada linkedin servicenow  servicenow cmdb consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "ServiceNow GRC Developer/Administrator",
+   "company": "Whopper Technologies",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954353813",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "Risk/GRC",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow grc developer/administrator whopper technologies toronto, ontario adzuna servicenow  servicenow risk/grc role fit toronto area",
    "alternates": []
   },
   {
@@ -580,6 +646,27 @@
    ],
    "french": false,
    "search": "salesforce technical architect ltm toronto, ontario adzuna salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Implementation Consultant & Platform Administrator",
+   "company": "SS&C",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954045892",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce implementation consultant & platform administrator ss&c toronto, ontario adzuna salesforce  salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -3836,69 +3923,6 @@
    ],
    "french": false,
    "search": "servicenow developer / servicenow architect - remote (canada pst) unknown canada jobs.ca servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer / Leading Talent",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://leadingtalent.ca/jobs/servicenow-developer-in-calgary-alberta-ca-2/",
-   "note": "7/10 via",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "leadingtalent.ca",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer / leading talent unknown canada leadingtalent.ca servicenow 7/10 via servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer / Calgary",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/servicenow-developer--calgary--e1eedc8da500f785d74021359313819ff",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer / calgary unknown canada jobleads.com servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer / CACI / Handshake",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://app.joinhandshake.com/public/jobs/11710643",
-   "note": "7/10 via",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "app.joinhandshake.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer / caci / handshake unknown canada app.joinhandshake.com servicenow 7/10 via servicenow role fit canada / remote",
    "alternates": []
   },
   {
