@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T013302Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T020706Z.md`.
 
 ## Contents
 
@@ -368,6 +368,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-05 | [Senior Configuration Analyst](https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487232661) | RBC | Calgary, Alberta, Canada | via linkedin-rounds41-50--2026-11-06--v1.md |
 | 2026-11-05 | [Senior Configuration Analyst](https://ca.linkedin.com/jobs/view/senior-configuration-analyst-at-rbc-4487249068) | RBC | Vancouver, British Columbia, Canada | via linkedin-round103--2026-11-06--v1.md |
 | 2026-11-05 | [Senior Azure Data Engineer / Power BI Developer - ETL](https://www.adzuna.ca/details/5954643700?utm_medium=api&utm_source=54ce986e) | Cleo Consulting | Regent Park, City of Toronto | Data / BI |
+| 2026-11-05 | [Senior Azure Cloud Platform Engineer – Power BI & Informatica](https://www.adzuna.ca/details/5954892537?utm_medium=api&utm_source=54ce986e) | Recrute Action | Church and Wellesley, City of Toronto | Data / BI |
 | 2026-11-05 | [Senior Associate, Business Intelligence & Reporting Developer](https://www.adzuna.ca/details/5953992113?utm_medium=api&utm_source=54ce986e) | MUFG Investor Services | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Senior Associate, Business Intelligence & Reporting Developer](https://www.adzuna.ca/details/5954387116?utm_medium=api&utm_source=54ce986e) | MUFG Investor Services | Toronto, Ontario | Data / BI |
 | 2026-11-05 | [Principal Solution Architect](https://jobsbycountry.com/job/principal-solution-architect-servenow744000158575719) | ServiceNow | Toronto, Ontario, Canada | via non-mainstream-harvest--2026-11-05--v1.md |
@@ -499,7 +500,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [Senior Cloud Platform Engineer at Bank of Montreal](https://echojobs.io/job/bank-of-montreal-senior-cloud-platform-engineer-gvmcl) | Unknown | Canada | 8 |
 | 2026-11-04 | [Senior Cloud Platform Engineer - Scotiabank - Toronto, ON / Ladders](https://www.theladders.com/job/senior-cloud-platform-engineer-scotiabank-toronto-on_87858731) | Unknown | Canada | 8 |
 | 2026-11-04 | [Senior Cloud Engineer, Cloud Platform in Remote / Careers at Canada](https://careers-kinaxis.icims.com/jobs/34961/senior-cloud-engineer%2C-cloud-platform/job) | Unknown | Canada | 8 |
-| 2026-11-04 | [Senior Cloud Engineer, Cloud Platform at Kinaxis](https://meterwork.com/job/senior-cloud-engineer-cloud-platform_at_kinaxis_9XWIF) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-06T01:30:01.126Z** · 2064 live postings from 9 public sources · 71 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T02:00:01.367Z** · 2064 live postings from 9 public sources · 70 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -613,6 +613,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-05 | [Senior Azure Cloud Platform Engineer – Power BI & Informatica](https://www.adzuna.ca/details/5954892537?utm_medium=api&utm_source=54ce986e) | Recrute Action | Church and Wellesley, City of Toronto | Data / BI |
 | 2026-11-05 | [Power BI Developer - ETL](https://www.adzuna.ca/details/5954643713) | Cleo Consulting | Regent Park, City of Toronto | Data / BI |
 | 2026-11-05 | [Senior Azure Data Engineer / Power BI Developer - ETL](https://www.adzuna.ca/details/5954643700?utm_medium=api&utm_source=54ce986e) | Cleo Consulting | Regent Park, City of Toronto | Data / BI |
 | 2026-11-05 | [Power BI Developer](https://www.adzuna.ca/details/5954643679?utm_medium=api&utm_source=54ce986e) | vTech Solution | Ontario, Canada | Data / BI |
@@ -622,11 +623,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Azure Cloud Architect - Manager](https://www.adzuna.ca/details/5954561343?utm_medium=api&utm_source=54ce986e) | EY | Ottawa, Ottawa region | DevOps / Cloud |
 | 2026-11-05 | [Azure Cloud Architect - Manager](https://www.adzuna.ca/details/5954561340?utm_medium=api&utm_source=54ce986e) | EY | Canada | DevOps / Cloud |
 | 2026-11-05 | [Azure Cloud Architect - Manager](https://www.adzuna.ca/details/5954561283?utm_medium=api&utm_source=54ce986e) | EY | Dieppe, Westmorland | DevOps / Cloud |
-| 2026-11-05 | [Azure Cloud Architect - Manager](https://www.adzuna.ca/details/5954561075?utm_medium=api&utm_source=54ce986e) | EY | Fort Saskatchewan, Edmonton region | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-06T013302Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
+`README.BAK_2026-11-06T020706Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
