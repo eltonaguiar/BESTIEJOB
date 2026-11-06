@@ -3,42 +3,184 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BESTIEJOB - ServiceNow & Salesforce Job Search</title>
+  <title>BESTIEJOB - ServiceNow & Salesforce Job Search Results</title>
   <style>
-    * { box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f8fafc; color: #1e293b; }
-    .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
-    header { background: linear-gradient(135deg, #1e40af 0%, #2563eb 100%); color: white; padding: 2rem; border-radius: 8px; margin-bottom: 2rem; }
-    header h1 { margin: 0; font-size: 2rem; }
-    header p { margin: 10px 0 0; font-size: 1.1rem; opacity: 0.9; }
-    .stats { display: flex; gap: 1rem; margin-bottom: 2rem; }
-    .stat-card { background: white; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1.5rem; flex: 1; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
-    .stat-value { font-size: 2rem; font-weight: bold; color: #1e40af; }
-    .stat-label { font-size: 0.875rem; color: #64748b; margin-top: 0.5rem; }
-    .tabs { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; }
-    .tab { padding: 0.75rem 1.5rem; border: 1px solid #e2e8f0; border-radius: 6px; cursor: pointer; background: white; font-size: 0.95rem; cursor: pointer; }
-    .tab.active { background: #1e40af; color: white; border-color: #1e40af; }
-    .tab:hover { background: #f1f5f9; }
-    .jobs-section { margin-bottom: 2rem; }
-    .section-title { font-size: 1.5rem; font-weight: 700; color: #1e40af; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem; }
-    .job-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem; }
-    .job-card { background: white; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1.5rem; margin-bottom: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: transform 0.2s ease; }
-    .job-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-    .job-title { font-size: 1.1rem; font-weight: 700; color: #1e40af; margin-bottom: 0.5rem; }
-    .job-title a { color: #1e40af; text-decoration: none; }
-    .job-title a:hover { text-decoration: underline; }
-    .job-company { font-weight: 600; color: #374151; margin-bottom: 0.25rem; }
-    .job-meta { font-size: 0.875rem; color: #64748b; margin-bottom: 0.5rem; }
-    .job-meta span { margin-right: 1rem; }
-    .job-url { margin-top: 0.75rem; }
-    .job-url a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
-    .job-url a:hover { text-decoration: underline; }
-    .no-results { text-align: center; color: #64748b; padding: 3rem; }
-    .footer { margin-top: 3rem; padding: 2rem; background: #f8fafc; border-radius: 8px; color: #64748b; font-size: 0.875rem; text-align: center; }
-    .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.75rem; font-weight: 600; margin-right: 4px; margin-bottom: 4px; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f8fafc;
+      color: #1e293b;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    header {
+      background: linear-gradient(135deg, #1e40af 0%, #2563eb 100%);
+      color: white;
+      padding: 3rem 2rem;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 10px 0 0;
+      font-size: 1.2rem;
+      opacity: 0.9;
+    }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    .stat-card {
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 1.5rem;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    .stat-value {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #1e40af;
+      margin-bottom: 0.5rem;
+    }
+    .stat-label {
+      font-size: 0.875rem;
+      color: #64748b;
+    }
+    .tabs {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .tab {
+      padding: 0.75rem 1.5rem;
+      border: 1px solid #e2e8f0;
+      border-radius: 6px;
+      cursor: pointer;
+      background: white;
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .tab.active {
+      background: #1e40af;
+      color: white;
+      border-color: #1e40af;
+    }
+    .tab:hover:not(.active) {
+      background: #f8fafc;
+    }
+    .jobs-section {
+      margin-bottom: 3rem;
+    }
+    .section-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #1e40af;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .job-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1rem;
+    }
+    .job-card {
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      transition: transform 0.2s ease;
+    }
+    .job-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .job-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #1e40af;
+      margin-bottom: 0.5rem;
+    }
+    .job-title a {
+      color: #1e40af;
+      text-decoration: none;
+    }
+    .job-title a:hover {
+      text-decoration: underline;
+    }
+    .job-company {
+      font-weight: 600;
+      color: #374151;
+      margin-bottom: 0.25rem;
+    }
+    .job-meta {
+      font-size: 0.875rem;
+      color: #64748b;
+      margin-bottom: 0.5rem;
+    }
+    .job-meta span {
+      margin-right: 1rem;
+    }
+    .job-url {
+      margin-top: 0.75rem;
+    }
+    .job-url a {
+      color: #2563eb;
+      text-decoration: none;
+      font-size: 0.875rem;
+    }
+    .job-url a:hover {
+      text-decoration: underline;
+    }
+    .badges {
+      margin-top: 0.75rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      margin-right: 4px;
+      margin-bottom: 4px;
+    }
     .badge-servicenow { background: #e3f2fd; color: #1565c0; }
     .badge-salesforce { background: #e8f5e9; color: #1b5e20; }
     .badge-other { background: #f3e5f5; color: #4a148c; }
+    .footer {
+      margin-top: 3rem;
+      padding: 2rem;
+      background: #f8fafc;
+      border-radius: 8px;
+      color: #64748b;
+      font-size: 0.875rem;
+      text-align: center;
+    }
+    @media (max-width: 768px) {
+      .container {
+        padding: 1rem;
+      }
+      header {
+        padding: 1.5rem;
+      }
+    }
   </style>
 </head>
 <body>
@@ -96,7 +238,7 @@
     function renderJobs(jobs) {
       jobList.innerHTML = '';
       if (jobs.length === 0) {
-        jobList.innerHTML = '<div class="no-results">No jobs found matching your criteria.</div>';
+        jobList.innerHTML = '<div style="text-align: center; color: #64748b; padding: 3rem;">No jobs found matching your criteria.</div>';
         return;
       }
 
@@ -109,13 +251,6 @@
         const location = job.location || 'Location not specified';
         const url = job.url || '#';
         const posted = job.posted || 'Date not specified';
-        const tags = job.matched_keywords || '';
-
-        let tagHtml = '';
-        if (tags) {
-          const tagList = tags.split(',').map(t => `<span class="badge badge-${t.includes('servicenow') ? 'servicenow' : t.includes('salesforce') ? 'salesforce' : 'other'}">${t}</span>`).join('');
-          tagHtml = `<div style="margin-top: 0.75rem;">${tagList}</div>`;
-        }
 
         card.innerHTML = `
           <h3 class="job-title"><a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(title)}</a></h3>
@@ -125,7 +260,6 @@
             <span>📅 ${escapeHtml(posted)}</span>
           </div>
           <div class="job-url"><a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">Apply →</a></div>
-          ${tagHtml}
         `;
         jobList.appendChild(card);
       });

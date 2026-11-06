@@ -4,27 +4,27 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-05T223127Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-06T012041Z.md`.
 
 ## Contents
 
-- [Current jobs — as of 2026-11-05](#current-jobs--as-of-2026-11-05)
-  - [ServiceNow jobs (525)](#servicenow-jobs-525)
-  - [Salesforce jobs (682)](#salesforce-jobs-682)
+- [Current jobs — as of 2026-11-06](#current-jobs--as-of-2026-11-06)
+  - [ServiceNow jobs (523)](#servicenow-jobs-523)
+  - [Salesforce jobs (678)](#salesforce-jobs-678)
   - [Other jobs (2000)](#other-jobs-2000)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-05
+## Current jobs — as of 2026-11-06
 
-Window: 2026-10-06 → 2026-11-05 · **3207 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-07 → 2026-11-06 · **3201 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (525)
+### ServiceNow jobs (523)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 525 postings</strong></summary>
+<details><summary><strong>Show 523 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -551,19 +551,18 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-07 | [ServiceNow Tech Consultant](https://www.jobs.ca/galent/jobs/servicenow-tech-consultant-remote-toronto-ontario-canada-49117746fe97) | Galent | Remote, Canada (Toronto, ON) | via arlo--2026-11-03--v42.md |
 | 2026-10-07 | [Migration Consultant (Salesforce/ServiceNow data)](https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Migration-Consultant/3803) | Slalom | Toronto, ON | via grok-job-hunter--2026-11-02--v86.md |
 | 2026-10-07 | [IT Business Analyst (ServiceNow)](https://ca.linkedin.com/jobs/view/it-business-analyst-servicenow-at-redpath-mining-4475459467) | REDPATH MINING | Vaughan, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
-| 2026-10-06 | [Sr. ServiceNow Developer - Stanfield Systems](https://www.dice.com/job-detail/b9f42ff7-04b1-4a10-a7b2-719970d98b8d) | USA: Remote U.S. job-board posting, no travel required; confirm eligible states and work authorization with the recruiter. | Contract | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
-| 2026-10-06 | [ServiceNow ITSM Developer](https://ca.linkedin.com/jobs/view/servicenow-itsm-developer-at-tata-consultancy-services-4474992554) | Tata Consultancy Services | Greater Toronto Area, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
 
 </details>
 
-### Salesforce jobs (682)
+### Salesforce jobs (678)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 682 postings</strong></summary>
+<details><summary><strong>Show 678 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-06 | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) | Senior Salesforce Engineer | Canadian Cancer Society | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v63.md |
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
 | 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486792181) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
@@ -1241,11 +1240,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-09 | [Salesforce Lead](https://osidigital.applytojob.com/apply/gv5uSBUcho/Salesforce-Lead) | OSI Digital | Toronto, ON; on-site | via grok-job-hunter--2026-11-02--v86.md |
 | 2026-10-08 | [Salesforce Project Manager](https://job-boards.greenhouse.io/neuraflash/jobs/6220751004) | NeuraFlash | Remote - United States | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
 | 2026-10-08 | [Salesforce Project Manager](https://job-boards.greenhouse.io/neuraflash/jobs/6220750004) | NeuraFlash | Remote - Canada (Alberta, British Columbia, Ontario Only) | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
-| 2026-10-06 | [Salesforce Technical Architect, AI and Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/6218559004) | NeuraFlash | Remote - Colombia | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
-| 2026-10-06 | [Salesforce Technical Architect, AI and Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/6218552004) | NeuraFlash | Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only) | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
-| 2026-10-06 | [Salesforce Technical Architect, AI and Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/6218548004) | NeuraFlash | Remote - Canada (Alberta, British Columbia, Ontario Only) | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
-| 2026-10-06 | [Salesforce Agentforce Architect (Technical Architect)](https://job-boards.greenhouse.io/neuraflash/jobs/6218544004) | NeuraFlash | Remote - United States | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
-| 2026-10-06 | [Lead Salesforce Solution Architect](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441) | McKesson | CAN, ON, Mississauga | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v60.md |
 
 </details>
 
@@ -3330,7 +3324,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-05T20:47:06.690Z** · 1512 live postings from 8 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-06T01:21:41.509Z** · 1520 live postings from 9 public sources · 81 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -3353,23 +3347,24 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-06 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-applied-systems-canada-4486934306) | Applied Systems Canada | Canada |
 | 2026-11-05 | [Salesforce Technical Architect](https://www.adzuna.ca/details/5954560876) | LTM | Toronto, Ontario |
 | 2026-11-05 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5954559999) | IA Financial Services | Québec, Canada |
 | 2026-11-05 | [Salesforce Administrator (Hybrid)](https://www.adzuna.ca/details/5954406900) | Survalent | Mississauga, Peel region |
 | 2026-11-05 | [Request ID: 114262-1 - Salesforce Communications Cloud Developer](https://www.adzuna.ca/details/5954288531) | Flexstaf IT | Toronto, Ontario |
 | 2026-11-05 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5954046522) | Altus Group | Canada |
 | 2026-11-05 | [Salesforce BSA](https://www.adzuna.ca/details/5953986381) | Cognizant | Toronto, Ontario |
-| 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada |
-| 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486792181) | Smart IT Frame LLC | Toronto, Ontario, Canada |
-| 2026-11-05 | [Salesforce Consultant - FSC Cloud](https://ca.linkedin.com/jobs/view/salesforce-consultant-fsc-cloud-at-enterprise-solutions-inc-4483663839) | Enterprise Solutions Inc. | Toronto, Ontario, Canada |
-| 2026-11-05 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |
-| 2026-11-05 | [Salesforce Data Cloud Consultant](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-smart-it-frame-llc-4486392374) | Smart IT Frame LLC | Toronto, Ontario, Canada |
-| 2026-11-05 | [Salesforce Data Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483) | Enterprise Solutions Inc. | Toronto, Ontario, Canada |
+| 2026-11-05 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-loopio-4488056674) | Loopio | Toronto, Ontario, Canada |
+| 2026-11-05 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486836890) | Canadian Cancer Society | Calgary, Alberta, Canada |
+| 2026-11-05 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486031854) | Canadian Cancer Society | Kelowna, British Columbia, Canada |
+| 2026-11-05 | [Principal Application Engineer (Salesforce)](https://ca.linkedin.com/jobs/view/principal-application-engineer-salesforce-at-pointclickcare-4486922215) | PointClickCare | Mississauga, Ontario, Canada |
+| 2026-11-05 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486914315) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-05 | [Power BI Developer - ETL](https://www.adzuna.ca/details/5954643713) | Cleo Consulting | Regent Park, City of Toronto | Data / BI |
 | 2026-11-05 | [Senior Software Engineer (AI & Full Stack)](https://www.adzuna.ca/details/5954561307) | Makeitfable | Toronto, Ontario | Full stack |
 | 2026-11-05 | [Sr Python Engineer 26-21269](https://www.adzuna.ca/details/5954561344) | US Tech Solutions | Toronto, Ontario | Python |
 | 2026-11-05 | [Associate Director, Full-Stack Applications - Credit Module](https://www.adzuna.ca/details/5954560788) | Fitch Group | Toronto, Ontario | Full stack |
@@ -3379,11 +3374,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-05 | [Lead DevOps Engineer - Corner Brook](https://www.adzuna.ca/details/5954560007) | Linuxassociation | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-05 | [Associate Director, Full-Stack Applications - Credit Module](https://www.adzuna.ca/details/5954559995) | Fitch Group, Inc. | Toronto, Ontario | Full stack |
 | 2026-11-05 | [Senior Data Analyst, Live Games](https://www.adzuna.ca/details/5954408838) | Big Viking Games | Toronto, Ontario | Data / BI |
-| 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953992050) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-05T223127Z.md` holds the rows that aged out of the 30-day window on 2026-11-05.
+`README.BAK_2026-11-06T012041Z.md` holds the rows that aged out of the 30-day window on 2026-11-06.
