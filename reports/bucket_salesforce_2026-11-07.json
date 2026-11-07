@@ -1,0 +1,651 @@
+{
+ "bucket": "salesforce",
+ "generated": "2026-11-07T09:27:24.485038+00:00",
+ "rounds_planned": 30,
+ "rounds_run": 30,
+ "verify_liveness": false,
+ "totals": {
+  "fetched": 1103,
+  "matched": 25,
+  "live": 25,
+  "new": 0,
+  "errors": 0,
+  "secs": 32.2
+ },
+ "rounds": [
+  {
+   "round": 1,
+   "target": "Salesforce",
+   "route": "workday",
+   "note": "the vendor itself",
+   "fetched": 100,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 3.2,
+   "jobs": []
+  },
+  {
+   "round": 2,
+   "target": "NeuraFlash",
+   "route": "greenhouse",
+   "note": "Salesforce Summit partner",
+   "fetched": 75,
+   "matched": 14,
+   "dupes": 0,
+   "live": 14,
+   "new": 0,
+   "error": null,
+   "secs": 0.4,
+   "jobs": [
+    {
+     "title": "Forward Deployed Engineer, AI & Agentforce",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6225939004",
+     "posted": "2026-10-15",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Functional Lead, AI & Agentforce Delivery",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6228522004",
+     "posted": "2026-10-20",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Engagement Manager",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220891004",
+     "posted": "2026-10-08",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Experience Architect, AI and Agentforce (Solution Architect)",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5764374004",
+     "posted": "2026-01-14",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Manager, AI & Agentforce Delivery",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6206506004",
+     "posted": "2026-09-24",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Project Manager",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220750004",
+     "posted": "2026-10-08",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Architect, Field Service",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6011721004",
+     "posted": "2026-06-02",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Architect, Revenue Cloud",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222627004",
+     "posted": "2026-10-12",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Architect, Service Cloud",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5730028004",
+     "posted": "2025-12-05",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Architect, Service Cloud Voice",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5993680004",
+     "posted": "2026-05-11",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Engineer,  RCA & RCB",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6015378004",
+     "posted": "2026-06-05",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Technical Architect",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222640004",
+     "posted": "2026-10-12",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Technical Architect, AI and Agentforce",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6218548004",
+     "posted": "2026-10-06",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Sr. Developer, AI and Agentforce",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6231605004",
+     "posted": "2026-10-21",
+     "source": "greenhouse:neuraflash"
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "target": "Highmetric",
+   "route": "greenhouse",
+   "note": "Salesforce partner",
+   "fetched": 48,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 4,
+   "target": "nCino",
+   "route": "greenhouse",
+   "note": "financial-services Salesforce ISV",
+   "fetched": 32,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 5,
+   "target": "Varicent",
+   "route": "greenhouse",
+   "note": "Salesforce-adjacent comp platform",
+   "fetched": 23,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 6,
+   "target": "SiteTracker",
+   "route": "lever",
+   "note": "Salesforce-native field ops",
+   "fetched": 8,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.6,
+   "jobs": []
+  },
+  {
+   "round": 7,
+   "target": "Flosum",
+   "route": "workable",
+   "note": "Salesforce DevOps ISV",
+   "fetched": 155,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.2,
+   "jobs": []
+  },
+  {
+   "round": 8,
+   "target": "Zaelab",
+   "route": "workable",
+   "note": "Salesforce commerce partner",
+   "fetched": 7,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 9,
+   "target": "Avacone",
+   "route": "workable",
+   "note": "Salesforce partner",
+   "fetched": 19,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 10,
+   "target": "RapDev",
+   "route": "ashby",
+   "note": "Salesforce/ServiceNow consultancy",
+   "fetched": 9,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.0,
+   "jobs": []
+  },
+  {
+   "round": 11,
+   "target": "Directive",
+   "route": "ashby",
+   "note": "Salesforce partner",
+   "fetched": 67,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.0,
+   "jobs": []
+  },
+  {
+   "round": 12,
+   "target": "Loopio",
+   "route": "ashby",
+   "note": "Salesforce-using SaaS",
+   "fetched": 16,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.0,
+   "jobs": []
+  },
+  {
+   "round": 13,
+   "target": "Docebo",
+   "route": "ashby",
+   "note": "55 York St, downtown Toronto",
+   "fetched": 35,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": [
+    {
+     "title": "Salesforce Product Owner",
+     "company": "Docebo",
+     "location": "Toronto, Ontario",
+     "url": "https://jobs.ashbyhq.com/docebo/6c6ced29-4d69-4e93-b808-e6aea83d87f3",
+     "posted": "2026-10-02",
+     "source": "ashby:docebo"
+    },
+    {
+     "title": "Senior Salesforce Developer",
+     "company": "Docebo",
+     "location": "Toronto, Ontario",
+     "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
+     "posted": "2026-10-30",
+     "source": "ashby:docebo"
+    }
+   ]
+  },
+  {
+   "round": 14,
+   "target": "Benevity",
+   "route": "ashby",
+   "note": "Calgary/Toronto, Salesforce shop",
+   "fetched": 25,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.0,
+   "jobs": [
+    {
+     "title": "Senior Salesforce Administrator",
+     "company": "Benevity",
+     "location": "Calgary, Alberta",
+     "url": "https://jobs.ashbyhq.com/benevity/f943cad9-7eed-466f-8ff5-398ac15dd14d",
+     "posted": "2026-10-28",
+     "source": "ashby:benevity"
+    },
+    {
+     "title": "Senior Salesforce Administrator",
+     "company": "Benevity",
+     "location": "Toronto, Ontario",
+     "url": "https://jobs.ashbyhq.com/benevity/78798ad7-2d39-497e-98af-dad3a2ea8e20",
+     "posted": "2026-10-28",
+     "source": "ashby:benevity"
+    }
+   ]
+  },
+  {
+   "round": 15,
+   "target": "Lightspeed Commerce",
+   "route": "ashby",
+   "note": "Montreal/Toronto",
+   "fetched": 133,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 16,
+   "target": "Accenture",
+   "route": "workday",
+   "note": "global SI",
+   "fetched": 100,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 9.4,
+   "jobs": []
+  },
+  {
+   "round": 17,
+   "target": "Altus Group",
+   "route": "workday",
+   "note": "Salesforce Platform, Toronto",
+   "fetched": 6,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.8,
+   "jobs": [
+    {
+     "title": "Salesforce Platform Developer",
+     "company": "Altus Group",
+     "location": "Toronto, Ontario",
+     "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
+     "posted": "2026-10-30",
+     "posted_raw": "Posted 8 Days Ago",
+     "source": "workday:altusgroup"
+    },
+    {
+     "title": "Salesforce Business Analyst",
+     "company": "Altus Group",
+     "location": "300 - Toronto",
+     "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
+     "posted": "2026-11-03",
+     "posted_raw": "Posted 4 Days Ago",
+     "source": "workday:altusgroup"
+    }
+   ]
+  },
+  {
+   "round": 18,
+   "target": "BMO",
+   "route": "workday",
+   "note": "bank",
+   "fetched": 11,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.9,
+   "jobs": []
+  },
+  {
+   "round": 19,
+   "target": "TD Bank",
+   "route": "workday",
+   "note": "bank",
+   "fetched": 12,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 1.1,
+   "jobs": [
+    {
+     "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
+     "company": "TD Bank",
+     "location": "Toronto, Ontario",
+     "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
+     "posted": "2026-10-26",
+     "posted_raw": "Posted 12 Days Ago",
+     "source": "workday:td"
+    }
+   ]
+  },
+  {
+   "round": 20,
+   "target": "CIBC",
+   "route": "workday",
+   "note": "bank",
+   "fetched": 9,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.2,
+   "jobs": []
+  },
+  {
+   "round": 21,
+   "target": "Sun Life",
+   "route": "workday",
+   "note": "insurer",
+   "fetched": 11,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.0,
+   "jobs": []
+  },
+  {
+   "round": 22,
+   "target": "Manulife",
+   "route": "workday",
+   "note": "insurer",
+   "fetched": 38,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 2.0,
+   "jobs": []
+  },
+  {
+   "round": 23,
+   "target": "OMERS",
+   "route": "workday",
+   "note": "pension",
+   "fetched": 1,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.8,
+   "jobs": []
+  },
+  {
+   "round": 24,
+   "target": "TMX Group",
+   "route": "workday",
+   "note": "exchange operator",
+   "fetched": 6,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.5,
+   "jobs": []
+  },
+  {
+   "round": 25,
+   "target": "Thomson Reuters",
+   "route": "workday",
+   "note": "Toronto HQ",
+   "fetched": 77,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 3.6,
+   "jobs": []
+  },
+  {
+   "round": 26,
+   "target": "Moneris",
+   "route": "workday",
+   "note": "payments",
+   "fetched": 2,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 0.7,
+   "jobs": [
+    {
+     "title": "Principle Salesforce Developer",
+     "company": "Moneris",
+     "location": "Toronto",
+     "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
+     "posted": "2026-10-28",
+     "posted_raw": "Posted 10 Days Ago",
+     "source": "workday:moneris"
+    }
+   ]
+  },
+  {
+   "round": 27,
+   "target": "McKesson",
+   "route": "workday",
+   "note": "healthcare distribution",
+   "fetched": 53,
+   "matched": 3,
+   "dupes": 0,
+   "live": 3,
+   "new": 0,
+   "error": null,
+   "secs": 2.7,
+   "jobs": [
+    {
+     "title": "Salesforce Marketing Cloud Developer",
+     "company": "McKesson",
+     "location": "CAN, ON, Mississauga",
+     "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:mckesson"
+    },
+    {
+     "title": "Lead Salesforce Solution Architect",
+     "company": "McKesson",
+     "location": "CAN, ON, Mississauga",
+     "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:mckesson"
+    },
+    {
+     "title": "Sr. Salesforce CRM Development Lead",
+     "company": "McKesson",
+     "location": "CAN, ON, Mississauga",
+     "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:mckesson"
+    }
+   ]
+  },
+  {
+   "round": 28,
+   "target": "Cloudera",
+   "route": "workday",
+   "note": "data platform",
+   "fetched": 3,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.7,
+   "jobs": []
+  },
+  {
+   "round": 29,
+   "target": "Harris Computer",
+   "route": "workday",
+   "note": "vertical software",
+   "fetched": 13,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.8,
+   "jobs": []
+  },
+  {
+   "round": 30,
+   "target": "GDIT",
+   "route": "workday",
+   "note": "defense IT integrator",
+   "fetched": 9,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.8,
+   "jobs": []
+  }
+ ]
+}
