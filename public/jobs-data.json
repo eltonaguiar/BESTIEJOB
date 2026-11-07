@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-07T00:06:58+00:00",
+ "generatedAt": "2026-11-07T00:33:17+00:00",
  "timezone": "America/Toronto",
- "count": 398,
+ "count": 397,
  "appliedHidden": 14,
  "sources": [
   "Adzuna",
@@ -122,6 +122,27 @@
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-07",
+   "title": "Specialist- Salesforce Architect",
+   "company": "Parkland Corporation",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487375305",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialist- salesforce architect parkland corporation calgary, alberta, canada linkedin salesforce  salesforce role fit canada / remote",
+   "alternates": []
+  },
   {
    "posted": "2026-11-06",
    "title": "Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps",
@@ -4752,28 +4773,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Solutions Consultant - Marketing Automation Canada / Toronto, ON",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.workopolis.com/jobsearch/viewjob/HNK2HPUVswsHsbqe5qMVf1Xe58E5pvQ1TMjHK42LW2ZfcYL0L6AMnAIJh6sVv0ZY",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workopolis",
-   "verified": "Aggregator",
-   "match": 66,
-   "matchReasons": [
-    "Salesforce",
-    "Automation",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce solutions consultant - marketing automation canada / toronto, on unknown canada workopolis salesforce 7 salesforce automation role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Specialist I, IT Service Management Office – ITOM & CMDB Jobs in Enbridge in Calgary - Canada / Dr. Job",
    "company": "Unknown",
    "location": "Canada",
@@ -6392,26 +6391,6 @@
    ],
    "french": false,
    "search": "sunoco lp careers - salesforce platform owner unknown canada jobs.jobvite.com salesforce 8 salesforce canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Support in Calgary, AB - Manulife",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-2252-d0864416f392e2667b54d28c0255699f",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce support in calgary, ab - manulife unknown canada ca.trabajo.org salesforce 7 salesforce canada / remote",
    "alternates": []
   },
   {
