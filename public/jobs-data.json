@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-07T05:33:10+00:00",
+ "generatedAt": "2026-11-07T06:04:58+00:00",
  "timezone": "America/Toronto",
- "count": 390,
+ "count": 388,
  "appliedHidden": 13,
  "sources": [
   "Adzuna",
@@ -79,7 +79,6 @@
   "jobs.omegavp.com",
   "jobs.rbc.com",
   "jobs.rsmus.com",
-  "jobs.scotiabank.com",
   "jobs.slalom.com",
   "jobs.toronto.ca",
   "jobs.utoronto.ca",
@@ -96,7 +95,6 @@
   "n2psystems.com",
   "onjobcentre.ca",
   "prairie.totalh.net",
-  "queertech.getro.com",
   "raise.jobs",
   "remote.mq.unaux.com",
   "remoterocketship.com",
@@ -924,6 +922,26 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Salesforce Field Service (FSL) Developer",
+   "company": "Danaher Corporation",
+   "location": "Vaughan, York region",
+   "url": "https://www.adzuna.ca/details/5955916203?utm_medium=api&utm_source=54ce986e",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce field service (fsl) developer danaher corporation vaughan, york region adzuna salesforce  salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Aquiva, Canada - Senior Salesforce Engineer",
    "company": "Aquiva and Hapi",
    "location": "Greater Vancouver, British Columbia",
@@ -1328,6 +1346,25 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Marketing Data Analyst",
+   "company": "Saskatchewan Roughriders",
+   "location": "Regina region, Saskatchewan",
+   "url": "https://www.adzuna.ca/details/5956120751?utm_medium=api&utm_source=54ce986e",
+   "note": "Data / BI",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "marketing data analyst saskatchewan roughriders regina region, saskatchewan adzuna other data / bi role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Full-time Institutional Research Advanced Data Analyst",
    "company": "Algonquin College",
    "location": "Ottawa, Ottawa region",
@@ -1362,6 +1399,25 @@
    ],
    "french": false,
    "search": "credit collections reporting analyst nrg edmonton, edmonton region adzuna other other role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Azure Cloud Architect - Manager",
+   "company": "EY",
+   "location": "London, Middlesex",
+   "url": "https://www.adzuna.ca/details/5955917018?utm_medium=api&utm_source=54ce986e",
+   "note": "DevOps / Cloud",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "azure cloud architect - manager ey london, middlesex adzuna other devops / cloud role fit",
    "alternates": []
   },
   {
@@ -2844,25 +2900,6 @@
    ],
    "french": false,
    "search": "business intelligence (bi) data engineer semex guelph, wellington region adzuna other data / bi role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Azure Cloud Architect - Manager",
-   "company": "EY",
-   "location": "Ottawa, Ottawa region",
-   "url": "https://www.adzuna.ca/details/5954561343?utm_medium=api&utm_source=54ce986e",
-   "note": "DevOps / Cloud",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "azure cloud architect - manager ey ottawa, ottawa region adzuna other devops / cloud role fit",
    "alternates": []
   },
   {
@@ -4800,28 +4837,6 @@
    ],
    "french": false,
    "search": "salesforce technical consultant – hybrid · mississauga, on / jobs.ca unknown canada jobs.ca salesforce 8 salesforce consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Technical Consultant (Contracted Role) at Global Fund for Children",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://meterwork.com/job/salesforce-technical-consultant-contracted-role_at_global-fund-for-children_gRBY9",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "meterwork.com",
-   "verified": "Employer board",
-   "match": 66,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical consultant (contracted role) at global fund for children unknown canada meterwork.com salesforce 7 salesforce consulting/ba role fit canada / remote",
    "alternates": []
   },
   {
@@ -8133,66 +8148,6 @@
    ],
    "french": false,
    "search": "senior platform engineer – informatica, wso2 & cloud infrastructure jobs in astra north infoteck inc. in mississauga - canada / dr. job unknown canada drjobpro.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Platform Engineer Job Details / Scotiabank",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Senior-Platform-Engineer-ON-M5H4A6/599558117",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.scotiabank.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior platform engineer job details / scotiabank unknown canada jobs.scotiabank.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Platform Engineer @ Clio / QueerTech Job Board",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://queertech.getro.com/companies/clio/jobs/73594590-senior-systems-engineer-production",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "queertech.getro.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior platform engineer @ clio / queertech job board unknown canada queertech.getro.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Platform Engineer / Clio",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/clio/jobs/senior-platform-engineer-remote-canada-51e84cd474e7",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior platform engineer / clio unknown canada jobs.ca other 8 role fit canada / remote",
    "alternates": []
   },
   {
