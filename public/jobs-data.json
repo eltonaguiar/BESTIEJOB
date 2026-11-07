@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-06T23:10:26+00:00",
+ "generatedAt": "2026-11-07T00:28:12+00:00",
  "timezone": "America/Toronto",
- "count": 2811,
+ "count": 2813,
  "appliedHidden": 36,
  "sources": [
   "103.careerplug.com",
@@ -183,6 +183,7 @@
   "rapdev.io",
   "recruit.net",
   "recruiting.ultipro.ca",
+  "remoteok.com",
   "remoterocketship.com",
   "remotery.co",
   "remotive.com",
@@ -219,6 +220,111 @@
   "yoailabs.careers-page.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-07",
+   "title": "Specialist- Salesforce Architect",
+   "company": "Parkland Corporation",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487375305",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialist- salesforce architect parkland corporation calgary, alberta, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487369553",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5945650283",
+     "label": "Adzuna · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940719587?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Calgary"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps",
+   "company": "Astra North Infoteck Inc.",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5955571756",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "CMDB",
+    "ITOM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "solution architect – servicenow, itsm, itom, cmdb & secops astra north infoteck inc. greater vancouver, british columbia adzuna servicenow adzuna servicenow itsm cmdb itom role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/solution-architect-%E2%80%93-servicenow-itsm-itom-cmdb-secops-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4486789948",
+     "label": "LinkedIn · Vancouver"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "ServiceNow SAM Administrator - ITAM",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow workday servicenow itam sam/ham role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/servicenow-sam-administrator-itam-73ba6937324b66ae8d3469524c684964",
+     "label": "Eluta · Toronto ON"
+    }
+   ]
+  },
   {
    "posted": "2026-11-06",
    "title": "ServiceNow ITOM Specialist",
@@ -417,10 +523,10 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "Service Now Administrator & Developer",
+   "title": "ServiceNow Administrator & Developer",
    "company": "Sheridan College",
    "location": "Oakville, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/service-now-administrator-developer-at-sheridan-college-4486264240",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-sheridan-college-4486264240",
    "note": "linkedin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
@@ -433,7 +539,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "service now administrator & developer sheridan college oakville, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "search": "servicenow administrator & developer sheridan college oakville, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -455,6 +561,27 @@
    ],
    "french": false,
    "search": "senior servicenow platform architect (coe / vault) resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Service Now Administrator & Developer",
+   "company": "Sheridan College",
+   "location": "Oakville, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/service-now-administrator-developer-at-sheridan-college-4486264240",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "service now administrator & developer sheridan college oakville, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -1021,6 +1148,58 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Senior Salesforce Engineer",
+   "company": "Canadian Cancer Society",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486318615",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce engineer canadian cancer society vancouver, british columbia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486031854",
+     "label": "LinkedIn · Kelowna"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5952912322?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Prince George"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486038001",
+     "label": "LinkedIn · Prince George"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486019930",
+     "label": "LinkedIn · Halifax"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486019931",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Senior Salesforce Developer",
    "company": "CGI",
    "location": "Halifax, Nova Scotia, Canada",
@@ -1129,58 +1308,6 @@
    "french": false,
    "search": "associate salesforce administrator applied systems canada canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Senior Salesforce Engineer",
-   "company": "Canadian Cancer Society",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486318615",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior salesforce engineer canadian cancer society vancouver, british columbia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486031854",
-     "label": "LinkedIn · Kelowna"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5952912322?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Prince George"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486038001",
-     "label": "LinkedIn · Prince George"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486019930",
-     "label": "LinkedIn · Halifax"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486028254",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486019931",
-     "label": "LinkedIn · Montreal"
-    }
-   ]
   },
   {
    "posted": "2026-11-06",
@@ -1970,6 +2097,26 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Senior Full Stack Engineer People Products",
+   "company": "Thumbtack",
+   "location": "Toronto",
+   "url": "https://remoteok.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+   "note": "remoteok",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remoteok.com",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior full stack engineer people products thumbtack toronto remoteok.com other remoteok role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Manager, Site Reliability Engineering",
    "company": "Mastercard",
    "location": "North York, Ontario, Canada",
@@ -2242,40 +2389,6 @@
    "french": false,
    "search": "mental health housing worker - hart hub canadian mental health association-haliburton, kawartha, pine ridge peterborough, peterborough region adzuna other readme ",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "ServiceNow SAM Administrator - ITAM",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "SAM/HAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow workday servicenow itam sam/ham role fit toronto area",
-   "alternates": [
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/servicenow-sam-administrator-itam-73ba6937324b66ae8d3469524c684964",
-     "label": "Eluta · Toronto ON"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-05",
@@ -17543,6 +17656,27 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "ServiceNow Developer",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "FSO-ServiceNow Developer",
    "company": "National Bank of Canada",
    "location": "Montreal, Quebec, Canada",
@@ -23994,27 +24128,6 @@
    ],
    "french": false,
    "search": "servicenow developer in mississauga, on rexall pharmacy group ltd. mississauga, on mymiltonontario.ca servicenow mymiltonontario servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "ServiceNow Developer",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -49201,13 +49314,7 @@
    ],
    "french": false,
    "search": "java full stack developer epsilon solutions ltd toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948026005?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    }
-   ]
+   "alternates": []
   },
   {
    "posted": "2026-10-31",
@@ -52089,6 +52196,33 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Senior ServiceNow Developer",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - TX",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Workday ATS",
+     "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1201",
+     "label": "Workday ATS · US Remote - TX"
+    }
+   ]
+  },
+  {
+   "posted": "2026-10-29",
    "title": "ServiceNow Senior Technical Advisor (432829)",
    "company": "Bell",
    "location": "Toronto / Montreal",
@@ -52678,11 +52812,6 @@
    "french": false,
    "search": "salesforce marketing cloud developer mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
    "alternates": [
-    {
-     "source": "careers.mckesson.com",
-     "url": "https://careers.mckesson.com/en/job/mississauga/salesforce-marketing-cloud-developer/733/96360347648",
-     "label": "careers.mckesson.com · Mississauga"
-    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946003198?utm_medium=api&utm_source=54ce986e",
@@ -53533,37 +53662,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Specialist- Salesforce Architect",
-   "company": "Parkland",
-   "location": "Calgary, Calgary region",
-   "url": "https://www.adzuna.ca/details/5945650283",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "specialist- salesforce architect parkland calgary, calgary region adzuna salesforce readme salesforce role fit",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094",
-     "label": "LinkedIn · Calgary"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5940719587?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Calgary"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-29",
    "title": "SDET (Salesforce)",
    "company": "Veriforce Canada",
    "location": "Canada",
@@ -54137,33 +54235,6 @@
      "source": "Eluta",
      "url": "https://www.eluta.ca/spl/servicenow-developer-a88fa9325b8c0596ed6d1824b9a3b6bc",
      "label": "Eluta · Ottawa ON"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Senior ServiceNow Developer",
-   "company": "Resolve Tech Solutions",
-   "location": "US Remote - TX",
-   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Workday ATS",
-     "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1201",
-     "label": "Workday ATS · US Remote - TX"
     }
    ]
   },
@@ -60511,29 +60582,6 @@
    "alternates": []
   },
   {
-   "posted": "2026-10-11",
-   "title": "Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps",
-   "company": "Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/solution-architect-%E2%80%93-servicenow-itsm-itom-cmdb-secops-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4486789948",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "CMDB",
-    "ITOM",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "solution architect – servicenow, itsm, itom, cmdb & secops astra-north infoteck inc. ~ conquering today’s challenges, achieving tomorrow’s vision! vancouver, british columbia, canada linkedin servicenow linkedin servicenow itsm cmdb itom role fit",
-   "alternates": []
-  },
-  {
    "posted": "2026-10-10",
    "title": "ServiceNow Developer in Toronto, ON / BMO / MovoJobs",
    "company": "BMO",
@@ -60725,6 +60773,27 @@
   },
   {
    "posted": "2026-10-08",
+   "title": "Senior ServiceNow Engineer",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - FL",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow engineer resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-08",
    "title": "Salesforce Project Manager",
    "company": "NeuraFlash",
    "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
@@ -60850,27 +60919,6 @@
    ],
    "french": false,
    "search": "servicenow tech consultant galent remote, canada (toronto, on) jobs.ca servicenow readme servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-07",
-   "title": "Senior ServiceNow Engineer",
-   "company": "Resolve Tech Solutions",
-   "location": "US Remote - FL",
-   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow engineer resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
