@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-07T02:22:59+00:00",
+ "generatedAt": "2026-11-07T02:33:21+00:00",
  "timezone": "America/Toronto",
- "count": 397,
- "appliedHidden": 14,
+ "count": 394,
+ "appliedHidden": 13,
  "sources": [
   "Adzuna",
   "Aggregator",
@@ -51,7 +51,6 @@
   "customizo.ca",
   "dice.com",
   "drjobpro.com",
-  "echojobs.io",
   "emploive.com",
   "employmenthero.com",
   "flexstack.my-board.org",
@@ -98,7 +97,6 @@
   "meterwork.com",
   "morson.com",
   "mysmartpros.com",
-  "myticas.com",
   "n2psystems.com",
   "onjobcentre.ca",
   "osidigital.applytojob.com",
@@ -124,6 +122,71 @@
  "jobs": [
   {
    "posted": "2026-11-07",
+   "title": "Senior Consultant, ServiceNow (ITAM/ITOM)",
+   "company": "KPMG Canada",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454542029",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "ITOM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior consultant, servicenow (itam/itom) kpmg canada calgary, alberta, canada linkedin servicenow  servicenow itam itom role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Manager, ServiceNow Technical Lead",
+   "company": "KPMG Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621290",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "manager, servicenow technical lead kpmg canada toronto, ontario, canada linkedin servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Senior Consultant - ServiceNow CSM",
+   "company": "Infosys",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-csm-at-infosys-4476037432",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior consultant - servicenow csm infosys calgary, alberta, canada linkedin servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
    "title": "Specialist- Salesforce Architect",
    "company": "Parkland Corporation",
    "location": "Calgary, Alberta, Canada",
@@ -141,6 +204,48 @@
    ],
    "french": false,
    "search": "specialist- salesforce architect parkland corporation calgary, alberta, canada linkedin salesforce  salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Solution Architect - (Healthcare/Life Sciences or Financial Services)",
+   "company": "Salesforce",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457034728",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "solution architect - (healthcare/life sciences or financial services) salesforce toronto, ontario, canada linkedin salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Canadian Public Sector Engagement Delivery Leader",
+   "company": "Salesforce",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/canadian-public-sector-engagement-delivery-leader-at-salesforce-4486493813",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "canadian public sector engagement delivery leader salesforce toronto, ontario, canada linkedin salesforce  salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -398,27 +503,6 @@
    ],
    "french": false,
    "search": "senior servicenow developer and administrator mnp calgary, alberta, canada linkedin servicenow  servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Manager, ServiceNow Technical Lead",
-   "company": "KPMG Canada",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453622314",
-   "note": "",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "manager, servicenow technical lead kpmg canada vancouver, british columbia, canada linkedin servicenow  servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -3296,48 +3380,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow HRSD expert",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-hrsd-expert-at-infosys-4217043662",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 86,
-   "matchReasons": [
-    "ServiceNow",
-    "HRSD / VA",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow hrsd expert unknown canada linkedin servicenow 8 servicenow hrsd / va canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow HRSD - Technical Product Owner, Deloitte Global Technology Job Details / Deloitte",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://careers.deloitte.ca/job/ServiceNow-HRSD-Technical-Product-Owner%2C-Deloitte-Global-Technology/130030-en_US/",
-   "note": "9",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.deloitte.ca",
-   "verified": "Employer board",
-   "match": 86,
-   "matchReasons": [
-    "ServiceNow",
-    "HRSD / VA",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow hrsd - technical product owner, deloitte global technology job details / deloitte unknown canada careers.deloitte.ca servicenow 9 servicenow hrsd / va canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "🚨WE’RE HIRING / ServiceNow Solution Architect – CTA Certified / Devansh Gupta",
    "company": "Unknown",
    "location": "Canada",
@@ -4489,48 +4531,6 @@
    ],
    "french": false,
    "search": "servicenow implementation consultant in  / careers at canada unknown canada careers-cayuseholdings.icims.com servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Functional Consultant at BDO Canada",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://echojobs.io/job/bdo-canada-servicenow-functional-consultant-zduw3",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "echojobs.io",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow functional consultant at bdo canada unknown canada echojobs.io servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Enterprise Architect / Myticas Consulting",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://myticas.com/jobs/servicenow-enterprise-architect-35761/",
-   "note": "7/10 via",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "myticas.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow enterprise architect / myticas consulting unknown canada myticas.com servicenow 7/10 via servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -6136,69 +6136,6 @@
    ],
    "french": false,
    "search": "salesforce technical lead - march networks / built in unknown canada builtin salesforce 8 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Technical Architect in Remote / Careers at Canada",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://careers-kinaxis.icims.com/jobs/34460/salesforce-technical-architect/job",
-   "note": "8",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "careers-kinaxis.icims.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical architect in remote / careers at canada unknown canada careers-kinaxis.icims.com salesforce 8 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Technical Architect - LTIMindtree - Calgary, AB / Ladders",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.theladders.com/job/salesforce-technical-architect-ltimindtree-calgary-ab_89647152",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "theladders.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical architect - ltimindtree - calgary, ab / ladders unknown canada theladders.com salesforce 7 salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce System Administrator Jobs in Ottawa",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/jobs/l/Ottawa/q/Salesforce%20System%20Administrator",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce system administrator jobs in ottawa unknown canada jobleads.com salesforce 7 salesforce role fit canada / remote",
    "alternates": []
   },
   {
