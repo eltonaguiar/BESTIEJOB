@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-07T04:13:39+00:00",
+ "generatedAt": "2026-11-07T05:11:13+00:00",
  "timezone": "America/Toronto",
- "count": 2826,
+ "count": 2827,
  "appliedHidden": 36,
  "sources": [
   "103.careerplug.com",
@@ -222,6 +222,27 @@
  "jobs": [
   {
    "posted": "2026-11-07",
+   "title": "ServiceNow Developer Senior – Electronic Health Records – Remote!",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer senior – electronic health records – remote! gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
    "title": "Specialist- Salesforce Architect",
    "company": "Parkland Corporation",
    "location": "Calgary, Alberta, Canada",
@@ -377,28 +398,6 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "Senior ServiceNow Developer (App Engine / HRSD)",
-   "company": "Resonaite",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 98,
-   "matchReasons": [
-    "ServiceNow",
-    "HRSD / VA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior servicenow developer (app engine / hrsd) resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow hrsd / va role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
    "title": "Senior Business Analyst – ServiceNow Platform & CoE",
    "company": "Resonaite",
    "location": "Ottawa, Ontario, Canada",
@@ -417,6 +416,28 @@
    ],
    "french": false,
    "search": "senior business analyst – servicenow platform & coe resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior ServiceNow Developer (App Engine / HRSD)",
+   "company": "Resonaite",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "HRSD / VA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow developer (app engine / hrsd) resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow hrsd / va role fit toronto area",
    "alternates": []
   },
   {
