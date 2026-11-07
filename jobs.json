@@ -1,258 +1,2517 @@
 {
-  "scanned_at": "2026-11-07",
-  "stats": {
-    "checked": 40,
-    "ok": 38,
-    "hits": 12,
-    "errors": 2
+  "meta": {
+    "keyword": "multi",
+    "keywords": [
+      "servicenow",
+      "salesforce",
+      "vba",
+      "alteryx",
+      "full-stack",
+      "data",
+      "devops",
+      "python",
+      "it-reporting",
+      "itam"
+    ],
+    "location": "Toronto, ON",
+    "dateFilter": "month",
+    "scrapedAt": "2026-11-07T07:49:27.287Z",
+    "generatedAt": "2026-11-07T07:49:27.287Z",
+    "total": 145,
+    "newThisScan": 296,
+    "retainedFromPrevious": 0,
+    "sources": {
+      "smartrecruiters": 12,
+      "workday": 1,
+      "greenhouse": 19,
+      "lever": 1,
+      "ashby": 2,
+      "linkedin": 254,
+      "remoteok": 3,
+      "remotive": 4
+    },
+    "primaryCounts": {
+      "servicenow": 67,
+      "salesforce": 67
+    }
   },
-  "results": [
+  "jobs": [
     {
-      "title": "Independent Sales Partner - Salesforce, HubSpot, ServiceNow",
-      "company": "Apexify Consulting Inc.",
-      "url": "https://ca.linkedin.com/jobs/view/independent-sales-partner-salesforce-hubspot-servicenow-ai-services-at-apexify-consulting-inc-4483234795",
-      "source": "readme",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": ""
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "mp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_find-a-referral-cta\" data-impression-id=\"public_jobs_find-a-referral-cta\" data-tracking-control-name=\"public_jobs_f"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "find-a-referral-cta\" data-impression-id=\"public_jobs_find-a-referral-cta\" data-tracking-control-name=\"public_jobs_find-a-referral-cta\" data-tracking-will-navigate>"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "eferral-cta\" data-tracking-control-name=\"public_jobs_find-a-referral-cta\" data-tracking-will-navigate> See who you know <"
-        }
-      ]
-    },
-    {
-      "title": "ServiceNow and Salesforce contract jobs in Toronto",
-      "company": "Freelance Radar",
-      "url": "https://www.freelanceradar.co/ca/contract-jobs/salesforce-servicenow/toronto",
-      "source": "freelanceradar",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "aid\");if(!ad&&!/^https?:\\/\\/(www\\.)?google\\./.test(document.referrer))return;q.set(\"lpv\",\"b\");history.replaceState(history.state,\"\",\"/?\"+q.toString()+location.hash);}ca"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "\" \u00b7 Freelance Radar\" : document.title).slice(0, 300), referrer: location.href, language: navigator.language, timezone: (Intl.DateTimeFormat().resolvedOption"
-        }
-      ]
-    },
-    {
-      "title": "Migration Consultant (Salesforce/ServiceNow data)",
-      "company": "Slalom",
-      "url": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Migration-Consultant/3803",
-      "source": "readme",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "/us/en/who-we-are/newsroom\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Newsroom\">Visit the newsroom"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "we-are/locations#australia\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Australia\">Australia <li class=\"f"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ho-we-are/locations#canada\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Canada\">Canada <li class=\"footer_"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "-we-are/locations/colombia\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Colombia\">Colombia <li class=\"foo"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "o-we-are/locations#germany\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Germany\">Germany <li class=\"foote"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "o-we-are/locations#ireland\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Ireland\">Ireland <li class=\"foote"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "who-we-are/locations#japan\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Japan\">Japan <li class=\"footer__l"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ho-we-are/locations#mexico\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Mexico\">Mexico <li class=\"footer_"
-        }
-      ]
-    },
-    {
-      "title": "ServiceNow Sr. Principal Security, Risk, and OT Solution Architect",
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000160297239",
+      "source": "smartrecruiters",
       "company": "ServiceNow",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145565058-sr-principal-security-risk-and-ot-solution-architect",
-      "source": "smartrecruiters",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "icenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"> Learn more here . To determine eligibility for a work persona, ServiceNow may confirm th"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "fcf5fee4e3e3d0e3f5e2e6f9f3f5feffe7bef3fffd\" rel=\"noopener noreferrer\"><span class=\"__cf_email__\" data-cfemail=\"27404b4845464b53464b424953545467544255514e444249485009444"
-        }
+      "title": "Staff Security Engineer | Enterprise Security",
+      "location": "Toronto, Ontario, ca · Remote",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160297239",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T20:43:47.806Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0076455",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
       ]
     },
     {
-      "title": "ServiceNow Senior Engineering Manager, Agentic & Generative AI Benchmarking and Evaluations",
-      "company": "ServiceNow Careers",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000137502479-senior-engineering-manager-agentic-generative-ai-benchmarking-and-evaluations",
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000160294642",
       "source": "smartrecruiters",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ai-agenticai-assessment-scheduled-job.html\" rel=\"noopener noreferrer\" target=\"_blank\">Now Assist agentic workflows across multi-step orchestration, tool-calling, an"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "icenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"> Learn more here . To determine eligibility for a work persona, ServiceNow may confirm th"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "212823393e3e0d3e283f3b242e2823223a632e2220\" rel=\"noopener noreferrer\"><span class=\"__cf_email__\" data-cfemail=\"cea9a2a1acafa2baafa2aba0babdbd8ebdabbcb8a7adaba0a1b9e0ada"
-        }
-      ]
-    },
-    {
-      "title": "Principal Solution Architect- ServiceNow",
       "company": "ServiceNow",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719",
+      "title": "Staff Security Engineer | Security Engineering",
+      "location": "Toronto, Ontario, ca · Remote",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T20:28:28.787Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0076454",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000160294989",
       "source": "smartrecruiters",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "icenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"> Learn more here . To determine eligibility for a work persona, ServiceNow may confirm th"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "f4fdf6ecebebd8ebfdeaeef1fbfdf6f7efb6fbf7f5\" rel=\"noopener noreferrer\"><span class=\"__cf_email__\" data-cfemail=\"c4a3a8aba6a5a8b0a5a8a1aab0b7b784b7a1b6b2ada7a1aaabb3eaa7a"
-        }
+      "company": "ServiceNow",
+      "title": "Senior Staff Security Engineer | Systems Engineering",
+      "location": "Toronto, Ontario, ca · Remote",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294989",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T20:27:01.350Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0076457",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
       ]
     },
     {
-      "title": "ServiceNow Developer",
-      "company": "9th Way Insignia",
-      "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "out_request/job_post/5466447008/ai_opt_out\" rel=\"noopener noreferrer\">Learn more <button type=\"submit\" class=\"btn btn--r"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        },
-        {
-          "pattern": "form_field",
-          "snippet": "<input id=\"preferred_name\" class=\"input input__single-line\" aria-label=\"preferred first name\" aria-describedby=\"preferred_name-description preferred_name-error "
-        }
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000160277860",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Staff Systems Engineer",
+      "location": "Toronto, Ontario, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160277860",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T18:38:30.862Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0073786",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
-      "title": "Salesforce Business Analyst",
-      "company": "Altus Group",
-      "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
-      "source": "workday",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acces"
-        },
-        {
-          "pattern": "employee\\s+referr",
-          "snippet": "? If so, ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acc"
-        }
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000160278249",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Staff Systems Engineer",
+      "location": "Toronto, Ontario, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160278249",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T18:38:27.946Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0073788",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
-      "title": "Salesforce Consultant, Revenue Cloud",
-      "company": "NeuraFlash",
-      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242209004",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        }
+      "id": "remoteok:remoteok.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+      "source": "remoteok",
+      "company": "Thumbtack",
+      "title": "Senior Full Stack Engineer People Products",
+      "location": "Toronto",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:05.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "full stack, design, saas, react, salesforce, hr, front end, python, technical, customer support, dev, virtual assistant, finance, php, typescript, admin, senior, ops, marketing, sales, golang, recruiter, engineer, backend, digital nomad",
+      "workArrangement": "unknown",
+      "tags": [
+        "full-stack"
       ]
     },
     {
-      "title": "Senior Salesforce Developer @ Webflow",
-      "company": "Webflow",
-      "url": "https://jobs.ashbyhq.com/webflow/a35a4d60-319f-441e-89d7-3a0ef6cd7421",
-      "source": "ashby",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "em\\\">Please visit our Careers page for more informat"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "bled Employer and are committed to building"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "wing our story on our Webflow Blog , <a target=\\\"_blank\\\" rel=\\\"no"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "Webflow Blog , LinkedIn , <a target=\\"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "> LinkedIn , X (Twitter) , and/or <a target=\\\"_blank\\\""
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "tter) , and/or Glassdoor <"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "information, see Webflow\u2019s Applicant P"
-        }
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907",
+      "source": "linkedin",
+      "company": "CGI",
+      "title": "ServiceNow Administrator/Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
-      "title": "Salesforce Platform Developer",
-      "company": "Altus Group",
-      "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
-      "source": "workday",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acces"
-        },
-        {
-          "pattern": "employee\\s+referr",
-          "snippet": "? If so, ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acc"
-        }
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764",
+      "source": "linkedin",
+      "company": "BMO",
+      "title": "ServiceNow SAM Administrator - ITAM",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
       ]
     },
     {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-sheridan-college-4486264240",
+      "source": "linkedin",
+      "company": "Sheridan College",
+      "title": "ServiceNow Administrator & Developer",
+      "location": "Oakville, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-sheridan-college-4486264240",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4488181037",
+      "source": "linkedin",
+      "company": "HRConnects",
+      "title": "Solution Architect - ServiceNow Expert",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4488181037",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-consultant-at-lane-four-4487341676",
+      "source": "linkedin",
+      "company": "Lane Four",
+      "title": "Salesforce Consultant",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-lane-four-4487341676",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-make-a-wish-canada-4486201660",
+      "source": "linkedin",
+      "company": "Make-A-Wish Canada",
+      "title": "Senior Salesforce Administrator",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-make-a-wish-canada-4486201660",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-servicenow-developer-and-administrator-at-mnp-4469795709",
+      "source": "linkedin",
+      "company": "MNP",
+      "title": "Senior ServiceNow Developer and Administrator",
+      "location": "Calgary, Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-and-administrator-at-mnp-4469795709",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-itom-specialist-at-morson-edge-4487328904",
+      "source": "linkedin",
+      "company": "Morson Edge",
+      "title": "ServiceNow ITOM Specialist",
+      "location": "Saskatoon, Saskatchewan, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-itom-specialist-at-morson-edge-4487328904",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453622314",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Manager, ServiceNow Technical Lead",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453622314",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621291",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Manager, ServiceNow Technical Lead",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621291",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865",
+      "source": "linkedin",
+      "company": "2iSolutions Inc.",
+      "title": "ServiceNow Software Asset Management Pro (SAM Pro) Consultant",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/it-asset-management-analyst-at-the-salvation-army-in-canada-4488180165",
+      "source": "linkedin",
+      "company": "The Salvation Army in Canada",
+      "title": "IT Asset Management Analyst",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/it-asset-management-analyst-at-the-salvation-army-in-canada-4488180165",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "itam"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-business-analyst-%e2%80%93-servicenow-platform-coe-at-resonaite-4487352030",
+      "source": "linkedin",
+      "company": "Resonaite",
+      "title": "Senior Business Analyst – ServiceNow Platform & CoE",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-business-analyst-%E2%80%93-servicenow-platform-coe-at-resonaite-4487352030",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-sme-%e2%80%93-platform-security-vault-at-resonaite-4487348410",
+      "source": "linkedin",
+      "company": "Resonaite",
+      "title": "ServiceNow SME – Platform Security & Vault",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-sme-%E2%80%93-platform-security-vault-at-resonaite-4487348410",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow consultant · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-solution-architect-tprm-at-stellar-consulting-solutions-llc-4486983982",
+      "source": "linkedin",
+      "company": "Stellar Consulting Solutions, LLC",
+      "title": "Servicenow Solution Architect (TPRM)",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-solution-architect-tprm-at-stellar-consulting-solutions-llc-4486983982",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow consultant · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-servicenow-platform-architect-coe-vault-at-resonaite-4487330849",
+      "source": "linkedin",
+      "company": "Resonaite",
+      "title": "Senior ServiceNow Platform Architect (CoE / Vault)",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-platform-architect-coe-vault-at-resonaite-4487330849",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow consultant · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-technical-architect-financial-services-cloud-marketing-cloud-data360-manager-at-ey-4459555582",
+      "source": "linkedin",
+      "company": "EY",
+      "title": "Salesforce Technical Architect - Financial Services Cloud, Marketing Cloud & Data360 - Manager",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-financial-services-cloud-marketing-cloud-data360-manager-at-ey-4459555582",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486994714",
+      "source": "linkedin",
+      "company": "Smart IT Frame LLC",
+      "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486994714",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-consultant-fsc-cloud-at-enterprise-solutions-inc-4483663839",
+      "source": "linkedin",
+      "company": "Enterprise Solutions Inc.",
+      "title": "Salesforce Consultant - FSC Cloud",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-fsc-cloud-at-enterprise-solutions-inc-4483663839",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411",
+      "source": "linkedin",
+      "company": "Smart IT Frame LLC",
+      "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-smart-it-frame-llc-4487306038",
+      "source": "linkedin",
+      "company": "Smart IT Frame LLC",
+      "title": "Salesforce Data Cloud Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-smart-it-frame-llc-4487306038",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce",
+        "devops"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483",
+      "source": "linkedin",
+      "company": "Enterprise Solutions Inc.",
+      "title": "Salesforce Data Cloud Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce",
+        "devops"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4470107427",
+      "source": "linkedin",
+      "company": "CGI",
       "title": "Senior Salesforce Developer",
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4470107427",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-cpq-developer-support-engineer-at-ust-4486258340",
+      "source": "linkedin",
+      "company": "UST",
+      "title": "Salesforce CPQ Developer / Support Engineer",
+      "location": "Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-cpq-developer-support-engineer-at-ust-4486258340",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-cpq-solution-engineer-at-infoway-software-4487301346",
+      "source": "linkedin",
+      "company": "Infoway Software",
+      "title": "Salesforce CPQ Solution Engineer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-cpq-solution-engineer-at-infoway-software-4487301346",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-cpq-solution-engineer-at-infoway-software-4486996533",
+      "source": "linkedin",
+      "company": "Infoway Software",
+      "title": "Salesforce CPQ Solution Engineer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-cpq-solution-engineer-at-infoway-software-4486996533",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-technical-architect-financial-services-cloud-marketing-cloud-data360-manager-at-ey-4459567406",
+      "source": "linkedin",
+      "company": "EY",
+      "title": "Salesforce Technical Architect - Financial Services Cloud, Marketing Cloud & Data360 - Manager",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-financial-services-cloud-marketing-cloud-data360-manager-at-ey-4459567406",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100",
+      "source": "linkedin",
+      "company": "Enterprise Solutions Inc.",
+      "title": "Salesforce Technical Architect Revenue Cloud CPQ",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/manager-site-reliability-engineering-at-mastercard-4440186473",
+      "source": "linkedin",
+      "company": "Mastercard",
+      "title": "Manager, Site Reliability Engineering",
+      "location": "North York, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-site-reliability-engineering-at-mastercard-4440186473",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow ITSM · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "devops"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/consultant-itam-transactions-compliance-at-cibc-4479888375",
+      "source": "linkedin",
+      "company": "CIBC",
+      "title": "Consultant, ITAM Transactions & Compliance",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/consultant-itam-transactions-compliance-at-cibc-4479888375",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow ITAM · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "itam"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/it-asset-management-analyst-at-the-salvation-army-in-canada-4488416059",
+      "source": "linkedin",
+      "company": "The Salvation Army in Canada",
+      "title": "IT Asset Management Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/it-asset-management-analyst-at-the-salvation-army-in-canada-4488416059",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow ITAM · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "itam"
+      ]
+    },
+    {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000159911194",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Senior Site Reliability Engineer, Canada Protected B",
+      "location": "Toronto, Ontario, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159911194",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-05T15:58:07.255Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0076846",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000159910447",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Staff Site Reliability Engineer, Canada Protected B",
+      "location": "Toronto, Ontario, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159910447",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-05T15:55:56.650Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0076847",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4434772040",
+      "source": "linkedin",
+      "company": "CGI",
+      "title": "Architecte de solutions (ServiceNow)",
+      "location": "Sherbrooke, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4434772040",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-05T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-servicenow-engineer-at-eq-bank-4470497806",
+      "source": "linkedin",
+      "company": "EQ Bank",
+      "title": "Senior ServiceNow Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-engineer-at-eq-bank-4470497806",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/bilingual-senior-specialist-servicenow-itsm-developer-at-canada-mortgage-and-housing-corporation-cmhc-soci%c3%a9t%c3%a9-canadienne-d-hypoth%c3%a8ques-et-de-logement-schl-4444741717",
+      "source": "linkedin",
+      "company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
+      "title": "Bilingual Senior Specialist, ServiceNow ITSM Developer",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/bilingual-senior-specialist-servicenow-itsm-developer-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4444741717",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-architect-at-rsm-canada-4486537303",
+      "source": "linkedin",
+      "company": "RSM Canada",
+      "title": "ServiceNow Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-at-rsm-canada-4486537303",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-wipro-4486514927",
+      "source": "linkedin",
+      "company": "Wipro",
+      "title": "ServiceNow Implementation Architect",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-wipro-4486514927",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-administrator-at-survalent-4486500184",
+      "source": "linkedin",
+      "company": "Survalent",
+      "title": "Salesforce Administrator",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-survalent-4486500184",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-04T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6242209004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Consultant, Revenue Cloud",
+      "location": "Remote - Colombia",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242209004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T16:10:48.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282",
+      "source": "linkedin",
+      "company": "SS&C Technologies",
+      "title": "Salesforce Implementation Consultant & Platform Administrator",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-implementation-consultant-platform-administrator-at-ss-c-technologies-4487007282",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-03T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-technical-architect-with-revenue-cloud-rca-at-ltm-4484622096",
+      "source": "linkedin",
+      "company": "LTM",
+      "title": "Salesforce Technical Architect with Revenue Cloud (RCA)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-with-revenue-cloud-rca-at-ltm-4484622096",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899",
+      "source": "linkedin",
+      "company": "LTM",
+      "title": "Salesforce Technical Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123",
+      "source": "linkedin",
+      "company": "Deloitte",
+      "title": "Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-developer-enhance-operate-at-slalom-4409341991",
+      "source": "linkedin",
+      "company": "Slalom",
+      "title": "Salesforce Developer- Enhance & Operate",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-enhance-operate-at-slalom-4409341991",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-developer-enhance-operate-at-slalom-4409358117",
+      "source": "linkedin",
+      "company": "Slalom",
+      "title": "Salesforce Developer- Enhance & Operate",
+      "location": "Greater Vancouver Metropolitan Area",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-enhance-operate-at-slalom-4409358117",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-developer-%e2%80%93-spm-at-alldus-4477391538",
+      "source": "linkedin",
+      "company": "Alldus",
+      "title": "ServiceNow Developer – SPM",
+      "location": "Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-%E2%80%93-spm-at-alldus-4477391538",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/it-operations-cmdb-analyst-at-purolator-inc-4485105171",
+      "source": "linkedin",
+      "company": "Purolator Inc.",
+      "title": "IT Operations & CMDB Analyst",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/it-operations-cmdb-analyst-at-purolator-inc-4485105171",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "itam"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-platform-developer-at-altus-group-4483476940",
+      "source": "linkedin",
+      "company": "Altus Group",
+      "title": "Salesforce Platform Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-platform-developer-at-altus-group-4483476940",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-developer-at-docebo-4485634522",
+      "source": "linkedin",
       "company": "Docebo",
-      "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
+      "title": "Senior Salesforce Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-docebo-4485634522",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-solution-architect-at-cognizant-4467116032",
+      "source": "linkedin",
+      "company": "Cognizant",
+      "title": "Salesforce Solution Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-cognizant-4467116032",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/dscout/jobs/4472803009",
+      "source": "greenhouse",
+      "company": "Dscout",
+      "title": "Senior Forward Deployed Engineer (Full-Stack)",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/dscout/jobs/4472803009",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T20:29:24.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "full-stack"
+      ]
+    },
+    {
+      "id": "remotive:remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "source": "remotive",
+      "company": "Fluence International, Inc.",
+      "title": "Full-Stack Developer",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "employmentType": "unknown",
+      "salary": "$3.5k–$5k/month",
+      "postedDate": "2026-10-29T18:22:41.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI & Design Lead to turn product",
+      "workArrangement": "unknown",
+      "tags": [
+        "full-stack"
+      ]
+    },
+    {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000158575719",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Principal Solution Architect- ServiceNow",
+      "location": "Toronto, Ontario, ca · Remote",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T17:09:14.897Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0076386",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-administrator-at-adebra-solutions-4484901245",
+      "source": "linkedin",
+      "company": "Adebra Solutions",
+      "title": "Salesforce Administrator",
+      "location": "Regional Municipality of Peel, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-adebra-solutions-4484901245",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+      "source": "linkedin",
+      "company": "McKesson",
+      "title": "Lead Salesforce Solution Architect",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "ashby:jobs.ashbyhq.com/benevity/f943cad9-7eed-466f-8ff5-398ac15dd14d",
       "source": "ashby",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ly achieved two IPOs ( TSX: DCBO &"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": ":1.5em\\\">Docebo is an <a target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\" href=\\\"https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reade"
-        }
+      "company": "Benevity",
+      "title": "Senior Salesforce Administrator",
+      "location": "Calgary, Alberta",
+      "url": "https://jobs.ashbyhq.com/benevity/f943cad9-7eed-466f-8ff5-398ac15dd14d",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-10-28T21:43:28.498Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "MEET BENEVITY Benevity is the way the world does good, providing companies (and their employees) with technology to take social action on the issues they care about. Through giving, volunteering, grantmaking, employee resource groups and micro-actions, we help most of the Fortune 100 brands build better cultures and us",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "ashby:jobs.ashbyhq.com/benevity/78798ad7-2d39-497e-98af-dad3a2ea8e20",
+      "source": "ashby",
+      "company": "Benevity",
+      "title": "Senior Salesforce Administrator",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.ashbyhq.com/benevity/78798ad7-2d39-497e-98af-dad3a2ea8e20",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-10-28T21:43:19.188Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "MEET BENEVITY Benevity is the way the world does good, providing companies (and their employees) with technology to take social action on the issues they care about. Through giving, volunteering, grantmaking, employee resource groups and micro-actions, we help most of the Fortune 100 brands build better cultures and us",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
+      "source": "greenhouse",
+      "company": "9th Way Insignia",
+      "title": "ServiceNow Developer",
+      "location": "United States - Remote",
+      "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T21:41:50.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483654163",
+      "source": "linkedin",
+      "company": "Alimentiv",
+      "title": "ServiceNow Platform Specialist",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483654163",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-architect-at-tata-consultancy-services-4483870856",
+      "source": "linkedin",
+      "company": "Tata Consultancy Services",
+      "title": "ServiceNow Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-at-tata-consultancy-services-4483870856",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-servicenow-architect-at-optovia-4484139182",
+      "source": "linkedin",
+      "company": "Optovia",
+      "title": "Senior ServiceNow Architect",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-architect-at-optovia-4484139182",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-salesforce-at-lgs-an-ibm-company-4431150964",
+      "source": "linkedin",
+      "company": "LGS, an IBM Company",
+      "title": "Développeur Salesforce",
+      "location": "Ville-Marie, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-lgs-an-ibm-company-4431150964",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484135980",
+      "source": "linkedin",
+      "company": "Benevity",
+      "title": "Senior Salesforce Administrator",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484135980",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484142556",
+      "source": "linkedin",
+      "company": "Benevity",
+      "title": "Senior Salesforce Administrator",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484142556",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484146485",
+      "source": "linkedin",
+      "company": "Benevity",
+      "title": "Senior Salesforce Administrator",
+      "location": "Calgary, Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484146485",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/principal-salesforce-architect-ca-at-pointclickcare-4460996487",
+      "source": "linkedin",
+      "company": "PointClickCare",
+      "title": "Principal Salesforce Architect (CA)",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/principal-salesforce-architect-ca-at-pointclickcare-4460996487",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-architect-ca-at-pointclickcare-4460993936",
+      "source": "linkedin",
+      "company": "PointClickCare",
+      "title": "Senior Salesforce Architect (CA)",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-architect-ca-at-pointclickcare-4460993936",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "lever:jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108",
+      "source": "lever",
+      "company": "Alimentiv",
+      "title": "ServiceNow Platform Specialist",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-10-27T13:40:19.528Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Alimentiv is a global CRO with a singular focus: advancing therapies for patients with gastrointestinal diseases. GI is our WHY and for more than 30 years that purpose has driven our scientific rigour, operational excellence, and deep therapeutic expertise, including supporting more than 70% of IBD compounds in develop",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/principal-solution-architect-servicenow-at-servicenow-4484026843",
+      "source": "linkedin",
+      "company": "ServiceNow",
+      "title": "Principal Solution Architect- ServiceNow",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/principal-solution-architect-servicenow-at-servicenow-4484026843",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000157918029",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Staff Incident Response Engineer",
+      "location": "Vancouver, British Columbia, ca · Remote",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157918029",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T22:09:07.399Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0076504",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-onepoint-4481467806",
+      "source": "linkedin",
+      "company": "Onepoint",
+      "title": "Analyste / Administrateur Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-onepoint-4481467806",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-software-developer-%e2%80%93-salesforce-at-four-seasons-4466719005",
+      "source": "linkedin",
+      "company": "Four Seasons",
+      "title": "Senior Software Developer – Salesforce",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-developer-%E2%80%93-salesforce-at-four-seasons-4466719005",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-25T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4482677936",
+      "source": "linkedin",
+      "company": "Tata Consultancy Services",
+      "title": "Salesforce Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4482677936",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-25T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4438571090",
+      "source": "linkedin",
+      "company": "CGI",
+      "title": "Architecte de solutions (ServiceNow)",
+      "location": "Drummondville, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4438571090",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-ncino-developer-at-cognizant-4473387635",
+      "source": "linkedin",
+      "company": "Cognizant",
+      "title": "Salesforce nCino Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-ncino-developer-at-cognizant-4473387635",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-wepoint-4482350344",
+      "source": "linkedin",
+      "company": "Wepoint",
+      "title": "Analyste / Administrateur Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-wepoint-4482350344",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094",
+      "source": "linkedin",
+      "company": "Parkland Corporation",
+      "title": "Specialist- Salesforce Architect",
+      "location": "Calgary, Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/lead-specialist-servicenow-cmdb-solution-architect-deloitte-global-technology-at-deloitte-4474558762",
+      "source": "linkedin",
+      "company": "Deloitte",
+      "title": "Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/lead-specialist-servicenow-cmdb-solution-architect-deloitte-global-technology-at-deloitte-4474558762",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-23T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/lead-specialist-servicenow-grc-solution-architect-deloitte-global-technology-at-deloitte-4474570325",
+      "source": "linkedin",
+      "company": "Deloitte",
+      "title": "Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/lead-specialist-servicenow-grc-solution-architect-deloitte-global-technology-at-deloitte-4474570325",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-23T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-salesforce-at-croix-bleue-du-qu%c3%a9bec-4481967008",
+      "source": "linkedin",
+      "company": "Croix Bleue du Québec",
+      "title": "Développeur Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-croix-bleue-du-qu%C3%A9bec-4481967008",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-23T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-developer-at-chapman-tate-associates-4480658925",
+      "source": "linkedin",
+      "company": "Chapman Tate Associates",
+      "title": "Salesforce Developer",
+      "location": "British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-chapman-tate-associates-4480658925",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-23T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "remoteok:remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+      "source": "remoteok",
+      "company": "Lemon.io",
+      "title": "Senior DevOps Engineer",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 50000,
+        "max": 150000,
+        "currency": "USD"
+      },
+      "postedDate": "2026-10-22T12:58:28.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "devops, engineer, dev, python, golang, aws, gcp, kubernetes, sql, linux, ansible, ai, full time, full stack, remote, remote work",
+      "workArrangement": "remote",
+      "tags": [
+        "devops"
+      ]
+    },
+    {
+      "id": "workday:caatpension.wd10.myworkdayjobs.com/en-us/careers/job/toronto-on/servicenow-technical-lead_jr100193-1",
+      "source": "workday",
+      "company": "CAAT Pension Plan",
+      "title": "ServiceNow Technical Lead",
+      "location": "Toronto, ON",
+      "url": "https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T07:49:27.287Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "JR100193",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-take-two-interactive-4481160381",
+      "source": "linkedin",
+      "company": "Take-Two Interactive",
+      "title": "Senior Lead, ServiceNow ITOM",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-take-two-interactive-4481160381",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-cognizant-4481164192",
+      "source": "linkedin",
+      "company": "Cognizant",
+      "title": "Salesforce FSC Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-cognizant-4481164192",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-astra-north-infoteck-inc-%7e-conquering-today%e2%80%99s-challenges-achieving-tomorrow%e2%80%99s-vision%21-4481136121",
+      "source": "linkedin",
+      "company": "Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!",
+      "title": "Salesforce Revenue Cloud Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4481136121",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-architect-ftr-burnaby-remote-at-ntt-data-north-america-4413562749",
+      "source": "linkedin",
+      "company": "NTT DATA North America",
+      "title": "ServiceNow Architect - FTR - Burnaby (remote)",
+      "location": "Burnaby, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-ftr-burnaby-remote-at-ntt-data-north-america-4413562749",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-architect-at-lyft-4473050209",
+      "source": "linkedin",
+      "company": "Lyft",
+      "title": "Salesforce Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-at-lyft-4473050209",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-architect-at-cgi-4408560005",
+      "source": "linkedin",
+      "company": "CGI",
+      "title": "Salesforce Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-at-cgi-4408560005",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-20T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6228534004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Product Developer, Salesforce",
+      "location": "Remote - India (Bangalore, Hyderabad, Pune or Delhi Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6228534004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-19T18:42:34.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-movable-ink-4453734384",
+      "source": "linkedin",
+      "company": "Movable Ink",
+      "title": "Senior Salesforce Administrator",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-movable-ink-4453734384",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-19T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454544020",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Senior Technical Consultant, ServiceNow Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454544020",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-18T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454532959",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Consultant, ServiceNow Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454532959",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-18T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/lead-servicenow-architecture-consultant-at-cgi-4463692648",
+      "source": "linkedin",
+      "company": "CGI",
+      "title": "Lead ServiceNow Architecture Consultant",
+      "location": "Calgary, Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/lead-servicenow-architecture-consultant-at-cgi-4463692648",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-18T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454531951",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Senior Consultant, Developer, ServiceNow",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454531951",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-17T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000156069368",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Toronto, Ontario, ca · Remote",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156069368",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T19:25:34.080Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0074896",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000156040224",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Staff Site Reliability Engineer",
+      "location": "Toronto, Ontario, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156040224",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T16:18:12.809Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0076283",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-d%c3%a9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480397231",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480397231",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-d%c3%a9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480500031",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480500031",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480399040",
+      "source": "linkedin",
+      "company": "KPMG Canada",
+      "title": "Directeur.rice - Architecte de solutions ServiceNow",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480399040",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726",
+      "source": "linkedin",
+      "company": "IKO North America",
+      "title": "Salesforce Senior Developer",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-administrator-at-doctors-of-bc-4479631375",
+      "source": "linkedin",
+      "company": "Doctors of BC",
+      "title": "Salesforce Administrator",
+      "location": "Greater Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-doctors-of-bc-4479631375",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6225384004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Consultant, Revenue Cloud",
+      "location": "Remote - India (Delhi/NCR, Hyderabad, Bangalore, Pune, Jaipur Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6225384004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-15T14:51:25.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-communications-cloud-architect-at-tata-consultancy-services-4479107523",
+      "source": "linkedin",
+      "company": "Tata Consultancy Services",
+      "title": "Salesforce Communications Cloud Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-communications-cloud-architect-at-tata-consultancy-services-4479107523",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-15T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce",
+        "devops"
+      ]
+    },
+    {
+      "id": "remotive:remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "remotive",
+      "company": "Mitre Media",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "location": "USA, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "employmentType": "unknown",
+      "salary": "$170k - $200k",
+      "postedDate": "2026-10-14T20:33:44.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investo",
+      "workArrangement": "unknown",
+      "tags": [
+        "full-stack"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6222640004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Technical Architect",
+      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222640004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-12T18:47:23.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6222636004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Technical Architect",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222636004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-12T18:46:08.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6222627004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Solution Architect, Revenue Cloud",
+      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222627004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-12T18:36:18.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6222626004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Solution Architect, Revenue Cloud",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222626004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-12T18:30:39.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-consultant-servicenow-hrsd-at-infosys-4476048073",
+      "source": "linkedin",
+      "company": "Infosys",
+      "title": "Senior Consultant - ServiceNow HRSD",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-hrsd-at-infosys-4476048073",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-12T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-consultant-servicenow-csm-at-infosys-4476036476",
+      "source": "linkedin",
+      "company": "Infosys",
+      "title": "Senior Consultant - ServiceNow CSM",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-csm-at-infosys-4476036476",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-12T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/architecte-applicatif-salesforce-at-national-bank-of-canada-4475624025",
+      "source": "linkedin",
+      "company": "National Bank of Canada",
+      "title": "Architecte applicatif Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/architecte-applicatif-salesforce-at-national-bank-of-canada-4475624025",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Salesforce architect · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000154789179",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "Staff Database Engineer",
+      "location": "Toronto, Ontario, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000154789179",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-09T22:43:34.604Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "Req JB0073869",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "remoteok:remoteok.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+      "source": "remoteok",
+      "company": "Lemon.io",
+      "title": "Senior React Full stack Developer",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 80000,
+        "max": 200000,
+        "currency": "USD"
+      },
+      "postedDate": "2026-10-09T13:09:18.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "dev, engineer, remote, python, aws, gcp, javascript, react, node, ruby, typescript, full time, full stack",
+      "workArrangement": "remote",
+      "tags": [
+        "full-stack"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/intermediate-servicenow-business-analyst-at-newport-williams-4475241625",
+      "source": "linkedin",
+      "company": "Newport Williams",
+      "title": "Intermediate ServiceNow Business Analyst",
+      "location": "Vaughan, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/intermediate-servicenow-business-analyst-at-newport-williams-4475241625",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6220751004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Project Manager",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220751004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-08T17:37:27.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6220750004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Project Manager",
+      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220750004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-08T17:35:56.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/it-business-analyst-servicenow-at-redpath-mining-4475459467",
+      "source": "linkedin",
+      "company": "REDPATH MINING",
+      "title": "IT Business Analyst (ServiceNow)",
+      "location": "Vaughan, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/it-business-analyst-servicenow-at-redpath-mining-4475459467",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-07T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6218559004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Technical Architect, AI and Agentforce",
+      "location": "Remote - Colombia",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6218559004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-06T19:28:42.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6218552004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Technical Architect, AI and Agentforce",
+      "location": "Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6218552004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-06T19:27:13.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6218548004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Technical Architect, AI and Agentforce",
+      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6218548004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-06T19:26:01.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6218544004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Agentforce Architect (Technical Architect)",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6218544004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-06T19:21:50.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6214097004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Data Architect, Revenue Solutions",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6214097004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-01T15:50:04.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471632752",
+      "source": "linkedin",
+      "company": "Harris Computer",
+      "title": "ServiceNow Administrator / Automation Analyst",
+      "location": "Prince Edward Island, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471632752",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471642446",
+      "source": "linkedin",
+      "company": "Harris Computer",
+      "title": "ServiceNow Administrator / Automation Analyst",
+      "location": "Newfoundland and Labrador, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471642446",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471646313",
+      "source": "linkedin",
+      "company": "Harris Computer",
+      "title": "ServiceNow Administrator / Automation Analyst",
+      "location": "Saskatchewan, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471646313",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471633698",
+      "source": "linkedin",
+      "company": "Harris Computer",
+      "title": "ServiceNow Administrator / Automation Analyst",
+      "location": "Manitoba, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471633698",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471643484",
+      "source": "linkedin",
+      "company": "Harris Computer",
+      "title": "ServiceNow Administrator / Automation Analyst",
+      "location": "Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471643484",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-29T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471644440",
+      "source": "linkedin",
+      "company": "Harris Computer",
+      "title": "ServiceNow Administrator / Automation Analyst",
+      "location": "British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471644440",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-29T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471637639",
+      "source": "linkedin",
+      "company": "Harris Computer",
+      "title": "ServiceNow Administrator / Automation Analyst",
+      "location": "Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471637639",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-29T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471640468",
+      "source": "linkedin",
+      "company": "Harris Computer",
+      "title": "ServiceNow Administrator / Automation Analyst",
+      "location": "New Brunswick, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471640468",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-29T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471631750",
+      "source": "linkedin",
+      "company": "Harris Computer",
+      "title": "ServiceNow Administrator / Automation Analyst",
+      "location": "Nova Scotia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471631750",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-29T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-administrator-developer-intermediate-at-bfg-enterprise-services-4470744926",
+      "source": "linkedin",
+      "company": "BFG Enterprise Services",
+      "title": "ServiceNow Administrator / Developer (Intermediate)",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-intermediate-at-bfg-enterprise-services-4470744926",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-26T00:00:00.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6206506004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Manager, AI & Agentforce Delivery",
+      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6206506004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-24T17:37:41.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6206503004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Manager, AI & Agentforce Delivery",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6206503004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-24T17:36:06.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6206511004",
+      "source": "greenhouse",
+      "company": "NeuraFlash",
+      "title": "Salesforce Sr. Developer, AI & Agentforce",
+      "location": "Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6206511004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-09-24T17:34:01.000Z",
+      "scrapedAt": "2026-11-07T07:49:27.287Z",
+      "excerpt": "",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
       ]
     }
   ]
