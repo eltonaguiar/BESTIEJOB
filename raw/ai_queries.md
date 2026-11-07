@@ -1,4 +1,4 @@
-# AI panel keyword proposals — 2026-11-03T21:39:07Z
+# AI panel keyword proposals — 2026-11-07T07:15:52Z
 
 5/6 peers answered · 12 keywords kept, 0 dropped
 
@@ -8,9 +8,9 @@
 - `itam analyst`
 - `servicenow gsd`
 - `salesforce apex`
+- `salesforce lightning`
 - `salesforce pardot`
-- `salesforce wave`
 - `servicenow table`
-- `salesforce integration`
+- `salesforce wave`
 - `servicenow event`
-- `salesforce commerce`
+- `salesforce process`

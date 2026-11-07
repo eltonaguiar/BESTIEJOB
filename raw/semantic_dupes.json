@@ -1,7 +1,1734 @@
 {
-  "generated_at": "2026-11-04T00:39:19.607237+00:00",
-  "rows": 1560,
-  "clusters": 0,
-  "drop": 0,
-  "pairs": []
+  "generated_at": "2026-11-07T07:18:09.772279+00:00",
+  "rows": 1234,
+  "clusters": 95,
+  "drop": 161,
+  "pairs": [
+    [
+      {
+        "posted": "2026-11-06",
+        "title": "Staff Systems Engineer",
+        "company": "ServiceNow",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160277860"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Staff Systems Engineer",
+        "company": "ServiceNow",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160278249"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "Staff Systems Engineer",
+        "company": "ServiceNow",
+        "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Staff Systems Engineer",
+        "company": "ServiceNow",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160277860"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Staff Systems Engineer",
+        "company": "ServiceNow",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160278249"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Staff Site Reliability Engineer, Canada Protected B",
+        "company": "ServiceNow",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159519949"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Staff Site Reliability Engineer, Canada Protected B",
+        "company": "ServiceNow",
+        "url": "https://ca.linkedin.com/jobs/view/staff-site-reliability-engineer-canada-protected-b-at-servicenow-4487203515"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Staff Site Reliability Engineer, Canada Protected B",
+        "company": "ServiceNow",
+        "url": "https://www.adzuna.ca/details/5955917180"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Staff Site Reliability Engineer, Canada Protected B",
+        "company": "ServiceNow",
+        "url": "https://www.adzuna.ca/details/5952726500"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Staff Site Reliability Engineer, Canada Protected B",
+        "company": "ServiceNow",
+        "url": "https://www.adzuna.ca/details/5955917180"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Site Reliability Engineer, Canada Protected B",
+        "company": "ServiceNow",
+        "url": "https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-canada-protected-b-at-servicenow-4487200713"
+      },
+      {
+        "posted": "2026-11-03",
+        "title": "Senior Site Reliability Engineer, Canada Protected B",
+        "company": "ServiceNow",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159518980"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Senior Site Reliability Engineer, Canada Protected B",
+        "company": "ServiceNow",
+        "url": "https://www.adzuna.ca/details/5955916244"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Senior Site Reliability Engineer, Canada Protected B",
+        "company": "ServiceNow",
+        "url": "https://www.adzuna.ca/details/5955916244"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Principal Solution Architect- ServiceNow",
+        "company": "ServiceNow",
+        "url": "https://www.adzuna.ca/details/5949576383"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Principal Solution Architect- ServiceNow",
+        "company": "ServiceNow, Inc.",
+        "url": "https://www.adzuna.ca/details/5947778885"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "Principal Solution Architect- ServiceNow",
+        "company": "ServiceNow",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "Principal Solution Architect- ServiceNow",
+        "company": "ServiceNow",
+        "url": "https://www.adzuna.ca/details/5946065109"
+      },
+      {
+        "posted": "2026-10-27",
+        "title": "Principal Solution Architect- ServiceNow",
+        "company": "ServiceNow",
+        "url": "https://ca.linkedin.com/jobs/view/principal-solution-architect-servicenow-at-servicenow-4484026843"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-29",
+        "title": "Sr. Consultant, Value Excellence",
+        "company": "ServiceNow",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158578039"
+      },
+      {
+        "posted": "2026-11-01",
+        "title": "Sr. Consultant, Value Excellence",
+        "company": "ServiceNow",
+        "url": "https://www.adzuna.ca/details/5949576289?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-26",
+        "title": "Staff Incident Response Engineer",
+        "company": "ServiceNow",
+        "url": "https://ca.linkedin.com/jobs/view/staff-incident-response-engineer-at-servicenow-4483125674"
+      },
+      {
+        "posted": "2026-10-26",
+        "title": "Staff Incident Response Engineer",
+        "company": "ServiceNow",
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157918029"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Consultant - FSC Cloud",
+        "company": "Enterprise Solutions Inc.",
+        "url": "https://www.adzuna.ca/details/5951978948"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "Salesforce Consultant - FSC Cloud",
+        "company": "Enterprise Solutions Inc.",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-fsc-cloud-at-enterprise-solutions-inc-4483663839"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-29",
+        "title": "Sp\u00e9cialiste / D\u00e9veloppeur ServiceNow",
+        "company": "TEHORA",
+        "url": "https://www.adzuna.ca/details/5946005577?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "Sp\u00e9cialiste / D\u00e9veloppeur ServiceNow",
+        "company": "TEHORA",
+        "url": "https://www.adzuna.ca/details/5946005340?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Strategic Portfolio Management (SPM) Consultant",
+        "company": "RSM Canada",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-strategic-portfolio-management-spm-consultant-at-rsm-canada-4405749125"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Strategic Portfolio Management (SPM) Consultant",
+        "company": "RSM US LLP",
+        "url": "https://www.adzuna.ca/details/5946001982?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Support Analyst, ITSM - McCarthy T\u00e9trault LLP / Vancouver, BC",
+        "company": "Unknown",
+        "url": "https://www.simplyhired.ca/job/aFa4FbbeuUWkqAmh09laHxIvYMELNj7tI7DbavaO7BzzBS9smdWAsQ"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Support Analyst, ITSM - McCarthy T\u00e9trault LLP / Vancouver, BC",
+        "company": "Unknown",
+        "url": "https://www.workopolis.com/jobsearch/viewjob/5v7TtNilbOx1jyPHM9vopCtqU8GvwwcopchJxskAl4oyQsXVYeK8-_h_NqStclpp"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Technical Implementation Specialist",
+        "company": "Unknown",
+        "url": "https://www.accenture.com/ca-en/careers/jobdetails?id=R00294571_en"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Implementation Specialist",
+        "company": "Unknown",
+        "url": "https://www.accenture.com/ca-en/careers/jobdetails?id=R00299388_en"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "SERVICENOW Implementation Specialist",
+        "company": "Unknown",
+        "url": "https://jobgether.com/offer/6a1746fdcd512907df72dc15-servicenow-implementation-specialist"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Developer Lead / Architect / LATAM / Willow",
+        "company": "Unknown",
+        "url": "https://willow.2kool4u.net/remote-jobs/servicenow-developer-lead-architect-latam"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Developer Lead / Architect / LATAM / Flexgen",
+        "company": "Unknown",
+        "url": "https://flexgen.zya.me/job/servicenow-developer-lead-architect-latam-2"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Business Analyst-Canada job with Zortech Solutions / 14230476",
+        "company": "Unknown",
+        "url": "https://jobs.accaglobal.com/job/14230476/servicenow-business-analyst-canada"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Business Analyst-Canada job with Zortech Solutions / 14213007",
+        "company": "Unknown",
+        "url": "https://jobs.accaglobal.com/job/14213007/servicenow-business-analyst-canada/"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Business Analyst (CSM) - Remote",
+        "company": "Unknown",
+        "url": "https://careers.cognizant.com/global-en/jobs/00069905661/servicenow-business-analyst-csm-remote"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Business Analyst (CSM) - Remote",
+        "company": "Unknown",
+        "url": "https://careers.cognizant.com/us-en/jobs/00069905661/servicenow-business-analyst-csm-remote"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Business Analyst",
+        "company": "Unknown",
+        "url": "https://careers.cognizant.com/us-en/jobs/00070352631/servicenow-business-analyst"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow Business Analyst",
+        "company": "Unknown",
+        "url": "https://www.learn4good.com/jobs/calgary/canada/info_technology/5435813785/e/"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Business Systems Analyst, ServiceNow CSM - EN 125 Job at Export Development Canada / Exportation et d\u00e9veloppement Canada",
+        "company": "Unknown",
+        "url": "https://employmenthero.com/en-ca/jobs/position/careerbeacon-demo-senior-business-systems-analyst-servicenow-csm-en-125-g20dn"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Business Systems Analyst, ServiceNow CSM - EN 125 Job at Export Development Canada / Exportation et d\u00e9veloppement Canada",
+        "company": "Unknown",
+        "url": "https://www.careerbeacon.com/en/job-9/3715546/export-development-canada-exportation-et-developpement-canada/senior-business-systems-analyst-servicenow-csm-en-125/calgary-ab"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Business Systems Analyst, ServiceNow CSM - EN 125 / Export Development Canada / Exportation et d\u00e9veloppement Canada / Jobs by Workable",
+        "company": "Unknown",
+        "url": "https://jobs.workable.com/view/uraC6Uf1h8Kio8QB1QCq6Q/hybrid-senior-business-systems-analyst%2C-servicenow-csm---en-125-in-ottawa-at-export-development-canada-%7C-exportation-et-d%C3%A9veloppement-canada"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Business Systems Analyst, ServiceNow CSM - EN 125 / Export Development Canada / Exportation et d\u00e9veloppement Canada / Jobs by Workable",
+        "company": "Unknown",
+        "url": "https://jobs.workable.com/view/5y9TmpwHVoi5k9wzKVb1wC/hybrid-senior-business-systems-analyst%2C-servicenow-csm---en-125-in-halifax-at-export-development-canada-%7C-exportation-et-d%C3%A9veloppement-canada"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Business Systems Analyst, ServiceNow CSM - EN 125 - Export Development Canada / Exportation et d\u00e9veloppement Canada / Toronto, ON",
+        "company": "Unknown",
+        "url": "https://www.workopolis.com/jobsearch/viewjob/X2IlNMk0vDhD_dhy_qTbpXszY_7-exMTPrtZ0Y-Es3kxqQs9RfGZs1a3Ed3CoHA3"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Business Systems Analyst, ServiceNow CSM - EN 125 - Export Development Canada / Exportation et d\u00e9veloppement Canada / Calgary, AB",
+        "company": "Unknown",
+        "url": "https://www.simplyhired.ca/job/MXfiXdJ2FDKffanT4dXDloi8HceJOUPuKX3XsDkElQdiC2UKsN0U6Q"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "ITSM Process Manager - Heritage Computer Services / Calgary, AB",
+        "company": "Unknown",
+        "url": "https://www.simplyhired.ca/job/EkbuNvMi4p9oyf-rTYW-zLlWKuM5qFYB3sz0phI2OAaPIAJOibM6zQ"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "ITSM Process Manager - Heritage Computer Services / Calgary, AB",
+        "company": "Unknown",
+        "url": "https://www.workopolis.com/jobsearch/viewjob/2brTX6rwh8nakUPFvg_tGYVvwgBflmV-pgW9SJ1a3pjbyONB2PgrtckWuc6Iy01h"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce developer Jobs in Vancouver, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-developer-l-vancouver-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce developer Jobs in Surrey, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-developer-l-surrey-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce developer Jobs in Burnaby, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-developer-l-burnaby-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce business analyst Jobs in Vancouver, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-business-analyst-l-vancouver-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce business analyst Jobs in Toronto, ON / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-business-analyst-l-scarborough-on"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce business analyst Jobs in Richmond Hill, ON / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-business-analyst-l-richmond-hill-on"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce business analyst Jobs in Oakville, ON / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-business-analyst-l-oakville-on"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce business analyst Jobs in Brampton, ON / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-business-analyst-l-brampton-on"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce business analyst Jobs in Ajax, ON / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-business-analyst-l-ajax-on"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce administrator Jobs in Vancouver, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-vancouver-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce administrator Jobs in Richmond, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-richmond-bc?p=2&showSignInModal=true"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce administrator Jobs in Richmond, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-richmond-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce administrator Jobs in North Vancouver, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-north-vancouver-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce administrator Jobs in Burnaby, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-burnaby-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "systems administrator Jobs in Vancouver, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-systems-administrator-l-vancouver-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "systems administrator Jobs in North Vancouver, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-systems-administrator-l-north-vancouver-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "systems administrator Jobs in Burnaby, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-systems-administrator-l-burnaby-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "crm analyst Jobs in Vancouver, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-crm-analyst-l-vancouver-bc"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce administrator Jobs in Ottawa, ON / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-ottawa-on?p=2&showSignInModal=true"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce administrator Jobs in Ottawa, ON / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-ottawa-on"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "salesforce administrator Jobs in Brampton, ON / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-salesforce-administrator-l-brampton-on"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Software Developer - CRM Salesforce - Servus Credit Union in Calgary / Jobstore",
+        "company": "Unknown",
+        "url": "https://www.jobstore.com/ca/job/l7367702/software-developer-crm-salesforce-job"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Software Developer - CRM Salesforce - Servus Credit Union / Calgary, AB",
+        "company": "Unknown",
+        "url": "https://www.simplyhired.ca/job/BQFapMf_JL5a1W3kfyCGsyvJSOt9tS45B-GlGDT-Nc1RWsEIDDEvig"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Salesforce Developer @ Docker",
+        "company": "Unknown",
+        "url": "https://jobs.ashbyhq.com/docker/378b10e7-0e0f-4d01-885b-c769d9e260e8?embed=js"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Salesforce Developer (Remote)",
+        "company": "Unknown",
+        "url": "https://jobgether.com/offer/6a5f9e971b23f4f87b2d22ee-senior-salesforce-developer-remote"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Salesforce Developer (Hybrid - Vancouver)",
+        "company": "Unknown",
+        "url": "https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5026909007"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Solution Architect \u2013 Hybrid \u00b7 Vancouver, BC / Jobs.ca",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/ia-financial-group/jobs/salesforce-solution-architect-vancouver-bc-8cf0f37d29d4"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Solution Architect \u2013 Hybrid \u00b7 Vancouver, BC / Jobs.ca",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/connor-clark-lunn-financial-group-ltd/jobs/salesforce-solution-architect-vancouver-bc-5fad5396be4e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Developer \u2013 100% Remote (Canada) - Remote",
+        "company": "Unknown",
+        "url": "https://www.tealhq.com/job/salesforce-developer_7ea1af84788f822231587e475c65879fbf953"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Developer",
+        "company": "Unknown",
+        "url": "https://jobgether.com/offer/6a73572de9f5b786586b62f1-salesforce-developer"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Administrator \u2013 Remote \u00b7 Canada / Lorven Technologies Inc.",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/lorven-technologies-inc/jobs/salesforce-administrator-remote-canada-d70700893805"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Administrator \u2013 Remote \u00b7 Canada / Lorven Technologies Inc.",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/lorven-technologies-inc/jobs/salesforce-administrator-remote-canada-14a5a123f54f"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Administrator at Doctors of BC \u2013 Vancouver, BC, Canada / TheJobsMap",
+        "company": "Unknown",
+        "url": "https://www.thejobsmap.com/job/0992ee95-1fa1-43ed-a23d-fcab7ed1bd74"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Administrator - Doctors of BC / Vancouver, BC",
+        "company": "Unknown",
+        "url": "https://www.simplyhired.ca/job/8wqnC-XfpqVrkYrxrmSqP1FhjnL6xhK8wD5WW1kyXqfbPUS49klSWQ"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Administrator - Doctors of BC / Vancouver, BC",
+        "company": "Unknown",
+        "url": "https://www.workopolis.com/jobsearch/viewjob/byyFG_nmRQ0BKLMe5GUOSGsYYAHzFDewCXc7iRnQeNykkAyGuF37XTTRlydcpl7S"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Offres d'emploi salesforce business analyst \u00e0 Toronto, ON / Postulez maintenant / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/fr/jobs/k-salesforce-business-analyst-l-scarborough-on"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Offres d'emploi salesforce business analyst \u00e0 Richmond, BC / Postulez maintenant / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/fr/jobs/k-salesforce-business-analyst-l-richmond-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Offres d'emploi salesforce business analyst \u00e0 Markham, ON / Postulez maintenant / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/fr/jobs/k-salesforce-business-analyst-l-markham-on"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Offres d'emploi crm analyst \u00e0 Vancouver, BC / Postulez maintenant / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/fr/jobs/k-crm-analyst-l-vancouver-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Offres d'emploi crm analyst \u00e0 Toronto, ON / Postulez maintenant / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/fr/jobs/k-crm-analyst-l-north-york-on"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "it operations manager Jobs in Vancouver, BC / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-it-operations-manager-l-vancouver-bc"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "it operations manager Jobs in Toronto, ON / Hiring Now / Talent.com",
+        "company": "Unknown",
+        "url": "https://ca.talent.com/jobs/k-it-operations-manager-l-toronto-on"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Service Desk Analyst - Remote Job at Employment Hero",
+        "company": "Unknown",
+        "url": "https://employmenthero.com/en-ca/jobs/position/employment-hero-service-desk-analyst-remote-xt0n9/"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Service Desk Analyst - Remote Job at Employment Hero",
+        "company": "Unknown",
+        "url": "https://employmenthero.com/uk/jobs/position/employment-hero-service-desk-analyst-remote-xt0n9/"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Platform Engineer / Clio",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/clio/jobs/senior-platform-engineer-remote-canada-51e84cd474e7"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Platform Engineer / Clio",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/clio/jobs/senior-platform-engineer-remote-canada-2a0a65c4eef5"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Platform Engineer / Clio",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/clio/jobs/senior-platform-engineer-remote-canada-18f15941c04e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Full-Stack Software Developer - CRM",
+        "company": "Unknown",
+        "url": "https://ats.rippling.com/en-CA/gaiias-open-positions/jobs/2bdbc3de-66ed-45f6-b3c6-8c5826b712d7"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Senior Full-Stack Software Developer - CRM",
+        "company": "Unknown",
+        "url": "https://ats.rippling.com/gaiias-open-positions/jobs/2bdbc3de-66ed-45f6-b3c6-8c5826b712d7"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Manager, Service Management / Dayforce Jobs",
+        "company": "Unknown",
+        "url": "https://jobs.dayforcehcm.com/upp/externalcandidateportal/jobs/2300"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Manager, Service Management / Dayforce Jobs",
+        "company": "Unknown",
+        "url": "https://jobs.dayforcehcm.com/en-US/upp/externalcandidateportal/jobs/2300"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Lead Dynamics 365 CRM Developer",
+        "company": "Unknown",
+        "url": "https://ats.rippling.com/en-CA/cloud-synapps-inc/jobs/440cfa90-1c79-47d8-a759-d359650ee2bb"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Dynamics 365 CRM Lead",
+        "company": "Unknown",
+        "url": "https://jobgether.com/offer/6a817558490731f1e1a8b8d9-dynamics-365-crm-lead"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "IT Service Delivery Manager \u2013 Hybrid \u00b7 Vancouver, BC / Vanderlande",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/vanderlande/jobs/it-service-delivery-manager-vancouver-bc-c7a5797f20bf"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "IT Service Delivery Manager \u2013 Hybrid \u00b7 Vancouver, BC / Vanderlande",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/vanderlande/jobs/it-service-delivery-manager-vancouver-bc-06797e09aec1"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "IT Operations Manager \u2013 Toronto, ON / Cardata",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/cardata/jobs/it-operations-manager-toronto-on-712e67e2f5ab"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "IT Operations Manager / Toronto",
+        "company": "Unknown",
+        "url": "https://www.jobleads.com/ca/job/it-operations-manager--toronto--ebe16bf5698a870bcdc9a3f5fb4a62879"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Help Desk Manager at Assistiq",
+        "company": "Unknown",
+        "url": "https://hirocareers.com/jobs/dcf089ce-fc27-4ee1-8128-b767b9e97a58"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Help Desk Manager at AssistIQ",
+        "company": "Unknown",
+        "url": "https://meterwork.com/job/help-desk-manager_at_assistiq_v9Yur"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Help Desk Manager @ AssistIQ",
+        "company": "Unknown",
+        "url": "https://www.tealhq.com/job/help-desk-manager_7ea1aff439991e6c99d17188c9f869c2f1434"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Ai Platform Administrator at ABC Fitness / Workopia",
+        "company": "Unknown",
+        "url": "https://workopia.io/jobs/f283458f90057de6c4a6aaee1c6e69e6"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "AI Platform Administrator \u2013 Remote \u00b7 Ontario, Canada / ABC Fitness",
+        "company": "Unknown",
+        "url": "https://www.jobs.ca/abc-financial-services/jobs/ai-platform-administrator-remote-ontario-canada-8d1c0942e627"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "AI Platform Administrator at Millenilink",
+        "company": "Unknown",
+        "url": "https://meterwork.com/job/ai-platform-administrator_at_millenilink_X5OQj"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "AI Platform Administrator",
+        "company": "Unknown",
+        "url": "https://jobgether.com/offer/6a7f50be490731f1e1a081fa-ai-platform-administrator"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "ServiceNow SAM Administrator - ITAM",
+        "company": "BMO",
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096"
+      },
+      {
+        "posted": "2026-11-03",
+        "title": "ServiceNow SAM Administrator - ITAM",
+        "company": "BMO",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-30",
+        "title": "Manager, Banking Salesforce Innovation &amp; Enablement",
+        "company": "BMO",
+        "url": "https://ca.linkedin.com/jobs/view/manager-banking-salesforce-innovation-enablement-at-bmo-4484273515"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Manager, Banking Salesforce Innovation & Enablement",
+        "company": "BMO",
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Manager--Salesforce-Innovation---Enablement_R260030015"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Senior ServiceNow Engineer",
+        "company": "EQ Bank",
+        "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-engineer-at-eq-bank-4470497806"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "Senior ServiceNow Engineer",
+        "company": "EQ Bank / Canada's Challenger Bank",
+        "url": "https://www.adzuna.ca/details/5946006839?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-29",
+        "title": "ITAM Governance Analyst",
+        "company": "Insight Global",
+        "url": "https://www.adzuna.ca/details/5946008454?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-25",
+        "title": "ITAM Governance Analyst",
+        "company": "Insight Global",
+        "url": "https://www.adzuna.ca/details/5941206005?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Manager - ServiceNow",
+        "company": "KPMG",
+        "url": "https://www.adzuna.ca/details/5949968733?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Manager - ServiceNow",
+        "company": "KPMG",
+        "url": "https://www.adzuna.ca/details/5947366387?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-30",
+        "title": "Senior Consultant, ServiceNow",
+        "company": "KPMG Canada",
+        "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4485296202"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "Senior Consultant, ServiceNow (34437)",
+        "company": "KPMG Canada",
+        "url": "https://careers.kpmg.ca/jobs/34437"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "Senior Consultant, ServiceNow",
+        "company": "KPMG",
+        "url": "https://www.adzuna.ca/details/5946243019?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-02",
+        "title": "ServiceNow Developer",
+        "company": "Rexall Pharmacy Group Ltd.",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-rexall-pharmacy-group-ltd-4485752549"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "ServiceNow Developer",
+        "company": "Rexall Pharmacy Group Ltd.",
+        "url": "https://ca.linkedin.com/jobs/view/4485752549"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Stage coop\u00e9ratif - Hiver 2027 Analyste ServiceNow (4 months)",
+        "company": "CGI",
+        "url": "https://www.adzuna.ca/details/5948954490?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Stage coop\u00e9ratif - Hiver 2027 Analyste ServiceNow (4 months)",
+        "company": "CGI",
+        "url": "https://ca.linkedin.com/jobs/view/stage-coop%C3%A9ratif-hiver-2027-analyste-servicenow-4-months-at-cgi-4469236664"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "D\u00e9veloppeur(se) ServiceNow Senior \u2013 ITSM",
+        "company": "CGI",
+        "url": "https://www.adzuna.ca/details/5949011727?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-24",
+        "title": "D\u00e9veloppeur ServiceNow ITSM senior",
+        "company": "CGI",
+        "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-servicenow-itsm-senior-at-cgi-4434789024"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team (req 133759)",
+        "company": "Toronto or Burlington, ON",
+        "url": "https://careers.deloitte.ca/job/Senior-Consultant%2C-ServiceNow-Platform-Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team/133759-en_US/"
+      },
+      {
+        "posted": "2026-11-01",
+        "title": "Senior Consultant, Salesforce Platform - Deloitte Technology Canada (DTC), Platform Team (req 133770)",
+        "company": "Toronto, Burlington ON or Fredericton NB",
+        "url": "https://careers.deloitte.ca/job/Senior-Consultant%2C-Salesforce-Platform-%28Deloitte-Technology-Canada-%28DTC%29%2C-Platform-Team%29/133770-en_US/"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology",
+        "company": "Deloitte",
+        "url": "https://www.adzuna.ca/details/5949971682"
+      },
+      {
+        "posted": "2026-11-01",
+        "title": "Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology",
+        "company": "Deloitte",
+        "url": "https://www.adzuna.ca/details/5949971672?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-23",
+        "title": "Lead Specialist, ServiceNow GRC Solution Architect, Deloitte Global Technology",
+        "company": "Deloitte",
+        "url": "https://ca.linkedin.com/jobs/view/lead-specialist-servicenow-grc-solution-architect-deloitte-global-technology-at-deloitte-4474570325"
+      },
+      {
+        "posted": "2026-10-23",
+        "title": "Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology",
+        "company": "Deloitte",
+        "url": "https://ca.linkedin.com/jobs/view/lead-specialist-servicenow-cmdb-solution-architect-deloitte-global-technology-at-deloitte-4474558762"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-23",
+        "title": "Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology",
+        "company": "Deloitte",
+        "url": "https://ca.linkedin.com/jobs/view/technical-delivery-mgr-servicenow-irm-sec-ops-deloitte-global-technology-at-deloitte-4482812205"
+      },
+      {
+        "posted": "2026-10-23",
+        "title": "Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology",
+        "company": "Deloitte",
+        "url": "https://www.adzuna.ca/details/5939808966?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-22",
+        "title": "Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology",
+        "company": "Deloitte",
+        "url": "https://www.adzuna.ca/details/5938629826?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Developer - Digital Customer : Future Opportunities",
+        "company": "Deloitte",
+        "url": "https://www.adzuna.ca/details/5952232489"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Developer - Digital Customer: Future Opportunities",
+        "company": "Deloitte Canada",
+        "url": "https://www.jobs.ca/deloitte/jobs/salesforce-developer-digital-customer-future-opportunities-toronto-on-3fbdd58702c2"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "LinkedIn",
+        "company": "Deloitte",
+        "url": "https://ca.linkedin.com/jobs/view/process-lead-architect-customer-service-management-at-deloitte-4460519030"
+      },
+      {
+        "posted": "2026-11-01",
+        "title": "LinkedIn",
+        "company": "Deloitte",
+        "url": "https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-intelligence-artificielle-now-assist-at-deloitte-4459418991"
+      },
+      {
+        "posted": "2026-11-01",
+        "title": "LinkedIn",
+        "company": "Deloitte",
+        "url": "https://ca.linkedin.com/jobs/view/senior-consultant-it-operations-management-discovery-at-deloitte-4460512143"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-31",
+        "title": "Senior ServiceNow Architect",
+        "company": "Optovia",
+        "url": "https://www.adzuna.ca/details/5948277202"
+      },
+      {
+        "posted": "2026-10-28",
+        "title": "Senior ServiceNow Architect",
+        "company": "Optovia",
+        "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-architect-at-optovia-4484139182"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-22",
+        "title": "ServiceNow Technical Lead",
+        "company": "CAAT Pension Plan",
+        "url": "https://www.adzuna.ca/details/5937649084?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-21",
+        "title": "ServiceNow Technical Lead",
+        "company": "CAAT Pension Plan",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-lead-at-caat-pension-plan-4481155245"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Developer - Remote (USA) - ICF",
+        "company": "Remote (US)",
+        "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Salesforce-Developer---Remote--USA-_R2603624"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Developer - ICF",
+        "company": "Remote (US)",
+        "url": "https://remotive.com/remote/jobs/software-development/salesforce-developer-6391386"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-30",
+        "title": "ServiceNow OMT Architect",
+        "company": "Alldus",
+        "url": "https://www.adzuna.ca/details/5947169729?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-27",
+        "title": "ServiceNow OMT Architect",
+        "company": "Alldus",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-omt-architect-at-alldus-4481891732"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-30",
+        "title": "ServiceNow CSM/OMT Architect \u2013 12-Month Contract",
+        "company": "Alldus",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-csm-omt-architect-%E2%80%93-12-month-contract-at-alldus-4481452768"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow CSM/OMT Architect \u2013 12-Month Contract",
+        "company": "Alldus",
+        "url": "https://www.adzuna.ca/details/5946004861?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Developer \u2013 S2P",
+        "company": "Alldus",
+        "url": "https://ca.linkedin.com/jobs/view/4483056086"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Developer \u2013 S2P",
+        "company": "Alldus",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-%E2%80%93-s2p-at-alldus-4483056086"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-30",
+        "title": "ServiceNow AIOps Architect.",
+        "company": "BULL-IT SOLUTIONS LTD",
+        "url": "https://www.adzuna.ca/details/5947169710?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-27",
+        "title": "ServiceNow AIOps Architect.",
+        "company": "BULL-IT SOLUTIONS LTD",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-aiops-architect-at-bull-it-solutions-ltd-4483654511"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-30",
+        "title": "Conseiller technique principal ServiceNow",
+        "company": "Bell",
+        "url": "https://www.adzuna.ca/details/5947177797?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-28",
+        "title": "Conseiller technique principal ServiceNow",
+        "company": "Bell",
+        "url": "https://ca.linkedin.com/jobs/view/conseiller-technique-principal-servicenow-at-bell-4476360201"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Senior Technical Advisor",
+        "company": "Bell",
+        "url": "https://www.adzuna.ca/details/5945995783?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Senior Technical Advisor",
+        "company": "Bell",
+        "url": "https://www.adzuna.ca/details/5945998148?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-27",
+        "title": "ServiceNow Senior Technical Advisor",
+        "company": "Bell",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-technical-advisor-at-bell-4476333981"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-28",
+        "title": "ServiceNow System Administrator",
+        "company": "Bell",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-system-administrator-at-bell-4476350097"
+      },
+      {
+        "posted": "2026-10-25",
+        "title": "ServiceNow System Administrator",
+        "company": "Bell",
+        "url": "https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Platform Specialist",
+        "company": "Alimentiv",
+        "url": "https://www.adzuna.ca/details/5946004071?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-28",
+        "title": "ServiceNow Platform Specialist",
+        "company": "Alimentiv",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483654163"
+      },
+      {
+        "posted": "2026-10-27",
+        "title": "ServiceNow Platform Specialist",
+        "company": "Alimentiv",
+        "url": "https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Platform Specialist",
+        "company": "Alimentiv",
+        "url": "https://www.adzuna.ca/details/5946002306?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Platform Specialist",
+        "company": "Alimentiv",
+        "url": "https://www.adzuna.ca/details/5945477143?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Manager",
+        "company": "Ledcor",
+        "url": "https://www.adzuna.ca/details/5946007553?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Manager",
+        "company": "Ledcor Group",
+        "url": "https://www.adzuna.ca/details/5946001425?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-29",
+        "title": "ServiceNow Architect",
+        "company": "Tata Consultancy Services",
+        "url": "https://www.jobs.ca/tata-consultancy-services/jobs/servicenow-architect-toronto-on-ec39ec076eb4"
+      },
+      {
+        "posted": "2026-10-28",
+        "title": "ServiceNow Architect",
+        "company": "Tata Consultancy Services",
+        "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-at-tata-consultancy-services-4483870856"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-25",
+        "title": "Senior Lead, ServiceNow ITOM",
+        "company": "Take-Two Interactive",
+        "url": "https://www.adzuna.ca/details/5941645750?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-23",
+        "title": "Senior Lead, ServiceNow ITOM",
+        "company": "Take-Two Interactive Software",
+        "url": "https://www.adzuna.ca/details/5939044602?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce BSA",
+        "company": "Cognizant",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486313159"
+      },
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce BSA",
+        "company": "Cognizant",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486310181"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-07",
+        "title": "Specialist- Salesforce Architect",
+        "company": "Parkland Corporation",
+        "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487375305"
+      },
+      {
+        "posted": "2026-11-07",
+        "title": "Specialist- Salesforce Architect",
+        "company": "Parkland Corporation",
+        "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487369553"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "Specialist- Salesforce Architect",
+        "company": "Parkland",
+        "url": "https://www.adzuna.ca/details/5945650283?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-11-07",
+        "title": "Specialist- Salesforce Architect",
+        "company": "Parkland Corporation",
+        "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487375305"
+      },
+      {
+        "posted": "2026-11-07",
+        "title": "Specialist- Salesforce Architect",
+        "company": "Parkland Corporation",
+        "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487369553"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
+        "company": "Salesforce Partner Canada",
+        "url": "https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-partner-canada-4486835667"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
+        "company": "Salesforce Partner Canada",
+        "url": "https://www.adzuna.ca/details/5950813944"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-06",
+        "title": "Senior Salesforce Architect - Canada",
+        "company": "Vasa Digital Architects",
+        "url": "https://www.adzuna.ca/details/5955917274"
+      },
+      {
+        "posted": "2026-11-03",
+        "title": "Senior Salesforce Architect - Canada",
+        "company": "Vasa Digital Architects",
+        "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-architect-canada-at-vasa-digital-architects-4486076138"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Senior Salesforce Architect - Canada",
+        "company": "Vasa Digital Architects",
+        "url": "https://www.adzuna.ca/details/5955917274"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-06",
+        "title": "Salesforce Technical Lead",
+        "company": "Finning International Inc.",
+        "url": "https://www.adzuna.ca/details/5955917323"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Salesforce Technical Lead",
+        "company": "Finning",
+        "url": "https://www.adzuna.ca/details/5955916867"
+      },
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Technical Lead",
+        "company": "Finning",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-finning-4486311390"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Salesforce Technical Lead",
+        "company": "Finning International Inc.",
+        "url": "https://www.adzuna.ca/details/5955917323"
+      },
+      {
+        "posted": "2026-11-06",
+        "title": "Salesforce Technical Lead",
+        "company": "Finning",
+        "url": "https://www.adzuna.ca/details/5955916867"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Salesforce Solution Architect",
+        "company": "iA Financial Group",
+        "url": "https://www.adzuna.ca/details/5948983668"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Solution Architect",
+        "company": "iA Financial Group (Industrial Alliance)",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Product Owner",
+        "company": "Jobgether",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-jobgether-4486345433"
+      },
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Product Owner",
+        "company": "Jobgether",
+        "url": "https://jobs.lever.co/jobgether/21e87319-889e-4c0b-bfff-d889f5edb354"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-31",
+        "title": "Salesforce Technical Architect",
+        "company": "Jobgether",
+        "url": "https://www.adzuna.ca/details/5948276995"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Technical Architect",
+        "company": "Jobgether",
+        "url": "https://www.adzuna.ca/details/5946719401?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Functional Analyst",
+        "company": "Manulife",
+        "url": "https://www.adzuna.ca/details/5952816248"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "Salesforce Functional Analyst",
+        "company": "Manulife",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-functional-analyst-at-manulife-4485782737"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-04",
+        "title": "Salesforce Business Analyst",
+        "company": "Altus Group",
+        "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075"
+      },
+      {
+        "posted": "2026-11-01",
+        "title": "Salesforce Business Analyst",
+        "company": "Altus Group",
+        "url": "https://www.adzuna.ca/details/5948973102"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Business Analyst",
+        "company": "Altus Group",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-altus-group-4483476941"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Salesforce Platform Developer",
+        "company": "Altus Group",
+        "url": "https://www.adzuna.ca/details/5949004280?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Salesforce Platform Developer",
+        "company": "Altus Group",
+        "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Salesforce Platform Developer",
+        "company": "Altus Group",
+        "url": "https://builtin.com/job/salesforce-platform-developer/11985908"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Platform Developer",
+        "company": "Altus Group",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-platform-developer-at-altus-group-4483476940"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Technical Architect",
+        "company": "Orion Global Solutions",
+        "url": "https://www.adzuna.ca/details/5951979426"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Salesforce Technical Architect",
+        "company": "Orion Global Solutions",
+        "url": "https://www.adzuna.ca/details/5948276350"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Marketing Cloud Developer - Strong Automation Studio, Email Studio and AMPscript",
+        "company": "Smart IT Frame LLC",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-strong-automation-studio-email-studio-and-ampscript-at-smart-it-frame-llc-4486057050"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "Salesforce Marketing Cloud Developer - Strong Automation Studio, Email Studio and AMPscript",
+        "company": "Smart IT Frame LLC",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-strong-automation-studio-email-studio-and-ampscript-at-smart-it-frame-llc-4485754642"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Industries Cloud Architect (Remote",
+        "company": "CloudKettle Inc",
+        "url": "https://www.adzuna.ca/details/5951980509"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "Salesforce Industries Cloud Architect (Remote",
+        "company": "CloudKettle, a Bell Canada company",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-industries-cloud-architect-remote-at-cloudkettle-a-bell-canada-company-4485772584"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "Salesforce Industries Cloud Architect (Remote",
+        "company": "CloudKettle Inc",
+        "url": "https://www.adzuna.ca/land/ad/5951040865"
+      },
+      {
+        "posted": "2026-11-01",
+        "title": "Salesforce Industries Cloud Architect (Remote",
+        "company": "CloudKettle Inc",
+        "url": "https://www.adzuna.ca/land/ad/5949286090?se=_qJQts7W8RGCOJ-hgtHHpQ&utm_medium=api&utm_source=54ce986e&v=9291CED0FA9F63D52C2487D71ABE0326B3874D25"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Salesforce Revenue Cloud Architect",
+        "company": "CloudKettle Inc",
+        "url": "https://www.adzuna.ca/land/ad/5949286084?se=_qJQts7W8RGCOJ-hgtHHpQ&utm_medium=api&utm_source=54ce986e&v=B06365CB34684E1C0D239BB6CC0C9A2E3148A711"
+      },
+      {
+        "posted": "2026-11-01",
+        "title": "Salesforce Revenue Cloud Architect",
+        "company": "CloudKettle Inc",
+        "url": "https://www.adzuna.ca/details/5949286084?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Field Service (FSL) Developer",
+        "company": "Danaher",
+        "url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Concord-Ontario-Canada/Salesforce-Field-Service--FSL--Developer_R1321882"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "Salesforce Field Service (FSL) Developer (R1321882)",
+        "company": "Danaher",
+        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Salesforce-Field-Service--FSL--Developer_R1321882"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Data Cloud Developer",
+        "company": "Themesoft Inc.",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-themesoft-inc-4487072314"
+      },
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Data Cloud Developer",
+        "company": "Themesoft Inc.",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-themesoft-inc-4487082252"
+      },
+      {
+        "posted": "2026-11-03",
+        "title": "Salesforce Data Cloud Developer",
+        "company": "Themesoft Inc.",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-themesoft-inc-4487063778"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-02",
+        "title": "Senior Salesforce Developer",
+        "company": "Zodiac Solutions, Inc",
+        "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zodiac-solutions-inc-4484397587"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "Senior Salesforce Developer",
+        "company": "Zodiac Solutions, Inc",
+        "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zodiac-solutions-inc-4484381234"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-31",
+        "title": "Senior Salesforce Developer",
+        "company": "Epsilon Solutions LTD",
+        "url": "https://www.adzuna.ca/details/5948026874"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Senior Salesforce Developer",
+        "company": "Epsilon Solutions LTD",
+        "url": "https://www.adzuna.ca/details/5947973988"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-31",
+        "title": "Salesforce Developer",
+        "company": "Epsilon Solutions LTD",
+        "url": "https://www.adzuna.ca/details/5948021504"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Salesforce Developer",
+        "company": "Epsilon Solutions LTD",
+        "url": "https://www.adzuna.ca/details/5948024454"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Salesforce Developer",
+        "company": "Epsilon Solutions LTD",
+        "url": "https://www.adzuna.ca/details/5947991002"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Senior Salesforce Developer",
+        "company": "Docebo",
+        "url": "https://www.adzuna.ca/details/5948997248"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Senior Salesforce Developer",
+        "company": "Docebo",
+        "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Senior Salesforce Developer",
+        "company": "Docebo",
+        "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-docebo-4485634522"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Senior Salesforce Developer",
+        "company": "Docebo",
+        "url": "https://www.workopolis.com/jobsearch/viewjob/OXjQph21lhSlSOWbNhVAyEHEkgj9DHdHDfWT4Jg0w6Nh62qBhkopJKmyayCkKirh"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Salesforce Administrator",
+        "company": "RideCo",
+        "url": "https://www.adzuna.ca/details/5948986828?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Administrator",
+        "company": "RideCo On-Demand Transit",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-rideco-on-demand-transit-4484883003"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Administrator",
+        "company": "RideCo",
+        "url": "https://www.workopolis.com/jobsearch/viewjob/eBglDrm5aLq9UVbmwldt4qwtCiAx3oBBiW-byfyGEefUf-lOJJI_IYP40TRG620o"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-30",
+        "title": "Senior Full Stack Developer - Salesforce (Contract)",
+        "company": "Electric Mind",
+        "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-developer-salesforce-contract-at-electric-mind-4459609783"
+      },
+      {
+        "posted": "2026-10-29",
+        "title": "Senior Full Stack Developer - Salesforce (Contract)",
+        "company": "Electric Mind",
+        "url": "https://www.adzuna.ca/details/5946003062?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Platform Support",
+        "company": "Pacer Group",
+        "url": "https://ca.linkedin.com/jobs/view/4484899679"
+      },
+      {
+        "posted": "2026-10-30",
+        "title": "Salesforce Platform Support",
+        "company": "Pacer Group",
+        "url": "https://ca.linkedin.com/jobs/view/salesforce-platform-support-at-pacer-group-4484899679"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Site Reliability Engineer Lead",
+        "company": "TD Bank Group",
+        "url": "https://www.adzuna.ca/details/5949576420?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Site Reliability Engineer Lead",
+        "company": "TD Bank",
+        "url": "https://www.adzuna.ca/details/5947778767?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-10-31",
+        "title": "Senior Audit Manager, (Business Intelligence & Analytics)",
+        "company": "TD Bank",
+        "url": "https://www.adzuna.ca/details/5947851342?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Senior Audit Manager, (Business Intelligence & Analytics)",
+        "company": "TD Bank",
+        "url": "https://www.adzuna.ca/details/5947778854?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-03",
+        "title": "Mid-Sr Level Litigation Associate (Cyber Liability)",
+        "company": "DWF (Canada)",
+        "url": "https://ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-canada-4484615875"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "Mid-Sr Level Litigation Associate (Cyber Liability)",
+        "company": "DWF",
+        "url": "https://ca.linkedin.com/jobs/view/mid-sr-level-litigation-associate-cyber-liability-at-dwf-4486426675"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-02",
+        "title": "React Native - Mobile Full-Stack Developer",
+        "company": "Zoho",
+        "url": "https://ca.linkedin.com/jobs/view/react-native-mobile-full-stack-developer-at-zoho-4485746214"
+      },
+      {
+        "posted": "2026-11-02",
+        "title": "React Native - Mobile Full Stack Developer",
+        "company": "Zoho",
+        "url": "https://ca.linkedin.com/jobs/view/react-native-mobile-full-stack-developer-at-zoho-4485763566"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Senior DevOps / DevSecOps Engineer",
+        "company": "Capco Group",
+        "url": "https://www.adzuna.ca/details/5949576723?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-10-31",
+        "title": "Senior DevOps / DevSecOps Engineer",
+        "company": "Capco",
+        "url": "https://www.adzuna.ca/details/5947844719?utm_medium=api&utm_source=54ce986e"
+      }
+    ],
+    [
+      {
+        "posted": "2026-11-01",
+        "title": "Business Intelligence Analyst, Google Cloud Support",
+        "company": "Google",
+        "url": "https://www.adzuna.ca/details/5948969414?utm_medium=api&utm_source=54ce986e"
+      },
+      {
+        "posted": "2026-11-01",
+        "title": "Business Intelligence Analyst, Google Cloud Support",
+        "company": "Google",
+        "url": "https://www.adzuna.ca/details/5948845128?utm_medium=api&utm_source=54ce986e"
+      }
+    ]
+  ]
 }

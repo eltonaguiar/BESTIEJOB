@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:39:07Z",
+  "generated_at": "2026-11-07T07:15:52Z",
   "city": "Toronto / GTA / Canada",
   "peers_answered": 5,
   "peers_failed": 1,
@@ -10,17 +10,12 @@
     "itam analyst",
     "servicenow gsd",
     "salesforce apex",
+    "salesforce lightning",
     "salesforce pardot",
-    "salesforce wave",
     "servicenow table",
-    "salesforce integration",
+    "salesforce wave",
     "servicenow event",
-    "salesforce commerce",
-    "itam consultant",
-    "servicenow sysdev",
-    "servicenow release",
-    "salesforce ahc",
-    "salesforce flow"
+    "salesforce process"
   ],
   "per_peer": {
     "vllm/Qwen/Qwen2.5-14B-Instruct": [
@@ -30,40 +25,40 @@
       "itam analyst",
       "servicenow gsd",
       "salesforce apex",
+      "salesforce lightning",
       "salesforce pardot",
-      "salesforce wave",
       "servicenow table",
-      "salesforce integration",
+      "salesforce wave",
       "servicenow event",
-      "salesforce commerce"
+      "salesforce process"
     ],
     "ollama/gemma4:31b-cloud": [
       "servicenow hrsd",
       "servicenow itom",
       "servicenow itam",
       "servicenow secops",
-      "servicenow irm",
+      "servicenow grm",
       "salesforce cpq",
       "salesforce marketing cloud",
       "salesforce experience cloud",
-      "salesforce health cloud",
+      "salesforce mulesoft",
       "cmdb manager",
-      "itsm architect",
-      "salesforce consultant"
+      "itsm process owner",
+      "servicenow business analyst"
     ],
     "litellm/paid-mode": [
-      "servicenow cmdb",
-      "servicenow ham",
-      "servicenow sam",
-      "salesforce cpq",
-      "salesforce experience cloud",
-      "salesforce field service",
-      "salesforce marketing cloud",
-      "salesforce pardot",
-      "salesforce sales cloud",
-      "servicenow integration",
+      "servicenow itam",
       "servicenow itom",
-      "servicenow hr service delivery"
+      "servicenow grc",
+      "servicenow consultant",
+      "servicenow business analyst",
+      "salesforce sales cloud",
+      "salesforce marketing cloud",
+      "salesforce cpq",
+      "salesforce einstein",
+      "servicenow integration hub",
+      "servicenow virtual agent",
+      "servicenow hrsd"
     ],
     "pollinations/openai-fast": [
       "servicenow hrsd",
@@ -80,18 +75,18 @@
       "salesforce marketing cloud"
     ],
     "llm7/codestral-latest": [
-      "servicenow itam",
-      "servicenow cmdb",
-      "servicenow security operations",
-      "servicenow integration hub",
+      "servicenow sn_hrsd",
       "salesforce cpq",
-      "salesforce field service",
-      "salesforce marketing cloud",
+      "servicenow sn_hr_core",
       "salesforce einstein analytics",
-      "servicenow mid server",
-      "salesforce platform developer",
-      "servicenow workflow",
-      "salesforce lightning web components"
+      "servicenow sn_hr_core",
+      "salesforce einstein vision",
+      "servicenow sn_hr_core",
+      "salesforce einstein language",
+      "servicenow sn_hr_core",
+      "salesforce einstein recommendation",
+      "servicenow sn_hr_core",
+      "salesforce einstein assistant"
     ]
   },
   "dropped": []
