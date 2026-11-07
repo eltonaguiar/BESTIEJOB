@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-07T074634Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-07T080139Z.md`.
 
 ## Contents
 
@@ -28,7 +28,11 @@ _developer / administrator / architect / analyst roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-07 | [ServiceNow Service Catalogue Developer](https://www.workopolis.com/jobsearch/viewjob/FzNMLZxuOueZtULgFrQcKQsfv93W0YJkuVyn1T2x7RJKVbdC2yN95Bwk9z2q8h6i) | CONFIGURETEK | Ottawa, ON |  |
 | 2026-11-07 | [ServiceNow Developer Senior – Electronic Health Records – Remote!](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413) | GDIT | Any Location / Remote |  |
+| 2026-11-07 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/v59ASdpgtYkzYN_sOHVvLB947RbTeV_-IvaV60PK0XXViCW_vnnKjrOQT3sCJyCE) | FED IT (via client in professional services) | Canada |  |
+| 2026-11-07 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/NpuIT4xNjExPT1Lt9UTImWk5R4272AwnAtcU5Z-uonUA5IlAKcwXPR6aBaJpuE7n) | Unknown | Canada |  |
+| 2026-11-07 | [ServiceNow Administrator / Developer (Intermediate)](https://www.workopolis.com/jobsearch/viewjob/Koh22FKYUDc70mssvJ8SjxH86pyqjisgxkb_MSSSbOrU5HHglfqlh0z-SKPTbgIP) | BFG Enterprise Services | Canada |  |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454542029) | KPMG Canada | Calgary, Alberta, Canada |  |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454529945) | KPMG Canada | Vancouver, British Columbia, Canada |  |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454518991) | KPMG Canada | Ottawa, Ontario, Canada |  |
@@ -174,10 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Integration Specialist – IntegrationHub, RESTSOAP APIs, ITAM, CMDB, Flexera Migration Jobs in Astra North Infoteck Inc. in Toronto - Canada / Dr. Job](https://www.drjobpro.com/canada/jobs/servicenow-integration-specialist-integrationhub-restsoap-apis-itam-cmdb-flexera-migration-toronto-astra-north-infoteck-inc-MS8SXLMS1ET39S9) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Implementation Consultant in  / Careers at Canada](https://careers-cayuseholdings.icims.com/jobs/3910/servicenow-implementation-consultant/job) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow ITSM Consultant - SNICND - Navitas Healthcare LLC - Toronto, ON / Ladders](https://www.theladders.com/job/servicenow-itsm-consultant-snicnd-navitas-healthcare-llc-toronto-on_87207258) | Unknown | Canada | 8 |
-| 2026-11-04 | [ServiceNow ITOM SME – LTM – Job Markham, ON](https://ca.talent.com/view?id=639838734960892888) | Unknown | Canada | 8 |
-| 2026-11-04 | [ServiceNow ITOM Developer in Toronto, ON M8X ...](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260004810EXTERNALENCA/ServiceNow-ITOM-Developer) | Unknown | Canada | 7/10 via |
-| 2026-11-04 | [ServiceNow ITAM Architect Role — Slalom, calgary (Hiring Now) / Calgary Jobs Expertini](https://calgary.ca.expertini.com/job/servicenow-itam-architect-role-calgary-slalom-4483-901021) | Unknown | Canada | 8 |
-| 2026-11-04 | [ServiceNow ITAM Architect / Taskpilotx](https://taskpilotx.22web.org/remote-jobs/servicenow-itam-architect) | Unknown | Canada | 7/10 via |
 
 </details>
 
@@ -573,12 +573,16 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-07T07:39:31.790Z** · 2126 live postings from 9 public sources · 50 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-07T08:00:02.101Z** · 2130 live postings from 8 public sources · 50 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-07 | [ServiceNow Administrator / Developer (Intermediate)](https://www.workopolis.com/jobsearch/viewjob/Koh22FKYUDc70mssvJ8SjxH86pyqjisgxkb_MSSSbOrU5HHglfqlh0z-SKPTbgIP) | BFG Enterprise Services | Canada |
+| 2026-11-07 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/v59ASdpgtYkzYN_sOHVvLB947RbTeV_-IvaV60PK0XXViCW_vnnKjrOQT3sCJyCE) | FED IT (via client in professional services) | Canada |
+| 2026-11-07 | [ServiceNow Service Catalogue Developer](https://www.workopolis.com/jobsearch/viewjob/FzNMLZxuOueZtULgFrQcKQsfv93W0YJkuVyn1T2x7RJKVbdC2yN95Bwk9z2q8h6i) | CONFIGURETEK | Ottawa, ON |
+| 2026-11-07 | [ServiceNow Developer](https://www.workopolis.com/jobsearch/viewjob/NpuIT4xNjExPT1Lt9UTImWk5R4272AwnAtcU5Z-uonUA5IlAKcwXPR6aBaJpuE7n) | Unknown | Canada |
 | 2026-11-07 | [ServiceNow Developer Senior – Electronic Health Records – Remote!](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413) | GDIT | Any Location / Remote |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454542029) | KPMG Canada | Calgary, Alberta, Canada |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454529945) | KPMG Canada | Vancouver, British Columbia, Canada |
@@ -587,10 +591,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-07 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621290) | KPMG Canada | Toronto, Ontario, Canada |
 | 2026-11-06 | [Staff Security Engineer \| Enterprise Security](https://jobs.smartrecruiters.com/ServiceNow/744000160297239) | ServiceNow | Toronto, Ontario, ca · Remote |
 | 2026-11-06 | [Staff Security Engineer \| Security Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294642) | ServiceNow | Toronto, Ontario, ca · Remote |
-| 2026-11-06 | [Senior Staff Security Engineer \| Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294989) | ServiceNow | Toronto, Ontario, ca · Remote |
-| 2026-11-06 | [Staff Security Engineer \| Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294309) | ServiceNow | Toronto, Ontario, ca · Remote |
-| 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160277860) | ServiceNow | Toronto, Ontario, ca |
-| 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160278249) | ServiceNow | Toronto, Ontario, ca |
 
 ### Salesforce — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-07T074634Z.md` holds the rows that aged out of the 30-day window on 2026-11-07.
+`README.BAK_2026-11-07T080139Z.md` holds the rows that aged out of the 30-day window on 2026-11-07.

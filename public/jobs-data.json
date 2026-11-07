@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T07:46:37+00:00",
+ "generatedAt": "2026-11-07T08:01:39+00:00",
  "timezone": "America/Toronto",
  "count": 388,
  "appliedHidden": 13,
@@ -31,7 +31,6 @@
   "ca.clickajobs.com",
   "ca.jobrapido.com",
   "ca.trabajo.org",
-  "calgary.ca.expertini.com",
   "callcentrejob.ca",
   "canada.recruit.net",
   "careers-cayuseholdings.icims.com",
@@ -68,7 +67,6 @@
   "jobgether.com",
   "jobleads.com",
   "jobs-cast.com",
-  "jobs.bmo.com",
   "jobs.ca",
   "jobs.crelate.com",
   "jobs.dayforcehcm.com",
@@ -106,13 +104,33 @@
   "simplyhired.ca",
   "stackitrecruitment.com",
   "talenthub.vectorinstitute.ai",
-  "taskpilotx.22web.org",
   "theladders.com",
   "velaio.zohorecruit.com",
   "welancealot.com",
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-07",
+   "title": "ServiceNow Service Catalogue Developer",
+   "company": "CONFIGURETEK",
+   "location": "Ottawa, ON",
+   "url": "https://www.workopolis.com/jobsearch/viewjob/FzNMLZxuOueZtULgFrQcKQsfv93W0YJkuVyn1T2x7RJKVbdC2yN95Bwk9z2q8h6i",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workopolis",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow service catalogue developer configuretek ottawa, on workopolis servicenow  servicenow itsm role fit",
+   "alternates": []
+  },
   {
    "posted": "2026-11-07",
    "title": "Senior Consultant, ServiceNow (ITAM/ITOM)",
@@ -176,6 +194,48 @@
    ],
    "french": false,
    "search": "servicenow developer senior – electronic health records – remote! gdit any location / remote workday ats servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "ServiceNow Developer",
+   "company": "FED IT (via client in professional services)",
+   "location": "Canada",
+   "url": "https://www.workopolis.com/jobsearch/viewjob/v59ASdpgtYkzYN_sOHVvLB947RbTeV_-IvaV60PK0XXViCW_vnnKjrOQT3sCJyCE",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workopolis",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer fed it (via client in professional services) canada workopolis servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "ServiceNow Administrator / Developer (Intermediate)",
+   "company": "BFG Enterprise Services",
+   "location": "Canada",
+   "url": "https://www.workopolis.com/jobsearch/viewjob/Koh22FKYUDc70mssvJ8SjxH86pyqjisgxkb_MSSSbOrU5HHglfqlh0z-SKPTbgIP",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workopolis",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow administrator / developer (intermediate) bfg enterprise services canada workopolis servicenow  servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -3293,73 +3353,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow ITOM Developer in Toronto, ON M8X ...",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260004810EXTERNALENCA/ServiceNow-ITOM-Developer",
-   "note": "7/10 via",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.bmo.com",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITOM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow itom developer in toronto, on m8x ... unknown canada jobs.bmo.com servicenow 7/10 via servicenow itom role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow ITAM Architect Role — Slalom, calgary (Hiring Now) / Calgary Jobs Expertini",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://calgary.ca.expertini.com/job/servicenow-itam-architect-role-calgary-slalom-4483-901021",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "calgary.ca.expertini.com",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow itam architect role — slalom, calgary (hiring now) / calgary jobs expertini unknown canada calgary.ca.expertini.com servicenow 8 servicenow itam role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow ITAM Architect / Taskpilotx",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://taskpilotx.22web.org/remote-jobs/servicenow-itam-architect",
-   "note": "7/10 via",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "taskpilotx.22web.org",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "Analytics",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow itam architect / taskpilotx unknown canada taskpilotx.22web.org servicenow 7/10 via servicenow itam analytics role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Staff Software Engineer – SRE & AIOps at ServiceNow",
    "company": "Unknown",
    "location": "Canada",
@@ -3511,6 +3504,32 @@
    "french": false,
    "search": "servicenow senior technical consultant / hireorbit unknown canada hireorbit.social-networking.me servicenow 7/10 via servicenow consulting/ba role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Servicenow Developer",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://www.jobleads.com/ca/job/servicenow-developer--markham--e35de68ae9a89e3db05ed5d3a924d9df1",
+   "note": "9",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobleads.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer unknown canada jobleads.com servicenow 9 servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Workopolis",
+     "url": "https://www.workopolis.com/jobsearch/viewjob/NpuIT4xNjExPT1Lt9UTImWk5R4272AwnAtcU5Z-uonUA5IlAKcwXPR6aBaJpuE7n"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -4077,27 +4096,6 @@
    ],
    "french": false,
    "search": "servicenow developer / triunity software, inc. / handshake unknown canada app.joinhandshake.com servicenow 7/10 via servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Servicenow Developer",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/servicenow-developer--markham--e35de68ae9a89e3db05ed5d3a924d9df1",
-   "note": "9",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer unknown canada jobleads.com servicenow 9 servicenow role fit canada / remote",
    "alternates": []
   },
   {
