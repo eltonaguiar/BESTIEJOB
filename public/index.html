@@ -103,7 +103,7 @@ function todayInTz() {
 }
 const TODAY = todayInTz();
 const newest = JOBS.length ? JOBS[0].posted : TODAY;
-const UPDATED = "2026-11-07 00:28 UTC";
+const UPDATED = "2026-11-07 01:12 UTC";
 function windowStart(kind) {
   if (kind === "today") return TODAY;
   if (kind === "week") { const d = new Date(TODAY + "T12:00:00Z"); d.setUTCDate(d.getUTCDate() - 6); return iso(d); }
