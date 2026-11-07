@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-07T043329Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-07T050418Z.md`.
 
 ## Contents
 
@@ -28,6 +28,7 @@ _developer / administrator / architect / analyst roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-07 | [ServiceNow Developer Senior – Electronic Health Records – Remote!](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413) | GDIT | Any Location / Remote |  |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454542029) | KPMG Canada | Calgary, Alberta, Canada |  |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454529945) | KPMG Canada | Vancouver, British Columbia, Canada |  |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454518991) | KPMG Canada | Ottawa, Ontario, Canada |  |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow ITOM Developer in Toronto, ON M8X ...](https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260004810EXTERNALENCA/ServiceNow-ITOM-Developer) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [ServiceNow ITAM Architect Role — Slalom, calgary (Hiring Now) / Calgary Jobs Expertini](https://calgary.ca.expertini.com/job/servicenow-itam-architect-role-calgary-slalom-4483-901021) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow ITAM Architect / Taskpilotx](https://taskpilotx.22web.org/remote-jobs/servicenow-itam-architect) | Unknown | Canada | 7/10 via |
-| 2026-11-04 | [ServiceNow ITAM Architect / Flexstack](https://flexstack.my-board.org/remote-jobs/servicenow-itam-architect) | Unknown | Canada | 7/10 via |
 
 </details>
 
@@ -573,12 +573,13 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-07T04:30:01.708Z** · 2115 live postings from 9 public sources · 55 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-07T05:00:01.633Z** · 2116 live postings from 9 public sources · 55 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-07 | [ServiceNow Developer Senior – Electronic Health Records – Remote!](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413) | GDIT | Any Location / Remote |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454542029) | KPMG Canada | Calgary, Alberta, Canada |
 | 2026-11-07 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454529945) | KPMG Canada | Vancouver, British Columbia, Canada |
 | 2026-11-07 | [Senior Consultant - ServiceNow CSM](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-csm-at-infosys-4476037432) | Infosys | Calgary, Alberta, Canada |
@@ -590,7 +591,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-06 | [Staff Security Engineer \| Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294309) | ServiceNow | Toronto, Ontario, ca · Remote |
 | 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160277860) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160278249) | ServiceNow | Toronto, Ontario, ca |
-| 2026-11-06 | [Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps](https://www.adzuna.ca/details/5955571756) | Astra North Infoteck Inc. | Greater Vancouver, British Columbia |
 
 ### Salesforce — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-07T043329Z.md` holds the rows that aged out of the 30-day window on 2026-11-07.
+`README.BAK_2026-11-07T050418Z.md` holds the rows that aged out of the 30-day window on 2026-11-07.
