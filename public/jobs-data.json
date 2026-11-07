@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-07T10:01:57+00:00",
+ "generatedAt": "2026-11-07T10:31:47+00:00",
  "timezone": "America/Toronto",
- "count": 388,
+ "count": 385,
  "appliedHidden": 13,
  "sources": [
   "Adzuna",
@@ -9,7 +9,6 @@
   "Ashby",
   "BuiltIn",
   "CareerBeacon",
-  "Glassdoor",
   "Greenhouse",
   "Job Bank",
   "Jooble",
@@ -33,7 +32,6 @@
   "ca.trabajo.org",
   "callcentrejob.ca",
   "canada.recruit.net",
-  "careers-cayuseholdings.icims.com",
   "careers-kinaxis.icims.com",
   "careers.cognizant.com",
   "careers.deloitte.ca",
@@ -177,6 +175,48 @@
   },
   {
    "posted": "2026-11-07",
+   "title": "Directeur.rice - Architecte de solutions ServiceNow",
+   "company": "KPMG Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480399040",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "directeur.rice - architecte de solutions servicenow kpmg canada toronto, ontario, canada linkedin servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
+   "company": "KPMG Canada",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480500031",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "consultant/senior consultant - servicenow solution developer kpmg canada ottawa, ontario, canada linkedin servicenow  servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
    "title": "ServiceNow Developer Senior – Electronic Health Records – Remote!",
    "company": "GDIT",
    "location": "Any Location / Remote",
@@ -257,6 +297,68 @@
    ],
    "french": false,
    "search": "senior consultant - servicenow csm infosys calgary, alberta, canada linkedin servicenow  servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow",
+   "company": "KPMG Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480397231",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": true,
+   "search": "conseiller.ere/conseiller.ere principal.e - developpeur de solutions servicenow kpmg canada toronto, ontario, canada linkedin servicenow  servicenow toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now",
+   "company": "KPMG Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": true,
+   "search": "conseiller.ere /conseiller.ere principal.e fonctionnel.le - service now kpmg canada toronto, ontario, canada linkedin servicenow  servicenow toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
+   "company": "Salesforce",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444707597",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 68,
+   "matchReasons": [
+    "Salesforce",
+    "Data/reporting",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "solutions architect, salesforce migrations (data360, revenue, tableau, or marketing clouds) salesforce montreal, quebec, canada linkedin salesforce  salesforce data/reporting role fit canada / remote",
    "alternates": []
   },
   {
@@ -3308,51 +3410,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Integration Specialist – IntegrationHub, RESTSOAP APIs, ITAM, CMDB, Flexera Migration Jobs in Astra North Infoteck Inc. in Toronto - Canada / Dr. Job",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.drjobpro.com/canada/jobs/servicenow-integration-specialist-integrationhub-restsoap-apis-itam-cmdb-flexera-migration-toronto-astra-north-infoteck-inc-MS8SXLMS1ET39S9",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "drjobpro.com",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "CMDB",
-    "Integration",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow integration specialist – integrationhub, restsoap apis, itam, cmdb, flexera migration jobs in astra north infoteck inc. in toronto - canada / dr. job unknown canada drjobpro.com servicenow 8 servicenow itam cmdb integration role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow ITSM Consultant - SNICND - Navitas Healthcare LLC - Toronto, ON / Ladders",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.theladders.com/job/servicenow-itsm-consultant-snicnd-navitas-healthcare-llc-toronto-on_87207258",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "theladders.com",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow itsm consultant - snicnd - navitas healthcare llc - toronto, on / ladders unknown canada theladders.com servicenow 8 servicenow itsm role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Staff Software Engineer – SRE & AIOps at ServiceNow",
    "company": "Unknown",
    "location": "Canada",
@@ -4583,90 +4640,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Platform Administrator at EDC – Ottawa – Apply Now! – Jooble",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.jooble.org/jdp/2649190655240611896",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Jooble",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow platform administrator at edc – ottawa – apply now! – jooble unknown canada jooble servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Manager - Ledcor / Vancouver, BC",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.workopolis.com/jobsearch/viewjob/r-bjZ_VMt_NsJNtCeqBwkiXeFqgvz6LD99dgG2nnbvWT8Wj3lwCscqrlrFSBxoCk",
-   "note": "7",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workopolis",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow manager - ledcor / vancouver, bc unknown canada workopolis servicenow 7 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Manager - Ledcor / Calgary, AB",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.simplyhired.ca/job/e4sHoEX8Knbsmwd19Xdv-BTDzfslktecnk5Me-nzUBzpHijl8iC8dg",
-   "note": "7",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "simplyhired.ca",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow manager - ledcor / calgary, ab unknown canada simplyhired.ca servicenow 7 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Implementation Consultant in  / Careers at Canada",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://careers-cayuseholdings.icims.com/jobs/3910/servicenow-implementation-consultant/job",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers-cayuseholdings.icims.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow implementation consultant in  / careers at canada unknown canada careers-cayuseholdings.icims.com servicenow 8 servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "servicenow Jobs in Calgary, AB / Hiring Now / Talent.com",
    "company": "Unknown",
    "location": "Canada",
@@ -4683,26 +4656,6 @@
    ],
    "french": false,
    "search": "servicenow jobs in calgary, ab / hiring now / talent.com unknown canada talent.com servicenow 8 servicenow canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Jobs & Careers - 11 Open Positions / Glassdoor",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.glassdoor.ca/Jobs/ServiceNow-Jobs-E403326.htm",
-   "note": "8",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Glassdoor",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow jobs & careers - 11 open positions / glassdoor unknown canada glassdoor servicenow 8 servicenow canada / remote",
    "alternates": []
   },
   {
@@ -4813,28 +4766,6 @@
    ],
    "french": false,
    "search": "senior associate, salesforce technical consultant at pwc canada (calgary, alberta, canada) / $84,700-$134,700/annual unknown canada jobs.ca salesforce 7 salesforce consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Technical Consultant – Hybrid · Mississauga, ON / Jobs.ca",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/epsilon-solutions-ltd/jobs/salesforce-technical-consultant-mississauga-on-5843575e3763",
-   "note": "8",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 66,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical consultant – hybrid · mississauga, on / jobs.ca unknown canada jobs.ca salesforce 8 salesforce consulting/ba role fit canada / remote",
    "alternates": []
   },
   {
