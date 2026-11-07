@@ -47,16 +47,6 @@ jobs:
           ADZUNA_API_KEY: ${{ secrets.ADZUNA_API_KEY }}
         run: node scripts/gap_scan.mjs
 
-      # Public-sector boards the rest of the pipeline cannot see: City of Toronto
-      # (SuccessFactors tiles + schema.org datePosted) and Ontario Public Service
-      # (gojobs is bot-walled, so the Job Bank OPS employer feed is the documented
-      # fallback). Usually contributes few rows — public-sector IT postings are
-      # rare and internal-only competitions are invisible — but it is the only
-      # channel that surfaces them at all.
-      - name: Public-sector scan (OPS + City of Toronto)
-        continue-on-error: true
-        run: python3 scripts/public_sector_scan.py
-
       # A row whose Posted cell is not an absolute YYYY-MM-DD is dropped by the
       # merger without an error, so fail here first.
       - name: Validate inbox submissions
@@ -68,7 +58,12 @@ jobs:
       - name: Merge inbox submissions into README
         run: |
           if [ -n "$(git status --porcelain -- inbox)" ]; then
-            python3 tools/jobs_merge_inbox.py --max-per-table 400 --bump-inbox
+            # 400/family was a silent cap, not a guard: on 2026-11-07 the board held
+            # 738 ServiceNow / 850 Salesforce / 2330 Other rows, so this step cut
+            # ~1900 live postings and left two competing renders in README.md (the
+            # conflict markers that reached main that afternoon). 4000 is a runaway
+            # guard only, comfortably above the real board size.
+            python3 tools/jobs_merge_inbox.py --max-per-table 4000
           else
             echo "no new inbox submissions"
           fi
