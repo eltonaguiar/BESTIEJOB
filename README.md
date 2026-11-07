@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-07T103147Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-07T110215Z.md`.
 
 ## Contents
 
@@ -45,6 +45,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892) | KPMG Canada | Ottawa, Ontario, Canada |  |
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480500032) | KPMG Canada | Boisbriand, Quebec, Canada |  |
 | 2026-11-07 | [Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793) | KPMG Canada | Toronto, Ontario, Canada |  |
+| 2026-11-07 | [Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480386774) | KPMG Canada | Boisbriand, Quebec, Canada |  |
 | 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160277860) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160278249) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-06 | [Staff Security Engineer \/ Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294309) | Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294309) | ServiceNow | Toronto, Ontario, ca · Remote |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Project Manager in Greater Toronto Area, ON - Opensity Solutions](https://ca.trabajo.org/job-5018-a916db0e4ff201dea6718a4c6620d079) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Product and Delivery Manager, Deloitte Global Technology in Toronto / ONjobcentre.ca](https://www.onjobcentre.ca/jobs/servicenow-product-and-delivery-manager-global-deloitte-technology-toronto-1643488) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Platform Specialist - Alimentiv / Vancouver, BC](https://www.workopolis.com/jobsearch/viewjob/SGc3pZx5izRRSzHGDdgcTXA-Mq0zFrM8AWcbR4JnTPt7XvdWJpbsb3a10m2TdzLL) | Unknown | Canada | 7 |
-| 2026-11-04 | [ServiceNow Platform Developer / Toronto](https://www.jobleads.com/ca/job/servicenow-platform-developer--toronto--e7075ef17c4e52299af33d12ec4a98d5a) | Unknown | Canada | 9 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-07T10:30:01.370Z** · 2137 live postings from 8 public sources · 50 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-07T11:00:01.553Z** · 2137 live postings from 8 public sources · 50 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -590,7 +590,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-07 | [Directeur.rice - Architecte de solutions ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480399040) | KPMG Canada | Toronto, Ontario, Canada |
 | 2026-11-07 | [Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793) | KPMG Canada | Toronto, Ontario, Canada |
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480500032) | KPMG Canada | Boisbriand, Quebec, Canada |
-| 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480399043) | KPMG Canada | Brossard, Quebec, Canada |
+| 2026-11-07 | [Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480386774) | KPMG Canada | Boisbriand, Quebec, Canada |
 
 ### Salesforce — newest 12
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-07T103147Z.md` holds the rows that aged out of the 30-day window on 2026-11-07.
+`README.BAK_2026-11-07T110215Z.md` holds the rows that aged out of the 30-day window on 2026-11-07.
