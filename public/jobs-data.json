@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-07T05:04:18+00:00",
+ "generatedAt": "2026-11-07T05:33:10+00:00",
  "timezone": "America/Toronto",
- "count": 394,
+ "count": 390,
  "appliedHidden": 13,
  "sources": [
   "Adzuna",
@@ -27,7 +27,6 @@
   "applyhour.com",
   "bebee.com",
   "bettercareer.ca",
-  "buildingonfund.ca",
   "ca.blackboardjob.com",
   "ca.clickajobs.com",
   "ca.jobrapido.com",
@@ -46,7 +45,6 @@
   "careers.servicenow.com",
   "careers.softwareone.com",
   "careers.sysco.ca",
-  "commissionaires.ca",
   "compugen-pc.my.salesforce-sites.com",
   "customizo.ca",
   "dice.com",
@@ -74,7 +72,6 @@
   "jobs.ca",
   "jobs.crelate.com",
   "jobs.dayforcehcm.com",
-  "jobs.dnv.com",
   "jobs.equest.com",
   "jobs.insightpartners.com",
   "jobs.jobvite.com",
@@ -98,7 +95,6 @@
   "mysmartpros.com",
   "n2psystems.com",
   "onjobcentre.ca",
-  "osidigital.applytojob.com",
   "prairie.totalh.net",
   "queertech.getro.com",
   "raise.jobs",
@@ -591,6 +587,27 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Salesforce Tech Lead",
+   "company": "K&K Global Talent Solutions INC.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955916101",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce tech lead k&k global talent solutions inc. toronto, ontario adzuna salesforce  salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Salesforce Datcloud Tech Lead",
    "company": "Cognizant",
    "location": "Mississauga, Peel region",
@@ -867,6 +884,26 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Salesforce Technical Lead",
+   "company": "Finning",
+   "location": "Surrey, Greater Vancouver",
+   "url": "https://www.adzuna.ca/details/5955916867",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce technical lead finning surrey, greater vancouver adzuna salesforce  salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Salesforce Platform Owner",
    "company": "Parkland Corporation",
    "location": "Calgary, Alberta, Canada",
@@ -987,6 +1024,48 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Senior Python/AWS Engineer",
+   "company": "EPAM Systems",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955916531",
+   "note": "DevOps / Cloud",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Data/reporting",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior python/aws engineer epam systems toronto, ontario adzuna other devops / cloud data/reporting role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Power BI & Azure Platform Engineer / Toronto, ON (Onsite) - FTE",
+   "company": "AceStack",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955917166",
+   "note": "Data / BI",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Data/reporting",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "power bi & azure platform engineer / toronto, on (onsite) - fte acestack toronto, ontario adzuna other data / bi data/reporting role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Co-op Power BI Developer (4 months)",
    "company": "Atlantic Packaging Products Ltd",
    "location": "Toronto, Ontario",
@@ -1048,6 +1127,26 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Senior Full Stack Developer",
+   "company": "Cleo Consulting",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955917083",
+   "note": "Full stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior full stack developer cleo consulting toronto, ontario adzuna other full stack role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Senior DevOps Engineer (Azure)",
    "company": "Agilno",
    "location": "Toronto, Ontario",
@@ -1104,6 +1203,26 @@
    ],
    "french": false,
    "search": "senior analyst, business intelligence systems scotiabank toronto, ontario adzuna other data / bi role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior AI Engineer at Fable – LLM & Full-Stack Growth",
+   "company": "Fable",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955917515",
+   "note": "Full stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior ai engineer at fable – llm & full-stack growth fable toronto, ontario adzuna other full stack role fit toronto area",
    "alternates": []
   },
   {
@@ -2038,7 +2157,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5953992050"
+     "url": "https://www.adzuna.ca/details/5955917180"
     }
    ]
   },
@@ -2089,7 +2208,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5953992006"
+     "url": "https://www.adzuna.ca/details/5955916244"
     }
    ]
   },
@@ -2321,26 +2440,6 @@
    ],
    "french": true,
    "search": "conseiller ou conseillere en architecture technique salesforce, lwc, apex et implementations alithya montreal, quebec adzuna salesforce  salesforce role fit quebec",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Salesforce Technical Lead",
-   "company": "Finning",
-   "location": "Surrey, Greater Vancouver",
-   "url": "https://www.adzuna.ca/details/5954076592",
-   "note": "",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce technical lead finning surrey, greater vancouver adzuna salesforce  salesforce role fit",
    "alternates": []
   },
   {
@@ -4727,50 +4826,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Salesforce Technical Business Analyst Job at OSI Digital",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.careerbeacon.com/en/job-9/3764823/osi-digital/salesforce-technical-business-analyst/vancouver-bc",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "CareerBeacon",
-   "verified": "Aggregator",
-   "match": 66,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical business analyst job at osi digital unknown canada careerbeacon salesforce 7 salesforce consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Technical Business Analyst - OSI Digital - Career Page",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://osidigital.applytojob.com/apply/AhIo37Zldu/Salesforce-Technical-Business-Analyst",
-   "note": "7",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "osidigital.applytojob.com",
-   "verified": "Employer board",
-   "match": 66,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical business analyst - osi digital - career page unknown canada osidigital.applytojob.com salesforce 7 salesforce consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Specialist I, IT Service Management Office – ITOM & CMDB Jobs in Enbridge in Calgary - Canada / Dr. Job",
    "company": "Unknown",
    "location": "Canada",
@@ -7002,27 +7057,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Senior Manager IT Operations",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://buildingonfund.ca/careers/senior-manager-it-operations/",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "buildingonfund.ca",
-   "verified": "Employer board",
-   "match": 26,
-   "matchReasons": [
-    "IT operations",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior manager it operations unknown canada buildingonfund.ca other 8 it operations role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "What IT Operations Jobs Are Near Me? / ClicksJobs Canada",
    "company": "Unknown",
    "location": "Canada",
@@ -8159,126 +8193,6 @@
    ],
    "french": false,
    "search": "senior platform engineer / clio unknown canada jobs.ca other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Platform Administrator - EN 533 @ Export Development Canada / Exportation et développement Canada",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.tealhq.com/job/senior-platform-administrator_7ea1a9e31367912c5c014f06c6d9a56e896b7",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Aggregator",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior platform administrator - en 533 @ export development canada / exportation et developpement canada unknown canada aggregator other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Manager, Technology Services – Commissionaires",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://commissionaires.ca/en/jobs/senior-manager-technology-services/",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "commissionaires.ca",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior manager, technology services – commissionaires unknown canada commissionaires.ca other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Manager, Technology Operations Centre / Moneris",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/moneris/jobs/senior-manager-technology-operations-centre-toronto-on-4a20f0a90bb5",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior manager, technology operations centre / moneris unknown canada jobs.ca other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Manager, IT Security Operations @ Peoples Group",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.tealhq.com/job/senior-manager-it-security-operations_7ea1ae698ee82b8135d59f881146ca20b5c03",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Aggregator",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior manager, it security operations @ peoples group unknown canada aggregator other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Manager ICT Delivery & Technical Operations » Toronto, ON, Canada / Vancouver, BC, Canada / Calgary, AB, Canada / DNV careers",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.dnv.com/job-search/business-assurance/manager/toronto-on-canada-vancouver-bc-calgary-ab/senior-manager-ict-delivery-technical-operations/300001713641796",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.dnv.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior manager ict delivery & technical operations » toronto, on, canada / vancouver, bc, canada / calgary, ab, canada / dnv careers unknown canada jobs.dnv.com other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior InfoSphere Platform Administrator - System Canada Technologies / Built In Vancouver",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://builtinvancouver.org/job/senior-infosphere-platform-administrator/9798930",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior infosphere platform administrator - system canada technologies / built in vancouver unknown canada builtin other 7 role fit canada / remote",
    "alternates": []
   },
   {
