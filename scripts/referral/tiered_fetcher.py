@@ -54,13 +54,22 @@ def _tier_curl(url: str, timeout: float, host: str, gate: HostGate) -> FetchResu
                        f"HTTP {r.status_code}")
 
 
+def _http2_available() -> bool:
+    """httpx only supports http2 when the optional `h2` package is installed."""
+    try:
+        import h2  # noqa: F401
+        return True
+    except ImportError:
+        return False
+
+
 def _tier_httpx(url: str, timeout: float, host: str, gate: HostGate) -> FetchResult:
     try:
         import httpx
     except ImportError:
         return FetchResult(None, "httpx", 0, url, "httpx missing")
     try:
-        with httpx.Client(http2=True, follow_redirects=True,
+        with httpx.Client(http2=_http2_available(), follow_redirects=True,
                           timeout=timeout,
                           headers={"User-Agent": UA_POOL[0],
                                    "Accept-Language": "en-CA,en;q=0.9"}) as client:
