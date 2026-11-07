@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-07T02:14:30.474Z",
     "generatedAt": "2026-11-07T02:14:30.474Z",
-    "total": 3276,
+    "total": 3294,
     "newThisScan": 667,
     "retainedFromPrevious": 1138,
     "sources": {
@@ -752,6 +752,76 @@
       "tags": [
         "servicenow",
         "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50674429",
+      "source": "readme",
+      "company": "Astra North Infoteck Inc.",
+      "title": "Solution Architect - ServiceNow, ITSM, ITOM, CMDB & SecOps",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50674429",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-salesforce-business-analyst-at-hcltech-4486985776",
+      "source": "readme",
+      "company": "HCLTech",
+      "title": "Senior Salesforce Business analyst",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-business-analyst-at-hcltech-4486985776",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-qa-automation-engineer-salesforce-at-bcaa-4485872792",
+      "source": "readme",
+      "company": "BCAA",
+      "title": "Senior QA Automation Engineer, Salesforce",
+      "location": "Burnaby, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-qa-automation-engineer-salesforce-at-bcaa-4485872792",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-business-process-analyst-analyste-des-processus-d-affaires-at-nuvei-4479160105",
+      "source": "readme",
+      "company": "Nuvei",
+      "title": "Salesforce Business Process Analyst/Analyste des processus d'affaires",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-analyste-des-processus-d-affaires-at-nuvei-4479160105",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -3368,6 +3438,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-en-automatisation-qa-salesforce-at-nesto-4452435364",
+      "source": "readme",
+      "company": "nesto",
+      "title": "Développeur en automatisation QA Salesforce",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4452435364",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-05T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -41287,6 +41374,40 @@
       ]
     },
     {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50631252",
+      "source": "readme",
+      "company": "CloudKettle Inc",
+      "title": "Salesforce Revenue Cloud Architect (Remote)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50631252",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50631185",
+      "source": "readme",
+      "company": "CloudKettle Inc",
+      "title": "Salesforce Industries Cloud Architect (Remote)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50631185",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-01T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/land/ad/5949286084",
       "source": "adzuna",
       "company": "CloudKettle Inc",
@@ -42980,6 +43101,23 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/mulesoft-senior-developer-enterprise-canada-at-slalom-4409345905",
+      "source": "readme",
+      "company": "Slalom",
+      "title": "MuleSoft Senior Developer- Enterprise (Canada)",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/mulesoft-senior-developer-enterprise-canada-at-slalom-4409345905",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -49138,6 +49276,23 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-engagement-manager-at-verndale-4484574800",
+      "source": "readme",
+      "company": "Verndale",
+      "title": "Salesforce Engagement Manager",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-engagement-manager-at-verndale-4484574800",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-29T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:5945773024",
       "source": "adzuna",
       "company": "Maarut",
@@ -51302,6 +51457,23 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-euse-mulesoft-at-cgi-4483757311",
+      "source": "readme",
+      "company": "CGI",
+      "title": "Développeur(euse) MuleSoft",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-mulesoft-at-cgi-4483757311",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
       "id": "adzuna:5943424777",
       "source": "adzuna",
       "company": "J M Group Inc",
@@ -51785,6 +51957,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-technical-architect-at-alldus-4481470880",
+      "source": "readme",
+      "company": "Alldus",
+      "title": "ServiceNow Technical Architect",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-alldus-4481470880",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -54352,6 +54541,40 @@
       ]
     },
     {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50648280",
+      "source": "readme",
+      "company": "Astra North Infoteck Inc.",
+      "title": "Salesforce Revenue Cloud Architect - Revenue Cloud Advanced, Billing, CPQ, Apex & LWC",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50648280",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50648287",
+      "source": "readme",
+      "company": "Astra North Infoteck Inc.",
+      "title": "Salesforce Developer - Revenue Cloud Advanced, Apex, LWC",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50648287",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5936615388",
       "source": "adzuna",
       "company": "Periscope Search Group",
@@ -54959,6 +55182,23 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-euse-release-manager-salesforce-at-ia-financial-group-industrial-alliance-4443557607",
+      "source": "readme",
+      "company": "iA Financial Group (Industrial Alliance)",
+      "title": "Développeur(euse) - Release Manager Salesforce",
+      "location": "Québec, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-release-manager-salesforce-at-ia-financial-group-industrial-alliance-4443557607",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "linkedin:ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454544020",
       "source": "linkedin",
       "company": "KPMG Canada",
@@ -55280,6 +55520,57 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480384864",
+      "source": "readme",
+      "company": "KPMG Canada",
+      "title": "Functional Manager - ServiceNow",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480384864",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/ncino-business-analyst-at-cognizant-4461904562",
+      "source": "readme",
+      "company": "Cognizant",
+      "title": "nCino Business Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/ncino-business-analyst-at-cognizant-4461904562",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-business-systems-analyst-fsc-at-astra-north-infoteck-inc-%7e-conquering-today%e2%80%99s-challenges-achieving-tomorrow%e2%80%99s-vision%21-4479387382",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.  ~ Conquering today’s challenges, achieving tomorrow’s vision!",
+      "title": "Salesforce Business Systems Analyst - FSC",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-business-systems-analyst-fsc-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4479387382",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -56693,6 +56984,23 @@
       "postedDate": "2026-10-09T12:00:00.000Z",
       "scrapedAt": "2026-11-02T23:11:27.044Z",
       "excerpt": "via grok-job-hunter--2026-11-02--v31.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-communications-cloud-developer-at-tata-consultancy-services-4476803239",
+      "source": "readme",
+      "company": "Tata Consultancy Services",
+      "title": "Salesforce Communications Cloud Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-communications-cloud-developer-at-tata-consultancy-services-4476803239",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-07T02:17:17.359Z",
+      "excerpt": "via buffy-round16--2026-11-07--v1.md",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"

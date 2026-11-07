@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-07T02:15:12+00:00",
+ "generatedAt": "2026-11-07T02:17:17+00:00",
  "timezone": "America/Toronto",
- "count": 2813,
+ "count": 2826,
  "appliedHidden": 36,
  "sources": [
   "103.careerplug.com",
@@ -264,15 +264,15 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps",
+   "title": "Solution Architect - ServiceNow, ITSM, ITOM, CMDB & SecOps",
    "company": "Astra North Infoteck Inc.",
-   "location": "Greater Vancouver, British Columbia",
-   "url": "https://www.adzuna.ca/details/5955571756",
-   "note": "adzuna",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50674429",
+   "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "Job Bank",
+   "verified": "Employer board",
    "match": 100,
    "matchReasons": [
     "ServiceNow",
@@ -282,8 +282,13 @@
     "Role fit"
    ],
    "french": false,
-   "search": "solution architect – servicenow, itsm, itom, cmdb & secops astra north infoteck inc. greater vancouver, british columbia adzuna servicenow adzuna servicenow itsm cmdb itom role fit",
+   "search": "solution architect - servicenow, itsm, itom, cmdb & secops astra north infoteck inc. vancouver, british columbia, canada job bank servicenow readme servicenow itsm cmdb itom role fit",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5955571756",
+     "label": "Adzuna · Greater Vancouver"
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/solution-architect-%E2%80%93-servicenow-itsm-itom-cmdb-secops-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4486789948",
@@ -659,6 +664,11 @@
     },
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453634041",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453623282",
      "label": "LinkedIn · Halifax"
     },
@@ -768,6 +778,11 @@
     },
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499",
      "label": "LinkedIn · Toronto"
     },
@@ -798,6 +813,50 @@
    ],
    "french": false,
    "search": "salesforce business analyst estaffing inc canada adzuna salesforce adzuna salesforce consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior Salesforce Business analyst",
+   "company": "HCLTech",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-business-analyst-at-hcltech-4486985776",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 66,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce business analyst hcltech canada linkedin salesforce readme salesforce consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Senior QA Automation Engineer, Salesforce",
+   "company": "BCAA",
+   "location": "Burnaby, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-qa-automation-engineer-salesforce-at-bcaa-4485872792",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 66,
+   "matchReasons": [
+    "Salesforce",
+    "Automation",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior qa automation engineer, salesforce bcaa burnaby, british columbia, canada linkedin salesforce readme salesforce automation role fit canada / remote",
    "alternates": []
   },
   {
@@ -1145,6 +1204,27 @@
      "label": "LinkedIn · Canada"
     }
    ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Salesforce Business Process Analyst/Analyste des processus d'affaires",
+   "company": "Nuvei",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-analyste-des-processus-d-affaires-at-nuvei-4479160105",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce business process analyst/analyste des processus d'affaires nuvei montreal, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-06",
@@ -3529,6 +3609,26 @@
      "label": "LinkedIn · Guelph"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Développeur en automatisation QA Salesforce",
+   "company": "nesto",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4452435364",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur en automatisation qa salesforce nesto canada linkedin salesforce readme salesforce canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -7933,6 +8033,11 @@
    "search": "salesforce industries cloud architect (remote - cloudkettle inc / toronto, on cloudkettle inc / toronto, on canada simplyhired.ca salesforce exa salesforce role fit canada / remote",
    "alternates": [
     {
+     "source": "Job Bank",
+     "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50631185",
+     "label": "Job Bank · Toronto"
+    },
+    {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5951980509",
      "label": "Adzuna · Toronto"
@@ -8840,6 +8945,11 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5947169370",
      "label": "Adzuna · Canada"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-tech-lead-canada-remote-at-cloudlabs-inc-4482213499",
+     "label": "LinkedIn · Canada"
     }
    ]
   },
@@ -18746,7 +18856,23 @@
    ],
    "french": false,
    "search": "functional manager - servicenow kpmg multiple locations careers.kpmg.ca servicenow kpmg servicenow role fit",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480502037",
+     "label": "LinkedIn · Boisbriand"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480384864",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480398118",
+     "label": "LinkedIn · Brossard"
+    }
+   ]
   },
   {
    "posted": "2026-11-03",
@@ -19028,15 +19154,15 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Salesforce Revenue Cloud Architect",
+   "title": "Salesforce Revenue Cloud Architect (Remote)",
    "company": "CloudKettle Inc",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5951980498",
-   "note": "adzuna",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50631252",
+   "note": "readme",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "Job Bank",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -19044,8 +19170,13 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce revenue cloud architect cloudkettle inc toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "search": "salesforce revenue cloud architect (remote) cloudkettle inc toronto, ontario, canada job bank salesforce readme salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5951980498",
+     "label": "Adzuna · Toronto"
+    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/land/ad/5949286084",
@@ -21173,6 +21304,11 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5950813677",
      "label": "Adzuna · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-devops-developer-at-atb-financial-4485295671",
+     "label": "LinkedIn · Edmonton"
     },
     {
      "source": "Eluta",
@@ -46547,7 +46683,13 @@
    ],
    "french": false,
    "search": "salesforce technical lead maarut inc montreal, quebec adzuna salesforce readme salesforce role fit quebec",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-maarut-inc-4484972984",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
   },
   {
    "posted": "2026-11-01",
@@ -46763,7 +46905,13 @@
    ],
    "french": false,
    "search": "ncino business analyst (00070195601) cognizant toronto, on (hybrid) careers.cognizant.com salesforce readme consulting/ba role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ncino-business-analyst-at-cognizant-4461904562",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-01",
@@ -48652,6 +48800,27 @@
    ],
    "french": false,
    "search": "forward deployed engineer (fde) (mid/senior level) salesforce toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "MuleSoft Senior Developer- Enterprise (Canada)",
+   "company": "Slalom",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mulesoft-senior-developer-enterprise-canada-at-slalom-4409345905",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 38,
+   "matchReasons": [
+    "Integration",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "mulesoft senior developer- enterprise (canada) slalom greater toronto area, canada linkedin other readme integration role fit toronto area",
    "alternates": []
   },
   {
@@ -53350,6 +53519,27 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Salesforce Engagement Manager",
+   "company": "Verndale",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-engagement-manager-at-verndale-4484574800",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce engagement manager verndale canada linkedin salesforce readme salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "Sr. Consultant, Value Excellence",
    "company": "ServiceNow",
    "location": "Toronto, Canada",
@@ -53538,7 +53728,13 @@
    ],
    "french": false,
    "search": "sr. salesforce developer – financial services cloud sagen oakville, halton adzuna salesforce adzuna salesforce role fit",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-developer-%E2%80%93-financial-services-cloud-at-sagen-4480274599",
+     "label": "LinkedIn · Oakville"
+    }
+   ]
   },
   {
    "posted": "2026-10-29",
@@ -55826,6 +56022,26 @@
   },
   {
    "posted": "2026-10-27",
+   "title": "Développeur(euse) MuleSoft",
+   "company": "CGI",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-mulesoft-at-cgi-4483757311",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 26,
+   "matchReasons": [
+    "Integration",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur(euse) mulesoft cgi montreal, quebec, canada linkedin other readme integration canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-27",
    "title": "SFDC Omnistudio Developer",
    "company": "Cloudious LLC",
    "location": "Canada",
@@ -56005,6 +56221,27 @@
    ],
    "french": false,
    "search": "servicenow developer alldus canada linkedin servicenow readme servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "ServiceNow Technical Architect",
+   "company": "Alldus",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-alldus-4481470880",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow technical architect alldus canada linkedin servicenow readme servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -57152,8 +57389,28 @@
     },
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480399041",
+     "label": "LinkedIn · Boisbriand"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389737",
+     "label": "LinkedIn · Brossard"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480382876",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389738",
      "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480502039",
+     "label": "LinkedIn · Québec"
     }
    ]
   },
@@ -57186,6 +57443,11 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480395256",
      "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480500030",
+     "label": "LinkedIn · Québec"
     }
    ]
   },
@@ -57211,13 +57473,33 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480387792",
+     "label": "LinkedIn · Boisbriand"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944",
      "label": "LinkedIn · Toronto"
     },
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480399043",
+     "label": "LinkedIn · Brossard"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480386776",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480500031",
      "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480398116",
+     "label": "LinkedIn · Québec"
     }
    ]
   },
@@ -57352,8 +57634,23 @@
     },
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381893",
+     "label": "LinkedIn · Brossard"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480383877",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892",
      "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480382877",
+     "label": "LinkedIn · Québec"
     }
    ]
   },
@@ -58401,14 +58698,14 @@
   {
    "posted": "2026-10-21",
    "title": "Salesforce Communications Cloud Architect",
-   "company": "Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!",
+   "company": "Astra North Infoteck Inc.",
    "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-communications-cloud-architect-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4481129319",
-   "note": "linkedin",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50647715",
+   "note": "via buffy-round16--2026-11-07--v1.md",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "Job Bank",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -58416,8 +58713,13 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce communications cloud architect astra-north infoteck inc. ~ conquering today’s challenges, achieving tomorrow’s vision! toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "search": "salesforce communications cloud architect astra north infoteck inc. toronto, ontario, canada job bank salesforce via buffy-round16--2026-11-07--v1.md salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-communications-cloud-architect-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4481129319",
+     "label": "LinkedIn · Toronto"
+    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5937070754",
@@ -58513,6 +58815,48 @@
    ],
    "french": false,
    "search": "salesforce developer j&m group toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-21",
+   "title": "Salesforce Revenue Cloud Architect - Revenue Cloud Advanced, Billing, CPQ, Apex & LWC",
+   "company": "Astra North Infoteck Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50648280",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Job Bank",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud architect - revenue cloud advanced, billing, cpq, apex & lwc astra north infoteck inc. toronto, ontario, canada job bank salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-21",
+   "title": "Salesforce Developer - Revenue Cloud Advanced, Apex, LWC",
+   "company": "Astra North Infoteck Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50648287",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Job Bank",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer - revenue cloud advanced, apex, lwc astra north infoteck inc. toronto, ontario, canada job bank salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -59042,6 +59386,44 @@
   },
   {
    "posted": "2026-10-19",
+   "title": "Senior Technical Consultant, ServiceNow Developer",
+   "company": "KPMG Canada",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454517975",
+   "note": "via buffy-round16--2026-11-07--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 94,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior technical consultant, servicenow developer kpmg canada calgary, alberta, canada linkedin servicenow via buffy-round16--2026-11-07--v1.md servicenow consulting/ba role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454544018",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454544020",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454529946",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-10-19",
    "title": "ServiceNow system Administrator #26-24594",
    "company": "US Tech Solutions",
    "location": "Toronto, Ontario, Canada",
@@ -59081,6 +59463,43 @@
    "french": false,
    "search": "servicenow developer (reporting & analytics) telus digital toronto, on jobsca.org servicenow telus servicenow role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-10-19",
+   "title": "Consultant, ServiceNow Developer",
+   "company": "KPMG Canada",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527976",
+   "note": "via buffy-round16--2026-11-07--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "consultant, servicenow developer kpmg canada calgary, alberta, canada linkedin servicenow via buffy-round16--2026-11-07--v1.md servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454544021",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454532959",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527977",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
   },
   {
    "posted": "2026-10-19",
@@ -59167,61 +59586,6 @@
   },
   {
    "posted": "2026-10-18",
-   "title": "Senior Technical Consultant, ServiceNow Developer",
-   "company": "KPMG Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454544020",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 98,
-   "matchReasons": [
-    "ServiceNow",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior technical consultant, servicenow developer kpmg canada toronto, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454529946",
-     "label": "LinkedIn · Ottawa"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-18",
-   "title": "Consultant, ServiceNow Developer",
-   "company": "KPMG Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454532959",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "consultant, servicenow developer kpmg canada toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527977",
-     "label": "LinkedIn · Ottawa"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-18",
    "title": "Lead ServiceNow Architecture Consultant",
    "company": "CGI",
    "location": "Calgary, Alberta, Canada",
@@ -59242,24 +59606,61 @@
    "alternates": []
   },
   {
-   "posted": "2026-10-17",
+   "posted": "2026-10-18",
    "title": "Senior Consultant, Developer, ServiceNow",
    "company": "KPMG Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454531951",
-   "note": "linkedin",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454517977",
+   "note": "via buffy-round16--2026-11-07--v1.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "LinkedIn",
    "verified": "Aggregator",
-   "match": 88,
+   "match": 84,
    "matchReasons": [
     "ServiceNow",
     "Role fit",
-    "Toronto area"
+    "Canada / remote"
    ],
    "french": false,
-   "search": "senior consultant, developer, servicenow kpmg canada toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "search": "senior consultant, developer, servicenow kpmg canada vancouver, british columbia, canada linkedin servicenow via buffy-round16--2026-11-07--v1.md servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454542032",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454522996",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454531951",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-10-18",
+   "title": "Développeur(euse) - Release Manager Salesforce",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-release-manager-salesforce-at-ia-financial-group-industrial-alliance-4443557607",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur(euse) - release manager salesforce ia financial group (industrial alliance) quebec, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -59409,6 +59810,16 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480392412",
      "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480397232",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480384865",
+     "label": "LinkedIn · Québec"
     }
    ]
   },
@@ -59463,6 +59874,11 @@
     },
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480392411",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480382878",
      "label": "LinkedIn · Ottawa"
     }
@@ -59513,6 +59929,27 @@
      "label": "LinkedIn · Québec"
     }
    ]
+  },
+  {
+   "posted": "2026-10-16",
+   "title": "Salesforce Business Systems Analyst - FSC",
+   "company": "Astra-North Infoteck Inc.  ~ Conquering today’s challenges, achieving tomorrow’s vision!",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-systems-analyst-fsc-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4479387382",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce business systems analyst - fsc astra-north infoteck inc.  ~ conquering today’s challenges, achieving tomorrow’s vision! toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-10-16",
@@ -60727,6 +61164,33 @@
    ],
    "french": false,
    "search": "salesforce lead osi digital toronto, on; on-site osidigital.applytojob.com salesforce readme salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-lead-at-osi-digital-4477457331",
+     "label": "LinkedIn · Vancouver"
+    }
+   ]
+  },
+  {
+   "posted": "2026-10-09",
+   "title": "Salesforce Communications Cloud Developer",
+   "company": "Tata Consultancy Services",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-communications-cloud-developer-at-tata-consultancy-services-4476803239",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce communications cloud developer tata consultancy services toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
