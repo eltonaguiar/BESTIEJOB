@@ -2,7 +2,11 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ kilo-2026-11-05-sam-modules ]
+    # main only: a feature-branch trigger leaves the live board stale for as long as
+    # that branch exists, and GitHub Pages refuses non-main branches under the
+    # github-pages environment's protection rules anyway (runs 42353041948,
+    # 42352855406: "Branch ... is not allowed to deploy").
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
