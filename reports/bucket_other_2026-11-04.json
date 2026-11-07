@@ -1,0 +1,201 @@
+{
+ "bucket": "other",
+ "generated": "2026-11-04T19:00:38.901556+00:00",
+ "rounds_planned": 30,
+ "rounds_run": 10,
+ "verify_liveness": false,
+ "totals": {
+  "fetched": 1806,
+  "matched": 8,
+  "live": 5,
+  "new": 0,
+  "errors": 0,
+  "secs": 34.8
+ },
+ "rounds": [
+  {
+   "round": 1,
+   "target": "Geotab",
+   "route": "greenhouse",
+   "note": "Oakville, telematics",
+   "fetched": 58,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 3.0,
+   "jobs": []
+  },
+  {
+   "round": 2,
+   "target": "D2L",
+   "route": "greenhouse",
+   "note": "Kitchener, edtech",
+   "fetched": 25,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.1,
+   "jobs": []
+  },
+  {
+   "round": 3,
+   "target": "MongoDB",
+   "route": "greenhouse",
+   "note": "database",
+   "fetched": 360,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 6.5,
+   "jobs": []
+  },
+  {
+   "round": 4,
+   "target": "Okta",
+   "route": "greenhouse",
+   "note": "identity",
+   "fetched": 387,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.4,
+   "jobs": []
+  },
+  {
+   "round": 5,
+   "target": "Brex",
+   "route": "greenhouse",
+   "note": "fintech",
+   "fetched": 270,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 1.2,
+   "jobs": []
+  },
+  {
+   "round": 6,
+   "target": "Take-Two",
+   "route": "greenhouse",
+   "note": "games",
+   "fetched": 37,
+   "matched": 2,
+   "dupes": 0,
+   "live": 2,
+   "new": 0,
+   "error": null,
+   "secs": 0.2,
+   "jobs": [
+    {
+     "title": "Business Intelligence Developer",
+     "company": "Take-Two Interactive Software, Inc.",
+     "location": "Toronto, Ontario, Canada",
+     "url": "https://job-boards.greenhouse.io/taketwo/jobs/8165127",
+     "posted": "2026-09-02",
+     "source": "greenhouse:taketwo"
+    },
+    {
+     "title": "Data Developer (Python/Spark)",
+     "company": "Take-Two Interactive Software, Inc.",
+     "location": "Toronto, Ontario, Canada",
+     "url": "https://job-boards.greenhouse.io/taketwo/jobs/7851352",
+     "posted": "2026-04-24",
+     "source": "greenhouse:taketwo"
+    }
+   ]
+  },
+  {
+   "round": 7,
+   "target": "iCapital",
+   "route": "greenhouse",
+   "note": "fintech",
+   "fetched": 211,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 6.9,
+   "jobs": []
+  },
+  {
+   "round": 8,
+   "target": "Toast",
+   "route": "greenhouse",
+   "note": "restaurant POS",
+   "fetched": 344,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 0.2,
+   "jobs": [
+    {
+     "title": "Staff Data Scientist",
+     "company": "Toast",
+     "location": "Canada",
+     "url": "https://careers.toasttab.com/jobs?gh_jid=8052293",
+     "posted": "2026-07-08",
+     "source": "greenhouse:toast"
+    }
+   ]
+  },
+  {
+   "round": 9,
+   "target": "Movable Ink",
+   "route": "greenhouse",
+   "note": "martech",
+   "fetched": 35,
+   "matched": 4,
+   "dupes": 3,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 0.9,
+   "jobs": [
+    {
+     "title": "Data Engineer",
+     "company": "Movable Ink",
+     "location": "Movable Ink - Toronto (Remote) ",
+     "url": "https://movableink.com/job-listing?gh_jid=8188477",
+     "posted": "2026-09-14",
+     "source": "greenhouse:movableink"
+    }
+   ]
+  },
+  {
+   "round": 10,
+   "target": "EQ Bank",
+   "route": "lever",
+   "note": "digital bank, Toronto",
+   "fetched": 79,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 14.3,
+   "jobs": [
+    {
+     "title": "Data Scientist, Growth (12 month contract)",
+     "company": "EQ Bank",
+     "location": "Toronto",
+     "url": "https://jobs.lever.co/eqbank/6d858052-8862-47b5-a25e-5915424c6691",
+     "posted": "2026-10-23",
+     "source": "lever:eqbank"
+    }
+   ]
+  }
+ ]
+}

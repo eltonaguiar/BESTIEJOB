@@ -1,0 +1,278 @@
+{
+ "bucket": "salesforce",
+ "generated": "2026-11-04T19:00:38.405848+00:00",
+ "rounds_planned": 30,
+ "rounds_run": 10,
+ "verify_liveness": false,
+ "totals": {
+  "fetched": 464,
+  "matched": 15,
+  "live": 15,
+  "new": 0,
+  "errors": 0,
+  "secs": 35.9
+ },
+ "rounds": [
+  {
+   "round": 1,
+   "target": "Salesforce",
+   "route": "workday",
+   "note": "the vendor itself",
+   "fetched": 100,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 3.8,
+   "jobs": []
+  },
+  {
+   "round": 2,
+   "target": "NeuraFlash",
+   "route": "greenhouse",
+   "note": "Salesforce Summit partner",
+   "fetched": 75,
+   "matched": 15,
+   "dupes": 0,
+   "live": 15,
+   "new": 0,
+   "error": null,
+   "secs": 20.2,
+   "jobs": [
+    {
+     "title": "Forward Deployed Engineer, AI & Agentforce",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6225939004",
+     "posted": "2026-10-15",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Functional Lead, AI & Agentforce Delivery",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6228522004",
+     "posted": "2026-10-20",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Consultant, Change Management",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5969708004",
+     "posted": "2026-04-14",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Engagement Manager",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220891004",
+     "posted": "2026-10-08",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Experience Architect, AI and Agentforce (Solution Architect)",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5764374004",
+     "posted": "2026-01-14",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Manager, AI & Agentforce Delivery",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6206506004",
+     "posted": "2026-09-24",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Project Manager",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220750004",
+     "posted": "2026-10-08",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Architect, Field Service",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6011721004",
+     "posted": "2026-06-02",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Architect, Revenue Cloud",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222627004",
+     "posted": "2026-10-12",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Architect, Service Cloud",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5730028004",
+     "posted": "2025-12-05",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Architect, Service Cloud Voice",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5993680004",
+     "posted": "2026-05-11",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Solution Engineer,  RCA & RCB",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6015378004",
+     "posted": "2026-06-05",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Technical Architect",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222640004",
+     "posted": "2026-10-12",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Salesforce Technical Architect, AI and Agentforce",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6218548004",
+     "posted": "2026-10-06",
+     "source": "greenhouse:neuraflash"
+    },
+    {
+     "title": "Sr. Developer, AI and Agentforce",
+     "company": "NeuraFlash, Part of Accenture",
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6231605004",
+     "posted": "2026-10-21",
+     "source": "greenhouse:neuraflash"
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "target": "Highmetric",
+   "route": "greenhouse",
+   "note": "Salesforce partner",
+   "fetched": 48,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 4,
+   "target": "nCino",
+   "route": "greenhouse",
+   "note": "financial-services Salesforce ISV",
+   "fetched": 29,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.1,
+   "jobs": []
+  },
+  {
+   "round": 5,
+   "target": "Varicent",
+   "route": "greenhouse",
+   "note": "Salesforce-adjacent comp platform",
+   "fetched": 22,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.2,
+   "jobs": []
+  },
+  {
+   "round": 6,
+   "target": "SiteTracker",
+   "route": "lever",
+   "note": "Salesforce-native field ops",
+   "fetched": 8,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 10.1,
+   "jobs": []
+  },
+  {
+   "round": 7,
+   "target": "Flosum",
+   "route": "workable",
+   "note": "Salesforce DevOps ISV",
+   "fetched": 147,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.5,
+   "jobs": []
+  },
+  {
+   "round": 8,
+   "target": "Zaelab",
+   "route": "workable",
+   "note": "Salesforce commerce partner",
+   "fetched": 7,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.3,
+   "jobs": []
+  },
+  {
+   "round": 9,
+   "target": "Avacone",
+   "route": "workable",
+   "note": "Salesforce partner",
+   "fetched": 20,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.4,
+   "jobs": []
+  },
+  {
+   "round": 10,
+   "target": "RapDev",
+   "route": "ashby",
+   "note": "Salesforce/ServiceNow consultancy",
+   "fetched": 8,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.0,
+   "jobs": []
+  }
+ ]
+}

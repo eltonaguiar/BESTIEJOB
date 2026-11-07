@@ -1,14 +1,16 @@
 {
+<<<<<<< HEAD
   "generated_at": "2026-11-07T07:15:52Z",
+=======
+  "generated_at": "2026-11-06T07:16:03Z",
+>>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
   "city": "Toronto / GTA / Canada",
   "peers_answered": 5,
   "peers_failed": 1,
   "keywords": [
     "servicenow itom",
-    "servicenow incident",
-    "cmdb specialist",
-    "itam analyst",
     "servicenow gsd",
+<<<<<<< HEAD
     "salesforce apex",
     "salesforce lightning",
     "salesforce pardot",
@@ -16,14 +18,24 @@
     "salesforce wave",
     "servicenow event",
     "salesforce process"
+=======
+    "salesforce pardot",
+    "cmdb analyst",
+    "itam specialist",
+    "servicenow itoa",
+    "salesforce apex",
+    "servicenow itsc",
+    "salesforce lightning",
+    "servicenow sysadm",
+    "salesforce wave",
+    "servicenow incident"
+>>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
   ],
   "per_peer": {
     "vllm/Qwen/Qwen2.5-14B-Instruct": [
       "servicenow itom",
-      "servicenow incident",
-      "cmdb specialist",
-      "itam analyst",
       "servicenow gsd",
+<<<<<<< HEAD
       "salesforce apex",
       "salesforce lightning",
       "salesforce pardot",
@@ -31,13 +43,29 @@
       "salesforce wave",
       "servicenow event",
       "salesforce process"
+=======
+      "salesforce pardot",
+      "cmdb analyst",
+      "itam specialist",
+      "servicenow itoa",
+      "salesforce apex",
+      "servicenow itsc",
+      "salesforce lightning",
+      "servicenow sysadm",
+      "salesforce wave",
+      "servicenow incident"
+>>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
     ],
     "ollama/gemma4:31b-cloud": [
       "servicenow hrsd",
       "servicenow itom",
       "servicenow itam",
       "servicenow secops",
+<<<<<<< HEAD
       "servicenow grm",
+=======
+      "servicenow grc",
+>>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
       "salesforce cpq",
       "salesforce marketing cloud",
       "salesforce experience cloud",
@@ -48,6 +76,7 @@
     ],
     "litellm/paid-mode": [
       "servicenow itam",
+<<<<<<< HEAD
       "servicenow itom",
       "servicenow grc",
       "servicenow consultant",
@@ -59,6 +88,19 @@
       "servicenow integration hub",
       "servicenow virtual agent",
       "servicenow hrsd"
+=======
+      "servicenow irm",
+      "servicenow flow designer",
+      "servicenow virtual agent",
+      "servicenow performance analytics",
+      "salesforce marketing cloud",
+      "salesforce velocity",
+      "salesforce flow builder",
+      "salesforce apex developer",
+      "cmdb analyst",
+      "itsm process consultant",
+      "servicenow implementation specialist"
+>>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
     ],
     "pollinations/openai-fast": [
       "servicenow hrsd",
@@ -75,6 +117,7 @@
       "salesforce marketing cloud"
     ],
     "llm7/codestral-latest": [
+<<<<<<< HEAD
       "servicenow sn_hrsd",
       "salesforce cpq",
       "servicenow sn_hr_core",
@@ -87,6 +130,20 @@
       "salesforce einstein recommendation",
       "servicenow sn_hr_core",
       "salesforce einstein assistant"
+=======
+      "servicenow itsm",
+      "servicenow cmdb",
+      "servicenow itam",
+      "salesforce cpq",
+      "salesforce b2b",
+      "salesforce b2c",
+      "salesforce einstein analytics",
+      "salesforce einstein vision",
+      "servicenow now platform",
+      "salesforce lightning",
+      "servicenow flow",
+      "salesforce apex"
+>>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
     ]
   },
   "dropped": []

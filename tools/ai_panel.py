@@ -70,6 +70,7 @@ LABELS: dict[str, list[str]] = {
     "CF_ACCOUNT_ID": ["CLOUDFLARE ACCOUNT ID"],
     "CF_API_TOKEN": ["CLOUDFLARE API KEY", "CLOUDFLARE API TOKEN"],
     "LLM7_API_KEY": ["LLM7 API KEY"],
+    "BRAVE_SEARCH_API_KEY": ["BRAVE SEARCH API KEY"],
     # search APIs — used by scripts/web_search_scan.py through this module
     "TAVILY_API_KEY": ["TAVILY API KEY", "TAVILY API KEY 2"],
     "EXA_API_KEY": ["EXA API KEY", "EXA AI API KEY"],
@@ -98,6 +99,7 @@ LABEL_REGEX: dict[str, list[re.Pattern[str]]] = {
     "FIRECRAWL_API_KEY": [re.compile(r"firecrawl.*key", re.I)],
     "JINA_API_KEY": [re.compile(r"jina.*key", re.I)],
     "PARALLEL_API_KEY": [re.compile(r"parallel.*key", re.I)],
+    "BRAVE_SEARCH_API_KEY": [re.compile(r"brave.*key", re.I)],
 }
 
 # Key-shape fallback: the label was wrong/redacted but the value is recognisable.

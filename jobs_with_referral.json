@@ -1,0 +1,259 @@
+{
+  "scanned_at": "2026-11-07",
+  "stats": {
+    "checked": 40,
+    "ok": 38,
+    "hits": 12,
+    "errors": 2
+  },
+  "results": [
+    {
+      "title": "Independent Sales Partner - Salesforce, HubSpot, ServiceNow",
+      "company": "Apexify Consulting Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/independent-sales-partner-salesforce-hubspot-servicenow-ai-services-at-apexify-consulting-inc-4483234795",
+      "source": "readme",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": ""
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "mp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_find-a-referral-cta\" data-impression-id=\"public_jobs_find-a-referral-cta\" data-tracking-control-name=\"public_jobs_f"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "find-a-referral-cta\" data-impression-id=\"public_jobs_find-a-referral-cta\" data-tracking-control-name=\"public_jobs_find-a-referral-cta\" data-tracking-will-navigate>"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "eferral-cta\" data-tracking-control-name=\"public_jobs_find-a-referral-cta\" data-tracking-will-navigate> See who you know <"
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow and Salesforce contract jobs in Toronto",
+      "company": "Freelance Radar",
+      "url": "https://www.freelanceradar.co/ca/contract-jobs/salesforce-servicenow/toronto",
+      "source": "freelanceradar",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "aid\");if(!ad&&!/^https?:\\/\\/(www\\.)?google\\./.test(document.referrer))return;q.set(\"lpv\",\"b\");history.replaceState(history.state,\"\",\"/?\"+q.toString()+location.hash);}ca"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "\" \u00b7 Freelance Radar\" : document.title).slice(0, 300), referrer: location.href, language: navigator.language, timezone: (Intl.DateTimeFormat().resolvedOption"
+        }
+      ]
+    },
+    {
+      "title": "Migration Consultant (Salesforce/ServiceNow data)",
+      "company": "Slalom",
+      "url": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Migration-Consultant/3803",
+      "source": "readme",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "/us/en/who-we-are/newsroom\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Newsroom\">Visit the newsroom"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "we-are/locations#australia\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Australia\">Australia <li class=\"f"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "ho-we-are/locations#canada\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Canada\">Canada <li class=\"footer_"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "-we-are/locations/colombia\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Colombia\">Colombia <li class=\"foo"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "o-we-are/locations#germany\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Germany\">Germany <li class=\"foote"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "o-we-are/locations#ireland\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Ireland\">Ireland <li class=\"foote"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "who-we-are/locations#japan\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Japan\">Japan <li class=\"footer__l"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "ho-we-are/locations#mexico\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Mexico\">Mexico <li class=\"footer_"
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow Sr. Principal Security, Risk, and OT Solution Architect",
+      "company": "ServiceNow",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145565058-sr-principal-security-risk-and-ot-solution-architect",
+      "source": "smartrecruiters",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "icenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"> Learn more here . To determine eligibility for a work persona, ServiceNow may confirm th"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "fcf5fee4e3e3d0e3f5e2e6f9f3f5feffe7bef3fffd\" rel=\"noopener noreferrer\"><span class=\"__cf_email__\" data-cfemail=\"27404b4845464b53464b424953545467544255514e444249485009444"
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow Senior Engineering Manager, Agentic & Generative AI Benchmarking and Evaluations",
+      "company": "ServiceNow Careers",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000137502479-senior-engineering-manager-agentic-generative-ai-benchmarking-and-evaluations",
+      "source": "smartrecruiters",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "ai-agenticai-assessment-scheduled-job.html\" rel=\"noopener noreferrer\" target=\"_blank\">Now Assist agentic workflows across multi-step orchestration, tool-calling, an"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "icenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"> Learn more here . To determine eligibility for a work persona, ServiceNow may confirm th"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "212823393e3e0d3e283f3b242e2823223a632e2220\" rel=\"noopener noreferrer\"><span class=\"__cf_email__\" data-cfemail=\"cea9a2a1acafa2baafa2aba0babdbd8ebdabbcb8a7adaba0a1b9e0ada"
+        }
+      ]
+    },
+    {
+      "title": "Principal Solution Architect- ServiceNow",
+      "company": "ServiceNow",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719",
+      "source": "smartrecruiters",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "icenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"> Learn more here . To determine eligibility for a work persona, ServiceNow may confirm th"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "f4fdf6ecebebd8ebfdeaeef1fbfdf6f7efb6fbf7f5\" rel=\"noopener noreferrer\"><span class=\"__cf_email__\" data-cfemail=\"c4a3a8aba6a5a8b0a5a8a1aab0b7b784b7a1b6b2ada7a1aaabb3eaa7a"
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow Developer",
+      "company": "9th Way Insignia",
+      "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
+      "source": "greenhouse",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "out_request/job_post/5466447008/ai_opt_out\" rel=\"noopener noreferrer\">Learn more <button type=\"submit\" class=\"btn btn--r"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
+        },
+        {
+          "pattern": "form_field",
+          "snippet": "<input id=\"preferred_name\" class=\"input input__single-line\" aria-label=\"preferred first name\" aria-describedby=\"preferred_name-description preferred_name-error "
+        }
+      ]
+    },
+    {
+      "title": "Salesforce Business Analyst",
+      "company": "Altus Group",
+      "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
+      "source": "workday",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acces"
+        },
+        {
+          "pattern": "employee\\s+referr",
+          "snippet": "? If so, ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acc"
+        }
+      ]
+    },
+    {
+      "title": "Salesforce Consultant, Revenue Cloud",
+      "company": "NeuraFlash",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242209004",
+      "source": "greenhouse",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
+        }
+      ]
+    },
+    {
+      "title": "Senior Salesforce Developer @ Webflow",
+      "company": "Webflow",
+      "url": "https://jobs.ashbyhq.com/webflow/a35a4d60-319f-441e-89d7-3a0ef6cd7421",
+      "source": "ashby",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "em\\\">Please visit our Careers page for more informat"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "bled Employer and are committed to building"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "wing our story on our Webflow Blog , <a target=\\\"_blank\\\" rel=\\\"no"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "Webflow Blog , LinkedIn , <a target=\\"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "> LinkedIn , X (Twitter) , and/or <a target=\\\"_blank\\\""
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "tter) , and/or Glassdoor <"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "information, see Webflow\u2019s Applicant P"
+        }
+      ]
+    },
+    {
+      "title": "Salesforce Platform Developer",
+      "company": "Altus Group",
+      "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
+      "source": "workday",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acces"
+        },
+        {
+          "pattern": "employee\\s+referr",
+          "snippet": "? If so, ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acc"
+        }
+      ]
+    },
+    {
+      "title": "Senior Salesforce Developer",
+      "company": "Docebo",
+      "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
+      "source": "ashby",
+      "hints": [
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": "ly achieved two IPOs ( TSX: DCBO &"
+        },
+        {
+          "pattern": "referr(al|er)\\b",
+          "snippet": ":1.5em\\\">Docebo is an <a target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\" href=\\\"https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reade"
+        }
+      ]
+    }
+  ]
+}

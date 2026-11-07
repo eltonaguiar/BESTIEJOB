@@ -1,0 +1,185 @@
+{
+ "bucket": "servicenow",
+ "generated": "2026-11-04T19:00:37.913678+00:00",
+ "rounds_planned": 30,
+ "rounds_run": 10,
+ "verify_liveness": false,
+ "totals": {
+  "fetched": 705,
+  "matched": 6,
+  "live": 3,
+  "new": 0,
+  "errors": 0,
+  "secs": 38.5
+ },
+ "rounds": [
+  {
+   "round": 1,
+   "target": "ServiceNow",
+   "route": "smartrecruiters",
+   "note": "the vendor itself",
+   "fetched": 300,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 1.3,
+   "jobs": [
+    {
+     "title": "Principal Solution Architect- ServiceNow",
+     "company": "ServiceNow",
+     "location": "Toronto, Ontario, ca",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719",
+     "posted": "2026-10-29",
+     "source": "smartrecruiters:ServiceNow"
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "target": "Ensiti",
+   "route": "smartrecruiters",
+   "note": "ServiceNow partner",
+   "fetched": 5,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.4,
+   "jobs": []
+  },
+  {
+   "round": 3,
+   "target": "Spruce Infotech",
+   "route": "smartrecruiters",
+   "note": "ServiceNow staffing",
+   "fetched": 6,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.4,
+   "jobs": []
+  },
+  {
+   "round": 4,
+   "target": "Crossfuze",
+   "route": "workable",
+   "note": "ServiceNow Elite partner",
+   "fetched": 0,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.5,
+   "jobs": []
+  },
+  {
+   "round": 5,
+   "target": "Highmetric",
+   "route": "greenhouse",
+   "note": "ServiceNow partner",
+   "fetched": 48,
+   "matched": 4,
+   "dupes": 3,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 0.2,
+   "jobs": [
+    {
+     "title": "ServiceNow Business Process Consultant \u2013 FSO/CSM",
+     "company": "NewRocket",
+     "location": "Remote - US or Canada",
+     "url": "https://www.newrocket.com/careers/job?gh_jid=6230570004&gh_jid=6230570004",
+     "posted": "2026-10-28",
+     "source": "greenhouse:highmetric"
+    }
+   ]
+  },
+  {
+   "round": 6,
+   "target": "NeuraFlash",
+   "route": "greenhouse",
+   "note": "ServiceNow + Salesforce",
+   "fetched": 75,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.6,
+   "jobs": []
+  },
+  {
+   "round": 7,
+   "target": "RapDev",
+   "route": "ashby",
+   "note": "ServiceNow consultancy",
+   "fetched": 8,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.0,
+   "jobs": []
+  },
+  {
+   "round": 8,
+   "target": "Directive",
+   "route": "ashby",
+   "note": "ServiceNow partner",
+   "fetched": 63,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 0.0,
+   "jobs": []
+  },
+  {
+   "round": 9,
+   "target": "Accenture",
+   "route": "workday",
+   "note": "global SI",
+   "fetched": 100,
+   "matched": 0,
+   "dupes": 0,
+   "live": 0,
+   "new": 0,
+   "error": null,
+   "secs": 10.2,
+   "jobs": []
+  },
+  {
+   "round": 10,
+   "target": "DXC Technology",
+   "route": "workday",
+   "note": "ITSM outsourcing",
+   "fetched": 100,
+   "matched": 1,
+   "dupes": 0,
+   "live": 1,
+   "new": 0,
+   "error": null,
+   "secs": 24.9,
+   "jobs": [
+    {
+     "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
+     "company": "DXC Technology",
+     "location": "CAN - ON - OTTAWA",
+     "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856",
+     "posted": null,
+     "posted_raw": "Posted 30+ Days Ago",
+     "source": "workday:dxctechnology"
+    }
+   ]
+  }
+ ]
+}

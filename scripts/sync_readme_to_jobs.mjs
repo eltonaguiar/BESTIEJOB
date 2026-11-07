@@ -383,8 +383,12 @@ function main() {
   console.log(
     `[sync] readme rows=${readmeRows.length} already-in-feed=${duplicated} added=${added.length} ` +
       `undated-dropped=${undated} listing-pages-skipped=${listingSkipped} ` +
+<<<<<<< HEAD
       `listing-pages-purged=${listingDropped} salary-filled=${enriched.salaryFilled} ` +
       `arrangement-filled=${enriched.arrangementFilled} dupes-collapsed=${deduped.collapsed} total=${merged.length}`
+=======
+      `listing-pages-purged=${listingDropped} total=${merged.length}`
+>>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
   );
 
   if (DRY) {

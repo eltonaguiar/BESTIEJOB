@@ -37,7 +37,12 @@ sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from parallel_fanout_scan import probe  # noqa: E402
-from today_feeds_scan import EXCL, GEO, KW  # noqa: E402
+from today_feeds_scan import EXCL, GEO, KW, workday_day  # noqa: E402
+
+try:
+    from curl_cffi import requests as cr
+except ImportError:                       # curl_cffi is optional; Workday needs it
+    cr = None
 
 NOW = datetime.now(timezone.utc)
 INBOX = ROOT / "inbox"
@@ -184,11 +189,53 @@ def identify(platform: str, slug: str, name: str) -> tuple[bool, str]:
     title = board_title(platform, slug)
     if not title:
         return False, "no board page to verify"
+    # A slug guess can land on a vendor's demo/trial tenant (lever:blue-mantis
+    # resolved to "Blue Mantis Trial").  Those boards carry no real postings, so
+    # the name match alone is not proof of the employer's own board.
+    if re.search(r"\b(trial|demo|sandbox|test|staging)\b", title, re.I):
+        return False, f"{title} (demo/trial board, not the employer)"
     flat = re.sub(r"[^a-z0-9]", "", title.lower())
     for tok in name_tokens(name):
         if len(tok) >= 4 and tok in flat:
             return True, title
     return False, title
+
+
+def workday_probe(tenant: str, wd: str, site: str, label: str) -> list[dict]:
+    """Probe a Workday CXS endpoint with a browser TLS fingerprint.
+
+    `parallel_fanout_scan.probe()` posts through urllib, and Workday's CXS
+    endpoint rejects that handshake — every tenant except one came back empty
+    even though the same tenants answer curl_cffi with HTTP 200 (proved in the
+    round-4 ATS pass).  Both platform keywords are asked for, because a single
+    "servicenow" search silently skips every Salesforce-only tenant.
+    """
+    if cr is None:
+        return []
+    host = f"{tenant}.{wd}.myworkdayjobs.com"
+    url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
+    out: list[dict] = []
+    for keyword in ("ServiceNow", "Salesforce"):
+        body = {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": keyword}
+        try:
+            r = cr.post(url, json=body, impersonate="chrome124", timeout=25,
+                        headers={"User-Agent": UA, "Accept": "application/json",
+                                 "Content-Type": "application/json"})
+        except Exception:
+            continue
+        if r.status_code != 200:
+            continue
+        try:
+            data = r.json()
+        except Exception:
+            continue
+        for p in data.get("jobPostings") or []:
+            out.append({"title": p.get("title") or "", "company": label,
+                        "location": p.get("locationsText") or "",
+                        "url": f"https://{host}/en-US/{site}{p.get('externalPath', '')}",
+                        "posted": workday_day(p.get("postedOn") or ""),
+                        "sponsor": True, "source": f"workday:{tenant}"})
+    return out
 
 
 def relevant(j: dict, require_title: bool = True) -> bool:
@@ -239,23 +286,35 @@ def scan_boards() -> tuple[list[dict], dict]:
         n = take(probe(platform, slug), name)
         report[name] = f"{tier}: {platform}:{slug} verified as '{title[:40]}' — {n} row(s)"
 
+    answering = 0
     for tenant, wd, site, label in WORKDAY:
-        jobs = probe("workday", f"{tenant}|{wd}|{site}")
+        jobs = workday_probe(tenant, wd, site, label)
         if jobs:
-            report[label] = f"workday: live tenant {tenant} — {take(jobs, label)} row(s)"
+            answering += 1
+            report[label] = (f"workday: tenant {tenant} answered — "
+                             f"{take(jobs, label)} row(s)")
+        else:
+            report[label] = f"workday: tenant {tenant} — no answer or no SN/SF title"
+    print(f"workday tenants answering : {answering}/{len(WORKDAY)}")
     return rows, report
 
 
 def scan_search(sponsors: list[tuple[str, str]]) -> tuple[list[dict], dict]:
     from web_search_scan import search_exa, search_firecrawl, search_tavily
 
-    searchers = [("tavily", search_tavily)]
+    # Firecrawl first. As of 2026-11-04 Tavily answers HTTP 432 (plan set-usage
+    # limit exceeded) and Exa answers HTTP 402 (credits exhausted); Firecrawl is
+    # the only provider returning results, so it must be tried before the dead
+    # ones — `except Exception: continue` then falls through to them harmlessly.
+    searchers = [("firecrawl", search_firecrawl), ("tavily", search_tavily),
+                 ("exa", search_exa)]
     rows, report, seen = [], {}, set()
     for name, tier in sponsors:
         queries = [
             f'"{name}" ServiceNow developer OR administrator OR consultant '
             f'"Canada" job posting',
             f'site:myworkdayjobs.com "{name}" ServiceNow',
+            f'site:myworkdayjobs.com "{name}" Salesforce',
         ]
         found = 0
         for q in queries:

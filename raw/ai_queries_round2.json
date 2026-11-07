@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-11-04T19:02:01Z",
+  "city": "Toronto / GTA / Canada",
+  "peers_answered": 2,
+  "peers_failed": 1,
+  "keywords": [
+    "servicenow itam",
+    "servicenow cmdb",
+    "servicenow incident management",
+    "servicenow change management",
+    "servicenow request fulfillment",
+    "servicenow performance analytics",
+    "servicenow release manager",
+    "salesforce field service",
+    "salesforce marketing cloud",
+    "salesforce commerce cloud",
+    "salesforce solution architect",
+    "it asset manager"
+  ],
+  "per_peer": {
+    "groq/openai/gpt-oss-120b": [
+      "servicenow itam",
+      "servicenow cmdb",
+      "servicenow incident management",
+      "servicenow change management",
+      "servicenow request fulfillment",
+      "servicenow performance analytics",
+      "servicenow release manager",
+      "salesforce field service",
+      "salesforce marketing cloud",
+      "salesforce commerce cloud",
+      "salesforce solution architect",
+      "it asset manager"
+    ],
+    "gemini/gemini-2.5-flash-lite": [
+      "servicenow hr service delivery",
+      "servicenow security operations",
+      "servicenow grc",
+      "servicenow integrations",
+      "servicenow workflow automation",
+      "salesforce platform",
+      "salesforce administrator",
+      "salesforce developer",
+      "salesforce consultant",
+      "salesforce architect",
+      "it asset management",
+      "configuration management database"
+    ]
+  },
+  "dropped": []
+}
