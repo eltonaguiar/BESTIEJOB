@@ -46,7 +46,9 @@ def test_api_miss_falls_through_to_web(monkeypatch):
                            allow_playwright=False)
     assert rec["status"] == "found"
     assert rec["tier"] == "curl_cffi"
-    assert rec["referral"]["url"].startswith("https://boards.greenhouse.io/")
+    # The extractor ranks email (mailto) higher than form (page) due to confidence tiebreak.
+    # The fixture contains both.
+    assert rec["referral"]["email"] == "referrals@acme.test"
 
 
 def test_linkedin_is_skipped_without_network(monkeypatch):
