@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-08T06:31:52+00:00",
+ "generatedAt": "2026-11-08T07:02:15+00:00",
  "timezone": "America/Toronto",
- "count": 382,
+ "count": 383,
  "appliedHidden": 13,
  "sources": [
   "Adzuna",
@@ -106,6 +106,29 @@
   "wtop.themuse.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-08",
+   "title": "Architecte ServiceNow ITOM / ITAM Senior",
+   "company": "Ateko, backed by Bell Canada",
+   "location": "Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-senior-at-ateko-backed-by-bell-canada-4487632517",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "ITOM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "architecte servicenow itom / itam senior ateko, backed by bell canada quebec, canada linkedin servicenow  servicenow itam itom role fit canada / remote",
+   "alternates": []
+  },
   {
    "posted": "2026-11-08",
    "title": "ServiceNow Developer SME",
@@ -1688,6 +1711,29 @@
   {
    "posted": "2026-11-05",
    "title": "ServiceNow SAM Administrator - ITAM",
+   "company": "BMO",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764",
+   "note": "via linkedin-round103--2026-11-06--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow sam administrator - itam bmo toronto, ontario, canada linkedin servicenow via linkedin-round103--2026-11-06--v1.md servicenow itam sam/ham role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "ServiceNow SAM Administrator - ITAM",
    "company": "Bank of Montreal",
    "location": "Toronto, Ontario",
    "url": "https://www.adzuna.ca/details/5954079283",
@@ -3166,34 +3212,6 @@
    "french": false,
    "search": "business intelligence (bi) data engineer semex guelph, wellington region adzuna other data / bi role fit",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow SAM Administrator - ITAM",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096",
-   "note": "",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "SAM/HAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow sam administrator - itam bmo toronto, on, can workday ats servicenow  servicenow itam sam/ham role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764"
-    }
-   ]
   },
   {
    "posted": "2026-11-04",
