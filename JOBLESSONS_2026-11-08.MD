@@ -133,3 +133,42 @@ Salesforce: "Salesforce Architect Toronto", "Salesforce Developer Mississauga", 
 > 6. Deduplicate by canonical URL (LinkedIn guest > Adzuna > Indeed)
 > 7. Cap curated tables at 150/category, 30-day window
 > 8. Save lessons to `JOBLESSONS_YYYY-MM-DD.MD` each run
+
+## Additional Scan: 2026-11-08 (Hourly Cron Run — Post-Merge Update)
+
+### Technical Notes — Adzuna API Rate Limiting
+- Adzuna API returned HTTP 429 (Too Many Requests) for all 50+ queries in this hourly run
+- All Adzuna searches were rate-limited; SmartRecruiters, Workday, LinkedIn, and other sources provided the fresh data instead
+- Recommended back-off: wait 60+ seconds between Adzuna API calls, or reduce concurrent queries from 3 to 1
+
+### Scan Results — Fresh Jobs Found (Hourly Run vs. 06:00 EST Run)
+- **Adzuna:** 0 matching postings (rate-limited); 0 in prior 06:00 EST run
+- **SmartRecruiters:** 12 matching postings (new source this run)
+- **Workday:** 16 matching postings (same count as 06:00 EST run: 16)
+- **Lever:** 1 matching posting (new source this run; 0 in 06:00 EST)
+- **LinkedIn:** 205 matching postings (same scale as 06:00 EST: 205 via LinkedIn Guest API)
+- **Total fresh:** 264 new jobs identified before dedup
+
+### Merge Results
+- After dedup and secondary capping: 450 curated rows in 30-day window
+- Breakdown: 150 ServiceNow + 150 Salesforce + 150 Other (same as prior run's cap)
+- Archived 4848+ expired rows to README.BAK_2026-11-08T130449Z.md
+- Applied roles excluded (per APPLIED.md guard)
+
+### Site Build Output
+- Total jobs in built site: 1830 (735 ServiceNow + 761 Salesforce + 334 Other)
+- Down from 2030 in raw scanned set — dedup and per-category capping applied
+- Newest posting: 2026-11-08; built: 2026-11-08 13:04 UTC
+- 35 applied roles hidden; 222 duplicate mirrors collapsed
+
+### Key Patterns Confirmed (repeated from prior runs)
+- Elite partners (Deloitte, KPMG, Accenture, CGI, Slalom) remain the most reliable source for Toronto ServiceNow roles
+- Partner rebranding pattern persists: "Ateko backed by Bell Canada" = Bell Canada posting
+- URL dedup by canonical URL (stripping query params, www., lowercasing) is essential
+- LinkedIn Guest API is the highest-volume source for partner/consulting postings
+
+### New Action Items
+1. [ ] Implement Adzuna API back-off/retry logic (60s minimum between calls, reduce concurrency)
+2. [ ] Monitor LinkedIn API rate limits (429 observed in this run)
+3. [ ] Consider SmartRecruiters and Lever as high-priority sources for hourly scans
+4. [ ] Verify deduplication pipeline handles the same role appearing on multiple boards
