@@ -1,3 +1,4 @@
+<!-- merged 2026-11-08T110439Z: +45 new, 25 duplicate, version 2 -->
 ---
 model: buffy-round15b
 scanned_at: 2026-11-06T20:20:00Z

@@ -1,3 +1,4 @@
+<!-- merged 2026-11-08T110439Z: +0 new, 0 duplicate, version 2 -->
 ---
 date: 2026-11-07
 type: referral-hunt
