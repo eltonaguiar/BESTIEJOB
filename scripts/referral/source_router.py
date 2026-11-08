@@ -16,7 +16,7 @@ class SourceKind(Enum):
     ATS_WORKDAY = "ats_workday"
     ATS_SMARTRECRUITERS = "ats_smartrecruiters"
     AGGREGATOR_ADZUNA = "aggregator_adzuna"
-    AGGREGATOR_LINKEDIN = "aggregator_linkedIn"
+    AGGREGATOR_LINKEDIN = "aggregator_linkedin"
     COMPANY_DIRECT = "company_direct"
     UNROUTABLE = "unroutable"
 
