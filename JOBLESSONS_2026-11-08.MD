@@ -212,3 +212,35 @@ Salesforce: "Salesforce Architect Toronto", "Salesforce Developer Mississauga", 
 3. Re-check GC Jobs / gojobs.gov.on.ca / jobs.bce.ca with posted-date filter for in-window ServiceNow roles
 4. Consider sub-sorting the 150/family cap by scrape time so late-run fresh rows aren't locked out by same-date ties
 5. Validate any new URLs against README.md (grep by URL) before adding to inbox
+
+## 18:00 EST hourly run (2026-11-08) — Hermes cron (independent scan)
+
+### Scan
+- Tool: web search (Indeed.ca, careers.servicenow.com, BuiltIn Toronto, Jobera, Hiring Tempo)
+- Queries: "Toronto ServiceNow jobs November 2026", "Toronto Salesforce jobs November 2026"
+- Named companies checked: Rogers, Bell / Ateko, Canadian government (GC Jobs / jobbank.gc.ca)
+
+### Dedup result (normalized URL vs README.md)
+0 new jobs merged. Every posting found was already represented on the board:
+
+| Source | Posting | Location | Posted | On-board as |
+|---|---|---|---|---|
+| ServiceNow careers | Staff Systems Engineer (744000160278249) | Toronto | 2026-11-06 | jobs.smartrecruiters.com/ServiceNow/744000160278249 |
+| ServiceNow careers | Staff Security Engineer / Security Engineering (744000160294642) | Toronto | 2026-11-06 | jobs.smartrecruiters.com/ServiceNow/744000160294642 |
+| ServiceNow careers | Staff Security Engineer / Enterprise Security (744000160297239) | Toronto | 2026-11-06 | jobs.smartrecruiters.com/ServiceNow/744000160297239 |
+| ServiceNow careers | Senior Staff Security Engineer / Systems Engineering (744000160294989) | Toronto | 2026-11-06 | jobs.smartrecruiters.com/ServiceNow/744000160294989 |
+| ServiceNow careers | Staff Site Reliability Engineer, Canada Protected B (744000159744570) | Toronto | 2026-11-05 | jobs.smartrecruiters.com/ServiceNow/744000159744570 |
+| ServiceNow careers | Senior Site Reliability Engineer, Canada Protected B (744000159911194) | Toronto | 2026-11-05 | jobs.smartrecruiters.com/ServiceNow/744000159911194 |
+
+Salesforce: Indeed.ca results were aggregator listing pages (rejected as listing URLs). Corporate Salesforce roles returned were sales / business-development / recruiter / customer-success (outside the board's technical remit). Technical Salesforce roles (Solutions Architect, Technical Architect) had no verifiable direct posting URL with an absolute posted date, so none were added.
+
+### Named-company check
+- Bell / Ateko: Canada Protected B ServiceNow roles found — already on board (table above).
+- Rogers: no in-window Toronto ServiceNow / Salesforce posting surfaced.
+- Canadian government (GC Jobs / jobbank.gc.ca): prior runs found only stale Sep–Oct postings outside the 30-day window; nothing in-window this scan.
+
+### Lessons (this run)
+1. careers.servicenow.com and jobs.smartrecruiters.com/ServiceNow/<JK> are the same requisition. Dedupe by canonical job ID, not URL string alone, to avoid mirror duplicates.
+2. Indeed.ca SERP pages are listing pages and are rejected by the merger; only direct ATS / job-posting URLs with an absolute `Posted` date qualify.
+3. Salesforce technical roles surface on Indeed, but each posting needs a verifiable date before submission — never fabricate a date.
+4. GC Jobs / jobbank / Bell direct hits were stale (outside the 30-day window); apply a posted-date filter before submitting public-sector roles.
