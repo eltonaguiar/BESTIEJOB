@@ -1222,7 +1222,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-08T10:13:11.928Z** · 1312 live postings from 9 public sources · 77 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-08T10:15:31.411Z** · 1312 live postings from 9 public sources · 77 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -1230,16 +1230,16 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 |---|---|---|---|
 | 2026-11-08 | [Conseiller.ère /Conseiller.ère principal.e Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-service-now-at-kpmg-canada-4377531962) | KPMG Canada | Montreal, Quebec, Canada |
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480397231) | KPMG Canada | Toronto, Ontario, Canada |
-| 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892) | KPMG Canada | Ottawa, Ontario, Canada |
 | 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944) | KPMG Canada | Toronto, Ontario, Canada |
+| 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892) | KPMG Canada | Ottawa, Ontario, Canada |
+| 2026-11-07 | [Directeur.rice - Architecte de solutions ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480399040) | KPMG Canada | Toronto, Ontario, Canada |
+| 2026-11-07 | [Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793) | KPMG Canada | Toronto, Ontario, Canada |
+| 2026-11-07 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621290) | KPMG Canada | Toronto, Ontario, Canada |
+| 2026-11-07 | [Directeur.rice fonctionnel.le - ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480392411) | KPMG Canada | Toronto, Ontario, Canada |
+| 2026-11-07 | [Functional Manager - ServiceNow](https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480384864) | KPMG Canada | Toronto, Ontario, Canada |
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381893) | KPMG Canada | Brossard, Quebec, Canada |
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480382877) | KPMG Canada | Québec, Quebec, Canada |
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480383877) | KPMG Canada | Montreal, Quebec, Canada |
-| 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480399043) | KPMG Canada | Brossard, Quebec, Canada |
-| 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480386776) | KPMG Canada | Montreal, Quebec, Canada |
-| 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480398116) | KPMG Canada | Québec, Quebec, Canada |
-| 2026-11-07 | [Manager - ServiceNow Solution Architect](https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480397232) | KPMG Canada | Ottawa, Ontario, Canada |
-| 2026-11-07 | [Manager - ServiceNow Solution Architect](https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480392412) | KPMG Canada | Montreal, Quebec, Canada |
 
 ### Salesforce — newest 12
 
