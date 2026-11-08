@@ -1,16 +1,17 @@
 # JOBLESSONS_2026-11-08.MD
 **Date:** 2026-11-08 (Sunday)  
-**Run time:** 06:00 EST / 11:00 UTC  
+**Run time:** 09:00 EST / 14:00 UTC  
 **Agent:** Hermes cron job (hourly scan for Toronto ServiceNow/Salesforce jobs)
 
 ---
 
 ## Scan Summary
-- **Daily scan executed:** `npm run scan:daily` (via `scripts/daily_job_scan.mjs`)
-- **Sources queried:** 50+ employer ATS feeds, job boards (LinkedIn, Indeed, Adzuna, Glassdoor, etc.), partner portals
-- **Live postings found:** 1,665 total (938 ServiceNow + 931 Salesforce + other)
+- **Hourly scan executed:** `npm run scan:daily` (via `scripts/daily_job_scan.mjs`)
+- **Sources queried:** 9 sources (LinkedIn Guest, Greenhouse, Workday, SmartRecruiters, Adzuna, Remotive, Jobicy, Lever, RemoteOK)
+- **Live postings found:** 2,030 total (942 ServiceNow + 931 Salesforce + 157 Other)
 - **Curated tables updated:** 150 ServiceNow + 150 Salesforce + 150 Other = 450 live postings (30-day window)
 - **Merge completed:** All inbox files merged into README.md curated tables via `tools/jobs_merge_inbox.py`
+- **Git commit:** `91941d1` — pushed to main branch; GitHub Pages site https://eltonaguiar.github.io/BESTIEJOB/ updated
 
 ---
 
