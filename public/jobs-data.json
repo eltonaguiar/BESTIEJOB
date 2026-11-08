@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-08T12:07:57+00:00",
+ "generatedAt": "2026-11-08T13:04:55+00:00",
  "timezone": "America/Toronto",
- "count": 1829,
+ "count": 1830,
  "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
@@ -374,6 +374,34 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Senior ServiceNow Developer (App Engine / HRSD) – Remote",
+   "company": "Resonaite",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-%E2%80%93-remote-at-resonaite-4487632807",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 94,
+   "matchReasons": [
+    "ServiceNow",
+    "HRSD / VA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer (app engine / hrsd) – remote resonaite canada linkedin servicenow linkedin servicenow hrsd / va role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-08",
    "title": "Servicenow developer (reporting & analytics)",
    "company": "TELUS Digital",
    "location": "Toronto, ON",
@@ -428,6 +456,58 @@
      "source": "Eluta",
      "url": "https://www.eluta.ca/spl/servicenow-developer-a88fa9325b8c0596ed6d1824b9a3b6bc",
      "label": "Eluta · Ottawa ON"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Senior Consultant, ServiceNow",
+   "company": "KPMG",
+   "location": "Toronto, ON",
+   "url": "https://careers.kpmg.ca/jobs/31517?lang=en-us",
+   "note": "kpmg",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.kpmg.ca",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior consultant, servicenow kpmg toronto, on careers.kpmg.ca servicenow kpmg servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "careers.kpmg.ca",
+     "url": "https://careers.kpmg.ca/jobs/34437",
+     "label": "careers.kpmg.ca · Kitchener"
+    },
+    {
+     "source": "jobily.ca",
+     "url": "https://jobily.ca/jobs/senior-consultant-servicenow-itam-itom-kpmg-toronto-ontario-32c442",
+     "label": "jobily.ca · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454518991",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946243019?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Kitchener"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4382155163",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/senior-consultant-servicenow-itam-itom-e9bd13be73d4c6b6dde1290debad7393",
+     "label": "Eluta · Toronto ON"
     }
    ]
   },
@@ -738,6 +818,11 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454544021",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454532959",
      "label": "LinkedIn · Toronto"
     }
@@ -767,6 +852,11 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454531951",
      "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454522996",
+     "label": "LinkedIn · Ottawa"
     }
    ]
   },
@@ -1401,6 +1491,26 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Staff Data Analyst, Marketing",
+   "company": "1Password",
+   "location": "Canada, USA",
+   "url": "https://jobicy.com/jobs/159746-staff-data-analyst-marketing",
+   "note": "jobicy",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobicy.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "staff data analyst, marketing 1password canada, usa jobicy.com other jobicy role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
    "title": "Full Stack Engineer",
    "company": "infisical",
    "location": "Brazil, Canada, Europe, USA",
@@ -1629,11 +1739,6 @@
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480398115",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480392412",
      "label": "LinkedIn · Montreal"
     },
@@ -1641,6 +1746,11 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480390494",
      "label": "LinkedIn · Brossard"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480398115",
+     "label": "LinkedIn · Toronto"
     },
     {
      "source": "LinkedIn",
@@ -1681,13 +1791,13 @@
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389737",
-     "label": "LinkedIn · Brossard"
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480382876",
+     "label": "LinkedIn · Montreal"
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480382876",
-     "label": "LinkedIn · Montreal"
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389737",
+     "label": "LinkedIn · Brossard"
     },
     {
      "source": "LinkedIn",
@@ -1786,52 +1896,6 @@
   },
   {
    "posted": "2026-11-07",
-   "title": "Directeur.rice fonctionnel.le - ServiceNow",
-   "company": "KPMG Canada",
-   "location": "Boisbriand, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480383878",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "directeur.rice fonctionnel.le - servicenow kpmg canada boisbriand, quebec, canada linkedin servicenow linkedin servicenow canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480392411",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480380943",
-     "label": "LinkedIn · Brossard"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480396265",
-     "label": "LinkedIn · Montreal"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480382878",
-     "label": "LinkedIn · Ottawa"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480384863",
-     "label": "LinkedIn · Québec"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-07",
    "title": "Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now",
    "company": "KPMG Canada",
    "location": "Boisbriand, Quebec, Canada",
@@ -1872,6 +1936,52 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480395255",
+     "label": "LinkedIn · Québec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Directeur.rice fonctionnel.le - ServiceNow",
+   "company": "KPMG Canada",
+   "location": "Boisbriand, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480383878",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "directeur.rice fonctionnel.le - servicenow kpmg canada boisbriand, quebec, canada linkedin servicenow linkedin servicenow canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480392411",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480380943",
+     "label": "LinkedIn · Brossard"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480396265",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480382878",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480384863",
      "label": "LinkedIn · Québec"
     }
    ]
@@ -3413,28 +3523,6 @@
    ],
    "french": false,
    "search": "senior business analyst – servicenow platform & coe resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Senior ServiceNow Developer (App Engine / HRSD)",
-   "company": "Resonaite",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 98,
-   "matchReasons": [
-    "ServiceNow",
-    "HRSD / VA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior servicenow developer (app engine / hrsd) resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow hrsd / va role fit toronto area",
    "alternates": []
   },
   {
@@ -19768,58 +19856,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Senior Consultant, ServiceNow",
-   "company": "KPMG",
-   "location": "Toronto, ON",
-   "url": "https://careers.kpmg.ca/jobs/31517?lang=en-us",
-   "note": "kpmg",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.kpmg.ca",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior consultant, servicenow kpmg toronto, on careers.kpmg.ca servicenow kpmg servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "careers.kpmg.ca",
-     "url": "https://careers.kpmg.ca/jobs/34437",
-     "label": "careers.kpmg.ca · Kitchener"
-    },
-    {
-     "source": "jobily.ca",
-     "url": "https://jobily.ca/jobs/senior-consultant-servicenow-itam-itom-kpmg-toronto-ontario-32c442",
-     "label": "jobily.ca · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946243019?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Kitchener"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4382155163",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/senior-consultant-servicenow-itam-itom-e9bd13be73d4c6b6dde1290debad7393",
-     "label": "Eluta · Toronto ON"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454522998",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Manager, ServiceNow Transformation and Engagement Lead",
    "company": "KPMG",
    "location": "Toronto, ON",
@@ -24857,27 +24893,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "ServiceNow Architect (526327)",
-   "company": "Ateko (FX Innovation)",
-   "location": "Canada; remote",
-   "url": "https://www.fxinnovation.com/en/jobs/526327",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "fxinnovation.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow architect (526327) ateko (fx innovation) canada; remote fxinnovation.com servicenow readme servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "ServiceNow Developer",
    "company": "GDIT",
    "location": "Any Location / Remote",
@@ -24895,6 +24910,27 @@
    ],
    "french": false,
    "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "ServiceNow Architect (526327)",
+   "company": "Ateko (FX Innovation)",
+   "location": "Canada; remote",
+   "url": "https://www.fxinnovation.com/en/jobs/526327",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "fxinnovation.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow architect (526327) ateko (fx innovation) canada; remote fxinnovation.com servicenow readme servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -33776,27 +33812,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Platform Architect (00071000111)",
-   "company": "Cognizant",
-   "location": "Canada",
-   "url": "https://careers.cognizant.com/ca-en/jobs/00071000111/servicenow-platform-architect/",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow platform architect (00071000111) cognizant canada careers.cognizant.com servicenow readme servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Senior ServiceNow Developer",
    "company": "Resolve Tech Solutions",
    "location": "US Remote - TX",
@@ -33814,6 +33829,27 @@
    ],
    "french": false,
    "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Platform Architect (00071000111)",
+   "company": "Cognizant",
+   "location": "Canada",
+   "url": "https://careers.cognizant.com/ca-en/jobs/00071000111/servicenow-platform-architect/",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow platform architect (00071000111) cognizant canada careers.cognizant.com servicenow readme servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -34042,6 +34078,27 @@
   },
   {
    "posted": "2026-10-28",
+   "title": "Principle Salesforce Developer",
+   "company": "Moneris",
+   "location": "Toronto",
+   "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "principle salesforce developer moneris toronto workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
    "title": "Sr. Specialist, Salesforce Data Cloud & Loyalty",
    "company": "Havas CX Canada",
    "location": "Toronto, Ontario, Canada",
@@ -34143,27 +34200,6 @@
    ],
    "french": false,
    "search": "salesforce architect avanciers inc. toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Principle Salesforce Developer",
-   "company": "Moneris",
-   "location": "Toronto",
-   "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "principle salesforce developer moneris toronto workday ats salesforce workday salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -39629,6 +39665,27 @@
   },
   {
    "posted": "2026-10-09",
+   "title": "Sr. Salesforce CRM Development Lead",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. salesforce crm development lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-09",
    "title": "Salesforce Revenue Cloud Architect",
    "company": "Job Target",
    "location": "Toronto, ON",
@@ -39688,27 +39745,6 @@
    ],
    "french": false,
    "search": "salesforce communications cloud developer tata consultancy services toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-09",
-   "title": "Sr. Salesforce CRM Development Lead",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. salesforce crm development lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
    "alternates": []
   },
   {
