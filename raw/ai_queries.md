@@ -1,30 +1,16 @@
-<<<<<<< HEAD
-# AI panel keyword proposals — 2026-11-07T07:15:52Z
-=======
-# AI panel keyword proposals — 2026-11-06T07:16:03Z
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+# AI panel keyword proposals — 2026-11-08T07:16:13Z
 
-5/6 peers answered · 12 keywords kept, 0 dropped
+4/6 peers answered · 12 keywords kept, 0 dropped
 
 - `servicenow itom`
-- `servicenow gsd`
-<<<<<<< HEAD
-- `salesforce apex`
-- `salesforce lightning`
-- `salesforce pardot`
-- `servicenow table`
-- `salesforce wave`
-- `servicenow event`
-- `salesforce process`
-=======
-- `salesforce pardot`
-- `cmdb analyst`
+- `servicenow event management`
+- `cmdb configuration`
 - `itam specialist`
-- `servicenow itoa`
-- `salesforce apex`
-- `servicenow itsc`
-- `salesforce lightning`
-- `servicenow sysadm`
-- `salesforce wave`
-- `servicenow incident`
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+- `servicenow governance`
+- `salesforce pardot`
+- `salesforce integration cloud`
+- `salesforce lightning web components`
+- `servicenow incident management`
+- `salesforce process builder`
+- `servicenow release management`
+- `salesforce sales cloud`

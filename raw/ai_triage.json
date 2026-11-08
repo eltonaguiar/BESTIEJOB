@@ -1,602 +1,362 @@
 {
-<<<<<<< HEAD
-  "generated_at": "2026-11-07T07:18:08Z",
-=======
-  "generated_at": "2026-11-06T07:18:21Z",
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+  "generated_at": "2026-11-08T07:18:39Z",
   "rows": [
     {
       "url": "https://lanefour.com/job-posting/salesforce-consultant/",
       "title": "Salesforce Consultant",
-<<<<<<< HEAD
       "origin": "gap-scan--2026-11-02--v48.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
         "salesforce": 2,
+        "reject": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 4,
       "ai_reasons": [
-        "ollama: Title matches, location Canada is broad",
-        "litellm: Role is a Salesforce Consultant."
-=======
-      "origin": "gap-scan--2026-11-02--v59.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-administrator/",
       "title": "Salesforce Administrator",
-<<<<<<< HEAD
       "origin": "gap-scan--2026-11-02--v48.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
         "salesforce": 2,
+        "reject": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 4,
       "ai_reasons": [
-        "ollama: Title matches, location Canada is broad",
-        "litellm: Role is a Salesforce Administrator."
-=======
-      "origin": "gap-scan--2026-11-02--v59.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-consultant/",
       "title": "Salesforce Consultant",
-<<<<<<< HEAD
+      "origin": "gap-scan--2026-11-02--v62.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+      "title": "Salesforce Administrator",
+      "origin": "gap-scan--2026-11-02--v62.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+      "title": "Salesforce Consultant",
       "origin": "gap-scan--2026-11-03--v46.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
         "salesforce": 2,
+        "reject": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 4,
       "ai_reasons": [
-        "ollama: Title matches, location Canada is broad",
-        "litellm: Role is a Salesforce Consultant."
-=======
-      "origin": "gap-scan--2026-11-03--v57.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-administrator/",
       "title": "Salesforce Administrator",
-<<<<<<< HEAD
       "origin": "gap-scan--2026-11-03--v46.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
         "salesforce": 2,
+        "reject": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 4,
       "ai_reasons": [
-        "ollama: Title matches, location Canada is broad",
-        "litellm: Role is a Salesforce Administrator."
-=======
-      "origin": "gap-scan--2026-11-03--v57.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-consultant/",
       "title": "Salesforce Consultant",
-<<<<<<< HEAD
+      "origin": "gap-scan--2026-11-03--v60.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+      "title": "Salesforce Administrator",
+      "origin": "gap-scan--2026-11-03--v60.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+      "title": "Salesforce Consultant",
+      "origin": "gap-scan--2026-11-04--v17.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+      "title": "Salesforce Administrator",
+      "origin": "gap-scan--2026-11-04--v17.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+      "title": "Salesforce Consultant",
+      "origin": "gap-scan--2026-11-05--v11.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+      "title": "Salesforce Administrator",
+      "origin": "gap-scan--2026-11-05--v11.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+      "title": "Salesforce Consultant",
+      "origin": "gap-scan--2026-11-06--v4.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+      "title": "Salesforce Administrator",
+      "origin": "gap-scan--2026-11-06--v4.md",
+      "posted": "\u2014",
+      "ai_verdict": "salesforce",
+      "ai_votes": {
+        "salesforce": 2,
+        "reject": 1,
+        "?": 1
+      },
+      "ai_voters": 4,
+      "ai_reasons": [
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
+      ]
+    },
+    {
+      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+      "title": "Salesforce Consultant",
       "origin": "gap-scan--2026-11-07--v2.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
         "salesforce": 2,
+        "reject": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 4,
       "ai_reasons": [
-        "ollama: Title matches, location Canada is broad",
-        "litellm: Role is a Salesforce Consultant."
-=======
-      "origin": "gap-scan--2026-11-04--v14.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-administrator/",
       "title": "Salesforce Administrator",
-<<<<<<< HEAD
       "origin": "gap-scan--2026-11-07--v2.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
         "salesforce": 2,
+        "reject": 1,
         "?": 1
       },
-      "ai_voters": 3,
+      "ai_voters": 4,
       "ai_reasons": [
-        "ollama: Title matches, location Canada is broad",
-        "litellm: Role is a Salesforce Administrator."
-=======
-      "origin": "gap-scan--2026-11-04--v14.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-consultant/",
       "title": "Salesforce Consultant",
-      "origin": "gap-scan--2026-11-05--v8.md",
+      "origin": "gap-scan--2026-11-08--v1.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 1,
+        "salesforce": 2,
+        "reject": 1,
         "?": 1
       },
-      "ai_voters": 2,
+      "ai_voters": 4,
       "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
+        "ollama: Salesforce Consultant role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
       ]
     },
     {
       "url": "https://lanefour.com/job-posting/salesforce-administrator/",
       "title": "Salesforce Administrator",
-      "origin": "gap-scan--2026-11-05--v8.md",
+      "origin": "gap-scan--2026-11-08--v1.md",
       "posted": "\u2014",
       "ai_verdict": "salesforce",
       "ai_votes": {
-        "salesforce": 1,
+        "salesforce": 2,
+        "reject": 1,
         "?": 1
       },
-      "ai_voters": 2,
+      "ai_voters": 4,
       "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
-      ]
-    },
-    {
-      "url": "https://lanefour.com/job-posting/salesforce-consultant/",
-      "title": "Salesforce Consultant",
-      "origin": "gap-scan--2026-11-06--v1.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
-      ]
-    },
-    {
-      "url": "https://lanefour.com/job-posting/salesforce-administrator/",
-      "title": "Salesforce Administrator",
-      "origin": "gap-scan--2026-11-06--v1.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Title matches; location Canada is broad but relevant"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+        "ollama: Salesforce Administrator role in Canada",
+        "litellm: Salesforce title, Canada location",
+        "pollinations: Location not Toronto"
       ]
     },
     {
       "url": "https://www.careerbeacon.com/en/job-9/2093614/pri-technology/servicenow-developer-cmdb-itsm-itom/toronto-on",
       "title": "ServiceNow Developer CMDB ITSM ITOM / IRM (FT, agency)",
-<<<<<<< HEAD
       "origin": "grokbot-hidden-title--2026-11-03--v20.md",
       "posted": "\u2014",
       "ai_verdict": "servicenow",
       "ai_votes": {
-        "servicenow": 2,
+        "servicenow": 3,
         "?": 1
       },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: ServiceNow dev in Toronto",
-        "litellm: Technical ServiceNow development role in Toronto."
-=======
-      "origin": "grokbot-hidden-title--2026-11-03--v31.md",
-      "posted": "\u2014",
-      "ai_verdict": "servicenow",
-      "ai_votes": {
-        "servicenow": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Direct match for ServiceNow role in Toronto"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
-      ]
-    },
-    {
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
-      "title": "Technical Architect Director - PubSec - Mulesoft Canada",
-<<<<<<< HEAD
-      "origin": "todayfeeds--2026-11-07--v1.md",
-=======
-      "origin": "todayfeeds--2026-11-04--v14.md",
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-<<<<<<< HEAD
-        "reject": 1,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: Mulesoft is Salesforce platform, Canada location",
-        "litellm: Role is pre-sales/leadership focused, not a core platform-IT"
-=======
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Mulesoft is a Salesforce platform; technical architect role"
-      ]
-    },
-    {
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
-      "title": "Technical Architect Director - PubSec - Mulesoft Canada",
-      "origin": "todayfeeds--2026-11-05--v8.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Mulesoft is a Salesforce platform; technical architect role"
-      ]
-    },
-    {
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
-      "title": "Technical Architect Director - PubSec - Mulesoft Canada",
-      "origin": "todayfeeds--2026-11-06--v1.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Mulesoft is a Salesforce platform; technical architect role"
-      ]
-    },
-    {
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
-      "title": "Technical Architect Director - PubSec - Mulesoft Canada",
-      "origin": "todayfeeds--2026-11-06--v2.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Mulesoft is a Salesforce platform; technical architect role"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
-      ]
-    },
-    {
-      "url": "https://ca.linkedin.com/jobs/view/servicenow-itom-sme-at-ltm-4422749500",
-      "title": "ServiceNow ITOM SME",
-<<<<<<< HEAD
-      "origin": "websearch--2026-11-03--v10.md",
-      "posted": "\u2014",
-      "ai_verdict": "servicenow",
-      "ai_votes": {
-        "servicenow": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: ServiceNow SME in Ontario",
-        "litellm: Technical ServiceNow ITOM SME role."
-=======
-      "origin": "websearch--2026-11-03--v21.md",
-      "posted": "\u2014",
-      "ai_verdict": "servicenow",
-      "ai_votes": {
-        "servicenow": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: ServiceNow ITOM role in Ontario"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
-      ]
-    },
-    {
-      "url": "https://insightglobal.com/jobs/30ac5b2c-4d79-42bf-8f1b-a72248771c80",
-      "title": "ITAM PROJECT MANAGER",
-<<<<<<< HEAD
-      "origin": "websearch--2026-11-03--v10.md",
-      "posted": "\u2014",
-      "ai_verdict": "servicenow",
-      "ai_votes": {
-        "servicenow": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: ServiceNow HAM/SAM project manager",
-        "litellm: Project management role within ServiceNow HAM/SAM."
-=======
-      "origin": "websearch--2026-11-03--v21.md",
-      "posted": "\u2014",
-      "ai_verdict": "servicenow",
-      "ai_votes": {
-        "servicenow": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: ServiceNow HAM/SAM project management role"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
-      ]
-    },
-    {
-      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-agentforce-ai-platform-integration-architect-at-jade-global-4430400215",
-      "title": "Jade Global hiring Senior Salesforce / Agentforce AI Platform Integration Architect in Toronto, Ontario, Canada",
-<<<<<<< HEAD
-      "origin": "websearch--2026-11-03--v10.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: Salesforce Architect in Toronto",
-        "litellm: Technical Salesforce/Agentforce architecture role in Toronto"
-=======
-      "origin": "websearch--2026-11-03--v21.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Direct match for Salesforce Architect in Toronto"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
-      ]
-    },
-    {
-      "url": "https://www.ihiretechnology.com/jobs/view/533876818",
-      "title": "ServiceNow Developer",
-<<<<<<< HEAD
-      "origin": "websearch--2026-11-03--v10.md",
-      "posted": "\u2014",
-      "ai_verdict": "servicenow",
-      "ai_votes": {
-        "servicenow": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
+      "ai_voters": 4,
       "ai_reasons": [
         "ollama: ServiceNow Developer in Toronto",
-        "litellm: Technical ServiceNow developer role in Toronto."
-=======
-      "origin": "websearch--2026-11-03--v21.md",
+        "litellm: ServiceNow developer Toronto agency",
+        "pollinations: Toronto ServiceNow agency role"
+      ]
+    },
+    {
+      "url": "https://www.careerbeacon.com/en/job-9/2093614/pri-technology/servicenow-developer-cmdb-itsm-itom/toronto-on",
+      "title": "ServiceNow Developer CMDB ITSM ITOM / IRM (FT, agency)",
+      "origin": "grokbot-hidden-title--2026-11-03--v34.md",
       "posted": "\u2014",
       "ai_verdict": "servicenow",
       "ai_votes": {
-        "servicenow": 1,
+        "servicenow": 3,
         "?": 1
       },
-      "ai_voters": 2,
+      "ai_voters": 4,
       "ai_reasons": [
-        "ollama: Direct match for ServiceNow Developer in Toronto"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
-      ]
-    },
-    {
-      "url": "https://careers.cognizant.com/us-en/jobs/00069775982/servicenow-solution-architect/",
-      "title": "ServiceNow Solution Architect, Toronto, Ontario, Canada",
-<<<<<<< HEAD
-      "origin": "websearch--2026-11-03--v47.md",
-      "posted": "\u2014",
-      "ai_verdict": "servicenow",
-      "ai_votes": {
-        "servicenow": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: ServiceNow Solution Architect in Toronto",
-        "litellm: Technical ServiceNow architect role in Toronto."
-      ]
-    },
-    {
-      "url": "https://careers.hootsuite.com/jobs/senior-salesforce-developer-toronto-ontario-canada-vancouver-british-columbia",
-      "title": "Senior Salesforce Developer - Toronto, Ontario, Canada - Vancouver, British Columbia, Canada",
-      "origin": "websearch--2026-11-03--v47.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: Salesforce Developer in Toronto",
-        "litellm: Technical Salesforce developer role in Toronto."
-      ]
-    },
-    {
-      "url": "https://careers.cognizant.com/emea-en/jobs/00069315271/salesforce-omnistudio-lead/",
-      "title": "Salesforce Omnistudio Lead, Toronto, Ontario, Canada",
-      "origin": "websearch--2026-11-03--v47.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: Salesforce Omnistudio Lead in Toronto",
-        "litellm: Technical Salesforce Omnistudio role in Toronto."
-      ]
-    },
-    {
-      "url": "https://www.jobs.ca/veracity-ventures-inc/jobs/salesforce-developer-1014-toronto-on-d2d37218c0b5",
-      "title": "Salesforce Developer 1014",
-      "origin": "websearch--2026-11-03--v47.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: Salesforce Developer in Toronto",
-        "litellm: Technical Salesforce developer role in Toronto."
-      ]
-    },
-    {
-      "url": "https://www.iitjobs.com/job/salesforce-developer-canada-582091",
-      "title": "Salesforce Developer in Canada (United Software Group Inc)",
-      "origin": "websearch--2026-11-03--v47.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: Salesforce Developer in Canada",
-        "litellm: Technical Salesforce developer role."
-      ]
-    },
-    {
-      "url": "https://ca.linkedin.com/jobs/view/production-support-analyst-engineer-%E2%80%93-salesforce-admin-certified-at-synechron-4423691005",
-      "title": "Synechron hiring Production Support Analyst / Engineer \u2013 Salesforce Admin Certified in Toronto, Ontario, Canada / LinkedIn",
-      "origin": "websearch--2026-11-03--v47.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: Salesforce Admin in Toronto",
-        "litellm: Technical Salesforce admin/support role in Toronto."
-      ]
-    },
-    {
-      "url": "https://hiringcafe.com/job/sales-operations-and-salesforce-administrator-flosonics-medical-ci46ixsetjpt2s37",
-      "title": "Sales Operations & Salesforce Administrator",
-      "origin": "websearch--2026-11-03--v47.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: Salesforce Administrator in Toronto",
-        "litellm: Role combines sales operations with Salesforce administratio"
-      ]
-    },
-    {
-      "url": "https://www.jobs.ca/aviva-canada/jobs/salesforce-administrator-toronto-on-4f5a555aa7df",
-      "title": "Salesforce Administrator",
-      "origin": "websearch--2026-11-03--v47.md",
-      "posted": "\u2014",
-      "ai_verdict": "salesforce",
-      "ai_votes": {
-        "salesforce": 2,
-        "?": 1
-      },
-      "ai_voters": 3,
-      "ai_reasons": [
-        "ollama: Salesforce Administrator in Toronto",
-        "litellm: Technical Salesforce administrator role in Toronto."
-=======
-      "origin": "websearch--2026-11-03--v58.md",
-      "posted": "\u2014",
-      "ai_verdict": "servicenow",
-      "ai_votes": {
-        "servicenow": 1,
-        "?": 1
-      },
-      "ai_voters": 2,
-      "ai_reasons": [
-        "ollama: Direct match for ServiceNow Architect in Toronto"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+        "ollama: ServiceNow Developer in Toronto",
+        "litellm: ServiceNow developer Toronto agency",
+        "pollinations: Toronto ServiceNow agency role"
       ]
     }
   ]

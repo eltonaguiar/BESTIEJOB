@@ -1,106 +1,50 @@
 {
-<<<<<<< HEAD
-  "generated_at": "2026-11-07T07:15:52Z",
-=======
-  "generated_at": "2026-11-06T07:16:03Z",
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+  "generated_at": "2026-11-08T07:16:13Z",
   "city": "Toronto / GTA / Canada",
-  "peers_answered": 5,
-  "peers_failed": 1,
+  "peers_answered": 4,
+  "peers_failed": 2,
   "keywords": [
     "servicenow itom",
-    "servicenow gsd",
-<<<<<<< HEAD
-    "salesforce apex",
-    "salesforce lightning",
-    "salesforce pardot",
-    "servicenow table",
-    "salesforce wave",
-    "servicenow event",
-    "salesforce process"
-=======
-    "salesforce pardot",
-    "cmdb analyst",
+    "servicenow event management",
+    "cmdb configuration",
     "itam specialist",
-    "servicenow itoa",
-    "salesforce apex",
-    "servicenow itsc",
-    "salesforce lightning",
-    "servicenow sysadm",
-    "salesforce wave",
-    "servicenow incident"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+    "servicenow governance",
+    "salesforce pardot",
+    "salesforce integration cloud",
+    "salesforce lightning web components",
+    "servicenow incident management",
+    "salesforce process builder",
+    "servicenow release management",
+    "salesforce sales cloud"
   ],
   "per_peer": {
     "vllm/Qwen/Qwen2.5-14B-Instruct": [
       "servicenow itom",
-      "servicenow gsd",
-<<<<<<< HEAD
-      "salesforce apex",
-      "salesforce lightning",
-      "salesforce pardot",
-      "servicenow table",
-      "salesforce wave",
-      "servicenow event",
-      "salesforce process"
-=======
-      "salesforce pardot",
-      "cmdb analyst",
+      "servicenow event management",
+      "cmdb configuration",
       "itam specialist",
-      "servicenow itoa",
-      "salesforce apex",
-      "servicenow itsc",
-      "salesforce lightning",
-      "servicenow sysadm",
-      "salesforce wave",
-      "servicenow incident"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+      "servicenow governance",
+      "salesforce pardot",
+      "salesforce integration cloud",
+      "salesforce lightning web components",
+      "servicenow incident management",
+      "salesforce process builder",
+      "servicenow release management",
+      "salesforce sales cloud"
     ],
     "ollama/gemma4:31b-cloud": [
       "servicenow hrsd",
       "servicenow itom",
-      "servicenow itam",
+      "servicenow irm",
       "servicenow secops",
-<<<<<<< HEAD
-      "servicenow grm",
-=======
-      "servicenow grc",
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
       "salesforce cpq",
       "salesforce marketing cloud",
       "salesforce experience cloud",
-      "salesforce mulesoft",
+      "salesforce health cloud",
       "cmdb manager",
-      "itsm process owner",
-      "servicenow business analyst"
-    ],
-    "litellm/paid-mode": [
-      "servicenow itam",
-<<<<<<< HEAD
-      "servicenow itom",
-      "servicenow grc",
-      "servicenow consultant",
-      "servicenow business analyst",
-      "salesforce sales cloud",
-      "salesforce marketing cloud",
-      "salesforce cpq",
-      "salesforce einstein",
-      "servicenow integration hub",
-      "servicenow virtual agent",
-      "servicenow hrsd"
-=======
-      "servicenow irm",
-      "servicenow flow designer",
-      "servicenow virtual agent",
-      "servicenow performance analytics",
-      "salesforce marketing cloud",
-      "salesforce velocity",
-      "salesforce flow builder",
-      "salesforce apex developer",
-      "cmdb analyst",
-      "itsm process consultant",
-      "servicenow implementation specialist"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+      "itsm architect",
+      "it asset manager",
+      "salesforce consultant"
     ],
     "pollinations/openai-fast": [
       "servicenow hrsd",
@@ -117,33 +61,18 @@
       "salesforce marketing cloud"
     ],
     "llm7/codestral-latest": [
-<<<<<<< HEAD
-      "servicenow sn_hrsd",
-      "salesforce cpq",
-      "servicenow sn_hr_core",
-      "salesforce einstein analytics",
-      "servicenow sn_hr_core",
-      "salesforce einstein vision",
-      "servicenow sn_hr_core",
-      "salesforce einstein language",
-      "servicenow sn_hr_core",
-      "salesforce einstein recommendation",
-      "servicenow sn_hr_core",
-      "salesforce einstein assistant"
-=======
-      "servicenow itsm",
-      "servicenow cmdb",
       "servicenow itam",
+      "servicenow cmdb",
+      "servicenow flow",
+      "servicenow security",
       "salesforce cpq",
       "salesforce b2b",
       "salesforce b2c",
-      "salesforce einstein analytics",
-      "salesforce einstein vision",
-      "servicenow now platform",
+      "salesforce einstein",
       "salesforce lightning",
-      "servicenow flow",
-      "salesforce apex"
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+      "servicenow integration",
+      "salesforce integration",
+      "servicenow automation"
     ]
   },
   "dropped": []

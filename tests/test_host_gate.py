@@ -1,5 +1,3 @@
-import time
-
 from scripts.referral.host_gate import HostGate
 
 

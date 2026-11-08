@@ -1222,43 +1222,56 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-08T07:15:01.717Z** · 507 live postings from 8 public sources · 9 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-08T10:13:11.928Z** · 1312 live postings from 9 public sources · 77 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
-| 2026-11-08 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1) | GDIT | Any Location / Remote |
-| 2026-11-08 | [ServiceNow Developer Senior – Electronic Health Records – Remote!](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413) | GDIT | Any Location / Remote |
-| 2026-11-08 | [Architecte ServiceNow ITOM / ITAM Senior](https://ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-senior-at-ateko-backed-by-bell-canada-4487632517) | Ateko, backed by Bell Canada | Quebec, Canada |
-| 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480500031) | KPMG Canada | Ottawa, Ontario, Canada |
-| 2026-11-07 | [Manager - ServiceNow Solution Architect](https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480398115) | KPMG Canada | Toronto, Ontario, Canada |
-| 2026-11-07 | [Functional Consultant / Senior Consultant – ServiceNow](https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480501034) | KPMG Canada | Toronto, Ontario, Canada |
-| 2026-11-07 | [Manager - ServiceNow Solution Architect](https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480390494) | KPMG Canada | Brossard, Quebec, Canada |
-| 2026-11-07 | [Directeur.rice fonctionnel.le - ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480384863) | KPMG Canada | Québec, Quebec, Canada |
-| 2026-11-07 | [Directeur.rice - Architecte de solutions ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480395256) | KPMG Canada | Ottawa, Ontario, Canada |
-| 2026-11-06 | [Staff Security Engineer \| Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294309) | ServiceNow | Toronto, Ontario, ca · Remote |
-| 2026-11-06 | [Senior Staff Security Engineer \| Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160290325) | ServiceNow | Toronto, Ontario, ca · Remote |
-| 2026-11-06 | [Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps](https://www.adzuna.ca/details/5955571756) | Astra North Infoteck Inc. | Greater Vancouver, British Columbia |
+| 2026-11-08 | [Conseiller.ère /Conseiller.ère principal.e Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-service-now-at-kpmg-canada-4377531962) | KPMG Canada | Montreal, Quebec, Canada |
+| 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480397231) | KPMG Canada | Toronto, Ontario, Canada |
+| 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892) | KPMG Canada | Ottawa, Ontario, Canada |
+| 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944) | KPMG Canada | Toronto, Ontario, Canada |
+| 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381893) | KPMG Canada | Brossard, Quebec, Canada |
+| 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480382877) | KPMG Canada | Québec, Quebec, Canada |
+| 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480383877) | KPMG Canada | Montreal, Quebec, Canada |
+| 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480399043) | KPMG Canada | Brossard, Quebec, Canada |
+| 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480386776) | KPMG Canada | Montreal, Quebec, Canada |
+| 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480398116) | KPMG Canada | Québec, Quebec, Canada |
+| 2026-11-07 | [Manager - ServiceNow Solution Architect](https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480397232) | KPMG Canada | Ottawa, Ontario, Canada |
+| 2026-11-07 | [Manager - ServiceNow Solution Architect](https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480392412) | KPMG Canada | Montreal, Quebec, Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
-| 2026-11-07 | [Business Analyst / Project Manager – Corporate Applications / Salesforce / Workday - FinTech - $120,000-$200,000 CAD + Bonus](https://ca.linkedin.com/jobs/view/business-analyst-project-manager-%E2%80%93-corporate-applications-salesforce-workday-fintech-%24120-000-%24200-000-cad-%2B-bonus-at-hunter-bond-4486669214) | Hunter Bond | Montreal, Quebec, Canada |
-| 2026-11-06 | [Senior Manager, Salesforce Engineering](https://www.adzuna.ca/details/5955295515) | Scotiabank | Toronto, Ontario |
-| 2026-11-06 | [Salesforce Data Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-smart-it-frame-llc-4487306038) | Smart IT Frame LLC | Toronto, Ontario, Canada |
-| 2026-11-06 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4470107427) | CGI | Halifax, Nova Scotia, Canada |
-| 2026-11-06 | [Salesforce CPQ Developer / Support Engineer](https://ca.linkedin.com/jobs/view/salesforce-cpq-developer-support-engineer-at-ust-4486258340) | UST | Ontario, Canada |
+| 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499) | Salesforce | Toronto, Ontario, Canada |
+| 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621) | Salesforce | Vancouver, British Columbia, Canada |
+| 2026-11-07 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726) | IKO North America | Mississauga, Ontario, Canada |
+| 2026-11-07 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444707597) | Salesforce | Montreal, Quebec, Canada |
+| 2026-11-07 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487369553) | Parkland Corporation | Calgary, Alberta, Canada |
+| 2026-11-06 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5955916867) | Finning | Surrey, Greater Vancouver |
+| 2026-11-06 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |
+| 2026-11-06 | [Salesforce CPQ Solution Engineer](https://ca.linkedin.com/jobs/view/salesforce-cpq-solution-engineer-at-infoway-software-4486996533) | Infoway Software | Canada |
+| 2026-11-06 | [Salesforce Technical Architect - Financial Services Cloud, Marketing Cloud & Data360 - Manager](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-financial-services-cloud-marketing-cloud-data360-manager-at-ey-4459567406) | EY | Montreal, Quebec, Canada |
+| 2026-11-06 | [Salesforce Technical Architect Revenue Cloud CPQ](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100) | Enterprise Solutions Inc. | Canada |
+| 2026-11-06 | [Senior Functional Analyst, Salesforce Retail CRM](https://ca.linkedin.com/jobs/view/senior-functional-analyst-salesforce-retail-crm-at-atb-financial-4485680197) | ATB Financial | Calgary, Alberta, Canada |
+| 2026-11-06 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4462540700) | Alithya | Montreal, Quebec, Canada |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
-| 2026-11-06 | [Cloud Architect](https://www.adzuna.ca/details/5955295584) | Scotiabank | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-06 | [Senior Full Stack Engineer People Products](https://remoteok.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693) | Thumbtack | Toronto | Full stack |
-| 2026-11-05 | [T&O Senior Data Analyst, Financial Data](https://www.adzuna.ca/details/5954052164) | Bank of Montreal | Toronto, Ontario | Data / BI |
-| 2026-11-04 | [DevOps Engineer](https://www.adzuna.ca/details/5953663671) | Devdort | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-08 | [Full Stack Engineer](https://jobicy.com/jobs/159681-full-stack-engineer-8) | infisical | Brazil, Canada, Europe, USA | Full stack |
+| 2026-11-08 | [Senior Full Stack Engineer](https://jobicy.com/jobs/159679-senior-full-stack-engineer-10) | infisical | Brazil, Canada, Europe, USA | Full stack |
+| 2026-11-06 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955917180) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-06 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955916244) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-06 | [Senior FullStack Engineer - Grafana Catalog \| Canada\| Remote](https://www.adzuna.ca/details/5955475926) | Grafana Labs | Canada | Full stack |
+| 2026-11-06 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955420777) | ServiceNow, Inc. | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-06 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955420774) | ServiceNow, Inc. | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-05 | [Associate Director, Full-Stack Applications - Credit Module](https://www.adzuna.ca/details/5954559995) | Fitch Group, Inc. | Toronto, Ontario | Full stack |
+| 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953992050) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5953992006) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->

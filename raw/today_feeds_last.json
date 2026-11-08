@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "generated_at": "2026-11-07T07:16:44.068976+00:00",
-=======
-  "generated_at": "2026-11-06T07:17:04.457796+00:00",
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+  "generated_at": "2026-11-08T07:17:09.071974+00:00",
   "rows": [
     {
       "title": "Technical Architect Director - PubSec - Mulesoft Canada",
@@ -12,66 +8,31 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
       "posted": null,
       "source": "workday"
-<<<<<<< HEAD
-    },
-    {
-      "title": "Sr. Developer, AI and Agentforce",
-      "company": "NeuraFlash",
-      "location": "Remote - Colombia",
-      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6250707004",
-      "posted": "2026-11-05",
-      "source": "greenhouse"
-=======
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
     }
   ],
   "per_source": {
     "smartrecruiters": [
-<<<<<<< HEAD
-      746,
+      745,
       0
     ],
     "workday": [
-      25,
+      71,
       1
     ],
     "greenhouse": [
-      2098,
-      1
+      2097,
+      0
     ],
     "lever": [
       146,
       0
     ],
     "ashby": [
-      42,
+      40,
       0
     ],
     "jobbank": [
       6,
-=======
-      741,
-      0
-    ],
-    "workday": [
-      73,
-      1
-    ],
-    "greenhouse": [
-      2104,
-      0
-    ],
-    "lever": [
-      140,
-      0
-    ],
-    "ashby": [
-      41,
-      0
-    ],
-    "jobbank": [
-      5,
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
       0
     ]
   }
