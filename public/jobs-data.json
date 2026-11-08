@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T10:02:17+00:00",
+ "generatedAt": "2026-11-08T10:19:51+00:00",
  "timezone": "America/Toronto",
  "count": 381,
  "appliedHidden": 13,
@@ -63,6 +63,7 @@
   "ipsscyber.com",
   "jobera.com",
   "jobgether.com",
+  "jobicy.com",
   "jobleads.com",
   "jobs-cast.com",
   "jobs.ca",
@@ -152,6 +153,26 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Conseiller.ère /Conseiller.ère principal.e Service Now",
+   "company": "KPMG Canada",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-service-now-at-kpmg-canada-4377531962",
+   "note": "",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "conseiller.ere /conseiller.ere principal.e service now kpmg canada montreal, quebec, canada linkedin servicenow  servicenow canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
    "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
    "company": "Salesforce",
    "location": "Toronto, Ontario, Canada",
@@ -170,6 +191,46 @@
    ],
    "french": false,
    "search": "solutions architect, salesforce migrations (data360, revenue, tableau, or marketing clouds) salesforce toronto, ontario, canada linkedin salesforce  salesforce data/reporting role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Senior Full Stack Engineer",
+   "company": "infisical",
+   "location": "Brazil, Canada, Europe, USA",
+   "url": "https://jobicy.com/jobs/159679-senior-full-stack-engineer-10",
+   "note": "Full stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobicy.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior full stack engineer infisical brazil, canada, europe, usa jobicy.com other full stack role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Full Stack Engineer",
+   "company": "infisical",
+   "location": "Brazil, Canada, Europe, USA",
+   "url": "https://jobicy.com/jobs/159681-full-stack-engineer-8",
+   "note": "Full stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobicy.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "full stack engineer infisical brazil, canada, europe, usa jobicy.com other full stack role fit canada / remote",
    "alternates": []
   },
   {
@@ -3505,28 +3566,6 @@
    ],
    "french": false,
    "search": "servicenow senior itam business process consultant - softwareone in calgary / jobstore unknown canada jobstore.com servicenow 8 servicenow itam role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow SAM Architect – Remote · Canada / Enterprise Solutions Inc.",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-sam-architect-remote-canada-f145926e301b",
-   "note": "7",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "SAM/HAM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow sam architect – remote · canada / enterprise solutions inc. unknown canada jobs.ca servicenow 7 servicenow sam/ham role fit canada / remote",
    "alternates": []
   },
   {
@@ -7948,46 +7987,6 @@
    ],
    "french": false,
    "search": "senior software engineer, platform (cloud platform) / hirify unknown canada hirify.me other 8 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Platform Engineer – Informatica, WSO2 in Mississauga, Peel Region - TryApplyNow",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://ca.trabajo.org/job-2938-4832b0338c26d6796a8ca469f3706d22",
-   "note": "7",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "ca.trabajo.org",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior platform engineer – informatica, wso2 in mississauga, peel region - tryapplynow unknown canada ca.trabajo.org other 7 role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Platform Engineer – Informatica, WSO2 & Cloud Infrastructure Jobs in Astra North Infoteck Inc. in Mississauga - Canada / Dr. Job",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.drjobpro.com/canada/jobs/senior-platform-engineer-informatica-wso2-cloud-infrastructure-mississauga-astra-north-infoteck-inc-MRKIFK251ET2X9A",
-   "note": "8",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "drjobpro.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior platform engineer – informatica, wso2 & cloud infrastructure jobs in astra north infoteck inc. in mississauga - canada / dr. job unknown canada drjobpro.com other 8 role fit canada / remote",
    "alternates": []
   },
   {

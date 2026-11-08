@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-08T100217Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-08T101912Z.md`.
 
 ## Contents
 
@@ -29,6 +29,7 @@ _developer / administrator / architect / analyst roles_
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-08 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1) | GDIT | Any Location / Remote |  |
+| 2026-11-08 | [Conseiller.ère /Conseiller.ère principal.e Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-service-now-at-kpmg-canada-4377531962) | KPMG Canada | Montreal, Quebec, Canada |  |
 | 2026-11-08 | [Architecte ServiceNow ITOM / ITAM Senior](https://ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-senior-at-ateko-backed-by-bell-canada-4487632517) | Ateko, backed by Bell Canada | Quebec, Canada |  |
 | 2026-11-07 | [ServiceNow Service Catalogue Developer](https://www.workopolis.com/jobsearch/viewjob/FzNMLZxuOueZtULgFrQcKQsfv93W0YJkuVyn1T2x7RJKVbdC2yN95Bwk9z2q8h6i) | CONFIGURETEK | Ottawa, ON |  |
 | 2026-11-07 | [ServiceNow Developer Senior – Electronic Health Records – Remote!](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413) | GDIT | Any Location / Remote |  |
@@ -177,7 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Senior Developer – Myticas Consulting – Job Ottawa, ON](https://ca.talent.com/view?id=634726983179898267) | Unknown | Canada | 8 |
 | 2026-11-04 | [ServiceNow Senior Developer @ BDO Canada / Simplify Jobs](https://simplify.jobs/p/2b694590-33f3-408c-9f4f-918c4ba38883/ServiceNow-Senior-Developer) | Unknown | Canada | 7/10 via |
 | 2026-11-04 | [ServiceNow Senior Advisory Executive Architect / SmartRecruiters](https://jobs.smartrecruiters.com/ServiceNow/744000144181659-senior-advisory-executive-architect) | Unknown | Canada | 8 |
-| 2026-11-04 | [ServiceNow SAM Architect – Remote · Canada / Enterprise Solutions Inc.](https://www.jobs.ca/enterprise-solutions-inc/jobs/servicenow-sam-architect-remote-canada-f145926e301b) | Unknown | Canada | 7 |
 
 </details>
 
@@ -350,6 +350,8 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-08 | [Senior Full Stack Engineer](https://jobicy.com/jobs/159679-senior-full-stack-engineer-10) | infisical | Brazil, Canada, Europe, USA | Full stack |
+| 2026-11-08 | [Full Stack Engineer](https://jobicy.com/jobs/159681-full-stack-engineer-8) | infisical | Brazil, Canada, Europe, USA | Full stack |
 | 2026-11-06 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955917180) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-06 | [Software Developer - Full Stack](https://www.adzuna.ca/details/5955746489) | Innosystech Inc | Toronto, Ontario | Full stack |
 | 2026-11-06 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955916244) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
@@ -498,8 +500,6 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [Senior Service Delivery Manager at Fujitsu — Toronto, Ontario, CA](https://hiringcafe.com/job/senior-service-delivery-manager-fujitsu-toronto-ontario-4akl4cfrsz3vlx4c) | Unknown | Canada | 8 |
 | 2026-11-04 | [Senior Service Delivery Manager at Fujitsu (Toronto, Ontario, Canada)](https://www.callcentrejob.ca/job/aa3513ad-10b6-43fc-b1aa-d6395073ca2c) | Unknown | Canada | 8 |
 | 2026-11-04 | [Senior Service Delivery Manager Job in toronto / Jobs Cast](https://www.jobs-cast.com/job/HY7nPPP9F/senior-service-delivery-manager) | Unknown | Canada | 8 |
-| 2026-11-04 | [Senior Platform Engineer – Informatica, WSO2 in Mississauga, Peel Region - TryApplyNow](https://ca.trabajo.org/job-2938-4832b0338c26d6796a8ca469f3706d22) | Unknown | Canada | 7 |
-| 2026-11-04 | [Senior Platform Engineer – Informatica, WSO2 & Cloud Infrastructure Jobs in Astra North Infoteck Inc. in Mississauga - Canada / Dr. Job](https://www.drjobpro.com/canada/jobs/senior-platform-engineer-informatica-wso2-cloud-infrastructure-mississauga-astra-north-infoteck-inc-MRKIFK251ET2X9A) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,13 +573,14 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-08T10:00:01.628Z** · 2164 live postings from 8 public sources · 50 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-08T10:13:10.272Z** · 2171 live postings from 9 public sources · 48 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
 | 2026-11-08 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1) | GDIT | Any Location / Remote |
+| 2026-11-08 | [Conseiller.ère /Conseiller.ère principal.e Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-service-now-at-kpmg-canada-4377531962) | KPMG Canada | Montreal, Quebec, Canada |
 | 2026-11-08 | [Architecte ServiceNow ITOM / ITAM Senior](https://ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-senior-at-ateko-backed-by-bell-canada-4487632517) | Ateko, backed by Bell Canada | Quebec, Canada |
 | 2026-11-07 | [ServiceNow Developer Senior – Electronic Health Records – Remote!](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413) | GDIT | Any Location / Remote |
 | 2026-11-07 | [ServiceNow Administrator / Developer (Intermediate)](https://www.workopolis.com/jobsearch/viewjob/Koh22FKYUDc70mssvJ8SjxH86pyqjisgxkb_MSSSbOrU5HHglfqlh0z-SKPTbgIP) | BFG Enterprise Services | Canada |
@@ -590,14 +591,13 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944) | KPMG Canada | Toronto, Ontario, Canada |
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892) | KPMG Canada | Ottawa, Ontario, Canada |
 | 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480500031) | KPMG Canada | Ottawa, Ontario, Canada |
-| 2026-11-07 | [Directeur.rice - Architecte de solutions ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480399040) | KPMG Canada | Toronto, Ontario, Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
-| 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621) | Salesforce | Vancouver, British Columbia, Canada |
 | 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499) | Salesforce | Toronto, Ontario, Canada |
+| 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621) | Salesforce | Vancouver, British Columbia, Canada |
 | 2026-11-07 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726) | IKO North America | Mississauga, Ontario, Canada |
 | 2026-11-07 | [Développeur en automatisation QA Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4454391884) | nesto | Canada |
 | 2026-11-07 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444707597) | Salesforce | Montreal, Quebec, Canada |
@@ -613,6 +613,8 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-08 | [Full Stack Engineer](https://jobicy.com/jobs/159681-full-stack-engineer-8) | infisical | Brazil, Canada, Europe, USA | Full stack |
+| 2026-11-08 | [Senior Full Stack Engineer](https://jobicy.com/jobs/159679-senior-full-stack-engineer-10) | infisical | Brazil, Canada, Europe, USA | Full stack |
 | 2026-11-06 | [Marketing Data Analyst](https://www.adzuna.ca/details/5956120751?utm_medium=api&utm_source=54ce986e) | Saskatchewan Roughriders | Regina region, Saskatchewan | Data / BI |
 | 2026-11-06 | [Senior AI Engineer at Fable – LLM & Full-Stack Growth](https://www.adzuna.ca/details/5955917515) | Fable | Toronto, Ontario | Full stack |
 | 2026-11-06 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955917180) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
@@ -621,12 +623,10 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-06 | [Azure Cloud Architect - Manager](https://www.adzuna.ca/details/5955917018?utm_medium=api&utm_source=54ce986e) | EY | London, Middlesex | DevOps / Cloud |
 | 2026-11-06 | [Senior FullStack Engineer - Grafana Catalog \| Canada\| Remote](https://www.adzuna.ca/details/5955916918) | Grafana | Toronto, Ontario | Full stack |
 | 2026-11-06 | [Senior Python/AWS Engineer](https://www.adzuna.ca/details/5955916531) | EPAM Systems | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-06 | [Lead Site Reliability Engineer - Interface & Connectivity](https://www.adzuna.ca/details/5955916387?utm_medium=api&utm_source=54ce986e) | SimCorp | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-06 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955916244) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
 ## Archive
 
-`README.BAK_2026-11-08T100217Z.md` holds the rows that aged out of the 30-day window on 2026-11-08.
+`README.BAK_2026-11-08T101912Z.md` holds the rows that aged out of the 30-day window on 2026-11-08.
