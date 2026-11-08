@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-08T093147Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-08T100217Z.md`.
 
 ## Contents
 
@@ -190,6 +190,7 @@ _developer / administrator / architect / consultant roles_
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499) | Salesforce | Toronto, Ontario, Canada |  |
+| 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621) | Salesforce | Vancouver, British Columbia, Canada |  |
 | 2026-11-07 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487375305) | Parkland Corporation | Calgary, Alberta, Canada |  |
 | 2026-11-07 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487369553) | Parkland Corporation | Calgary, Alberta, Canada |  |
 | 2026-11-07 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444707597) | Salesforce | Montreal, Quebec, Canada |  |
@@ -338,7 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Senior Analyst, Product & Pricing Operations, Canada - Toronto / Salesforce Careers](https://careers.salesforce.com/en/jobs/jr345898/senior-analyst-product-pricing-operations/) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce technical solution architect - Nesto Cloud (Calgary)](https://jobsca.org/technical-solution_calgary-c115236/2026-08-nesto-cloud_i4179171528) | Unknown | Canada | 7 |
 | 2026-11-04 | [Salesforce developer - Moneris (Toronto, Ontario, Canada)](https://jobsca.org/salesforce-developer_toronto-c117072/2026-08-moneris_i4179106850) | Unknown | Canada | 8 |
-| 2026-11-04 | [Salesforce architect jobs / Dice.com](https://www.dice.com/jobs/q-salesforce+architect-jobs) | Unknown | Canada | 8 |
 
 </details>
 
@@ -573,7 +573,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-08T09:30:01.555Z** · 2164 live postings from 8 public sources · 50 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-08T10:00:01.628Z** · 2164 live postings from 8 public sources · 50 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -596,6 +596,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621) | Salesforce | Vancouver, British Columbia, Canada |
 | 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499) | Salesforce | Toronto, Ontario, Canada |
 | 2026-11-07 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726) | IKO North America | Mississauga, Ontario, Canada |
 | 2026-11-07 | [Développeur en automatisation QA Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4454391884) | nesto | Canada |
@@ -607,7 +608,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-07 | [Canadian Public Sector Engagement Delivery Leader](https://ca.linkedin.com/jobs/view/canadian-public-sector-engagement-delivery-leader-at-salesforce-4486493813) | Salesforce | Toronto, Ontario, Canada |
 | 2026-11-07 | [Solution Architect - (Healthcare/Life Sciences or Financial Services)](https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457034728) | Salesforce | Toronto, Ontario, Canada |
 | 2026-11-07 | [Solution Architect - (Healthcare/Life Sciences or Financial Services)](https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457039647) | Salesforce | Greater Toronto Area, Canada |
-| 2026-11-06 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5955972080) | estaffing Inc | Canada |
 
 ### Other keyword matches — newest 10
 
@@ -629,4 +629,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-08T093147Z.md` holds the rows that aged out of the 30-day window on 2026-11-08.
+`README.BAK_2026-11-08T100217Z.md` holds the rows that aged out of the 30-day window on 2026-11-08.
