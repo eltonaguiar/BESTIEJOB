@@ -173,3 +173,42 @@ Salesforce: "Salesforce Architect Toronto", "Salesforce Developer Mississauga", 
 2. [ ] Monitor LinkedIn API rate limits (429 observed in this run)
 3. [ ] Consider SmartRecruiters and Lever as high-priority sources for hourly scans
 4. [ ] Verify deduplication pipeline handles the same role appearing on multiple boards
+
+
+---
+
+## 17:21 EST hourly run (2026-11-08T22:38:06.383Z) — Hermes cron
+
+### Scan
+- Scanners: npm run scan:daily (scripts/daily_job_scan.mjs --no-readme) + scripts/gap_scan.mjs
+- Total matching postings: 2,039 (ServiceNow 949 + Salesforce 933); fresh this scan: 255
+- Sources: LinkedIn 199 · Workday 16 · Greenhouse 16 · SmartRecruiters 12 · Lever 1 · Ashby 2 · Jobicy 3 · Remotive 4 · RemoteOK 2
+- Adzuna: HTTP 429 on every query (persistent from the 09:00 EST run) - no Adzuna data this hour
+- Gap scan / partner career sites: FX Innovation/Ateko (Bell), Cofomo, Everforth, Coaxxion, CloudKettle, Lane Four, Crossfuze - 0 dated postings; Lane Four had 2 undated anchors (skipped by merger: no absolute date)
+- Bell Canada direct (jobs.bce.ca): ServiceNow Senior Technical Advisor (Oct 6) and Senior Manager Platform Delivery (Sep 23) found via search - both outside the 30-day window, not board-eligible
+- GC Jobs (jobs.gc.ca): no indexable ServiceNow postings surfaced by search
+
+### Merge (tools/jobs_merge_inbox.py --max-per-table 150)
+- Inbox: hermes-cron--2026-11-08--v1.md - 46 dated rows (45 KPMG Canada ServiceNow 2026-11-07 requisitions, 1 Interac ServiceNow Lead contract Toronto 2026-11-07, 1 GDIT remote 2026-11-07, 1 Salesforce Solutions Consultant Canada 2026-11-08)
+- Added: 2 rows - Interac Technical ServiceNow Lead (Toronto, ON) and Chapman Tate Associates Principal Solutions Consultant - Salesforce & Digital Transformation (Canada)
+- Capped out: 44 KPMG 2026-11-07 requisitions + 1 GDIT row - same posting date as existing board rows; the 150/family cap keeps earlier-submitted rows on date ties (stable sort), so late-hour same-day runs are crowded out
+- Also merged: websearch--2026-11-05--v11.md (+2), websearch--2026-11-05--v14.md (+5) - previously unmerged submissions
+- Result: 450 curated rows (150 per family); README.BAK_2026-11-08T222817Z.md archives 4,875 rows older than 2026-10-09
+- Sales/marketing filter: 207 rows skipped; 183 aggregator listing pages skipped
+
+### Site build (tools/build_site.py)
+- Built: 1,828 jobs (ServiceNow 736 + Salesforce 759 + Other 333); 214 duplicate mirrors collapsed; 33 applied roles hidden; newest 2026-11-08
+- GitHub Pages: https://eltonaguiar.github.io/BESTIEJOB/ redeployed on push to main (pages.yml triggers on public/** plus README.md)
+
+### Lessons (this run)
+1. Adzuna 429 is persistent - hourly runs get no Adzuna data; SmartRecruiters/Workday/LinkedIn carry the load instead. Back-off (60s+ between calls, concurrency 1) not yet implemented.
+2. The 150/family cap crowds out same-date late runs - rows tie on Posted date and earlier submissions win. To surface late-hour finds, either raise the cap or sub-sort by scrapedAt.
+3. Partner career sites are mostly dry for Toronto SN/SF - LinkedIn guest plus employer Workday/ATS feeds remain the highest-yield sources; Elite partners (Deloitte, KPMG, Accenture, CGI, Slalom) still dominate volume.
+4. Bell/GC Jobs hits from search were stale (Sep-Oct) - outside the 30-day window; direct site checks need a date filter before submission.
+
+### Action items for next hourly run
+1. Re-run npm run scan:daily plus gap_scan.mjs at top of next hour
+2. Implement Adzuna back-off/retry (60s min between calls, concurrency 1)
+3. Re-check GC Jobs / gojobs.gov.on.ca / jobs.bce.ca with posted-date filter for in-window ServiceNow roles
+4. Consider sub-sorting the 150/family cap by scrape time so late-run fresh rows aren't locked out by same-date ties
+5. Validate any new URLs against README.md (grep by URL) before adding to inbox
