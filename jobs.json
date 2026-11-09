@@ -15,8 +15,8 @@
   ],
   "location": "Toronto, ON",
   "dateFilter": "month",
-  "scrapedAt": "2026-11-09T04:25:36.717Z",
-  "generatedAt": "2026-11-09T04:25:36.717Z",
+  "scrapedAt": "2026-11-09T04:29:02.634Z",
+  "generatedAt": "2026-11-09T04:29:02.634Z",
   "total": 4990,
   "newThisScan": 627,
   "retainedFromPrevious": 1583,
@@ -41,6 +41,109 @@
   }
  },
  "jobs": [
+  {
+   "id": "jobs.ca:https://www.jobs.ca/alimentiv/jobs/servicenow-platform-specialist-remote-canada-b90d2889bf0e",
+   "source": "jobs.ca",
+   "company": "Alimentiv",
+   "title": "ServiceNow Platform Specialist",
+   "location": "Toronto, ON, Canada (Remote)",
+   "url": "https://www.jobs.ca/alimentiv/jobs/servicenow-platform-specialist-remote-canada-b90d2889bf0e",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-02T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:29:02.634Z",
+   "excerpt": "Administer, configure and continuously improve the ServiceNow platform (ITSM, workflows, forms, automations, reporting, integrations). Full-time, remote. Posted Nov 2 2026.",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow",
+    "remote",
+    "canada"
+   ]
+  },
+  {
+   "id": "lever:https://jobs.lever.co/lvs1/2d7e0d72-b100-42a2-a51d-112fa9bad1b0",
+   "source": "lever",
+   "company": "Long View Systems",
+   "title": "ServiceNow Developer",
+   "location": "Calgary / Edmonton / Toronto / Vancouver, Canada (Remote)",
+   "url": "https://jobs.lever.co/lvs1/2d7e0d72-b100-42a2-a51d-112fa9bad1b0",
+   "employmentType": "full-time",
+   "salary": {
+    "min": 60800,
+    "max": 79000,
+    "currency": "CAD",
+    "display": "$60.8K-$79K"
+   },
+   "postedDate": "2026-11-08T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:29:02.634Z",
+   "excerpt": "Develop ServiceNow solutions across ITSM, CSM, VA, PA, App Engine, Service Bridge and IntegrationHub. Permanent, remote. $60,800-$79,000/yr.",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow",
+    "remote",
+    "canada"
+   ]
+  },
+  {
+   "id": "workday:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/canada---toronto/senior-lead-solutions-architect--salesforce-migrations_jr353172",
+   "source": "workday",
+   "company": "Salesforce",
+   "title": "Senior Lead Solutions Architect, Salesforce Migrations",
+   "location": "Toronto / Montreal / Vancouver, Canada (Remote)",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/canada---toronto/senior-lead-solutions-architect--salesforce-migrations_jr353172",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-02T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:29:02.634Z",
+   "excerpt": "Lead end-to-end customer Salesforce migration engagements (Data360, Revenue, Tableau, Marketing Cloud). Remote Customer-Based, Full-time. Posted ~6 days ago (JR353172).",
+   "workArrangement": "remote",
+   "tags": [
+    "salesforce",
+    "remote",
+    "canada",
+    "data-cloud",
+    "marketing-cloud"
+   ]
+  },
+  {
+   "id": "dice:https://www.dice.com/job-detail/ce03eabd-2034-49eb-8134-e171db07c5b0",
+   "source": "dice",
+   "company": "Logiciel Solutions Inc",
+   "title": "Salesforce Developer/ Admin with Commerce Cloud and L2 Support",
+   "location": "Remote",
+   "url": "https://www.dice.com/job-detail/ce03eabd-2034-49eb-8134-e171db07c5b0",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-05T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:29:02.634Z",
+   "excerpt": "Salesforce Admin & Development with Commerce Cloud (B2B Commerce/CloudCraze) and L2 support. 100% remote contract, 6-12 months. Posted 3 days ago.",
+   "workArrangement": "remote",
+   "tags": [
+    "salesforce",
+    "remote",
+    "commerce-cloud",
+    "contract"
+   ]
+  },
+  {
+   "id": "jooble:https://ca.jooble.org/jdp/7933441576547045811",
+   "source": "jooble",
+   "company": "Greenfield Industries, Inc.",
+   "title": "Salesforce Administrator and Developer",
+   "location": "Pointe-Claire, QC, Canada (Remote considered)",
+   "url": "https://ca.jooble.org/jdp/7933441576547045811",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-05T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:29:02.634Z",
+   "excerpt": "Configure Salesforce, improve automation, make code changes across Sales/Marketing/Service/IT. Remote work from Canada considered, hybrid preferred. Posted ~3 days ago.",
+   "workArrangement": "remote",
+   "tags": [
+    "salesforce",
+    "remote",
+    "canada"
+   ]
+  },
   {
    "id": "readme:myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b",
    "source": "readme",
