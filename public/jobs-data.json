@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T11:13:15+00:00",
+ "generatedAt": "2026-11-09T11:37:17+00:00",
  "timezone": "America/Toronto",
- "count": 4510,
+ "count": 4515,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -614,6 +614,27 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Senior Salesforce Developer",
+   "company": "Bank of Montreal (via Procom)",
+   "location": "Toronto, ON, Canada",
+   "url": "https://myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "myprocom-portal.procomservices.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer bank of montreal (via procom) toronto, on, canada myprocom-portal.procomservices.com salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Salesforce Platform Developer",
    "company": "Altus Group",
    "location": "Toronto, ON, Canada",
@@ -1030,6 +1051,28 @@
    ],
    "french": false,
    "search": "architecte servicenow itom / itam senior ateko, backed by bell canada quebec, canada linkedin servicenow linkedin servicenow itam itom role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Enterprise - ServiceNow SPM Technical Consultant",
+   "company": "Slalom",
+   "location": "USA",
+   "url": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=3520",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.slalom.com",
+   "verified": "Employer board",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "SPM/PPM",
+    "Consulting/BA",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "enterprise - servicenow spm technical consultant slalom usa jobs.slalom.com servicenow readme servicenow spm/ppm consulting/ba role fit",
    "alternates": []
   },
   {
@@ -2042,6 +2085,27 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Salesforce Developer - Health Cloud",
+   "company": "Winobell Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-health-cloud-at-winobell-inc-4199108289",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer - health cloud winobell inc toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
    "title": "Salesforce Technical Architect",
    "company": "McKesson",
    "location": "Mississauga, ON, Canada",
@@ -2122,6 +2186,54 @@
    ],
    "french": false,
    "search": "software engineer (salesforce) ge vernova ist time zone / remote fairygodboss.com salesforce readme salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Developer - Montreal",
+   "company": "Slalom",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.slalom.com/de_DE/careersmarketplace/JobDetail?jobId=3893",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.slalom.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer - montreal slalom montreal, qc, canada jobs.slalom.com salesforce readme salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946007473?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Montréal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Developer",
+   "company": "Koniag Management Solutions, LLC",
+   "location": "Remote, USA",
+   "url": "https://www.clearancejobs.com/jobs/8760011/salesforce-developer-remote",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "clearancejobs.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer koniag management solutions, llc remote, usa clearancejobs.com salesforce readme salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -7502,6 +7614,27 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Staff Technology Operations Lead, Service &amp; Transition (ITSM)",
+   "company": "TJX Canada – Winners, Marshalls, HomeSense",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/staff-technology-operations-lead-service-transition-itsm-at-tjx-canada-%E2%80%93-winners-marshalls-homesense-4479809957",
+   "note": "via linkedin-guest--2026-11-09--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff technology operations lead, service &amp; transition (itsm) tjx canada – winners, marshalls, homesense mississauga, ontario, canada linkedin servicenow via linkedin-guest--2026-11-09--v1.md itsm role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-06",
@@ -81672,27 +81805,6 @@
    ],
    "french": false,
    "search": "senior salesforce qm tester acestack regent park, city of toronto adzuna salesforce adzuna salesforce toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Salesforce Developer - Montreal",
-   "company": "Slalom Build",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5946007473?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Quebec"
-   ],
-   "french": false,
-   "search": "salesforce developer - montreal slalom build montreal, quebec adzuna salesforce adzuna salesforce role fit quebec",
    "alternates": []
   },
   {

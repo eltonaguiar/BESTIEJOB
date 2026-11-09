@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T101424Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T113716Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-09](#current-jobs--as-of-2026-11-09)
-  - [ServiceNow jobs (713)](#servicenow-jobs-713)
+  - [ServiceNow jobs (717)](#servicenow-jobs-717)
   - [Salesforce jobs (877)](#salesforce-jobs-877)
   - [Other jobs (3817)](#other-jobs-3817)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,19 +18,22 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-09
 
-Window: 2026-10-10 → 2026-11-09 · **5407 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-10 → 2026-11-09 · **5411 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (713)
+### ServiceNow jobs (717)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 713 postings</strong></summary>
+<details><summary><strong>Show 717 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-09 | [Sr. IT Developer (ServiceNow)](https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4177846836) | TD | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
+| 2026-11-09 | [ServiceNow Technical Architect](https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-accenture-4487675798) | Accenture | Toronto, Ontario, Canada | via linkedin-guest--2026-11-09--v1.md |
 | 2026-11-09 | [ServiceNow ITSM Service/Process Owner](https://ca.linkedin.com/jobs/view/servicenow-itsm-service-process-owner-at-ust-4175890725) | UST | Remote, Canada | via hourly scan 2026-11-09 |
 | 2026-11-09 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1) | GDIT | Any Location / Remote | via fresh scan |
+| 2026-11-09 | [Senior ServiceNow Developer and Administrator](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-and-administrator-at-mnp-4487688620) | MNP | Calgary, Alberta, Canada | via linkedin-guest--2026-11-09--v1.md |
+| 2026-11-09 | [Administrateur(trice) de base de données des éléments de configuration (CMDB) N3](https://ca.linkedin.com/jobs/view/administrateur-trice-de-base-de-donn%C3%A9es-des-%C3%A9l%C3%A9ments-de-configuration-cmdb-n3-at-commission-de-la-construction-du-qu%C3%A9bec-4487683134) | Commission de la construction du Québec | Greater Montreal Metropolitan Area | via linkedin-guest--2026-11-09--v1.md |
 | 2026-11-08 | [Sr. IT Developer (ServiceNow)](https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4137743760) | TD | Toronto, ON, Canada | via fresh scan |
 | 2026-11-08 | [Sr. IT Developer (ServiceNow)](https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4130481433) | TD | Toronto, Ontario, Canada | via hermes-hourly--2026-11-08--v1.md |
 | 2026-11-08 | [Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps](https://www.adzuna.ca/details/5958362019) | Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision! | Greater Vancouver, British Columbia | unknown |
@@ -142,6 +145,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-07 | [Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793) | KPMG Canada | Toronto, Ontario, Canada | unknown |
 | 2026-11-07 | [Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480386774) | KPMG Canada | Boisbriand, Quebec, Canada | unknown |
 | 2026-11-07 | [Analyste d’affaires ServiceNow](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-servicenow-at-cgi-4488498109) | CGI | Sherbrooke, QC | via buffy-round17--2026-11-07--v1.md |
+| 2026-11-06 | [Staff Technology Operations Lead, Service &amp; Transition (ITSM)](https://ca.linkedin.com/jobs/view/staff-technology-operations-lead-service-transition-itsm-at-tjx-canada-%E2%80%93-winners-marshalls-homesense-4479809957) | TJX Canada – Winners, Marshalls, HomeSense | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-09--v1.md |
 | 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160277860) | ServiceNow | Toronto, Ontario, ca | via fresh scan |
 | 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160278249) | ServiceNow | Toronto, Ontario, ca | via fresh scan |
 | 2026-11-06 | [Staff Systems Engineer](https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488432589) | ServiceNow | Toronto, ON | via buffy--2026-11-08--v2.md |
@@ -5592,4 +5596,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-09T101424Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
+`README.BAK_2026-11-09T113716Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
