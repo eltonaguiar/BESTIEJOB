@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T130447Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T140832Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-09](#current-jobs--as-of-2026-11-09)
-  - [ServiceNow jobs (717)](#servicenow-jobs-717)
+  - [ServiceNow jobs (718)](#servicenow-jobs-718)
   - [Salesforce jobs (877)](#salesforce-jobs-877)
   - [Other jobs (3818)](#other-jobs-3818)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,13 +18,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-09
 
-Window: 2026-10-10 → 2026-11-09 · **5412 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-10 → 2026-11-09 · **5413 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (717)
+### ServiceNow jobs (718)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 717 postings</strong></summary>
+<details><summary><strong>Show 718 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -328,6 +328,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-03 | [ServiceNow Platform Architect (Remote)](https://jobs.dayforcehcm.com/en-US/allianthcm/candidateportal/jobs/43617) | Dayforce | Remote | via round11-cached--2026-11-05--v11.md |
 | 2026-11-03 | [ServiceNow Functional Consultant](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/5-Locations/ServiceNow-Functional-Consultant) | BDO Canada | 5 Locations | via round11-cached--2026-11-05--v11.md |
 | 2026-11-03 | [ServiceNow Developer / ServiceNow Architect - Remote (Canada PST)](https://ca.linkedin.com/jobs/view/servicenow-developer-servicenow-architect-remote-canada-pst-at-saransh-inc-4461778221) | Saransh Inc | Remote (Canada PST) | via round11-cached--2026-11-05--v11.md |
+| 2026-11-03 | [ServiceNow Developer - Contract](https://www.jobs.ca/compugen-inc/jobs/servicenow-developer-contract-toronto-on-e7f4bc48cdef) | Compugen Inc | Toronto, ON | via hermes--2026-11-09--v1.md |
 | 2026-11-03 | [ServiceNow Business Analyst](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471688008) | lightfeatheriollc | United States | via gx10--2026-11-05--v12.md |
 | 2026-11-03 | [ServiceNow Architect](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471685008) | lightfeatheriollc | United States | via gx10--2026-11-05--v12.md |
 | 2026-11-03 | [Service Now ITAM/Discovery](https://www.adzuna.ca/details/5952066568?utm_medium=api&utm_source=54ce986e) | Acestack | Regent Park, City of Toronto | via adzuna-autonomous--2026-11-05--v14.md |
@@ -5597,4 +5598,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-09T130447Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
+`README.BAK_2026-11-09T140832Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
