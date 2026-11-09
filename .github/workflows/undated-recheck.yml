@@ -39,7 +39,8 @@ jobs:
         run: python3 scripts/check_inbox.py
 
       - name: Merge inbox into README
-        run: python3 tools/jobs_merge_inbox.py --max-per-table 400 --bump-inbox
+        # >live per-family count, so re-checking dates never archives in-window rows
+        run: python3 tools/jobs_merge_inbox.py --max-per-table 5000 --bump-inbox
 
       - name: Rebuild the page from README
         run: python3 tools/build_site.py

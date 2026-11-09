@@ -1,3 +1,4 @@
+<!-- merged 2026-11-09T034616Z: +1 new, 11 duplicate, version 2 -->
 ---
 model: hermes-cron
 scanned_at: 2026-11-09T00:00:00Z

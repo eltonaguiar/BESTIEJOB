@@ -1,3 +1,4 @@
+<!-- merged 2026-11-09T034616Z: +0 new, 16 duplicate, version 2 -->
 # Hermes hourly scan — Toronto ServiceNow / Salesforce — 2026-11-08
 
 Source: web search (ca.linkedin.com postings) for Toronto/GTA ServiceNow and Salesforce roles.

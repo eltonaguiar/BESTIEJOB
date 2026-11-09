@@ -33,7 +33,9 @@ jobs:
         run: pip install curl_cffi
 
       - name: Sweep LinkedIn and merge
-        run: python3 scripts/linkedin_guest_scan.py --days 3 --apply --max-per-table 400
+        # Cap must exceed the live per-family row count or the scan's own render
+        # archives in-window postings (see the rebase step below).
+        run: python3 scripts/linkedin_guest_scan.py --days 3 --apply --max-per-table 5000
 
       - name: Commit and push
         run: |
@@ -50,11 +52,11 @@ jobs:
             git fetch -q origin main
             git rebase -q origin/main || {
               git checkout origin/main -- README.md
-<<<<<<< HEAD
-              python3 tools/jobs_merge_inbox.py --max-per-table 400 --bump-inbox
-=======
-              python3 tools/jobs_merge_inbox.py --max-per-table 400
->>>>>>> 3e1b8194b482405db0e670c155744c13e74fdc05
+              # The board holds more than 400 rows per family inside the 30-day
+              # window (2026-11-09: 757 ServiceNow / 794 Salesforce / 2,945
+              # other). A 400 cap silently archives live postings into
+              # README.BAK_*.md, so the cap must stay well above the real count.
+              python3 tools/jobs_merge_inbox.py --max-per-table 5000 --bump-inbox
               python3 tools/build_site.py
               git add README.md public inbox tools
               GIT_EDITOR=true git rebase --continue

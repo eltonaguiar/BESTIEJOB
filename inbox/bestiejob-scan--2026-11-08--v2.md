@@ -1,3 +1,4 @@
+<!-- merged 2026-11-09T034616Z: +5 new, 2 duplicate, version 2 -->
 | Posted | Role | Company | Location | URL |
 |---|---|---|---|---|
 | 2026-11-06 | Staff Systems Engineer | ServiceNow | Toronto, ON | https://careers.servicenow.com/jobs/744000160278249/staff-systems-engineer/ |
