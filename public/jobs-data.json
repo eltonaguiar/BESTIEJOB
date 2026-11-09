@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T16:15:45+00:00",
+ "generatedAt": "2026-11-09T17:13:25+00:00",
  "timezone": "America/Toronto",
- "count": 4514,
+ "count": 4516,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -821,6 +821,27 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Salesforce Revenue Cloud Developer",
+   "company": "Tekgence Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-tekgence-inc-4487949008",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud developer tekgence inc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario, Canada",
@@ -1362,6 +1383,26 @@
    ],
    "french": true,
    "search": "administrateur(trice) de base de donnees des elements de configuration (cmdb) n3 commission de la construction du quebec greater montreal metropolitan area linkedin servicenow linkedin cmdb quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Site Reliability Engineer",
+   "company": "SimCorp",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-at-simcorp-4489103069",
+   "note": "linkedin",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior site reliability engineer simcorp toronto, ontario, canada linkedin other linkedin role fit toronto area",
    "alternates": []
   },
   {
