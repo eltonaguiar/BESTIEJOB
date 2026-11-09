@@ -120,7 +120,11 @@ KEYWORDS = ["ServiceNow", "Salesforce", "ITSM", "CMDB"]
 
 RELEVANT = re.compile(
     r"servicenow|salesforce|itsm|itam|cmdb|itom|\bsnow\b|apex|mulesoft|"
-    r"integration hub|service catalog|grc|now assist", re.I)
+    r"integration hub|service catalog|grc|now assist|fusion risk|policy and compliance|vendor risk|"
+    r"performance analytics|discovery|service mapping|alteryx|vba|data analyst|reporting analyst|"
+    r"business systems analyst|asset management|ham|sam|itil|workflow editor|ui policies|ui actions|"
+    r"scheduled jobs|javascript|html|css|rest|soap|mid server|acls|csdm|update sets|delegated development|"
+    r"application scopes|git|github|agile|scrum|data integration|automation studio|email studio|ampscript|cpq", re.I)
 EXCLUDE = re.compile(
     r"sales\s+(representative|associate|manager|consultant|lead|agent)|"
     r"account executive|retail|store manager|cashier|teller|barista", re.I)

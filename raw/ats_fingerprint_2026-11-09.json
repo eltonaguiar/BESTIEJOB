@@ -1,0 +1,377 @@
+{
+ "scannedAt": "2026-11-09T19:24:23+00:00",
+ "fingerprints": [
+  {
+   "name": "RBC",
+   "url": "https://jobs.rbc.com",
+   "status": 200,
+   "phenom": "RBCAA0088"
+  },
+  {
+   "name": "TD",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
+   "status": 200,
+   "workday": {
+    "tenant": "td",
+    "host": "td.wd3.myworkdayjobs.com",
+    "site": "TD_Bank_Careers"
+   }
+  },
+  {
+   "name": "BMO",
+   "url": "https://jobs.bmo.com",
+   "status": 200
+  },
+  {
+   "name": "CIBC",
+   "url": "https://www.cibc.com/en/about-cibc/careers.html",
+   "status": 200,
+   "workday": {
+    "tenant": "cibc",
+    "host": "cibc.wd3.myworkdayjobs.com",
+    "site": "search"
+   }
+  },
+  {
+   "name": "Scotiabank",
+   "url": "https://www.scotiabank.com/careers/en/home.html",
+   "status": 404
+  },
+  {
+   "name": "National Bank",
+   "url": "https://www.nbc.ca/en/careers.html",
+   "status": 404
+  },
+  {
+   "name": "Desjardins",
+   "url": "https://www.desjardins.com/careers/index.jsp",
+   "status": 200,
+   "workday": {
+    "tenant": "desjardins",
+    "host": "desjardins.wd10.myworkdayjobs.com",
+    "site": "Desjardins"
+   }
+  },
+  {
+   "name": "ATB Financial",
+   "url": "https://www.atb.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "Manulife",
+   "url": "https://www.manulife.com/en/careers",
+   "status": 404
+  },
+  {
+   "name": "Sun Life",
+   "url": "https://www.sunlife.com/en/careers/",
+   "status": 200
+  },
+  {
+   "name": "Canada Life",
+   "url": "https://www.canadalife.com/careers.html",
+   "status": 404
+  },
+  {
+   "name": "Intact",
+   "url": "https://www.intactfc.com/en/careers/",
+   "status": 404
+  },
+  {
+   "name": "Co-operators",
+   "url": "https://www.cooperators.ca/en/about-us/careers",
+   "status": 200
+  },
+  {
+   "name": "Equitable Bank",
+   "url": "https://www.eqbank.ca/careers",
+   "status": 200
+  },
+  {
+   "name": "Canada Post",
+   "url": "https://www.canadapost-postescanada.ca/cpc/en/our-company/careers.page",
+   "status": 404
+  },
+  {
+   "name": "Bell",
+   "url": "https://jobs.bell.ca",
+   "status": 200,
+   "phenom": "BECACA"
+  },
+  {
+   "name": "Rogers",
+   "url": "https://jobs.rogers.com",
+   "status": 200,
+   "successfactors": "performancemanager4"
+  },
+  {
+   "name": "Telus",
+   "url": "https://www.telus.com/en/about/careers",
+   "status": 200
+  },
+  {
+   "name": "Videotron",
+   "url": "https://www.videotron.com/carrieres",
+   "status": 404
+  },
+  {
+   "name": "Cogeco",
+   "url": "https://www.cogeco.com/careers",
+   "status": 404
+  },
+  {
+   "name": "SaskTel",
+   "url": "https://www.sasktel.com/about-us/careers",
+   "status": 200
+  },
+  {
+   "name": "Loblaw",
+   "url": "https://www.loblaw.ca/en/careers.html",
+   "status": 404
+  },
+  {
+   "name": "Metro",
+   "url": "https://www.metro.ca/en/careers",
+   "status": 404
+  },
+  {
+   "name": "Walmart Canada",
+   "url": "https://careers.walmart.ca",
+   "status": 200,
+   "workday": {
+    "tenant": "walmart",
+    "host": "walmart.wd504.myworkdayjobs.com",
+    "site": "WalmartExternal"
+   }
+  },
+  {
+   "name": "Canadian Tire",
+   "url": "https://corp.canadiantire.ca/English/careers/default.aspx",
+   "status": 200,
+   "workday": {
+    "tenant": "canadiantirecorporation",
+    "host": "canadiantirecorporation.wd3.myworkdayjobs.com",
+    "site": "Enterprise_External_Careers_Site"
+   }
+  },
+  {
+   "name": "Home Depot Canada",
+   "url": "https://careers.homedepot.ca",
+   "status": 200,
+   "workday": {
+    "tenant": "homedepot",
+    "host": "homedepot.wd5.myworkdayjobs.com",
+    "site": "CareerDepotCanada"
+   }
+  },
+  {
+   "name": "Empire/Sobeys",
+   "url": "https://www.empireco.ca/careers/",
+   "status": 404
+  },
+  {
+   "name": "Purolator",
+   "url": "https://www.purolator.com/en/about-purolator/careers",
+   "status": 404
+  },
+  {
+   "name": "Dayforce",
+   "url": "https://www.dayforce.com/us/company/careers",
+   "status": 404
+  },
+  {
+   "name": "Workday",
+   "url": "https://www.workday.com/en-us/company/careers.html",
+   "status": 200,
+   "workday": {
+    "tenant": "workday",
+    "host": "workday.wd5.myworkdayjobs.com",
+    "site": "Workday"
+   }
+  },
+  {
+   "name": "ServiceNow",
+   "url": "https://careers.servicenow.com",
+   "status": 200
+  },
+  {
+   "name": "Salesforce",
+   "url": "https://careers.salesforce.com",
+   "status": 200
+  },
+  {
+   "name": "Shopify",
+   "url": "https://www.shopify.com/careers",
+   "status": 200
+  },
+  {
+   "name": "OpenText",
+   "url": "https://careers.opentext.com",
+   "status": 200
+  },
+  {
+   "name": "Docebo",
+   "url": "https://www.docebo.com/company/careers/",
+   "status": 200
+  },
+  {
+   "name": "Kinaxis",
+   "url": "https://www.kinaxis.com/en/careers",
+   "status": 200
+  },
+  {
+   "name": "Constellation Software",
+   "url": "https://www.csisoftware.com/careers",
+   "status": 404
+  },
+  {
+   "name": "CGI",
+   "url": "https://www.cgi.com/en/careers",
+   "status": 200
+  },
+  {
+   "name": "Deloitte",
+   "url": "https://careers.deloitte.ca",
+   "status": 200,
+   "successfactors": "performancemanager8"
+  },
+  {
+   "name": "KPMG",
+   "url": "https://kpmg.com/ca/en/home/careers.html",
+   "status": 200
+  },
+  {
+   "name": "PwC",
+   "url": "https://www.pwc.com/ca/en/careers.html",
+   "status": 200
+  },
+  {
+   "name": "EY",
+   "url": "https://www.ey.com/en_ca/careers",
+   "status": 200
+  },
+  {
+   "name": "Accenture",
+   "url": "https://www.accenture.com/ca-en/careers",
+   "status": 200,
+   "workday": {
+    "tenant": "accenture",
+    "host": "accenture.wd103.myworkdayjobs.com",
+    "site": "AccentureCareers"
+   }
+  },
+  {
+   "name": "IBM",
+   "url": "https://www.ibm.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Cognizant",
+   "url": "https://careers.cognizant.com/global/en",
+   "status": 200
+  },
+  {
+   "name": "Infosys",
+   "url": "https://www.infosys.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "TCS",
+   "url": "https://www.tcs.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Capgemini",
+   "url": "https://www.capgemini.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "Slalom",
+   "url": "https://www.slalom.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Long View Systems",
+   "url": "https://www.longviewsystems.com/careers/",
+   "status": 403
+  },
+  {
+   "name": "Artech",
+   "url": "https://www.artech.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "City of Toronto",
+   "url": "https://www.toronto.ca/city-government/council/jobs/",
+   "status": 200,
+   "successfactors": "rmkcdn"
+  },
+  {
+   "name": "TTC",
+   "url": "https://www.ttc.ca/careers",
+   "status": 404
+  },
+  {
+   "name": "Metrolinx",
+   "url": "https://www.metrolinx.com/en/careers",
+   "status": 200,
+   "oracle": {
+    "host": "ehtc.fa.ca2.oraclecloud.com",
+    "site": "CX_1"
+   }
+  },
+  {
+   "name": "Ontario Health",
+   "url": "https://www.ontariohealth.ca/careers",
+   "status": 200
+  },
+  {
+   "name": "OPG",
+   "url": "https://www.opg.com/careers/",
+   "status": 200
+  },
+  {
+   "name": "Hydro One",
+   "url": "https://www.hydroone.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Toronto Hydro",
+   "url": "https://www.torontohydro.com/careers",
+   "status": 200
+  },
+  {
+   "name": "Enbridge",
+   "url": "https://www.enbridge.com/careers",
+   "status": 200,
+   "workday_hint": true
+  },
+  {
+   "name": "UHN",
+   "url": "https://www.uhn.ca/careers",
+   "status": 404
+  },
+  {
+   "name": "SickKids",
+   "url": "https://www.sickkids.ca/en/careers/",
+   "status": 200
+  },
+  {
+   "name": "University of Toronto",
+   "url": "https://people.utoronto.ca/careers/",
+   "status": "unreachable"
+  },
+  {
+   "name": "York University",
+   "url": "https://www.yorku.ca/careers/",
+   "status": 200
+  },
+  {
+   "name": "TMU",
+   "url": "https://www.torontomu.ca/careers/",
+   "status": 200
+  }
+ ],
+ "found": [],
+ "fresh": []
+}

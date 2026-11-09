@@ -81,7 +81,12 @@ QUERIES = [
 KW = re.compile(
     r"\bservice\s?now\b|\bsalesforce\b|\bapex\b|\blwc\b|\bsoql\b|\bomnistudio\b|"
     r"\bagentforce\b|\brevenue cloud\b|\bdata cloud\b|\bmarketing cloud\b|\bitsm\b|"
-    r"\bitam\b|\bcmdb\b|\bitom\b|\bhrsd\b|now platform", re.I)
+    r"\bitam\b|\bcmdb\b|\bitom\b|\bhrsd\b|now platform|\bcsa\b|\bcad\b|\bcis\b|"
+    r"platform administrator|platform developer|grc|risk and compliance|fusion risk|policy and compliance|vendor risk|"
+    r"performance analytics|discovery|service mapping|alteryx|vba|data analyst|reporting analyst|business systems analyst|"
+    r"asset management|ham|sam|itil|workflow editor|ui policies|ui actions|scheduled jobs|javascript|html|css|"
+    r"rest|soap|integration hub|mid server|acls|csdm|update sets|delegated development|application scopes|git|github|"
+    r"agile|scrum|data integration|automation studio|email studio|ampscript|cpq", re.I)
 
 GEO = re.compile(
     r"toronto|\bgta\b|ontario|canada|montreal|montr[ée]al|quebec|qu[ée]bec|vancouver|"
