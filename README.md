@@ -9,7 +9,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-09](#current-jobs--as-of-2026-11-09)
-  - [ServiceNow jobs (726)](#servicenow-jobs-726)
+  - [ServiceNow jobs (728)](#servicenow-jobs-726)
   - [Salesforce jobs (904)](#salesforce-jobs-904)
   - [Other jobs (3916)](#other-jobs-3916)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,9 +18,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-09
 
-Window: 2026-10-10 → 2026-11-09 · **5546 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-10 → 2026-11-09 · **5548 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (726)
+### ServiceNow jobs (728)
 
 _developer / administrator / architect / analyst roles_
 
@@ -28,6 +28,8 @@ _developer / administrator / architect / analyst roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-09 | [Senior Technical Consultant, ServiceNow Developer](https://careers.kpmg.ca/jobs/33533?lang=en-us) | KPMG Canada | Toronto, Ontario, Canada (multi-location) | via hourly scan 2026-11-09 · 4-6 yrs, $77K-$102K |
+| 2026-11-09 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://careers.kpmg.ca/jobs/33919?lang=en-us) | KPMG Canada | Toronto, Ontario, Canada (multi-location) | via hourly scan 2026-11-09 · CSA, IRM/SecOps, $70K-$102K |
 | 2026-11-09 | [Sr. IT Developer (ServiceNow)](https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4177846836) | TD | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
 | 2026-11-09 | [ServiceNow Technical Architect](https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-accenture-4487675798) | Accenture | Toronto, Ontario, Canada | via linkedin-guest--2026-11-09--v1.md |
 | 2026-11-09 | [ServiceNow SME – Platform Security & Vault](https://www.adzuna.ca/details/5959388204?utm_medium=api&utm_source=54ce986e) | Resonaite | Ottawa, Ottawa region | via fresh-ca--2026-11-09--v1.md |
