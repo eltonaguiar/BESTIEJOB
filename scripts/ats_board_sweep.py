@@ -214,7 +214,7 @@ WORKDAY = [
     ("caatpension", "wd10", "Careers", "CAAT Pension Plan"),
     ("canadiantirecorporation", "wd3", "Enterprise_External_Careers_Site",
      "Canadian Tire"),
-    ("cibc", "wd3", "Search", "CIBC"),
+    # ("cibc", "wd3", "Search", "CIBC"),  # EXCLUDED until ~Apr 2027
     ("cloudera", "wd5", "External_Career", "Cloudera"),
     ("danaher", "wd1", "DanaherJobs", "Danaher"),
     ("desjardins", "wd10", "Desjardins", "Desjardins"),
@@ -255,6 +255,10 @@ GREENHOUSE = [
     ("cclfg", "CCLFG"), ("dscout", "Dscout"), ("airbnb", "Airbnb"),
     ("spacex", "SpaceX"), ("brex", "Brex"), ("mongodb", "MongoDB"),
     ("bloomerang", "Bloomerang"), ("d2l", "D2L"),
+    "capco",
+    "innodatainc",
+    "map",
+    "nmi",
 ]
 
 LEVER = [
@@ -263,6 +267,9 @@ LEVER = [
     ("achievers", "Achievers"), ("sitetracker", "SiteTracker"),
     ("tali-ai", "Tali AI"), ("vo2-group", "VO2 Group"), ("sait", "SAIT"),
     ("emburse", "Emburse"), ("jobgether", "Jobgether"), ("elfbeauty", "Elf Beauty"),
+    "caseware",
+    "metergysolutions",
+    "v2sa",
 ]
 
 ASHBY = [
@@ -272,6 +279,10 @@ ASHBY = [
     ("norsemanservices", "Norseman"), ("cadregs", "CAD Regs"),
     ("telus-digital", "TELUS Digital"), ("1password", "1Password"),
     ("inovalon", "Inovalon"), ("webflow", "Webflow"), ("docker", "Docker"),
+    "cytora",
+    "facilityos",
+    "relayfi",
+    "riveron",
 ]
 
 SMARTRECRUITERS = [
@@ -297,6 +308,7 @@ GEM: list[tuple[str, str]] = []
 TEAMTAILOR: list[tuple[str, str]] = []
 
 EXTRA = ROOT / "raw" / "ats_boards_extra.json"
+SLUGS_CA = ROOT / "tools" / "ats_board_slugs_ca.txt"
 PREFIX = {"ashby": "ashby:", "greenhouse": "greenhouse:", "lever": "lever:",
           "workable": "workable:", "smartrecruiters": "smartrecruiters:"}
 ROUTES_BY_NAME = {}
@@ -308,13 +320,7 @@ def pretty(slug: str) -> str:
 
 
 def load_extra() -> None:
-    """Merge tokens found by ats_discover.py into the route tables."""
-    if not EXTRA.exists():
-        return
-    try:
-        extra = json.loads(EXTRA.read_text(encoding="utf-8"))
-    except Exception:
-        return
+    """Merge tokens found by ats_discover.py and the CA slug file into the route tables."""
     targets = {
         "ashby": (ASHBY, lambda t: (t, pretty(t))),
         "greenhouse": (GREENHOUSE, lambda t: (t, pretty(t))),
@@ -327,16 +333,40 @@ def load_extra() -> None:
         "gem": (GEM, lambda t: (t, pretty(t))),
         "teamtailor": (TEAMTAILOR, lambda t: (t, pretty(t))),
     }
-    for route, tokens in extra.items():
-        if route not in targets:
-            continue  # workday/pinpoint/bamboohr/jobvite: token is not a usable board id
-        table, make = targets[route]
-        have = {row[0] for row in table}
-        for token in tokens:
-            if token in have:
+
+    # 1. Load from the CA slug file (breadth expansion)
+    if SLUGS_CA.exists():
+        for line in SLUGS_CA.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#"):
                 continue
-            table.append(make(token))
-            have.add(token)
+            parts = line.split(None, 1)
+            if len(parts) < 2:
+                continue
+            code, token = parts[0].upper(), parts[1]
+            route = {"G": "greenhouse", "L": "lever", "A": "ashby"}.get(code)
+            if not route:
+                continue
+            table, make = targets[route]
+            have = {row[0] if isinstance(row, tuple) else row for row in table}
+            if token not in have:
+                table.append(make(token))
+
+    # 2. Load from the extra JSON (discovered tokens)
+    if EXTRA.exists():
+        try:
+            extra = json.loads(EXTRA.read_text(encoding="utf-8"))
+            if isinstance(extra, dict):
+                for route, tokens in extra.items():
+                    if route not in targets:
+                        continue
+                    table, make = targets[route]
+                    have = {row[0] if isinstance(row, tuple) else row for row in table}
+                    for token in tokens:
+                        if token not in have:
+                            table.append(make(token))
+        except Exception:
+            pass
 
 
 def fetch_json(url: str, *, method="GET", body=None, timeout=25):
@@ -419,7 +449,14 @@ def firecrawl_json(url: str, timeout: int = 90):
 
 
 def from_workday(board) -> list[dict]:
-    tenant, wd, site, label = board
+    if len(board)==4:
+        tenant, wd, site, label = board
+    elif len(board)==2:
+        tenant, site = board; wd="wd5"; label=tenant.title()
+    elif len(board)==3:
+        tenant, wd, site = board; label=tenant.title()
+    else:
+        return []
     base = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
     out, offset = [], 0
     while offset < 200:
@@ -468,7 +505,7 @@ def from_workday(board) -> list[dict]:
 
 
 def from_greenhouse(board) -> list[dict]:
-    token, label = board
+    token, label = board if isinstance(board, tuple) else (board, pretty(board))
     out = []
     try:
         data = fetch_json(f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs")
@@ -486,7 +523,7 @@ def from_greenhouse(board) -> list[dict]:
 
 
 def from_lever(board) -> list[dict]:
-    site, label = board
+    site, label = board if isinstance(board, tuple) else (board, pretty(board))
     out = []
     try:
         data = fetch_json(f"https://api.lever.co/v0/postings/{site}?mode=json")
@@ -504,7 +541,7 @@ def from_lever(board) -> list[dict]:
 
 
 def from_ashby(board) -> list[dict]:
-    token, label = board
+    token, label = board if isinstance(board, tuple) else (board, pretty(board))
     out = []
     try:
         data = fetch_json(f"https://api.ashbyhq.com/posting-api/job-board/{token}"
@@ -550,7 +587,7 @@ def from_smartrecruiters(board) -> list[dict]:
 
 
 def from_workable(board) -> list[dict]:
-    sub, label = board
+    sub, label = board if isinstance(board, tuple) else (board, pretty(board))
     out = []
     url = f"https://www.workable.com/api/accounts/{sub}?details=true"
     try:

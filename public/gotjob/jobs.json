@@ -39,6 +39,24 @@
   },
   "jobs": [
     {
+      "id": "verified:dxc-51523856",
+      "source": "workday-verified",
+      "company": "DXC Technology",
+      "title": "ServiceNow Developer (ITSM Module) \u2014 Client Site, Ottawa",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09",
+      "excerpt": "Verified active 2026-11-09 via Workday ATS (direct). ITSM module, Ottawa client site.",
+      "tags": [
+        "servicenow"
+      ],
+      "arrangement": "onsite",
+      "scrapedAt": "2026-11-09T23:55:56.747699Z",
+      "verifiedDirect": "2026-11-09"
+    },
+    {
       "id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer-sme_rq231819-1",
       "source": "workday",
       "company": "GDIT",
