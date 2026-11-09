@@ -492,3 +492,35 @@ Scope: fresh Toronto/GTA + Canada ServiceNow and Salesforce roles; dedupe agains
 - Employer probes: jobs.bell.ca ServiceNow postings all show "position filled" (skip); careers.rogers.com returned nothing; telus.com surfaces only CRM-user sales roles, no platform postings; jobs.gc.ca/Job Bank blocked to plain fetch — keep using scripts/canada_index_sweep.py::jobbank_page instead of direct fetch.
 - verify_links.py --days 2: 121 new rows probed, 0 dropped; 5 pre-existing dead rows removed (incl. BMO via Procom Senior Salesforce Developer 404, previously flagged by the round-4 audit).
 - Repo remote moved: https://github.com/eltonaguiar/BESTIEJOB.git (old bestiejob.git still redirects). Pages serves eltonaguiar.github.io/BESTIEJOB/ from committed public/ — editing jobs.json alone never reaches the page; build_site.py must run after every README/jobs.json change.
+
+## Hermes hourly scan — 2026-11-09 18:00 EST (cron)
+
+**Scope:** fresh Toronto/GTA + Canada ServiceNow and Salesforce roles; emphasis entry-level / Platform Admin / Platform Developer I; partners (Accenture, Deloitte, KPMG, Capgemini, CGI), Rogers/Bell/Telus, Canadian government.
+
+**Result:** 0 verified fresh jobs merged (jobs.json 5,202 rows unchanged; README tables unchanged — ServiceNow 738, Salesforce 941, Other 3,973 = 5,652 live postings; public/ unchanged, no rebuild required).
+
+**Candidates reviewed:**
+- Four Seasons — ServiceNow Administrator - Junior (Toronto, hybrid) — Built In page: posting removed 2025-10-01 08:21 UTC; dead, excluded. Indeed's "1 day ago" tag is unreliable.
+- SS&C Technologies — Salesforce Implementation Consultant & Platform Administrator (Toronto, listed Nov 4) — already on board via adzuna.ca/details/5954045892 (posted 2026-11-05); not fresh, not re-added.
+- Lane Four — Salesforce Administrator (Toronto, 0–2 yrs) — already on board, merged in today's 17:00 EST run (lanefour.com/job-posting/salesforce-administrator/).
+- FloQast — Salesforce Administrator (Toronto, LinkedIn 4214676357) — LinkedIn login wall, date unverifiable; already on board; not added.
+- ServiceNow Careers Toronto — Staff Systems Engineer / Senior Staff Security Engineer ×2 / Senior/Staff SRE Canada Protected B (Nov 05–06) all already on board; Nov 09 postings (Sales Director, Sr CRM Account Executive) are sales roles, excluded by title rule.
+- Rogers — Lead Management Operations (Salesforce, posted ~Oct 28) outside freshness window; careers.rogers.com no fresh SN/SF technical roles.
+- Bell — ServiceNow postings return "position filled"; filled roles never enter the board.
+- Telus — CRM-user/sales account roles only, no platform postings.
+- Government of Canada / jobs.gc.ca / Job Bank — zero ServiceNow/Salesforce Toronto hits.
+- Partners — Accenture/Deloitte/KPMG/Capgemini: no fresh entry-level Platform Admin/Developer I hits; Deloitte roles surfaced carry Oct 2025–Oct 2026 start dates, non-entry-level.
+
+**Verification notes:** Indeed/LinkedIn/Jobs.ca HTML are login-walled or Cloudflare-cloaked (HTTP 422/403); posting dates not verifiable there — no LinkedIn-sourced role added without a verifiable date. Employer career pages (ServiceNow, Scotiabank, BMO, KPMG, Lane Four) load server-side and verify cleanly.
+
+**Already on board — dedupe hits, not re-added:** all 75 jobs.json rows posted 2026-11-09 with SN/SF titles are already represented in README tables; combined dedupe baseline 6,171 unique URLs (jobs.json 5,202 + README 5,466 + APPLIED.md 17).
+
+**Entry-level gap:** no Junior ServiceNow Administrator or Salesforce Platform Developer I roles newly surfaced Toronto-wide this cycle; market remains Staff/Senior-heavy.
+
+**Patterns / lessons for future agents:**
+1. By 18:00 EST on a scan day, incremental surface area is thin — earlier same-day runs (14:00–17:00 EST) already captured the day's fresh SN/SF postings; zero-merge hours are the norm late in the daily window.
+2. Aggregator "posted 1 day ago" tags (Indeed) are unreliable — always verify on the employer page (Four Seasons case: dead since Oct 2025).
+3. Dedupe against jobs.json + README.md table URLs + APPLIED.md before adding; normalize URLs (strip query strings, trailing slashes, lowercase).
+
+**Files touched:** JOBLESSONS_2026-11-09.MD (this section only). README.md, jobs.json, public/ — no changes this run.
+
