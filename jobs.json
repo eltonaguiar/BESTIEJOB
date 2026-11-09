@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-09T10:12:40.313Z",
-    "generatedAt": "2026-11-09T10:12:40.313Z",
-    "total": 5011,
+    "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+    "generatedAt": "2026-11-09T10:23:23.317571+00:00",
+    "total": 5021,
     "newThisScan": 637,
     "retainedFromPrevious": 1589,
     "sources": {
@@ -33,8 +33,8 @@
       "adzuna": 384
     },
     "primaryCounts": {
-      "servicenow": 1042,
-      "salesforce": 1015
+      "servicenow": 1037,
+      "salesforce": 991
     }
   },
   "jobs": [
@@ -88515,6 +88515,191 @@
       "scrapedAt": "2026-11-09T10:12:40.313Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "cognizant:191ec8598a8ee00d",
+      "source": "cognizant",
+      "company": "Cognizant",
+      "title": "Service Now Developer",
+      "location": "Canada",
+      "url": "https://careers.cognizant.com/ca-en/jobs/00070868112/service-now-developer/",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "Cognizant ServiceNow Developer role, applications accepted till 11/11/2026.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "jobsca:7c553e9b5354a0dd",
+      "source": "jobs.ca",
+      "company": "PrecisionERP / PrecisionIT",
+      "title": "ServiceNow Developer – Hybrid",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://www.jobs.ca/precisionerp-precisionit/jobs/servicenow-developer-ottawa-on-0e19a65ea63f",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-10-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "Senior ServiceNow Developer / Platform Specialist, Ottawa Montreal Vancouver Calgary, Nov 2026–Apr 2027, IRM focus, Reliability Status.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "ttpb:7b86461e4648a70b",
+      "source": "jobs.ttpb.com",
+      "company": "Cloudera",
+      "title": "ServiceNow Administrator (Canada Based)",
+      "location": "Remote, Canada",
+      "url": "https://jobs.ttpb.com/jobs/744685767-servicenow-administrator-canada-based",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 80000,
+        "max": 95000,
+        "currency": "CAD",
+        "display": "$80K-$95K"
+      },
+      "postedDate": "2026-10-12T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "Cloudera IT ServiceNow Administrator owning HRSD and ITSM, remote Canada based.",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "scotiabank:92bc597e0e5e0fee",
+      "source": "scotiabank",
+      "company": "Scotiabank",
+      "title": "ServiceNow Administrator Specialist",
+      "location": "Toronto, ON M5H 1H1, Canada",
+      "url": "https://jobs.scotiabank.com/job/Toronto-ServiceNow-Administrator-Specialist-ON-M5H-1H1/602949717/",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "Requisition ID 261367. Service Management Technology team, enterprise ServiceNow application delivery, maintenance and support.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "jobgether:8e39bb1ed7ef37a5",
+      "source": "jobgether",
+      "company": "Jobgether (Partner)",
+      "title": "ServiceNow FSO Developer",
+      "location": "Canada",
+      "url": "https://jobs.lever.co/jobgether/f3ef3a6a-082d-4da2-898a-a37d4efacbf2",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "ServiceNow FSO Developer for financial services and customer service operations, Canada based.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sait:db2e6d3f74886fae",
+      "source": "sait",
+      "company": "SAIT",
+      "title": "ServiceNow Developer",
+      "location": "Calgary, AB, Canada",
+      "url": "https://jobs.lever.co/sait/48bbdedb-c93c-43e9-b0af-286faf9a4203",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 74317,
+        "max": 110000,
+        "currency": "CAD",
+        "display": "$74.3K-$110K"
+      },
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "SAIT IT Services ServiceNow Developer, Calgary, posting closing when filled.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "fedgroup:8c786863ec20da12",
+      "source": "fed-group",
+      "company": "FED IT",
+      "title": "ServiceNow Developer",
+      "location": "Montreal, QC, Canada",
+      "url": "https://www.fed-group.ca/en/fed-it/jobs/developpeur-euse-servicenow",
+      "employmentType": "temporary",
+      "salary": null,
+      "postedDate": "2026-10-22T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "FED IT ServiceNow Developer Montreal West Island, 3-5+ years, JavaScript/Glide API.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "ubisoft:72b8e3e0dd6c09d1",
+      "source": "ubisoft",
+      "company": "Ubisoft Montreal",
+      "title": "ServiceNow Developer",
+      "location": "Montreal, QC, Canada",
+      "url": "https://montreal.ubisoft.com/en/jobs/servicenow-developer/",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "Ubisoft IT ServiceNow developer, ITSM platform team, REF29383D.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "jobicy:23a50543788c413f",
+      "source": "jobicy",
+      "company": "Lightspeed Commerce",
+      "title": "ServiceNow Developer",
+      "location": "Remote, Canada",
+      "url": "https://jobs.jobicy.com/jobs/156615-servicenow-developer",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 85000,
+        "max": 105000,
+        "currency": "CAD",
+        "display": "CAD 85K-$105K"
+      },
+      "postedDate": "2026-10-23T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "Remote ServiceNow Developer supporting ITSM and HRSD, apply before Nov 22 2026.",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "winobell:80e5be982f3625fa",
+      "source": "winobell",
+      "company": "Winobell",
+      "title": "ServiceNow Developer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://www.winobell.com/jobs/servicenow-developer",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T10:23:23.317571+00:00",
+      "excerpt": "Winobell ServiceNow Developer Toronto hybrid, 5+ years, CSA/CAD certs.",
+      "workArrangement": "hybrid",
       "tags": [
         "servicenow"
       ]
