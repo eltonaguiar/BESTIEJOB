@@ -238,3 +238,16 @@ today's count went 159 → 164.
 The scheduled workflow now runs the ATS discovery pass (non-fatal) and retries a
 rejected push five times instead of three — a real run failed at its push step
 after three rejections from concurrent agents.
+
+### Round 6 — the wide net, and the one row it found
+
+Full 20-keyword LinkedIn guest pass: 461 raw → 58 unique → 34 already published,
+23 failed the liveness check, **1 new** — CAA-Québec, *Conseiller(ère) en
+architecture de solutions Salesforce*, Montréal. Employer ATS lists returned the
+same 7 rows as before, all stale, foreign, or already published.
+
+The board published that row dated **2026-11-02**, not the 2026-11-09 the guest
+listing carried: the downstream date check re-read the posting page and used its
+date. That is the intended order of authority — a sweep supplies candidates, the
+posting supplies the date. It also means the row does not count as today's, which
+is why today's total moved by other agents' inboxes rather than by this pass.
