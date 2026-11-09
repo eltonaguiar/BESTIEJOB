@@ -187,8 +187,13 @@ def adzuna_rows(window: list[str], stats: dict, geos: list[str]) -> list[dict]:
 # attribute -- a real posting date, not a relative age.
 LI_KEYWORDS = [
     "ServiceNow", "ServiceNow Developer", "ServiceNow Administrator",
-    "ServiceNow Architect", "Salesforce", "Salesforce Developer",
-    "Salesforce Administrator", "Salesforce Platform Developer",
+    "ServiceNow Architect", "ServiceNow Consultant", "ServiceNow Analyst",
+    "ServiceNow ITSM", "ServiceNow ITAM", "ServiceNow CMDB",
+    "ServiceNow Developer Toronto",
+    "Salesforce", "Salesforce Developer", "Salesforce Administrator",
+    "Salesforce Platform Developer", "Salesforce Platform Administrator",
+    "Salesforce Architect", "Salesforce Consultant", "Salesforce CPQ",
+    "Salesforce Apex", "Salesforce Admin Toronto",
 ]
 LI_LOCATIONS = ["Toronto%2C%20Ontario%2C%20Canada", "Canada"]
 

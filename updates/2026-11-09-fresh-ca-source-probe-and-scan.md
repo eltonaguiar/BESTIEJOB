@@ -81,3 +81,34 @@ Run: `python3 scripts/fresh_ca_scan.py --days 2 --eluta-pages 4 --jobbank-pages 
   Developer, Toronto; Lead ServiceNow Architect), KPMG (ServiceNow Developer in
   Toronto/Ottawa/Calgary/Halifax and ITAM/ITOM consultant), MNP, RSM, Webflow,
   J.D. Irving (ITSM), S.i. Systems, Smart IT Frame
+
+## Round 3 — search-API sweep and key status (same day)
+
+Ran `scripts/web_search_scan.py` with the newly supplied search keys, all passed
+as **environment variables for the run only** (`load_keys()` checks env before
+`~/dbpasses.txt`). No key was written to the repo or to a tracked file.
+
+| Provider | Result | Usable |
+|---|---|---|
+| Parallel | 22 ATS-scoped queries answered, 0-10 results each | **yes** |
+| Firecrawl | HTTP 402 `insufficient_credits` (0 remaining, resets 2026-12-03) | no |
+| Tavily | HTTP 432 "exceeds your plan's set usage limit" | no |
+| Exa | HTTP 402 "exceeded your credits limit" | no |
+| Brave | HTTP 422 `SUBSCRIPTION_TOKEN_INVALID` (token rejected) | no |
+
+Outcome of the one working provider: 125 raw results → **4 dated, 35 undated**
+after the keyword/geo/dedupe filters. ATS postings (`myworkdayjobs`,
+`smartrecruiters`, `civicjobs`, `charityvillage`, `techjobs`) mostly render their
+date client-side, so the page-level `datePosted` parser finds nothing — the
+undated rows stay in the inbox as review candidates and the merger skips them,
+exactly as designed.
+
+Because the search path is thin, round 3 re-ran the dated sweep with the LinkedIn
+guest keyword set widened from 8 to 20 terms (ServiceNow Consultant/Analyst/
+ITSM/ITAM/CMDB, Salesforce Platform Administrator/Architect/CPQ/Apex, plus
+"ServiceNow Developer Toronto" and "Salesforce Admin Toronto"):
+
+- 432 raw rows → 51 unique → **28 kept**, 23 dropped as unverified
+- 17 ServiceNow, 11 Salesforce; Toronto/Ottawa/Calgary/Vancouver/Halifax mix
+- employers: KPMG (ServiceNow Developer, four cities), BMO, CGI, MNP, RSM,
+  LeverageTek, Resonaite, S.i. Systems, Smart IT Frame
