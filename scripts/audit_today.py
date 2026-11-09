@@ -66,12 +66,19 @@ PAGE_DATE = [
 
 
 def as_dt(value: str | None) -> datetime | None:
+    """Parse a feed timestamp as aware UTC.
+
+    The feed is inconsistent on purpose-of-origin: `postedDate` carries a `Z`
+    while `scrapedAt` is sometimes written without an offset. Comparing the two
+    needs a single frame of reference or Python raises on naive-vs-aware.
+    """
     if not value:
         return None
     try:
-        return datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        dt = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
     except ValueError:
         return None
+    return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
 
 
 def page_date(url: str, timeout: int) -> tuple[str | None, str]:

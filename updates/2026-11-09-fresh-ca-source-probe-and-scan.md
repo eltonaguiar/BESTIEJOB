@@ -161,3 +161,28 @@ Salesforce. It is read-only — it writes a report, never edits the board.
 
 Cycle 1 originally hit a 260 s ceiling inside the LinkedIn pass, which now has
 `--linkedin-max` so a manual round can cap it; the scheduled run leaves it at 0.
+
+### Audit result — 159 rows dated 2026-11-09
+
+| Finding | Rows |
+|---|---|
+| clean | 65 |
+| dead link | 1 |
+| date is the scan clock | 1 |
+| date disagrees with the posting | 8 |
+| does not name ServiceNow/Salesforce | 84 |
+
+- **Dead:** Procom's BMO *Senior Salesforce Developer* (`myprocom-portal…/5463810b`) 404s.
+- **Clock date:** GDIT *ServiceNow Developer SME* — `postedDate` equals `scrapedAt`.
+- **Date disagrees with the posting:** KPMG 33533 (2026-08-14) and 33919
+  (2026-10-16), ServiceNow *Staff Systems Engineer* (2026-11-06) and *Staff SRE*
+  (2026-10-16), BMO ITAM admin (2026-11-03), iA Financial (2026-10-28), Applied
+  Systems (2026-11-05), Nityo Infotech (2026-10-30).
+- **Off-title:** 84 of 159 — generic full-stack, DevOps, BIM and IT-operations
+  rows that Adzuna/LinkedIn returned for broad keywords. None came from
+  `fresh_ca_scan.py`, whose `classify()` requires a platform term in the title.
+
+Nothing was deleted. The README row guard allows a net loss of 3, so clearing 9
+wrong rows is a deliberate override (`[allow-readme-removals]`), and 84 off-title
+rows is a scope decision about what the board carries. The machine-readable list
+is `reports/audit_2026-11-09.json` for whoever makes that call.
