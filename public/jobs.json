@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-09T22:09:51.398Z",
     "generatedAt": "2026-11-09T22:09:51.398Z",
-    "total": 5201,
+    "total": 5202,
     "newThisScan": 751,
     "retainedFromPrevious": 1541,
     "sources": {
@@ -2012,6 +2012,23 @@
       "scrapedAt": "2026-11-09T22:42:44.652Z",
       "excerpt": "via inbox_opencode-job-hunt--2026-11-09--v6.md",
       "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:job-boards.greenhouse.io/neuraflash/jobs/6253608004",
+      "source": "readme",
+      "company": "NeuraFlash",
+      "title": "Marketing Cloud Next Solution Architect",
+      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6253608004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-09T22:50:52.532Z",
+      "excerpt": "via inbox_opencode-job-hunt-c9--2026-11-09--v1.md",
+      "workArrangement": "remote",
       "tags": [
         "salesforce"
       ]

@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T22:44:20+00:00",
+ "generatedAt": "2026-11-09T22:50:53+00:00",
  "timezone": "America/Toronto",
- "count": 4668,
+ "count": 4669,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -1095,6 +1095,27 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Marketing Cloud Next Solution Architect",
+   "company": "NeuraFlash",
+   "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6253608004",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "marketing cloud next solution architect neuraflash remote - canada (alberta, british columbia, ontario only) greenhouse salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Senior Full Stack - Salesforce Developer",
    "company": "Capco",
    "location": "Toronto, ON",
@@ -2068,6 +2089,38 @@
    "french": false,
    "search": "salesforce revenue cloud advanced apptoza inc. toronto, ontario, canada linkedin salesforce readme salesforce toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Conseiller(ère) en architecture de solutions Salesforce",
+   "company": "CAA-Québec",
+   "location": "Montréal QC",
+   "url": "https://www.eluta.ca/spl/conseiller-%C3%A8re-en-architecture-de-solutions-salesforce-fd54aa22b163de063e1fd1802481376f",
+   "note": "via fresh-ca--2026-11-09--v5.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Eluta",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": true,
+   "search": "conseiller(ere) en architecture de solutions salesforce caa-quebec montreal qc eluta salesforce via fresh-ca--2026-11-09--v5.md salesforce role fit quebec",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5950813961",
+     "label": "Adzuna · Québec"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-en-architecture-de-solutions-salesforce-at-caa-qu%C3%A9bec-4485208656",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -46822,33 +46875,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-developer-at-arkhya-tech-inc-4485348889",
      "label": "LinkedIn · Canada"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Conseiller(ère) en architecture de solutions Salesforce",
-   "company": "CAA-Québec",
-   "location": "Québec, Canada",
-   "url": "https://www.adzuna.ca/details/5950813961",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "conseiller(ere) en architecture de solutions salesforce caa-quebec quebec, canada adzuna salesforce adzuna salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-en-architecture-de-solutions-salesforce-at-caa-qu%C3%A9bec-4485208656",
-     "label": "LinkedIn · Quebec"
     }
    ]
   },

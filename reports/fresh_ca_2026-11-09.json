@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T22:39:56.736673+00:00",
+  "generated": "2026-11-09T22:45:48.241015+00:00",
   "window": [
     "2026-11-09",
     "2026-11-08"
@@ -7,10 +7,22 @@
   "stats": {
     "requests": 68,
     "jobbank_pages": 11,
-    "eluta_pages": 6,
-    "unverified_dropped": 0,
-    "already_on_board": 17
+    "eluta_pages": 11,
+    "linkedin_requests": 40,
+    "unverified_dropped": 23,
+    "already_on_board": 34
   },
-  "count": 0,
-  "rows": []
+  "count": 1,
+  "rows": [
+    {
+      "source": "eluta",
+      "title": "Conseiller(\u00e8re) en architecture de solutions Salesforce",
+      "company": "CAA-Qu\u00e9bec",
+      "location": "Montr\u00e9al QC",
+      "posted": "2026-11-09",
+      "url": "https://www.eluta.ca/spl/conseiller-%C3%A8re-en-architecture-de-solutions-salesforce-fd54aa22b163de063e1fd1802481376f",
+      "origin_ats": "caaquebec.wd3.myworkdayjobs.com",
+      "bucket": "salesforce"
+    }
+  ]
 }
