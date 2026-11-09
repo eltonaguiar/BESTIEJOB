@@ -262,3 +262,42 @@ Web searches across Indeed.ca, LinkedIn, Salesforce Careers Canada, ServiceNow C
 - `README.md` — no changes (zero net-new jobs; counts unchanged).
 - `jobs.json` / `public/` — no changes; no rebuild or redeploy required this hour.
 
+## Hourly scan — 2026-11-09 10:00 EST (15:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 10:00 EST (15:00 UTC) |
+| Baseline (jobs.json on main) | 5,037 unique URLs · scrapedAt 2026-11-09T14:13:24Z (09:13 EST) · newThisScan 652 · primaryCounts SN 1,061 / SF 1,026 |
+| Baseline (README.md tables on main) | "as of 2026-11-09" · window 2026-10-10 → 2026-11-09 · 5,413 live postings (SN 718 · SF 877 · Other 3,818) · deduplicated by URL |
+| Dedupe baseline | 5,939 unique URLs (README.md table URLs + jobs.json URLs; normalized by stripping query strings and trailing slashes) |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs rebuilt on GitHub Pages (public/) | 0 (no changes required; board already current from the 09:13 EST automated scan) |
+
+### Sources queried
+Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.servicenow.com), Salesforce Careers Canada, jobs.rogers.com, jobs.bell.ca, jobs.gc.ca, plus targeted site: queries against myworkdayjobs.com / greenhouse.io / lever.co / ashbyhq.com. Employer/partner checks: Accenture, Deloitte, KPMG, CGI, BDO, Capgemini, TELUS, RBC, Scotiabank, BMO, TD, CIBC, Lane Four, Altus Group, Winobell, Robinhood, Take-Two, Long View.
+
+### Candidates reviewed (disposition)
+- **KPMG — Senior Consultant, ServiceNow (ITAM/ITOM), Toronto, 2026-11-09** (LinkedIn 4454522998): in jobs.json feed, but KPMG already has 8+ mirror entries on the board; LinkedIn page is a login wall so the date isn't independently verifiable. Skipped — duplicate requisition cluster, no net-new card value.
+- **BDO — ServiceNow Senior Developer, Toronto, $84–128K** (Indeed jk=c956b22cc281049c): Indeed/Glassdoor mirrors only, "30+ days ago" / ~Nov 4; Indeed blocked to extraction so no employer-page date. Not fresh, not verifiable → lead only.
+- **Lane Four — Salesforce Administrator, Toronto, entry level (0–2 yrs)** (lanefour.com/job-posting/salesforce-administrator/): page live but carries only template dates (datePublished 2026-06-01, dateModified 2026-09-01); no posting date on the page. House rule (set 08:00 run): undated employer pages cannot be merged → lead only, re-check if a date appears.
+- **Winobell — Salesforce Developer (Dealer Services), Toronto hybrid**: page live, no posted date → cannot merge; a different Winobell role (Health Cloud, 2026-11-08) is already on the board.
+- **MAP/WPP — Senior Salesforce Marketing Cloud Developer, Toronto** (job-boards.greenhouse.io/map/jobs/8396722002): Greenhouse board page shows no posted date → skipped per undated rule.
+- **Electric Mind — Senior Full Stack Developer - Salesforce (Contract)**: Lever URL returns HTTP 404 (true dead); role already on board via LinkedIn/adzuna mirrors dated 2026-10-29/30 → skip.
+- **Take-Two — Senior Lead ServiceNow ITOM, Toronto**: already on board since 2026-10-22 (greenhouse 8306166); reposted, dates conflict (8–16 days ago) → duplicate.
+- **ServiceNow Careers Toronto** (Staff Systems Engineer/SRE/Security Engineer, Nov 5–6): all on board via careers.servicenow.com / jobs.smartrecruiters.com mirrors → duplicates.
+- **Rogers / Bell / jobs.gc.ca**: Rogers Technology list (21 roles, newest Nov 7) has no SN/SF technical role; Bell SN/SF pages return "has been filled"; jobs.gc.ca zero SN/SF Toronto hits → nothing added. Filled/expired roles never enter the board.
+- **Indeed/simplyhired/adzuna mirrors** (Altus Group SF Platform Developer, Applied Systems Associate SF Admin, Deloitte SC Salesforce Platform, Veracity/TEEMA SN Toronto): aggregator-only URLs, roles already mirrored on the board under employer/LinkedIn URLs → duplicates by requisition, skipped.
+
+### Patterns / lessons (10:00 run)
+1. **Zero-fresh runs are the norm late in the daily monitoring window.** The 09:13 EST jobs.json refresh captured 652 postings from SmartRecruiters, Workday, Greenhouse, Lever, Ashby, LinkedIn guest and Adzuna Canada; every date-verifiable Toronto SN/SF role is already mirrored on the board. Expect 0–2 merges per hour at this cadence.
+2. **House rule holds: no absolute posted date on the employer page = no merge.** Lane Four's entry-level Salesforce Administrator (exactly the target profile) and Winobell's Salesforce Developer (Dealer Services) are live and Toronto-based but undated on their own pages, so they stay leads, not board rows. jobs.json's observed date is not a substitute for the page-sourced date the merger requires.
+3. **404 ≠ "maybe":** Electric Mind's Lever URL is a true 404 (dropped); Robinhood's Greenhouse API returns "Job not found" for job 7014467 even though it's listed on the board page. Don't re-probe dead endpoints each run.
+4. **Indeed.ca is a mirror, not a source:** BDO's ServiceNow Senior Developer ($84–128K Toronto) is visible on Indeed/Glassdoor but Indeed is blocked to extraction and Glassdoor shows "30+ days ago" — no employer-page verification possible. Lead only.
+5. **Dedupe baseline is 5,939 normalized URLs.** The same requisition arrives via LinkedIn, adzuna, simplyhired and the employer ATS under different URLs; dedupe by normalized URL (strip query strings/trailing slashes) before any merge.
+
+### Files touched (10:00 run)
+- `JOBLESSONS_2026-11-09.MD` — this file, 10:00 EST section added, committed to repo root on main.
+- `README.md` — no changes (zero verified fresh jobs this hour; counts unchanged: 5,413 live postings).
+- `jobs.json` / `public/` — no changes; no rebuild or redeploy required this hour (last deploy from the 09:13 EST scan).
+
