@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T04:15:29+00:00",
+ "generatedAt": "2026-11-09T04:29:26+00:00",
  "timezone": "America/Toronto",
- "count": 4497,
+ "count": 4500,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -537,6 +537,27 @@
      "label": "LinkedIn · Ottawa"
     }
    ]
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "ServiceNow Developer",
+   "company": "Long View Systems",
+   "location": "Calgary / Edmonton / Toronto / Vancouver, Canada (Remote)",
+   "url": "https://jobs.lever.co/lvs1/2d7e0d72-b100-42a2-a51d-112fa9bad1b0",
+   "note": "lever",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer long view systems calgary / edmonton / toronto / vancouver, canada (remote) lever servicenow lever servicenow role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-08",
@@ -11188,6 +11209,48 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Developer/ Admin with Commerce Cloud and L2 Support",
+   "company": "Logiciel Solutions Inc",
+   "location": "Remote",
+   "url": "https://www.dice.com/job-detail/ce03eabd-2034-49eb-8134-e171db07c5b0",
+   "note": "dice",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer/ admin with commerce cloud and l2 support logiciel solutions inc remote dice.com salesforce dice salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Salesforce Administrator and Developer",
+   "company": "Greenfield Industries, Inc.",
+   "location": "Pointe-Claire, QC, Canada (Remote considered)",
+   "url": "https://ca.jooble.org/jdp/7933441576547045811",
+   "note": "jooble",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Jooble",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce administrator and developer greenfield industries, inc. pointe-claire, qc, canada (remote considered) jooble salesforce jooble salesforce role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -42372,6 +42435,58 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "ServiceNow Platform Specialist",
+   "company": "Alimentiv",
+   "location": "Toronto, Ontario",
+   "url": "https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108",
+   "note": "lever",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow platform specialist alimentiv toronto, ontario lever servicenow lever servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/alimentiv/jobs/servicenow-platform-specialist-remote-canada-b90d2889bf0e",
+     "label": "jobs.ca · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946002922?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Greater Vancouver"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946002886?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · London"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946002306?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Montréal"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946004071?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5945477143?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Montréal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-02",
    "title": "ServiceNow Consultant",
    "company": "Bull Information Technology and Services",
    "location": "Toronto, Ontario, Canada",
@@ -42680,6 +42795,33 @@
    "french": false,
    "search": "salesforce qa automation developer nesto canada (remote/hybrid) ats.rippling.com salesforce readme salesforce automation role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior Lead Solutions Architect, Salesforce Migrations",
+   "company": "Salesforce",
+   "location": "Toronto / Montreal / Vancouver, Canada (Remote)",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/canada---toronto/senior-lead-solutions-architect--salesforce-migrations_jr353172",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior lead solutions architect, salesforce migrations salesforce toronto / montreal / vancouver, canada (remote) workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940716157",
+     "label": "Adzuna · Canada"
+    }
+   ]
   },
   {
    "posted": "2026-11-02",
@@ -79873,58 +80015,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "ServiceNow Platform Specialist",
-   "company": "Alimentiv",
-   "location": "Toronto, Ontario",
-   "url": "https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108",
-   "note": "lever",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow platform specialist alimentiv toronto, ontario lever servicenow lever servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946002922?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Greater Vancouver"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946002886?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · London"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946002306?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946004071?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945477143?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483645453",
-     "label": "LinkedIn · Vancouver"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-29",
    "title": "Senior ServiceNow Engineer",
    "company": "Equitable Bank",
    "location": "Toronto ON",
@@ -89796,27 +89886,6 @@
    ],
    "french": false,
    "search": "senior salesforce developer bpm llp canada adzuna salesforce readme salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-24",
-   "title": "Senior Lead Solutions Architect, Salesforce Migrations",
-   "company": "Salesforce.com, inc.",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5940716157",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior lead solutions architect, salesforce migrations salesforce.com, inc. canada adzuna salesforce readme salesforce role fit canada / remote",
    "alternates": []
   },
   {
