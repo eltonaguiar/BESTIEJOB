@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T10:26:04+00:00",
+ "generatedAt": "2026-11-09T10:29:35+00:00",
  "timezone": "America/Toronto",
- "count": 4509,
+ "count": 4508,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -127,7 +127,6 @@
   "epam.com",
   "exphire-kpmgca.icims.com",
   "fairygodboss.com",
-  "fed-group.ca",
   "flexgen.zya.me",
   "flexstack.my-board.org",
   "flexstaf-it.careers-page.com",
@@ -190,7 +189,6 @@
   "jobs.slalom.com",
   "jobs.sutherlandglobal.com",
   "jobs.toronto.ca",
-  "jobs.ttpb.com",
   "jobs.utoronto.ca",
   "jobs.wawanesa.com",
   "jobs.weekday.works",
@@ -408,48 +406,6 @@
      "label": "LinkedIn · Toronto"
     }
    ]
-  },
-  {
-   "posted": "2026-11-09",
-   "title": "ServiceNow Administrator Specialist",
-   "company": "Scotiabank",
-   "location": "Toronto, ON M5H 1H1, Canada",
-   "url": "https://jobs.scotiabank.com/job/Toronto-ServiceNow-Administrator-Specialist-ON-M5H-1H1/602949717/",
-   "note": "scotiabank",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.scotiabank.com",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow administrator specialist scotiabank toronto, on m5h 1h1, canada jobs.scotiabank.com servicenow scotiabank servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
-   "title": "ServiceNow Developer",
-   "company": "Winobell",
-   "location": "Toronto, ON, Canada",
-   "url": "https://www.winobell.com/jobs/servicenow-developer",
-   "note": "winobell",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "winobell.com",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer winobell toronto, on, canada winobell.com servicenow winobell servicenow role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -1276,11 +1232,6 @@
      "label": "remotejobs.place"
     },
     {
-     "source": "jobs.jobicy.com",
-     "url": "https://jobs.jobicy.com/jobs/156615-servicenow-developer",
-     "label": "jobs.jobicy.com · Remote"
-    },
-    {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4482543161",
      "label": "LinkedIn · Toronto"
@@ -1975,6 +1926,27 @@
    ],
    "french": false,
    "search": "salesforce administrator benevity toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Technical Architect",
+   "company": "Medicine Shoppe Canada",
+   "location": "Mississauga, ON, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/open-source-systems-engineer-at-medicine-shoppe-canada-4170806993",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect medicine shoppe canada mississauga, on, canada linkedin salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -10732,6 +10704,49 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "ServiceNow Architect - HRSD & CSM",
+   "company": "Cask NX",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-hrsd-csm-at-cask-nx-4172378291",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "HRSD / VA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow architect - hrsd & csm cask nx toronto, ontario, canada linkedin servicenow linkedin servicenow hrsd / va role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "ServiceNow GRC Senior Associate",
+   "company": "PwC Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-grc-senior-associate-at-pwc-canada-4216770371",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 94,
+   "matchReasons": [
+    "ServiceNow",
+    "Risk/GRC",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow grc senior associate pwc canada toronto, ontario, canada linkedin servicenow linkedin servicenow risk/grc toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Senior ServiceNow Developer & Product Owner (Remote)",
    "company": "Huron Consulting Group",
    "location": "Toronto, Ontario",
@@ -10889,6 +10904,27 @@
      "label": "jobs.ca · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior ServiceNow Solutions Architect",
+   "company": "Fathom Talent Group",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-solutions-architect-at-fathom-talent-group-4202658630",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow solutions architect fathom talent group toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -42786,27 +42822,6 @@
    ],
    "french": false,
    "search": "digital consulting architect, servicenow zaelab canada linkedin servicenow linkedin servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Service Now Developer",
-   "company": "Cognizant",
-   "location": "Canada",
-   "url": "https://careers.cognizant.com/ca-en/jobs/00070868112/service-now-developer/",
-   "note": "cognizant",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "service now developer cognizant canada careers.cognizant.com servicenow cognizant servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -85001,6 +85016,27 @@
   },
   {
    "posted": "2026-10-28",
+   "title": "Technical Service Now, Lead (6-month contract)",
+   "company": "Interac Corp.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technical-service-now-lead-6-month-contract-at-interac-corp-4126302101",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "technical service now, lead (6-month contract) interac corp. toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
    "title": "ServiceNow Developer",
    "company": "9th Way Insignia",
    "location": "United States - Remote",
@@ -92460,27 +92496,6 @@
   },
   {
    "posted": "2026-10-22",
-   "title": "ServiceNow Developer",
-   "company": "FED IT",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.fed-group.ca/en/fed-it/jobs/developpeur-euse-servicenow",
-   "note": "fed-group",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "fed-group.ca",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer fed it montreal, qc, canada fed-group.ca servicenow fed-group servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-22",
    "title": "ServiceNow Technical Architect - Randstad",
    "company": "Canada: Toronto; 100% remote; confirm Canadian province eligibility",
    "location": "Five-month contract through March 2027",
@@ -96967,27 +96982,6 @@
   },
   {
    "posted": "2026-10-12",
-   "title": "ServiceNow Administrator (Canada Based)",
-   "company": "Cloudera",
-   "location": "Remote, Canada",
-   "url": "https://jobs.ttpb.com/jobs/744685767-servicenow-administrator-canada-based",
-   "note": "jobs.ttpb.com",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.ttpb.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow administrator (canada based) cloudera remote, canada jobs.ttpb.com servicenow jobs.ttpb.com servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-12",
    "title": "ServiceNow Developer",
    "company": "accenturefederalservices",
    "location": "Fort Belvoir, VA",
@@ -97712,27 +97706,6 @@
    ],
    "french": false,
    "search": "senior servicenow engineer resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-10",
-   "title": "ServiceNow Developer – Hybrid",
-   "company": "PrecisionERP / PrecisionIT",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://www.jobs.ca/precisionerp-precisionit/jobs/servicenow-developer-ottawa-on-0e19a65ea63f",
-   "note": "jobs.ca",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer – hybrid precisionerp / precisionit ottawa, on, canada jobs.ca servicenow jobs.ca servicenow role fit canada / remote",
    "alternates": []
   },
   {
