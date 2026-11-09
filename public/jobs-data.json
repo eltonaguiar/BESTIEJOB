@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T07:15:07+00:00",
+ "generatedAt": "2026-11-09T08:18:32+00:00",
  "timezone": "America/Toronto",
- "count": 4507,
+ "count": 4508,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -320,33 +320,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "ServiceNow Developer SME",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer sme gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Workday ATS",
-     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1",
-     "label": "Workday ATS · Any Location / Remote"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Senior Salesforce Developer",
    "company": "Bank of Montreal (via Procom)",
    "location": "Toronto, ON, Canada",
@@ -364,6 +337,26 @@
    ],
    "french": false,
    "search": "senior salesforce developer bank of montreal (via procom) toronto, on, canada myprocom-portal.procomservices.com salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Administrateur(trice) de base de données des éléments de configuration (CMDB) N3",
+   "company": "Commission de la construction du Québec",
+   "location": "Greater Montreal Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/administrateur-trice-de-base-de-donn%C3%A9es-des-%C3%A9l%C3%A9ments-de-configuration-cmdb-n3-at-commission-de-la-construction-du-qu%C3%A9bec-4487683134",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 30,
+   "matchReasons": [
+    "CMDB",
+    "Quebec"
+   ],
+   "french": true,
+   "search": "administrateur(trice) de base de donnees des elements de configuration (cmdb) n3 commission de la construction du quebec greater montreal metropolitan area linkedin servicenow linkedin cmdb quebec",
    "alternates": []
   },
   {
@@ -1057,10 +1050,10 @@
   },
   {
    "posted": "2026-11-08",
-   "title": "ServiceNow Developer Senior – Electronic Health Records – Remote!",
+   "title": "ServiceNow Developer SME",
    "company": "GDIT",
    "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1",
    "note": "workday",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
@@ -1073,8 +1066,14 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "servicenow developer senior – electronic health records – remote! gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
+   "search": "servicenow developer sme gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Workday ATS",
+     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1",
+     "label": "Workday ATS · Any Location / Remote"
+    }
+   ]
   },
   {
    "posted": "2026-11-08",
@@ -3027,6 +3026,27 @@
   },
   {
    "posted": "2026-11-07",
+   "title": "ServiceNow Developer Senior – Electronic Health Records – Remote!",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer senior – electronic health records – remote! gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
    "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
    "company": "KPMG Canada",
    "location": "Boisbriand, Quebec, Canada",
@@ -4388,26 +4408,6 @@
   },
   {
    "posted": "2026-11-07",
-   "title": "Data Analyst",
-   "company": "Aramark Canada",
-   "location": "Mississauga, ON",
-   "url": "https://ca.linkedin.com/jobs/view/data-analyst-at-aramark-canada-4488485604",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "data analyst aramark canada mississauga, on linkedin other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-07",
    "title": "Service Management Product Manager",
    "company": "Equinix",
    "location": "Toronto, Ontario, Canada",
@@ -4431,6 +4431,26 @@
      "label": "Adzuna · Canada"
     }
    ]
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Data Analyst",
+   "company": "Aramark Canada",
+   "location": "Mississauga, ON",
+   "url": "https://ca.linkedin.com/jobs/view/data-analyst-at-aramark-canada-4488485604",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data analyst aramark canada mississauga, on linkedin other readme role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-07",
@@ -34637,27 +34657,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "ServiceNow Developer",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "FSO-ServiceNow Developer",
    "company": "National Bank of Canada",
    "location": "Montreal, Quebec, Canada",
@@ -42762,6 +42761,27 @@
    ],
    "french": false,
    "search": "servicenow architect (526327) ateko (fx innovation) canada; remote fxinnovation.com servicenow readme servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "ServiceNow Developer",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -80411,27 +80431,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Senior ServiceNow Developer",
-   "company": "Resolve Tech Solutions",
-   "location": "US Remote - TX",
-   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
    "title": "ServiceNow Senior Technical Advisor (432829)",
    "company": "Bell",
    "location": "Toronto / Montreal",
@@ -85084,6 +85083,27 @@
    ],
    "french": false,
    "search": "servicenow platform architect (00071000111) cognizant canada careers.cognizant.com servicenow readme servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "Senior ServiceNow Developer",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - TX",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -92410,6 +92430,27 @@
   },
   {
    "posted": "2026-10-22",
+   "title": "ServiceNow Transformation Program Manager",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5937566810",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow transformation program manager cognizant toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-22",
    "title": "ServiceNow Technical Lead",
    "company": "CAAT Pension Plan",
    "location": "Toronto, ON",
@@ -92439,27 +92480,6 @@
      "label": "LinkedIn · Toronto"
     }
    ]
-  },
-  {
-   "posted": "2026-10-22",
-   "title": "ServiceNow Transformation Program Manager",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5937566810",
-   "note": "adzuna",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow transformation program manager cognizant toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-10-22",
