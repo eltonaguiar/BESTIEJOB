@@ -186,3 +186,11 @@ Nothing was deleted. The README row guard allows a net loss of 3, so clearing 9
 wrong rows is a deliberate override (`[allow-readme-removals]`), and 84 off-title
 rows is a scope decision about what the board carries. The machine-readable list
 is `reports/audit_2026-11-09.json` for whoever makes that call.
+
+### Inbox filenames must carry a version
+
+The manual cycles wrote `fresh-ca--2026-11-09--c1.md` / `--c2.md`, which
+`scripts/check_inbox.py` rejects: submissions must be
+`<model-slug>--<YYYY-MM-DD>--v<N>.md`. The version suffix is what keeps two runs
+of the same day from colliding, so the files are renamed to `--v2` / `--v3`
+(`--v1` holds the first sweep). Rows were already merged, so nothing moved.
