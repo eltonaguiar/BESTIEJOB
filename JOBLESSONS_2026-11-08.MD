@@ -190,3 +190,40 @@ Salesforce: "Salesforce Architect Toronto", "Salesforce Developer Mississauga", 
 - SmartRecruiters ServiceNow (12) and Workday (16) remain strong for vendor-direct Toronto roles (ServiceNow Inc., GDIT).
 - Gap-scan partner career pages returned 0 dated roles — Ateko/FX Innovation, Cofomo, Everforth render little JobPosting JSON-LD; LinkedIn Guest + Workday remain the reliable Toronto signal.
 - Toronto employer signals this run: **Bell/Ateko** (ServiceNow ITOM/ITAM Architect, Quebec), **TD/CIBC/BMO/KPMG/Interac/407 ETR** (GTA ServiceNow), **Salesforce vendor** (Solutions Architect Migrations, Data360/Revenue Cloud), **Salvation Army Canada** (ITSM Analyst, Toronto via Workday).
+
+
+## 23:00 EST hourly run — 2026-11-08 (third run today)
+
+**Scan executed:** web search (LinkedIn guest snippets, Indeed CA snippets) + direct source fetches (careers.servicenow.com, careers.salesforce.com, ateko.com careers). Adzuna/Indeed APIs unavailable keyless this cycle; LinkedIn job pages are behind a login wall so posted dates could not be confirmed by direct fetch.
+
+**Fresh postings verified (dated, live, URL absent from README.md) and merged into the ServiceNow table:**
+| Posted | Role | Company | Location | Source / note |
+|---|---|---|---|---|
+| 2026-11-06 | [Staff Security Engineer \| Security Engineering](https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/) | ServiceNow | Toronto, ON | ServiceNow Careers (vendor direct); verified live Nov 08 2026 |
+| 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://careers.servicenow.com/jobs/744000159911194/senior-site-reliability-engineer-canada-protected-b/) | ServiceNow | Toronto, ON | ServiceNow Careers (vendor direct); supports Government of Canada Protected B; verified live Nov 08 2026 |
+
+**Duplicates skipped (already on the board from the 19:00 EST run):**
+- Staff Systems Engineer — ServiceNow — Toronto, ON — 2026-11-06 (careers.servicenow.com)
+- Senior Staff Security Engineer \| Systems Engineering — ServiceNow — Toronto, ON — 2026-11-06 (careers.servicenow.com)
+- Salesforce Developer Lead – Data Cloud — Epsilon Solutions Ltd. — LinkedIn (already on board)
+
+**New but undated — deferred to next run (board rule: no absolute YYYY-MM-DD, no table row):**
+- Sr. IT Developer (ServiceNow) — TD — Toronto (ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4177846836)
+- ServiceNow Solutions Engineer — Manulife — Toronto (…at-manulife-4181837609)
+- ServiceNow Solutions Architect – APM & Service Mapping — Scotiabank — Toronto (…at-scotiabank-4092080311)
+- ServiceNow Administrator & Developer (Hybrid) — Central 1 — Toronto (…at-central-1-4215919730)
+- Technical Specialist – ServiceNow Platform — BMO — Toronto (…at-bmo-4179502423)
+- Service Now Consultant — Compunnel Inc. — Toronto (…at-compunnel-inc-4203121945)
+- Associate, Salesforce (1-yr contract) — MaRS Discovery District — Toronto (…at-mars-discovery-district-4189742431)
+- Senior Salesforce Engineer — Scotiabank — Toronto (…at-scotiabank-4105474889)
+- Account Executive – Data Cloud — Salesforce — Toronto (…at-salesforce-4231733063)
+
+**Salesforce:** vendor careers page showed sales/operations postings dated September–October 2026 (outside the fresh window); no new dated technical Salesforce Toronto roles this cycle.
+
+**Partners / telco / sponsors / government checked:**
+- Ateko (ServiceNow + Salesforce partner, backed by Bell Canada): careers page live; its jobs.ca postings dated Oct 3–16 2026 — known, not fresh.
+- Rogers / Bell / TELUS direct careers: no fresh ServiceNow/Salesforce Toronto hits this cycle.
+- Canadian government: ServiceNow Canada "Protected B" federal roles are the two senior security/SRE roles merged above (both support Government of Canada Protected B workloads).
+
+**Merge result:** ServiceNow table 709 → 711 rows; board total 5395 → 5397 live postings. Commit 403320eb942e… pushed to main; `pages.yml` rebuilds https://eltonaguiar.github.io/BESTIEJOB/ on the push.
+
