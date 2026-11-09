@@ -31,11 +31,31 @@ Usage
 from __future__ import annotations
 
 import argparse
+import pathlib
 import re
 import subprocess
 import sys
 
 URL_RE = re.compile(r"https?://[^\s)\|<>\"']+", re.I)
+
+# Reuse the merger's normaliser so this guard and tools/jobs_merge_inbox.py agree
+# on what "the same posting" means. They disagreed on 2026-11-09: the guard
+# dropped the whole query string, so distinct query-keyed postings
+# (indeed.com/viewjob?jk=<id>, talent.com/view?<id>) counted as duplicates, and
+# the CI gate failed on rows that were never duplicates at all.
+ROOT = pathlib.Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "tools"))
+try:
+    from jobs_consolidate import SCAN_END, SCAN_START  # noqa: E402
+    from jobs_consolidate import normalise_url as normalize  # noqa: E402
+except Exception:  # pragma: no cover - guard must stay usable if tools/ moves
+    SCAN_START, SCAN_END = "<!-- DAILY-SCAN:START -->", "<!-- DAILY-SCAN:END -->"
+
+    def normalize(url: str) -> str:
+        url = url.strip().lower()
+        url = re.sub(r"^https?://(www\.)?", "", url)
+        url = re.sub(r"[?#].*$", "", url)
+        return url.rstrip("/.,;)")
 JOB_RE = re.compile(r"servicenow|salesforce|sfdc|now platform", re.I)
 SKIP_PATH = "README.md"
 
@@ -49,15 +69,19 @@ def git_show(rev: str, path: str = SKIP_PATH) -> str:
     return proc.stdout
 
 
-def normalize(url: str) -> str:
-    url = url.strip().lower()
-    url = re.sub(r"^https?://(www\.)?", "", url)
-    url = re.sub(r"[?#].*$", "", url)
-    return url.rstrip("/.,;)")
-
-
 def job_rows(text: str) -> tuple[dict[str, str], int, list[str]]:
-    """Return (unique postings by URL, total row count, duplicated URLs)."""
+    """Return (unique postings by URL, total row count, duplicated URLs).
+
+    The `<!-- DAILY-SCAN -->` block is a verbatim echo of the scanner and the
+    README states it "may repeat rows from the tables above". Those repeats are
+    by design, so they are not counted as duplicates; otherwise every merge
+    that includes a fresh scan fails the guard (15 such false positives on
+    2026-11-09).
+    """
+    if SCAN_START in text and SCAN_END in text:
+        start = text.index(SCAN_START)
+        end = text.index(SCAN_END) + len(SCAN_END)
+        text = text[:start] + text[end:]
     seen: dict[str, str] = {}
     dups: list[str] = []
     total = 0

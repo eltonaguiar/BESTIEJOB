@@ -95,3 +95,21 @@ Fixed in `tools/jobs_consolidate.py`:
 
 Re-running the merger collapsed **138 duplicates** (`5527 unique`, `5395` in the
 window); the guard is back to 0 duplicate growth with 0 rows removed.
+
+## 6. Row guard counted the automated-feed echo (fixed)
+
+After the merge the guard still reported 15 "duplicate" URLs. All 15 were the
+same posting appearing once in a curated table and once in the
+`<!-- DAILY-SCAN:START --> … <!-- DAILY-SCAN:END -->` block, which the README
+describes as a raw echo that "may repeat rows from the tables above".
+
+`.github/scripts/readme_job_row_guard.py` now:
+
+- strips that block before counting rows, so by-design echoes are not regressions
+- imports `normalise_url` (and the block markers) from `tools/jobs_consolidate.py`
+  instead of keeping a second, disagreeing normaliser — the old one dropped whole
+  query strings, so distinct query-keyed postings
+  (`indeed.com/viewjob?jk=<id>`, `talent.com/view?<id>`) counted as duplicates
+
+Guard result after the fix: 316 base → 1,634 unique head rows, removed 0,
+duplicate growth 0.
