@@ -219,3 +219,46 @@ ServiceNow Careers Toronto: Staff Systems Engineer (×2, 2026-11-06), Staff Secu
 - `jobs.json` / `public/*.json` — rewritten by scan + verify + sync (5,030 feed rows; 4 dead dropped, 3 gap-scan adds).
 - `public/jobs-data.json` + `public/index.html` — rebuilt (4,512 indexed jobs); `pages.yml` redeploys on push to main.
 - `dead_urls.txt` — 4 dead URLs appended.
+## Hourly scan — 2026-11-09 09:00 EST (14:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 09:00 EST (14:00 UTC) |
+| jobs.json baseline on main | 5,034 unique URLs · scrapedAt 2026-11-09T13:33:00Z (08:33 EST) · newThisScan 635 |
+| README.md baseline on main | "as of 2026-11-09" · window 2026-10-10 → 2026-11-09 · 5,412 live postings (SN 717 · SF 877 · Other 3,818) |
+| GitHub Pages (public/) | 4,512 indexed jobs (servicenow 763, salesforce 802, other 2,947); pages.yml redeploys on push to main |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs rebuilt on GitHub Pages (public/) | 0 (no changes required; board already current this hour) |
+
+### Candidates reviewed (09:00 run)
+
+Web searches across Indeed.ca, LinkedIn, Salesforce Careers Canada, ServiceNow Careers Ontario, jobs.rogers.com, jobs.bell.ca, jobs.gc.ca, plus partner/employer sites (Accenture, Deloitte, KPMG, CGI, Cognizant, Altus Group, Lane Four, BMO, Survalent, Caseware, Moneris):
+
+- **Lane Four — Salesforce Administrator, Toronto, Hybrid, Entry Level, $50K–75K** (~Nov 5, surfaced via jobs.ca mirror) — jobs.ca URL not in jobs.json, but the canonical posting https://lanefour.com/job-posting/salesforce-administrator/ IS already on the board (source lanefour, posted 2026-11-09). URL dedupe by domain+path caught the mirror; not re-added.
+- **Survalent — Salesforce Administrator (Hybrid), Mississauga, $70K–90K** — already on board (adzuna 2026-11-05; LinkedIn 2026-11-04).
+- **Altus Group — Salesforce Platform Developer, Toronto/remote, $105K–115K, PD1/PD2** — already on board (simplyhired 2026-11-09).
+- **BMO — ServiceNow SAM Administrator - ITAM, Toronto (Workday)** — already on board (posted 2026-11-09).
+- **ServiceNow careers (vendor) Toronto — Staff Systems Engineer / SRE / Security Engineer Canada Protected B (Nov 5–6)** — already on board; Canadian citizen/PR + Reliability Status required.
+- **Salesforce careers Canada — CSM, Account Executive, Partner Sales, Solutions Architect Migrations** — already on board via salesforce-careers / LinkedIn / Workday mirrors.
+- **Rogers — Sr Business Systems Analyst, ServiceNow platform (ITSM), Brampton (wct-fct req 317411)** — page returns "This job is no longer accepting applications"; excluded. jobs.rogers.com Technology list (21 roles, newest Nov 7) shows no SN/SF technical role; Lead Management Operations (Salesforce, ~Oct 28) outside freshness window.
+- **Bell — ServiceNow System Administrator (432824), Senior Technical Advisor (432829), Developer/Integrator** — jobs.bell.ca returns "has been filled"; excluded. Filled roles never enter the board.
+- **BMO — Junior Salesforce Administrator, Fall 2026 Co-op/Internship (Toronto)** — jobs.bmo.com says "has been filled" and the posting's application deadline (05/29/2026) has passed; expired, excluded.
+- **Caseware — Salesforce Engineer, Toronto hybrid, $100K–115K, PD1 required** — surfaced only via Jooble aggregator; no direct caseware.com careers URL with a verifiable posted date; not in jobs.json. Not merged: mid-level (3–5+ yrs) and unverifiable date. Re-check via careers.caseware.com ATS deep-link on a future run.
+- **jobs.gc.ca (Government of Canada)** — zero direct ServiceNow/Salesforce Toronto postings; GC platform work arrives via ServiceNow Canada Protected B roles and prime vendors (Accenture, Deloitte, KPMG, CGI, Ateko/Bell), all already mirrored.
+- **Partners / Elite Partners** — Accenture ServiceNow Technical Architect Toronto (posted 2026-11-06), Deloitte Senior Consultant ServiceNow Platform Toronto, KPMG ServiceNow consultant roles (Toronto/Ottawa/Vancouver/Montreal), CGI ServiceNow Administrator/Developer — all already on the board via LinkedIn/Workday mirrors dated 2026-11-08/09; no net-new adds.
+
+### Patterns / lessons (09:00 run)
+
+1. **Late-window hourly runs return zero fresh jobs** — the 13:33 UTC jobs.json refresh already captured 635 postings from SmartRecruiters, Workday, Greenhouse, Lever, Ashby, LinkedIn guest and Adzuna Canada; aggregator and web-search hits are mirrors of rows already in the feed.
+2. **Dedupe by canonical URL, not aggregator URL** — Lane Four's jobs.ca mirror was absent from jobs.json, but its canonical lanefour.com posting was present; normalizing domain+path caught the duplicate.
+3. **Filled/closed pages retire roles** — Rogers wct-fct ("no longer accepting applications"), Bell jobs.bell.ca ("has been filled") and BMO's filled Junior Salesforce Administrator co-op were all verified closed and excluded; never add filled roles.
+4. **Aggregator-only roles can't be merged** — Caseware's Salesforce Engineer exists only on Jooble with no extractable posted date; the merger requires an absolute YYYY-MM-DD and a resolvable direct URL.
+5. **jobs.gc.ca returns zero direct SN/SF Toronto roles** — government platform work surfaces via ServiceNow's Canada Protected B requisitions and prime vendors, already mirrored on the board.
+
+### Files touched (09:00 run)
+
+- `JOBLESSONS_2026-11-09.MD` — this file, 09:00 EST section added (this run).
+- `README.md` — no changes (zero net-new jobs; counts unchanged).
+- `jobs.json` / `public/` — no changes; no rebuild or redeploy required this hour.
+
