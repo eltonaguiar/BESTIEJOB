@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T15:14:12+00:00",
+ "generatedAt": "2026-11-09T16:15:45+00:00",
  "timezone": "America/Toronto",
- "count": 4515,
+ "count": 4514,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -496,6 +496,33 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "ServiceNow Developer SME",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer sme gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Workday ATS",
+     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1",
+     "label": "Workday ATS · Any Location / Remote"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Consultant, ServiceNow Developer",
    "company": "KPMG",
    "location": "Multiple Locations, Canada",
@@ -735,6 +762,28 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Salesforce Marketing Cloud(SFMC) Business Analyst",
+   "company": "Enterprise Solutions Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 66,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud(sfmc) business analyst enterprise solutions inc. canada linkedin salesforce linkedin salesforce consulting/ba role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Senior Salesforce Developer",
    "company": "CGI",
    "location": "Toronto, Ontario, Canada",
@@ -833,6 +882,27 @@
      "label": "Adzuna · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Data Cloud Architect",
+   "company": "Enterprise Solutions Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce data cloud architect enterprise solutions inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -1166,6 +1236,27 @@
      "label": "Adzuna · Canada"
     }
    ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Technical Architect Revenue Cloud CPQ",
+   "company": "Enterprise Solutions Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce technical architect revenue cloud cpq enterprise solutions inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -1707,33 +1798,6 @@
   },
   {
    "posted": "2026-11-08",
-   "title": "ServiceNow Developer SME",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer sme gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Workday ATS",
-     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231509-1",
-     "label": "Workday ATS · Any Location / Remote"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-08",
    "title": "ServiceNow Developer",
    "company": "Accion Labs",
    "location": "Remote, Canada",
@@ -1751,27 +1815,6 @@
    ],
    "french": false,
    "search": "servicenow developer accion labs remote, canada linkedin servicenow readme servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "ServiceNow Developer",
-   "company": "Jobgether (Partner)",
-   "location": "Remote Canada",
-   "url": "https://jobs.lever.co/jobgether/5a42b2b6-ac2c-4562-9d02-551fc335f12f",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer jobgether (partner) remote canada lever servicenow readme servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -6895,27 +6938,6 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "Salesforce Data Cloud Architect",
-   "company": "Enterprise Solutions Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce data cloud architect enterprise solutions inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
    "title": "Salesforce CPQ Developer / Support Engineer",
    "company": "UST",
    "location": "Ontario, Canada",
@@ -7041,27 +7063,6 @@
      "label": "LinkedIn · Canada"
     }
    ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Salesforce Technical Architect Revenue Cloud CPQ",
-   "company": "Enterprise Solutions Inc.",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical architect revenue cloud cpq enterprise solutions inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
   },
   {
    "posted": "2026-11-06",
@@ -11492,28 +11493,6 @@
    ],
    "french": false,
    "search": "salesforce marketing cloud(sfmc) business analyst /solution consultant galent mississauga, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Salesforce Marketing Cloud(SFMC) Business Analyst",
-   "company": "Enterprise Solutions Inc.",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-at-enterprise-solutions-inc-4485772125",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 70,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce marketing cloud(sfmc) business analyst enterprise solutions inc. mississauga, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
    "alternates": []
   },
   {
