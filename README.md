@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-08T222817Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T000603Z.md`.
 
 ## Contents
 
@@ -78,10 +78,14 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-07 | [Service Now Delivery Manager](https://www.linkedin.com/jobs/view/service-now-delivery-manager-at-deloitte-4488488947) | Deloitte | Seattle, WA | via buffy--2026-11-08--v2.md |
 | 2026-11-07 | [Senior ServiceNow Architect / SME](https://www.linkedin.com/jobs/view/senior-servicenow-architect-sme-at-metaphase-4486605188) | MetaPhase | Springfield, VA | via buffy--2026-11-08--v2.md |
 | 2026-11-07 | [Senior Machine Learning Engineer](https://ca.linkedin.com/jobs/view/senior-machine-learning-engineer-at-servicenow-4480545371) | ServiceNow | Toronto, ON | via buffy--2026-11-08--v2.md |
+| 2026-11-07 | [Manager, ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621290) | KPMG Canada | Toronto, Ontario, Canada | LinkedIn guest (daily scan); Elite partner |
 | 2026-11-07 | [Manager - ServiceNow Solution Architect](https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480390494) | KPMG Canada | Brossard, QC | via buffy--2026-11-08--v2.md |
 | 2026-11-07 | [Manager - ServiceNow Solution Architect](https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480398115) | KPMG Canada | Toronto, Ontario, Canada | via hermes-cron--2026-11-08--v1.md |
+| 2026-11-07 | [Manager - ServiceNow Solution Architect](https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480397232) | KPMG Canada | Ottawa, Ontario, Canada | LinkedIn guest (daily scan); Elite partner |
 | 2026-11-07 | [ITSM Analyst](https://salvationarmyca.wd3.myworkdayjobs.com/en-US/TSACB/job/Toronto-ON/ITSM-Analyst_JR114608-1) | Salvation Army Canada | Toronto, ON | via ats-sweep--2026-11-07--v1.md |
+| 2026-11-07 | [Functional Manager - ServiceNow](https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480384864) | KPMG Canada | Toronto, Ontario, Canada | LinkedIn guest (daily scan); Elite partner |
 | 2026-11-07 | [Functional Consultant / Senior Consultant – ServiceNow](https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480501034) | KPMG Canada | Toronto, Ontario, Canada | via hermes-cron--2026-11-08--v1.md |
+| 2026-11-07 | [Directeur.rice fonctionnel.le - ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480392411) | KPMG Canada | Toronto, Ontario, Canada | LinkedIn guest (daily scan); Elite partner |
 | 2026-11-07 | [Directeur.rice - Architecte de solutions ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480386775) | KPMG Canada | Boisbriand, QC | via buffy--2026-11-08--v2.md |
 | 2026-11-07 | [Directeur.rice - Architecte de solutions ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480399040) | KPMG Canada | Toronto, Ontario, Canada | via hermes-cron--2026-11-08--v1.md |
 | 2026-11-07 | [Directeur.rice - Architecte de solutions ServiceNow](https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480395256) | KPMG Canada | Ottawa, Ontario, Canada | via hermes-cron--2026-11-08--v1.md |
@@ -92,11 +96,13 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944) | KPMG Canada | Toronto, Ontario, Canada | via hermes-cron--2026-11-08--v1.md |
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480397231) | KPMG Canada | Toronto, Ontario, Canada | via hermes-cron--2026-11-08--v1.md |
 | 2026-11-07 | [Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892) | KPMG Canada | Ottawa, Ontario, Canada | via hermes-cron--2026-11-08--v1.md |
+| 2026-11-07 | [Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793) | KPMG Canada | Toronto, Ontario, Canada | LinkedIn guest (daily scan); Elite partner |
 | 2026-11-07 | [Analyste d’affaires ServiceNow](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-servicenow-at-cgi-4488498109) | CGI | Sherbrooke, QC | via buffy-round17--2026-11-07--v1.md |
 | 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160277860) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-06 | [Staff Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160278249) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-06 | [Staff Systems Engineer](https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488432589) | ServiceNow | Toronto, ON | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [Staff Systems Engineer](https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488440203) | ServiceNow | Toronto, ON | via buffy--2026-11-08--v2.md |
+| 2026-11-06 | [Staff Systems Engineer](https://careers.servicenow.com/jobs/744000160278249/staff-systems-engineer/) | ServiceNow | Toronto, ON | ServiceNow Careers (vendor direct); verified live Nov 06 2026 |
 | 2026-11-06 | [Staff Security Engineer \/ Security Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294642) | Security Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294642) | ServiceNow | Toronto, Ontario, ca · Remote |
 | 2026-11-06 | [Staff Security Engineer \/ Enterprise Security](https://jobs.smartrecruiters.com/ServiceNow/744000160297239) | Enterprise Security](https://jobs.smartrecruiters.com/ServiceNow/744000160297239) | ServiceNow | Toronto, Ontario, ca · Remote |
 | 2026-11-06 | [Staff Security Engineer / Security Engineering](https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755) | ServiceNow | Toronto, ON | via buffy--2026-11-08--v2.md |
@@ -106,6 +112,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-06 | [Solution Architect - ServiceNow Expert](https://ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4488181037) | HRConnects | Vancouver, British Columbia, Canada |  |
 | 2026-11-06 | [ServiceNow Technical Architect - Top Secret Clearance](https://www.linkedin.com/jobs/view/servicenow-technical-architect-top-secret-clearance-at-alldus-4486228554) | Alldus | Fort Bragg, CA | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [ServiceNow Senior Technical Consultant/Technical Lead](https://www.linkedin.com/jobs/view/servicenow-senior-technical-consultant-technical-lead-at-dxc-technology-4487366407) | DXC Technology | Columbus, OH | via buffy--2026-11-08--v2.md |
+| 2026-11-06 | [ServiceNow SAM Administrator - ITAM](https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764) | BMO | Toronto, Ontario, Canada | LinkedIn guest (daily scan); Big Five bank |
 | 2026-11-06 | [ServiceNow Product and Platform Consultant (Now Assist, AI agents )](https://www.adzuna.ca/details/5955916596) | Yochana IT Solutions Inc. | Canada |  |
 | 2026-11-06 | [ServiceNow Platform Lead](https://www.linkedin.com/jobs/view/servicenow-platform-lead-at-prudent-technologies-and-consulting-inc-4486985942) | Prudent Technologies and Consulting, Inc. | Raritan, NJ | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [ServiceNow Platform Engineer](https://www.adzuna.ca/details/5955916764) | Amphenol HSIO | Markham, York region |  |
@@ -121,10 +128,12 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-06 | [ServiceNow Architect](https://www.adzuna.ca/details/5955472312) | RSM | Toronto, Ontario |  |
 | 2026-11-06 | [ServiceNow Architect](https://www.linkedin.com/jobs/view/servicenow-architect-at-acuity-inc-4384382464) | Acuity, Inc. | Reston, VA | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [ServiceNow Administrator/Developer](https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907) | CGI | Toronto, Ontario, Canada |  |
+| 2026-11-06 | [ServiceNow Administrator & Developer](https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-sheridan-college-4486264240) | Sheridan College | Oakville, Ontario, Canada | LinkedIn guest (daily scan) |
 | 2026-11-06 | [Service Now Administrator & Developer](https://ca.linkedin.com/jobs/view/service-now-administrator-developer-at-sheridan-college-4486264240) | Sheridan College | Oakville, Ontario, Canada |  |
 | 2026-11-06 | [Senior Staff Security Engineer \/ Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294989) | Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294989) | ServiceNow | Toronto, Ontario, ca · Remote |
 | 2026-11-06 | [Senior Staff Security Engineer / Systems Engineering](https://ca.linkedin.com/jobs/view/senior-staff-security-engineer-systems-engineering-at-servicenow-4488427761) | ServiceNow | Toronto, ON | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [Senior Specialist, Federal ServiceNow Developer](https://www.linkedin.com/jobs/view/senior-specialist-federal-servicenow-developer-at-kpmg-us-4483848040) | KPMG US | Detroit, MI | via buffy--2026-11-08--v2.md |
+| 2026-11-06 | [Senior ServiceNow Platform Architect (CoE / Vault)](https://ca.linkedin.com/jobs/view/senior-servicenow-platform-architect-coe-vault-at-resonaite-4487330849) | Resonaite | Ottawa, Ontario, Canada | LinkedIn guest (daily scan) |
 | 2026-11-06 | [Senior ServiceNow Developer and Administrator](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-and-administrator-at-mnp-4469795709) | MNP | Calgary, Alberta, Canada |  |
 | 2026-11-06 | [Senior ServiceNow Developer (App Engine / HRSD)](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816) | Resonaite | Ottawa, Ontario, Canada |  |
 | 2026-11-06 | [Principle ServiceNow Engineer](https://www.linkedin.com/jobs/view/principle-servicenow-engineer-at-chameleon-technologies-inc-4487354404) | Chameleon Technologies, Inc. | Greater Seattle Area | via buffy--2026-11-08--v2.md |
@@ -146,6 +155,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-06 | [Enterprise - ServiceNow SPM Business Process Consultant](https://www.linkedin.com/jobs/view/enterprise-servicenow-spm-business-process-consultant-at-slalom-4463560563) | Slalom | New York, NY | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [Développeur(euse) - ServiceNow](https://www.eluta.ca/spl/d%C3%A9veloppeur-euse-servicenow-51994e6f51df00be1707ded6e0999078) | Réseau de Transport Métropolitain / EXO | Montréal QC |  |
 | 2026-11-06 | [Consultant, ITAM Transactions & Compliance](https://ca.linkedin.com/jobs/view/consultant-itam-transactions-compliance-at-cibc-4479888375) | CIBC | Toronto, Ontario, Canada | other |
+| 2026-11-06 | [Consultant, ITAM Transactions & Compliance](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--ITAM-Transactions---Compliance_2620855) | CIBC | Toronto, ON | CIBC Workday ATS (Big Five bank); verified live, full-time |
 | 2026-11-06 | [Application Specialist, ITSM](https://www.eluta.ca/spl/application-specialist-itsm-12e08c37ab0076bc00cf00abc396b2d1) | J.D. Irving, Limited | Saint John NB |  |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744570) | ServiceNow | Toronto, Ontario, ca |  |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159910447) | ServiceNow | Toronto, Ontario, ca |  |
@@ -168,16 +178,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-05 | [ServiceNow Architect](https://www.linkedin.com/jobs/view/servicenow-architect-at-homecare-homebase-4486768519) | Homecare Homebase | Dallas, TX | via buffy--2026-11-08--v2.md |
 | 2026-11-05 | [Service Now Developers](https://www.adzuna.ca/details/5954388583) | Flexstaf IT | Ontario, Canada |  |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159744779) | ServiceNow | Toronto, Ontario, ca |  |
-| 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159911194) | ServiceNow | Toronto, Ontario, ca |  |
-| 2026-11-05 | [Senior ServiceNow Developer & Product Owner (Remote)](https://www.adzuna.ca/details/5954561155) | Huron Consulting Group | Toronto, Ontario |  |
-| 2026-11-05 | [Senior DevOps Engineer (Kubernetes) - Federal](https://jobs.smartrecruiters.com/ServiceNow/744000159871179) | ServiceNow | Santa Clara | via gx10--2026-11-05--v1.md |
-| 2026-11-05 | [Lead Specialist, Federal ServiceNow Architect](https://www.linkedin.com/jobs/view/lead-specialist-federal-servicenow-architect-at-kpmg-us-4483837682) | KPMG US | Boston, MA | via buffy--2026-11-08--v2.md |
-| 2026-11-05 | [Lead Specialist, Federal ServiceNow Architect](https://www.linkedin.com/jobs/view/lead-specialist-federal-servicenow-architect-at-kpmg-us-4483842194) | KPMG US | Philadelphia, PA | via buffy--2026-11-08--v2.md |
-| 2026-11-05 | [Lead Specialist, Federal ServiceNow Architect](https://www.linkedin.com/jobs/view/lead-specialist-federal-servicenow-architect-at-kpmg-us-4483832815) | KPMG US | Nashville, TN | via buffy--2026-11-08--v2.md |
-| 2026-11-05 | [Lead Specialist, Federal ServiceNow Architect](https://www.linkedin.com/jobs/view/lead-specialist-federal-servicenow-architect-at-kpmg-us-4483832817) | KPMG US | Houston, TX | via buffy--2026-11-08--v2.md |
-| 2026-11-05 | [Lead Specialist, Federal ServiceNow Architect](https://www.linkedin.com/jobs/view/lead-specialist-federal-servicenow-architect-at-kpmg-us-4483846099) | KPMG US | Detroit, MI | via buffy--2026-11-08--v2.md |
-| 2026-11-05 | [Lead Forward Deployed Engineer, ServiceNow](https://www.linkedin.com/jobs/view/lead-forward-deployed-engineer-servicenow-at-deloitte-4451980296) | Deloitte | Costa Mesa, CA | via buffy--2026-11-08--v2.md |
-| 2026-11-05 | [Lead Forward Deployed Engineer, ServiceNow](https://www.linkedin.com/jobs/view/lead-forward-deployed-engineer-servicenow-at-deloitte-4451966773) | Deloitte | Seattle, WA | via buffy--2026-11-08--v2.md |
 
 </details>
 
@@ -235,6 +235,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-06 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5955916867) | Finning | Surrey, Greater Vancouver |  |
 | 2026-11-06 | [Salesforce Technical Architect Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
 | 2026-11-06 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486994714) | Smart IT Frame LLC | Toronto, Ontario, Canada |  |
+| 2026-11-06 | [Salesforce Technical Architect - Revenue Cloud CPQ (RCA)](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100) | Enterprise Solutions Inc. | Canada | LinkedIn guest (daily scan) |
 | 2026-11-06 | [Salesforce Technical Architect - Financial Services Cloud, Marketing Cloud & Data360 - Manager](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-financial-services-cloud-marketing-cloud-data360-manager-at-ey-4459555582) | EY | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v1.md |
 | 2026-11-06 | [Salesforce Technical Architect - Financial Services Cloud, Marketing Cloud & Data360 - Manager](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-financial-services-cloud-marketing-cloud-data360-manager-at-ey-4459567406) | EY | Montreal, Quebec, Canada |  |
 | 2026-11-06 | [Salesforce Tech Lead](https://www.adzuna.ca/details/5955916101) | K&K Global Talent Solutions INC. | Toronto, Ontario |  |
@@ -262,6 +263,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-06 | [Lead Salesforce Developer (Agentforce)](https://www.linkedin.com/jobs/view/lead-salesforce-developer-agentforce-at-simplus-4471612732) | Simplus | Bellevue, WA | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [HiringCafe](https://hiringcafe.com/job/senior-salesforce-engineer-canadian-cancer-society-toronto-ontario-e440n9vnupotdd3i) | Senior Salesforce Engineer | Canadian Cancer Society | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v54.md |
 | 2026-11-06 | [Développeur(euse) Salesforce](https://www.eluta.ca/spl/d%C3%A9veloppeur-euse-salesforce-7501156c7789450ef75b026599ea919b) | Industrial Alliance Insurance and Financial Services Inc. | Vancouver BC | via canada-index--2026-11-06--v1.md |
+| 2026-11-06 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4486846471) | Canadian Cancer Society | Toronto, Ontario, Canada | LinkedIn guest (daily scan); Canadian nonprofit |
 | 2026-11-06 | [DevOps Engineer(Salesforce)](https://www.adzuna.ca/details/5955295565) | Scotiabank | Toronto, Ontario |  |
 | 2026-11-06 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-applied-systems-canada-4486934306) | Applied Systems Canada | Canada |  |
 | 2026-11-06 | [Associate Director, Global CRM (Salesforce)](https://www.linkedin.com/jobs/view/associate-director-global-crm-salesforce-at-international-rescue-committee-4486896588) | International Rescue Committee | New York, NY | via buffy--2026-11-08--v2.md |
@@ -337,8 +339,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Senior Salesforce Developer / Launchpad Technologies / Remote / July 2026](https://jobera.com/job/launchpad-technologies-senior-salesforce-developer-7bb4596f/) | Unknown | Canada | 8 |
 | 2026-11-04 | [Senior Salesforce Developer - nesto / Built In](https://builtin.com/job/senior-salesforce-developer/7900213) | Unknown | Canada | 7 |
 | 2026-11-04 | [Senior Salesforce Developer - Toronto, Ontario, Canada - Vancouver, British Columbia, Canada](https://careers.hootsuite.com/jobs/senior-salesforce-developer-toronto-ontario-canada-vancouver-british-columbia) | Unknown | Canada | via round11-cached--2026-11-05--v1.md |
-| 2026-11-04 | [Senior Salesforce Developer - Hybrid in Toronto](https://www.jobleads.com/ca/job/senior-salesforce-developer-hybrid-in-toronto--toronto--ef8c7465b6f043af17027cfeb6eb54e60) | Hybrid in Toronto | Canada | via round11-cached--2026-11-05--v1.md |
-| 2026-11-04 | [Senior Salesforce Developer (Remote) – Remote · Canada / Jobs.ca](https://www.jobs.ca/cloudkettle-inc/jobs/senior-salesforce-developer-remote-remote-canada-93cd61661460) | Unknown | Canada | 8 |
 
 </details>
 
@@ -635,4 +635,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-08T222817Z.md` holds the rows that aged out of the 30-day window on 2026-11-08.
+`README.BAK_2026-11-09T000603Z.md` holds the rows that aged out of the 30-day window on 2026-11-08.
