@@ -4,27 +4,27 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T225052Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T235633Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-09](#current-jobs--as-of-2026-11-09)
-  - [ServiceNow jobs (738)](#servicenow-jobs-738)
-  - [Salesforce jobs (941)](#salesforce-jobs-941)
-  - [Other jobs (3973)](#other-jobs-3973)
+  - [ServiceNow jobs (741)](#servicenow-jobs-741)
+  - [Salesforce jobs (943)](#salesforce-jobs-943)
+  - [Other jobs (3974)](#other-jobs-3974)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-09
 
-Window: 2026-10-10 → 2026-11-09 · **5652 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-10 → 2026-11-09 · **5658 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (738)
+### ServiceNow jobs (741)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 738 postings</strong></summary>
+<details><summary><strong>Show 741 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -271,6 +271,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-04 | [ServiceNow Strategic Portfolio Management (SPM) Consultant](https://ca.linkedin.com/jobs/view/servicenow-strategic-portfolio-management-spm-consultant-at-rsm-canada-4405749125) | RSM Canada | Toronto, Ontario, Canada | via buffy-linkedin60d--2026-11-04--v3.md |
 | 2026-11-04 | [ServiceNow Security Operations (SecOps) Consultant](https://www.jobleads.com/ca/job/servicenow-security-operations-secops-consultant--toronto--e68e01aca8c06bda31573495cb1825be6) | Unknown | Canada | via round11-cached--2026-11-05--v11.md |
 | 2026-11-04 | [ServiceNow Project Manager in Greater Toronto Area, ON - Opensity Solutions](https://ca.trabajo.org/job-5018-a916db0e4ff201dea6718a4c6620d079) | Opensity Solutions | Canada | via round11-cached--2026-11-05--v11.md |
+| 2026-11-04 | [ServiceNow Product and Platform Consultant](https://ca.linkedin.com/jobs/view/servicenow-product-and-platform-consultant-at-yochana-4486546520) | Yochana | Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
 | 2026-11-04 | [ServiceNow Platform Engineer](https://www.adzuna.ca/details/5953185909?utm_medium=api&utm_source=54ce986e) | Amphenol HSIO | Markham, York region | via adzuna-autonomous--2026-11-05--v14.md |
 | 2026-11-04 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-wipro-4486514927) | Wipro | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-04--v17.md |
 | 2026-11-04 | [ServiceNow ITSM Specialist (SACM/ITAM/ITOM) at Manulife in Toronto, Ontario JR23091202](https://www.talentify.io/job/servicenow-itsm-specialist-sacmitamitom-toronto-ontario-manulife-jr23091202) | Manulife in Toronto, Ontario JR23091202 | Canada | via round11-cached--2026-11-05--v11.md |
@@ -349,6 +350,8 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-03 | [ServiceNow CMDB](https://ca.linkedin.com/jobs/view/servicenow-cmdb-at-tata-consultancy-services-4486059065) | Tata Consultancy Services | Montreal, Quebec, Canada | via inbox_opencode-job-hunt-c5--2026-11-09--v1.md |
 | 2026-11-03 | [ServiceNow Business Analyst](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471688008) | lightfeatheriollc | United States | via gx10--2026-11-05--v12.md |
 | 2026-11-03 | [ServiceNow Architect](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471685008) | lightfeatheriollc | United States | via gx10--2026-11-05--v12.md |
+| 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469986334) | Pomerleau | St-Georges, Quebec, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
+| 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469993127) | Pomerleau | Québec, Quebec, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
 | 2026-11-03 | [Service Now ITAM/Discovery](https://www.adzuna.ca/details/5952066568?utm_medium=api&utm_source=54ce986e) | Acestack | Regent Park, City of Toronto | via adzuna-autonomous--2026-11-05--v14.md |
 | 2026-11-03 | [Senior Site Reliability Engineer, Canada Protected B](https://careers.servicenow.com/jobs/744000159518980/senior-site-reliability-engineer-canada-protected-b/) | ServiceNow (corporate) | Canada | via round11-cached--2026-11-05--v11.md |
 | 2026-11-03 | [Senior ServiceNow Solutions Engineer](https://jobs.bmo.com/global/en/job/R260024416/ServiceNow-Developer) | BMO | Toronto, ON | via round11-cached--2026-11-05--v11.md |
@@ -769,14 +772,16 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (941)
+### Salesforce jobs (943)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 941 postings</strong></summary>
+<details><summary><strong>Show 943 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487960730) | Genesys | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487972526) | Genesys | Quebec, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
 | 2026-11-09 | [Sr. Salesforce CRM Development Lead](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163) | McKesson | CAN, ON, Mississauga | via inbox_opencode-job-hunt-final--2026-11-09--v1.md |
 | 2026-11-09 | [Senior Salesforce Solution Architect/Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-solution-architect-developer-at-csa-group-4210626816) | CSA Group | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
 | 2026-11-09 | [Senior Salesforce Solution Architect to lead the solution design and migration from an existing Open CTI implementation to Salesforce Service Cloud Voice integrated with NICE CXone.](https://www.adzuna.ca/details/5959388506?utm_medium=api&utm_source=54ce986e) | S I Systems | Toronto, Ontario | via fresh-ca--2026-11-09--v1.md |
@@ -1721,11 +1726,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (3973)
+### Other jobs (3974)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 3973 postings</strong></summary>
+<details><summary><strong>Show 3974 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -2632,6 +2637,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-04 | [Gestionnaire des opération Marketing](https://www.adzuna.ca/details/5952912896?utm_medium=api&utm_source=54ce986e) | Rogers Communications | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v14.md |
 | 2026-11-04 | [Gestionnaire de compte et de la réussite client](https://ca.linkedin.com/jobs/view/gestionnaire-de-compte-et-de-la-r%C3%A9ussite-client-at-mondata-4475941555) | Mondata | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v2.md |
 | 2026-11-04 | [GardaWorld - French Speaking Senior Business Intelligence Analyst Job Details / GardaWorld](https://jobs.garda.com/job/Toronto-GardaWorld-French-Speaking-Senior-Business-Intelligence-Analyst-Onta/1419808800/) | Unknown | Canada | via round11-cached--2026-11-05--v11.md |
+| 2026-11-04 | [GTM Systems Analyst](https://ca.linkedin.com/jobs/view/gtm-systems-analyst-at-ashby-4469003796) | Ashby | Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
 | 2026-11-04 | [GTM Operations Analyst](https://ca.linkedin.com/jobs/view/gtm-operations-analyst-at-benevity-4486541642) | Benevity | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v1.md |
 | 2026-11-04 | [GTM Operations Analyst](https://ca.linkedin.com/jobs/view/gtm-operations-analyst-at-benevity-4486528999) | Benevity | Vancouver, British Columbia, Canada | via inbox_opencode-job-hunt--2026-11-09--v2.md |
 | 2026-11-04 | [GRO - Data Analyst at Manulife](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/GRO---Data-Analyst_JR26061467) | Data Analyst at Manulife | Canada | via round11-cached--2026-11-05--v11.md |
@@ -5828,4 +5834,4 @@ _Generated by the hourly job scan; verified against the live board before merge.
 
 ## Archive
 
-`README.BAK_2026-11-09T225052Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
+`README.BAK_2026-11-09T235633Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
