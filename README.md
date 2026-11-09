@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T120923Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T130447Z.md`.
 
 ## Contents
 
@@ -1655,7 +1655,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-08 | [Recruiting Coordinator (Contract)](https://www.adzuna.ca/details/5957980515) | Salesforce | Toronto, Ontario |  |
 | 2026-11-08 | [RQ11673 – Report Developer – Junior](https://ca.linkedin.com/jobs/view/rq11673-%E2%80%93-report-developer-%E2%80%93-junior-at-s-m-software-solutions-inc-4488746910) | S M Software Solutions Inc | Toronto, ON | via buffy--2026-11-08--v2.md |
 | 2026-11-08 | [Python Developer](https://www.adzuna.ca/details/5958361789) | Staffingine LLC | Toronto, Ontario | unknown |
-| 2026-11-08 | [Product Owner I - AskHR](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I---AskHR_R_1519634) | TD | Toronto, Ontario, Canada | via hermes-cron--2026-11-09--v2.md · Workday employer board (Big Five bank); ServiceNow AskHR/HRSD product owner role; req R_1519634; $96,900–$136,800 CAD; posted Yesterday (2026-11-08); application end date 2026-11-09 |
+| 2026-11-08 | [Product Owner I - AskHR](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I---AskHR_R_1519634) | TD | Toronto, Ontario, Canada | via hermes-cron--2026-11-09--v2.md · Workday employer board (Big Five bank); ServiceNow AskHR/HRSD product owner role; r |
 | 2026-11-08 | [Principal Solution Architect](https://www.adzuna.ca/details/5958362889) | Legaltech Hub, Inc. | Toronto, Ontario |  |
 | 2026-11-08 | [Manager, Revenue Operations Systems](https://ca.linkedin.com/jobs/view/manager-revenue-operations-systems-at-colab-4463605174) | CoLab | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v1.md |
 | 2026-11-08 | [Intégrateur(trice) de contenu (mandat de 14 mois)](https://ca.linkedin.com/jobs/view/int%C3%A9grateur-trice-de-contenu-mandat-de-14-mois-at-intact-4470367815) | Intact | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v2.md |
@@ -5597,4 +5597,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-09T120923Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
+`README.BAK_2026-11-09T130447Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.

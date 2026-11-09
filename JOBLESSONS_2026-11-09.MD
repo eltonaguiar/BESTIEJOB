@@ -182,3 +182,40 @@ ServiceNow Careers Toronto: Staff Systems Engineer (×2, 2026-11-06), Staff Secu
 - `README.md` — 5,412 live postings (ServiceNow 717, Salesforce 877, Other 3,818); +1 Other row (TD AskHR).
 - `README.BAK_2026-11-09T120923Z.md` — pre-merge backup created by the merger.
 - `public/jobs-data.json` + `public/index.html` — rebuilt with `python3 tools/build_site.py` (4,516 indexed jobs incl. jobs.json union); `pages.yml` redeploys on push to main.
+
+
+## Hourly scan — 2026-11-09 08:00 EST (13:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 08:00 EST (13:00 UTC) |
+| Baseline (README.md tables on main) | 5,412 live postings · ServiceNow 717 · Salesforce 877 · Other 3,818 · window 2026-10-10 → 2026-11-09 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 (hermes-cron Scotiabank rows already merged by the 05:00 EST run; this run's resubmission caught as duplicate by URL) |
+| Jobs rebuilt on GitHub Pages (public/) | 4,512 indexed jobs (servicenow 763, salesforce 802, other 2,947) via `python3 tools/build_site.py`; `pages.yml` redeploys on push to main |
+
+### Candidates reviewed (08:00 run)
+
+- **Automated hourly scan** (`scripts/daily_job_scan.mjs`): 635 fresh postings from SmartRecruiters (ServiceNow), Workday (Salesforce/BMO/TD/Moneris/BDO/others), Greenhouse, Lever, Ashby, LinkedIn guest, RemoteOK/Jobicy/Remotive, Adzuna Canada — after URL dedupe against jobs.json, zero net-new rows passed the freshness gate (all were already in the feed or duplicates).
+- **Liveness gate** (`tools/verify_links.py --days 2`): probed 54 recent rows; 4 dead dropped (BMO via Procom Senior Salesforce Developer; Slalom Enterprise ServiceNow SPM Technical Consultant; Slalom Salesforce Developer Montreal; Koniag Salesforce Developer clearancejobs); 22 unknown (bot-walled) kept.
+- **Gap scan** (`scripts/gap_scan.mjs`): partner career pages (FX Innovation/Ateko, Cofomo, Everforth, Coaxxion, CloudKettle, Lane Four, Crossfuze) — Lane Four has 2 undated Salesforce roles (consultant, administrator) that cannot be merged without a posted date; Adzuna variants +3 new.
+- **Targeted employer checks (per scan scope)**:
+  - **Rogers** (jobs.rogers.com Greenhouse): Technology page shows 21 roles, newest Nov 7, no ServiceNow/Salesforce technical role; Lead Management Operations (Salesforce, req 343961, ~Oct 28) is outside the freshness window. Nothing added.
+  - **Bell** (jobs.bell.ca Phenom): ServiceNow Senior Technical Advisor 432829, ServiceNow System Administrator 432824, ServiceNow Developer/Integrator BECACA431695 all return "has been filled". Filled roles never enter the board.
+  - **Government of Canada** (jobs.gc.ca / canada.ca): zero direct ServiceNow/Salesforce Toronto postings. GC platform work arrives via ServiceNow's Canada Protected B roles (already on the board) and prime vendors.
+- **Partner/Elite Partner check**: Accenture (ServiceNow Technical Architect Toronto, posted 2026-11-06), Deloitte (Senior Consultant ServiceNow Platform Toronto; RTE Toronto; Cyber Sales Executive Toronto), KPMG (multiple ServiceNow consultant roles Toronto/Ottawa/Vancouver/Montreal) — all already on the board via LinkedIn/Workday mirrors dated 2026-11-08; no net-new adds.
+
+### Patterns / lessons (08:00 run)
+
+1. **Zero-fresh runs are the norm late in the monitoring window** — after the 13:02 UTC jobs.json refresh captured 635 fresh postings, the 08:00 EST scan found nothing net-new; all were already mirrored or duplicates.
+2. **Employer career pages confirm filled/stale status reliably** — Rogers' Technology listing (21 roles, date-sorted) and Bell's explicit "has been filled" pages let us retire roles without re-checking each hour.
+3. **Undated postings can't be merged** — Lane Four's Salesforce Consultant and Administrator pages publish no posted date; the merger skips them rather than inventing a date.
+4. **Same role, multiple dated mirrors** — Scotiabank's two Salesforce roles entered via hermes-cron at 05:00 EST (direct jobs.scotiabank.com requisitions with Nov 05/07 dates); the 08:00 run's resubmission was caught as duplicate by URL.
+
+### Files touched (08:00 run)
+
+- `JOBLESSONS_2026-11-09.MD` — this file, 08:00 EST section added.
+- `README.md` — no net-new table rows (counts unchanged: 5,412 live postings); backup reference advanced to `README.BAK_2026-11-09T130447Z.md`.
+- `jobs.json` / `public/*.json` — rewritten by scan + verify + sync (5,030 feed rows; 4 dead dropped, 3 gap-scan adds).
+- `public/jobs-data.json` + `public/index.html` — rebuilt (4,512 indexed jobs); `pages.yml` redeploys on push to main.
+- `dead_urls.txt` — 4 dead URLs appended.

@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T12:19:44+00:00",
+ "generatedAt": "2026-11-09T13:05:22+00:00",
  "timezone": "America/Toronto",
- "count": 4511,
+ "count": 4512,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -643,6 +643,34 @@
      "source": "jobs.ca",
      "url": "https://www.jobs.ca/bdo/jobs/servicenow-senior-developer-remote-canada-c7f8b4fb88b6",
      "label": "jobs.ca · Remote"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Infrastructure Engineer - Salesforce/MuleSoft",
+   "company": "Lumenalta",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-infrastructure-engineer-salesforce-mulesoft-at-lumenalta-4488857438",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 74,
+   "matchReasons": [
+    "Integration",
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior infrastructure engineer - salesforce/mulesoft lumenalta canada linkedin salesforce linkedin integration salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-infrastructure-engineer-salesforce-mulesoft-at-lumenalta-4486172923",
+     "label": "LinkedIn · Canada"
     }
    ]
   },
@@ -2072,6 +2100,27 @@
    ],
    "french": false,
    "search": "salesforce technical architect medicine shoppe canada mississauga, on, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Developer - Health Cloud",
+   "company": "Winobell Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-health-cloud-at-winobell-inc-4199108289",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer - health cloud winobell inc toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -42973,28 +43022,6 @@
    ],
    "french": false,
    "search": "servicenow engineer - secret clearance jobgether us lever servicenow readme servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Infrastructure Engineer - Salesforce/MuleSoft",
-   "company": "Lumenalta",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-infrastructure-engineer-salesforce-mulesoft-at-lumenalta-4486172923",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 74,
-   "matchReasons": [
-    "Integration",
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior infrastructure engineer - salesforce/mulesoft lumenalta canada linkedin salesforce linkedin integration salesforce role fit canada / remote",
    "alternates": []
   },
   {
