@@ -301,3 +301,41 @@ Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.s
 - `README.md` — no changes (zero verified fresh jobs this hour; counts unchanged: 5,413 live postings).
 - `jobs.json` / `public/` — no changes; no rebuild or redeploy required this hour (last deploy from the 09:13 EST scan).
 
+
+## Hourly scan — 2026-11-09 11:00 EST (16:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 11:00 EST (16:00 UTC) |
+| jobs.json baseline on main | 5,037 unique URLs · scrapedAt 2026-11-09T14:13:24Z (09:13 EST) · newThisScan 652 · primaryCounts SN 1,061 / SF 1,026 |
+| Baseline (README.md tables on main) | 5,413 live postings · ServiceNow 718 · Salesforce 877 · Other 3,818 · window 2026-10-10 → 2026-11-09 |
+| GitHub Pages (public/) | 4,512 indexed jobs (servicenow 763, salesforce 802, other 2,947); pages.yml redeploys on push to main |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs rebuilt on GitHub Pages (public/) | 0 (no changes required; board already current this hour) |
+
+### Sources queried
+Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.servicenow.com), Salesforce Careers Canada (careers.salesforce.com), jobs.rogers.com, jobs.bell.ca, jobs.gc.ca; targeted site: queries against myworkdayjobs.com / greenhouse.io / lever.co / ashbyhq.com. Employer/partner checks: Accenture, Deloitte, KPMG, CGI, BDO, Capgemini, TELUS, RBC, Scotiabank, BMO, TD, CIBC, Lane Four, Altus Group.
+
+### Candidates reviewed (disposition)
+- **Scotiabank — ServiceNow Developer, Toronto, req 260518** (jobs.scotiabank.com/job/Toronto-ServiceNow-Developer-ON-M5H-1H1/603030017/): page verified live, but URL already on board in jobs.json and README.md → duplicate, skipped.
+- **Scotiabank — Salesforce Developer, Enterprise Crisis & Business Continuity Management, Toronto, req 269305** (.../604841417/): page returns "currently not accepting any further applicants" → closed/filled; never added. Not on board, and closed so excluded.
+- **ServiceNow Careers Toronto (Nov 05–06)** — Staff Systems Engineer (JB0073788), Staff Security Engineer \| Security Engineering (JB0076454), Senior Staff Security Engineer \| Systems Engineering (JB0076457), Staff Security Engineer \| Enterprise Security (JB0076455), Staff Site Reliability Engineer Canada Protected B (JB0076847), Senior Site Reliability Engineer Canada Protected B (JB0076846): all already on board via careers.servicenow.com / jobs.smartrecruiters.com mirrors → duplicates.
+- **Salesforce Careers Canada** — Manager, Sales Development Canada (jr336458) already on board; remaining Toronto hits are non-SN/SF or lack verifiable posted dates → skipped.
+- **Indeed.ca / LinkedIn.ca ServiceNow/Salesforce Toronto hits** — KPMG (×8), CGI, Lightspeed, BMO SAM Administrator–ITAM, Robert Half, Moneris, Panasonic Canada, Survalent, Altus Group, CloudKettle, SS&C, iVedha, Minto, Atlantic Packaging, Veracity Ventures: aggregator listing pages with no extractable absolute posted date and no resolvable direct posting URL → lead only, not merged (merger requires YYYY-MM-DD + direct employer URL).
+- **Rogers** (jobs.rogers.com Greenhouse, 21 Technology roles, newest Nov 7): no SN/SF technical role; Lead Management Operations (Salesforce, ~Oct 28) outside freshness window → nothing added.
+- **Bell** (jobs.bell.ca Phenom) — ServiceNow System Administrator 432824, Senior Technical Advisor 432829, Developer/Integrator: all return "has been filled" → excluded. Filled roles never enter the board.
+- **jobs.gc.ca / Canada.ca**: zero direct ServiceNow/Salesforce Toronto postings → nothing added.
+
+### Patterns / lessons (11:00 run)
+1. **Zero-fresh runs remain the norm late in the daily window** — the 09:13 EST jobs.json refresh captured 652 postings; every date-verifiable Toronto SN/SF role this hour's searches surfaced is either already on the board or a closed aggregator mirror.
+2. **Page-level verification catches closed roles before merge** — Scotiabank's Salesforce Developer req 269305 looked fresh in the search index, but its own page says "not accepting any further applicants"; house rule (filled/closed never enter the board) held.
+3. **Indeed.ca is a mirror, not a source** — ~14 partner postings carried no extractable posted date and no direct employer URL; the merger's date + direct-URL gate rejected them all, as in prior runs.
+4. **Filled/closed roles stay out and stop being re-checked** — Bell SN/SF roles ("has been filled") and Scotiabank req 269305 are recorded dead in this scan.
+5. **Dedupe baseline ~5,939 normalized URLs** (README.md table URLs + jobs.json URLs; strip query strings and trailing slashes). The same requisition arrives via LinkedIn, adzuna, simplyhired and the employer ATS under different URLs.
+
+### Files touched (11:00 run)
+- `JOBLESSONS_2026-11-09.MD` — this file, 11:00 EST section added; committed to repo root on main.
+- `README.md` — no changes (zero verified fresh jobs; counts unchanged).
+- `jobs.json` / `public/` — no changes; no rebuild or redeploy required this hour.
+
