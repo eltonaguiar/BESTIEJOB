@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-09T18:45:11.775Z",
-    "generatedAt": "2026-11-09T18:45:11.775Z",
-    "total": 5147,
+    "scrapedAt": "2026-11-09T19:00:00Z",
+    "generatedAt": "2026-11-09T19:00:00Z",
+    "total": 5149,
     "newThisScan": 736,
     "retainedFromPrevious": 1531,
     "sources": {
@@ -33,11 +33,59 @@
       "adzuna": 400
     },
     "primaryCounts": {
-      "servicenow": 1061,
+      "servicenow": 1063,
       "salesforce": 1036
     }
   },
   "jobs": [
+    {
+      "id": "kpmg:https://careers.kpmg.ca/jobs/33533?lang=en-us",
+      "source": "kpmg",
+      "company": "KPMG Canada",
+      "title": "Senior Technical Consultant, ServiceNow Developer",
+      "location": "Toronto, Ontario, Canada (multi-location: Toronto, Calgary, Vancouver, Ottawa, Halifax)",
+      "url": "https://careers.kpmg.ca/jobs/33533?lang=en-us",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 77000,
+        "max": 102000,
+        "currency": "CAD",
+        "display": "$77K-$102K"
+      },
+      "postedDate": "2026-11-09",
+      "scrapedAt": "2026-11-09T19:00:00Z",
+      "excerpt": "ServiceNow practice role: build and tailor ServiceNow apps across ITSM, HRSD, ITOM, CSM; Business Rules, Script Includes, UI Policies/Actions, Client Scripts, ACLs; integrations and migrations. 4-6 years ServiceNow experience. Ontario base $77,000-$102,000.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ],
+      "verifiedAt": "2026-11-09T19:00:00Z",
+      "verifyState": "live"
+    },
+    {
+      "id": "kpmg:https://careers.kpmg.ca/jobs/33919?lang=en-us",
+      "source": "kpmg",
+      "company": "KPMG Canada",
+      "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
+      "location": "Toronto, Ontario, Canada (multi-location incl. Montreal, Quebec City, Ottawa)",
+      "url": "https://careers.kpmg.ca/jobs/33919?lang=en-us",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 70000,
+        "max": 102000,
+        "currency": "CAD",
+        "display": "$70K-$102K"
+      },
+      "postedDate": "2026-11-09",
+      "scrapedAt": "2026-11-09T19:00:00Z",
+      "excerpt": "Design, configure and develop ServiceNow solutions incl. IRM & SecOps workflows; 3+ years ServiceNow development, CSA required/preferred. Ontario base $70,000-$102,000.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ],
+      "verifiedAt": "2026-11-09T19:00:00Z",
+      "verifyState": "live"
+    },
     {
       "id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer-sme_rq231819-1",
       "source": "workday",
