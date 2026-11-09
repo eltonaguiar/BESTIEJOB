@@ -1,0 +1,25 @@
+{
+  "generated": "2026-11-09T20:05:49.129361+00:00",
+  "buckets": [
+    "servicenow",
+    "salesforce"
+  ],
+  "keywords": [
+    "servicenow",
+    "salesforce"
+  ],
+  "stats": {
+    "eluta_pages": 4,
+    "jobbank_pages": 7,
+    "requests": 11
+  },
+  "origin_ats": {},
+  "dropped": {
+    "dup_board": 5,
+    "dup_batch": 16,
+    "title": 107,
+    "geo": 0,
+    "dead": 0
+  },
+  "rows": []
+}

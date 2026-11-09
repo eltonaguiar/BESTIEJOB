@@ -1,5 +1,5 @@
 {
- "scannedAt": "2026-11-09T19:24:23+00:00",
+ "scannedAt": "2026-11-09T20:24:50+00:00",
  "fingerprints": [
   {
    "name": "RBC",
@@ -293,7 +293,8 @@
   {
    "name": "Long View Systems",
    "url": "https://www.longviewsystems.com/careers/",
-   "status": 403
+   "status": 200,
+   "lever": "lvs1"
   },
   {
    "name": "Artech",
@@ -372,6 +373,431 @@
    "status": 200
   }
  ],
- "found": [],
+ "found": [
+  {
+   "title": "Product Owner I (US) eGRC AI",
+   "location": "2 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Charlotte-North-Carolina/Product-Owner-I--US--eGRC-AI_R_1495342-1",
+   "posted": "2026-10-29",
+   "company": "TD",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce IT Solutions Design Specialist (US)",
+   "location": "3 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Salesforce-IT-Solutions-Design-Specialist--US-_R_1515965-1",
+   "posted": "2026-11-08",
+   "company": "TD",
+   "route": "workday"
+  },
+  {
+   "title": "Manager III, Regulatory & Policy Governance - TD Asset Management",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Manager-III--Regulatory---Policy-Governance----TD-Asset-Management_R_1519895",
+   "posted": "2026-10-30",
+   "company": "TD",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developers (ServiceNow Architects, ServiceNow SMEs)",
+   "location": "Taguig, Uptown Bonifacio Tower 2, Philippines",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Taguig/ServiceNow-Developers--ServiceNow-Architects--ServiceNow-SMEs-_R00321995",
+   "posted": "2026-10-13",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Semarang, Menara Suara Merdeka, Indonesia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Semarang/DevOps-Engineer_R00358001",
+   "posted": "2026-10-27",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Monterrey, Torres Moradas 2, Mexico",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Monterrey/ServiceNow-Developer_R00357122",
+   "posted": "2026-09-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Architect",
+   "location": "Madrid, Torre Chamartin, Spain",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/ServiceNow-Architect_14885601",
+   "posted": "2026-10-28",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Prague, Visionary Bldg, Czech Republic",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Developer-for-ServiceNow-platform--Prague-Ostrava-_R00233320",
+   "posted": "2026-09-15",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Canberra, Brindabella Business Park, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra-Brindabella-Business-Park/ServiceNow-Developer_13124345",
+   "posted": "2025-03-27",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Melbourne, 161 Collins Street, Level 5, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-Developer_R00267230",
+   "posted": "2025-04-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Architect",
+   "location": "Singapore, Raffles City Tower, Singapore",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/ServiceNow-Architect_R00270339",
+   "posted": "2025-05-21",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Bratislava, BBC 5 Bldg, Slovakia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bratislava/ServiceNow-Developer_R00280816",
+   "posted": "2026-06-05",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer",
+   "location": "Canberra, Brindabella Business Park, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra-Brindabella-Business-Park/ServiceNow-Developer_13594319",
+   "posted": "2026-02-11",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Manager",
+   "location": "Lisbon, Santos 37, Portugal",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon/ServiceNow-Manager_13917986",
+   "posted": "2026-11-02",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Platform Architect",
+   "location": "Stockholm, Alstromergatan 12, Sweden",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/ServiceNow-Platform-Architect_13820887",
+   "posted": "2026-07-17",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer (ArcGIS)",
+   "location": "Singapore, Raffles City Tower, Singapore",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/ServiceNow-Developer--ArcGIS-_14312120",
+   "posted": "2026-04-28",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Solution Architect",
+   "location": "Singapore, Raffles City Tower, Singapore",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/ServiceNow-Solution-Architect_14364541",
+   "posted": "2026-05-22",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Platform Architect",
+   "location": "Vilnius, UNIQ, Lithuania",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Vilnius/ServiceNow-Platform-Architect_R00331910",
+   "posted": "2026-07-07",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow DevOps Engineer",
+   "location": "Oslo, Radhusgata 27, Norway",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Oslo/ServiceNow-DevOps-Engineer_14521038-1",
+   "posted": "2026-10-29",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Senior Developer",
+   "location": "Helsinki, Porkkalankatu 5, Finland",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Helsinki/ServiceNow-Senior-Developer_14579552",
+   "posted": "2026-07-21",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Technical Architect",
+   "location": "Arlington, 1201 Wilson, Corp, United States of America",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Technical-Architect_R00347579",
+   "posted": "2026-10-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Senior ServiceNow Architect",
+   "location": "Brussels, Picard 11, Belgium",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Senior-ServiceNow-Architect_R00345702",
+   "posted": "2026-09-08",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Senior ServiceNow Developer",
+   "location": "Sofia, ESTE Home&amp;Spa Complex, Bulgaria",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sofia/Senior-ServiceNow-Developer_R00356239",
+   "posted": "2026-09-11",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Warsaw, Sienna 39, Poland",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Salesforce-Architect_14405750",
+   "posted": "2026-05-26",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Budapest, Millennium Gardens, Hungary",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Salesforce-Developer_R00341096-1",
+   "posted": "2026-07-06",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Bucharest, Westgate Park - Bldg H1, Romania",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest/Salesforce-Developer_R00359693",
+   "posted": "2026-09-24",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Madrid, Torre Chamartin, Spain",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Torre-Chamartin/Salesforce-Developer_R00358441",
+   "posted": "2026-09-30",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Vilnius, UNIQ, Lithuania",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Vilnius/Salesforce-Architect_R00345638",
+   "posted": "2026-09-30",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Monterrey, Torres Moradas 2, Mexico",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Monterrey/Salesforce-Developer_R00369092",
+   "posted": "2026-11-05",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Buenos Aires, Parque Patricios, Argentina",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Salesforce-Developer_R00000770",
+   "posted": "2025-11-03",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Buenos Aires, Parque Patricios, Argentina",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Salesforce-Technical-Architect_R00188890",
+   "posted": "2026-07-01",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Lisbon, Exeo Lumnia, Portugal",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon/Salesforce-Architect_R00239925",
+   "posted": "2025-10-14",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Singapore, Raffles City Tower, Singapore",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Salesforce-Architect_R00267240",
+   "posted": "2025-04-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer",
+   "location": "Roma, Via Sciangai 53, Italy",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Salesforce-Developer_R00290421",
+   "posted": "2025-11-28",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Architect",
+   "location": "Riga, VEF, Latvia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riga/Salesforce-Architect_R00293811",
+   "posted": "2026-06-11",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Engineer",
+   "location": "Bratislava, BBC 5 Bldg, Slovakia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bratislava/Salesforce-Engineer_R00311665",
+   "posted": "2026-06-25",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer (CPQ)",
+   "location": "Chesterbrook, 955 Chesterbrook Blvd, MS, United States of America",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Salesforce-Developer--CPQ-_R00331987",
+   "posted": "2026-09-28",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Delivery Lead",
+   "location": "Brussels, Picard 11, Belgium",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels-Picard-11/Salesforce-Delivery-Lead_R00336206",
+   "posted": "2026-07-01",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Senior Salesforce Developer",
+   "location": "Budapest, Millennium Gardens, Hungary",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Senior-Salesforce-Developer_R00341091",
+   "posted": "2026-07-06",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Agentforce Architect",
+   "location": "Chesterbrook, 955 Chesterbrook Blvd, MS, United States of America",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Salesforce-Agentforce-Architect_R00343046",
+   "posted": "2026-10-01",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer Sr.",
+   "location": "Monterrey, Torres Moradas 2, Mexico",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Monterrey/Salesforce-Developer-Sr_R00360101",
+   "posted": "2026-10-07",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Salesforce Developer (OmniStudio)",
+   "location": "Madrid, Torre Chamartin, Spain",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Castellana-85/Salesforce-Developer--OmniStudio-_R00363216",
+   "posted": "2026-10-14",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Consultor Funcional Salesforce",
+   "location": "Madrid, Torre Chamartin, Spain",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Torre-Chamartin/Consultor-Funcional-Salesforce_R00364653",
+   "posted": "2026-10-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Arquiteto(a) de ServiceNow - ITSM | ITOM",
+   "location": "Sao Paulo, Torre Paineira, Brazil",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Arquiteto-a--de-Aplicaes-ServiceNow-Snior_R00361127",
+   "posted": "2026-10-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ITSM PMO Support Analyst",
+   "location": "Sydney, International House, 3 Sussex St, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney/ITSM-PMO-Support-Analyst_13594332",
+   "posted": "2025-11-19",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "Service Management Consultant / ITSM Process Specialist",
+   "location": "Melbourne, 161 Collins Street, Level 5, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Service-Management-Consultant---ITSM-Process-Specialist_R00356767",
+   "posted": "2026-09-15",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow ITOM Consultant",
+   "location": "Melbourne, 161 Collins Street, Level 5, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-ITOM-Consultant_R00267231",
+   "posted": "2025-04-23",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "S&C GN - Tech Strategy & Transformation - ITSM - Manager",
+   "location": "Bengaluru, BDC7C, India",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/S-C-GN---Tech-Strategy---TS-OM-Strategy---Consultant_R00311471",
+   "posted": "2026-11-04",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "S&CGN - Tech Strategy & Advisory - ITSM - Manager",
+   "location": "Pune, PDC3B, India",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune-PDC3B/S-CGN---Tech-Strategy---Advisory---ITSM---Manager_R00315550",
+   "posted": "2026-11-04",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "S&C GN - TS&T \u2013 Strategic Technology Effectiveness - ITSM - Manager",
+   "location": "Gurugram, DDC1A, India",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/S-C-GN---TS-T---Strategic-Technology-Effectiveness---ITSM---Manager_R00343380-1",
+   "posted": "2026-10-12",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Technical Architect \u2013 Integrations & ITOM",
+   "location": "Belen, La Ribera, Costa Rica",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/ServiceNow-Technical-Lead--Integrations-and-AIOps_14791418",
+   "posted": "2026-10-21",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Hardware Asset Management (HAM) Consultant",
+   "location": "Sydney, International House, 3 Sussex St, Australia",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/ServiceNow-Hardware-Asset-Management--HAM--Consultant_14379035",
+   "posted": "2026-06-25",
+   "company": "Accenture",
+   "route": "workday"
+  },
+  {
+   "title": "ServiceNow Developer Sr Analyst/ Specialist",
+   "location": "Buenos Aires, Parque Patricios, Argentina",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/ServiceNow-Developer_R00134107",
+   "posted": "2026-10-21",
+   "company": "Accenture",
+   "route": "workday"
+  }
+ ],
  "fresh": []
 }
