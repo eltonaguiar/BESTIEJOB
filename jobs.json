@@ -1,41 +1,8 @@
 {
   "meta": {
-    "keyword": "multi",
-    "keywords": [
-      "servicenow",
-      "salesforce",
-      "vba",
-      "alteryx",
-      "full-stack",
-      "data",
-      "devops",
-      "python",
-      "it-reporting",
-      "itam"
-    ],
-    "location": "Toronto, ON",
-    "dateFilter": "month",
-    "scrapedAt": "2026-11-09T13:13:25.725Z",
-    "generatedAt": "2026-11-09T13:13:25.725Z",
-    "total": 5030,
-    "newThisScan": 636,
-    "retainedFromPrevious": 1613,
-    "sources": {
-      "smartrecruiters": 12,
-      "workday": 15,
-      "greenhouse": 16,
-      "lever": 1,
-      "ashby": 2,
-      "linkedin": 197,
-      "remoteok": 2,
-      "jobicy": 3,
-      "remotive": 4,
-      "adzuna": 384
-    },
-    "primaryCounts": {
-      "servicenow": 1060,
-      "salesforce": 1020
-    }
+    "total": 5045,
+    "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+    "generatedAt": "2026-11-09T13:32:05.485245+00:00"
   },
   "jobs": [
     {
@@ -88926,6 +88893,261 @@
       "workArrangement": "hybrid",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "sf:23d332e22e8870a2",
+      "source": "salesforce-careers",
+      "company": "Salesforce",
+      "title": "Customer Success Manager, MuleSoft - Global Public Sector",
+      "location": "Toronto, ON",
+      "url": "https://ca.indeed.com/cmp/Salesforce/jobs/l-Toronto,-ON",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Salesforce careers Toronto MuleSoft CSM $115.2K-$158.4K",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:ab528cb77aa1ac42",
+      "source": "salesforce-careers",
+      "company": "Salesforce",
+      "title": "Commercial Account Executive - Canada",
+      "location": "Toronto, ON",
+      "url": "https://ca.indeed.com/cmp/Salesforce/jobs/l-Ontario",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Salesforce careers Commercial Account Exec Canada $87.45K-$137.45K",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:ab528cb77aa1ac42",
+      "source": "salesforce-careers",
+      "company": "Salesforce",
+      "title": "Small, Medium and Growth Business - Account Executive - Toronto",
+      "location": "Toronto, ON",
+      "url": "https://ca.indeed.com/cmp/Salesforce/jobs/l-Ontario",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Salesforce careers SMB Account Exec Toronto $54.8K-$104.8K",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:ab528cb77aa1ac42",
+      "source": "salesforce-careers",
+      "company": "Salesforce",
+      "title": "Agentic Data Specialist",
+      "location": "Toronto, ON",
+      "url": "https://ca.indeed.com/cmp/Salesforce/jobs/l-Ontario",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Salesforce careers Agentic Data Specialist Toronto $154.7K-$204.7K",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:76468bd1ad9272a9",
+      "source": "indeed",
+      "company": "PCI Panasonic Canada Inc.",
+      "title": "Salesforce Developer",
+      "location": "Mississauga, ON",
+      "url": "https://ca.indeed.com/q-salesforce-developer-l-ontario-jobs.html",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "PCI Panasonic Salesforce Developer Mississauga $50-$58/hr",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:acc0810be689c235",
+      "source": "indeed",
+      "company": "Applied Systems",
+      "title": "Associate Salesforce Administrator",
+      "location": "Remote, Canada",
+      "url": "https://remotive.com/remote/jobs/all-others/associate-salesforce-administrator-6505648",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Applied Systems Associate Salesforce Admin remote Canada $65K-$80K 0-2 yrs listed Nov 6",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:06aa815da169dbc5",
+      "source": "indeed",
+      "company": "Navada",
+      "title": "Administrateur(trice) Salesforce",
+      "location": "Longueuil, QC",
+      "url": "https://ca.indeed.com/q-salesforce-administrator-junior-jobs.html",
+      "employmentType": "Permanent",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Navada Salesforce Administrator Longueuil QC new permanent",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:64a54197fd9bd0dd",
+      "source": "indeed",
+      "company": "Walter Surface Technologies / Greenfield Industries",
+      "title": "Salesforce Administrator and Developer",
+      "location": "Remote, Canada",
+      "url": "https://ca.jooble.org/jdp/7933441576547045811",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Walter Surface Salesforce Admin & Developer remote 4+ yrs posted 3 days ago",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:854352fe54bf4b44",
+      "source": "indeed",
+      "company": "VO2 Groupe Canada",
+      "title": "Salesforce admin",
+      "location": "Canada",
+      "url": "https://ca.indeed.com/q-salesforce-admin-jobs.html",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "VO2 Groupe Canada Salesforce admin urgently hiring new",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:854352fe54bf4b44",
+      "source": "indeed",
+      "company": "StorageVault",
+      "title": "StorageVault Salesforce admin",
+      "location": "Scarborough, ON",
+      "url": "https://ca.indeed.com/q-salesforce-admin-jobs.html",
+      "employmentType": "Hybrid",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "StorageVault Salesforce admin Scarborough hybrid new",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sn:191ec8598a8ee00d",
+      "source": "cognizant",
+      "company": "Cognizant",
+      "title": "Service Now Developer",
+      "location": "Canada",
+      "url": "https://careers.cognizant.com/ca-en/jobs/00070868112/service-now-developer/",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Cognizant Service Now Developer remote applications till 11/11/2026",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:7c98b5cc08abc999",
+      "source": "indeed",
+      "company": "BMO Financial",
+      "title": "ServiceNow SAM Administrator - ITAM",
+      "location": "Toronto, ON",
+      "url": "https://ca.indeed.com/q-servicenow-developer-l-toronto,-on-jobs.html",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "BMO ServiceNow SAM Administrator ITAM Toronto $55.5K-$120K deadline 11/22",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:2bbeb49b198d38c2",
+      "source": "indeed",
+      "company": "Rexall Pharmacy Group LTD",
+      "title": "ServiceNow Developer",
+      "location": "Mississauga, ON",
+      "url": "https://ca.indeed.com/q-servicenow-developer-jobs.html",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Rexall ServiceNow Developer Mississauga $80K-$100K",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:5f922630ed39b9b9",
+      "source": "indeed",
+      "company": "LTM",
+      "title": "ServiceNow Technical Architect",
+      "location": "Markham, ON",
+      "url": "https://ca.indeed.com/q-llm-infrastructure-engineer-l-remote-jobs.html",
+      "employmentType": "Full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "LTM ServiceNow Technical Architect Markham $120K-$170K",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:2bbeb49b198d38c2",
+      "source": "indeed",
+      "company": "Morson Canada",
+      "title": "ServiceNow Developer",
+      "location": "Canada",
+      "url": "https://ca.indeed.com/q-servicenow-developer-jobs.html",
+      "employmentType": "Contract",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T13:32:05.485245+00:00",
+      "excerpt": "Morson Canada ServiceNow Developer $60-$80/hr contract",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     }
   ]
