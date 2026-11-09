@@ -1,8 +1,6 @@
-# Dead posting URLs the build must not render.
-# Appended by tools/verify_links.py --blocklist on 404/410/451, or by hand when a
-# host bot-walls the prober (jobs.ca is behind Cloudflare, status can't tell).
 https://www.jobs.ca/brookfield-asset-management/jobs/servicenow-developer-contract-role-toronto-on-8b05d6a30bcc
 https://myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b
 https://www.clearancejobs.com/jobs/8760011/salesforce-developer-remote
 https://jobs.slalom.com/de_DE/careersmarketplace/JobDetail?jobId=3893
 https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=3520
+https://jobs.lever.co/jobgether/5a42b2b6-ac2c-4562-9d02-551fc335f12f
