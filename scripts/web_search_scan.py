@@ -153,6 +153,12 @@ DATE_PATTERNS = [
     re.compile(r'"datePosted"\s*:\s*"([^"]{8,40})"'),
     re.compile(r'property=["\']article:published_time["\']\s+content=["\']([^"\']+)'),
     re.compile(r'itemprop=["\']datePosted["\']\s+content=["\']([^"\']+)'),
+    # Visible text on the posting itself (Procom, SmartRecruiters, corporate
+    # career pages): "POSTED 11/4/2026", "Date Posted: 2026-11-04",
+    # "Posted on November 4, 2026". Still the page's own date — never inferred.
+    re.compile(r'(?:date\s+posted|posted\s+on|posted|published)\s*:?\s*(\d{1,2}/\d{1,2}/\d{4})', re.I),
+    re.compile(r'(?:date\s+posted|posted\s+on|posted|published)\s*:?\s*'
+               r'([A-Z][a-z]{2,8}\.?\s+\d{1,2},\s*\d{4})'),
 ]
 
 # ---------------------------------------------------------------------------
@@ -225,10 +231,81 @@ def search_brave(query: str, limit: int) -> list[dict]:
             for r in data.get("web", {}).get("results", [])]
 
 
-# Ordered by observed availability, not preference.  On 2026-11-04 Tavily was
-# HTTP 432 (plan set-usage limit) and Exa HTTP 402 (credits exhausted), so
-# trying them first would burn a run before reaching the provider that answers.
-SEARCHERS = {"firecrawl": search_firecrawl, "tavily": search_tavily, "exa": search_exa, "brave": search_brave}
+def search_parallel(query: str, limit: int) -> list[dict]:
+    key = get_key("PARALLEL_API_KEY")
+    if not key:
+        return []
+    data = _post("https://api.parallel.ai/v1beta/search",
+                 {"objective": query, "search_queries": [query], "max_results": limit},
+                 {"x-api-key": key})
+    out = []
+    for r in data.get("results") or []:
+        excerpts = r.get("excerpts") or []
+        out.append({"title": r.get("title") or "", "url": r.get("url") or "",
+                    "snippet": (excerpts[0] if excerpts else "")[:600],
+                    "source": "parallel"})
+    return out
+
+
+JEV_MODEL = "typesafe/jev-router"
+
+
+def jev_queries(n: int = 8) -> list[str]:
+    """Extra ATS-scoped queries from typesafe/jev-router via OpenRouter.
+
+    Probed live 2026-11-09: jev-router answers on OpenRouter in ~1.6 s; its
+    "ultrafast" siblings are unreachable in this workspace (Venice has no key,
+    aimlapi serves typesafe/jev only from /v1/decisions). The model cannot
+    search by itself, so it may widen the QUERY list only — it never supplies a
+    row, date or URL, and every query it returns must stay `site:`-scoped.
+    """
+    key = get_key("OPENROUTER_API_KEY")
+    if not key:
+        print("[jev] no OPENROUTER_API_KEY — query widening skipped")
+        return []
+    prompt = (
+        "You are helping a Toronto IT job search. Return ONLY a JSON array of "
+        f"{n} web-search query strings, each scoped with site: to a job board or "
+        "ATS host (myworkdayjobs.com, boards.greenhouse.io, jobs.lever.co, "
+        "jobs.ashbyhq.com, jobs.smartrecruiters.com, jobbank.gc.ca, "
+        "torontojobs.ca, charityvillage.com, civicjobs.ca, techjobs.ca). "
+        "Target ServiceNow and Salesforce roles (HRSD, SPM, SecOps, CSM, CMDB, "
+        "ITOM, Now Assist, Agentforce, OmniStudio, Data Cloud, Marketing Cloud, "
+        "Apex, LWC, MuleSoft) in Toronto/Canada. No prose, no explanation."
+    )
+    try:
+        data = _post(
+            "https://openrouter.ai/api/v1/chat/completions",
+            {"model": JEV_MODEL, "max_tokens": 700, "temperature": 0.4,
+             "messages": [{"role": "user", "content": prompt}]},
+            {"Authorization": f"Bearer {key}",
+             "HTTP-Referer": "https://findtorontoevents.ca",
+             "X-Title": "bestiejob-web-search-scan"},
+        )
+    except Exception as exc:  # noqa: BLE001 — query widening must never kill a run
+        print(f"[jev] {type(exc).__name__}: {str(exc)[:120]}")
+        return []
+    text = (((data.get("choices") or [{}])[0].get("message") or {}).get("content") or "")
+    text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
+    try:
+        raw = json.loads(text)
+    except json.JSONDecodeError:
+        raw = re.findall(r'"(site:[^"]+)"', text)
+    out: list[str] = []
+    for q in raw if isinstance(raw, list) else []:
+        q = str(q).strip()
+        if "site:" in q.lower() and 8 < len(q) < 160 and q not in out:
+            out.append(q)
+    print(f"[jev] {len(out)} extra ATS-scoped queries via {JEV_MODEL}")
+    return out[:n]
+
+
+# Ordered by observed availability, not preference.  On 2026-11-09 Parallel was
+# the only search API still answering (Tavily 432 plan cap, Exa 402 credits,
+# Firecrawl 402, Brave 422 invalid token), so it is tried first; the others are
+# kept for when their credits/keys are restored.
+SEARCHERS = {"parallel": search_parallel, "firecrawl": search_firecrawl, "tavily": search_tavily,
+             "exa": search_exa, "brave": search_brave}
 
 
 # ---------------------------------------------------------------------------
@@ -249,7 +326,11 @@ def posted_date(url: str) -> str | None:
             continue
         raw = m.group(1).strip()
         for parse in (lambda s: datetime.fromisoformat(s.replace("Z", "+00:00")),
-                      lambda s: datetime.strptime(s[:10], "%Y-%m-%d")):
+                      lambda s: datetime.strptime(s[:10], "%Y-%m-%d"),
+                      lambda s: datetime.strptime(s, "%m/%d/%Y"),
+                      lambda s: datetime.strptime(s, "%B %d, %Y"),
+                      lambda s: datetime.strptime(s, "%b %d, %Y"),
+                      lambda s: datetime.strptime(s, "%b. %d, %Y")):
             try:
                 d = parse(raw).date()
             except Exception:
@@ -397,20 +478,25 @@ def main() -> int:
     ap.add_argument("--provider", choices=sorted(SEARCHERS), help="single search provider")
     ap.add_argument("--max-queries", type=int, default=len(QUERIES))
     ap.add_argument("--max-fetch", type=int, default=24, help="cap page fetches for dates")
+    ap.add_argument("--use-jev", action="store_true",
+                    help="ask typesafe/jev-router for extra ATS-scoped queries")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     providers = [args.provider] if args.provider else list(SEARCHERS)
-    live = [p for p in providers if get_key({"tavily": "TAVILY_API_KEY",
+    live = [p for p in providers if get_key({"parallel": "PARALLEL_API_KEY",
+                                             "tavily": "TAVILY_API_KEY",
                                              "exa": "EXA_API_KEY",
                                              "firecrawl": "FIRECRAWL_API_KEY",
                                              "brave": "BRAVE_SEARCH_API_KEY"}[p])]
     if not live:
-        print("no search API key found (TAVILY_API_KEY / EXA_API_KEY / FIRECRAWL_API_KEY) "
-              "— web search skipped")
+        print("no search API key found (PARALLEL_API_KEY / TAVILY_API_KEY / EXA_API_KEY / "
+              "FIRECRAWL_API_KEY) — web search skipped")
         return 0
 
     queries = QUERIES[: args.max_queries]
+    if args.use_jev:
+        queries += jev_queries()
     results: list[dict] = []
     for provider in live:
         dead = False
