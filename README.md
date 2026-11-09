@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T100805Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T101424Z.md`.
 
 ## Contents
 
@@ -807,7 +807,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-07 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726) | IKO North America | Mississauga, Ontario, Canada | via fresh scan |
 | 2026-11-07 | [MuleSoft / Salesforce Developer](https://www.ziprecruiter.com/Jobs/Engineering-Tn-Visa) | Georgia IT Inc | Torrance, CA, USA | via fresh scan |
 | 2026-11-07 | [Développeur en automatisation QA Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4454391884) | nesto | Canada | via fresh scan |
-| 2026-11-07 | [DevOps Engineer (Salesforce)](https://jobs.scotiabank.com/job/Toronto-DevOps-Engineer%28Salesforce%29-ON-M5H-1A1/606915617/) | Scotiabank | Toronto, ON | Scotiabank careers (Big Five bank); Salesforce DevOps / CI-CD on the Salesforce Cloud; requisition 276046; date from careers-page listing (Nov 07, 2026) |
+| 2026-11-07 | [DevOps Engineer (Salesforce)](https://jobs.scotiabank.com/job/Toronto-DevOps-Engineer%28Salesforce%29-ON-M5H-1A1/606915617/) | Scotiabank | Toronto, ON | Scotiabank careers (Big Five bank); Salesforce DevOps / CI-CD on the Salesforce Cloud; requisition 276046; date from car |
 | 2026-11-07 | [Business Analyst / Project Manager – Corporate Applications / Salesforce / Workday - FinTech - $120,000-$200,000 CAD + Bonus](https://ca.linkedin.com/jobs/view/business-analyst-project-manager-%E2%80%93-corporate-applications-salesforce-workday-fintech-%24120-000-%24200-000-cad-%2B-bonus-at-hunter-bond-4486669214) | Hunter Bond | Montreal, Quebec, Canada | via fresh scan |
 | 2026-11-07 | [Applied AI Architect (Principal/Lead)](https://www.linkedin.com/jobs/view/applied-ai-architect-principal-lead-at-salesforce-4480586976) | Salesforce | New York, NY | via buffy--2026-11-08--v2.md |
 | 2026-11-07 | [Applied AI Architect (Principal/Lead)](https://www.linkedin.com/jobs/view/applied-ai-architect-principal-lead-at-salesforce-4480804227) | Salesforce | New York, NY | via buffy--2026-11-08--v2.md |
@@ -878,7 +878,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-05 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5954051182?utm_medium=api&utm_source=54ce986e) | CGI | Victoria, Capital | via adzuna-round14--2026-11-06--v1.md |
 | 2026-11-05 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-loopio-4488056674) | Loopio | Toronto, Ontario, Canada | via fresh scan |
 | 2026-11-05 | [Senior Salesforce Administrator](https://jobs.ashbyhq.com/loopio/b8d91233-b646-43f7-941e-ca654b21921e) | Loopio | Toronto, ON Hub | full-time |
-| 2026-11-05 | [Senior Manager, Salesforce Engineering](https://jobs.scotiabank.com/job/Toronto-Senior-Manager%2C-Salesforce-Engineering-ON-M5A-3X5/606845217/) | Scotiabank | Toronto, ON | Scotiabank careers (Big Five bank); Salesforce platform engineering management; requisition 275778; date from careers-page listing (Nov 05, 2026) |
+| 2026-11-05 | [Senior Manager, Salesforce Engineering](https://jobs.scotiabank.com/job/Toronto-Senior-Manager%2C-Salesforce-Engineering-ON-M5A-3X5/606845217/) | Scotiabank | Toronto, ON | Scotiabank careers (Big Five bank); Salesforce platform engineering management; requisition 275778; date from careers-pa |
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4487566818) | PwC Canada | Ottawa, Ontario, Canada | via fresh scan |
 | 2026-11-05 | [Senior Associate, Salesforce Technical Consultant](https://www.eluta.ca/spl/senior-associate-salesforce-technical-consultant-8296dd7beb62d374feaa88863e03173a) | PWC / PricewaterhouseCoopers LLP | Vancouver BC | via canada-index--2026-11-06--v1.md |
 | 2026-11-05 | [Salesforce Trade Promotion Management Solution Architect](https://www.linkedin.com/jobs/view/salesforce-trade-promotion-management-solution-architect-at-pwc-4453666151) | PwC | Florham Park, NJ | via buffy--2026-11-08--v2.md |
@@ -5592,4 +5592,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-09T100805Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
+`README.BAK_2026-11-09T101424Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.

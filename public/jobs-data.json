@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T10:10:01+00:00",
+ "generatedAt": "2026-11-09T10:14:26+00:00",
  "timezone": "America/Toronto",
- "count": 4508,
+ "count": 4503,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -366,6 +366,53 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Consultant, ServiceNow Developer",
+   "company": "KPMG",
+   "location": "Multiple Locations, Canada",
+   "url": "https://careers.kpmg.ca/professionals/jobs/33530?lang=en-us",
+   "note": "kpmg",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.kpmg.ca",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "consultant, servicenow developer kpmg multiple locations, canada careers.kpmg.ca servicenow kpmg servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454532959",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454544021",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527976",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454522999",
+     "label": "LinkedIn · Halifax"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527977",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
    "title": "ServiceNow Senior Developer",
    "company": "BDO Canada",
    "location": "5 Locations",
@@ -394,27 +441,6 @@
      "label": "jobs.ca · Remote"
     }
    ]
-  },
-  {
-   "posted": "2026-11-09",
-   "title": "Senior Salesforce Developer",
-   "company": "Bank of Montreal (via Procom)",
-   "location": "Toronto, ON, Canada",
-   "url": "https://myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "myprocom-portal.procomservices.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer bank of montreal (via procom) toronto, on, canada myprocom-portal.procomservices.com salesforce readme salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -539,6 +565,27 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "CORPORATE APPLICATION TECHNICAL LEADER (Salesforce Developer)",
+   "company": "City of Toronto",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/corporate-application-technical-leader-salesforce-developer-at-city-of-toronto-4206278360",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "corporate application technical leader (salesforce developer) city of toronto toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "SENIOR SYSTEMS INTEGRATOR TECHNOLOGY SERVICES (Salesforce Developer)",
    "company": "City of Toronto",
    "location": "Toronto, Ontario, Canada",
@@ -563,27 +610,6 @@
      "label": "Aggregator · Toronto"
     }
    ]
-  },
-  {
-   "posted": "2026-11-09",
-   "title": "CORPORATE APPLICATION TECHNICAL LEADER (Salesforce Developer)",
-   "company": "City of Toronto",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/corporate-application-technical-leader-salesforce-developer-at-city-of-toronto-4206278360",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "corporate application technical leader (salesforce developer) city of toronto toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -776,28 +802,6 @@
    ],
    "french": false,
    "search": "architecte servicenow itom / itam senior ateko, backed by bell canada quebec, canada linkedin servicenow linkedin servicenow itam itom role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Enterprise - ServiceNow SPM Technical Consultant",
-   "company": "Slalom",
-   "location": "USA",
-   "url": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=3520",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.slalom.com",
-   "verified": "Employer board",
-   "match": 98,
-   "matchReasons": [
-    "ServiceNow",
-    "SPM/PPM",
-    "Consulting/BA",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "enterprise - servicenow spm technical consultant slalom usa jobs.slalom.com servicenow readme servicenow spm/ppm consulting/ba role fit",
    "alternates": []
   },
   {
@@ -1333,53 +1337,6 @@
    "french": false,
    "search": "servicenow developer robotics technologies usa (remote) visasponsor.jobs servicenow visasponsor servicenow role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Consultant, ServiceNow Developer",
-   "company": "KPMG",
-   "location": "Multiple Locations, Canada",
-   "url": "https://careers.kpmg.ca/professionals/jobs/33530?lang=en-us",
-   "note": "kpmg",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.kpmg.ca",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "consultant, servicenow developer kpmg multiple locations, canada careers.kpmg.ca servicenow kpmg servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454544021",
-     "label": "LinkedIn · Vancouver"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527976",
-     "label": "LinkedIn · Calgary"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454522999",
-     "label": "LinkedIn · Halifax"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454532959",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527977",
-     "label": "LinkedIn · Ottawa"
-    }
-   ]
   },
   {
    "posted": "2026-11-08",
@@ -1952,48 +1909,6 @@
   },
   {
    "posted": "2026-11-08",
-   "title": "Salesforce Technical Architect",
-   "company": "Medicine Shoppe Canada",
-   "location": "Mississauga, ON, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/open-source-systems-engineer-at-medicine-shoppe-canada-4170806993",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce technical architect medicine shoppe canada mississauga, on, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Salesforce Developer - Health Cloud",
-   "company": "Winobell Inc",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-health-cloud-at-winobell-inc-4199108289",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer - health cloud winobell inc toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
    "title": "Salesforce Administrator",
    "company": "Benevity",
    "location": "Toronto, Ontario, Canada",
@@ -2095,54 +2010,6 @@
    ],
    "french": false,
    "search": "software engineer (salesforce) ge vernova ist time zone / remote fairygodboss.com salesforce readme salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Salesforce Developer - Montreal",
-   "company": "Slalom",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.slalom.com/de_DE/careersmarketplace/JobDetail?jobId=3893",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.slalom.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer - montreal slalom montreal, qc, canada jobs.slalom.com salesforce readme salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946007473?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Salesforce Developer",
-   "company": "Koniag Management Solutions, LLC",
-   "location": "Remote, USA",
-   "url": "https://www.clearancejobs.com/jobs/8760011/salesforce-developer-remote",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "clearancejobs.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer koniag management solutions, llc remote, usa clearancejobs.com salesforce readme salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -2390,6 +2257,97 @@
    "french": false,
    "search": "staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Staff Security Engineer / Security Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / security engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Staff Security Engineer / Enterprise Security",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160297239",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / enterprise security servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5957952506",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-enterprise-security-at-servicenow-4488440145",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Senior Staff Security Engineer / Systems Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294989",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5957952513",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-staff-security-engineer-systems-engineering-at-servicenow-4488427761",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-08",
@@ -3796,6 +3754,43 @@
   },
   {
    "posted": "2026-11-07",
+   "title": "DevOps Engineer (Salesforce)",
+   "company": "Scotiabank",
+   "location": "Toronto, ON",
+   "url": "https://jobs.scotiabank.com/job/Toronto-DevOps-Engineer%28Salesforce%29-ON-M5H-1A1/606915617/",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.scotiabank.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer (salesforce) scotiabank toronto, on jobs.scotiabank.com salesforce readme salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5955295565",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/devops-engineer-salesforce-at-scotiabank-4476839954",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946006902?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-07",
    "title": "Salesforce Senior Developer",
    "company": "IKO",
    "location": "Mississauga, ON",
@@ -3828,43 +3823,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5945998169?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Mississauga"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "DevOps Engineer (Salesforce)",
-   "company": "Scotiabank",
-   "location": "Toronto, ON",
-   "url": "https://jobs.scotiabank.com/job/Toronto-DevOps-Engineer%28Salesforce%29-ON-M5H-1A1/606915617/",
-   "note": "Scotiabank careers (Big Five bank); Salesforce DevOps / CI-CD on the Salesforce Cloud; requisition 276046; date from car",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.scotiabank.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer (salesforce) scotiabank toronto, on jobs.scotiabank.com salesforce scotiabank careers (big five bank); salesforce devops / ci-cd on the salesforce cloud; requisition 276046; date from car salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955295565",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/devops-engineer-salesforce-at-scotiabank-4476839954",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946006902?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
     }
    ]
   },
@@ -6849,87 +6807,6 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "Staff Security Engineer / Enterprise Security",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160297239",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "staff security engineer / enterprise security servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-enterprise-security-at-servicenow-4488440145",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Staff Security Engineer / Security Engineering",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "staff security engineer / security engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Senior Staff Security Engineer / Systems Engineering",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294989",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-staff-security-engineer-systems-engineering-at-servicenow-4488427761",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
    "title": "Staff Systems Engineer",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca",
@@ -7623,6 +7500,26 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Staff Security Engineer / Security Engineering",
+   "company": "Security Engineering](https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/)",
+   "location": "ServiceNow",
+   "url": "https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.servicenow.com",
+   "verified": "Employer board",
+   "match": 42,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "staff security engineer / security engineering security engineering](https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/) servicenow careers.servicenow.com servicenow readme servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Senior Product Manager - Digital Asset Management",
    "company": "Jobgether",
    "location": "Canada",
@@ -7640,26 +7537,6 @@
    ],
    "french": false,
    "search": "senior product manager - digital asset management jobgether canada adzuna other readme itam role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Staff Security Engineer / Security Engineering",
-   "company": "Security Engineering](https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/)",
-   "location": "ServiceNow",
-   "url": "https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/",
-   "note": "Toronto, ON via ServiceNow Careers (vendor direct); verified live Nov 08 2026",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.servicenow.com",
-   "verified": "Employer board",
-   "match": 42,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "staff security engineer / security engineering security engineering](https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/) servicenow careers.servicenow.com servicenow toronto, on via servicenow careers (vendor direct); verified live nov 08 2026 servicenow role fit",
    "alternates": []
   },
   {
@@ -81674,6 +81551,27 @@
    ],
    "french": false,
    "search": "senior salesforce qm tester acestack regent park, city of toronto adzuna salesforce adzuna salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Salesforce Developer - Montreal",
+   "company": "Slalom Build",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5946007473?utm_medium=api&utm_source=54ce986e",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "salesforce developer - montreal slalom build montreal, quebec adzuna salesforce adzuna salesforce role fit quebec",
    "alternates": []
   },
   {
