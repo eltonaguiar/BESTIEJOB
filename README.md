@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T014601Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T020335Z.md`.
 
 ## Contents
 
@@ -539,6 +539,8 @@ _developer / administrator / architect / consultant roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-09 | [Senior Salesforce Developer](https://myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b) | Bank of Montreal (via Procom) | Toronto, ON, Canada | via kilo3--2026-11-09--v1.md |
+| 2026-11-09 | [Salesforce Developer - Digital Customer - future opportunities](https://ca.talent.com/view?id=643469856704505552) | Deloitte | Toronto, ON, Canada | via kilo3--2026-11-09--v1.md |
 | 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499) | Salesforce | Toronto, Ontario, Canada |  |
 | 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621) | Salesforce | Vancouver, British Columbia, Canada |  |
 | 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621?position=2&pageNum=0&refId=XQw7JoZQ1M5qq%2B0Ye8w5ow%3D%3D&trackingId=18iHaRLO4LA4XdYQncR%2FbA%3D%3D) | Salesforce | Vancouver, British Columbia, Canada | via kilo--2026-11-09--v1.md |
@@ -1037,8 +1039,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-31 | [DevOps Engineer(Salesforce)](https://ca.linkedin.com/jobs/view/devops-engineer-salesforce-at-scotiabank-4476839954) | Scotiabank | Toronto, Ontario, Canada | via copilot-pattern-rounds--2026-11-03--v34.md |
 | 2026-10-31 | [Consultant(e) Salesforce](https://ca.linkedin.com/jobs/view/consultant-e-salesforce-at-devpresso-consulting-inc-4485174334) | Devpresso Consulting Inc | Laval, Quebec, Canada | via buffy-round3--2026-11-02--v100.md |
 | 2026-10-30 | [Staff Software Engineer-Salesforce](https://www.okta.com/company/careers/opportunity/8053763?gh_jid=8053763) | okta | Bengaluru, India | via gx10--2026-11-05--v12.md |
-| 2026-10-30 | [Senior/Lead Salesforce Marketing Cloud Engineer](https://ca.linkedin.com/jobs/view/senior-lead-salesforce-marketing-cloud-engineer-at-diligente-technologies-4477699547) | Diligente Technologies | Mississauga, Ontario, Canada | via buffy-round3--2026-11-02--v100.md |
-| 2026-10-30 | [Senior Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/senior-salesforce-technical-lead-at-arkhya-tech-inc-4485357239) | Arkhya Tech Inc. | Canada | via buffy-round3--2026-11-02--v100.md |
 
 </details>
 
@@ -1685,4 +1685,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-09T014601Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
+`README.BAK_2026-11-09T020335Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
