@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T13:34:49+00:00",
+ "generatedAt": "2026-11-09T14:15:17+00:00",
  "timezone": "America/Toronto",
  "count": 4515,
  "appliedHidden": 40,
@@ -692,6 +692,70 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-infrastructure-engineer-salesforce-mulesoft-at-lumenalta-4486172923",
      "label": "LinkedIn · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Salesforce Developer",
+   "company": "CGI",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4408542861",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer cgi toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4470107427",
+     "label": "LinkedIn · Halifax"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5954051182?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Victoria"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430",
+     "label": "LinkedIn · Victoria"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
+   "company": "Smart IT Frame LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect revenue cloud cpq (rca) smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958362635",
+     "label": "Adzuna · Toronto"
     }
    ]
   },
@@ -1947,33 +2011,6 @@
   },
   {
    "posted": "2026-11-08",
-   "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
-   "company": "Smart IT Frame LLC",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5958362635",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce technical architect revenue cloud cpq (rca) smart it frame llc toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-08",
    "title": "Principal Application Engineer (Salesforce)",
    "company": "PointClickCare",
    "location": "Mississauga, Ontario",
@@ -2213,6 +2250,33 @@
    "french": false,
    "search": "salesforce developer - health cloud winobell inc toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Lead",
+   "company": "OSI Digital",
+   "location": "Toronto, ON; on-site",
+   "url": "https://osidigital.applytojob.com/apply/gv5uSBUcho/Salesforce-Lead",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "osidigital.applytojob.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce lead osi digital toronto, on; on-site osidigital.applytojob.com salesforce readme salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958199294",
+     "label": "Adzuna · Vancouver"
+    }
+   ]
   },
   {
    "posted": "2026-11-08",
@@ -2546,10 +2610,10 @@
   },
   {
    "posted": "2026-11-08",
-   "title": "Staff Security Engineer / Security Engineering",
+   "title": "Senior Staff Security Engineer / Systems Engineering",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294989",
    "note": "smartrecruiters",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
@@ -2562,11 +2626,16 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "staff security engineer / security engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "search": "senior staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
    "alternates": [
     {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5957952513",
+     "label": "Adzuna · Toronto"
+    },
+    {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
+     "url": "https://ca.linkedin.com/jobs/view/senior-staff-security-engineer-systems-engineering-at-servicenow-4488427761",
      "label": "LinkedIn · Toronto"
     }
    ]
@@ -2599,38 +2668,6 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-enterprise-security-at-servicenow-4488440145",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Senior Staff Security Engineer / Systems Engineering",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294989",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5957952513",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-staff-security-engineer-systems-engineering-at-servicenow-4488427761",
      "label": "LinkedIn · Toronto"
     }
    ]
@@ -3006,6 +3043,32 @@
    "french": false,
    "search": "manager, revenue operations systems colab toronto, ontario, canada linkedin other readme role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Full Stack Java Engineer",
+   "company": "Miratech",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5958200298",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "full stack java engineer miratech toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5957374077",
+     "label": "Adzuna · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-08",
@@ -4512,26 +4575,6 @@
    ],
    "french": false,
    "search": "staff site reliability engineer caseware toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "Full Stack Java Engineer",
-   "company": "Miratech Group",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5957374077",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "full stack java engineer miratech group toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -6872,43 +6915,6 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "Senior Salesforce Developer",
-   "company": "CGI",
-   "location": "Halifax, Nova Scotia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4470107427",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior salesforce developer cgi halifax, nova scotia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5954051182?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Victoria"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430",
-     "label": "LinkedIn · Victoria"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4408542861",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
    "title": "Salesforce CPQ Solution Engineer",
    "company": "Infoway Software",
    "location": "Canada",
@@ -7031,6 +7037,33 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300",
      "label": "LinkedIn · Montreal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Staff Security Engineer / Security Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / security engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
+     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -72681,26 +72714,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "Senior Software Engineer (Full-Stack)",
-   "company": "Prophix",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948276872?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior software engineer (full-stack) prophix toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
    "title": "Information Technology_CAN - CAN_Platform Architect",
    "company": "Artech LLC",
    "location": "Toronto, Ontario",
@@ -73061,6 +73074,26 @@
    ],
    "french": false,
    "search": "senior software engineer (golang, microservices, devops) vtrac consulting corporation toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Senior Software Engineer (Full-Stack)",
+   "company": "Prophix",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5948276872",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior software engineer (full-stack) prophix toronto, ontario adzuna other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -97972,27 +98005,6 @@
    ],
    "french": false,
    "search": "salesforce revenue cloud architect job target toronto, on academicjobs.com salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-09",
-   "title": "Salesforce Lead",
-   "company": "OSI Digital",
-   "location": "Toronto, ON; on-site",
-   "url": "https://osidigital.applytojob.com/apply/gv5uSBUcho/Salesforce-Lead",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "osidigital.applytojob.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce lead osi digital toronto, on; on-site osidigital.applytojob.com salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
