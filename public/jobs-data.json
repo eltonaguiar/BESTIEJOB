@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T09:15:40+00:00",
+ "generatedAt": "2026-11-09T09:18:19+00:00",
  "timezone": "America/Toronto",
- "count": 4492,
+ "count": 4493,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -233,7 +233,6 @@
   "rapdev.io",
   "recruit.net",
   "recruiting.ultipro.ca",
-  "remotejobs.place",
   "remoteok.com",
   "remoteotter.com",
   "remoterocketship.com",
@@ -962,6 +961,48 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "ServiceNow Developer",
+   "company": "Lightspeed Commerce",
+   "location": "Toronto, ON",
+   "url": "https://jobs.ashbyhq.com/lightspeedhq/2f5c76b1-7cb0-4449-aa8f-9f32f89385f6/application",
+   "note": "via fresh scan",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Ashby",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer lightspeed commerce toronto, on ashby servicenow via fresh scan servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "remotejobs.place",
+     "url": "https://www.remotejobs.place/job/lightspeed-servicenow-developer-d4deadf1",
+     "label": "remotejobs.place"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4482543161",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466232343",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/servicenow-developer-a88fa9325b8c0596ed6d1824b9a3b6bc",
+     "label": "Eluta · Ottawa ON"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-08",
    "title": "ServiceNow CSM/FSO Technical Consultant",
    "company": "Slalom",
    "location": "USA",
@@ -1021,6 +1062,27 @@
    ],
    "french": false,
    "search": "servicenow developer accion labs remote, canada linkedin servicenow readme servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "ServiceNow Developer",
+   "company": "Jobgether (Partner)",
+   "location": "Remote Canada",
+   "url": "https://jobs.lever.co/jobgether/5a42b2b6-ac2c-4562-9d02-551fc335f12f",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer jobgether (partner) remote canada lever servicenow readme servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -10538,43 +10600,6 @@
    "french": false,
    "search": "servicenow business analyst jobgether us lever servicenow readme servicenow consulting/ba role fit",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "ServiceNow Developer",
-   "company": "Lightspeed",
-   "location": "Remote, Canada",
-   "url": "https://www.remotejobs.place/job/lightspeed-servicenow-developer-d4deadf1",
-   "note": "remotejobs",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "remotejobs.place",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer lightspeed remote, canada remotejobs.place servicenow remotejobs servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4482543161",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466232343",
-     "label": "LinkedIn · Montreal"
-    },
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/servicenow-developer-a88fa9325b8c0596ed6d1824b9a3b6bc",
-     "label": "Eluta · Ottawa ON"
-    }
-   ]
   },
   {
    "posted": "2026-11-05",
