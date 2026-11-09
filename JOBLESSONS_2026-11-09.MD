@@ -434,3 +434,23 @@ Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.s
 
 **Next-cycle suggestions:** search satellite GTA cities (Markham, Mississauga, Vaughan, Etobicoke); jobbank.gc.ca ServiceNow/Salesforce; partner career pages directly (Accenture, Capgemini); retry Indeed via browser with cookies when Cloudflare clears.
 
+
+
+
+## Hermes hourly scan — 2026-11-09 15:00 EST
+
+13 verified fresh Toronto ServiceNow/Salesforce jobs merged (jobs.json 5146 → 5159; README tables ServiceNow 731→739, Salesforce 916→920; public/ rebuilt and live).
+
+**Sources that worked:** employer career boards first — careers.servicenow.com, careers.salesforce.com, jobs.scotiabank.com, careers.ibm.com, careers.deloitte.ca, builtin.com, LinkedIn. Use the employer-board URL as the primary row; aggregator mirrors (Adzuna/Indeed/LinkedIn jobs) lag and duplicate — normalized-URL dedupe catches the repeats.
+
+**Dedupe rule:** strip query string, trailing slash, lowercase before comparing to jobs.json URLs. Skipped 3 already on the board: Accenture R00267230/R00267231, Deloitte 135279 (present under mirror URLs).
+
+**Liveness gate:** only 404/410/451 = dead. careers.servicenow.com returns 405 to HEAD; Salesforce/Accenture/IBM return 403/402 bot-wall — those were kept. Bell.ca ServiceNow postings returned "position filled" (dead). Rogers site-search returned no fresh postings.
+
+**README window:** tables cover the last 30 days. Deloitte Senior Consultant, Salesforce Platform (posted 2026-07-09) went to jobs.json only, not the README tables.
+
+**Government:** jobs.canada.ca site-search returned nothing; public-sector-adjacent hits were ServiceNow Protected B roles and banking (Scotiabank/TD).
+
+**Junior/Platform focus:** Capco and Deloitte postings cite Salesforce Platform Developer I / ADM 201 — keep scanning those boards weekly for entry-level / Platform Admin / Platform Developer I adds.
+
+**Build:** tools/build_site.py regenerates public/jobs-data.json + public/index.html; keep public/jobs.json, public/gotjob/jobs.json, public/findjobs/jobs.json byte-identical to jobs.json.
