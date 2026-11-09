@@ -373,3 +373,44 @@ Hourly ServiceNow / Salesforce job scan for Toronto/GTA/Canada — {NOW.date()}.
 ## Files touched
 jobs.json, public/jobs.json, public/gotjob/jobs.json, public/findjobs/jobs.json, public/jobs-data.json, public/index.html, README.md (DAILY-SCAN block), dead_urls.txt, FRESH_JOBS.md.
 
+## Hourly scan — 2026-11-09 13:00 EST (18:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 13:00 EST (18:00 UTC) |
+| jobs.json baseline | 5,037 unique URLs on HEAD (09:13 EST scan); working tree refreshed by the 12:17 EST automated scan to 5,081 unique URLs (scrapedAt 2026-11-09T17:17:18Z, newThisScan 45, sources: adzuna 27, linkedin 15, workday 2, smartrecruiters 1) |
+| Baseline (README.md tables on main) | "as of 2026-11-09" · window 2026-10-10 → 2026-11-09 · 5,413 live postings (SN 718 · SF 877 · Other 3,818) · deduplicated by URL |
+| GitHub Pages (public/) | rebuilt at 18:06 UTC via `python3 tools/build_site.py`: 4,516 indexed jobs (servicenow 763, salesforce 805, other 2,948) · 684 duplicate mirrors collapsed · 40 applied hidden · newest 2026-11-09 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md tables | 0 |
+| Jobs rebuilt on GitHub Pages (public/) | rebuilt (4,516 jobs); pages.yml redeploys on push to main |
+
+### Sources queried
+Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.servicenow.com), Salesforce Careers Canada (careers.salesforce.com), jobs.rogers.com, jobs.bell.ca, jobs.gc.ca; targeted `site:` queries against myworkdayjobs.com / greenhouse.io / lever.co / ashbyhq.com. Employer / Elite Partner checks: Accenture, Deloitte, KPMG, CGI, Capgemini, BDO, TELUS, RBC, Scotiabank, BMO, TD, CIBC, Lane Four, Altus Group, Fidelity Canada, MSCI.
+
+### Candidates reviewed (disposition)
+- **Scotiabank — ServiceNow Solutions Architect - Platform Integration** (Toronto, hybrid, req 224687; https://jobs.scotiabank.com/job/Toronto-ServiceNow-Solutions-Architect-Platform-Integration-1-ON-T3R0S4/591952717/; LinkedIn mirror 4221477571): employer page returns "We are currently not accepting any further applicants for this role" → closed/filled; never added. URL was not previously on the board (no duplicate), but closed roles never enter the board.
+- **Fidelity Canada — Software Developer (Salesforce)** (Toronto, 100% remote; LinkedIn 4113195999): LinkedIn page is a login wall (HTTP 422); no extractable posted date → undated, cannot merge per house rule. Lead only.
+- **MSCI Inc. — Senior Salesforce Solution Engineer** (Toronto; LinkedIn 4116713739): login wall, no verifiable posted date → lead only.
+- **ServiceNow Careers Toronto** (Staff Systems Engineer / SRE / Security Engineer Canada Protected B, Nov 05–06): already on the board via careers.servicenow.com / jobs.smartrecruiters.com mirrors → duplicates.
+- **Salesforce Careers Canada** — Manager, Sales Development Canada already on the board; remaining Toronto hits non-SN/SF or undated → skipped.
+- **Indeed.ca / LinkedIn.ca ServiceNow/Salesforce Toronto hits** (KPMG ×8, CGI, Lightspeed, BMO SAM Administrator–ITAM, Robert Half, Moneris, Panasonic Canada, Survalent, Altus Group, CloudKettle, SS&C, iVedha, Minto, Atlantic Packaging, Veracity Ventures): aggregator listing pages with no extractable absolute posted date and no resolvable direct posting URL → lead only, not merged.
+- **Rogers** (jobs.rogers.com Greenhouse, 21 Technology roles, newest Nov 7): no SN/SF technical role; Lead Management Operations (Salesforce, ~Oct 28) outside the freshness window → nothing added.
+- **Bell** (jobs.bell.ca Phenom): ServiceNow System Administrator 432824, Senior Technical Advisor 432829, Developer/Integrator → "has been filled"; excluded. Filled roles never enter the board.
+- **jobs.gc.ca / Canada.ca**: zero direct ServiceNow/Salesforce Toronto postings → nothing added.
+- **Partners / Elite Partners** — Accenture ServiceNow Technical Architect Toronto (posted 2026-11-06), Deloitte Senior Consultant ServiceNow Platform Toronto, KPMG ServiceNow consultant roles (Toronto/Ottawa/Vancouver/Montreal), CGI ServiceNow Administrator/Developer — all already on the board via LinkedIn/Workday mirrors dated 2026-11-08/09; no net-new adds.
+
+### Patterns / lessons (13:00 run)
+1. **Zero-fresh runs remain the norm late in the daily window** — the 12:17 EST jobs.json refresh captured 45 postings; every date-verifiable Toronto SN/SF role this hour's searches surfaced is either already on the board, a closed aggregator mirror, or undated.
+2. **Employer-page liveness beats the search index** — Scotiabank's req 224687 looked fresh in search results ("Posted yesterday" via TheLadders) but its own page says "not accepting any further applicants"; the filled/closed rule held before any merge.
+3. **LinkedIn is a login wall (HTTP 422) at extraction time** — posting dates can't be verified from the page; no LinkedIn-sourced role added without a verifiable date (Fidelity, MSCI stayed leads).
+4. **Filled/closed roles stay out and stop being re-checked** — Bell SN/SF roles and Scotiabank req 224687 recorded dead in this scan.
+5. **Dedupe baseline ~5,939 normalized URLs** (README.md table URLs + jobs.json URLs; strip query strings and trailing slashes); the same requisition arrives via LinkedIn, adzuna, simplyhired and the employer ATS under different URLs.
+
+### Files touched (13:00 run)
+- `JOBLESSONS_2026-11-09.MD` — this file, 13:00 EST section added.
+- `README.md` — no net-new table rows (counts unchanged: 5,413 live postings); working tree carries the 12:17 EST automated scan's DAILY-SCAN section (45 fresh postings), committed with this hour's jobs refresh.
+- `jobs.json` — refreshed by the 12:17 EST automated scan to 5,081 unique URLs; committed with this hour's refresh.
+- `public/` (GitHub Pages) — rebuilt with `python3 tools/build_site.py` (4,516 indexed jobs); pages.yml redeploys on push to main.
+- `dead_urls.txt` — unchanged this hour (no new dead URLs confirmed).
+
