@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T05:13:23+00:00",
+ "generatedAt": "2026-11-09T06:27:09+00:00",
  "timezone": "America/Toronto",
  "count": 4507,
  "appliedHidden": 40,
@@ -291,6 +291,33 @@
   "zoominfo.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-09",
+   "title": "ServiceNow Technical Architect",
+   "company": "Accenture",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-accenture-4487675798",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow technical architect accenture toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/accenture",
+     "label": "jobs.ca · Toronto"
+    }
+   ]
+  },
   {
    "posted": "2026-11-09",
    "title": "ServiceNow Developer SME",
@@ -753,27 +780,6 @@
      "label": "Eluta · Ottawa ON"
     }
    ]
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "ServiceNow Technical Architect",
-   "company": "Accenture",
-   "location": "Toronto, ON, Canada",
-   "url": "https://www.jobs.ca/accenture",
-   "note": "accenture",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow technical architect accenture toronto, on, canada jobs.ca servicenow accenture servicenow role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-08",
@@ -42649,58 +42655,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "ServiceNow Platform Specialist",
-   "company": "Alimentiv",
-   "location": "Toronto, Ontario",
-   "url": "https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108",
-   "note": "lever",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow platform specialist alimentiv toronto, ontario lever servicenow lever servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946002922?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Greater Vancouver"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946002886?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · London"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946002306?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946004071?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945477143?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483645453",
-     "label": "LinkedIn · Vancouver"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-02",
    "title": "ServiceNow Consultant",
    "company": "Bull Information Technology and Services",
    "location": "Toronto, Ontario, Canada",
@@ -80205,6 +80159,58 @@
    "french": false,
    "search": "servicenow systems administrator global technical talent, an inc. 5000 company toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "ServiceNow Platform Specialist",
+   "company": "Alimentiv",
+   "location": "Toronto, Ontario",
+   "url": "https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108",
+   "note": "lever",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow platform specialist alimentiv toronto, ontario lever servicenow lever servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946002922?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Greater Vancouver"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946002886?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · London"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946002306?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Montréal"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946004071?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5945477143?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Montréal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483645453",
+     "label": "LinkedIn · Vancouver"
+    }
+   ]
   },
   {
    "posted": "2026-10-29",
