@@ -8,17 +8,17 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Contents
 
-- [Current jobs — as of 2026-11-08](#current-jobs--as-of-2026-11-08)
-  - [ServiceNow jobs (150)](#servicenow-jobs-150)
-  - [Salesforce jobs (150)](#salesforce-jobs-150)
-  - [Other jobs (150)](#other-jobs-150)
+- [Current jobs — as of 2026-11-09](#current-jobs--as-of-2026-11-09)
+  - [ServiceNow jobs (595)](#servicenow-jobs-595)
+  - [Salesforce jobs (535)](#salesforce-jobs-535)
+  - [Other jobs (102)](#other-jobs-102)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-08
+## Current jobs — as of 2026-11-09
 
-Window: 2026-10-09 → 2026-11-08 · **450 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-10 → 2026-11-09 · **1,232 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (595)
 
