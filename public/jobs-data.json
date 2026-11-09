@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T18:47:05+00:00",
+ "generatedAt": "2026-11-09T18:58:47+00:00",
  "timezone": "America/Toronto",
- "count": 4527,
+ "count": 4614,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -691,6 +691,26 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "ServiceNow SME",
+   "company": "LeverageTek Staffing Solutions",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-sme-at-leveragetek-staffing-solutions-4488890203",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow sme leveragetek staffing solutions canada linkedin servicenow readme servicenow canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "ServiceNow Senior Developer",
    "company": "BDO Canada",
    "location": "5 Locations",
@@ -1368,6 +1388,48 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Salesforce Senior Developer",
+   "company": "IKO",
+   "location": "Mississauga, ON",
+   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-12533",
+   "note": "via inbox_opencode-job-hunt-final--2026-11-09--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce senior developer iko mississauga, on workday ats salesforce via inbox_opencode-job-hunt-final--2026-11-09--v1.md salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Workday ATS",
+     "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036",
+     "label": "Workday ATS · Mississauga"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726",
+     "label": "LinkedIn · Mississauga"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399",
+     "label": "LinkedIn · Mississauga"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5945998169?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Customer Success Manager, MuleSoft - Global Public Sector",
    "company": "Salesforce",
    "location": "Toronto, ON",
@@ -1386,6 +1448,27 @@
    ],
    "french": false,
    "search": "customer success manager, mulesoft - global public sector salesforce toronto, on indeed salesforce salesforce-careers integration salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "RevOps Engineer (Revenue Operations) - Salesforce",
+   "company": "Arkhya Tech Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/revops-engineer-revenue-operations-salesforce-at-arkhya-tech-inc-4488887314",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "revops engineer (revenue operations) - salesforce arkhya tech inc. canada linkedin salesforce readme salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -1644,6 +1727,48 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Analyste d’affaires (ITSM & Automatisation)",
+   "company": "CGI",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-itsm-automatisation-at-cgi-4488888878",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 42,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste d’affaires (itsm & automatisation) cgi montreal, quebec, canada linkedin servicenow readme itsm role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Power Platform Consultant",
+   "company": "Apex Systems",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/power-platform-consultant-at-apex-systems-4488894898",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "power platform consultant apex systems toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Software Engineer III (Full Stack/API Integration)",
    "company": "TD Bank Group",
    "location": "Toronto, Ontario",
@@ -1661,6 +1786,48 @@
    ],
    "french": false,
    "search": "software engineer iii (full stack/api integration) td bank group toronto, ontario adzuna other adzuna integration role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Sr. Guidewire PolicyCenter Integration Developer",
+   "company": "Themesoft Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-guidewire-policycenter-integration-developer-at-themesoft-inc-4488872425",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 38,
+   "matchReasons": [
+    "Integration",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. guidewire policycenter integration developer themesoft inc. toronto, ontario, canada linkedin other readme integration role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Guidewire PolicyCenter Integration Developer",
+   "company": "Themesoft Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/guidewire-policycenter-integration-developer-at-themesoft-inc-4488868640",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 38,
+   "matchReasons": [
+    "Integration",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "guidewire policycenter integration developer themesoft inc. toronto, ontario, canada linkedin other readme integration role fit toronto area",
    "alternates": []
   },
   {
@@ -1686,11 +1853,32 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Automation Lead",
+   "company": "Farm Mutual Re",
+   "location": "Cambridge, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/automation-lead-at-farm-mutual-re-4489116276",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 30,
+   "matchReasons": [
+    "Automation",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "automation lead farm mutual re cambridge, ontario, canada linkedin other readme automation role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Senior Business Intelligence Business Analyst",
    "company": "TMX Group",
    "location": "Toronto - 100 Adelaide St W",
    "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Senior-Business-Intelligence-Business-Analyst_R-6055",
-   "note": "via buffy-scan60d--2026-11-04--v4.md",
+   "note": "via buffy-scan60d--2026-11-04--v5.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Workday ATS",
@@ -1702,7 +1890,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior business intelligence business analyst tmx group toronto - 100 adelaide st w workday ats other via buffy-scan60d--2026-11-04--v4.md consulting/ba role fit toronto area",
+   "search": "senior business intelligence business analyst tmx group toronto - 100 adelaide st w workday ats other via buffy-scan60d--2026-11-04--v5.md consulting/ba role fit toronto area",
    "alternates": [
     {
      "source": "LinkedIn",
@@ -1729,6 +1917,88 @@
    ],
    "french": true,
    "search": "administrateur(trice) de base de donnees des elements de configuration (cmdb) n3 commission de la construction du quebec greater montreal metropolitan area linkedin servicenow linkedin cmdb quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Application Support Analyst (AI-Enabled / BA & Development Hybrid)",
+   "company": "BA & Development Hybrid)](https://ca.linkedin.com/jobs/view/application-support-analyst-ai-enabled-ba-development-hybrid-at-societe-generale-4488895878)",
+   "location": "Societe Generale",
+   "url": "https://ca.linkedin.com/jobs/view/application-support-analyst-ai-enabled-ba-development-hybrid-at-societe-generale-4488895878",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 28,
+   "matchReasons": [
+    "IT operations",
+    "Consulting/BA",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "application support analyst (ai-enabled / ba & development hybrid) ba & development hybrid)](https://ca.linkedin.com/jobs/view/application-support-analyst-ai-enabled-ba-development-hybrid-at-societe-generale-4488895878) societe generale linkedin other readme it operations consulting/ba role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Manager, Service Delivery – Western Region",
+   "company": "Intact",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/manager-service-delivery-%E2%80%93-western-region-at-intact-4487934863",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 26,
+   "matchReasons": [
+    "IT operations",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "manager, service delivery – western region intact calgary, alberta, canada linkedin other readme it operations role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Supervisor - IT Operations",
+   "company": "MDA Space",
+   "location": "Brampton, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/supervisor-it-operations-at-mda-space-4487698674",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 22,
+   "matchReasons": [
+    "IT operations",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "supervisor - it operations mda space brampton, ontario, canada linkedin other readme it operations toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "BAS Graphics Designer – Building Automation / EBO (GDBA005)",
+   "company": "Potenco",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/bas-graphics-designer-%E2%80%93-building-automation-ebo-gdba005-at-potenco-4487905757",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 22,
+   "matchReasons": [
+    "Automation",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "bas graphics designer – building automation / ebo (gdba005) potenco greater toronto area, canada linkedin other readme automation toronto area",
    "alternates": []
   },
   {
@@ -1839,6 +2109,512 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Systems Administrator/Operations Support Specialist - Junior",
+   "company": "Joblinxsapp",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/systems-administrator-operations-support-specialist-junior-at-joblinxsapp-4487951044",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "systems administrator/operations support specialist - junior joblinxsapp toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Specialist, Employee Relations",
+   "company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/specialist-employee-relations-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4489100705",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "specialist, employee relations canada mortgage and housing corporation (cmhc) societe canadienne d'hypotheques et de logement(schl) ottawa, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Manager, Sales Enablement and Strategy",
+   "company": "Metergy Solutions",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-manager-sales-enablement-and-strategy-at-metergy-solutions-4488872209",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior manager, sales enablement and strategy metergy solutions toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Safety Specialist (Contract)",
+   "company": "JFE Shoji Power Canada Inc.",
+   "location": "Burlington, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/safety-specialist-contract-at-jfe-shoji-power-canada-inc-4487170180",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "safety specialist (contract) jfe shoji power canada inc. burlington, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Safety Manager Technology",
+   "company": "Rogers Communications",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/safety-manager-technology-at-rogers-communications-4487694604",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "safety manager technology rogers communications toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "RQ11857 – Systems Administrator/Operations Support Specialist – Senior",
+   "company": "S M Software Solutions Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/rq11857-%E2%80%93-systems-administrator-operations-support-specialist-%E2%80%93-senior-at-s-m-software-solutions-inc-4488880053",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "rq11857 – systems administrator/operations support specialist – senior s m software solutions inc toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "RQ11845 – Software Developer – Senior (Onsite)",
+   "company": "S M Software Solutions Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/rq11845-%E2%80%93-software-developer-%E2%80%93-senior-onsite-at-s-m-software-solutions-inc-4488879081",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "rq11845 – software developer – senior (onsite) s m software solutions inc toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Program Lead, Enterprise CRM (Higher Education)",
+   "company": "Fanshawe College",
+   "location": "London, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/program-lead-enterprise-crm-higher-education-at-fanshawe-college-4489110110",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "program lead, enterprise crm (higher education) fanshawe college london, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Mechanical Engineer",
+   "company": "AfterQuery Experts",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mechanical-engineer-at-afterquery-experts-4487128330",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "mechanical engineer afterquery experts toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Manager, Change Enablement",
+   "company": "Manulife",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/manager-change-enablement-at-manulife-4487933550",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "manager, change enablement manulife toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "MHE (MaterialHandling Equipment) Design Engineer & Estimator",
+   "company": "MTLI Group",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mhe-materialhandling-equipment-design-engineer-estimator-at-mtli-group-4487943163",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "mhe (materialhandling equipment) design engineer & estimator mtli group markham, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Information Systems Engineer",
+   "company": "Opendoor",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/information-systems-engineer-at-opendoor-4438290096",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "information systems engineer opendoor toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "IT Specialist",
+   "company": "O'Dell HVAC Group",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-specialist-at-o-dell-hvac-group-4489114496",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "it specialist o'dell hvac group ottawa, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "IT Infrastructure Engineer",
+   "company": "DSEL - David Schaeffer Engineering Ltd.",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-infrastructure-engineer-at-dsel-david-schaeffer-engineering-ltd-4489112379",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "it infrastructure engineer dsel - david schaeffer engineering ltd. markham, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "IT & ERP Systems Administrator",
+   "company": "SkyCan Systems",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-erp-systems-administrator-at-skycan-systems-4489102070",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "it & erp systems administrator skycan systems toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Growth and CRM Analyst",
+   "company": "AppLovin",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/growth-and-crm-analyst-at-applovin-4488825271",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "growth and crm analyst applovin toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Deskside Support Engineer",
+   "company": "Corient",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/deskside-support-engineer-at-corient-4488869896",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "deskside support engineer corient greater toronto area, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Delivery Manager, CRM & Enterprise Applications",
+   "company": "GreenShield",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/delivery-manager-crm-enterprise-applications-at-greenshield-4488894998",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "delivery manager, crm & enterprise applications greenshield greater toronto area, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Cyber Security Analyst",
+   "company": "Creyos",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/cyber-security-analyst-at-creyos-4487172790",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "cyber security analyst creyos toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Customer Support Specialist",
+   "company": "Pontosense",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/customer-support-specialist-at-pontosense-4487916247",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "customer support specialist pontosense toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Business Technology Solutions Manager",
+   "company": "BGIS",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/business-technology-solutions-manager-at-bgis-4487659421",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business technology solutions manager bgis markham, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Bilingual Manager, Cloud Infrastructure (Paas)",
+   "company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/bilingual-manager-cloud-infrastructure-paas-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4401786784",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": true,
+   "search": "bilingual manager, cloud infrastructure (paas) canada mortgage and housing corporation (cmhc) societe canadienne d'hypotheques et de logement(schl) ottawa, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "BIM Quality Specialist Digital Delivery - Rail & Transit",
+   "company": "WSP in Canada",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/bim-quality-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451265764",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "bim quality specialist digital delivery - rail & transit wsp in canada markham, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Architectural Drafter",
+   "company": "InVision Staffing Services Inc.",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/architectural-drafter-at-invision-staffing-services-inc-4487172644",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "architectural drafter invision staffing services inc. mississauga, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Application Specialist",
+   "company": "Bell",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/application-specialist-at-bell-4470646244",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "application specialist bell mississauga, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/application-specialist-at-bell-4470653095",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Senior Site Reliability Engineer",
    "company": "SimCorp",
    "location": "Toronto, Ontario, Canada",
@@ -1856,6 +2632,99 @@
    "french": false,
    "search": "senior site reliability engineer simcorp toronto, ontario, canada linkedin other linkedin role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "2027 Programme des diplômés, Services Technologiques - Livraison, Excellence et Architecture",
+   "company": "Bell",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/2027-programme-des-dipl%C3%B4m%C3%A9s-services-technologiques-livraison-excellence-et-architecture-at-bell-4469262950",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "2027 programme des diplomes, services technologiques - livraison, excellence et architecture bell toronto, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/2027-programme-des-dipl%C3%B4m%C3%A9s-services-technologiques-livraison-excellence-et-architecture-at-bell-4469263720",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Digital Workforce Transformation - UKG Pro Workforce Implementation Senior Consultant",
+   "company": "EY",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-workforce-implementation-senior-consultant-at-ey-4385074909",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "digital workforce transformation - ukg pro workforce implementation senior consultant ey toronto, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-workforce-implementation-senior-consultant-at-ey-4385091285",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-workforce-implementation-senior-consultant-at-ey-4385075922",
+     "label": "LinkedIn · Waterloo"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Digital Workforce Transformation - UKG Pro Implementation Senior Consultant",
+   "company": "EY",
+   "location": "Waterloo, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385099157",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "digital workforce transformation - ukg pro implementation senior consultant ey waterloo, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385092637",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385088812",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -1899,6 +2768,462 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Vectorworks BIM Specialist (Remote)",
+   "company": "Joblet-AI",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/vectorworks-bim-specialist-remote-at-joblet-ai-4487900885",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "vectorworks bim specialist (remote) joblet-ai canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Sr. Technical Architect",
+   "company": "Alquemy Search & Consulting",
+   "location": "Burnaby, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-technical-architect-at-alquemy-search-consulting-4487913741",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "sr. technical architect alquemy search & consulting burnaby, british columbia, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Systems Analyst (Power Platform Developer)",
+   "company": "Government of Newfoundland and Labrador",
+   "location": "St John’s, Newfoundland and Labrador, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-systems-analyst-power-platform-developer-at-government-of-newfoundland-and-labrador-4487907238",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior systems analyst (power platform developer) government of newfoundland and labrador st john’s, newfoundland and labrador, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Architectural Designer",
+   "company": "Worley",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-architectural-designer-at-worley-4484217476",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior architectural designer worley calgary, alberta, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "M365 Developer",
+   "company": "Insight Global",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/m365-developer-at-insight-global-4487928054",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "m365 developer insight global vancouver, british columbia, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Lead Electrical Designer",
+   "company": "Worley",
+   "location": "Edmonton, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/lead-electrical-designer-at-worley-4470979412",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "lead electrical designer worley edmonton, alberta, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Information Technology Field Engineer",
+   "company": "CXC",
+   "location": "Longueuil, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/information-technology-field-engineer-at-cxc-4488857833",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "information technology field engineer cxc longueuil, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "GTM Strategy and Operations Manager",
+   "company": "Mitek Systems",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/gtm-strategy-and-operations-manager-at-mitek-systems-4487164866",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "gtm strategy and operations manager mitek systems canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Full Stack Software Engineer - Associate",
+   "company": "Wiraa",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/full-stack-software-engineer-associate-at-wiraa-4487903499",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "full stack software engineer - associate wiraa canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Enterprise Applications Analyst",
+   "company": "Nureva Inc.",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/enterprise-applications-analyst-at-nureva-inc-4487938469",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "enterprise applications analyst nureva inc. calgary, alberta, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Dynamics CRM Senior Technical Architect",
+   "company": "HCLTech",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/dynamics-crm-senior-technical-architect-at-hcltech-4487949511",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "dynamics crm senior technical architect hcltech montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Data & Triage Analyst",
+   "company": "Epsilon Solutions Ltd.",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/data-triage-analyst-at-epsilon-solutions-ltd-4489111052",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "data & triage analyst epsilon solutions ltd. montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Client Success Manager, Associate",
+   "company": "Morgan Stanley",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/client-success-manager-associate-at-morgan-stanley-4479966116",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "client success manager, associate morgan stanley calgary, alberta, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "COBOL / Production Support Engineer (Deposit Systems)",
+   "company": "Mindtris",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/cobol-production-support-engineer-deposit-systems-at-mindtris-4489106628",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "cobol / production support engineer (deposit systems) mindtris montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Bilingual Operations Manager (EN/FR)",
+   "company": "BGIS",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/bilingual-operations-manager-en-fr-at-bgis-4487927900",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "bilingual operations manager (en/fr) bgis montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "BIM Facilities Specialist, Digital Delivery - Rail & Transit",
+   "company": "WSP in Canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451266860",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "bim facilities specialist, digital delivery - rail & transit wsp in canada vancouver, british columbia, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451262824",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453720592",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451247899",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Analyste, Soutien microinformatique (macOS)",
+   "company": "Dollarama",
+   "location": "Mont-Royal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-soutien-microinformatique-macos-at-dollarama-4462320998",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste, soutien microinformatique (macos) dollarama mont-royal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Analyste technologique (2 emplois disponibles)",
+   "company": "Université de Sherbrooke",
+   "location": "Sherbrooke, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-technologique-2-emplois-disponibles-at-universit%C3%A9-de-sherbrooke-4487171751",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste technologique (2 emplois disponibles) universite de sherbrooke sherbrooke, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Analyste informatique",
+   "company": "Hydro Québec",
+   "location": "Varennes, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-informatique-at-hydro-qu%C3%A9bec-4487674939",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste informatique hydro quebec varennes, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Analyste en sécurité",
+   "company": "COFOMO",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-en-s%C3%A9curit%C3%A9-at-cofomo-4489108756",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste en securite cofomo montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Analyste Programmeur",
+   "company": "Domtar",
+   "location": "St-Félicien, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-programmeur-at-domtar-4488899027",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste programmeur domtar st-felicien, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Analyst, Digital Applications Support – Procurement, Excellence, Assurance and Transformation",
+   "company": "eTeam",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyst-digital-applications-support-%E2%80%93-procurement-excellence-assurance-and-transformation-at-eteam-4487165764",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyst, digital applications support – procurement, excellence, assurance and transformation eteam montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Software Development Lifecycle & DevOps Director",
    "company": "CIBC Mellon",
    "location": "Toronto, Ontario",
@@ -1915,6 +3240,209 @@
    "french": false,
    "search": "software development lifecycle & devops director cibc mellon toronto, ontario adzuna other adzuna toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Site Security Coordinator",
+   "company": "GardaWorld",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/site-security-coordinator-at-gardaworld-4489109078",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "site security coordinator gardaworld toronto, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "RQ11516 – Solutions Designer – Senior (Onsite)",
+   "company": "S M Software Solutions Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/rq11516-%E2%80%93-solutions-designer-%E2%80%93-senior-onsite-at-s-m-software-solutions-inc-4488866714",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "rq11516 – solutions designer – senior (onsite) s m software solutions inc toronto, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Mechanical Designer",
+   "company": "WSP in Canada",
+   "location": "Greater Sudbury, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mechanical-designer-at-wsp-in-canada-4444033176",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "mechanical designer wsp in canada greater sudbury, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Financial Services Risk and Regulatory Advisory, Senior Associate",
+   "company": "PwC Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/financial-services-risk-and-regulatory-advisory-senior-associate-at-pwc-canada-4454563221",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "financial services risk and regulatory advisory, senior associate pwc canada toronto, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Electro-Mechanical Designer",
+   "company": "Gorbel",
+   "location": "Elmira, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/electro-mechanical-designer-at-gorbel-4487946518",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "electro-mechanical designer gorbel elmira, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Director AI Enablement",
+   "company": "Chartwell Retirement Residences",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/director-ai-enablement-at-chartwell-retirement-residences-4488894693",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "director ai enablement chartwell retirement residences mississauga, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Consulting Associate/Recovery Services (Forensic Services practice)",
+   "company": "Charles River Associates",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/consulting-associate-recovery-services-forensic-services-practice-at-charles-river-associates-4453723865",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "consulting associate/recovery services (forensic services practice) charles river associates toronto, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Gestionnaire des opération Marketing",
+   "company": "Rogers Communications",
+   "location": "Kincardine, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487694605",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "gestionnaire des operation marketing rogers communications kincardine, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487698428",
+     "label": "LinkedIn · Orillia"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487688604",
+     "label": "LinkedIn · Québec"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487699436",
+     "label": "LinkedIn · Quebec"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487640573",
+     "label": "LinkedIn · Orangeville"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5952912896?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Director, Office North America Workplace Services",
+   "company": "BMO",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/director-office-north-america-workplace-services-at-bmo-4487225150",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "director, office north america workplace services bmo toronto, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5953554828",
+     "label": "Adzuna · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -1936,6 +3464,277 @@
    "french": false,
    "search": "commercial account executive - canada salesforce toronto, on indeed salesforce salesforce-careers salesforce toronto area weak title match",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Services de Soutien TI (Term)",
+   "company": "MNP",
+   "location": "Rimouski, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/services-de-soutien-ti-term-at-mnp-4487912913",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "services de soutien ti (term) mnp rimouski, quebec, canada linkedin other readme canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/services-de-soutien-ti-at-mnp-4487923801",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior to Principal Electrical Designer",
+   "company": "Worley",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-to-principal-electrical-designer-at-worley-4470985056",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior to principal electrical designer worley vancouver, british columbia, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-to-principal-electrical-designer-at-worley-4470971557",
+     "label": "LinkedIn · Edmonton"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Specialist Data Analytics",
+   "company": "CN",
+   "location": "Greater Vancouver Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/senior-specialist-data-analytics-at-cn-4487943053",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior specialist data analytics cn greater vancouver metropolitan area linkedin other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior HVAC Designer",
+   "company": "Worley",
+   "location": "Edmonton, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-hvac-designer-at-worley-4488404114",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior hvac designer worley edmonton, alberta, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Reality Capture Drafting Technician",
+   "company": "Servant Dunbrack McKenzie & MacDonald (SDMM) Limited",
+   "location": "Halifax, Nova Scotia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/reality-capture-drafting-technician-at-servant-dunbrack-mckenzie-macdonald-sdmm-limited-4489111617",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "reality capture drafting technician servant dunbrack mckenzie & macdonald (sdmm) limited halifax, nova scotia, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Modélisateur",
+   "company": "LAPORTE",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mod%C3%A9lisateur-at-laporte-4483489540",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "modelisateur laporte montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Field Services Engineer",
+   "company": "Cognizant",
+   "location": "Greater Calgary Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/field-services-engineer-at-cognizant-4487667890",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "field services engineer cognizant greater calgary metropolitan area linkedin other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Concepteur(trice) en mécanique du bâtiment",
+   "company": "Ainsworth Inc",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/concepteur-trice-en-m%C3%A9canique-du-b%C3%A2timent-at-ainsworth-inc-4487187426",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "concepteur(trice) en mecanique du batiment ainsworth inc montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Caseworker – Bilingual (English/French) or Unilingual",
+   "company": "Cencora",
+   "location": "Edmonton, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/caseworker-%E2%80%93-bilingual-english-french-or-unilingual-at-cencora-4485870553",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "caseworker – bilingual (english/french) or unilingual cencora edmonton, alberta, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "CONSEILLER EN GOUVERNANCE IA",
+   "company": "Chrome Technologies",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-en-gouvernance-ia-at-chrome-technologies-4487683823",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "conseiller en gouvernance ia chrome technologies montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Analyste Support Applicatif (IA intégrée / Profil hybride Analyse Métier & Développement)",
+   "company": "Profil hybride Analyse Métier & Développement)](https://ca.linkedin.com/jobs/view/analyste-support-applicatif-ia-int%C3%A9gr%C3%A9e-profil-hybride-analyse-m%C3%A9tier-d%C3%A9veloppement-at-societe-generale-4487194150)",
+   "location": "Societe Generale",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-support-applicatif-ia-int%C3%A9gr%C3%A9e-profil-hybride-analyse-m%C3%A9tier-d%C3%A9veloppement-at-societe-generale-4487194150",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "analyste support applicatif (ia integree / profil hybride analyse metier & developpement) profil hybride analyse metier & developpement)](https://ca.linkedin.com/jobs/view/analyste-support-applicatif-ia-int%c3%a9gr%c3%a9e-profil-hybride-analyse-m%c3%a9tier-d%c3%a9veloppement-at-societe-generale-4487194150) societe generale linkedin other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Lead Management Operations",
+   "company": "Rogers Communications",
+   "location": "Greater St. John's Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4487680779",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "lead management operations rogers communications greater st. john's metropolitan area linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4487685726",
+     "label": "LinkedIn · Amherst"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4487688601",
+     "label": "LinkedIn · Repentigny"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4487682751",
+     "label": "LinkedIn · Woodstock"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4487688602",
+     "label": "LinkedIn · Red Deer"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4487689589",
+     "label": "LinkedIn · Cornwall"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4487694606",
+     "label": "LinkedIn · Windsor"
+    }
+   ]
   },
   {
    "posted": "2026-11-08",
@@ -2559,6 +4358,32 @@
    "french": true,
    "search": "conseiller.ere /conseiller.ere principal.e service now kpmg canada montreal, quebec, canada linkedin servicenow linkedin servicenow canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "ServiceNow Administrator & Developer",
+   "company": "Sheridan College",
+   "location": "Oakville, Halton",
+   "url": "https://www.adzuna.ca/details/5957965673?utm_medium=api&utm_source=54ce986e",
+   "note": "via fresh-ca--2026-11-09--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow administrator & developer sheridan college oakville, halton adzuna servicenow via fresh-ca--2026-11-09--v1.md servicenow role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-sheridan-college-4486264240",
+     "label": "LinkedIn · Oakville"
+    }
+   ]
   },
   {
    "posted": "2026-11-08",
@@ -3763,6 +5588,26 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Copilot Platform Administrator",
+   "company": "GHD",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/copilot-platform-administrator-at-ghd-4487670154",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "copilot platform administrator ghd toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
    "title": "Full Stack Java Engineer",
    "company": "Miratech",
    "location": "Toronto, Ontario",
@@ -3869,6 +5714,26 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Senior Healthcare Architectural Technologist",
+   "company": "TalentSphere Staffing Solutions",
+   "location": "New Westminster, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-healthcare-architectural-technologist-at-talentsphere-staffing-solutions-4488805523",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior healthcare architectural technologist talentsphere staffing solutions new westminster, british columbia, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
    "title": "Staff Data Analyst, Marketing",
    "company": "1Password",
    "location": "Canada, USA",
@@ -3929,31 +5794,6 @@
   },
   {
    "posted": "2026-11-08",
-   "title": "Gestionnaire des opération Marketing",
-   "company": "Rogers Communications",
-   "location": "Orangeville, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487640573",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "gestionnaire des operation marketing rogers communications orangeville, ontario, canada linkedin other readme toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5952912896?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-08",
    "title": "Product Owner I - AskHR",
    "company": "TD",
    "location": "Toronto, Ontario, Canada",
@@ -3976,6 +5816,25 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Mechanical Revit/BIM Modeller, Buildings",
+   "company": "WSP in Canada",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mechanical-revit-bim-modeller-buildings-at-wsp-in-canada-4441552932",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "mechanical revit/bim modeller, buildings wsp in canada markham, ontario, canada linkedin other readme toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-08",
@@ -4032,6 +5891,25 @@
    ],
    "french": false,
    "search": "content integrator (14-month contract) intact montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Coach agile d'équipe senior (Jira, Confluence, JSM)",
+   "company": "Pixsenses",
+   "location": "Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/coach-agile-d-%C3%A9quipe-senior-jira-confluence-jsm-at-pixsenses-4487658350",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "coach agile d'equipe senior (jira, confluence, jsm) pixsenses quebec, canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -4877,43 +6755,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946006902?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "Salesforce Senior Developer",
-   "company": "IKO",
-   "location": "Mississauga, ON",
-   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce senior developer iko mississauga, on workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726",
-     "label": "LinkedIn · Mississauga"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399",
-     "label": "LinkedIn · Mississauga"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945998169?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Mississauga"
     }
    ]
   },
@@ -6051,20 +7892,26 @@
    "posted": "2026-11-07",
    "title": "CSM Solution Owner",
    "company": "McKesson",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/csm-solution-owner-at-mckesson-4471620690",
-   "note": "readme",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/CSM-Solution-Owner_JR0153613",
+   "note": "via inbox_opencode-job-hunt-final--2026-11-09--v1.md",
    "family": "other",
    "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "Workday ATS",
+   "verified": "Employer board",
    "match": 12,
    "matchReasons": [
     "Toronto area"
    ],
    "french": false,
-   "search": "csm solution owner mckesson mississauga, ontario, canada linkedin other readme toronto area",
-   "alternates": []
+   "search": "csm solution owner mckesson can, on, mississauga workday ats other via inbox_opencode-job-hunt-final--2026-11-09--v1.md toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/csm-solution-owner-at-mckesson-4471620690",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
   },
   {
    "posted": "2026-11-07",
@@ -6716,27 +8563,6 @@
    ],
    "french": false,
    "search": "servicenow administrator/developer cgi toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "ServiceNow Administrator & Developer",
-   "company": "Sheridan College",
-   "location": "Oakville, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-sheridan-college-4486264240",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow administrator & developer sheridan college oakville, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -8440,13 +10266,7 @@
    ],
    "french": false,
    "search": "incident coordinator scotiabank toronto, ontario adzuna other readme itsm toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/incident-coordinator-at-scotiabank-4486303454",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
+   "alternates": []
   },
   {
    "posted": "2026-11-06",
@@ -10261,7 +12081,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -10272,7 +12092,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "software engineer i, fullstack (search) affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "software engineer i, fullstack (search) affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -10545,6 +12365,11 @@
    "french": false,
    "search": "ccaas solution architect - amazon connect accenture montreal, quebec, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v1.md role fit canada / remote",
    "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-solution-architect-amazon-connect-at-accenture-4486955215",
+     "label": "LinkedIn · Toronto"
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/ccaas-solution-architect-amazon-connect-at-accenture-4445417060",
@@ -12613,6 +14438,11 @@
      "source": "Eluta",
      "url": "https://www.eluta.ca/spl/systems-developer-salesforce-758152a893472c05599a1ed217ff39e5",
      "label": "Eluta · Guelph ON"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-assurance-et-services-financiers-4486061644",
+     "label": "LinkedIn · Toronto"
     },
     {
      "source": "LinkedIn",
@@ -15106,6 +16936,26 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Cybersecurity Controls Testing Analyst, Deloitte Global Technology",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/cybersecurity-controls-testing-analyst-deloitte-global-technology-at-deloitte-4470949409",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "cybersecurity controls testing analyst, deloitte global technology deloitte toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Senior Data Analyst, Live Games",
    "company": "Big Viking Games",
    "location": "Toronto, Ontario",
@@ -15435,6 +17285,11 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-tech-consultant-amazon-connect-at-accenture-4455610284",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/ccaas-tech-consultant-amazon-connect-at-accenture-4455609260",
      "label": "LinkedIn · Calgary"
     },
@@ -15463,26 +17318,6 @@
    ],
    "french": false,
    "search": "application analyst – intermediate swim recruiting edmonton, alberta, canada linkedin other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "2027 Programme des diplômés, Services Technologiques - Livraison, Excellence et Architecture",
-   "company": "Bell",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/2027-programme-des-dipl%C3%B4m%C3%A9s-services-technologiques-livraison-excellence-et-architecture-at-bell-4469263720",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "2027 programme des diplomes, services technologiques - livraison, excellence et architecture bell montreal, quebec, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -15616,13 +17451,7 @@
    ],
    "french": false,
    "search": "senior it systems eng cognichip toronto, ontario adzuna other readme toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-it-systems-eng-at-cognichip-4486486305",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -20507,6 +22336,27 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Intermediate Salesforce Functional Consultant – Sales Cloud & Analytics",
+   "company": "Amyantek",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/intermediate-salesforce-functional-consultant-%E2%80%93-sales-cloud-analytics-at-amyantek-4487270331",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate salesforce functional consultant – sales cloud & analytics amyantek toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Salesforce Functional Analyst (JR26101237)",
    "company": "Manulife",
    "location": "Waterloo, ON / Toronto, ON",
@@ -23457,7 +25307,7 @@
    "company": "TD Bank",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/CRM-Business-Analyst",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Workday ATS",
@@ -23470,7 +25320,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "crm business analyst - td asset management td bank toronto, ontario workday ats other via round11-cached--2026-11-05--v11.md itam consulting/ba role fit toronto area",
+   "search": "crm business analyst - td asset management td bank toronto, ontario workday ats other via round11-cached--2026-11-05--v12.md itam consulting/ba role fit toronto area",
    "alternates": [
     {
      "source": "Workday ATS",
@@ -24948,7 +26798,7 @@
    "company": "Alberta Energy Regulator (AER)",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://ca.linkedin.com/jobs/view/analyst-end-user-services-service-desk-support-at-alberta-energy-regulator-aer-4485521942",
-   "note": "via inbox_opencode-job-hunt--2026-11-09--v2.md",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -24960,7 +26810,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "analyst, end user services & service desk support alberta energy regulator (aer) edmonton, alberta, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v2.md itsm role fit canada / remote",
+   "search": "analyst, end user services & service desk support alberta energy regulator (aer) edmonton, alberta, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md itsm role fit canada / remote",
    "alternates": [
     {
      "source": "LinkedIn",
@@ -27937,32 +29787,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Lead Management Operations",
-   "company": "Rogers Communications",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5952912972",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead management operations rogers communications toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5953557729",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Junior Quality Engineer",
    "company": "Ontario Power Generation",
    "location": "Toronto, ON",
@@ -28470,7 +30294,7 @@
    "company": "TD Bank",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-III_R_1513928-1",
-   "note": "via buffy-scan60d--2026-11-04--v4.md",
+   "note": "via buffy-scan60d--2026-11-04--v5.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Workday ATS",
@@ -28481,7 +30305,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "business systems analyst iii td bank toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v4.md role fit toronto area",
+   "search": "business systems analyst iii td bank toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v5.md role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -28688,6 +30512,46 @@
    ],
    "french": false,
    "search": "1815 - application developer iii amyantek toronto, on linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "People Insights Visier Platform Manager, Deloitte Global People",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/people-insights-visier-platform-manager-deloitte-global-people-at-deloitte-4468166165",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "people insights visier platform manager, deloitte global people deloitte toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Conseiller principal ou conseillère principale/Directeur ou directrice, Architecture à vérification",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-directeur-ou-directrice-architecture-%C3%A0-v%C3%A9rification-at-deloitte-4486547329",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": true,
+   "search": "conseiller principal ou conseillere principale/directeur ou directrice, architecture a verification deloitte toronto, ontario, canada linkedin other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -29920,6 +31784,11 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/forward-deployed-ai-engineer-senior-manager-at-accenture-4486370810",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/forward-deployed-ai-engineer-senior-manager-at-accenture-4486375449",
      "label": "LinkedIn · Toronto"
     }
@@ -30814,7 +32683,7 @@
    "company": "Lightspeed Commerce",
    "location": "Montreal",
    "url": "https://jobs.ashbyhq.com/lightspeedhq/50acfe97-e9f3-4c5a-b507-10d69bd3d621",
-   "note": "via buffy-scan60d--2026-11-04--v4.md",
+   "note": "via buffy-scan60d--2026-11-04--v5.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Ashby",
@@ -30825,7 +32694,7 @@
     "Quebec"
    ],
    "french": false,
-   "search": "lead data analyst, growth marketing lightspeed commerce montreal ashby other via buffy-scan60d--2026-11-04--v4.md role fit quebec",
+   "search": "lead data analyst, growth marketing lightspeed commerce montreal ashby other via buffy-scan60d--2026-11-04--v5.md role fit quebec",
    "alternates": [
     {
      "source": "Ashby",
@@ -30931,25 +32800,6 @@
      "label": "LinkedIn · Alberta"
     }
    ]
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Director, Office North America Workplace Services",
-   "company": "BMO",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5953554828",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "director, office north america workplace services bmo toronto, ontario adzuna other readme toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-04",
@@ -31248,6 +33098,25 @@
    ],
    "french": false,
    "search": "(senior) vice president (m/f/d), index management – equity rebalance solactive ag church and wellesley, city of toronto adzuna other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Deal Desk Coordinator",
+   "company": "Assent",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/deal-desk-coordinator-at-assent-4486506479",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "deal desk coordinator assent ottawa, ontario, canada linkedin other readme toronto area",
    "alternates": []
   },
   {
@@ -39780,7 +41649,7 @@
    "company": "BMO",
    "location": "Toronto, ON, CAN",
    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/T-O-Senior-Data-Analyst---Financial-Data_R260030331",
-   "note": "via buffy-scan60d--2026-11-04--v4.md",
+   "note": "via buffy-scan60d--2026-11-04--v5.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Workday ATS",
@@ -39791,7 +41660,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "t&o senior data analyst,  financial data bmo toronto, on, can workday ats other via buffy-scan60d--2026-11-04--v4.md role fit toronto area",
+   "search": "t&o senior data analyst,  financial data bmo toronto, on, can workday ats other via buffy-scan60d--2026-11-04--v5.md role fit toronto area",
    "alternates": [
     {
      "source": "LinkedIn",
@@ -40113,7 +41982,7 @@
    "company": "Rogers Communications",
    "location": "Brampton, ON",
    "url": "https://ca.linkedin.com/jobs/view/senior-data-analyst-at-rogers-communications-4478845872",
-   "note": "via buffy--2026-11-08--v2.md",
+   "note": "via buffy--2026-11-08--v3.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -40124,7 +41993,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior data analyst rogers communications brampton, on linkedin other via buffy--2026-11-08--v2.md role fit toronto area",
+   "search": "senior data analyst rogers communications brampton, on linkedin other via buffy--2026-11-08--v3.md role fit toronto area",
    "alternates": [
     {
      "source": "LinkedIn",
@@ -42057,7 +43926,7 @@
    "company": "Clio",
    "location": "Burnaby, Greater Vancouver",
    "url": "https://www.adzuna.ca/details/5951979385?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-round9--2026-11-05--v17.md",
+   "note": "via adzuna-round9--2026-11-05--v18.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -42067,7 +43936,7 @@
     "Role fit"
    ],
    "french": false,
-   "search": "senior quote-to-cash systems engineer clio burnaby, greater vancouver adzuna other via adzuna-round9--2026-11-05--v17.md role fit",
+   "search": "senior quote-to-cash systems engineer clio burnaby, greater vancouver adzuna other via adzuna-round9--2026-11-05--v18.md role fit",
    "alternates": [
     {
      "source": "Adzuna",
@@ -42265,7 +44134,7 @@
    "company": "Desjardins",
    "location": "Montréal-Ouest, Quebec, Canada",
    "url": "https://ca.linkedin.com/jobs/view/offensive-and-defensive-security-advisor-at-desjardins-4485018067",
-   "note": "via inbox_opencode-job-hunt--2026-11-09--v2.md",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v3.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -42275,7 +44144,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "offensive and defensive security advisor desjardins montreal-ouest, quebec, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v2.md canada / remote",
+   "search": "offensive and defensive security advisor desjardins montreal-ouest, quebec, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v3.md canada / remote",
    "alternates": [
     {
      "source": "LinkedIn",
@@ -44287,7 +46156,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8045378003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -44299,7 +46168,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior manager, security incident response affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md itsm role fit canada / remote",
+   "search": "senior manager, security incident response affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md itsm role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -44508,7 +46377,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034827003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -44520,7 +46389,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "staff software engineer, frontend (decisions orchestration) affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md flow designer role fit canada / remote",
+   "search": "staff software engineer, frontend (decisions orchestration) affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md flow designer role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -44535,7 +46404,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749582003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -44547,7 +46416,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "staff software engineer (continuous integration) affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md integration role fit canada / remote",
+   "search": "staff software engineer (continuous integration) affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md integration role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -47818,7 +49687,7 @@
    "company": "twilio",
    "location": "Remote - US",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256427",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -47829,7 +49698,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior internal auditor twilio remote - us greenhouse other via round11-cached--2026-11-05--v11.md controls/acl canada / remote",
+   "search": "senior internal auditor twilio remote - us greenhouse other via round11-cached--2026-11-05--v12.md controls/acl canada / remote",
    "alternates": []
   },
   {
@@ -47918,7 +49787,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7822288003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -47929,7 +49798,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "underwriting/credit model risk senior manager - machine learning affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "underwriting/credit model risk senior manager - machine learning affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -48966,7 +50835,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -48977,7 +50846,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "staff software engineer, mobile (app infrastructure) affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "staff software engineer, mobile (app infrastructure) affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -49445,7 +51314,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006359003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -49456,7 +51325,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "staff product manager, credit & pricing affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "staff product manager, credit & pricing affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -50335,7 +52204,7 @@
    "company": "coinbase",
    "location": "Remote - Singapore",
    "url": "https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "coinbase.com",
@@ -50346,7 +52215,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "specialist, market operations coinbase remote - singapore coinbase.com other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "specialist, market operations coinbase remote - singapore coinbase.com other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "coinbase.com",
@@ -51197,7 +53066,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -51208,7 +53077,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "software engineer ii - ciam affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "software engineer ii - ciam affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -51623,7 +53492,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832312003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -51634,7 +53503,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior technical program manager affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior technical program manager affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -51869,7 +53738,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8057950003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -51880,7 +53749,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior staff software engineer, backend (compute platform) affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior staff software engineer, backend (compute platform) affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -53147,7 +55016,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016835003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -53158,7 +55027,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior sales engineer affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior sales engineer affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -53424,7 +55293,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -53435,7 +55304,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior product manager, credit & pricing affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior product manager, credit & pricing affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -55045,7 +56914,7 @@
    "company": "mixpanel",
    "location": "Florida, US (Remote)",
    "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8237751",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -55056,7 +56925,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior customer engineer - latam mixpanel florida, us (remote) greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior customer engineer - latam mixpanel florida, us (remote) greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -55536,7 +57405,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7804955003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -55547,7 +57416,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior analyst affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior analyst affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -56808,7 +58677,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8012916003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -56819,7 +58688,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "platform marketing lead affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "platform marketing lead affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -57060,7 +58929,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8038927003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -57071,7 +58940,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "partner marketing lead affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "partner marketing lead affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -57217,7 +59086,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7860705003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -57228,7 +59097,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "operations enablement lead affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "operations enablement lead affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -57699,7 +59568,7 @@
    "company": "affirm",
    "location": "Remote Poland",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041423003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -57710,7 +59579,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "manager, machine learning engineering, checkout affirm remote poland greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "manager, machine learning engineering, checkout affirm remote poland greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -57987,7 +59856,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7849659003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -57998,7 +59867,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "lead, technical account management (smb merchants) affirm remote canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "lead, technical account management (smb merchants) affirm remote canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -59815,7 +61684,7 @@
    "company": "mixpanel",
    "location": "San Francisco, US (Remote)",
    "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8138187",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -59826,7 +61695,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "customer value architect iii mixpanel san francisco, us (remote) greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "customer value architect iii mixpanel san francisco, us (remote) greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -60987,7 +62856,7 @@
    "company": "gitlab",
    "location": "Remote, United States",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886426002",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -60998,7 +62867,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "staff solutions architect, ai subject matter expert gitlab remote, united states greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "staff solutions architect, ai subject matter expert gitlab remote, united states greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61007,7 +62876,7 @@
    "company": "coinbase",
    "location": "Remote - Israel",
    "url": "https://www.coinbase.com/careers/positions/8021650?gh_jid=8021650",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "coinbase.com",
@@ -61018,7 +62887,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "staff software engineer coinbase remote - israel coinbase.com other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "staff software engineer coinbase remote - israel coinbase.com other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61027,7 +62896,7 @@
    "company": "twilio",
    "location": "Remote - US",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8268235",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -61038,7 +62907,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "staff product manager twilio remote - us greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "staff product manager twilio remote - us greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": [
     {
      "source": "Greenhouse",
@@ -61053,7 +62922,7 @@
    "company": "affirm",
    "location": "Remote Spain",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -61064,7 +62933,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "software engineer i, backend (collections) affirm remote spain greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "software engineer i, backend (collections) affirm remote spain greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61073,7 +62942,7 @@
    "company": "affirm",
    "location": "Remote Poland",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799933003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -61084,7 +62953,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior software engineer, mobile (repayment ux) affirm remote poland greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior software engineer, mobile (repayment ux) affirm remote poland greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61093,7 +62962,7 @@
    "company": "affirm",
    "location": "Remote Spain",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806679003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -61104,7 +62973,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior software engineer, back-end (fraud) affirm remote spain greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior software engineer, back-end (fraud) affirm remote spain greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61113,7 +62982,7 @@
    "company": "coinbase",
    "location": "Remote - USA",
    "url": "https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "coinbase.com",
@@ -61124,7 +62993,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior software engineer - data platform coinbase remote - usa coinbase.com other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior software engineer - data platform coinbase remote - usa coinbase.com other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61133,7 +63002,7 @@
    "company": "affirm",
    "location": "Remote Spain",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -61144,7 +63013,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior manager, software engineering (card) affirm remote spain greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior manager, software engineering (card) affirm remote spain greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61153,7 +63022,7 @@
    "company": "dropbox",
    "location": "Remote - US: Select locations",
    "url": "https://jobs.dropbox.com/listing/8279631?gh_jid=8279631",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "jobs.dropbox.com",
@@ -61164,7 +63033,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior manager, lifecycle marketing dropbox remote - us: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior manager, lifecycle marketing dropbox remote - us: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61173,7 +63042,7 @@
    "company": "dropbox",
    "location": "Remote - Canada: Select locations",
    "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "jobs.dropbox.com",
@@ -61184,7 +63053,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior corporate enterprise platform engineer, windows dropbox remote - canada: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "senior corporate enterprise platform engineer, windows dropbox remote - canada: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61193,7 +63062,7 @@
    "company": "dropbox",
    "location": "Remote - Canada: Select locations",
    "url": "https://jobs.dropbox.com/listing/8261916?gh_jid=8261916",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "jobs.dropbox.com",
@@ -61204,7 +63073,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "principal software engineer, product engineering dropbox remote - canada: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "principal software engineer, product engineering dropbox remote - canada: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61213,7 +63082,7 @@
    "company": "gitlab",
    "location": "Remote, Poland",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -61224,7 +63093,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "intermediate fullstack engineer (ruby/vue.js), growth gitlab remote, poland greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "intermediate fullstack engineer (ruby/vue.js), growth gitlab remote, poland greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61233,7 +63102,7 @@
    "company": "dropbox",
    "location": "Remote - Poland",
    "url": "https://jobs.dropbox.com/listing/6449729?gh_jid=6449729",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "jobs.dropbox.com",
@@ -61244,7 +63113,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "full stack product software engineer dropbox remote - poland jobs.dropbox.com other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "full stack product software engineer dropbox remote - poland jobs.dropbox.com other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61253,7 +63122,7 @@
    "company": "gitlab",
    "location": "Remote, Canada",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922427002",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -61264,7 +63133,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "backend engineer, source code: repository services (ruby) gitlab remote, canada greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "backend engineer, source code: repository services (ruby) gitlab remote, canada greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61273,7 +63142,7 @@
    "company": "gitlab",
    "location": "Remote, United Kingdom",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -61284,7 +63153,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "backend engineer (ruby), plan: spec-driven development gitlab remote, united kingdom greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "backend engineer (ruby), plan: spec-driven development gitlab remote, united kingdom greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61293,7 +63162,7 @@
    "company": "affirm",
    "location": "Remote Poland",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -61304,7 +63173,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "analytics engineer ii, full stack (revenue analytics) affirm remote poland greenhouse other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "analytics engineer ii, full stack (revenue analytics) affirm remote poland greenhouse other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -61313,7 +63182,7 @@
    "company": "coinbase",
    "location": "Remote - USA",
    "url": "https://www.coinbase.com/careers/positions/8093264?gh_jid=8093264",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "coinbase.com",
@@ -61324,7 +63193,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "accounting manager, gl operations & intercompany coinbase remote - usa coinbase.com other via round11-cached--2026-11-05--v11.md role fit canada / remote",
+   "search": "accounting manager, gl operations & intercompany coinbase remote - usa coinbase.com other via round11-cached--2026-11-05--v12.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -63822,7 +65691,7 @@
    "company": "Bulletproof Solutions Inc",
    "location": "Fredericton, York region",
    "url": "https://www.adzuna.ca/details/5950548822?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-05--v14.md",
+   "note": "via adzuna-autonomous--2026-11-05--v15.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -63832,7 +65701,7 @@
     "Role fit"
    ],
    "french": false,
-   "search": "marketing & events manager bulletproof solutions inc fredericton, york region adzuna other via adzuna-autonomous--2026-11-05--v14.md role fit",
+   "search": "marketing & events manager bulletproof solutions inc fredericton, york region adzuna other via adzuna-autonomous--2026-11-05--v15.md role fit",
    "alternates": [
     {
      "source": "Adzuna",
@@ -64556,7 +66425,7 @@
    "company": "datadog",
    "location": "Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Remote",
    "url": "https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "careers.datadoghq.com",
@@ -64566,7 +66435,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "enterprise sales executive (sled) datadog illinois, usa, remote; michigan, usa, remote; texas, usa, remote careers.datadoghq.com other via round11-cached--2026-11-05--v11.md canada / remote",
+   "search": "enterprise sales executive (sled) datadog illinois, usa, remote; michigan, usa, remote; texas, usa, remote careers.datadoghq.com other via round11-cached--2026-11-05--v12.md canada / remote",
    "alternates": [
     {
      "source": "careers.datadoghq.com",
@@ -65043,7 +66912,7 @@
    "company": "jobgether",
    "location": "United Arab Emirates",
    "url": "https://jobs.lever.co/jobgether/9fed6f41-6af6-49d8-8344-4785462d1365",
-   "note": "via gx10--2026-11-05--v12.md",
+   "note": "via gx10--2026-11-05--v13.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Lever",
@@ -65053,7 +66922,7 @@
     "Role fit"
    ],
    "french": false,
-   "search": "devops + go (platform engineer ) jobgether united arab emirates lever other via gx10--2026-11-05--v12.md role fit",
+   "search": "devops + go (platform engineer ) jobgether united arab emirates lever other via gx10--2026-11-05--v13.md role fit",
    "alternates": [
     {
      "source": "Lever",
@@ -65918,7 +67787,7 @@
    "company": "dropbox",
    "location": "Remote - US: Select locations",
    "url": "https://jobs.dropbox.com/listing/8207874?gh_jid=8207874",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "jobs.dropbox.com",
@@ -65928,7 +67797,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior financial planning & analysis partner - product & growth dropbox remote - us: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v11.md canada / remote",
+   "search": "senior financial planning & analysis partner - product & growth dropbox remote - us: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v12.md canada / remote",
    "alternates": []
   },
   {
@@ -65937,7 +67806,7 @@
    "company": "twilio",
    "location": "Remote - Canada",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256423",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -65947,7 +67816,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "people generalist twilio remote - canada greenhouse other via round11-cached--2026-11-05--v11.md canada / remote",
+   "search": "people generalist twilio remote - canada greenhouse other via round11-cached--2026-11-05--v12.md canada / remote",
    "alternates": []
   },
   {
@@ -65956,7 +67825,7 @@
    "company": "dropbox",
    "location": "Remote - US: Select locations",
    "url": "https://jobs.dropbox.com/listing/8249957?gh_jid=8249957",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "jobs.dropbox.com",
@@ -65966,7 +67835,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "integrated campaign strategist dropbox remote - us: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v11.md canada / remote",
+   "search": "integrated campaign strategist dropbox remote - us: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v12.md canada / remote",
    "alternates": []
   },
   {
@@ -66255,7 +68124,7 @@
    "company": "Hire Resolve.com",
    "location": "Vancouver, Greater Vancouver",
    "url": "https://www.adzuna.ca/details/5950546557?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-05--v14.md",
+   "note": "via adzuna-autonomous--2026-11-05--v15.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -66263,7 +68132,7 @@
    "match": 0,
    "matchReasons": [],
    "french": false,
-   "search": "call center & contact center professionals hire resolve.com vancouver, greater vancouver adzuna other via adzuna-autonomous--2026-11-05--v14.md ",
+   "search": "call center & contact center professionals hire resolve.com vancouver, greater vancouver adzuna other via adzuna-autonomous--2026-11-05--v15.md ",
    "alternates": [
     {
      "source": "Adzuna",
@@ -66885,7 +68754,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5948025592",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -67449,7 +69318,7 @@
    "company": "TD Bank",
    "location": "Mississauga, Peel region",
    "url": "https://www.adzuna.ca/details/5948845767?utm_medium=api&utm_source=54ce986e",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -67461,7 +69330,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "oracle / postgresql database administrator td bank mississauga, peel region adzuna other via round11-cached--2026-11-05--v11.md data/reporting role fit toronto area",
+   "search": "oracle / postgresql database administrator td bank mississauga, peel region adzuna other via round11-cached--2026-11-05--v12.md data/reporting role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -67645,7 +69514,7 @@
    "company": "BMO",
    "location": "Toronto, ON, CAN",
    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Business-Analyst--Loan-Servicing-Technology_R260029892",
-   "note": "via buffy-scan60d--2026-11-04--v4.md",
+   "note": "via buffy-scan60d--2026-11-04--v5.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Workday ATS",
@@ -67657,7 +69526,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior business analyst, loan servicing technology bmo toronto, on, can workday ats other via buffy-scan60d--2026-11-04--v4.md consulting/ba role fit toronto area",
+   "search": "senior business analyst, loan servicing technology bmo toronto, on, can workday ats other via buffy-scan60d--2026-11-04--v5.md consulting/ba role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -68553,7 +70422,7 @@
    "company": "Manulife",
    "location": "Waterloo region, Ontario",
    "url": "https://www.adzuna.ca/details/5948845582?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-05--v14.md",
+   "note": "via adzuna-autonomous--2026-11-05--v15.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -68564,7 +70433,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "people services ai solutions & configuration lead manulife waterloo region, ontario adzuna other via adzuna-autonomous--2026-11-05--v14.md role fit toronto area",
+   "search": "people services ai solutions & configuration lead manulife waterloo region, ontario adzuna other via adzuna-autonomous--2026-11-05--v15.md role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -68644,7 +70513,7 @@
    "company": "Manulife",
    "location": "Waterloo region, Ontario",
    "url": "https://www.adzuna.ca/details/5948845653?utm_medium=api&utm_source=54ce986e",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -68655,7 +70524,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "global knowledge , training and development lead manulife waterloo region, ontario adzuna other via round11-cached--2026-11-05--v11.md role fit toronto area",
+   "search": "global knowledge , training and development lead manulife waterloo region, ontario adzuna other via round11-cached--2026-11-05--v12.md role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -70459,7 +72328,7 @@
    "company": "Premium Retail Services",
    "location": "Shelburne, Dufferin region",
    "url": "https://www.adzuna.ca/land/ad/5949327830?se=TsnBUW_W8RGlsqBLt3cZZQ&utm_medium=api&utm_source=54ce986e&v=BCF9A06BCA7A1ECC092EFA083195AED84F353B02",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -70467,7 +72336,7 @@
    "match": 0,
    "matchReasons": [],
    "french": false,
-   "search": "sales and marketing representative - hello fresh premium retail services shelburne, dufferin region adzuna other via round11-cached--2026-11-05--v11.md ",
+   "search": "sales and marketing representative - hello fresh premium retail services shelburne, dufferin region adzuna other via round11-cached--2026-11-05--v12.md ",
    "alternates": [
     {
      "source": "Adzuna",
@@ -72920,7 +74789,7 @@
    "company": "TD Bank",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Audit-Manager---Business-Intelligence---Analytics-_R_1509570",
-   "note": "via buffy-scan60d--2026-11-04--v4.md",
+   "note": "via buffy-scan60d--2026-11-04--v5.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Workday ATS",
@@ -72932,7 +74801,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior audit manager, (business intelligence & analytics) td bank toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v4.md controls/acl role fit toronto area",
+   "search": "senior audit manager, (business intelligence & analytics) td bank toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v5.md controls/acl role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -72952,7 +74821,7 @@
    "company": "TD Bank",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Audit-Manager-II---Business-Intelligence-Engineering-_R_1509564",
-   "note": "via buffy-scan60d--2026-11-04--v4.md",
+   "note": "via buffy-scan60d--2026-11-04--v5.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Workday ATS",
@@ -72964,7 +74833,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "audit manager ii ( business intelligence engineering) td bank toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v4.md controls/acl role fit toronto area",
+   "search": "audit manager ii ( business intelligence engineering) td bank toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v5.md controls/acl role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -73318,7 +75187,7 @@
    "company": "Intact Financial",
    "location": "Rua Açores, City of Toronto",
    "url": "https://www.adzuna.ca/details/5948513116?utm_medium=api&utm_source=54ce986e",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -73329,7 +75198,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "software developer specialist - security product intact financial rua acores, city of toronto adzuna other via round11-cached--2026-11-05--v11.md role fit toronto area",
+   "search": "software developer specialist - security product intact financial rua acores, city of toronto adzuna other via round11-cached--2026-11-05--v12.md role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -74571,7 +76440,7 @@
    "company": "Intact Financial",
    "location": "Rua Açores, City of Toronto",
    "url": "https://www.adzuna.ca/details/5948513122?utm_medium=api&utm_source=54ce986e",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "via round11-cached--2026-11-05--v12.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -74582,7 +76451,7 @@
     "Toronto area"
    ],
    "french": true,
-   "search": "developpeur(euse) logiciel specialiste - produits de securite intact financial rua acores, city of toronto adzuna other via round11-cached--2026-11-05--v11.md role fit toronto area",
+   "search": "developpeur(euse) logiciel specialiste - produits de securite intact financial rua acores, city of toronto adzuna other via round11-cached--2026-11-05--v12.md role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -74783,7 +76652,7 @@
    "company": "Acosta Group",
    "location": "Mississauga, Peel region",
    "url": "https://www.adzuna.ca/details/5947778417?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v56.md",
+   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v57.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -74794,7 +76663,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "client data analyst ii acosta group mississauga, peel region adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v56.md role fit toronto area",
+   "search": "client data analyst ii acosta group mississauga, peel region adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v57.md role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -75958,7 +77827,7 @@
    "company": "City of Hamilton",
    "location": "Hamilton, Hamilton region",
    "url": "https://www.adzuna.ca/details/5947849942?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-05--v14.md",
+   "note": "via adzuna-autonomous--2026-11-05--v15.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -75968,7 +77837,7 @@
     "Role fit"
    ],
    "french": false,
-   "search": "job id 32296: manager, it infrastructure city of hamilton hamilton, hamilton region adzuna other via adzuna-autonomous--2026-11-05--v14.md role fit",
+   "search": "job id 32296: manager, it infrastructure city of hamilton hamilton, hamilton region adzuna other via adzuna-autonomous--2026-11-05--v15.md role fit",
    "alternates": [
     {
      "source": "Adzuna",
@@ -78677,7 +80546,7 @@
    "company": "Adastra Corporation",
    "location": "Thornhill, York region",
    "url": "https://www.adzuna.ca/details/5946521529?utm_medium=api&utm_source=54ce986e",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v56.md",
+   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v57.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -78688,7 +80557,7 @@
     "Role fit"
    ],
    "french": false,
-   "search": "workday integration developer adastra corporation thornhill, york region adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v56.md integration role fit",
+   "search": "workday integration developer adastra corporation thornhill, york region adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v57.md integration role fit",
    "alternates": [
     {
      "source": "Adzuna",
@@ -79917,7 +81786,7 @@
    "company": "Manulife",
    "location": "Waterloo region, Ontario",
    "url": "https://www.adzuna.ca/details/5946658033?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-05--v14.md",
+   "note": "via adzuna-autonomous--2026-11-05--v15.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -79927,7 +81796,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "program and events producer manulife waterloo region, ontario adzuna other via adzuna-autonomous--2026-11-05--v14.md toronto area",
+   "search": "program and events producer manulife waterloo region, ontario adzuna other via adzuna-autonomous--2026-11-05--v15.md toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -84698,7 +86567,7 @@
    "company": "jobgether",
    "location": "Canada",
    "url": "https://jobs.lever.co/jobgether/2cc3270a-ca37-4028-82e7-6846a31e8378",
-   "note": "via gx10--2026-11-05--v12.md",
+   "note": "via gx10--2026-11-05--v13.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Lever",
@@ -84709,7 +86578,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "full stack developer jobgether canada lever other via gx10--2026-11-05--v12.md role fit canada / remote",
+   "search": "full stack developer jobgether canada lever other via gx10--2026-11-05--v13.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -88699,7 +90568,7 @@
    "company": "NeuraFlash",
    "location": "Remote - Canada (AB, BC, ON)",
    "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6228522004",
-   "note": "via freebuff--2026-11-05--v10.md",
+   "note": "via freebuff--2026-11-05--v11.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -88710,7 +90579,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "functional lead, ai & agentforce delivery neuraflash remote - canada (ab, bc, on) greenhouse other via freebuff--2026-11-05--v10.md role fit canada / remote",
+   "search": "functional lead, ai & agentforce delivery neuraflash remote - canada (ab, bc, on) greenhouse other via freebuff--2026-11-05--v11.md role fit canada / remote",
    "alternates": [
     {
      "source": "Adzuna",
@@ -89891,7 +91760,7 @@
    "company": "Varicent",
    "location": "Mississauga, Peel region",
    "url": "https://www.adzuna.ca/details/5942203505?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-05--v14.md",
+   "note": "via adzuna-autonomous--2026-11-05--v15.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -89901,7 +91770,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "director, pricing strategy and operations varicent mississauga, peel region adzuna other via adzuna-autonomous--2026-11-05--v14.md toronto area",
+   "search": "director, pricing strategy and operations varicent mississauga, peel region adzuna other via adzuna-autonomous--2026-11-05--v15.md toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -91988,6 +93857,27 @@
   },
   {
    "posted": "2026-10-23",
+   "title": "Salesforce Alliance Manager",
+   "company": "Plative",
+   "location": "Canada; US",
+   "url": "https://job-boards.greenhouse.io/plative/jobs/4465895009",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce alliance manager plative canada; us greenhouse salesforce readme salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-23",
    "title": "Salesforce Developer",
    "company": "Chapman Tate Associates",
    "location": "British Columbia, Canada",
@@ -92133,6 +94023,25 @@
    ],
    "french": true,
    "search": "developpeur principal salesforce wawanesa mutual insurance company, the winnipeg mb eluta salesforce readme salesforce",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-23",
+   "title": "Salesforce Practice Director / High Tech",
+   "company": "High Tech](https://job-boards.greenhouse.io/plative/jobs/4465533009)",
+   "location": "Plative",
+   "url": "https://job-boards.greenhouse.io/plative/jobs/4465533009",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce"
+   ],
+   "french": false,
+   "search": "salesforce practice director / high tech high tech](https://job-boards.greenhouse.io/plative/jobs/4465533009) plative greenhouse salesforce readme salesforce",
    "alternates": []
   },
   {
@@ -93561,7 +95470,7 @@
    "company": "Manulife",
    "location": "Waterloo region, Ontario",
    "url": "https://www.adzuna.ca/details/5937568592?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-05--v14.md",
+   "note": "via adzuna-autonomous--2026-11-05--v15.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -93572,7 +95481,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "people services ai solutions specialist & test lead manulife waterloo region, ontario adzuna other via adzuna-autonomous--2026-11-05--v14.md role fit toronto area",
+   "search": "people services ai solutions specialist & test lead manulife waterloo region, ontario adzuna other via adzuna-autonomous--2026-11-05--v15.md role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -94834,7 +96743,7 @@
    "company": "OMERS",
    "location": "Toronto, Ontario",
    "url": "https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/job/Toronto-Ontario/Senior-Business-Analyst--Portfolio-Servicing-Platform--12-Month-Contract-_JR-8519",
-   "note": "via buffy-scan60d--2026-11-04--v4.md",
+   "note": "via buffy-scan60d--2026-11-04--v5.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "Workday ATS",
@@ -94846,7 +96755,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior business analyst, portfolio servicing platform (12-month contract) omers toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v4.md consulting/ba role fit toronto area",
+   "search": "senior business analyst, portfolio servicing platform (12-month contract) omers toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v5.md consulting/ba role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -95024,46 +96933,6 @@
    ],
    "french": false,
    "search": "principal consultant, netsuite myers-holum toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-21",
-   "title": "Digital Workforce Transformation - UKG Pro Workforce Implementation Senior Consultant",
-   "company": "EY",
-   "location": "Waterloo, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-workforce-implementation-senior-consultant-at-ey-4385075922",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "digital workforce transformation - ukg pro workforce implementation senior consultant ey waterloo, ontario, canada linkedin other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-21",
-   "title": "Digital Workforce Transformation - UKG Pro Implementation Senior Consultant",
-   "company": "EY",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385088812",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "digital workforce transformation - ukg pro implementation senior consultant ey toronto, ontario, canada linkedin other readme role fit toronto area",
    "alternates": []
   },
   {
