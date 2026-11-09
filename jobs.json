@@ -15,10 +15,10 @@
   ],
   "location": "Toronto, ON",
   "dateFilter": "month",
-  "scrapedAt": "2026-11-09T04:32:58.346Z",
-  "generatedAt": "2026-11-09T04:32:58.346Z",
-  "total": 4995,
-  "newThisScan": 632,
+  "scrapedAt": "2026-11-09T04:35:37.015Z",
+  "generatedAt": "2026-11-09T04:35:37.015Z",
+  "total": 4998,
+  "newThisScan": 635,
   "retainedFromPrevious": 1583,
   "sources": {
    "smartrecruiters": 12,
@@ -33,14 +33,81 @@
    "adzuna": 367,
    "jobs.ca": 2,
    "dice": 2,
-   "jooble": 1
+   "jooble": 1,
+   "servicenow": 3
   },
   "primaryCounts": {
-   "servicenow": 1040,
+   "servicenow": 1043,
    "salesforce": 1006
   }
  },
  "jobs": [
+  {
+   "id": "servicenow:https://careers.servicenow.com/jobs/744000160278249/staff-systems-engineer/",
+   "source": "servicenow",
+   "company": "ServiceNow",
+   "title": "Staff Systems Engineer",
+   "location": "Toronto, ON, Canada (Flexible/Remote)",
+   "url": "https://careers.servicenow.com/jobs/744000160278249/staff-systems-engineer/",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-06T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:35:37.015Z",
+   "excerpt": "Build and manage ServiceNow's Canadian sovereign cloud and globally distributed cloud infrastructure. Code-defined automated solutions using Terraform, Crossplane, Kubernetes, public cloud platforms. Toronto, flexible or remote. Posted Nov 6 2026 (JB0073788).",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow",
+    "canada",
+    "toronto",
+    "remote",
+    "itom",
+    "cloud"
+   ]
+  },
+  {
+   "id": "servicenow:https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/",
+   "source": "servicenow",
+   "company": "ServiceNow",
+   "title": "Staff Security Engineer | Security Engineering",
+   "location": "Toronto, ON, Canada (Flexible/Remote)",
+   "url": "https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-06T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:35:37.015Z",
+   "excerpt": "Enterprise Security organization, Government of Canada Protected B workloads. Canadian citizen/PR required, Reliability Status screening. Toronto, flexible or remote. Posted Nov 6 2026 (JB0076454).",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow",
+    "canada",
+    "toronto",
+    "remote",
+    "security",
+    "grc"
+   ]
+  },
+  {
+   "id": "servicenow:https://careers.servicenow.com/jobs/744000159744779/senior-site-reliability-engineer-canada-protected-b/",
+   "source": "servicenow",
+   "company": "ServiceNow",
+   "title": "Senior Site Reliability Engineer, Canada Protected B",
+   "location": "Toronto, ON, Canada (Flexible/Remote)",
+   "url": "https://careers.servicenow.com/jobs/744000159744779/senior-site-reliability-engineer-canada-protected-b/",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-04T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:35:37.015Z",
+   "excerpt": "Reliability, availability, scalability, security and performance of ServiceNow's Canada Protected B regulated cloud environment. 24x5 shift coverage, on-call rotation, Reliability Status. Toronto, flexible or remote. Posted Nov 4 2026 (JB0076846).",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow",
+    "canada",
+    "toronto",
+    "remote",
+    "sre",
+    "cloud"
+   ]
+  },
   {
    "id": "jobs.ca:https://www.jobs.ca/deloitte/jobs/senior-manager-servicenow-operate-toronto-on-3d8d5315c9d2",
    "source": "jobs.ca",
