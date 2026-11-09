@@ -50,7 +50,7 @@ _REFERRAL_PATH = re.compile(
     r"employee_referral|internal-referral|internal_referral|referral-program)"
     r"(?:/|$|\?)", re.I)
 _REFERRAL_FIELD = re.compile(
-    r"referr|referral|ref_code|refcode|referred_by|referrer_name|how_did_you_hear",
+    r"(?:^|[_.\- ])referr(?:al|er|ed)?(?:[_.\- ]|[A-Z]|$)|referral|ref_code|refcode|referred_by|referrer_name|how_did_you_hear",
     re.I)
 
 

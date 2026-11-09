@@ -1,251 +1,559 @@
 {
-  "scanned_at": "2026-11-08",
-  "stats": {
-    "checked": 50,
-    "ok": 47,
-    "hits": 15,
-    "errors": 3
+ "generated_at": "2026-11-08T11:20:06.993031+00:00",
+ "results": [
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499",
+   "company": "Salesforce",
+   "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
+   "url": "https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
   },
-  "results": [
-    {
-      "title": "ServiceNow Sr. Principal Security, Risk, and OT Solution Architect",
-      "company": "ServiceNow",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000145565058-sr-principal-security-risk-and-ot-solution-architect",
-      "source": "smartrecruiters",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "icenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"> Learn more here . To determine eligibility for a work persona, ServiceNow may confirm th"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "f0f9f2e8efefdceff9eeeaf5fff9f2f3ebb2fff3f1\" rel=\"noopener noreferrer\"><span class=\"__cf_email__\" data-cfemail=\"89eee5e6ebe8e5fde8e5ece7fdfafac9faecfbffe0eaece7e6fea7eae"
-        }
-      ]
-    },
-    {
-      "title": "ServiceNow Senior Engineering Manager, Agentic & Generative AI Benchmarking and Evaluations",
-      "company": "ServiceNow Careers",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000137502479-senior-engineering-manager-agentic-generative-ai-benchmarking-and-evaluations",
-      "source": "smartrecruiters",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ai-agenticai-assessment-scheduled-job.html\" rel=\"noopener noreferrer\" target=\"_blank\">Now Assist agentic workflows across multi-step orchestration, tool-calling, an"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "icenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"> Learn more here . To determine eligibility for a work persona, ServiceNow may confirm th"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "c8c1cad0d7d7e4d7c1d6d2cdc7c1cacbd38ac7cbc9\" rel=\"noopener noreferrer\"><span class=\"__cf_email__\" data-cfemail=\"f99e95969b98958d98959c978d8a8ab98a9c8b8f909a9c97968ed79a9"
-        }
-      ]
-    },
-    {
-      "title": "Principal Solution Architect- ServiceNow",
-      "company": "ServiceNow",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719",
-      "source": "smartrecruiters",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "icenow.com/life-at-servicenow#workpersonas\" rel=\"noopener noreferrer\"> Learn more here . To determine eligibility for a work persona, ServiceNow may confirm th"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "f1f8f3e9eeeeddeef8efebf4fef8f3f2eab3fef2f0\" rel=\"noopener noreferrer\"><span class=\"__cf_email__\" data-cfemail=\"36515a5954575a42575a535842454576455344405f555358594118555"
-        }
-      ]
-    },
-    {
-      "title": "ServiceNow Developer",
-      "company": "9th Way Insignia",
-      "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "out_request/job_post/5466447008/ai_opt_out\" rel=\"noopener noreferrer\">Learn more <button type=\"submit\" class=\"btn btn--r"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        },
-        {
-          "pattern": "form_field",
-          "snippet": "<input id=\"preferred_name\" class=\"input input__single-line\" aria-label=\"preferred first name\" aria-describedby=\"preferred_name-description preferred_name-error "
-        }
-      ]
-    },
-    {
-      "title": "Salesforce Business Analyst",
-      "company": "Altus Group",
-      "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075",
-      "source": "workday",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acces"
-        },
-        {
-          "pattern": "employee\\s+referr",
-          "snippet": "? If so, ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acc"
-        }
-      ]
-    },
-    {
-      "title": "Salesforce Consultant, Revenue Cloud",
-      "company": "NeuraFlash",
-      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242209004",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        }
-      ]
-    },
-    {
-      "title": "Senior Salesforce Developer @ Webflow",
-      "company": "Webflow",
-      "url": "https://jobs.ashbyhq.com/webflow/a35a4d60-319f-441e-89d7-3a0ef6cd7421",
-      "source": "ashby",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "em\\\">Please visit our Careers page for more informat"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "bled Employer and are committed to building"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "wing our story on our Webflow Blog , <a target=\\\"_blank\\\" rel=\\\"no"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "Webflow Blog , LinkedIn , <a target=\\"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "> LinkedIn , X (Twitter) , and/or <a target=\\\"_blank\\\""
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "tter) , and/or Glassdoor <"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "information, see Webflow\u2019s Applicant P"
-        }
-      ]
-    },
-    {
-      "title": "Salesforce Platform Developer",
-      "company": "Altus Group",
-      "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
-      "source": "workday",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acces"
-        },
-        {
-          "pattern": "employee\\s+referr",
-          "snippet": "? If so, ask your connection at Altus Group about using our Employee Referral process! Altus Group is an equal opportunity employer committed to fostering an inclusive and acc"
-        }
-      ]
-    },
-    {
-      "title": "Senior Salesforce Developer",
-      "company": "Docebo",
-      "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
-      "source": "ashby",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "ly achieved two IPOs ( TSX: DCBO &"
-        },
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": ":1.5em\\\">Docebo is an <a target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\" href=\\\"https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reade"
-        }
-      ]
-    },
-    {
-      "title": "Product Developer, Salesforce",
-      "company": "NeuraFlash",
-      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6228534004",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        }
-      ]
-    },
-    {
-      "title": "Salesforce Consultant, Revenue Cloud",
-      "company": "NeuraFlash",
-      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6225384004",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        }
-      ]
-    },
-    {
-      "title": "Salesforce Technical Architect",
-      "company": "NeuraFlash",
-      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222640004",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        }
-      ]
-    },
-    {
-      "title": "Salesforce Technical Architect",
-      "company": "NeuraFlash",
-      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222636004",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        }
-      ]
-    },
-    {
-      "title": "Salesforce Solution Architect, Revenue Cloud",
-      "company": "NeuraFlash",
-      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222627004",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        }
-      ]
-    },
-    {
-      "title": "Salesforce Solution Architect, Revenue Cloud",
-      "company": "NeuraFlash",
-      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222626004",
-      "source": "greenhouse",
-      "hints": [
-        {
-          "pattern": "referr(al|er)\\b",
-          "snippet": "k\" target=\"_blank\" href=\"https://www.greenhouse.com\" rel=\"noreferrer\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/"
-        }
-      ]
-    }
-  ]
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621",
+   "company": "Salesforce",
+   "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
+   "url": "https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-senior-at-ateko-backed-by-bell-canada-4487632517",
+   "company": "Ateko, backed by Bell Canada",
+   "title": "Architecte ServiceNow ITOM / ITAM Senior",
+   "url": "https://ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-senior-at-ateko-backed-by-bell-canada-4487632517",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-service-now-at-kpmg-canada-4377531962",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère /Conseiller.ère principal.e Service Now",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-service-now-at-kpmg-canada-4377531962",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-d%c3%a9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480397231",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480397231",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944",
+   "company": "KPMG Canada",
+   "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-d%c3%a9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381892",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480500031",
+   "company": "KPMG Canada",
+   "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480500031",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480399040",
+   "company": "KPMG Canada",
+   "title": "Directeur.rice - Architecte de solutions ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-architecte-de-solutions-servicenow-at-kpmg-canada-4480399040",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726",
+   "company": "IKO North America",
+   "title": "Salesforce Senior Developer",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480398115",
+   "company": "KPMG Canada",
+   "title": "Manager - ServiceNow Solution Architect",
+   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480398115",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480387793",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%e2%80%93-servicenow-at-kpmg-canada-4480501034",
+   "company": "KPMG Canada",
+   "title": "Functional Consultant / Senior Consultant – ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480501034",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621290",
+   "company": "KPMG Canada",
+   "title": "Manager, ServiceNow Technical Lead",
+   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-technical-lead-at-kpmg-canada-4453621290",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480392411",
+   "company": "KPMG Canada",
+   "title": "Directeur.rice fonctionnel.le - ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480392411",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480384864",
+   "company": "KPMG Canada",
+   "title": "Functional Manager - ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480384864",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-d%c3%a9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381893",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480381893",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-d%c3%a9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480382877",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480382877",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-d%c3%a9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480383877",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480383877",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480399043",
+   "company": "KPMG Canada",
+   "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480399043",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480386776",
+   "company": "KPMG Canada",
+   "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480386776",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480398116",
+   "company": "KPMG Canada",
+   "title": "Consultant/Senior Consultant - ServiceNow Solution Developer",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480398116",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480397232",
+   "company": "KPMG Canada",
+   "title": "Manager - ServiceNow Solution Architect",
+   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480397232",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480392412",
+   "company": "KPMG Canada",
+   "title": "Manager - ServiceNow Solution Architect",
+   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480392412",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480500034",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480500034",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480384865",
+   "company": "KPMG Canada",
+   "title": "Manager - ServiceNow Solution Architect",
+   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480384865",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480391488",
+   "company": "KPMG Canada",
+   "title": "Manager - ServiceNow Solution Architect",
+   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480391488",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480390494",
+   "company": "KPMG Canada",
+   "title": "Manager - ServiceNow Solution Architect",
+   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480390494",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480386774",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480386774",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%e2%80%93-servicenow-at-kpmg-canada-4480389738",
+   "company": "KPMG Canada",
+   "title": "Functional Consultant / Senior Consultant – ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389738",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%e2%80%93-servicenow-at-kpmg-canada-4480389737",
+   "company": "KPMG Canada",
+   "title": "Functional Consultant / Senior Consultant – ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389737",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%e2%80%93-servicenow-at-kpmg-canada-4480399041",
+   "company": "KPMG Canada",
+   "title": "Functional Consultant / Senior Consultant – ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480399041",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%e2%80%93-servicenow-at-kpmg-canada-4480502039",
+   "company": "KPMG Canada",
+   "title": "Functional Consultant / Senior Consultant – ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480502039",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%e2%80%93-servicenow-at-kpmg-canada-4480382876",
+   "company": "KPMG Canada",
+   "title": "Functional Consultant / Senior Consultant – ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480382876",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480502040",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480502040",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480398117",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480398117",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-en-automatisation-qa-salesforce-at-nesto-4454391884",
+   "company": "nesto",
+   "title": "Développeur en automatisation QA Salesforce",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4454391884",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444707597",
+   "company": "Salesforce",
+   "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
+   "url": "https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444707597",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/business-analyst-project-manager-%e2%80%93-corporate-applications-salesforce-workday-fintech-%24120-000-%24200-000-cad-%2b-bonus-at-hunter-bond-4486669214",
+   "company": "Hunter Bond",
+   "title": "Business Analyst / Project Manager – Corporate Applications / Salesforce / Workday - FinTech - $120,000-$200,000 CAD + Bonus",
+   "url": "https://ca.linkedin.com/jobs/view/business-analyst-project-manager-%E2%80%93-corporate-applications-salesforce-workday-fintech-%24120-000-%24200-000-cad-%2B-bonus-at-hunter-bond-4486669214",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480382878",
+   "company": "KPMG Canada",
+   "title": "Directeur.rice fonctionnel.le - ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480382878",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480383878",
+   "company": "KPMG Canada",
+   "title": "Directeur.rice fonctionnel.le - ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480383878",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480380943",
+   "company": "KPMG Canada",
+   "title": "Directeur.rice fonctionnel.le - ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480380943",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480396265",
+   "company": "KPMG Canada",
+   "title": "Directeur.rice fonctionnel.le - ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480396265",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480384863",
+   "company": "KPMG Canada",
+   "title": "Directeur.rice fonctionnel.le - ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-rice-fonctionnel-le-servicenow-at-kpmg-canada-4480384863",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480395255",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère /Conseiller.ère principal.e fonctionnel.le - Service Now",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-fonctionnel-le-service-now-at-kpmg-canada-4480395255",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "linkedin:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-conseiller-%c3%a8re-principal-e-d%c3%a9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480500032",
+   "company": "KPMG Canada",
+   "title": "Conseiller.ère/Conseiller.ère principal.e - Développeur de solutions ServiceNow",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-conseiller-%C3%A8re-principal-e-d%C3%A9veloppeur-de-solutions-servicenow-at-kpmg-canada-4480500032",
+   "route": "aggregator_linkedin",
+   "status": "skipped_aggregator",
+   "tier": "none",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z"
+  },
+  {
+   "job_id": "jobicy:jobicy.com/jobs/159681-full-stack-engineer-8",
+   "company": "infisical",
+   "title": "Full Stack Engineer",
+   "url": "https://jobicy.com/jobs/159681-full-stack-engineer-8",
+   "route": "company_direct",
+   "status": "no_referral",
+   "tier": "curl_cffi",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z",
+   "all_hits": []
+  },
+  {
+   "job_id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer-sme_rq231819-1",
+   "company": "GDIT",
+   "title": "ServiceNow Developer SME",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1",
+   "route": "ats_workday",
+   "status": "no_referral",
+   "tier": "curl_cffi",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z",
+   "all_hits": []
+  },
+  {
+   "job_id": "jobicy:jobicy.com/jobs/159679-senior-full-stack-engineer-10",
+   "company": "infisical",
+   "title": "Senior Full Stack Engineer",
+   "url": "https://jobicy.com/jobs/159679-senior-full-stack-engineer-10",
+   "route": "company_direct",
+   "status": "no_referral",
+   "tier": "curl_cffi",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z",
+   "all_hits": []
+  },
+  {
+   "job_id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer-senior---electronic-health-records---remote-_rq231413",
+   "company": "GDIT",
+   "title": "ServiceNow Developer Senior – Electronic Health Records – Remote!",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413",
+   "route": "ats_workday",
+   "status": "no_referral",
+   "tier": "curl_cffi",
+   "referral": null,
+   "checked_at": "2026-11-08T11:20:06.993031Z",
+   "all_hits": []
+  }
+ ]
 }

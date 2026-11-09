@@ -55,3 +55,8 @@ def test_generic_how_did_you_hear_is_weak_but_present():
 def test_empty_input_returns_empty():
     assert extract("") == []
     assert extract("", structured_questions=[]) == []
+
+
+def test_preferred_name_is_not_a_hit():
+    html = '<html><body><input name="preferred_name" type="text"></body></html>'
+    assert best(extract(html)) is None
