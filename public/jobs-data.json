@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T04:35:48+00:00",
+ "generatedAt": "2026-11-09T05:13:23+00:00",
  "timezone": "America/Toronto",
- "count": 4502,
+ "count": 4507,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -540,27 +540,6 @@
   },
   {
    "posted": "2026-11-08",
-   "title": "ServiceNow Developer",
-   "company": "Long View Systems",
-   "location": "Calgary / Edmonton / Toronto / Vancouver, Canada (Remote)",
-   "url": "https://jobs.lever.co/lvs1/2d7e0d72-b100-42a2-a51d-112fa9bad1b0",
-   "note": "lever",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer long view systems calgary / edmonton / toronto / vancouver, canada (remote) lever servicenow lever servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
    "title": "ServiceNow Architect",
    "company": "RSM",
    "location": "Toronto",
@@ -600,6 +579,27 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "ServiceNow Developer",
+   "company": "Long View Systems",
+   "location": "Calgary / Edmonton / Toronto / Vancouver, Canada (Remote)",
+   "url": "https://jobs.lever.co/lvs1/2d7e0d72-b100-42a2-a51d-112fa9bad1b0",
+   "note": "lever",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer long view systems calgary / edmonton / toronto / vancouver, canada (remote) lever servicenow lever servicenow role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-08",
@@ -1485,6 +1485,33 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team)",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5958626905",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior consultant, salesforce platform (deloitte technology canada (dtc), platform team) deloitte toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-08",
    "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario",
@@ -2106,11 +2133,6 @@
     },
     {
      "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000159744779/senior-site-reliability-engineer-canada-protected-b/",
-     "label": "careers.servicenow.com · Toronto"
-    },
-    {
-     "source": "careers.servicenow.com",
      "url": "https://careers.servicenow.com/jobs/744000159518980/senior-site-reliability-engineer-canada-protected-b/",
      "label": "careers.servicenow.com · Canada"
     },
@@ -2127,6 +2149,11 @@
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5955420777",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5955424518",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -2488,9 +2515,9 @@
   {
    "posted": "2026-11-08",
    "title": "Senior IT Infrastructure Administrator, DevOps",
-   "company": "Confluence Technologies, Inc.",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5958362982",
+   "company": "Confluence Technologies",
+   "location": "Commerce Court, City of Toronto",
+   "url": "https://www.adzuna.ca/details/5957976003",
    "note": "adzuna",
    "family": "other",
    "familyLabel": "Other",
@@ -2502,8 +2529,13 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior it infrastructure administrator, devops confluence technologies, inc. toronto, ontario adzuna other adzuna role fit toronto area",
+   "search": "senior it infrastructure administrator, devops confluence technologies commerce court, city of toronto adzuna other adzuna role fit toronto area",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958362982",
+     "label": "Adzuna · Toronto"
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-it-infrastructure-administrator-devops-at-confluence-4486977370",
@@ -2589,6 +2621,46 @@
    ],
    "french": false,
    "search": "manager, revenue operations systems colab toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Full-Stack Software Engineer (C#, .Net, React)",
+   "company": "Manulife",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5957952358",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "full-stack software engineer (c#, .net, react) manulife toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "DevOps Engineer",
+   "company": "Insight Global",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5957952312",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer insight global toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -2852,6 +2924,48 @@
      "label": "LinkedIn · Mississauga"
     }
    ]
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "ServiceNow Developer",
+   "company": "Veracity Software Inc",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5957157361",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer veracity software inc toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Expert Software Engineer - ServiceNow",
+   "company": "TEEMA",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5957157191",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "expert software engineer - servicenow teema toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-07",
@@ -5238,6 +5352,33 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "ServiceNow Platform Engineer",
+   "company": "Amphenol HSIO",
+   "location": "Markham, York region",
+   "url": "https://www.adzuna.ca/details/5955916764",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow platform engineer amphenol hsio markham, york region adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5953185909?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Markham"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Senior Manager, ServiceNow - Operate",
    "company": "Deloitte",
    "location": "Toronto, ON, Canada (Hybrid)",
@@ -5270,33 +5411,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5937220371",
      "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "ServiceNow Platform Engineer",
-   "company": "Amphenol HSIO",
-   "location": "Markham, York region",
-   "url": "https://www.adzuna.ca/details/5955916764",
-   "note": "adzuna",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow platform engineer amphenol hsio markham, york region adzuna servicenow adzuna servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5953185909?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Markham"
     }
    ]
   },
@@ -6585,85 +6699,6 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "Staff Systems Engineer",
-   "company": "ServiceNow",
-   "location": "Toronto, ON, Canada (Flexible/Remote)",
-   "url": "https://careers.servicenow.com/jobs/744000160278249/staff-systems-engineer/",
-   "note": "servicenow",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.servicenow.com",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "staff systems engineer servicenow toronto, on, canada (flexible/remote) careers.servicenow.com servicenow servicenow servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "SmartRecruiters",
-     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160277860",
-     "label": "SmartRecruiters · Toronto"
-    },
-    {
-     "source": "SmartRecruiters",
-     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160278249",
-     "label": "SmartRecruiters · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488432589",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488440203",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Staff Security Engineer / Security Engineering",
-   "company": "ServiceNow",
-   "location": "Toronto, ON, Canada (Flexible/Remote)",
-   "url": "https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/",
-   "note": "servicenow",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.servicenow.com",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "staff security engineer / security engineering servicenow toronto, on, canada (flexible/remote) careers.servicenow.com servicenow servicenow servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "SmartRecruiters",
-     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
-     "label": "SmartRecruiters · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
    "title": "Staff Security Engineer / Enterprise Security",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca · Remote",
@@ -6691,6 +6726,33 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Staff Security Engineer / Security Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / security engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Senior Staff Security Engineer / Systems Engineering",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca · Remote",
@@ -6712,6 +6774,53 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-staff-security-engineer-systems-engineering-at-servicenow-4488427761",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Staff Systems Engineer",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160277860",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff systems engineer servicenow toronto, ontario, ca smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160278249",
+     "label": "SmartRecruiters · Toronto"
+    },
+    {
+     "source": "careers.servicenow.com",
+     "url": "https://careers.servicenow.com/jobs/744000160278249/staff-systems-engineer/",
+     "label": "careers.servicenow.com · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488432589",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488440203",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951",
      "label": "LinkedIn · Toronto"
     }
    ]
@@ -7381,6 +7490,26 @@
    ],
    "french": false,
    "search": "senior product manager - digital asset management jobgether canada adzuna other readme itam role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Staff Security Engineer / Security Engineering",
+   "company": "Security Engineering](https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/)",
+   "location": "ServiceNow",
+   "url": "https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/",
+   "note": "Toronto, ON via ServiceNow Careers (vendor direct); verified live Nov 08 2026",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.servicenow.com",
+   "verified": "Employer board",
+   "match": 42,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "staff security engineer / security engineering security engineering](https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/) servicenow careers.servicenow.com servicenow toronto, on via servicenow careers (vendor direct); verified live nov 08 2026 servicenow role fit",
    "alternates": []
   },
   {
@@ -11310,6 +11439,38 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Salesforce Solution Architect",
+   "company": "IA Financial Services",
+   "location": "Québec, Canada",
+   "url": "https://www.adzuna.ca/details/5954559999",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce solution architect ia financial services quebec, canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Developer/ Admin with Commerce Cloud and L2 Support",
    "company": "Logiciel Solutions Inc",
    "location": "Remote",
@@ -11349,38 +11510,6 @@
    "french": false,
    "search": "salesforce administrator and developer greenfield industries, inc. pointe-claire, qc, canada (remote considered) jooble salesforce jooble salesforce role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Salesforce Solution Architect",
-   "company": "IA Financial Services",
-   "location": "Québec, Canada",
-   "url": "https://www.adzuna.ca/details/5954559999",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce solution architect ia financial services quebec, canada adzuna salesforce adzuna salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700",
-     "label": "LinkedIn · Quebec"
-    }
-   ]
   },
   {
    "posted": "2026-11-05",
@@ -42539,11 +42668,6 @@
    "search": "servicenow platform specialist alimentiv toronto, ontario lever servicenow lever servicenow role fit toronto area",
    "alternates": [
     {
-     "source": "jobs.ca",
-     "url": "https://www.jobs.ca/alimentiv/jobs/servicenow-platform-specialist-remote-canada-b90d2889bf0e",
-     "label": "jobs.ca · Toronto"
-    },
-    {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946002922?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Greater Vancouver"
@@ -42567,6 +42691,11 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5945477143?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Montréal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483645453",
+     "label": "LinkedIn · Vancouver"
     }
    ]
   },
@@ -42883,33 +43012,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Senior Lead Solutions Architect, Salesforce Migrations",
-   "company": "Salesforce",
-   "location": "Toronto / Montreal / Vancouver, Canada (Remote)",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/canada---toronto/senior-lead-solutions-architect--salesforce-migrations_jr353172",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior lead solutions architect, salesforce migrations salesforce toronto / montreal / vancouver, canada (remote) workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5940716157",
-     "label": "Adzuna · Canada"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-02",
    "title": "Salesforce Consultant",
    "company": "Futran Solutions",
    "location": "Toronto, Ontario",
@@ -42932,6 +43034,33 @@
      "source": "jobs.ca",
      "url": "https://www.jobs.ca/futran-solutions/jobs/salesforce-consultant-toronto-on-db4233976e38",
      "label": "jobs.ca · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior Lead Solutions Architect, Salesforce Migrations",
+   "company": "Salesforce",
+   "location": "Toronto / Montreal / Vancouver, Canada (Remote)",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/canada---toronto/senior-lead-solutions-architect--salesforce-migrations_jr353172",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior lead solutions architect, salesforce migrations salesforce toronto / montreal / vancouver, canada (remote) workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940716157",
+     "label": "Adzuna · Canada"
     }
    ]
   },
@@ -66188,27 +66317,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team)",
-   "company": "Deloitte",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-consultant-salesforce-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460507232",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior consultant, salesforce platform (deloitte technology canada (dtc), platform team) deloitte toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Director, Salesforce Delivery and Architecture, Deloitte Global Technology",
    "company": "Deloitte",
    "location": "Toronto, Ontario, Canada",
@@ -72419,26 +72527,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "Senior Fullstack Developer (Ruby on Rails / React)",
-   "company": "talentmanagementsolution",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948276758?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior fullstack developer (ruby on rails / react) talentmanagementsolution toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
    "title": "Information Technology_CAN - CAN_Platform Architect",
    "company": "Artech LLC",
    "location": "Toronto, Ontario",
@@ -72899,6 +72987,26 @@
    ],
    "french": false,
    "search": "senior it project manager mindlance toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Senior Fullstack Developer (Ruby on Rails / React)",
+   "company": "talentmanagementsolution",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5948276758",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior fullstack developer (ruby on rails / react) talentmanagementsolution toronto, ontario adzuna other readme role fit toronto area",
    "alternates": []
   },
   {
