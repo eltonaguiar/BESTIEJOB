@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T22:11:35+00:00",
+ "generatedAt": "2026-11-09T22:44:20+00:00",
  "timezone": "America/Toronto",
- "count": 4666,
+ "count": 4668,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -2048,6 +2048,26 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Revenue Cloud Advanced",
+   "company": "Apptoza Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-advanced-at-apptoza-inc-4487421227",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud advanced apptoza inc. toronto, ontario, canada linkedin salesforce readme salesforce toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -15311,6 +15331,26 @@
    ],
    "french": false,
    "search": "directeur, solution salesforce (montreal) investissement quebec montreal, quebec, canada linkedin salesforce readme salesforce canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Marketing Cloud Technologist",
+   "company": "Saskatchewan Indian Gaming Authority",
+   "location": "Saskatoon, Saskatchewan, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/marketing-cloud-technologist-at-saskatchewan-indian-gaming-authority-4486791521",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "marketing cloud technologist saskatchewan indian gaming authority saskatoon, saskatchewan, canada linkedin salesforce readme salesforce canada / remote",
    "alternates": []
   },
   {
@@ -69853,7 +69893,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5948025592",
      "label": "Adzuna · Toronto"
     }
    ]

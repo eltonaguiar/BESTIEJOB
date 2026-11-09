@@ -282,6 +282,44 @@ def verify(url: str) -> bool:
         return False
 
 
+def norm_url(url: str) -> str:
+    return re.sub(r"[?#].*$", "", str(url).strip().lower()).rstrip("/")
+
+
+def known_urls() -> set[str]:
+    """URLs the board already publishes.
+
+    The merger dedupes too, but doing it here is what makes the run's own
+    numbers honest: "kept 23" always meant "survived date and liveness checks",
+    which still counted rows an earlier sweep had already published.
+    """
+    seen: set[str] = set()
+    readme = ROOT / "README.md"
+    if readme.exists() and not readme.is_symlink():
+        for m in re.finditer(r"https?://[^\s|)]+",
+                             readme.read_text(encoding="utf-8", errors="ignore")):
+            seen.add(norm_url(m.group(0)))
+    for rel in ("public/jobs.json", "jobs.json"):
+        feed = ROOT / rel
+        if not feed.exists() or feed.is_symlink():
+            continue
+        try:
+            for job in json.loads(feed.read_text(encoding="utf-8")).get("jobs", []):
+                if job.get("url"):
+                    seen.add(norm_url(job["url"]))
+        except (json.JSONDecodeError, AttributeError):
+            pass
+    return seen
+
+
+def next_inbox_path(stamp: str) -> Path:
+    """First unused `--v<N>` for the day, matching what check_inbox.py expects."""
+    n = 1
+    while (INBOX / f"fresh-ca--{stamp}--v{n}.md").exists():
+        n += 1
+    return INBOX / f"fresh-ca--{stamp}--v{n}.md"
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=2, help="2 = today + yesterday")
@@ -325,6 +363,11 @@ def main() -> int:
         kept = [r for r in kept if verify(r["url"])]
         stats["unverified_dropped"] = before - len(kept)
 
+    board = known_urls()
+    fresh_only = [r for r in kept if norm_url(r["url"]) not in board]
+    stats["already_on_board"] = len(kept) - len(fresh_only)
+    kept = fresh_only
+
     kept.sort(key=lambda r: (r["posted"], -priority(r["location"]), r["title"]), reverse=True)
 
     OUT.mkdir(exist_ok=True)
@@ -334,7 +377,7 @@ def main() -> int:
         encoding="utf-8")
 
     INBOX.mkdir(exist_ok=True)
-    inbox = Path(args.out_inbox) if args.out_inbox else INBOX / f"fresh-ca--{STAMP}--v1.md"
+    inbox = Path(args.out_inbox) if args.out_inbox else next_inbox_path(STAMP)
     lines = [
         f"# Fresh CA sweep — {STAMP}",
         "",

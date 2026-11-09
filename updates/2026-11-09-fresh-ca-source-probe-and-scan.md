@@ -194,3 +194,47 @@ The manual cycles wrote `fresh-ca--2026-11-09--c1.md` / `--c2.md`, which
 `<model-slug>--<YYYY-MM-DD>--v<N>.md`. The version suffix is what keeps two runs
 of the same day from colliding, so the files are renamed to `--v2` / `--v3`
 (`--v1` holds the first sweep). Rows were already merged, so nothing moved.
+
+## Round 5 — uniqueness gate and employer-side discovery
+
+### "kept 23" was not "23 new"
+
+`fresh_ca_scan.py` deduped within its own run only, so a cycle that re-found
+postings an earlier sweep had already published still reported them as kept.
+`known_urls()` now reads the board's README and `jobs.json` and drops any row
+whose normalised URL is already published, reporting the count as
+`already_on_board`. The merger always deduped too; this just stops the sweep's
+own summary from overstating what it found.
+
+Same pass: the inbox filename is now the first unused `--v<N>` for the day
+instead of a fixed `--v1`, so a second run of the same day no longer overwrites
+the first (the version suffix is exactly what `check_inbox.py` expects).
+
+### Asking the employer instead of the aggregator
+
+`scripts/ats_discovery.py` queries Workday's `wday/cxs/<tenant>/<site>/jobs` and
+SmartRecruiters' `api.smartrecruiters.com/v1/companies/<company>/postings`, both
+credential-free, then dates each candidate from its own posting JSON. Workday's
+list only ever offers a relative label ("Posted Today"), so a row is accepted
+only when that label names the day; the absolute date comes from the detail
+document.
+
+Seed tenants are read from Workday URLs already on the board, because a
+hand-guessed `(tenant, shard, site)` triple 404s: 20 guesses produced 3 rows,
+while the board-derived list of 24 answered.
+
+### Measured yield — the sources are saturated at this hour
+
+| Pass | Raw | Unique | New after board-dedupe |
+|---|---|---|---|
+| Adzuna + Job Bank + Eluta | 180 | 17 | 0 (17 already published) |
+| Parallel web search (Workday/Greenhouse site queries) | 40 | 1 | 0 |
+| Employer ATS lists (24 Workday tenants + ServiceNow) | 7 | 7 | 0 (5 non-Canada, 1 stale, 1 already published) |
+
+Nothing new was published this round because nothing new existed to publish. The
+board's 30-day window still grew 5,569 → 5,650 from other agents' inboxes, and
+today's count went 159 → 164.
+
+The scheduled workflow now runs the ATS discovery pass (non-fatal) and retries a
+rejected push five times instead of three — a real run failed at its push step
+after three rejections from concurrent agents.

@@ -58,6 +58,10 @@ jobs:
             --geos "${{ github.event.inputs.geos || '||Toronto, Ontario|Ontario' }}" \
             --eluta-pages 4 --jobbank-pages 3 --linkedin 1
 
+      - name: Employer ATS discovery (Workday / SmartRecruiters)
+        continue-on-error: true
+        run: python3 scripts/ats_discovery.py --days 2
+
       - name: Validate the submissions we just wrote
         run: python3 scripts/check_inbox.py
 
@@ -102,7 +106,7 @@ jobs:
         if: steps.commit.outputs.changed == '1'
         run: |
           set -euo pipefail
-          for attempt in 1 2 3; do
+          for attempt in 1 2 3 4 5; do
             if git push; then exit 0; fi
             echo "push rejected (attempt $attempt) — rebasing onto origin/main"
             git fetch origin main
