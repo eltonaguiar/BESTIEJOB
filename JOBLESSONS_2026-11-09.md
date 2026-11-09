@@ -119,3 +119,36 @@ ServiceNow Careers Toronto: Staff Systems Engineer (×2, 2026-11-06), Staff Secu
 - `README.md` — 5,407 live postings (ServiceNow 713, Salesforce 877, Other 3,817), window 2026-10-10 → 2026-11-09; +2 Salesforce rows (Scotiabank); expired rows archived to `README.BAK_2026-11-09T100805Z.md`.
 - `public/` (GitHub Pages) — rebuilt with `python3 tools/build_site.py`; `pages.yml` redeploys on the push to main.
 - `JOBLESSONS_2026-11-09.MD` — this file, 05:00 EST section added.
+
+## Hourly scan — 2026-11-09 06:00 EST (11:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 06:00 EST (11:00 UTC) |
+| Baseline (README.md on main) | 5,407 live postings · ServiceNow 713 · Salesforce 877 · Other 3,817 · window 2026-10-10 → 2026-11-09 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs merged to GitHub Pages | 0 (no changes required) |
+
+### Candidates reviewed (06:00 run)
+
+- **ServiceNow Careers Toronto** (Nov 05–06): Staff Systems Engineer (JB0073786, JB0073788) and Senior/Staff SRE Canada Protected B (JB0076846, JB0076847). careers.servicenow.com pages return HTTP 403 to automated probes (bot wall, not dead) — title/date/location confirmed via search snippets. All four requisitions are already on the board via jobs.smartrecruiters.com mirrors (744000160277860, 744000160278249, 744000159911194 card, 744000159910447); build_site.py clusters them under existing cards. Skipped as duplicate requisitions.
+- **Rogers** (jobs.rogers.com/Greenhouse): 21 Technology roles, newest Nov 7; no ServiceNow/Salesforce technical role (Platform Specialist mentions ServiceNow only incidentally). Nothing added.
+- **Bell** (jobs.bell.ca/Phenom): Salesforce Solution Architect 430856, Platform Manager 428467, Marketing Cloud Email Developer 431169, Developer 429834, BECACA428466 — all return "has been filled". Excluded; filled roles never enter the board.
+- **jobs.gc.ca / Canada.ca** — zero ServiceNow/Salesforce Toronto hits.
+- **Partners** — Deloitte SF Developer - Digital Customer 135279 already on board. Capgemini careers sits behind an SAP cookie-consent wall (extraction returns cookie text only, posting date unverifiable) — lead only (Sr Salesforce Developer, Toronto, permanent, $92K–$114K seen on Indeed).
+- **LinkedIn.ca** — ServiceNow/Salesforce Toronto sorted by date; no verifiable new posting outside existing mirrors.
+
+### Patterns / lessons (06:00 run)
+
+1. **Zero-fresh runs are the norm right after a bulk jobs.json refresh** — the 10:59 UTC scan captured 5,024 listings (635 new in-cycle). Check the board's "as of" date before expecting hourly merges.
+2. **Dedupe by requisition, not just URL** — a fresh careers.servicenow.com URL adds zero new page cards when the same JB number is already mirrored via jobs.smartrecruiters.com (build_site.py clusters by canonical title + employer + compatible location).
+3. **Bot-wall ≠ dead** — 403 from careers.servicenow.com/jobs.gc.ca-style probes; verify via snippets. Only 404/410/451 and explicit "filled/expired" body markers retire a posting.
+4. **Cookiewalled ATS (Capgemini SAP careers) cannot be dated by extraction** — use Indeed/Google snippets or skip the role.
+5. **Filled roles stay out** (Bell example) — record them dead in the source scan so they aren't re-checked every run.
+
+### Files touched (06:00 run)
+
+- `JOBLESSONS_2026-11-09.MD` — this file, 06:00 EST section added.
+- `README.md` — no changes (zero verified fresh jobs this hour).
+- `jobs.json` / `public/` — no changes; no redeploy required.
