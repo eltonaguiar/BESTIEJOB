@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T04:33:12+00:00",
+ "generatedAt": "2026-11-09T04:35:48+00:00",
  "timezone": "America/Toronto",
- "count": 4503,
+ "count": 4502,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -2106,6 +2106,11 @@
     },
     {
      "source": "careers.servicenow.com",
+     "url": "https://careers.servicenow.com/jobs/744000159744779/senior-site-reliability-engineer-canada-protected-b/",
+     "label": "careers.servicenow.com · Toronto"
+    },
+    {
+     "source": "careers.servicenow.com",
      "url": "https://careers.servicenow.com/jobs/744000159518980/senior-site-reliability-engineer-canada-protected-b/",
      "label": "careers.servicenow.com · Canada"
     },
@@ -2122,11 +2127,6 @@
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5955420777",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955424518",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -6585,6 +6585,85 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Staff Systems Engineer",
+   "company": "ServiceNow",
+   "location": "Toronto, ON, Canada (Flexible/Remote)",
+   "url": "https://careers.servicenow.com/jobs/744000160278249/staff-systems-engineer/",
+   "note": "servicenow",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.servicenow.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff systems engineer servicenow toronto, on, canada (flexible/remote) careers.servicenow.com servicenow servicenow servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160277860",
+     "label": "SmartRecruiters · Toronto"
+    },
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160278249",
+     "label": "SmartRecruiters · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488432589",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488440203",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Staff Security Engineer / Security Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, ON, Canada (Flexible/Remote)",
+   "url": "https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/",
+   "note": "servicenow",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.servicenow.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / security engineering servicenow toronto, on, canada (flexible/remote) careers.servicenow.com servicenow servicenow servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
+     "label": "SmartRecruiters · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Staff Security Engineer / Enterprise Security",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca · Remote",
@@ -6612,33 +6691,6 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "Staff Security Engineer / Security Engineering",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "staff security engineer / security engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
    "title": "Senior Staff Security Engineer / Systems Engineering",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca · Remote",
@@ -6660,53 +6712,6 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-staff-security-engineer-systems-engineering-at-servicenow-4488427761",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Staff Systems Engineer",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160277860",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "staff systems engineer servicenow toronto, ontario, ca smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "SmartRecruiters",
-     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160278249",
-     "label": "SmartRecruiters · Toronto"
-    },
-    {
-     "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000160278249/staff-systems-engineer/",
-     "label": "careers.servicenow.com · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488432589",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488440203",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951",
      "label": "LinkedIn · Toronto"
     }
    ]
@@ -7376,26 +7381,6 @@
    ],
    "french": false,
    "search": "senior product manager - digital asset management jobgether canada adzuna other readme itam role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Staff Security Engineer / Security Engineering",
-   "company": "Security Engineering](https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/)",
-   "location": "ServiceNow",
-   "url": "https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/",
-   "note": "Toronto, ON via ServiceNow Careers (vendor direct); verified live Nov 08 2026",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.servicenow.com",
-   "verified": "Employer board",
-   "match": 42,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "staff security engineer / security engineering security engineering](https://careers.servicenow.com/jobs/744000160294642/staff-security-engineer-security-engineering/) servicenow careers.servicenow.com servicenow toronto, on via servicenow careers (vendor direct); verified live nov 08 2026 servicenow role fit",
    "alternates": []
   },
   {
