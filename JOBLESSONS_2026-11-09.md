@@ -152,3 +152,33 @@ ServiceNow Careers Toronto: Staff Systems Engineer (×2, 2026-11-06), Staff Secu
 - `JOBLESSONS_2026-11-09.MD` — this file, 06:00 EST section added.
 - `README.md` — no changes (zero verified fresh jobs this hour).
 - `jobs.json` / `public/` — no changes; no redeploy required.
+
+## Hourly scan — 2026-11-09 07:00 EST (12:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 07:00 EST (12:00 UTC) |
+| Baseline (README.md on main) | 5,411 live postings · ServiceNow 717 · Salesforce 877 · Other 3,817 · window 2026-10-10 → 2026-11-09 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 1 |
+| Jobs merged to README.md | 1 |
+| Jobs rebuilt on GitHub Pages (public/) | 1 (via `python3 tools/build_site.py`; `pages.yml` redeploys on push to main) |
+
+### Candidates reviewed (07:00 run)
+- **TD — Product Owner I - AskHR** (Toronto/London, ON; Workday req R_1519634; posted 2026-11-08 "Posted Yesterday"; application end date 2026-11-09; $96,900–$136,800 CAD): Workday page renders a cookie/JS shell to headless probes, but the search index captured the page's posted date. Merged to the **Other** table — it's a ServiceNow AskHR/HRSD product-owner role at a Big Five bank, but the title carries no SN/SF keyword so `classify()` places it in Other. Not previously on the board. URL: https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I---AskHR_R_1519634
+- **Benevity — Senior Salesforce Administrator** (Toronto hybrid, Ashby; "Posted Yesterday" on a jobs mirror): verified live on jobs.ashbyhq.com but already on the board since 2026-10-28 — duplicate by URL; skipped.
+- **Scotiabank — Salesforce Developer** (req 265640): jobs.scotiabank.com returns "currently not accepting any further applicants" — closed; skipped. Never add filled/closed roles.
+- **Solink — Senior Salesforce Developer** (Remote Canada): direct Ashby URL returns HTTP 404 — a true dead posting; skipped.
+- **VML MAP — Salesforce Marketing Cloud Manager - Development** (Toronto, Greenhouse): live posting but no extractable posted date on the page — undated rows cannot be merged; skipped.
+- **Indeed.ca / LinkedIn.ca / Job Bank / Rogers / Bell / jobs.gc.ca**: Indeed listing pages carry no extractable dates or direct posting URLs; LinkedIn is a login wall; Bell's SN/SF roles return "has been filled"; Rogers shows no fresh SN/SF technical role; jobs.gc.ca zero SN/SF Toronto hits — consistent with the 00:00/01:00/05:00/06:00 runs.
+
+### Patterns / lessons (07:00 run)
+1. **One verified add this hour** — TD's AskHR product owner (ServiceNow HRSD platform work) merged to Other; zero-to-one fresh merges remain the norm late in the monitoring window.
+2. **Mirror "Posted Yesterday" ≠ board-fresh** — Benevity's SF Admin re-surfaced as "Posted Yesterday" on a jobs mirror but entered the board 2026-10-28; URL dedupe caught the duplicate.
+3. **Dead vs. bot-wall distinction holds** — Solink's Ashby URL is a true 404 (dropped); TD's Workday shell is a live page behind cookie/JS, not dead (search-snippet date accepted, consistent with prior 403-handling practice).
+4. **Undated employer postings can't be merged** — VML MAP's Greenhouse page and Ashby postings show no posted date; the merger requires an absolute YYYY-MM-DD.
+
+### Files touched (07:00 run)
+- `inbox/hermes-cron--2026-11-09--v2.md` — this run's submission (+1 new, 0 duplicate).
+- `README.md` — 5,412 live postings (ServiceNow 717, Salesforce 877, Other 3,818); +1 Other row (TD AskHR).
+- `README.BAK_2026-11-09T120923Z.md` — pre-merge backup created by the merger.
+- `public/jobs-data.json` + `public/index.html` — rebuilt with `python3 tools/build_site.py` (4,516 indexed jobs incl. jobs.json union); `pages.yml` redeploys on push to main.
