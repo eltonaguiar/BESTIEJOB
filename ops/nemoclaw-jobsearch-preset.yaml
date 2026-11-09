@@ -1,0 +1,300 @@
+# SPDX-License-Identifier: Apache-2.0
+#
+# NemoClaw / OpenShell CUSTOM POLICY PRESET — ServiceNow + Salesforce job hunt.
+#
+# Why this file exists
+# --------------------
+# NemoClaw runs OpenClaw inside an OpenShell sandbox with a deny-by-default
+# network policy (nemoclaw-blueprint/policies/openclaw-sandbox.yaml). Any host
+# that is not in the baseline or in an applied preset is blocked, logged, and
+# surfaced in `openshell term` for operator approval. That is exactly the
+# "all external connections are blocked, this is a host-level network policy"
+# message: it is NemoClaw's policy, not a provider outage and not something
+# you fix in openclaw.json.
+#
+# What this preset allows is the *read-only* job-hunt surface used by
+# bestiejob/scripts/web_search_scan.py, .claude/skills/job-hunt/harvester.py
+# and scripts/daily_job_scan.mjs: ATS APIs (Workday CXS, Greenhouse, Lever,
+# Ashby, SmartRecruiters), the LinkedIn guest jobs API, Adzuna, Job Bank, and
+# the two vendor career sites. Every endpoint is GET except the Workday CXS
+# search call, which is a POST by design.
+#
+# Apply (dynamic, running sandbox, no rebuild):
+#     nemoclaw <sandbox-name> policy add --from-file bestiejob/ops/nemoclaw-jobsearch-preset.yaml
+#     nemoclaw <sandbox-name> policy list        # confirm "jobsearch" is applied
+#
+# Remove:
+#     nemoclaw <sandbox-name> policy remove jobsearch
+#
+# Verify from inside the sandbox:
+#     python3 bestiejob/scripts/check_nemoclaw_egress.py
+#
+# One-off alternative (no file, session-scoped):
+#     openshell policy update <sandbox-name> --add-endpoint api.adzuna.com:443:read-only:rest:enforce
+#
+# Scope discipline: this is deliberately NOT the `personal` tier. Personal
+# allows every binary to open TCP 80/443 anywhere, which for a job hunt means
+# an agent can POST workspace contents to an arbitrary host with no approval
+# prompt. Add only the hosts you actually query.
+preset:
+  name: jobsearch
+  description: "ServiceNow/Salesforce job boards + ATS APIs (read-only) for BESTIEJOB harvesting"
+
+network_policies:
+  # ── Search providers ────────────────────────────────────────────────
+  # NemoClaw's `brave` preset already covers api.search.brave.com; it is
+  # restated here so this file is self-contained when applied alone, and so
+  # the keyless path (web_fetch on a job URL) keeps working.
+  jobsearch_brave:
+    name: jobsearch_brave
+    endpoints:
+      - host: api.search.brave.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/curl }
+
+  # Optional: keep only the providers whose key you actually hold.
+  # dbpasses.txt on this host has BRAVE, EXA_API_KEY and FIRECRAWL.
+  jobsearch_exa:
+    name: jobsearch_exa
+    endpoints:
+      - host: api.exa.ai
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: POST, path: "/search" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/bin/python3* }
+      - { path: /usr/bin/curl }
+
+  jobsearch_firecrawl:
+    name: jobsearch_firecrawl
+    endpoints:
+      - host: api.firecrawl.dev
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: POST, path: "/v2/search" }
+          - allow: { method: POST, path: "/v2/scrape" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/bin/python3* }
+      - { path: /usr/bin/curl }
+
+  # ── Aggregators ─────────────────────────────────────────────────────
+  # GET /** is intentional on the aggregators: query strings carry the
+  # keywords, and the route is read-only by construction (no credentials
+  # are sent, no POST is permitted).
+  jobsearch_adzuna:
+    name: jobsearch_adzuna
+    endpoints:
+      - host: api.adzuna.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/v1/api/jobs/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/curl }
+
+  jobsearch_linkedin:
+    name: jobsearch_linkedin
+    endpoints:
+      # Guest jobs API used by .claude/skills/job-hunt/harvester.py — no auth.
+      - host: ca.linkedin.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/jobs-guest/**" }
+      - host: www.linkedin.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/jobs-guest/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/curl }
+
+  jobsearch_indeed:
+    name: jobsearch_indeed
+    endpoints:
+      - host: ca.indeed.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/viewjob" }
+          - allow: { method: GET, path: "/jobs" }
+          - allow: { method: GET, path: "/rc/clk" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/curl }
+
+  # ── ATS boards (the reliable, dated sources) ────────────────────────
+  # Wildcard hosts need >= 3 DNS labels, so *.myworkdayjobs.com is legal and
+  # covers td.wd3, bmo, cibc, manulife, sunlife tenants without pinning each.
+  jobsearch_workday:
+    name: jobsearch_workday
+    endpoints:
+      - host: "*.myworkdayjobs.com"
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          # CXS job search is a POST endpoint by design.
+          - allow: { method: POST, path: "/wday/cxs/**" }
+          - allow: { method: GET, path: "/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/python3* }
+      - { path: /usr/bin/curl }
+
+  jobsearch_greenhouse:
+    name: jobsearch_greenhouse
+    endpoints:
+      - host: boards-api.greenhouse.io
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/v1/boards/**" }
+      - host: boards.greenhouse.io
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/python3* }
+      - { path: /usr/bin/curl }
+
+  jobsearch_lever:
+    name: jobsearch_lever
+    endpoints:
+      - host: api.lever.co
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/v0/postings/**" }
+      - host: jobs.lever.co
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/python3* }
+      - { path: /usr/bin/curl }
+
+  jobsearch_ashby:
+    name: jobsearch_ashby
+    endpoints:
+      - host: api.ashbyhq.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/posting-api/**" }
+      - host: jobs.ashbyhq.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/python3* }
+      - { path: /usr/bin/curl }
+
+  jobsearch_smartrecruiters:
+    name: jobsearch_smartrecruiters
+    endpoints:
+      - host: api.smartrecruiters.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/v1/companies/**" }
+      - host: jobs.smartrecruiters.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/python3* }
+      - { path: /usr/bin/curl }
+
+  # ── Canadian public + employer boards ───────────────────────────────
+  jobsearch_canada_boards:
+    name: jobsearch_canada_boards
+    endpoints:
+      - host: jobbank.gc.ca
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/jobsearch/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/python3* }
+      - { path: /usr/bin/curl }
+
+  # Employer career sites. Both are Workday-hosted, but the public hostnames
+  # are what the search results and the README rows actually link to.
+  jobsearch_vendor_careers:
+    name: jobsearch_vendor_careers
+    endpoints:
+      - host: careers.servicenow.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/**" }
+      - host: careers.salesforce.com
+        port: 443
+        protocol: rest
+        enforcement: enforce
+        rules:
+          - allow: { method: GET, path: "/**" }
+    binaries:
+      - { path: /usr/local/bin/openclaw }
+      - { path: /usr/local/bin/node }
+      - { path: /usr/bin/node }
+      - { path: /usr/bin/python3* }
+      - { path: /usr/bin/curl }
