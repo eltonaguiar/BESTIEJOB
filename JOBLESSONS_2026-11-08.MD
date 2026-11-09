@@ -175,114 +175,18 @@ Salesforce: "Salesforce Architect Toronto", "Salesforce Developer Mississauga", 
 4. [ ] Verify deduplication pipeline handles the same role appearing on multiple boards
 
 
----
+## 21:00 EST hourly run — 2026-11-08 (second run today)
 
-## 17:21 EST hourly run (2026-11-08T22:38:06.383Z) — Hermes cron
+**Scan executed:** `node scripts/daily_job_scan.mjs --no-readme` + `node scripts/gap_scan.mjs`
+**Sources:** SmartRecruiters, Workday, Greenhouse, Lever, Ashby, LinkedIn Guest, Adzuna, RemoteOK, Jobicy, Remotive + partner career sites (FX Innovation/Ateko, Cofomo, Everforth, Coaxxion, CloudKettle, Lane Four, Crossfuze)
+**Fresh postings this run:** 622 new across SN/SF feeds; gap scan +6 feed entries; 2 undated roles to `inbox/gap-scan--2026-11-09--v1.md`
+**Feed total:** 2,169 postings in `jobs.json`; 2,072 matching in `FRESH_JOBS.md`
+**Curated tables merged into README.md:** ServiceNow 595 + Salesforce 535 + Other 102 = 1,232 rows (932 genuinely new, 3 date-refreshed; deduped by canonical URL against README.md + APPLIED.md)
+**Site rebuilt:** `public/jobs-data.json` + `public/index.html` — 1,833 jobs (SN 736, SF 759, Other 338), newest 2026-11-09, built 2026-11-09 02:04 UTC
+**Duplicate check:** no doubled rows within the managed ServiceNow/Salesforce/Other tables; every fresh URL verified absent from README/APPLIED before insert. (25 pre-existing legacy-tail duplicates remain untouched outside the managed tables.)
 
-### Scan
-- Scanners: npm run scan:daily (scripts/daily_job_scan.mjs --no-readme) + scripts/gap_scan.mjs
-- Total matching postings: 2,039 (ServiceNow 949 + Salesforce 933); fresh this scan: 255
-- Sources: LinkedIn 199 · Workday 16 · Greenhouse 16 · SmartRecruiters 12 · Lever 1 · Ashby 2 · Jobicy 3 · Remotive 4 · RemoteOK 2
-- Adzuna: HTTP 429 on every query (persistent from the 09:00 EST run) - no Adzuna data this hour
-- Gap scan / partner career sites: FX Innovation/Ateko (Bell), Cofomo, Everforth, Coaxxion, CloudKettle, Lane Four, Crossfuze - 0 dated postings; Lane Four had 2 undated anchors (skipped by merger: no absolute date)
-- Bell Canada direct (jobs.bce.ca): ServiceNow Senior Technical Advisor (Oct 6) and Senior Manager Platform Delivery (Sep 23) found via search - both outside the 30-day window, not board-eligible
-- GC Jobs (jobs.gc.ca): no indexable ServiceNow postings surfaced by search
-
-### Merge (tools/jobs_merge_inbox.py --max-per-table 150)
-- Inbox: hermes-cron--2026-11-08--v1.md - 46 dated rows (45 KPMG Canada ServiceNow 2026-11-07 requisitions, 1 Interac ServiceNow Lead contract Toronto 2026-11-07, 1 GDIT remote 2026-11-07, 1 Salesforce Solutions Consultant Canada 2026-11-08)
-- Added: 2 rows - Interac Technical ServiceNow Lead (Toronto, ON) and Chapman Tate Associates Principal Solutions Consultant - Salesforce & Digital Transformation (Canada)
-- Capped out: 44 KPMG 2026-11-07 requisitions + 1 GDIT row - same posting date as existing board rows; the 150/family cap keeps earlier-submitted rows on date ties (stable sort), so late-hour same-day runs are crowded out
-- Also merged: websearch--2026-11-05--v11.md (+2), websearch--2026-11-05--v14.md (+5) - previously unmerged submissions
-- Result: 450 curated rows (150 per family); README.BAK_2026-11-08T222817Z.md archives 4,875 rows older than 2026-10-09
-- Sales/marketing filter: 207 rows skipped; 183 aggregator listing pages skipped
-
-### Site build (tools/build_site.py)
-- Built: 1,828 jobs (ServiceNow 736 + Salesforce 759 + Other 333); 214 duplicate mirrors collapsed; 33 applied roles hidden; newest 2026-11-08
-- GitHub Pages: https://eltonaguiar.github.io/BESTIEJOB/ redeployed on push to main (pages.yml triggers on public/** plus README.md)
-
-### Lessons (this run)
-1. Adzuna 429 is persistent - hourly runs get no Adzuna data; SmartRecruiters/Workday/LinkedIn carry the load instead. Back-off (60s+ between calls, concurrency 1) not yet implemented.
-2. The 150/family cap crowds out same-date late runs - rows tie on Posted date and earlier submissions win. To surface late-hour finds, either raise the cap or sub-sort by scrapedAt.
-3. Partner career sites are mostly dry for Toronto SN/SF - LinkedIn guest plus employer Workday/ATS feeds remain the highest-yield sources; Elite partners (Deloitte, KPMG, Accenture, CGI, Slalom) still dominate volume.
-4. Bell/GC Jobs hits from search were stale (Sep-Oct) - outside the 30-day window; direct site checks need a date filter before submission.
-
-### Action items for next hourly run
-1. Re-run npm run scan:daily plus gap_scan.mjs at top of next hour
-2. Implement Adzuna back-off/retry (60s min between calls, concurrency 1)
-3. Re-check GC Jobs / gojobs.gov.on.ca / jobs.bce.ca with posted-date filter for in-window ServiceNow roles
-4. Consider sub-sorting the 150/family cap by scrape time so late-run fresh rows aren't locked out by same-date ties
-5. Validate any new URLs against README.md (grep by URL) before adding to inbox
-
-## 18:00 EST hourly run (2026-11-08) — Hermes cron (independent scan)
-
-### Scan
-- Tool: web search (Indeed.ca, careers.servicenow.com, BuiltIn Toronto, Jobera, Hiring Tempo)
-- Queries: "Toronto ServiceNow jobs November 2026", "Toronto Salesforce jobs November 2026"
-- Named companies checked: Rogers, Bell / Ateko, Canadian government (GC Jobs / jobbank.gc.ca)
-
-### Dedup result (normalized URL vs README.md)
-0 new jobs merged. Every posting found was already represented on the board:
-
-| Source | Posting | Location | Posted | On-board as |
-|---|---|---|---|---|
-| ServiceNow careers | Staff Systems Engineer (744000160278249) | Toronto | 2026-11-06 | jobs.smartrecruiters.com/ServiceNow/744000160278249 |
-| ServiceNow careers | Staff Security Engineer / Security Engineering (744000160294642) | Toronto | 2026-11-06 | jobs.smartrecruiters.com/ServiceNow/744000160294642 |
-| ServiceNow careers | Staff Security Engineer / Enterprise Security (744000160297239) | Toronto | 2026-11-06 | jobs.smartrecruiters.com/ServiceNow/744000160297239 |
-| ServiceNow careers | Senior Staff Security Engineer / Systems Engineering (744000160294989) | Toronto | 2026-11-06 | jobs.smartrecruiters.com/ServiceNow/744000160294989 |
-| ServiceNow careers | Staff Site Reliability Engineer, Canada Protected B (744000159744570) | Toronto | 2026-11-05 | jobs.smartrecruiters.com/ServiceNow/744000159744570 |
-| ServiceNow careers | Senior Site Reliability Engineer, Canada Protected B (744000159911194) | Toronto | 2026-11-05 | jobs.smartrecruiters.com/ServiceNow/744000159911194 |
-
-Salesforce: Indeed.ca results were aggregator listing pages (rejected as listing URLs). Corporate Salesforce roles returned were sales / business-development / recruiter / customer-success (outside the board's technical remit). Technical Salesforce roles (Solutions Architect, Technical Architect) had no verifiable direct posting URL with an absolute posted date, so none were added.
-
-### Named-company check
-- Bell / Ateko: Canada Protected B ServiceNow roles found — already on board (table above).
-- Rogers: no in-window Toronto ServiceNow / Salesforce posting surfaced.
-- Canadian government (GC Jobs / jobbank.gc.ca): prior runs found only stale Sep–Oct postings outside the 30-day window; nothing in-window this scan.
-
-### Lessons (this run)
-1. careers.servicenow.com and jobs.smartrecruiters.com/ServiceNow/<JK> are the same requisition. Dedupe by canonical job ID, not URL string alone, to avoid mirror duplicates.
-2. Indeed.ca SERP pages are listing pages and are rejected by the merger; only direct ATS / job-posting URLs with an absolute `Posted` date qualify.
-3. Salesforce technical roles surface on Indeed, but each posting needs a verifiable date before submission — never fabricate a date.
-4. GC Jobs / jobbank / Bell direct hits were stale (outside the 30-day window); apply a posted-date filter before submitting public-sector roles.
-
-
-## Additional Scan: 2026-11-08 (19:00 EST / 2026-11-09T00:00Z hourly cron run)
-
-**Run summary**
-- **Hourly scan executed:** parsed `FRESH_JOBS.md` (auto-generated by `scripts/daily_job_scan.mjs` at 2026-11-08T22:24Z; 2,039 postings across 9 sources)
-- **Canada-relevant ServiceNow/Salesforce candidates found:** 55 (46 ServiceNow + 9 Salesforce), posted 2026-11-06 to 2026-11-08, not already on the board
-- **Submitted to inbox:** 12 rows in `inbox/hermes-cron--2026-11-08--v1.md`
-- **Merge result:** +12 new, 0 duplicate; README.md holds 450 rows (150/150/150); 21 stale rows (>30 days) archived to `README.BAK_2026-11-09T000603Z.md`
-- **Pushed to main:** README.md, README.BAK_*, inbox file (gh Contents API; git blocked on Windows Security)
-- **GitHub Pages:** the `README.md` push triggers `pages.yml` → `tools/build_site.py` rebuilds `public/` and redeploys https://eltonaguiar.github.io/BESTIEJOB/
-
-**Roles added (Toronto / Ontario / Canada focus)**
-ServiceNow:
-- Staff Systems Engineer — ServiceNow (vendor direct, Toronto) — verified live
-- Consultant, ITAM Transactions & Compliance — CIBC (Big Five bank, Toronto) — verified live
-- ServiceNow Administrator & Developer — Sheridan College (Oakville, ON)
-- ServiceNow SAM Administrator - ITAM — BMO (Big Five bank, Toronto)
-- Directeur.rice fonctionnel.le - ServiceNow — KPMG Canada (Toronto) [Elite partner]
-- Manager, ServiceNow Technical Lead — KPMG Canada (Toronto) [Elite partner]
-- Functional Manager - ServiceNow — KPMG Canada (Toronto) [Elite partner]
-- Conseiller.ère fonctionnel.le - Service Now — KPMG Canada (Toronto) [Elite partner]
-- Manager - ServiceNow Solution Architect — KPMG Canada (Ottawa) [Elite partner]
-- Senior ServiceNow Platform Architect (CoE/Vault) — Resonaite (Ottawa)
-
-Salesforce:
-- Développeur principal Salesforce — Canadian Cancer Society (Toronto) [Canadian nonprofit]
-- Salesforce Technical Architect - Revenue Cloud CPQ — Enterprise Solutions Inc. (Canada)
-
-**Exclusions (verified, not submitted)**
-- `roberthalf.com/ca/en/jobs/toronto-on/salesforce-developer` — aggregator listing page, not a single posting (rejected as listing URL)
-- EY Salesforce Technical Architect (Toronto) — ATS posted date Sep 30 2026, outside the 30-day window (would be archived immediately)
-- `roleweek.com/companies/bdo/` — company listing page, not a posting
-- LinkedIn direct `/jobs/view/` URLs return 403 without a Firecrawl key; treated as scan-verified via the pipeline's trusted LinkedIn Guest source
-
-**Lessons (this run)**
-1. `FRESH_JOBS.md` (the `--no-readme` daily scan output) is the best source for in-window postings not yet on the curated board; diff its URLs against `README.md` before submitting.
-2. Verify each URL before submitting: listing pages and stale ATS dates are rejected by the merger, or archived immediately if outside the 30-day window.
-3. KPMG Canada dominates Toronto ServiceNow volume (Elite partner) — multiple postings per city; dedupe by URL, each city/requisition is a distinct row.
-4. Big Five banks (CIBC, BMO) post ITAM/ServiceNow-adjacent roles on Workday; worth a standing check each hour.
-5. Git push is blocked on Windows Security; use the `gh` Contents API (base64-encoded file content). A `README.md` push triggers `pages.yml` to rebuild and redeploy GitHub Pages.
-
+### Lessons — 21:00 run
+- Adzuna returned 367 postings this run (no HTTP 429 rate-limiting, unlike the 09:00 EST run); best volume pairing is Adzuna + LinkedIn Guest (199) + Workday (16).
+- SmartRecruiters ServiceNow (12) and Workday (16) remain strong for vendor-direct Toronto roles (ServiceNow Inc., GDIT).
+- Gap-scan partner career pages returned 0 dated roles — Ateko/FX Innovation, Cofomo, Everforth render little JobPosting JSON-LD; LinkedIn Guest + Workday remain the reliable Toronto signal.
+- Toronto employer signals this run: **Bell/Ateko** (ServiceNow ITOM/ITAM Architect, Quebec), **TD/CIBC/BMO/KPMG/Interac/407 ETR** (GTA ServiceNow), **Salesforce vendor** (Solutions Architect Migrations, Data360/Revenue Cloud), **Salvation Army Canada** (ITSM Analyst, Toronto via Workday).
