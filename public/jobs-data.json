@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T13:15:18+00:00",
+ "generatedAt": "2026-11-09T13:34:49+00:00",
  "timezone": "America/Toronto",
- "count": 4512,
+ "count": 4515,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -976,6 +976,28 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Customer Success Manager, MuleSoft - Global Public Sector",
+   "company": "Salesforce",
+   "location": "Toronto, ON",
+   "url": "https://ca.indeed.com/cmp/Salesforce/jobs/l-Toronto,-ON",
+   "note": "salesforce-careers",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Indeed",
+   "verified": "Aggregator",
+   "match": 58,
+   "matchReasons": [
+    "Integration",
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "customer success manager, mulesoft - global public sector salesforce toronto, on indeed salesforce salesforce-careers integration salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Salesforce Developer",
    "company": "iA Financial Group",
    "location": "Quebec / Montreal, QC, Canada",
@@ -1003,6 +1025,33 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479085152",
      "label": "LinkedIn · Quebec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Associate Salesforce Administrator",
+   "company": "Applied Systems",
+   "location": "Remote, Canada",
+   "url": "https://remotive.com/remote/jobs/all-others/associate-salesforce-administrator-6505648",
+   "note": "indeed",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "remotive.com",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "associate salesforce administrator applied systems remote, canada remotive.com salesforce indeed salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-applied-systems-canada-4486934306",
+     "label": "LinkedIn · Canada"
     }
    ]
   },
@@ -1051,6 +1100,27 @@
    ],
    "french": true,
    "search": "administrateur(trice) de base de donnees des elements de configuration (cmdb) n3 commission de la construction du quebec greater montreal metropolitan area linkedin servicenow linkedin cmdb quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Commercial Account Executive - Canada",
+   "company": "Salesforce",
+   "location": "Toronto, ON",
+   "url": "https://ca.indeed.com/cmp/Salesforce/jobs/l-Ontario",
+   "note": "salesforce-careers",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Indeed",
+   "verified": "Aggregator",
+   "match": 11,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area",
+    "weak title match"
+   ],
+   "french": false,
+   "search": "commercial account executive - canada salesforce toronto, on indeed salesforce salesforce-careers salesforce toronto area weak title match",
    "alternates": []
   },
   {
@@ -2255,12 +2325,12 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/land/ad/5958259429",
+     "url": "https://www.adzuna.ca/land/ad/5958259424",
      "label": "Adzuna · Toronto"
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/land/ad/5958259424",
+     "url": "https://www.adzuna.ca/land/ad/5958259429",
      "label": "Adzuna · Toronto"
     },
     {
@@ -6936,27 +7006,6 @@
      "label": "LinkedIn · Montreal"
     }
    ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Associate Salesforce Administrator",
-   "company": "Applied Systems Canada",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-applied-systems-canada-4486934306",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "associate salesforce administrator applied systems canada canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
   },
   {
    "posted": "2026-11-06",
@@ -42974,6 +43023,27 @@
    ],
    "french": false,
    "search": "digital consulting architect, servicenow zaelab canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Service Now Developer",
+   "company": "Cognizant",
+   "location": "Canada",
+   "url": "https://careers.cognizant.com/ca-en/jobs/00070868112/service-now-developer/",
+   "note": "cognizant",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "service now developer cognizant canada careers.cognizant.com servicenow cognizant servicenow role fit canada / remote",
    "alternates": []
   },
   {
