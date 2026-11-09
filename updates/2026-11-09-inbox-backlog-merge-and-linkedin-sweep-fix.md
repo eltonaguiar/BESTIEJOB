@@ -77,3 +77,21 @@ python3 scripts/check_inbox.py                     # OK
 python3 .github/scripts/readme_job_row_guard.py --base origin/main --head HEAD   # PASS
 python3 -c "import yaml; yaml.safe_load(open('.github/workflows/linkedin-sweep.yml'))"
 ```
+
+## 5. Duplicate URLs surfaced by the merge (fixed at the cause)
+
+Merging the backlog left **123 duplicate postings** that differ only by LinkedIn
+search-session parameters (`?position=9&pageNum=0&refId=…`). The row guard, which
+normalises by dropping the whole query, flagged growth 0 → 123, while the
+merger's `normalise_url()` stripped only `utm_*` / `se` / `v`, so it treated them
+as different jobs and kept every copy.
+
+Fixed in `tools/jobs_consolidate.py`:
+
+- strip `refId`, `trackingId`, `trk`, `position`, `pageNum`, `originalSubdomain`,
+  `eBP`, `savedSearchId` alongside the UTM set
+- for `linkedin.com/jobs/view/…` drop the query entirely — the numeric id in the
+  path is the identity
+
+Re-running the merger collapsed **138 duplicates** (`5527 unique`, `5395` in the
+window); the guard is back to 0 duplicate growth with 0 rows removed.

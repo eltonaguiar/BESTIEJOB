@@ -107,9 +107,24 @@ def is_listing_url(url: str) -> bool:
     return any(re.search(h, host) and re.search(p, path) for h, p in LISTING_RULES)
 
 
+# Tracking/session parameters that never identify a posting. LinkedIn adds
+# `position`, `pageNum`, `refId`, `trackingId` to the same job link, so without
+# these the 2026-11-09 backlog merge kept 123 duplicate postings (guard growth
+# 0 -> 123) that the guard — which drops the whole query — counted as repeats.
+URL_TRACKING = re.compile(
+    r"[?&](utm_[^&]+|se|v|utm_medium|utm_source|refId|trackingId|trk|position|"
+    r"pageNum|originalSubdomain|eBP|savedSearchId)=[^&]*",
+    re.I,
+)
+
+
 def normalise_url(url: str) -> str:
     url = url.split("#")[0]
-    url = re.sub(r"[?&](utm_[^&]+|se|v|utm_medium|utm_source)=[^&]*", "", url)
+    url = URL_TRACKING.sub("", url)
+    # A LinkedIn posting is identified by the numeric id in the path; everything
+    # after it is search-session noise.
+    if re.search(r"linkedin\.com/jobs/view/", url, re.I):
+        url = re.split(r"[?#]", url, maxsplit=1)[0]
     return url.rstrip("/?").lower()
 
 
