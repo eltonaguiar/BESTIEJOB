@@ -15,14 +15,14 @@
   ],
   "location": "Toronto, ON",
   "dateFilter": "month",
-  "scrapedAt": "2026-11-09T04:29:02.634Z",
-  "generatedAt": "2026-11-09T04:29:02.634Z",
-  "total": 4990,
-  "newThisScan": 627,
+  "scrapedAt": "2026-11-09T04:32:58.346Z",
+  "generatedAt": "2026-11-09T04:32:58.346Z",
+  "total": 4995,
+  "newThisScan": 632,
   "retainedFromPrevious": 1583,
   "sources": {
    "smartrecruiters": 12,
-   "workday": 17,
+   "workday": 18,
    "greenhouse": 16,
    "lever": 2,
    "ashby": 2,
@@ -31,16 +31,117 @@
    "jobicy": 3,
    "remotive": 4,
    "adzuna": 367,
-   "jobs.ca": 1,
-   "dice": 1,
+   "jobs.ca": 2,
+   "dice": 2,
    "jooble": 1
   },
   "primaryCounts": {
-   "servicenow": 1038,
-   "salesforce": 1003
+   "servicenow": 1040,
+   "salesforce": 1006
   }
  },
  "jobs": [
+  {
+   "id": "jobs.ca:https://www.jobs.ca/deloitte/jobs/senior-manager-servicenow-operate-toronto-on-3d8d5315c9d2",
+   "source": "jobs.ca",
+   "company": "Deloitte",
+   "title": "Senior Manager, ServiceNow - Operate",
+   "location": "Toronto, ON, Canada (Hybrid)",
+   "url": "https://www.jobs.ca/deloitte/jobs/senior-manager-servicenow-operate-toronto-on-3d8d5315c9d2",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-06T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:32:58.346Z",
+   "excerpt": "Senior Manager for ServiceNow Operate practice at Deloitte Canada. Toronto, hybrid, permanent. Posted Nov 6 2026. Reference 135627.",
+   "workArrangement": "hybrid",
+   "tags": [
+    "servicenow",
+    "canada",
+    "toronto",
+    "consulting"
+   ]
+  },
+  {
+   "id": "dice:https://www.dice.com/job-detail/904480ce-602b-4c94-bea1-a4465c3e4fe0",
+   "source": "dice",
+   "company": "TATA Consultancy Services Limited",
+   "title": "ServiceNow Sr Business Process Consultant ITSM",
+   "location": "Remote",
+   "url": "https://www.dice.com/job-detail/904480ce-602b-4c94-bea1-a4465c3e4fe0",
+   "employmentType": "full-time",
+   "salary": {
+    "min": 110000,
+    "max": 160000,
+    "currency": "USD",
+    "display": "$110K-$160K"
+   },
+   "postedDate": "2026-11-05T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:32:58.346Z",
+   "excerpt": "ServiceNow Sr Business Process Consultant focused on ITSM offerings. Remote, full-time, $110,000-$160,000/yr. Posted 3 days ago.",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow",
+    "itsm",
+    "remote"
+   ]
+  },
+  {
+   "id": "workday:https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Engagement-Delivery-Leader---Canadian-Public-Sector_JR355678",
+   "source": "workday",
+   "company": "Salesforce",
+   "title": "Engagement Delivery Leader - Canadian Public Sector",
+   "location": "Toronto / Ottawa / Vancouver, Canada (Remote)",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Engagement-Delivery-Leader---Canadian-Public-Sector_JR355678",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-08T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:32:58.346Z",
+   "excerpt": "Salesforce Professional Services Engagement Delivery Leader for Canadian public sector. Canadian citizens required. Remote Customer-Based, Full-time. Posted Today (JR355678).",
+   "workArrangement": "remote",
+   "tags": [
+    "salesforce",
+    "remote",
+    "canada",
+    "public-sector"
+   ]
+  },
+  {
+   "id": "workday:https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Manager--Product--Pricing---Integrations-Operations_JR366033",
+   "source": "workday",
+   "company": "Salesforce",
+   "title": "Manager, Product, Pricing & Integrations Operations",
+   "location": "Toronto, Canada (Office - Flexible)",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Manager--Product--Pricing---Integrations-Operations_JR366033",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-05T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:32:58.346Z",
+   "excerpt": "Salesforce Manager, Product Pricing & Integrations Operations. Toronto, office-flexible, full-time. Posted 3 days ago (JR366033).",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce",
+    "canada",
+    "toronto"
+   ]
+  },
+  {
+   "id": "workday:https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-Product-Data-Analyst_JR365824",
+   "source": "workday",
+   "company": "Salesforce",
+   "title": "Senior Product Data Analyst",
+   "location": "San Francisco / Chicago / New York / Denver / Atlanta, US",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-Product-Data-Analyst_JR365824",
+   "employmentType": "full-time",
+   "salary": null,
+   "postedDate": "2026-11-04T12:00:00.000Z",
+   "scrapedAt": "2026-11-09T04:32:58.346Z",
+   "excerpt": "Salesforce Senior Product Data Analyst. US offices, office tech-flexible, full-time. Posted 4 days ago (JR365824).",
+   "workArrangement": "hybrid",
+   "tags": [
+    "salesforce",
+    "usa"
+   ]
+  },
   {
    "id": "jobs.ca:https://www.jobs.ca/alimentiv/jobs/servicenow-platform-specialist-remote-canada-b90d2889bf0e",
    "source": "jobs.ca",
