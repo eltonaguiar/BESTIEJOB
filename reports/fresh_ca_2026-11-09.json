@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T19:17:51.361245+00:00",
+  "generated": "2026-11-09T19:50:43.467288+00:00",
   "window": [
     "2026-11-09",
     "2026-11-08"
@@ -8,11 +8,20 @@
     "requests": 68,
     "jobbank_pages": 13,
     "eluta_pages": 6,
-    "linkedin_requests": 16,
-    "unverified_dropped": 18
+    "linkedin_requests": 24,
+    "unverified_dropped": 26
   },
-  "count": 31,
+  "count": 23,
   "rows": [
+    {
+      "source": "linkedin-guest",
+      "bucket": "servicenow",
+      "posted": "2026-11-09",
+      "title": "ServiceNow Technical Architect",
+      "company": "Accenture",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-accenture-4487675798"
+    },
     {
       "source": "adzuna",
       "bucket": "servicenow",
@@ -42,39 +51,21 @@
     },
     {
       "source": "linkedin-guest",
-      "bucket": "salesforce",
+      "bucket": "servicenow",
       "posted": "2026-11-09",
-      "title": "Senior Salesforce Developer",
-      "company": "CGI",
+      "title": "Senior Consultant, ServiceNow (ITAM/ITOM)",
+      "company": "KPMG Canada",
       "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4408542861"
+      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454522998"
     },
     {
-      "source": "linkedin-guest",
+      "source": "adzuna",
       "bucket": "salesforce",
       "posted": "2026-11-09",
-      "title": "Senior Salesforce Developer",
-      "company": "Webflow",
-      "location": "Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-webflow-4488879234"
-    },
-    {
-      "source": "linkedin-guest",
-      "bucket": "salesforce",
-      "posted": "2026-11-09",
-      "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
-      "company": "Smart IT Frame LLC",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411"
-    },
-    {
-      "source": "linkedin-guest",
-      "bucket": "salesforce",
-      "posted": "2026-11-09",
-      "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
-      "company": "Smart IT Frame LLC",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4487909642"
+      "title": "Salesforce Technical Lead",
+      "company": "March Networks",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5959468273?utm_medium=api&utm_source=54ce986e"
     },
     {
       "source": "adzuna",
@@ -107,24 +98,6 @@
       "source": "linkedin-guest",
       "bucket": "servicenow",
       "posted": "2026-11-09",
-      "title": "Consultant, ServiceNow Developer",
-      "company": "KPMG Canada",
-      "location": "Ottawa, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527977"
-    },
-    {
-      "source": "linkedin-guest",
-      "bucket": "servicenow",
-      "posted": "2026-11-09",
-      "title": "Senior Technical Consultant, ServiceNow Developer",
-      "company": "KPMG Canada",
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454540034"
-    },
-    {
-      "source": "linkedin-guest",
-      "bucket": "servicenow",
-      "posted": "2026-11-09",
       "title": "Senior ServiceNow Developer and Administrator",
       "company": "MNP",
       "location": "Calgary, Alberta, Canada",
@@ -136,53 +109,8 @@
       "posted": "2026-11-09",
       "title": "Senior Consultant, ServiceNow (ITAM/ITOM)",
       "company": "KPMG Canada",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454529945"
-    },
-    {
-      "source": "linkedin-guest",
-      "bucket": "servicenow",
-      "posted": "2026-11-09",
-      "title": "Senior Consultant, ServiceNow (ITAM/ITOM)",
-      "company": "KPMG Canada",
       "location": "Calgary, Alberta, Canada",
       "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454542029"
-    },
-    {
-      "source": "linkedin-guest",
-      "bucket": "servicenow",
-      "posted": "2026-11-09",
-      "title": "Senior Consultant, Developer, ServiceNow",
-      "company": "KPMG Canada",
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454539043"
-    },
-    {
-      "source": "linkedin-guest",
-      "bucket": "servicenow",
-      "posted": "2026-11-09",
-      "title": "Lead ServiceNow Architecture Consultant",
-      "company": "CGI",
-      "location": "Calgary, Alberta, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/lead-servicenow-architecture-consultant-at-cgi-4463692648"
-    },
-    {
-      "source": "linkedin-guest",
-      "bucket": "servicenow",
-      "posted": "2026-11-09",
-      "title": "Consultant, ServiceNow Developer",
-      "company": "KPMG Canada",
-      "location": "Calgary, Alberta, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527976"
-    },
-    {
-      "source": "linkedin-guest",
-      "bucket": "servicenow",
-      "posted": "2026-11-09",
-      "title": "Application Specialist, ITSM",
-      "company": "J.D. Irving, Limited",
-      "location": "Saint John, New Brunswick, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/application-specialist-itsm-at-j-d-irving-limited-4488007038"
     },
     {
       "source": "adzuna",
@@ -236,7 +164,7 @@
       "title": "Salesforce Revenue Cloud Architect",
       "company": "CloudKettle Inc",
       "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/land/ad/5958259427?se=zNx7TXLc8RGMldQtWIx3hg&utm_medium=api&utm_source=54ce986e&v=4D6056DD46B591D59752812C11CF25B584605418"
+      "url": "https://www.adzuna.ca/land/ad/5958259427?se=WtSI43bc8RGM0oG9aQFYaw&utm_medium=api&utm_source=54ce986e&v=4D6056DD46B591D59752812C11CF25B584605418"
     },
     {
       "source": "adzuna",
@@ -254,7 +182,7 @@
       "title": "Salesforce Industries Cloud Architect (Remote",
       "company": "CloudKettle Inc",
       "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/land/ad/5958259424?se=zNx7TXLc8RGMldQtWIx3hg&utm_medium=api&utm_source=54ce986e&v=BA1E29FF87A8D4D4F2AB10CB0A998756C3F33093"
+      "url": "https://www.adzuna.ca/land/ad/5958259424?se=WtSI43bc8RGM0oG9aQFYaw&utm_medium=api&utm_source=54ce986e&v=BA1E29FF87A8D4D4F2AB10CB0A998756C3F33093"
     },
     {
       "source": "adzuna",
@@ -263,7 +191,7 @@
       "title": "Salesforce Industries Cloud Architect (Remote",
       "company": "CloudKettle Inc",
       "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/land/ad/5958259429?se=zNx7TXLc8RGMldQtWIx3hg&utm_medium=api&utm_source=54ce986e&v=11A76520EA62CA32168DD61858D38BA82B8D74F4"
+      "url": "https://www.adzuna.ca/land/ad/5958259429?se=WtSI43bc8RGM0oG9aQFYaw&utm_medium=api&utm_source=54ce986e&v=11A76520EA62CA32168DD61858D38BA82B8D74F4"
     },
     {
       "source": "adzuna",

@@ -112,3 +112,52 @@ ITSM/ITAM/CMDB, Salesforce Platform Administrator/Architect/CPQ/Apex, plus
 - 17 ServiceNow, 11 Salesforce; Toronto/Ottawa/Calgary/Vancouver/Halifax mix
 - employers: KPMG (ServiceNow Developer, four cities), BMO, CGI, MNP, RSM,
   LeverageTek, Resonaite, S.i. Systems, Smart IT Frame
+
+## Round 4 — ATS date resolver, scheduled sweep, and a board audit
+
+### ATS pages were landing undated for a mechanical reason
+
+Workday and SmartRecruiters render their detail pages in JavaScript, so the
+`datePosted` / `article:published_time` pass in `scripts/web_search_scan.py`
+found nothing there and the row was filed with an em dash. Both vendors publish a
+public JSON document for the same posting, from the same source:
+
+| ATS | Endpoint | Field |
+|---|---|---|
+| Workday | `/<tenant>.wdN.myworkdayjobs.com/wday/cxs/<tenant>/<site>/job/<path>` | `jobPostingInfo.startDate` (absolute), `postedOn` |
+| SmartRecruiters | `api.smartrecruiters.com/v1/companies/<company>/postings/<id>` | `releasedDate`, `createdOn` |
+
+`scripts/ats_date_resolve.py` reads those and is now the fallback inside
+`build_rows()` (`posted_date(url) or ats_date(url)`). It keeps the board's rule:
+only an absolute date, or a relative string that names the day outright
+("Posted Today"/"Posted Yesterday"), is accepted. "Posted 3 Days Ago" is refused
+because turning it into a date needs today's date from us, not from the source.
+
+Verification: a live Salesforce/Workday posting resolved to `2026-10-20`,
+matching its own corrected row; two other sampled URLs returned nothing (the
+postings are gone), which is the correct answer rather than a guess.
+
+### The sweep is now scheduled
+
+`.github/workflows/fresh-ca-scan.py` → `fresh-ca-scan.yml` runs
+`fresh_ca_scan.py` at `25 */3 * * *` (deliberately off the hourly scan's `:00`
+slot), merges, rebuilds the page and feed, runs the README row guard **before**
+pushing, and commits with `[skip ci]`. It keeps the newest four `inbox/fresh-ca--*`
+submissions and prunes older copies, since merged rows live in README.
+
+### Audit tool
+
+`scripts/audit_today.py` checks every row the board publishes for one day and
+reports three findings: dead links, dates that are really the scan clock
+(`postedDate == scrapedAt`), and off-title rows that never name ServiceNow or
+Salesforce. It is read-only — it writes a report, never edits the board.
+
+### Round 4 cycles
+
+| Cycle | Raw | Unique | Kept | Mix | Unverified dropped |
+|---|---|---|---|---|---|
+| c1 — Adzuna + Job Bank + Eluta + 12 LinkedIn keywords | 344 | 49 | 23 | 11 ServiceNow, 12 Salesforce | 26 |
+| c2 — extra `where=` for BC/AB, deeper pages, no LinkedIn | 180 | 17 | 17 | 5 ServiceNow, 12 Salesforce | 0 |
+
+Cycle 1 originally hit a 260 s ceiling inside the LinkedIn pass, which now has
+`--linkedin-max` so a manual round can cap it; the scheduled run leaves it at 0.

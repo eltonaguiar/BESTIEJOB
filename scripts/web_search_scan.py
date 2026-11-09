@@ -36,6 +36,9 @@ sys.path.insert(0, str(ROOT / "tools"))
 
 from ai_panel import get_key  # noqa: E402  (reuses the one key-parsing implementation)
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from ats_date_resolve import resolve as ats_date  # noqa: E402  (Workday / SmartRecruiters JSON)
+
 INBOX = ROOT / "inbox"
 RAW = ROOT / "raw"
 README = ROOT / "README.md"
@@ -428,8 +431,12 @@ def build_rows(results: list[dict], known: set[str], max_fetch: int) -> tuple[li
 
     dated: list[dict] = []
     undated: list[dict] = []
+    # ATS pages render their date in JavaScript, so the HTML pass finds nothing
+    # on Workday/SmartRecruiters. Fall back to the ATS JSON endpoint, which is
+    # the same posting's own record of when it was published.
     with futures.ThreadPoolExecutor(max_workers=4) as ex:
-        dates = list(ex.map(lambda c: posted_date(c["url"]), candidates[:max_fetch]))
+        dates = list(ex.map(lambda c: posted_date(c["url"]) or ats_date(c["url"]),
+                            candidates[:max_fetch]))
     for cand, date in zip(candidates, dates):
         cand["posted"] = date
         (dated if date else undated).append(cand)

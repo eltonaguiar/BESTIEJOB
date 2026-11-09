@@ -198,14 +198,17 @@ LI_KEYWORDS = [
 LI_LOCATIONS = ["Toronto%2C%20Ontario%2C%20Canada", "Canada"]
 
 
-def linkedin_rows(window: list[str], stats: dict, days: int) -> list[dict]:
+def linkedin_rows(window: list[str], stats: dict, days: int, max_kw: int = 0) -> list[dict]:
     try:
         import linkedin_guest_scan as li  # noqa: PLC0415 (optional dependency)
     except (SystemExit, Exception) as exc:  # curl_cffi missing -> skip, never abort
         stats["linkedin"] = f"unavailable: {type(exc).__name__}"
         return []
     rows: list[dict] = []
-    for kw in LI_KEYWORDS:
+    # `max_kw` exists because the guest pass is the slowest source in this
+    # adapter (~11 s per keyword across two locations); a manual round can cap
+    # it to fit a session, and the 0 default keeps the scheduled sweep complete.
+    for kw in (LI_KEYWORDS[:max_kw] if max_kw else LI_KEYWORDS):
         for loc in LI_LOCATIONS:
             got = li.fetch(urllib.parse.quote(kw), loc, 0, days)
             stats["linkedin_requests"] = stats.get("linkedin_requests", 0) + 1
@@ -287,6 +290,8 @@ def main() -> int:
     ap.add_argument("--verify", type=int, default=1)
     ap.add_argument("--linkedin", type=int, default=1,
                     help="1 = also run the bounded LinkedIn guest pass")
+    ap.add_argument("--linkedin-max", type=int, default=0,
+                    help="cap LinkedIn keywords (0 = all %d)" % len(LI_KEYWORDS))
     ap.add_argument("--geos", default="||Toronto, Ontario|Ontario",
                     help="pipe-separated Adzuna `where` values; empty = national")
     ap.add_argument("--out-inbox", default="")
@@ -302,7 +307,8 @@ def main() -> int:
     rows = adzuna_rows(window, stats, geos)
     rows += index_rows(window, stats, args.eluta_pages, args.jobbank_pages)
     if args.linkedin:
-        rows += linkedin_rows(window, stats, days=max(args.days - 1, 1))
+        rows += linkedin_rows(window, stats, days=max(args.days - 1, 1),
+                              max_kw=args.linkedin_max)
 
     uniq: dict[str, dict] = {}
     for r in rows:

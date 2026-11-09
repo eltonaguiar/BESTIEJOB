@@ -1,0 +1,112 @@
+name: Fresh CA sweep (today + yesterday)
+
+# The hourly scan is breadth-first: it fills seven-day windows from aggregators
+# and ATS APIs, so a posting made this morning can lose the table to older rows
+# that were already queued. This workflow runs the freshness-first adapter on a
+# short cadence instead, so ServiceNow / Salesforce roles dated today or
+# yesterday reach the board within a few hours without a human starting a round.
+#
+# It is the schedule the manual rounds ran by hand on 2026-11-09.
+
+on:
+  schedule:
+    # :25 past every third hour — deliberately off the hourly scan's :00 slot.
+    - cron: '25 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'Window in days (2 = today + yesterday)'
+        default: '2'
+      geos:
+        description: 'Adzuna where= values, pipe-separated'
+        default: '||Toronto, Ontario|Ontario'
+
+concurrency:
+  group: fresh-ca-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install curl_cffi (LinkedIn guest pass)
+        # The adapter skips the LinkedIn pass cleanly when this is missing, so a
+        # pip hiccup must not fail the whole sweep.
+        run: python3 -m pip install --quiet curl_cffi
+        continue-on-error: true
+
+      - name: Fresh sweep
+        run: |
+          set -euo pipefail
+          python3 scripts/fresh_ca_scan.py \
+            --days "${{ github.event.inputs.days || '2' }}" \
+            --geos "${{ github.event.inputs.geos || '||Toronto, Ontario|Ontario' }}" \
+            --eluta-pages 4 --jobbank-pages 3 --linkedin 1
+
+      - name: Validate the submissions we just wrote
+        run: python3 scripts/check_inbox.py
+
+      - name: Merge inbox into README
+        run: python3 tools/jobs_merge_inbox.py --days 30 --max-per-table 5000 --bump-inbox
+
+      - name: Rebuild the page and the feed
+        run: |
+          set -euo pipefail
+          node scripts/sync_readme_to_jobs.mjs
+          python3 tools/build_site.py
+
+      - name: Commit
+        id: commit
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Keep the newest four sweep submissions. Merged rows live in README,
+          # so older submission files are redundant copies, not the only record.
+          ls -1t inbox/fresh-ca--*.md 2>/dev/null | tail -n +5 | while read -r f; do
+            git rm -q --ignore-unmatch "$f"
+          done
+
+          git add README.md inbox jobs.json public/jobs.json public/gotjob/jobs.json \
+                  public/findjobs/jobs.json public/jobs-data.json public/index.html
+
+          if git diff --cached --quiet; then
+            echo "changed=0" >> "$GITHUB_OUTPUT"
+            echo "Nothing new in the window"
+            exit 0
+          fi
+          git commit -m "chore(jobs): fresh CA sweep $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+          echo "changed=1" >> "$GITHUB_OUTPUT"
+
+      - name: Guard posting rows
+        if: steps.commit.outputs.changed == '1'
+        run: python3 .github/scripts/readme_job_row_guard.py --base HEAD~1 --head HEAD
+
+      - name: Push
+        if: steps.commit.outputs.changed == '1'
+        run: |
+          set -euo pipefail
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "push rejected (attempt $attempt) — rebasing onto origin/main"
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; echo "rebase conflicted; failing loudly"; exit 1; }
+            sleep 15
+          done
+          exit 1
