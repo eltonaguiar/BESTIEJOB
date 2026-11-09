@@ -75,6 +75,10 @@ const LISTING_RULES = [
   [/(^|\.)whatjobs\.com$/, /^\/jobs\/[a-z0-9-]+\/[a-z0-9-]+\/?$/],
   [/(^|\.)adzuna\.[a-z.]+$/, /^\/[a-z0-9-]+\/?$/],
   [/(^|\.)indeed\.[a-z.]+$/, /^\/q-/],
+  // jobs.ca company hub: /<company> (no /jobs/ segment) is a landing page, not a
+  // posting. A real posting is /<company>/jobs/<slug>-<hash>. Kept in sync with
+  // jobs_consolidate.py's LISTING_RULES (jobs.ca/accenture rendered as a job, 2026-11-09).
+  [/(^|\.)jobs\.ca$/, /^\/[a-z0-9-]+\/?$/],
 ];
 const LISTING_QUERY = /[?&](q|query|search|keywords?|k|ss|term|what|jobtitle)=/i;
 // Slash-delimited only: "/jobsearch/jobposting/<id>" (Job Bank) and

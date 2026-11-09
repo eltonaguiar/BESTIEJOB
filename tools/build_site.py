@@ -33,11 +33,12 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 
-from jobs_consolidate import README, classify, extract_rows  # noqa: E402
+from jobs_consolidate import README, classify, extract_rows, is_listing_url  # noqa: E402
 
 PUBLIC = ROOT / "public"
 APPLIED = ROOT / "APPLIED.md"
 JOBS_JSON = ROOT / "jobs.json"
+DEAD_URLS = ROOT / "dead_urls.txt"  # liveness-gate blocklist
 POSTED_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 FAMILY_LABEL = {"servicenow": "ServiceNow", "salesforce": "Salesforce", "other": "Other"}
 
@@ -330,6 +331,11 @@ def jobs_json_rows() -> list[dict]:
         # no date, no row: the board shows a posting date, never a guess
         if not url.startswith("http") or not title or not POSTED_RE.match(posted):
             continue
+        # Aggregator hub/search pages are not postings; drop them from the feed too.
+        if is_listing_url(url):
+            continue
+        if url.split("?")[0].rstrip("/").lower() in dead_url_keys():
+            continue
         out.append({
             "posted": posted,
             "title": title,
@@ -340,6 +346,24 @@ def jobs_json_rows() -> list[dict]:
             "family": classify(title, url),
         })
     return out
+
+
+def dead_url_keys() -> set[str]:
+    """Normalised keys for URLs the liveness gate (or a human) marked dead.
+
+    jobs.ca sits behind Cloudflare and returns 403 to a prober, so a 404 there is
+    invisible to HTTP status and a dead posting keeps rendering. tools/verify_links.py
+    --blocklist appends those; build_site drops them here.
+    """
+    if not DEAD_URLS.exists():
+        return set()
+    keys: set[str] = set()
+    for line in DEAD_URLS.read_text(encoding="utf-8").splitlines():
+        u = line.strip()
+        if not u or u.startswith("#"):
+            continue
+        keys.add(u.split("?")[0].rstrip("/").lower())
+    return keys
 
 
 def rows() -> tuple[list[dict], int]:
@@ -353,6 +377,7 @@ def rows() -> tuple[list[dict], int]:
         # jobs.json leads; README rows survive only where the JSON does not know them yet
         parsed = from_json + [r for r in parsed if _key(r["url"]) not in have]
     skip, skip_keys = applied_index()
+    dead_keys = dead_url_keys()
     seen: set[str] = set()
     raw: list[dict] = []
     dropped_applied = 0
@@ -361,6 +386,15 @@ def rows() -> tuple[list[dict], int]:
         if not url.startswith("http"):
             continue
         key = url.split("?")[0].rstrip("/").lower()
+        # Aggregator search/category pages (jobs.ca company hubs, wellfound
+        # /role/, indeed /q-, linkedin *-jobs) are not postings; sync_readme_to_jobs
+        # skips them for the feed but build_site rendered README rows directly —
+        # jobs.ca/accenture showed on the live page as a ServiceNow posting
+        # (2026-11-09). Drop them at render time; also drop liveness-gate dead URLs.
+        if is_listing_url(url):
+            continue
+        if key in dead_keys:
+            continue
         toks = set(t for t in norm(r["title"]).split() if len(t) > 3)
         applied_ident = False
         if key in skip:

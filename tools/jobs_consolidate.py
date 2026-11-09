@@ -87,6 +87,11 @@ LISTING_RULES = (
     (r"(^|\.)whatjobs\.com$", r"^/jobs/[a-z0-9-]+/[a-z0-9-]+/?$"),
     (r"(^|\.)adzuna\.[a-z.]+$", r"^/[a-z0-9-]+/?$"),
     (r"(^|\.)indeed\.[a-z.]+$", r"^/q-"),
+    # jobs.ca company hub: /<company> (no /jobs/ segment) is a company landing
+    # page, not a posting. A real posting is /<company>/jobs/<slug>-<hash>.
+    # Without this, jobs.ca/accenture rendered as a ServiceNow Technical
+    # Architect posting (2026-11-09).
+    (r"(^|\.)jobs\.ca$", r"^/[a-z0-9-]+/?$"),
 )
 LISTING_QUERY = re.compile(r"(?i)[?&](q|query|search|keywords?|k|ss|term|what|jobtitle)=")
 # Slash-delimited only: "/jobsearch/jobposting/<id>" (Job Bank) and

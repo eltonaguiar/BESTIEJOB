@@ -1,0 +1,4 @@
+# Dead posting URLs the build must not render.
+# Appended by tools/verify_links.py --blocklist on 404/410/451, or by hand when a
+# host bot-walls the prober (jobs.ca is behind Cloudflare, status can't tell).
+https://www.jobs.ca/brookfield-asset-management/jobs/servicenow-developer-contract-role-toronto-on-8b05d6a30bcc

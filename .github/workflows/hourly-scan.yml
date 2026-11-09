@@ -30,7 +30,7 @@ jobs:
         run: npm ci
 
       - name: Install Playwright Chromium (LinkedIn fallback)
-        run: npx playwright install --with-deps chromium
+        run: npx playwright install --with-deps chromium chromium-headless-shell
         continue-on-error: true
 
       - name: Run hourly job scan
@@ -39,6 +39,14 @@ jobs:
           ADZUNA_API_KEY: ${{ secrets.ADZUNA_API_KEY }}
           NODE_ENV: production
         run: node scripts/daily_job_scan.mjs --no-readme
+
+      - name: Ensure Playwright headless shell present (gap scan)
+        run: npx playwright install --with-deps chromium chromium-headless-shell
+        continue-on-error: true
+
+      - name: Drop dead postings (404/410/451 liveness gate)
+        continue-on-error: true
+        run: python3 tools/verify_links.py --days 2 --workers 16 --blocklist dead_urls.txt
 
       - name: Gap scan (partner career sites + keyword variants)
         continue-on-error: true

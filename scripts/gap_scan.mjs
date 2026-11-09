@@ -266,7 +266,22 @@ async function mapLimit(items, limit, fn) {
 async function scanSites() {
   const raw = { sites: {}, undated: [] };
   const candidates = [];
-  const browser = await chromium.launch({ headless: true });
+  // Playwright >=1.49 defaults chromium to the "chrome-headless-shell" build,
+  // which `playwright install chromium` did NOT fetch (chromium_headless_shell-1208
+  // missing -> gap scan aborted every hour, 2026-11-09). Try the headless shell,
+  // then the full chromium build, then a channel override rather than failing.
+  let browser;
+  try {
+    browser = await chromium.launch({ headless: true });
+  } catch (shellErr) {
+    console.warn(`[gap] headless-shell launch failed (${shellErr.message}); trying full chromium`);
+    try {
+      browser = await chromium.launch({ headless: true, channel: "chromium" });
+    } catch (chanErr) {
+      console.warn(`[gap] chromium channel failed (${chanErr.message}); last try: executablePath override`);
+      browser = await chromium.launch({ headless: true, executablePath: process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE || undefined });
+    }
+  }
   const ctx = await browser.newContext({ userAgent: UA, locale: "en-CA" });
 
   try {
