@@ -80,3 +80,33 @@ uses `--max-per-table 400`, which archives in-window rows beyond the 400th per
 family. That backlog should be merged once with a much higher cap (the live feed
 holds 778 ServiceNow + 905 Salesforce rows inside 30 days) or the extra rows will
 be silently parked in `README.BAK_*.md`.
+
+## Follow-up — `browser-use/jev-ultrafast` evaluated (same day)
+
+"Jev" here is browser-use's **web agent**, not a chat model:
+<https://github.com/browser-use/jev-ultrafast> — one natural-language goal,
+a numbered element table, and a CLICK / TYPE_TEXT / SELECT / SCROLL / DONE
+loop.
+
+**Can it run here? No.** It needs `TYPESAFE_API_KEY` + `TEXT_MODEL_API_KEY`,
+`uv sync`, and Browser Harness over a real Chrome. This workspace has no
+TypeSafe key (0 matches in `~/dbpasses.txt` and the environment) and no `uv`.
+Browser Use Cloud's hosted `bu-ultrafast` needs a Browser Use Cloud key, also
+absent.
+
+**What it would add:** acting on login-free, JS-rendered ATS pages and reading
+values a static fetch cannot see. **What it would not add:** discovery (it has
+no search), bulk output (one goal per run, no structured rows), or cheap volume
+(a model round trip per decision).
+
+Tested the capability it would provide using tools already installed:
+
+| Attempt | Result |
+|---|---|
+| Playwright + Chromium render of 13 undated candidates | **1/13** dates (MLSE 2026-09-30, outside window). Workday never painted the date; SmartRecruiters served an IE11 notice. |
+| Workday CXS `/wday/cxs/<tenant>/<site><path>` | Real `startDate` for BDO (2026-08-24) and MLSE (2026-09-30) — both outside the 30-day window — and **403 Forbidden** for BMO, Cloudera, GDIT, TD, Altus Group, Salvation Army. |
+
+**Verdict: not worth wiring now** — no credential, no search, no bulk output,
+and the free alternatives surfaced nothing fresh. Revisit only if a TypeSafe key
+is added, or for the one task guest endpoints cannot do: acting inside a
+logged-in LinkedIn session.
