@@ -87,3 +87,98 @@ ServiceNow Careers Toronto: Staff Systems Engineer (×2, 2026-11-06), Staff Secu
 - `JOBLESSONS_2026-11-09.MD` — this file, updated on repo root on main (01:00 EST run section added).
 - `README.md` — no changes (zero verified fresh jobs this hour).
 - `public/` / GitHub Pages — no changes; no redeploy required.
+
+## Hourly scan — 2026-11-09 05:00 EST (10:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 05:00 EST (10:00 UTC) |
+| Baseline (README.md tables on main) | 5,405 unique curated URLs · ServiceNow 723 · Salesforce 882 · Other 3,834 · window 2026-10-10 → 2026-11-09 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 2 |
+| Jobs merged to README.md | 2 |
+| Jobs rebuilt on GitHub Pages (public/) | 2 (via `python3 tools/build_site.py`; `pages.yml` redeploys on push to main) |
+
+### Candidates reviewed
+
+- **Scotiabank IT & Digital Banking jobs page** (jobs.scotiabank.com/go/IT-&-Digital-Banking-Jobs/2298017/, page 1 = newest 25 of 132, reference-date sort desc): **DevOps Engineer (Salesforce), Toronto, Nov 07 2026, req 276046** and **Senior Manager, Salesforce Engineering, Toronto, Nov 05 2026, req 275778**. Both requisition pages verified live; neither URL on the board → merged to the Salesforce table via `inbox/hermes-cron--2026-11-09--v1.md` (+2 new, 0 duplicate). The same roles already exist on the board via LinkedIn mirrors dated 2026-10-31 (DevOps Engineer(Salesforce) 4476839954; Senior Manager, Salesforce Engineering 4475490374), so the direct requisition URLs add the fresher verified date without duplicating.
+- Remaining page-1 Scotiabank roles are not SN/SF (IAM Architect, strategy enablement, payments BA, engineering leads, platform engineers); no fresh ServiceNow posting on page 1.
+- **Indeed.ca ServiceNow / Salesforce Toronto** — BMO ServiceNow SAM Administrator–ITAM ("Nouveauté"), Alimentiv ServiceNow Platform Specialist, BFG Enterprise Services ServiceNow Administrator/Developer, CloudKettle Salesforce Revenue Cloud Architect ("New"): search results show no extractable absolute posting date and no resolvable direct posting URL → leads only, not merged (the merger rejects rows without a `YYYY-MM-DD` and aggregator listing URLs).
+- **ServiceNow Careers Toronto / KPMG / Deloitte / CGI / Salesforce core postings (Nov 05–08)** — already on the board; skipped as duplicates.
+- **Rogers / Bell / jobs.gc.ca** — no fresh SN/SF (Rogers Lead Management Operations posted Oct 28, stale; Bell ServiceNow System Administrator returns "has been filled"; jobs.gc.ca zero SN/SF Toronto results) — consistent with the 00:00 and 01:00 runs.
+
+### Patterns / lessons (05:00 run)
+
+1. **Big-bank SuccessFactors pages expose date-sorted lists with absolute dates** — Scotiabank's careers page sorts by reference date, newest first, making it the most reliable freshness source this run. Indeed.ca search pages are listing URLs (rejected by the merger) and "New" tags rarely carry an extractable date.
+2. **The board is current through 2026-11-09** — hourly merges are now small; 0–2 verified adds per run is the expected range.
+3. **Same role, different URLs:** both Scotiabank roles were already on the board via LinkedIn mirrors (Oct 31). Direct employer-ATS URLs are still worth merging when they carry a newer verified date; normalize URLs (strip query strings, trailing slashes, LinkedIn session params) before dedupe.
+4. **Filled or expired roles never enter the board** (Bell example); record them dead in the source scan and stop re-checking each run.
+
+### Files touched (05:00 run)
+
+- `inbox/hermes-cron--2026-11-09--v1.md` — this run's submission (+2 new, 0 duplicate).
+- `README.md` — 5,407 live postings (ServiceNow 713, Salesforce 877, Other 3,817), window 2026-10-10 → 2026-11-09; +2 Salesforce rows (Scotiabank); expired rows archived to `README.BAK_2026-11-09T100805Z.md`.
+- `public/` (GitHub Pages) — rebuilt with `python3 tools/build_site.py`; `pages.yml` redeploys on the push to main.
+- `JOBLESSONS_2026-11-09.MD` — this file, 05:00 EST section added.
+
+## Hourly scan — 2026-11-09 06:00 EST (11:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 06:00 EST (11:00 UTC) |
+| Baseline (README.md on main) | 5,407 live postings · ServiceNow 713 · Salesforce 877 · Other 3,817 · window 2026-10-10 → 2026-11-09 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs merged to GitHub Pages | 0 (no changes required) |
+
+### Candidates reviewed (06:00 run)
+
+- **ServiceNow Careers Toronto** (Nov 05–06): Staff Systems Engineer (JB0073786, JB0073788) and Senior/Staff SRE Canada Protected B (JB0076846, JB0076847). careers.servicenow.com pages return HTTP 403 to automated probes (bot wall, not dead) — title/date/location confirmed via search snippets. All four requisitions are already on the board via jobs.smartrecruiters.com mirrors (744000160277860, 744000160278249, 744000159911194 card, 744000159910447); build_site.py clusters them under existing cards. Skipped as duplicate requisitions.
+- **Rogers** (jobs.rogers.com/Greenhouse): 21 Technology roles, newest Nov 7; no ServiceNow/Salesforce technical role (Platform Specialist mentions ServiceNow only incidentally). Nothing added.
+- **Bell** (jobs.bell.ca/Phenom): Salesforce Solution Architect 430856, Platform Manager 428467, Marketing Cloud Email Developer 431169, Developer 429834, BECACA428466 — all return "has been filled". Excluded; filled roles never enter the board.
+- **jobs.gc.ca / Canada.ca** — zero ServiceNow/Salesforce Toronto hits.
+- **Partners** — Deloitte SF Developer - Digital Customer 135279 already on board. Capgemini careers sits behind an SAP cookie-consent wall (extraction returns cookie text only, posting date unverifiable) — lead only (Sr Salesforce Developer, Toronto, permanent, $92K–$114K seen on Indeed).
+- **LinkedIn.ca** — ServiceNow/Salesforce Toronto sorted by date; no verifiable new posting outside existing mirrors.
+
+### Patterns / lessons (06:00 run)
+
+1. **Zero-fresh runs are the norm right after a bulk jobs.json refresh** — the 10:59 UTC scan captured 5,024 listings (635 new in-cycle). Check the board's "as of" date before expecting hourly merges.
+2. **Dedupe by requisition, not just URL** — a fresh careers.servicenow.com URL adds zero new page cards when the same JB number is already mirrored via jobs.smartrecruiters.com (build_site.py clusters by canonical title + employer + compatible location).
+3. **Bot-wall ≠ dead** — 403 from careers.servicenow.com/jobs.gc.ca-style probes; verify via snippets. Only 404/410/451 and explicit "filled/expired" body markers retire a posting.
+4. **Cookiewalled ATS (Capgemini SAP careers) cannot be dated by extraction** — use Indeed/Google snippets or skip the role.
+5. **Filled roles stay out** (Bell example) — record them dead in the source scan so they aren't re-checked every run.
+
+### Files touched (06:00 run)
+
+- `JOBLESSONS_2026-11-09.MD` — this file, 06:00 EST section added.
+- `README.md` — no changes (zero verified fresh jobs this hour).
+- `jobs.json` / `public/` — no changes; no redeploy required.
+
+## Hourly scan — 2026-11-09 07:00 EST (12:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 07:00 EST (12:00 UTC) |
+| Baseline (README.md on main) | 5,411 live postings · ServiceNow 717 · Salesforce 877 · Other 3,817 · window 2026-10-10 → 2026-11-09 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 1 |
+| Jobs merged to README.md | 1 |
+| Jobs rebuilt on GitHub Pages (public/) | 1 (via `python3 tools/build_site.py`; `pages.yml` redeploys on push to main) |
+
+### Candidates reviewed (07:00 run)
+- **TD — Product Owner I - AskHR** (Toronto/London, ON; Workday req R_1519634; posted 2026-11-08 "Posted Yesterday"; application end date 2026-11-09; $96,900–$136,800 CAD): Workday page renders a cookie/JS shell to headless probes, but the search index captured the page's posted date. Merged to the **Other** table — it's a ServiceNow AskHR/HRSD product-owner role at a Big Five bank, but the title carries no SN/SF keyword so `classify()` places it in Other. Not previously on the board. URL: https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I---AskHR_R_1519634
+- **Benevity — Senior Salesforce Administrator** (Toronto hybrid, Ashby; "Posted Yesterday" on a jobs mirror): verified live on jobs.ashbyhq.com but already on the board since 2026-10-28 — duplicate by URL; skipped.
+- **Scotiabank — Salesforce Developer** (req 265640): jobs.scotiabank.com returns "currently not accepting any further applicants" — closed; skipped. Never add filled/closed roles.
+- **Solink — Senior Salesforce Developer** (Remote Canada): direct Ashby URL returns HTTP 404 — a true dead posting; skipped.
+- **VML MAP — Salesforce Marketing Cloud Manager - Development** (Toronto, Greenhouse): live posting but no extractable posted date on the page — undated rows cannot be merged; skipped.
+- **Indeed.ca / LinkedIn.ca / Job Bank / Rogers / Bell / jobs.gc.ca**: Indeed listing pages carry no extractable dates or direct posting URLs; LinkedIn is a login wall; Bell's SN/SF roles return "has been filled"; Rogers shows no fresh SN/SF technical role; jobs.gc.ca zero SN/SF Toronto hits — consistent with the 00:00/01:00/05:00/06:00 runs.
+
+### Patterns / lessons (07:00 run)
+1. **One verified add this hour** — TD's AskHR product owner (ServiceNow HRSD platform work) merged to Other; zero-to-one fresh merges remain the norm late in the monitoring window.
+2. **Mirror "Posted Yesterday" ≠ board-fresh** — Benevity's SF Admin re-surfaced as "Posted Yesterday" on a jobs mirror but entered the board 2026-10-28; URL dedupe caught the duplicate.
+3. **Dead vs. bot-wall distinction holds** — Solink's Ashby URL is a true 404 (dropped); TD's Workday shell is a live page behind cookie/JS, not dead (search-snippet date accepted, consistent with prior 403-handling practice).
+4. **Undated employer postings can't be merged** — VML MAP's Greenhouse page and Ashby postings show no posted date; the merger requires an absolute YYYY-MM-DD.
+
+### Files touched (07:00 run)
+- `inbox/hermes-cron--2026-11-09--v2.md` — this run's submission (+1 new, 0 duplicate).
+- `README.md` — 5,412 live postings (ServiceNow 717, Salesforce 877, Other 3,818); +1 Other row (TD AskHR).
+- `README.BAK_2026-11-09T120923Z.md` — pre-merge backup created by the merger.
+- `public/jobs-data.json` + `public/index.html` — rebuilt with `python3 tools/build_site.py` (4,516 indexed jobs incl. jobs.json union); `pages.yml` redeploys on push to main.
