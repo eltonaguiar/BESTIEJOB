@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T10:29:35+00:00",
+ "generatedAt": "2026-11-09T10:59:40+00:00",
  "timezone": "America/Toronto",
- "count": 4508,
+ "count": 4510,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -145,6 +145,7 @@
   "hiring.camp",
   "hiringcafe.com",
   "hirocareers.com",
+  "ia.ca",
   "iadyup.fa.ocs.oraclecloud.com",
   "ihiretechnology.com",
   "iitjobs.com",
@@ -181,7 +182,6 @@
   "jobs.insightglobal.com",
   "jobs.jobvite.com",
   "jobs.learnetrm.com",
-  "jobs.lererhippeau.com",
   "jobs.pomerleau.ca",
   "jobs.rbc.com",
   "jobs.rsmus.com",
@@ -200,6 +200,7 @@
   "jobsus.deloitte.com",
   "kickstartremote.com",
   "kitjob.ca",
+  "lanefour.com",
   "leadingtalent.ca",
   "likeremote.com",
   "lumirole.com",
@@ -315,23 +316,28 @@
    "posted": "2026-11-09",
    "title": "Senior Technical Consultant, ServiceNow Developer",
    "company": "KPMG Canada",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454529946",
+   "location": "Halifax, Nova Scotia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454540034",
    "note": "linkedin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "LinkedIn",
    "verified": "Aggregator",
-   "match": 98,
+   "match": 94,
    "matchReasons": [
     "ServiceNow",
     "Consulting/BA",
     "Role fit",
-    "Toronto area"
+    "Canada / remote"
    ],
    "french": false,
-   "search": "senior technical consultant, servicenow developer kpmg canada ottawa, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
+   "search": "senior technical consultant, servicenow developer kpmg canada halifax, nova scotia, canada linkedin servicenow linkedin servicenow consulting/ba role fit canada / remote",
    "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454529946",
+     "label": "LinkedIn · Ottawa"
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454544018",
@@ -346,11 +352,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454517975",
      "label": "LinkedIn · Calgary"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-technical-consultant-servicenow-developer-at-kpmg-canada-4454540034",
-     "label": "LinkedIn · Halifax"
     }
    ]
   },
@@ -434,13 +435,13 @@
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454544021",
-     "label": "LinkedIn · Vancouver"
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527976",
+     "label": "LinkedIn · Calgary"
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454527976",
-     "label": "LinkedIn · Calgary"
+     "url": "https://ca.linkedin.com/jobs/view/consultant-servicenow-developer-at-kpmg-canada-4454544021",
+     "label": "LinkedIn · Vancouver"
     },
     {
      "source": "LinkedIn",
@@ -476,6 +477,11 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454542032",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454517977",
      "label": "LinkedIn · Vancouver"
     },
@@ -488,11 +494,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454522996",
      "label": "LinkedIn · Ottawa"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-consultant-developer-servicenow-at-kpmg-canada-4454542032",
-     "label": "LinkedIn · Calgary"
     }
    ]
   },
@@ -547,6 +548,11 @@
    "french": false,
    "search": "salesforce platform developer altus group toronto, on, canada simplyhired.ca salesforce simplyhired salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "jobs.lererhippeau.com",
+     "url": "https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer",
+     "label": "jobs.lererhippeau.com · Toronto"
+    },
     {
      "source": "Workday ATS",
      "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
@@ -779,6 +785,59 @@
    "french": false,
    "search": "senior salesforce solution architect/developer csa group toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Administrator",
+   "company": "Lane Four",
+   "location": "Toronto, ON, Canada",
+   "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+   "note": "lanefour",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "lanefour.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce administrator lane four toronto, on, canada lanefour.com salesforce lanefour salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Developer",
+   "company": "iA Financial Group",
+   "location": "Quebec / Montreal, QC, Canada",
+   "url": "https://ia.ca/en/carrieres/job/jr10027986",
+   "note": "ia-financial",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "ia.ca",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer ia financial group quebec / montreal, qc, canada ia.ca salesforce ia-financial salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479575758",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479085152",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -11667,33 +11726,6 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "Salesforce Developer",
-   "company": "iA Financial Group (Industrial Alliance)",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479575758",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer ia financial group (industrial alliance) vancouver, british columbia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-ia-financial-group-industrial-alliance-4479085152",
-     "label": "LinkedIn · Quebec"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-05",
    "title": "Salesforce Revenue Cloud CPQ (RCA) Architect",
    "company": "Smart IT Frame LLC",
    "location": "Canada",
@@ -21790,27 +21822,6 @@
    ],
    "french": false,
    "search": "salesforce platform developer at altus group limited/groupe altus unknown canada startup.jobs salesforce readme salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce Platform Developer @ Reonomy / Lerer Hippeau Job Board",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.lererhippeau.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce platform developer @ reonomy / lerer hippeau job board unknown canada jobs.lererhippeau.com salesforce readme salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -38200,6 +38211,26 @@
    ],
    "french": false,
    "search": "junior salesforce developer (marketing cloud) industrious crm pickering, on simplyhired.ca salesforce simplyhired salesforce role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Salesforce job",
+   "company": "Brex",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://martechjobs.io/canada/salesforce-jobs/",
+   "note": "brex",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "martechjobs.io",
+   "verified": "Employer board",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce job brex vancouver, british columbia, canada martechjobs.io salesforce brex salesforce canada / remote",
    "alternates": []
   },
   {
@@ -95791,27 +95822,6 @@
   },
   {
    "posted": "2026-10-16",
-   "title": "Salesforce Developer / Administrator",
-   "company": "Astek Canada",
-   "location": "Remote, Canada",
-   "url": "https://www.jobs.ca/astek/jobs/salesforce-developer-administrator-developpeur-administrateur-salesforce-remote-canada-united-states-3d923fd88bc6",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer / administrator astek canada remote, canada jobs.ca salesforce readme salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-16",
    "title": "Salesforce Administrator",
    "company": "Doctors of BC",
    "location": "Greater Vancouver, British Columbia, Canada",
@@ -95829,6 +95839,27 @@
    ],
    "french": false,
    "search": "salesforce administrator doctors of bc greater vancouver, british columbia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-16",
+   "title": "Salesforce Developer / Administrator",
+   "company": "Astek",
+   "location": "Remote, Canada, United States",
+   "url": "https://www.jobs.ca/astek/jobs/salesforce-developer-administrator-developpeur-administrateur-salesforce-remote-canada-united-states-3d923fd88bc6",
+   "note": "jobs.ca",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer / administrator astek remote, canada, united states jobs.ca salesforce jobs.ca salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -98288,6 +98319,27 @@
    ],
    "french": false,
    "search": "salesforce data architect, revenue solutions neuraflash remote - united states greenhouse salesforce greenhouse salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-09-29",
+   "title": "Salesforce Developer - Digital Customer",
+   "company": "Deloitte",
+   "location": "Toronto, ON, Canada",
+   "url": "https://careers.deloitte.ca/job/Salesforce-Developer-Digital-Customer/135279-en_US",
+   "note": "deloitte",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "careers.deloitte.ca",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer - digital customer deloitte toronto, on, canada careers.deloitte.ca salesforce deloitte salesforce role fit toronto area",
    "alternates": []
   }
  ]
