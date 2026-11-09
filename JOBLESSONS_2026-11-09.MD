@@ -454,3 +454,29 @@ Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.s
 **Junior/Platform focus:** Capco and Deloitte postings cite Salesforce Platform Developer I / ADM 201 — keep scanning those boards weekly for entry-level / Platform Admin / Platform Developer I adds.
 
 **Build:** tools/build_site.py regenerates public/jobs-data.json + public/index.html; keep public/jobs.json, public/gotjob/jobs.json, public/findjobs/jobs.json byte-identical to jobs.json.
+
+## Hermes hourly scan — 2026-11-09 16:00 EST
+
+2 verified fresh Toronto-area Salesforce jobs merged (jobs.json 5,150 → 5,152; README tables Salesforce 922 → 924; total 5,630 → 5,632; public/ rebuilt and live). Zero new ServiceNow roles this cycle — every ServiceNow hit (KPMG x2, Accenture Technical Architect, BMO ServiceNow SAM Administrator - ITAM, ServiceNow direct Staff SRE/Systems Engineer) was already on the board from earlier today's scans.
+
+**Added:**
+- Salesforce Developer — Hays — Greater Toronto Area, Canada — posted 2026-11-09 (~45 minutes ago) — via LinkedIn guest API — https://ca.linkedin.com/jobs/view/salesforce-developer-at-hays-4489123880 — verifyState live
+- Certinia PSA Architect - Senior Principal — Slalom — Greater Toronto Area, Canada — posted 2026-11-09 (~1 hour ago) — via LinkedIn guest API — https://ca.linkedin.com/jobs/view/certinia-psa-architect-senior-principal-at-slalom-4487961045 — Salesforce-ecosystem PSA (Certinia/FinancialForce on Salesforce); borderline include, flagged in row source note
+
+**Sources that worked:** LinkedIn guest API (jobs-guest seeMoreJobPostings, last 24h, Toronto, sort by date) — 196 cards across 11 keyword × page sweeps (ServiceNow, Salesforce, ServiceNow/Salesforce Administrator, Platform Developer, ServiceNow/Salesforce Developer, ServiceNow/Salesforce Ottawa, Rogers, Bell Canada); 114 already on board; 82 new overall; 2 verified SN/SF-relevant.
+
+**Sources that yielded nothing new:** Indeed.ca (search pages load but /viewjob links are Cloudflare-cloaked /rc/clk redirects — no extractable direct postings; do not rely on), jobs.canada.ca / jobs.gc.ca site search (zero ServiceNow/Salesforce Toronto hits), Rogers.ca / Bell.ca site search (no fresh SN/SF technical roles; Bell's ServiceNow/Systems Admin postings return "position filled").
+
+**Already on board — dedupe hits, not re-added:** all ServiceNow roles from KPMG, Accenture, BMO, ServiceNow direct already present (verified against the 7,398-URL set in README.md + jobs.json).
+
+**Entry-level gap:** no Junior ServiceNow Administrator or Salesforce Platform Developer I roles surfaced Toronto-wide this cycle; market remains Staff/Senior-heavy.
+
+**Patterns / lessons for future agents:**
+- LinkedIn guest API cards carry date-only `datetime` plus relative age ("45 minutes ago") — use the relative age as posted date; never add a LinkedIn row without a verifiable date on the card.
+- Dedupe by normalized URL (strip query string, trailing slash, lowercase) across both README.md tables and jobs.json.
+- public/jobs.json, public/gotjob/jobs.json, public/findjobs/jobs.json must stay byte-identical to jobs.json.
+- Run tools/build_site.py locally to regenerate public/jobs-data.json + public/index.html before committing; pages.yml redeploys GitHub Pages on any push to public/** or README.md.
+- Race: the repo's own hourly-scan Action commits at :00 UTC (21:00 UTC = this run's wall time) — use the git REST API (blobs → tree → commit → ref update) with retry on 409; never git.exe on this host (blocked).
+
+**Files touched:** JOBLESSONS_2026-11-09.MD (this file), README.md, jobs.json, public/jobs.json, public/gotjob/jobs.json, public/findjobs/jobs.json, public/jobs-data.json, public/index.html.
+

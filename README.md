@@ -10,7 +10,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-09](#current-jobs--as-of-2026-11-09)
   - [ServiceNow jobs (736)](#servicenow-jobs-736)
-  - [Salesforce jobs (922)](#salesforce-jobs-922)
+  - [Salesforce jobs (924)](#salesforce-jobs-922)
   - [Other jobs (3972)](#other-jobs-3972)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-09
 
-Window: 2026-10-10 → 2026-11-09 · **5630 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-10 → 2026-11-09 · **5632 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (736)
 
@@ -767,14 +767,16 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (922)
+### Salesforce jobs (924)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 922 postings</strong></summary>
+<details><summary><strong>Show 924 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-09 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-hays-4489123880) | Hays | Greater Toronto Area, Canada | via linkedin-guest 2026-11-09 |
+| 2026-11-09 | [Certinia PSA Architect - Senior Principal](https://ca.linkedin.com/jobs/view/certinia-psa-architect-senior-principal-at-slalom-4487961045) | Slalom | Greater Toronto Area, Canada | via linkedin-guest 2026-11-09 |
 | 2026-11-09 | [Sr. Salesforce CRM Development Lead](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163) | McKesson | CAN, ON, Mississauga | via inbox_opencode-job-hunt-final--2026-11-09--v1.md |
 | 2026-11-09 | [Senior Salesforce Solution Architect/Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-solution-architect-developer-at-csa-group-4210626816) | CSA Group | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
 | 2026-11-09 | [Senior Salesforce Solution Architect to lead the solution design and migration from an existing Open CTI implementation to Salesforce Service Cloud Voice integrated with NICE CXone.](https://www.adzuna.ca/details/5959388506?utm_medium=api&utm_source=54ce986e) | S I Systems | Toronto, Ontario | via fresh-ca--2026-11-09--v1.md |
