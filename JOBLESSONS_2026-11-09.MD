@@ -414,3 +414,23 @@ Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.s
 - `public/` (GitHub Pages) — rebuilt with `python3 tools/build_site.py` (4,516 indexed jobs); pages.yml redeploys on push to main.
 - `dead_urls.txt` — unchanged this hour (no new dead URLs confirmed).
 
+
+
+## 2026-11-09 hourly scan (14:00 EST / 19:00 UTC) — Hermes cron
+
+**Scope:** fresh Toronto ServiceNow / Salesforce jobs; emphasis entry-level / Platform Admin / Platform Developer I; partners (Accenture, Deloitte, KPMG, Capgemini, CGI), Rogers/Bell/Telus, Canadian government.
+
+**Result:** 2 verified jobs added to jobs.json + README.md + public/ (commits jobs.json 333a163c, README.md 41308133, public/jobs-data.json c6f3a2a5, public/index.html 19dded41):
+- KPMG Senior Technical Consultant, ServiceNow Developer — careers.kpmg.ca/jobs/33533 — Toronto/multi-location — 4-6 yrs — $77K-$102K CAD — verifyState live
+- KPMG Consultant/Senior Consultant - ServiceNow Solution Developer — careers.kpmg.ca/jobs/33919 — Toronto/multi-location — 3+ yrs, CSA — $70K-$102K CAD — verifyState live
+
+**Entry-level gap:** no Junior ServiceNow Administrator or Salesforce Platform Developer I roles surfaced Toronto-wide this cycle. Market is Staff/Senior-heavy (ServiceNow: Staff Security Engineer/Systems Engineer/SRE at ServiceNow direct; Salesforce: senior developers at Moneris, Altus Group, RBC, Scotiabank — all already on board or verified duplicates).
+
+**Already on board — dedupe hits, not re-added:** KPMG Consultant ServiceNow Developer (careers.kpmg.ca/professionals/jobs/33530; LinkedIn variants ...4454532959/...4454544021), Moneris Principle Salesforce Developer (workday JR106006), Altus Group Salesforce Platform Developer (simplyhired), Deloitte Salesforce Developer Digital Customer (careers.deloitte.ca 135279), Deloitte Senior Consultant ServiceNow Platform (req 133759), BMO ServiceNow SAM Administrator - ITAM, TD Sr. IT Developer ServiceNow.
+
+**Timing:** the repo's own hourly scan ran at 18:45 UTC (jobs.json meta scrapedAt 2026-11-09T18:45:11Z, +736 newThisScan); this cron ran immediately after, so incremental surface area was thin. No Contents-API 409 conflicts this run.
+
+**Verification notes:** company ATS pages (careers.kpmg.ca, careers.deloitte.ca, myworkdayjobs) load server-side and verify cleanly. Indeed/LinkedIn HTML are walled: Indeed viewjob returned Cloudflare "Request Blocked" (CGI ServiceNow Administrator/Developer jk=cf4ffdcf78006e60 NOT added — unverified). jobs.ca/LinkedIn hub URLs (`/<company>` without `/jobs/`) are listing URLs — excluded by `is_listing_url`. GCjobs site search returned nothing for ServiceNow/Salesforce Toronto.
+
+**Next-cycle suggestions:** search satellite GTA cities (Markham, Mississauga, Vaughan, Etobicoke); jobbank.gc.ca ServiceNow/Salesforce; partner career pages directly (Accenture, Capgemini); retry Indeed via browser with cookies when Cloudflare clears.
+
