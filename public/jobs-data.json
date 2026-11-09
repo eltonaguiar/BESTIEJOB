@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T22:50:53+00:00",
+ "generatedAt": "2026-11-09T23:12:00+00:00",
  "timezone": "America/Toronto",
- "count": 4669,
+ "count": 4671,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -1216,6 +1216,48 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Sr. Salesforce Developer",
+   "company": "Genesys",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487960730",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. salesforce developer genesys toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487961716",
+     "label": "LinkedIn · British Columbia"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487973509",
+     "label": "LinkedIn · Alberta"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487963660",
+     "label": "LinkedIn · Ontario"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487972526",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Salesforce Revenue Cloud Developer",
    "company": "Tekgence Inc",
    "location": "Toronto, Ontario, Canada",
@@ -1233,6 +1275,27 @@
    ],
    "french": false,
    "search": "salesforce revenue cloud developer tekgence inc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior/Lead Salesforce Marketing Cloud Engineer",
+   "company": "Diligente Technologies",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-lead-salesforce-marketing-cloud-engineer-at-diligente-technologies-4477699547",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior/lead salesforce marketing cloud engineer diligente technologies mississauga, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -1337,6 +1400,27 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Salesforce Revenue Cloud Architect - Communications Cloud, Apex, LWC, SOQL, and Salesforce configuration",
+   "company": "Apptoza Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-communications-cloud-apex-lwc-soql-and-salesforce-configuration-at-apptoza-inc-4487173874",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud architect - communications cloud, apex, lwc, soql, and salesforce configuration apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario, Canada",
@@ -1364,10 +1448,10 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Salesforce Revenue Cloud Architect - Communications Cloud, Apex, LWC, SOQL, and Salesforce configuration",
-   "company": "Apptoza Inc.",
+   "title": "Salesforce Revenue Cloud Architect",
+   "company": "LanceSoft, Inc.",
    "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-communications-cloud-apex-lwc-soql-and-salesforce-configuration-at-apptoza-inc-4487173874",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-lancesoft-inc-4487953893",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -1380,7 +1464,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce revenue cloud architect - communications cloud, apex, lwc, soql, and salesforce configuration apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "search": "salesforce revenue cloud architect lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -1871,27 +1955,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Développeur(euse) - Release Manager Salesforce",
-   "company": "iA Financial Group (Industrial Alliance)",
-   "location": "Québec, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-release-manager-salesforce-at-ia-financial-group-industrial-alliance-4443557607",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "developpeur(euse) - release manager salesforce ia financial group (industrial alliance) quebec, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "RevOps Solutions Architect (HubSpot + Salesforce)",
    "company": "ProperExpression",
    "location": "Canada",
@@ -1909,6 +1972,27 @@
    ],
    "french": false,
    "search": "revops solutions architect (hubspot + salesforce) properexpression canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Développeur(euse) - Release Manager Salesforce",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-release-manager-salesforce-at-ia-financial-group-industrial-alliance-4443557607",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur(euse) - release manager salesforce ia financial group (industrial alliance) quebec, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -2076,7 +2160,7 @@
    "company": "Apptoza Inc.",
    "location": "Toronto, Ontario, Canada",
    "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-advanced-at-apptoza-inc-4487421227",
-   "note": "readme",
+   "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
    "source": "LinkedIn",
@@ -2087,7 +2171,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce revenue cloud advanced apptoza inc. toronto, ontario, canada linkedin salesforce readme salesforce toronto area",
+   "search": "salesforce revenue cloud advanced apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce toronto area",
    "alternates": []
   },
   {
@@ -39901,27 +39985,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Senior/Lead Salesforce Marketing Cloud Engineer",
-   "company": "Diligente Technologies",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-lead-salesforce-marketing-cloud-engineer-at-diligente-technologies-4477699547",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior/lead salesforce marketing cloud engineer diligente technologies mississauga, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Salesforce Data Cloud consultant",
    "company": "Cloudious LLC",
    "location": "Toronto, Ontario, Canada",
@@ -69919,7 +69982,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948025592",
+     "url": "https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     }
    ]
