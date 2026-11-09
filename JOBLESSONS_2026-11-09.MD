@@ -480,3 +480,15 @@ Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.s
 
 **Files touched:** JOBLESSONS_2026-11-09.MD (this file), README.md, jobs.json, public/jobs.json, public/gotjob/jobs.json, public/findjobs/jobs.json, public/jobs-data.json, public/index.html.
 
+## 2026-11-09 17:00 EST cron run (hermes scan, merged as 22e8748)
+
+Scope: fresh Toronto/GTA + Canada ServiceNow and Salesforce roles; dedupe against README.md + APPLIED.md; merge to README tables and GitHub Pages.
+
+- `scripts/daily_job_scan.mjs` (no playwright): 682 fresh postings, merged into jobs.json → 5,195 total after sync_readme_to_jobs. Sources: LinkedIn guest 296, Adzuna 334, LinkedIn-heavy morning cycles by peers had already merged most linkedin/KPMG/BMO/Scotiabank/TD roles — dedupe caught them; net-new from this run: 14 rows.
+- Net-new rows added to README tables (ServiceNow 736→737, Salesforce 924→937; site rebuilt: 4,663 jobs, newest 2026-11-09):
+  * ServiceNow: BDO Senior Developer, Toronto (indeed).
+  * Salesforce: Lane Four Administrator, Toronto; Altus Group Platform Developer, Toronto; Applied Systems Associate Administrator, remote Canada; WPP (Map) Senior Marketing Cloud Developer; Electric Mind Full Stack Developer contract; Apptoza ×3 (Toronto); Winobell Dealer Services, Toronto; iA Financial, Montreal; Nityo Infotech, remote Canada; OSI Digital Lead, Toronto/Ottawa.
+- No entry-level Platform Developer I / junior Platform Administrator surfaced this cycle; Lane Four Administrator and Applied Systems Associate Administrator are the closest matches.
+- Employer probes: jobs.bell.ca ServiceNow postings all show "position filled" (skip); careers.rogers.com returned nothing; telus.com surfaces only CRM-user sales roles, no platform postings; jobs.gc.ca/Job Bank blocked to plain fetch — keep using scripts/canada_index_sweep.py::jobbank_page instead of direct fetch.
+- verify_links.py --days 2: 121 new rows probed, 0 dropped; 5 pre-existing dead rows removed (incl. BMO via Procom Senior Salesforce Developer 404, previously flagged by the round-4 audit).
+- Repo remote moved: https://github.com/eltonaguiar/BESTIEJOB.git (old bestiejob.git still redirects). Pages serves eltonaguiar.github.io/BESTIEJOB/ from committed public/ — editing jobs.json alone never reaches the page; build_site.py must run after every README/jobs.json change.
