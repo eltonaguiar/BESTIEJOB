@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-09](#current-jobs--as-of-2026-11-09)
-  - [ServiceNow jobs (709)](#servicenow-jobs-709)
-  - [Salesforce jobs (869)](#salesforce-jobs-869)
+  - [ServiceNow jobs (711)](#servicenow-jobs-709)
+  - [Salesforce jobs (875)](#salesforce-jobs-869)
   - [Other jobs (3817)](#other-jobs-3817)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,16 +18,18 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-09
 
-Window: 2026-10-10 → 2026-11-09 · **5395 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-10 → 2026-11-09 · **5403 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (709)
+### ServiceNow jobs (711)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 709 postings</strong></summary>
+<details><summary><strong>Show 711 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-09 | [Sr. IT Developer (ServiceNow)](https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4177846836) | TD | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
+| 2026-11-09 | [ServiceNow ITSM Service/Process Owner](https://ca.linkedin.com/jobs/view/servicenow-itsm-service-process-owner-at-ust-4175890725) | UST | Remote, Canada | via hourly scan 2026-11-09 |
 | 2026-11-09 | [ServiceNow Developer SME](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1) | GDIT | Any Location / Remote | via fresh scan |
 | 2026-11-08 | [Sr. IT Developer (ServiceNow)](https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4137743760) | TD | Toronto, ON, Canada | via fresh scan |
 | 2026-11-08 | [Sr. IT Developer (ServiceNow)](https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4130481433) | TD | Toronto, Ontario, Canada | via hermes-hourly--2026-11-08--v1.md |
@@ -742,14 +744,20 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (869)
+### Salesforce jobs (875)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 869 postings</strong></summary>
+<details><summary><strong>Show 875 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-09 | [CORPORATE APPLICATION TECHNICAL LEADER (Salesforce Developer)](https://ca.linkedin.com/jobs/view/corporate-application-technical-leader-salesforce-developer-at-city-of-toronto-4206278360) | City of Toronto | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
+| 2026-11-09 | [SENIOR SYSTEMS INTEGRATOR TECHNOLOGY SERVICES (Salesforce Developer)](https://ca.linkedin.com/jobs/view/senior-systems-integrator-technology-services-salesforce-developer-at-city-of-toronto-4173374909) | City of Toronto | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
+| 2026-11-09 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-floqast-4214676357) | FloQast | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
+| 2026-11-09 | [Salesforce & nCino Solutions Design IT Specialist](https://ca.linkedin.com/jobs/view/salesforce-ncino-solutions-design-it-specialist-at-td-4188477367) | TD | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
+| 2026-11-09 | [Salesforce DevOps Engineer](https://ca.linkedin.com/jobs/view/salesforce-devops-engineer-at-aarorn-technologies-inc-4211473293) | Aarorn Technologies Inc | Toronto, ON / Calgary, AB | via hourly scan 2026-11-09 |
+| 2026-11-09 | [Senior Salesforce Solution Architect/Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-solution-architect-developer-at-csa-group-4210626816) | CSA Group | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
 | 2026-11-09 | [Senior Salesforce Developer](https://myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b) | Bank of Montreal (via Procom) | Toronto, ON, Canada | via kilo3--2026-11-09--v1.md |
 | 2026-11-09 | [Salesforce Developer - Digital Customer - future opportunities](https://ca.talent.com/view?id=643469856704505552) | Deloitte | Toronto, ON, Canada | via kilo3--2026-11-09--v1.md |
 | 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499) | Salesforce | Toronto, Ontario, Canada | via fresh scan |

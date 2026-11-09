@@ -56,3 +56,33 @@ Salesforce: BMO via Procom; Deloitte (Digital Customer); Fundserv; Region of Pee
 - Re-check the Rogers Sr BSA (ServiceNow, Brampton) lead once a date-stamped source is available.
 - Probe jobs.gc.ca / Canada.ca public-service portal directly for ServiceNow/Salesforce roles (not Job Bank keyword search).
 - Re-run after a ≥24h gap since the last bulk README regeneration to maximize net-new yield.
+
+## Second pass — Monday 2026-11-09 03:57 EST (08:57 UTC), this cron run
+**Result:** Merged 8 net-new verified Toronto-area ServiceNow/Salesforce jobs into README.md + jobs.json on `main`, rebuilt the Pages site, and pushed to GitHub Pages.
+
+**Merged (newest first; posted 2026-11-09 per this scan):**
+- ServiceNow: Sr. IT Developer (ServiceNow) — TD — Toronto, ON — LinkedIn 4177846836
+- ServiceNow: ServiceNow ITSM Service/Process Owner — UST — Remote, Canada — LinkedIn 4175890725
+- Salesforce: CORPORATE APPLICATION TECHNICAL LEADER (Salesforce Developer) — City of Toronto — LinkedIn 4206278360
+- Salesforce: SENIOR SYSTEMS INTEGRATOR TECHNOLOGY SERVICES (Salesforce Developer) — City of Toronto — LinkedIn 4173374909
+- Salesforce: Salesforce Administrator — FloQast — Toronto, ON — LinkedIn 4214676357
+- Salesforce: Salesforce & nCino Solutions Design IT Specialist — TD — Toronto, ON — LinkedIn 4188477367
+- Salesforce: Salesforce DevOps Engineer — Aarorn Technologies Inc — Toronto, ON / Calgary, AB (hybrid) — LinkedIn 4211473293
+- Salesforce: Senior Salesforce Solution Architect/Developer — CSA Group — Toronto, ON — LinkedIn 4210626816
+
+**Counts:** README 5,403 live postings (SN 711 / SF 875 / Other 3,817); jobs.json 5,008 records (remote 09:18 scan had 5,000). public/jobs-data.json and public/index.html rebuilt via `python3 tools/build_site.py` (built 2026-11-09 09:24 UTC).
+
+**Verification notes:**
+- Deloitte Senior Manager, ServiceNow - Operate (careers.deloitte.ca 135627) and KPMG Senior Consultant, ServiceNow (careers.kpmg.ca 31517): live on employer ATS pages (Deloitte/KPMG are ServiceNow Elite Partners) but ALREADY on the board (README lines 644 and 95 of the 09:18 scan) — not re-added; dedup against README.md as well as jobs.json.
+- Capgemini Toronto Salesforce requisitions 1410981333 / 1441205933 / 1425744133: direct fetch returns "has been filled" — excluded. Search-index presence alone is not freshness proof.
+- Rogers Technical Specialist (Markham): mentions SN/SF only as tool familiarity — not an SN/SF role — excluded.
+- Bell ServiceNow postings (432829, 432892, 427260, BECACA431695EXTERNALENCA, BECACA421006EXTERNALENCA): direct fetch shows filled — excluded.
+- LinkedIn job pages block anonymous fetch (login wall/generic redirect); the 6 LinkedIn-sourced merges were verified via live search index (title + company + Toronto location) and marked "via hourly scan 2026-11-09"; posting date not shown by source, so marked with scan date.
+- City of Toronto (municipal government) and CSA Group surfaced via targeted portal/government searches the automated scan missed.
+
+**Lessons for future agents:**
+1. Fetch employer ATS pages directly before adding — search snippets cannot reveal "has been filled"/expired status (Capgemini, Bell).
+2. LinkedIn job URLs cannot be anonymously fetched; verify via search snippets and note the limitation in the source cell.
+3. Dedup against both README.md and jobs.json — the stores can diverge (KPMG 31517 existed in README only).
+4. Targeted searches by municipal portals (City of Toronto, Region of Peel) and standards bodies (CSA Group) surface roles the broad LinkedIn/Adzuna sweep misses.
+5. Net-new yield right after the 03:17/09:18 bulk regeneration is typically ~0; targeted partner/government scans add value between bulk runs.

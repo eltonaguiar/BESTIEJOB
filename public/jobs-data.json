@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T09:18:19+00:00",
+ "generatedAt": "2026-11-09T09:24:49+00:00",
  "timezone": "America/Toronto",
- "count": 4493,
+ "count": 4508,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -292,6 +292,27 @@
  "jobs": [
   {
    "posted": "2026-11-09",
+   "title": "ServiceNow ITSM Service/Process Owner",
+   "company": "UST",
+   "location": "Remote, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-itsm-service-process-owner-at-ust-4175890725",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow itsm service/process owner ust remote, canada linkedin servicenow linkedin servicenow itsm canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "ServiceNow Technical Architect",
    "company": "Accenture",
    "location": "Toronto, Ontario, Canada",
@@ -310,6 +331,38 @@
    "french": false,
    "search": "servicenow technical architect accenture toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Sr. IT Developer (ServiceNow)",
+   "company": "TD",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4177846836",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. it developer (servicenow) td toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4130481433",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4137743760",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -341,6 +394,27 @@
      "label": "jobs.ca · Remote"
     }
    ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Salesforce Developer",
+   "company": "Bank of Montreal (via Procom)",
+   "location": "Toronto, ON, Canada",
+   "url": "https://myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "myprocom-portal.procomservices.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer bank of montreal (via procom) toronto, on, canada myprocom-portal.procomservices.com salesforce readme salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -465,6 +539,138 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "SENIOR SYSTEMS INTEGRATOR TECHNOLOGY SERVICES (Salesforce Developer)",
+   "company": "City of Toronto",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-systems-integrator-technology-services-salesforce-developer-at-city-of-toronto-4173374909",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior systems integrator technology services (salesforce developer) city of toronto toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Aggregator",
+     "url": "https://www.tealhq.com/job/senior-systems-integrator-technology-services-servicenow_7ea1a6d80534245ebb2c51f950a9464e9d80f",
+     "label": "Aggregator · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "CORPORATE APPLICATION TECHNICAL LEADER (Salesforce Developer)",
+   "company": "City of Toronto",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/corporate-application-technical-leader-salesforce-developer-at-city-of-toronto-4206278360",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "corporate application technical leader (salesforce developer) city of toronto toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Administrator",
+   "company": "FloQast",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-floqast-4214676357",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce administrator floqast toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce & nCino Solutions Design IT Specialist",
+   "company": "TD",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-ncino-solutions-design-it-specialist-at-td-4188477367",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce & ncino solutions design it specialist td toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce DevOps Engineer",
+   "company": "Aarorn Technologies Inc",
+   "location": "Toronto, ON / Calgary, AB",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-devops-engineer-at-aarorn-technologies-inc-4211473293",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce devops engineer aarorn technologies inc toronto, on / calgary, ab linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Salesforce Solution Architect/Developer",
+   "company": "CSA Group",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-solution-architect-developer-at-csa-group-4210626816",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce solution architect/developer csa group toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Administrateur(trice) de base de données des éléments de configuration (CMDB) N3",
    "company": "Commission de la construction du Québec",
    "location": "Greater Montreal Metropolitan Area",
@@ -570,6 +776,28 @@
    ],
    "french": false,
    "search": "architecte servicenow itom / itam senior ateko, backed by bell canada quebec, canada linkedin servicenow linkedin servicenow itam itom role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Enterprise - ServiceNow SPM Technical Consultant",
+   "company": "Slalom",
+   "location": "USA",
+   "url": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=3520",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.slalom.com",
+   "verified": "Employer board",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "SPM/PPM",
+    "Consulting/BA",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "enterprise - servicenow spm technical consultant slalom usa jobs.slalom.com servicenow readme servicenow spm/ppm consulting/ba role fit",
    "alternates": []
   },
   {
@@ -879,33 +1107,6 @@
    "french": false,
    "search": "servicenow developer cibc toronto, on, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Sr. IT Developer (ServiceNow)",
-   "company": "TD",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4130481433",
-   "note": "via hermes-hourly--2026-11-08--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. it developer (servicenow) td toronto, ontario, canada linkedin servicenow via hermes-hourly--2026-11-08--v1.md servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4137743760",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-08",
@@ -1730,6 +1931,90 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Senior Developer - Salesforce",
+   "company": "Region of Peel",
+   "location": "Brampton, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-developer-salesforce-at-region-of-peel-4184459074",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior developer - salesforce region of peel brampton, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Technical Architect",
+   "company": "Medicine Shoppe Canada",
+   "location": "Mississauga, ON, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/open-source-systems-engineer-at-medicine-shoppe-canada-4170806993",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect medicine shoppe canada mississauga, on, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Developer - Health Cloud",
+   "company": "Winobell Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-health-cloud-at-winobell-inc-4199108289",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer - health cloud winobell inc toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Administrator",
+   "company": "Benevity",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-benevity-4071588529",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce administrator benevity toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
    "title": "Salesforce Technical Architect",
    "company": "McKesson",
    "location": "Mississauga, ON, Canada",
@@ -1789,6 +2074,75 @@
    ],
    "french": false,
    "search": "salesforce developer akkodis canada linkedin salesforce readme salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Software Engineer (Salesforce)",
+   "company": "GE Vernova",
+   "location": "IST Time Zone / Remote",
+   "url": "https://fairygodboss.com/jobs/ge-vernova/software-engineer-salesforce-a13956f7241723fd96d18d0704357f7e",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "fairygodboss.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "software engineer (salesforce) ge vernova ist time zone / remote fairygodboss.com salesforce readme salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Developer - Montreal",
+   "company": "Slalom",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.slalom.com/de_DE/careersmarketplace/JobDetail?jobId=3893",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.slalom.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer - montreal slalom montreal, qc, canada jobs.slalom.com salesforce readme salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946007473?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Montréal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Salesforce Developer",
+   "company": "Koniag Management Solutions, LLC",
+   "location": "Remote, USA",
+   "url": "https://www.clearancejobs.com/jobs/8760011/salesforce-developer-remote",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "clearancejobs.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer koniag management solutions, llc remote, usa clearancejobs.com salesforce readme salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -2035,6 +2389,26 @@
    ],
    "french": false,
    "search": "staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "Software Engineer IV - Salesforce Developer",
+   "company": "Spectrum",
+   "location": "USA",
+   "url": "https://fairygodboss.com/jobs/spectrum/software-engineer-iv-salesforce-developer-37f20d5ba265a1a8e6a1f35a1b27cb1b",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "fairygodboss.com",
+   "verified": "Employer board",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "software engineer iv - salesforce developer spectrum usa fairygodboss.com salesforce readme salesforce role fit",
    "alternates": []
   },
   {
@@ -35041,26 +35415,6 @@
    ],
    "french": false,
    "search": "open to servicenow opportunities / csa & cad certified servicenow community toronto, ontario, canada servicenow.com servicenow servicenow-community servicenow toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "SENIOR SYSTEMS INTEGRATOR TECHNOLOGY SERVICES (ServiceNow)",
-   "company": "City of Toronto",
-   "location": "Toronto, ON",
-   "url": "https://www.tealhq.com/job/senior-systems-integrator-technology-services-servicenow_7ea1a6d80534245ebb2c51f950a9464e9d80f",
-   "note": "tealhq",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Aggregator",
-   "verified": "Aggregator",
-   "match": 80,
-   "matchReasons": [
-    "ServiceNow",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior systems integrator technology services (servicenow) city of toronto toronto, on aggregator servicenow tealhq servicenow toronto area",
    "alternates": []
   },
   {
@@ -81310,27 +81664,6 @@
    ],
    "french": false,
    "search": "senior salesforce qm tester acestack regent park, city of toronto adzuna salesforce adzuna salesforce toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Salesforce Developer - Montreal",
-   "company": "Slalom Build",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5946007473?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Quebec"
-   ],
-   "french": false,
-   "search": "salesforce developer - montreal slalom build montreal, quebec adzuna salesforce adzuna salesforce role fit quebec",
    "alternates": []
   },
   {

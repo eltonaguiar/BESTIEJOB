@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-09T09:16:56.467Z",
-    "generatedAt": "2026-11-09T09:16:56.467Z",
-    "total": 5000,
+    "scrapedAt": "2026-11-09T08:57:00.000Z",
+    "generatedAt": "2026-11-09T08:57:00.000Z",
+    "total": 5008,
     "newThisScan": 646,
     "retainedFromPrevious": 1572,
     "sources": {
@@ -26,15 +26,15 @@
       "greenhouse": 16,
       "lever": 1,
       "ashby": 2,
-      "linkedin": 207,
+      "linkedin": 215,
       "remoteok": 2,
       "jobicy": 3,
       "remotive": 4,
       "adzuna": 384
     },
     "primaryCounts": {
-      "servicenow": 1040,
-      "salesforce": 1009
+      "servicenow": 1042,
+      "salesforce": 1015
     }
   },
   "jobs": [
@@ -88287,6 +88287,126 @@
       "tags": [
         "servicenow"
       ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4177846836",
+      "source": "linkedin",
+      "company": "TD",
+      "title": "Sr. IT Developer (ServiceNow)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4177846836",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T08:57:00.000Z",
+      "excerpt": "Sr. IT Developer (ServiceNow) · Toronto, Ontario, Canada · hourly scan 2026-11-09",
+      "workArrangement": "unknown",
+      "tags": ["servicenow"]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-itsm-service-process-owner-at-ust-4175890725",
+      "source": "linkedin",
+      "company": "UST",
+      "title": "ServiceNow ITSM Service/Process Owner",
+      "location": "Remote, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-itsm-service-process-owner-at-ust-4175890725",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T08:57:00.000Z",
+      "excerpt": "ServiceNow ITSM Service/Process Owner · Remote, Canada · hourly scan 2026-11-09",
+      "workArrangement": "remote",
+      "tags": ["servicenow"]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/corporate-application-technical-leader-salesforce-developer-at-city-of-toronto-4206278360",
+      "source": "linkedin",
+      "company": "City of Toronto",
+      "title": "CORPORATE APPLICATION TECHNICAL LEADER (Salesforce Developer)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/corporate-application-technical-leader-salesforce-developer-at-city-of-toronto-4206278360",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T08:57:00.000Z",
+      "excerpt": "CORPORATE APPLICATION TECHNICAL LEADER (Salesforce Developer) · Toronto, Ontario, Canada · hourly scan 2026-11-09",
+      "workArrangement": "unknown",
+      "tags": ["salesforce"]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-systems-integrator-technology-services-salesforce-developer-at-city-of-toronto-4173374909",
+      "source": "linkedin",
+      "company": "City of Toronto",
+      "title": "SENIOR SYSTEMS INTEGRATOR TECHNOLOGY SERVICES (Salesforce Developer)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-systems-integrator-technology-services-salesforce-developer-at-city-of-toronto-4173374909",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T08:57:00.000Z",
+      "excerpt": "SENIOR SYSTEMS INTEGRATOR TECHNOLOGY SERVICES (Salesforce Developer) · Toronto, Ontario, Canada · hourly scan 2026-11-09",
+      "workArrangement": "unknown",
+      "tags": ["salesforce"]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-administrator-at-floqast-4214676357",
+      "source": "linkedin",
+      "company": "FloQast",
+      "title": "Salesforce Administrator",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-floqast-4214676357",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T08:57:00.000Z",
+      "excerpt": "Salesforce Administrator · Toronto, Ontario, Canada · hourly scan 2026-11-09",
+      "workArrangement": "unknown",
+      "tags": ["salesforce"]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-ncino-solutions-design-it-specialist-at-td-4188477367",
+      "source": "linkedin",
+      "company": "TD",
+      "title": "Salesforce & nCino Solutions Design IT Specialist",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-ncino-solutions-design-it-specialist-at-td-4188477367",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T08:57:00.000Z",
+      "excerpt": "Salesforce & nCino Solutions Design IT Specialist · Toronto, Ontario, Canada · hourly scan 2026-11-09",
+      "workArrangement": "unknown",
+      "tags": ["salesforce"]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-devops-engineer-at-aarorn-technologies-inc-4211473293",
+      "source": "linkedin",
+      "company": "Aarorn Technologies Inc",
+      "title": "Salesforce DevOps Engineer",
+      "location": "Toronto, ON / Calgary, AB",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-devops-engineer-at-aarorn-technologies-inc-4211473293",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T08:57:00.000Z",
+      "excerpt": "Salesforce DevOps Engineer · Toronto, ON / Calgary, AB · hourly scan 2026-11-09",
+      "workArrangement": "hybrid",
+      "tags": ["salesforce"]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-solution-architect-developer-at-csa-group-4210626816",
+      "source": "linkedin",
+      "company": "CSA Group",
+      "title": "Senior Salesforce Solution Architect/Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-solution-architect-developer-at-csa-group-4210626816",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-09T08:57:00.000Z",
+      "excerpt": "Senior Salesforce Solution Architect/Developer · Toronto, Ontario, Canada · hourly scan 2026-11-09",
+      "workArrangement": "unknown",
+      "tags": ["salesforce"]
     }
   ]
 }
