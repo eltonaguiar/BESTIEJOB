@@ -132,41 +132,94 @@ def priority(location: str) -> int:
     return 2
 
 
-def adzuna_rows(window: list[str], stats: dict) -> list[dict]:
+def adzuna_rows(window: list[str], stats: dict, geos: list[str]) -> list[dict]:
+    """National plus geo-scoped searches.
+
+    A national date-sorted search returns the newest 50 rows for the whole
+    country, which on a busy morning is mostly other provinces. Repeating each
+    query with `where=Toronto`/`where=Ontario` is what keeps local roles on the
+    board, and dedupe happens downstream on the resolved URL.
+    """
     rows: list[dict] = []
     for query in ADZUNA_QUERIES:
-        url = ("https://api.adzuna.com/v1/api/jobs/ca/search/1"
-               f"?app_id={APP_ID}&app_key={APP_KEY}&results_per_page=50"
-               f"&what={urllib.parse.quote(query)}&max_days_old={len(window) + 1}"
-               "&sort_by=date&content-type=application/json")
-        blob = get(url)
-        stats["requests"] += 1
-        if not blob:
-            stats["adzuna_misses"] = stats.get("adzuna_misses", 0) + 1
-            continue
-        try:
-            data = json.loads(blob)
-        except json.JSONDecodeError:
-            continue
-        for r in data.get("results", []):
-            created = (r.get("created") or "")[:10]
-            if created not in window:
+        for geo in geos:
+            url = ("https://api.adzuna.com/v1/api/jobs/ca/search/1"
+                   f"?app_id={APP_ID}&app_key={APP_KEY}&results_per_page=50"
+                   f"&what={urllib.parse.quote(query)}&max_days_old={len(window) + 1}"
+                   "&sort_by=date&content-type=application/json")
+            if geo:
+                url += f"&where={urllib.parse.quote(geo)}"
+            blob = get(url)
+            stats["requests"] += 1
+            if not blob:
+                stats["adzuna_misses"] = stats.get("adzuna_misses", 0) + 1
                 continue
-            title = (r.get("title") or "").strip()
-            bucket = classify(title)
-            if not bucket:
+            try:
+                data = json.loads(blob)
+            except json.JSONDecodeError:
                 continue
-            location = ((r.get("location") or {}).get("display_name") or "").strip()
-            if not canadaish(location):
-                continue
-            rows.append({
-                "source": "adzuna", "bucket": bucket, "posted": created,
-                "title": title,
-                "company": ((r.get("company") or {}).get("display_name") or "").strip(),
-                "location": location,
-                "url": r.get("redirect_url") or r.get("url") or "",
-            })
-        time.sleep(0.3)
+            for r in data.get("results", []):
+                created = (r.get("created") or "")[:10]
+                if created not in window:
+                    continue
+                title = (r.get("title") or "").strip()
+                bucket = classify(title)
+                if not bucket:
+                    continue
+                location = ((r.get("location") or {}).get("display_name") or "").strip()
+                if not canadaish(location):
+                    continue
+                rows.append({
+                    "source": "adzuna", "bucket": bucket, "posted": created,
+                    "title": title,
+                    "company": ((r.get("company") or {}).get("display_name") or "").strip(),
+                    "location": location,
+                    "url": r.get("redirect_url") or r.get("url") or "",
+                })
+            time.sleep(0.25)
+    return rows
+
+
+# A bounded LinkedIn guest pass. The full keyword list in
+# scripts/linkedin_guest_scan.py is ~70 terms, too slow for a same-day sweep;
+# these eight are the ones that actually return ServiceNow/Salesforce dev+admin
+# titles, and the module's own parser gives us the card's `<time datetime>`
+# attribute -- a real posting date, not a relative age.
+LI_KEYWORDS = [
+    "ServiceNow", "ServiceNow Developer", "ServiceNow Administrator",
+    "ServiceNow Architect", "Salesforce", "Salesforce Developer",
+    "Salesforce Administrator", "Salesforce Platform Developer",
+]
+LI_LOCATIONS = ["Toronto%2C%20Ontario%2C%20Canada", "Canada"]
+
+
+def linkedin_rows(window: list[str], stats: dict, days: int) -> list[dict]:
+    try:
+        import linkedin_guest_scan as li  # noqa: PLC0415 (optional dependency)
+    except (SystemExit, Exception) as exc:  # curl_cffi missing -> skip, never abort
+        stats["linkedin"] = f"unavailable: {type(exc).__name__}"
+        return []
+    rows: list[dict] = []
+    for kw in LI_KEYWORDS:
+        for loc in LI_LOCATIONS:
+            got = li.fetch(urllib.parse.quote(kw), loc, 0, days)
+            stats["linkedin_requests"] = stats.get("linkedin_requests", 0) + 1
+            for r in got:
+                if r.get("posted") not in window:
+                    continue
+                bucket = classify(r.get("title", ""))
+                if not bucket:
+                    continue
+                if not canadaish(r.get("location", "")):
+                    continue
+                rows.append({
+                    "source": "linkedin-guest", "bucket": bucket,
+                    "posted": r["posted"], "title": r.get("title", ""),
+                    "company": r.get("company", ""),
+                    "location": r.get("location", ""),
+                    "url": r.get("url", ""),
+                })
+            time.sleep(1.5)
     return rows
 
 
@@ -227,14 +280,24 @@ def main() -> int:
     ap.add_argument("--eluta-pages", type=int, default=3)
     ap.add_argument("--jobbank-pages", type=int, default=2)
     ap.add_argument("--verify", type=int, default=1)
+    ap.add_argument("--linkedin", type=int, default=1,
+                    help="1 = also run the bounded LinkedIn guest pass")
+    ap.add_argument("--geos", default="||Toronto, Ontario|Ontario",
+                    help="pipe-separated Adzuna `where` values; empty = national")
     ap.add_argument("--out-inbox", default="")
     args = ap.parse_args()
 
     window = [(TODAY - timedelta(days=i)).isoformat() for i in range(max(args.days, 1))]
     stats = {"requests": 0, "jobbank_pages": 0, "eluta_pages": 0}
 
-    rows = adzuna_rows(window, stats)
+    geos = [g.strip() for g in args.geos.split("|")]
+    if args.geos == "":
+        geos = [""]
+
+    rows = adzuna_rows(window, stats, geos)
     rows += index_rows(window, stats, args.eluta_pages, args.jobbank_pages)
+    if args.linkedin:
+        rows += linkedin_rows(window, stats, days=max(args.days - 1, 1))
 
     uniq: dict[str, dict] = {}
     for r in rows:

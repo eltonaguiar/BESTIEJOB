@@ -54,3 +54,30 @@ because a guessed date is worse than a missing row.
 Seeded through the normal inbox path (`tools/jobs_merge_inbox.py --days 30
 --max-per-table 5000`), then `sync_readme_to_jobs.mjs` + `tools/build_site.py`,
 so the board, feed and site stay in sync and the row guard still gates the push.
+
+## Round 2 — geo-scoped Adzuna + bounded LinkedIn guest (same day)
+
+Two additions after the first push, both aimed at the user's ordering
+(Toronto/Ontario/Canadian-remote first):
+
+1. **Geo-scoped Adzuna.** A national `sort_by=date` search returns the newest 50
+   rows for the whole country, so on a busy morning Ontario roles get crowded
+   out by Alberta/BC/Quebec. Each of the 17 queries is now also run with
+   `where=Toronto, Ontario` and `where=Ontario` (`--geos`), and the resolved-URL
+   dedupe collapses the overlap. 68 Adzuna calls total.
+2. **Bounded LinkedIn guest pass.** `scripts/linkedin_guest_scan.py` carries
+   ~70 keywords, which is too slow for a same-day sweep, so the adapter imports
+   its parser (`fetch`) and runs only the eight title-productive terms against
+   Toronto + Canada. The date comes from the card's `<time datetime>` attribute,
+   i.e. the real posting date. The import is guarded: if `curl_cffi` is absent
+   the pass is skipped and the rest of the sweep still runs.
+
+Run: `python3 scripts/fresh_ca_scan.py --days 2 --eluta-pages 4 --jobbank-pages 3 --linkedin 1`
+
+- 275 raw rows → 49 unique → **31 kept**, **18 dropped as unverified**
+  (verification is earning its keep now that LinkedIn/Adzuna redirect URLs are in)
+- 16 ServiceNow, 15 Salesforce
+- employers this round: BMO (ServiceNow SAM/ITAM, Toronto), CGI (Senior Salesforce
+  Developer, Toronto; Lead ServiceNow Architect), KPMG (ServiceNow Developer in
+  Toronto/Ottawa/Calgary/Halifax and ITAM/ITOM consultant), MNP, RSM, Webflow,
+  J.D. Irving (ITSM), S.i. Systems, Smart IT Frame
