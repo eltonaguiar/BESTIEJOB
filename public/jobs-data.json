@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-10T04:15:15+00:00",
+ "generatedAt": "2026-11-10T05:15:12+00:00",
  "timezone": "America/Toronto",
- "count": 4784,
- "appliedHidden": 40,
+ "count": 4787,
+ "appliedHidden": 39,
  "sources": [
   "103.careerplug.com",
   "Adzuna",
@@ -321,6 +321,27 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Associate Salesforce Administrator",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-jobgether-4489192995",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "associate salesforce administrator jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Senior Back-End Email Developer (Salesforce Marketing Cloud)",
    "company": "Intact",
    "location": "Montreal, Quebec, Canada",
@@ -338,7 +359,13 @@
    ],
    "french": false,
    "search": "senior back-end email developer (salesforce marketing cloud) intact montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5959734122",
+     "label": "Adzuna · Westmount"
+    }
+   ]
   },
   {
    "posted": "2026-11-10",
@@ -509,6 +536,80 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "ServiceNow Developer",
+   "company": "Lightspeed Commerce",
+   "location": "Toronto, ON",
+   "url": "https://jobs.ashbyhq.com/lightspeedhq/2f5c76b1-7cb0-4449-aa8f-9f32f89385f6/application",
+   "note": "via fresh scan",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Ashby",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer lightspeed commerce toronto, on ashby servicenow via fresh scan servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "remotejobs.place",
+     "url": "https://www.remotejobs.place/job/lightspeed-servicenow-developer-d4deadf1",
+     "label": "remotejobs.place"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5959122166",
+     "label": "Adzuna · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4482543161",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466232343",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/servicenow-developer-a88fa9325b8c0596ed6d1824b9a3b6bc",
+     "label": "Eluta · Ottawa ON"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "ServiceNow Technical Architect",
+   "company": "Accenture",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-accenture-4487675798",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow technical architect accenture toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5959033381",
+     "label": "Adzuna · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
    "title": "ServiceNow Administrator Specialist",
    "company": "Scotiabank",
    "location": "Toronto, ON",
@@ -611,27 +712,6 @@
      "label": "LinkedIn · Ottawa"
     }
    ]
-  },
-  {
-   "posted": "2026-11-09",
-   "title": "ServiceNow Technical Architect",
-   "company": "Accenture",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-accenture-4487675798",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow technical architect accenture toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -891,6 +971,32 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/enterprise-architect-servicenow-at-leveragetek-staffing-solutions-4488438141",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior ServiceNow Platform Architect (CoE / Vault)",
+   "company": "Resonaite",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959388084",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior servicenow platform architect (coe / vault) resonaite ottawa, ottawa region adzuna servicenow adzuna servicenow role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-platform-architect-coe-vault-at-resonaite-4487330849",
      "label": "LinkedIn · Ottawa"
     }
    ]
@@ -2580,6 +2686,26 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Full Stack Engineer - (React/Node)",
+   "company": "Parent Organization",
+   "location": "Regent Park, City of Toronto",
+   "url": "https://www.adzuna.ca/details/5959429254",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "full stack engineer - (react/node) parent organization regent park, city of toronto adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Senior Full Stack Engineer People Products",
    "company": "pofft Technology Inc.",
    "location": "Toronto, Ontario",
@@ -3365,6 +3491,26 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "DevOps Architect",
+   "company": "Infinity Solutions",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959200712",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops architect infinity solutions toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Senior Site Reliability Engineer",
    "company": "SimCorp",
    "location": "Toronto, Ontario, Canada",
@@ -3381,6 +3527,26 @@
    ],
    "french": false,
    "search": "senior site reliability engineer simcorp toronto, ontario, canada linkedin other linkedin role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Staff Security Engineer / Enterprise Security",
+   "company": "VulnU",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5959388309",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "staff security engineer / enterprise security vulnu canada adzuna other adzuna role fit canada / remote",
    "alternates": []
   },
   {
@@ -4904,48 +5070,6 @@
    "french": false,
    "search": "servicenow developer cibc toronto, on, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "ServiceNow Developer",
-   "company": "Lightspeed Commerce",
-   "location": "Toronto, ON",
-   "url": "https://jobs.ashbyhq.com/lightspeedhq/2f5c76b1-7cb0-4449-aa8f-9f32f89385f6/application",
-   "note": "via fresh scan",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Ashby",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer lightspeed commerce toronto, on ashby servicenow via fresh scan servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "remotejobs.place",
-     "url": "https://www.remotejobs.place/job/lightspeed-servicenow-developer-d4deadf1",
-     "label": "remotejobs.place"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4482543161",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466232343",
-     "label": "LinkedIn · Montreal"
-    },
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/servicenow-developer-a88fa9325b8c0596ed6d1824b9a3b6bc",
-     "label": "Eluta · Ottawa ON"
-    }
-   ]
   },
   {
    "posted": "2026-11-08",
@@ -9903,27 +10027,6 @@
    ],
    "french": false,
    "search": "servicenow administrator/developer cgi toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Senior ServiceNow Platform Architect (CoE / Vault)",
-   "company": "Resonaite",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-platform-architect-coe-vault-at-resonaite-4487330849",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior servicenow platform architect (coe / vault) resonaite ottawa, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -73698,26 +73801,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "Senior Full-Stack Engineer / Technical Lead - Onsite",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576278?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full-stack engineer / technical lead - onsite cognizant toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Senior DevOps Engineer",
    "company": "Symbiotic Group",
    "location": "Toronto, Ontario",
@@ -74022,6 +74105,26 @@
    ],
    "french": false,
    "search": "senior it analyst, security operations, information & corporate security cpp investments toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "Senior Full-Stack Engineer / Technical Lead - Onsite",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5949576278",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior full-stack engineer / technical lead - onsite cognizant toronto, ontario adzuna other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -88855,26 +88958,6 @@
    ],
    "french": false,
    "search": "power bi & testing qa acestack regent park, city of toronto adzuna other readme data/reporting toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Site Reliability Engineer (Canada - Remote)",
-   "company": "AXON-Networks",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5946007386",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "site reliability engineer (canada - remote) axon-networks toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
