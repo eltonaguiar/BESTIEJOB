@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-10T00:30:23+00:00",
+ "generatedAt": "2026-11-10T00:57:59+00:00",
  "timezone": "America/Toronto",
- "count": 4672,
+ "count": 4674,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -318,6 +318,47 @@
      "label": "Workday ATS · Any Location / Remote"
     }
    ]
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Senior Back-End Email Developer (Salesforce Marketing Cloud)",
+   "company": "Intact",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-back-end-email-developer-salesforce-marketing-cloud-at-intact-4487995054",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior back-end email developer (salesforce marketing cloud) intact montreal, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Développeur(euse) principal(e) en développement de courriels dorsaux (Salesforce Marketing Cloud)",
+   "company": "Intact",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-principal-e-en-d%C3%A9veloppement-de-courriels-dorsaux-salesforce-marketing-cloud-at-intact-4487983304",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur(euse) principal(e) en developpement de courriels dorsaux (salesforce marketing cloud) intact montreal, quebec, canada linkedin salesforce readme salesforce canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -69996,7 +70037,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5948025592",
      "label": "Adzuna · Toronto"
     }
    ]

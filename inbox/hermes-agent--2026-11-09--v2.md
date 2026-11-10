@@ -1,3 +1,4 @@
+<!-- merged 2026-11-10T005758Z: +0 new, 14 duplicate, version 2 -->
 | Posted | Role | Company | Location | URL | Note |
 |---|---|---|---|---|---|
 | 2026-11-09 | ServiceNow Senior Developer | BDO Canada | Toronto, ON, Canada | https://emplois.ca.indeed.com/viewjob?jk=c956b22cc281049c | via hermes scan 2026-11-09 |
