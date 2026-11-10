@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-10T03:14:06.620Z",
     "generatedAt": "2026-11-10T03:14:06.620Z",
-    "total": 5315,
+    "total": 5319,
     "newThisScan": 738,
     "retainedFromPrevious": 1569,
     "sources": {
@@ -13135,6 +13135,57 @@
       "postedDate": "2026-11-06T12:00:00.000Z",
       "scrapedAt": "2026-11-10T03:16:04.965Z",
       "excerpt": "via buffy--2026-11-08--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/support-operations-engineer-at-jobgether-4486949227",
+      "source": "readme",
+      "company": "Jobgether",
+      "title": "Support Operations Engineer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/support-operations-engineer-at-jobgether-4486949227",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:44:03.281Z",
+      "excerpt": "via inbox_opencode-job-hunt--2026-11-10--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sp%c3%a9cialiste-crm-marketing-relationnel-at-rcl-reitmans-canada-ltd-lt%c3%a9e-4488439692",
+      "source": "readme",
+      "company": "RCL - Reitmans Canada Ltd/Ltée",
+      "title": "Spécialiste, CRM & Marketing Relationnel",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-crm-marketing-relationnel-at-rcl-reitmans-canada-ltd-lt%C3%A9e-4488439692",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:44:03.281Z",
+      "excerpt": "via inbox_opencode-job-hunt--2026-11-10--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/directeur-des-ventes-sant%c3%a9-est-du-canada-at-randstad-canada-4487327964",
+      "source": "readme",
+      "company": "Santé",
+      "title": "Directeur des ventes / Santé / Est du Canada",
+      "location": "Est du Canada](https://ca.linkedin.com/jobs/view/directeur-des-ventes-sant%C3%A9-est-du-canada-at-randstad-canada-4487327964)",
+      "url": "https://ca.linkedin.com/jobs/view/directeur-des-ventes-sant%C3%A9-est-du-canada-at-randstad-canada-4487327964",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:44:03.281Z",
+      "excerpt": "Randstad Canada",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -71144,6 +71195,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948025592",
+      "source": "readme",
+      "company": "White Bay",
+      "title": "Salesforce Administrator / Natural Health / Hybrid in Toronto / $60-75k  Benefits",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948025592",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:44:03.281Z",
+      "excerpt": "via adzuna-autonomous--2026-11-05--v14.md",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
       ]
     },
     {

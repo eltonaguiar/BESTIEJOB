@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-10T03:16:06+00:00",
+ "generatedAt": "2026-11-10T03:44:04+00:00",
  "timezone": "America/Toronto",
- "count": 4779,
+ "count": 4782,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -4111,13 +4111,18 @@
     },
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487627896",
+     "label": "LinkedIn · Grande Prairie"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487640573",
      "label": "LinkedIn · Orangeville"
     },
     {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5952912896?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4486964872",
+     "label": "LinkedIn · Medicine Hat"
     }
    ]
   },
@@ -14417,6 +14422,46 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Support Operations Engineer",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/support-operations-engineer-at-jobgether-4486949227",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "support operations engineer jobgether canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Spécialiste, CRM & Marketing Relationnel",
+   "company": "RCL - Reitmans Canada Ltd/Ltée",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-crm-marketing-relationnel-at-rcl-reitmans-canada-ltd-lt%C3%A9e-4488439692",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialiste, crm & marketing relationnel rcl - reitmans canada ltd/ltee montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Bilingual Renewal Coordinator",
    "company": "Siemens",
    "location": "Montreal, Quebec, Canada",
@@ -15187,6 +15232,25 @@
    ],
    "french": true,
    "search": "administrateur du soutien crm - temporaire air canada dorval, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Directeur des ventes / Santé / Est du Canada",
+   "company": "Santé",
+   "location": "Est du Canada](https://ca.linkedin.com/jobs/view/directeur-des-ventes-sant%C3%A9-est-du-canada-at-randstad-canada-4487327964)",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-des-ventes-sant%C3%A9-est-du-canada-at-randstad-canada-4487327964",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "directeur des ventes / sante / est du canada sante est du canada](https://ca.linkedin.com/jobs/view/directeur-des-ventes-sant%c3%a9-est-du-canada-at-randstad-canada-4487327964) linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -72356,7 +72420,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5948025592",
      "label": "Adzuna · Toronto"
     }
    ]
