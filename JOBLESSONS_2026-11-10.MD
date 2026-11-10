@@ -169,3 +169,55 @@ Zero new verified-fresh merges this cycle. jobs.json stays 5,337 rows; README.md
 - `README.md` — no changes (zero verified fresh jobs this hour).
 - `jobs.json` — no changes (5,337 rows).
 - `public/` (GitHub Pages) — no changes; no redeploy required.
+
+## 11:00 EST cycle (2026-11-10) — hourly scan via daily_scan.sh (SCAN_PUSH=1)
+
+Ran the full hourly pipeline: `node scripts/daily_job_scan.mjs` → gap scan → web search → today feeds → inbox merge → semantic dedupe → `sync_readme_to_jobs.mjs` → `verify_links.py` → `tools/build_site.py` → commit + push. jobs.json baseline on disk was 5,337 rows (scraped 2026-11-10T13:11:22Z); the ATS sweep surfaced 2,339 matching postings across 10 sources (adzuna 395, linkedin 253, greenhouse 16, workday 14, smartrecruiters 10, remotive 4, ashby 2, lever 1, remoteok 1, jobicy 1). LinkedIn guest API returned 429/403 — no LinkedIn-sourced add without a verifiable absolute posted date.
+
+### Sources checked (partner / employer / Canadian tech focus)
+
+- **ServiceNow careers Ontario** — 16 Ontario jobs; Senior CRM Account Executive and Sales Director - CRM Sales (Nov 09) are sales roles (title-rule excluded); Staff Systems/Security Engineer postings (Nov 05–06) already tracked. No fresh Platform Administrator / Developer I.
+- **Salesforce Careers Canada hub** — no extractable fresh Platform Admin / Platform Developer I for Toronto.
+- **Rogers (jobs.rogers.com)** — no fresh dated ServiceNow/Salesforce platform posting; prior hits were marketing-ops or "preferred familiarity" infra roles, excluded by title rule.
+- **Bell (jobs.bell.ca / jobs.bce.ca)** — ServiceNow System Administrator filled; Senior Manager ServiceNow Platform Delivery no longer accepting applicants; Senior Technical Advisor 431695 expired (apply-by 11/02/2026). Skip-on-sight holds; never re-probe filled/expired roles as live.
+- **Government of Canada (jobs.gc.ca / canada.ca) + Ontario gojobs.gov.on.ca** — zero ServiceNow/Salesforce Toronto hits. GC platform work arrives via prime vendors on their own ATS (already covered by the automated sweep).
+- **Elite / Global Elite Partners + banks** — Accenture ServiceNow HAM Consultant (Canada, full-time, accenture.com careers deep link) captured by the sweep; KPMG 33919/34113 already on board; Deloitte/Capgemini/CGI/IBM/TCS postings arrive via ATS sweep only; Scotiabank/TD/RBC/BMO/CIBC Workday boards — no new dated SN/SF requisitions.
+- **Indeed.ca / Dice / Robert Half / SimplyHired SERPs** — SN/SF hits are intermediate/senior (2–5+ yrs, CSA/CAD mandatory), relative ages only, no verifiable datePosted; hub/search URLs filtered by `is_listing_url()`.
+
+### Fresh 2026-11-10 Toronto/Canada SN/SF postings verified live and merged
+
+**ServiceNow:**
+- ServiceNow Platform Specialist — Alimentiv — Canada (jobicy.com/jobs/160724)
+- ServiceNow Hardware Asset Management (HAM) Consultant — Accenture — Canada (accenture.com careers deep link, Elite Partner)
+- ITOM Solution Architect — ServiceNow — North America / Canada (smartrecruiters)
+
+**Salesforce:**
+- Senior Salesforce Developer — LanceSoft Inc. — Toronto, ON (linkedin)
+- Salesforce Technical Architect — Smart IT Frame LLC — Toronto, ON (linkedin)
+- Salesforce Senior FSC Developer / Technical Lead — Apptoza Inc. — Toronto, ON (linkedin)
+- Associate Salesforce Administrator — Jobgether — Canada (linkedin) ← entry-level Platform Administrator match
+- Salesforce Implementation Specialist (Hybrid or Remote) — Traction Rec — Canada (adzuna)
+- Salesforce CPQ Lead Developer — E-Solutions — Canada (linkedin)
+
+Non-Toronto 11-10 postings (kept in jobs.json feed, not in capped README tables): ServiceNow Architect FTR Burnaby (NTT DATA), Analyste QA ServiceNow CGI Sherbrooke, Senior Salesforce Developer Intact Montreal, Salesforce Platform Owner Parkland Calgary, Salesforce Developer Service New Brunswick.
+
+### Result
+
+265 new rows added to jobs.json via README sync; site rebuilt: **2,155 jobs** (ServiceNow 774 · Salesforce 840 · Other 541), 251 duplicate mirrors collapsed, 34 applied roles hidden, 1,497 best-match. Committed and pushed to origin/main as `9a560f5` — "chore(jobs): daily scan refresh (2554 listings, 2026-11-10)". GitHub Pages serves from `public/`; no separate redeploy needed (Pages deploys on main push).
+
+### Patterns / lessons confirmed
+
+1. **Accenture (Elite Partner) HAM/ITAM roles surface via their careers ATS deep link** — accenture.com jobdetails URLs are extractable and dated; add Elite Partner careers pages (Accenture, Deloitte, KPMG, Capgemini, CGI, IBM, TCS) as recurring manual targets alongside the ATS sweep.
+2. **Entry-level Platform Administrator matches remain rare** — Associate Salesforce Administrator (Jobgether, Canada) is the one 0–2 yr Platform Admin signal this cycle; keep "Associate Salesforce Administrator" and "Platform Administrator" as priority keywords.
+3. **LinkedIn guest API remains unreliable (429/403)** — 253 LinkedIn postings appeared in the scan feed but most lack verifiable absolute dates; LinkedIn-sourced roles only enter when a datePosted can be confirmed from the employer ATS or aggregator mirror.
+4. **Rogers / Bell / GC employer pages yield no fresh dated SN/SF platform roles** — Bell postings are skip-on-sight (filled/expired); Rogers hits are marketing-ops or infra-adjacent; GC platform work comes via prime vendors on their own ATS. The title rule plus skip-on-sight keeps the board clean.
+5. **Semantic dedupe collapses aggregator mirrors** — 53 dupes collapsed this cycle (Adzuna + LinkedIn + jobs.ca mirrors of the same requisition); always run semantic_dedupe --apply before sync_readme_to_jobs.
+6. **Post-:00 UTC cycles can produce merges** — unlike the 07:00–10:00 null cycles, this 11:00 run found 7 fresh SN/SF postings; freshness windows shift hour to hour, so every hourly scan is worth running.
+
+### Files touched
+
+- `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
+- `README.md` — tables rebuilt via build_site.py (capped at 400 per family for display; full 2,155 in public/jobs-data.json).
+- `jobs.json` — 265 rows added via sync (2,554 total feed rows).
+- `public/jobs-data.json` + `public/index.html` — rebuilt and pushed (GitHub Pages).
+- `README.BAK_2026-11-10T160600Z.md`, `README.DEDUPE_2026-11-10T160601Z.md` — archive + dedupe artifacts.
