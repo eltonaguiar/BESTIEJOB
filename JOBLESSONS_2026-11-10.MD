@@ -101,3 +101,38 @@ Cycles immediately after the :00 UTC ATS sweep are typically null for manual sea
 - `README.md` — no changes (zero verified fresh jobs this hour).
 - `jobs.json` — no changes (5,338 rows).
 - `public/` (GitHub Pages) — no changes; no redeploy required.
+
+## 09:00 EST cycle (2026-11-10) — second post-:00 UTC manual scan
+
+Ran after the 08:00 EST cycle (JOBLESSONS_2026-11-10.MD already on main via 357e6dc). Manual search layered on top of the just-run ATS sweep; jobs.json on disk = 5,083 deduped rows, 49 rows posted 2026-11-09 already tracked.
+
+### Sources checked
+- **Indeed.ca / Dice / Robert Half / SimplyHired SERPs**, date-sorted, ServiceNow + Salesforce Toronto:
+  - Altus Group Salesforce Platform Developer (Toronto, $105K–$115K, PD1/PD2) — already on the board ×4 (workday R0014087, linkedin 4483476940, adzuna 5949004280, simplyhired). Dupe, skipped.
+  - Robert Half Salesforce Developer Toronto, remote/permanent, $90–95K, page-dated 2026-11-10 — URL is a hub listing page (`/ca/en/jobs/...`, not a `/job/` deep link), client confidential, generic "Salesforce Developer" not Platform Developer I → excluded by hub-URL and title rules. Prior Robert Half row (2026-10-27) already archived on the board.
+  - Dice: CA-One Tech Cloud (10+ yrs, senior), Stefanini (US/remote), IntelliX (18+ yrs), GDH senior — none entry-level Platform Admin/Dev I Toronto; relative ages only ("5d ago", "Today"), no verifiable datePosted.
+  - SimplyHired Altus row noted above as a dupe of the tracked Workday req.
+- **ServiceNow Careers Ontario** (16 jobs): Senior CRM Account Executive + Sales Director - CRM Sales (Nov 09 — sales, title-rule excluded); Staff Systems Engineer / Staff Security Engineer ×2 / Staff + Senior SRE Protected B (Nov 05–06, already tracked). No Platform Administrator / Developer I.
+- **Salesforce Careers Canada hub**: sales / Customer Success roles only; no Platform Admin / Platform Developer I.
+- **LinkedIn guest API**: 429/403 blocked; detail pages login-walled — no LinkedIn-sourced add without a verifiable absolute date. Near-miss LinkedIn roles reviewed and skipped: ScanSource Salesforce Administrator II Toronto (4123838085, stale id), SRx Health Salesforce Administrator Toronto (1+ yr exp, date unverifiable), EvenUp / Carbon6 / OpenTable Salesforce Administrator (senior), Finning Platform Administrator I (0–3 yrs but Vancouver / Calgary / Edmonton — not GTA), City of Toronto Corporate Application Technical Leader / Senior Systems Integrator Salesforce Developer (Nov 09 — leader/senior, not entry-level; LinkedIn date unverifiable).
+- **Rogers (jobs.rogers.com)**: Technical Specialist Markham (ServiceNow/Salesforce only "preferred" familiarity — not a platform role), Lead Management Operations Ottawa (Salesforce marketing ops — sales/marketing title), Platform Specialist Toronto (VMware/NetApp infra; ServiceNow only for tickets), Digital Campaigns & Experience Optimization Manager (Braze/Salesforce CRM marketing). All excluded by title rule; no fresh dated SN/SF platform posting.
+- **Bell (jobs.bell.ca / jobs.bce.ca)**: ServiceNow System Administrator 432824 filled; Senior Manager ServiceNow Platform Delivery no longer accepting applicants; ServiceNow Senior Technical Advisor 432829 deadline 11/02/2026 expired; Senior Software Architect II - ServiceNow Platform Architect deadline 04/02/2026 expired. Skip-on-sight, never re-probed as live.
+- **Government of Canada (jobs.gc.ca / canada.ca)**: zero ServiceNow/Salesforce Toronto hits. City of Toronto (municipal) — lead/senior Salesforce roles only, already tracked, not entry-level.
+- **Elite / Global Elite Partners + banks**: KPMG 33919/34113 existing vacancies already on the board; Deloitte Salesforce Developer posting start 9/29/26 (outside freshness window, 3+ yrs); Accenture / CGI / IBM / TCS / Capgemini arrive via the ATS sweep only — nothing incremental from manual careers-page checks; Scotiabank / TD / RBC / BMO / CIBC Workday boards — no new dated SN/SF requisitions.
+
+### Result
+Zero new verified-fresh merges this cycle. jobs.json stays 5,083 rows; README.md tables unchanged; no public/ rebuild required.
+
+### Patterns / lessons confirmed
+1. The :00 UTC ATS sweep (already committed before this 09:00 cycle) captures nearly all dated Toronto SN/SF volume; post-:00 manual cycles are typically null — a clean zero-merge run is expected, not a failure.
+2. Hub/search URLs keep surfacing (roberthalf.com/ca/en/jobs/..., indeed /q-..., jobs.ca/<company>, wellfound /role/) — they must be filtered by `is_listing_url()` at both sync and render time before reaching README/public.
+3. Relative ages ("5d ago", "Today", "4d ago") on Dice/Indeed are not verifiable posted dates — roles without an absolute `datePosted` do not enter the board.
+4. Rogers / Bell / GC employer pages yield marketing-ops, infra-adjacent, or expired/filled postings — the title rule plus skip-on-sight keeps the board clean.
+5. Finning Platform Administrator I (0–3 yrs) matched the entry-level Platform Administrator title but outside the GTA — geographic filter holds; no Toronto exception this cycle.
+6. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced this hour — remains the top priority keyword gap.
+
+### Files touched
+- `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
+- `README.md` — no changes (zero verified fresh jobs this hour).
+- `jobs.json` — no changes (5,083 rows).
+- `public/` (GitHub Pages) — no changes; no redeploy required.
