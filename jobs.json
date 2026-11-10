@@ -1,41 +1,8 @@
 {
   "meta": {
-    "keyword": "multi",
-    "keywords": [
-      "servicenow",
-      "salesforce",
-      "vba",
-      "alteryx",
-      "full-stack",
-      "data",
-      "devops",
-      "python",
-      "it-reporting",
-      "itam"
-    ],
-    "location": "Toronto, ON",
-    "dateFilter": "month",
-    "scrapedAt": "2026-11-10T15:11:07.731Z",
-    "generatedAt": "2026-11-10T15:11:07.731Z",
-    "total": 5344,
-    "newThisScan": 705,
-    "retainedFromPrevious": 1626,
-    "sources": {
-      "smartrecruiters": 10,
-      "workday": 14,
-      "greenhouse": 16,
-      "lever": 1,
-      "ashby": 2,
-      "linkedin": 261,
-      "remoteok": 1,
-      "jobicy": 1,
-      "remotive": 4,
-      "adzuna": 395
-    },
-    "primaryCounts": {
-      "servicenow": 1080,
-      "salesforce": 1081
-    }
+    "total": 5354,
+    "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+    "generatedAt": "2026-11-10T15:33:35.114080+00:00"
   },
   "jobs": [
     {
@@ -94670,6 +94637,196 @@
       "workArrangement": "hybrid",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "sn:24ddbb720a8826d8",
+      "source": "indeed",
+      "company": "Morson Canada",
+      "title": "Specialist, ServiceNow ITAM (BTS)",
+      "location": "Canada",
+      "url": "https://emplois.ca.indeed.com/q-servicenow-canada-jobs.html",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "Morson Canada Specialist ServiceNow ITAM BTS new posting Nov 10",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:982437c0bb313da0",
+      "source": "servicenow",
+      "company": "ServiceNow Careers",
+      "title": "Senior Site Reliability Engineer, Canada Protected B",
+      "location": "Toronto, ON, Canada",
+      "url": "https://careers.servicenow.com/jobs/744000159911194/senior-site-reliability-engineer-canada-protected-b/",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "ServiceNow Senior Site Reliability Engineer Canada Protected B Toronto Flexible Remote Nov 10",
+      "workArrangement": "flexible",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sf:b6030dfd46cea29c",
+      "source": "indeed",
+      "company": "Maple Leaf Sports & Entertainment Partnership",
+      "title": "[C] Salesforce Engineer / Developer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://emplois.ca.indeed.com/q-salesforce-developer-emplois.html",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 100000,
+        "max": 120000,
+        "currency": "CAD",
+        "display": "$100K-$120K/yr"
+      },
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "MLSE Salesforce Engineer Developer Toronto $100K-$120K Nov 10",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:d5532519f37a90e7",
+      "source": "indeed",
+      "company": "Pyramid Consulting",
+      "title": "Salesforce, LWC, Omnistudio Developer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://ca.indeed.com/q-salesforce-administrator-l-toronto,-on-jobs.html",
+      "employmentType": "contract",
+      "salary": {
+        "min": 62,
+        "max": 62,
+        "currency": "CAD",
+        "display": "$62/hr"
+      },
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "Pyramid Consulting Salesforce LWC Omnistudio Developer Toronto $62/hr Contract Nov 10",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sn:041f9d9af10da0b9",
+      "source": "accenture",
+      "company": "Accenture",
+      "title": "ServiceNow Hardware Asset Management (HAM) Consultant",
+      "location": "Canada",
+      "url": "https://www.accenture.com/us-en/careers/jobdetails?id=14379035_en",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "Accenture ServiceNow HAM CMDB Consultant Canada Nov 10",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:2950d47999c60460",
+      "source": "jobs.ca",
+      "company": "Ateko",
+      "title": "Architecte ServiceNow ITOM / ITAM Senior",
+      "location": "Remote, Canada",
+      "url": "https://www.jobs.ca/ateko-backed-by-bell-canada",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "Ateko backed by Bell Canada ServiceNow ITOM ITAM Senior Architect Remote Canada Nov 10",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:dc71da2c949b3e6d",
+      "source": "indeed",
+      "company": "Atlantis IT group",
+      "title": "ServiceNow Asset Management Specialist (ITAM / SAM / HAM / CMDB)",
+      "location": "Toronto, ON, Canada",
+      "url": "https://ca.indeed.com/q-it-ad-jobs.html",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "Atlantis IT ServiceNow Asset Management Specialist ITAM SAM HAM CMDB Toronto Nov 10",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sf:3b0ee7bb98f0bbc4",
+      "source": "infosys",
+      "company": "Infosys",
+      "title": "FSM Consultant",
+      "location": "Mississauga, ON, Canada",
+      "url": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/153668BR",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 76886,
+        "max": 105007,
+        "currency": "CAD",
+        "display": "$76K-$105K/yr"
+      },
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "Infosys FSM Consultant Mississauga $76K-$105K Nov 9",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sn:58888f2d097e5f83",
+      "source": "smartrecruiters",
+      "company": "ServiceNow",
+      "title": "ITOM Solution Architect",
+      "location": "North America / Canada",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151461304-itom-solution-architect",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "ServiceNow ITOM Solution Architect CMDB Discovery Service Mapping Canada Remote Nov 10",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:99c7d52af0d75082",
+      "source": "deloitte",
+      "company": "Deloitte",
+      "title": "Lead Specialist, ServiceNow GRC Solution Architect",
+      "location": "Toronto, ON, Canada",
+      "url": "https://careers.deloitte.ca/job/Lead-Specialist,-ServiceNow-GRC-Solution-Architect,-Deloitte-Global-Technology/135340-en_US/",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 85000,
+        "max": 156000,
+        "currency": "CAD",
+        "display": "$85K-$156K/yr"
+      },
+      "postedDate": "2026-10-02T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T15:33:35.114080+00:00",
+      "excerpt": "Deloitte Lead Specialist ServiceNow GRC Solution Architect Toronto $85K-$156K Oct 2",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
       ]
     }
   ]
