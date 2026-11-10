@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-10](#current-jobs--as-of-2026-11-10)
-  - [ServiceNow jobs (745)](#servicenow-jobs-745)
-  - [Salesforce jobs (947)](#salesforce-jobs-947)
+  - [ServiceNow jobs (746)](#servicenow-jobs-745)
+  - [Salesforce jobs (949)](#salesforce-jobs-947)
   - [Other jobs (3958)](#other-jobs-3958)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-10
 
-Window: 2026-10-11 → 2026-11-10 · **5650 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-11 → 2026-11-10 · **5653 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (745)
 
@@ -773,6 +773,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-12 | [Senior ServiceNow (SNOW) Functional Analyst](https://boards.greenhouse.io/accenturefederalservices/jobs/4715618006?gh_jid=4715618006) | accenturefederalservices | Chantilly, VA | via gx10--2026-11-05--v18.md |
 | 2026-10-12 | [Senior Consultant - ServiceNow HRSD](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-hrsd-at-infosys-4476032740) | Infosys | Calgary, Alberta, Canada | via buffy-linkedin60d--2026-11-04--v9.md |
 | 2026-10-12 | [Senior Consultant - ServiceNow CSM](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-csm-at-infosys-4476037432) | Infosys | Calgary, Alberta, Canada | via buffy-linkedin60d--2026-11-04--v9.md |
+| Not disclosed | [Functional Consultant / Senior Consultant – ServiceNow](https://careers.kpmg.ca/jobs/34113) | KPMG Canada | Toronto, Ontario, Canada (multi-location) | ServiceNow Global Elite Partner · 1-5 yrs SN · $70K-$102K |
 
 </details>
 
@@ -1731,6 +1732,8 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-12 | [Salesforce Developer](https://boards.greenhouse.io/accenturefederalservices/jobs/4682911006?gh_jid=4682911006) | accenturefederalservices | Arlington, VA | via gx10--2026-11-05--v18.md |
 | 2026-10-12 | [Salesforce Data Management Lead](https://boards.greenhouse.io/accenturefederalservices/jobs/4718431006?gh_jid=4718431006) | accenturefederalservices | Washington, DC | via gx10--2026-11-05--v18.md |
 | 2026-10-12 | [Principal Salesforce Senior Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4719929006?gh_jid=4719929006) | accenturefederalservices | Washington, DC | via gx10--2026-11-05--v18.md |
+| 2026-10-30 | [Salesforce Platform Developer](https://www.jobs.ca/altus-group/jobs/salesforce-platform-developer-toronto-on-07faf7ddfb60) | Altus Group | Toronto, ON | PD1/PD2 · $105K-$115K |
+| Not disclosed | [Salesforce Consultant](https://lanefour.com/job-posting/salesforce-consultant/) | Lane Four | Toronto, ON (hybrid) | Salesforce consulting partner · 3-5 yrs · $100K-$130K |
 
 </details>
 
