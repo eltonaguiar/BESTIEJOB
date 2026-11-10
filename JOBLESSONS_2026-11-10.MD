@@ -131,3 +131,37 @@ Next-run pointers:
 - `jobs.json` — no changes (5,329 rows).
 - `public/` (GitHub Pages) — no changes; no redeploy required.
 
+
+## 05:00 EST cycle (2026-11-10) — post :00 UTC hourly scan
+
+Ran after the repo's hourly Action (69dd5c2, "hourly scan refresh (5329 listings, 2026-11-10T08:18:16Z)" on origin/main: 5,329 jobs, README ServiceNow 743 / Salesforce 951 / Other 4,117 = 5,811 live postings, window 2026-10-11 → 2026-11-10). Layered manual search on top.
+
+Sources checked: Indeed (salesforce-admin / platform-developer-1 / consultant pages), LinkedIn guest (429/403 — blocked), BuiltIn Toronto, ZipRecruiter, talent.com, Dice, Robert Half, Hirify; employer boards (jobs.scotiabank.com, jobs.bell.ca / jobs.bce.ca, careers.telus.com, jobs.rogers.com, jobs.td.com, careers.rbc.com, jobs.bmo.com); ServiceNow careers Ontario; Government of Canada jobs.canada.ca; Ontario gojobs.gov.on.ca; Elite Partners KPMG / Accenture / Deloitte / Capgemini / CGI / IBM / TCS.
+
+Already in feed (duplicates, not re-added):
+- Scotiabank ServiceNow Administrator Specialist 602949717; ServiceNow Developer 603030017; ServiceNow Discovery Developer 602442317 (jobs.scotiabank.com)
+- Altus Group Salesforce Platform Developer R0014087 (Workday, tracked)
+- Lightspeed ServiceNow Developer (11 feed rows incl. adzuna / remotejobs / accel mirrors)
+- SS&C Technologies + Benevity Salesforce roles (merged in the 00:00 EST cycle this date)
+
+Excluded / negative:
+- Bell ServiceNow Senior Technical Advisor (jobs.bce.ca/bell/job/Toronto-ServiceNow-Senior-Technical-Advisor-ON/1437314500, apply-by 11/02/2026) — Bell skip-on-sight ("filled") pattern; senior advisor role outside Platform Administrator / Developer I targeting
+- ServiceNow careers Toronto — Staff Security Engineer x2 (Nov 6, JB0076454 / JB0076455), Protected B security/SRE roles; outside Platform Administrator / Developer I targeting
+- Indeed "New"/relative-date leads without absolute posted dates (BMO ServiceNow SAM Administrator - ITAM "New"; Robert Half Salesforce Developer) — not posted dates
+- Randstad Systems Administrator V ServiceNow Toronto — posted Sept 25, outside the 30-day window
+- Hirify ServiceNow Platform Administrator — Remote Canada, bilingual FR/EN, listed ~Oct 31; outside window and not Toronto-targeted
+- TELUS careers.telus.com — Salesforce matches are Account/Senior Account Manager sales titles; excluded by the board's title rule
+- Rogers jobs.rogers.com — no verifiable platform postings with posted dates this cycle
+- Government (jobs.canada.ca, gojobs.gov.on.ca) — expired or non-platform roles; low yield
+
+Result: zero new merges. jobs.json stays 5,329; README tables stay SN 743 / SF 951 / Other 4,117 (5,811 live postings); no public/ rebuild required.
+Entry-level Platform Administrator / Platform Developer I roles: none surfaced (7th straight null cycle on those exact titles) — keep as priority keywords.
+
+Pattern confirmed: cycles immediately after the :00 UTC ATS sweep are typically null for manual search — the sweep captures nearly all Toronto SN/SF volume; manual value is only in employer career pages and non-ATS boards with verifiable absolute dates, and this cycle produced none.
+
+### Files touched
+- `JOBLESSONS_2026-11-10.MD` — this run's section appended on repo root on main.
+- `README.md` — no changes (zero verified fresh jobs this hour).
+- `jobs.json` — no changes (5,329 rows).
+- `public/` (GitHub Pages) — no changes; no redeploy required.
+
