@@ -549,3 +549,38 @@ Scope: fresh Toronto/GTA + Canada ServiceNow and Salesforce roles; dedupe agains
 
 **Files touched:** JOBLESSONS_2026-11-09.MD (this section only). README.md, jobs.json, public/ — no changes this run.
 
+## Hourly scan — 2026-11-09 20:00 EST (2026-11-10 01:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 20:00 EST (01:00 UTC) |
+| Remote main HEAD | 1ab5db07 chore(jobs): fresh CA sweep 2026-11-10T00:58Z [skip ci] |
+| Baseline (README.md tables on main) | "as of 2026-11-09" · window 2026-10-10 → 2026-11-09 · ~5,413 live postings (SN 718 · SF 877 · Other 3,818) · deduplicated by URL |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required; board current from the 00:58 UTC automated sweep) |
+
+### Sources queried
+Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.servicenow.com), Salesforce Careers Canada (careers.salesforce.com), jobs.rogers.com, jobs.bell.ca, jobs.gc.ca; targeted site: queries against myworkdayjobs.com / greenhouse.io / lever.co / ashbyhq.com. Employer / Elite Partner checks: Accenture, Deloitte, KPMG, CGI, Capgemini, BDO, TELUS, RBC, Scotiabank, BMO, TD, CIBC, Lane Four, Altus Group, Fidelity Canada, MSCI.
+
+### Candidates reviewed (disposition)
+- **ServiceNow Careers Toronto** (Nov 05–06): Staff Systems Engineer (JB0073788), Staff Security Engineer | Security Engineering (JB0076454), Senior Staff Security Engineer | Systems Engineering (JB0076457), Staff Security Engineer | Enterprise Security (JB0076455), Staff Site Reliability Engineer Canada Protected B (JB0076847), Senior Site Reliability Engineer Canada Protected B (JB0076846) — all already on board via careers.servicenow.com / jobs.smartrecruiters.com mirrors → duplicates, skipped.
+- **ServiceNow Senior CRM Account Executive** (Toronto, Nov 09, JB0077108) — sales role, no SN/SF keyword → excluded by title rule.
+- **Salesforce Careers Canada** — Manager, Sales Development Canada already on board; remaining Toronto hits non-SN/SF or undated → skipped.
+- **BMO — ServiceNow SAM Administrator - ITAM, Toronto** (Workday R260030096, posted 2026-11-09): verified live on LinkedIn ("7 hours ago") and Indeed ($55,500–$120,000, application deadline ~11/15–11/22/2026) — but ALREADY in jobs.json under the direct Workday URL → dedupe hit, no merge (URL variant, no net-new card).
+- **Rogers** (jobs.rogers.com Greenhouse, 21 Technology roles, newest Nov 7): no SN/SF technical role; Sr BSA ServiceNow Brampton (wct-fct req 317411) returns "no longer accepting applications"; Lead Management Operations (Salesforce, ~Oct 28) outside freshness window → nothing added.
+- **Bell** (jobs.bell.ca Phenom): ServiceNow System Administrator 432824, Senior Technical Advisor 432829, Developer/Integrator BECACA431695; Salesforce Solution Architect, Platform Manager, Marketing Cloud Developer — all return "has been filled" → excluded. Filled roles never enter the board.
+- **jobs.gc.ca / Canada.ca**: zero direct ServiceNow/Salesforce Toronto postings → nothing added.
+- **Indeed.ca / LinkedIn.ca mirrors** (KPMG ×8, CGI, Lightspeed, Robert Half, Moneris, Survalent, CloudKettle, SS&C, Altus Group, Winobell): aggregator listing pages with no extractable absolute posted date and no resolvable direct posting URL → lead only, not merged (merger requires YYYY-MM-DD + direct employer URL).
+- **Partners / Elite Partners**: Accenture SN Technical Architect Toronto (11-06), Deloitte SN Senior Consultant Platform Toronto, KPMG SN consultants (Toronto/Ottawa/Vancouver/Montreal), CGI, Lane Four, Altus Group, Winobell — all already on board under employer/LinkedIn/Workday URLs dated 2026-11-08/09, or undated/closed → no net-new adds.
+
+### Patterns / lessons (20:00 run)
+1. **Zero-fresh runs remain the norm at this cadence.** The 00:58 UTC automated sweep refreshed jobs.json; every date-verifiable Toronto SN/SF role surfaced this hour is already mirrored, closed, or undated. Expect 0–2 merges per hour late in the daily monitoring window.
+2. **Dedupe hit example.** BMO's SN SAM Administrator–ITAM appeared fresh on LinkedIn/Indeed today (verified live, "7 hours ago", deadline mid-November) but is already on the board under its direct Workday URL (R260030096, posted 2026-11-09) — URL-variant duplicates add zero page cards; normalize URLs (strip query strings/trailing slashes) before dedupe.
+3. **Filled/closed pages retire roles.** Rogers wct-fct ("no longer accepting applications"), Bell Phenom ("has been filled" ×5), Scotiabank-style closed reqs are excluded and dropped from re-checks.
+4. **Undated employer pages can't merge.** Lane Four's entry-level Salesforce Administrator and Winobell's Salesforce Developer (Dealer Services) are live and Toronto-based but carry no posted date on their own pages → leads only, not board rows.
+
+### Files touched
+- `JOBLESSONS_2026-11-09.MD` — this file, 20:00 EST section added, committed to repo root on main.
+- `README.md` — no changes (zero verified fresh jobs; counts unchanged).
+- `jobs.json` / `public/` — no changes; no rebuild or redeploy required this hour.
