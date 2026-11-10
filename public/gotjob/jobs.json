@@ -39,6 +39,23 @@
   },
   "jobs": [
     {
+      "id": "verified:sms-afrl-sn-dev-kirtland",
+      "source": "employer-verified",
+      "company": "SMS Data Products Group, Inc",
+      "title": "Application Developer (ServiceNow) \u2014 AFRL, Kirtland AFB",
+      "location": "Kirtland AFB, NM, United States",
+      "url": "https://www.justjobs.com/career/18165557/Application-Development-New-Mexico-Kirtland-Air-Force-Base",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-10-15",
+      "excerpt": "Verified active 2026-11-10. ServiceNow developer supporting Air Force Research Laboratory (AFRL) at Kirtland AFB; customize/expand ServiceNow, JS/CSS/HTML, CSA required. Secret clearance.",
+      "tags": [
+        "servicenow"
+      ],
+      "arrangement": "onsite",
+      "scrapedAt": "2026-11-10T19:32:20.028356Z"
+    },
+    {
       "id": "verified:lanefour-sf-admin",
       "source": "employer-verified",
       "company": "Lane Four",
