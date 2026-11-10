@@ -4,21 +4,21 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-10T013439Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-10T020223Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-10](#current-jobs--as-of-2026-11-10)
   - [ServiceNow jobs (742)](#servicenow-jobs-742)
   - [Salesforce jobs (946)](#salesforce-jobs-946)
-  - [Other jobs (4112)](#other-jobs-4112)
+  - [Other jobs (4117)](#other-jobs-4117)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-10
 
-Window: 2026-10-11 → 2026-11-10 · **5800 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-11 → 2026-11-10 · **5805 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (742)
 
@@ -1730,11 +1730,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (4112)
+### Other jobs (4117)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 4112 postings</strong></summary>
+<details><summary><strong>Show 4117 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -1870,6 +1870,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-08 | [Intégrateur(trice) de contenu (mandat de 14 mois)](https://ca.linkedin.com/jobs/view/int%C3%A9grateur-trice-de-contenu-mandat-de-14-mois-at-intact-4470367815) | Intact | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v2.md |
 | 2026-11-08 | [IT Support Technician](https://ca.linkedin.com/jobs/view/it-support-technician-at-mnp-4405039330) | MNP | Québec, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v2.md |
 | 2026-11-08 | [Gestionnaire des opération Marketing](https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487640573) | Rogers Communications | Orangeville, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v1.md |
+| 2026-11-08 | [Gestionnaire des opération Marketing](https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487627896) | Rogers Communications | Grande Prairie, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-10--v1.md |
 | 2026-11-08 | [Full-time Enterprise CRM Integration Specialist](https://www.adzuna.ca/details/5957966174) | Algonquin College | Ottawa, Ottawa region |  |
 | 2026-11-08 | [Full Stack Engineer](https://jobicy.com/jobs/159681-full-stack-engineer-8) | infisical | Brazil, Canada, Europe, USA | Full stack |
 | 2026-11-08 | [Director, Pricing Strategy and Operations](https://ca.linkedin.com/jobs/view/director-pricing-strategy-and-operations-at-varicent-4470715300) | Varicent | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
@@ -1987,6 +1988,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-06 | [Systems Administrator & Business Analyst](https://ca.linkedin.com/jobs/view/systems-administrator-business-analyst-at-university-of-niagara-falls-canada-4454767290) | University of Niagara Falls Canada | Niagara Falls, ON | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [System Administrator](https://ca.linkedin.com/jobs/view/system-administrator-at-germain-h%C3%B4tels-4469349767) | Germain Hôtels | Québec, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
 | 2026-11-06 | [Synapse Engineer](https://ca.linkedin.com/jobs/view/synapse-engineer-at-cyber-space-technologies-llc-4487301401) | Cyber Space Technologies LLC | Toronto, ON | via buffy--2026-11-08--v2.md |
+| 2026-11-06 | [Support Operations Engineer](https://ca.linkedin.com/jobs/view/support-operations-engineer-at-jobgether-4486949227) | Jobgether | Canada | via inbox_opencode-job-hunt--2026-11-10--v1.md |
 | 2026-11-06 | [Staff Solutions Architect, Business Systems](https://ca.linkedin.com/jobs/view/staff-solutions-architect-business-systems-at-tonal-4466879724) | Tonal | Toronto, ON | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [Staff Software Engineer – AI Platform](https://ca.linkedin.com/jobs/view/staff-software-engineer-%E2%80%93-ai-platform-at-thomson-reuters-4461391305) | Thomson Reuters | Toronto, ON | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955424552) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
@@ -1998,6 +2000,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-06 | [Sr. Data Scientist, Business Analytics](https://ca.linkedin.com/jobs/view/sr-data-scientist-business-analytics-at-thumbtack-4471137316) | Thumbtack | Victoria, BC | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [Sr. Analyst, Growth & Innovation Operations](https://ca.linkedin.com/jobs/view/sr-analyst-growth-innovation-operations-at-altus-group-4485895856) | Altus Group | Toronto, ON | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [Sr Analyst, Systems Management](https://ca.linkedin.com/jobs/view/sr-analyst-systems-management-at-university-of-guelph-4485872776) | University of Guelph | Guelph, ON | via buffy--2026-11-08--v2.md |
+| 2026-11-06 | [Spécialiste, CRM & Marketing Relationnel](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-crm-marketing-relationnel-at-rcl-reitmans-canada-ltd-lt%C3%A9e-4488439692) | RCL - Reitmans Canada Ltd/Ltée | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-10--v1.md |
 | 2026-11-06 | [Spécialiste CRM & Automatisation (French & English)](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-crm-automatisation-french-english-at-letmetalk-4486984765) | Letmetalk | Boisbriand, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
 | 2026-11-06 | [Specialist, CRM & Lifecycle Marketing](https://ca.linkedin.com/jobs/view/specialist-crm-lifecycle-marketing-at-rcl-reitmans-canada-ltd-lt%C3%A9e-4488449344) | RCL - Reitmans Canada Ltd/Ltée | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
 | 2026-11-06 | [Specialist, Asset Management (ORP)](https://ca.linkedin.com/jobs/view/specialist-asset-management-orp-at-agnico-eagle-mines-limited-4488073067) | Agnico Eagle Mines Limited | Nunavut, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
@@ -2103,6 +2106,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-06 | [IT Asset Administrator](https://www.adzuna.ca/details/5955730345?utm_medium=api&utm_source=54ce986e) | Kronos Consulting | Québec, Canada | via adzuna-round14b--2026-11-06--v4.md |
 | 2026-11-06 | [Gestionnaire, Prestation des services d’intégration – Services professionnels](https://ca.linkedin.com/jobs/view/gestionnaire-prestation-des-services-d%E2%80%99int%C3%A9gration-%E2%80%93-services-professionnels-at-maintainx-4434141170) | MaintainX | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
 | 2026-11-06 | [Gestionnaire, Gouvernance des fournisseurs, contrats et amélioration continue TI](https://ca.linkedin.com/jobs/view/gestionnaire-gouvernance-des-fournisseurs-contrats-et-am%C3%A9lioration-continue-ti-at-pharmascience-4479310125) | Pharmascience | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
+| 2026-11-06 | [Gestionnaire des opération Marketing](https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4486964872) | Rogers Communications | Medicine Hat, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-10--v1.md |
 | 2026-11-06 | [Gestionnaire de Portefeuille, Déploiement de réseau et Gouvernance en matière de sécurité](https://ca.linkedin.com/jobs/view/gestionnaire-de-portefeuille-d%C3%A9ploiement-de-r%C3%A9seau-et-gouvernance-en-mati%C3%A8re-de-s%C3%A9curit%C3%A9-at-rogers-communications-4486960907) | Rogers Communications | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
 | 2026-11-06 | [GenAI Developer](https://ca.linkedin.com/jobs/view/genai-developer-at-tata-consultancy-services-4487306756) | Tata Consultancy Services | Toronto, ON | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [Functional Analyst-Customer Service and Warehousing](https://ca.linkedin.com/jobs/view/functional-analyst-customer-service-and-warehousing-at-lallemand-4480248974) | Lallemand | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
@@ -2118,6 +2122,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-06 | [Director, Product Line Management](https://ca.linkedin.com/jobs/view/director-product-line-management-at-jobgether-4486928805) | Jobgether | Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
 | 2026-11-06 | [Directeur(trice) technique/Architecte MuleSoft](https://ca.linkedin.com/jobs/view/directeur-trice-technique-architecte-mulesoft-at-deloitte-4479175122) | Deloitte | Québec, QC | via buffy--2026-11-08--v2.md |
 | 2026-11-06 | [Directeur(trice) principal(e), Technologie marketing, analytique et plateformes numériques](https://www.adzuna.ca/details/5955916119?utm_medium=api&utm_source=54ce986e) | Intact Financial Corporation | Montréal, Québec | via adzuna-round15--2026-11-06--v3.md |
+| 2026-11-06 | [Directeur des ventes / Santé / Est du Canada](https://ca.linkedin.com/jobs/view/directeur-des-ventes-sant%C3%A9-est-du-canada-at-randstad-canada-4487327964) | Santé | Est du Canada](https://ca.linkedin.com/jobs/view/directeur-des-ventes-sant%C3%A9-est-du-canada-at-randstad-canada-4487327964) | Randstad Canada |
 | 2026-11-06 | [Directeur de la pratique Shopify](https://ca.linkedin.com/jobs/view/directeur-de-la-pratique-shopify-at-valtech-4435308029) | Valtech | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v5.md |
 | 2026-11-06 | [Digital Product Manager - CRM and Partnerships](https://ca.linkedin.com/jobs/view/digital-product-manager-crm-and-partnerships-at-sunlife-4486938248) | Sunlife | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v1.md |
 | 2026-11-06 | [Developer](https://ca.linkedin.com/jobs/view/developer-at-capco-4488093182) | Capco | Toronto, ON | via buffy--2026-11-08--v2.md |
@@ -5976,4 +5981,4 @@ _Generated by the hourly job scan; verified against the live board before merge.
 
 ## Archive
 
-`README.BAK_2026-11-10T013439Z.md` holds the rows that aged out of the 30-day window on 2026-11-10.
+`README.BAK_2026-11-10T020223Z.md` holds the rows that aged out of the 30-day window on 2026-11-10.
