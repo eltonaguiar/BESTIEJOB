@@ -30,3 +30,23 @@ Result: README Salesforce table 949 → 951; board total 5809 → 5811 live post
 ## What was NOT added (and why)
 - ServiceNow-specific fresh postings: none verifiably new this cycle outside the automated scan — ServiceNow's own Toronto careers page shows senior/security/Protected B roles (older, mostly >1 week); Bell/Scotiabank/BMO ServiceNow postings were filled or already tracked.
 - Entry-level Platform Administrator / Platform Developer I roles: none surfaced this cycle — Toronto SN/SF postings are predominantly mid/senior. Keep these as priority keywords for the next run.
+
+
+## 01:00 EST cycle — no new verified postings
+Second consecutive hourly cycle without verified fresh Toronto SN/SF additions. The repo's automated scan (05:15 UTC, 749 new across Adzuna/LinkedIn/Workday/SmartRecruiters/Greenhouse/Lever/Ashby/remote boards) plus the 00:00 EST manual cycle (+6 from inbox hunts: opencode-job-hunt +5, opencode-job-hunt-c12 +1) had already swept the high-volume sources; every inbox file dated 2026-11-10 carries a `<!-- merged ... +0 new / +n new -->` header (ats, fresh-ca, gap-scan +0; opencode-job-hunt +5; opencode-job-hunt-c12 +1 new, 4 duplicate).
+
+Sourcing checks this cycle, all negative:
+- Bell jobs.bell.ca: every ServiceNow hit returns "the job you are trying to apply for has been filled" — skip on sight, never re-probe as live.
+- TELUS careers.telus.com: "Salesforce" matches are Account/Senior Account Manager sales titles — excluded by the board's title rule (sales/marketing roles rejected unless platform/analytics work).
+- Rogers jobs.rogers.com: matches are Marketing Ops / CRM campaign roles mentioning Salesforce incidentally; detail pages carry no posted date — unverifiable, not added.
+- ServiceNow careers (Toronto): Nov 9–10 postings are sales roles (Sales Director CRM Sales, Senior CRM AE) and >1-week-old security/syseng roles — outside Platform Administrator / Developer I targeting.
+- Government (gojobs.gov.on.ca, jobs.gc.ca / Canada.ca): postings seen were expired (Sep–Oct 2026) or non-platform roles — low yield again.
+- Indeed "New" tags are not posted dates: BMO ServiceNow SAM Administrator - ITAM (Toronto) shows "1 day ago"/"New" on Indeed but hiringcensus dates it ~5d ago (≈Nov 5) — already swept by the Workday scan; BDO ServiceNow Functional Consultant dates to Aug 24 / Nov 2 per jobs.ca/jobillico — stale. Always confirm an absolute date from the company board or hiringcensus before treating an Indeed lead as fresh.
+- RoleWeek "Sr. Salesforce Developer — Genesys — Nov 9" already surfaced by the prior cycle; freelancer-radar leads use relative dates ("yesterday", "2 days ago") and fail the absolute-date rule.
+
+Zero jobs merged this cycle: jobs.json stays 5327, README tables stay ServiceNow 743 / Salesforce 951 / Other 4117 (5811 live postings), no public/ rebuild required.
+
+Next-run pointers:
+- Entry-level Salesforce Platform Administrator / Platform Developer I roles still none surfaced — keep those exact titles as priority keywords.
+- Probe employer boards directly (jobs.bmo.com Workday, jobs.td.com, careers.rbc.com, careers.scotiabank.com) for ServiceNow ITAM/CMDB and Salesforce Platform Admin postings dated 2026-11-10; the automated scan's Workday CXS coverage can miss individual requisitions.
+- Keep hourly cadence; expect null cycles when the :00 UTC scan has just run.
