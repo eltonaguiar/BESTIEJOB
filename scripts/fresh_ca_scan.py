@@ -286,7 +286,7 @@ def norm_url(url: str) -> str:
     return re.sub(r"[?#].*$", "", str(url).strip().lower()).rstrip("/")
 
 
-CITY_STOP = {"canada", "remote", "hybrid", "onsite", "on", "qc", "bc", "ab", "mb",
+CITY_STOP = {"can", "ca", "usa", "us", "canada", "remote", "hybrid", "onsite", "on", "qc", "bc", "ab", "mb",
              "ns", "nb", "sk", "nl", "pe", "territories", "province"}
 CO_STOP = {"the", "inc", "inc.", "ltd", "corp", "llc", "limited", "group", "canada",
            "solutions", "technologies", "technology", "services", "systems"}
@@ -306,7 +306,7 @@ def fingerprint(row: dict) -> str:
     def norm(value) -> list[str]:
         return re.sub(r"[^a-z0-9]+", " ", str(value or "").lower()).split()
 
-    title = " ".join(norm(row.get("title")))
+    title = " ".join(norm(row.get("title"))[:6])
     comp = [t for t in norm(row.get("company")) if t not in CO_STOP]
     city = [t for t in norm(row.get("location")) if t not in CITY_STOP]
     if not (title and comp and city):
