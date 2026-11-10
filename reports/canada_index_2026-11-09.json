@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T20:05:49.129361+00:00",
+  "generated": "2026-11-09T23:53:20.891219+00:00",
   "buckets": [
     "servicenow",
     "salesforce"
@@ -9,17 +9,51 @@
     "salesforce"
   ],
   "stats": {
-    "eluta_pages": 4,
-    "jobbank_pages": 7,
-    "requests": 11
+    "eluta_pages": 5,
+    "jobbank_pages": 4,
+    "requests": 9
   },
-  "origin_ats": {},
+  "origin_ats": {
+    "cgi.njoyn.com": 4,
+    "careers.deloitte.ca": 3,
+    "phh.tbe.taleo.net": 2,
+    "rsm.wd1.myworkdayjobs.com": 2,
+    "bmo.wd3.myworkdayjobs.com": 2,
+    "smartrecruiters.com": 1,
+    "careers.wipro.com": 1,
+    "careers.hcltech.com": 1,
+    "www.accenture.com": 1,
+    "clients.njoyn.com": 1,
+    "workforcenow.adp.com": 1,
+    "sunlife.wd3.myworkdayjobs.com": 1
+  },
   "dropped": {
-    "dup_board": 5,
-    "dup_batch": 16,
-    "title": 107,
+    "dup_board": 20,
+    "dup_batch": 8,
+    "title": 68,
     "geo": 0,
     "dead": 0
   },
-  "rows": []
+  "rows": [
+    {
+      "source": "eluta",
+      "title": "Configurateur(trice) - ServiceNow",
+      "company": "R\u00e9seau de Transport M\u00e9tropolitain / EXO",
+      "location": "Montr\u00e9al QC",
+      "posted": "2026-11-07",
+      "url": "https://www.eluta.ca/spl/configurateur-trice-servicenow-d4c9f87ee6e0980bce58cd134b91908a",
+      "origin_ats": "phh.tbe.taleo.net",
+      "bucket": "servicenow"
+    },
+    {
+      "source": "eluta",
+      "title": "Solution Architect - ServiceNow, IT Service Management",
+      "company": "HCL Canada Inc.",
+      "location": "Queensville ON",
+      "posted": "2026-11-07",
+      "url": "https://www.eluta.ca/spl/solution-architect-servicenow-it-service-management-b475186519e759f49c6a03c9569d47c6",
+      "origin_ats": "careers.hcltech.com",
+      "bucket": "servicenow"
+    }
+  ]
 }

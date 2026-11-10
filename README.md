@@ -4972,7 +4972,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-09T22:34:43.795Z** · 471 live postings from 10 public sources · 8 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-10T01:30:05.151Z** · 480 live postings from 10 public sources · 8 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -4980,6 +4980,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 |---|---|---|---|
 | 2026-11-09 | [Specialist, ServiceNow ITAM (BTS)](https://ca.linkedin.com/jobs/view/specialist-servicenow-itam-bts-at-addmore-group-4489144179) | Addmore Group | Saskatoon, Saskatchewan, Canada |
 | 2026-11-09 | [Specialist, ServiceNow ITOM (BTS)](https://ca.linkedin.com/jobs/view/specialist-servicenow-itom-bts-at-addmore-group-4489137733) | Addmore Group | Saskatoon, Saskatchewan, Canada |
+| 2026-11-09 | [ServiceNow Developer (ITSM Module) — Client Site, Ottawa](https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856) | DXC Technology | Ottawa, ON, Canada |
 | 2026-11-06 | [Servicenow Solution Architect (TPRM)](https://ca.linkedin.com/jobs/view/servicenow-solution-architect-tprm-at-stellar-consulting-solutions-llc-4486983982) | Stellar Consulting Solutions, LLC | Canada |
 | 2026-11-05 | [Senior Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159911194) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-05 | [Staff Site Reliability Engineer, Canada Protected B](https://jobs.smartrecruiters.com/ServiceNow/744000159910447) | ServiceNow | Toronto, Ontario, ca |
@@ -4989,24 +4990,23 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-04 | [Service Now ITAM/Discovery – Remote · Canada \| Zodiac Solutions, Inc](https://www.jobs.ca/zodiac-solutions-inc/jobs/service-now-itam-discovery-remote-canada-2bdbd9cfbe4b) | Remote · Canada \| Zodiac Solutions, Inc | Canada |
 | 2026-11-04 | [Remote IT Asset Manager - ServiceNow & Global Portfolio - Vancouver \| Sercanto](https://fr.ca.sercanto.com/detail/a/remote-strong-it-strong-asset-manager-servicenow-global-portfolio_vancouver_172004063) | ServiceNow & Global Portfolio - Vancouver \| Sercanto | Canada |
 | 2026-11-04 | [Remote Canada ServiceNow SAM Automation Engineer - Vancouver \| Sercanto](https://ca.sercanto.com/detail/a/remote-canada-servicenow-sam-automation-engineer_vancouver_171870159) | Vancouver \| Sercanto | Canada |
-| 2026-11-04 | [Senior ITAM Governance Analyst / Business Systems Analyst - Dacaro Software Services Inc \| Toronto, ON](https://www.simplyhired.ca/job/NLMJBONxJ8pGOcAi4qdgT9e0Zz8z2O9vyjFMr8_fipV4azimlY86rw) | Dacaro Software Services Inc \| Toronto, ON | Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-10 | [Senior Back-End Email Developer (Salesforce Marketing Cloud)](https://ca.linkedin.com/jobs/view/senior-back-end-email-developer-salesforce-marketing-cloud-at-intact-4487995054) | Intact | Montreal, Quebec, Canada |
+| 2026-11-10 | [Développeur(euse) principal(e) en développement de courriels dorsaux (Salesforce Marketing Cloud)](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-principal-e-en-d%C3%A9veloppement-de-courriels-dorsaux-salesforce-marketing-cloud-at-intact-4487983304) | Intact | Montreal, Quebec, Canada |
 | 2026-11-09 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-hays-4489123880) | Hays | Greater Toronto Area, Canada |
 | 2026-11-09 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-apptoza-inc-4487409717) | Apptoza Inc. | Toronto, Ontario, Canada |
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487960730) | Genesys | Toronto, Ontario, Canada |
 | 2026-11-09 | [Salesforce Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-advanced-at-apptoza-inc-4487421227) | Apptoza Inc. | Toronto, Ontario, Canada |
 | 2026-11-09 | [Salesforce Senior FSC Developer / Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487405679) | Apptoza Inc. | Toronto, Ontario, Canada |
-| 2026-11-09 | [Salesforce Revenue Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-apptoza-inc-4487419175) | Apptoza Inc. | Toronto, Ontario, Canada |
-| 2026-11-06 | [Salesforce Platform Owner](https://ca.linkedin.com/jobs/view/salesforce-platform-owner-at-parkland-corporation-4469321507) | Parkland Corporation | Calgary, Alberta, Canada |
-| 2026-11-05 | [Software Engineering SMTS](https://www.adzuna.ca/details/5954040810) | Salesforce | Vancouver, Greater Vancouver |
-| 2026-11-05 | [Principal Application Engineer (Salesforce)](https://ca.linkedin.com/jobs/view/principal-application-engineer-salesforce-at-pointclickcare-4486922215) | PointClickCare | Mississauga, Ontario, Canada |
-| 2026-11-05 | [Senior Salesforce Engineer](https://ca.linkedin.com/jobs/view/senior-salesforce-engineer-at-canadian-cancer-society-4486031854) | Canadian Cancer Society | Kelowna, British Columbia, Canada |
-| 2026-11-05 | [Développeur principal/développeuse principale, Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-principal-d%C3%A9veloppeuse-principale-salesforce-at-canadian-cancer-society-4487010102) | Canadian Cancer Society | Vancouver, British Columbia, Canada |
-| 2026-11-05 | [Senior Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/senior-salesforce-technical-lead-at-e-solutions-4488038962) | E-Solutions | Canada |
-| 2026-11-05 | [Salesforce Marketing Cloud(SFMC) Business Analyst /Solution Consultant](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-sfmc-business-analyst-solution-consultant-at-galent-4485866051) | Galent | Mississauga, Ontario, Canada |
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487972526) | Genesys | Quebec, Canada |
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487973509) | Genesys | Alberta, Canada |
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487961716) | Genesys | British Columbia, Canada |
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487963660) | Genesys | Ontario, Canada |
+| 2026-11-09 | [Salesforce Revenue Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-lancesoft-inc-4487953893) | LanceSoft, Inc. | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
