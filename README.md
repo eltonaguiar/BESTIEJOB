@@ -4,21 +4,21 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-09T235633Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-10T000813Z.md`.
 
 ## Contents
 
-- [Current jobs — as of 2026-11-09](#current-jobs--as-of-2026-11-09)
+- [Current jobs — as of 2026-11-10](#current-jobs--as-of-2026-11-10)
   - [ServiceNow jobs (741)](#servicenow-jobs-741)
-  - [Salesforce jobs (943)](#salesforce-jobs-943)
+  - [Salesforce jobs (944)](#salesforce-jobs-944)
   - [Other jobs (3974)](#other-jobs-3974)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-09
+## Current jobs — as of 2026-11-10
 
-Window: 2026-10-10 → 2026-11-09 · **5658 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-11 → 2026-11-10 · **5659 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (741)
 
@@ -772,16 +772,19 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (943)
+### Salesforce jobs (944)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 943 postings</strong></summary>
+<details><summary><strong>Show 944 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487960730) | Genesys | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487972526) | Genesys | Quebec, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487963660) | Genesys | Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v7.md |
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487961716) | Genesys | British Columbia, Canada | via inbox_opencode-job-hunt--2026-11-09--v7.md |
+| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487973509) | Genesys | Alberta, Canada | via inbox_opencode-job-hunt--2026-11-09--v7.md |
 | 2026-11-09 | [Sr. Salesforce CRM Development Lead](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163) | McKesson | CAN, ON, Mississauga | via inbox_opencode-job-hunt-final--2026-11-09--v1.md |
 | 2026-11-09 | [Senior Salesforce Solution Architect/Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-solution-architect-developer-at-csa-group-4210626816) | CSA Group | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
 | 2026-11-09 | [Senior Salesforce Solution Architect to lead the solution design and migration from an existing Open CTI implementation to Salesforce Service Cloud Voice integrated with NICE CXone.](https://www.adzuna.ca/details/5959388506?utm_medium=api&utm_source=54ce986e) | S I Systems | Toronto, Ontario | via fresh-ca--2026-11-09--v1.md |
@@ -1721,8 +1724,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-10-12 | [Salesforce Developer](https://boards.greenhouse.io/accenturefederalservices/jobs/4682911006?gh_jid=4682911006) | accenturefederalservices | Arlington, VA | via gx10--2026-11-05--v12.md |
 | 2026-10-12 | [Salesforce Data Management Lead](https://boards.greenhouse.io/accenturefederalservices/jobs/4718431006?gh_jid=4718431006) | accenturefederalservices | Washington, DC | via gx10--2026-11-05--v12.md |
 | 2026-10-12 | [Principal Salesforce Senior Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4719929006?gh_jid=4719929006) | accenturefederalservices | Washington, DC | via gx10--2026-11-05--v12.md |
-| 2026-10-10 | [Salesforce Developer (265640) - Scotiabank](https://jobs.scotiabank.com/job/Toronto-Salesforce-Developer-ON-M5H1B6/604373417/) | Canada: Toronto; office/remote pattern not established | Not disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v56.md |
-| 2026-10-10 | [Architecte applicatif Salesforce](https://ca.linkedin.com/jobs/view/architecte-applicatif-salesforce-at-national-bank-of-canada-4475624025) | National Bank of Canada | Montreal, Quebec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v56.md |
 
 </details>
 
@@ -5834,4 +5835,4 @@ _Generated by the hourly job scan; verified against the live board before merge.
 
 ## Archive
 
-`README.BAK_2026-11-09T235633Z.md` holds the rows that aged out of the 30-day window on 2026-11-09.
+`README.BAK_2026-11-10T000813Z.md` holds the rows that aged out of the 30-day window on 2026-11-10.
