@@ -1,41 +1,8 @@
 {
   "meta": {
-    "keyword": "multi",
-    "keywords": [
-      "servicenow",
-      "salesforce",
-      "vba",
-      "alteryx",
-      "full-stack",
-      "data",
-      "devops",
-      "python",
-      "it-reporting",
-      "itam"
-    ],
-    "location": "Toronto, ON",
-    "dateFilter": "month",
-    "scrapedAt": "2026-11-10T20:11:30.798Z",
-    "generatedAt": "2026-11-10T20:11:30.798Z",
-    "total": 5363,
-    "newThisScan": 701,
-    "retainedFromPrevious": 1649,
-    "sources": {
-      "smartrecruiters": 10,
-      "workday": 14,
-      "greenhouse": 16,
-      "lever": 1,
-      "ashby": 2,
-      "linkedin": 258,
-      "remoteok": 1,
-      "jobicy": 1,
-      "remotive": 4,
-      "adzuna": 394
-    },
-    "primaryCounts": {
-      "servicenow": 1088,
-      "salesforce": 1092
-    }
+    "total": 5373,
+    "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+    "generatedAt": "2026-11-10T21:00:31.014253+00:00"
   },
   "jobs": [
     {
@@ -95023,6 +94990,191 @@
       "scrapedAt": "2026-11-09T10:56:56.029354+00:00",
       "excerpt": "Deloitte Salesforce Developer Digital Customer, 1-year fixed-term contract, Toronto, $58K-$102K, 3+ yrs Apex/LWC, Einstein AI/Agentforce.",
       "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:f565b70142985f23",
+      "source": "builtin",
+      "company": "Finning International Inc.",
+      "title": "Salesforce Platform Administrator",
+      "location": "Edmonton or Calgary, AB, Canada",
+      "url": "https://builtin.com/job/salesforce-platform-administrator/9554640",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "Finning Canada Salesforce Platform Administrator Apex/Automation Focus Edmonton Calgary Hybrid Permanent Nov 2026",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sn:d4ad2efdb928c869",
+      "source": "builtin",
+      "company": "Bank of Montreal",
+      "title": "ServiceNow ITAM Lead",
+      "location": "Toronto, ON, Canada",
+      "url": "https://builtin.com/job/servicenow-itam-lead/8882843",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 95000,
+        "max": 176000,
+        "currency": "CAD",
+        "display": "$95K-$176K/yr"
+      },
+      "postedDate": "2026-11-07T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "BMO ServiceNow ITAM Lead Toronto CMDB ITOM Discovery $95K-$176K Posted 3 Days Ago Nov 2026",
+      "workArrangement": "in-office",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:69ed34628a987f9a",
+      "source": "builtin",
+      "company": "Bank of Montreal",
+      "title": "ServiceNow Sr Developer (ITSM - AI - GRC)",
+      "location": "Toronto, ON, Canada",
+      "url": "https://builtin.com/job/servicenow-sr-developer-itsm-ai-grc/11342054",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 86000,
+        "max": 185000,
+        "currency": "CAD",
+        "display": "$86K-$185K/yr"
+      },
+      "postedDate": "2026-10-30T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "BMO ServiceNow Sr Developer ITSM AI GRC Toronto $86K-$185K Oct 30 2026",
+      "workArrangement": "in-office",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:d4e90d3bb2e73093",
+      "source": "builtin",
+      "company": "CIBC",
+      "title": "ServiceNow Developer - ITAM",
+      "location": "Toronto, ON, Canada",
+      "url": "https://builtin.com/job/servicenow-developer-itam/8268323",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "CIBC ServiceNow Developer ITAM CMDB Discovery MID Server ECC Queue Toronto Nov 2026",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:bc3edd0a2123b6b9",
+      "source": "builtin",
+      "company": "ServiceNow",
+      "title": "ServiceNow Architect - VP",
+      "location": "Canada",
+      "url": "https://builtin.com/job/servicenow-architect-vp/11684191",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "ServiceNow Architect VP Canada CMDB ITOM ITAM automation AI strategy Nov 2026",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:b0856138d9421e84",
+      "source": "builtin",
+      "company": "SailPoint",
+      "title": "ServiceNow ITAM Architect",
+      "location": "Remote, Canada or Mexico",
+      "url": "https://builtin.com/job/servicenow-itam-architect/8420207",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "SailPoint ServiceNow ITAM Architect HAM SAM CMDB CSDM Discovery Remote Canada Mexico Nov 2026",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:76afe033f9d2029d",
+      "source": "builtin",
+      "company": "Procter & Gamble",
+      "title": "ServiceNow Integration Engineer",
+      "location": "Canada",
+      "url": "https://builtin.com/job/servicenow-integration-engineer/10661344",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "Procter & Gamble ServiceNow Integration Engineer ITAM CMDB Discovery IRE CSDM Canada Nov 2026",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sn:22b074d7f0bbdb01",
+      "source": "builtin",
+      "company": "SHI International Corp.",
+      "title": "Product Owner - CMDB",
+      "location": "Canada",
+      "url": "https://builtin.com/job/product-owner-cmdb/10606746",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "SHI International Product Owner CMDB ServiceNow discovery service mapping Canada Nov 2026",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sf:a6bcb1e8598444b6",
+      "source": "builtin",
+      "company": "Versapay",
+      "title": "Salesforce Administrator",
+      "location": "Remote, Canada",
+      "url": "https://builtin.com/job/salesforce-administrator/8918148",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 90000,
+        "max": 110000,
+        "currency": "CAD",
+        "display": "$90K-$110K/yr"
+      },
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "Versapay Salesforce Administrator Remote Canada $90K-$110K Nov 2026",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:15f4a278573ed5b1",
+      "source": "builtin",
+      "company": "Docker, Inc",
+      "title": "Senior Manager, Business Systems",
+      "location": "Canada",
+      "url": "https://builtin.com/job/senior-manager-business-systems/11431225",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T21:00:31.014253+00:00",
+      "excerpt": "Docker Inc Senior Manager Business Systems Salesforce development administration Canada Nov 2026",
+      "workArrangement": "unknown",
       "tags": [
         "salesforce"
       ]
