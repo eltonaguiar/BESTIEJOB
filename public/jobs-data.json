@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-10T16:14:40+00:00",
+ "generatedAt": "2026-11-10T17:12:52+00:00",
  "timezone": "America/Toronto",
- "count": 2155,
+ "count": 2158,
  "appliedHidden": 34,
  "sources": [
   "103.careerplug.com",
@@ -459,7 +459,7 @@
    "posted": "2026-11-10",
    "title": "Analyste Service Now",
    "company": "CGI",
-   "location": "Sherbrooke, Quebec, Canada",
+   "location": "Drummondville, Quebec, Canada",
    "url": "https://ca.linkedin.com/jobs/view/analyste-service-now-at-cgi-4489402874",
    "note": "linkedin",
    "family": "servicenow",
@@ -473,7 +473,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "analyste service now cgi sherbrooke, quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "search": "analyste service now cgi drummondville, quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -568,6 +568,48 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Salesforce FSC Developer",
+   "company": "Quantum World Technologies Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-quantum-world-technologies-inc-4489612151",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce fsc developer quantum world technologies inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Sr. Salesforce Developer – Financial Services Cloud",
+   "company": "Sagen",
+   "location": "Oakville, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-developer-%E2%80%93-financial-services-cloud-at-sagen-4480274599",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. salesforce developer – financial services cloud sagen oakville, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Salesforce Senior FSC Developer / Technical Lead",
    "company": "Apptoza Inc.",
    "location": "Toronto, Ontario, Canada",
@@ -595,48 +637,6 @@
   },
   {
    "posted": "2026-11-10",
-   "title": "Senior Salesforce Developer",
-   "company": "LanceSoft, Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-lancesoft-inc-4488379400",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Sr. Salesforce Developer – Financial Services Cloud",
-   "company": "Sagen",
-   "location": "Oakville, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-developer-%E2%80%93-financial-services-cloud-at-sagen-4480274599",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. salesforce developer – financial services cloud sagen oakville, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
    "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario, Canada",
@@ -658,6 +658,27 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Salesforce Revenue Cloud Architect",
+   "company": "Tekgence Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-tekgence-inc-4488385302",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud architect tekgence inc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario, Canada",
@@ -675,6 +696,27 @@
    ],
    "french": false,
    "search": "salesforce technical architect revenue cloud cpq (rca) smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Senior Salesforce Developer",
+   "company": "LanceSoft, Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-lancesoft-inc-4488379400",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -763,6 +805,43 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
+   "company": "Alithya",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-et-impl%C3%A9mentations-at-alithya-4489604413",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "conseiller ou conseillere en architecture technique salesforce, lwc, apex et implementations alithya montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5954561323",
+     "label": "Adzuna · Montréal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-et-impl%C3%A9mentations-at-alithya-4487552279",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-etimpl%C3%A9mentations-69ea4692eb62ffa73449cec6db1c53e3",
+     "label": "Eluta · Montréal QC"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Salesforce Technical Architect Revenue Cloud CPQ",
    "company": "Enterprise Solutions Inc.",
    "location": "Canada",
@@ -780,6 +859,27 @@
    ],
    "french": false,
    "search": "salesforce technical architect revenue cloud cpq enterprise solutions inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Salesforce Configuration Developer (Salesforce FSC)",
+   "company": "Avanciers Inc.",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-configuration-developer-salesforce-fsc-at-avanciers-inc-4487494631",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce configuration developer (salesforce fsc) avanciers inc. montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -962,26 +1062,6 @@
   },
   {
    "posted": "2026-11-10",
-   "title": "Salesforce Platform Owner",
-   "company": "Parkland Corporation",
-   "location": "Calgary, Alberta, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-platform-owner-at-parkland-corporation-4489453442",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce platform owner parkland corporation calgary, alberta, canada linkedin salesforce linkedin salesforce canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
    "title": "Développeur(euse) principal(e) en développement de courriels dorsaux (Salesforce Marketing Cloud)",
    "company": "Intact",
    "location": "Montreal, Quebec, Canada",
@@ -998,6 +1078,26 @@
    ],
    "french": true,
    "search": "developpeur(euse) principal(e) en developpement de courriels dorsaux (salesforce marketing cloud) intact montreal, quebec, canada linkedin salesforce linkedin salesforce canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Salesforce Platform Owner",
+   "company": "Parkland Corporation",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-platform-owner-at-parkland-corporation-4489453442",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce platform owner parkland corporation calgary, alberta, canada linkedin salesforce linkedin salesforce canada / remote",
    "alternates": []
   },
   {
@@ -1932,27 +2032,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Salesforce Revenue Cloud Developer",
-   "company": "Tekgence Inc",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-tekgence-inc-4487949008",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce revenue cloud developer tekgence inc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Senior/Lead Salesforce Marketing Cloud Engineer",
    "company": "Diligente Technologies",
    "location": "Mississauga, Ontario, Canada",
@@ -1974,10 +2053,10 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Salesforce Revenue Cloud developer",
-   "company": "Pacer Group",
+   "title": "Salesforce Revenue Cloud Developer",
+   "company": "Tekgence Inc",
    "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-pacer-group-4487183367",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-tekgence-inc-4487949008",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -1990,7 +2069,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce revenue cloud developer pacer group toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "search": "salesforce revenue cloud developer tekgence inc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -2054,6 +2133,27 @@
    ],
    "french": false,
    "search": "salesforce revenue cloud developer apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Revenue Cloud developer",
+   "company": "Pacer Group",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-pacer-group-4487183367",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud developer pacer group toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -15405,38 +15505,6 @@
      "source": "jobs.ca",
      "url": "https://www.jobs.ca/versapay/jobs/salesforce-developer-remote-canada-e62b63e76c32",
      "label": "jobs.ca · Remote"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations",
-   "company": "Alithya",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5954561323",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Quebec"
-   ],
-   "french": true,
-   "search": "conseiller ou conseillere en architecture technique salesforce, lwc, apex et implementations alithya montreal, quebec adzuna salesforce adzuna salesforce role fit quebec",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-et-impl%C3%A9mentations-at-alithya-4487552279",
-     "label": "LinkedIn · Montreal"
-    },
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/conseiller-ou-conseill%C3%A8re-en-architecture-technique-salesforce-lwc-apex-etimpl%C3%A9mentations-69ea4692eb62ffa73449cec6db1c53e3",
-     "label": "Eluta · Montréal QC"
     }
    ]
   },
