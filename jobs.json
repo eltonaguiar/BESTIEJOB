@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-10T05:12:58.071Z",
-    "generatedAt": "2026-11-10T05:12:58.071Z",
-    "total": 5325,
+    "scrapedAt": "2026-11-10T05:30:00.000Z",
+    "generatedAt": "2026-11-10T05:30:00.000Z",
+    "total": 5327,
     "newThisScan": 749,
     "retainedFromPrevious": 1564,
     "sources": {
@@ -34,10 +34,44 @@
     },
     "primaryCounts": {
       "servicenow": 1075,
-      "salesforce": 1068
+      "salesforce": 1070
     }
   },
   "jobs": [
+    {
+      "id": "communitech:www1.communitech.ca/companies/benevity/jobs/99322507-senior-salesforce-administrator",
+      "source": "communitech",
+      "company": "Benevity",
+      "title": "Senior Salesforce Administrator",
+      "location": "Toronto, ON, Canada",
+      "url": "https://www1.communitech.ca/companies/benevity/jobs/99322507-senior-salesforce-administrator",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-08T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T05:30:00.000Z",
+      "excerpt": "Senior Salesforce Administrator on Benevity's Revenue Systems (RevOps) team: Salesforce user/license management, flows, approval processes, dashboards and reports; 5+ years Salesforce Administration experience. Toronto, ON. Posted 2026-11-08.",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "revopsroles:revopsroles.com/jobs/68626f2c-db8c-402c-a18c-40144f8f385c",
+      "source": "revopsroles",
+      "company": "SS&C Technologies",
+      "title": "Salesforce Implementation Consultant / Platform Administrator",
+      "location": "Toronto, Canada",
+      "url": "https://revopsroles.com/jobs/68626f2c-db8c-402c-a18c-40144f8f385c",
+      "employmentType": "full-time",
+      "salary": { "min": 75000, "max": 110000, "currency": "CAD", "display": "$75K-$110K" },
+      "postedDate": "2026-11-04T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T05:30:00.000Z",
+      "excerpt": "Salesforce Implementation Consultant / Platform Administrator at SS&C Technologies: lead Salesforce implementation projects, configure/administer Salesforce (automation, security, reporting, dashboards), data migration and UAT; hybrid, Toronto. CA$75,000-110,000 base. Listed 2026-11-04.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
     {
       "id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer-sme_rq231819-1",
       "source": "workday",

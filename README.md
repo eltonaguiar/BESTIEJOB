@@ -10,7 +10,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-10](#current-jobs--as-of-2026-11-10)
   - [ServiceNow jobs (743)](#servicenow-jobs-743)
-  - [Salesforce jobs (949)](#salesforce-jobs-949)
+  - [Salesforce jobs (951)](#salesforce-jobs-951)
   - [Other jobs (4117)](#other-jobs-4117)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-10
 
-Window: 2026-10-11 → 2026-11-10 · **5809 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-11 → 2026-11-10 · **5811 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (743)
 
@@ -774,15 +774,14 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (949)
+### Salesforce jobs (951)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 949 postings</strong></summary>
+<details><summary><strong>Show 951 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
-| 2026-11-02 | [Principal Salesforce Software Developer](https://www.jobs.ca/job/4a773717-a5e6-4079-8045-edef3b5fbb12) | Moneris Solutions | Toronto, ON | via cron scan 2026-11-09 |
 | 2026-11-10 | [Senior Back-End Email Developer (Salesforce Marketing Cloud)](https://ca.linkedin.com/jobs/view/senior-back-end-email-developer-salesforce-marketing-cloud-at-intact-4487995054) | Intact | Montreal, Quebec, Canada | via fresh-ca--2026-11-10--v1.md |
 | 2026-11-10 | [Développeur(euse) principal(e) en développement de courriels dorsaux (Salesforce Marketing Cloud)](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-principal-e-en-d%C3%A9veloppement-de-courriels-dorsaux-salesforce-marketing-cloud-at-intact-4487983304) | Intact | Montreal, Quebec, Canada | via fresh-ca--2026-11-10--v1.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487960730) | Genesys | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
@@ -833,6 +832,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-09 | [CORPORATE APPLICATION TECHNICAL LEADER (Salesforce Developer)](https://ca.linkedin.com/jobs/view/corporate-application-technical-leader-salesforce-developer-at-city-of-toronto-4206278360) | City of Toronto | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
 | 2026-11-09 | [Associate Salesforce Administrator](https://remotive.com/remote/jobs/all-others/associate-salesforce-administrator-6505648) | Applied Systems | Remote, Canada | via hermes scan 2026-11-09 |
 | 2026-11-09 | [Architecte applicatif Salesforce](https://ca.linkedin.com/jobs/view/architecte-applicatif-salesforce-at-national-bank-of-canada-4487199055) | National Bank of Canada | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v4.md |
+| 2026-11-08 | [Senior Salesforce Administrator](https://www1.communitech.ca/companies/benevity/jobs/99322507-senior-salesforce-administrator) | Benevity | Toronto, ON, Canada | via cron scan 2026-11-10 |
 | 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444711499) | Salesforce | Toronto, Ontario, Canada | via fresh scan |
 | 2026-11-08 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://ca.linkedin.com/jobs/view/solutions-architect-salesforce-migrations-data360-revenue-tableau-or-marketing-clouds-at-salesforce-4444708621) | Salesforce | Vancouver, British Columbia, Canada | via fresh scan |
 | 2026-11-08 | [Software Engineer IV - Salesforce Developer](https://fairygodboss.com/jobs/spectrum/software-engineer-iv-salesforce-developer-37f20d5ba265a1a8e6a1f35a1b27cb1b) | Spectrum | USA | via fresh scan |
@@ -1004,6 +1004,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-05 | [Développeur en automatisation QA Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4452435364) | nesto | Canada | via buffy-round16--2026-11-07--v2.md |
 | 2026-11-05 | [Directeur, Solution Salesforce (Montréal)](https://ca.linkedin.com/jobs/view/directeur-solution-salesforce-montr%C3%A9al-at-investissement-qu%C3%A9bec-4470623896) | Investissement Québec | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v4.md |
 | 2026-11-05 | [Conseiller ou conseillère en architecture technique Salesforce, LWC, Apex et implémentations](https://www.adzuna.ca/details/5954561323) | Alithya | Montréal, Québec |  |
+| 2026-11-04 | [Salesforce Implementation Consultant / Platform Administrator](https://revopsroles.com/jobs/68626f2c-db8c-402c-a18c-40144f8f385c) | SS&C Technologies | Toronto, Canada | via cron scan 2026-11-10 · CA$75K-$110K · hybrid · 3+ yrs |
 | 2026-11-04 | [The Citco Group Limited hiring Senior Salesforce Developer in Toronto, Ontario, Canada / LinkedIn](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-the-citco-group-limited-4426425126) | LinkedIn | Canada | via round11-cached--2026-11-05--v11.md |
 | 2026-11-04 | [Technical Architect / Senior Technical Architect - PubSec (Canada) - Canada - Toronto, Canada Ontario - Montreal Metro - Remote, Ontario - Remote / Salesforce Careers](https://www.salesforce.com/company/careers/jobs/JR353468/technical-architect-senior-technical-architect-pubsec-canada/) | Unknown | Canada | via round11-cached--2026-11-05--v11.md |
 | 2026-11-04 | [Tech Lead Salesforce Financial Services Cloud (FSC)](https://www.adzuna.ca/details/5953261448?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal, Québec | via adzuna-round14--2026-11-06--v5.md |
@@ -1200,6 +1201,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-03 | [Business Systems Analyst – Salesforce](https://www.eluta.ca/spl/business-systems-analyst-%E2%80%93-salesforce-52007314692c6d86231d23e981588a17) | American Iron & Metal Company Inc. | Montréal QC | via canada-index--2026-11-06--v7.md |
 | 2026-11-03 | [Analyste des systèmes d’affaires - Salesforce](https://www.eluta.ca/spl/analyste-des-syst%C3%A8mes-d%E2%80%99affaires-salesforce-66a91be5e5ac00a6840c1dd882d15f39) | American Iron & Metal Company Inc. | Montréal QC | via canada-index--2026-11-06--v7.md |
 | 2026-11-03 | [Analyste / Admin Salesforce](https://ca.linkedin.com/jobs/view/analyste-admin-salesforce-at-flaira-conseils-4485030065) | Flaira Conseils | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v4.md |
+| 2026-11-02 | [Principal Salesforce Software Developer](https://www.jobs.ca/job/4a773717-a5e6-4079-8045-edef3b5fbb12) | Moneris Solutions | Toronto, ON | via cron scan 2026-11-09 |
 | 2026-11-02 | [nCino Consultant](https://www.adzuna.ca/details/5950813856?utm_medium=api&utm_source=54ce986e) | Delpath | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v14.md |
 | 2026-11-02 | [Technical Architect-Salesforce](https://www.linkedin.com/jobs/view/technical-architect-salesforce-at-stifel-financial-corp-4485777862) | Stifel Financial Corp. | New York, NY | via buffy--2026-11-08--v2.md |
 | 2026-11-02 | [Tech Lead Salesforce Financial Services Cloud (FSC)](https://www.adzuna.ca/details/5950768381?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | via buffy-critical--2026-11-02--v49.md |
