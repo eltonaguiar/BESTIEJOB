@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-10T15:12:53+00:00",
+ "generatedAt": "2026-11-10T15:36:08+00:00",
  "timezone": "America/Toronto",
- "count": 4798,
+ "count": 4804,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -113,6 +113,7 @@
   "d2l.com",
   "devitjobs.com",
   "dice.com",
+  "digitalcareers.infosys.com",
   "dokaco.applytojob.com",
   "dontapply.club",
   "drjobpro.com",
@@ -324,6 +325,29 @@
      "label": "LinkedIn · Canada"
     }
    ]
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "ServiceNow Hardware Asset Management (HAM) Consultant",
+   "company": "Accenture",
+   "location": "Canada",
+   "url": "https://www.accenture.com/us-en/careers/jobdetails?id=14379035_en",
+   "note": "accenture",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "accenture.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow hardware asset management (ham) consultant accenture canada accenture.com servicenow accenture servicenow itam sam/ham role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-10",
@@ -552,6 +576,28 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "ITOM Solution Architect",
+   "company": "ServiceNow",
+   "location": "North America / Canada",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151461304-itom-solution-architect",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 72,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "itom solution architect servicenow north america / canada smartrecruiters servicenow smartrecruiters servicenow itom role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Salesforce Architect",
    "company": "CGI",
    "location": "Toronto, Ontario, Canada",
@@ -569,6 +615,59 @@
    ],
    "french": false,
    "search": "salesforce architect cgi toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Salesforce Senior FSC Developer / Technical Lead",
+   "company": "Apptoza Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4489489495",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce senior fsc developer / technical lead apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487431014",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487405679",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Senior Salesforce Developer",
+   "company": "LanceSoft, Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-lancesoft-inc-4488379400",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -594,27 +693,6 @@
   },
   {
    "posted": "2026-11-10",
-   "title": "Associate Salesforce Administrator",
-   "company": "Jobgether",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-jobgether-4489192995",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "associate salesforce administrator jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
    "title": "Salesforce Developer / Développeuse ou Développeur Salesforce",
    "company": "Service New Brunswick / Service Nouveau-Brunswick",
    "location": "New Brunswick, Canada",
@@ -632,6 +710,27 @@
    ],
    "french": true,
    "search": "salesforce developer / developpeuse ou developpeur salesforce service new brunswick / service nouveau-brunswick new brunswick, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Associate Salesforce Administrator",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-jobgether-4489192995",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "associate salesforce administrator jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -700,6 +799,58 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5959734122",
      "label": "Adzuna · Westmount"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Senior Site Reliability Engineer, Canada Protected B",
+   "company": "ServiceNow Careers",
+   "location": "Toronto, ON, Canada",
+   "url": "https://careers.servicenow.com/jobs/744000159911194/senior-site-reliability-engineer-canada-protected-b/",
+   "note": "servicenow",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.servicenow.com",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior site reliability engineer, canada protected b servicenow careers toronto, on, canada careers.servicenow.com servicenow servicenow servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159911194",
+     "label": "SmartRecruiters · Toronto"
+    },
+    {
+     "source": "careers.servicenow.com",
+     "url": "https://careers.servicenow.com/jobs/744000159518980/senior-site-reliability-engineer-canada-protected-b/",
+     "label": "careers.servicenow.com · Canada"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958363009",
+     "label": "Adzuna · Canada"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5956636938",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5955420777",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5955424518",
+     "label": "Adzuna · Toronto"
     }
    ]
   },
@@ -892,6 +1043,26 @@
    ],
    "french": false,
    "search": "senior site reliability engineer - batch management simcorp toronto, ontario, canada linkedin other linkedin role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Technology Lifecycle & Data Analyst",
+   "company": "Millennium Software and Staffing Inc",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technology-lifecycle-data-analyst-at-millennium-software-and-staffing-inc-4489492168",
+   "note": "linkedin",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "technology lifecycle & data analyst millennium software and staffing inc montreal, quebec, canada linkedin other linkedin role fit canada / remote",
    "alternates": []
   },
   {
@@ -1885,43 +2056,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
-   "company": "Smart IT Frame LLC",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4487909642",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce technical architect - strong cpq and revenue cloud advanced smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5958362977",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486994714",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486792181",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Salesforce Revenue Cloud developer",
    "company": "Pacer Group",
    "location": "Toronto, Ontario, Canada",
@@ -1940,33 +2074,6 @@
    "french": false,
    "search": "salesforce revenue cloud developer pacer group toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
-   "title": "Salesforce Senior FSC Developer / Technical Lead",
-   "company": "Apptoza Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487405679",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce senior fsc developer / technical lead apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487431014",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-09",
@@ -2030,6 +2137,43 @@
    "french": false,
    "search": "salesforce revenue cloud developer apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
+   "company": "Smart IT Frame LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4487909642",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect - strong cpq and revenue cloud advanced smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958362977",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486994714",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486792181",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -4034,6 +4178,26 @@
    ],
    "french": false,
    "search": "senior site reliability engineer simcorp toronto, ontario, canada linkedin other linkedin role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "FSM Consultant",
+   "company": "Infosys",
+   "location": "Mississauga, ON, Canada",
+   "url": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/153668BR",
+   "note": "infosys",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "digitalcareers.infosys.com",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "fsm consultant infosys mississauga, on, canada digitalcareers.infosys.com other infosys role fit toronto area",
    "alternates": []
   },
   {
@@ -6463,58 +6627,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5948276722?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Canada"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Senior Site Reliability Engineer, Canada Protected B",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159911194",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior site reliability engineer, canada protected b servicenow toronto, ontario, ca smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000159911194/senior-site-reliability-engineer-canada-protected-b/",
-     "label": "careers.servicenow.com · Toronto"
-    },
-    {
-     "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000159518980/senior-site-reliability-engineer-canada-protected-b/",
-     "label": "careers.servicenow.com · Canada"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5958363009",
-     "label": "Adzuna · Canada"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5956636938",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955420777",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955424518",
-     "label": "Adzuna · Toronto"
     }
    ]
   },
@@ -80949,6 +81061,26 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "Business intelligence & Data Analyst",
+   "company": "TJX",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5947821180",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business intelligence & data analyst tjx mississauga, peel region adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-31",
    "title": "Associate, Software Engineer, New Grad Card Expansion",
    "company": "Capital One",
    "location": "Toronto, Ontario, Canada",
@@ -81237,26 +81369,6 @@
    ],
    "french": false,
    "search": "forward - senior data analyst, advanced analytics & data science shyftlabs toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Business intelligence & Data Analyst",
-   "company": "TJX",
-   "location": "Mississauga, Peel region",
-   "url": "https://www.adzuna.ca/details/5947821180?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "business intelligence & data analyst tjx mississauga, peel region adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -104628,6 +104740,28 @@
    ],
    "french": false,
    "search": "servicenow discovery developer (258467) - scotiabank canada: toronto; office/remote pattern not disclosed not disclosed jobs.scotiabank.com servicenow readme servicenow itom role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-02",
+   "title": "Lead Specialist, ServiceNow GRC Solution Architect",
+   "company": "Deloitte",
+   "location": "Toronto, ON, Canada",
+   "url": "https://careers.deloitte.ca/job/Lead-Specialist,-ServiceNow-GRC-Solution-Architect,-Deloitte-Global-Technology/135340-en_US/",
+   "note": "deloitte",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.deloitte.ca",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "Risk/GRC",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead specialist, servicenow grc solution architect deloitte toronto, on, canada careers.deloitte.ca servicenow deloitte servicenow risk/grc role fit toronto area",
    "alternates": []
   },
   {
