@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T13:13:08+00:00",
+ "generatedAt": "2026-11-10T14:14:17+00:00",
  "timezone": "America/Toronto",
  "count": 4794,
  "appliedHidden": 40,
@@ -515,6 +515,27 @@
    ],
    "french": false,
    "search": "directeur - servicenow kpmg canada montreal, quebec, canada linkedin servicenow linkedin servicenow canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Salesforce Architect",
+   "company": "CGI",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-at-cgi-4408560005",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce architect cgi toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -1550,33 +1571,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Salesforce Senior FSC Developer/Technical Lead",
-   "company": "Apptoza Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487431014",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce senior fsc developer/technical lead apptoza inc. toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487405679",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Senior Full Stack - Salesforce Developer",
    "company": "Capco",
    "location": "Toronto, ON",
@@ -1637,43 +1631,6 @@
    "french": false,
    "search": "senior salesforce developer apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
-   "title": "Senior Salesforce Developer",
-   "company": "CGI",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4408542861",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer cgi toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4470107427",
-     "label": "LinkedIn · Halifax"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5954051182?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Victoria"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430",
-     "label": "LinkedIn · Victoria"
-    }
-   ]
   },
   {
    "posted": "2026-11-09",
@@ -1819,10 +1776,10 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
-   "company": "Smart IT Frame LLC",
+   "title": "Salesforce Senior FSC Developer / Technical Lead",
+   "company": "Apptoza Inc.",
    "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487405679",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -1835,12 +1792,49 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce technical architect revenue cloud cpq (rca) smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "search": "salesforce senior fsc developer / technical lead apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": [
     {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487431014",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Salesforce Developer",
+   "company": "CGI",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4408542861",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer cgi toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4470107427",
+     "label": "LinkedIn · Halifax"
+    },
+    {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5958362635",
-     "label": "Adzuna · Toronto"
+     "url": "https://www.adzuna.ca/details/5954051182?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Victoria"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430",
+     "label": "LinkedIn · Victoria"
     }
    ]
   },
@@ -1906,6 +1900,33 @@
    "french": false,
    "search": "salesforce revenue cloud developer apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
+   "company": "Smart IT Frame LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect revenue cloud cpq (rca) smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958362635",
+     "label": "Adzuna · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -101348,27 +101369,6 @@
    ],
    "french": false,
    "search": "salesforce architect lyft toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-20",
-   "title": "Salesforce Architect",
-   "company": "CGI",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-at-cgi-4408560005",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce architect cgi toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
