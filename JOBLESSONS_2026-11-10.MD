@@ -136,3 +136,36 @@ Zero new verified-fresh merges this cycle. jobs.json stays 5,083 rows; README.md
 - `README.md` — no changes (zero verified fresh jobs this hour).
 - `jobs.json` — no changes (5,083 rows).
 - `public/` (GitHub Pages) — no changes; no redeploy required.
+
+## 10:00 EST cycle (2026-11-10) — third post-:00 UTC manual scan
+
+Ran after the 09:00 EST cycle (already committed to main via f44e869). jobs.json on disk = 5,337 rows, scraped 2026-11-10T13:11:22Z. Manual search layered on top of the committed ATS sweep.
+
+### Sources checked
+- **jobs.json baseline (5,337 rows)** — zero ServiceNow/Salesforce postings dated 2026-11-10 in any location; zero Toronto SN/SF postings dated 2026-11-09 or 2026-11-10. The board's deduped baseline already carries everything the sweep captured.
+- **Indeed.ca** — ServiceNow Administrator/Developer (Intermediate), BFG Enterprise Services, Markham (2–4 yrs, CSA required) — intermediate, not Platform Admin/Dev I; ServiceNow System Administrator JOB-37505 (5+ yrs CSA, contract from Nov 9) — senior; Salesforce Administrator (Hybrid), Survalent, Mississauga ($70–90K, "New") — relative age only, no verifiable absolute posted date; all other SERP hits already tracked or senior.
+- **ZipRecruiter / Dice / Robert Half** — SN/SF hits are intermediate/senior (CSA+CAD mandatory, 5+ yrs), relative ages only, no verifiable datePosted; no entry-level Platform Admin/Dev I Toronto.
+- **ServiceNow Careers Ontario** — 16 jobs unchanged from prior cycles (Staff Systems/Security Engineer Nov 06, Senior CRM Account Executive, Sales Director CRM Sales — sales roles excluded by title rule). No Platform Administrator / Developer I.
+- **Salesforce Careers Canada hub** — no extractable fresh Platform Admin / Platform Developer I for Toronto.
+- **LinkedIn guest API** — 429/403 blocked; no LinkedIn-sourced add without verifiable absolute date.
+- **Rogers (jobs.rogers.com)** — Lead Management Operations (Salesforce marketing ops, excluded by title rule); Technical Specialist Markham (ServiceNow/Salesforce only "preferred" familiarity — not a platform role). No fresh dated SN/SF platform posting.
+- **Bell (jobs.bell.ca / jobs.bce.ca)** — ServiceNow System Administrator 432824 filled; Senior Manager ServiceNow Platform Delivery no longer accepting applicants; ServiceNow Senior Technical Advisor 432829 deadline 11/02/2026 expired; ServiceNow Developer / Integrator 431695 (Ottawa/Toronto/Montreal/Quebec City) — senior advisory role, not entry-level Platform Admin/Dev I. Skip-on-sight.
+- **Government of Canada (jobs.gc.ca / canada.ca) + Ontario gojobs.gov.on.ca** — zero ServiceNow/Salesforce Toronto hits.
+- **Elite/Global Elite Partners + banks** — KPMG 33919/34113 already on board; Deloitte postings outside freshness window or 3+ yrs; Accenture/CGI/IBM/TCS/Capgemini arrive via ATS sweep only; Scotiabank/TD/RBC/BMO/CIBC Workday boards — no new dated SN/SF requisitions.
+
+### Result
+Zero new verified-fresh merges this cycle. jobs.json stays 5,337 rows; README.md tables unchanged (ServiceNow 746 · Salesforce 956 · Other 4,118 · 5,820 live); no public/ rebuild required.
+
+### Patterns / lessons confirmed
+1. The committed jobs.json baseline (5,337 rows, scraped 2026-11-10T13:11Z) shows zero SN/SF postings dated 2026-11-10 anywhere — today's hourly scan surface is clean.
+2. All Toronto SN/SF SERP hits this hour are intermediate/senior (2–5+ yrs, CSA/CAD mandatory) — none match the entry-level Platform Administrator / Platform Developer I targeting.
+3. Roles with relative ages ("New", "5d ago") but no verifiable absolute `datePosted` are excluded — Survalent Salesforce Administrator (Mississauga) falls here.
+4. Bell's ServiceNow Developer / Integrator (431695) is a senior advisory role across 4 cities — title and level rule exclude it; skip-on-sight for filled/expired Bell postings holds.
+5. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced this hour — remains the top priority keyword gap.
+6. Third consecutive post-:00 UTC manual cycle with zero merges — null runs are the expected norm, not failures.
+
+### Files touched
+- `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
+- `README.md` — no changes (zero verified fresh jobs this hour).
+- `jobs.json` — no changes (5,337 rows).
+- `public/` (GitHub Pages) — no changes; no redeploy required.
