@@ -286,6 +286,56 @@ def norm_url(url: str) -> str:
     return re.sub(r"[?#].*$", "", str(url).strip().lower()).rstrip("/")
 
 
+CITY_STOP = {"canada", "remote", "hybrid", "onsite", "on", "qc", "bc", "ab", "mb",
+             "ns", "nb", "sk", "nl", "pe", "territories", "province"}
+CO_STOP = {"the", "inc", "inc.", "ltd", "corp", "llc", "limited", "group", "canada",
+           "solutions", "technologies", "technology", "services", "systems"}
+
+
+def fingerprint(row: dict) -> str:
+    """`title|company|city` — the identity of a posting, not of its address.
+
+    URL equality cannot see that one requisition is advertised on several
+    mirrors with different addresses and often different dates. On 2026-11-09 a
+    CGI QA role arrived twice in a single run under two Eluta `/spl/<hash>` URLs,
+    and the board already held the same role under Adzuna and LinkedIn URLs.
+    Company and city are reduced to their first significant token so that
+    "CGI Inc."/"CGI" and "Sherbrooke QC"/"Sherbrooke, Estrie" compare equal;
+    a row with any missing part is never collapsed.
+    """
+    def norm(value) -> list[str]:
+        return re.sub(r"[^a-z0-9]+", " ", str(value or "").lower()).split()
+
+    title = " ".join(norm(row.get("title")))
+    comp = [t for t in norm(row.get("company")) if t not in CO_STOP]
+    city = [t for t in norm(row.get("location")) if t not in CITY_STOP]
+    if not (title and comp and city):
+        return ""
+    return f"{title}|{comp[0]}|{city[0]}"
+
+
+README_ROW = re.compile(
+    r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*\[([^\]]+)\]\(([^)]+)\)\s*"
+    r"\|\s*([^|]*)\|\s*([^|]*)\|", re.M)
+
+
+def known_fingerprints() -> set[str]:
+    """Identity keys of postings the board already carries.
+
+    The URL gate only catches the same address twice. This catches the same job
+    re-advertised elsewhere, which is what makes a sweep's "kept" honest as
+    "new to the board" rather than merely "new to this run".
+    """
+    seen: set[str] = set()
+    readme = ROOT / "README.md"
+    if readme.exists() and not readme.is_symlink():
+        for m in README_ROW.finditer(readme.read_text(encoding="utf-8", errors="ignore")):
+            seen.add(fingerprint({"title": m.group(2), "company": m.group(4),
+                                  "location": m.group(5)}))
+    seen.discard("")
+    return seen
+
+
 def known_urls() -> set[str]:
     """URLs the board already publishes.
 
@@ -367,6 +417,22 @@ def main() -> int:
     fresh_only = [r for r in kept if norm_url(r["url"]) not in board]
     stats["already_on_board"] = len(kept) - len(fresh_only)
     kept = fresh_only
+
+    board_fp = known_fingerprints()
+    by_title = [r for r in kept if fingerprint(r) not in board_fp]
+    stats["already_on_board_by_title"] = len(kept) - len(by_title)
+    kept = by_title
+
+    seen_fp: dict[str, dict] = {}
+    collapsed = 0
+    for r in kept:
+        fp = fingerprint(r)
+        if fp and fp in seen_fp:
+            collapsed += 1
+            continue
+        seen_fp.setdefault(fp, r)
+    stats["cross_source_dup"] = collapsed
+    kept = list(seen_fp.values())
 
     kept.sort(key=lambda r: (r["posted"], -priority(r["location"]), r["title"]), reverse=True)
 

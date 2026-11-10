@@ -251,3 +251,34 @@ listing carried: the downstream date check re-read the posting page and used its
 date. That is the intended order of authority — a sweep supplies candidates, the
 posting supplies the date. It also means the row does not count as today's, which
 is why today's total moved by other agents' inboxes rather than by this pass.
+
+### Round 7 — validation, and the duplicate that URL equality could not see
+
+Sweep of 2026-11-09: 473 raw → 68 unique → **2 kept**, and both kept rows were
+the *same* CGI QA requisition at two different `eluta.ca/spl/<hash>` addresses.
+The board already carried that role under an Adzuna URL (2026-11-01) and a
+LinkedIn URL (2026-10-16), so URL-only dedupe had no way to see the copy.
+
+Fix: `fingerprint()` — `title|company|city`, with company and city reduced to
+their first significant token so "CGI Inc."/"CGI" and "Sherbrooke QC"/
+"Sherbrooke, Estrie" compare equal, and a row missing any part never collapses.
+It is applied twice: within a run (`cross_source_dup`) and against every posting
+row the README already lists (`already_on_board_by_title`). Confirmed on the live
+board — the CGI candidate fingerprints to `analyste qa servicenow|cgi|sherbrooke`,
+which is `already on board: True`. The same-day mirror copy was removed from
+README and from `inbox/fresh-ca--2026-11-09--v6.md`; the empty `--v7` probe file
+was deleted. Net effect on the board: one fewer duplicate row, no new rows,
+because nothing in this round's sources was new to the board.
+
+Validation of the 182 rows dated 2026-11-09 (live feed, 8 workers, 12 s timeout):
+**83 clean**, 87 off-title, 9 dates the posting contradicts, 2 clock-dates
+(GDIT *ServiceNow Developer SME*; Slalom *Certinia PSA Architect*), 1 dead
+(Procom/BMO `…/5463810b`, HTTP 404). Full report: `reports/audit_2026-11-09-live.md`.
+
+Re-check of round 6's CAA-Québec row: the feed carries it at 2026-11-02 under an
+Adzuna URL that now answers 403 to a non-browser client. The audit counts 403 as
+"walled" — the requisition exists behind a bot filter — so it is not dead, and
+its date agrees with the Adzuna source. Two CAAT Pension Plan Workday rows carry
+dates four days later than their page's `datePosted` (2026-11-03 vs 2026-10-30);
+they sit outside a date-scoped audit window and so are unflagged. Recorded as a
+known mismatch, not as clean rows.

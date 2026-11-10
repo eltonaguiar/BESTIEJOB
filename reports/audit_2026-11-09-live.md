@@ -1,0 +1,135 @@
+# Board audit — rows dated 2026-11-09
+
+Checked 182 rows from the live feed at 2026-11-09 23:56 UTC.
+
+| Finding | Rows |
+|---|---|
+| clean | 83 |
+| dead link | 1 |
+| date is the scan clock | 2 |
+| date disagrees with the posting | 9 |
+| does not name ServiceNow/Salesforce | 87 |
+| behind a login wall (counts as live) | 0 |
+
+## Dead links (1)
+The URL no longer answers — drop or replace.
+
+| Role | Company | Feed date | Posting states | Flags | URL |
+|---|---|---|---|---|---|
+| Senior Salesforce Developer | Bank of Montreal (via Procom) | 2026-11-09 | — | dead:http-404 | https://myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b |
+
+## Dates that are the scan clock (2)
+`postedDate` equals `scrapedAt`, so the board is showing when we scanned it. Re-date from the source or drop.
+
+| Role | Company | Feed date | Posting states | Flags | URL |
+|---|---|---|---|---|---|
+| ServiceNow Developer SME | GDIT | 2026-11-09 | 2026-11-09 | clock-date | https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-SME_RQ231819-1 |
+| Certinia PSA Architect - Senior Principal | Slalom | 2026-11-09 | — | clock-date | https://ca.linkedin.com/jobs/view/certinia-psa-architect-senior-principal-at-slalom-4487961045 |
+
+## Dates that disagree with the posting (9)
+
+| Role | Company | Feed date | Posting states | Flags | URL |
+|---|---|---|---|---|---|
+| Staff Systems Engineer | ServiceNow | 2026-11-09 | 2026-11-06 | date-mismatch(page=2026-11-06) | https://jobs.smartrecruiters.com/ServiceNow/744000160277860 |
+| Senior Full Stack - Salesforce Developer | Capco | 2026-11-09 | 2025-06-27 | date-mismatch(page=2025-06-27) | https://builtin.com/job/senior-full-stack-salesforce-developer-hybrid-toronto/4690112 |
+| ServiceNow SAM Administrator - ITAM | BMO | 2026-11-09 | 2026-11-03 | date-mismatch(page=2026-11-03) | https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow--SAM-Administrator---ITAM_R260030096 |
+| Staff Site Reliability Engineer | ServiceNow | 2026-11-09 | 2026-10-16 | date-mismatch(page=2026-10-16) | https://jobs.smartrecruiters.com/ServiceNow/744000156040224 |
+| Salesforce Developer | iA Financial Group | 2026-11-09 | 2026-10-28 | date-mismatch(page=2026-10-28) | https://ia.ca/en/carrieres/job/jr10027986 |
+| Associate Salesforce Administrator | Applied Systems | 2026-11-09 | 2026-11-05 | date-mismatch(page=2026-11-05) | https://remotive.com/remote/jobs/all-others/associate-salesforce-administrator-6505648 |
+| Salesforce Developer | Nityo Infotech | 2026-11-09 | 2026-10-30 | date-mismatch(page=2026-10-30) | https://dontapply.club/jobs/310746-salesforce-developer |
+| Senior Technical Consultant, ServiceNow Developer | KPMG Canada | 2026-11-09 | 2026-08-14 | date-mismatch(page=2026-08-14) | https://careers.kpmg.ca/jobs/33533?lang=en-us |
+| Consultant/Senior Consultant - ServiceNow Solution Developer | KPMG Canada | 2026-11-09 | 2026-10-16 | date-mismatch(page=2026-10-16) | https://careers.kpmg.ca/jobs/33919?lang=en-us |
+
+## Off-title rows (87)
+No ServiceNow/Salesforce term in title, tags or excerpt.
+
+| Role | Company | Feed date | Posting states | Flags | URL |
+|---|---|---|---|---|---|
+| Senior Full Stack Developer with Java/JavaScript/TypeScript and Reusab | S I Systems | 2026-11-09 | — | off-title | https://www.adzuna.ca/details/5959388532 |
+| Senior Full Stack Engineer People Products | pofft Technology Inc. | 2026-11-09 | — | off-title | https://www.adzuna.ca/details/5959388462 |
+| Senior Full Stack Engineer People Products | Zim Directory | 2026-11-09 | — | off-title | https://www.adzuna.ca/details/5959388436 |
+| Software Development Lifecycle & DevOps Director | CIBC Mellon | 2026-11-09 | — | off-title | https://www.adzuna.ca/details/5959388127 |
+| Senior Full Stack Engineer People Products | Ali Aydi | 2026-11-09 | — | off-title | https://www.adzuna.ca/details/5959388102 |
+| Vectorworks BIM Specialist (Remote) | Joblet-AI | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/vectorworks-bim-specialist-remote-at-joblet-ai-4487900885 |
+| Systems Administrator/Operations Support Specialist - Junior | Joblinxsapp | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/systems-administrator-operations-support-specialist-junior-at-joblinxsapp-4487951044 |
+| Supervisor - IT Operations | MDA Space | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/supervisor-it-operations-at-mda-space-4487698674 |
+| Sr. Technical Architect | Alquemy Search & Consulting | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/sr-technical-architect-at-alquemy-search-consulting-4487913741 |
+| Sr. Guidewire PolicyCenter Integration Developer | Themesoft Inc. | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/sr-guidewire-policycenter-integration-developer-at-themesoft-inc-4488872425 |
+| Specialist, Employee Relations | Canada Mortgage and Housing Corp | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/specialist-employee-relations-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4489100705 |
+| Site Security Coordinator | GardaWorld | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/site-security-coordinator-at-gardaworld-4489109078 |
+| Services de Soutien TI (Term) | MNP | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/services-de-soutien-ti-term-at-mnp-4487912913 |
+| Services de Soutien TI | MNP | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/services-de-soutien-ti-at-mnp-4487923801 |
+| Senior to Principal Electrical Designer | Worley | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/senior-to-principal-electrical-designer-at-worley-4470971557 |
+| Senior Specialist Data Analytics | CN | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/senior-specialist-data-analytics-at-cn-4487943053 |
+| Senior Manager, Sales Enablement and Strategy | Metergy Solutions | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/senior-manager-sales-enablement-and-strategy-at-metergy-solutions-4488872209 |
+| Senior HVAC Designer | Worley | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/senior-hvac-designer-at-worley-4488404114 |
+| Senior Architectural Designer | Worley | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/senior-architectural-designer-at-worley-4484217476 |
+| Safety Specialist (Contract) | JFE Shoji Power Canada Inc. | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/safety-specialist-contract-at-jfe-shoji-power-canada-inc-4487170180 |
+| Safety Manager Technology | Rogers Communications | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/safety-manager-technology-at-rogers-communications-4487694604 |
+| Reality Capture Drafting Technician | Servant Dunbrack McKenzie & MacD | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/reality-capture-drafting-technician-at-servant-dunbrack-mckenzie-macdonald-sdmm-limited-4489111617 |
+| RQ11857 – Systems Administrator/Operations Support Specialist – Senior | S M Software Solutions Inc | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/rq11857-%E2%80%93-systems-administrator-operations-support-specialist-%E2%80%93-senior-at-s-m-software-solutions-inc-4488880053 |
+| RQ11845 – Software Developer – Senior (Onsite) | S M Software Solutions Inc | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/rq11845-%E2%80%93-software-developer-%E2%80%93-senior-onsite-at-s-m-software-solutions-inc-4488879081 |
+| RQ11516 – Solutions Designer – Senior (Onsite) | S M Software Solutions Inc | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/rq11516-%E2%80%93-solutions-designer-%E2%80%93-senior-onsite-at-s-m-software-solutions-inc-4488866714 |
+| Program Lead, Enterprise CRM (Higher Education) | Fanshawe College | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/program-lead-enterprise-crm-higher-education-at-fanshawe-college-4489110110 |
+| Modélisateur | LAPORTE | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/mod%C3%A9lisateur-at-laporte-4483489540 |
+| Mechanical Engineer | AfterQuery Experts | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/mechanical-engineer-at-afterquery-experts-4487128330 |
+| Mechanical Designer | WSP in Canada | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/mechanical-designer-at-wsp-in-canada-4444033176 |
+| Manager, Service Delivery – Western Region | Intact | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/manager-service-delivery-%E2%80%93-western-region-at-intact-4487934863 |
+| Manager, Change Enablement | Manulife | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/manager-change-enablement-at-manulife-4487933550 |
+| MHE (MaterialHandling Equipment) Design Engineer & Estimator | MTLI Group | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/mhe-materialhandling-equipment-design-engineer-estimator-at-mtli-group-4487943163 |
+| M365 Developer | Insight Global | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/m365-developer-at-insight-global-4487928054 |
+| Lead Electrical Designer | Worley | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/lead-electrical-designer-at-worley-4470979412 |
+| Information Technology Field Engineer | CXC | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/information-technology-field-engineer-at-cxc-4488857833 |
+| Information Systems Engineer | Opendoor | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/information-systems-engineer-at-opendoor-4438290096 |
+| IT Specialist | O'Dell HVAC Group | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/it-specialist-at-o-dell-hvac-group-4489114496 |
+| IT Infrastructure Engineer | DSEL - David Schaeffer Engineeri | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/it-infrastructure-engineer-at-dsel-david-schaeffer-engineering-ltd-4489112379 |
+| IT & ERP Systems Administrator | SkyCan Systems | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/it-erp-systems-administrator-at-skycan-systems-4489102070 |
+| Guidewire PolicyCenter Integration Developer | Themesoft Inc. | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/guidewire-policycenter-integration-developer-at-themesoft-inc-4488868640 |
+| Growth and CRM Analyst | AppLovin | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/growth-and-crm-analyst-at-applovin-4488825271 |
+| GTM Strategy and Operations Manager | Mitek Systems | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/gtm-strategy-and-operations-manager-at-mitek-systems-4487164866 |
+| Full Stack Software Engineer - Associate | Wiraa | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/full-stack-software-engineer-associate-at-wiraa-4487903499 |
+| Senior Manager, Solutions Architecture | TELUS Digital | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/senior-manager-solutions-architecture-at-telus-digital-4406571461 |
+| Lead Management Operations | Rogers Communications | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4487688601 |
+| Implementation Specialist | ChannelEngine | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/implementation-specialist-at-channelengine-4487141701 |
+| Gestionnaire des opération Marketing | Rogers Communications | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487699436 |
+| Financial Services Risk and Regulatory Advisory, Senior Associate | PwC Canada | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/financial-services-risk-and-regulatory-advisory-senior-associate-at-pwc-canada-4454563221 |
+| Field Services Engineer | Cognizant | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/field-services-engineer-at-cognizant-4487667890 |
+| Enterprise Applications Analyst | Nureva Inc. | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/enterprise-applications-analyst-at-nureva-inc-4487938469 |
+| Electro-Mechanical Designer | Gorbel | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/electro-mechanical-designer-at-gorbel-4487946518 |
+| E-Commerce Operations Specialist | IHL Canada | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/e-commerce-operations-specialist-at-ihl-canada-4487906722 |
+| Dynamics CRM Senior Technical Architect | HCLTech | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/dynamics-crm-senior-technical-architect-at-hcltech-4487949511 |
+| Director, Office North America Workplace Services | BMO | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/director-office-north-america-workplace-services-at-bmo-4487225150 |
+| Director AI Enablement | Chartwell Retirement Residences | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/director-ai-enablement-at-chartwell-retirement-residences-4488894693 |
+| Digital Workforce Transformation - UKG Pro Workforce Implementation Se | EY | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-workforce-implementation-senior-consultant-at-ey-4385074909 |
+| Digital Workforce Transformation - UKG Pro Implementation Senior Consu | EY | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057 |
+| Deskside Support Engineer | Corient | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/deskside-support-engineer-at-corient-4488869896 |
+| Delivery Manager, CRM & Enterprise Applications | GreenShield | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/delivery-manager-crm-enterprise-applications-at-greenshield-4488894998 |
+| Data & Triage Analyst | Epsilon Solutions Ltd. | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/data-triage-analyst-at-epsilon-solutions-ltd-4489111052 |
+| Cyber Security Analyst | Creyos | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/cyber-security-analyst-at-creyos-4487172790 |
+| Customer Support Specialist | Pontosense | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/customer-support-specialist-at-pontosense-4487916247 |
+| Consulting Associate/Recovery Services (Forensic Services practice) | Charles River Associates | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/consulting-associate-recovery-services-forensic-services-practice-at-charles-river-associates-4453723865 |
+| Concepteur(trice) en mécanique du bâtiment | Ainsworth Inc | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/concepteur-trice-en-m%C3%A9canique-du-b%C3%A2timent-at-ainsworth-inc-4487187426 |
+| Client Success Manager, Associate | Morgan Stanley | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/client-success-manager-associate-at-morgan-stanley-4479966116 |
+| Caseworker – Bilingual (English/French) or Unilingual | Cencora | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/caseworker-%E2%80%93-bilingual-english-french-or-unilingual-at-cencora-4485870553 |
+| CONSEILLER EN GOUVERNANCE IA | Chrome Technologies | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/conseiller-en-gouvernance-ia-at-chrome-technologies-4487683823 |
+| COBOL / Production Support Engineer (Deposit Systems) | Mindtris | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/cobol-production-support-engineer-deposit-systems-at-mindtris-4489106628 |
+| Business Technology Solutions Manager | BGIS | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/business-technology-solutions-manager-at-bgis-4487659421 |
+| Bilingual Operations Manager (EN/FR) | BGIS | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/bilingual-operations-manager-en-fr-at-bgis-4487927900 |
+| Bilingual Manager, Cloud Infrastructure (Paas) | Canada Mortgage and Housing Corp | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/bilingual-manager-cloud-infrastructure-paas-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4401786784 |
+| BIM Quality Specialist Digital Delivery - Rail & Transit | WSP in Canada | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/bim-quality-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451265764 |
+| BIM Facilities Specialist, Digital Delivery - Rail & Transit | WSP in Canada | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451262824 |
+| BIM Facilities Specialist - Digital Delivery, Rail & Transit | WSP in Canada | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453720592 |
+| BAS Graphics Designer – Building Automation / EBO (GDBA005) | Potenco | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/bas-graphics-designer-%E2%80%93-building-automation-ebo-gdba005-at-potenco-4487905757 |
+| Automation Lead | Farm Mutual Re | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/automation-lead-at-farm-mutual-re-4489116276 |
+| Architectural Drafter | InVision Staffing Services Inc. | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/architectural-drafter-at-invision-staffing-services-inc-4487172644 |
+| Application Support Analyst (AI-Enabled / BA & Development Hybrid) | BA & Development Hybrid)](https: | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/application-support-analyst-ai-enabled-ba-development-hybrid-at-societe-generale-4488895878 |
+| Application Specialist | Bell | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/application-specialist-at-bell-4470646244 |
+| Analyste, Soutien microinformatique (macOS) | Dollarama | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/analyste-soutien-microinformatique-macos-at-dollarama-4462320998 |
+| Analyste technologique (2 emplois disponibles) | Université de Sherbrooke | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/analyste-technologique-2-emplois-disponibles-at-universit%C3%A9-de-sherbrooke-4487171751 |
+| Analyste informatique | Hydro Québec | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/analyste-informatique-at-hydro-qu%C3%A9bec-4487674939 |
+| Analyste en sécurité | COFOMO | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/analyste-en-s%C3%A9curit%C3%A9-at-cofomo-4489108756 |
+| Analyste Support Applicatif (IA intégrée / Profil hybride Analyse Méti | Profil hybride Analyse Métier &  | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/analyste-support-applicatif-ia-int%C3%A9gr%C3%A9e-profil-hybride-analyse-m%C3%A9tier-d%C3%A9veloppement-at-societe-generale-4487194150 |
+| Analyste Programmeur | Domtar | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/analyste-programmeur-at-domtar-4488899027 |
+| Analyst, Digital Applications Support – Procurement, Excellence, Assur | eTeam | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/analyst-digital-applications-support-%E2%80%93-procurement-excellence-assurance-and-transformation-at-eteam-4487165764 |
+| 2027 Programme des diplômés, Services Technologiques - Livraison, Exce | Bell | 2026-11-09 | — | off-title | https://ca.linkedin.com/jobs/view/2027-programme-des-dipl%C3%B4m%C3%A9s-services-technologiques-livraison-excellence-et-architecture-at-bell-4469262950 |
+
