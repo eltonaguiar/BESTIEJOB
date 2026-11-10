@@ -135,7 +135,7 @@ candidates still at grade C, to decide whether an A/B hunt is worth it.
 Acceptance: probe results are stored with the raw record (CNAME target, header
 set) so a false positive can be diagnosed later.
 
-**Do not build:** CL consistency nothing (dead), Crunchbase/PitchBook (paid API,
+**Do not build:** certificate-transparency enumeration (measured dead), Crunchbase/PitchBook (paid API,
 technology fields unreliable), G2/Capterra review scraping (ToS + consultant
 noise), LinkedIn company "software" sections (guest search is Cloudflare-blocked
 for us).
