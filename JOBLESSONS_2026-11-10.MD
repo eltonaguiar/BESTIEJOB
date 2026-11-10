@@ -50,3 +50,28 @@ Next-run pointers:
 - Entry-level Salesforce Platform Administrator / Platform Developer I roles still none surfaced — keep those exact titles as priority keywords.
 - Probe employer boards directly (jobs.bmo.com Workday, jobs.td.com, careers.rbc.com, careers.scotiabank.com) for ServiceNow ITAM/CMDB and Salesforce Platform Admin postings dated 2026-11-10; the automated scan's Workday CXS coverage can miss individual requisitions.
 - Keep hourly cadence; expect null cycles when the :00 UTC scan has just run.
+## 02:00 EST cycle (2026-11-10) — post :00 UTC hourly scan
+Ran after the repo's hourly Action (05:15 UTC / 06:19Z feed refresh already on main: 5328 jobs, README SN 743 / SF 951 / Other 4117 = 5811 live postings). Layered manual search on top.
+
+Sources checked: Indeed/LinkedIn guest/builtintoronto/ZipRecruiter/talent.com; Workday employer pages (Altus Group R0014087, Scotiabank 603030017, BFG careers.bfg.ca); ServiceNow careers Toronto; Rogers jobs.rogers.com; Bell jobs.bell.ca/jobs.bce.ca; TELUS careers.telus.com; Survalent careers PDF; KPMG/Deloitte/Capgemini/CGI (ServiceNow Elite Partners); GoC/gojobs government boards.
+
+Already in feed (duplicates, not re-added):
+- Scotiabank ServiceNow Developer 603030017 (jobs.scotiabank.com)
+- KPMG Senior Consultant, ServiceNow (careers.kpmg.ca/jobs/31517, posted 2026-11-07)
+- Altus Group Salesforce Platform Developer R0014087 — tracked via simplyhired mirror, posted 2026-11-09; Workday original shows no absolute date
+- BFG ServiceNow Administrator/Developer Markham (careers.bfg.ca/jobs/707075, posted 2026-11-03; Indeed start/end Oct 13–20 = expired)
+- SS&C Technologies + Benevity Salesforce roles (added in prior cycle this date)
+
+Excluded / negative:
+- Randstad Systems Administrator V ServiceNow Toronto — posted Sept 25, outside 30-day window
+- ServiceNow careers Toronto — Protected B SRE/security/syseng roles and CRM sales roles; outside Platform Admin/Developer I targeting
+- Bell ServiceNow postings — every hit "filled"/no longer accepting applicants; skip on sight
+- TELUS Salesforce matches — Account/Senior Account Manager sales titles; excluded by title rule
+- Capgemini Salesforce Application Consultant contract Toronto — no confirmable posted date
+- Survalent Salesforce Administrator Mississauga — Indeed "New"/relative date only; careers PDF has no posted date; fails absolute-date rule
+- Indeed "New"/"1 day ago" tags — not posted dates (BMO SAM-ITAM, BFG, Survalent all swept or stale)
+
+Result: zero new merges. jobs.json stays 5328; README tables stay SN 743 / SF 951 / Other 4117 (5811 live); no public/ rebuild required.
+Entry-level Platform Administrator / Platform Developer I roles: none surfaced this cycle (4th straight null cycle on those keywords) — keep as priority keywords.
+
+Pattern confirmed: post :00 UTC scan cycles are typically null for manual search — the ATS sweep (Adzuna/LinkedIn/Workday/SmartRecruiters/Greenhouse/Lever/Ashby/remote) captures nearly all Toronto SN/SF volume; manual value is only in employer career pages and non-ATS boards with verifiable absolute dates.
