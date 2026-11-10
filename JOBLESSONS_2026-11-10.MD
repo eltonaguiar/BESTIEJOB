@@ -221,3 +221,45 @@ Non-Toronto 11-10 postings (kept in jobs.json feed, not in capped README tables)
 - `jobs.json` — 265 rows added via sync (2,554 total feed rows).
 - `public/jobs-data.json` + `public/index.html` — rebuilt and pushed (GitHub Pages).
 - `README.BAK_2026-11-10T160600Z.md`, `README.DEDUPE_2026-11-10T160601Z.md` — archive + dedupe artifacts.
+
+## 12:00 EST cycle (2026-11-10) — hourly manual scan
+
+Ran after the 11:00 EST cycle (committed as 9a560f5 "chore(jobs): daily scan refresh (2554 listings, 2026-11-10)"; jobs.json on disk = 2,554 rows, scraped 2026-11-10T16:02:38Z). Manual search layered on top of the committed ATS sweep.
+
+### Sources checked
+- **Indeed.ca / Dice / Robert Half / ZipRecruiter / SimplyHired SERPs**, date-sorted, ServiceNow + Salesforce Toronto:
+  - Alimentiv ServiceNow Platform Specialist — Posted Nov 10, 2026, Toronto ON Remote — same requisition already on README via jobicy.com/jobs/160724 (deduped by URL/role; the jobs.ca mirror is a near-duplicate, skipped).
+  - Robert Half Salesforce Developer Toronto — hub listing page, client-confidential, generic "Salesforce Developer" not Platform Developer I → excluded (hub-URL + title rules).
+  - Scotiabank ServiceNow Developer 603030017 — already on jobs.json baseline (deduped).
+  - SS&C Technologies Salesforce Implementation Consultant / Platform Administrator (Listed Nov 4) — already on board; outside freshness window.
+  - BFG Enterprise Services ServiceNow Administrator/Developer (Intermediate), Markham — 2–4 yrs CSA required, intermediate not Platform Admin/Dev I; Markham is not Toronto proper.
+  - Survalent Salesforce Administrator (Hybrid), Mississauga — "New"/relative age only, no verifiable absolute datePosted → excluded.
+- **ServiceNow Careers Ontario** (16 jobs): Staff Systems/Security Engineer Nov 05–06 already tracked; Senior CRM Account Executive / Sales Director CRM Sales are sales roles (title-rule excluded). No Platform Administrator / Developer I.
+- **Salesforce Careers Canada hub**: no extractable fresh Platform Admin / Platform Developer I for Toronto.
+- **LinkedIn guest API**: 429/403 blocked; no LinkedIn-sourced add without a verifiable absolute date.
+- **Rogers (jobs.rogers.com)**: no fresh dated ServiceNow/Salesforce platform posting; prior hits were marketing-ops or "preferred familiarity" infra roles, excluded by title rule.
+- **Bell (jobs.bell.ca / jobs.bce.ca)**: ServiceNow System Administrator filled; Senior Manager ServiceNow Platform Delivery no longer accepting applicants; Senior Technical Advisor apply-by 11/02/2026 expired. Skip-on-sight holds; never re-probe filled/expired roles as live.
+- **Government of Canada (jobs.gc.ca / canada.ca) + Ontario gojobs.gov.on.ca**: zero ServiceNow/Salesforce Toronto hits. GC platform work arrives via prime vendors on their own ATS (already covered by the automated sweep).
+- **Elite / Global Elite Partners + banks**: Accenture ServiceNow HAM Consultant (Canada) already captured by the sweep and on README; KPMG 33919/34113 already on board; Deloitte/Capgemini/CGI/IBM/TCS via ATS sweep only; Scotiabank/TD/RBC/BMO/CIBC Workday boards — no new dated SN/SF requisitions.
+
+### Candidates already on the board (duplicates, not re-added)
+- Alimentiv ServiceNow Platform Specialist (jobicy.com/jobs/160724) — README line 31
+- Scotiabank ServiceNow Developer 603030017 — jobs.json baseline
+- SS&C Technologies Salesforce Platform Administrator — merged in the 00:00 EST cycle this date
+
+### Result
+Zero new verified-fresh merges this cycle. jobs.json stays 2,554 rows; README.md tables unchanged; no public/ rebuild required. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced.
+
+### Patterns / lessons confirmed
+1. Post-:00 UTC manual cycles layered on an already-swept baseline are typically null — the 11:00 EST ATS sweep captured today's Toronto SN/SF volume; a zero-merge hour is expected, not a failure.
+2. Roles dated 2026-11-10 that appear in SERPs (Alimentiv Platform Specialist) are usually already represented on the board via an aggregator mirror — dedupe by normalized URL + company+title prevents near-duplicate mirrors.
+3. Hub/search listing URLs (Robert Half, Indeed /q-..., jobs.ca/<company>) are excluded at sync/render time via is_listing_url(); client-confidential Robert Half rows never carry a verifiable deep link or datePosted.
+4. Relative ages ("New", "Today") without an absolute datePosted (Survalent Salesforce Administrator Mississauga) do not enter the board.
+5. Rogers / Bell / GC employer pages yield marketing-ops, filled, expired, or senior-advisory postings — title rule + skip-on-sight keeps the board clean; never re-probe filled/expired roles as live.
+6. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) Toronto: none surfaced this hour — remains the top priority keyword gap; keep "Associate Salesforce Administrator", "Platform Administrator", "Platform Developer I" as priority keywords.
+
+### Files touched
+- `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
+- `README.md` — no changes (zero verified fresh jobs this hour).
+- `jobs.json` — no changes (2,554 rows, scraped 2026-11-10T16:02:38Z).
+- `public/` (GitHub Pages) — no changes; no redeploy required.
