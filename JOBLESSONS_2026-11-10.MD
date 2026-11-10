@@ -102,3 +102,32 @@ Next-run pointers:
 - Keep Salesforce Platform Administrator / Platform Developer I exact titles as priority keywords; probe employer Workday boards directly (jobs.td.com, careers.rbc.com, careers.scotiabank.com, jobs.bmo.com) for requisitions dated 2026-11-10 — the automated scan's Workday CXS coverage can miss individual requisitions.
 - Expect null cycles immediately after the :00 UTC ATS sweep; manual value is in employer career pages and non-ATS boards with verifiable absolute dates.
 
+
+## 04:00 EST cycle (2026-11-10) — re-scan after the 03:00 EST cycle
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-10 04:00 EST (09:00 UTC) |
+| Feed baseline (origin/main 69dd5c2, hourly scan 08:18Z) | jobs.json 5,329 rows · README ServiceNow 743 / Salesforce 951 / Other 4,117 = 5,811 live postings · window 2026-10-11 → 2026-11-10 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required) |
+
+### Candidates re-verified against the 08:18Z feed
+- **Scotiabank — ServiceNow Administrator Specialist, Toronto** (jobs.scotiabank.com .../602949717/) — already in jobs.json/README (hermes scan 2026-11-09). Duplicate; skipped.
+- **Altus Group — Salesforce Platform Developer, Toronto** (altusgroup.wd3.myworkdayjobs.com .../R0014087) — tracked via Workday/simplyhired mirror; jobs.ca mirror is the same requisition. Duplicate; skipped.
+- **SS&C Technologies + Benevity Salesforce roles** — merged in the 00:00 EST cycle this date. Duplicates; skipped.
+- Re-swept with negative results: Indeed salesforce-admin/platform-developer-1/consultant pages; LinkedIn guest (429/403 — blocked); BuiltIn Toronto, ZipRecruiter, talent.com, Dice, Robert Half, MarTechJobs; Workday boards (jobs.td.com, careers.rbc.com, careers.scotiabank.com, jobs.bmo.com — no results); ServiceNow careers Ontario; Rogers jobs.rogers.com; Bell jobs.bell.ca (431695 404/gone; other ServiceNow hits "filled"); TELUS careers.telus.com (sales/account titles only); jobs.canada.ca; gojobs.gov.on.ca (expired/non-platform); Elite Partners KPMG/Accenture/Deloitte/Capgemini/CGI/IBM/TCS (existing vacancies, already in the ATS sweep).
+
+### Patterns / lessons this cycle
+1. **Sixth consecutive null cycle on entry-level targets.** Salesforce Platform Administrator / Platform Developer I (0–2 yrs) — none surfaced today; Toronto SN/SF postings remain predominantly mid/senior (5+ yrs). Keep those exact titles as priority keywords.
+2. **Feed is stable right after the :00 UTC sweep.** The 03:00 and 04:00 EST cycles both report zero merges against the same 5,329-row feed — re-scanning within the hour adds nothing once the ATS sweep has landed.
+3. **Duplicate stability across cycles.** Altus R0014087, Scotiabank 602949717, SS&C, Benevity — all confirmed still present and unchanged; no feed churn requiring dedupe cleanup.
+4. **No public/ rebuild required** when a cycle merges zero jobs — jobs.json, README.md, and public/ are unchanged from the 03:00 EST cycle.
+
+### Files touched
+- `JOBLESSONS_2026-11-10.MD` — this run's section appended on repo root on main.
+- `README.md` — no changes (zero verified fresh jobs this hour).
+- `jobs.json` — no changes (5,329 rows).
+- `public/` (GitHub Pages) — no changes; no redeploy required.
+
