@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-10
 
-Window: 2026-10-11 → 2026-11-10 · **5820 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-11 → 2026-11-10 · **5823 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (746)
 
@@ -777,11 +777,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (965)
+### Salesforce jobs (968)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 965 postings</strong></summary>
+<details><summary><strong>Show 968 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -803,8 +803,11 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-10 | [Principal Applied AI Architect](https://ca.linkedin.com/jobs/view/principal-applied-ai-architect-at-salesforce-partner-canada-4489432977) | Salesforce Partner Canada | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-10--v2.md |
 | 2026-11-10 | [Partner Sales - Canada](https://ca.linkedin.com/jobs/view/partner-sales-canada-at-salesforce-4481519206) | Salesforce | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-10--v2.md |
 | 2026-11-10 | [Développeur(euse) principal(e) en développement de courriels dorsaux (Salesforce Marketing Cloud)](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-principal-e-en-d%C3%A9veloppement-de-courriels-dorsaux-salesforce-marketing-cloud-at-intact-4487983304) | Intact | Montreal, Quebec, Canada | via fresh-ca--2026-11-10--v1.md |
-| 2026-11-10 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-jobgether-4489192995) | Jobgether | Canada | via linkedin-guest--2026-11-10--v1.md |
-| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487960730) | Genesys | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
+|| 2026-11-10 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-jobgether-4489192995) | Jobgether | Canada | via linkedin-guest--2026-11-10--v1.md |
+|| 2026-11-09 | [Salesforce Administrator](https://lanefour.com/job-posting/salesforce-administrator/) | Lane Four | Toronto, ON, Canada | via cron scan 2026-11-10 17:00 EST |
+|| 2026-11-09 | [Salesforce Developer (Dealer Services)](https://www.winobell.com/jobs/job-opportunity-salesforce-developer-dealer-services) | Winobell | Toronto, ON, Canada | via cron scan 2026-11-10 17:00 EST |
+|| 2026-11-09 | [Senior Full Stack Developer - Salesforce (Contract)](https://jobs.lever.co/electricmind/0c786409-1f69-43a8-82ee-878377e247eb) | Electric Mind | Downtown Toronto, ON, Canada | via cron scan 2026-11-10 17:00 EST |
+|| 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487960730) | Genesys | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487972526) | Genesys | Quebec, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487963660) | Genesys | Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v7.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487961716) | Genesys | British Columbia, Canada | via inbox_opencode-job-hunt--2026-11-09--v7.md |

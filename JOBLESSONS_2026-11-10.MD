@@ -445,3 +445,44 @@ Zero new verified-fresh merges this cycle. README.md tables unchanged (SN 746 ·
 - `jobs.json` — no changes.
 - `public/` (GitHub Pages) — no changes; no redeploy required.
 
+
+## 17:00 EST cycle (2026-11-10) — cron scan + merge
+
+Ran after the 16:00 EST cycle (HEAD 9869781 "chore(jobs): fresh CA sweep 2026-11-10T21:44Z"). Baseline on disk: jobs.json 5,083 rows (multi-source sweep: LinkedIn 15, Adzuna 27, Workday 2, SmartRecruiters 1); README tables 5,820 live postings (SN 746 · SF 965 · Other 4,109; window 2026-10-11 → 2026-11-10).
+
+### Sources checked
+- **jobs.json baseline** — Toronto/GTA ServiceNow + Salesforce posted >= 2026-11-09: 27 postings. URL-dedupe against README tables (5,231 unique URLs) left 11 not-in-set; 6 of those were already boarded under equivalent URLs (query-string variants of BDO / Altus simplyhired / WPP greenhouse rows added by the hermes scan 2026-11-09).
+- **web_search:** ServiceNow + Salesforce Toronto; Rogers (jobs.rogers.com); Bell (jobs.bell.ca / jobs.bce.ca); Government of Canada (jobs.gc.ca / canada.ca); Ontario gojobs.gov.on.ca; elite partners (KPMG, Deloitte, Accenture, CGI); banks (Scotiabank, TD, RBC, BMO, CIBC).
+- **web_extract (direct fetch, live-verified):** Lane Four Salesforce Administrator; Winobell Salesforce Developer (Dealer Services); Electric Mind Senior Full Stack Developer - Salesforce; greenhouse MAP 8396722002 checked — the specific posting was not on the live board page, skipped.
+
+### Fresh verified-fresh Toronto SN/SF postings merged (deduped against jobs.json + README URLs; all three pages probed live)
+
+**Salesforce (+3 rows, inserted ahead of the 2026-11-09 block of the Salesforce table):**
+- 2026-11-09 | [Salesforce Administrator](https://lanefour.com/job-posting/salesforce-administrator/) | Lane Four | Toronto, ON, Canada — hybrid, downtown Toronto office, 0–2 yrs Salesforce experience, $50K–$75K; **entry-level Platform Administrator match** — lanefour.com/job-posting/salesforce-administrator/
+- 2026-11-09 | [Salesforce Developer (Dealer Services)](https://www.winobell.com/jobs/job-opportunity-salesforce-developer-dealer-services) | Winobell | Toronto, ON, Canada — hybrid, 3–5 yrs, FSC/Experience Cloud — winobell.com/jobs/job-opportunity-salesforce-developer-dealer-services
+- 2026-11-09 | [Senior Full Stack Developer - Salesforce (Contract)](https://jobs.lever.co/electricmind/0c786409-1f69-43a8-82ee-878377e247eb) | Electric Mind | Downtown Toronto, ON, Canada — jobs.lever.co/electricmind/0c786409-1f69-43a8-82ee-878377e247eb
+
+### Duplicates / exclusions
+- Already on board under equivalent URL (skipped): BDO ServiceNow Senior Developer (emplois.ca.indeed.com/viewjob?jk=c956b22cc281049c), Altus Group Salesforce Platform Developer (simplyhired — tracked via Workday R0014087 mirrors), WPP Senior Salesforce Marketing Cloud Developer (greenhouse 8396722002).
+- LinkedIn-sourced, posting date not independently verifiable (login wall) → excluded per standing rule: KPMG Senior Consultant ServiceNow ITAM/ITOM (4454522998), Tekgence Salesforce Revenue Cloud Developer (4487949008), Smart IT Frame Salesforce Technical Architect CPQ/RCA (4487909642).
+- Sales / listing-page roles → excluded: Salesforce Customer Success Manager MuleSoft - Global Public Sector; Commercial Account Executive - Canada (ca.indeed.com/cmp listing URLs).
+- Expired/unreachable → excluded: Salesforce Engagement Delivery Leader - Canadian Public Sector (JR355678 — workday page returns "doesn't exist").
+- No verifiable absolute posted date → excluded: Deloitte Senior Consultant Salesforce Platform (adzuna 5958626905; apply via adzuna redirect), OSI Digital Salesforce Lead (osidigital.applytojob.com live but undated; 10+ yrs lead).
+
+### Result
+- README.md: Salesforce table +3 (965 → 968); total 5,820 → 5,823 live postings; new rows carry source note "via cron scan 2026-11-10 17:00 EST".
+- `tools/build_site.py`: rebuilt `public/index.html` and `public/jobs-data.json` from the curated tables; pushed with the commit. GitHub Pages serves from `public/`; no separate redeploy needed.
+- Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: Lane Four's 0–2 yr Salesforce Administrator merged — the clearest entry-level Platform Admin signal this cycle (Jobgether Associate Salesforce Administrator, 11-10 cycle, remains the other recent catch).
+
+### Patterns / lessons confirmed
+1. **The post-:00 UTC sweep baseline is thorough:** only 3 of 27 recent Toronto SN/SF postings were absent from the board, and all 3 were direct-employer postings verified live before merging.
+2. **LinkedIn relative ages stay unverifiable:** 3 fresh-in-feed LinkedIn postings (KPMG ITAM/ITOM, Tekgence, Smart IT Frame) could not be added — standing rule holds (no `datePosted`, no add).
+3. **Aggregator mirrors need URL normalization:** BDO and Altus appeared "fresh" only because query strings differed from boarded rows; normalized dedupe catches them.
+4. **Entry-level Platform Administrator stays scarce:** Lane Four (0–2 yrs, Toronto) is this cycle's standout entry-level Platform Admin signal.
+5. **Rogers / Bell / GC employer pages: no fresh dated SN/SF platform roles** — Bell skip-on-sight (filled / 410 / expired), Rogers marketing-ops or infra-adjacent, GC zero direct hits; GC platform work arrives via prime vendors on their own ATS (already sweep-covered).
+
+### Files touched
+- `README.md` — +3 Salesforce table rows (Lane Four, Winobell, Electric Mind); header counts 965→968 and 5,820→5,823.
+- `public/index.html` + `public/jobs-data.json` — rebuilt via `tools/build_site.py` (GitHub Pages).
+- `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
+- `jobs.json` — unchanged (5,083 feed rows; the 3 merged postings are already present in the feed).
