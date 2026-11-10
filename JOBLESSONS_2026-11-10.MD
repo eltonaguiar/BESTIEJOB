@@ -330,3 +330,44 @@ Zero new verified-fresh merges this cycle. jobs.json stays 2,554 rows; README.md
 - `README.md` — no changes (zero verified fresh jobs this hour).
 - `jobs.json` — no changes (2,554 rows).
 - `public/` (GitHub Pages) — no changes; no redeploy required.
+
+## 14:00 EST cycle (2026-11-10) — manual scan + merge
+
+Ran after the 13:00 EST cycle. Manual web search layered on top of the already-committed ATS sweep; jobs.json baseline on disk was 5,254 rows pre-scan.
+
+### Sources checked
+- **web_search (site: queries):** ServiceNow + Salesforce Toronto, Rogers (jobs.rogers.com), Bell (jobs.bell.ca), Government of Canada (jobs.gc.ca/canada.ca), Elite partners (KPMG, Deloitte, Accenture, CGI), banks (Scotiabank, TD, RBC, BMO, CIBC), Lane Four.
+- **web_extract (direct fetch):** careers.kpmg.ca/jobs/34113 (live), jobs.ca Altus page (live), lanefour.com Lane Four postings (live), deloitte.ca 133759/133770 (live but posting start 2026-07-09, outside freshness window).
+- **jobs.bell.ca / jobs.bce.ca:** ServiceNow Developer/Integrator 431695 confirmed filled/404 again — skip-on-sight holds; never re-probe filled/expired roles as live.
+- **Rogers (jobs.rogers.com):** Lead Management Operations (Salesforce marketing ops, Ottawa-primary, ~Oct 28) — outside freshness window and title rule; Technical Specialist Markham (ServiceNow/Salesforce only "preferred" familiarity — not a platform role). No fresh dated SN/SF platform posting.
+- **Government of Canada + Ontario gojobs.gov.on.ca:** zero ServiceNow/Salesforce Toronto hits.
+- **Elite/Global Elite Partners + banks:** KPMG 33919/34113 existing vacancies; Deloitte outside freshness window (2026-07-09) and 3+ yrs; Accenture/CGI/IBM/TCS/Capgemini arrive via ATS sweep only; bank Workday boards — no new dated SN/SF requisitions.
+
+### Fresh 2026-11-10 Toronto/Canada SN/SF postings verified live and merged (all deduped against jobs.json + README)
+
+**ServiceNow:**
+- Functional Consultant / Senior Consultant – ServiceNow — KPMG Canada (ServiceNow Global Elite Partner) — Toronto, ON (multi-location) — Posted: Not disclosed — careers.kpmg.ca/jobs/34113 — 1–5 yrs SN, $70K–$102K
+
+**Salesforce:**
+- Salesforce Platform Developer (PD1/PD2) — Altus Group — Toronto, ON — Posted: 2026-10-30 — jobs.ca deep link — $105K–$115K
+- Salesforce Consultant — Lane Four (Toronto Salesforce partner) — Toronto, ON (hybrid) — Posted: Not disclosed — lanefour.com/job-posting/salesforce-consultant/ — 3–5 yrs, $100K–$130K
+
+### Result
+3 new verified-fresh jobs added to README.md (single-pipe table rows, newest-first preserved at table tails) and jobs.json (inserted at head of `jobs` array).
+- `verify_links.py --days 2`: all 3 new rows probed live (`verifyState: live`); 2 unrelated pre-existing dead rows dropped (Procom/BMO portal, LinkedIn CISA/GRC). Board now 5,255 rows.
+- `tools/build_site.py`: rebuilt — servicenow 778 · salesforce 846 · other 3,083 (4,707 indexed).
+- Commit `183e6bd` pushed to origin/main. GitHub Pages serves from `public/`; no separate redeploy needed.
+
+### Patterns / lessons confirmed
+1. **Employer/Elite-Partner careers pages are the best manual source this hour.** KPMG (ServiceNow Global Elite Partner) careers ATS deep link is extractable and dated; Accenture HAM/ITAM roles also surfaced via accenture.com careers in the sweep. Add Elite Partner careers pages (Accenture, Deloitte, KPMG, Capgemini, CGI, IBM, TCS) as recurring manual targets.
+2. **verify_links.py --days 2 gates fresh rows before build.** It dropped 2 dead rows and stamped verifyState on live ones; only 404/410/451 count as dead (403/429/5xx are bot-walls on live postings, kept).
+3. **Entry-level Platform Administrator / Platform Developer I (0–2 yrs) in Toronto remains scarce.** None of the 3 merges is entry-level; Lane Four's separate Salesforce Administrator (0–2 yrs) was already on the board from a prior cycle. Keep "Associate Salesforce Administrator", "Platform Administrator", "Platform Developer I" as priority keywords.
+4. **Bell skip-on-sight re-confirmed:** 431695 is 410 Gone/filled; Rogers and GC employer pages yield marketing-ops, infra-adjacent, or expired postings — title rule + skip-on-sight keeps the board clean.
+5. **Relative ages without an absolute datePosted stay off the board.** KPMG and Lane Four postings show no date; marked `Not disclosed` per quality rules, never fabricated.
+
+### Files touched
+- `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
+- `README.md` — SN table +1 (745→746), SF table +2 (947→949), total 5,650→5,653 live postings.
+- `jobs.json` — +3 rows at head of `jobs` array (5,254→5,255 after verify_links dropped 2 unrelated dead rows).
+- `public/index.html` + `public/jobs-data.json` (+ public/*/jobs.json) — rebuilt and pushed (GitHub Pages).
+
