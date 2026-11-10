@@ -617,3 +617,50 @@ Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.s
 - Indeed.ca (403), Adzuna details (405), LinkedIn (422/login wall) block automated verification — gate on employer-page confirmation before merging.
 - ServiceNow-the-company Toronto openings (Staff SRE / Systems Engineer, Protected B) are cloud-infrastructure roles, not ServiceNow platform dev/admin roles — out of scope for this board.
 - Zero fresh ServiceNow platform roles found this scan; the Toronto SN pipeline is being harvested by partner postings (CGI, BDO, KPMG) rather than direct employers.
+
+## Hourly scan — 2026-11-09 22:00 EST (03:00 UTC) — Hermes cron
+
+**Scope:** fresh Toronto / GTA ServiceNow and Salesforce postings; emphasis entry-level / Platform Admin / Platform Developer I; partners (Accenture, Deloitte, KPMG, Capgemini, CGI), Rogers/Bell/Telus, Canadian government.
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 22:00 EST (03:00 UTC) |
+| Remote main HEAD | 9448c12 finger-print location/title ATS-dedup commit (pulled before scan) |
+| Baseline (README.md tables on main) | "as of 2026-11-10" · window 2026-10-11 → 2026-11-10 · 5,800 live postings (ServiceNow 742 · Salesforce 946 · Other 4,112) · deduplicated by URL |
+| Baseline (jobs.json on main) | 5,315 unique URLs · scrapedAt 2026-11-10T02:16:27Z (02:18 UTC hourly-scan Action) · newThisScan 733 · primaryCounts SN 1,070 / SF 1,068 |
+| Dedupe baseline | README.md table URLs + jobs.json URLs, normalized (strip query strings, trailing slashes, lowercase) |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md tables | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required; board current from the 02:18 UTC automated scan; pages.yml redeploys on push) |
+| Jobs merged from open PRs #40/#41 | 0 (left open — repo owner's call) |
+
+### Candidates reviewed (disposition)
+
+Web searches: Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.servicenow.com), Salesforce Careers Canada (careers.salesforce.com), jobs.rogers.com, jobs.bell.ca, jobs.gc.ca; targeted site: queries against myworkdayjobs.com / greenhouse.io / lever.co / ashbyhq.com. Employer / Elite Partner checks: Accenture, Deloitte, KPMG, CGI, Capgemini, BDO, TELUS, RBC, Scotiabank, BMO, TD, CIBC, Lane Four, Altus Group.
+
+- **ServiceNow Careers Toronto** — two postings dated 2026-11-09: Sales Director - CRM Sales (JB0077011) and Senior CRM Account Executive (JB0077108). Both are sales roles; excluded by title rule (no SN/SF keyword). Technical SN/SF Toronto postings (Staff Systems Engineer JB0073786/73788, Staff Security Engineer ×2, Senior/Staff SRE Canada Protected B JB0076846/76847) are dated 2026-11-05/06 and already on the board via careers.servicenow.com / jobs.smartrecruiters.com mirrors → duplicates, skipped.
+- **ServiceNow-the-company Toronto** cloud-infrastructure roles (Staff SRE/Systems Engineer, Protected B) are not ServiceNow platform dev/admin roles — out of scope for this board.
+- **Scotiabank** IT & Digital Banking jobs page (date-sorted, newest first): DevOps Engineer (Salesforce) req 276046 dated Nov 7 and Senior Manager, Salesforce Engineering req 275778 dated Nov 5 — already merged (21:00 EST run). Remaining page-1 roles are IAM Architect, QA, platform engineering — not SN/SF. ServiceNow Developer req 260518 already on board. Salesforce Developer req 269305 ("not accepting any further applicants") and req 265640 — closed/outside window; excluded.
+- **KPMG** careers.kpmg.ca/jobs/33533 and /33919 — already on the board (merged 14:00 EST run); LinkedIn variants ...4454532959/...4454544021 also present → dedupe hits, not re-added.
+- **Bell** — jobs.bell.ca/jobs.bce.ca ServiceNow System Administrator 432824, Senior Technical Advisor 432829, Developer/Integrator BECACA431695, Salesforce Solution Architect, Platform Manager, Marketing Cloud Developer — all return "has been filled" / "no longer accepting new applicants". Filled roles never enter the board; recorded dead, dropped from re-checks.
+- **Rogers** — jobs.rogers.com Technology listing: 21 roles, newest Nov 7, no ServiceNow/Salesforce technical role. Lead Management Operations (Salesforce, ~Oct 28) outside the 30-day freshness window. Sr BSA ServiceNow Brampton (wct-fct 317411) returns "no longer accepting applications" → closed.
+- **Telus** — CRM-user/sales account roles only, no platform postings.
+- **Government of Canada** — jobs.gc.ca / jobbank.gc.ca / Canada.ca site search: zero direct ServiceNow/Salesforce Toronto postings. GC platform work arrives via ServiceNow's Canada Protected B roles (already on board) and prime vendors (Accenture, Deloitte, KPMG, CGI, Ateko/Bell) — all mirrored.
+- **Partners / Elite Partners** — Accenture ServiceNow Technical Architect Toronto (posted 2026-11-06), Deloitte Senior Consultant ServiceNow Platform Toronto, KPMG ServiceNow consultant roles (Toronto/Ottawa/Vancouver/Montreal), CGI — already on the board via LinkedIn/Workday mirrors dated 2026-11-08/09; no net-new entry-level Platform Admin/Developer I adds.
+- **Indeed.ca / LinkedIn.ca / Adzuna mirrors** — aggregator listing pages with no extractable absolute posted date and no resolvable direct posting URL; LinkedIn detail pages HTTP 422 login wall; Indeed direct extraction Cloudflare-blocked. Lead only, not merged (merger requires YYYY-MM-DD + direct employer URL).
+
+### Patterns / lessons (22:00 run)
+
+1. **Zero-fresh runs remain the norm at this cadence.** By 22:00 EST the day's technical SN/SF postings (Nov 05–09) have already been swept by earlier same-day runs and the 02:18 UTC jobs.json refresh (733 new this scan); expect 0–2 merges per hour late in the daily monitoring window.
+2. **Same-date postings ≠ fresh adds.** ServiceNow posted two Toronto roles on 2026-11-09, but both are sales roles excluded by title rule; all dated technical hits are duplicates already on the board.
+3. **Employer-page verification before merge.** careers.servicenow.com, jobs.scotiabank.com and careers.deloitte.ca extract cleanly with posted dates — prioritized sources. Indeed.ca (403), Adzuna details (405), LinkedIn (422) block automated verification.
+4. **Filled/closed roles stay out and stop being re-checked.** Bell's SN/SF postings ("has been filled"), Rogers wct-fct ("no longer accepting applications"), Scotiabank req 269305 ("not accepting any further applicants").
+5. **Undated employer pages can't merge** — merger requires an absolute YYYY-MM-DD posted date plus a resolvable direct employer URL; aggregator "New"/"1 day ago" tags are not a substitute.
+6. **Dedupe by normalized URL** across README.md tables + jobs.json + APPLIED.md; the same requisition arrives via LinkedIn, adzuna, simplyhired and the employer ATS under different URLs.
+
+### Files touched
+
+- `JOBLESSONS_2026-11-09.MD` — this file, 22:00 EST section added; committed to repo root on main.
+- `README.md` — no changes (zero verified fresh jobs; counts unchanged: 5,800 live postings).
+- `jobs.json` / `public/` — no changes; no rebuild or redeploy required this hour.
+
