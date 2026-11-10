@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-10T21:03:08+00:00",
+ "generatedAt": "2026-11-10T21:07:01+00:00",
  "timezone": "America/Toronto",
- "count": 4823,
+ "count": 4817,
  "appliedHidden": 39,
  "sources": [
   "103.careerplug.com",
@@ -351,68 +351,24 @@
   },
   {
    "posted": "2026-11-10",
-   "title": "ServiceNow Developer - ITAM",
-   "company": "CIBC",
-   "location": "Toronto, ON, Canada",
-   "url": "https://builtin.com/job/servicenow-developer-itam/8268323",
-   "note": "builtin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer - itam cibc toronto, on, canada builtin servicenow builtin servicenow itam role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "ServiceNow ITAM Architect",
-   "company": "SailPoint",
-   "location": "Remote, Canada or Mexico",
-   "url": "https://builtin.com/job/servicenow-itam-architect/8420207",
-   "note": "builtin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow itam architect sailpoint remote, canada or mexico builtin servicenow builtin servicenow itam role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "ServiceNow Integration Engineer",
-   "company": "Procter & Gamble",
+   "title": "ServiceNow Senior Technical Consultant",
+   "company": "Cprime",
    "location": "Canada",
-   "url": "https://builtin.com/job/servicenow-integration-engineer/10661344",
+   "url": "https://builtin.com/job/servicenow-senior-technical-consultant/10130058",
    "note": "builtin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "BuiltIn",
    "verified": "Aggregator",
-   "match": 100,
+   "match": 94,
    "matchReasons": [
     "ServiceNow",
-    "Integration",
+    "Consulting/BA",
     "Role fit",
     "Canada / remote"
    ],
    "french": false,
-   "search": "servicenow integration engineer procter & gamble canada builtin servicenow builtin servicenow integration role fit canada / remote",
+   "search": "servicenow senior technical consultant cprime canada builtin servicenow builtin servicenow consulting/ba role fit canada / remote",
    "alternates": []
   },
   {
@@ -632,10 +588,10 @@
   },
   {
    "posted": "2026-11-10",
-   "title": "ServiceNow Architect - VP",
-   "company": "ServiceNow",
-   "location": "Canada",
-   "url": "https://builtin.com/job/servicenow-architect-vp/11684191",
+   "title": "ServiceNow Solution Architect",
+   "company": "BDO Canada",
+   "location": "Remote, Canada",
+   "url": "https://builtin.com/job/servicenow-solution-architect/8639852",
    "note": "builtin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
@@ -648,7 +604,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "servicenow architect - vp servicenow canada builtin servicenow builtin servicenow role fit canada / remote",
+   "search": "servicenow solution architect bdo canada remote, canada builtin servicenow builtin servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -1314,48 +1270,6 @@
   },
   {
    "posted": "2026-11-10",
-   "title": "Salesforce Platform Administrator",
-   "company": "Finning International Inc.",
-   "location": "Edmonton or Calgary, AB, Canada",
-   "url": "https://builtin.com/job/salesforce-platform-administrator/9554640",
-   "note": "builtin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce platform administrator finning international inc. edmonton or calgary, ab, canada builtin salesforce builtin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Salesforce Administrator",
-   "company": "Versapay",
-   "location": "Remote, Canada",
-   "url": "https://builtin.com/job/salesforce-administrator/8918148",
-   "note": "builtin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce administrator versapay remote, canada builtin salesforce builtin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
    "title": "Staff Security Engineer / Enterprise Security",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca · Remote",
@@ -1637,26 +1551,6 @@
   },
   {
    "posted": "2026-11-10",
-   "title": "Product Owner - CMDB",
-   "company": "SHI International Corp.",
-   "location": "Canada",
-   "url": "https://builtin.com/job/product-owner-cmdb/10606746",
-   "note": "builtin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 34,
-   "matchReasons": [
-    "CMDB",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "product owner - cmdb shi international corp. canada builtin servicenow builtin cmdb canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
    "title": "Partner Sales - Canada",
    "company": "Salesforce",
    "location": "Toronto, Ontario, Canada",
@@ -1779,26 +1673,6 @@
    ],
    "french": false,
    "search": "technology lifecycle & data analyst millennium software and staffing inc montreal, quebec, canada linkedin other linkedin role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Senior Manager, Business Systems",
-   "company": "Docker, Inc",
-   "location": "Canada",
-   "url": "https://builtin.com/job/senior-manager-business-systems/11431225",
-   "note": "builtin",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior manager, business systems docker, inc canada builtin other builtin role fit canada / remote",
    "alternates": []
   },
   {
@@ -2750,27 +2624,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Salesforce Developer",
-   "company": "Hays",
-   "location": "Greater Toronto Area, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-hays-4489123880",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer hays greater toronto area, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Salesforce Revenue Cloud Developer",
    "company": "Apptoza Inc.",
    "location": "Toronto, Ontario, Canada",
@@ -2788,6 +2641,27 @@
    ],
    "french": false,
    "search": "salesforce revenue cloud developer apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Developer",
+   "company": "Hays",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-hays-4489123880",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer hays greater toronto area, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -7466,6 +7340,26 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Dir, Expert Services Mgmt",
+   "company": "ServiceNow",
+   "location": "Toronto, ON, Canada",
+   "url": "https://builtin.com/job/dir-expert-services-mgmt/10197297",
+   "note": "builtin",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "BuiltIn",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "dir, expert services mgmt servicenow toronto, on, canada builtin other builtin servicenow toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-08",
    "title": "Gestionnaire, Fiabilité et résilience du réseau",
    "company": "ServiceNow",
    "location": "Montreal, Quebec, Canada",
@@ -8183,28 +8077,6 @@
    ],
    "french": false,
    "search": "servicenow solution architect - itsm/itam tata consultancy services edison, nj linkedin servicenow readme servicenow itsm itam role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "ServiceNow ITAM Lead",
-   "company": "Bank of Montreal",
-   "location": "Toronto, ON, Canada",
-   "url": "https://builtin.com/job/servicenow-itam-lead/8882843",
-   "note": "builtin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow itam lead bank of montreal toronto, on, canada builtin servicenow builtin servicenow itam role fit toronto area",
    "alternates": []
   },
   {
@@ -17940,6 +17812,27 @@
      "label": "Adzuna · Montréal"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Associate Customer Success Manager - French",
+   "company": "ServiceNow",
+   "location": "Montréal, QC, Canada",
+   "url": "https://builtin.com/job/associate-customer-success-manager-french/12023983",
+   "note": "builtin",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "BuiltIn",
+   "verified": "Aggregator",
+   "match": 50,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "associate customer success manager - french servicenow montreal, qc, canada builtin other builtin servicenow role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -83066,29 +82959,6 @@
    ],
    "french": false,
    "search": "servicenow developer (csdm, itom, cmdb) cofomo montreal, qc; hybrid cofomo.com servicenow readme servicenow cmdb itom role fit quebec",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-30",
-   "title": "ServiceNow Sr Developer (ITSM - AI - GRC)",
-   "company": "Bank of Montreal",
-   "location": "Toronto, ON, Canada",
-   "url": "https://builtin.com/job/servicenow-sr-developer-itsm-ai-grc/11342054",
-   "note": "builtin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "Risk/GRC",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow sr developer (itsm - ai - grc) bank of montreal toronto, on, canada builtin servicenow builtin servicenow itsm risk/grc role fit toronto area",
    "alternates": []
   },
   {
