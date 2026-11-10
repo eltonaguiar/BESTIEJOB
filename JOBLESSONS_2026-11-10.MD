@@ -263,3 +263,70 @@ Zero new verified-fresh merges this cycle. jobs.json stays 2,554 rows; README.md
 - `README.md` — no changes (zero verified fresh jobs this hour).
 - `jobs.json` — no changes (2,554 rows, scraped 2026-11-10T16:02:38Z).
 - `public/` (GitHub Pages) — no changes; no redeploy required.
+
+
+## 13:00 EST cycle (2026-11-10) — hourly manual scan
+
+Ran after the 12:00 EST cycle (committed to main; jobs.json on disk = 2,554 rows, scraped 2026-11-10T16:12:50Z). Manual search layered on top of the committed ATS sweep and this hour's LinkedIn guest API probe.
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-10 13:00 EST (18:00 UTC) |
+| Sources queried | LinkedIn guest API (ca.linkedin.com, f_TPR=r86400), ServiceNow Careers Ontario, Salesforce Careers Canada, Rogers (jobs.rogers.com), Bell (jobs.bell.ca), Government of Canada (jobs.gc.ca); partner/employer sites: Deloitte, KPMG, Accenture, CGI; banks: RBC, TD, BMO, CIBC, Scotiabank; Indeed.ca / ZipRecruiter / Dice SERPs |
+| Dedupe baseline (README.md tables + jobs.json on main) | jobs.json 2,554 rows (scraped 2026-11-10T16:12:50Z); README capped 400 per family (ServiceNow ~746 · Salesforce ~956 · Other ~4,100) |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required) |
+
+### Candidates reviewed
+
+**LinkedIn guest API — ServiceNow, Toronto, past 24h (f_TPR=r86400):** 10 postings returned.
+- Sales Director - CRM Sales, ServiceNow, Toronto (~19h ago) — sales role, excluded by title rule.
+- Senior CRM Account Executive, ServiceNow, Toronto (~4h ago) — sales role, excluded by title rule.
+- Remainder are non-platform (IT support, workforce management, help desk, regional sales director) — not ServiceNow platform roles.
+- Caveat: LinkedIn shows relative ages only; detail pages sit behind a login wall, so no absolute `datePosted` — no LinkedIn-sourced role enters the board without a verifiable date.
+
+**LinkedIn guest API — Salesforce, Toronto, past 24h (f_TPR=r86400):** 10 postings returned.
+- Sr. Salesforce Developer – Financial Services Cloud, Sagen, Oakville (~2h ago) — senior developer, not Platform Administrator/Platform Developer I; Oakville is outside Toronto proper anyway.
+- Salesforce Architect, Lyft, Toronto (~12 min ago) — architect role, excluded.
+- Salesforce Technical Architect – CPQ/Revenue Cloud, Smart IT Frame, Toronto (~2h ago) — architect, excluded.
+- Senior Salesforce Developer, Apptoza, Toronto (~19h ago) — senior, excluded.
+- Salesforce Architect, CGI, Toronto (~4h ago) — architect, excluded.
+- Senior Software Engineering Specialist, Mackenzie Investments, GTA (~1h ago) — not a Salesforce platform role.
+- Salesforce FSC Developer, Quantum World Technologies, Toronto (~1h ago) — senior/lead, excluded.
+- Salesforce Senior FSC Developer / Technical Lead, Apptoza, Toronto (~2h ago) — senior/lead, excluded.
+- Salesforce Technical Architect Revenue Cloud CPQ, Smart IT Frame, Toronto (~2h ago) — architect, excluded.
+None match the board's target titles (Platform Administrator / Platform Developer I, entry-level 0–2 yrs preferred); none can carry a verifiable absolute posted date from LinkedIn.
+
+**ServiceNow Careers Ontario** (16 jobs): Staff Systems Engineer / Staff Security Engineer / Staff + Senior SRE Protected B (Nov 05–06) already tracked; Nov 09 postings are Sales Director - CRM Sales and Senior CRM Account Executive — sales, excluded by title rule. Nothing fresh and platform-relevant.
+
+**Salesforce Careers Canada hub:** no extractable fresh Platform Administrator / Platform Developer I posting for Toronto today.
+
+**Rogers (jobs.rogers.com):** no fresh dated ServiceNow/Salesforce platform posting; known hits are marketing-ops or "preferred familiarity" infra roles, excluded by title rule.
+
+**Bell (jobs.bell.ca / jobs.bce.ca):** ServiceNow Developer / Integrator 431695 now returns HTTP 410 (filled/gone) — re-confirmed; System Administrator 432824 filled; Senior Manager ServiceNow Platform Delivery not accepting applicants; Senior Technical Advisor deadline 11/02/2026 expired. Skip-on-sight holds; never re-probe filled/expired roles as live.
+
+**Government of Canada (jobs.gc.ca / canada.ca) + Ontario gojobs.gov.on.ca:** zero ServiceNow/Salesforce Toronto hits.
+
+**Elite / Global Elite Partners + banks:** Deloitte (Senior Manager ServiceNow - Operate, posting start 10/21/26 — outside freshness window, 8+ yrs) and KPMG (33919/34113 existing vacancies, already on board) — nothing fresh; Accenture/CGI/IBM/TCS/Capgemini arrive via the ATS sweep only; Scotiabank/TD/RBC/BMO/CIBC Workday boards — no new dated SN/SF requisitions (BMO ServiceNow SAM Administrator - ITAM "New", ≈Nov 5, already swept).
+
+**Indeed.ca / ZipRecruiter / Dice — entry-level Salesforce admin search:** SS&C Technologies Salesforce Implementation Consultant / Platform Administrator, Toronto — Listed Nov 4, 3+ yrs, outside freshness window; Finning Platform Administrator I — Calgary/Edmonton/Vancouver, not GTA; MaintainX Toronto Salesforce Administrator — expert-level 5–10+ yrs; nothing entry-level fresh.
+
+### Result
+
+Zero new verified-fresh merges this cycle. jobs.json stays 2,554 rows; README.md tables unchanged; no public/ rebuild required. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced — remains the top priority keyword gap.
+
+### Patterns / lessons confirmed
+
+1. **LinkedIn guest API was available this hour and returned 20 fresh-relative postings (ServiceNow + Salesforce, Toronto, past 24h) — zero board-eligible.** Every hit was sales, architect, senior developer, or non-platform, and LinkedIn's relative ages are unverifiable, so none could enter the board regardless. Reinforces the standing rule: no LinkedIn-sourced add without an absolute `datePosted`.
+2. **Elite partners surface senior/existing vacancies, not entry-level.** Deloitte/KPMG/Accenture/CGI Toronto SN/SF postings are 3–10+ yrs or existing vacancies outside the freshness window; the ATS sweep captures them, manual careers-page checks add nothing incremental.
+3. **Bell skip-on-sight re-confirmed:** 431695 (ServiceNow Developer / Integrator) is now 410 Gone; filled/expired roles are never re-probed as live.
+4. **Geographic filter holds:** Finning's entry-level-titled Platform Administrator I (0–3 yrs) is Calgary/Edmonton/Vancouver — excluded, no Toronto exception.
+5. **Post-:00 UTC manual cycles on an already-swept baseline are typically null** — a clean zero-merge hour is expected, not a failure; the 11:00 EST ATS sweep remains the capture mechanism for today's Toronto SN/SF volume.
+
+### Files touched
+
+- `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
+- `README.md` — no changes (zero verified fresh jobs this hour).
+- `jobs.json` — no changes (2,554 rows).
+- `public/` (GitHub Pages) — no changes; no redeploy required.
