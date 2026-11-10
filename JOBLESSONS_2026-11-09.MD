@@ -524,3 +524,28 @@ Scope: fresh Toronto/GTA + Canada ServiceNow and Salesforce roles; dedupe agains
 
 **Files touched:** JOBLESSONS_2026-11-09.MD (this section only). README.md, jobs.json, public/ — no changes this run.
 
+## Hermes hourly scan — 2026-11-09 19:00 EST (00:00 UTC) — cron
+
+**Scope:** fresh Toronto/GTA ServiceNow and Salesforce jobs; emphasis entry-level / Platform Admin / Platform Developer I; partners (Accenture, Deloitte, KPMG, Capgemini, CGI), Rogers/Bell/Telus, Canadian government.
+
+**Result:** 0 verified fresh jobs merged (README tables unchanged — ServiceNow 738, Salesforce 941, Other 3,973 = 5,652 live postings; jobs.json unchanged at 5,207 rows after the 23:12 UTC refresh; public/ unchanged, no rebuild required).
+
+**Candidates reviewed:**
+- Robert Half — Salesforce Developer, Toronto, remote, permanent, $90–95K (search-dated 2026-11-07) — direct job page https://www.roberthalf.com/ca/en/job/toronto-on/salesforce-developer/05090-0013532287-caen returns "The job you are looking for is no longer available"; expired/filled, excluded. Its category page still lists it — never merge from a listing page alone.
+- Altus Group — Salesforce Platform Developer, Toronto, $105–115K, PD1/PD2 preferred — already on board (simplyhired URL, posted 2026-11-09); dedupe hit, not re-added.
+- ServiceNow — Sales Director - CRM Sales and Senior CRM Account Executive (Toronto, posted 2026-11-09) — sales roles, excluded by title rule.
+- MLSE — [C] Salesforce Engineer/Developer, Toronto — no extractable direct posting URL (Indeed category stub jk=mlse-sfdc-dev did not resolve to this role); skipped — no direct URL means no verification or dedupe.
+- Scotiabank — DevOps Engineer (Salesforce), Toronto — already on board, posted 2026-11-07.
+- ServiceNow Careers Toronto — Nov 09 postings are sales roles; all technical SN/SF roles (Staff Systems Engineer, Staff Security Engineer ×2, Senior/Staff SRE Canada Protected B, Staff Database Engineer) already on board from Nov 05–06.
+- Rogers / Bell / Telus — no fresh SN/SF technical roles; Bell's ServiceNow postings return "position filled"; filled roles never enter the board.
+- jobs.gc.ca / Job Bank / Canada.ca — zero ServiceNow/Salesforce Toronto hits.
+- Partners — Accenture/Deloitte/KPMG/Capgemini/CGI: no fresh entry-level Platform Admin/Developer I hits; all SN/SF hits already on board via LinkedIn/Workday mirrors dated 2026-11-08/09.
+
+**Verification notes:** Robert Half's category page still surfaced the role while its detail page was gone — always hit the direct posting URL before merging. LinkedIn detail pages return HTTP 422 login wall; dates unverifiable there — no LinkedIn-sourced role added without a verifiable date. Employer ATS pages (careers.servicenow.com, jobs.scotiabank.com) load server-side and verify cleanly.
+
+**Already on board — dedupe hits, not re-added:** Altus Group Salesforce Platform Developer (simplyhired), Scotiabank Salesforce Developer req 265640 (posted 2026-10-10, outside the 30-day window anyway), SS&C Salesforce Implementation Consultant & Platform Administrator, Myticas Salesforce Developer, Versapay Salesforce Developer, CGI ServiceNow Administrator/Developer — all present in jobs.json + README tables.
+
+**Entry-level gap:** no Junior ServiceNow Administrator or Salesforce Platform Developer I roles newly surfaced Toronto-wide this cycle; market remains Staff/Senior-heavy.
+
+**Files touched:** JOBLESSONS_2026-11-09.MD (this section only). README.md, jobs.json, public/ — no changes this run.
+
