@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-10T22:07:42+00:00",
+ "generatedAt": "2026-11-10T22:13:15+00:00",
  "timezone": "America/Toronto",
- "count": 4817,
+ "count": 4819,
  "appliedHidden": 39,
  "sources": [
   "103.careerplug.com",
@@ -588,6 +588,38 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Analyste QA ServiceNow",
+   "company": "CGI",
+   "location": "Sherbrooke, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-qa-servicenow-at-cgi-4489405726",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste qa servicenow cgi sherbrooke, quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5948948163?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Sherbrooke"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/analyste-qa-servicenow-at-cgi-4434786014",
+     "label": "LinkedIn · Sherbrooke"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-10",
    "title": "ServiceNow Solution Architect",
    "company": "BDO Canada",
    "location": "Remote, Canada",
@@ -606,38 +638,6 @@
    "french": false,
    "search": "servicenow solution architect bdo canada remote, canada builtin servicenow builtin servicenow role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Analyste QA ServiceNow",
-   "company": "CGI",
-   "location": "Sherbrooke, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/analyste-qa-servicenow-at-cgi-4489405726",
-   "note": "via linkedin-guest--2026-11-10--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "analyste qa servicenow cgi sherbrooke, quebec, canada linkedin servicenow via linkedin-guest--2026-11-10--v1.md servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948948163?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Sherbrooke"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/analyste-qa-servicenow-at-cgi-4434786014",
-     "label": "LinkedIn · Sherbrooke"
-    }
-   ]
   },
   {
    "posted": "2026-11-10",
@@ -683,6 +683,33 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Lead Salesforce Solution Architect",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Salesforce Solution Architect",
    "company": "Cognizant",
    "location": "Toronto, ON-199 Bay Street, Ontario, Canada",
@@ -712,6 +739,48 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Salesforce System Coordinator / Administrator",
+   "company": "Quarry Consulting",
+   "location": "North York, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-system-coordinator-administrator-at-quarry-consulting-4487822864",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce system coordinator / administrator quarry consulting north york, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Lead Salesforce Solution Architect, Specialty Health",
+   "company": "McKesson",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-specialty-health-at-mckesson-4488629082",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead salesforce solution architect, specialty health mckesson mississauga, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-10",
@@ -872,7 +941,7 @@
    "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
    "company": "Smart IT Frame LLC",
    "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4488379423",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4488613750",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -887,6 +956,11 @@
    "french": false,
    "search": "salesforce technical architect - strong cpq and revenue cloud advanced smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4488379423",
+     "label": "LinkedIn · Toronto"
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4487909642",
@@ -1711,28 +1785,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Specialist, ServiceNow ITOM (BTS)",
-   "company": "Addmore Group",
-   "location": "Saskatoon, Saskatchewan, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/specialist-servicenow-itom-bts-at-addmore-group-4489137733",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITOM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "specialist, servicenow itom (bts) addmore group saskatoon, saskatchewan, canada linkedin servicenow linkedin servicenow itom role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Specialist, ServiceNow ITAM (BTS)",
    "company": "Addmore Group",
    "location": "Saskatoon, Saskatchewan, Canada",
@@ -1751,6 +1803,28 @@
    ],
    "french": false,
    "search": "specialist, servicenow itam (bts) addmore group saskatoon, saskatchewan, canada linkedin servicenow linkedin servicenow itam role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Specialist, ServiceNow ITOM (BTS)",
+   "company": "Addmore Group",
+   "location": "Saskatoon, Saskatchewan, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/specialist-servicenow-itom-bts-at-addmore-group-4489137733",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialist, servicenow itom (bts) addmore group saskatoon, saskatchewan, canada linkedin servicenow linkedin servicenow itom role fit canada / remote",
    "alternates": []
   },
   {
@@ -2540,27 +2614,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Senior Salesforce Developer",
-   "company": "Apptoza Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-apptoza-inc-4487409717",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Sr. Salesforce Developer",
    "company": "Genesys",
    "location": "Toronto, Ontario, Canada",
@@ -2620,6 +2673,27 @@
    ],
    "french": false,
    "search": "senior/lead salesforce marketing cloud engineer diligente technologies mississauga, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Salesforce Developer",
+   "company": "Apptoza Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-apptoza-inc-4487409717",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -73419,7 +73493,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948025592",
+     "url": "https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -88388,33 +88462,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Lead Salesforce Solution Architect",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
-     "label": "LinkedIn · Mississauga"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-29",
    "title": "Senior Salesforce Architect (CA)",
    "company": "PointClickCare",
    "location": "Mississauga, Peel region",
@@ -92029,27 +92076,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Developer",
-   "company": "9th Way Insignia",
-   "location": "United States - Remote",
-   "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
-   "note": "greenhouse",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer 9th way insignia united states - remote greenhouse servicenow greenhouse servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Senior ServiceNow Developer",
    "company": "Resolve Tech Solutions",
    "location": "US Remote - TX",
@@ -92067,6 +92093,27 @@
    ],
    "french": false,
    "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Developer",
+   "company": "9th Way Insignia",
+   "location": "United States - Remote",
+   "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
+   "note": "greenhouse",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer 9th way insignia united states - remote greenhouse servicenow greenhouse servicenow role fit canada / remote",
    "alternates": []
   },
   {
