@@ -1,41 +1,8 @@
 {
   "meta": {
-    "keyword": "multi",
-    "keywords": [
-      "servicenow",
-      "salesforce",
-      "vba",
-      "alteryx",
-      "full-stack",
-      "data",
-      "devops",
-      "python",
-      "it-reporting",
-      "itam"
-    ],
-    "location": "Toronto, ON",
-    "dateFilter": "month",
-    "scrapedAt": "2026-11-10T03:14:06.620Z",
-    "generatedAt": "2026-11-10T03:14:06.620Z",
-    "total": 5319,
-    "newThisScan": 738,
-    "retainedFromPrevious": 1569,
-    "sources": {
-      "smartrecruiters": 10,
-      "workday": 15,
-      "greenhouse": 16,
-      "lever": 1,
-      "ashby": 2,
-      "linkedin": 301,
-      "remoteok": 1,
-      "jobicy": 2,
-      "remotive": 4,
-      "adzuna": 386
-    },
-    "primaryCounts": {
-      "servicenow": 1071,
-      "salesforce": 1066
-    }
+    "total": 5326,
+    "scrapedAt": "2026-11-10T03:52:49.299314+00:00",
+    "generatedAt": "2026-11-10T03:52:49.299314+00:00"
   },
   "jobs": [
     {
@@ -94178,6 +94145,140 @@
       "workArrangement": "hybrid",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "sn:0c45565d77ad7324",
+      "source": "indeed",
+      "company": "BDO",
+      "title": "ServiceNow Functional Consultant",
+      "location": "Toronto, ON, Canada",
+      "url": "https://ca.indeed.com/q-servicenow-consultant-l-toronto,-on-jobs.html",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 84000,
+        "max": 128000,
+        "currency": "CAD",
+        "display": "$84K-$128K/yr"
+      },
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:52:49.299314+00:00",
+      "excerpt": "BDO ServiceNow Functional Consultant Toronto $84K-$128K/yr ability to work from anywhere in Canada Nov 9 2026",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "sf:76468bd1ad9272a9",
+      "source": "indeed",
+      "company": "CGI",
+      "title": "Senior Salesforce Platform Developer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://ca.indeed.com/q-salesforce-developer-l-ontario-jobs.html",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 80000,
+        "max": 130000,
+        "currency": "CAD",
+        "display": "$80K-$130K/yr"
+      },
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:52:49.299314+00:00",
+      "excerpt": "CGI Senior Salesforce Platform Developer Toronto $80K-$130K/yr scalable enterprise Salesforce solutions Nov 9",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:b9c5c69b8f71281d",
+      "source": "jobs.ca",
+      "company": "Versaterm",
+      "title": "Salesforce Administrator/Developer - 12 Month Contract",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://www.jobs.ca/salesforce",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:52:49.299314+00:00",
+      "excerpt": "Versaterm Salesforce Administrator/Developer 12 Month Contract Ottawa Nov 9",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:b9c5c69b8f71281d",
+      "source": "jobs.ca",
+      "company": "Ross Video",
+      "title": "Salesforce Administrator - CPQ Systems",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://www.jobs.ca/salesforce",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:52:49.299314+00:00",
+      "excerpt": "Ross Video Salesforce Administrator CPQ Systems Ottawa Job Req 2025-343 Nov 9",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:14f353e8c82b1ba1",
+      "source": "indeed",
+      "company": "Moneris Solutions",
+      "title": "Salesforce Developer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://ca.indeed.com/q-salesforce-junior-developer-jobs.html",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 85000,
+        "max": 119000,
+        "currency": "CAD",
+        "display": "$85K-$119K/yr"
+      },
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:52:49.299314+00:00",
+      "excerpt": "Moneris Solutions Salesforce Developer Toronto $85K-$119K/yr Nov 9",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sf:b9c5c69b8f71281d",
+      "source": "jobs.ca",
+      "company": "Fresh Tracks Canada",
+      "title": "Salesforce Developer and Administrator",
+      "location": "Vancouver, BC, Canada",
+      "url": "https://www.jobs.ca/salesforce",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:52:49.299314+00:00",
+      "excerpt": "Fresh Tracks Canada Salesforce Developer and Administrator Vancouver 12 month term with potential to extend Nov 9",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "sn:300ba58068ca0c74",
+      "source": "servicenow",
+      "company": "ServiceNow Careers",
+      "title": "Senior CRM Account Executive",
+      "location": "Toronto, ON, Canada",
+      "url": "https://careers.servicenow.com/jobs/744000160712809/senior-crm-account-executive/",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-09T00:00:00.000Z",
+      "scrapedAt": "2026-11-10T03:52:49.299314+00:00",
+      "excerpt": "ServiceNow Senior CRM Account Executive Toronto Flexible or Remote November 09 2026 JB0077108",
+      "workArrangement": "flexible",
+      "tags": [
+        "servicenow"
       ]
     }
   ]
