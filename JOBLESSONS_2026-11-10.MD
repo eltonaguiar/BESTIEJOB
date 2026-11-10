@@ -486,3 +486,49 @@ Ran after the 16:00 EST cycle (HEAD 9869781 "chore(jobs): fresh CA sweep 2026-11
 - `public/index.html` + `public/jobs-data.json` — rebuilt via `tools/build_site.py` (GitHub Pages).
 - `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
 - `jobs.json` — unchanged (5,083 feed rows; the 3 merged postings are already present in the feed).
+
+
+## 18:00 EST cycle (2026-11-10) — hourly scan (local pipeline run, no push)
+
+Ran the full local pipeline: `node scripts/daily_job_scan.mjs` → `tools/verify_links.py --days 2` → `tools/build_site.py`. jobs.json baseline on disk was 5,083 rows (HEAD 1dd3dbe); README tables 5,820 live postings (ServiceNow 746 · Salesforce 965 · Other 4,109; window 2026-10-11 → 2026-11-10).
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-10 18:00 EST (23:01:47 UTC) |
+| Fresh postings from scan | 683 across 10 sources |
+| jobs.json merged total | 2,360 (ServiceNow 1,093 · Salesforce 1,097) |
+| verify_links --days 2 | probed 107 fresh rows; live=32, dead=1, unknown=74; dropped 1 dead (BMO via Procom Senior Salesforce Developer — 410/filled); kept 2,359 |
+| build_site.py | 4,821 jobs indexed (SN 780 · SF 853 · Other 3,188); 735 duplicate mirrors collapsed; 39 applied hidden; newest 2026-11-10 |
+
+### Sources checked
+- **daily_job_scan.mjs** — Adzuna 393 · LinkedIn 241 (guest API, HTTP 429 throttled but still returned cards) · Greenhouse 16 · Workday 14 · SmartRecruiters 10 (ServiceNow careers) · Remotive 4 · Ashby 2 · Lever 1 · RemoteOK 1 · Jobicy 1.
+- **web_search (named employers/partners):** Bell (jobs.bell.ca), Rogers (jobs.rogers.com), Scotiabank (jobs.scotiabank.com), BMO, KPMG, CGI, Accenture, Slalom, Altus Group, ServiceNow Careers, plus Government of Canada (jobs.gc.ca / canada.ca) and Ontario gojobs.gov.on.ca.
+
+### Candidates reviewed (partner / employer / Canadian tech)
+- **Bell (jobs.bell.ca):** ServiceNow Developer / Integrator 431695 — 410/filled; ServiceNow System Administrator 432824 — filled; Senior Manager ServiceNow Platform Delivery 432892 — no longer accepting applicants; ServiceNow Senior Technical Advisor 432829 — apply-by 11/02/2026 expired. Skip-on-sight holds; never re-probe filled/expired roles as live.
+- **Rogers (jobs.rogers.com):** Platform Specialist Toronto — VMware/NetApp infra role; ServiceNow mentioned only for incident tickets, not a core SN/SF platform posting. Excluded by title rule.
+- **Scotiabank (jobs.scotiabank.com):** ServiceNow Administrator Specialist Toronto — fresh (11-09), already swept.
+- **BMO:** ServiceNow SAM Administrator - ITAM Toronto (LinkedIn 4487066764) — already swept by Workday.
+- **KPMG Canada:** ServiceNow Consultant / Senior Consultant Developer (ITAM/ITOM) — Toronto, Halifax, Ottawa, Calgary — mid/senior, existing vacancies, already captured or not fresh.
+- **CGI:** Analyste Service Now (Drummondville / Sherbrooke / Montreal); CMDB N3 (Commission de la construction du Québec).
+- **Accenture:** ServiceNow HAM Consultant (Canada, full-time); ServiceNow Technical Architect (Toronto).
+- **ServiceNow Careers Ontario:** Staff Site Reliability Engineer Canada Protected B (Toronto, 11-10); today's other postings are sales roles (Senior CRM Account Executive, Sales Director - CRM Sales) — title-rule excluded.
+- **Slalom:** Salesforce Revenue Cloud Solution Architect Toronto — 7+ yrs, not entry-level.
+- **Altus Group:** Salesforce Platform Developer Toronto (PD1/PD2) — posted 10-30 / 11-05, not freshest.
+
+### Result
+Zero new merges pushed to origin/main.
+
+**Why no push:** while this cycle ran, origin/main advanced to `eb3ecca` — "hourly scan refresh (5370 listings, 2026-11-10T23:11:21Z)" = 18:11 EST — which is fresher than this 18:01 EST scan. Pushing this cycle's older jobs.json would regress the board, so the local commit was not pushed; local main was reset to origin/main (`eb3ecca`). The live board https://eltonaguiar.github.io/BESTIEJOB/ already serves `eb3ecca`'s build — today's postings are live.
+
+### Patterns / lessons confirmed
+1. **The remote hourly automation outpaced this manual scan** (eb3ecca at 18:11 EST vs this run at 18:01 EST). A manual push of older data would regress the board — align local to origin/main instead of force-pushing; the board self-deploys fresh on each main push.
+2. **verify_links.py --days 2 gates fresh rows before build:** dropped 1 dead row (BMO via Procom, 410/filled); kept 2,359. Standing rule: only 404/410/451 count as dead — 403/429/5xx are bot-walls on live postings and are kept.
+3. **Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto remains scarce** — none fresh this hour; keep "Associate Salesforce Administrator", "Platform Administrator", "Platform Developer I" as priority keywords.
+4. **Rogers / Bell / GC employer pages yield no fresh dated core SN/SF platform roles** — Bell skip-on-sight (filled/410/expired), Rogers infra-adjacent/marketing-ops, GC zero direct hits (GC platform work arrives via prime vendors on their own ATS, already sweep-covered).
+
+### Files touched
+- `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
+- `README.md` — no changes pushed (remote eb3ecca already fresher; local aligned to origin/main).
+- `jobs.json` — no changes pushed.
+- `public/` (GitHub Pages) — no changes pushed; no redeploy required (eb3ecca already deployed).
