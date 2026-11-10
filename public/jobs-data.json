@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-10T19:11:53+00:00",
+ "generatedAt": "2026-11-10T20:13:20+00:00",
  "timezone": "America/Toronto",
- "count": 4707,
+ "count": 4813,
  "appliedHidden": 39,
  "sources": [
   "103.careerplug.com",
@@ -642,13 +642,13 @@
    "posted": "2026-11-10",
    "title": "Salesforce Solution Architect",
    "company": "Cognizant",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5960555239",
-   "note": "adzuna",
+   "location": "Toronto, ON-199 Bay Street, Ontario, Canada",
+   "url": "https://careers.cognizant.com/ca-en/jobs/00070590911/salesforce-solution-architect/",
+   "note": "cognizant",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -656,7 +656,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce solution architect cognizant toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "search": "salesforce solution architect cognizant toronto, on-199 bay street, ontario, canada careers.cognizant.com salesforce cognizant salesforce role fit toronto area",
    "alternates": [
     {
      "source": "Eluta",
@@ -711,6 +711,38 @@
    "french": false,
    "search": "salesforce architect cgi toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Senior Salesforce Developer",
+   "company": "Zodiac Solutions, Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zodiac-solutions-inc-4487827104",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer zodiac solutions, inc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zodiac-solutions-inc-4484397587",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zodiac-solutions-inc-4484381234",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-10",
@@ -1038,6 +1070,27 @@
    ],
    "french": false,
    "search": "associate salesforce administrator jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Analyste d’affaires Salesforce",
+   "company": "LGS, an IBM Company",
+   "location": "Ville-Marie, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-lgs-an-ibm-company-4489620997",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste d’affaires salesforce lgs, an ibm company ville-marie, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -1423,6 +1476,78 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Principal Applied AI Architect",
+   "company": "Salesforce Partner Canada",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/principal-applied-ai-architect-at-salesforce-partner-canada-4489432977",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 36,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "principal applied ai architect salesforce partner canada montreal, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/principal-applied-ai-architect-at-salesforce-4487983795",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/principal-applied-ai-architect-at-salesforce-4487978961",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Partner Sales - Canada",
+   "company": "Salesforce",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/partner-sales-canada-at-salesforce-4481519206",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "partner sales - canada salesforce toronto, ontario, canada linkedin salesforce readme salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Senior Software Engineering Specialist",
+   "company": "Mackenzie Investments",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-software-engineering-specialist-at-mackenzie-investments-4489601589",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior software engineering specialist mackenzie investments greater toronto area, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Full Stack Engineer - (React/Node)",
    "company": "Parent Organization",
    "location": "Toronto, Ontario",
@@ -1465,6 +1590,26 @@
    ],
    "french": false,
    "search": "senior site reliability engineer - batch management simcorp toronto, ontario, canada linkedin other linkedin role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Disability & Leave Management Specialist",
+   "company": "Westland Insurance Group Ltd.",
+   "location": "Surrey, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/disability-leave-management-specialist-at-westland-insurance-group-ltd-4478299778",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "disability & leave management specialist westland insurance group ltd. surrey, british columbia, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -2198,6 +2343,11 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-strong-automation-studio-email-studio-and-ampscript-at-smart-it-frame-llc-4486375688",
+     "label": "LinkedIn · Ontario"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-strong-automation-studio-email-studio-and-ampscript-at-smart-it-frame-llc-4486057050",
      "label": "LinkedIn · Ontario"
     },
@@ -2452,27 +2602,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Salesforce Revenue Cloud Architect",
-   "company": "LanceSoft, Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-lancesoft-inc-4487953893",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce revenue cloud architect lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Salesforce Revenue Cloud Developer",
    "company": "Apptoza Inc.",
    "location": "Toronto, Ontario, Canada",
@@ -2490,6 +2619,27 @@
    ],
    "french": false,
    "search": "salesforce revenue cloud developer apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Revenue Cloud Architect",
+   "company": "LanceSoft, Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-lancesoft-inc-4487953893",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud architect lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -3456,6 +3606,26 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Manager, Change Management",
+   "company": "Canada Life",
+   "location": "London, ON, CA",
+   "url": "https://jobs.canadalife.com/job/London-Manager,-Change-Management-ON/1423587733",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 34,
+   "matchReasons": [
+    "ITSM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "manager, change management canada life london, on, ca jobs.ca other readme itsm role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Information Security Specialist - CISA, GRC",
    "company": "Global Technical Talent, an Inc. 5000 Company",
    "location": "Toronto, Ontario, Canada",
@@ -4203,6 +4373,11 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385092637",
      "label": "LinkedIn · Ottawa"
     },
@@ -4417,7 +4592,13 @@
    ],
    "french": false,
    "search": "2027 programme des diplomes, services technologiques - livraison, excellence et architecture bell toronto, ontario, canada linkedin other readme role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/2027-programme-des-dipl%C3%B4m%C3%A9s-services-technologiques-livraison-excellence-et-architecture-at-bell-4469263720",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -4977,6 +5158,11 @@
     },
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453720592",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451247899",
      "label": "LinkedIn · Toronto"
     },
@@ -4987,13 +5173,13 @@
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453726579",
-     "label": "LinkedIn · Vaughan"
+     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451251906",
+     "label": "LinkedIn · Markham"
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451251906",
-     "label": "LinkedIn · Markham"
+     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453726579",
+     "label": "LinkedIn · Vaughan"
     }
    ]
   },
@@ -8794,9 +8980,9 @@
    "posted": "2026-11-07",
    "title": "Sr. Integration Developer",
    "company": "McKesson",
-   "location": "Mississauga, ON",
-   "url": "https://ca.linkedin.com/jobs/view/sr-integration-developer-at-mckesson-4480816427",
-   "note": "readme",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-integration-developer-at-mckesson-4480818258",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -8808,8 +8994,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "sr. integration developer mckesson mississauga, on linkedin other readme integration role fit toronto area",
-   "alternates": []
+   "search": "sr. integration developer mckesson mississauga, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md integration role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-integration-developer-at-mckesson-4480816427",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
   },
   {
    "posted": "2026-11-07",
@@ -8851,6 +9043,26 @@
    ],
    "french": false,
    "search": "mulesoft integration developer experis calgary, alberta, canada linkedin other readme integration role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Senior Director, Controllership & Operations Transformation",
+   "company": "Salesforce",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-director-controllership-operations-transformation-at-salesforce-4462884780",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior director, controllership & operations transformation salesforce toronto, ontario, canada linkedin salesforce readme salesforce toronto area",
    "alternates": []
   },
   {
@@ -12592,6 +12804,11 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5955424730?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-integration-developer-at-klick-4486755472",
+     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -12839,6 +13056,27 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "AVP HR Service Delivery & Technology",
+   "company": "Mackenzie Investments",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/avp-hr-service-delivery-technology-at-mackenzie-investments-4488430748",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "HRSD / VA",
+    "IT operations",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "avp hr service delivery & technology mackenzie investments greater toronto area, canada linkedin other readme hrsd / va it operations toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Senior Business Analyst (Remote)",
    "company": "JLL",
    "location": "Toronto, ON",
@@ -12988,6 +13226,27 @@
    ],
    "french": false,
    "search": "azure data engineer / business analyst tata consultancy services toronto, on linkedin other readme consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Analyst, Vulnerability Management (Cybersecurity)",
+   "company": "Dollarama",
+   "location": "Mont-Royal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyst-vulnerability-management-cybersecurity-at-dollarama-4479138393",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 30,
+   "matchReasons": [
+    "Risk/GRC",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyst, vulnerability management (cybersecurity) dollarama mont-royal, quebec, canada linkedin other readme risk/grc role fit canada / remote",
    "alternates": []
   },
   {
@@ -13648,6 +13907,26 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Senior Analyst, Technology Risk and Controls",
+   "company": "Canada Life",
+   "location": "Toronto, ON, CA",
+   "url": "https://jobs.canadalife.com/job/Toronto-Senior-Analyst%2C-Technology-Risk-and-Controls-ON/1443495333",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior analyst, technology risk and controls canada life toronto, on, ca jobs.ca other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Senior Analyst, Business Intelligence -",
    "company": "Allstate Canada",
    "location": "Toronto, ON",
@@ -14000,6 +14279,32 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Digital Product Manager - CRM and Partnerships",
+   "company": "Sunlife",
+   "location": "Kitchener, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/digital-product-manager-crm-and-partnerships-at-sunlife-4486943253",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "digital product manager - crm and partnerships sunlife kitchener, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/digital-product-manager-crm-and-partnerships-at-sunlife-4486938248",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Developer",
    "company": "Capco",
    "location": "Toronto, ON",
@@ -14308,6 +14613,26 @@
    ],
    "french": false,
    "search": "analyst, business intelligence allstate canada toronto, on linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Administrateur(trice) applicatif(ve) (PowerBI/MS Fabric)",
+   "company": "CGI",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/administrateur-trice-applicatif-ve-powerbi-ms-fabric-at-cgi-4480312346",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Data/reporting",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "administrateur(trice) applicatif(ve) (powerbi/ms fabric) cgi quebec, quebec, canada linkedin other readme data/reporting canada / remote",
    "alternates": []
   },
   {
@@ -15055,6 +15380,46 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Conseiller(ère) en architecture de solutions principal",
+   "company": "CGI",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-en-architecture-de-solutions-principal-at-cgi-4480142566",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "conseiller(ere) en architecture de solutions principal cgi quebec, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "CRM Support Administrator - Temporary",
+   "company": "Air Canada",
+   "location": "Dorval, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/crm-support-administrator-temporary-at-air-canada-4486274959",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "crm support administrator - temporary air canada dorval, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
    "title": "CCaaS Tech Lead - Amazon Connect",
    "company": "Accenture",
    "location": "Vancouver, British Columbia, Canada",
@@ -15074,10 +15439,112 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-tech-lead-amazon-connect-at-accenture-4444014127",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/ccaas-tech-lead-amazon-connect-at-accenture-4443891409",
      "label": "LinkedIn · Ottawa"
     }
    ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "CCaaS Solution Architect - Amazon Connect",
+   "company": "Accenture",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/ccaas-solution-architect-amazon-connect-at-accenture-4486964092",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "ccaas solution architect - amazon connect accenture montreal, quebec, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-solution-architect-amazon-connect-at-accenture-4486955215",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-solution-architect-amazon-connect-at-accenture-4445415075",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-solution-architect-amazon-connect-at-accenture-4445409111",
+     "label": "LinkedIn · Calgary"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "CCaaS Delivery Lead",
+   "company": "Accenture",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/ccaas-delivery-lead-at-accenture-4451004014",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "ccaas delivery lead accenture vancouver, british columbia, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-delivery-lead-at-accenture-4450799163",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-delivery-lead-at-accenture-4450787514",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-delivery-lead-at-accenture-4451001139",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-delivery-lead-at-accenture-4450792372",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Business Systems Senior Specialist",
+   "company": "BASF",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/business-systems-senior-specialist-at-basf-4486240988",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "business systems senior specialist basf calgary, alberta, canada linkedin other readme role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-06",
@@ -15097,6 +15564,46 @@
    ],
    "french": false,
    "search": "azure data engineer spait infotech canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Analyste-programmeur.euse Angular",
+   "company": "COFOMO",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-programmeur-euse-angular-at-cofomo-4488417030",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste-programmeur.euse angular cofomo quebec, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Analyste, Gestion des vulnérabilités (cybersécurité)",
+   "company": "Dollarama",
+   "location": "Mont-Royal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-gestion-des-vuln%C3%A9rabilit%C3%A9s-cybers%C3%A9curit%C3%A9-at-dollarama-4479148052",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste, gestion des vulnerabilites (cybersecurite) dollarama mont-royal, quebec, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -15259,6 +15766,25 @@
      "label": "LinkedIn · Montreal"
     }
    ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Commercial Sales Development Representative",
+   "company": "OpenText",
+   "location": "Waterloo, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/commercial-sales-development-representative-at-opentext-4477340400",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "commercial sales development representative opentext waterloo, ontario, canada linkedin other readme toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-06",
@@ -15764,28 +16290,115 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "CCaaS Solution Architect - Amazon Connect",
-   "company": "Accenture",
-   "location": "Vancouver, BC",
-   "url": "https://ca.linkedin.com/jobs/view/ccaas-solution-architect-amazon-connect-at-accenture-4445415075",
-   "note": "via buffy--2026-11-08--v8.md",
+   "title": "Customer Happiness Ambassador",
+   "company": "Cozey",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/customer-happiness-ambassador-at-cozey-4486461644",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
    "verified": "Aggregator",
    "match": 8,
    "matchReasons": [
-    "Role fit"
+    "Canada / remote"
    ],
    "french": false,
-   "search": "ccaas solution architect - amazon connect accenture vancouver, bc linkedin other via buffy--2026-11-08--v8.md role fit",
+   "search": "customer happiness ambassador cozey canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Carrière en Technologies de l'information",
+   "company": "Beneva",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/carri%C3%A8re-en-technologies-de-l-information-at-beneva-4207338873",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "carriere en technologies de l'information beneva quebec, quebec, canada linkedin other readme canada / remote",
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/ccaas-solution-architect-amazon-connect-at-accenture-4445409111",
-     "label": "LinkedIn · Calgary"
+     "url": "https://ca.linkedin.com/jobs/view/carri%C3%A8re-en-technologies-de-l-information-at-beneva-4207343464",
+     "label": "LinkedIn · Chicoutimi"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/carri%C3%A8re-en-technologies-de-l-information-at-beneva-4207339782",
+     "label": "LinkedIn · Montreal"
     }
    ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Ambassadeur.rice du bonheur client",
+   "company": "Cozey",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/ambassadeur-rice-du-bonheur-client-at-cozey-4486460843",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "ambassadeur.rice du bonheur client cozey canada linkedin other readme canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ambassadeur-rice-du-bonheur-client-at-cozey-4486460994",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Administrative Assistant III",
+   "company": "Robertson & Company Ltd.",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/administrative-assistant-iii-at-robertson-company-ltd-4486993859",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "administrative assistant iii robertson & company ltd. quebec, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Administrateur du soutien CRM - Temporaire",
+   "company": "Air Canada",
+   "location": "Dorval, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/administrateur-du-soutien-crm-temporaire-at-air-canada-4486288630",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "administrateur du soutien crm - temporaire air canada dorval, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-06",
@@ -17078,6 +17691,11 @@
    "french": false,
    "search": "salesforce bsa cognizant toronto, on careers.cognizant.com salesforce indeed salesforce toronto area",
    "alternates": [
+    {
+     "source": "careers.cognizant.com",
+     "url": "https://careers.cognizant.com/us-en/jobs/00071172332/salesforce-bsa/",
+     "label": "careers.cognizant.com · Toronto"
+    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5953986381",
@@ -18549,6 +19167,26 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Technical Support Engineer",
+   "company": "Luxoft",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technical-support-engineer-at-luxoft-4487768900",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "technical support engineer luxoft toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Technical Architect",
    "company": "TechDoQuest",
    "location": "Toronto, Ontario",
@@ -18572,6 +19210,26 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Team Lead, Digital Services Support (East)",
+   "company": "Bird Construction",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/team-lead-digital-services-support-east-at-bird-construction-4461266016",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "team lead, digital services support (east) bird construction mississauga, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -18615,6 +19273,26 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Sr. Workforce Intelligence Analyst",
+   "company": "McKesson",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-workforce-intelligence-analyst-at-mckesson-4488021006",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. workforce intelligence analyst mckesson mississauga, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Sr. IT System Administrator",
    "company": "Propel Holdings",
    "location": "Toronto, ON",
@@ -18631,6 +19309,26 @@
    ],
    "french": false,
    "search": "sr. it system administrator propel holdings toronto, on linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Spécialiste de la mise en œuvre de stratégies de transformation numérique",
+   "company": "Accenture",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-de-la-mise-en-%C5%93uvre-de-strat%C3%A9gies-de-transformation-num%C3%A9rique-at-accenture-4486922601",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "specialiste de la mise en œuvre de strategies de transformation numerique accenture toronto, ontario, canada linkedin other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -18916,6 +19614,11 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5953405716?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Commerce Court"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/security-analyst-at-toronto-parking-authority-4487555235",
+     "label": "LinkedIn · Ontario"
     }
    ]
   },
@@ -18963,6 +19666,26 @@
    ],
    "french": false,
    "search": "scada engineer northland power toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Project Manager – Software Implementation (Health & Welfare)",
+   "company": "TELUS Health",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-software-implementation-health-welfare-at-telus-health-4434776535",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "project manager – software implementation (health & welfare) telus health toronto, ontario, canada linkedin other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -19510,6 +20233,26 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Cybersecurity Controls Testing Analyst, Deloitte Global Technology",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/cybersecurity-controls-testing-analyst-deloitte-global-technology-at-deloitte-4470949409",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "cybersecurity controls testing analyst, deloitte global technology deloitte toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Condominium Manager",
    "company": "Melbourne Property Management Inc.",
    "location": "Toronto, Ontario",
@@ -19527,6 +20270,57 @@
    "french": false,
    "search": "condominium manager melbourne property management inc. toronto, ontario adzuna other readme role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Compliance & Security Specialist",
+   "company": "Canadian Tire Corporation",
+   "location": "Oakville, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/compliance-security-specialist-at-canadian-tire-corporation-4488036250",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "compliance & security specialist canadian tire corporation oakville, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "CCaaS Engineer",
+   "company": "Accenture",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/ccaas-engineer-at-accenture-4461919779",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "ccaas engineer accenture toronto, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-engineer-at-accenture-4461920716",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-engineer-at-accenture-4461930148",
+     "label": "LinkedIn · Calgary"
+    }
+   ]
   },
   {
    "posted": "2026-11-05",
@@ -19727,6 +20521,32 @@
    "french": false,
    "search": "analyst, databases reliance home comfort north york, on linkedin other readme role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Access Governance Specialist",
+   "company": "Sunlife",
+   "location": "Waterloo, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/access-governance-specialist-at-sunlife-4478471971",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "access governance specialist sunlife waterloo, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/access-governance-specialist-at-sunlife-4478486391",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-05",
@@ -20000,6 +20820,26 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Principal SAP Security Analyst",
+   "company": "Studios Wizards of the Coast",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/principal-sap-security-analyst-at-studios-wizards-of-the-coast-4461240387",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "principal sap security analyst studios wizards of the coast montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Manager, Sales Operations",
    "company": "Jobgether",
    "location": "Canada",
@@ -20119,6 +20959,16 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-tech-consultant-amazon-connect-at-accenture-4455496437",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/ccaas-tech-consultant-amazon-connect-at-accenture-4455610284",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/ccaas-tech-consultant-amazon-connect-at-accenture-4455609260",
      "label": "LinkedIn · Calgary"
     },
@@ -20128,6 +20978,26 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Application Analyst – Intermediate",
+   "company": "Swim Recruiting",
+   "location": "Edmonton, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/application-analyst-%E2%80%93-intermediate-at-swim-recruiting-4486792149",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "application analyst – intermediate swim recruiting edmonton, alberta, canada linkedin other readme role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -20265,6 +21135,36 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Shopify Practice Director",
+   "company": "Valtech",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/shopify-practice-director-at-valtech-4440801850",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "shopify practice director valtech toronto, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/shopify-practice-director-at-valtech-4440809583",
+     "label": "LinkedIn · Canada"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/shopify-practice-director-at-valtech-4435308045",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Senior IT Systems Eng",
    "company": "Cognichip",
    "location": "Toronto, Ontario",
@@ -20304,6 +21204,31 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Responsable du développement natif à l’infonuagique - Centre de réinvention",
+   "company": "Accenture",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/responsable-du-d%C3%A9veloppement-natif-%C3%A0-l%E2%80%99infonuagique-centre-de-r%C3%A9invention-at-accenture-4477103401",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "responsable du developpement natif a l’infonuagique - centre de reinvention accenture mississauga, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/responsable-du-d%C3%A9veloppement-natif-%C3%A0-l%E2%80%99infonuagique-centre-de-r%C3%A9invention-at-accenture-4477110091",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Receptionist/Administrative Assistant and Conference Floor Concierge (TNO)",
    "company": "KPMG",
    "location": "Toronto, Ontario",
@@ -20319,6 +21244,25 @@
    ],
    "french": false,
    "search": "receptionist/administrative assistant and conference floor concierge (tno) kpmg toronto, ontario adzuna other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "People AI Solutions Designer",
+   "company": "McKesson",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/people-ai-solutions-designer-at-mckesson-4488020005",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "people ai solutions designer mckesson mississauga, ontario, canada linkedin other readme toronto area",
    "alternates": []
   },
   {
@@ -20477,6 +21421,11 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5952812873?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Canada"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/director-it-sourcing-at-manulife-4485752313",
+     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -20555,6 +21504,25 @@
    ],
    "french": false,
    "search": "desktop support technician cgi canada adzuna other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Stagiaire IT - Aéroport de Montréal",
+   "company": "Equans Services Canada & US",
+   "location": "Dorval, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/stagiaire-it-a%C3%A9roport-de-montr%C3%A9al-at-equans-services-canada-us-4486908279",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "stagiaire it - aeroport de montreal equans services canada & us dorval, quebec, canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -20641,25 +21609,6 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "Responsable du développement natif à l’infonuagique - Centre de réinvention",
-   "company": "Accenture",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/responsable-du-d%C3%A9veloppement-natif-%C3%A0-l%E2%80%99infonuagique-centre-de-r%C3%A9invention-at-accenture-4477110091",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "responsable du developpement natif a l’infonuagique - centre de reinvention accenture montreal, quebec, canada linkedin other readme canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
    "title": "Responsable du développement Curam",
    "company": "Accenture",
    "location": "Vancouver, British Columbia, Canada",
@@ -20725,6 +21674,25 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Resource Coordinator ( Fort McMurray)",
+   "company": "Easter Seals Alberta",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/resource-coordinator-fort-mcmurray-at-easter-seals-alberta-4488061728",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "resource coordinator ( fort mcmurray) easter seals alberta calgary, alberta, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Platform Data Engineer",
    "company": "360insights",
    "location": "Whitby, ON",
@@ -20782,6 +21750,50 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Internship, IT sector, Fall 2026",
+   "company": "Desjardins",
+   "location": "Lévis, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/internship-it-sector-fall-2026-at-desjardins-4459286158",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "internship, it sector, fall 2026 desjardins levis, quebec, canada linkedin other readme canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/internship-it-sector-fall-2026-at-desjardins-4459285185",
+     "label": "LinkedIn · Montréal-Ouest"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Ingénieur(e) Analytics Sénior",
+   "company": "Lightspeed Commerce",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/ing%C3%A9nieur-e-analytics-s%C3%A9nior-at-lightspeed-commerce-4459553767",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "ingenieur(e) analytics senior lightspeed commerce montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Infrastructure Operations Specialist",
    "company": "Meridian Credit Union",
    "location": "St. Catharines, ON",
@@ -20797,6 +21809,25 @@
    ],
    "french": false,
    "search": "infrastructure operations specialist meridian credit union st. catharines, on linkedin other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Développeur.euse concepteur.trice -Full stack",
+   "company": "Ville de Montréal",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-concepteur-trice-full-stack-at-ville-de-montr%C3%A9al-4487598942",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur.euse concepteur.trice -full stack ville de montreal montreal, quebec, canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -20839,6 +21870,50 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Director, Delivery CX AI",
+   "company": "TELUS Digital",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/director-delivery-cx-ai-at-telus-digital-4478818555",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "director, delivery cx ai telus digital calgary, alberta, canada linkedin other readme canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/director-delivery-cx-ai-at-telus-digital-4478828037",
+     "label": "LinkedIn · Calgary"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Director of Revenue Operations",
+   "company": "Otodata Industrial Gas",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/director-of-revenue-operations-at-otodata-industrial-gas-4486766206",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "director of revenue operations otodata industrial gas montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Deal Desk Specialist",
    "company": "Assent",
    "location": "Ottawa, Ottawa region",
@@ -20859,33 +21934,57 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5953992235?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/deal-desk-specialist-at-assent-4486517273",
+     "label": "LinkedIn · Ottawa"
     }
    ]
   },
   {
    "posted": "2026-11-05",
-   "title": "CCaaS Engineer",
-   "company": "Accenture",
-   "location": "Vancouver, BC",
-   "url": "https://ca.linkedin.com/jobs/view/ccaas-engineer-at-accenture-4461920716",
-   "note": "via buffy--2026-11-08--v8.md",
+   "title": "Conseiller(ère) - CRM, Services financiers",
+   "company": "Deloitte",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-crm-services-financiers-at-deloitte-4469401331",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
    "verified": "Aggregator",
    "match": 8,
    "matchReasons": [
-    "Role fit"
+    "Canada / remote"
    ],
-   "french": false,
-   "search": "ccaas engineer accenture vancouver, bc linkedin other via buffy--2026-11-08--v8.md role fit",
+   "french": true,
+   "search": "conseiller(ere) - crm, services financiers deloitte montreal, quebec, canada linkedin other readme canada / remote",
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/ccaas-engineer-at-accenture-4461930148",
-     "label": "LinkedIn · Calgary"
+     "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-crm-services-financiers-at-deloitte-4469093644",
+     "label": "LinkedIn · Ottawa"
     }
    ]
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Chef, Capacités d'excellence de l'équipe sur le terrain",
+   "company": "AbbVie",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/chef-capacit%C3%A9s-d-excellence-de-l-%C3%A9quipe-sur-le-terrain-at-abbvie-4486924038",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "chef, capacites d'excellence de l'equipe sur le terrain abbvie montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-05",
@@ -20942,7 +22041,13 @@
    ],
    "french": false,
    "search": "adobe cdp architect epsilon solutions ltd. greater vancouver, british columbia adzuna other readme role fit",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/adobe-cdp-architect-at-epsilon-solutions-ltd-4486446089",
+     "label": "LinkedIn · Vancouver"
+    }
+   ]
   },
   {
    "posted": "2026-11-05",
@@ -25001,7 +26106,7 @@
    "title": "Salesforce Data Cloud Developer",
    "company": "Cognizant",
    "location": "Toronto, Ontario, Canada",
-   "url": "https://careers.cognizant.com/us-en/jobs/00070828312/salesforce-data-cloud-developer/",
+   "url": "https://careers.cognizant.com/us-en/jobs/00070828311/salesforce-datacloud-developer/",
    "note": "cognizant",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -29546,6 +30651,33 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Analyst, End User Services & Service Desk Support",
+   "company": "Alberta Energy Regulator (AER)",
+   "location": "Edmonton, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyst-end-user-services-service-desk-support-at-alberta-energy-regulator-aer-4485521942",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 42,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyst, end user services & service desk support alberta energy regulator (aer) edmonton, alberta, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md itsm role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/analyst-end-user-services-service-desk-support-at-alberta-energy-regulator-aer-4485531656",
+     "label": "LinkedIn · Calgary"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Manager IT Service Management (ITSM)",
    "company": "Workplace Safety and Insurance Board",
    "location": "Canada",
@@ -29608,6 +30740,28 @@
    ],
    "french": false,
    "search": "director of production, content, monetization &amp; progression (apex legends) respawn entertainment greater vancouver metropolitan area linkedin salesforce readme salesforce",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Vulnerability Management Operations Analyst",
+   "company": "Axelon Services Corporation",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/vulnerability-management-operations-analyst-at-axelon-services-corporation-4486512286",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 40,
+   "matchReasons": [
+    "Risk/GRC",
+    "IT operations",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "vulnerability management operations analyst axelon services corporation montreal, quebec, canada linkedin other readme risk/grc it operations role fit canada / remote",
    "alternates": []
   },
   {
@@ -29739,6 +30893,26 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/canadian-public-sector-engagement-delivery-leader-at-salesforce-partner-canada-4486835665",
      "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/canadian-public-sector-engagement-delivery-leader-at-salesforce-4486491907",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/canadian-public-sector-engagement-delivery-leader-at-salesforce-4486497795",
+     "label": "LinkedIn · British Columbia"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/canadian-public-sector-engagement-delivery-leader-at-salesforce-4486493813",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/canadian-public-sector-engagement-delivery-leader-at-salesforce-4486803469",
+     "label": "LinkedIn · Ontario"
     }
    ]
   },
@@ -29806,9 +30980,9 @@
    "posted": "2026-11-04",
    "title": "WFS Integration Consultant / Consultant en intégration WFS",
    "company": "ADP",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/wfs-integration-consultant-consultant-en-int%C3%A9gration-wfs-at-adp-4485068190",
-   "note": "readme",
+   "location": "Burnaby, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/wfs-integration-consultant-consultant-en-int%C3%A9gration-wfs-at-adp-4485064332",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -29820,8 +30994,14 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "wfs integration consultant / consultant en integration wfs adp montreal, quebec, canada linkedin other readme integration role fit canada / remote",
-   "alternates": []
+   "search": "wfs integration consultant / consultant en integration wfs adp burnaby, british columbia, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md integration role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/wfs-integration-consultant-consultant-en-int%C3%A9gration-wfs-at-adp-4485068190",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -30083,9 +31263,9 @@
    "posted": "2026-11-04",
    "title": "Senior Business Analyst - People & HR Solutions",
    "company": "Co-operators",
-   "location": "Toronto, ON",
-   "url": "https://ca.linkedin.com/jobs/view/senior-business-analyst-people-hr-solutions-at-co-operators-4479042684",
-   "note": "readme",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-business-analyst-people-hr-solutions-at-co-operators-4479044517",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -30097,8 +31277,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior business analyst - people & hr solutions co-operators toronto, on linkedin other readme consulting/ba role fit toronto area",
-   "alternates": []
+   "search": "senior business analyst - people & hr solutions co-operators mississauga, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md consulting/ba role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-business-analyst-people-hr-solutions-at-co-operators-4479042684",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -30672,6 +31858,27 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "GTM Operations Analyst",
+   "company": "Benevity",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/gtm-operations-analyst-at-benevity-4486528999",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 26,
+   "matchReasons": [
+    "IT operations",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "gtm operations analyst benevity vancouver, british columbia, canada linkedin other readme it operations role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Data Business Analyst Lead",
    "company": "Jobgether",
    "location": "Canada",
@@ -31082,6 +32289,37 @@
    "french": false,
    "search": "systems testing/qa specialist cleo consulting regent park, city of toronto adzuna other readme role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Sr. IT Software Developer",
+   "company": "OpenText",
+   "location": "Waterloo, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-it-software-developer-at-opentext-4476498530",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. it software developer opentext waterloo, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-it-software-developer-at-opentext-4476489995",
+     "label": "LinkedIn · Richmond Hill"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-it-software-developer-at-opentext-4476602476",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -31511,6 +32749,26 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Senior Manager, Revenue Operations",
+   "company": "Solink",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-manager-revenue-operations-at-solink-4479089074",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior manager, revenue operations solink ottawa, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Senior Manager, HR Operations",
    "company": "Altus Group",
    "location": "Toronto, Ontario",
@@ -31527,7 +32785,13 @@
    ],
    "french": false,
    "search": "senior manager, hr operations altus group toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-manager-hr-operations-at-altus-group-4484618579",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -31951,6 +33215,26 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Senior Analyst - Security Operations and Assurance",
+   "company": "Brookfield",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-analyst-security-operations-and-assurance-at-brookfield-4469956718",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior analyst - security operations and assurance brookfield toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "SERVICE DESIGN CONSULTANT",
    "company": "City of Toronto",
    "location": "Toronto, ON",
@@ -32027,6 +33311,26 @@
    ],
    "french": false,
    "search": "release train engineer, deloitte global technology deloitte toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Regional Client Lead",
+   "company": "Accenture",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/regional-client-lead-at-accenture-4478181228",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "regional client lead accenture mississauga, ontario, canada linkedin other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -32237,6 +33541,26 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "People Insights Visier Platform Manager, Deloitte Global People",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/people-insights-visier-platform-manager-deloitte-global-people-at-deloitte-4468166165",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "people insights visier platform manager, deloitte global people deloitte toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Master Data Governance Lead Analyst",
    "company": "Zimmer Biomet",
    "location": "Mississauga, Peel region",
@@ -32383,6 +33707,26 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Junior Cybersecurity Analyst",
+   "company": "SkyAlyne",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/junior-cybersecurity-analyst%C2%A0%C2%A0-at-skyalyne-4486519988",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "junior cybersecurity analyst skyalyne ottawa, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Jira Administrator Job - Toronto, ON, Canada",
    "company": "Excelgens / IITJobs",
    "location": "Toronto, ON, Canada",
@@ -32399,6 +33743,26 @@
    ],
    "french": false,
    "search": "jira administrator job - toronto, on, canada excelgens / iitjobs toronto, on, canada iitjobs.com other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "IT - Info Security Analyst I",
+   "company": "Robertson & Company Ltd.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-info-security-analyst-i-at-robertson-company-ltd-4486516799",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "it - info security analyst i robertson & company ltd. toronto, ontario, canada linkedin other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -32479,26 +33843,6 @@
    ],
    "french": false,
    "search": "functional specialist , sap - mm & scs hitachi toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Forward Deployed AI Engineer - Senior Manager",
-   "company": "Accenture",
-   "location": "Toronto, ON",
-   "url": "https://ca.linkedin.com/jobs/view/forward-deployed-ai-engineer-senior-manager-at-accenture-4486375449",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "forward deployed ai engineer - senior manager accenture toronto, on linkedin other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -32762,6 +34106,57 @@
    ],
    "french": false,
    "search": "consultant, application development (payments) cibc toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Consultant - CRM Financial Services",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-crm-financial-services-at-deloitte-4470665301",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "consultant - crm financial services deloitte toronto, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-crm-financial-services-at-deloitte-4470648987",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938524566?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Conseiller principal ou conseillère principale/Directeur ou directrice, Architecture à vérification",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-directeur-ou-directrice-architecture-%C3%A0-v%C3%A9rification-at-deloitte-4486547329",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": true,
+   "search": "conseiller principal ou conseillere principale/directeur ou directrice, architecture a verification deloitte toronto, ontario, canada linkedin other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -33384,46 +34779,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "((Hiring) Senior Data Analyst @Laivly)(https://remotive.com/remote/jobs/data/senior-data-analyst-6427068)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://remotive.com/remote/jobs/data/senior-data-analyst-6427068",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "((hiring) senior data analyst @laivly)(https://remotive.com/remote/jobs/data/senior-data-analyst-6427068) unknown canada remotive.com other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "((Hiring) Senior Data Analyst @Ada)(https://remotive.com/remote/jobs/data/senior-data-analyst-3329010)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://remotive.com/remote/jobs/data/senior-data-analyst-3329010",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "((hiring) senior data analyst @ada)(https://remotive.com/remote/jobs/data/senior-data-analyst-3329010) unknown canada remotive.com other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Vendor Management Analyst, Tech+Lab",
    "company": "Intact",
    "location": "Montreal, Quebec, Canada",
@@ -33440,6 +34795,26 @@
    ],
    "french": false,
    "search": "vendor management analyst, tech+lab intact montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Technology Change Manager",
+   "company": "Airswift",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technology-change-manager-at-airswift-4485535249",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "technology change manager airswift calgary, alberta, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -33711,6 +35086,86 @@
    ],
    "french": false,
    "search": "senior business architect jobgether canada adzuna other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Senior Analytics Engineer",
+   "company": "Lightspeed Commerce",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-analytics-engineer-at-lightspeed-commerce-4459566513",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior analytics engineer lightspeed commerce montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Senior / Principal Security Operations Specialist",
+   "company": "TMC Canada",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-principal-security-operations-specialist-at-tmc-canada-4485520934",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior / principal security operations specialist tmc canada montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Security Engineering",
+   "company": "Epsilon Solutions Ltd.",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/security-engineering-at-epsilon-solutions-ltd-4487511280",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "security engineering epsilon solutions ltd. montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "SAP SuccessFactors Functional Analyst",
+   "company": "Pomerleau",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sap-successfactors-functional-analyst-at-pomerleau-4469990214",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "sap successfactors functional analyst pomerleau quebec, quebec, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -34175,6 +35630,32 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "IT - Senior Software Developer",
+   "company": "JAM Industries",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-senior-software-developer-at-jam-industries-4449832866",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "it - senior software developer jam industries montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940715422",
+     "label": "Adzuna · Montréal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
    "title": "IT & Security Manager / Administrator - Toronto On. - Dokainish & Company - Career Page",
    "company": "Toronto On. - Dokainish & Company - Career Page",
    "location": "Canada",
@@ -34312,6 +35793,37 @@
    "french": false,
    "search": "full stack .net developer solutions techso canada adzuna other readme role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Forward Deployed AI Engineer - Senior Manager",
+   "company": "Accenture",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/forward-deployed-ai-engineer-senior-manager-at-accenture-4486383007",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "forward deployed ai engineer - senior manager accenture calgary, alberta, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/forward-deployed-ai-engineer-senior-manager-at-accenture-4486370810",
+     "label": "LinkedIn · Ottawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/forward-deployed-ai-engineer-senior-manager-at-accenture-4486375449",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -34595,6 +36107,26 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Consultant Avant-Vente Technique - Hybride",
+   "company": "Canon Canada",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-avant-vente-technique-hybride-at-canon-canada-4487543665",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "consultant avant-vente technique - hybride canon canada quebec, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Business Systems Analyst Job at NTT DATA (Toronto)",
    "company": "NTT DATA (Toronto)",
    "location": "Canada",
@@ -34715,6 +36247,26 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Bilingual Automotive Fixed Ops Specialist - Training and Implementation",
+   "company": "PBS Systems",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/bilingual-automotive-fixed-ops-specialist-training-and-implementation-at-pbs-systems-4485065332",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "bilingual automotive fixed ops specialist - training and implementation pbs systems calgary, alberta, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "BUSINESS INTELLIGENCE ANALYST (HYBRID) Job in Green Shield Canada - Toronto, ON, CA",
    "company": "Toronto, ON, CA",
    "location": "Canada",
@@ -34775,6 +36327,63 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Analyste fonctionnel SAP SuccessFactors",
+   "company": "Pomerleau",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-fonctionnel-sap-successfactors-at-pomerleau-4470223563",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste fonctionnel sap successfactors pomerleau quebec, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/analyste-fonctionnel-sap-successfactors-at-pomerleau-4470226278",
+     "label": "LinkedIn · St-Georges"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/analyste-fonctionnel-sap-successfactors-at-pomerleau-4470223561",
+     "label": "LinkedIn · Montreal"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Analyste en sécurité applicative-FR",
+   "company": "Desjardins",
+   "location": "Montréal-Ouest, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-en-s%C3%A9curit%C3%A9-applicative-fr-at-desjardins-4486513326",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste en securite applicative-fr desjardins montreal-ouest, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/analyste-en-s%C3%A9curit%C3%A9-applicative-fr-at-desjardins-4486505443",
+     "label": "LinkedIn · Lévis"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Analyste en gestion des fournisseurs TI, Tech+Lab",
    "company": "Intact",
    "location": "Montreal, Quebec, Canada",
@@ -34791,6 +36400,46 @@
    ],
    "french": false,
    "search": "analyste en gestion des fournisseurs ti, tech+lab intact montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Analyste en exploitation bureautique – Intermédiaire",
+   "company": "SQUAD+ TECHNOLOGIES",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-en-exploitation-bureautique-%E2%80%93-interm%C3%A9diaire-at-squad%2B-technologies-4486319916",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste en exploitation bureautique – intermediaire squad+ technologies quebec, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Analyste en exploitation bureautique – Expert(e)",
+   "company": "SQUAD+ TECHNOLOGIES",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-en-exploitation-bureautique-%E2%80%93-expert-e-at-squad%2B-technologies-4486324672",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "analyste en exploitation bureautique – expert(e) squad+ technologies quebec, quebec, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -34851,6 +36500,46 @@
    ],
    "french": false,
    "search": "2027 graduate program, technology services - delivery, excellence & architecture bell montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "((Hiring) Senior Data Analyst @Laivly)(https://remotive.com/remote/jobs/data/senior-data-analyst-6427068)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remotive.com/remote/jobs/data/senior-data-analyst-6427068",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remotive.com",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "((hiring) senior data analyst @laivly)(https://remotive.com/remote/jobs/data/senior-data-analyst-6427068) unknown canada remotive.com other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "((Hiring) Senior Data Analyst @Ada)(https://remotive.com/remote/jobs/data/senior-data-analyst-3329010)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remotive.com/remote/jobs/data/senior-data-analyst-3329010",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remotive.com",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "((hiring) senior data analyst @ada)(https://remotive.com/remote/jobs/data/senior-data-analyst-3329010) unknown canada remotive.com other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -35196,6 +36885,70 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Ecommerce Coordinator",
+   "company": "fishRecruit Inc.",
+   "location": "North York, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/ecommerce-coordinator-at-fishrecruit-inc-4486385418",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "ecommerce coordinator fishrecruit inc. north york, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Director, Program Management",
+   "company": "The Salvation Army in Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/director-program-management-at-the-salvation-army-in-canada-4486539178",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "director, program management the salvation army in canada toronto, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/director-program-management-at-the-salvation-army-in-canada-4487520838",
+     "label": "LinkedIn · British Columbia"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/director-program-management-at-the-salvation-army-in-canada-4487538053",
+     "label": "LinkedIn · Nova Scotia"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/director-program-management-at-the-salvation-army-in-canada-4487532140",
+     "label": "LinkedIn · Alberta"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/director-program-management-at-the-salvation-army-in-canada-4487523673",
+     "label": "LinkedIn · Ontario"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/director-program-management-at-the-salvation-army-in-canada-4487534038",
+     "label": "LinkedIn · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Director Investment Research",
    "company": "Mackenzie Investments",
    "location": "Toronto, Ontario",
@@ -35240,6 +36993,25 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Deal Desk Coordinator",
+   "company": "Assent",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/deal-desk-coordinator-at-assent-4486506479",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "deal desk coordinator assent ottawa, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Data Valuation Analyst",
    "company": "Maarut",
    "location": "Montréal East, Montréal",
@@ -35281,6 +37053,25 @@
    ],
    "french": false,
    "search": "customer transformation senior associate – public sector pwc uk london, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Conseiller(ère) principal(e), CRM, Services financiers",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-crm-services-financiers-at-deloitte-4469063422",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": true,
+   "search": "conseiller(ere) principal(e), crm, services financiers deloitte toronto, ontario, canada linkedin other readme toronto area",
    "alternates": []
   },
   {
@@ -35563,25 +37354,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "((Hiring) Director of IT & Security @Xello)(https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773)",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "((hiring) director of it & security @xello)(https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773) unknown canada remotive.com other readme canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
    "title": "ZoomInfo Jobs: Senior Data Engineer",
    "company": "Greenhouse",
    "location": "Not specified",
@@ -35597,6 +37369,44 @@
    ],
    "french": false,
    "search": "zoominfo jobs: senior data engineer greenhouse not specified greenhouse other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Technicien - soutien administratif et systèmes de perception (assurance de dommages)",
+   "company": "Beneva",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technicien-soutien-administratif-et-syst%C3%A8mes-de-perception-assurance-de-dommages-at-beneva-4485516087",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "technicien - soutien administratif et systemes de perception (assurance de dommages) beneva quebec, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Technician, Product administration",
+   "company": "Desjardins",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technician-product-administration-at-desjardins-4485030745",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "technician, product administration desjardins quebec, quebec, canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -35673,7 +37483,13 @@
    ],
    "french": false,
    "search": "stage, secteur ti, hiver 2027-fr desjardins montreal-ouest, quebec, canada linkedin other readme canada / remote",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/stage-secteur-ti-hiver-2027-fr-at-desjardins-4460253637",
+     "label": "LinkedIn · Lévis"
+    }
+   ]
   },
   {
    "posted": "2026-11-04",
@@ -35734,31 +37550,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Sr. IT Software Developer",
-   "company": "OpenText",
-   "location": "Richmond Hill, ON",
-   "url": "https://ca.linkedin.com/jobs/view/sr-it-software-developer-at-opentext-4476489995",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "sr. it software developer opentext richmond hill, on linkedin other readme role fit",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/sr-it-software-developer-at-opentext-4476602476",
-     "label": "LinkedIn · Mississauga"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Sr. Full Stack Software Engineer – AI Agents",
    "company": "jobgether",
    "location": "US",
@@ -35793,6 +37584,25 @@
    ],
    "french": false,
    "search": "sr data analyst - supplier master data & business partner (sap) sky systems, inc. (skysys) qc linkedin other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Solutions Strategist",
+   "company": "Vaan - Shopify Platinum Agency",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solutions-strategist-at-vaan-shopify-platinum-agency-4468231219",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "solutions strategist vaan - shopify platinum agency canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -36054,6 +37864,25 @@
    ],
    "french": false,
    "search": "seasonal holiday team lead- tanger cookstown cherry hill programs canada cookstown, simcoe region adzuna other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Représentant(e) Soutien aux ventes",
+   "company": "EXFO",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/repr%C3%A9sentant-e-soutien-aux-ventes-at-exfo-4479216404",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "representant(e) soutien aux ventes exfo quebec, quebec, canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -36615,6 +38444,25 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Gestionnaire de compte et de la réussite client",
+   "company": "Mondata",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/gestionnaire-de-compte-et-de-la-r%C3%A9ussite-client-at-mondata-4475941555",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "gestionnaire de compte et de la reussite client mondata montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "GOAPRDJP00001051 - Sr. Application Developer I GOA- Remote",
    "company": "Analyst Technical Solutions",
    "location": "Fort Saskatchewan, Edmonton region",
@@ -36737,25 +38585,6 @@
    ],
    "french": false,
    "search": "erp training specialist (contract) startec calgary, calgary region adzuna other readme role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Director, Program Management",
-   "company": "The Salvation Army in Canada",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/director-program-management-at-the-salvation-army-in-canada-4487534038",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "director, program management the salvation army in canada canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -36914,6 +38743,44 @@
    ],
    "french": false,
    "search": "directive hiring director of it security (remote canada) in canada / linkedin linkedin canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Directeur(trice) de l’analytique marketing / Director of Marketing Analytics",
+   "company": "Manmade",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/directeur-trice-de-l%E2%80%99analytique-marketing-director-of-marketing-analytics-at-manmade-4487500089",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "directeur(trice) de l’analytique marketing / director of marketing analytics manmade montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Digital Merchandiser",
+   "company": "RW&CO",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/digital-merchandiser-at-rw-co-4487220484",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "digital merchandiser rw&co montreal, quebec, canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -37127,6 +38994,46 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "((Hiring) Director of IT & Security @Xello)(https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remotive.com",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "((hiring) director of it & security @xello)(https://remotive.com/remote/jobs/information-technology/director-of-it-security-5071773) unknown canada remotive.com other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Retail Development Specialist (12-Month Contract)",
+   "company": "Shiseido",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/retail-development-specialist-12-month-contract-at-shiseido-4486536099",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 7,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area",
+    "weak title match"
+   ],
+   "french": false,
+   "search": "retail development specialist (12-month contract) shiseido markham, ontario, canada linkedin other readme role fit toronto area weak title match",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Scientifique de données principal(e)// Senior Data Scientist- Travel Tech",
    "company": "Hopper",
    "location": "Montreal, QC",
@@ -37300,6 +39207,25 @@
      "label": "Adzuna · Canada"
     }
    ]
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "DIRECTEUR·TRICE B2B Ventes & développement des affaires",
+   "company": "Coco Village",
+   "location": "Greater Montreal Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/directeur%C2%B7trice-b2b-ventes-d%C3%A9veloppement-des-affaires-at-coco-village-4487528940",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 4,
+   "matchReasons": [
+    "Quebec"
+   ],
+   "french": false,
+   "search": "directeur·trice b2b ventes & developpement des affaires coco village greater montreal metropolitan area linkedin other readme quebec",
+   "alternates": []
   },
   {
    "posted": "2026-11-04",
@@ -43037,6 +44963,27 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "IT Service Management Manager – MSP Governance & Major Incident",
+   "company": "National Consultants Professionals Ltd",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-service-management-manager-%E2%80%93-msp-governance-major-incident-at-national-consultants-professionals-ltd-4487015738",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "it service management manager – msp governance & major incident national consultants professionals ltd toronto, ontario, canada linkedin other readme itsm role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Configuration Management Database (CMDB) Analyst",
    "company": "Softchoice",
    "location": "Toronto, ON",
@@ -43206,6 +45153,26 @@
    ],
    "french": false,
    "search": "senior technical architect, life sciences salesforce toronto, on builtin other builtin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Incident Coordinator",
+   "company": "University Health Network",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/incident-coordinator-at-university-health-network-4487001847",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 38,
+   "matchReasons": [
+    "ITSM",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "incident coordinator university health network toronto, ontario, canada linkedin other readme itsm toronto area",
    "alternates": []
   },
   {
@@ -43669,6 +45636,27 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Service Support Analyst",
+   "company": "PBS Systems",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/service-support-analyst-at-pbs-systems-4484631733",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 26,
+   "matchReasons": [
+    "IT operations",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "service support analyst pbs systems calgary, alberta, canada linkedin other readme it operations role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-03",
@@ -44381,6 +46369,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Project Manager - HR Business",
+   "company": "Manulife",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/project-manager-hr-business-at-manulife-4467185175",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "project manager - hr business manulife toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Project Manager",
    "company": "Hirematic Talent Solutions",
    "location": "Toronto, Ontario",
@@ -44587,6 +46595,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "GTM Engineer",
+   "company": "Poka Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/gtm-engineer-at-poka-inc-4486884896",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "gtm engineer poka inc. toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Erp Consultant",
    "company": "Aston Carter",
    "location": "Mississauga, Peel region",
@@ -44623,6 +46651,26 @@
    ],
    "french": false,
    "search": "erp data migration consultant aston carter mississauga, peel region adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "ECommerce Manager, DTC",
+   "company": "Dermalogica Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/ecommerce-manager-dtc-at-dermalogica-canada-4485024058",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "ecommerce manager, dtc dermalogica canada toronto, ontario, canada linkedin other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -45301,6 +47349,26 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Senior QA Developer",
+   "company": "AlgaeCal Inc.",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-qa-developer-at-algaecal-inc-4487045506",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior qa developer algaecal inc. vancouver, british columbia, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Senior Project Manager (Remote)",
    "company": "Talentuch",
    "location": "Canada",
@@ -45341,6 +47409,37 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Senior Business Architecture Advisor, Direct Distribution",
+   "company": "Maarut Inc",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-business-architecture-advisor-direct-distribution-at-maarut-inc-4487038553",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior business architecture advisor, direct distribution maarut inc montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5951678666",
+     "label": "Adzuna · Montréal East"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5950768384?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Montréal East"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Senior Azure Infrastructure Engineer",
    "company": "Jobgether",
    "location": "Canada",
@@ -45357,6 +47456,26 @@
    ],
    "french": false,
    "search": "senior azure infrastructure engineer jobgether canada adzuna other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior Applications Analyst",
+   "company": "McCarthy Tétrault",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-applications-analyst-at-mccarthy-t%C3%A9trault-4434064424",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior applications analyst mccarthy tetrault calgary, alberta, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -45403,6 +47522,26 @@
    ],
    "french": false,
    "search": "project manager jobgether canada adzuna other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Power Platform Lead",
+   "company": "Tata Consultancy Services",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/power-platform-lead-at-tata-consultancy-services-4486056244",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "power platform lead tata consultancy services calgary, alberta, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -45463,6 +47602,26 @@
    ],
    "french": false,
    "search": "learning technology specialist-en cae halifax, nova scotia, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "E-Commerce Growth & Operations Manager",
+   "company": "Building Products Manufacturer",
+   "location": "Surrey, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/e-commerce-growth-operations-manager-4486068107",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "e-commerce growth & operations manager building products manufacturer surrey, british columbia, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -45553,11 +47712,11 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Analyste fonctionnel SAP SuccessFactors",
-   "company": "Pomerleau",
-   "location": "St-Georges, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/analyste-fonctionnel-sap-successfactors-at-pomerleau-4470226278",
-   "note": "via inbox_opencode-job-hunt--2026-11-09--v12.md",
+   "title": "Analyste principal.e de la planification de l’approvisionnement",
+   "company": "Cozey",
+   "location": "Mont-Royal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-principal-e-de-la-planification-de-l%E2%80%99approvisionnement-at-cozey-4486453996",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -45568,14 +47727,8 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "analyste fonctionnel sap successfactors pomerleau st-georges, quebec, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v12.md role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/analyste-fonctionnel-sap-successfactors-at-pomerleau-4470223561",
-     "label": "LinkedIn · Montreal"
-    }
-   ]
+   "search": "analyste principal.e de la planification de l’approvisionnement cozey mont-royal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-03",
@@ -45691,6 +47844,25 @@
    ],
    "french": false,
    "search": "sr. cx strategist motorola solutions ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Senior Principal, Transformation Management",
+   "company": "Slalom",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-principal-transformation-management-at-slalom-4486086619",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior principal, transformation management slalom greater toronto area, canada linkedin other readme toronto area",
    "alternates": []
   },
   {
@@ -45858,6 +48030,65 @@
    ],
    "french": false,
    "search": "finance business & data analyst tekwissen llc westmount, montreal adzuna other readme role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Early Careers: Bilingual Analyst, Health Solutions",
+   "company": "Aon",
+   "location": "Greater Quebec City Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/early-careers-bilingual-analyst-health-solutions-at-aon-4486485519",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": true,
+   "search": "early careers: bilingual analyst, health solutions aon greater quebec city metropolitan area linkedin other readme role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "E-Commerce / Ecommerce Coordinator",
+   "company": "Bilingual Source",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/e-commerce-ecommerce-coordinator-at-bilingual-source-4486875665",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "e-commerce / ecommerce coordinator bilingual source markham, ontario, canada linkedin other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Début de carrière: Analyste bilingue, Assurances collectives",
+   "company": "Aon",
+   "location": "Greater Quebec City Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9but-de-carri%C3%A8re-analyste-bilingue-assurances-collectives-at-aon-4486477725",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": true,
+   "search": "debut de carriere: analyste bilingue, assurances collectives aon greater quebec city metropolitan area linkedin other readme role fit quebec",
    "alternates": []
   },
   {
@@ -46079,32 +48310,6 @@
    "french": false,
    "search": "analyste de donnees optimum general insurance montreal, qc linkedin other readme role fit quebec",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Senior Business Architecture Advisor, Direct Distribution",
-   "company": "Maarut",
-   "location": "Montréal East, Montréal",
-   "url": "https://www.adzuna.ca/details/5951678666",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Role fit",
-    "Quebec"
-   ],
-   "french": false,
-   "search": "senior business architecture advisor, direct distribution maarut montreal east, montreal adzuna other adzuna role fit quebec",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950768384?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal East"
-    }
-   ]
   },
   {
    "posted": "2026-11-03",
@@ -46468,6 +48673,31 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Offensive and defensive security advisor",
+   "company": "Desjardins",
+   "location": "Montréal-Ouest, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/offensive-and-defensive-security-advisor-at-desjardins-4485018067",
+   "note": "via inbox_opencode-job-hunt--2026-11-10--v2.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "offensive and defensive security advisor desjardins montreal-ouest, quebec, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v2.md canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/offensive-and-defensive-security-advisor-at-desjardins-4485003674",
+     "label": "LinkedIn · Lévis"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Microsoft Senior Developer - Power Platform",
    "company": "accenturefederalservices",
    "location": "Washington, DC",
@@ -46563,25 +48793,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Internship, IT sector, Fall 2026",
-   "company": "Desjardins",
-   "location": "Montréal-Ouest, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/internship-it-sector-fall-2026-at-desjardins-4459285185",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "internship, it sector, fall 2026 desjardins montreal-ouest, quebec, canada linkedin other readme canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Infrastructure Solutions Architect 5",
    "company": "HTC Global Services",
    "location": "Lansing, MI",
@@ -46660,6 +48871,25 @@
    ],
    "french": false,
    "search": "head of data engineering ambyint calgary, calgary region adzuna other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Gestionnaire du centre de distribution",
+   "company": "Cozey",
+   "location": "Mont-Royal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/gestionnaire-du-centre-de-distribution-at-cozey-4486463729",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "gestionnaire du centre de distribution cozey mont-royal, quebec, canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -46816,11 +49046,11 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Carrière en Technologies de l'information",
-   "company": "Beneva",
-   "location": "Chicoutimi, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/carri%C3%A8re-en-technologies-de-l-information-at-beneva-4207343464",
-   "note": "via inbox_opencode-job-hunt--2026-11-09--v12.md",
+   "title": "Coordonnateur(trice) soutien TI et installations",
+   "company": "McGill St Laurent",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/coordonnateur-trice-soutien-ti-et-installations-at-mcgill-st-laurent-4487044275",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -46830,14 +49060,46 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "carriere en technologies de l'information beneva chicoutimi, quebec, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v12.md canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/carri%C3%A8re-en-technologies-de-l-information-at-beneva-4207339782",
-     "label": "LinkedIn · Montreal"
-    }
-   ]
+   "search": "coordonnateur(trice) soutien ti et installations mcgill st laurent montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Conseiller ou conseillère, Gestion des DNS et de la sécurité des courriels-FR",
+   "company": "Desjardins",
+   "location": "Lévis, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-ou-conseill%C3%A8re-gestion-des-dns-et-de-la-s%C3%A9curit%C3%A9-des-courriels-fr-at-desjardins-4486072777",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "conseiller ou conseillere, gestion des dns et de la securite des courriels-fr desjardins levis, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Chef de la mise en œuvre, Régimes de retraite à prestations déterminées",
+   "company": "TELUS",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/chef-de-la-mise-en-%C5%93uvre-r%C3%A9gimes-de-retraite-%C3%A0-prestations-d%C3%A9termin%C3%A9es-at-telus-4461508095",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "chef de la mise en œuvre, regimes de retraite a prestations determinees telus montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-03",
@@ -47137,6 +49399,25 @@
    ],
    "french": false,
    "search": "director of information technology (it) urgo hotels & resorts canada montreal, quebec adzuna other readme quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "Collaborateur santé et sécurité",
+   "company": "IKEA",
+   "location": "Greater Quebec City Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/collaborateur-sant%C3%A9-et-s%C3%A9curit%C3%A9-at-ikea-4486097564",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 4,
+   "matchReasons": [
+    "Quebec"
+   ],
+   "french": false,
+   "search": "collaborateur sante et securite ikea greater quebec city metropolitan area linkedin other readme quebec",
    "alternates": []
   },
   {
@@ -47551,27 +49832,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Senior ServiceNow Developer",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "ServiceNow Developer",
    "company": "GDIT",
    "location": "Any Location / Remote",
@@ -47589,6 +49849,27 @@
    ],
    "french": false,
    "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior ServiceNow Developer",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -48011,33 +50292,6 @@
    "french": false,
    "search": "qa engineer- salesforce marketing cloud (sfmc) tru toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Salesforce Developer",
-   "company": "Zodiac Solutions, Inc",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zodiac-solutions-inc-4484397587",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer zodiac solutions, inc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zodiac-solutions-inc-4484381234",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-02",
@@ -49841,6 +52095,48 @@
    ],
    "french": false,
    "search": "manager, people ops & automation coinbase remote - usa coinbase.com other readme automation role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "IT Support Analyst - Contract",
+   "company": "Martin-Brower of Canada Co.",
+   "location": "New Westminster, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-support-analyst-contract-at-martin-brower-of-canada-co-4486452749",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 26,
+   "matchReasons": [
+    "IT operations",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "it support analyst - contract martin-brower of canada co. new westminster, british columbia, canada linkedin other readme it operations role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "IT Support Analyst",
+   "company": "Martin Brower UK and Ireland",
+   "location": "New Westminster, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-support-analyst-at-martin-brower-uk-and-ireland-4485796050",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 26,
+   "matchReasons": [
+    "IT operations",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "it support analyst martin brower uk and ireland new westminster, british columbia, canada linkedin other readme it operations role fit canada / remote",
    "alternates": []
   },
   {
@@ -52031,46 +54327,6 @@
    ],
    "french": false,
    "search": "ios engineer - creative app elevenlabs remote ashby other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "(Forward Deployed Engineer, Finance (Office of the CTO))(https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932)",
-   "company": "coinbase",
-   "location": "Remote - USA",
-   "url": "https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "coinbase.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "(forward deployed engineer, finance (office of the cto))(https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932) coinbase remote - usa coinbase.com other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "(Embedded Engineer, Compliance (Office of the CTO))(https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099)",
-   "company": "coinbase",
-   "location": "Remote - USA",
-   "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "coinbase.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "(embedded engineer, compliance (office of the cto))(https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099) coinbase remote - usa coinbase.com other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -54482,6 +56738,26 @@
    ],
    "french": false,
    "search": "specialiste principal(e), soutien premium airbnb canada careers.airbnb.com other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Spécialiste de l’accompagnement client, niveau I",
+   "company": "Co-operators Assurance et services financiers",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-de-l%E2%80%99accompagnement-client-niveau-i-at-co-operators-assurance-et-services-financiers-4485783408",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialiste de l’accompagnement client, niveau i co-operators assurance et services financiers calgary, alberta, canada linkedin other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -59899,6 +62175,46 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Sales Support Manager",
+   "company": "Progressive",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sales-support-manager-at-progressive-4486436822",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "sales support manager progressive montreal, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "SPÉCIALISTE MARKETING RELATIONNEL ET CONTENU",
+   "company": "SOPREMA Canada",
+   "location": "Drummondville, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-marketing-relationnel-et-contenu-at-soprema-canada-4486442164",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialiste marketing relationnel et contenu soprema canada drummondville, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Risk UX Specialist",
    "company": "mercury",
    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
@@ -64118,6 +66434,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Consultant(e) en solutions",
+   "company": "Canon Canada",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/consultant-e-en-solutions-at-canon-canada-4460539485",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "consultant(e) en solutions canon canada quebec, quebec, canada linkedin other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Compute Country Lead, Canada",
    "company": "anthropic",
    "location": "Remote-Friendly (Travel Required) / Canada",
@@ -65084,6 +67420,46 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "(Forward Deployed Engineer, Finance (Office of the CTO))(https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932)",
+   "company": "coinbase",
+   "location": "Remote - USA",
+   "url": "https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "coinbase.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "(forward deployed engineer, finance (office of the cto))(https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932) coinbase remote - usa coinbase.com other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "(Embedded Engineer, Compliance (Office of the CTO))(https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099)",
+   "company": "coinbase",
+   "location": "Remote - USA",
+   "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "coinbase.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "(embedded engineer, compliance (office of the cto))(https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099) coinbase remote - usa coinbase.com other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Staff Solutions Architect, AI Subject Matter Expert",
    "company": "gitlab",
    "location": "Remote, United States",
@@ -65447,26 +67823,6 @@
    ],
    "french": false,
    "search": "sr. crm account executive servicenow montreal, quebec, canada linkedin servicenow readme servicenow canada / remote weak title match",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "(IT Project Manager (4987))(https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e)",
-   "company": "Alteo",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5950547964",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Role fit",
-    "Quebec"
-   ],
-   "french": false,
-   "search": "(it project manager (4987))(https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e) alteo montreal, quebec adzuna other readme role fit quebec",
    "alternates": []
   },
   {
@@ -65918,6 +68274,26 @@
    ],
    "french": false,
    "search": "anthropic fellows program, ai safety & security anthropic london, uk; ontario, can; remote-friendly, united states; san francisco, ca greenhouse other readme toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "(IT Project Manager (4987))(https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e)",
+   "company": "Alteo",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5950547964",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "(it project manager (4987))(https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e) alteo montreal, quebec adzuna other readme role fit quebec",
    "alternates": []
   },
   {
@@ -67925,6 +70301,25 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Marchandiseur numérique",
+   "company": "RW&CO",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/marchandiseur-num%C3%A9rique-at-rw-co-4486462919",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "marchandiseur numerique rw&co montreal, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Manufacturing Systems Analyst",
    "company": "Magna International, Inc",
    "location": "Guelph, Wellington region",
@@ -68406,6 +70801,25 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Gestionnaire de projet ti",
+   "company": "Ville de Sherbrooke",
+   "location": "Sherbrooke, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/gestionnaire-de-projet-ti-at-ville-de-sherbrooke-4486462684",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "gestionnaire de projet ti ville de sherbrooke sherbrooke, quebec, canada linkedin other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Geospatial Full Stack Architect",
    "company": "accenturefederalservices",
    "location": "Washington, DC",
@@ -68718,6 +71132,25 @@
    ],
    "french": true,
    "search": "developpeur logiciels (stagiaire), automatisation des tests (l'ete 2027) lyft montreal, canada app.careerpuck.com other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Développeur CCaaS",
+   "company": "Accenture",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ccaas-at-accenture-4485440696",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur ccaas accenture montreal, quebec, canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -69395,6 +71828,25 @@
    ],
    "french": false,
    "search": "content designer ii affirm remote uk greenhouse other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Conseiller(ère) principal(e), Analytique et solutions de données",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-analytique-et-solutions-de-donn%C3%A9es-at-ia-financial-group-industrial-alliance-4486403507",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "conseiller(ere) principal(e), analytique et solutions de donnees ia financial group (industrial alliance) quebec, quebec, canada linkedin other readme canada / remote",
    "alternates": []
   },
   {
@@ -95348,26 +97800,6 @@
   },
   {
    "posted": "2026-10-24",
-   "title": "IT - Senior Software Developer",
-   "company": "JAM Industries, Ltd.",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5940715422",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Role fit",
-    "Quebec"
-   ],
-   "french": false,
-   "search": "it - senior software developer jam industries, ltd. montreal, quebec adzuna other readme role fit quebec",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-24",
    "title": "11744",
    "company": "Maarut",
    "location": "Toronto, Ontario",
@@ -97699,26 +100131,6 @@
    ],
    "french": false,
    "search": "data lead csc generation toronto, ontario, canada linkedin other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-22",
-   "title": "Consultant - CRM Financial Services",
-   "company": "Deloitte",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5938524566",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "consultant - crm financial services deloitte toronto, ontario adzuna other readme role fit toronto area",
    "alternates": []
   },
   {
