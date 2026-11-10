@@ -15,10 +15,10 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-10T03:53:34.283Z",
-    "generatedAt": "2026-11-10T03:53:34.283Z",
-    "total": 5319,
-    "newThisScan": 737,
+    "scrapedAt": "2026-11-10T04:06:45+00:00",
+    "generatedAt": "2026-11-10T04:06:45+00:00",
+    "total": 5320,
+    "newThisScan": 738,
     "retainedFromPrevious": 1575,
     "sources": {
       "smartrecruiters": 10,
@@ -94181,6 +94181,31 @@
       "tags": [
         "salesforce"
       ]
+    },
+    {
+      "id": "jobs.ca:moneris-principal-salesforce-4a773717",
+      "source": "jobs.ca",
+      "company": "Moneris Solutions",
+      "title": "Principal Salesforce Software Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.jobs.ca/job/4a773717-a5e6-4079-8045-edef3b5fbb12",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-02T00:00:00Z",
+      "scrapedAt": "2026-11-10T04:06:45+00:00",
+      "excerpt": "Principal Salesforce Software Developer at Moneris Solutions, Toronto hybrid. Lead end-to-end Salesforce solution design across Sales/Service/Experience/Marketing clouds; 7+ yrs Salesforce, Apex, LWC, Visualforce, Mulesoft; reports to VP Enterprise Platforms.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce",
+        "developer",
+        "apex",
+        "lwc",
+        "visualforce",
+        "mulesoft"
+      ],
+      "_via": "cron-2026-11-09",
+      "verifiedAt": "2026-11-10T04:06:45+00:00",
+      "verifyState": "unknown"
     }
   ]
 }

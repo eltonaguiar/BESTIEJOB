@@ -10,7 +10,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-10](#current-jobs--as-of-2026-11-10)
   - [ServiceNow jobs (743)](#servicenow-jobs-743)
-  - [Salesforce jobs (948)](#salesforce-jobs-948)
+  - [Salesforce jobs (949)](#salesforce-jobs-949)
   - [Other jobs (4117)](#other-jobs-4117)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-10
 
-Window: 2026-10-11 → 2026-11-10 · **5808 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-11 → 2026-11-10 · **5809 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (743)
 
@@ -774,14 +774,15 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (948)
+### Salesforce jobs (949)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 948 postings</strong></summary>
+<details><summary><strong>Show 949 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-02 | [Principal Salesforce Software Developer](https://www.jobs.ca/job/4a773717-a5e6-4079-8045-edef3b5fbb12) | Moneris Solutions | Toronto, ON | via cron scan 2026-11-09 |
 | 2026-11-10 | [Senior Back-End Email Developer (Salesforce Marketing Cloud)](https://ca.linkedin.com/jobs/view/senior-back-end-email-developer-salesforce-marketing-cloud-at-intact-4487995054) | Intact | Montreal, Quebec, Canada | via fresh-ca--2026-11-10--v1.md |
 | 2026-11-10 | [Développeur(euse) principal(e) en développement de courriels dorsaux (Salesforce Marketing Cloud)](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-principal-e-en-d%C3%A9veloppement-de-courriels-dorsaux-salesforce-marketing-cloud-at-intact-4487983304) | Intact | Montreal, Quebec, Canada | via fresh-ca--2026-11-10--v1.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487960730) | Genesys | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
