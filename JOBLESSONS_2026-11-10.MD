@@ -25,7 +25,7 @@
   - Salesforce — Principal Applied AI Architect (4487978961, posted ~7h ago): AI architecture, not a ServiceNow/Salesforce Platform Admin or Platform Developer I role; not entry-level. Rejected.
 - LinkedIn ServiceNow query returned no extractable results (keyless extraction not supported for this site). LinkedIn detail pages sit behind a login wall, so posting dates cannot be independently verified — no LinkedIn-sourced role added without a verifiable absolute date.
 
-**ServiceNow Careers (Ontario, 16 jobs):** Staff Systems Engineer (JB0073788, 11-06), Senior Staff Security Engineer \| Systems Engineering (JB0076457, 11-06), Staff Security Engineer \| Security Engineering (JB0076454, 11-06), Staff Site Reliability Engineer Canada Protected B (JB0076847, 11-05), Senior SRE Canada Protected B (JB0076846, 11-05) — all already on the board. Today's (11-09) postings are sales roles (Sales Director - CRM Sales; Senior CRM Account Executive) → rejected by title rule. Nothing fresh and platform-relevant.
+**ServiceNow Careers (Ontario, 16 jobs):** Staff Systems Engineer (JB0073788, 11-06), Senior Staff Security Engineer | Systems Engineering (JB0076457, 11-06), Staff Security Engineer | Security Engineering (JB0076454, 11-06), Staff Site Reliability Engineer Canada Protected B (JB0076847, 11-05), Senior SRE Canada Protected B (JB0076846, 11-05) — all already on the board. Today's (11-09) postings are sales roles (Sales Director - CRM Sales; Senior CRM Account Executive) → rejected by title rule. Nothing fresh and platform-relevant.
 
 **Salesforce Careers:** careers hub returned no extractable fresh Platform Admin / Platform Developer I postings for Toronto today.
 
@@ -64,4 +64,40 @@ README.md on main is current through 2026-11-09 (5,658 live postings; ServiceNow
 
 - `JOBLESSONS_2026-11-10.MD` — this file, added to repo root on main.
 - `README.md` — no changes (zero verified fresh jobs this hour).
+- `public/` (GitHub Pages) — no changes; no redeploy required.
+
+
+## 08:00 EST cycle (2026-11-10) — post :00 UTC hourly scan
+
+Ran after the repo's hourly Action (894cfd6 "chore(jobs): fresh CA sweep 2026-11-10T12:46Z [skip ci]", 07:46 EST). Local main had been 85 commits behind origin; synced with `git pull --rebase origin main` before scanning. Feed baseline verified on disk: jobs.json 5,338 rows (scraped 2026-11-10T12:16:55Z), ServiceNow 1,077 / Salesforce 1,074. Layered manual search on top of the just-run ATS sweep.
+
+### Sources checked
+- **Indeed.ca** — ServiceNow Toronto and Salesforce Toronto/consultant pages, date-sorted: BFG Enterprise Services ServiceNow Administrator/Developer Markham (careers.bfg.ca original Oct 13–20 window expired); BMO ServiceNow SAM Administrator - ITAM ("New"/relative dates only, ≈Nov 5, already swept by Workday scan); Compugen Sr ServiceNow CSDM/Discovery contracts ("New", no absolute dates); Bevertec ITOM Business Analyst ("New"); Deloitte/KPMG/CGI/BDO ServiceNow roles — all already in jobs.json or lacking absolute posted dates.
+- **LinkedIn guest** — 429/403 blocked; posting dates unverifiable; no LinkedIn-sourced role added without a confirmable date.
+- **ServiceNow careers Ontario** — 16 Ontario jobs: Sales Director CRM Sales and Senior CRM Account Executive (Nov 09) are sales roles (excluded by title rule); Staff Systems Engineer / Staff Security Engineer / Staff SRE Protected B (Nov 05–06) already tracked; nothing in Platform Administrator / Developer I targeting.
+- **Salesforce careers hub** — no extractable fresh Platform Admin / Platform Developer I posting for Toronto today.
+- **Rogers jobs.rogers.com** — Lead Management Operations (Salesforce marketing ops, Req 343961, ~Oct 28, outside freshness); Technical Specialist Markham (Cisco Meraki/Fortinet, ServiceNow/Salesforce familiarity listed as preferred, not a platform role); Digital Campaigns / Campaign Management (Salesforce as CRM — sales/marketing titles, excluded by title rule). No dated platform posting.
+- **Bell jobs.bell.ca / jobs.bce.ca** — ServiceNow System Administrator 432824 "has been filled"; Senior Manager ServiceNow Platform Delivery "no longer accepting applicants"; Senior Technical Advisor 431695 (404/gone, apply-by 11/02/2026 expired). Skip-on-sight; never re-probe filled/expired roles as live.
+- **TELUS careers.telus.com** — Salesforce matches are Account/Senior Account Manager sales titles; excluded by the board's title rule.
+- **Government of Canada jobs.canada.ca** — zero ServiceNow/Salesforce Toronto hits. Ontario gojobs.gov.on.ca — expired or non-platform roles. Low yield again; GC platform work arrives via prime vendors on their own ATS (already covered by the automated sweep).
+- **Elite/Global Elite Partners** — KPMG (33919, 34113 existing vacancies), Accenture, Deloitte (Senior Manager ServiceNow - Operate, posting start 10/21/26 — outside freshness window), Capgemini, CGI, IBM, TCS: postings arrive via the automated ATS sweep; nothing incremental from manual careers-page checks.
+- **Banks (Workday)** — Scotiabank ServiceNow Administrator Specialist 602949717 / Developer 603030017 / Discovery Developer 602442317 already on board; TD/RBC/BMO/CIBC boards surfaced no new dated SN/SF requisitions.
+- **Non-feed employers (Indeed SERP only)** — Vigorate, StorageVault, Atlantic Packaging, Minto Group Salesforce roles surfaced on listing pages (senior, 4–5+ yrs) without verifiable posted dates or direct deep links; excluded by absolute-date and freshness rules.
+
+### Candidates already on the board (duplicates, not re-added)
+- Scotiabank ServiceNow Administrator Specialist 602949717; ServiceNow Developer 603030017; Discovery Developer 602442317 (jobs.scotiabank.com)
+- Altus Group Salesforce Platform Developer R0014087 (Workday, tracked)
+- Lightspeed ServiceNow Developer (multiple feed mirrors)
+- SS&C Technologies + Benevity Salesforce roles (merged in the 00:00 EST cycle this date)
+
+### Result
+Zero new merges. jobs.json stays 5,338 rows; README tables unchanged; no public/ rebuild required. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs): none surfaced — keep as priority keywords.
+
+### Pattern confirmed
+Cycles immediately after the :00 UTC ATS sweep are typically null for manual search — the sweep captures nearly all Toronto SN/SF volume; manual value is only in employer career pages and non-ATS boards with verifiable absolute dates, and this cycle produced none.
+
+### Files touched
+- `JOBLESSONS_2026-11-10.MD` — this section appended on repo root on main.
+- `README.md` — no changes (zero verified fresh jobs this hour).
+- `jobs.json` — no changes (5,338 rows).
 - `public/` (GitHub Pages) — no changes; no redeploy required.
