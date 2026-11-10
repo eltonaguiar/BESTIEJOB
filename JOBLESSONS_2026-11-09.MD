@@ -584,3 +584,36 @@ Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.s
 - `JOBLESSONS_2026-11-09.MD` — this file, 20:00 EST section added, committed to repo root on main.
 - `README.md` — no changes (zero verified fresh jobs; counts unchanged).
 - `jobs.json` / `public/` — no changes; no rebuild or redeploy required this hour.
+
+## 2026-11-09 21:00 EST (02:00 UTC) cron run — Hermes Agent
+
+**Scope**: Fresh Toronto / GTA ServiceNow and Salesforce postings; employers incl. Rogers, Bell, Canadian government, ServiceNow/Salesforce Elite partners (Deloitte, KPMG, BDO, CGI, Accenture), banks (Scotiabank, BMO, TD, CIBC, RBC).
+
+| Metric | Value |
+|---|---|
+| Dedupe baseline (jobs.json + README.md unique URLs) | 7,555 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live + not on board | 3 |
+| Jobs merged to README.md tables | 3 |
+| Jobs merged to GitHub Pages (public/) | 3 (pages redeployed via push to README.md) |
+| Jobs merged from open PRs #40/#41 | 0 (left open — repo owner's call) |
+
+### Merged (verified live via employer page, not previously on board)
+1. **Scotiabank — DevOps Engineer (Salesforce)**, Toronto, ON, posted 2026-11-07, Req 276046 — jobs.scotiabank.com/job/Toronto-DevOps-Engineer(Salesforce)-ON-M5H-1A1/606915617/ (page verified live; Scotiabank careers listing shows Nov 7, 2026)
+2. **TD Bank — Software Engineer II (Salesforce Loyalty Management Developer)**, Toronto, ON (Hybrid), posted 2026-10-27, apply by 2026-11-10 — jobs.ca/td/jobs/software-engineer-ii-salesforce-loyalty-management-developer-toronto-on-83012a257d40 (verified via jobs.ca verified source)
+3. **Deloitte — Director, Salesforce Delivery and Architecture**, Toronto, ON (Remote), posted 2026-10-23, Ref 133488 — careers.deloitte.ca/job/Director,-Salesforce-Delivery-and-Architecture,-Deloitte-Global-Technology/133488-en_US/ (page verified live)
+
+### Reviewed and excluded
+- **Scotiabank — ServiceNow Developer** (603030017): "not accepting any further applicants" — closed, skipped.
+- **Bell — ServiceNow System Administrator / Senior Technical Advisor / Developer-Integrator / Manager Program Mgmt**: all "job has been filled" — never add filled roles.
+- **Deloitte — Salesforce Developer (Digital Customer, Ref 135279)**: posted 9/29/26, outside 30-day freshness window — skipped.
+- **Lightspeed — ServiceNow Developer (Ashby)**: Ashby URL returns 404 — no longer live — skipped.
+- **City of Toronto — Senior Systems Integrator (ServiceNow)**: posting period 27-Jul to 13-Aug-2026 — expired — skipped.
+- **LinkedIn postings** (TD/Interac/Central 1/Manulife etc.): login wall (HTTP 422), posted dates unverifiable — skipped.
+- **Indeed.ca listings**: HTTP 403 to direct extraction — search snippets only; no dated URLs captured this run.
+- **Adzuna detail pages**: HTTP 405 — employer sites used instead.
+
+### Patterns for future runs
+- Scotiabank careers (jobs.scotiabank.com) and Deloitte careers (careers.deloitte.ca) extract cleanly with posting dates — preferred sources; prioritize them.
+- Indeed.ca (403), Adzuna details (405), LinkedIn (422/login wall) block automated verification — gate on employer-page confirmation before merging.
+- ServiceNow-the-company Toronto openings (Staff SRE / Systems Engineer, Protected B) are cloud-infrastructure roles, not ServiceNow platform dev/admin roles — out of scope for this board.
+- Zero fresh ServiceNow platform roles found this scan; the Toronto SN pipeline is being harvested by partner postings (CGI, BDO, KPMG) rather than direct employers.
