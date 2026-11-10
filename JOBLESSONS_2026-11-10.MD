@@ -75,3 +75,30 @@ Result: zero new merges. jobs.json stays 5328; README tables stay SN 743 / SF 95
 Entry-level Platform Administrator / Platform Developer I roles: none surfaced this cycle (4th straight null cycle on those keywords) — keep as priority keywords.
 
 Pattern confirmed: post :00 UTC scan cycles are typically null for manual search — the ATS sweep (Adzuna/LinkedIn/Workday/SmartRecruiters/Greenhouse/Lever/Ashby/remote) captures nearly all Toronto SN/SF volume; manual value is only in employer career pages and non-ATS boards with verifiable absolute dates.
+
+
+## 03:00 EST cycle (2026-11-10) — post :00 UTC hourly scan
+Ran after the repo's hourly Action (07:14Z feed refresh on main: 5329 jobs, README SN 743 / SF 951 / Other 4117 = 5811 live postings). Layered manual search on top.
+
+Sources checked: Indeed (salesforce-admin / platform-developer-1 / consultant pages, date-sorted), LinkedIn guest endpoint (429/403 — blocked, skipped), BuiltIn Toronto, ZipRecruiter, talent.com, Dice, Robert Half, MarTechJobs; Workday employer boards (jobs.td.com, careers.rbc.com, careers.scotiabank.com, jobs.bmo.com — no results); ServiceNow careers Ontario page; Rogers jobs.rogers.com; Bell jobs.bell.ca (Job 431695 returns 404/gone; every other ServiceNow hit "filled" — skip on sight); TELUS careers.telus.com; Government of Canada jobs.canada.ca; Ontario gojobs.gov.on.ca (postings expired or non-platform); ServiceNow/Salesforce Elite Partner pages — KPMG careers.kpmg.ca (34113/33532/34115/33497/33530/33527/33999: existing vacancies, consultant/manager/senior level), Accenture, Deloitte, Capgemini, CGI, IBM, TCS — postings arrive via the automated ATS scan.
+
+Already in feed / duplicates, not re-added:
+- KPMG Consultant/Senior Consultant - ServiceNow Solution Developer 33919 (posted 2026-11-07, already swept)
+- Altus Group Salesforce Platform Developer R0014087 (tracked via simplyhired mirror, posted 2026-11-09; Workday original has no absolute date)
+- SS&C Technologies + Benevity Salesforce roles (added in the 00:00 EST cycle this date)
+
+Excluded / negative:
+- Bell ServiceNow — live hits return "filled"/404; never re-probed as live
+- TELUS Salesforce — Account/Senior Account Manager sales titles; excluded by the board's title rule
+- Rogers jobs.rogers.com — Technical Specialist (Markham) mentions ServiceNow/Salesforce familiarity but is Cisco Meraki/Fortinet network support, not a platform role; detail pages carry no posted date
+- ServiceNow careers Toronto — senior/Protected B SRE/syseng roles and CRM sales roles; outside Platform Administrator / Developer I targeting
+- Government (jobs.canada.ca, gojobs.gov.on.ca) — expired or non-platform roles; low yield
+- Indeed "New"/"1 day ago"/relative-date tags — not posted dates; no absolute dates confirmed on any lead
+- Entry-level Platform Administrator / Platform Developer I: none surfaced (5th straight null cycle on those exact titles)
+
+Result: zero new merges. jobs.json stays 5329; README tables stay ServiceNow 743 / Salesforce 951 / Other 4117 (5811 live postings); no public/ rebuild required.
+
+Next-run pointers:
+- Keep Salesforce Platform Administrator / Platform Developer I exact titles as priority keywords; probe employer Workday boards directly (jobs.td.com, careers.rbc.com, careers.scotiabank.com, jobs.bmo.com) for requisitions dated 2026-11-10 — the automated scan's Workday CXS coverage can miss individual requisitions.
+- Expect null cycles immediately after the :00 UTC ATS sweep; manual value is in employer career pages and non-ATS boards with verifiable absolute dates.
+
