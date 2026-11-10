@@ -371,3 +371,42 @@ Ran after the 13:00 EST cycle. Manual web search layered on top of the already-c
 - `jobs.json` — +3 rows at head of `jobs` array (5,254→5,255 after verify_links dropped 2 unrelated dead rows).
 - `public/index.html` + `public/jobs-data.json` (+ public/*/jobs.json) — rebuilt and pushed (GitHub Pages).
 
+## 15:00 EST cycle (2026-11-10) — cron scan + merge
+
+### Sources checked
+- **web_search:** ServiceNow + Salesforce Toronto (careers.servicenow.com, ca.linkedin.com, Indeed), Rogers (jobs.rogers.com), Bell (jobs.bell.ca), Government of Canada (jobs.gc.ca), elite partners (KPMG, Deloitte, Accenture, CGI), banks (Scotiabank, TD, RBC, BMO, CIBC).
+- **web_extract (direct fetch, live-verified):** Cognizant careers — 00071172332 Salesforce BSA, 00070828311 Salesforce Data Cloud Developer, 00070590911 Salesforce Solution Architect (all Toronto, hybrid, posted Nov 02–04, applying open through mid/late November); Scotiabank 603030017 and 604373417 (both "not accepting any further applicants" — excluded); ServiceNow careers Ontario page (16 jobs — senior/security/sales only, all already on board via smartrecruiters mirrors).
+
+### Duplicates skipped (already on board)
+- ServiceNow Staff Systems Engineer 744000160278249 / JB0073788 — already on board via jobs.smartrecruiters.com mirror.
+- Cognizant Salesforce FSC Developer 00070907531 — already on board (posted 2026-10-30).
+
+### Excluded (filled / closed — skip-on-sight)
+- Bell ServiceNow Developer / Integrator 431695 — HTTP 410 Gone / "has been filled", re-confirmed this run; never re-probe filled roles.
+- Scotiabank ServiceNow Developer 603030017 — closed, not accepting applicants.
+- Scotiabank Salesforce Developer 604373417 — closed, not accepting applicants.
+
+### Fresh verified-fresh Toronto SN/SF postings merged (all Cognizant, a Salesforce partner; all hybrid Toronto; deduped against jobs.json + README URLs)
+
+**Salesforce (+3 rows, inserted in date order ahead of the existing Nov 02–10 block):**
+- 2026-11-04 | Salesforce Solution Architect — Cognizant — Toronto, ON-199 Bay St, hybrid — $138K-$160K CAD — careers.cognizant.com/ca-en/jobs/00070590911/salesforce-solution-architect/
+- 2026-11-03 | Salesforce BSA — Cognizant — Toronto, ON-199 Bay St, hybrid — $80K-$95K CAD — applies by 11/13/2026 — careers.cognizant.com/us-en/jobs/00071172332/salesforce-bsa/
+- 2026-11-02 | Salesforce Data Cloud Developer — Cognizant — Toronto, ON, hybrid — $77K-$125K CAD — applies by 11/30/2026 — careers.cognizant.com/us-en/jobs/00070828311/salesforce-datacloud-developer/
+
+### Result
+- README.md: SF table +3 (962→965); total 5,819 live postings (SN 745 · SF 965 · Other 4,109); header "as of 2026-11-10".
+- jobs.json: +3 rows (source: cognizant, tags: salesforce) at tail of `jobs` array.
+- Commit + push to origin/main pending; GitHub Pages builds from main via workflow — no separate redeploy needed.
+
+### Patterns / lessons confirmed
+1. **Cognizant careers pages extract cleanly (no bot wall) and carry posted dates + apply-by dates** — re-check cognizant.com Toronto Salesforce requisitions before their mid-November apply-by dates expire.
+2. **ServiceNow careers Toronto returns HTTP 403 to automated probes;** titles/dates come from search snippets. Today's SN roles (Staff Systems Engineer, Protected B SRE/sec-ops) were already on the board via smartrecruiters mirrors — dedupe by URL before calling anything fresh.
+3. **Scotiabank Workday postings hard-fail with "not accepting any further applicants"** — exclude on sight, don't re-probe.
+4. **Bell skip-on-sight holds:** 431695 is 410/filled again; Rogers (jobs.rogers.com) and GC employer pages surface only marketing-ops/infra-adjacent/expired postings — title rule + skip-on-sight keeps the board clean.
+5. **Entry-level Platform Administrator / Platform Developer I (0–2 yrs) in Toronto remains scarce** — none of today's 3 merges is entry-level; keep those as priority keywords for the next scan.
+
+### Files touched
+- `JOBLESSONS_2026-11-10.MD` — this section appended (repo root, main).
+- `README.md` — SF table +3 (962→965), total 5,819 live postings.
+- `jobs.json` — +3 rows at tail of `jobs` array.
+
