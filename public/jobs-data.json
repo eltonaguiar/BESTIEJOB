@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-10T06:52:43+00:00",
+ "generatedAt": "2026-11-10T07:14:43+00:00",
  "timezone": "America/Toronto",
- "count": 4787,
+ "count": 4789,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -418,6 +418,48 @@
      "label": "Adzuna · Westmount"
     }
    ]
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Salesforce FSC Solution Architect",
+   "company": "Maarut",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5960018741",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "salesforce fsc solution architect maarut montreal east, montreal adzuna salesforce adzuna salesforce role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Salesforce Configuration Developer (Salesforce FSC)",
+   "company": "Maarut",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5960018734",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "salesforce configuration developer (salesforce fsc) maarut montreal east, montreal adzuna salesforce adzuna salesforce role fit quebec",
+   "alternates": []
   },
   {
    "posted": "2026-11-10",
@@ -72628,7 +72670,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948025592",
+     "url": "https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     }
    ]
