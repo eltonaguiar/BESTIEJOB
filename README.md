@@ -4,32 +4,34 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-10T094359Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-10T113407Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-10](#current-jobs--as-of-2026-11-10)
-  - [ServiceNow jobs (743)](#servicenow-jobs-743)
-  - [Salesforce jobs (951)](#salesforce-jobs-951)
-  - [Other jobs (4117)](#other-jobs-4117)
+  - [ServiceNow jobs (746)](#servicenow-jobs-746)
+  - [Salesforce jobs (956)](#salesforce-jobs-956)
+  - [Other jobs (4118)](#other-jobs-4118)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-10
 
-Window: 2026-10-11 → 2026-11-10 · **5811 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-11 → 2026-11-10 · **5820 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (743)
+### ServiceNow jobs (746)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 743 postings</strong></summary>
+<details><summary><strong>Show 746 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-10 | [Analyste QA ServiceNow](https://ca.linkedin.com/jobs/view/analyste-qa-servicenow-at-cgi-4489405726) | CGI | Sherbrooke, Quebec, Canada | via linkedin-guest--2026-11-10--v1.md |
 | 2026-11-09 | [Sr. IT Developer (ServiceNow)](https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4177846836) | TD | Toronto, Ontario, Canada | via hourly scan 2026-11-09 |
 | 2026-11-09 | [Sr. IT Developer (ServiceNow)](https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4137743760) | TD | Toronto, ON | via hermes scan 2026-11-09 |
+| 2026-11-09 | [Specialist, ServiceNow ITOM (BTS)](https://ca.linkedin.com/jobs/view/specialist-servicenow-itom-bts-at-addmore-group-4489137733) | Addmore Group | Saskatoon, Saskatchewan, Canada | via linkedin-guest--2026-11-10--v1.md |
 | 2026-11-09 | [Specialist, ServiceNow ITAM (BTS)](https://ca.linkedin.com/jobs/view/specialist-servicenow-itam-bts-at-addmore-group-4489144179) | Addmore Group | Saskatoon, Saskatchewan, Canada | via inbox_opencode-job-hunt--2026-11-09--v6.md |
 | 2026-11-09 | [ServiceNow Technical Architect](https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-accenture-4487675798) | Accenture | Toronto, Ontario, Canada | via linkedin-guest--2026-11-09--v1.md |
 | 2026-11-09 | [ServiceNow Senior Developer](https://emplois.ca.indeed.com/viewjob?jk=c956b22cc281049c) | BDO Canada | Toronto, ON, Canada | via hermes scan 2026-11-09 |
@@ -43,6 +45,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-09 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454522998) | KPMG Canada | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-final--2026-11-09--v1.md |
 | 2026-11-09 | [Sales Director - CRM Sales](https://ca.linkedin.com/jobs/view/sales-director-crm-sales-at-servicenow-4489149240) | ServiceNow | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
 | 2026-11-09 | [Enterprise Architect - ServiceNow](https://www.adzuna.ca/details/5959388500?utm_medium=api&utm_source=54ce986e) | LeverageTek Staffing Solutions | Ottawa, Ottawa region | via fresh-ca--2026-11-09--v1.md |
+| 2026-11-09 | [Développeur Sharepoint (ITSM &amp; Automatisation)](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-sharepoint-itsm-automatisation-at-cgi-4488888878) | CGI | Montreal, Quebec, Canada | via linkedin-guest--2026-11-10--v1.md |
 | 2026-11-09 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://careers.kpmg.ca/jobs/33919?lang=en-us) | KPMG Canada | Toronto, Ontario, Canada (multi-location) | via hourly scan 2026-11-09 · CSA, IRM/SecOps, $70K-$102K |
 | 2026-11-09 | [Application Developer-ServiceNow](https://careers.ibm.com/fr_CA/careers/JobDetail/Application-Developer-ServiceNow/69291) | IBM | Canada | via hermes scan 2026-11-09 |
 | 2026-11-09 | [Application Consultant-ServiceNow](https://careers.ibm.com/fr_CA/careers/JobDetail/Application-Consultant-ServiceNow/81142) | IBM | Canada | via hermes scan 2026-11-09 |
@@ -774,16 +777,18 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (951)
+### Salesforce jobs (956)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 951 postings</strong></summary>
+<details><summary><strong>Show 956 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-10 | [Senior Back-End Email Developer (Salesforce Marketing Cloud)](https://ca.linkedin.com/jobs/view/senior-back-end-email-developer-salesforce-marketing-cloud-at-intact-4487995054) | Intact | Montreal, Quebec, Canada | via fresh-ca--2026-11-10--v1.md |
+| 2026-11-10 | [Salesforce Platform Owner](https://ca.linkedin.com/jobs/view/salesforce-platform-owner-at-parkland-corporation-4489453442) | Parkland Corporation | Calgary, Alberta, Canada | via linkedin-guest--2026-11-10--v1.md |
 | 2026-11-10 | [Développeur(euse) principal(e) en développement de courriels dorsaux (Salesforce Marketing Cloud)](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-principal-e-en-d%C3%A9veloppement-de-courriels-dorsaux-salesforce-marketing-cloud-at-intact-4487983304) | Intact | Montreal, Quebec, Canada | via fresh-ca--2026-11-10--v1.md |
+| 2026-11-10 | [Associate Salesforce Administrator](https://ca.linkedin.com/jobs/view/associate-salesforce-administrator-at-jobgether-4489192995) | Jobgether | Canada | via linkedin-guest--2026-11-10--v1.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487960730) | Genesys | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487972526) | Genesys | Quebec, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v1.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-genesys-4487963660) | Genesys | Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v7.md |
@@ -802,6 +807,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-09 | [Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-march-networks-4489131103) | March Networks | Ottawa, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5959468273?utm_medium=api&utm_source=54ce986e) | March Networks | Ottawa, Ottawa region | via fresh-ca--2026-11-09--v2.md |
 | 2026-11-09 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4487909642) | Smart IT Frame LLC | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
+| 2026-11-09 | [Salesforce Senior FSC Developer/Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487431014) | Apptoza Inc. | Toronto, Ontario, Canada | via linkedin-guest--2026-11-10--v1.md |
 | 2026-11-09 | [Salesforce Senior FSC Developer / Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487405679) | Apptoza Inc. | Toronto, Ontario, Canada | via hermes scan 2026-11-09 |
 | 2026-11-09 | [Salesforce Senior Developer](https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-12533) | IKO | Mississauga, ON | via inbox_opencode-job-hunt-final--2026-11-09--v1.md |
 | 2026-11-09 | [Salesforce Revenue Cloud developer](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-pacer-group-4487183367) | Pacer Group | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
@@ -809,6 +815,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-09 | [Salesforce Revenue Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-quantum-world-technologies-inc-4489123533) | Quantum World Technologies Inc. | Canada | via hermes scan 2026-11-09 |
 | 2026-11-09 | [Salesforce Revenue Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-tekgence-inc-4487949008) | Tekgence Inc | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [Salesforce Revenue Cloud Architect - Communications Cloud, Apex, LWC, SOQL, and Salesforce configuration](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-communications-cloud-apex-lwc-soql-and-salesforce-configuration-at-apptoza-inc-4487173874) | Apptoza Inc. | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
+| 2026-11-09 | [Salesforce Revenue Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-lancesoft-inc-4487953893) | LanceSoft, Inc. | Toronto, Ontario, Canada | via linkedin-guest--2026-11-10--v1.md |
 | 2026-11-09 | [Salesforce Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-advanced-at-apptoza-inc-4487421227) | Apptoza Inc. | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v6.md |
 | 2026-11-09 | [Salesforce Platform Developer](https://www.simplyhired.ca/job/MALyTKklaujfyIdBtjSqR0SpupZ_dd4mpU98wASOHT6xok0SilC1Rg) | Altus Group | Toronto, ON, Canada | via hermes scan 2026-11-09 |
 | 2026-11-09 | [Salesforce Marketing Cloud Developer - Strong Automation Studio, Email Studio and AMPscript](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-strong-automation-studio-email-studio-and-ampscript-at-smart-it-frame-llc-4487907668) | Smart IT Frame LLC | Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
@@ -886,6 +893,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-07 | [Salesforce Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726) | IKO North America | Mississauga, Ontario, Canada | via fresh scan |
 | 2026-11-07 | [Salesforce Developer](https://www.roberthalf.com/ca/en/jobs/toronto-on/salesforce-developer) | Robert Half (client) | Toronto, ON | via hermes scan 2026-11-09 |
 | 2026-11-07 | [MuleSoft / Salesforce Developer](https://www.ziprecruiter.com/Jobs/Engineering-Tn-Visa) | Georgia IT Inc | Torrance, CA, USA | via fresh scan |
+| 2026-11-07 | [Développeur.se sénior.e /Senior Full Stack Developer (Apex Legends)](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-se-s%C3%A9nior-e-senior-full-stack-developer-apex-legends-at-respawn-entertainment-4441071627) | Respawn Entertainment | Greater Vancouver Metropolitan Area | via linkedin-guest--2026-11-10--v1.md |
 | 2026-11-07 | [Développeur en automatisation QA Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-4454391884) | nesto | Canada | via fresh scan |
 | 2026-11-07 | [DevOps Engineer (Salesforce)](https://jobs.scotiabank.com/job/Toronto-DevOps-Engineer%28Salesforce%29-ON-M5H-1A1/606915617/) | Scotiabank | Toronto, ON | Scotiabank careers (Big Five bank); Salesforce DevOps / CI-CD on the Salesforce Cloud; requisition 276046; date from car |
 | 2026-11-07 | [Business Analyst / Project Manager – Corporate Applications / Salesforce / Workday - FinTech - $120,000-$200,000 CAD + Bonus](https://ca.linkedin.com/jobs/view/business-analyst-project-manager-%E2%80%93-corporate-applications-salesforce-workday-fintech-%24120-000-%24200-000-cad-%2B-bonus-at-hunter-bond-4486669214) | Hunter Bond | Montreal, Quebec, Canada | via fresh scan |
@@ -1736,11 +1744,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (4117)
+### Other jobs (4118)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 4117 postings</strong></summary>
+<details><summary><strong>Show 4118 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -1792,6 +1800,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-09 | [Lead Electrical Designer](https://ca.linkedin.com/jobs/view/lead-electrical-designer-at-worley-4470979412) | Worley | Edmonton, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [Information Technology Field Engineer](https://ca.linkedin.com/jobs/view/information-technology-field-engineer-at-cxc-4488857833) | CXC | Longueuil, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [Information Systems Engineer](https://ca.linkedin.com/jobs/view/information-systems-engineer-at-opendoor-4438290096) | Opendoor | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
+| 2026-11-09 | [Information Security Specialist - CISA, GRC](https://ca.linkedin.com/jobs/view/information-security-specialist-cisa-grc-at-global-technical-talent-an-inc-5000-company-4449229317) | Global Technical Talent, an Inc. 5000 Company | Toronto, Ontario, Canada | via linkedin-guest--2026-11-10--v1.md |
 | 2026-11-09 | [Implementation Specialist](https://ca.linkedin.com/jobs/view/implementation-specialist-at-channelengine-4487141701) | ChannelEngine | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v5.md |
 | 2026-11-09 | [IT Specialist](https://ca.linkedin.com/jobs/view/it-specialist-at-o-dell-hvac-group-4489114496) | O'Dell HVAC Group | Ottawa, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [IT Infrastructure Engineer](https://ca.linkedin.com/jobs/view/it-infrastructure-engineer-at-dsel-david-schaeffer-engineering-ltd-4489112379) | DSEL - David Schaeffer Engineering Ltd. | Markham, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
@@ -5987,4 +5996,4 @@ _Generated by the hourly job scan; verified against the live board before merge.
 
 ## Archive
 
-`README.BAK_2026-11-10T094359Z.md` holds the rows that aged out of the 30-day window on 2026-11-10.
+`README.BAK_2026-11-10T113407Z.md` holds the rows that aged out of the 30-day window on 2026-11-10.
