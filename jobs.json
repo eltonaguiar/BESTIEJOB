@@ -15,10 +15,10 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-10T01:11:53.359Z",
-    "generatedAt": "2026-11-10T01:11:53.359Z",
-    "total": 5210,
-    "newThisScan": 749,
+    "scrapedAt": "2026-11-10T02:07:50Z",
+    "generatedAt": "2026-11-10T02:07:50Z",
+    "total": 5213,
+    "newThisScan": 752,
     "retainedFromPrevious": 1558,
     "sources": {
       "smartrecruiters": 10,
@@ -30,11 +30,14 @@
       "remoteok": 1,
       "jobicy": 2,
       "remotive": 4,
-      "adzuna": 397
+      "adzuna": 397,
+      "careers.deloitte.ca": 1,
+      "jobs.scotiabank.com": 1,
+      "jobs.ca": 1
     },
     "primaryCounts": {
       "servicenow": 1072,
-      "salesforce": 1065
+      "salesforce": 1068
     }
   },
   "jobs": [
@@ -92329,6 +92332,63 @@
       "tags": [
         "salesforce"
       ]
+    },
+    {
+      "id": "careers.deloitte.ca:133488",
+      "source": "careers.deloitte.ca",
+      "company": "Deloitte",
+      "title": "Director, Salesforce Delivery and Architecture",
+      "location": "Toronto, ON (Remote)",
+      "url": "https://careers.deloitte.ca/job/Director,-Salesforce-Delivery-and-Architecture,-Deloitte-Global-Technology/133488-en_US/",
+      "employmentType": "Permanent",
+      "salary": "$140,000–$260,000 a year",
+      "postedDate": "2026-10-23",
+      "scrapedAt": "2026-11-10T02:07:50Z",
+      "excerpt": "Ref 133488 · enterprise Salesforce platform strategy & delivery · 15+ yrs exp · Salesforce Elite partner",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-10T02:07:50Z.000000+00:00",
+      "verifyState": "live"
+    },
+    {
+      "id": "jobs.scotiabank.com:606915617",
+      "source": "jobs.scotiabank.com",
+      "company": "Scotiabank",
+      "title": "DevOps Engineer (Salesforce)",
+      "location": "Toronto, ON",
+      "url": "https://jobs.scotiabank.com/job/Toronto-DevOps-Engineer(Salesforce)-ON-M5H-1A1/606915617/",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-07",
+      "scrapedAt": "2026-11-10T02:07:50Z",
+      "excerpt": "Req 276046 · Salesforce CI/CD, release & environment management · Commercial Banking Engineering",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-10T02:07:50Z.000000+00:00",
+      "verifyState": "live"
+    },
+    {
+      "id": "jobs.ca:td-83012a257d40",
+      "source": "jobs.ca",
+      "company": "TD Bank",
+      "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
+      "location": "Toronto, ON (Hybrid)",
+      "url": "https://www.jobs.ca/td/jobs/software-engineer-ii-salesforce-loyalty-management-developer-toronto-on-83012a257d40",
+      "employmentType": "Full-time",
+      "salary": "$81,600–$115,200 a year",
+      "postedDate": "2026-10-27",
+      "scrapedAt": "2026-11-10T02:07:50Z",
+      "excerpt": "Apply by 2026-11-10 · 5-7 yrs · Salesforce Loyalty Management, Sales/Service/Data Cloud",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-10T02:07:50Z.000000+00:00",
+      "verifyState": "live"
     }
   ]
 }
