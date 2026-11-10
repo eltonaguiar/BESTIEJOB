@@ -414,6 +414,39 @@ Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.s
 - `public/` (GitHub Pages) — rebuilt with `python3 tools/build_site.py` (4,516 indexed jobs); pages.yml redeploys on push to main.
 - `dead_urls.txt` — unchanged this hour (no new dead URLs confirmed).
 
+## Hourly scan — 2026-11-09 23:00 EST (2026-11-10 04:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-09 23:00 EST (04:00 UTC) |
+| jobs.json baseline on main | 5,319 unique URLs |
+| Baseline (README.md tables on main) | "as of 2026-11-09" · window 2026-10-11 → 2026-11-10 · 5,808 live postings (SN 743 · SF 948 · Other 4,117) · deduplicated by URL |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 1 |
+| Jobs merged to README.md | 1 |
+| Jobs rebuilt on GitHub Pages (public/) | 1 (via `python3 tools/build_site.py`; `pages.yml` redeploys on push to main) |
+
+### Sources queried
+Indeed.ca, ca.linkedin.com, jobbank.gc.ca, ServiceNow Careers Ontario (careers.servicenow.com), Salesforce Careers Canada (careers.salesforce.com), jobs.rogers.com, jobs.bell.ca, jobs.gc.ca; targeted `site:` queries against myworkdayjobs.com / greenhouse.io / lever.co / ashbyhq.com. Employer/Elite Partner checks: Accenture, Deloitte, KPMG, CGI, BDO, Capgemini, TELUS, RBC, Scotiabank, BMO, TD, CIBC, Lane Four, Altus Group, Moneris, Huron Consulting Group.
+
+### Candidates reviewed (disposition)
+- **Moneris Solutions — Principal Salesforce Software Developer, Toronto, hybrid** (jobs.ca/job/4a773717-a5e6-4079-8045-edef3b5fbb12; posted 2026-11-02; Workday JR106006): verified live, URL absent from jobs.json/README.md → merged to Salesforce table. jobs.json 5,319 → 5,320; README Salesforce 948 → 949, total 5,808 → 5,809.
+- **Huron Consulting Group — ServiceNow Developer (Sr. Associate), Toronto, hybrid** (Indeed ca.indeed.com/viewjob?jk=6c5cb24a7275477d; posted 2026-11-09): a Huron ServiceNow Sr. Associate opening is already on origin/main under a different URL → duplicate opening, not re-added (one opening per board row).
+- **Scotiabank — ServiceNow Developer req 260518** and **Salesforce Developer req 265640**: pages live but URLs already on board → duplicates, skipped.
+- **BFG Enterprise Services — ServiceNow Administrator/Developer (Intermediate), Markham**: same opening already on board via careers.bfg.ca/jobs/707075 (2026-11-03) → duplicate opening, not re-added.
+- **Rogers / Bell / jobs.gc.ca**: Rogers Technology list no SN/SF technical role; Bell SN/SF pages return "has been filled"; jobs.gc.ca zero direct SN/SF Toronto hits → nothing added.
+
+### Patterns / lessons (23:00 run)
+1. **One verified merge this hour** — Moneris Principal Salesforce Developer (jobs.ca). It carried an absolute posted date and a direct ATS URL, clearing the merge gate.
+2. **Dedupe by opening, not just URL** — Huron's Indeed detail URL was new, but the same opening already existed on the board via a different URL; merged once under the canonical employer URL. Likewise BFG's talent.com mirror.
+3. **Direct Scotiabank requisitions were already on the board** — req 260518/265640 existed in jobs.json/README.md; no net-new add, confirming the board is current through 2026-11-10 on origin/main.
+4. **Indeed.ca detail pages (viewjob?jk=...) are extractable when the direct URL is captured at search time** — unlike Indeed listing/search pages (listing URLs rejected by the merger).
+
+### Files touched (23:00 run)
+- `JOBLESSONS_2026-11-09.MD` — this file, 23:00 EST section added.
+- `README.md` — +1 row (Moneris SF); Salesforce 948→949, total 5,808→5,809.
+- `jobs.json` — 5,319→5,320.
+- `public/jobs-data.json` + `public/index.html` — rebuilt (4,784 indexed jobs: servicenow 770, salesforce 834, other 3,180); `pages.yml` redeploys on push to main.
+
 
 
 ## 2026-11-09 hourly scan (14:00 EST / 19:00 UTC) — Hermes cron
