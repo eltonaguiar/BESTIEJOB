@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-10T12:16:55.673Z",
     "generatedAt": "2026-11-10T12:16:55.673Z",
-    "total": 5337,
+    "total": 5338,
     "newThisScan": 711,
     "retainedFromPrevious": 1610,
     "sources": {
@@ -71673,6 +71673,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5948025592",
+      "source": "readme",
+      "company": "White Bay",
+      "title": "Salesforce Administrator / Natural Health / Hybrid in Toronto / $60-75k  Benefits",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948025592",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-10T12:46:30.099Z",
+      "excerpt": "via adzuna-autonomous--2026-11-05--v14.md",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
       ]
     },
     {
