@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-10T193414Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-10T203444Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-10](#current-jobs--as-of-2026-11-10)
-  - [ServiceNow jobs (745)](#servicenow-jobs-745)
+  - [ServiceNow jobs (746)](#servicenow-jobs-746)
   - [Salesforce jobs (965)](#salesforce-jobs-965)
   - [Other jobs (4109)](#other-jobs-4109)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,18 +18,19 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-10
 
-Window: 2026-10-11 → 2026-11-10 · **5819 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-11 → 2026-11-10 · **5820 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (745)
+### ServiceNow jobs (746)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 745 postings</strong></summary>
+<details><summary><strong>Show 746 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-10 | [ServiceNow Platform Specialist](https://jobicy.com/jobs/160724-servicenow-platform-specialist) | Alimentiv | Canada |  |
 | 2026-11-10 | [ServiceNow Hardware Asset Management (HAM) Consultant](https://www.accenture.com/us-en/careers/jobdetails?id=14379035_en) | Accenture | Canada |  |
+| 2026-11-10 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-jcttek-4488390793) | Jcttek | Ottawa, Ontario, Canada | via inbox_opencode-job-hunt-c13--2026-11-10--v2.md |
 | 2026-11-10 | [Service Now ITAM/Discovery](https://ca.linkedin.com/jobs/view/service-now-itam-discovery-at-zodiac-solutions-inc-4487497210) | Zodiac Solutions, Inc | Toronto, Ontario, Canada |  |
 | 2026-11-10 | [Senior Operational Readiness &amp; Service Transition Advisor (ITSM)](https://ca.linkedin.com/jobs/view/senior-operational-readiness-service-transition-advisor-itsm-at-ontario-power-generation-4487494822) | Ontario Power Generation | Oshawa, Ontario, Canada | via fresh-ca--2026-11-10--v1.md |
 | 2026-11-10 | [ITOM Solution Architect](https://jobs.smartrecruiters.com/ServiceNow/744000151461304-itom-solution-architect) | ServiceNow | North America / Canada |  |
@@ -1049,6 +1050,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Salesforce Tech Lead / Architect with Health Cloud - Recutify Inc. / Toronto, ON](https://www.simplyhired.ca/job/cPtl4MEh3a-Vu0muhmbq58dIZ_aU9XbYksQ0kVjlxrffsQdOhfLbTw) | Recutify Inc. / Toronto, ON | Canada | via round11-cached--2026-11-05--v11.md |
 | 2026-11-04 | [Salesforce Tech Lead (Canada-Remote) – Remote · Canada / CloudLabs Inc](https://www.jobs.ca/cloudlabs-inc/jobs/salesforce-tech-lead-canada-remote-remote-canada-ea70cc9f0a5b) | Remote · Canada / CloudLabs Inc | Canada | via round11-cached--2026-11-05--v11.md |
 | 2026-11-04 | [Salesforce Solution Architect](https://jobs.lever.co/jobgether/acffb83c-240b-4e9e-9cc9-f75d323a2f66) | jobgether | US | via gx10--2026-11-05--v12.md |
+| 2026-11-04 | [Salesforce Solution Architect](https://careers.cognizant.com/ca-en/jobs/00070590911/salesforce-solution-architect/) | Cognizant | Toronto, ON-199 Bay Street, Ontario, Canada | via cron scan 2026-11-10 · hybrid · $138K-$160K · applies until open |
 | 2026-11-04 | [Salesforce Software Developer / Teladoc Health Canada](https://www.teladochealth.ca/careers/sf-sw-dev) | Teladoc Health Canada | Canada | via round11-cached--2026-11-05--v11.md |
 | 2026-11-04 | [Salesforce Service Technical Lead](https://www.linkedin.com/jobs/view/salesforce-service-technical-lead-at-protiviti-4482035489) | Protiviti | New York, NY | via buffy--2026-11-08--v2.md |
 | 2026-11-04 | [Salesforce Service Cloud Integrations focus + strong Agent force](https://www.linkedin.com/jobs/view/salesforce-service-cloud-integrations-focus-%2B-strong-agent-force-at-maven-companies-inc-4485537011) | Maven Companies Inc. | Seattle, WA | via buffy--2026-11-08--v2.md |
@@ -1137,9 +1139,8 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [Account Solution Engineer - Enterprise Nonprofit Team](https://www.linkedin.com/jobs/view/account-solution-engineer-enterprise-nonprofit-team-at-salesforce-4487545680) | Salesforce | Seattle, WA | via buffy--2026-11-08--v2.md |
 | 2026-11-04 | [3319 - Intermediate Salesforce Marketing Cloud Specialist](https://ca.linkedin.com/jobs/view/3319-intermediate-salesforce-marketing-cloud-specialist-at-amyantek-4487270331) | Amyantek | Toronto, Ontario, Canada | via buffy-linkedin60d--2026-11-04--v3.md |
 | 2026-11-04 | [((Hiring) Solutions Architect, Salesforce Migrations @Salesforce)(https://remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295)](https://remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295) | Unknown | Canada | via round11-cached--2026-11-05--v11.md |
-|| 2026-11-04 | [((Hiring) Senior Salesforce Administrator @Desjardins)(https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269)](https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269) | Unknown | Canada | via round11-cached--2026-11-05--v11.md |
-|| 2026-11-04 | [Salesforce Solution Architect](https://careers.cognizant.com/ca-en/jobs/00070590911/salesforce-solution-architect/) | Cognizant | Toronto, ON-199 Bay Street, Ontario, Canada | via cron scan 2026-11-10 · hybrid · $138K-$160K · applies until open |
-|| 2026-11-03 | [Tech Lead Salesforce Financial Services Cloud (FSC)](https://www.adzuna.ca/details/5951768537?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | via adzuna-round9--2026-11-05--v17.md |
+| 2026-11-04 | [((Hiring) Senior Salesforce Administrator @Desjardins)(https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269)](https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269) | Unknown | Canada | via round11-cached--2026-11-05--v11.md |
+| 2026-11-03 | [Tech Lead Salesforce Financial Services Cloud (FSC)](https://www.adzuna.ca/details/5951768537?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | via adzuna-round9--2026-11-05--v17.md |
 | 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-assurance-et-services-financiers-4486061644) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-final--2026-11-09--v1.md |
 | 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-assurance-et-services-financiers-4486071459) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada | via inbox_opencode-job-hunt-c5--2026-11-09--v1.md |
 | 2026-11-03 | [Systems Developer - Salesforce](https://ca.linkedin.com/jobs/view/systems-developer-salesforce-at-co-operators-4487024058) | Co-operators | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-c5--2026-11-09--v6.md |
@@ -1197,9 +1198,9 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-03 | [Salesforce Data Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-developer-at-themesoft-inc-4487063778) | Themesoft Inc. | Toronto, Ontario, Canada | via buffy-linkedin60d--2026-11-04--v9.md |
 | 2026-11-03 | [Salesforce Consultant - FSC Cloud](https://www.adzuna.ca/details/5951978948?utm_medium=api&utm_source=54ce986e) | Enterprise Solutions Inc. | Toronto, Ontario | via adzuna-round14--2026-11-06--v11.md |
 | 2026-11-03 | [Salesforce BSA](https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486313159) | Cognizant | Toronto, Ontario, Canada | via buffy-linkedin60d--2026-11-04--v9.md |
-|| 2026-11-03 | [Salesforce BSA](https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486310181) | Cognizant | Toronto, Ontario, Canada | via buffy-linkedin60d--2026-11-04--v9.md |
-|| 2026-11-03 | [Salesforce BSA](https://careers.cognizant.com/us-en/jobs/00071172332/salesforce-bsa/) | Cognizant | Toronto, ON-199 Bay Street, Ontario, Canada | via cron scan 2026-11-10 · hybrid · $80K-$95K · applies by 11/13 |
-|| 2026-11-03 | [Salesforce Analyst / Administrator](https://ca.linkedin.com/jobs/view/salesforce-analyst-administrator-analyste-administrateur-salesforce-at-astek-4479128400) | Analyste / Administrateur Salesforce | Astek | Canada |
+| 2026-11-03 | [Salesforce BSA](https://ca.linkedin.com/jobs/view/salesforce-bsa-at-cognizant-4486310181) | Cognizant | Toronto, Ontario, Canada | via buffy-linkedin60d--2026-11-04--v9.md |
+| 2026-11-03 | [Salesforce BSA](https://careers.cognizant.com/us-en/jobs/00071172332/salesforce-bsa/) | Cognizant | Toronto, ON-199 Bay Street, Ontario, Canada | via cron scan 2026-11-10 · hybrid · $80K-$95K · applies by 11/13 |
+| 2026-11-03 | [Salesforce Analyst / Administrator](https://ca.linkedin.com/jobs/view/salesforce-analyst-administrator-analyste-administrateur-salesforce-at-astek-4479128400) | Analyste / Administrateur Salesforce | Astek | Canada |
 | 2026-11-03 | [Product Manager - License and Entitlement Operations](https://ca.linkedin.com/jobs/view/product-manager-license-and-entitlement-operations-at-salesforce-partner-canada-4487050502) | Salesforce Partner Canada | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-10--v2.md |
 | 2026-11-03 | [Principal AI & Salesforce Architect - Remote](https://careers-inc.nttdata.com/job/Remote-Principal-AI-&-Salesforce-Architect-Remote-in-US-TX/1437939400/) | NTT Data | Remote (US) | via round11-cached--2026-11-05--v17.md |
 | 2026-11-03 | [Marketing Cloud Solution Architect (Remote)](https://www.adzuna.ca/details/5951980512?utm_medium=api&utm_source=54ce986e) | CloudKettle Inc | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v20.md |
@@ -1218,9 +1219,8 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-03 | [Canadian Public Sector Engagement Delivery Leader](https://ca.linkedin.com/jobs/view/canadian-public-sector-engagement-delivery-leader-at-salesforce-partner-canada-4486835665) | Salesforce Partner Canada | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-10--v2.md |
 | 2026-11-03 | [Business Systems Analyst – Salesforce](https://www.eluta.ca/spl/business-systems-analyst-%E2%80%93-salesforce-52007314692c6d86231d23e981588a17) | American Iron & Metal Company Inc. | Montréal QC | via canada-index--2026-11-06--v13.md |
 | 2026-11-03 | [Analyste des systèmes d’affaires - Salesforce](https://www.eluta.ca/spl/analyste-des-syst%C3%A8mes-d%E2%80%99affaires-salesforce-66a91be5e5ac00a6840c1dd882d15f39) | American Iron & Metal Company Inc. | Montréal QC | via canada-index--2026-11-06--v13.md |
-|| 2026-11-03 | [Analyste / Admin Salesforce](https://ca.linkedin.com/jobs/view/analyste-admin-salesforce-at-flaira-conseils-4485030065) | Flaira Conseils | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v10.md |
-|| 2026-11-02 | [Salesforce Data Cloud Developer](https://careers.cognizant.com/us-en/jobs/00070828311/salesforce-datacloud-developer/) | Cognizant | Toronto, Ontario, Canada | via cron scan 2026-11-10 · hybrid · $77K-$125K · applies by 11/30 |
-|| 2026-11-02 | [nCino Consultant](https://www.adzuna.ca/details/5950813856?utm_medium=api&utm_source=54ce986e) | Delpath | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v20.md |
+| 2026-11-03 | [Analyste / Admin Salesforce](https://ca.linkedin.com/jobs/view/analyste-admin-salesforce-at-flaira-conseils-4485030065) | Flaira Conseils | Montreal, Quebec, Canada | via linkedin-guest--2026-11-04--v10.md |
+| 2026-11-02 | [nCino Consultant](https://www.adzuna.ca/details/5950813856?utm_medium=api&utm_source=54ce986e) | Delpath | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v20.md |
 | 2026-11-02 | [Technical Architect-Salesforce](https://www.linkedin.com/jobs/view/technical-architect-salesforce-at-stifel-financial-corp-4485777862) | Stifel Financial Corp. | New York, NY | via buffy--2026-11-08--v8.md |
 | 2026-11-02 | [Tech Lead Salesforce Financial Services Cloud (FSC)](https://www.adzuna.ca/details/5950768381?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | via buffy-critical--2026-11-02--v55.md |
 | 2026-11-02 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://www.adzuna.ca/details/5950813944?utm_medium=api&utm_source=54ce986e) | Salesforce Partner Canada | Toronto, Ontario | via adzuna-round14--2026-11-06--v11.md |
@@ -1259,6 +1259,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-02 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5950814827?utm_medium=api&utm_source=54ce986e) | ATB Financial | Fort Saskatchewan, Edmonton region | via buffy-critical--2026-11-02--v55.md |
 | 2026-11-02 | [Salesforce DevOps Developer](https://www.adzuna.ca/details/5950814682?utm_medium=api&utm_source=54ce986e) | ATB | Fort Saskatchewan, Edmonton region | via aicert-harvest-2026-11-03 |
 | 2026-11-02 | [Salesforce Data Migration Lead](https://www.adzuna.ca/details/5950540606?utm_medium=api&utm_source=54ce986e) | Whopper Technologies | Mississauga, Peel region | via adzuna-autonomous--2026-11-05--v20.md |
+| 2026-11-02 | [Salesforce Data Cloud Developer](https://careers.cognizant.com/us-en/jobs/00070828311/salesforce-datacloud-developer/) | Cognizant | Toronto, Ontario, Canada | via cron scan 2026-11-10 · hybrid · $77K-$125K · applies by 11/30 |
 | 2026-11-02 | [Salesforce Consultants (remote Canada )](https://www.adzuna.ca/details/5950539606?utm_medium=api&utm_source=54ce986e) | Ensiti | Montréal, Québec | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-11-02 | [Salesforce Consultant, Change Management](https://www.adzuna.ca/details/5950546447?utm_medium=api&utm_source=54ce986e) | NeuraFlash, Part of Accenture | Vancouver, Greater Vancouver | via adzuna-autonomous--2026-11-05--v20.md |
 | 2026-11-02 | [Salesforce Consultant](https://www.adzuna.ca/details/5950813933?utm_medium=api&utm_source=54ce986e) | Futran Solutions | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v20.md |
@@ -5999,4 +6000,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-10T193414Z.md` holds the rows that aged out of the 30-day window on 2026-11-10.
+`README.BAK_2026-11-10T203444Z.md` holds the rows that aged out of the 30-day window on 2026-11-10.
