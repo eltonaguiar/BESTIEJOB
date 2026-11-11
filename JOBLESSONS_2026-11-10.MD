@@ -598,3 +598,35 @@ Zero new merges pushed to origin/main.
 
 ### Files touched (this run)
 - `JOBLESSONS_2026-11-10.MD` — 20:00 EST section appended (docs only; no README.md / public/ / jobs.json change since 0 new jobs)
+
+## Scan cycle — 2026-11-10 21:00 EST (hourly cron run, this run)
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-10 21:00 EST |
+| Basis | Local main fast-forwarded to origin/main (1fba00c); board already carries the 00:30Z/01:34Z/01:46Z UTC merge results — +5 agency ServiceNow/Salesforce postings (opencode commit 1fba00c) and +11 ServiceNow careers RSS rows (commit f8d37ba); GitHub Pages deployed, run 427 success at 2026-11-11T01:47Z |
+| Fresh board-eligible postings found since last origin sync | 0 |
+| Rows merged to README.md | 0 (nothing new beyond origin/main; board current through 2026-11-10: SN 1,087 · SF 1,245 · Other 4,156 · total 6,488) |
+| Rows merged to GitHub Pages (public/) | 0 (no commit needed; public/ already matches origin/main and is live at https://eltonaguiar.github.io/BESTIEJOB/) |
+
+### Sources checked (independent of the automated sweeps)
+- **LinkedIn site: deep links** — TD Sr. IT Developer (ServiceNow) 4130481433 / 4177846836 (5+ yrs / 2+ yrs), Equinix ServiceNow Platform Developer/Engineer 4208389945, Scotiabank ServiceNow Solutions Architect – Platform Integration 4221477571, Central 1 ServiceNow Administrator & Developer 4193266294 (5+ yrs), Canada Life ServiceNow Software Developer 4117805118 (2+ yrs): all senior/non-Platform-Admin-or-PD1, and LinkedIn gives only relative ages behind a login wall, so no verifiable absolute posted date → excluded per title/date rule.
+- **ServiceNow Careers Ontario** — Nov 06 staff/security roles already tracked; Nov 09 Sales Director - CRM Sales and Senior CRM Account Executive are sales roles, title-rule excluded.
+- **Salesforce Careers Canada hub** — sales / management / SE roles only; no Platform Administrator or Platform Developer I.
+- **Job Bank (jobbank.gc.ca / on.jobbank.gc.ca)** — zero direct ServiceNow/Salesforce Toronto platform hits in fresh results.
+- **Rogers (jobs.rogers.com)** — Lead Management Operations Req 343961 posted 2026-10-28 (outside window, marketing-ops); Digital Campaigns & Experience Optimization Manager Nov 7 (Salesforce as CRM marketing — sales/marketing title, excluded).
+- **Bell (jobs.bell.ca / jobs.bce.ca)** — ServiceNow System Administrator 432824 filled; Senior Manager ServiceNow Platform Delivery no longer accepting applicants; other SN advisories expired (deadline 11/02/2026 or 04/02/2026). Skip-on-sight.
+- **TELUS (careers.telus.com)** — Salesforce matches are Account/Account Manager sales titles; excluded by title rule.
+- **Government of Canada (jobs.gc.ca / canada.ca)** — zero direct SN/SF Toronto hits; GC platform work arrives via prime vendors on their own ATS (sweep-covered).
+- **Indeed.ca SERP snippets** — BFG Enterprise Services ServiceNow Administrator/Developer Intermediate Markham ($70–85K, 2–4 yrs) and CGI ServiceNow Developer Toronto ($80–130K): no verifiable posted date on the snippet; intermediate/senior, not entry Platform Admin/Dev I → excluded.
+
+### Dedupe check
+All candidates above were checked against the normalized URL set of jobs.json (5,375 rows on origin/main) and APPLIED.md; every Toronto SN/SF lead either matched an existing board URL (duplicate) or failed the date/role rule. No duplicates were added.
+
+### Lessons confirmed this cycle
+1. **Rebase before scan, every run.** Local main was 6 commits behind origin/main (1fba00c) — the board had already merged today's fresh ServiceNow/Salesforce volume (+5 agency rows via commit 1fba00c, +11 ServiceNow RSS rows via f8d37ba) and deployed GitHub Pages (run 427, success). Scanning on a stale clone risks re-reviewing already-boarded jobs and pushing stale data.
+2. **LinkedIn `site:ca.linkedin.com/jobs/view` queries surface indexable deep links, never dates.** Posting dates remain relative ("posted X hours ago") behind a login wall; a LinkedIn-sourced role enters the board only with a verifiable absolute `datePosted`. All 5 LinkedIn leads this cycle failed that test or the entry-level Platform Admin/PD1 title rule.
+3. **Employer/partner pages (Rogers, Bell, TELUS, banks, GC) keep yielding filled/expired or non-platform roles.** Bell's ServiceNow roles are skip-on-sight (filled / expired / no longer accepting applicants); never re-probe them as live.
+4. **Zero-merge hours are the norm after the :00 UTC sweep.** Today's cycles (07:00/08:00/09:00/18:00/19:00/20:00/21:00 EST) all merged 0 board-eligible jobs; entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto remains the standing priority gap.
+
+### Files touched (this run)
+- `JOBLESSONS_2026-11-10.MD` — 21:00 EST section appended (docs only; no README.md / public/ / jobs.json change since 0 new jobs)
