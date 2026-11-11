@@ -238,3 +238,29 @@ All 9 were deduped against the board (jobs.json URL set + normalized company+tit
 - `inbox/fresh-ca--2026-11-11--v5.md` — empty inbox table (0 rows)
 - `README.md` — unchanged (SN 500 · SF 504 · Other 499 · total 1,503)
 - `public/` / GitHub Pages — unchanged; no redeploy required
+
+## 11:00 hourly scan (this cycle) — null run
+
+**Date**: 2026-11-11 · **Run time**: 2026-11-11 11:00 EST (16:00 UTC) · **Branch**: main (current with `ce78cf8`)
+
+**Result**: No new verified-fresh Toronto ServiceNow/Salesforce Platform Admin / Platform Developer I / entry-level roles to merge.
+
+**What was checked**
+- `scripts/fresh_ca_scan.py --days 2 --eluta-pages 2 --jobbank-pages 2 --linkedin 0 --geos "||Toronto, Ontario|Ontario"` (LinkedIn guest pass deferred to keep the hourly cycle bounded): 68 Adzuna API calls + 11 Job Bank pages + 6 Eluta pages → 37 raw rows, 6 unique, **0 kept**. All 5 URL-matches and 1 title-match were already on the board.
+- Web search: ServiceNow + Salesforce Toronto postings (Nov 9–11) across Indeed.ca, BuiltIn.ca and company career sites — every surfaced role already on board under its URL or normalized company+title key, or intermediate/senior/architect level (BDO, Cprime, Altus Group, Robert Half, Scotiabank req 260518 closed, CGI, Lightspeed, KPMG, Moneris), none entry-level Platform Admin/Dev I.
+- Individual liveness verification: not required — no candidate survived dedupe.
+- Partner / telco / government check (Rogers jobs.rogers.com, Bell jobs.bce.ca/jobs.bell.ca, jobs.gc.ca, gojobs.gov.on.ca): no fresh dated Toronto SN/SF platform requisitions — consistent with prior runs. Elite partners (Accenture, Deloitte, KPMG, CGI, Fujitsu, IBM, TCS, Capgemini, Wipro) and banks (Scotiabank, RBC, TD, BMO, CIBC): vacancies already on board; no fresh dated Toronto platform requisitions.
+
+**Already on board (duplicates, not re-added)**
+- All 6 unique fresh-ca candidates survived date + liveness + URL dedupe but matched existing board entries by normalized URL or company+title fingerprint.
+
+**Merged**: 0 jobs to README.md; 0 to GitHub Pages (README unchanged → no pages.yml rebuild required; board and GitHub Pages current as of 2026-11-11 via commit `ce78cf8`).
+
+**Lesson confirmed**: null runs are the expected norm — sixth consecutive hourly cycle this date (00:00 merged 9 via `fa52e79`; 06:00 merged 3; 01:00/02:00/05:00/09:00/11:00 null) with zero verified-fresh Platform Admin/Platform Developer I Toronto entries beyond the :00 deep scans. Host-side Adzuna access is throttled (the 68-call sweep took ~6 minutes with retries); bounded call volumes complete reliably. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced — remains the top keyword gap.
+
+**Files touched**
+- `JOBLESSONS_2026-11-11.MD` — this section (11:00 EST null-run record added)
+- `reports/fresh_ca_2026-11-11.json` — regenerated (count: 0, window 2026-11-10 → 2026-11-11)
+- `inbox/fresh-ca--2026-11-11--v6.md` — empty inbox table (0 rows)
+- `README.md` — unchanged (SN 500 · SF 507 · Other 499 · total 1,506)
+- `public/` / GitHub Pages — unchanged; no redeploy required
