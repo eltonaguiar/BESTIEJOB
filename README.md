@@ -1128,11 +1128,10 @@ Window: 2026-10-12 → 2026-11-11 · **6500 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1239)_developer / administrator / architect / consultant roles_
-
-<details><summary><strong>Show 1239 postings</strong></summary>
-
+### Salesforce jobs (1240)_developer / administrator / architect / consultant roles_
+<details><summary><strong>Show 1240 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
+| 2026-11-11 | [[[C] Salesforce Engineer / Developer - Maple Leaf Sports & Entertainment Partnership - Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/gk9C4LalCQE4zz38JmdL0cDOsMRaZ54qHSTzeAZ4Yaerd-VRe1HXdGcyFfkUIgCD)](https://www.workopolis.com/jobsearch/viewjob/gk9C4LalCQE4zz38JmdL0cDOsMRaZ54qHSTzeAZ4Yaerd-VRe1HXdGcyFfkUIgCD) | Workopolis Canada | Toronto | via inbox_opencode-job-hunt-workopolis--2026-11-11--v1.md |
 |---|---|---|---|---|
 | 2026-11-11 | [Principle Salesforce Developer - Moneris Solutions / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/Hb00gRzk8NMSfywPQen42c4GP_Cae3kLBW8xrgQ7r60sP0sv48nE4a6DaBRnJ9Hb) | Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/Hb00gRzk8NMSfywPQen42c4GP_Cae3kLBW8xrgQ7r60sP0sv48nE4a6DaBRnJ9Hb) | Workopolis Canada | Toronto |
 | 2026-11-11 | [Salesforce Developer with Java OR SQL - LTM / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/ApGljjiKR3ptpZAqTqegna-B9Ya5QKQc9pFY5Aui-yHeouI5oZGmoHjkm-P1ubY0) | Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/ApGljjiKR3ptpZAqTqegna-B9Ya5QKQc9pFY5Aui-yHeouI5oZGmoHjkm-P1ubY0) | Workopolis Canada | Toronto |
@@ -2376,11 +2375,10 @@ Window: 2026-10-12 → 2026-11-11 · **6500 live postings** · deduplicated by U
 
 </details>
 
-### Other jobs (4162)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
-
-<details><summary><strong>Show 4162 postings</strong></summary>
-
+### Other jobs (4163)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
+<details><summary><strong>Show 4163 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
+| 2026-11-11 | [RQ11863-Microsoft Dynamics 365 CRM Developer](https://ca.linkedin.com/jobs/view/rq11863-microsoft-dynamics-365-crm-developer-at-amyantek-4489694136) | Amyantek | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-hybrid--2026-11-11--v1.md |
 |---|---|---|---|---|
 | 2026-11-11 | [IRM/GRC Technologies Senior Associate - Pwc Canada / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/xks0uYKESLPSrfcsYZwyhm6h9bTW2OslMxj1ozX2x-efaD_s_5-ldwhGI_qBMnnL) | Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/xks0uYKESLPSrfcsYZwyhm6h9bTW2OslMxj1ozX2x-efaD_s_5-ldwhGI_qBMnnL) | Workopolis Canada | Toronto |
 | 2026-11-11 | [Junior GRC Analyst Intern - TMX Group Limited / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/0JqG1As_naPn2fY1ZICETisF4rCjajcKqFNBmB91c63bc1NLbXk3Dgujlsz_IEDp) | Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/0JqG1As_naPn2fY1ZICETisF4rCjajcKqFNBmB91c63bc1NLbXk3Dgujlsz_IEDp) | Workopolis Canada | Toronto |
