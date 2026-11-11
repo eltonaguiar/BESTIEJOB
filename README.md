@@ -4,21 +4,21 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T014639Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T020625Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
   - [ServiceNow jobs (1087)](#servicenow-jobs-1087)
   - [Salesforce jobs (1245)](#salesforce-jobs-1245)
-  - [Other jobs (4156)](#other-jobs-4156)
+  - [Other jobs (4157)](#other-jobs-4157)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **6488 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **6489 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1087)
 
@@ -2374,11 +2374,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (4156)
+### Other jobs (4157)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 4156 postings</strong></summary>
+<details><summary><strong>Show 4157 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -2495,6 +2495,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-09 | [CONSEILLER EN GOUVERNANCE IA](https://ca.linkedin.com/jobs/view/conseiller-en-gouvernance-ia-at-chrome-technologies-4487683823) | Chrome Technologies | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [COBOL / Production Support Engineer (Deposit Systems)](https://ca.linkedin.com/jobs/view/cobol-production-support-engineer-deposit-systems-at-mindtris-4489106628) | Mindtris | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [Business Technology Solutions Manager](https://ca.linkedin.com/jobs/view/business-technology-solutions-manager-at-bgis-4487659421) | BGIS | Markham, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
+| 2026-11-09 | [Business Systems Consultant](https://www.simplyhired.ca/job/ESILlKDQpiX36RlDqvkwQdKqJlJXe4zSu67kv4t9kjP_K1cf1xYhAw) | CIBC | Toronto, ON | via inbox_opencode-job-hunt-cibc--2026-11-11--v1.md |
 | 2026-11-09 | [Bilingual Operations Manager (EN/FR)](https://ca.linkedin.com/jobs/view/bilingual-operations-manager-en-fr-at-bgis-4487927900) | BGIS | Montreal, Quebec, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [Bilingual Manager, Cloud Infrastructure (Paas)](https://ca.linkedin.com/jobs/view/bilingual-manager-cloud-infrastructure-paas-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4401786784) | Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL) | Ottawa, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [BIM Quality Specialist Digital Delivery - Rail & Transit](https://ca.linkedin.com/jobs/view/bim-quality-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451265764) | WSP in Canada | Markham, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
@@ -6668,4 +6669,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-11T014639Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
+`README.BAK_2026-11-11T020625Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
