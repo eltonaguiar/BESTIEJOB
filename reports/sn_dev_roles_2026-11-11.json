@@ -1,132 +1,125 @@
-[
- {
-  "url": "https://www.jobleads.com/ca/job/software-developer-senior--toronto--eb85e8be7b789921093bd02248b74fc68",
-  "company": "Akkodis",
-  "where": "Toronto, Ontario, CA",
-  "status": 200,
-  "posted": "2026-11-05",
-  "title": "Software Developer - Senior",
-  "closed": "",
-  "note": ""
+{
+ "status": {
+  "GC Jobs (federal)": {
+   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31619B",
+   "raw": 0
+  },
+  "RemoteOK": {
+   "status": "http 200, 100 jobs",
+   "raw": 0
+  },
+  "Remotive": {
+   "status": "http 200, 13 jobs",
+   "raw": 13
+  },
+  "Himalayas": {
+   "status": "p0:20/117922, p1:20/117932, p2:20/117922, p3:20/117922, p4:20/117922",
+   "raw": 0
+  },
+  "Jobboom (QC)": {
+   "status": "http 403, 6046B; http 403, 6088B",
+   "raw": 0
+  },
+  "We Work Remotely": {
+   "status": "http 200; http 200",
+   "raw": 0
+  },
+  "Hacker News hiring": {
+   "status": "thread 22665398, 0 SN comments",
+   "raw": 0
+  },
+  "Reddit r/servicenow": {
+   "status": "http 403 (blocked)",
+   "raw": 0
+  },
+  "Careerjet CA": {
+   "status": "http 200; http 200",
+   "raw": 0
+  },
+  "Jobrapido CA": {
+   "status": "http 200, 0 SN links",
+   "raw": 0
+  },
+  "Monster.ca": {
+   "status": "http 403",
+   "raw": 0
+  },
+  "Jobs.ca": {
+   "status": "http 404",
+   "raw": 0
+  },
+  "_verify": {
+   "status": "liveness checked, 0 live",
+   "raw": 0
+  }
  },
- {
-  "url": "https://scoutify.com/companies/brookfield/jobs/3116423",
-  "company": "Brookfield",
-  "where": "Toronto, ON",
-  "status": 410,
-  "posted": "",
-  "title": "ServiceNow Developer (CONTRACT ROLE) at Brookfield (Toronto)",
-  "closed": "This role is no longer accepting applications. You can still read the original",
-  "note": ""
- },
- {
-  "url": "https://www.simplyhired.ca/job/YjQcAKOlTkWaMXOa5CB23HMAy2IS19PSGwieoTiDfWvxUTsdGdZDCA",
-  "company": "Lightspeed Commerce",
-  "where": "Toronto, ON",
-  "status": 200,
-  "posted": "",
-  "title": "",
-  "closed": "",
-  "note": ""
- },
- {
-  "url": "https://www.jobillico.com/en/job-offer/kpmg-canadaeLtlFq/consultant-servicenow-developer/17440743",
-  "company": "KPMG Canada",
-  "where": "Toronto, ON, CA",
-  "status": 200,
-  "posted": "2026-10-13",
-  "title": "Consultant, servicenow developer",
-  "closed": "",
-  "note": ""
- },
- {
-  "url": "https://community.getro.com/companies/real-ventures/jobs/98910973-servicenow-developer",
-  "company": "Real Ventures",
-  "where": "Ottawa, ON, Canada",
-  "status": 200,
-  "posted": "2026-11-04",
-  "title": "ServiceNow Developer",
-  "closed": "font-weight=\"600\" font-size=\"14px\" color=\"text.dark\" class=\"sc-aXZVg dkjSzf\">This job is no longer accepting application",
-  "note": ""
- },
- {
-  "url": "https://systematix.com/opportunity/senior-servicenow-developer-itom-2",
-  "company": "Systematix",
-  "where": "Remote, Canada",
-  "status": 200,
-  "posted": "",
-  "title": "Senior ServiceNow Developer (ITOM) - Systematix",
-  "closed": "",
-  "note": ""
- },
- {
-  "url": "https://www.jobs.ca/systematix/jobs/senior-servicenow-developer-itom-remote-canada-d1404c402e83",
-  "company": "Systematix",
-  "where": "Remote, Canada",
-  "status": 200,
-  "posted": "2026-10-17",
-  "title": "Senior ServiceNow Developer (ITOM)",
-  "closed": "",
-  "note": ""
- },
- {
-  "url": "https://www.jobs.ca/hanalytica-gmbh/jobs/senior-servicenow-developer-remote-canada-a7dd1dcc0587",
-  "company": "Hanalytica",
-  "where": "Remote, Canada",
-  "status": 200,
-  "posted": "",
-  "title": "Senior ServiceNow Developer \u2013 Remote \u00b7 Canada | Hanalytica GmbH",
-  "closed": "",
-  "note": ""
- },
- {
-  "url": "https://www.workopolis.com/jobsearch/viewjob/T7s0oCYEH_yoNlqKUg-wnygebQQbFB0OjW-KnzruMo5Zdd5pGdIJw1zPOh1LcAZu",
-  "company": "Maplesoft Group",
-  "where": "Remote, Canada",
-  "status": 200,
-  "posted": "",
-  "title": "",
-  "closed": "",
-  "note": ""
- },
- {
-  "url": "https://www.jobs.ca/saransh-inc/jobs/servicenow-developer-servicenow-architect-remote-canada-pst-remote-canada-d8e56ff7fd08",
-  "company": "Saransh Inc",
-  "where": "Remote, Canada",
-  "status": 200,
-  "posted": "2026-09-01",
-  "title": "ServiceNow Developer / ServiceNow Architect - Remote (Canada PST)",
-  "closed": "",
-  "note": ""
- },
- {
-  "url": "https://www.jobs.ca/hcltech/jobs/servicenow-developer-remote-canada-c9d8ed24fed7",
-  "company": "HCLTech",
-  "where": "Remote, Canada",
-  "status": 200,
-  "posted": "",
-  "title": "ServiceNow Developer - Expired | HCLTech",
-  "closed": "has expired This position at HCLTech is no longer accepting applications. The original posting remains below for refere",
-  "note": ""
- },
- {
-  "url": "https://jobs.toronto.ca/jobsatcity/job/Toronto-SYSTEMS-INTEGRATOR-1-%28SERVICENOW-DEVELOPER%29-ON-M5V-3C6/606700617",
-  "company": "City of Toronto",
-  "where": "Toronto, ON",
-  "status": 200,
-  "posted": "",
-  "title": "SYSTEMS INTEGRATOR 1 (SERVICENOW DEVELOPER) Job Details | City of Toronto",
-  "closed": "",
-  "note": ""
- },
- {
-  "url": "https://www.adecco.com/en-ca/job-search/servicenow-developer-ottawa-ontario/ca_en_1_027616_2568044",
-  "company": "Adecco",
-  "where": "Ottawa, Ontario, CA",
-  "status": 410,
-  "posted": "2026-07-14",
-  "title": "ServiceNow Developer",
-  "closed": "",
-  "note": ""
- }
-]
+ "dated": [],
+ "undated": [],
+ "dropped": [
+  {
+   "source": "Remotive",
+   "title": "Inside Sales Contractor",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Tier III Service Desk Engineer",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "US Remote Patient Care Advocate (Customer Service)",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Freelance Writer",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Content Reviewer - United States",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Freelance Copywriter",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Full-Stack Developer",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Senior Back-end Developer",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Head of Engineering",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "AI Trainer - Video Annotation",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Software Engineer, AI Coding Tasks",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Tech Lead Full-Stack Rails Engineer",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Remote Office Assistant",
+   "why": "title filter"
+  }
+ ]
+}
