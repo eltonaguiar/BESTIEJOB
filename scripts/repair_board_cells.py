@@ -87,6 +87,9 @@ def main() -> int:
     ap.add_argument("--apply", action="store_true", help="rewrite README.md")
     ap.add_argument("--drop-vendor-sales", action="store_true",
                     help="also remove sales/exec rows at ServiceNow or Salesforce")
+    ap.add_argument("--drop-kinds", default="",
+                    help="comma list of board_invariants kinds to remove, e.g. "
+                         "outside-window,vendor-sales")
     ap.add_argument("--readme", default=str(README))
     ap.add_argument("--show", type=int, default=8, help="examples printed per action")
     args = ap.parse_args()
@@ -137,11 +140,44 @@ def main() -> int:
     for lineno, line in unresolved[: args.show]:
         print(f"  leave  line {lineno}: {line[:160]}")
 
+    pruned: list[tuple[str, str]] = []
+    if args.drop_kinds:
+        # The audit decides what violates a rule; this only applies its verdict to
+        # the file, so a rule can never be enforced in one place and tolerated in
+        # another. Rows leave with an archive, never silently.
+        from datetime import date
+        sys.path.insert(0, str(ROOT / "scripts"))
+        from board_invariants import audit_readme, normalise_url, parse_readme
+        kinds = {k.strip() for k in args.drop_kinds.split(",") if k.strip()}
+        audited, _ = parse_readme(path)
+        flagged = {normalise_url(f["url"]): f["kind"]
+                   for f in audit_readme(audited, None, date.today())
+                   if f["kind"] in kinds and f["url"]}
+        keep: list[str] = []
+        for line in out:
+            m = CELL_URL_RE.search(line)
+            kind = flagged.get(normalise_url(m.group(1))) if m else None
+            if line.startswith("| 20") and kind:
+                pruned.append((line, kind))
+                continue
+            keep.append(line)
+        out = keep
+        for line, kind in pruned[: args.show]:
+            print(f"  prune  {kind}: {line[:140]}")
+        if pruned:
+            from datetime import datetime, timezone
+            stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+            (ROOT / f"README.PRUNED_{stamp}.md").write_text(
+                "# Rows removed because board_invariants.py flagged them\n"
+                f"# kinds: {', '.join(sorted(kinds))}\n\n"
+                + "\n".join(line for line, _ in pruned) + "\n", encoding="utf-8")
+
     print(f"\nsplit rows repaired: {len(repaired)}")
     print(f"vendor sales rows dropped: {len(dropped)}")
+    print(f"rows pruned by audit kind: {len(pruned)}")
     print(f"split rows left for a human: {len(unresolved)}")
 
-    if not (repaired or dropped):
+    if not (repaired or dropped or pruned):
         print("nothing to repair")
         return 0
 

@@ -531,7 +531,10 @@ def probe_icims(tenant: str) -> list[dict]:
             "title": title,
             "location": "Unknown",
             "url": url,
-            "postedDate": datetime.datetime.now(datetime.timezone.utc).date().isoformat(),
+            # iCMS listing markup carries no posting date; today's date would be
+            # the scan clock, so the row stays undated until a resolver fills it.
+            "postedDate": None,
+            "dateSource": "missing",
             "tags": [tag_for(title)],
         })
     return out
@@ -593,7 +596,7 @@ def next_version(day: str) -> int:
 def write_inbox(rows: list[dict], day: str) -> Path:
     INBOX_DIR.mkdir(parents=True, exist_ok=True)
     path = INBOX_DIR / f"gx10--{day}--v{next_version(day)}.md"
-    rows = sorted(rows, key=lambda r: r["postedDate"], reverse=True)
+    rows = sorted(rows, key=lambda r: (r.get("postedDate") or ""), reverse=True)
     lines = [
         f"# gx10 board watch — {day}",
         "",
@@ -609,7 +612,7 @@ def write_inbox(rows: list[dict], day: str) -> Path:
         company = r["company"].replace("|", "\\|")
         loc = r["location"].replace("|", "\\|")
         lines.append(
-            f"| {r['postedDate']} | [{title}]({r['url']}) | {company} | {loc} | {r['url']} |"
+            f"| {r.get('postedDate') or '—'} | [{title}]({r['url']}) | {company} | {loc} | {r['url']} |"
         )
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return path
@@ -707,7 +710,7 @@ def main() -> int:
     day = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
     if args.dry_run:
         for row in found[:40]:
-            logging.info("  [%s] %s — %s", row["postedDate"], row["company"], row["title"])
+            logging.info("  [%s] %s — %s", row.get("postedDate") or "—", row["company"], row["title"])
         logging.info("Dry run: %d rows would be written", len(found))
     else:
         path = write_inbox(found, day)

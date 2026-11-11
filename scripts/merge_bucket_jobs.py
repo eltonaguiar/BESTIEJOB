@@ -58,7 +58,10 @@ def merge_jobs(existing_jobs_path: Path, new_servicenow_jobs_path: Path, new_sal
                 "url": new_job.get("url", ""),
                 "employmentType": "unknown", # Not available in bucket_rounds output
                 "salary": None, # Not available in bucket_rounds output
-                "postedDate": new_job.get("posted", datetime.now(timezone.utc).isoformat()),
+                # A bucket round that carries no date leaves the posting undated;
+                # datetime.now() here was the scan clock, not a posting date.
+                "postedDate": new_job.get("posted") or None,
+                "dateSource": "bucket" if new_job.get("posted") else "missing",
                 "scrapedAt": datetime.now(timezone.utc).isoformat(),
                 "excerpt": "", # Not available in bucket_rounds output
                 "workArrangement": "unknown", # Not available in bucket_rounds output

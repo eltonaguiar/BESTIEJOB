@@ -39,6 +39,9 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "tools"))
+from locscope import region_of                                  # noqa: E402
+
 SCAN_START, SCAN_END = "<!-- DAILY-SCAN:START -->", "<!-- DAILY-SCAN:END -->"
 
 LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
@@ -46,12 +49,8 @@ DATE_RE = re.compile(r"^\s*(\d{4}-\d{2}-\d{2})\s*$")
 SEPARATOR_RE = re.compile(r"^:?-{2,}:?$")
 COUNT_RE = re.compile(r"\*\*(\d[\d,]*)\s+live postings\*\*")
 
-# An explicit country/region outside Canada, in a Location cell.
-NON_CA_RE = re.compile(
-    r"\b(USA|U\.S\.A?\.?|United States|US|India|Bengaluru|Bangalore|Hyderabad|Pune|"
-    r"Philippines|Manila|Australia|Sydney|Melbourne|Singapore|United Kingdom|England|"
-    r"London|Ireland|Dublin|Poland|Romania|Brazil|Mexico|Japan|Germany|Spain|Israel|"
-    r"Ukraine|Netherlands|France)\b")
+# An explicit country is decided by tools/locscope.py so this audit and
+# enforce_canada_scope.py cannot disagree about the same row.
 CA_RE = re.compile(
     r"\b(Canada|Ontario|Quebec|Québec|British Columbia|Alberta|Manitoba|Saskatchewan|"
     r"Nova Scotia|New Brunswick|Newfoundland|Prince Edward Island|Yukon|Nunavut|"
@@ -173,8 +172,8 @@ def audit_readme(rows: list[dict], claimed: int | None, today: date) -> list[dic
             add("split-row", "error", r, "a link leaked into the Company/Location cell — the row's pipes are wrong")
 
         loc = r["location"]
-        if loc and NON_CA_RE.search(loc) and not CA_RE.search(loc):
-            add("non-canada", "warning", r, f"location is explicitly outside Canada: {loc}")
+        if loc and region_of(loc) and region_of(loc) != "ca":
+            add("non-canada", "error", r, f"location is explicitly outside Canada: {loc}")
         elif loc and not CA_RE.search(loc) and "remote" not in loc.lower():
             add("location-ambiguous", "warning", r, f"location names no province or country: {loc}")
 
@@ -241,6 +240,13 @@ def audit_jobs_json(path: Path) -> tuple[list[dict], int]:
         if posted and scraped and abs((posted - scraped).total_seconds()) <= 120:
             findings.append({"kind": "clock-date", "severity": "error",
                              "note": f"postedDate {j.get('postedDate')} equals scrapedAt — this is the scan clock",
+                             "line": None, "posted": (j.get("postedDate") or "")[:19],
+                             "title": j.get("title") or "", "company": j.get("company") or "",
+                             "location": j.get("location") or "", "url": j.get("url") or ""})
+        # A date the writer could not source must never reach the feed at all.
+        if j.get("postedDate") and j.get("dateSource") == "missing":
+            findings.append({"kind": "date-without-source", "severity": "error",
+                             "note": "postedDate is set but dateSource says the posting has no date",
                              "line": None, "posted": (j.get("postedDate") or "")[:19],
                              "title": j.get("title") or "", "company": j.get("company") or "",
                              "location": j.get("location") or "", "url": j.get("url") or ""})

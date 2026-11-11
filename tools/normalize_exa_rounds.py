@@ -110,8 +110,11 @@ def main():
                 total_deduped += 1
                 continue
 
-            # Extract posted date
-            posted = r.get("publishedDate") or stamp
+            # Extract posted date. When Exa has no `publishedDate`, the posting is
+            # undated: writing `stamp` here made the scan clock look like a date
+            # (97 rows by 2026-11-11), so the field stays empty and the row is
+            # reported as undated instead.
+            posted = r.get("publishedDate") or None
 
             company = extract_company(title, url)
             tags = classify(title, url)
@@ -126,6 +129,7 @@ def main():
                 "employmentType": "unknown",
                 "salary": None,
                 "postedDate": posted,
+                "dateSource": "exa" if posted else "missing",
                 "scrapedAt": stamp,
                 "excerpt": title,
                 "workArrangement": "remote" if "remote" in (title + " " + url).lower() else "unknown",
