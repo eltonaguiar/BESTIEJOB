@@ -142,3 +142,20 @@ All 9 were deduped against the board (jobs.json URL set + normalized company+tit
 **Merged**: 0 jobs to README.md; 0 to GitHub Pages (README unchanged → no pages.yml rebuild required; `public/` and jobs.json already redeployed from commit `2584143`, 2026-11-11T06:49Z).
 
 **Lesson confirmed**: null runs are the expected norm — third consecutive hourly cycle this date (00:00 merged 9; 01:00 null; 02:00 null) with zero verified-fresh Platform Admin/Platform Developer I Toronto entries beyond the :00 deep sweep. Fresh Toronto platform roles surface at the :00 scan; treat :01/:02 hourly scans as change-detection only. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced this cycle — remains the top keyword gap.
+
+## 05:00 hourly scan (this cycle) — null run
+
+**Date**: 2026-11-11 · **Run time**: 2026-11-11 05:00 EST (10:00 UTC) · **Branch**: main (current with the latest hourly scan)
+
+**Result**: No new verified-fresh Toronto ServiceNow/Salesforce Platform Admin / Platform Developer I / entry-level roles to merge.
+
+**What was checked**
+- Web search: ServiceNow + Salesforce Toronto postings (Nov 9–11); every surfaced role already on board under its URL or normalized company+title key, or filled/expired/intermediate-level (SS&C, Scotiabank req 261367, Scotiabank req 260518 closed).
+- jobs.json + README dedupe: all Toronto/Ontario SN/SF postings from the last 48h already on the board; none entry-level Platform Admin/Dev I.
+- Individual liveness verification: Bell ServiceNow Developer/Integrator Job 431695 returns "the job you are trying to apply for has been filled" — closed, skip-on-sight. Robinhood "Applications Developer, ServiceNow" (BuiltIn SERP "Posted Yesterday") detail page shows "removed at 10:10 p.m. UTC on Wednesday, Nov 12, 2025" — stale SERP, dead. Rewind "Salesforce Administrator - Toronto (hybrid work)" returns 404 — dead.
+- Partner / telco / government pages (Rogers jobs.rogers.com, Bell jobs.bce.ca, Scotiabank jobs.scotiabank.com, BMO jobs.bmo.com, RBC jobs.rbc.com, Government of Canada jobs.gc.ca): no fresh dated Toronto SN/SF platform requisitions; Bell/Rogers SN/SF appear only as filled, expired, marketing-ops, or "familiarity" duties.
+- BuiltIn.ca freshness probe — Robinhood and Rewind postings dead on detail page; SERP "Posted X days ago" relative ages not trusted without detail-page confirmation.
+
+**Merged**: 0 jobs to README.md; 0 to GitHub Pages (README unchanged → no pages.yml rebuild required).
+
+**Lesson confirmed**: null runs are the expected norm — fourth consecutive hourly cycle this date with zero verified-fresh Platform Admin/Platform Developer I Toronto entries. BuiltIn SERP "Posted X days ago" is unreliable until the detail page is loaded (stale indexes and removed markers common); always confirm liveness + absolute posted date on the detail page before adding. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced — remains the top keyword gap.
