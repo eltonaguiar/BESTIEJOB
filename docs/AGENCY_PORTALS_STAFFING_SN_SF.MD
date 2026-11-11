@@ -41,7 +41,28 @@
 | Apex Systems | Digital Cloud Solution Architect L2 | Remote Canada | Recent | `apexsystems.com/job/3058252_usa/digital-cloud-solution-architect-l2` | Live |
 | Apex Systems | Applications Support Specialist | Barrie/Scarborough ON | Recent | `apexsystems.com/job/3045453_usa/applications-support-specialist` | Live, Big Five Bank, 6-month |
 | Apex Systems | Technical Service Specialist | Southwestern ON | Recent | `apexsystems.com/job/3037173_usa/technical-service-specialist` | Live, field Ontario |
+| Apex Systems | Technical Service Specialist | Southwestern ON | Recent | `apexsystems.com/job/3037173_usa/technical-service-specialist` | Live, field Ontario |
 | Apex Systems | Manager of Sales | Montreal/Toronto remote | Recent | `apexsystems.com/job/3057071_usa/manager-of-sales` | Live, SaaS healthcare tech |
+
+---
+
+## 2b. Recent finds — staffing agencies via LinkedIn guest API
+
+| Agency | Role | Company | Location | Posted | Source URL | Notes |
+|--------|------|---------|----------|--------|------------|-------|
+| TEKsystems | Software Engineer (Salesforce) | Motorola Solutions | Greater Vancouver, BC | 2026-11-10 | `ca.linkedin.com/jobs/view/software-engineer-salesforce-canada-remote-at-motorola-solutions` | Canada remote |
+| TEKsystems | Salesforce Technical Architect | Smart IT Frame LLC | Toronto, ON | 2026-11-10 | `ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanc` | CPQ + Revenue Cloud |
+| TEKsystems | Développeur Salesforce | LGS, an IBM Company | Ville-Marie, QC | 2026-11-11 | `ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-lgs-an-ibm-company-4487871160` | French-language role |
+| TEKsystems | Senior Salesforce Developer | Zodiac Solutions, Inc | Toronto, ON | 2026-11-10 | `ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zodiac-solutions-inc-4487827104` | |
+| Procom | Specialist- Salesforce Architect | Parkland Corporation | Calgary, AB | 2026-11-11 | `ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487861359` | Duplicate posting seen twice |
+| Altis | Salesforce Configuration Developer (FSC) | Avanciers Inc. | Montreal, QC | 2026-11-10 | `ca.linkedin.com/jobs/view/salesforce-configuration-developer-salesforce-fsc-at-avanciers-inc` | Financial Services Cloud |
+| Altis | Associate, Salesforce Support | Apex Systems | Toronto, ON | 2026-11-10 | `ca.linkedin.com/jobs/view/associate-salesforce-support-at-apex-systems-4489652732` | Support tier role |
+| Experis | Salesforce Technical Architect - Service Cloud Voice | Experis | Canada | 2026-11-10 | `ca.linkedin.com/jobs/view/salesforce-technical-architect-service-cloud-v` | Service Cloud Voice specialty |
+| Experis | Salesforce FSC Developer | Quantum World Technologies Inc. | Toronto, ON | 2026-11-10 | `ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-quantum-world-technologies-inc-4489612` | Financial Services Cloud |
+| Insight Global | Business Systems Analyst | Lane Four | Toronto, ON | 2026-11-06 | `ca.linkedin.com/jobs/view/business-systems-analyst-at-lane-four-44873454` | Salesforce partner consulting |
+| Randstad | IT Help Desk Analyst | Bay Street Staffing | Greater Toronto Area | 2026-11-10 | `ca.linkedin.com/jobs/view/information-technology-help-desk-analyst-at-ba` | IT help desk |
+| Randstad Canada | Technical Help Desk - Senior | Raise | Toronto, ON | 2026-11-10 | `ca.linkedin.com/jobs/view/technical-help-desk-senior-at-raise-4489497645` | Senior help desk |
+| Kelly Canada | Directeur | Deloitte | Montreal, QC | 2026-11-10 | `ca.linkedin.com/jobs/view/25-directeur-at-deloitte-4488645258` | French-language "Directeur" role |
 
 ---
 
@@ -92,4 +113,4 @@ See `scripts/geo_validate_jobs.py` for the validation script.
 
 ---
 
-*Prepared by Kilo (opencode fork, nvidia/nemotron-3.5-super-vl:free), 2026-11-11. Agency portals discovered through search engine queries and direct URL probing; verify each portal directly before scraping as site structures may change.*
+*Prepared by Kilo (opencode fork, nvidia/nemotron-3.5-super-vl:free), 2026-11-11. Agency portals discovered through search engine queries, direct URL probing, and LinkedIn guest API harvests. Portals verified reachable at scan time; verify each portal directly before scraping as site structures may change. Staffing agencies covered: Procom, TEKsystems, Apex Systems, Altis, Experis Canada, Randstad Canada, Adecco Canada, Robert Half Canada, Manpower Canada, Kelly Services Canada, Insight Global, Epsilon Solutions.*
