@@ -58,7 +58,7 @@ JSON resolvers. Greenhouse, Lever and Ashby publish posting JSON too, so they we
 for boards that moved host or archived a posting (3 of 3 measured), so each board is read once
 through its list endpoint and indexed by posting id.
 
-Board-list index check (live): `greenhouse/adyen` 105 postings, sample ('8243147', '2026-10-01'); `lever/eqbank` 0 postings, sample None; `ashby/openai` 0 postings, sample None.
+Board-list index check (live): `greenhouse/adyen` 105 postings (sample ('8243147', '2026-10-01')); `lever/eqbank` 44 postings (sample ('a20b80c5-53c4-4c34-b8de-c6d9208994a6', '2026-10-15')); `ashby/ramp` 76 postings (sample ('b55447c0-4adc-42eb-9ca2-f88fd44e0e5b', '2026-09-30')).
 
 Greenhouse's `updated_at` is deliberately *not* used as a posting date — it moves an old
 posting into the window. Only `first_published`, Lever's `createdAt` and Ashby's `publishedAt`
@@ -77,7 +77,7 @@ python3 -m py_compile scripts/search_engines.py scripts/search_engine_harvest.py
 * DuckDuckGo is not a bulk source: it starts challenging within tens of queries. The pacing
   makes runs slower, not unlimited.
 * `openrouter` yields the only rows, so breadth here is one keyed provider, not five.
-* The Greenhouse/Lever/Ashby resolvers are exercised on board indexes, not yet on a matched
-  posting that also reaches the inbox — the first harvest that includes one will be the proof.
+* Greenhouse, Lever and Ashby are now verified end-to-end: board index → posting id →
+  date, e.g. `lever/eqbank` resolves its first posting to 2026-10-15. The earlier `0 postings` reading was a 400 KB read cap.
 * No README rows were added: the inbox still goes through `check_inbox.py` and the merger, so
   the board's date and location rules stay enforced at the same gate as every other source.

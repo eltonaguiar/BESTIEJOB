@@ -173,9 +173,9 @@ def smartrecruiters_date(url: str) -> str | None:
 # sees no `datePosted` on them at all -- measured 2026-11-11: 52 search
 # candidates were discarded as undated before these resolvers existed.
 
-GH_URL = re.compile(r"(?:boards|job-boards)\\.greenhouse\\.io/([^/?#]+)/jobs/(\\d+)")
-LEVER_URL = re.compile(r"jobs\\.lever\\.co/([^/?#]+)/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})")
-ASHBY_URL = re.compile(r"jobs\\.ashbyhq\\.com/([^/?#]+)/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})")
+GH_URL = re.compile(r"(?:boards|job-boards)\.greenhouse\.io/([^/?#]+)/jobs/(\d+)")
+LEVER_URL = re.compile(r"jobs\.lever\.co/([^/?#]+)/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})")
+ASHBY_URL = re.compile(r"jobs\.ashbyhq\.com/([^/?#]+)/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})")
 
 # Per-job detail endpoints 404 for boards that moved hosts or archived a posting
 # (measured 2026-11-11: 3 of 3 greenhouse and lever detail calls returned 404),
