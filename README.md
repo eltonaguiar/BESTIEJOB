@@ -10,7 +10,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
   - [ServiceNow jobs (500)](#servicenow-jobs-500)
-  - [Salesforce jobs (504)](#salesforce-jobs-504)
+  - [Salesforce jobs (507)](#salesforce-jobs-507)
   - [Other jobs (499)](#other-jobs-499)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **1503 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **1506 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (500)
 
@@ -531,15 +531,18 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (504)
+### Salesforce jobs (507)
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 504 postings</strong></summary>
+<details><summary><strong>Show 507 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 | 2026-11-11 | [Salesforce FSC Developer](https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-corekloud-technologies-4488678111) | CoreKloud Technologies | Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
 | 2026-11-11 | [Salesforce Associate Director / Financial Services](https://www.adzuna.ca/details/5961463833?utm_medium=api&utm_source=54ce986e) | Plative | Canada | via fresh-ca--2026-11-11--v2.md |
 | 2026-11-10 | [Sr. Salesforce Developer – Financial Services Cloud](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-%E2%80%93-financial-services-cloud-at-sagen-4480274599) | Sagen | Oakville, Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
 | 2026-11-10 | [Salesforce Product Owner](https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-bridgenext-4478614508) | Bridgenext | Greater Toronto Area, Canada | via hermes-cron--2026-11-11--v1.md |
+| 2026-11-10 | [Salesforce Architect](https://ca.linkedin.com/jobs/view/salesforce-architect-at-lyft-4473050209) | Lyft | Toronto, Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
+| 2026-11-10 | [Salesforce Architect](https://ca.linkedin.com/jobs/view/salesforce-architect-at-cgi-4408560005) | CGI | Toronto, Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
+| 2026-10-30 | [Salesforce Platform Developer](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087) | Altus Group | Toronto, Ontario | via hermes-cron--2026-11-11--v1.md |
 |---|---|---|---|---|
 | 2026-11-11 | [Sr. Salesforce Developer - Recutify Inc. / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/iBzVqXluOnT6csxu5gH8e0DFqduWQ_KmF7Ck8DY1ocbGhedab84XkEoohNQC8lGh) | Recutify Inc. | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Sr. Salesforce Developer - Capgemini / Mississauga, ON](https://www.workopolis.com/jobsearch/viewjob/4OV1oUM98u4UKGt7bvRSNMdfgcTWUNAmc0Rn7cOikDYXyDHW4f586D7Msu8AmGnV) | Capgemini | Mississauga, ON | Workopolis Canada |
