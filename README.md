@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
-  - [ServiceNow jobs (1054)](#servicenow-jobs-1053)
-  - [Salesforce jobs (1206)](#salesforce-jobs-1206)
+  - [ServiceNow jobs (1057)](#servicenow-jobs-1053)
+  - [Salesforce jobs (1212)](#salesforce-jobs-1206)
   - [Other jobs (4158)](#other-jobs-4156)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,16 +18,19 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **6418 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **6427 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1054)
+### ServiceNow jobs (1057)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1054 postings</strong></summary>
+<details><summary><strong>Show 1057 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-11 | [ServiceNow Sr. Project Manager](https://ca.linkedin.com/jobs/view/servicenow-sr-project-manager-at-fujitsu-4133651281) | Fujitsu | Toronto, Ontario, Canada | via linkedin |
+| 2026-11-11 | [2027 Graduate Program, Technology Services - Delivery, Excellence and Architecture](https://ca.indeed.com/viewjob?jk=64a56f712522c334) | Bell | Toronto, ON | via indeed |
+| 2026-11-04 | [ServiceNow Developer (Contract)](https://builtin.com/job/servicenow-developer-contract-role/11759475) | Brookfield Properties | Toronto, ON, Canada | via builtin |
 | 2026-11-09 | [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856) | DXC Technology | Ottawa, ON, Canada | via workday (DXC ATS) |
 | 2026-11-10 | [ServiceNow Solution Architect](https://builtin.com/job/servicenow-solution-architect/8639852) | BDO Canada | Remote, Canada | via builtin |
 | 2026-11-10 | [ServiceNow Senior Technical Consultant](https://builtin.com/job/servicenow-senior-technical-consultant/10130058) | Cprime | Canada | via builtin |
@@ -1085,14 +1088,20 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1206)
+### Salesforce jobs (1212)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 1206 postings</strong></summary>
+<details><summary><strong>Show 1212 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-11 | [Salesforce Manager, Sales & Marketing Clouds](https://ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492) | ivari Canada | Toronto, Ontario, Canada | via linkedin |
+| 2026-11-11 | [Salesforce Consultant](https://ca.linkedin.com/jobs/view/salesforce-consultant-at-zs-4191127494) | ZS | Toronto, Ontario, Canada | via linkedin |
+| 2026-11-11 | [Principal Technical Architect](https://ca.linkedin.com/jobs/view/principal-technical-architect-at-salesforce-4181884737) | Salesforce | Toronto, Ontario, Canada | via linkedin |
+| 2026-11-08 | [Lead Salesforce Developer](https://builtin.com/job/lead-salesforce-developer/9741832) | TD | Toronto, ON, Canada | via builtin |
+| 2026-11-05 | [Salesforce Developer](https://builtin.com/job/salesforce-developer/9134161) | Caseware | Toronto, ON, Canada | via builtin |
+| 2026-11-01 | [Software Engineer II- Salesforce](https://builtin.com/job/software-engineer-ii-salesforce/10169099) | TD | Toronto, ON, Canada | via builtin |
 | 2026-11-11 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487861359) | Parkland Corporation | Calgary, Alberta, Canada | via inbox_staffing--2026-11-10--v1.md |
 | 2026-11-11 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487851759) | Parkland Corporation | Calgary, Alberta, Canada | via inbox_staffing--2026-11-10--v1.md |
 | 2026-11-11 | [Salesforce Administrator / Application Support Specialist (Intermediate)-5816](https://ca.linkedin.com/jobs/view/salesforce-administrator-application-support-specialist-intermediate-5816-at-amyantek-4489682441) | Amyantek | Toronto, Ontario, Canada | via fresh-ca--2026-11-11--v1.md |
