@@ -1128,10 +1128,10 @@ Window: 2026-10-12 → 2026-11-11 · **6,500 live postings** · deduplicated by 
 
 </details>
 
-### Salesforce jobs (1238)_developer / administrator / architect / consultant roles_
-<details><summary><strong>Show 1238 postings</strong></summary>
-| Posted | Role | Company | Location | Source / note |
+### Salesforce jobs (1240)_developer / administrator / architect / consultant roles_<details><summary><strong>Show 1240 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
 | 2026-11-11 | [Salesforce Engineer / Developer](https://www.workopolis.com/jobsearch/viewjob/gk9C4LalCQE4zz38JmdL0cDOsMRaZ54qHSTzeAZ4Yaerd-VRe1HXdGcyFfkUIgCD) | Maple Leaf Sports & Entertainment Partnership | Toronto, ON | Workopolis Canada |
+| 2026-11-10 | [Salesforce Financial Service Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-financial-service-cloud-developer-at-pacer-group-4488382241) | Pacer Group | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-final4--2026-11-11--v1.md |
+| 2026-11-10 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-hays-4488634312) | Hays | North York, Ontario, Canada | via inbox_opencode-job-hunt-final4--2026-11-11--v1.md |
 |---|---|---|---|---|
 | 2026-11-11 | [Principle Salesforce Developer - Moneris Solutions / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/Hb00gRzk8NMSfywPQen42c4GP_Cae3kLBW8xrgQ7r60sP0sv48nE4a6DaBRnJ9Hb) | Moneris Solutions | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Salesforce Developer with Java OR SQL - LTM / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/ApGljjiKR3ptpZAqTqegna-B9Ya5QKQc9pFY5Aui-yHeouI5oZGmoHjkm-P1ubY0) | LTM | Toronto, ON | Workopolis Canada |
