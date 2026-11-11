@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-11T21:14:37.195Z",
     "generatedAt": "2026-11-11T21:14:37.195Z",
-    "total": 2842,
+    "total": 2846,
     "newThisScan": 820,
     "retainedFromPrevious": 1707,
     "sources": {
@@ -4735,6 +4735,76 @@
       "postedDate": "2026-11-11T12:00:00.000Z",
       "scrapedAt": "2026-11-11T21:16:19.358Z",
       "excerpt": "via linkedin",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961942893",
+      "source": "readme",
+      "company": "2iSolutions Inc.",
+      "title": "ServiceNow Architect",
+      "location": "Oshawa, ON",
+      "url": "https://www.adzuna.ca/details/5961942893",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T21:18:07.442Z",
+      "excerpt": "Adzuna · 18-mo contract · hybrid 2d · security incident/IR",
+      "workArrangement": "hybrid",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961945752",
+      "source": "readme",
+      "company": "HCLTech",
+      "title": "Solution Architect - ServiceNow, IT Service Management",
+      "location": "East Gwillimbury, ON",
+      "url": "https://www.adzuna.ca/details/5961945752",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T21:18:07.442Z",
+      "excerpt": "Adzuna · HCLTech · Global Elite SI partner · ITSM/ITAM",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961956551",
+      "source": "readme",
+      "company": "Morson Edge",
+      "title": "ServiceNow HR Developer",
+      "location": "Oshawa, ON",
+      "url": "https://www.adzuna.ca/details/5961956551",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T21:18:07.442Z",
+      "excerpt": "Adzuna · 24-mo · $70-95/hr · HRSD/Employee Center",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961945425",
+      "source": "readme",
+      "company": "MOTOCOL",
+      "title": "SFDC Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961945425",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T21:18:07.442Z",
+      "excerpt": "Adzuna · Apex/Visualforce · TN visa possible",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"

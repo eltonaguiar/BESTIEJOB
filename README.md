@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
-  - [ServiceNow jobs (525)](#servicenow-jobs-525)
-  - [Salesforce jobs (533)](#salesforce-jobs-533)
+  - [ServiceNow jobs (535)](#servicenow-jobs-535)
+  - [Salesforce jobs (541)](#salesforce-jobs-541)
   - [Other jobs (499)](#other-jobs-499)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,16 +18,26 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **1557 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **1575 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (525)
+### ServiceNow jobs (535)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 525 postings</strong></summary>
+<details><summary><strong>Show 535 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-11 | [ServiceNow Architect](https://www.adzuna.ca/details/5961942893) | 2iSolutions Inc. | Oshawa, ON | Adzuna · 18-mo contract · hybrid 2d · security incident/IR |
+| 2026-11-11 | [Solution Architect - ServiceNow, IT Service Management](https://www.adzuna.ca/details/5961945752) | HCLTech | East Gwillimbury, ON | Adzuna · HCLTech · Global Elite SI partner · ITSM/ITAM |
+| 2026-11-11 | [ServiceNow QA Engineer](https://www.adzuna.ca/details/5961948831) | Tata Consultancy Services Limited | Toronto, ON | Adzuna · TCS · Global Elite SI partner · SN QA |
+| 2026-11-11 | [ServiceNow HR Developer](https://www.adzuna.ca/details/5961956551) | Morson Edge | Oshawa, ON | Adzuna · 24-mo · $70-95/hr · HRSD/Employee Center |
+| 2026-11-11 | [ServiceNow ITOM Consultant](https://ca.linkedin.com/jobs/view/servicenow-itom-consultant-at-2isolutions-inc-4486429594) | 2iSolutions Inc. | Canada | LinkedIn · ITOM consultant |
+| 2026-11-11 | [ServiceNow ITOM / AIOps Solution Architect](https://ca.linkedin.com/jobs/view/servicenow-itom-aiops-solution-architect-at-k-k-global-talent-solutions-inc-4489972156) | K&K Global Talent Solutions INC. | Ontario, Canada | LinkedIn · ITOM/AIOps architect |
+| 2026-11-11 | [Mid-Senior ServiceNow Developer](https://ca.linkedin.com/jobs/view/mid-senior-servicenow-developer-at-msz-systems-4489018947) | MSZ Systems | Toronto, ON | LinkedIn · SN dev/ITAM |
+| 2026-11-11 | [ServiceNow Implementation Specialist / Solution Architect – Digital Product Release (DPR)](https://www.adzuna.ca/details/5961951592) | Yochana | Remote, Canada | Adzuna · fulltime remote · Digital Product Release |
+| 2026-11-11 | [ServiceNow WSD Developer](https://www.adzuna.ca/details/5961957282) | SRA Group | Canada | Adzuna · ~3-mo contract · Workplace Service Delivery |
+| 2026-11-11 | [Remote ServiceNow Functional Analyst](https://www.adzuna.ca/details/5961953410) | Jobgether | Remote, Canada | Adzuna · remote · SN functional/OCM analyst |
 | 2026-11-11 | [ServiceNow Platform Developer](https://www.adzuna.ca/details/5961958064) | acroynon | Toronto, ON | Adzuna · contract · SN dev/config/test |
 | 2026-11-11 | [ServiceNow Architect](https://www.adzuna.ca/details/5961953923) | Tata Consultancy Services | Toronto, ON | Adzuna · TCS · Global Elite SI partner |
 | 2026-11-11 | [Senior ServiceNow Developer (SAM/HAM)](https://ca.linkedin.com/jobs/view/senior-servicenow-developer-sam-ham-at-beachhead-4489985060) | BeachHead | Toronto, ON | LinkedIn · ServiceNow ITAM (SAM/HAM) |
@@ -556,12 +566,20 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (533)
+### Salesforce jobs (541)
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 533 postings</strong></summary>
+<details><summary><strong>Show 541 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-11 | [Senior Platform Support Analyst with data cloud](https://www.adzuna.ca/details/5961949045) | Maarut | Toronto, ON | Adzuna · contract · SF Data Cloud/Loyalty |
+| 2026-11-11 | [Salesforce Developer](https://www.adzuna.ca/details/5961951024) | Insight Global | Toronto, ON | Adzuna · 6-mo · FSC developer · insurance |
+| 2026-11-11 | [Salesforce Communications Cloud Architect](https://www.adzuna.ca/details/5961947986) | Tata Consultancy Services Limited | Toronto, ON | Adzuna · TCS · Global Elite SI partner · Communications Cloud |
+| 2026-11-11 | [SFDC Developer](https://www.adzuna.ca/details/5961945425) | MOTOCOL | Toronto, ON | Adzuna · Apex/Visualforce · TN visa possible |
+| 2026-11-11 | [Salesforce Developer – CPQ](https://ca.linkedin.com/jobs/view/salesforce-developer-%E2%80%93-cpq-at-infoway-software-4489035263) | Infoway Software | Canada | LinkedIn · CPQ developer |
+| 2026-11-11 | [Salesforce Slack and Agentforce Techno Functional Consultant](https://www.adzuna.ca/details/5961952257) | CloudLabs Inc | Canada | Adzuna · remote · Slack/Agentforce consultant |
+| 2026-11-11 | [Salesforce Technical Consultant](https://www.adzuna.ca/details/5961938941) | Flextrack Inc | Canada | Adzuna · product implementation consultant |
+| 2026-11-11 | [Salesforce Delivery Manager](https://www.adzuna.ca/details/5961482603) | Plative | Canada | Adzuna · SF delivery leadership |
 | 2026-11-11 | [Senior Salesforce Developer / Admin](https://www.adzuna.ca/details/5961946771) | Celestica Inc. | Toronto, ON | Adzuna · SF dev/admin · Marketing Cloud |
 | 2026-11-11 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5961956600) | Synechron | Toronto, ON | Adzuna · global consulting · Sr SF dev |
 | 2026-11-11 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5961955300) | HRbrain Inc. | Toronto, ON | Adzuna · Sr SF dev |

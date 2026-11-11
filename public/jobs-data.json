@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-11T21:16:19+00:00",
+ "generatedAt": "2026-11-11T21:18:08+00:00",
  "timezone": "America/Toronto",
- "count": 2407,
+ "count": 2412,
  "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
@@ -2534,6 +2534,66 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "ServiceNow Architect",
+   "company": "2iSolutions Inc.",
+   "location": "Oshawa, ON",
+   "url": "https://www.adzuna.ca/details/5961942893",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow architect 2isolutions inc. oshawa, on adzuna servicenow readme servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Solution Architect - ServiceNow, IT Service Management",
+   "company": "HCLTech",
+   "location": "East Gwillimbury, ON",
+   "url": "https://www.adzuna.ca/details/5961945752",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "solution architect - servicenow, it service management hcltech east gwillimbury, on adzuna servicenow readme servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "ServiceNow HR Developer",
+   "company": "Morson Edge",
+   "location": "Oshawa, ON",
+   "url": "https://www.adzuna.ca/details/5961956551",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow hr developer morson edge oshawa, on adzuna servicenow readme servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "ServiceNow Senior Developer",
    "company": "BDO Canada",
    "location": "5 Locations",
@@ -4191,6 +4251,27 @@
    ],
    "french": false,
    "search": "marketing cloud specialist - medcan / toronto, on medcan toronto, on workopolis salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Manager, Sales & Marketing Clouds",
+   "company": "ivari Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce manager, sales & marketing clouds ivari canada toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -5926,6 +6007,26 @@
    ],
    "french": false,
    "search": "rq11863-microsoft dynamics 365 crm developer amyantek toronto, ontario, canada linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "SFDC Developer",
+   "company": "MOTOCOL",
+   "location": "Toronto, ON",
+   "url": "https://www.adzuna.ca/details/5961945425",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sfdc developer motocol toronto, on adzuna salesforce readme role fit toronto area",
    "alternates": []
   },
   {
