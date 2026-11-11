@@ -4,21 +4,21 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T011839Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T012113Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
   - [ServiceNow jobs (1081)](#servicenow-jobs-1081)
   - [Salesforce jobs (1245)](#salesforce-jobs-1245)
-  - [Other jobs (4154)](#other-jobs-4154)
+  - [Other jobs (4156)](#other-jobs-4156)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **6480 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **6482 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1081)
 
@@ -2368,15 +2368,16 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (4154)
+### Other jobs (4156)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 4154 postings</strong></summary>
+<details><summary><strong>Show 4156 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-10 | [Technology Lifecycle & Data Analyst](https://ca.linkedin.com/jobs/view/technology-lifecycle-data-analyst-at-millennium-software-and-staffing-inc-4489492168) | Millennium Software and Staffing Inc | Montreal, Quebec, Canada | Data / BI |
+| 2026-11-10 | [Technical Help Desk - Senior](https://ca.linkedin.com/jobs/view/technical-help-desk-senior-at-raise-4489497645) | Raise | Toronto, Ontario, Canada | via inbox_staffing3--2026-11-10--v3.md |
 | 2026-11-10 | [Staff Security Engineer / Enterprise Security](https://www.adzuna.ca/details/5960555439) | Enterprise Security](https://www.adzuna.ca/details/5960555439) | ServiceNow, Inc. | Toronto, Ontario via adzuna |
 | 2026-11-10 | [Senior Software Engineering Specialist](https://ca.linkedin.com/jobs/view/senior-software-engineering-specialist-at-mackenzie-investments-4489601589) | Mackenzie Investments | Greater Toronto Area, Canada | via inbox_opencode-job-hunt--2026-11-10--v2.md |
 | 2026-11-10 | [Senior Site Reliability Engineer - Batch Management](https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-batch-management-at-simcorp-4464358566) | SimCorp | Toronto, Ontario, Canada | DevOps / Cloud |
@@ -2385,6 +2386,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-10 | [Full Stack Engineer - (React/Node)](https://www.adzuna.ca/details/5960418383) | Parent Organization | Toronto, Ontario | Full stack |
 | 2026-11-10 | [Disability & Leave Management Specialist](https://ca.linkedin.com/jobs/view/disability-leave-management-specialist-at-westland-insurance-group-ltd-4478299778) | Westland Insurance Group Ltd. | Surrey, British Columbia, Canada | via inbox_opencode-job-hunt--2026-11-10--v2.md |
 | 2026-11-10 | [Director, Sales Corporate](https://ca.linkedin.com/jobs/view/director-sales-corporate-at-emballages-mitchel-lincoln-packaging-4489616354) | Emballages Mitchel-Lincoln Packaging | Montreal, Quebec, Canada | via inbox_staffing2--2026-11-10--v2.md |
+| 2026-11-10 | [25 - Directeur](https://ca.linkedin.com/jobs/view/25-directeur-at-deloitte-4488645258) | Deloitte | Montreal, Quebec, Canada | via inbox_staffing3--2026-11-10--v3.md |
 | 2026-11-09 | [Vectorworks BIM Specialist (Remote)](https://ca.linkedin.com/jobs/view/vectorworks-bim-specialist-remote-at-joblet-ai-4487900885) | Joblet-AI | Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [Systems Administrator/Operations Support Specialist - Junior](https://ca.linkedin.com/jobs/view/systems-administrator-operations-support-specialist-junior-at-joblinxsapp-4487951044) | Joblinxsapp | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
 | 2026-11-09 | [Supervisor - IT Operations](https://ca.linkedin.com/jobs/view/supervisor-it-operations-at-mda-space-4487698674) | MDA Space | Brampton, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v3.md |
@@ -6660,4 +6662,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-11T011839Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
+`README.BAK_2026-11-11T012113Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
