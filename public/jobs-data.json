@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-11T03:44:25+00:00",
+ "generatedAt": "2026-11-11T04:07:29+00:00",
  "timezone": "America/Toronto",
- "count": 4794,
+ "count": 4795,
  "appliedHidden": 39,
  "sources": [
   "103.careerplug.com",
@@ -1807,6 +1807,27 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Incident/Problem Management Specialist",
+   "company": "BMO",
+   "location": "Remote, ON, Canada",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/REMOTETELETRAVAIL-ON-CAN/Incident-Problem-Management-Specialist_R260030630",
+   "note": "workday",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 42,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "incident/problem management specialist bmo remote, on, canada workday ats other workday itsm role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Senior Operational Readiness &amp; Service Transition Advisor (ITSM)",
    "company": "Ontario Power Generation",
    "location": "Oshawa, Ontario, Canada",
@@ -1876,6 +1897,32 @@
    "french": false,
    "search": "partner sales - canada salesforce toronto, ontario, canada linkedin salesforce readme salesforce toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "IRM/GRC Technologies Senior Associate",
+   "company": "PwC Canada",
+   "location": "Toronto, ON, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/irm-grc-technologies-senior-associate-at-pwc-canada-4489672573",
+   "note": "linkedin",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 26,
+   "matchReasons": [
+    "Risk/GRC",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "irm/grc technologies senior associate pwc canada toronto, on, canada linkedin other linkedin risk/grc toronto area",
+   "alternates": [
+    {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/pwc/jobs/irm-grc-technologies-senior-associate-toronto-on-a3200a2edd75",
+     "label": "jobs.ca · Canada"
+    }
+   ]
   },
   {
    "posted": "2026-11-10",
@@ -2079,6 +2126,34 @@
    "french": false,
    "search": "25 - directeur deloitte montreal, quebec, canada linkedin other readme canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
+   "company": "DXC Technology",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer (itsm module) at client site in ottawa dxc technology ottawa, on, canada workday ats servicenow workday servicenow itsm role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -4079,7 +4154,7 @@
    "company": "Global Technical Talent, an Inc. 5000 Company",
    "location": "Toronto, Ontario, Canada",
    "url": "https://ca.linkedin.com/jobs/view/information-security-specialist-cisa-grc-at-global-technical-talent-an-inc-5000-company-4449229317",
-   "note": "readme",
+   "note": "via linkedin-guest--2026-11-10--v1.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -4091,7 +4166,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "information security specialist - cisa, grc global technical talent, an inc. 5000 company toronto, ontario, canada linkedin other readme risk/grc role fit toronto area",
+   "search": "information security specialist - cisa, grc global technical talent, an inc. 5000 company toronto, ontario, canada linkedin other via linkedin-guest--2026-11-10--v1.md risk/grc role fit toronto area",
    "alternates": []
   },
   {
@@ -16622,28 +16697,6 @@
    ],
    "french": false,
    "search": "servicenow otsm and cmdb technical consultant yochana canada linkedin servicenow linkedin servicenow cmdb consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
-   "company": "DXC Technology",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-itsm-module-at-client-site-in-ottawa-at-dxc-technology-4469047985",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer (itsm module) at client site in ottawa dxc technology ottawa, ontario, canada linkedin servicenow linkedin servicenow itsm role fit toronto area",
    "alternates": []
   },
   {
@@ -31464,26 +31517,6 @@
    ],
    "french": false,
    "search": "toronto internal audit & financial advisory (financial services) associate director robert half toronto, ontario adzuna other readme controls/acl toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "IRM/GRC Technologies Senior Associate – Toronto, ON / PwC",
-   "company": "Toronto, ON / PwC",
-   "location": "Canada",
-   "url": "https://www.jobs.ca/pwc/jobs/irm-grc-technologies-senior-associate-toronto-on-a3200a2edd75",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 22,
-   "matchReasons": [
-    "Risk/GRC",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "irm/grc technologies senior associate – toronto, on / pwc toronto, on / pwc canada jobs.ca other readme risk/grc canada / remote",
    "alternates": []
   },
   {

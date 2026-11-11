@@ -9,25 +9,26 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
-  - [ServiceNow jobs (1053)](#servicenow-jobs-1053)
+  - [ServiceNow jobs (1054)](#servicenow-jobs-1053)
   - [Salesforce jobs (1206)](#salesforce-jobs-1206)
-  - [Other jobs (4156)](#other-jobs-4156)
+  - [Other jobs (4158)](#other-jobs-4156)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **6415 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **6418 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1053)
+### ServiceNow jobs (1054)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1053 postings</strong></summary>
+<details><summary><strong>Show 1054 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-09 | [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856) | DXC Technology | Ottawa, ON, Canada | via workday (DXC ATS) |
 | 2026-11-10 | [ServiceNow Solution Architect](https://builtin.com/job/servicenow-solution-architect/8639852) | BDO Canada | Remote, Canada | via builtin |
 | 2026-11-10 | [ServiceNow Senior Technical Consultant](https://builtin.com/job/servicenow-senior-technical-consultant/10130058) | Cprime | Canada | via builtin |
 | 2026-11-10 | [ServiceNow Platform Specialist](https://jobicy.com/jobs/160724-servicenow-platform-specialist) | Alimentiv | Canada |  |
@@ -2301,14 +2302,16 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (4156)
+### Other jobs (4158)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 4156 postings</strong></summary>
+<details><summary><strong>Show 4158 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-10 | [Incident/Problem Management Specialist](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/REMOTETELETRAVAIL-ON-CAN/Incident-Problem-Management-Specialist_R260030630) | BMO | Remote, ON, Canada | via workday (BMO ATS) · ServiceNow + ITIL |
+| 2026-11-10 | [IRM/GRC Technologies Senior Associate](https://ca.linkedin.com/jobs/view/irm-grc-technologies-senior-associate-at-pwc-canada-4489672573) | PwC Canada | Toronto, Ontario, Canada | via linkedin · ServiceNow IRM (mandatory) · $65.6K-$109.3K |
 | 2026-11-10 | [Technology Lifecycle & Data Analyst](https://ca.linkedin.com/jobs/view/technology-lifecycle-data-analyst-at-millennium-software-and-staffing-inc-4489492168) | Millennium Software and Staffing Inc | Montreal, Quebec, Canada | Data / BI |
 | 2026-11-10 | [Technical Help Desk - Senior](https://ca.linkedin.com/jobs/view/technical-help-desk-senior-at-raise-4489497645) | Raise | Toronto, Ontario, Canada | via inbox_staffing3--2026-11-10--v3.md |
 | 2026-11-10 | [Senior Software Engineering Specialist](https://ca.linkedin.com/jobs/view/senior-software-engineering-specialist-at-mackenzie-investments-4489601589) | Mackenzie Investments | Greater Toronto Area, Canada | via inbox_opencode-job-hunt--2026-11-10--v2.md |

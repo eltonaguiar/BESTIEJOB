@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-11T03:14:15.737Z",
     "generatedAt": "2026-11-11T03:14:15.737Z",
-    "total": 5326,
+    "total": 5327,
     "newThisScan": 681,
     "retainedFromPrevious": 1378,
     "sources": {
@@ -39,6 +39,77 @@
   },
   "jobs": [
     {
+      "id": "workday:https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856",
+      "source": "workday",
+      "company": "DXC Technology",
+      "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-09",
+      "scrapedAt": "2026-11-11T04:05:00.000Z",
+      "excerpt": "Trusted technical advisor on the ServiceNow platform: design, implement and optimize ServiceNow (ITSM) solutions at a client site in Ottawa. Requires Government of Canada security clearance eligibility (Canadian citizen, 10 years verifiable history).",
+      "workArrangement": "onsite",
+      "tags": [
+        "servicenow",
+        "itsm",
+        "ottawa",
+        "security-clearance"
+      ]
+    },
+    {
+      "id": "workday:https://bmo.wd3.myworkdayjobs.com/en-US/External/job/REMOTETELETRAVAIL-ON-CAN/Incident-Problem-Management-Specialist_R260030630",
+      "source": "workday",
+      "company": "BMO",
+      "title": "Incident/Problem Management Specialist",
+      "location": "Remote, ON, Canada",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/REMOTETELETRAVAIL-ON-CAN/Incident-Problem-Management-Specialist_R260030630",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10",
+      "scrapedAt": "2026-11-11T04:05:00.000Z",
+      "excerpt": "Canadian Digital Banking Incident & Problem Specialist: manage incidents and problems in ServiceNow following ITIL principles, lead post-mortems and CABs, build availability metrics with ServiceNow/Power BI. Application deadline 2026-11-29.",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow",
+        "itsm",
+        "itil",
+        "incident-management",
+        "bmo"
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
+    },
+    {
+      "id": "linkedin:https://ca.linkedin.com/jobs/view/irm-grc-technologies-senior-associate-at-pwc-canada-4489672573",
+      "source": "linkedin",
+      "company": "PwC Canada",
+      "title": "IRM/GRC Technologies Senior Associate",
+      "location": "Toronto, ON, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/irm-grc-technologies-senior-associate-at-pwc-canada-4489672573",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 65600,
+        "max": 109300,
+        "currency": "CAD",
+        "display": "$65.6K-$109.3K"
+      },
+      "postedDate": "2026-11-10",
+      "scrapedAt": "2026-11-11T04:05:00.000Z",
+      "excerpt": "Deliver AI-enabled GRC/IRM technology work on ServiceNow (mandatory) plus Archer, Fusion Risk, Diligent, Workiva, OneTrust. Configure IRM modules: forms, workflow, dashboards, notifications, access controls, data imports. ServiceNow CSA/CAD/IRM certification an asset.",
+      "workArrangement": "onsite",
+      "tags": [
+        "servicenow",
+        "grc",
+        "irm",
+        "toronto",
+        "pwc"
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
+    },
+    {
       "id": "readme:ca.linkedin.com/jobs/view/salesforce-administrator-application-support-specialist-intermediate-5816-at-amyantek-4489682441",
       "source": "readme",
       "company": "Amyantek",
@@ -53,7 +124,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/lead-salesforce-solution-architect_jr0154441",
@@ -229,7 +302,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "cognizant:https://careers.cognizant.com/ca-en/jobs/00070590911/salesforce-solution-architect/",
@@ -550,7 +625,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5960420672",
@@ -2710,23 +2787,6 @@
       "verifyState": "unknown"
     },
     {
-      "id": "readme:myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b",
-      "source": "readme",
-      "company": "Bank of Montreal (via Procom)",
-      "title": "Senior Salesforce Developer",
-      "location": "Toronto, ON, Canada",
-      "url": "https://myprocom-portal.procomservices.com/jobs/senior-salesforce-developer-toronto-5463810b",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-09T12:00:00.000Z",
-      "scrapedAt": "2026-11-11T03:16:06.596Z",
-      "excerpt": "via kilo3--2026-11-09--v1.md",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
       "id": "readme:ca.linkedin.com/jobs/view/sr-analyst-enterprise-it-vmo-at-mckesson-4472405142",
       "source": "readme",
       "company": "McKesson",
@@ -2741,7 +2801,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/sp%c3%a9cialiste-donn%c3%a9es-clients-et-identit%c3%a9-%c3%a9cosyst%c3%a8me-cdp-crm-fr-at-air-canada-vacations-4487434166",
@@ -2758,7 +2820,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/sp%c3%a9cialiste-plateforme-d-int%c3%a9gration-at-polytechnique-montr%c3%a9al-4487400915",
@@ -2775,7 +2839,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/senior-manager-solutions-architecture-at-telus-digital-4406571461",
@@ -2792,7 +2858,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/seo-aeo-specialist-silvie-at-pontosense-4487903566",
@@ -2809,7 +2877,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/network-designer-at-rogers-communications-4483286862",
@@ -2826,7 +2896,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:jobs.canadalife.com/job/london-manager,-change-management-on/1423587733",
@@ -2843,7 +2915,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4487688601",
@@ -2860,24 +2934,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
-    },
-    {
-      "id": "readme:ca.linkedin.com/jobs/view/information-security-specialist-cisa-grc-at-global-technical-talent-an-inc-5000-company-4449229317",
-      "source": "readme",
-      "company": "Global Technical Talent, an Inc. 5000 Company",
-      "title": "Information Security Specialist - CISA, GRC",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/information-security-specialist-cisa-grc-at-global-technical-talent-an-inc-5000-company-4449229317",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-09T12:00:00.000Z",
-      "scrapedAt": "2026-11-11T03:16:06.596Z",
-      "excerpt": "via linkedin-guest--2026-11-10--v1.md",
-      "workArrangement": "unknown",
-      "tags": [
-        "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/implementation-specialist-at-channelengine-4487141701",
@@ -2894,7 +2953,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/it-specialist-at-o-dell-hvac-group-4489114496",
@@ -2911,7 +2972,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/it-infrastructure-engineer-at-dsel-david-schaeffer-engineering-ltd-4489112379",
@@ -2928,7 +2991,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/it-erp-systems-administrator-at-skycan-systems-4489102070",
@@ -2945,7 +3010,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/guidewire-policycenter-integration-developer-at-themesoft-inc-4488868640",
@@ -2962,7 +3029,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/growth-and-crm-analyst-at-applovin-4488825271",
@@ -2979,7 +3048,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/gestionnaire-principal-e-de-portefeuille-num%c3%a9rique-et-de-transformation-des-affaires-senior-digital-portfolio-business-transformation-manager-at-capgemini-4488878747",
@@ -2996,7 +3067,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/gestionnaire-des-op%c3%a9ration-marketing-at-rogers-communications-4487699436",
@@ -3013,7 +3086,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/gtm-strategy-and-operations-manager-at-mitek-systems-4487164866",
@@ -3030,7 +3105,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/full-stack-software-engineer-associate-at-wiraa-4487903499",
@@ -3047,7 +3124,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/financial-services-risk-and-regulatory-advisory-senior-associate-at-pwc-canada-4454563221",
@@ -3064,7 +3143,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/field-services-engineer-at-cognizant-4487667890",
@@ -3081,7 +3162,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/enterprise-applications-analyst-at-nureva-inc-4487938469",
@@ -3098,7 +3181,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/electro-mechanical-designer-at-gorbel-4487946518",
@@ -3115,7 +3200,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/e-commerce-operations-specialist-at-ihl-canada-4487906722",
@@ -3132,7 +3219,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/dynamics-crm-senior-technical-architect-at-hcltech-4487949511",
@@ -3149,7 +3238,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/director-order-management-at-newage-products-inc-4489120927",
@@ -3166,7 +3257,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/director-office-north-america-workplace-services-at-bmo-4487225150",
@@ -3183,7 +3276,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/director-ai-enablement-at-chartwell-retirement-residences-4488894693",
@@ -3200,7 +3295,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-workforce-implementation-senior-consultant-at-ey-4385074909",
@@ -3217,7 +3314,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385099157",
@@ -3234,7 +3333,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/deskside-support-engineer-at-corient-4488869896",
@@ -3251,7 +3352,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/delivery-manager-crm-enterprise-applications-at-greenshield-4488894998",
@@ -3268,7 +3371,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/data-triage-analyst-at-epsilon-solutions-ltd-4489111052",
@@ -3285,7 +3390,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/cyber-security-analyst-at-creyos-4487172790",
@@ -3302,7 +3409,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/customer-support-specialist-at-pontosense-4487916247",
@@ -3319,7 +3428,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/consulting-associate-recovery-services-forensic-services-practice-at-charles-river-associates-4453723865",
@@ -3336,7 +3447,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/consultant-successfactors-successfactors-consultant-at-syntax-4489121059",
@@ -3353,7 +3466,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/concepteur-trice-en-m%c3%a9canique-du-b%c3%a2timent-at-ainsworth-inc-4487187426",
@@ -3370,7 +3485,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/client-success-manager-associate-at-morgan-stanley-4479966116",
@@ -3387,7 +3504,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/caseworker-%e2%80%93-bilingual-english-french-or-unilingual-at-cencora-4485870553",
@@ -3404,7 +3523,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/conseiller-en-gouvernance-ia-at-chrome-technologies-4487683823",
@@ -3421,7 +3542,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/cobol-production-support-engineer-deposit-systems-at-mindtris-4489106628",
@@ -3438,7 +3561,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/business-technology-solutions-manager-at-bgis-4487659421",
@@ -3455,7 +3580,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:simplyhired.ca/job/esillkdqpix36rldqvkwqdkqjljxe4zsu67kv4t9kjp_k1cf1xyhaw",
@@ -3472,7 +3599,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/bilingual-operations-manager-en-fr-at-bgis-4487927900",
@@ -3489,7 +3618,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/bilingual-manager-cloud-infrastructure-paas-at-canada-mortgage-and-housing-corporation-cmhc-soci%c3%a9t%c3%a9-canadienne-d-hypoth%c3%a8ques-et-de-logement-schl-4401786784",
@@ -3506,7 +3637,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/bim-quality-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451265764",
@@ -3523,7 +3656,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451262824",
@@ -3540,7 +3675,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453720592",
@@ -3557,7 +3694,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/bas-graphics-designer-%e2%80%93-building-automation-ebo-gdba005-at-potenco-4487905757",
@@ -3574,7 +3713,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/automation-lead-at-farm-mutual-re-4489116276",
@@ -3591,7 +3732,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/architectural-drafter-at-invision-staffing-services-inc-4487172644",
@@ -3608,7 +3751,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/application-support-analyst-ai-enabled-ba-development-hybrid-at-societe-generale-4488895878",
@@ -3625,7 +3770,9 @@
       "workArrangement": "hybrid",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/application-specialist-at-bell-4470646244",
@@ -3642,7 +3789,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/analyste-soutien-microinformatique-macos-at-dollarama-4462320998",
@@ -3659,7 +3808,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/analyste-technologique-2-emplois-disponibles-at-universit%c3%a9-de-sherbrooke-4487171751",
@@ -3676,7 +3827,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/analyste-informatique-at-hydro-qu%c3%a9bec-4487674939",
@@ -3693,7 +3846,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/analyste-en-s%c3%a9curit%c3%a9-at-cofomo-4489108756",
@@ -3710,7 +3865,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/analyste-support-applicatif-ia-int%c3%a9gr%c3%a9e-profil-hybride-analyse-m%c3%a9tier-d%c3%a9veloppement-at-societe-generale-4487194150",
@@ -3727,7 +3884,9 @@
       "workArrangement": "hybrid",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/analyste-programmeur-at-domtar-4488899027",
@@ -3744,7 +3903,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/analyste-d%c3%a9veloppeur-euse-at-loto-qu%c3%a9bec-4489148447",
@@ -3761,7 +3922,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/analyst-digital-applications-support-%e2%80%93-procurement-excellence-assurance-and-transformation-at-eteam-4487165764",
@@ -3778,7 +3941,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/2027-programme-des-dipl%c3%b4m%c3%a9s-services-technologiques-livraison-excellence-et-architecture-at-bell-4469262950",
@@ -3795,7 +3960,9 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/sales-director-crm-sales-at-servicenow-4489149240",
@@ -3812,7 +3979,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-11T04:07:23.506105+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5959247965",
