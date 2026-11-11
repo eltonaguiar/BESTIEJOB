@@ -58,7 +58,9 @@ def _get_json(url: str, timeout: int = 15) -> dict | None:
                       "Accept-Language": "en-CA,en;q=0.9"})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
-            return json.loads(resp.read(400_000))
+            # Board lists are large (lever/eqbank: 198 KB) and a truncated read
+            # looks like a JSON error, i.e. "no date" — read the whole body.
+            return json.loads(resp.read())
     except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError,
             json.JSONDecodeError, OSError):
         return None
@@ -195,11 +197,15 @@ def _board_index(kind: str, name: str) -> dict[str, str]:
     elif kind == "lever":
         data = _get_json(f"https://api.lever.co/v0/postings/{name}?mode=json")
         for job in data if isinstance(data, list) else []:
-            created = job.get("createdAt")
+            created = job.get("createdAt") or job.get("created_at") or job.get("publishedAt")
+            iso = None
             if isinstance(created, (int, float)) and created > 0:
                 d = datetime.fromtimestamp(created / 1000, tz=timezone.utc).date()
-                if _plausible(d) and job.get("id"):
-                    index[str(job["id"])] = d.isoformat()
+                iso = d.isoformat() if _plausible(d) else None
+            elif isinstance(created, str):
+                iso = _iso(created)
+            if iso and job.get("id"):
+                index[str(job["id"])] = iso
     elif kind == "ashby":
         data = _get_json(f"https://api.ashbyhq.com/posting-api/job-board/{name}")
         for job in (data or {}).get("jobs") or []:
