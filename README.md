@@ -606,7 +606,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-03 | [Senior Manager, ServiceNow HRSD Program and Solution Management](https://www.linkedin.com/jobs/view/senior-manager-servicenow-hrsd-program-and-solution-management-at-deloitte-4486878014) | Deloitte | Detroit, MI | via buffy--2026-11-08--v2.md |
 | 2026-11-03 | [Senior Manager, ServiceNow HRSD Program and Solution Management](https://www.linkedin.com/jobs/view/senior-manager-servicenow-hrsd-program-and-solution-management-at-deloitte-4486854990) | Deloitte | Seattle, WA | via buffy--2026-11-08--v2.md |
 | 2026-11-03 | [Senior Machine Learning Engineer](https://careers.servicenow.com/jobs/744000156069368/senior-machine-learning-engineer/) | ServiceNow Careers | Toronto | via servicenow-careers |
-| 2026-11-03 | [Senior Lead, ServiceNow ITOM](https://builtin.com/job/senior-lead-servicenow-itom/11793287) | Take-Two Interactive Software | Toronto | via builtin |
+| 2026-10-21 | [Senior Lead, ServiceNow ITOM](https://builtin.com/job/senior-lead-servicenow-itom/11793287) | Take-Two Interactive Software | Toronto | via builtin |
 | 2026-11-03 | [Senior GRC Analyst ServiceNow](https://www.nortonrosefulbright.com/en/jobs/senior-grc-analyst-servicenow-toronto) | Norton Rose Fulbright | Toronto, ON | via norton-rose-fulbright |
 | 2026-11-03 | [Senior Developer, ServiceNow](https://careers.loblaw.ca/senior-developer-servicenow/job/PAF-LCL-DED2BC0C-2158-441C-AC8F-642F12ECC0F7_4479_1786644910_0) | Loblaw | Canada | via loblaw |
 | 2026-11-03 | [Senior Consultant- ServiceNow Developer](https://ca.trabajo.org/job-2252-02b1d6df3bd5d13e2b90155f6f1d97bc) | EY | Toronto, ON | via trabajo |
