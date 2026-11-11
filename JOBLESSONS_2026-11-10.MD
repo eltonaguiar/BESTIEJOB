@@ -532,3 +532,41 @@ Zero new merges pushed to origin/main.
 - `README.md` — no changes pushed (remote eb3ecca already fresher; local aligned to origin/main).
 - `jobs.json` — no changes pushed.
 - `public/` (GitHub Pages) — no changes pushed; no redeploy required (eb3ecca already deployed).
+
+
+
+## Scan cycle — 2026-11-10 19:00 EST (2026-11-11 00:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-10 19:00 EST (2026-11-11 00:00 UTC) |
+| Scan | daily_job_scan.mjs + verify_links --days 2 + gap_scan.mjs + sync_readme_to_jobs.mjs + build_site.py |
+| Fresh postings merged (scan) | 552 across 10 sources (Adzuna 257 · LinkedIn 243 · Greenhouse 16 · Workday 14 · SmartRecruiters 13 · Remotive 4 · Ashby 2 · Lever 1 · RemoteOK 1 · Jobicy 1) |
+| jobs.json total | 5,374 (ServiceNow 1,091 · Salesforce 1,093) |
+| verify_links --days 2 | probed 62 fresh rows; live=29, dead=1, unknown=32; dropped 1 dead (BMO via Procom Senior Salesforce Developer — 410/filled); kept 2,353 |
+| gap_scan.mjs | Lane Four anchors=2 (undated → inbox); Ateko/Cofomo/Everforth/Coaxxion/CloudKettle/Crossfuze 0; Adzuna variants +1 new |
+| Rows added to README.md tables | +366 ServiceNow / +288 Salesforce = +654 (SN 1,112 · SF 1,256 · Other 4,109 · total 6,477) |
+| build_site.py | 4,821 jobs indexed (SN 781 · SF 853 · Other 3,187); 735 duplicate mirrors collapsed; 40 applied hidden; newest 2026-11-10 |
+| Commit | 9392745 pushed to origin/main — push succeeded on first try; local main was in sync with origin (c8e186c) |
+
+### Candidates reviewed (named employers / partners / Canadian tech)
+- **Lane Four** (Salesforce partner, Toronto): Salesforce Administrator (0–2 yrs, $50–75K, downtown Toronto) and Salesforce Consultant — FOUND via gap_scan anchors, BOTH undated on the employer page → submitted to `inbox/gap-scan--2026-11-11--v1.md`, NOT added to the board (standing rule: never invent a posted date). Exact-fit entry-level Platform Admin lead; a future cycle should open the detail page to harvest `datePosted`.
+- **Bell** (jobs.bell.ca): ServiceNow Developer / Integrator 431695 — 410/filled; ServiceNow System Administrator 432824 — filled. Skip-on-sight holds.
+- **Rogers** (jobs.rogers.com): Technical Specialist Markham (SN/SF mentioned only for incident/ticketing, not core platform); Lead Management Operations (Salesforce, Req 343961, posted 10-28 — outside freshness window). No fresh core SN/SF platform role.
+- **Scotiabank** (jobs.scotiabank.com): ServiceNow Administrator Specialist Toronto — fresh (11-09), already on board.
+- **KPMG / CGI / Accenture / Slalom / Altus Group:** mid/senior existing vacancies or not freshest.
+- **Government of Canada** (jobs.gc.ca / canada.ca): zero direct SN/SF Toronto hits; GC platform work arrives via prime vendors on their own ATS (already sweep-covered).
+
+### Patterns / lessons for future agents
+1. **Structured ATS feeds are the reliable fresh source.** SmartRecruiters (ServiceNow careers), Workday (Salesforce/banks), and Greenhouse/Lever/Ashby boards return dated postings without login walls. Adzuna per-keyword queries returned HTTP 503; the aggregate endpoint worked.
+2. **`verify_links.py --days 2` gates fresh rows before the build.** Only 404/410/451 count as dead (1 dropped: BMO via Procom Senior Salesforce Developer, 410/filled); 403/429/5xx are bot-walls on live postings and are kept.
+3. **Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto remains the priority gap.** Lane Four's Salesforce Administrator fits exactly but is undated — partner career pages often omit `postedDate`, so these roles reach the inbox, not the board. Future cycles should fetch partner detail pages to harvest `datePosted`.
+4. **Employer/partner pages (Bell, Rogers, banks) yield mostly filled/expired or non-platform roles.** Skip-on-sight for filled/410/expired; never re-probe them as live.
+5. **Confirm `git fetch` and local == origin/main before committing.** Local main was in sync (c8e186c), so the push succeeded without rebase; pushing older data would regress the board.
+
+### Files touched
+- `jobs.json` — 5,374 jobs (commit 9392745)
+- `README.md` — +654 rows (SN 1,112 · SF 1,256 · total 6,477); counts/anchors refreshed
+- `public/` (GitHub Pages) — rebuilt, 4,821 indexed jobs; live at https://eltonaguiar.github.io/BESTIEJOB/
+- `FRESH_JOBS.md`, `inbox/gap-scan--2026-11-11--v1.md`, `raw/gap_scan_2026-11-11.json`
+- `JOBLESSONS_2026-11-10.MD` — this section appended
