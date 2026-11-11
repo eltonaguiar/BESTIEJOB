@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-11T11:02:48.254Z",
     "generatedAt": "2026-11-11T11:02:48.254Z",
-    "total": 2720,
+    "total": 2721,
     "newThisScan": 673,
     "retainedFromPrevious": 1681,
     "sources": {
@@ -1749,6 +1749,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961463833",
+      "source": "readme",
+      "company": "Plative",
+      "title": "Salesforce Associate Director / Financial Services",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5961463833",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T12:17:31.478Z",
+      "excerpt": "via fresh-ca--2026-11-11--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
