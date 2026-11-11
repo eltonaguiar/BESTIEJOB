@@ -161,11 +161,98 @@ def smartrecruiters_date(url: str) -> str | None:
     return None
 
 
+
+# --------------------------------------------------------------------------- #
+# Greenhouse / Lever / Ashby
+#
+# All three publish the posting as JSON for the very same job, exactly like
+# Workday and SmartRecruiters, so the date still comes from the posting's own
+# source. Their detail pages are client-rendered, which is why the HTML parser
+# sees no `datePosted` on them at all -- measured 2026-11-11: 52 search
+# candidates were discarded as undated before these resolvers existed.
+
+GH_URL = re.compile(r"(?:boards|job-boards)\\.greenhouse\\.io/([^/?#]+)/jobs/(\\d+)")
+LEVER_URL = re.compile(r"jobs\\.lever\\.co/([^/?#]+)/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})")
+ASHBY_URL = re.compile(r"jobs\\.ashbyhq\\.com/([^/?#]+)/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})")
+
+# Per-job detail endpoints 404 for boards that moved hosts or archived a posting
+# (measured 2026-11-11: 3 of 3 greenhouse and lever detail calls returned 404),
+# so each board is read once through its list endpoint and indexed by posting id.
+_BOARD: dict[tuple[str, str], dict[str, str]] = {}
+
+
+def _board_index(kind: str, name: str) -> dict[str, str]:
+    key = (kind, name)
+    if key in _BOARD:
+        return _BOARD[key]
+    index: dict[str, str] = {}
+    if kind == "greenhouse":
+        data = _get_json(f"https://boards-api.greenhouse.io/v1/boards/{name}/jobs?content=false")
+        for job in (data or {}).get("jobs") or []:
+            iso = _iso(str(job.get("first_published") or ""))
+            if iso and job.get("id") is not None:
+                index[str(job["id"])] = iso
+    elif kind == "lever":
+        data = _get_json(f"https://api.lever.co/v0/postings/{name}?mode=json")
+        for job in data if isinstance(data, list) else []:
+            created = job.get("createdAt")
+            if isinstance(created, (int, float)) and created > 0:
+                d = datetime.fromtimestamp(created / 1000, tz=timezone.utc).date()
+                if _plausible(d) and job.get("id"):
+                    index[str(job["id"])] = d.isoformat()
+    elif kind == "ashby":
+        data = _get_json(f"https://api.ashbyhq.com/posting-api/job-board/{name}")
+        for job in (data or {}).get("jobs") or []:
+            iso = _iso(str(job.get("publishedAt") or ""))
+            if iso and job.get("id"):
+                index[str(job["id"])] = iso
+    _BOARD[key] = index
+    return index
+
+
+def greenhouse_date(url: str) -> str | None:
+    m = GH_URL.search(url)
+    if not m:
+        return None
+    board, job_id = m.groups()
+    got = _board_index("greenhouse", board).get(str(job_id))
+    if got:
+        return got
+    data = _get_json(f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs/{job_id}")
+    # `updated_at` is an edit timestamp and is never used as a posting date.
+    return _iso(str((data or {}).get("first_published") or ""))
+
+
+def lever_date(url: str) -> str | None:
+    m = LEVER_URL.search(url)
+    if not m:
+        return None
+    company, posting_id = m.groups()
+    got = _board_index("lever", company).get(str(posting_id))
+    if got:
+        return got
+    data = _get_json(f"https://api.lever.co/v0/postings/{company}/{posting_id}")
+    created = (data or {}).get("createdAt")
+    if isinstance(created, (int, float)) and created > 0:
+        d = datetime.fromtimestamp(created / 1000, tz=timezone.utc).date()
+        return d.isoformat() if _plausible(d) else None
+    return None
+
+
+def ashby_date(url: str) -> str | None:
+    m = ASHBY_URL.search(url)
+    if not m:
+        return None
+    org, job_id = m.groups()
+    return _board_index("ashby", org).get(str(job_id))
+
 # --------------------------------------------------------------------------- #
 # public API used by scripts/web_search_scan.py
 
 _CACHE: dict[str, str | None] = {}
-RESOLVERS = (("workday", workday_date), ("smartrecruiters", smartrecruiters_date))
+RESOLVERS = (("workday", workday_date), ("smartrecruiters", smartrecruiters_date),
+             ("greenhouse", greenhouse_date), ("lever", lever_date),
+             ("ashby", ashby_date))
 
 
 def resolve(url: str) -> str | None:

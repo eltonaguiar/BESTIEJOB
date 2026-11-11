@@ -1,0 +1,67 @@
+{
+ "generatedAt": "2026-11-11T02:56:28.316257+00:00",
+ "engines": [
+  "bing",
+  "openrouter"
+ ],
+ "queries": [
+  "site:myworkdayjobs.com ServiceNow Toronto",
+  "site:myworkdayjobs.com Salesforce Toronto",
+  "site:jobs.lever.co ServiceNow Toronto",
+  "site:jobs.lever.co Salesforce Canada",
+  "site:boards.greenhouse.io Salesforce Toronto",
+  "site:jobs.ashbyhq.com ServiceNow Canada",
+  "site:jobs.smartrecruiters.com ServiceNow Canada",
+  "site:careers.servicenow.com Canada"
+ ],
+ "perEngineResults": {
+  "bing": 78,
+  "openrouter": 40
+ },
+ "candidates": 41,
+ "kept": [
+  {
+   "posted": "2026-10-16",
+   "title": "Staff Site Reliability Engineer , Toronto / ServiceNow Careers",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.servicenow.com/jobs/744000156040224/staff-site-reliability-engineer/",
+   "engine": "openrouter:perplexity/sonar",
+   "query": "site:careers.servicenow.com Canada"
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Sales Director - CRM Sales, Toronto / ServiceNow Careers",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.servicenow.com/jobs/744000160705499/sales-director-crm-sales/",
+   "engine": "openrouter:perplexity/sonar",
+   "query": "site:careers.servicenow.com Canada"
+  },
+  {
+   "posted": "2026-10-19",
+   "title": "Staff Compliance Analyst, Toronto / ServiceNow Careers",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.servicenow.com/jobs/744000156422439/staff-compliance-analyst/",
+   "engine": "openrouter:perplexity/sonar",
+   "query": "site:careers.servicenow.com Canada"
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "Staff Incident Response Engineer, Vancouver / ServiceNow Careers",
+   "company": "ServiceNow",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://careers.servicenow.com/jobs/744000157918029/staff-incident-response-engineer/",
+   "engine": "openrouter:perplexity/sonar",
+   "query": "site:careers.servicenow.com Canada"
+  }
+ ],
+ "dropped": {
+  "http-404": 10,
+  "no-absolute-date": 18,
+  "http-403": 6,
+  "http-error": 3
+ },
+ "resolvedByAtsJson": 0
+}
