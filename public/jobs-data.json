@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-11T00:06:29+00:00",
+ "generatedAt": "2026-11-11T00:30:55+00:00",
  "timezone": "America/Toronto",
- "count": 4821,
+ "count": 4822,
  "appliedHidden": 40,
  "sources": [
   "103.careerplug.com",
@@ -317,6 +317,48 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
      "label": "LinkedIn · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Specialist- Salesforce Architect",
+   "company": "Parkland Corporation",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487851759",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialist- salesforce architect parkland corporation calgary, alberta, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487375305",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5945650283",
+     "label": "Adzuna · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940719587?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Calgary"
     }
    ]
   },
@@ -1471,6 +1513,26 @@
    ],
    "french": false,
    "search": "salesforce fsc solution architect maarut montreal east, montreal adzuna salesforce adzuna salesforce role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Associate, Salesforce Support",
+   "company": "Apex Systems",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/associate-salesforce-support-at-apex-systems-4489652732",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "associate, salesforce support apex systems toronto, ontario, canada linkedin salesforce linkedin salesforce toronto area",
    "alternates": []
   },
   {
@@ -8943,43 +9005,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946006902?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "Specialist- Salesforce Architect",
-   "company": "Parkland Corporation",
-   "location": "Calgary, Alberta, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487375305",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "specialist- salesforce architect parkland corporation calgary, alberta, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945650283",
-     "label": "Adzuna · Calgary"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094",
-     "label": "LinkedIn · Calgary"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5940719587?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Calgary"
     }
    ]
   },
