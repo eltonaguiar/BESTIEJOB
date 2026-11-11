@@ -83,6 +83,10 @@ CANADA_SIGNAL = re.compile(
     re.I,
 )
 
+IT_ROLE = re.compile(r"analyst|administrator|developer|engineer|architect|consultant|"
+                     r"specialist|manager|lead|engineer|administrator", re.I)
+PRODUCT = re.compile(r"service\s*now|servicenow|salesforce", re.I)
+
 COMPANY_NAMES = {
     "bmo": "BMO", "td": "TD", "cibc": "CIBC", "rbc": "RBC", "interac": "Interac",
     "mckesson": "McKesson", "rsm": "RSM", "gdit": "GDIT", "soti": "SOTI",
@@ -118,6 +122,23 @@ CAREERS_PAGES = {
     "kyndryl": "https://www.kyndryl.com/careers",
     "scotiabank": "https://www.scotiabank.com/careers/en/home.html",
     "cibc": "https://www.cibc.com/en/about-cibc/careers.html",
+    # sectors the board has not swept: hospitals, universities, crown corps, governments
+    "uhn": "https://www.uhn.ca/careers",
+    "sickkids": "https://www.sickkids.ca/en/careers/",
+    "sunnybrook": "https://www.sunnybrook.ca/content/?page=careers-main",
+    "utoronto": "https://people.utoronto.ca/careers/",
+    "yorku": "https://www.yorku.ca/hr/careers/",
+    "torontomu": "https://www.torontomu.ca/human-resources/careers/",
+    "cityoftoronto": "https://www.toronto.ca/city-government/career-opportunities/",
+    "ontario": "https://www.ontario.ca/page/careers-ontario-public-service",
+    "hydroone": "https://www.hydroone.com/careers",
+    "ieso": "https://www.ieso.ca/en/Careers",
+    "canadapost": "https://www.canadapost-postescanada.ca/cpc/en/our-company/careers.page",
+    "viarail": "https://www.viarail.ca/en/about-via-rail/careers",
+    "cbc": "https://careers.cbc.ca/",
+    "laurentianbank": "https://www.laurentianbank.ca/en/careers.html",
+    "atb": "https://www.atb.com/careers/",
+    "equitablebank": "https://www.equitablebank.ca/en/careers.html",
 }
 
 GUESSES = {
@@ -270,8 +291,11 @@ def workday(counters, cutoff):
                     continue
                 title = detail.get("title", "") or posting.get("title", "")
                 if not PLATFORM.search(title):
-                    counters["off-topic"] += 1
-                    continue
+                    # hidden-title route: IT role word in the title AND the product name
+                    # named literally in the description (no fuzzy tokens)
+                    if not (IT_ROLE.search(title) and PRODUCT.search(detail.get("jobDescription", "")[:6000])):
+                        counters["off-topic"] += 1
+                        continue
                 rows.append({
                     "channel": "workday",
                     "company": tenant,
@@ -381,8 +405,9 @@ def workable(counters, cutoff):
                     continue
                 title = job.get("title", "")
                 if not PLATFORM.search(title):
-                    counters["off-topic"] += 1
-                    continue
+                    if not (IT_ROLE.search(title) and PRODUCT.search(job.get("description") or "")):
+                        counters["off-topic"] += 1
+                        continue
                 posted = parse_date(job.get("created") or job.get("updated") or "")
                 if not posted:
                     counters["no-absolute-date"] += 1
