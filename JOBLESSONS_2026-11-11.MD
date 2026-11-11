@@ -100,3 +100,45 @@ All 9 were deduped against the board (jobs.json URL set + normalized company+tit
 **Merged**: 0 jobs to README.md; 0 to GitHub Pages (README unchanged, so no pages.yml rebuild triggered this cycle).
 
 **Lesson confirmed**: null runs are the expected norm — most hourly cycles surface zero verified-fresh Platform Admin/Dev I Toronto roles. The 00:00 scan's 9-merge cycle (commit `fa52e79`) remains the latest board update; board and GitHub Pages are current as of 2026-11-11.
+
+## 02:00 hourly scan (this cycle) — null run
+
+**Date**: 2026-11-11 · **Run time**: 2026-11-11 02:00 EST (07:00 UTC) · **Branch**: main (current with `2584143`)
+
+**Result**: No new verified-fresh Toronto ServiceNow/Salesforce Platform Admin / Platform Developer I / entry-level roles to merge.
+
+**Dedupe baseline**: README.md tables + jobs.json (5,341 rows), window 2026-10-12 → 2026-11-11 · **6,427 live postings** (ServiceNow 1,056 · Salesforce 1,212 · Other 4,159) · as of 2026-11-11.
+
+**Sources checked**
+
+**Partner / Elite / Global Elite partners + banks**
+- ServiceNow careers (careers.servicenow.com) — Staff SRE Canada Protected B (Nov 05), Staff Systems Engineer (Nov 06), Staff Security Engineer (Nov 06): staff-level infra/security, already on board; Sales Director - CRM Sales (Nov 09) and Sr. CRM Account Executive (Nov 09): sales, excluded by title rule. No fresh Platform Admin/Developer I.
+- Salesforce careers (careers.salesforce.com) — Manager Sales Development, Senior Manager Sales, Principal Account SE, Renewals Manager, Treasury/Credit & Collections/Recruiting Coordinator: non-platform; no Platform Admin / Platform Developer I.
+- Accenture / Deloitte / KPMG / CGI / Fujitsu / IBM / TCS / Capgemini / Wipro / Ateko (backed by Bell) — vacancies already on board; no fresh dated Toronto SN/SF platform requisitions this cycle.
+- Scotiabank / RBC / TD / BMO / CIBC Workday boards — no new dated SN/SF requisitions.
+
+**Telcos**
+- Rogers (jobs.rogers.com) — Platform Specialist (VMware/NetApp infra), Technical Specialist (Meraki networking; SN/SF only as "familiarity"), Lead Management Operations (Ottawa marketing ops), Delivery Specialist, Digital Campaigns manager, Damage Prevention, sales roles: no SN/SF platform role; SN/SF appear only as familiarity or non-platform duties. Excluded by title rule.
+- Bell (jobs.bce.ca / jobs.bell.ca) — ServiceNow Senior Technical Advisor (Oct 06, deadline 11/02/2026 expired), ServiceNow System Administrator (filled), Senior Manager ServiceNow Platform Delivery (filled/no longer accepting), Technical Architect II (deadline 03/08/2026 expired), Senior Software Architect II - ServiceNow Platform Architect (deadline 04/02/2026 expired). Skip-on-sight holds; no fresh dated Toronto SN/SF platform requisition.
+
+**Government**
+- Government of Canada (jobs.gc.ca) — zero Toronto SN/SF hits. Ontario gojobs.gov.on.ca — expired/old postings only (2022, Oct-2026 customer service). GC platform work arrives via prime vendors on their own ATS (covered by the automated sweep); nothing fresh this cycle.
+
+**Aggregators / job boards**
+- gap_scan 2026-11-10 (Adzuna 68 calls, Job Bank 12 pages, Eluta 16 pages) — 44 SN/SF-named rows: staff/architect/senior or Ottawa / Montréal / Canada-wide. Toronto hits (ServiceNow Staff Systems Engineer smartrecruiters; Smart IT Frame Salesforce Data Cloud Architect adzuna 5959388441; S I Systems Senior Salesforce Solution Architect adzuna 5959388506; Traction Rec Salesforce Implementation Specialist adzuna 5960420667) already on board under the same URL — deduped, not re-added.
+- Indeed.ca / BuiltIn.ca — intermediate/senior+ only (KPMG, CGI, Deloitte, BDO, BMO, Accenture, ServiceNow staff roles, Loopio, Moneris, TD, Sheridan); SERP shows relative ages only ("New", page dated 10 November 2026), no verifiable absolute `datePosted` → excluded unless a detail page confirms one.
+- LinkedIn guest — 429/403/login wall; no LinkedIn role added without an independently verifiable absolute posted date.
+
+**Excluded (title / level / freshness rules)**
+- Sales / account-management / marketing-ops titles; senior advisory / staff / manager / director roles (target is Platform Admin / Platform Developer I / entry-level).
+- Roles with relative ages and no verifiable absolute `datePosted`.
+- Expired / filled / "no longer accepting applicants" postings — skip-on-sight, never re-probed as live.
+
+**inbox triage (untracked, not submissions)**
+- fresh-ca--2026-11-11--v3.md: empty table (+0 new, 0 duplicate) — Adzuna/Job Bank/Eluta sweep found nothing dated 2026-11-10/11.
+- todayfeeds--2026-11-10--v1.md: Salesforce Technical Architect Director - PubSec (Mulesoft) via Workday — undated, director-level, excluded.
+- _ai-triage--2026-11-10--v1.md: lanefour.com Salesforce Consultant/Administrator — undated rows, merger skips on purpose.
+
+**Merged**: 0 jobs to README.md; 0 to GitHub Pages (README unchanged → no pages.yml rebuild required; `public/` and jobs.json already redeployed from commit `2584143`, 2026-11-11T06:49Z).
+
+**Lesson confirmed**: null runs are the expected norm — third consecutive hourly cycle this date (00:00 merged 9; 01:00 null; 02:00 null) with zero verified-fresh Platform Admin/Platform Developer I Toronto entries beyond the :00 deep sweep. Fresh Toronto platform roles surface at the :00 scan; treat :01/:02 hourly scans as change-detection only. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced this cycle — remains the top keyword gap.
