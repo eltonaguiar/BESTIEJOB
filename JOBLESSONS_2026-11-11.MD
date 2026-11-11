@@ -402,3 +402,47 @@ See `inbox/hermes-cron--2026-11-11--v3.md`. Highlights:
 - `JOBLESSONS_2026-11-11.MD` — this section (14:00 EST null-run record added)
 - `README.md` — unchanged (SN 516 · SF 519 · Other 499 · total 1,534)
 - `public/` / GitHub Pages — unchanged; no redeploy required
+
+
+## 17:00 EST run — hourly scan (this run)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-11 17:00 EST (22:00 UTC) — scheduled cron |
+| Scope | Fresh Toronto / GTA ServiceNow + Salesforce postings |
+| Repo | github.com/eltonaguiar/BESTIEJOB (branch: main) |
+| Live board | https://eltonaguiar.github.io/BESTIEJOB/ |
+| Dedupe baseline | jobs.json 2,847 rows; README.md 1,575 live (SN 535 · SF 541 · Other 499) before merge |
+| Candidates surfaced | ~12 via web search (jobs.ca, roberthalf.com, indeed.ca, linkedin, builtin, workopolis) |
+| Verified fresh & not on board | 1 (Salesforce): Robert Half — Salesforce Developer, Toronto ON remote, posted 2026-11-10 |
+| Already on board / skipped | Apptoza (adzuna, merged by a peer after this run's base); Plative, Scotiabank SN/SF, Triunity, Brookfield Properties already on board; Cognizant (HTTP 404) and BDO (HTTP 401) not verifiable; Randstad ServiceNow posted 2026-08-17 (outside 30-day window) |
+| Jobs merged to README.md | 1 (Salesforce +1 → 542; total 1,576) |
+| GitHub Pages | sync_readme_to_jobs.mjs + build_site.py; jobs.json 2,847→2,848; public/ rebuilt |
+
+## Fresh posting verified live and merged
+
+**Salesforce (+1)**
+
+| Posted | Role | Company | Location | Source | Verified |
+|---|---|---|---|---|---|
+| 2026-11-10 | Salesforce Developer | Robert Half | Toronto, ON (remote) | roberthalf.com | Live (browser extract; Apex/LWC/Agentforce, permanent $90-95K CAD) |
+
+Deduped against jobs.json URL set + README.md; confirmed absent before merging.
+
+## Partner / telco / government sweep
+
+- Rogers (jobs.rogers.com / SuccessFactors), Bell (jobs.bell.ca / Phenom, incl. ATEKO-powered), Government of Canada (jobs.gc.ca) — scanned; no fresh dated Toronto SN/SF platform requisitions beyond what is already on the board.
+- Elite/Global Elite SI partners (Accenture, Deloitte, KPMG, CGI, Capgemini, IBM, TCS, Wipro) and banks (Scotiabank, RBC, TD, BMO, CIBC) — vacancies already on board; no fresh dated Toronto platform requisitions.
+
+## Lesson confirmed
+
+Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced this run — remains the top keyword gap. The :00 Adzuna/Job Bank/Eluta deep scans remain the productive channel; an off-hour web scan surfaced 1 verified-fresh role this run.
+
+## Files touched
+- `README.md` — Salesforce 541→542, total 1,575→1,576; 1 row inserted
+- `jobs.json` — 2,847→2,848
+- `public/` — jobs.json, jobs-data.json, index.html, gotjob/jobs.json, findjobs/jobs.json rebuilt
+- `inbox/hermes-cron--2026-11-11--v4.md` — submission record (Robert Half)
+- `JOBLESSONS_2026-11-11.MD` — this section added
+
+Commit pushed to main; README push triggers GitHub Pages redeploy via pages.yml.

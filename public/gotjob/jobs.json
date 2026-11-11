@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-11T22:11:15.757Z",
     "generatedAt": "2026-11-11T22:11:15.757Z",
-    "total": 2847,
+    "total": 2848,
     "newThisScan": 819,
     "retainedFromPrevious": 1714,
     "sources": {
@@ -6416,6 +6416,23 @@
       ],
       "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "readme:roberthalf.com/ca/en/job/toronto-on/salesforce-developer/000954410-caen",
+      "source": "readme",
+      "company": "Robert Half",
+      "title": "Salesforce Developer",
+      "location": "Toronto, ON (remote)",
+      "url": "https://www.roberthalf.com/ca/en/job/toronto-on/salesforce-developer/000954410-caen",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T22:24:48.392Z",
+      "excerpt": "Salesforce Apex/LWC/Agentforce, permanent, $90-95K CAD · via hermes-cron--2026-11-11--v4.md",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5960420672",
