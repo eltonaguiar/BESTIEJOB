@@ -86,14 +86,14 @@ Match on JD content, not title only: ITSM/ITAM/CMDB/CSDM, Flow/integrations, PA/
 
 ## Part D — Second-opinion scrutiny protocol
 
-- API keys (OpenRouter, Inception Labs Mercury-3, others) are kept in the user's file `dbpasses.txt` on machine Elton2026 (`/home/eaguiar2015/dbpasses.txt`). **Never paste secrets into this file, commits, or chat.** Load them as env vars at run time only.
+- API keys (OpenRouter, Inception Labs Mercury-3, others) are kept in the local secrets file pointed to by `DBPASSES_FILE` (default `$HOME/dbpasses.txt`). **Never paste secrets into this file, commits, or chat.** Load them as env vars at run time only.
 - Run the prompt below on ≥2 independent models; merge findings into this doc as a new dated section.
 
 ### Prompt template
 > You are reviewing a job-search protocol for a Toronto-based ServiceNow (CSA/CAD/multi-CIS) + Salesforce (Admin/PD1/JS Dev I/AI Associate) developer with ITAM/CMDB/ITSM depth. Critique it: (1) gaps in the scan order or employer list, (2) stale or unreliable sources, (3) bias toward aggregators vs employer ATS, (4) missed certifications or keywords that 2026 Toronto JDs require, (5) verification weaknesses (dates, closed postings), (6) concrete fixes ranked by impact. Protocol follows: <paste Part C>
 
 ### Status
-As of **2026-11-02 10:08 EST**, Elton2026 was offline, so Job hunter could not run the API second pass yet.
+As of **2026-11-02 10:08 EST**, the operator machine was offline, so Job hunter could not run the API second pass yet.
 
 - [ ] OpenRouter model #1 — results:
 - [ ] OpenRouter model #2 — results:
