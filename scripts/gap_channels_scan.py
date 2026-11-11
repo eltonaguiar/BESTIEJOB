@@ -15,6 +15,10 @@ This script sweeps the three thin channels:
   2. Job Bank Canada search (`article > span.noctitle`, `li.date`, `li.location`).
      The posting's own "November 08, 2026" line is converted to ISO.
   3. Workable public API (`created` + nested location object).
+  4. Phenom People boards (`/api/apply/v2/jobs`) and Oracle Cloud Recruiting
+     (`/hcmRestApi/resources/latest/recruitingCEJobRequisitions`). Both are tried
+     against several query shapes because they differ per tenant; a tenant that
+     answers with zero reqs is counted, never filled in.
 
 Rules enforced here (they mirror the board's own rules):
   * no absolute date -> dropped and counted, never guessed
@@ -140,6 +144,13 @@ CAREERS_PAGES = {
     "atb": "https://www.atb.com/careers/",
     "equitablebank": "https://www.equitablebank.ca/en/careers.html",
 }
+
+# Phenom People boards (RBC and others). Endpoint shape varies per tenant, so the
+# sweep tries several query forms and counts an empty answer instead of failing.
+PHENOM_HOSTS = ["jobs.rbc.com"]
+# Oracle Cloud Recruiting (ORC). The REST finder answers without a key; hosts are
+# seeded here and can be extended as tenants are discovered.
+ORACLE_HOSTS = ["estm.fa.em2.oraclecloud.com"]
 
 GUESSES = {
     "rbc": (["wd3", "wd1"], ["External", "RBC_Careers"]),
@@ -425,6 +436,151 @@ def workable(counters, cutoff):
     return rows
 
 
+def iso_from(value):
+    """Absolute date from an ISO string or an epoch (s/ms). Nothing is inferred."""
+    if isinstance(value, (int, float)) or (isinstance(value, str) and value.isdigit()):
+        try:
+            ts = int(value)
+            if ts > 10 ** 11:
+                ts //= 1000
+            return datetime.utcfromtimestamp(ts).date().isoformat()
+        except Exception:
+            return ""
+    return parse_date(str(value or ""))
+
+
+def content_key(title, company):
+    t = re.sub(r"[^a-z0-9]+", " ", (title or "").lower()).strip()
+    c = re.sub(r"[^a-z0-9]+", " ", (company or "").lower()).strip()
+    return f"{t}|{c}"
+
+
+def ensure_board_index(board, board_content):
+    """CI has no /tmp cache: build the dedupe index from the live feed."""
+    if board and board_content:
+        return board, board_content
+    status, body = fetch("https://eltonaguiar.github.io/BESTIEJOB/jobs.json", timeout=60)
+    if status != 200:
+        print(f"board index unavailable (HTTP {status}); dedupe is inbox-internal only")
+        return board, board_content
+    try:
+        jobs = json.loads(body).get("jobs", [])
+    except Exception:
+        return board, board_content
+    board = {normalize(j.get("url", "")) for j in jobs}
+    board.discard("")
+    board_content = {content_key(j.get("title"), j.get("company")) for j in jobs}
+    Path("/tmp/board_urls.json").write_text(json.dumps(sorted(board)))
+    Path("/tmp/board_content.json").write_text(json.dumps(sorted(board_content)))
+    print(f"board index built from live feed: {len(jobs)} rows")
+    return board, board_content
+
+
+def phenom(counters, cutoff):
+    rows = []
+    for host in PHENOM_HOSTS:
+        domain = re.sub(r"^jobs\.", "", host)
+        jobs = []
+        for keyword in ("ServiceNow", "Salesforce"):
+            for url in (
+                f"https://{host}/api/apply/v2/jobs?domain={domain}&query={keyword}&start=0&num=100",
+                f"https://{host}/api/apply/v2/jobs?domain=https%3A%2F%2F{host}&query={keyword}&start=0&num=100",
+                f"https://{host}/api/apply/v2/jobs?domain={domain}&keywords={keyword}&start=0&num=100",
+            ):
+                status, body = fetch(url, timeout=25)
+                if status != 200:
+                    counters[f"phenom-http-{status}"] += 1
+                    continue
+                try:
+                    payload = json.loads(body)
+                except Exception:
+                    counters["phenom-not-json"] += 1
+                    continue
+                data = payload.get("data")
+                found = data if isinstance(data, list) else ((data or {}).get("jobs") if isinstance(data, dict) else None)
+                found = found or payload.get("jobs") or []
+                if found:
+                    jobs = found
+                    break
+            if jobs:
+                break
+        if not jobs:
+            counters["phenom-no-postings"] += 1
+            continue
+        for job in jobs:
+            title = job.get("title") or job.get("name") or ""
+            if not PLATFORM.search(title):
+                counters["off-topic"] += 1
+                continue
+            loc = job.get("cityStateCountry") or job.get("location") or ""
+            if isinstance(job.get("locations"), list) and not loc:
+                loc = ", ".join(str(x) for x in job["locations"][:2])
+            if not location_ok(str(loc)):
+                counters["not-canada"] += 1
+                continue
+            posted = iso_from(job.get("postedDate") or job.get("dateCreated") or job.get("createDate"))
+            if not posted:
+                counters["no-absolute-date"] += 1
+                continue
+            if posted < cutoff:
+                counters["older-than-window"] += 1
+                continue
+            ident = job.get("jobId") or job.get("id") or ""
+            rows.append({"channel": "phenom", "company": domain.split(".")[0].upper(),
+                         "title": title, "location": str(loc), "posted": posted,
+                         "url": job.get("applyUrl") or job.get("jobUrl") or job.get("url")
+                                or f"https://{host}/job/{ident}",
+                         "req": str(ident)})
+    return rows
+
+
+def oracle(counters, cutoff):
+    rows = []
+    for host in ORACLE_HOSTS:
+        for site in ("CX_1001", "CX_1"):
+            for finder in (f"findReqs;siteNumber={site},limit=50,sortBy=POSTING_DATES_DESC",
+                           f"findReqs;siteNumber={site},limit=50,keyword=ServiceNow"):
+                url = (f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+                       f"?onlyData=true&expand=requisitionList&finder="
+                       + urllib.parse.quote(finder, safe=",;="))
+                status, body = fetch(url, timeout=30)
+                if status != 200:
+                    counters[f"oracle-http-{status}"] += 1
+                    continue
+                try:
+                    items = json.loads(body).get("items", [])
+                except Exception:
+                    counters["oracle-not-json"] += 1
+                    continue
+                reqs = (items[0].get("requisitionList") if items else []) or []
+                if not reqs:
+                    counters["oracle-no-requisitions"] += 1
+                    continue
+                for req in reqs:
+                    title = req.get("Title", "")
+                    if not PLATFORM.search(title):
+                        counters["off-topic"] += 1
+                        continue
+                    loc = req.get("PrimaryLocation") or req.get("PrimaryLocationCountry") or ""
+                    if not location_ok(loc):
+                        counters["not-canada"] += 1
+                        continue
+                    posted = iso_from(req.get("PostedDate") or req.get("PostingStartDate"))
+                    if not posted:
+                        counters["no-absolute-date"] += 1
+                        continue
+                    if posted < cutoff:
+                        counters["older-than-window"] += 1
+                        continue
+                    rid = req.get("Id") or req.get("RequisitionId") or ""
+                    rows.append({"channel": "oracle",
+                                 "company": req.get("Organization") or host.split(".")[0].upper(),
+                                 "title": title, "location": loc, "posted": posted,
+                                 "url": f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{rid}",
+                                 "req": str(rid)})
+    return rows
+
+
 def normalize(url):
     url = (url or "").split("#")[0]
     url = re.sub(
@@ -473,11 +629,13 @@ def main():
     board_content = set()
     if Path("/tmp/board_content.json").exists():
         board_content = set(json.load(open("/tmp/board_content.json")))
+    board, board_content = ensure_board_index(board, board_content)
     print(f"board urls loaded: {len(board)} | title+company keys: {len(board_content)} | window: {cutoff} .. {TODAY.isoformat()}")
 
     counters = collections.Counter()
     rows, notes = [], {}
-    for name, func in (("workday", workday), ("jobbank", jobbank), ("workable", workable)):
+    for name, func in (("workday", workday), ("jobbank", jobbank), ("workable", workable),
+                       ("phenom", phenom), ("oracle", oracle)):
         started = time.time()
         before = collections.Counter(counters)
         try:

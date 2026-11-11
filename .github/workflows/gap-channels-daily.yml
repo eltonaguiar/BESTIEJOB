@@ -1,0 +1,101 @@
+name: Gap channels (Workday / Phenom / Oracle / Job Bank / Workable)
+
+# These channels are the board's weakest coverage: on 2026-11-11 the live feed held
+# 31 Workday rows across ~12 tenants, 11 Job Bank rows and no Workable, Phenom or
+# Oracle Cloud rows at all, while LinkedIn guest + Adzuna supplied 55% of it.
+#
+# The sweep only reports (and merges) rows whose date is published by the source, and
+# dedupes on URL and on title+company, so a role another board already carries is not
+# re-added. Email/summary output is the "net-new" list only.
+
+on:
+  schedule:
+    # Every 6 hours at :40, off the hourly scan's :00 and fresh-ca's :25 slots.
+    - cron: '40 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'Window in days'
+        default: '30'
+
+concurrency:
+  group: gap-channels
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build the board dedupe index
+        run: |
+          # The scanner also builds this itself when /tmp is empty; doing it here keeps
+          # the failure visible if the feed is unreachable.
+          python3 - <<'PY'
+          import json, re, urllib.request
+          from pathlib import Path
+          url = "https://eltonaguiar.github.io/BESTIEJOB/jobs.json"
+          jobs = json.loads(urllib.request.urlopen(urllib.request.Request(
+              url, headers={"User-Agent": "BESTIEJOB-gap-sweep"}), timeout=60).read()).get("jobs", [])
+          def norm(u):
+              u = (u or "").split("#")[0]
+              return re.sub(r"(utm_[^&]+&?|refId=[^&]+&?|trackingId=[^&]+&?)", "", u).rstrip("?&/").lower()
+          def key(t, c):
+              return (re.sub(r"[^a-z0-9]+", " ", (t or "").lower()).strip() + "|" +
+                      re.sub(r"[^a-z0-9]+", " ", (c or "").lower()).strip())
+          Path("/tmp/board_urls.json").write_text(json.dumps(sorted({norm(j.get("url")) for j in jobs})))
+          Path("/tmp/board_content.json").write_text(json.dumps(sorted({key(j.get("title"), j.get("company")) for j in jobs})))
+          print(f"index: {len(jobs)} rows")
+          PY
+
+      - name: Sweep gap channels
+        run: |
+          set -euo pipefail
+          STAMP=$(date -u +%F)
+          python3 scripts/gap_channels_scan.py \
+            --days "${{ github.event.inputs.days || '30' }}" \
+            --inbox "inbox/gap-channels--${STAMP}--v1.md" | tee /tmp/gap-scan.log
+
+      - name: Report net-new ServiceNow / Salesforce rows
+        run: |
+          echo "### Net-new rows this run" >> "$GITHUB_STEP_SUMMARY"
+          grep -E "^  20[0-9]{2}-[0-9]{2}-[0-9]{2} \| (workday|phenom|oracle|jobbank|workable)" /tmp/gap-scan.log \
+            | head -40 >> "$GITHUB_STEP_SUMMARY" || echo "_none_" >> "$GITHUB_STEP_SUMMARY"
+          grep -E "^per-channel rows|^drops:" /tmp/gap-scan.log >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Validate the submission
+        run: python3 scripts/check_inbox.py
+
+      - name: Merge inbox into README (additive)
+        run: python3 tools/jobs_merge_inbox.py --bump-inbox
+
+      - name: Rebuild the feed
+        run: |
+          set -euo pipefail
+          node scripts/sync_readme_to_jobs.mjs
+          python3 tools/build_site.py
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md inbox jobs.json public/jobs.json public/gotjob/jobs.json \
+                  public/findjobs/jobs.json public/jobs-data.json FRESH_JOBS.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "no new postings"
+            exit 0
+          fi
+          NEW=$(git diff --cached --numstat README.md | awk '{print $1}')
+          git commit -m "chore(jobs): gap-channel sweep +${NEW:-0} rows ($(date -u +%Y-%m-%dT%H:%M:%SZ)) [skip ci]"
+          git push || { git pull --rebase --autostash origin main; git push; }
