@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-11T01:12:13.223Z",
     "generatedAt": "2026-11-11T01:12:13.223Z",
-    "total": 5376,
+    "total": 5387,
     "newThisScan": 686,
     "retainedFromPrevious": 1675,
     "sources": {
@@ -400,6 +400,125 @@
       ],
       "verifiedAt": "2026-11-10T21:05:58.651938+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-technical-architect-service-cloud-voice-at-experis-4488612601",
+      "source": "readme",
+      "company": "Experis",
+      "title": "Salesforce Technical Architect - Service Cloud Voice",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-service-cloud-voice-at-experis-4488612601",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via inbox_staffing2--2026-11-10--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:careerbeacon.com/en/job/2200774/service-new-brunswick",
+      "source": "readme",
+      "company": "Service New Brunswick",
+      "title": "Salesforce Developer",
+      "location": "NB, CA",
+      "url": "https://www.careerbeacon.com/en/job/2200774/service-new-brunswick",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via CareerBeacon",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technical-help-desk-senior-at-raise-4489497645",
+      "source": "readme",
+      "company": "Raise",
+      "title": "Technical Help Desk - Senior",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technical-help-desk-senior-at-raise-4489497645",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via inbox_staffing3--2026-11-10--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-application-developer-at-nesto-4487859214",
+      "source": "readme",
+      "company": "nesto",
+      "title": "Senior Application Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-application-developer-at-nesto-4487859214",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via inbox_staffing2--2026-11-10--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/information-technology-help-desk-analyst-at-bay-street-staffing-4323214638",
+      "source": "readme",
+      "company": "Bay Street Staffing",
+      "title": "Information Technology Help Desk Analyst",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/information-technology-help-desk-analyst-at-bay-street-staffing-4323214638",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via inbox_staffing2--2026-11-10--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/director-sales-corporate-at-emballages-mitchel-lincoln-packaging-4489616354",
+      "source": "readme",
+      "company": "Emballages Mitchel-Lincoln Packaging",
+      "title": "Director, Sales Corporate",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/director-sales-corporate-at-emballages-mitchel-lincoln-packaging-4489616354",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via inbox_staffing2--2026-11-10--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/25-directeur-at-deloitte-4488645258",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "25 - Directeur",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/25-directeur-at-deloitte-4488645258",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via inbox_staffing3--2026-11-10--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5960420672",
@@ -14667,6 +14786,23 @@
       "postedDate": "2026-11-06T12:00:00.000Z",
       "scrapedAt": "2026-11-11T01:14:05.910Z",
       "excerpt": "via buffy--2026-11-08--v8.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-systems-analyst-at-lane-four-4487345497",
+      "source": "readme",
+      "company": "Lane Four",
+      "title": "Business Systems Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-systems-analyst-at-lane-four-4487345497",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via inbox_staffing2--2026-11-10--v2.md",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -72568,6 +72704,23 @@
       ]
     },
     {
+      "id": "readme:adzuna.ca/details/5948025592",
+      "source": "readme",
+      "company": "White Bay",
+      "title": "Salesforce Administrator / Natural Health / Hybrid in Toronto / $60-75k  Benefits",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5948025592",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-31T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via adzuna-autonomous--2026-11-05--v20.md",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5948027140",
       "source": "adzuna",
       "company": "Hour Consulting Corporation",
@@ -91592,6 +91745,23 @@
       ]
     },
     {
+      "id": "readme:careers.servicenow.com/jobs/744000156860385/staff-applied-research-scientist",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Staff Applied Research Scientist",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://careers.servicenow.com/jobs/744000156860385/staff-applied-research-scientist/",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via inbox_sn_sf_careers--2026-11-11--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5936223980",
       "source": "adzuna",
       "company": "Bridgenext",
@@ -93519,6 +93689,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:careers.servicenow.com/jobs/744000155597590/staff-research-scientist",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Staff Research Scientist",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://careers.servicenow.com/jobs/744000155597590/staff-research-scientist/",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-14T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T01:43:14.757Z",
+      "excerpt": "via inbox_sn_sf_careers--2026-11-11--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
