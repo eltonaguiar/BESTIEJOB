@@ -1,0 +1,10 @@
+{
+ "recordedAt": "2026-11-11",
+ "why": "per-kind counts as published on this date. Each kind is a ratchet: a later run fails when a kind grows past the count here, so legacy debt cannot expand.",
+ "counts": {
+  "location-ambiguous": 980,
+  "non-canada": 890,
+  "identity-date-conflict": 364,
+  "clock-date": 102
+ }
+}

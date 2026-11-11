@@ -1,0 +1,59 @@
+name: board invariants
+
+# The board publishes four promises ("Posted is the date the source shows",
+# "deduplicated by URL", location from the posting, no vendor sales rows) and
+# nothing checked the published files against them. That is how 42 split table
+# rows, 16 sales jobs at ServiceNow/Salesforce and 102 rows dated by the scan
+# clock reached main.
+#
+# scripts/board_invariants.py audits README.md and jobs.json. It runs against a
+# recorded baseline (reports/board_invariants_baseline.json) so the legacy debt
+# already published cannot grow: a kind fails only when it exceeds its recorded
+# count. Fixing rows lowers the count; re-record with --write-baseline.
+#
+# Errors only. The heuristics (non-Canada locations, ambiguous cities, mirror
+# duplicates) are counted and printed but do not fail, because clearing them
+# needs a per-row decision. Run `--fail-on warning` locally to see them as gates.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'jobs.json'
+      - 'scripts/board_invariants.py'
+      - 'reports/board_invariants_baseline.json'
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'jobs.json'
+      - 'scripts/board_invariants.py'
+  schedule:
+    # daily, after the agency scan at 13:20 UTC
+    - cron: '40 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Audit the published board against its own rules
+        run: python3 scripts/board_invariants.py --json-out reports/board_invariants_latest.json
+
+      - name: Keep the report even when the gate fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: board-invariants
+          path: reports/board_invariants_latest.json
+          if-no-files-found: ignore
