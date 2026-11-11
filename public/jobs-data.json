@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-11T21:18:08+00:00",
+ "generatedAt": "2026-11-11T22:13:00+00:00",
  "timezone": "America/Toronto",
- "count": 2412,
+ "count": 2411,
  "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
@@ -4255,27 +4255,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Manager, Sales & Marketing Clouds",
-   "company": "ivari Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce manager, sales & marketing clouds ivari canada toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Marketing Cloud Next Solution Architect",
    "company": "NeuraFlash",
    "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
@@ -4345,6 +4324,27 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Senior Salesforce Marketing Cloud Engineer",
+   "company": "407 ETR",
+   "location": "Woodbridge, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-marketing-cloud-engineer-at-407-etr-4489031805",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce marketing cloud engineer 407 etr woodbridge, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Technical Lead - Salesforce",
    "company": "Bench",
    "location": "Toronto, Ontario, Canada",
@@ -4363,53 +4363,6 @@
    "french": false,
    "search": "technical lead - salesforce bench toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
-   "company": "Smart IT Frame LLC",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4488692528",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce technical architect - strong cpq and revenue cloud advanced smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4488613750",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4488379423",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4487909642",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5958362977?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486994714?position=3&pageNum=0&refId=0Pu%2BhuZkt10H7tz9BXbyJA%3D%3D&trackingId=OtqcYh546iqktQ4YR92qpQ%3D%3D",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-11",
@@ -4479,6 +4432,53 @@
    "french": false,
    "search": "salesforce fsc developer corekloud technologies ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
+   "company": "Smart IT Frame LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4488692528",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect - strong cpq and revenue cloud advanced smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4488613750",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4488379423",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4487909642",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958362977?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486994714?position=3&pageNum=0&refId=0Pu%2BhuZkt10H7tz9BXbyJA%3D%3D&trackingId=OtqcYh546iqktQ4YR92qpQ%3D%3D",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -5283,6 +5283,11 @@
    "french": false,
    "search": "devops architect (can) salesforce canada - toronto metro - remote workday ats salesforce workday salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/devops-architect-can-at-salesforce-partner-canada-4490016447",
+     "label": "LinkedIn · Toronto"
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/devops-architect-can-at-salesforce-4489970435",
@@ -41834,26 +41839,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "DevOps Engineer",
-   "company": "GTT, LLC",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948017534",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer gtt, llc toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
    "title": "eComm Management Analyst/ Data Analyst",
    "company": "Mindlance",
    "location": "Toronto, Ontario",
@@ -46415,27 +46400,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Developer",
-   "company": "9th Way Insignia",
-   "location": "United States - Remote",
-   "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
-   "note": "greenhouse",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer 9th way insignia united states - remote greenhouse servicenow greenhouse servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Senior ServiceNow Developer",
    "company": "Resolve Tech Solutions",
    "location": "US Remote - TX",
@@ -46453,6 +46417,27 @@
    ],
    "french": false,
    "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Developer",
+   "company": "9th Way Insignia",
+   "location": "United States - Remote",
+   "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
+   "note": "greenhouse",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer 9th way insignia united states - remote greenhouse servicenow greenhouse servicenow role fit canada / remote",
    "alternates": []
   },
   {
