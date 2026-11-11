@@ -630,3 +630,37 @@ All candidates above were checked against the normalized URL set of jobs.json (5
 
 ### Files touched (this run)
 - `JOBLESSONS_2026-11-10.MD` — 21:00 EST section appended (docs only; no README.md / public/ / jobs.json change since 0 new jobs)
+
+## Scan cycle — 2026-11-10 22:00 EST (hourly cron run, this run)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-10 22:00 EST (2026-11-11 03:00 UTC) |
+| Basis | Local main == origin/main (d66df55); board current through 2026-11-10: SN 1,087 · SF 1,245 · Other 4,156 · total 6,488; jobs.json 5,387 rows (SN 1,078 · SF 1,066 · other 3,107) |
+| Fresh board-eligible postings found since last origin sync | 0 |
+| Rows merged to README.md | 0 |
+| Rows merged to GitHub Pages (public/) | 0 (no commit needed; public/ matches origin/main, live at https://eltonaguiar.github.io/BESTIEJOB/) |
+
+### Sources checked (independent of automated sweeps)
+
+- **web_search — ServiceNow Toronto:** Staff Systems Engineer (ServiceNow Careers, Toronto, Nov 06, JB0073786) — already tracked via smartrecruiters mirror; TD Sr. IT Developer (ServiceNow) 4130481433 / 4177846836 (4–5+ yrs, CSA required) — intermediate, already on board; LinkedIn deep links (Equinix ServiceNow Platform Developer/Engineer 4208389945, Scotiabank ServiceNow Solutions Architect – Platform Integration 4221477571, Central 1 ServiceNow Administrator & Developer 4193266294, Canada Life ServiceNow Software Developer 4117805118) — senior / non-Platform-Admin-or-PD1 titles; LinkedIn gives only relative ages behind a login wall, no verifiable absolute datePosted → excluded per title/date rule. ServiceNow Careers Ontario 16 jobs: staff/security roles Nov 05–06 tracked; Nov 09 sales roles (Sales Director - CRM Sales, Senior CRM Account Executive) title-rule excluded.
+- **web_search — Salesforce Toronto:** SS&C Technologies Salesforce Implementation Consultant / Platform Administrator — listed Nov 04, 3+ yrs, outside freshness window; Robert Half Salesforce Developer Toronto (page-dated 2026-11-10) — hub listing page, client-confidential, generic "Salesforce Developer" not Platform Developer I → excluded (hub-URL + title rules); Altus Group Salesforce Platform Developer (PD1/PD2) — posted Oct 30, already on board ×4; Scotiabank Salesforce Developer Req 249287 / 599988617 — senior Global Banking & Markets role, no fresh dated extractable posting; Slalom Salesforce Developer Toronto — posted Apr 13, 2026, stale; Humber College Senior Platform Administrator (Salesforce) — posted Oct 08, 2026, deadline Oct 20, expired.
+- **Adzuna gap-scan feed (raw/gap_scan_2026-11-10.json, 47 rows, scraped 2026-11-10T16:03Z):** Toronto hits — RBC Senior Configuration Analyst (ITAM, Nov 09, senior), Smart IT Frame Salesforce Data Cloud Architect (Nov 09, architect), S I Systems Senior Salesforce Solution Architect (Nov 09, architect), Analyst Technical Solutions ServiceNow DPRM project lead (Nov 09, contract PM) — none are entry-level Platform Administrator / Platform Developer I; none fresher than existing sweep mirrors. Ottawa/Montreal hits (March Networks, Maarut, Resonaite, Lightspeed, TTI, Intact) outside GTA.
+- **LinkedIn guest API / ServiceNow Careers / Salesforce Careers Canada:** Salesforce hub returns sales/management/solutions-engineering only; no Platform Administrator or Platform Developer I. ServiceNow Ontario: sales roles only today.
+- **Rogers (jobs.rogers.com):** no fresh dated core SN/SF platform posting (Lead Management Operations Req 343961 posted Oct 28; infra roles listing SN/SF only as "preferred familiarity").
+- **Bell (jobs.bell.ca / jobs.bce.ca):** ServiceNow System Administrator 432824 filled; ServiceNow Developer / Integrator 431695 now HTTP 410/filled; Senior Manager ServiceNow Platform Delivery no longer accepting applicants; advisories expired (deadlines 11/02/2026, 04/02/2026). Skip-on-sight.
+- **TELUS (careers.telus.com):** Salesforce matches are Account/Senior Account Manager sales titles; excluded by title rule.
+- **Government of Canada (jobs.gc.ca / canada.ca) + Ontario gojobs.gov.on.ca:** zero direct ServiceNow/Salesforce Toronto platform hits; GC platform work arrives via prime vendors on their own ATS (sweep-covered).
+- **Elite / Global Elite Partners + banks:** Accenture/Deloitte/KPMG/CGI/IBM/TCS/Capgemini arrive via ATS sweep only, nothing incremental; Scotiabank/TD/RBC/BMO/CIBC Workday boards — no new dated SN/SF requisitions.
+
+### Dedupe check
+All candidates above were checked against the normalized URL set of jobs.json (5,387 rows on origin/main) and APPLIED.md; every Toronto SN/SF lead either matched an existing board URL (duplicate) or failed the date/role rule. No duplicates were added.
+
+### Lessons confirmed this cycle
+1. **Post-:00 UTC sweep baseline is thorough:** today's ATS sweep captured the dated Toronto SN/SF volume (Adzuna 393 · LinkedIn 241 · Greenhouse 16 · Workday 14 · SmartRecruiters 10 · Remotive 4 · Ashby 2 · Lever 1 · RemoteOK 1 · Jobicy 1); the 22:00 manual re-scan surfaced 0 board-eligible jobs — a clean zero-merge hour is expected, not a failure.
+2. **Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto remains the standing priority gap:** Lane Four's undated Salesforce Administrator (0–2 yrs, downtown Toronto) sits in the inbox, not the board, pending datePosted harvest; Jobgether Associate Salesforce Administrator (Canada) remains the other recent catch.
+3. **Relative ages without an absolute datePosted stay off the board:** LinkedIn `site:ca.linkedin.com/jobs/view` deep links and Indeed snippets surface intermediate/senior roles with no verifiable posted date — excluded.
+4. **Rogers / Bell / TELUS / GC employer pages yield filled, expired, marketing-ops, or non-platform roles** — Bell skip-on-sight (431695 now 410 Gone); never re-probe filled/expired roles as live.
+
+### Files touched (this run)
+- `JOBLESSONS_2026-11-10.MD` — 22:00 EST section appended (docs only; no README.md / public/ / jobs.json change since 0 new jobs)
