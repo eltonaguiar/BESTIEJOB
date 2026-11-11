@@ -80,7 +80,26 @@ WORKDAY_BOARDS = [
     ("brookfield", "wd5", "brookfield", "Brookfield"),
     ("gdit", "wd5", "External_Career_Site", "GDIT"),
     ("resolvetech", "wd1", "RTS", "Resolve Tech Solutions"),
+    # Added 2026-11-11 after a direct CXS probe: these tenants returned ~75
+    # Canadian SN/SF/BI postings absent from README (aggregators miss them).
+    ("cibc", "wd3", "search", "CIBC"),
+    ("manulife", "wd3", "MFCJH_Jobs", "Manulife"),
+    ("sunlife", "wd3", "Experienced-Jobs", "Sun Life"),
+    ("omers", "wd3", "OMERS_External", "OMERS"),
+    ("desjardins", "wd10", "Desjardins", "Desjardins"),
 ]
+
+# Workday search terms. Banks/insurers bury BI work under generic titles
+# ("Consultant", "Senior Analyst"), so skill keywords find what titles miss.
+WORKDAY_QUERIES = ("servicenow", "salesforce", "power bi", "tableau",
+                   "data engineer", "reporting analyst", "business intelligence",
+                   "alteryx")
+
+# "Other" table profile (BI / reporting / data engineering), applied to titles.
+BI_KW = re.compile(r"\bpower\s?bi\b|\btableau\b|\balteryx\b|business intelligence|\bBI\b|"
+                   r"\breporting\b|\banalytics\b|\binsights?\b|data (engineer|analyst|"
+                   r"quality|governance|model|platform|foundations|operations)|"
+                   r"\bdatabricks\b|\bsnowflake\b|\betl\b|\bsql\b", re.I)
 
 # Boards verified 2026-11-03 to actually carry SN/SF titles (count of matching
 # roles in brackets). Dead slugs 404 and are skipped, so this list only grows
@@ -230,7 +249,7 @@ def from_workday(days: int) -> list[dict]:
     out = []
     for tenant, wd, site, label in WORKDAY_BOARDS:
         api = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
-        for query in ("servicenow", "salesforce"):
+        for query in WORKDAY_QUERIES:
             try:
                 data = fetch_json(api, method="POST",
                                   body=json.dumps({"appliedFacets": {}, "limit": 20,
@@ -510,7 +529,7 @@ def keep(row: dict, known: set[str], days: int, seen: set[str]) -> bool:
     if not url or not title or EXCL.search(title):
         return False
     hay = f"{title} {row.get('location') or ''}"
-    if not KW.search(hay) or not GEO.search(hay):
+    if not (KW.search(hay) or BI_KW.search(title)) or not GEO.search(hay):
         return False
     posted = row.get("posted")
     if posted:
