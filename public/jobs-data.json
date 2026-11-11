@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-11T20:09:18+00:00",
+ "generatedAt": "2026-11-11T20:13:19+00:00",
  "timezone": "America/Toronto",
- "count": 2403,
+ "count": 2407,
  "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
@@ -481,7 +481,7 @@
    "title": "Senior ServiceNow Developer (SAM/HAM)",
    "company": "BeachHead",
    "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-sam-ham-at-beachhead-4489985060",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-sam-ham-at-beachhead-4489988081",
    "note": "linkedin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
@@ -496,7 +496,13 @@
    ],
    "french": false,
    "search": "senior servicenow developer (sam/ham) beachhead toronto, ontario, canada linkedin servicenow linkedin servicenow sam/ham role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-sam-ham-at-beachhead-4489985060",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -1220,6 +1226,54 @@
    ],
    "french": false,
    "search": "sr. servicenow developer tekstaff it solutions toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Senior Manager, ServiceNow - Operate",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-manager-servicenow-operate-at-deloitte-4482101798",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior manager, servicenow - operate deloitte toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/deloitte/jobs/senior-manager-servicenow-operate-toronto-on-3d8d5315c9d2",
+     "label": "jobs.ca · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Mid-Senior ServiceNow Developer",
+   "company": "MSZ Systems",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mid-senior-servicenow-developer-at-msz-systems-4489018947",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "mid-senior servicenow developer msz systems toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -2531,6 +2585,26 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Gestionnaire de prestation de services – Gestion applicative (AMS) et services gérés ServiceNow",
+   "company": "LGS, an IBM Company",
+   "location": "Ville-Marie, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/gestionnaire-de-prestation-de-services-%E2%80%93-gestion-applicative-ams-et-services-g%C3%A9r%C3%A9s-servicenow-at-lgs-an-ibm-company-4489993687",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "gestionnaire de prestation de services – gestion applicative (ams) et services geres servicenow lgs, an ibm company ville-marie, quebec, canada linkedin servicenow linkedin servicenow canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)",
    "company": "Salesforce",
    "location": "Toronto, Ontario",
@@ -2954,27 +3028,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "nCino Salesforce Developer - Apex, LWS, Copado",
-   "company": "Astra-North Infoteck Inc.",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5961954388",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "ncino salesforce developer - apex, lws, copado astra-north infoteck inc. toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Salesforce Devops Engineer",
    "company": "Akkodis",
    "location": "Toronto, Ontario",
@@ -3013,6 +3066,27 @@
    ],
    "french": false,
    "search": "senior salesforce developer atos toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "nCino Salesforce Developer - Apex, LWS, Copado",
+   "company": "Astra-North Infoteck Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961954388",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "ncino salesforce developer - apex, lws, copado astra-north infoteck inc. toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -4296,27 +4370,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Marketing Cloud Specialist (CRM Executive)",
-   "company": "Vertage",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-specialist-crm-executive-at-vertage-4489011906",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce marketing cloud specialist (crm executive) vertage toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Salesforce Technical Architect",
    "company": "Brillio",
    "location": "Ontario, Canada",
@@ -4334,6 +4387,27 @@
    ],
    "french": false,
    "search": "salesforce technical architect brillio ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Marketing Cloud Specialist (CRM Executive)",
+   "company": "Vertage",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-specialist-crm-executive-at-vertage-4489011906",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud specialist (crm executive) vertage toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -4532,6 +4606,27 @@
      "label": "Adzuna · Westmount"
     }
    ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Developer – CPQ",
+   "company": "Infoway Software",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-%E2%80%93-cpq-at-infoway-software-4489035263",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer – cpq infoway software canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-11",
@@ -4929,6 +5024,26 @@
    ],
    "french": true,
    "search": "developpeur salesforce lgs, an ibm company ville-marie, quebec, canada linkedin salesforce linkedin salesforce canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Développeur Salesforce senior",
+   "company": "TFI International Inc.",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-senior-at-tfi-international-inc-4489034260",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur salesforce senior tfi international inc. montreal, quebec, canada linkedin salesforce linkedin salesforce canada / remote",
    "alternates": []
   },
   {
@@ -16386,27 +16501,6 @@
      "label": "Adzuna · Markham"
     }
    ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Senior Manager, ServiceNow - Operate",
-   "company": "Deloitte",
-   "location": "Toronto, ON, Canada (Hybrid)",
-   "url": "https://www.jobs.ca/deloitte/jobs/senior-manager-servicenow-operate-toronto-on-3d8d5315c9d2",
-   "note": "jobs.ca",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior manager, servicenow - operate deloitte toronto, on, canada (hybrid) jobs.ca servicenow jobs.ca servicenow role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-06",
@@ -37826,27 +37920,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Senior ServiceNow Developer",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "ServiceNow Developer",
    "company": "GDIT",
    "location": "Any Location / Remote",
@@ -37864,6 +37937,27 @@
    ],
    "french": false,
    "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior ServiceNow Developer",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
