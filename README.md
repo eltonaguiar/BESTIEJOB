@@ -4,12 +4,12 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T012113Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T013359Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
-  - [ServiceNow jobs (1081)](#servicenow-jobs-1081)
+  - [ServiceNow jobs (1087)](#servicenow-jobs-1087)
   - [Salesforce jobs (1245)](#salesforce-jobs-1245)
   - [Other jobs (4156)](#other-jobs-4156)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,13 +18,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **6482 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **6488 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1081)
+### ServiceNow jobs (1087)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1081 postings</strong></summary>
+<details><summary><strong>Show 1087 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -59,6 +59,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-09 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454522998) | KPMG Canada | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-final--2026-11-09--v6.md |
 | 2026-11-09 | [Senior CRM Account Executive](https://careers.servicenow.com/jobs/744000160712809/senior-crm-account-executive/) | ServiceNow Careers | Toronto, ON, Canada | via servicenow |
 | 2026-11-09 | [Sales Director - CRM Sales](https://ca.linkedin.com/jobs/view/sales-director-crm-sales-at-servicenow-4489149240) | ServiceNow | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v8.md |
+| 2026-11-09 | [Sales Director - CRM Sales](https://careers.servicenow.com/jobs/744000160705499/sales-director-crm-sales/) | ServiceNow | Toronto, Ontario, Canada | via inbox_sn_sf_careers--2026-11-11--v1.md |
 | 2026-11-09 | [Lead ServiceNow Architecture Consultant](https://ca.linkedin.com/jobs/view/lead-servicenow-architecture-consultant-at-cgi-4463692648) | CGI | Calgary, Alberta, Canada | via fresh-ca--2026-11-09--v10.md |
 | 2026-11-09 | [Enterprise Architect - ServiceNow](https://www.adzuna.ca/details/5959388500?utm_medium=api&utm_source=54ce986e) | LeverageTek Staffing Solutions | Ottawa, Ottawa region | via fresh-ca--2026-11-09--v1.md |
 | 2026-11-09 | [Développeur Sharepoint (ITSM &amp; Automatisation)](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-sharepoint-itsm-automatisation-at-cgi-4488888878) | CGI | Montreal, Quebec, Canada | via linkedin-guest--2026-11-10--v1.md |
@@ -914,6 +915,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-26 | [Tech Ops Analyst II - Inventory & Asset Management (ServiceNow ITAM, FT)](https://tjx.wd1.myworkdayjobs.com/en-US/TJX_EXTERNAL/job/Tech-Ops-Analyst-II---Inventory---Asset-Management_REQ165788) | TJX Canada | Mississauga, ON | employer Workday verified 2026-11-02; HW lifecycle + ServiceNow inventory reconciliation; closes 2026-11-09 |
 | 2026-10-26 | [Staff Incident Response Engineer](https://ca.linkedin.com/jobs/view/staff-incident-response-engineer-at-servicenow-4483125674) | ServiceNow | Vancouver, British Columbia, Canada | via copilot-pattern-rounds--2026-11-03--v40.md |
 | 2026-10-26 | [Staff Incident Response Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157918029) | ServiceNow | Vancouver, British Columbia, ca · Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
+| 2026-10-26 | [Staff Incident Response Engineer](https://careers.servicenow.com/jobs/744000157918029/staff-incident-response-engineer/) | ServiceNow | Vancouver, British Columbia, Canada | via inbox_sn_sf_careers--2026-11-11--v1.md |
 | 2026-10-26 | [ServiceNow Technical Lead](https://boards.greenhouse.io/accenturefederalservices/jobs/4620873006?gh_jid=4620873006) | accenturefederalservices | Chantilly, VA; Herndon, VA | via gx10--2026-11-05--v18.md |
 | 2026-10-26 | [ServiceNow Technical Consultants](https://www.adzuna.ca/details/5942233022?utm_medium=api&utm_source=54ce986e) | ExcelGens, Inc. | Ottawa, Ottawa region | via adzuna-autonomous--2026-11-05--v20.md |
 | 2026-10-26 | [ServiceNow Technical Architect](https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-alldus-4481470880) | Alldus | Canada | via buffy-round16--2026-11-07--v8.md |
@@ -986,6 +988,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-22 | [Principal Solution Consultant - ITSM - North America](https://ca.linkedin.com/jobs/view/principal-solution-consultant-itsm-north-america-at-valiantys-4482768073) | Valiantys | Greater Montreal Metropolitan Area | via twin 20-round harvest |
 | 2026-10-21 | [Staff Information Security Analyst](https://ca.linkedin.com/jobs/view/staff-information-security-analyst-at-servicenow-4482010882) | ServiceNow | Toronto, Ontario, Canada | via readme |
 | 2026-10-21 | [Staff Compliance Analyst](https://ca.linkedin.com/jobs/view/staff-compliance-analyst-at-servicenow-4482013803) | ServiceNow | Toronto, Ontario, Canada | via twin 20-round harvest |
+| 2026-10-21 | [Staff Applied Research Scientist](https://careers.servicenow.com/jobs/744000156860385/staff-applied-research-scientist/) | ServiceNow | Montreal, Quebec, Canada | via inbox_sn_sf_careers--2026-11-11--v1.md |
 | 2026-10-21 | [ServiceNow Technical Lead (JR100193) - CAAT Pension Plan](https://caatpension.wd10.myworkdayjobs.com/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1) | Canada: Toronto; hybrid | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-10-21 | [ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/servicenow-technical-lead-at-caat-pension-plan-4481155245) | CAAT Pension Plan | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v8.md |
 | 2026-10-21 | [ServiceNow Technical Lead](https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1) | CAAT Pension Plan | Toronto, ON | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
@@ -1014,6 +1017,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-20 | [Consultant -Senior Consultant Service Now](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-service-now-at-kpmg-canada-4377539863) | KPMG Canada | Montreal, Quebec, Canada | via twin 20-round harvest |
 | 2026-10-19 | [Staff Site Reliability Engineer](https://ca.linkedin.com/jobs/view/staff-site-reliability-engineer-at-servicenow-4480547278) | ServiceNow | Toronto, ON | via buffy--2026-11-08--v8.md |
 | 2026-10-19 | [Staff Information Security Analyst](https://careers.servicenow.com/jobs/744000156415909/staff-information-security-analyst/) | ServiceNow | Toronto, ON | via bestiejob-scan--2026-11-08--v7.md |
+| 2026-10-19 | [Staff Compliance Analyst](https://careers.servicenow.com/jobs/744000156422439/staff-compliance-analyst/) | ServiceNow | Toronto, Ontario, Canada | via inbox_sn_sf_careers--2026-11-11--v1.md |
 | 2026-10-19 | [ServiceNow system Administrator #26-24594](https://ca.linkedin.com/jobs/view/servicenow-system-administrator-%2326-24594-at-us-tech-solutions-4478298486) | US Tech Solutions | Toronto, Ontario, Canada | via linkedin |
 | 2026-10-19 | [ServiceNow Senior Technical Advisor (432829)](https://jobs.bell.ca/ca/en/job/432829/ServiceNow-Senior-Technical-Advisor) | Bell | Toronto / Montreal | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-10-19 | [ServiceNow Developer (Reporting & Analytics)](https://jobsca.org/servicenow-developer_toronto-c117072/2026-10-telus-digital_i4251365891) | TELUS Digital | Toronto, ON | via grok-job-hunter--2026-11-02--v102.md |
@@ -1034,6 +1038,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-17 | [Service Now AI Architect](https://ca.linkedin.com/jobs/view/service-now-ai-architect-at-mckesson-4454562090) | McKesson | Mississauga, Ontario, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-10-17 | [Senior ServiceNow Developer (ITOM)](https://systematix.com/opportunity/senior-servicenow-developer-itom-2/) | Systematix | Remote, Canada | via arlo--2026-11-02--v103.md |
 | 2026-10-16 | [Staff Site Reliability Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000156040224) | ServiceNow | Toronto, Ontario, ca | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
+| 2026-10-16 | [Staff Site Reliability Engineer](https://careers.servicenow.com/jobs/744000156040224/staff-site-reliability-engineer/) | ServiceNow | Toronto, Ontario, Canada | via inbox_sn_sf_careers--2026-11-11--v1.md |
 | 2026-10-16 | [Servicenow business analyst](https://jobsca.org/business-analyst_toronto-c117072/2026-10-soroc-technology_i4248033171) | Soroc Technology | Toronto | via jobsca |
 | 2026-10-16 | [ServiceNow Strategic Portfolio Management (SPM) Consultant](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/ServiceNow-Strategic-Portfolio-Management--SPM--Consultant_JR119221) | RSM | Canada | via readme |
 | 2026-10-16 | [ServiceNow Engagement Manager](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Toronto/ServiceNow-Engagement-Manager_JR120860) | RSM | Toronto | via buffy-scan60d--2026-11-04--v10.md |
@@ -1059,6 +1064,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-15 | [Consultant/Senior Consultant, ServiceNow Solution Developer (33919) - KPMG Canada](https://exphire-kpmgca.icims.com/jobs/33919/login) | Canada: Toronto, Montreal or Ottawa; hybrid | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-10-15 | [Consultant, ITAM Transactions &amp; Compliance](https://ca.linkedin.com/jobs/view/consultant-itam-transactions-compliance-at-cibc-4479888375) | CIBC | Toronto, Ontario, Canada | via buffy-linkedin60d--2026-11-04--v9.md |
 | 2026-10-15 | [Architecte de solutions (ServiceNow)](https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-at-cgi-4434772040) | CGI | Sherbrooke, Quebec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
+| 2026-10-14 | [Staff Research Scientist](https://careers.servicenow.com/jobs/744000155597590/staff-research-scientist/) | ServiceNow | Montreal, Quebec, Canada | via inbox_sn_sf_careers--2026-11-11--v1.md |
 | 2026-10-14 | [ServiceNow Sr. Developer - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4711687006?gh_jid=4711687006) | USA: Springfield, Virginia; onsite, four-five days for Now Assist/Portal | Not explicitly disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-10-14 | [ServiceNow Sr. Developer (Portal) - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4704135006?gh_jid=4704135006) | USA: Springfield, Virginia; onsite, four-five days for Now Assist/Portal | Not explicitly disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-10-14 | [ServiceNow Sr. Developer (Now Assist) - Accenture Federal Services](https://boards.greenhouse.io/accenturefederalservices/jobs/4704107006?gh_jid=4704107006) | USA: Springfield, Virginia; onsite, four-five days for Now Assist/Portal | Not explicitly disclosed | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
@@ -6662,4 +6668,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-11T012113Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
+`README.BAK_2026-11-11T013359Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
