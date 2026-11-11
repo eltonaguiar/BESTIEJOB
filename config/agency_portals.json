@@ -1,0 +1,836 @@
+{
+ "generated": "2026-11-11",
+ "owner": "bestiejob",
+ "rules": {
+  "date": "absolute date on the posting only",
+  "location": "from the posting, never the search scope",
+  "employer": "from the posting, never the board name",
+  "exclude": [
+   "job at the product vendor",
+   "vendor sales titles"
+  ]
+ },
+ "enabled_feeds": [
+  {
+   "name": "CareerBeacon",
+   "adapter": "jsonld",
+   "link_source": null,
+   "search_urls": [
+    "https://www.careerbeacon.com/en/search?q=servicenow",
+    "https://www.careerbeacon.com/en/search?q=salesforce"
+   ],
+   "sitemap_url": null,
+   "link_re": "/en/job/\\d+/[a-z0-9-]+",
+   "render_detail": null
+  },
+  {
+   "name": "Dice",
+   "adapter": "dice",
+   "link_source": null,
+   "search_urls": [
+    "https://www.dice.com/jobs?q=servicenow&location=Toronto,%20ON,%20Canada",
+    "https://www.dice.com/jobs?q=salesforce&location=Toronto,%20ON,%20Canada"
+   ],
+   "sitemap_url": null,
+   "link_re": "https://www\\.dice\\.com/job-detail/[a-f0-9-]{20,}",
+   "render_detail": null
+  },
+  {
+   "name": "Procom",
+   "adapter": "jsonld",
+   "link_source": null,
+   "search_urls": [
+    "https://myprocom-portal.procomservices.com/jobs"
+   ],
+   "sitemap_url": "https://myprocom-portal.procomservices.com/sitemap.xml",
+   "link_re": "https://myprocom-portal\\.procomservices\\.com/jobs/[a-z0-9][a-z0-9-]{4,}",
+   "render_detail": null
+  },
+  {
+   "name": "Built In Toronto",
+   "adapter": "page_text",
+   "link_source": null,
+   "search_urls": [
+    "https://builtintoronto.com/jobs?search=servicenow",
+    "https://builtintoronto.com/jobs?search=salesforce"
+   ],
+   "sitemap_url": null,
+   "link_re": "https://builtintoronto\\.com/job/[a-z0-9-]+/\\d+",
+   "render_detail": null
+  }
+ ],
+ "disabled_feeds": [
+  {
+   "name": "Randstad Canada",
+   "why": "search page renders links client-side; needs a headless browser"
+  },
+  {
+   "name": "TEKsystems",
+   "why": "Phenom search results are client-side"
+  },
+  {
+   "name": "Eluta",
+   "why": "no server-rendered job links"
+  }
+ ],
+ "agencies": [
+  {
+   "name": "Michael Page Canada",
+   "status": 200,
+   "platform": "-",
+   "url": "https://www.michaelpage.ca/",
+   "job_links": 54,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 5
+  },
+  {
+   "name": "Randstad Canada",
+   "status": 200,
+   "platform": "-",
+   "url": "https://www.randstad.ca/",
+   "job_links": 35,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 7
+  },
+  {
+   "name": "Procom",
+   "status": 200,
+   "platform": "bullhorn",
+   "url": "https://myprocom-portal.procomservices.com/jobs",
+   "job_links": 20,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 49
+  },
+  {
+   "name": "Stack IT Recruitment",
+   "status": 200,
+   "platform": "-",
+   "url": "https://stackitrecruitment.com/jobs/",
+   "job_links": 9,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 19
+  },
+  {
+   "name": "Arrow Workforce",
+   "status": 200,
+   "platform": "-",
+   "url": "https://arrowworkforce.com/jobs/",
+   "job_links": 7,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Hays Canada",
+   "status": 200,
+   "platform": "-",
+   "url": "https://www.hays.ca/",
+   "job_links": 6,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Artech",
+   "status": 200,
+   "platform": "-",
+   "url": "https://www.artech.com/careers/consultant-jobs",
+   "job_links": 5,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Alldus",
+   "status": 200,
+   "platform": "-",
+   "url": "https://alldus.com/",
+   "job_links": 4,
+   "servicenow_mentions": 67,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "TEKsystems",
+   "status": 200,
+   "platform": "phenom",
+   "url": "https://careers.teksystems.com/us/en",
+   "job_links": 4,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Insight Global",
+   "status": 200,
+   "platform": "-",
+   "url": "https://insightglobal.com/jobs",
+   "job_links": 3,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Core Resources",
+   "status": 200,
+   "platform": "-",
+   "url": "https://www.coreresources.ca/",
+   "job_links": 2,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 3
+  },
+  {
+   "name": "Akkodis Canada",
+   "status": 200,
+   "platform": "-",
+   "url": "https://www.akkodis.com/en-ca",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Altis Recruitment",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.altisrecruitment.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Bay Street Staffing",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.baystreetstaffing.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "BeachHead",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.beachhead.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Brainhunter",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.brainhunter.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Dean Group",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.deangroup.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "DevTalent",
+   "status": "none",
+   "platform": "-",
+   "url": "https://devtalent.ca",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Donna Cona",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.donnacona.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Drake International",
+   "status": "none",
+   "platform": "-",
+   "url": "https://ca.drakeintl.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Eagle Professional",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.eagleonline.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Experis Canada",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.experis.ca",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Futuretek IT",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.futuretek.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Huntel Global",
+   "status": "none",
+   "platform": "-",
+   "url": "https://huntelglobal.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Ian Martin",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.ianmartin.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Kovasys",
+   "status": "none",
+   "platform": "-",
+   "url": "https://kovasys.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Levio",
+   "status": 200,
+   "platform": "-",
+   "url": "https://levio.ca/",
+   "job_links": 0,
+   "servicenow_mentions": 7,
+   "toronto_mentions": 1
+  },
+  {
+   "name": "Mace Staffing",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.macestaffing.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Maplesoft Group",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.maplesoftgroup.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Options Consulting Solutions",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.optionscs.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "PTC Recruiting",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.ptcrecruiting.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Plan IT Search",
+   "status": "none",
+   "platform": "-",
+   "url": "https://planitsearch.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Prime Hires",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.primehires.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "ProViso",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.proviso.ca",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Quantum Technology Recruiting",
+   "status": "none",
+   "platform": "-",
+   "url": "https://qtr.ca",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Robert Half Canada",
+   "status": 200,
+   "platform": "-",
+   "url": "https://www.roberthalf.com/ca/en",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 1
+  },
+  {
+   "name": "Robert Walters Canada",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.robertwalters.ca",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "S.i. Systems",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.sisystems.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Staffworks",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.staffworks.ca",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Systematix",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.systematix.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "Tundra Technical",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.tundratechnical.ca",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  },
+  {
+   "name": "isgSearch",
+   "status": "none",
+   "platform": "-",
+   "url": "https://www.isgsearch.com",
+   "job_links": 0,
+   "servicenow_mentions": 0,
+   "toronto_mentions": 0
+  }
+ ],
+ "boards": [
+  {
+   "name": "Built In Toronto",
+   "url": "https://builtintoronto.com/jobs?search=servicenow",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 122,
+   "dates": 9,
+   "sn": 135,
+   "sf": 14,
+   "to": 469,
+   "jsonld": 0
+  },
+  {
+   "name": "Monster.ca",
+   "url": "https://www.monster.com/",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 67,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 1,
+   "jsonld": 0
+  },
+  {
+   "name": "CareerBeacon",
+   "url": "https://www.careerbeacon.com/en/search?keyword=servicenow&location=toronto",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 25,
+   "dates": 0,
+   "sn": 18,
+   "sf": 0,
+   "to": 32,
+   "jsonld": 0
+  },
+  {
+   "name": "Jobspresso",
+   "url": "https://jobspresso.co/?s=servicenow",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 9,
+   "dates": 0,
+   "sn": 15,
+   "sf": 0,
+   "to": 3,
+   "jsonld": 0
+  },
+  {
+   "name": "Wowjobs",
+   "url": "https://www.simplyhired.ca/?from=wowjobs",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 5,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 132,
+   "jsonld": 0
+  },
+  {
+   "name": "Adzuna CA",
+   "url": "https://www.adzuna.ca/search?q=servicenow&loc=Toronto",
+   "status": 400,
+   "platform": "-",
+   "joblinks": 3,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 2,
+   "jsonld": 0
+  },
+  {
+   "name": "Talent.com",
+   "url": "https://ca.talent.com/jobs?k=servicenow&l=toronto",
+   "status": 200,
+   "platform": "workday",
+   "joblinks": 2,
+   "dates": 0,
+   "sn": 165,
+   "sf": 8,
+   "to": 179,
+   "jsonld": 0
+  },
+  {
+   "name": "WeWorkRemotely API",
+   "url": "https://weworkremotely.com/categories/remote-programming-jobs.rss",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 2,
+   "dates": 0,
+   "sn": 0,
+   "sf": 22,
+   "to": 0,
+   "jsonld": 0
+  },
+  {
+   "name": "Careerjet CA",
+   "url": "https://www.careerjet.ca/search/jobs?s=servicenow&l=toronto",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 0,
+   "jsonld": 0
+  },
+  {
+   "name": "CharityVillage",
+   "url": "https://www.charityvillage.com/jobs/search?keywords=servicenow",
+   "status": 404,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 0,
+   "jsonld": 0
+  },
+  {
+   "name": "Dice",
+   "url": "https://www.dice.com/jobs?q=servicenow&location=Toronto,%20ON",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 19,
+   "sn": 280,
+   "sf": 0,
+   "to": 12,
+   "jsonld": 0
+  },
+  {
+   "name": "Eluta",
+   "url": "https://www.eluta.ca/search?q=servicenow&l=toronto",
+   "status": 200,
+   "platform": "workday",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 82,
+   "sf": 0,
+   "to": 35,
+   "jsonld": 0
+  },
+  {
+   "name": "Glassdoor CA",
+   "url": "https://www.glassdoor.ca/Job/toronto-servicenow-jobs-SRCH_IL.0,7_IC2281069_KO8,18.htm",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 433,
+   "sf": 1,
+   "to": 271,
+   "jsonld": 0
+  },
+  {
+   "name": "Hacker News hiring",
+   "url": "https://hn.algolia.com/api/v1/search?query=servicenow&tags=comment",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 55,
+   "sf": 0,
+   "to": 0,
+   "jsonld": 0
+  },
+  {
+   "name": "Indeed CA",
+   "url": "https://ca.indeed.com/jobs?q=servicenow&l=Toronto,+ON",
+   "status": 200,
+   "platform": "smartrecruiters",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 434,
+   "sf": 0,
+   "to": 400,
+   "jsonld": 0
+  },
+  {
+   "name": "Jobgether CA",
+   "url": "https://jobgether.com/remote-jobs",
+   "status": 200,
+   "platform": "bullhorn",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 0,
+   "jsonld": 0
+  },
+  {
+   "name": "Jobillico",
+   "url": "https://www.jobillico.com/en/search-jobs?keyword=servicenow&location=toronto",
+   "status": 404,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 0,
+   "jsonld": 0
+  },
+  {
+   "name": "Jobrapido CA",
+   "url": "https://ca.jobrapido.com/?w=servicenow&l=toronto",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 122,
+   "sf": 0,
+   "to": 126,
+   "jsonld": 0
+  },
+  {
+   "name": "Jobs.ca",
+   "url": "https://www.jobs.ca/search?q=servicenow&l=toronto",
+   "status": 404,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 0,
+   "jsonld": 0
+  },
+  {
+   "name": "Jooble CA",
+   "url": "https://ca.jooble.org/jobs-servicenow/Toronto,%20ON",
+   "status": 403,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 3,
+   "sf": 0,
+   "to": 3,
+   "jsonld": 0
+  },
+  {
+   "name": "NoDesk",
+   "url": "https://nodesk.co/remote-jobs/?search=servicenow",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 0,
+   "sf": 2,
+   "to": 0,
+   "jsonld": 0
+  },
+  {
+   "name": "RemoteOK API",
+   "url": "https://remoteok.com/api",
+   "status": 200,
+   "platform": "lever",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 0,
+   "sf": 3,
+   "to": 4,
+   "jsonld": 0
+  },
+  {
+   "name": "Remotive API",
+   "url": "https://remotive.com/api/remote-jobs?search=servicenow&limit=20",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 1,
+   "jsonld": 0
+  },
+  {
+   "name": "Sercanto CA",
+   "url": "https://ca.sercanto.com/jobs?q=servicenow&l=toronto",
+   "status": 404,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 4,
+   "sf": 0,
+   "to": 0,
+   "jsonld": 0
+  },
+  {
+   "name": "TechJobs.ca",
+   "url": "https://www.techjobs.ca/jobs?q=servicenow",
+   "status": 200,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 24,
+   "sf": 0,
+   "to": 2,
+   "jsonld": 0
+  },
+  {
+   "name": "TorontoJobs.ca",
+   "url": "https://www.torontojobs.ca/search?q=servicenow",
+   "status": 404,
+   "platform": "-",
+   "joblinks": 0,
+   "dates": 0,
+   "sn": 0,
+   "sf": 0,
+   "to": 98,
+   "jsonld": 0
+  }
+ ],
+ "other_agent_lists": {
+  "Buffy-2026-10-31-world-forum-portals.md": {
+   "bytes": 15693,
+   "domains": [
+    "adzuna.ca",
+    "aelumconsulting.com",
+    "careers.wipro.com",
+    "hiringcafe.com",
+    "jobs.smartrecruiters.com",
+    "myprocom-portal.procomservices.com",
+    "newrocket.com",
+    "ondarowave.com",
+    "pentio.com"
+   ]
+  },
+  "JOB_SOURCES_STATUS.md": {
+   "bytes": 5728,
+   "domains": []
+  },
+  "docs/TOP_JOB_SITES_CANADA__kilo-auto.md": {
+   "bytes": 7619,
+   "domains": [
+    "eltonaguiar.github.io"
+   ]
+  },
+  "docs/CANADIAN_JOB_SITES__nemotron.MD": {
+   "bytes": 15357,
+   "domains": []
+  },
+  "JOB_AGGREGATOR_FINDINGS.md": {
+   "bytes": 9952,
+   "domains": [
+    "api.lever.co",
+    "boards-api.greenhouse.io",
+    "github.com"
+   ]
+  },
+  "raw/fanout/model-groq-openai-gpt-oss-120b-agencies.md": {
+   "bytes": 48,
+   "domains": []
+  },
+  "raw/fanout/model-deepinfra-meta-llama-meta-llama-3-1-8b-instruct-agencies.md": {
+   "bytes": 74,
+   "domains": []
+  },
+  "raw/fanout/model-mistral-ministral-8b-2512-agencies.md": {
+   "bytes": 2927,
+   "domains": [
+    "accenture.com",
+    "allegisglobalsolutions.com",
+    "allegisgroup.com",
+    "apexsystems.com",
+    "cognizant.com",
+    "constellationit.com",
+    "dice.com",
+    "dicesystems.com",
+    "dicetalent.com",
+    "roberthalf.ca",
+    "www2.deloitte.com"
+   ]
+  },
+  "raw/fanout/model-ollama-llama3-3-70b-agencies.md": {
+   "bytes": 50,
+   "domains": []
+  }
+ }
+}

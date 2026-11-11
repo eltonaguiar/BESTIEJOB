@@ -1,0 +1,33 @@
+name: agency-board-scan
+on:
+  schedule:
+    - cron: "20 13 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: agency-board-scan
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: deps
+        run: python3 -m pip install --quiet curl_cffi
+      - name: agency boards
+        run: python3 scripts/agency_board_scan.py --max-per-source 60 --workers 8 || true
+      - name: servicenow sweep outside the feeds
+        run: python3 scripts/sn_dev_source_sweep.py --verify || true
+      - name: commit new rows
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain inbox reports)" ]; then
+            git add inbox reports
+            git commit -m "chore(agency): scheduled agency scan + SN sweep [skip ci]"
+            git push
+          fi
