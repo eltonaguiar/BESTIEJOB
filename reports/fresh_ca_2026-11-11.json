@@ -1,0 +1,443 @@
+{
+  "generated": "2026-11-11T18:01:13.905061+00:00",
+  "window": [
+    "2026-11-11",
+    "2026-11-10"
+  ],
+  "stats": {
+    "requests": 17,
+    "jobbank_pages": 6,
+    "eluta_pages": 6,
+    "adzuna_misses": 2,
+    "unverified_dropped": 0,
+    "already_on_board": 3,
+    "already_on_board_by_title": 9,
+    "cross_source_dup": 2
+  },
+  "count": 47,
+  "rows": [
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "nCino Salesforce Developer - Apex, LWS, Copado",
+      "company": "Astra-North Infoteck Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961954388?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "[C] Salesforce Engineer / Developer",
+      "company": "Maple Leaf Sports & Entertainment Partnership",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961941914?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Technical Lead (Salesforce)",
+      "company": "Insight Global",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961953375?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Sr. Salesforce Software Engineer - 1 yr. Fixed Term",
+      "company": "Loblaw",
+      "location": "Brampton, Peel region",
+      "url": "https://www.adzuna.ca/details/5961947129?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Sr. Salesforce Developer - Canada",
+      "company": "Orion Global Solutions",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961948803?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "Servicenow Developer",
+      "company": "Triunity Software, Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961958534?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "Servicenow Developer",
+      "company": "Triunity Software, Inc.",
+      "location": "Markham, York region",
+      "url": "https://www.adzuna.ca/details/5961956080?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "Servicenow Developer",
+      "company": "Triunity Software, Inc.",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5961946275?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Technical Lead",
+      "company": "CAAT Pension",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961953977?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Technical Architect",
+      "company": "Vixonix Technologies",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961947830?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Security Operations (SecOps) Consultant",
+      "company": "Altis Technology",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961939244?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Platform Developer",
+      "company": "acroynon",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961958064?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Developers and Architects (Future Opportunity)",
+      "company": "OXARO Inc.",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5961958875?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Developer",
+      "company": "Highbrow Technology Inc",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5961956591?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Developer",
+      "company": "Aarorn Technologies Inc",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961952188?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Architect",
+      "company": "Atlantis IT Group",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961945996?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Architect",
+      "company": "Tata Consultancy Services",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961953923?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow APM developer",
+      "company": "Avanciers Inc.",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5961954791?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Senior Systems Developer - Salesforce",
+      "company": "Co-operators",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961939175?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "Senior ServiceNow Technical Consultant - ITSM/ITAM (SAM and Integrations)",
+      "company": "Peek IT Services",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5961951928?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Senior Salesforce Developer with Service Cloud and Agentforce",
+      "company": "LTM",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5961946252?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Senior Salesforce Developer / Admin",
+      "company": "Celestica Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961946771?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Senior Salesforce Developer",
+      "company": "Synechron",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961956600?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Senior Salesforce Developer",
+      "company": "HRbrain Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961955300?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Senior Salesforce Developer",
+      "company": "Atos",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961954405?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Senior Salesforce Developer",
+      "company": "Randstad Digital",
+      "location": "Richmond Hill, York region",
+      "url": "https://www.adzuna.ca/details/5961953438?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Senior Salesforce Developer",
+      "company": "Capgemini",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5961943912?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce nCino Developer",
+      "company": "Skillhub Solutions Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961957345?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Revenue Cloud Developer",
+      "company": "Astra-North Infoteck Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961958782?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Revenue Cloud Developer",
+      "company": "Tata Consultancy Services Limited",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961947639?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Platform Developer",
+      "company": "Reonomy",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961955838?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Devops Engineer",
+      "company": "Akkodis",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961954410?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Developer / Senior Admin",
+      "company": "Compunnel Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961938401?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Developer - FSC",
+      "company": "Astra-North Infoteck Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961949509?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Developer",
+      "company": "Tata Consultancy Services Limited",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961956971?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Developer",
+      "company": "Insight Global",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961951024?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Developer",
+      "company": "Infotek Consulting Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961949179?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Developer",
+      "company": "Synechron",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961948801?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Developer",
+      "company": "Delpath",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961944597?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce Data 360 Developer",
+      "company": "Compunnel Inc.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961955962?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "Salesforce AI & Data Cloud Solutions Engineer",
+      "company": "AGF Management Limited",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961954086?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "Lead ServiceNow Technical Consultant - Platform and Hardware Asset Management",
+      "company": "Peek IT Services",
+      "location": "Ottawa, Ottawa region",
+      "url": "https://www.adzuna.ca/details/5961951751?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "IT Infrastructure Monitoring & Event Management Lead \u2013 ServiceNow Event Management",
+      "company": "Tundra Technical Solutions",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961946089?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "Business Analyst, Technology Services (Service Now experience)",
+      "company": "Bevertec",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5961944031?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Implementation Specialist",
+      "company": "Fxinnovation",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5961958891?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Administrator",
+      "company": "Pomerleau",
+      "location": "Qu\u00e9bec, Canada",
+      "url": "https://www.adzuna.ca/details/5961939335?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "salesforce",
+      "posted": "2026-11-11",
+      "title": "ERP Salesforce Financial Consultant",
+      "company": "Chapman Tate Associates",
+      "location": "British Columbia, Canada",
+      "url": "https://www.adzuna.ca/details/5961946448?utm_medium=api&utm_source=54ce986e"
+    }
+  ]
+}

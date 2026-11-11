@@ -316,3 +316,60 @@ Board totals after merge: **ServiceNow 504 · Salesforce 508 · Other 499 · 1,5
 4. **Vendor twins are distinct postings.** Two recruiters advertising the same client req both belong on the board (the user applies to each separately); dedupe on URL, not on title+company.
 5. **ATS sweep hit rate ≈ 1 job/run.** 25,467 rows for one usable dated Canadian req is normal; keep it running hourly because the one hit is invisible elsewhere.
 6. **Board counts must be recomputed from the table, not assumed.** After inserting rows I verified 504/508/499 rows parse back out of README before committing; the 10:00 run's 3-row merge had already drifted the header counts once today.
+
+---
+
+## Hourly cron scan — 2026-11-11 13:00 EST (18:00 UTC)
+
+**Scope:** fresh Toronto/GTA + Canadian ServiceNow & Salesforce postings, deduped against `jobs.json` (2,733) and `README.md` (1,511).
+**Result: 23 verified fresh jobs merged** (12 ServiceNow, 11 Salesforce). Board: SN 504→516 · SF 508→519 · Other 499 · **1,534 live**.
+
+### Channels this cycle
+
+| Channel | Volume | New rows merged |
+|---|---|---|
+| LinkedIn guest search (browser, 6 queries: SN/SF 24h; SN dev/admin, SF dev/admin 7d) | 60 rows | 0 (all 60 already on board) |
+| `scripts/fresh_ca_scan.py --days 2 --geos ""` (17 Adzuna + 6 Job Bank + 6 Eluta) | 47 kept | 23 |
+| `scripts/ats_board_sweep.py --days 2` (455 boards / 25k rows) | 2 dated | 0 (DXC Ottawa, Docebo — both already on board) |
+
+Funnel: **107 candidates → 68 already on board → 39 new → 31 live & open → 23 merged** after fit rules.
+
+### Merged rows
+
+See `inbox/hermes-cron--2026-11-11--v3.md`. Highlights:
+- **Fxinnovation (ATEKO, powered by Bell Canada) — ServiceNow Implementation Specialist**, remote Canada, full-time permanent. Bell-family ServiceNow partner; first fresh Bell-adjacent SN req in several cycles.
+- **Tundra Technical — IT Infrastructure Monitoring & Event Management Lead (ServiceNow Event Management)**, Toronto. SN ITOM/event-management service-line owner.
+- **Atlantis IT Group — ServiceNow Architect**, Toronto. PSE + OMT + HAM, telco TM Forum — strong fit for the telco-heavy SN market.
+- **Skillhub — Salesforce nCino Developer**, Toronto hybrid, CAD $100–130k; **Astra-North — nCino SF Developer (Copado CI/CD)** — nCino is a recurring Toronto banking niche.
+- **Loblaw — Sr. Salesforce Software Engineer (1-yr fixed term)**, Brampton — employer-direct, not a vendor.
+
+### Rejected (evidence for next run)
+
+- **Already on board under another source/URL** (Adzuna re-indexes old ads with new ids — always check the board by *company*, not just URL): MLSE `[C] Salesforce Engineer / Developer` (Workday 11-03), CAAT Pension `ServiceNow Technical Lead` (Workday 10-21), acroynon `ServiceNow Platform Developer` (LinkedIn 11-03), Celestica `Senior Salesforce Developer / Admin` (celestica.com 11-03), Reonomy `Salesforce Platform Developer` (lererhippeau 10-31), AGF `Salesforce AI & Data Cloud Solutions Engineer` (Adzuna 10-24), Interac `CRM & Sales Enablement, Lead` (Workday 11-10).
+- **TCS reposts:** `Salesforce Developer` (Adzuna id 5961956971, $100–120k) and `Salesforce Revenue Cloud Developer` (5961947639) duplicate board rows from 10-25/10-14 under the same company+title. Adzuna id churn is not a new posting.
+- **Fit:** Resonaite Service Desk Analyst, Workday Regional Sales Director, McKesson Specialty Health Platform Lead (no SN/SF duties), illumin Manager Revenue Operations, Modern Niagara IT Support Specialist, Insulet Commercial Operations Analyst, PagerDuty-style `Solution Engineer` pre-sales rows at Salesforce.
+
+### Lessons for future agents
+
+1. **Adzuna id churn is the main duplicate driver.** 47 "kept" rows from `fresh_ca_scan.py` collapsed to 23 genuinely new ones only after fuzzy company matching (`Inc/Ltd/Limited/Corp` stripped, 10-char company prefix) plus title-token comparison against every board row for that company. URL-only dedupe misses MLSE ≠ "Maple Leaf Sports & Entertainment Partnership" and Interac ≠ "Interac Corp."
+2. **Use the JSON-LD `datePosted`, not Adzuna's `created`.** Every Adzuna detail page carries a `JobPosting` block with the true posting date and `validThrough` (all 31 verified rows: valid through 2026-11-25). Adzuna's API `created` said 2026-11-11 for ads first posted 11-06/11-07; merging on `created` would have mis-dated 20+ rows.
+3. **Verification is cheap and decisive:** one GET per Adzuna URL → 200 + JSON-LD + scan body for "no longer accepting"/"expired". 31/31 answered; every merged row carries an absolute date and a live apply page.
+4. **LinkedIn guest search via the browser still works** (session `ljobs`); the 24h `ServiceNow` query returned 10 cards, including 3 BDO `ServiceNow Senior Developer` rows (Toronto/Markham/Oakville) that were already on the board by exact URL. Zero net-new from LinkedIn this hour — Adzuna was the only productive channel, the reverse of the 12:00 run.
+5. **`curl_cffi` is not installed in the Hermes venv** (no pip in it), so `scripts/linkedin_guest_scan.py` cannot run as-is. Use the browser guest API instead, or install curl_cffi into a python that has pip.
+6. **README table hygiene:** the Salesforce table had a stray `|---|---|---|---|---|` separator mid-table, which made everything below it unsorted. After inserting rows, sort each table by `Posted` desc and strip inner separators; then recount rows from the table itself and update TOC + header + `<summary>` + total. Today's merge produced 516/519/499 = 1,534 and `board_invariants.py` stayed at its 136-error baseline (no new violations).
+7. **Entry-level gap unchanged:** no 0–2 yr Toronto Salesforce Platform Administrator / Platform Developer I roles surfaced for the 7th consecutive cycle. The freshest inventory is senior/architect vendor reqs plus nCino/banking niches.
+
+### Partner / sponsor / telco / government sweep
+
+- **ATEKO (Bell Canada)** — new SN Implementation Specialist (remote Canada) merged; ATEKO also runs Salesforce/AWS/Azure/GCP practices, so a follow-up scan of `ateko.com` careers is worthwhile.
+- **Elite partners:** Accenture, Deloitte, KPMG (11 Toronto SN reqs), CGI, Capgemini, IBM, TCS, Wipro — all already represented; nothing fresh dated today beyond the TCS reposts rejected above.
+- **Rogers:** only the marketing-ops `Lead Management Operations` row (excluded by title rule, 4th consecutive run). **Bell:** no live SN reqs besides ATEKO. **GC Jobs / Ontario:** no SN/SF technical postings.
+
+### Files touched
+
+- `README.md` — +23 rows (12 SN · 11 SF), SF table re-sorted; counts SN 516 · SF 519 · Other 499 · 1,534
+- `jobs.json` + `public/jobs.json` + `public/gotjob/jobs.json` + `public/findjobs/jobs.json` — 23 rows synced (2,756 total)
+- `public/jobs-data.json`, `public/index.html` — rebuilt (`build_site.py`): 2,359 rendered jobs, newest 2026-11-11
+- `inbox/hermes-cron--2026-11-11--v3.md` — submission record
+- `raw/li_2026-11-11_13.json`, `raw/verified_13.json`, `raw/dedupe_13.json` — scan artifacts
+- `JOBLESSONS_2026-11-11.MD` — this section

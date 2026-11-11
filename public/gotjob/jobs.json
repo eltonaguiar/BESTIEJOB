@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-11T17:11:02.451Z",
     "generatedAt": "2026-11-11T17:11:02.451Z",
-    "total": 2733,
+    "total": 2756,
     "newThisScan": 670,
     "retainedFromPrevious": 1749,
     "sources": {
@@ -3312,6 +3312,58 @@
       ],
       "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
       "verifyState": "live"
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961958534",
+      "source": "readme",
+      "company": "Triunity Software, Inc.",
+      "title": "ServiceNow Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961958534",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · full-time · also Markham & Mississauga · CMDB/Discovery/Asset",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961947129",
+      "source": "readme",
+      "company": "Loblaw",
+      "title": "Sr. Salesforce Software Engineer (1-yr fixed term)",
+      "location": "Brampton, ON",
+      "url": "https://www.adzuna.ca/details/5961947129",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · fixed-term 1 yr",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961954405",
+      "source": "readme",
+      "company": "Atos",
+      "title": "Senior Salesforce Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961954405",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · LWC mandatory · 5-8 yrs",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5960420672",
@@ -6777,6 +6829,160 @@
       ]
     },
     {
+      "id": "readme:adzuna.ca/details/5961947830",
+      "source": "readme",
+      "company": "Vixonix Technologies",
+      "title": "ServiceNow Technical Architect",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961947830",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · AI-enabled ITSM consultancy",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961951751",
+      "source": "readme",
+      "company": "Peek IT Services",
+      "title": "Lead ServiceNow Technical Consultant – Platform & HAM",
+      "location": "Ottawa, ON / remote",
+      "url": "https://www.adzuna.ca/details/5961951751",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · part-time contract to 2026-12-19 · Flow Designer/IntegrationHub/HAM",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961946089",
+      "source": "readme",
+      "company": "Tundra Technical Solutions",
+      "title": "IT Infrastructure Monitoring & Event Management Lead – ServiceNow Event Management",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961946089",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · SN Event Management / ITOM",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961954388",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc",
+      "title": "nCino Salesforce Developer – Apex, LWC, Copado",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961954388",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · nCino + Copado CI/CD",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961957345",
+      "source": "readme",
+      "company": "Skillhub Solutions Inc.",
+      "title": "Salesforce nCino Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961957345",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · hybrid · CAD $100-130k · nCino/OmniStudio",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961954410",
+      "source": "readme",
+      "company": "Akkodis",
+      "title": "Salesforce DevOps Engineer",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961954410",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · Azure DevOps CI/CD",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961938401",
+      "source": "readme",
+      "company": "Compunnel Inc.",
+      "title": "Salesforce Developer / Senior Admin",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961938401",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · developer + senior admin hybrid",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961955962",
+      "source": "readme",
+      "company": "Compunnel Inc.",
+      "title": "Salesforce Data 360 Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961955962",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · Data Cloud / CDP + Marketing Cloud",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961949509",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc",
+      "title": "Salesforce Developer – FSC",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961949509",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-09T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · BFSI/wealth · Financial Services Cloud",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5959247965",
       "source": "adzuna",
       "company": "Analyst Technical Solutions",
@@ -9247,6 +9453,94 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961939244",
+      "source": "readme",
+      "company": "Altis Technology",
+      "title": "ServiceNow Security Operations (SecOps) Consultant",
+      "location": "Toronto, ON / remote",
+      "url": "https://www.adzuna.ca/details/5961939244",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-08T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · 12+ mo contract · vulnerability management",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961956591",
+      "source": "readme",
+      "company": "Highbrow Technology Inc",
+      "title": "ServiceNow Developer",
+      "location": "Ottawa, ON",
+      "url": "https://www.adzuna.ca/details/5961956591",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-08T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · hybrid 2-3d onsite · 7+ yrs · App Engine Studio",
+      "workArrangement": "hybrid",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961952188",
+      "source": "readme",
+      "company": "Aarorn Technologies Inc",
+      "title": "ServiceNow Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961952188",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-08T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · 3x onsite · Asset/Discovery/CMDB",
+      "workArrangement": "onsite",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961951928",
+      "source": "readme",
+      "company": "Peek IT Services",
+      "title": "Senior ServiceNow Technical Consultant – ITSM/ITAM (SAM & Integrations)",
+      "location": "Ottawa, ON / remote",
+      "url": "https://www.adzuna.ca/details/5961951928",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-08T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · SAM Workspace · contract to 2027-03",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow",
+        "it-reporting",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961958891",
+      "source": "readme",
+      "company": "Fxinnovation (ATEKO)",
+      "title": "ServiceNow Implementation Specialist",
+      "location": "Remote – Canada",
+      "url": "https://www.adzuna.ca/details/5961958891",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-08T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · ATEKO, powered by Bell · full-time permanent",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -11903,6 +12197,74 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961945996",
+      "source": "readme",
+      "company": "Atlantis IT Group",
+      "title": "ServiceNow Architect",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961945996",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-07T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · PSE/OMT/HAM · telco TM Forum",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961954791",
+      "source": "readme",
+      "company": "Avanciers Inc.",
+      "title": "ServiceNow APM Developer",
+      "location": "Ottawa, ON",
+      "url": "https://www.adzuna.ca/details/5961954791",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-07T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · 6+ mo contract · CAD $85-95/hr",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961944031",
+      "source": "readme",
+      "company": "Bevertec",
+      "title": "Business Analyst, Technology Services (ServiceNow)",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961944031",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-07T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · 12-mo contract · CAD $80-85/hr",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961953438",
+      "source": "readme",
+      "company": "Randstad Digital",
+      "title": "Senior Salesforce Developer",
+      "location": "Richmond Hill, ON",
+      "url": "https://www.adzuna.ca/details/5961953438",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-07T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · 6-mo contract · 4d onsite",
+      "workArrangement": "onsite",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -17149,6 +17511,40 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961948803",
+      "source": "readme",
+      "company": "Orion Global Solutions",
+      "title": "Senior Salesforce Developer – Canada",
+      "location": "Toronto, ON",
+      "url": "https://www.adzuna.ca/details/5961948803",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · Salesforce Summit Partner",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5961946252",
+      "source": "readme",
+      "company": "LTM",
+      "title": "Senior Salesforce Developer – Service Cloud & Agentforce",
+      "location": "Mississauga, ON",
+      "url": "https://www.adzuna.ca/details/5961946252",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-06T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T18:10:50.628Z",
+      "excerpt": "Adzuna · Service Cloud + Agentforce",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
