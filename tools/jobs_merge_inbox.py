@@ -26,6 +26,9 @@ Merging (additive by default):
     2026-11-11, so it is opt-in now)
   * reads every inbox/*.md except files starting with "_" or "TEMPLATE"
   * keeps rows with an absolute YYYY-MM-DD posted date and a URL
+  * refuses to write when the tables hold more dated rows than it can parse back
+    out (a row glued onto another line, or with a broken [title](url), would
+    otherwise be dropped silently by the insert or the --rebuild re-render)
   * dedupes on normalised URL against the README and the other inbox files
   * rewrites README with the same three-table layout the consolidator produces
   * moves rows older than --days into README.BAK_<UTC timestamp>.md
@@ -129,6 +132,94 @@ def _bump_counts(lines: list[str], heading_idx: int) -> None:
             break
 
 
+TABLE_HEADINGS = ("### ServiceNow jobs (", "### Salesforce jobs (", "### Other jobs (")
+DATED_CELL_RE = re.compile(r"\|\s*20\d\d-\d\d-\d\d\s*\|")
+
+
+def board_tables(text: str) -> str:
+    """Just the three job tables — the how-to examples and daily-scan echo excluded."""
+    lines = text.splitlines()
+    starts = [i for i, line in enumerate(lines) if line.startswith(TABLE_HEADINGS)]
+    if not starts:
+        return ""
+    end = next(
+        (i for i in range(starts[-1] + 1, len(lines)) if lines[i].startswith("## ")),
+        len(lines),
+    )
+    return "\n".join(lines[starts[0] : end])
+
+
+def count_dated_rows(text: str) -> int:
+    """Dated row cells in the tables, counting rows glued onto another row's line.
+
+    extract_rows() reads one row per line. Two rows written on one line — the
+    2026-11-11 corruption was `| ... | row || row |` — parse as one, so the second
+    vanishes the next time the tables are re-rendered. Counting cells rather than
+    lines is what makes that visible before the write instead of after.
+    """
+    region = board_tables(text)
+    return sum(
+        len(DATED_CELL_RE.findall(line))
+        for line in region.splitlines()
+        if line.lstrip().startswith("|")
+    )
+
+
+def unreadable_row_lines(text: str) -> list[str]:
+    """Table lines holding dated rows the merger cannot parse back out."""
+    problems: list[str] = []
+    for line in board_tables(text).splitlines():
+        if not line.lstrip().startswith("|"):
+            continue
+        dates = DATED_CELL_RE.findall(line)
+        if not dates:
+            continue
+        if len(dates) > 1:
+            problems.append(f"{len(dates)} rows glued onto one line: {line.strip()[:120]}")
+        elif not LINK_RE.search(line):
+            problems.append(f"dated row without a parsable [title](url): {line.strip()[:120]}")
+    return problems
+
+
+def rows_are_readable(text: str, stage: str, allow: bool) -> bool:
+    """Refuse to write when the tables hold more dated rows than parse back out.
+
+    The additive path inserts into the text it read and --rebuild re-renders the
+    parsed rows from scratch, so either one turns an unreadable row into a deleted
+    row. Both paths run this on the document they are about to write, which is the
+    last point where the loss can still be refused.
+    """
+    parsed, _ = extract_rows(board_tables(text))
+    raw = count_dated_rows(text)
+    if len(parsed) == raw:
+        return True
+    print(f"\nREFUSING to write: {stage} would lose rows.", file=sys.stderr)
+    print(f"  dated rows in the tables  : {raw}", file=sys.stderr)
+    print(
+        f"  rows the merger can parse : {len(parsed)} ({raw - len(parsed)} unreadable)",
+        file=sys.stderr,
+    )
+    problems = unreadable_row_lines(text)
+    for problem in problems[:10]:
+        print(f"    - {problem}", file=sys.stderr)
+    if len(problems) > 10:
+        print(f"    ... and {len(problems) - 10} more", file=sys.stderr)
+    print(
+        "  One row per line, each with a plain [title](url): a row glued onto another "
+        "line, or carrying a broken link, parses as no row at all — so writing this "
+        "document would drop it silently.",
+        file=sys.stderr,
+    )
+    if allow:
+        print("  --allow-row-loss given: writing anyway.", file=sys.stderr)
+        return True
+    print(
+        "  Fix the rows above, or re-run with --allow-row-loss once you have read them.",
+        file=sys.stderr,
+    )
+    return False
+
+
 def insert_rows(readme_text: str, rows: list[dict]) -> tuple[str, int]:
     """Insert rows into the matching table, preserving every existing line."""
     lines = readme_text.splitlines(True)
@@ -184,6 +275,12 @@ def main() -> int:
         help="rename merged inbox files to the next v<N> and stamp them (CI only; "
         "without it a run never touches another agent's submission)",
     )
+    ap.add_argument(
+        "--allow-row-loss",
+        action="store_true",
+        help="write even when the tables hold more dated rows than the merger can "
+        "parse back out (only after reading the list it prints)",
+    )
     args = ap.parse_args()
 
     today = date.fromisoformat(args.today) if args.today else datetime.now(timezone.utc).date()
@@ -203,6 +300,8 @@ def main() -> int:
         return 0
 
     old_readme = README.read_text(encoding="utf-8")
+    if not rows_are_readable(old_readme, "reading README.md", args.allow_row_loss):
+        return 1
     readme_rows, _ = extract_rows(old_readme)
     known = {normalise_url(r["url"]) for r in readme_rows}
     # Applied roles (APPLIED.md) must never be re-added to the live tables.
@@ -248,6 +347,8 @@ def main() -> int:
             print(f"additive dry run : +{len(fresh)} rows, 0 removed")
             return 0
         doc, added = insert_rows(old_readme, fresh)
+        if not rows_are_readable(doc, "inserting rows", args.allow_row_loss):
+            return 1
         if added:
             README.write_text(doc, encoding="utf-8")
         after_rows, _ = extract_rows(README.read_text(encoding="utf-8"))
@@ -327,6 +428,8 @@ def main() -> int:
         f"\n## Archive\n\n`{archive_name}` holds the rows that aged out of the "
         f"{args.days}-day window on {today.isoformat()}.\n"
     )
+    if not rows_are_readable(doc, "rebuilding the tables", args.allow_row_loss):
+        return 1
     README.write_text(doc, encoding="utf-8")
     print(f"wrote README.md with {len(current)} rows; archived {len(expired)} to {archive_name}")
 
