@@ -19,7 +19,11 @@ Usage:
   python3 tools/jobs_merge_inbox.py
   python3 tools/jobs_merge_inbox.py --today 2026-11-02 --days 30
 
-Merging:
+Merging (additive by default):
+  * inserts new rows into the matching table and touches nothing else
+  * --rebuild restores the old behaviour: rewrite the tables, cap at --max-per-table,
+    archive rows outside --days (that path rewrote the board to 600 rows twice on
+    2026-11-11, so it is opt-in now)
   * reads every inbox/*.md except files starting with "_" or "TEMPLATE"
   * keeps rows with an absolute YYYY-MM-DD posted date and a URL
   * dedupes on normalised URL against the README and the other inbox files
@@ -109,6 +113,53 @@ def parse_inbox_file(path: Path) -> list[dict]:
     return rows
 
 
+SECTION = {"servicenow": "### ServiceNow jobs (",
+           "salesforce": "### Salesforce jobs (",
+           "other": "### Other jobs ("}
+
+
+def _bump_counts(lines: list[str], heading_idx: int) -> None:
+    m = re.match(r"(### .* jobs \()(\d+)(\).*)", lines[heading_idx])
+    if m:
+        lines[heading_idx] = f"{m.group(1)}{int(m.group(2)) + 1}{m.group(3)}"
+    for j in range(heading_idx, min(heading_idx + 8, len(lines))):
+        s = re.match(r"(<details><summary><strong>Show )(\d+)( postings</strong></summary>)", lines[j])
+        if s:
+            lines[j] = f"{s.group(1)}{int(s.group(2)) + 1}{s.group(3)}"
+            break
+
+
+def insert_rows(readme_text: str, rows: list[dict]) -> tuple[str, int]:
+    """Insert rows into the matching table, preserving every existing line."""
+    lines = readme_text.splitlines(True)
+    added = 0
+    for row in sorted(rows, key=lambda r: r["posted"], reverse=True):
+        marker = SECTION.get(row.get("family", "other"), SECTION["other"])
+        start = next((i for i, l in enumerate(lines) if l.startswith(marker)), None)
+        if start is None:
+            continue
+        header = next((i for i in range(start, len(lines)) if lines[i].startswith("| Posted | Role |")), None)
+        if header is None:
+            continue
+        end = header + 1
+        while end < len(lines) and lines[end].startswith("| 20"):
+            end += 1
+        pos = end
+        for i in range(header + 1, end):
+            m = re.match(r"\| (20\d\d-\d\d-\d\d) \|", lines[i])
+            if m and m.group(1) < row["posted"]:
+                pos = i
+                break
+        lines.insert(
+            pos,
+            f"| {row['posted']} | [{row['title']}]({row['url']}) | {row['company']} | "
+            f"{row['location']} | {row['note']} |\n",
+        )
+        _bump_counts(lines, start)
+        added += 1
+    return "".join(lines), added
+
+
 def next_version(path: Path, ver: int) -> Path:
     m = NAME_RE.match(path.name)
     assert m
@@ -121,6 +172,12 @@ def main() -> int:
     ap.add_argument("--days", type=int, default=30)
     ap.add_argument("--max-per-table", type=int, default=150)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument(
+        "--rebuild",
+        action="store_true",
+        help="legacy destructive path: rewrites the tables, caps each at --max-per-table "
+        "and archives rows outside --days. Default is additive (insert only).",
+    )
     ap.add_argument(
         "--bump-inbox",
         action="store_true",
@@ -179,6 +236,42 @@ def main() -> int:
         per_file[path.name] = {"added": added, "duplicate": dup, "bad": bad, "listing": listing}
         extra = f", {listing} listing page(s)" if listing else ""
         print(f"{path.name}: +{added} new, {dup} duplicate{extra}")
+
+    if not args.rebuild:
+        fresh = [r for r in incoming if cutoff.isoformat() <= r["posted"] <= today.isoformat()]
+        stale = len(incoming) - len(fresh)
+        print(f"\nincoming rows    : {len(incoming)} ({stale} older than {cutoff.isoformat()}, not added)")
+        print(f"existing rows    : {len(readme_rows)} (preserved verbatim)")
+        if args.dry_run:
+            for row in fresh[:15]:
+                print(f"  will add [{row['family']}] {row['posted']} {row['title'][:60]} — {row['company'][:28]}")
+            print(f"additive dry run : +{len(fresh)} rows, 0 removed")
+            return 0
+        doc, added = insert_rows(old_readme, fresh)
+        if added:
+            README.write_text(doc, encoding="utf-8")
+        after_rows, _ = extract_rows(README.read_text(encoding="utf-8"))
+        print(f"additive         : +{added} rows -> README now {len(after_rows)} (was {len(readme_rows)})")
+        if len(after_rows) < len(readme_rows):
+            print("REFUSING to write: row count shrank", file=sys.stderr)
+            return 1
+        if args.bump_inbox:
+            stamp0 = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H%M%SZ")
+            for path in submissions:
+                m = NAME_RE.match(path.name)
+                if not m:
+                    continue
+                stats = per_file.get(path.name, {"added": 0, "duplicate": 0})
+                target = next_version(path, int(m.group("ver")))
+                body = path.read_text(encoding="utf-8")
+                if not body.startswith("<!-- merged"):
+                    body = (f"<!-- merged {stamp0}: +{stats['added']} new, "
+                            f"{stats['duplicate']} duplicate, version {int(m.group('ver')) + 1} -->\n") + body
+                target.write_text(body, encoding="utf-8")
+                path.unlink()
+        else:
+            print("inbox/left as submitted (pass --bump-inbox to version-stamp merged files)")
+        return 0
 
     merged = readme_rows + incoming
     unique, dropped = dedupe(merged)
