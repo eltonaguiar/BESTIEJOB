@@ -84,3 +84,19 @@ All 9 were deduped against the board (jobs.json URL set + normalized company+tit
 ## Files touched
 - `JOBLESSONS_2026-11-11.MD` — this file (repo root, main).
 - `README.md` — +9 verified fresh Toronto SN/SF rows (ServiceNow 718→757→1057, Salesforce 879→1212, total 6,418→6,427); commit `fa52e79` pushed to main; triggers `pages.yml` GitHub Pages redeploy.
+
+## 01:00 hourly scan (this cycle) — null run
+
+**Date**: 2026-11-11 · **Run time**: 2026-11-11 01:00 EST (06:00 UTC) · **Branch**: main (current with `fa52e79`)
+
+**Result**: No new verified-fresh Toronto ServiceNow/Salesforce Platform Admin / Platform Developer I / entry-level roles to merge.
+
+**What was checked**
+- Web search: ServiceNow + Salesforce Toronto postings (Nov 9–11); every surfaced role already on board under its URL or normalized company+title key (BDO, Cprime, Altus Group, Robert Half, Scotiabank, CGI, Lightspeed, KPMG, McKesson, Lyft, etc.).
+- jobs.json dedupe (5,330 rows): all 29 Toronto/Ontario/Ottawa SN/SF postings from the last 48h already on the board; all intermediate/senior/architect level, none entry-level Platform Admin/Dev I.
+- Individual liveness verification: Scotiabank ServiceNow Developer req 260518 returns "not accepting any further applicants" — closed, skip-on-sight; excluded. Robert Half Salesforce Developer (Toronto, 2026-11-10) is intermediate Apex/LWC work and already on board (2026-10-27 entry) — excluded by level rule.
+- Partner / telco / government pages (Rogers jobs.rogers.com, Bell jobs.bce.ca, jobs.gc.ca, gojobs.gov.on.ca): no fresh dated Toronto SN/SF platform requisitions.
+
+**Merged**: 0 jobs to README.md; 0 to GitHub Pages (README unchanged, so no pages.yml rebuild triggered this cycle).
+
+**Lesson confirmed**: null runs are the expected norm — most hourly cycles surface zero verified-fresh Platform Admin/Dev I Toronto roles. The 00:00 scan's 9-merge cycle (commit `fa52e79`) remains the latest board update; board and GitHub Pages are current as of 2026-11-11.
