@@ -4,7 +4,7 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T014314Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T014639Z.md`.
 
 ## Contents
 
@@ -606,7 +606,6 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-03 | [Senior Manager, ServiceNow HRSD Program and Solution Management](https://www.linkedin.com/jobs/view/senior-manager-servicenow-hrsd-program-and-solution-management-at-deloitte-4486878014) | Deloitte | Detroit, MI | via buffy--2026-11-08--v2.md |
 | 2026-11-03 | [Senior Manager, ServiceNow HRSD Program and Solution Management](https://www.linkedin.com/jobs/view/senior-manager-servicenow-hrsd-program-and-solution-management-at-deloitte-4486854990) | Deloitte | Seattle, WA | via buffy--2026-11-08--v2.md |
 | 2026-11-03 | [Senior Machine Learning Engineer](https://careers.servicenow.com/jobs/744000156069368/senior-machine-learning-engineer/) | ServiceNow Careers | Toronto | via servicenow-careers |
-| 2026-10-21 | [Senior Lead, ServiceNow ITOM](https://builtin.com/job/senior-lead-servicenow-itom/11793287) | Take-Two Interactive Software | Toronto | via builtin |
 | 2026-11-03 | [Senior GRC Analyst ServiceNow](https://www.nortonrosefulbright.com/en/jobs/senior-grc-analyst-servicenow-toronto) | Norton Rose Fulbright | Toronto, ON | via norton-rose-fulbright |
 | 2026-11-03 | [Senior Developer, ServiceNow](https://careers.loblaw.ca/senior-developer-servicenow/job/PAF-LCL-DED2BC0C-2158-441C-AC8F-642F12ECC0F7_4479_1786644910_0) | Loblaw | Canada | via loblaw |
 | 2026-11-03 | [Senior Consultant- ServiceNow Developer](https://ca.trabajo.org/job-2252-02b1d6df3bd5d13e2b90155f6f1d97bc) | EY | Toronto, ON | via trabajo |
@@ -1003,6 +1002,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-21 | [Senior Manager, ServiceNow - Operate](https://www.adzuna.ca/details/5937250343) | Deloitte | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-10-21 | [Senior Manager, ServiceNow - Operate](https://www.adzuna.ca/details/5937220371) | Deloitte | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-10-21 | [Senior Manager, ServiceNow - Operate](https://ca.linkedin.com/jobs/view/senior-manager-servicenow-operate-at-deloitte-4482101798) | Deloitte | Toronto, Ontario, Canada | restored after over-merge |
+| 2026-10-21 | [Senior Lead, ServiceNow ITOM](https://builtin.com/job/senior-lead-servicenow-itom/11793287) | Take-Two Interactive Software | Toronto | via builtin |
 | 2026-10-21 | [Senior Lead, ServiceNow ITOM](https://job-boards.greenhouse.io/taketwo/jobs/8306166) | Take-Two | Toronto, Ontario, Canada | via ats-sweep--2026-11-03--v12.md |
 | 2026-10-21 | [Senior Lead, ServiceNow ITOM](https://ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-take-two-interactive-4481160381) | Take-Two Interactive | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v8.md |
 | 2026-10-21 | [Senior Lead, ServiceNow ITOM](https://builtintoronto.com/job/senior-lead-servicenow-itom/11793287) | Take-Two Interactive Software | Toronto, ON, Canada | via Built In Toronto |
@@ -6668,4 +6668,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-11T014314Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
+`README.BAK_2026-11-11T014639Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
