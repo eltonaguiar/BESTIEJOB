@@ -1,3 +1,4 @@
+<!-- merged 2026-11-11T034423Z: +1 new, 4 duplicate, version 2 -->
 ---
 model: opencode-job-hunt-profile
 scanned_at: 2026-11-11T09:00:00Z

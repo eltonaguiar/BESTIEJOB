@@ -1,3 +1,4 @@
+<!-- merged 2026-11-11T034423Z: +0 new, 1 duplicate, version 2 -->
 ---
 model: opencode-job-hunt-cibc
 scanned_at: 2026-11-11T09:30:00Z
