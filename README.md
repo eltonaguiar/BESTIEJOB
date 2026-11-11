@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
-  - [ServiceNow jobs (500)](#servicenow-jobs-500)
-  - [Salesforce jobs (507)](#salesforce-jobs-507)
+  - [ServiceNow jobs (504)](#servicenow-jobs-504)
+  - [Salesforce jobs (508)](#salesforce-jobs-508)
   - [Other jobs (499)](#other-jobs-499)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,9 +18,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **1506 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **1511 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (500)
+### ServiceNow jobs (504)
 
 _developer / administrator / architect / analyst roles_
 
@@ -28,6 +28,10 @@ _developer / administrator / architect / analyst roles_
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-11 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-pacer-group-4488236494) | Pacer Group | Toronto, ON | LinkedIn · hybrid 3d/wk · CAD $135-140k · CSA + CIS-ITSM |
+| 2026-11-11 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-nityo-infotech-4489980178) | Nityo Infotech | Toronto, ON | LinkedIn · ITSM/ITOM/CMDB/CSDM · Oracle/Workday/Dayforce integrations |
+| 2026-11-11 | [Senior ServiceNow Developer](https://ca.linkedin.com/jobs/view/senior-developer-at-dexian-4489008317) | Dexian | Toronto, ON | LinkedIn · contract to 2027-04-30 · CMDB/HAM/SAM |
+| 2026-11-11 | [ITSM Reporting Specialist](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/London-Ontario-Canada/ITSM-Reporting-Specialist_R1320568) | Danaher | London, ON | Workday · ServiceNow ITSM reporting analyst |
 | 2026-11-11 | [Staff Technical Product Manager, Autonomous Workforce, San Diego / ServiceNow Careers](https://careers.servicenow.com/jobs/744000160977689/staff-technical-product-manager-autonomous-workforce/) | ServiceNow Careers](https://careers.servicenow.com/jobs/744000160977689/staff-technical-product-manager-autonomous-workforce/) | ServiceNow | Canada |
 | 2026-11-11 | [Staff Systems Engineer - ServiceNow / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/x5iu1jgrWEsh8kOnrKY7N95RE4iDk_FNzrXovvFF-dv49rUlBVNOIH55FbYxQGQM) | ServiceNow | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Staff Software Engineer, AI-Native Engineering - Flow, Waltham / ServiceNow Careers](https://careers.servicenow.com/jobs/744000160986535/staff-software-engineer-ai-native-engineering-flow/) | ServiceNow Careers](https://careers.servicenow.com/jobs/744000160986535/staff-software-engineer-ai-native-engineering-flow/) | ServiceNow | Canada |
@@ -531,7 +535,7 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (507)
+### Salesforce jobs (508)
 _developer / administrator / architect / consultant roles_
 
 <details><summary><strong>Show 507 postings</strong></summary>
@@ -544,6 +548,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-10 | [Salesforce Architect](https://ca.linkedin.com/jobs/view/salesforce-architect-at-cgi-4408560005) | CGI | Toronto, Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
 | 2026-10-30 | [Salesforce Platform Developer](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087) | Altus Group | Toronto, Ontario | via hermes-cron--2026-11-11--v1.md |
 |---|---|---|---|---|
+| 2026-11-11 | [Technical Lead - Salesforce](https://ca.linkedin.com/jobs/view/technical-lead-salesforce-at-bench-4489964109) | Bench | Toronto, ON | LinkedIn · SF technical lead, financial services · hybrid 4d onsite |
 | 2026-11-11 | [Sr. Salesforce Developer - Recutify Inc. / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/iBzVqXluOnT6csxu5gH8e0DFqduWQ_KmF7Ck8DY1ocbGhedab84XkEoohNQC8lGh) | Recutify Inc. | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Sr. Salesforce Developer - Capgemini / Mississauga, ON](https://www.workopolis.com/jobsearch/viewjob/4OV1oUM98u4UKGt7bvRSNMdfgcTWUNAmc0Rn7cOikDYXyDHW4f586D7Msu8AmGnV) | Capgemini | Mississauga, ON | Workopolis Canada |
 | 2026-11-11 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487861359) | Parkland Corporation | Calgary, Alberta, Canada | via inbox_staffing--2026-11-10--v1.md |

@@ -264,3 +264,55 @@ All 9 were deduped against the board (jobs.json URL set + normalized company+tit
 - `inbox/fresh-ca--2026-11-11--v6.md` — empty inbox table (0 rows)
 - `README.md` — unchanged (SN 500 · SF 507 · Other 499 · total 1,506)
 - `public/` / GitHub Pages — unchanged; no redeploy required
+
+
+---
+
+## Hourly cron scan — 2026-11-11 12:00 EST (17:00 UTC)
+
+**Scope:** fresh Toronto/GTA ServiceNow + Salesforce postings, deduped against `jobs.json` (2,722 → 2,727) and `README.md` (1,506 → 1,511).
+**Result: 5 verified fresh jobs merged** (4 ServiceNow, 1 Salesforce).
+
+### Merged to README.md + jobs.json + public/ (GitHub Pages)
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-11 | ServiceNow Implementation Architect | Pacer Group | Toronto, ON | LinkedIn 4488236494 · hybrid 3d/wk · CAD $135-140k · CSA + CIS-ITSM required |
+| 2026-11-11 | ServiceNow Implementation Architect | Nityo Infotech | Toronto, ON | LinkedIn 4489980178 · ITSM/ITOM/CMDB/CSDM · Oracle/Workday/Dayforce integrations |
+| 2026-11-11 | Senior ServiceNow Developer | Dexian | Toronto, ON | LinkedIn 4489008317 (posted as "Senior Developer") · contract to 2027-04-30 · CMDB/HAM/SAM |
+| 2026-11-11 | ITSM Reporting Specialist | Danaher | London, ON | Workday R1320568 · ServiceNow ITSM reporting analyst |
+| 2026-11-11 | Technical Lead - Salesforce | Bench | Toronto, ON | LinkedIn 4489964109 · senior SF technical lead, financial services, hybrid 4d onsite |
+
+Board totals after merge: **ServiceNow 504 · Salesforce 508 · Other 499 · 1,511 live postings**. Site rebuilt (`build_site.py`): 2,333 rendered jobs, newest 2026-11-11.
+
+### Where the fresh jobs actually came from
+
+1. **LinkedIn guest API (browser, not curl)** — 6 queries (`ServiceNow` + `Salesforce`, 24h; `ServiceNow developer/administrator/architect` + `Salesforce administrator`, 7d). Produced every Toronto role added except Danaher. **The 24h `ServiceNow` query returned an empty body on the first attempt and a full 10-card page on retry ~3 minutes later** — always retry an empty LinkedIn page once before concluding "no results".
+2. **`scripts/fresh_ca_scan.py --days 2`** — 68 Adzuna/Job Bank/Eluta requests, 37 raw → 6 unique → **0 new** (5 already on board, 1 matched by title). Adzuna is saturated for this window for the third consecutive run today.
+3. **`scripts/ats_board_sweep.py --days 2`** — 455 boards / 25,467 rows → 783 keyword-relevant → 78 Canadian → **4 dated ≤2 days**; only Danaher survived dedupe. The sweep is still the only channel that surfaces employer-only reqs, but hit rate is ~1 per run.
+4. **Workday CXS probes** (TD, BMO, Salesforce, Accenture, DXC) — no new Toronto SN/SF reqs beyond what the sweep found. BMO's "Incident/Problem Management Specialist" (remote ON, posted yesterday, ServiceNow in body) was **already on the board** dated 2026-11-10.
+
+### Rejected / duplicate candidates (evidence for the next run)
+
+- **Docebo — Senior Salesforce Developer** (Ashby `0bbdde71…`, published 2026-11-10): already on the board as an **Adzuna** row (`adzuna.ca/details/5948997248`, dated 2026-11-01) with the Ashby URL kept as `alternates`. Cross-source identity match (company+title) blocked the duplicate — but note the adzuna detail URL now answers **403** while the Ashby URL answers **200**; prefer the ATS URL when both exist.
+- **DXC — ServiceNow Developer (ITSM Module), Ottawa**: already tracked (workday row, `postedDate` 2026-11-09) although the Workday feed reports `startDate` 2026-11-11 — Workday reposts/refreshes bump `startDate` without the board's row changing. Do not re-add on a date bump alone.
+- **Interac — CRM & Sales Enablement, Lead** (Salesforce owner + hands-on config, Toronto): already on board via `interac.wd3` Workday (`REQ-2425`).
+- **BMO — Incident/Problem Management Specialist**: already on board (Workday R260030630, 2026-11-10).
+- **Rogers — Lead Management Operations** (Scarborough, posted 6 h ago): Salesforce *administration SME* work but a marketing-operations title; excluded by the board's title rule (third hourly run to reject it). If Elton wants marketing-ops/RevOps Salesforce roles, this is the example to change the rule for.
+- **Salesforce — Lead Solution Engineer, ECS, Public Sector** (2 req ids, Toronto): Job Category "Sales"; excluded by the pre-sales filter.
+- **McKesson — Specialty Health Platform Lead** (Mississauga): zero Salesforce/ServiceNow mentions in the body — platform ops, not a platform role.
+- **Pacer Group vs Nityo Infotech "ServiceNow Implementation Architect"**: two staffing vendors posting what is very likely the same Toronto BFSI client req (same title, same city, same ITSM/ITOM/CMDB + Oracle/Workday/Dayforce stack, same CSA/CIS ask). Both added because both are separately applyable — expect the dedupe layer to keep flagging pairs like this, and do **not** treat vendor twins as duplicates by title alone.
+
+### Partner / sponsor / telco / government sweep
+
+- **Elite/Global Elite partners:** KPMG (11 Toronto SN reqs, all on board), Accenture (R00356209 already known; Workday search shows 1,618 ServiceNow reqs but none Canadian on page 1), Deloitte/CGI/Cognizant/Wipro/Plative/CoreKloud — all already represented; nothing new today.
+- **Rogers:** only marketing-ops Salesforce work (see above). **Bell:** no live ServiceNow reqs (previous hits still "filled"). **Canadian government / GC Jobs:** still returns no SN/SF technical postings; federal-adjacent work arrives through DXC (Ottawa, clearance-gated) and the Big-4 consultancies.
+
+### Lessons for future agents
+
+1. **LinkedIn guest search is still the highest-yield fresh channel** — 4 of 5 new rows today. Run it before the Adzuna sweep, and retry once on an empty response.
+2. **Check `alternates` before adding.** A posting already on the board under Adzuna/Workopolis will silently swallow the ATS version; the ATS URL is the one that stays alive.
+3. **Workday `startDate` bumps are not new postings.** Compare against the board's `postedDate`/`alternates`, not just the feed date.
+4. **Vendor twins are distinct postings.** Two recruiters advertising the same client req both belong on the board (the user applies to each separately); dedupe on URL, not on title+company.
+5. **ATS sweep hit rate ≈ 1 job/run.** 25,467 rows for one usable dated Canadian req is normal; keep it running hourly because the one hit is invisible elsewhere.
+6. **Board counts must be recomputed from the table, not assumed.** After inserting rows I verified 504/508/499 rows parse back out of README before committing; the 10:00 run's 3-row merge had already drifted the header counts once today.

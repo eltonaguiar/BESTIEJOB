@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-11T17:11:02.451Z",
     "generatedAt": "2026-11-11T17:11:02.451Z",
-    "total": 2731,
+    "total": 2733,
     "newThisScan": 670,
     "retainedFromPrevious": 1749,
     "sources": {
@@ -1977,6 +1977,42 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-developer-at-dexian-4489008317",
+      "source": "readme",
+      "company": "Dexian",
+      "title": "Senior ServiceNow Developer",
+      "location": "Toronto, ON",
+      "url": "https://ca.linkedin.com/jobs/view/senior-developer-at-dexian-4489008317",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T17:19:42.258Z",
+      "excerpt": "LinkedIn · contract to 2027-04-30 · CMDB/HAM/SAM",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:danaher.wd1.myworkdayjobs.com/en-us/danaherjobs/job/london-ontario-canada/itsm-reporting-specialist_r1320568",
+      "source": "readme",
+      "company": "Danaher",
+      "title": "ITSM Reporting Specialist",
+      "location": "London, ON",
+      "url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/London-Ontario-Canada/ITSM-Reporting-Specialist_R1320568",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-11T17:19:42.258Z",
+      "excerpt": "Workday · ServiceNow ITSM reporting analyst",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
       ]
     },
     {

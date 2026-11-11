@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-11T17:12:54+00:00",
+ "generatedAt": "2026-11-11T17:19:43+00:00",
  "timezone": "America/Toronto",
- "count": 2334,
+ "count": 2337,
  "appliedHidden": 34,
  "sources": [
   "103.careerplug.com",
@@ -666,6 +666,27 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Senior ServiceNow Developer",
+   "company": "Dexian",
+   "location": "Toronto, ON",
+   "url": "https://ca.linkedin.com/jobs/view/senior-developer-at-dexian-4489008317",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow developer dexian toronto, on linkedin servicenow readme servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "ServiceNow Implementation Architect",
    "company": "Nityo Infotech",
    "location": "Toronto, Ontario, Canada",
@@ -725,7 +746,13 @@
    ],
    "french": false,
    "search": "servicenow implementation architect pacer group toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-pacer-group-4488236494",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -2277,6 +2304,27 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Salesforce Manager, Sales & Marketing Clouds",
+   "company": "ivari Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce manager, sales & marketing clouds ivari canada toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Marketing Cloud Next Solution Architect",
    "company": "NeuraFlash",
    "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
@@ -2885,6 +2933,26 @@
    ],
    "french": false,
    "search": "junior grc analyst intern - tmx group limited / toronto, on tmx group limited toronto, on workopolis other readme risk/grc role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "ITSM Reporting Specialist",
+   "company": "Danaher",
+   "location": "London, ON",
+   "url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/London-Ontario-Canada/ITSM-Reporting-Specialist_R1320568",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 34,
+   "matchReasons": [
+    "ITSM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "itsm reporting specialist danaher london, on workday ats servicenow readme itsm role fit",
    "alternates": []
   },
   {
