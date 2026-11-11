@@ -1087,13 +1087,13 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1212)
-
+### Salesforce jobs (1213)
 _developer / administrator / architect / consultant roles_
 
 <details><summary><strong>Show 1212 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
+| 2026-11-03 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altusgroup | 300 - Toronto | via workday |
 |---|---|---|---|---|
 | 2026-11-11 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487861359) | Parkland Corporation | Calgary, Alberta, Canada | via inbox_staffing--2026-11-10--v1.md |
 | 2026-11-11 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487851759) | Parkland Corporation | Calgary, Alberta, Canada | via inbox_staffing--2026-11-10--v1.md |
