@@ -569,4 +569,32 @@ Zero new merges pushed to origin/main.
 - `README.md` — +654 rows (SN 1,112 · SF 1,256 · total 6,477); counts/anchors refreshed
 - `public/` (GitHub Pages) — rebuilt, 4,821 indexed jobs; live at https://eltonaguiar.github.io/BESTIEJOB/
 - `FRESH_JOBS.md`, `inbox/gap-scan--2026-11-11--v1.md`, `raw/gap_scan_2026-11-11.json`
-- `JOBLESSONS_2026-11-10.MD` — this section appended
+- `JOBLESSONS_2026-11-10.MD` — this section appended (19:00 EST)
+
+## Scan cycle — 2026-11-10 20:00 EST (this run, after 19:00 merge)
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-10 20:00 EST |
+| Basis | Local re-scan of the same Toronto ServiceNow / Salesforce scope after commit 9392745 (19:00 EST) had already merged +654 rows and rebuilt/published GitHub Pages |
+| Fresh board-eligible postings found since 19:00 | 0 |
+| Rows merged to README.md | 0 (board already current through 2026-11-10: SN 1,112 · SF 1,256 · Other 4,109 · total 6,477) |
+| Rows merged to GitHub Pages (public/) | 0 (no commit; pages already live at https://eltonaguiar.github.io/BESTIEJOB/) |
+
+### Candidates reviewed (all deduped or excluded)
+| Candidate | Source | Decision |
+|---|---|---|
+| Alimentiv — ServiceNow Platform Specialist, Toronto/Remote, posted Nov 10 | jobs.ca / Lever | Already on board (lever + LinkedIn 4483654163) — duplicate |
+| Randstad — Systems Administrator V (ServiceNow), Toronto | randstad.ca 47502843 | Excluded: posting date reads Sep 25 2026 (outside 2026-10-11→11-10 window); senior V-level, not entry Platform Admin/Dev I |
+| Robert Half — Salesforce Developer, Toronto, remote | roberthalf.com | Already on board (readme source) — duplicate |
+| Scotiabank — ServiceNow Developer, Toronto | jobs.scotiabank.com 603030017 | Already on board (exa source) — duplicate |
+| Rogers — Lead Management Operations (Salesforce) Req 343961 | jobs.rogers.com | Excluded: posted 2026-10-28, outside window; marketing-ops not platform admin/dev |
+| Bell — Senior Manager ServiceNow Platform Delivery | jobs.bell.ca | Excluded: expired / no longer accepting applicants |
+| Government of Canada | jobs.gc.ca / canada.ca | Excluded: zero direct SN/SF Toronto hits; GC work comes via prime vendors (already sweep-covered) |
+
+### Lessons confirmed this cycle
+1. The 19:00 EST scan already captured the day's fresh ServiceNow/Salesforce volume (+654 rows), so a 20:00 re-scan surfacing 0 new board-eligible jobs is expected — re-scans confirm staleness rather than forcing a merge.
+2. Every fresh-looking Toronto SN/SF lead hit either an existing board URL (dedupe) or failed the date/role rule (outside window, senior-only, sales, AI, or expired).
+3. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto remains the priority gap; Lane Four's undated Salesforce Administrator sits in inbox, not board, pending datePosted harvest.
+
+### Files touched (this run)
+- `JOBLESSONS_2026-11-10.MD` — 20:00 EST section appended (docs only; no README.md / public/ / jobs.json change since 0 new jobs)
