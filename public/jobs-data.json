@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-11T02:33:40+00:00",
+ "generatedAt": "2026-11-11T03:16:07+00:00",
  "timezone": "America/Toronto",
- "count": 3940,
+ "count": 3946,
  "appliedHidden": 29,
  "sources": [
   "103.careerplug.com",
@@ -173,7 +173,6 @@
   "jobs.insightglobal.com",
   "jobs.jobvite.com",
   "jobs.learnetrm.com",
-  "jobs.lererhippeau.com",
   "jobs.pomerleau.ca",
   "jobs.rbc.com",
   "jobs.rsmus.com",
@@ -277,6 +276,33 @@
  "jobs": [
   {
    "posted": "2026-11-11",
+   "title": "Lead Salesforce Solution Architect",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Specialist- Salesforce Architect",
    "company": "Parkland Corporation",
    "location": "Calgary, Alberta, Canada",
@@ -321,6 +347,26 @@
      "label": "Adzuna · Calgary"
     }
    ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Intermediate Salesforce System Coordinator- 5816",
+   "company": "Amyantek",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/intermediate-salesforce-system-coordinator-5816-at-amyantek-4489682441",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate salesforce system coordinator- 5816 amyantek toronto, ontario, canada linkedin salesforce linkedin salesforce toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-11",
@@ -754,33 +800,6 @@
   },
   {
    "posted": "2026-11-10",
-   "title": "Lead Salesforce Solution Architect",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
-     "label": "LinkedIn · Mississauga"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-10",
    "title": "Salesforce Solution Architect",
    "company": "Cognizant",
    "location": "Toronto, ON-199 Bay Street, Ontario, Canada",
@@ -857,27 +876,6 @@
      "label": "Adzuna · Toronto"
     }
    ]
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Salesforce System Coordinator / Administrator",
-   "company": "Quarry Consulting",
-   "location": "North York, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-system-coordinator-administrator-at-quarry-consulting-4487822864",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce system coordinator / administrator quarry consulting north york, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-10",
@@ -1110,6 +1108,27 @@
    ],
    "french": false,
    "search": "senior salesforce developer lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Salesforce System Coordinator / Administrator",
+   "company": "Quarry Consulting",
+   "location": "North York, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-system-coordinator-administrator-at-quarry-consulting-4487822864",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce system coordinator / administrator quarry consulting north york, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -1421,6 +1440,38 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5959734122",
      "label": "Adzuna · Westmount"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Staff Security Engineer / Enterprise Security",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160297239",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / enterprise security servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "careers.servicenow.com",
+     "url": "https://careers.servicenow.com/jobs/744000160297239/staff-security-engineer-enterprise-security/",
+     "label": "careers.servicenow.com · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5960555439",
+     "label": "Adzuna · Toronto"
     }
    ]
   },
@@ -3985,26 +4036,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Certinia PSA Architect - Senior Principal",
-   "company": "Slalom",
-   "location": "Greater Toronto Area, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/certinia-psa-architect-senior-principal-at-slalom-4487961045",
-   "note": "linkedin",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "certinia psa architect - senior principal slalom greater toronto area, canada linkedin other linkedin role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Senior Full Stack Engineer People Products",
    "company": "pofft Technology Inc.",
    "location": "Toronto, Ontario",
@@ -4107,6 +4138,26 @@
    ],
    "french": false,
    "search": "senior full stack engineer people products academic key toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Certinia PSA Architect - Senior Principal",
+   "company": "Slalom",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/certinia-psa-architect-senior-principal-at-slalom-4487961045",
+   "note": "linkedin",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "certinia psa architect - senior principal slalom greater toronto area, canada linkedin other linkedin role fit toronto area",
    "alternates": []
   },
   {
@@ -6155,6 +6206,48 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816",
      "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-08",
+   "title": "ServiceNow Architect",
+   "company": "RSM",
+   "location": "Toronto",
+   "url": "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Toronto/ServiceNow-Architect_JR122225",
+   "note": "via ats-sweep--2026-11-07--v9.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow architect rsm toronto workday ats servicenow via ats-sweep--2026-11-07--v9.md servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958362734",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5955916622",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5955472312",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-at-rsm-canada-4486537303",
+     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -9997,38 +10090,6 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "ServiceNow Architect",
-   "company": "RSM",
-   "location": "Toronto",
-   "url": "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Toronto/ServiceNow-Architect_JR122225",
-   "note": "via ats-sweep--2026-11-07--v9.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow architect rsm toronto workday ats servicenow via ats-sweep--2026-11-07--v9.md servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955916622",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955472312",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
    "title": "Senior Manager, ServiceNow - Operate",
    "company": "Deloitte",
    "location": "Toronto, ON, Canada (Hybrid)",
@@ -10406,6 +10467,33 @@
   },
   {
    "posted": "2026-11-06",
+   "title": "Senior Manager, Salesforce Engineering",
+   "company": "Scotiabank",
+   "location": "Toronto, ON",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Senior-Manager%2C-Salesforce-Engineering-ON-M5A-3X5/606845217/",
+   "note": "Scotiabank careers (Big Five bank); Salesforce platform engineering management; requisition 275778; date from careers-pa",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.scotiabank.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior manager, salesforce engineering scotiabank toronto, on jobs.scotiabank.com salesforce scotiabank careers (big five bank); salesforce platform engineering management; requisition 275778; date from careers-pa salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5955295515",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-06",
    "title": "Salesforce Consultant",
    "company": "Lane Four",
    "location": "Toronto, Ontario, Canada",
@@ -10693,33 +10781,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300",
      "label": "LinkedIn · Montreal"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Staff Security Engineer / Enterprise Security",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160297239",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "staff security engineer / enterprise security servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000160297239/staff-security-engineer-enterprise-security/",
-     "label": "careers.servicenow.com · Toronto"
     }
    ]
   },
@@ -15341,7 +15402,7 @@
    "company": "Deloitte",
    "location": "Costa Mesa, CA",
    "url": "https://www.linkedin.com/jobs/view/lead-forward-deployed-engineer-servicenow-at-deloitte-4451980296",
-   "note": "via buffy--2026-11-08--v2.md",
+   "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "LinkedIn",
@@ -15352,7 +15413,7 @@
     "Role fit"
    ],
    "french": false,
-   "search": "lead forward deployed engineer, servicenow deloitte costa mesa, ca linkedin servicenow via buffy--2026-11-08--v2.md servicenow role fit",
+   "search": "lead forward deployed engineer, servicenow deloitte costa mesa, ca linkedin servicenow readme servicenow role fit",
    "alternates": []
   },
   {
@@ -15589,6 +15650,27 @@
   },
   {
    "posted": "2026-11-05",
+   "title": "Principal Application Engineer (Salesforce)",
+   "company": "PointClickCare",
+   "location": "Mississauga, Ontario",
+   "url": "https://jobs.lever.co/pointclickcare/230b8d92-f07c-4f44-b888-7f862314af15",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "principal application engineer (salesforce) pointclickcare mississauga, ontario lever salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
    "title": "Salesforce Administrator (Hybrid)",
    "company": "Survalent",
    "location": "Mississauga, Peel region",
@@ -15681,48 +15763,6 @@
    ],
    "french": false,
    "search": "salesforce data cloud consultant smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Senior Manager, Salesforce Engineering",
-   "company": "Scotiabank",
-   "location": "Toronto, ON",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Senior-Manager%2C-Salesforce-Engineering-ON-M5A-3X5/606845217/",
-   "note": "Scotiabank careers (Big Five bank); Salesforce platform engineering management; requisition 275778; date from careers-pa",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.scotiabank.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior manager, salesforce engineering scotiabank toronto, on jobs.scotiabank.com salesforce scotiabank careers (big five bank); salesforce platform engineering management; requisition 275778; date from careers-pa salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Principal Application Engineer (Salesforce)",
-   "company": "PointClickCare",
-   "location": "Mississauga, Ontario",
-   "url": "https://jobs.lever.co/pointclickcare/230b8d92-f07c-4f44-b888-7f862314af15",
-   "note": "via ats-sweep--2026-11-06--v13.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "principal application engineer (salesforce) pointclickcare mississauga, ontario lever salesforce via ats-sweep--2026-11-06--v13.md salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -16808,33 +16848,6 @@
    "french": false,
    "search": "senior business analyst in toronto, on (onsite) amicis global toronto, ontario adzuna other readme consulting/ba role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "RevOps Workflow Automation Manager (VN43206)",
-   "company": "Sage",
-   "location": "Toronto, ON; hybrid 3d",
-   "url": "https://sagehr.my.salesforce-sites.com/careers/fRecruit__ApplyJob?vacancyNo=VN43206",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "sagehr.my.salesforce-sites.com",
-   "verified": "Employer board",
-   "match": 30,
-   "matchReasons": [
-    "Automation",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "revops workflow automation manager (vn43206) sage toronto, on; hybrid 3d sagehr.my.salesforce-sites.com salesforce readme automation role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5953978794",
-     "label": "Adzuna · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-05",
@@ -23325,38 +23338,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "software engineer ii (salesforce loyalty management developer) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5952756703",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5944333365?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Salesforce Functional Analyst (JR26101237)",
    "company": "Manulife",
    "location": "Waterloo, ON / Toronto, ON",
@@ -25277,6 +25258,27 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "Salesforce CPQ Developer Job - Toronto, ON, Canada (Epsilon Solutions)",
+   "company": "Toronto, ON, Canada (Epsilon Solutions)",
+   "location": "Canada",
+   "url": "https://www.iitjobs.com/job/salesforce-cpq-developer-toronto-on-canada-331474",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "iitjobs.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce cpq developer job - toronto, on, canada (epsilon solutions) toronto, on, canada (epsilon solutions) canada iitjobs.com salesforce readme salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "CRM Business Analyst - TD Asset Management",
    "company": "TD Bank",
    "location": "Toronto, Ontario",
@@ -25303,12 +25305,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5952756638",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5952813575?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5952813575",
      "label": "Adzuna · Canada"
     }
    ]
@@ -25423,27 +25420,6 @@
      "label": "LinkedIn · Mississauga"
     }
    ]
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Salesforce CPQ Developer Job - Toronto, ON, Canada (Epsilon Solutions)",
-   "company": "Toronto, ON, Canada (Epsilon Solutions)",
-   "location": "Canada",
-   "url": "https://www.iitjobs.com/job/salesforce-cpq-developer-toronto-on-canada-331474",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "iitjobs.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce cpq developer job - toronto, on, canada (epsilon solutions) toronto, on, canada (epsilon solutions) canada iitjobs.com salesforce via round11-cached--2026-11-05--v17.md salesforce role fit canada / remote",
-   "alternates": []
   },
   {
    "posted": "2026-11-04",
@@ -39052,6 +39028,27 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Salesforce Consultant, Revenue Cloud",
+   "company": "NeuraFlash",
+   "location": "Remote - Colombia",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242209004",
+   "note": "greenhouse",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce consultant, revenue cloud neuraflash remote - colombia greenhouse salesforce greenhouse salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Enterprise Architect (Salesforce) – Healthcare &amp; Life Sciences",
    "company": "Customertimes",
    "location": "Canada",
@@ -40083,7 +40080,7 @@
    "company": "Salesforce (corporate)",
    "location": "Remote",
    "url": "https://www.salesforce.com/company/careers/jobs/JR356928/solution-architect-healthcarelife-sciences-or-financial-services/",
-   "note": "via round11-cached--2026-11-05--v11.md",
+   "note": "readme",
    "family": "salesforce",
    "familyLabel": "Salesforce",
    "source": "salesforce.com",
@@ -40095,7 +40092,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "solution architect - healthcare/life sciences or financial services salesforce (corporate) remote salesforce.com salesforce via round11-cached--2026-11-05--v11.md salesforce role fit canada / remote",
+   "search": "solution architect - healthcare/life sciences or financial services salesforce (corporate) remote salesforce.com salesforce readme salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -40712,6 +40709,26 @@
    ],
    "french": false,
    "search": "technology lead - data engineer infosys mississauga, on linkedin other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "T&O Senior Data Analyst, Financial Data",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/T-O-Senior-Data-Analyst---Financial-Data_R260030331",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "t&o senior data analyst, financial data bmo toronto, on, can workday ats other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -42023,26 +42040,6 @@
    ],
    "french": false,
    "search": "product manager - business platforms cdw toronto, on cdwjobs.com other cdw role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "T&O Senior Data Analyst,  Financial Data",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/T-O-Senior-Data-Analyst---Financial-Data_R260030331",
-   "note": "via buffy-scan60d--2026-11-04--v10.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "t&o senior data analyst,  financial data bmo toronto, on, can workday ats other via buffy-scan60d--2026-11-04--v10.md role fit toronto area",
    "alternates": []
   },
   {
@@ -43576,6 +43573,25 @@
   },
   {
    "posted": "2026-11-03",
+   "title": "Full-Stack Engineer (Web3-DeFi)",
+   "company": "jobgether",
+   "location": "UK",
+   "url": "https://jobs.lever.co/jobgether/97fc448f-d797-4c6d-983b-245e68e622a5",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "full-stack engineer (web3-defi) jobgether uk lever other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
    "title": "Full Stack Developer",
    "company": "Arolytics",
    "location": "Calgary, Calgary region",
@@ -43803,12 +43819,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948024790",
-     "label": "Adzuna · Ottawa"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5947323954?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5947323954",
      "label": "Adzuna · Ottawa"
     }
    ]
@@ -43837,25 +43848,6 @@
      "label": "Adzuna · Ottawa"
     }
    ]
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Full-Stack Engineer (Web3-DeFi)",
-   "company": "jobgether",
-   "location": "UK",
-   "url": "https://jobs.lever.co/jobgether/97fc448f-d797-4c6d-983b-245e68e622a5",
-   "note": "via gx10--2026-11-05--v18.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "full-stack engineer (web3-defi) jobgether uk lever other via gx10--2026-11-05--v18.md role fit",
-   "alternates": []
   },
   {
    "posted": "2026-11-03",
@@ -45050,6 +45042,27 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Senior Manager, Security Incident Response",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8045378003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 42,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior manager, security incident response affirm remote canada greenhouse other readme itsm role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Incident & Escalation Lead- Enterprise Customers",
    "company": "gitlab",
    "location": "Remote, Canada; Remote, United States",
@@ -45067,27 +45080,6 @@
    ],
    "french": false,
    "search": "incident & escalation lead- enterprise customers gitlab remote, canada; remote, united states greenhouse other readme itsm role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Manager, Security Incident Response",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8045378003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 42,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior manager, security incident response affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md itsm role fit canada / remote",
    "alternates": []
   },
   {
@@ -45227,7 +45219,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034827003",
-   "note": "via round11-cached--2026-11-05--v17.md",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -45239,7 +45231,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "staff software engineer, frontend (decisions orchestration) affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md flow designer role fit canada / remote",
+   "search": "staff software engineer, frontend (decisions orchestration) affirm remote canada greenhouse other readme flow designer role fit canada / remote",
    "alternates": []
   },
   {
@@ -45248,7 +45240,7 @@
    "company": "affirm",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749582003",
-   "note": "via round11-cached--2026-11-05--v17.md",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "Greenhouse",
@@ -45260,7 +45252,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "staff software engineer (continuous integration) affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md integration role fit canada / remote",
+   "search": "staff software engineer (continuous integration) affirm remote canada greenhouse other readme integration role fit canada / remote",
    "alternates": []
   },
   {
@@ -45735,58 +45727,6 @@
    "french": false,
    "search": "specialist ii tis application observability oil authority canada adzuna other readme aiops role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Staff Software Engineer, Backend (Observability)",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 28,
-   "matchReasons": [
-    "AIOps",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "staff software engineer, backend (observability) affirm remote canada greenhouse other readme aiops role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/7995361003",
-     "label": "Greenhouse · Remote Canada"
-    },
-    {
-     "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/7821440003",
-     "label": "Greenhouse · Remote Canada"
-    },
-    {
-     "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/7719649003",
-     "label": "Greenhouse · Remote Canada"
-    },
-    {
-     "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/8005408003",
-     "label": "Greenhouse · Remote Canada"
-    },
-    {
-     "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/7800319003",
-     "label": "Greenhouse · Remote Canada"
-    },
-    {
-     "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/8003801003",
-     "label": "Greenhouse · Remote Canada"
-    }
-   ]
   },
   {
    "posted": "2026-11-02",
@@ -48060,6 +48000,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Underwriting/Credit Model Risk Senior Manager - Machine Learning",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7822288003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "underwriting/credit model risk senior manager - machine learning affirm remote canada greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Transaction Manager, Canada",
    "company": "anthropic",
    "location": "Remote-Friendly (Travel Required) / Canada",
@@ -48266,6 +48226,77 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Staff Software Engineer, Mobile (App Infrastructure)",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "staff software engineer, mobile (app infrastructure) affirm remote canada greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Staff Software Engineer, Backend (Search)",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8005408003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "staff software engineer, backend (search) affirm remote canada greenhouse other readme role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Greenhouse",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003",
+     "label": "Greenhouse · Remote Canada"
+    },
+    {
+     "source": "Greenhouse",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/7800319003",
+     "label": "Greenhouse · Remote Canada"
+    },
+    {
+     "source": "Greenhouse",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/8003801003",
+     "label": "Greenhouse · Remote Canada"
+    },
+    {
+     "source": "Greenhouse",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/7995361003",
+     "label": "Greenhouse · Remote Canada"
+    },
+    {
+     "source": "Greenhouse",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/7821440003",
+     "label": "Greenhouse · Remote Canada"
+    },
+    {
+     "source": "Greenhouse",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/7719649003",
+     "label": "Greenhouse · Remote Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Staff Software Engineer - Fraud",
    "company": "mercury",
    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
@@ -48382,6 +48413,26 @@
    ],
    "french": false,
    "search": "staff product security architect gitlab remote, canada; remote, israel; remote, poland; remote, united kingdom; remote, united states greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Staff Product Manager, Credit & Pricing",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8006359003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "staff product manager, credit & pricing affirm remote canada greenhouse other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -48954,15 +49005,35 @@
     },
     {
      "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/8003018003",
      "label": "Greenhouse · Remote Canada"
     },
     {
      "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/8003018003",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
      "label": "Greenhouse · Remote Canada"
     }
    ]
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Software Engineer II - CIAM",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "software engineer ii - ciam affirm remote canada greenhouse other readme role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-02",
@@ -49146,6 +49217,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Senior Technical Program Manager",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7832312003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior technical program manager affirm remote canada greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Senior Systems Engineer, Tech Foundations",
    "company": "airbnb",
    "location": "Remote",
@@ -49202,6 +49293,26 @@
    ],
    "french": false,
    "search": "senior support engineer gitlab remote, south korea greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior Staff Software Engineer, Backend (Compute Platform)",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8057950003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior staff software engineer, backend (compute platform) affirm remote canada greenhouse other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -49285,6 +49396,16 @@
    "alternates": [
     {
      "source": "Greenhouse",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/8017286003",
+     "label": "Greenhouse · Remote Canada"
+    },
+    {
+     "source": "Greenhouse",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/7820308003",
+     "label": "Greenhouse · Remote Canada"
+    },
+    {
+     "source": "Greenhouse",
      "url": "https://job-boards.greenhouse.io/affirm/jobs/7808386003",
      "label": "Greenhouse · Remote Canada"
     },
@@ -49295,22 +49416,12 @@
     },
     {
      "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/7989061003",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/8013444003",
      "label": "Greenhouse · Remote Canada"
     },
     {
      "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/7994795003",
-     "label": "Greenhouse · Remote Canada"
-    },
-    {
-     "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003",
-     "label": "Greenhouse · Remote Canada"
-    },
-    {
-     "source": "Greenhouse",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/7785814003",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/8017505003",
      "label": "Greenhouse · Remote Canada"
     }
    ]
@@ -49574,6 +49685,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Senior Sales Engineer",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8016835003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior sales engineer affirm remote canada greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Senior Risk Program Manager - Fraud & Disputes Enablement",
    "company": "mercury",
    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
@@ -49670,6 +49801,26 @@
    ],
    "french": false,
    "search": "senior professional services technical architect - security gitlab remote, canada; remote, united states greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior Product Manager, Credit & Pricing",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior product manager, credit & pricing affirm remote canada greenhouse other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -49934,6 +50085,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Senior Manager, Technical Recruiting",
+   "company": "affirm",
+   "location": "Remote UK",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7895270003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior manager, technical recruiting affirm remote uk greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Senior Manager, Technical Program Management",
    "company": "gitlab",
    "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
@@ -50070,6 +50241,26 @@
    ],
    "french": false,
    "search": "senior full-stack engineer mercury san francisco, ca, new york, ny, portland, or, or remote within canada or united states greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior Full Stack Engineer",
+   "company": "jobgether",
+   "location": "Canada",
+   "url": "https://jobs.lever.co/jobgether/64dc0908-98ed-4344-9de3-250c7c465001",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior full stack engineer jobgether canada lever other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -50274,6 +50465,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Senior Corporate Enterprise Platform Engineer, Windows",
+   "company": "dropbox",
+   "location": "Remote - Canada: Select locations",
+   "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobs.dropbox.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior corporate enterprise platform engineer, windows dropbox remote - canada: select locations jobs.dropbox.com other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Senior Compensation Manager",
    "company": "gitlab",
    "location": "Remote, Canada; Remote, United States",
@@ -50430,6 +50641,26 @@
    ],
    "french": false,
    "search": "senior analytics engineer mercury san francisco, ca, new york, ny, portland, or, or remote within canada or united states greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior Analyst",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7804955003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior analyst affirm remote canada greenhouse other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -50714,6 +50945,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Principal Software Engineer, Product Engineering",
+   "company": "dropbox",
+   "location": "Remote - Canada: Select locations",
+   "url": "https://jobs.dropbox.com/listing/8261916?gh_jid=8261916",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobs.dropbox.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "principal software engineer, product engineering dropbox remote - canada: select locations jobs.dropbox.com other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Principal Site Reliability Engineer, Platform Engineering: Dedicated",
    "company": "gitlab",
    "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
@@ -50794,6 +51045,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Platform Marketing Lead",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8012916003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "platform marketing lead affirm remote canada greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Pipeline Programs Manager",
    "company": "gitlab",
    "location": "Remote, Canada; Remote, United States",
@@ -50830,6 +51101,26 @@
    ],
    "french": false,
    "search": "payroll operations specialist mercury san francisco, ca, new york, ny, portland, or, or remote within canada or united states greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Partner Marketing Lead",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8038927003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "partner marketing lead affirm remote canada greenhouse other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -50875,6 +51166,37 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/operations-enablement-manager-at-affirm-4483661487",
      "label": "LinkedIn · Oshawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Operations Enablement Lead",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860705003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "operations enablement lead affirm remote canada greenhouse other readme role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/operations-enablement-lead-at-affirm-4457447315",
+     "label": "LinkedIn · Oshawa"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/operations-enablement-lead-at-affirm-4457458254",
+     "label": "LinkedIn · Kitchener"
     }
    ]
   },
@@ -51173,6 +51495,26 @@
    ],
    "french": false,
    "search": "legal operations lead elevenlabs remote ashby other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Lead, Technical Account Management (SMB Merchants)",
+   "company": "affirm",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7849659003",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "lead, technical account management (smb merchants) affirm remote canada greenhouse other readme role fit canada / remote",
    "alternates": []
   },
   {
@@ -51995,6 +52337,26 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
+   "company": "gitlab",
+   "location": "Remote, Canada",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922427002",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "backend engineer, source code: repository services (ruby) gitlab remote, canada greenhouse other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Backend Engineer, Knowledge Graph",
    "company": "gitlab",
    "location": "Remote, Canada; Remote, United States",
@@ -52242,377 +52604,6 @@
    ],
    "french": false,
    "search": "ai deployment manager, scale cursor remote ashby other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Underwriting/Credit Model Risk Senior Manager - Machine Learning",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7822288003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "underwriting/credit model risk senior manager - machine learning affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Staff Software Engineer, Mobile (App Infrastructure)",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "staff software engineer, mobile (app infrastructure) affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Staff Product Manager, Credit & Pricing",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8006359003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "staff product manager, credit & pricing affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Software Engineer II - CIAM",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "software engineer ii - ciam affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Technical Program Manager",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7832312003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior technical program manager affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Staff Software Engineer, Backend (Compute Platform)",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8057950003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior staff software engineer, backend (compute platform) affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Sales Engineer",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8016835003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior sales engineer affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Product Manager, Credit & Pricing",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior product manager, credit & pricing affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Manager, Technical Recruiting",
-   "company": "affirm",
-   "location": "Remote UK",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7895270003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior manager, technical recruiting affirm remote uk greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Full Stack Engineer",
-   "company": "jobgether",
-   "location": "Canada",
-   "url": "https://jobs.lever.co/jobgether/64dc0908-98ed-4344-9de3-250c7c465001",
-   "note": "via gx10--2026-11-05--v18.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior full stack engineer jobgether canada lever other via gx10--2026-11-05--v18.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Corporate Enterprise Platform Engineer, Windows",
-   "company": "dropbox",
-   "location": "Remote - Canada: Select locations",
-   "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.dropbox.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior corporate enterprise platform engineer, windows dropbox remote - canada: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Analyst",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7804955003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior analyst affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Software Engineer, Product Engineering",
-   "company": "dropbox",
-   "location": "Remote - Canada: Select locations",
-   "url": "https://jobs.dropbox.com/listing/8261916?gh_jid=8261916",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.dropbox.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal software engineer, product engineering dropbox remote - canada: select locations jobs.dropbox.com other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Platform Marketing Lead",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8012916003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "platform marketing lead affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Partner Marketing Lead",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8038927003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "partner marketing lead affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Operations Enablement Lead",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860705003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "operations enablement lead affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/operations-enablement-lead-at-affirm-4457447315",
-     "label": "LinkedIn · Oshawa"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/operations-enablement-lead-at-affirm-4457458254",
-     "label": "LinkedIn · Kitchener"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Lead, Technical Account Management (SMB Merchants)",
-   "company": "affirm",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7849659003",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "lead, technical account management (smb merchants) affirm remote canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
-   "company": "gitlab",
-   "location": "Remote, Canada",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922427002",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "backend engineer, source code: repository services (ruby) gitlab remote, canada greenhouse other via round11-cached--2026-11-05--v17.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -53398,6 +53389,44 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Staff Experience Designer",
+   "company": "instacart",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "url": "https://instacart.careers/job/?gh_jid=8084090",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "instacart.careers",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "staff experience designer instacart canada - remote (on, ab, bc, or ns only) instacart.careers other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Staff Data Scientist",
+   "company": "toast",
+   "location": "Canada",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8052293",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "careers.toasttab.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "staff data scientist toast canada careers.toasttab.com other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Staff Brand Designer",
    "company": "mercury",
    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
@@ -53740,6 +53769,25 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "Senior Data Scientist, Product",
+   "company": "coinbase",
+   "location": "Remote - UK",
+   "url": "https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "coinbase.com",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior data scientist, product coinbase remote - uk coinbase.com other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Senior Data Scientist, Guest & Host",
    "company": "airbnb",
    "location": "Remote",
@@ -53975,6 +54023,25 @@
    ],
    "french": false,
    "search": "prime sales trader coinbase remote - uk coinbase.com other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "People Generalist",
+   "company": "twilio",
+   "location": "Remote - Canada",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8256423",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "people generalist twilio remote - canada greenhouse other readme canada / remote",
    "alternates": []
   },
   {
@@ -54707,6 +54774,46 @@
   },
   {
    "posted": "2026-11-02",
+   "title": "DevOps + Go (Platform Engineer )",
+   "company": "jobgether",
+   "location": "Portugal",
+   "url": "https://jobs.lever.co/jobgether/17f99cc6-aafa-417f-bff3-5d0d0fbdbd28",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "devops + go (platform engineer ) jobgether portugal lever other readme role fit",
+   "alternates": [
+    {
+     "source": "Lever",
+     "url": "https://jobs.lever.co/jobgether/286bf9c6-88c2-4263-8dba-16f1358d1763",
+     "label": "Lever · Belgium"
+    },
+    {
+     "source": "Lever",
+     "url": "https://jobs.lever.co/jobgether/5110ecf3-662a-4260-b83a-971e32f53637",
+     "label": "Lever · Canada"
+    },
+    {
+     "source": "Lever",
+     "url": "https://jobs.lever.co/jobgether/fe1ae855-7487-4090-9e9b-bb74ca1c77da",
+     "label": "Lever · Turkey"
+    },
+    {
+     "source": "Lever",
+     "url": "https://jobs.lever.co/jobgether/b9b2d144-4913-4050-b78f-c52ae05469bc",
+     "label": "Lever · UK"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-02",
    "title": "Desktop Deployment Specialist",
    "company": "Harris",
    "location": "Ottawa, Ottawa region",
@@ -55084,122 +55191,6 @@
    "french": false,
    "search": "ai transformation owner, product & design gitlab remote, canada; remote, united kingdom; remote, united states greenhouse other readme canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Staff Experience Designer",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8084090",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "staff experience designer instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v17.md canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Staff Data Scientist",
-   "company": "toast",
-   "location": "Canada",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8052293",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "staff data scientist toast canada careers.toasttab.com other via round11-cached--2026-11-05--v17.md canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Data Scientist, Product",
-   "company": "coinbase",
-   "location": "Remote - UK",
-   "url": "https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "coinbase.com",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior data scientist, product coinbase remote - uk coinbase.com other via round11-cached--2026-11-05--v17.md canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "People Generalist",
-   "company": "twilio",
-   "location": "Remote - Canada",
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8256423",
-   "note": "via round11-cached--2026-11-05--v17.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "people generalist twilio remote - canada greenhouse other via round11-cached--2026-11-05--v17.md canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "DevOps + Go (Platform Engineer )",
-   "company": "jobgether",
-   "location": "Portugal",
-   "url": "https://jobs.lever.co/jobgether/17f99cc6-aafa-417f-bff3-5d0d0fbdbd28",
-   "note": "via gx10--2026-11-05--v18.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "devops + go (platform engineer ) jobgether portugal lever other via gx10--2026-11-05--v18.md role fit",
-   "alternates": [
-    {
-     "source": "Lever",
-     "url": "https://jobs.lever.co/jobgether/286bf9c6-88c2-4263-8dba-16f1358d1763",
-     "label": "Lever · Belgium"
-    },
-    {
-     "source": "Lever",
-     "url": "https://jobs.lever.co/jobgether/5110ecf3-662a-4260-b83a-971e32f53637",
-     "label": "Lever · Canada"
-    },
-    {
-     "source": "Lever",
-     "url": "https://jobs.lever.co/jobgether/fe1ae855-7487-4090-9e9b-bb74ca1c77da",
-     "label": "Lever · Turkey"
-    },
-    {
-     "source": "Lever",
-     "url": "https://jobs.lever.co/jobgether/b9b2d144-4913-4050-b78f-c52ae05469bc",
-     "label": "Lever · UK"
-    }
-   ]
   },
   {
    "posted": "2026-11-02",
@@ -55631,6 +55622,38 @@
   },
   {
    "posted": "2026-11-01",
+   "title": "Principal Solution Architect- ServiceNow",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "principal solution architect- servicenow servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "careers.servicenow.com",
+     "url": "https://careers.servicenow.com/jobs/744000158575719/principal-solution-architect-servicenow/",
+     "label": "careers.servicenow.com · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5947778885",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-01",
    "title": "ServiceNow System Admin – Enterprise IT & CX",
    "company": "JobLeads",
    "location": "Toronto, ON",
@@ -56002,6 +56025,60 @@
    "french": false,
    "search": "marketing cloud (agentforce marketing) specialist, askuity the home depot canada mississauga, on careers.homedepot.ca salesforce readme salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "Salesforce Platform Developer",
+   "company": "Altus Group",
+   "location": "Toronto, Ontario",
+   "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce platform developer altus group toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "jobs.lererhippeau.com",
+     "url": "https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer",
+     "label": "jobs.lererhippeau.com · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "Senior Salesforce Developer",
+   "company": "Docebo",
+   "location": "Toronto, Ontario",
+   "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
+   "note": "via buffy-scan60d--2026-11-04--v10.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Ashby",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer docebo toronto, ontario ashby salesforce via buffy-scan60d--2026-11-04--v10.md salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5948997248",
+     "label": "Adzuna · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-01",
@@ -59674,38 +59751,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "Principal Solution Architect- ServiceNow",
-   "company": "ServiceNow",
-   "location": "Toronto, Canada",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719",
-   "note": "via copilot-nextwave--2026-11-03--v37.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "principal solution architect- servicenow servicenow toronto, canada smartrecruiters servicenow via copilot-nextwave--2026-11-03--v37.md servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000158575719/principal-solution-architect-servicenow/",
-     "label": "careers.servicenow.com · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5947778885",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-31",
    "title": "Business Analyst - ServiceNow",
    "company": "Artech LLC",
    "location": "Ottawa, Ottawa region",
@@ -60188,33 +60233,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "Salesforce Platform Developer",
-   "company": "Reonomy / Altus Group",
-   "location": "Toronto, ON, Canada",
-   "url": "https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer",
-   "note": "lererhippeau",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.lererhippeau.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce platform developer reonomy / altus group toronto, on, canada jobs.lererhippeau.com salesforce lererhippeau salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Workday ATS",
-     "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
-     "label": "Workday ATS · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-31",
    "title": "Salesforce Support Analyst",
    "company": "Diverse Lynx",
    "location": "Halifax, Halifax region",
@@ -60395,38 +60413,6 @@
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5940717825?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Sr. Consultant, Value Excellence",
-   "company": "ServiceNow",
-   "location": "Toronto, Canada",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158578039",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. consultant, value excellence servicenow toronto, canada smartrecruiters servicenow readme servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000158578039/sr-consultant-value-excellence/",
-     "label": "careers.servicenow.com · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5947777987",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -61439,6 +61425,27 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "RevOps Workflow Automation Manager (VN43206)",
+   "company": "Sage",
+   "location": "Toronto, ON; hybrid 3d",
+   "url": "https://sagehr.my.salesforce-sites.com/careers/fRecruit__ApplyJob?vacancyNo=VN43206",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "sagehr.my.salesforce-sites.com",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Automation",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "revops workflow automation manager (vn43206) sage toronto, on; hybrid 3d sagehr.my.salesforce-sites.com salesforce readme automation role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-31",
    "title": "Technology Risk & Compliance Manager, Deloitte Global Audit and Assurance",
    "company": "Deloitte",
    "location": "Toronto, Ontario, Canada",
@@ -61566,33 +61573,6 @@
   {
    "posted": "2026-10-31",
    "title": "Senior Business Analyst",
-   "company": "Klick",
-   "location": "Toronto, Ontario, ca",
-   "url": "https://jobs.smartrecruiters.com/klick1/744000158832490",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 30,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior business analyst klick toronto, ontario, ca smartrecruiters other readme consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948018024",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Senior Business Analyst",
    "company": "Mindlance",
    "location": "Toronto, Ontario",
    "url": "https://www.adzuna.ca/details/5948026702",
@@ -61693,27 +61673,6 @@
    ],
    "french": false,
    "search": "hiring business analyst in toronto, on artech llc toronto, ontario adzuna other readme consulting/ba role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Cloud Automation & DevOps Engineer",
-   "company": "Epsilon Solutions LTD",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948024065",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 30,
-   "matchReasons": [
-    "Automation",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "cloud automation & devops engineer epsilon solutions ltd toronto, ontario adzuna other readme automation role fit toronto area",
    "alternates": []
   },
   {
@@ -62193,13 +62152,7 @@
    ],
    "french": false,
    "search": "specialist, cloud and ai finops air canada ltd. toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948276470",
-     "label": "Adzuna · Toronto"
-    }
-   ]
+   "alternates": []
   },
   {
    "posted": "2026-10-31",
@@ -63222,9 +63175,9 @@
   {
    "posted": "2026-10-31",
    "title": "IT Ops (Operation & Support) Manager",
-   "company": "North Horizon Holdings Inc.",
+   "company": "North Horizon",
    "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948276309",
+   "url": "https://www.adzuna.ca/details/5948277169",
    "note": "readme",
    "family": "other",
    "familyLabel": "Other",
@@ -63236,14 +63189,8 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "it ops (operation & support) manager north horizon holdings inc. toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948277169",
-     "label": "Adzuna · Toronto"
-    }
-   ]
+   "search": "it ops (operation & support) manager north horizon toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-10-31",
@@ -63364,32 +63311,6 @@
    "french": false,
    "search": "full stack engineer hour consulting corporation toronto, ontario adzuna other readme role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Full Stack Developer(Java, Angular, Spring Boot)",
-   "company": "Epsilon Solutions LTD",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948024053",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "full stack developer(java, angular, spring boot) epsilon solutions ltd toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948016269",
-     "label": "Adzuna · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-10-31",
@@ -64280,9 +64201,9 @@
   {
    "posted": "2026-10-31",
    "title": "Director, HR Operational Excellence",
-   "company": "Extendicare-1",
+   "company": "Extendicare",
    "location": "Markham, York region",
-   "url": "https://www.adzuna.ca/details/5948276315",
+   "url": "https://www.adzuna.ca/details/5948276338",
    "note": "readme",
    "family": "other",
    "familyLabel": "Other",
@@ -64293,13 +64214,8 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "director, hr operational excellence extendicare-1 markham, york region adzuna other readme toronto area",
+   "search": "director, hr operational excellence extendicare markham, york region adzuna other readme toronto area",
    "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948276338",
-     "label": "Adzuna · Markham"
-    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946724902?utm_medium=api&utm_source=54ce986e",
@@ -65238,23 +65154,6 @@
      "label": "LinkedIn · Ottawa"
     }
    ]
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Développeur · euse généraliste (Développeur · euse de produits numériques)",
-   "company": "House of Commons  / Chambre des communes",
-   "location": "Ottawa, Ottawa region",
-   "url": "https://www.adzuna.ca/details/5947987968",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 0,
-   "matchReasons": [],
-   "french": true,
-   "search": "developpeur · euse generaliste (developpeur · euse de produits numeriques) house of commons  / chambre des communes ottawa, ottawa region adzuna other readme ",
-   "alternates": []
   },
   {
    "posted": "2026-10-31",
@@ -66358,27 +66257,6 @@
      "label": "Adzuna · Regent Park"
     }
    ]
-  },
-  {
-   "posted": "2026-10-30",
-   "title": "Senior Salesforce Developer",
-   "company": "Docebo",
-   "location": "Toronto, Ontario",
-   "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
-   "note": "via buffy-scan60d--2026-11-04--v10.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Ashby",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer docebo toronto, ontario ashby salesforce via buffy-scan60d--2026-11-04--v10.md salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-10-30",
@@ -67517,6 +67395,27 @@
    ],
    "french": false,
    "search": "sr business analyst - toronto, on (5 days on-site) amicis global toronto, ontario adzuna other readme consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Senior Business Analyst",
+   "company": "Klick",
+   "location": "Toronto, Ontario, ca",
+   "url": "https://jobs.smartrecruiters.com/klick1/744000158832490",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior business analyst klick toronto, ontario, ca smartrecruiters other readme consulting/ba role fit toronto area",
    "alternates": []
   },
   {
@@ -69678,6 +69577,27 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Senior ServiceNow Developer",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - TX",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "ServiceNow Senior Technical Advisor (432829)",
    "company": "Bell",
    "location": "Toronto / Montreal",
@@ -70760,13 +70680,7 @@
    ],
    "french": false,
    "search": "sr. business analyst-training and change management cleo consulting regent park, city of toronto adzuna other readme itsm consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946061204",
-     "label": "Adzuna · Regent Park"
-    }
-   ]
+   "alternates": []
   },
   {
    "posted": "2026-10-29",
@@ -70809,6 +70723,33 @@
    "french": false,
    "search": "digital consultant, cpq/logik zaelab canada linkedin other readme salesforce role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "Sr. Consultant, Value Excellence",
+   "company": "ServiceNow",
+   "location": "Toronto, Canada",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158578039",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. consultant, value excellence servicenow toronto, canada smartrecruiters servicenow readme servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "careers.servicenow.com",
+     "url": "https://careers.servicenow.com/jobs/744000158578039/sr-consultant-value-excellence/",
+     "label": "careers.servicenow.com · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-10-29",
@@ -71691,6 +71632,27 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Senior Business Analyst, Loan Servicing Technology",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Business-Analyst--Loan-Servicing-Technology_R260029892",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior business analyst, loan servicing technology bmo toronto, on, can workday ats other readme consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "Network Operations Analyst (R-0000191399)",
    "company": "RBC",
    "location": "Toronto, ON",
@@ -71757,27 +71719,6 @@
      "label": "LinkedIn · Toronto"
     }
    ]
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Senior Business Analyst, Loan Servicing Technology",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Business-Analyst--Loan-Servicing-Technology_R260029892",
-   "note": "via buffy-scan60d--2026-11-04--v10.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 30,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior business analyst, loan servicing technology bmo toronto, on, can workday ats other via buffy-scan60d--2026-11-04--v10.md consulting/ba role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-10-29",
@@ -72762,9 +72703,9 @@
   {
    "posted": "2026-10-29",
    "title": "Digital Consulting Manager – Oracle Cloud HCM Time & Labor/Absence",
-   "company": "Huron Consulting Group Inc.",
+   "company": "Huron",
    "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5946003157",
+   "url": "https://www.adzuna.ca/details/5946009564",
    "note": "readme",
    "family": "other",
    "familyLabel": "Other",
@@ -72776,14 +72717,8 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "digital consulting manager – oracle cloud hcm time & labor/absence huron consulting group inc. toronto, ontario adzuna other readme role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946009564",
-     "label": "Adzuna · Toronto"
-    }
-   ]
+   "search": "digital consulting manager – oracle cloud hcm time & labor/absence huron toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-10-29",
@@ -73047,6 +72982,26 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Full Stack Developer",
+   "company": "jobgether",
+   "location": "Canada",
+   "url": "https://jobs.lever.co/jobgether/2cc3270a-ca37-4028-82e7-6846a31e8378",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "full stack developer jobgether canada lever other readme role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "EverCommerce - Staff Engineer",
    "company": "EverCommerce Solutions",
    "location": "Canada",
@@ -73155,26 +73110,6 @@
    ],
    "french": false,
    "search": "analyste d'affaires - solutions marche des capitaux astek montreal, quebec, canada linkedin other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Full Stack Developer",
-   "company": "jobgether",
-   "location": "Canada",
-   "url": "https://jobs.lever.co/jobgether/2cc3270a-ca37-4028-82e7-6846a31e8378",
-   "note": "via gx10--2026-11-05--v18.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "full stack developer jobgether canada lever other via gx10--2026-11-05--v18.md role fit canada / remote",
    "alternates": []
   },
   {
@@ -73742,6 +73677,25 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "DevOps Engineer- Blockchain Infrastructure",
+   "company": "jobgether",
+   "location": "UK",
+   "url": "https://jobs.lever.co/jobgether/b3092b25-014f-4dff-8543-d04c0281b9c0",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Lever",
+   "verified": "Employer board",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "devops engineer- blockchain infrastructure jobgether uk lever other readme role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "Adzuna 5946003467",
    "company": "The Stafford Gray Group",
    "location": "Canada",
@@ -73757,25 +73711,6 @@
    ],
    "french": false,
    "search": "adzuna 5946003467 the stafford gray group canada adzuna other readme canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "DevOps Engineer- Blockchain Infrastructure",
-   "company": "jobgether",
-   "location": "UK",
-   "url": "https://jobs.lever.co/jobgether/b3092b25-014f-4dff-8543-d04c0281b9c0",
-   "note": "via gx10--2026-11-05--v18.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "devops engineer- blockchain infrastructure jobgether uk lever other via gx10--2026-11-05--v18.md role fit",
    "alternates": []
   },
   {
@@ -73984,6 +73919,27 @@
    ],
    "french": false,
    "search": "technical service now, lead (6-month contract) interac corp. toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Developer",
+   "company": "9th Way Insignia",
+   "location": "United States - Remote",
+   "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
+   "note": "greenhouse",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer 9th way insignia united states - remote greenhouse servicenow greenhouse servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -74362,6 +74318,33 @@
    "french": false,
    "search": "salesforce architect avanciers inc. toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "software engineer ii (salesforce loyalty management developer) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5944333365?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada"
+    }
+   ]
   },
   {
    "posted": "2026-10-28",
@@ -75774,7 +75757,7 @@
    "company": "Medcan",
    "location": "Toronto",
    "url": "https://medcan.wd10.myworkdayjobs.com/en-US/Medcan/job/Toronto/Marketing-Cloud-Specialist_MED02574",
-   "note": "via buffy-scan60d--2026-11-04--v10.md",
+   "note": "readme",
    "family": "salesforce",
    "familyLabel": "Salesforce",
    "source": "Workday ATS",
@@ -75786,7 +75769,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "marketing cloud specialist medcan toronto workday ats salesforce via buffy-scan60d--2026-11-04--v10.md salesforce role fit toronto area",
+   "search": "marketing cloud specialist medcan toronto workday ats salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -77723,7 +77706,7 @@
    "company": "Bell",
    "location": "Toronto, ON / Montreal, QC",
    "url": "https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator",
-   "note": "via buffy-second-round--2026-11-02--v111.md",
+   "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "jobs.bell.ca",
@@ -77735,7 +77718,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "servicenow system administrator bell toronto, on / montreal, qc jobs.bell.ca servicenow via buffy-second-round--2026-11-02--v111.md servicenow role fit toronto area",
+   "search": "servicenow system administrator bell toronto, on / montreal, qc jobs.bell.ca servicenow readme servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -82399,7 +82382,7 @@
    "company": "Ontario Cannabis Store (OCS)",
    "location": "Toronto, ON",
    "url": "https://builtin.com/job/senior-grc-specialist/11656090",
-   "note": "via inbox_opencode-job-hunt-deepdive--2026-11-11--v1.md",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "BuiltIn",
@@ -82411,7 +82394,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior grc specialist ontario cannabis store (ocs) toronto, on builtin other via inbox_opencode-job-hunt-deepdive--2026-11-11--v1.md risk/grc role fit toronto area",
+   "search": "senior grc specialist ontario cannabis store (ocs) toronto, on builtin other readme risk/grc role fit toronto area",
    "alternates": []
   },
   {
@@ -82476,33 +82459,6 @@
    "french": false,
    "search": "sas/python developer (full-time, hybrid) adastra markham, ontario, canada linkedin other readme data/reporting role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-10-21",
-   "title": "Senior Business Analyst, Portfolio Servicing Platform (12-Month Contract)",
-   "company": "OMERS",
-   "location": "Toronto, Ontario",
-   "url": "https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/job/Toronto-Ontario/Senior-Business-Analyst--Portfolio-Servicing-Platform--12-Month-Contract-_JR-8519",
-   "note": "via buffy-scan60d--2026-11-04--v10.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 30,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior business analyst, portfolio servicing platform (12-month contract) omers toronto, ontario workday ats other via buffy-scan60d--2026-11-04--v10.md consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5936496496",
-     "label": "Adzuna · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-10-21",
@@ -83017,7 +82973,7 @@
    "company": "Brex",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://www.brex.com/careers/8904121002?gh_jid=8904121002",
-   "note": "via buffy-scan60d--2026-11-04--v10.md",
+   "note": "readme",
    "family": "salesforce",
    "familyLabel": "Salesforce",
    "source": "brex.com",
@@ -83029,7 +82985,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "engineering manager, salesforce brex vancouver, british columbia, canada brex.com salesforce via buffy-scan60d--2026-11-04--v10.md salesforce role fit canada / remote",
+   "search": "engineering manager, salesforce brex vancouver, british columbia, canada brex.com salesforce readme salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -83436,11 +83392,32 @@
   },
   {
    "posted": "2026-10-19",
+   "title": "Product Developer, Salesforce",
+   "company": "NeuraFlash",
+   "location": "Remote - India (Bangalore, Hyderabad, Pune or Delhi Only)",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6228534004",
+   "note": "greenhouse",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "product developer, salesforce neuraflash remote - india (bangalore, hyderabad, pune or delhi only) greenhouse salesforce greenhouse salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-19",
    "title": "Staff Information Security Analyst",
    "company": "ServiceNow",
    "location": "Toronto, ON",
    "url": "https://careers.servicenow.com/jobs/744000156415909/staff-information-security-analyst/",
-   "note": "via bestiejob-scan--2026-11-08--v7.md",
+   "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "careers.servicenow.com",
@@ -83452,7 +83429,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "staff information security analyst servicenow toronto, on careers.servicenow.com servicenow via bestiejob-scan--2026-11-08--v7.md servicenow role fit toronto area",
+   "search": "staff information security analyst servicenow toronto, on careers.servicenow.com servicenow readme servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -83461,7 +83438,7 @@
    "company": "ServiceNow",
    "location": "Toronto, Ontario, Canada",
    "url": "https://careers.servicenow.com/jobs/744000156422439/staff-compliance-analyst/",
-   "note": "via inbox_sn_sf_careers--2026-11-11--v1.md",
+   "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "careers.servicenow.com",
@@ -83473,7 +83450,28 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "staff compliance analyst servicenow toronto, ontario, canada careers.servicenow.com servicenow via inbox_sn_sf_careers--2026-11-11--v1.md servicenow role fit toronto area",
+   "search": "staff compliance analyst servicenow toronto, ontario, canada careers.servicenow.com servicenow readme servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-19",
+   "title": "Senior Business Analyst, Portfolio Servicing Platform (12-Month Contract)",
+   "company": "OMERS",
+   "location": "Toronto, Ontario",
+   "url": "https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/job/Toronto-Ontario/Senior-Business-Analyst--Portfolio-Servicing-Platform--12-Month-Contract-_JR-8519",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior business analyst, portfolio servicing platform (12-month contract) omers toronto, ontario workday ats other readme consulting/ba role fit toronto area",
    "alternates": []
   },
   {
@@ -83671,7 +83669,7 @@
    "company": "Tekgence Inc",
    "location": "Toronto, ON",
    "url": "https://www.jobs.ca/tekgence-inc/jobs/servicenow-developer-toronto-on-173ede1d1492",
-   "note": "via inbox_opencode-job-hunt-deepdive--2026-11-11--v1.md",
+   "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "jobs.ca",
@@ -83684,7 +83682,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "servicenow developer - grc/irm tekgence inc toronto, on jobs.ca servicenow via inbox_opencode-job-hunt-deepdive--2026-11-11--v1.md servicenow risk/grc role fit toronto area",
+   "search": "servicenow developer - grc/irm tekgence inc toronto, on jobs.ca servicenow readme servicenow risk/grc role fit toronto area",
    "alternates": []
   },
   {
@@ -83968,7 +83966,7 @@
    "company": "ZenithInfotek LLC",
    "location": "Toronto, ON - Remote",
    "url": "https://www.jobs.ca/zenithinfotek-llc/jobs/servicenow-developer-with-grc-expertise-remote-toronto-ontario-canada-3b9473930ac0",
-   "note": "via inbox_opencode-job-hunt-deepdive--2026-11-11--v1.md",
+   "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "jobs.ca",
@@ -83981,7 +83979,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "servicenow developer with grc expertise zenithinfotek llc toronto, on - remote jobs.ca servicenow via inbox_opencode-job-hunt-deepdive--2026-11-11--v1.md servicenow risk/grc role fit toronto area",
+   "search": "servicenow developer with grc expertise zenithinfotek llc toronto, on - remote jobs.ca servicenow readme servicenow risk/grc role fit toronto area",
    "alternates": []
   },
   {
@@ -84172,6 +84170,27 @@
    ],
    "french": false,
    "search": "salesforce communications cloud architect tata consultancy services toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-15",
+   "title": "Salesforce Consultant, Revenue Cloud",
+   "company": "NeuraFlash",
+   "location": "Remote - India (Delhi/NCR, Hyderabad, Bangalore, Pune, Jaipur Only)",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6225384004",
+   "note": "greenhouse",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce consultant, revenue cloud neuraflash remote - india (delhi/ncr, hyderabad, bangalore, pune, jaipur only) greenhouse salesforce greenhouse salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -84783,7 +84802,7 @@
    "company": "Lightspeed Commerce",
    "location": "Montreal",
    "url": "https://jobs.ashbyhq.com/lightspeedhq/50acfe97-e9f3-4c5a-b507-10d69bd3d621",
-   "note": "via buffy-scan60d--2026-11-04--v10.md",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "Ashby",
@@ -84794,7 +84813,7 @@
     "Quebec"
    ],
    "french": false,
-   "search": "lead data analyst, growth marketing lightspeed commerce montreal ashby other via buffy-scan60d--2026-11-04--v10.md role fit quebec",
+   "search": "lead data analyst, growth marketing lightspeed commerce montreal ashby other readme role fit quebec",
    "alternates": [
     {
      "source": "Ashby",
@@ -84849,6 +84868,27 @@
    ],
    "french": false,
    "search": "servicenow developer levio toronto, on, canada builtin servicenow builtin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-12",
+   "title": "Senior ServiceNow Engineer",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - FL",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow engineer resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -84926,6 +84966,48 @@
      "label": "LinkedIn · Canada"
     }
    ]
+  },
+  {
+   "posted": "2026-10-12",
+   "title": "Salesforce Technical Architect",
+   "company": "NeuraFlash",
+   "location": "Remote - United States",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222636004",
+   "note": "greenhouse",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce technical architect neuraflash remote - united states greenhouse salesforce greenhouse salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-12",
+   "title": "Salesforce Solution Architect, Revenue Cloud",
+   "company": "NeuraFlash",
+   "location": "Remote - United States",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6222626004",
+   "note": "greenhouse",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce solution architect, revenue cloud neuraflash remote - united states greenhouse salesforce greenhouse salesforce role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-10-10",
@@ -85098,27 +85180,6 @@
   },
   {
    "posted": "2026-10-08",
-   "title": "Salesforce Administrator – Aviva – Toronto, ON / Placetohire",
-   "company": "Aviva – Toronto, ON / Placetohire",
-   "location": "Canada",
-   "url": "https://placetohire.com/jobs/description/salesforce-administrator/59124977",
-   "note": "exa",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "placetohire.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce administrator – aviva – toronto, on / placetohire aviva – toronto, on / placetohire canada placetohire.com salesforce exa salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-08",
    "title": "Salesforce Project Manager",
    "company": "NeuraFlash",
    "location": "Remote - United States",
@@ -85136,6 +85197,27 @@
    ],
    "french": false,
    "search": "salesforce project manager neuraflash remote - united states greenhouse salesforce greenhouse salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-08",
+   "title": "Salesforce Administrator – Aviva – Toronto, ON / Placetohire",
+   "company": "Aviva – Toronto, ON / Placetohire",
+   "location": "Canada",
+   "url": "https://placetohire.com/jobs/description/salesforce-administrator/59124977",
+   "note": "exa",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "placetohire.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce administrator – aviva – toronto, on / placetohire aviva – toronto, on / placetohire canada placetohire.com salesforce exa salesforce role fit canada / remote",
    "alternates": []
   },
   {
