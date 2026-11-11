@@ -102,3 +102,21 @@ before pushing: regenerating from a stale inbox silently shrinks the board.
 - CIBC is excluded (user ineligible until ~Apr 2027) — envelope rule for imports.
 - Adzuna's newest record is usually yesterday; "posted today" only comes from
   Workday-style ATS feeds.
+
+## Skill 8 — agencies + third-party job boards
+
+```bash
+python3 scripts/agency_board_scan.py --dry-run      # nothing written
+python3 scripts/agency_board_scan.py                # writes inbox/agency-board--<date>--v1.md
+python3 tools/jobs_merge_inbox.py --dry-run         # confirm it parses
+```
+
+Feeds live in `config/agency_boards.json`. A source is enabled only after one of
+its postings proves it states an absolute posting date; the `adapter` field says
+how that board exposes it (`jsonld`, `dice`, `page_text`). Randstad, TEKsystems
+and Eluta are enabled:false because their listing pages are client-side — do not
+"fix" that by inventing dates from search snippets.
+
+Three rules learned the hard way: the employer comes from the posting (Built In
+puts it in the page title), a job *at* ServiceNow is not a ServiceNow role, and
+vendor sales titles are excluded.

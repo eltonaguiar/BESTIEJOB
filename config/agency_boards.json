@@ -1,0 +1,77 @@
+{
+ "_comment": "Agency + job-board feeds that publish an ABSOLUTE posting date on the posting itself. Each source was verified by local_tools/detail_probe.py before being enabled; `adapter` records HOW that board exposes the date, because they differ. Randstad, TEKsystems, Eluta and Talent.com are listed but disabled: their search pages render job links client-side, so no rows can be harvested without a headless browser.",
+ "merge_into": "inbox/agency-board--<date>--v1.md",
+ "sources": [
+  {
+   "name": "CareerBeacon",
+   "adapter": "jsonld",
+   "enabled": true,
+   "base_url": "https://www.careerbeacon.com",
+   "search_urls": [
+    "https://www.careerbeacon.com/en/search?q=servicenow",
+    "https://www.careerbeacon.com/en/search?q=salesforce"
+   ],
+   "link_re": "/en/job/\\d+/[a-z0-9-]+"
+  },
+  {
+   "name": "Dice",
+   "adapter": "dice",
+   "enabled": true,
+   "search_urls": [
+    "https://www.dice.com/jobs?q=servicenow&location=Toronto,%20ON,%20Canada",
+    "https://www.dice.com/jobs?q=salesforce&location=Toronto,%20ON,%20Canada"
+   ],
+   "link_re": "https://www\\.dice\\.com/job-detail/[a-f0-9-]{20,}"
+  },
+  {
+   "name": "Procom",
+   "adapter": "jsonld",
+   "enabled": true,
+   "sitemap_url": "https://myprocom-portal.procomservices.com/sitemap.xml",
+   "search_urls": [
+    "https://myprocom-portal.procomservices.com/jobs"
+   ],
+   "link_re": "https://myprocom-portal\\.procomservices\\.com/jobs/[a-z0-9][a-z0-9-]{4,}"
+  },
+  {
+   "name": "Built In Toronto",
+   "adapter": "page_text",
+   "enabled": true,
+   "search_urls": [
+    "https://builtintoronto.com/jobs?search=servicenow",
+    "https://builtintoronto.com/jobs?search=salesforce"
+   ],
+   "link_re": "https://builtintoronto\\.com/job/[a-z0-9-]+/\\d+"
+  },
+  {
+   "name": "Randstad Canada",
+   "adapter": "jsonld",
+   "enabled": false,
+   "search_urls": [
+    "https://www.randstad.ca/jobs/q-servicenow/"
+   ],
+   "link_re": "https://www\\.randstad\\.ca/jobs/[a-z0-9][a-z0-9-]{6,}_[a-z-]+_\\d{6,}/?",
+   "why_disabled": "search page renders links client-side; needs a headless browser"
+  },
+  {
+   "name": "TEKsystems",
+   "adapter": "jsonld",
+   "enabled": false,
+   "search_urls": [
+    "https://careers.teksystems.com/us/en/search-results?keywords=servicenow"
+   ],
+   "link_re": "https://careers\\.teksystems\\.com/[a-z]{2}/[a-z]{2}/job/JP-\\d+/[A-Za-z0-9-]+",
+   "why_disabled": "Phenom search results are client-side"
+  },
+  {
+   "name": "Eluta",
+   "adapter": "jsonld",
+   "enabled": false,
+   "search_urls": [
+    "https://www.eluta.ca/search?q=servicenow&l=toronto"
+   ],
+   "link_re": "https://www\\.eluta\\.ca/job/[A-Za-z0-9_-]{6,}",
+   "why_disabled": "no server-rendered job links"
+  }
+ ]
+}
