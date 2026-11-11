@@ -77,3 +77,12 @@ site build          : site: 4819 jobs {'servicenow': 779, 'salesforce': 845, 'ot
   rules.` with `ratchet … no kind grew`, exit 0.
 * `scripts/fix_counts_r8.py` → headers = TOC = `Show N postings` = headline = actual rows.
 * `readme_job_row_guard.py --base origin/main` → PASS (16-row removal, documented).
+
+## One more thing found while verifying
+
+Removing the rows re-serialised `jobs.json` with `ensure_ascii=False`, un-escaping 1,382
+lines (`D\u00e9veloppeur` became `Développeur`) and turning a 15-row removal into a
+2,700-line diff — the same churn pattern as the 190k-line diff earlier the same day. The
+feed is written back with its original escaping, so its diff is the removed rows plus the
+row count, nothing else. The public payload keeps raw UTF-8 because `tools/build_site.py`
+writes it that way; that diff is content, not encoding.
