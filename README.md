@@ -538,9 +538,9 @@ _developer / administrator / architect / consultant roles_
 <details><summary><strong>Show 503 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
-|| 2026-11-11 | [Salesforce FSC Developer](https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-corekloud-technologies-4488678111) | CoreKloud Technologies | Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
-|| 2026-11-10 | [Sr. Salesforce Developer – Financial Services Cloud](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-%E2%80%93-financial-services-cloud-at-sagen-4480274599) | Sagen | Oakville, Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
-|| 2026-11-10 | [Salesforce Product Owner](https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-bridgenext-4478614508) | Bridgenext | Greater Toronto Area, Canada | via hermes-cron--2026-11-11--v1.md |
+| 2026-11-11 | [Salesforce FSC Developer](https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-corekloud-technologies-4488678111) | CoreKloud Technologies | Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
+| 2026-11-10 | [Sr. Salesforce Developer – Financial Services Cloud](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-%E2%80%93-financial-services-cloud-at-sagen-4480274599) | Sagen | Oakville, Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
+| 2026-11-10 | [Salesforce Product Owner](https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-bridgenext-4478614508) | Bridgenext | Greater Toronto Area, Canada | via hermes-cron--2026-11-11--v1.md |
 |---|---|---|---|---|
 | 2026-11-11 | [Sr. Salesforce Developer - Recutify Inc. / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/iBzVqXluOnT6csxu5gH8e0DFqduWQ_KmF7Ck8DY1ocbGhedab84XkEoohNQC8lGh) | Recutify Inc. | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Sr. Salesforce Developer - Capgemini / Mississauga, ON](https://www.workopolis.com/jobsearch/viewjob/4OV1oUM98u4UKGt7bvRSNMdfgcTWUNAmc0Rn7cOikDYXyDHW4f586D7Msu8AmGnV) | Capgemini | Mississauga, ON | Workopolis Canada |

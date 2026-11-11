@@ -198,6 +198,8 @@ All 9 were deduped against the board (jobs.json URL set + normalized company+tit
 
 **Lesson confirmed**: fresh verified Toronto platform roles remain rare outside the :00 deep scan — this cycle's 3 merges all came from LinkedIn guest search (which worked without 429 this hour), while Adzuna (the volume source) is unverifiable from this host (403). Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced — remains the top keyword gap.
 
+**Table-format lesson (this cycle)**: README table rows must begin with a single pipe — `| 2026-11-11 | [title](url) | ...`. My first insert used `|| 2026-11-11 |` (empty first cell); the board's own audit (`scripts/board_invariants.py`) skips rows whose first cell isn't the posted date, which produced a count-disagreement (header 1502 vs tables 1499) and failed CI. Fixed by re-writing the three rows with a single leading pipe; header/TOC/`Show N postings` now agree at 503 Salesforce / 1,502 total.
+
 **Files touched**
 - `README.md` — +3 Salesforce rows, -1 corrupt row; counts: SN 500 · SF 503 · Other 499 · total 1,502
 - `jobs.json` + `public/*/jobs.json` — synced from README (2,720 rows after dropping 1 garbage row)
