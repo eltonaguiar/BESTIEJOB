@@ -159,3 +159,48 @@ All 9 were deduped against the board (jobs.json URL set + normalized company+tit
 **Merged**: 0 jobs to README.md; 0 to GitHub Pages (README unchanged → no pages.yml rebuild required).
 
 **Lesson confirmed**: null runs are the expected norm — fourth consecutive hourly cycle this date with zero verified-fresh Platform Admin/Platform Developer I Toronto entries. BuiltIn SERP "Posted X days ago" is unreliable until the detail page is loaded (stale indexes and removed markers common); always confirm liveness + absolute posted date on the detail page before adding. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced — remains the top keyword gap.
+
+## 06:00 hourly scan (this cycle) — 3 jobs merged
+
+**Date**: 2026-11-11 · **Run time**: 2026-11-11 06:00 EST (11:00 UTC) · **Branch**: main (current with the 05:00 null scan)
+
+**Result**: 3 verified-fresh Toronto-area Salesforce postings merged to README.md (ServiceNow +0 · Salesforce +3); GitHub Pages redeployed via pages.yml on push.
+
+**What was checked**
+- `scripts/daily_job_scan.mjs` full feed: Adzuna 366 · LinkedIn guest 253 · SmartRecruiters (ServiceNow careers) 13 · Workday (Salesforce, BMO, TD, Altus, etc.) 14 · Greenhouse 16 · Lever 1 · Ashby 2 · RemoteOK/Jobicy/Remotive 8 = 673 fresh candidates; window ≤30 days, Toronto/Canada/Remote geo, sales/marketing titles excluded
+- Dedupe against README.md tables (1,500 rows) + jobs.json by normalized URL and company+title keys → 145 candidates remained
+- Liveness verification via HTTP GET (detail page must return 200 with no filled/expired/removed indicator)
+
+**Merged to README.md (Salesforce table, sorted newest-first)**
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-11 | Salesforce FSC Developer | CoreKloud Technologies | Ontario, Canada | LinkedIn (live, HTTP 200) |
+| 2026-11-10 | Sr. Salesforce Developer – Financial Services Cloud | Sagen | Oakville, Ontario, Canada | LinkedIn (live, HTTP 200) |
+| 2026-11-10 | Salesforce Product Owner | Bridgenext | Greater Toronto Area, Canada | LinkedIn (live, HTTP 200) |
+
+**Already on board (duplicates, not re-added)**
+- Amyantek Intermediate Salesforce System Coordinator 5816 — same LinkedIn requisition already on board under a different URL slug (via fresh-ca--2026-11-11--v1)
+- Intact Senior Back-End Email Developer (SFMC), Altus Group Salesforce Platform Developer, CGI Salesforce Architect — already on board via Workopolis mirrors dated 2026-11-11
+- Lyft Salesforce Architect — already represented on board via startup.jobs mirror (2026-11-04)
+
+**Skipped (liveness unverifiable)**
+- Adzuna-sourced roles (Plative SF Delivery Manager, Intact SFMC Email Developer, Natural Health SF Administrator, Docebo Sr SF Developer, Wipro SN Implementation Architect): adzuna.ca returns HTTP 403 to this host and detail pages cannot be loaded, so per board rules nothing from Adzuna was added without independent verification
+
+**Partner / telco / government check (Rogers, Bell, GC, elite partners)**
+- Rogers jobs.rogers.com, Bell jobs.bce.ca/jobs.bell.ca — SN/SF appear only as filled, expired, marketing-ops, or "familiarity" duties; no fresh dated Toronto platform requisition
+- Government of Canada jobs.gc.ca / canada.ca, Ontario gojobs.gov.on.ca — zero Toronto SN/SF hits; GC platform work arrives via prime vendors on their own ATS, none fresh this cycle
+- Accenture/Deloitte/KPMG/CGI/Fujitsu/IBM/TCS/Capgemini/Wipro — vacancies already on board; no fresh dated Toronto platform requisitions
+
+**Data repair**
+- Removed a pre-existing garbled CloudJunction row from the Other table (title and URL both held JSON-LD fragments) that crashed `tools/build_site.py` (`urlparse` on `[id"`) and therefore blocked the GitHub Pages build. Other table 500→499; board total 1500→1502. This row existed on main before this run.
+
+**Merged**: 3 jobs to README.md; commit pushed to main; `pages.yml` rebuilds `public/` and redeploys GitHub Pages on the push. `jobs.json` and the four `public/*/jobs.json` feeds synced from README via `scripts/sync_readme_to_jobs.mjs`.
+
+**Lesson confirmed**: fresh verified Toronto platform roles remain rare outside the :00 deep scan — this cycle's 3 merges all came from LinkedIn guest search (which worked without 429 this hour), while Adzuna (the volume source) is unverifiable from this host (403). Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced — remains the top keyword gap.
+
+**Files touched**
+- `README.md` — +3 Salesforce rows, -1 corrupt row; counts: SN 500 · SF 503 · Other 499 · total 1,502
+- `jobs.json` + `public/*/jobs.json` — synced from README (2,720 rows after dropping 1 garbage row)
+- `public/jobs-data.json`, `public/index.html` — rebuilt via `tools/build_site.py`
+- `inbox/hermes-cron--2026-11-11--v1.md` — submission record
+- `JOBLESSONS_2026-11-11.MD` — this section

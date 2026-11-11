@@ -10,15 +10,15 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
   - [ServiceNow jobs (500)](#servicenow-jobs-500)
-  - [Salesforce jobs (500)](#salesforce-jobs-500)
-  - [Other jobs (500)](#other-jobs-500)
+  - [Salesforce jobs (503)](#salesforce-jobs-503)
+  - [Other jobs (499)](#other-jobs-499)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **1500 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **1502 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (500)
 
@@ -531,13 +531,16 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (500)
+### Salesforce jobs (503)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 500 postings</strong></summary>
+<details><summary><strong>Show 503 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
+|| 2026-11-11 | [Salesforce FSC Developer](https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-corekloud-technologies-4488678111) | CoreKloud Technologies | Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
+|| 2026-11-10 | [Sr. Salesforce Developer – Financial Services Cloud](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-%E2%80%93-financial-services-cloud-at-sagen-4480274599) | Sagen | Oakville, Ontario, Canada | via hermes-cron--2026-11-11--v1.md |
+|| 2026-11-10 | [Salesforce Product Owner](https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-bridgenext-4478614508) | Bridgenext | Greater Toronto Area, Canada | via hermes-cron--2026-11-11--v1.md |
 |---|---|---|---|---|
 | 2026-11-11 | [Sr. Salesforce Developer - Recutify Inc. / Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/iBzVqXluOnT6csxu5gH8e0DFqduWQ_KmF7Ck8DY1ocbGhedab84XkEoohNQC8lGh) | Recutify Inc. | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Sr. Salesforce Developer - Capgemini / Mississauga, ON](https://www.workopolis.com/jobsearch/viewjob/4OV1oUM98u4UKGt7bvRSNMdfgcTWUNAmc0Rn7cOikDYXyDHW4f586D7Msu8AmGnV) | Capgemini | Mississauga, ON | Workopolis Canada |
@@ -1042,15 +1045,14 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (500)
+### Other jobs (499)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 500 postings</strong></summary>
+<details><summary><strong>Show 499 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
-| 2026-11-11 | [({"@context":"https://schema.org","@graph":({"@type":("Person","Organization"),"@id":"https://cloudjunction.cloud/#person","name":"CloudJunction Advisors Inc.","logo":{"@type":"ImageObject","@id":"https://cloudjunction.cloud/#logo","url":"https://cloudjunction.cloud/wp-content/uploads/2026/04/cloudjunction-1.webp","contentUrl":"https://cloudjunction.cloud/wp-content/uploads/2026/04/cloudjunction-1.webp","caption":"CloudJunction Advisors Inc.","inLanguage":"en-US","width":"1491","height":"537"},"image":{"@type":"ImageObject","@id":"https://cloudjunction.cloud/#logo","url":"https://cloudjunction.cloud/wp-content/uploads/2026/04/cloudjunction-1.webp","contentUrl":"https://cloudjunction.cloud/wp-content/uploads/2026/04/cloudjunction-1.webp","caption":"CloudJunction Advisors Inc.","inLanguage":"en-US","width":"1491","height":"537"}},{"@type":"WebSite","@id":"https://cloudjunction.cloud/#website","url":"https://cloudjunction.cloud","name":"CloudJunction Advisors Inc.","publisher":{"@id":"https://cloudjunction.cloud/#person"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://cloudjunction.cloud/wp-content/uploads/2026/04/cloudjunction-e1770967670204.png","url":"https://cloudjunction.cloud/wp-content/uploads/2026/04/cloudjunction-e1770967670204.png","width":"483","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://cloudjunction.cloud/careers/#webpage","url":"https://cloudjunction.cloud/careers/","name":"Careers at CloudJunction](https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://cloudjunction.cloud/#person","name":"CloudJunction) | Salesforce Opportunities","datePublished":"2026-05-13T13:01:45+00:00","dateModified":"2026-09-01T09:05:25+00:00","isPartOf":{"@id":"https://cloudjunction.cloud/#website"},"primaryImageOfPage":{"@id":"https://cloudjunction.cloud/wp-content/uploads/2026/04/cloudjunction-e1770967670204.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"#","name":"Saad Khan","url":"#","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/0376454bb421dc84f97eb03150443bdd029591d54b92909c2f7bf7d3eb411b52?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/0376454bb421dc84f97eb03150443bdd029591d54b92909c2f7bf7d3eb411b52?s=96&amp;d=mm&amp;r=g","caption":"Saad Khan","inLanguage":"en-US"},"sameAs":["https://cloudjunction.cloud/"]},{"@type":"Article","headline":"Careers at CloudJunction | Salesforce Opportunities","keywords":"Careers","datePublished":"2026-05-13T13:01:45+00:00","dateModified":"2026-09-01T09:05:25+00:00","author":{"@id":"#","name":"Saad Khan"},"publisher":{"@id":"https://cloudjunction.cloud/#person"},"description":"Careers at CloudJunction include Salesforce developer, consultant, quality assurance, and product roles within a customer-focused, values-led technology team.","name":"Careers at CloudJunction | via inbox_opencode-job-hunt-exhaustive--2026-11-11--v1.md |
 | 2026-11-11 | [Staff Security Engineer / Security Engineering](https://www.workopolis.com/jobsearch/viewjob/BXQAtlL1fYOHUseDU7rboS08ywujty96WXaNsXggFOisflikVgYiVuVZypOAHX-E) | ServiceNow | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Staff Security Engineer / Enterprise Security](https://www.workopolis.com/jobsearch/viewjob/EEuAZN8ek5clxYTteWp4yQqqoFeDUSsz8xdCYqdfTiufrOHQ7fg3BwK5PXbSlsUK) | ServiceNow | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Senior Staff Security Engineer / Systems Engineering](https://www.workopolis.com/jobsearch/viewjob/TQFODEbqf0ocEe7ZYvNiF647DGzAtKRc_uOLch_M8QNa9VOkoa4cTCdN0Dt4vCqC) | ServiceNow | Toronto, ON | Workopolis Canada |
