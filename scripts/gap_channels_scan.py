@@ -291,11 +291,10 @@ def workday(counters, cutoff):
                     continue
                 title = detail.get("title", "") or posting.get("title", "")
                 if not PLATFORM.search(title):
-                    # hidden-title route: IT role word in the title AND the product name
-                    # named literally in the description (no fuzzy tokens)
-                    if not (IT_ROLE.search(title) and PRODUCT.search(detail.get("jobDescription", "")[:6000])):
-                        counters["off-topic"] += 1
-                        continue
+                    # Title-only. A description mention is not evidence: Workday JDs list
+                    # ServiceNow among tools for sales, procurement and data roles too.
+                    counters["off-topic"] += 1
+                    continue
                 rows.append({
                     "channel": "workday",
                     "company": tenant,
@@ -405,9 +404,8 @@ def workable(counters, cutoff):
                     continue
                 title = job.get("title", "")
                 if not PLATFORM.search(title):
-                    if not (IT_ROLE.search(title) and PRODUCT.search(job.get("description") or "")):
-                        counters["off-topic"] += 1
-                        continue
+                    counters["off-topic"] += 1
+                    continue
                 posted = parse_date(job.get("created") or job.get("updated") or "")
                 if not posted:
                     counters["no-absolute-date"] += 1
