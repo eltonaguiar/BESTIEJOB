@@ -4,7 +4,9 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T022550Z.md`.
+Canadian market board, Toronto-first: ServiceNow / Salesforce / IT-platform postings.
+A row must name a Canadian location; a foreign location is out of scope and a
+location that names no country stays flagged rather than assumed. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T022550Z.md`.
 
 ## Contents
 
