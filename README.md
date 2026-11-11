@@ -4,27 +4,27 @@
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
 
-Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T022323Z.md`.
+Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, newest first, nothing older than 30 days.** Older postings and every legacy section live in `README.BAK_2026-11-11T022550Z.md`.
 
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
-  - [ServiceNow jobs (1084)](#servicenow-jobs-1084)
+  - [ServiceNow jobs (1086)](#servicenow-jobs-1086)
   - [Salesforce jobs (1235)](#salesforce-jobs-1235)
-  - [Other jobs (4157)](#other-jobs-4157)
+  - [Other jobs (4158)](#other-jobs-4158)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **6476 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **6479 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1084)
+### ServiceNow jobs (1086)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1084 postings</strong></summary>
+<details><summary><strong>Show 1086 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -1040,6 +1040,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-16 | [Servicenow business analyst](https://jobsca.org/business-analyst_toronto-c117072/2026-10-soroc-technology_i4248033171) | Soroc Technology | Toronto | via jobsca |
 | 2026-10-16 | [ServiceNow Strategic Portfolio Management (SPM) Consultant](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/ServiceNow-Strategic-Portfolio-Management--SPM--Consultant_JR119221) | RSM | Canada | via readme |
 | 2026-10-16 | [ServiceNow Engagement Manager](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Toronto/ServiceNow-Engagement-Manager_JR120860) | RSM | Toronto | via buffy-scan60d--2026-11-04--v10.md |
+| 2026-10-16 | [ServiceNow Developer - GRC/IRM](https://www.jobs.ca/tekgence-inc/jobs/servicenow-developer-toronto-on-173ede1d1492) | Tekgence Inc | Toronto, ON | via inbox_opencode-job-hunt-deepdive--2026-11-11--v1.md |
 | 2026-10-16 | [ServiceNow Developer (Sr. Associate) (JR-0016235) - Huron](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/ServiceNow-Developer--Sr-Associate-_JR-0016235) | Canada: Toronto (55 University Ave) or Chicago; employer remote designation | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
 | 2026-10-16 | [ServiceNow Administrator/Developer / Leading Talent](https://leadingtalent.ca/jobs/servicenow-administratordeveloper-in-toronto-ontario-ca-2/) | Leading Talent | Canada | via round11-cached--2026-11-05--v17.md |
 | 2026-10-16 | [Senior Machine Learning Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000156069368) | ServiceNow | Toronto, Ontario, ca · Remote | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
@@ -1054,6 +1055,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-15 | [ServiceNow Technical Architect](https://www.adzuna.ca/land/ad/5929042174?se=cmB8oYnY8RGYN4NNDIpwcw&utm_medium=api&utm_source=54ce986e&v=4C28476879067AD0C6AF8A08808F66C41DAFE0B8) | Forhyre | Toronto, Ontario | via adzuna |
 | 2026-10-15 | [ServiceNow Technical Architect](https://www.adzuna.ca/details/5928557524?utm_medium=api&utm_source=54ce986e) | Forhyre | Canada | via adzuna |
 | 2026-10-15 | [ServiceNow System Administrator](https://www.adzuna.ca/details/5929028774?utm_medium=api&utm_source=54ce986e) | Forhyre | Toronto, Ontario | via adzuna |
+| 2026-10-15 | [ServiceNow Developer with GRC Expertise](https://www.jobs.ca/zenithinfotek-llc/jobs/servicenow-developer-with-grc-expertise-remote-toronto-ontario-canada-3b9473930ac0) | ZenithInfotek LLC | Toronto, ON - Remote | via inbox_opencode-job-hunt-deepdive--2026-11-11--v1.md |
 | 2026-10-15 | [ServiceNow Admin](https://www.adzuna.ca/details/5929035539?utm_medium=api&utm_source=54ce986e) | Forhyre | Toronto, Ontario | via adzuna |
 | 2026-10-15 | [Senior Advisor - Cap Epic Connect (ServiceNow/ITIL asset; soft)](https://iadyup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9015) | Trillium Health Partners | Mississauga, ON | via grokbot-hospital-boards--2026-11-03--v30.md |
 | 2026-10-15 | [Functional Consultant/Senior Consultant, ServiceNow (34113) - KPMG Canada](https://exphire-kpmgca.icims.com/jobs/34113/login) | Canada: Toronto, Montreal or Ottawa; hybrid | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v62.md |
@@ -2361,11 +2363,11 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (4157)
+### Other jobs (4158)
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 4157 postings</strong></summary>
+<details><summary><strong>Show 4158 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
@@ -6410,6 +6412,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-10-21 | [Service Desk Consultant](https://www.adzuna.ca/details/5936494479?utm_medium=api&utm_source=54ce986e) | Deltera | Toronto, Ontario | via other-expansion--2026-11-02--v64.md |
 | 2026-10-21 | [Senior Manager, Sales Operations](https://ca.linkedin.com/jobs/view/senior-manager-sales-operations-at-clio-4447193000) | Clio | Toronto, Ontario, Canada | via twin 20-round harvest |
 | 2026-10-21 | [Senior Manager, IRM Standards Assurance and Risk Monitoring](https://ca.linkedin.com/jobs/view/senior-manager-irm-standards-assurance-and-risk-monitoring-at-manulife-4481179004) | Manulife | Toronto, Ontario, Canada | via twin 20-round harvest |
+| 2026-10-21 | [Senior GRC Specialist](https://builtin.com/job/senior-grc-specialist/11656090) | Ontario Cannabis Store (OCS) | Toronto, ON | via inbox_opencode-job-hunt-deepdive--2026-11-11--v1.md |
 | 2026-10-21 | [Senior Business Systems Analyst](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Business-Systems-Analyst_R260028494) | BMO | Toronto, ON, CAN | via buffy-scan60d--2026-11-04--v10.md |
 | 2026-10-21 | [Senior Business Analyst, Portfolio Servicing Platform (12-Month Contract)](https://www.adzuna.ca/details/5936496496?utm_medium=api&utm_source=54ce986e) | OMERS | Toronto, Ontario | via other-expansion--2026-11-02--v64.md |
 | 2026-10-21 | [Sales Enablement Coordinator](https://ca.linkedin.com/jobs/view/sales-enablement-coordinator-at-trimble-inc-4481162156) | Trimble Inc. | Richmond Hill, Ontario, Canada | via twin 20-round harvest |
@@ -6655,4 +6658,4 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Archive
 
-`README.BAK_2026-11-11T022323Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
+`README.BAK_2026-11-11T022550Z.md` holds the rows that aged out of the 30-day window on 2026-11-11.
