@@ -206,3 +206,35 @@ All 9 were deduped against the board (jobs.json URL set + normalized company+tit
 - `public/jobs-data.json`, `public/index.html` — rebuilt via `tools/build_site.py`
 - `inbox/hermes-cron--2026-11-11--v1.md` — submission record
 - `JOBLESSONS_2026-11-11.MD` — this section
+
+## 09:00 hourly scan (this cycle) — null run
+
+**Date**: 2026-11-11 · **Run time**: 2026-11-11 09:00 EST (14:00 UTC) · **Branch**: main (current with `1313284`, agency scan + hourly refresh 2026-11-11T13:13:29Z)
+
+**Result**: No new verified-fresh Toronto ServiceNow/Salesforce Platform Admin / Platform Developer I / entry-level roles to merge.
+
+**What was checked**
+- `scripts/fresh_ca_scan.py --days 2 --eluta-pages 1 --jobbank-pages 1 --linkedin 0 --geos ""` (minimal scope, national Adzuna): 17 Adzuna API calls + 6 Job Bank pages + 6 Eluta pages → 11 raw rows, 6 unique, **0 kept**. All 5 URL-matches and 1 title-match were already on the board. Adzuna API responsive from this host (unlike prior 403/timeout cycles); Job Bank and Eluta returned no dated Toronto SN/SF requisitions.
+- Web search: "ServiceNow Toronto job posting November 2026 platform administrator developer" and "Salesforce Toronto job posting November 2026 platform developer administrator" — every surfaced role already on board under its URL or normalized company+title key:
+  - Alimentiv ServiceNow Platform Specialist (Toronto, Posted Nov 10) — already on board (Workopolis mirror, line 48)
+  - SS&C Salesforce Implementation Consultant & Platform Administrator (Toronto, Listed Nov 4) — already on board (Workopolis line 560; Adzuna line 802; Eluta line 922)
+  - Survalent Salesforce Administrator (Hybrid, Mississauga) — already on board (Workopolis line 574; Adzuna line 820; LinkedIn line 998)
+  - Robert Half Salesforce Developer (Toronto, 2026-11-10) — already on board (line 712), intermediate level
+  - CGI ServiceNow Administrator/Developer (Toronto) — already on board (Workopolis mirror)
+  - Scotiabank ServiceNow Developer (req 260518) — previously confirmed "not accepting any further applicants", skip-on-sight
+- Plative Salesforce Associate Director / Financial Services (Canada, 2026-11-11) — already merged at the 12:00 UTC scan (commit `4397833`), on board at README line 540.
+- Partner / telco / government check (Rogers jobs.rogers.com, Bell jobs.bce.ca/jobs.bell.ca, jobs.gc.ca, gojobs.gov.on.ca): no fresh dated Toronto SN/SF platform requisitions this cycle — consistent with prior runs.
+
+**Already on board (duplicates, not re-added)**
+- All 6 unique fresh-ca candidates survived date + liveness + URL dedupe but matched existing board entries by normalized URL or company+title fingerprint.
+
+**Merged**: 0 jobs to README.md; 0 to GitHub Pages (README unchanged → no pages.yml rebuild required; board and GitHub Pages current as of 2026-11-11 via commit `4397833` / pages redeploy).
+
+**Lesson confirmed**: null runs are the expected norm — fifth consecutive hourly cycle this date with zero verified-fresh Platform Admin/Platform Developer I Toronto entries beyond the :00 deep scans. Adzuna API is reachable from this host when call volume is bounded (17 calls completed in under 4 minutes); the full 69-call sweep times out and should be split across cycles. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced — remains the top keyword gap. Every SERP hit this cycle was intermediate/senior+ (CGI, Scotiabank, Robert Half, Moneris, Altus Group) or already on board.
+
+**Files touched**
+- `JOBLESSONS_2026-11-11.MD` — this section (09:00 EST null-run record added)
+- `reports/fresh_ca_2026-11-11.json` — regenerated (count: 0, window 2026-11-10 → 2026-11-11)
+- `inbox/fresh-ca--2026-11-11--v5.md` — empty inbox table (0 rows)
+- `README.md` — unchanged (SN 500 · SF 504 · Other 499 · total 1,503)
+- `public/` / GitHub Pages — unchanged; no redeploy required
