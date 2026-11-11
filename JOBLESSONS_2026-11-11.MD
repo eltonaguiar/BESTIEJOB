@@ -373,3 +373,32 @@ See `inbox/hermes-cron--2026-11-11--v3.md`. Highlights:
 - `inbox/hermes-cron--2026-11-11--v3.md` — submission record
 - `raw/li_2026-11-11_13.json`, `raw/verified_13.json`, `raw/dedupe_13.json` — scan artifacts
 - `JOBLESSONS_2026-11-11.MD` — this section
+
+## Hourly cron scan — 2026-11-11 14:00 EST (19:00 UTC)
+
+**Branch**: main (current with `033086d`, 13:14 EST refresh)
+
+**Result**: No new verified-fresh Toronto ServiceNow/Salesforce Platform Admin / Platform Developer I / entry-level roles to merge. Null run.
+
+**What was checked**
+- Web search: ServiceNow + Salesforce Toronto postings (Nov 9–11); every surfaced role already on board under its URL or normalized company+title key:
+  - Survalent Salesforce Administrator (Hybrid, Mississauga) — already on board ×3 (Workopolis 2026-11-11 line 589, Adzuna 2026-11-05 line 850, LinkedIn 2026-11-04 line 1028); duplicate, not re-added.
+  - Lightspeed ServiceNow Developer (Toronto) — already on board ×5; posting describes an "existing vacancy," not fresh.
+  - Cognizant Salesforce BSA / Release Engineer / Data Cloud Developer (Toronto, Nov 02–03) — senior/consultant level, outside Platform Admin/Developer I scope; no dated Toronto platform req.
+  - Scotiabank ServiceNow Developer (req 260518) — skip-on-sight ("not accepting any further applicants"); Scotiabank Salesforce Developer (req 265640) — senior/architect level.
+- jobs.json dedupe (2,834 rows): all Toronto/Ontario SN/SF postings from the last 48h already on the board; none entry-level Platform Admin/Dev I.
+- Partner / telco / government sweep:
+  - Rogers (jobs.rogers.com, SuccessFactors) — homepage scan, no Toronto SN/SF platform requisition; SN/SF appear only as familiarity/non-platform duties.
+  - Bell (jobs.bell.ca, Phenom) — homepage shows Montreal roles (Buyer, AI Engineer, Digital Ops Manager); no live Toronto SN reqs besides ATEKO (already merged at 13:00).
+  - Government of Canada (jobs.gc.ca) — blocked from this host; prior runs confirm zero Toronto SN/SF technical hits; GC platform work arrives via prime vendors on their own ATS.
+  - Elite partners (Accenture, Deloitte, KPMG, CGI, Capgemini, IBM, TCS, Wipro) and banks (Scotiabank, RBC, TD, BMO, CIBC) — vacancies already on board; no fresh dated Toronto platform requisitions.
+- Excluded (title / level / freshness rules): sales / account-management / marketing-ops titles; senior advisory / staff / manager / director roles; roles with relative ages and no verifiable absolute datePosted; expired / filled / "no longer accepting applicants" postings — skip-on-sight, never re-probed as live.
+
+**Merged**: 0 jobs to README.md; 0 to GitHub Pages (README unchanged → no pages.yml rebuild required; board and GitHub Pages current as of 2026-11-11, SN 516 · SF 519 · Other 499 · 1,534 live).
+
+**Lesson confirmed**: null runs are the expected norm — the :00 deep scans (00:00 merged 9 via fa52e79; 06:00 merged 3; 12:00 merged 5; 13:00 merged 23 via 0dcc9b5) remain the productive channel; off-hour scans (01:00/02:00/05:00/09:00/11:00/14:00) surface zero net-new verified-fresh Platform Admin/Platform Developer I Toronto roles. Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced — remains the top keyword gap.
+
+**Files touched**
+- `JOBLESSONS_2026-11-11.MD` — this section (14:00 EST null-run record added)
+- `README.md` — unchanged (SN 516 · SF 519 · Other 499 · total 1,534)
+- `public/` / GitHub Pages — unchanged; no redeploy required
