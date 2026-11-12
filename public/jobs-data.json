@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-12T19:11:39+00:00",
+ "generatedAt": "2026-11-12T19:21:37+00:00",
  "timezone": "America/Toronto",
- "count": 5070,
+ "count": 5068,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -310,13 +310,7 @@
    ],
    "french": false,
    "search": "servicenow cmdb administrator bmo toronto, on, can workday ats servicenow workday servicenow cmdb role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
+   "alternates": []
   },
   {
    "posted": "2026-11-12",
@@ -468,13 +462,7 @@
    ],
    "french": false,
    "search": "servicenow technology lifecycle analyst bmo toronto, on, can workday ats servicenow workday servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
+   "alternates": []
   },
   {
    "posted": "2026-11-12",
@@ -866,13 +854,13 @@
    "posted": "2026-11-12",
    "title": "Salesforce Developer",
    "company": "Cognizant",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cognizant-4489273359",
-   "note": "linkedin",
+   "location": "Remote in Canada (Toronto)",
+   "url": "https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/",
+   "note": "cognizant · salesforce",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -880,8 +868,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce developer cognizant toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
+   "search": "salesforce developer cognizant remote in canada (toronto) careers.cognizant.com salesforce cognizant · salesforce salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cognizant-4489273359",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-12",
@@ -7046,27 +7040,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Architect with Multi-Cloud Experience",
-   "company": "CloudLabs Inc",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5961946308?utm_medium=api&utm_source=54ce986e",
-   "note": "via fresh-ca--2026-11-12--v3.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce architect with multi-cloud experience cloudlabs inc canada adzuna salesforce via fresh-ca--2026-11-12--v3.md salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Senior Salesforce Developer",
    "company": "Journey Capital",
    "location": "Montréal, Québec",
@@ -8051,27 +8024,6 @@
    ],
    "french": false,
    "search": "itsm reporting specialist danaher london, on workday ats servicenow readme itsm role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "MuleSoft Senior Developer",
-   "company": "Modes",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5961953750?utm_medium=api&utm_source=54ce986e",
-   "note": "via fresh-ca--2026-11-12--v2.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 34,
-   "matchReasons": [
-    "Integration",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "mulesoft senior developer modes canada adzuna other via fresh-ca--2026-11-12--v2.md integration role fit canada / remote",
    "alternates": []
   },
   {
@@ -13097,6 +13049,37 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "Digital Workforce Transformation - UKG Pro Implementation Senior Consultant",
+   "company": "EY",
+   "location": "Waterloo, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385099157",
+   "note": "readme · other",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "digital workforce transformation - ukg pro implementation senior consultant ey waterloo, ontario, canada linkedin other readme · other role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385088812",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-09",
    "title": "2027 Programme des diplômés, Services Technologiques - Livraison, Excellence et Architecture",
    "company": "Bell",
    "location": "Toronto, Ontario, Canada",
@@ -13144,32 +13127,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-workforce-implementation-senior-consultant-at-ey-4385075922",
      "label": "LinkedIn · Waterloo"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-09",
-   "title": "Digital Workforce Transformation - UKG Pro Implementation Senior Consultant",
-   "company": "EY",
-   "location": "Waterloo, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385099157",
-   "note": "readme · other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "digital workforce transformation - ukg pro implementation senior consultant ey waterloo, ontario, canada linkedin other readme · other role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385088812",
-     "label": "LinkedIn · Toronto"
     }
    ]
   },
