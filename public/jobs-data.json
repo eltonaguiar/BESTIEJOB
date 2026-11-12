@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-12T05:06:03+00:00",
+ "generatedAt": "2026-11-12T07:04:36+00:00",
  "timezone": "America/Toronto",
- "count": 2442,
+ "count": 2457,
  "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
@@ -326,7 +326,13 @@
    ],
    "french": false,
    "search": "salesforce product manager osi digital toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5962506351",
+     "label": "Adzuna · Greater Vancouver"
+    }
+   ]
   },
   {
    "posted": "2026-11-12",
@@ -406,6 +412,35 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Architecte ServiceNow ITOM / ITAM Senior",
+   "company": "Ateko, backed by Bell Canada",
+   "location": "Québec, Canada",
+   "url": "https://www.adzuna.ca/details/5961952852",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "ITOM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "architecte servicenow itom / itam senior ateko, backed by bell canada quebec, canada adzuna servicenow adzuna servicenow itam itom role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-senior-at-ateko-backed-by-bell-canada-4487632517",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Senior ServiceNow Technical Consultant - ITSM/ITAM (SAM and Integrations)",
    "company": "Peek IT Services",
    "location": "Ottawa, Ottawa region",
@@ -471,6 +506,35 @@
    "french": false,
    "search": "it infrastructure monitoring & event management lead – servicenow event management tundra technical solutions toronto, ontario adzuna servicenow adzuna servicenow itom aiops role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "ServiceNow OTSM and CMDB Technical Consultant",
+   "company": "Yochana",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5961939392",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "CMDB",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow otsm and cmdb technical consultant yochana canada adzuna servicenow adzuna servicenow cmdb consulting/ba role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486753505",
+     "label": "LinkedIn · Canada"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -924,6 +988,27 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5962360471",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior consultant, servicenow platform - deloitte technology canada (dtc), platform team deloitte toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "ServiceNow Developer",
    "company": "Triunity Software",
    "location": "Toronto, ON",
@@ -1127,6 +1212,59 @@
    "french": false,
    "search": "servicenow architect atlantis it group toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "ServiceNow Lead Developer",
+   "company": "Recutify Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961942687",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow lead developer recutify inc. toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "ServiceNow Developer",
+   "company": "Rexall",
+   "location": "Toronto, ON",
+   "url": "https://careers.rexall.ca/servicenow-developer/job/37B80470AD0A44355A6D3D8E2EF2E593",
+   "note": "rexall",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.rexall.ca",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer rexall toronto, on careers.rexall.ca servicenow rexall servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961942579",
+     "label": "Adzuna · Mississauga"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5954560026",
+     "label": "Adzuna · Mississauga"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -1520,6 +1658,38 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Senior ServiceNow Developer (App Engine / HRSD)",
+   "company": "Resonaite",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5961940075",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 86,
+   "matchReasons": [
+    "ServiceNow",
+    "HRSD / VA",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior servicenow developer (app engine / hrsd) resonaite ottawa, ottawa region adzuna servicenow adzuna servicenow hrsd / va role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-%E2%80%93-remote-at-resonaite-4487632807",
+     "label": "LinkedIn · Canada"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816?position=6&pageNum=0&refId=lGQxd%2BoOi0LkdMnpA4s7Eg%3D%3D&trackingId=hTvVEy707sI%2F2prgUhvBcQ%3D%3D",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "ServiceNow Implementation Specialist",
    "company": "Fxinnovation",
    "location": "Canada",
@@ -1621,6 +1791,27 @@
    ],
    "french": false,
    "search": "servicenow implementation specialist / solution architect – digital product release (dpr) yochana canada adzuna servicenow adzuna servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Scrum Master - ServiceNow Certified System Administrator (CSA)",
+   "company": "Avanciers Inc.",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5961938922",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "scrum master - servicenow certified system administrator (csa) avanciers inc. canada adzuna servicenow adzuna servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -2435,6 +2626,52 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "ServiceNow Technical Architect",
+   "company": "emergiTEL",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5961944201",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow technical architect emergitel greater vancouver, british columbia adzuna servicenow adzuna servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "ServiceNow Functional Consultant",
+   "company": "BDO Canada",
+   "location": "5 Locations",
+   "url": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/5-Locations/ServiceNow-Functional-Consultant",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow functional consultant bdo canada 5 locations workday ats servicenow readme servicenow role fit",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961940440",
+     "label": "Adzuna · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Staff Technical Product Manager, Autonomous Workforce, San Diego / ServiceNow Careers",
    "company": "ServiceNow Careers](https://careers.servicenow.com/jobs/744000160977689/staff-technical-product-manager-autonomous-workforce/)",
    "location": "ServiceNow",
@@ -3028,6 +3265,25 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "ServiceNow Advisor - Government of Canada Client",
+   "company": "Robertson & Company Ltd.",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5961953464",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 68,
+   "matchReasons": [
+    "ServiceNow"
+   ],
+   "french": false,
+   "search": "servicenow advisor - government of canada client robertson & company ltd. ottawa, ottawa region adzuna servicenow adzuna servicenow",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Executive Assistant, Santa Clara / ServiceNow Careers",
    "company": "ServiceNow Careers](https://careers.servicenow.com/jobs/744000160981159/executive-assistant/)",
    "location": "ServiceNow",
@@ -3134,6 +3390,33 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Senior Analyst, Salesforce Marketing Cloud",
+   "company": "SiriusXM Canada Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961958951",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior analyst, salesforce marketing cloud siriusxm canada inc. toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-analyst-salesforce-marketing-cloud-at-siriusxm-canada-4477021353",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Salesforce Revenue Cloud Developer",
    "company": "Astra-North Infoteck Inc.",
    "location": "Toronto, Ontario",
@@ -3168,12 +3451,12 @@
    "posted": "2026-11-11",
    "title": "Salesforce Platform Developer",
    "company": "Altus Group",
-   "location": "Toronto, ON, Canada",
-   "url": "https://www.simplyhired.ca/job/MALyTKklaujfyIdBtjSqR0SpupZ_dd4mpU98wASOHT6xok0SilC1Rg",
-   "note": "via hermes-agent--2026-11-09--v8.md",
+   "location": "Toronto, Ontario",
+   "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
+   "note": "workday",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "simplyhired.ca",
+   "source": "Workday ATS",
    "verified": "Employer board",
    "match": 60,
    "matchReasons": [
@@ -3182,12 +3465,12 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce platform developer altus group toronto, on, canada simplyhired.ca salesforce via hermes-agent--2026-11-09--v8.md salesforce role fit toronto area",
+   "search": "salesforce platform developer altus group toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
    "alternates": [
     {
-     "source": "Workday ATS",
-     "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
-     "label": "Workday ATS · Toronto"
+     "source": "simplyhired.ca",
+     "url": "https://www.simplyhired.ca/job/MALyTKklaujfyIdBtjSqR0SpupZ_dd4mpU98wASOHT6xok0SilC1Rg",
+     "label": "simplyhired.ca · Toronto"
     },
     {
      "source": "jobs.lererhippeau.com",
@@ -3367,27 +3650,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Devops Engineer",
-   "company": "Akkodis",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5961954410",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce devops engineer akkodis toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Senior Salesforce Developer",
    "company": "Atos",
    "location": "Toronto, Ontario",
@@ -3426,6 +3688,27 @@
    ],
    "french": false,
    "search": "ncino salesforce developer - apex, lws, copado astra-north infoteck inc. toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Devops Engineer",
+   "company": "Akkodis",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961954410",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce devops engineer akkodis toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -3835,6 +4118,27 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Sr. Salesforce Developer - FSC, Field Service Lightning, Vaadin",
+   "company": "Astra-North Infoteck Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961944557",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. salesforce developer - fsc, field service lightning, vaadin astra-north infoteck inc. toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Senior Salesforce Developer",
    "company": "Delpath",
    "location": "Toronto, Ontario",
@@ -3852,6 +4156,48 @@
    ],
    "french": false,
    "search": "senior salesforce developer delpath toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce FSL Technical Architect",
+   "company": "Tata Consultancy Services Limited",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961942985",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce fsl technical architect tata consultancy services limited toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Developer 1014",
+   "company": "Veracity Ventures Inc.",
+   "location": "Toronto, ON",
+   "url": "https://veracity-ventures-inc.careerplug.com/jobs/3563242/apps/new",
+   "note": "careerplug",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "veracity-ventures-inc.careerplug.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer 1014 veracity ventures inc. toronto, on veracity-ventures-inc.careerplug.com salesforce careerplug salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -3941,6 +4287,59 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Salesforce Software Engineer",
+   "company": "Steadman Brown",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961940257",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce software engineer steadman brown toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Datacloud Developer",
+   "company": "Cognizant Technology Solutions Corporation",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961939416",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce datacloud developer cognizant technology solutions corporation toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/salesforce-datacloud-developer-647225923359c70ac769b59c2eed9aac",
+     "label": "Eluta · Toronto ON"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Senior Systems Developer - Salesforce",
    "company": "Co-operators",
    "location": "Toronto, Ontario",
@@ -3959,6 +4358,33 @@
    "french": false,
    "search": "senior systems developer - salesforce co-operators toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Consultant",
+   "company": "MSITEK",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961938450",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce consultant msitek toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/msitek/jobs/salesforce-consultant-toronto-on-ffccc499ca6a",
+     "label": "jobs.ca · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -4875,6 +5301,60 @@
   {
    "posted": "2026-11-11",
    "title": "Salesforce Developer",
+   "company": "Brunel",
+   "location": "Québec, Canada",
+   "url": "https://www.adzuna.ca/details/5961957368",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer brunel quebec, canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-brunel-4483633994",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Quality Engineering Lead",
+   "company": "Brunel",
+   "location": "Québec, Canada",
+   "url": "https://www.adzuna.ca/details/5961953612",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce quality engineering lead brunel quebec, canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-quality-engineering-lead-at-brunel-4475434632",
+     "label": "LinkedIn · Quebec"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Developer",
    "company": "iA Financial Group",
    "location": "Quebec / Montreal, QC, Canada",
    "url": "https://ia.ca/en/carrieres/job/jr10027986",
@@ -5192,6 +5672,47 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Senior Salesforce De",
+   "company": "Best Your Buy",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961944246",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce de best your buy toronto, ontario adzuna salesforce adzuna salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Solution Architect",
+   "company": "iA Groupe Financier",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5961943255",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "salesforce solution architect ia groupe financier montreal, quebec adzuna salesforce adzuna salesforce role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Salesforce Product Owner - Docebo / Toronto, ON",
    "company": "Docebo",
    "location": "Toronto, ON",
@@ -5280,6 +5801,32 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Salesforce Quality Analyst Tester",
+   "company": "OSI Digital",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5962506359",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce quality analyst tester osi digital greater vancouver, british columbia adzuna salesforce adzuna salesforce role fit",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5962506362",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Salesforce Developer",
    "company": "Yochana",
    "location": "Greater Vancouver, British Columbia",
@@ -5321,6 +5868,11 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5961955400",
      "label": "Adzuna · Montréal"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961940709",
+     "label": "Adzuna · Toronto"
     },
     {
      "source": "Adzuna",
@@ -5400,6 +5952,11 @@
     },
     {
      "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961942559",
+     "label": "Adzuna · Québec"
+    },
+    {
+     "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5954559999",
      "label": "Adzuna · Québec"
     },
@@ -5414,6 +5971,26 @@
      "label": "LinkedIn · Quebec"
     }
    ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Senior Salesforce Developer",
+   "company": "KTek Resourcing",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5961943563",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior salesforce developer ktek resourcing greater vancouver, british columbia adzuna salesforce adzuna salesforce role fit",
+   "alternates": []
   },
   {
    "posted": "2026-11-11",
@@ -5434,6 +6011,32 @@
    "french": false,
    "search": "salesforce developer ia groupe financier burnaby, greater vancouver adzuna salesforce adzuna salesforce role fit",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Developer – 100% Remote",
+   "company": "Ensiti",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5961939038",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce developer – 100% remote ensiti ottawa, ottawa region adzuna salesforce adzuna salesforce role fit",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5937871952",
+     "label": "Adzuna · Ottawa"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -5537,6 +6140,27 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Consultant, ITAM Transactions & Compliance",
+   "company": "CIBC",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--ITAM-Transactions---Compliance_2620855",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 46,
+   "matchReasons": [
+    "ITAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "consultant, itam transactions & compliance cibc toronto, on workday ats servicenow readme itam role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Hardware Asset Management Consultant",
    "company": "SPECTRAFORCE",
    "location": "Toronto, Ontario",
@@ -5555,6 +6179,37 @@
    "french": false,
    "search": "hardware asset management consultant spectraforce toronto, ontario adzuna other adzuna itam role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Sales Director - CRM Sales",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.servicenow.com/jobs/744000160705499/sales-director-crm-sales/",
+   "note": "via inbox_sn_sf_careers--2026-11-11--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.servicenow.com",
+   "verified": "Employer board",
+   "match": 46,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sales director - crm sales servicenow toronto, ontario, canada careers.servicenow.com servicenow via inbox_sn_sf_careers--2026-11-11--v1.md servicenow toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961442055",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sales-director-crm-sales-at-servicenow-4489149240",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -5957,9 +6612,9 @@
   {
    "posted": "2026-11-11",
    "title": "Principal Applied AI Architect",
-   "company": "Salesforce",
+   "company": "Salesforce, Inc.",
    "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5961451104",
+   "url": "https://www.adzuna.ca/details/5961936760",
    "note": "adzuna",
    "family": "other",
    "familyLabel": "Other",
@@ -5972,8 +6627,18 @@
     "Quebec"
    ],
    "french": false,
-   "search": "principal applied ai architect salesforce montreal, quebec adzuna other adzuna salesforce role fit quebec",
+   "search": "principal applied ai architect salesforce, inc. montreal, quebec adzuna other adzuna salesforce role fit quebec",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961935889",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961451104",
+     "label": "Adzuna · Montréal"
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/principal-applied-ai-architect-at-salesforce-partner-canada-4489432977",
@@ -6052,6 +6717,27 @@
    ],
    "french": false,
    "search": "data analyst - python/ai (hardware support) capgemini montreal, quebec, canada linkedin other linkedin data/reporting role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Agentic AI Business Analyst",
+   "company": "Brunel",
+   "location": "Québec, Canada",
+   "url": "https://www.adzuna.ca/details/5961939621",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 26,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "agentic ai business analyst brunel quebec, canada adzuna other adzuna consulting/ba role fit canada / remote",
    "alternates": []
   },
   {
@@ -6142,6 +6828,37 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "RQ09127 - Software Developer - Full Stack - Senior",
+   "company": "Rubicon Path",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961957933",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "rq09127 - software developer - full stack - senior rubicon path toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961956975",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961955657",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Solution Architect",
    "company": "Bay Street Staffing",
    "location": "Toronto, Ontario",
@@ -6162,10 +6879,10 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "RQ08939 - Software Developer - Full Stack - Senior",
-   "company": "Rubicon Path",
+   "title": "Senior CRM Developer",
+   "company": "York University International",
    "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5961956975",
+   "url": "https://www.adzuna.ca/details/5961957596",
    "note": "adzuna",
    "family": "other",
    "familyLabel": "Other",
@@ -6177,12 +6894,17 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "rq08939 - software developer - full stack - senior rubicon path toronto, ontario adzuna other adzuna role fit toronto area",
+   "search": "senior crm developer york university international toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": [
     {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5961955657",
-     "label": "Adzuna · Toronto"
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-crm-developer-at-york-university-4472078182",
+     "label": "LinkedIn · North York"
+    },
+    {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/york-university-850722783754/jobs/senior-crm-developer-north-york-on-387f1119ed09",
+     "label": "jobs.ca · North York"
     }
    ]
   },
@@ -6265,6 +6987,32 @@
    "french": false,
    "search": "it cloud & devops engineer survalent toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Forward Deployed Engineer (FDE) (Mid/Senior Level)",
+   "company": "Urban Ridge Supplies",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961953120",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "forward deployed engineer (fde) (mid/senior level) urban ridge supplies toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940718851",
+     "label": "Adzuna · Mississauga"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -6394,6 +7142,46 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Intermediate Specialized IT Consultant",
+   "company": "Randstad Canada",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961938995",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate specialized it consultant randstad canada toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Staff/Lead Fullstack Engineer (Frontend-focused)",
+   "company": "Mimica",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961936036",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff/lead fullstack engineer (frontend-focused) mimica toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "RQ11863-Microsoft Dynamics 365 CRM Developer",
    "company": "Amyantek",
    "location": "Toronto, Ontario, Canada",
@@ -6430,6 +7218,46 @@
    ],
    "french": false,
    "search": "sfdc developer motocol toronto, on adzuna salesforce readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Senior Full Stack Engineer, People Products Virtual, Ontario Engineering",
+   "company": "Thumbtack",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5961958035",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior full stack engineer, people products virtual, ontario engineering thumbtack canada adzuna other adzuna role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "AWS Solution Architect",
+   "company": "NeuraFlash, LLC",
+   "location": "Alberta, Canada",
+   "url": "https://www.adzuna.ca/details/5961942156",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "aws solution architect neuraflash, llc alberta, canada adzuna other adzuna role fit canada / remote",
    "alternates": []
   },
   {
@@ -6552,6 +7380,25 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "11837",
+   "company": "Maarut",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961943195",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "11837 maarut toronto, ontario adzuna other adzuna toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "11745",
    "company": "Maarut",
    "location": "Toronto, Ontario",
@@ -6567,6 +7414,25 @@
    ],
    "french": false,
    "search": "11745 maarut toronto, ontario adzuna other adzuna toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Intermediate - Full Stack (Java, React, OpenShift)",
+   "company": "Procom",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961937255",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate - full stack (java, react, openshift) procom toronto, ontario adzuna other adzuna toronto area",
    "alternates": []
   },
   {
@@ -10076,32 +10942,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Sales Director - CRM Sales",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://careers.servicenow.com/jobs/744000160705499/sales-director-crm-sales/",
-   "note": "via inbox_sn_sf_careers--2026-11-11--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.servicenow.com",
-   "verified": "Employer board",
-   "match": 46,
-   "matchReasons": [
-    "ServiceNow",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sales director - crm sales servicenow toronto, ontario, canada careers.servicenow.com servicenow via inbox_sn_sf_careers--2026-11-11--v1.md servicenow toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/sales-director-crm-sales-at-servicenow-4489149240",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Analyste d’affaires (ITSM & Automatisation)",
    "company": "CGI",
    "location": "Montreal, Quebec, Canada",
@@ -11621,26 +12461,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Senior Architectural Designer",
-   "company": "Worley",
-   "location": "Calgary, Alberta, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-architectural-designer-at-worley-4484217476",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior architectural designer worley calgary, alberta, canada linkedin other readme role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Spécialiste, Données clients et identité (écosystème CDP/CRM)-FR",
    "company": "Air Canada Vacations",
    "location": "Montreal, Quebec, Canada",
@@ -11684,6 +12504,26 @@
      "label": "LinkedIn · Calgary"
     }
    ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Architectural Designer",
+   "company": "Worley",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-architectural-designer-at-worley-4484217476",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior architectural designer worley calgary, alberta, canada linkedin other readme role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -12711,57 +13551,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/solution-architect-%E2%80%93-servicenow-itsm-itom-cmdb-secops-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4486789948",
      "label": "LinkedIn · Vancouver"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Architecte ServiceNow ITOM / ITAM Senior",
-   "company": "Ateko, backed by Bell Canada",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-senior-at-ateko-backed-by-bell-canada-4487632517",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "ITOM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "architecte servicenow itom / itam senior ateko, backed by bell canada quebec, canada linkedin servicenow linkedin servicenow itam itom role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Senior ServiceNow Developer (App Engine / HRSD) – Remote",
-   "company": "Resonaite",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-%E2%80%93-remote-at-resonaite-4487632807",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 94,
-   "matchReasons": [
-    "ServiceNow",
-    "HRSD / VA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer (app engine / hrsd) – remote resonaite canada linkedin servicenow linkedin servicenow hrsd / va role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-app-engine-hrsd-at-resonaite-4486940816",
-     "label": "LinkedIn · Ottawa"
     }
    ]
   },
@@ -16183,7 +16972,7 @@
    "company": "Thumbtack",
    "location": "Toronto",
    "url": "https://remoteok.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
-   "note": "remoteok",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "remoteok.com",
@@ -16194,7 +16983,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior full stack engineer people products thumbtack toronto remoteok.com other remoteok role fit toronto area",
+   "search": "senior full stack engineer people products thumbtack toronto remoteok.com other readme role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
@@ -16222,32 +17011,6 @@
    "french": false,
    "search": "senior full stack .net developer cognizant mississauga, peel region adzuna other adzuna role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "Senior CRM Developer",
-   "company": "York University",
-   "location": "North York, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-crm-developer-at-york-university-4472078182",
-   "note": "linkedin",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior crm developer york university north york, ontario, canada linkedin other linkedin role fit toronto area",
-   "alternates": [
-    {
-     "source": "jobs.ca",
-     "url": "https://www.jobs.ca/york-university-850722783754/jobs/senior-crm-developer-north-york-on-387f1119ed09",
-     "label": "jobs.ca · North York"
-    }
-   ]
   },
   {
    "posted": "2026-11-07",
@@ -18882,27 +19645,6 @@
    ],
    "french": false,
    "search": "senior product manager - digital asset management veeva systems toronto, ontario adzuna other readme itam role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Consultant, ITAM Transactions & Compliance",
-   "company": "CIBC",
-   "location": "Toronto, ON",
-   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--ITAM-Transactions---Compliance_2620855",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 46,
-   "matchReasons": [
-    "ITAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "consultant, itam transactions & compliance cibc toronto, on workday ats servicenow readme itam role fit toronto area",
    "alternates": []
   },
   {
@@ -22885,29 +23627,6 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "ServiceNow OTSM and CMDB Technical Consultant",
-   "company": "Yochana",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-otsm-and-cmdb-technical-consultant-at-yochana-4486753505",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "CMDB",
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow otsm and cmdb technical consultant yochana canada linkedin servicenow linkedin servicenow cmdb consulting/ba role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
    "title": "ServiceNow ITOM Specialist",
    "company": "Raise - find a more meaningful working experience",
    "location": "Saskatoon, Saskatchewan",
@@ -23001,38 +23720,6 @@
    "french": false,
    "search": "senior servicenow developer & product owner (remote) huron consulting group toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "ServiceNow Developer",
-   "company": "Rexall",
-   "location": "Toronto, ON",
-   "url": "https://careers.rexall.ca/servicenow-developer/job/37B80470AD0A44355A6D3D8E2EF2E593",
-   "note": "rexall",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.rexall.ca",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer rexall toronto, on careers.rexall.ca servicenow rexall servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5954560026",
-     "label": "Adzuna · Mississauga"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-rexall-pharmacy-group-ltd-4485752549",
-     "label": "LinkedIn · Mississauga"
-    }
-   ]
   },
   {
    "posted": "2026-11-05",
@@ -23715,27 +24402,6 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "Salesforce Quality Engineering Lead",
-   "company": "Brunel",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-quality-engineering-lead-at-brunel-4475434632",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce quality engineering lead brunel quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
    "title": "Senior Salesforce Technical Lead",
    "company": "E-Solutions",
    "location": "Canada",
@@ -24347,26 +25013,6 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "Senior Software Engineer (AI & Full Stack)",
-   "company": "Makeitfable",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5954561307",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior software engineer (ai & full stack) makeitfable toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-05",
    "title": "DevOps Engineer",
    "company": "TD",
    "location": "Toronto, Ontario",
@@ -24523,6 +25169,26 @@
    ],
    "french": false,
    "search": "workforce support (hr) specialist (12 month contract) avery dennison toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Senior Software Engineer (AI & Full Stack)",
+   "company": "Makeitfable",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954561307",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior software engineer (ai & full stack) makeitfable toronto, ontario adzuna other readme role fit toronto area",
    "alternates": []
   },
   {
@@ -24684,31 +25350,6 @@
   },
   {
    "posted": "2026-11-05",
-   "title": "Associate Director, Full-Stack Applications - Credit Module",
-   "company": "Fitch Group, Inc.",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5954559995",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "associate director, full-stack applications - credit module fitch group, inc. toronto, ontario adzuna other adzuna toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5954560788",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-05",
    "title": "Observability Product Owner-EN 503",
    "company": "Export Development Canada - Exportation et développement Canada",
    "location": "Edmonton, Edmonton region",
@@ -24744,6 +25385,31 @@
    "french": false,
    "search": "vp, legal & compliance - canada lgbt great toronto, ontario adzuna other readme toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Associate Director, Full-Stack Applications - Credit Module",
+   "company": "Fitch Group, Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5954559995",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "associate director, full-stack applications - credit module fitch group, inc. toronto, ontario adzuna other readme toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5954560788",
+     "label": "Adzuna · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-05",
@@ -35398,26 +36064,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "ServiceNow Functional Consultant",
-   "company": "BDO Canada",
-   "location": "5 Locations",
-   "url": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/5-Locations/ServiceNow-Functional-Consultant",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow functional consultant bdo canada 5 locations workday ats servicenow readme servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "ServiceNow Platform Technology Lead",
    "company": "Pacific Life",
    "location": "Raleigh, NC",
@@ -35962,33 +36608,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Salesforce Datacloud Developer",
-   "company": "Cognizant Technology Solutions",
-   "location": "Toronto ON",
-   "url": "https://www.eluta.ca/spl/salesforce-datacloud-developer-647225923359c70ac769b59c2eed9aac",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Eluta",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce datacloud developer cognizant technology solutions toronto on eluta salesforce readme salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-datacloud-developer-at-cognizant-4486017629",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Solution Architect - Salesforce",
    "company": "Querentia",
    "location": "Toronto, Ontario",
@@ -36195,27 +36814,6 @@
    ],
    "french": false,
    "search": "salesforce developer - toronto (hybrid) (pl834) paralucent toronto, on careers.paralucent.com salesforce paralucent salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Salesforce Developer 1014",
-   "company": "Veracity Ventures Inc.",
-   "location": "Toronto, ON",
-   "url": "https://veracity-ventures-inc.careerplug.com/jobs/3563242/apps/new",
-   "note": "careerplug",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "veracity-ventures-inc.careerplug.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer 1014 veracity ventures inc. toronto, on veracity-ventures-inc.careerplug.com salesforce careerplug salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -36647,27 +37245,6 @@
    ],
    "french": false,
    "search": "senior salesforce architect paralucent toronto, on careers.paralucent.com salesforce paralucent salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Salesforce Consultant – Hybrid",
-   "company": "MSITEK",
-   "location": "Toronto, ON",
-   "url": "https://www.jobs.ca/msitek/jobs/salesforce-consultant-toronto-on-ffccc499ca6a",
-   "note": "msitek",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce consultant – hybrid msitek toronto, on jobs.ca salesforce msitek salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -40240,27 +40817,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team",
-   "company": "Deloitte",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-platform-deloitte-technology-canada-dtc-platform-team-at-deloitte-4460515123",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior consultant, servicenow platform - deloitte technology canada (dtc), platform team deloitte toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "ServiceNow Solutions Architect - Remote",
    "company": "Cognizant",
    "location": "Remote",
@@ -42677,26 +43233,6 @@
    ],
    "french": false,
    "search": "data analyst - remote in canada the dignify solutions, llc toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "DevOps Engineer",
-   "company": "GTT, LLC",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948017534",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer gtt, llc toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -46134,6 +46670,27 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Principle Salesforce Developer",
+   "company": "Moneris",
+   "location": "Toronto",
+   "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "principle salesforce developer moneris toronto workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "Salesforce Solution Lead",
    "company": "McKesson",
    "location": "CAN, ON, Mississauga",
@@ -46158,27 +46715,6 @@
      "label": "Adzuna · Mississauga"
     }
    ]
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Principle Salesforce Developer",
-   "company": "Moneris",
-   "location": "Toronto",
-   "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "principle salesforce developer moneris toronto workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-10-29",
@@ -46966,26 +47502,6 @@
    ],
    "french": false,
    "search": "python developer with banking in canada linuxassociation toronto, ontario adzuna other adzuna data/reporting role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Site Reliability Engineer (Canada - Remote)",
-   "company": "AXON-Networks",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5946007386",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "site reliability engineer (canada - remote) axon-networks toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -48436,27 +48952,6 @@
   },
   {
    "posted": "2026-10-27",
-   "title": "Salesforce Developer",
-   "company": "Brunel",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-brunel-4483633994",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer brunel quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-27",
    "title": "Architecte d'application Salesforce",
    "company": "CGI",
    "location": "Montreal, Quebec, Canada",
@@ -49885,26 +50380,6 @@
   },
   {
    "posted": "2026-10-24",
-   "title": "Forward Deployed Engineer",
-   "company": "Urban Ridge Supplies",
-   "location": "Mississauga, Peel region",
-   "url": "https://www.adzuna.ca/details/5940718851",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "forward deployed engineer urban ridge supplies mississauga, peel region adzuna other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-24",
    "title": "Solution Architect / Technical Lead (nCino)",
    "company": "Quality IT Resourcing",
    "location": "Canada",
@@ -50225,27 +50700,6 @@
    ],
    "french": false,
    "search": "salesforce communications cloud developer j&m group toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-23",
-   "title": "Salesforce Software Engineer",
-   "company": "Steadman Brown",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-software-engineer-at-steadman-brown-4480664272",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce software engineer steadman brown toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -50930,26 +51384,6 @@
    ],
    "french": false,
    "search": "principal solution consultant - itsm - north america valiantys greater montreal metropolitan area linkedin servicenow readme itsm consulting/ba role fit quebec",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-22",
-   "title": "Salesforce Developer - 100% Remote",
-   "company": "Ensiti",
-   "location": "Ottawa, Ottawa region",
-   "url": "https://www.adzuna.ca/details/5937871952",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce developer - 100% remote ensiti ottawa, ottawa region adzuna salesforce adzuna salesforce role fit",
    "alternates": []
   },
   {
@@ -52530,27 +52964,6 @@
    ],
    "french": false,
    "search": "production support engineer (salesforce) capgemini toronto, on; on-site jobs.ca salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-14",
-   "title": "Senior Analyst, Salesforce Marketing Cloud",
-   "company": "SiriusXM Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-analyst-salesforce-marketing-cloud-at-siriusxm-canada-4477021353",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior analyst, salesforce marketing cloud siriusxm canada toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
