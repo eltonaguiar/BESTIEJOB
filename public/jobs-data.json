@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-12T15:45:30+00:00",
+ "generatedAt": "2026-11-12T16:11:22+00:00",
  "timezone": "America/Toronto",
- "count": 5056,
+ "count": 5057,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -7664,27 +7664,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "MuleSoft Senior Developer",
-   "company": "Modes",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5961953750?utm_medium=api&utm_source=54ce986e",
-   "note": "via fresh-ca--2026-11-12--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 34,
-   "matchReasons": [
-    "Integration",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "mulesoft senior developer modes canada adzuna other via fresh-ca--2026-11-12--v1.md integration role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Principal Applied AI Architect",
    "company": "Salesforce, Inc.",
    "location": "Montréal, Québec",
@@ -7729,6 +7708,27 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Databricks Solution Architect",
+   "company": "BDO Canada",
+   "location": "Toronto - Bay St",
+   "url": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/Databricks-Solution-Architect_JR6061",
+   "note": "via workday",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 32,
+   "matchReasons": [
+    "Data/reporting",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "databricks solution architect bdo canada toronto - bay st workday ats other via workday data/reporting role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-11",
@@ -8720,6 +8720,25 @@
    ],
    "french": false,
    "search": "cad tech ii procom canada portal.procomservices.com other readme canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Bilingual Intermediate Associate, Financial Reporting & Insights",
+   "company": "BDO Canada",
+   "location": "Montreal - 1000 Rue De La Gauchetière Ouest",
+   "url": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Bilingual-Intermediate-Associate--Financial-Reporting---Insights_JR7344-1",
+   "note": "via workday",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 4,
+   "matchReasons": [
+    "Quebec"
+   ],
+   "french": true,
+   "search": "bilingual intermediate associate, financial reporting & insights bdo canada montreal - 1000 rue de la gauchetiere ouest workday ats other via workday quebec",
    "alternates": []
   },
   {
