@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-12T14:14:49+00:00",
+ "generatedAt": "2026-11-12T15:13:36+00:00",
  "timezone": "America/Toronto",
- "count": 5048,
+ "count": 5050,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -292,6 +292,28 @@
  "jobs": [
   {
    "posted": "2026-11-12",
+   "title": "ServiceNow CMDB Administrator",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "CMDB",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow cmdb administrator bmo toronto, on, can workday ats servicenow workday servicenow cmdb role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Senior Lead, ServiceNow ITOM (8306166)",
    "company": "Take-Two Interactive",
    "location": "Toronto, ON",
@@ -353,6 +375,27 @@
    ],
    "french": false,
    "search": "specialiste, configuration et integration servicenow cgi quebec, quebec, canada linkedin servicenow linkedin servicenow integration role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "ServiceNow Technology Lifecycle Analyst",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow technology lifecycle analyst bmo toronto, on, can workday ats servicenow workday servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -629,6 +672,102 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "Salesforce Omnistudio Developer",
+   "company": "Galent",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4488534223",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce omnistudio developer galent toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5947169671",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4482231111",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Salesforce Senior FSC Developer / Technical Lead",
+   "company": "Apptoza Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4488530420",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce senior fsc developer / technical lead apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4489489495",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487431014",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487405679",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
+   "company": "Smart IT Frame LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect revenue cloud cpq (rca) smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958362635?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Salesforce Data Cloud Architect",
    "company": "Enterprise Solutions Inc.",
    "location": "Toronto, Ontario, Canada",
@@ -708,10 +847,10 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "Salesforce Technical Architect",
-   "company": "Maarut Inc",
+   "title": "Analyste-développeur, Salesforce (Montréal ou Québec)",
+   "company": "Investissement Québec",
    "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-maarut-inc-4490321834",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-d%C3%A9veloppeur-salesforce-montr%C3%A9al-ou-qu%C3%A9bec-at-investissement-qu%C3%A9bec-4473563293",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -723,13 +862,13 @@
     "Role fit",
     "Canada / remote"
    ],
-   "french": false,
-   "search": "salesforce technical architect maarut inc montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "french": true,
+   "search": "analyste-developpeur, salesforce (montreal ou quebec) investissement quebec montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": [
     {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5960420672",
-     "label": "Adzuna · Montréal East"
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/analyste-d%C3%A9veloppeur-salesforce-montr%C3%A9al-ou-qu%C3%A9bec-e53aa9ba8e7d1e128bf65677ffd4b3f1",
+     "label": "Eluta · Montréal QC"
     }
    ]
   },
@@ -756,10 +895,10 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "Analyste-développeur, Salesforce (Montréal ou Québec)",
-   "company": "Investissement Québec",
+   "title": "Salesforce Technical Architect",
+   "company": "Maarut Inc",
    "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/analyste-d%C3%A9veloppeur-salesforce-montr%C3%A9al-ou-qu%C3%A9bec-at-investissement-qu%C3%A9bec-4473563293",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-maarut-inc-4490321834",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -771,13 +910,13 @@
     "Role fit",
     "Canada / remote"
    ],
-   "french": true,
-   "search": "analyste-developpeur, salesforce (montreal ou quebec) investissement quebec montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "french": false,
+   "search": "salesforce technical architect maarut inc montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": [
     {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/analyste-d%C3%A9veloppeur-salesforce-montr%C3%A9al-ou-qu%C3%A9bec-e53aa9ba8e7d1e128bf65677ffd4b3f1",
-     "label": "Eluta · Montréal QC"
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5960420672",
+     "label": "Adzuna · Montréal East"
     }
    ]
   },
@@ -5826,33 +5965,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Technical Architect Revenue Cloud CPQ (RCA)",
-   "company": "Smart IT Frame LLC",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-rca-at-smart-it-frame-llc-4486765411",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce technical architect revenue cloud cpq (rca) smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5958362635?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Salesforce Technical Architect",
    "company": "Brillio",
    "location": "Ontario, Canada",
@@ -9176,38 +9288,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946003081?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Oakville"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Salesforce Senior FSC Developer / Technical Lead",
-   "company": "Apptoza Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4489489495",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce senior fsc developer / technical lead apptoza inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487431014",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4487405679",
-     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -90045,33 +90125,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "Salesforce Omnistudio Developer",
-   "company": "Galent",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5947169671",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce omnistudio developer galent toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4482231111",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-30",
    "title": "Salesforce Architect- FSC",
    "company": "Delpath",
    "location": "Toronto, Ontario, Canada",
@@ -98176,27 +98229,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Developer Principal",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Principal_RQ230501-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer principal gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Senior ServiceNow Developer",
    "company": "Resolve Tech Solutions",
    "location": "US Remote - TX",
@@ -98214,6 +98246,27 @@
    ],
    "french": false,
    "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Developer Principal",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Principal_RQ230501-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer principal gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
