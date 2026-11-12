@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-12T12:06:14+00:00",
+ "generatedAt": "2026-11-12T12:19:29+00:00",
  "timezone": "America/Toronto",
- "count": 5043,
+ "count": 5045,
  "appliedHidden": 42,
  "sources": [
   "103.careerplug.com",
@@ -485,6 +485,28 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "Salesforce Business Analyst",
+   "company": "LGS",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5962877182",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 62,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "salesforce business analyst lgs montreal, quebec adzuna salesforce adzuna salesforce consulting/ba role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Salesforce Product Manager",
    "company": "OSI Digital",
    "location": "Toronto, Ontario, Canada",
@@ -571,6 +593,27 @@
    ],
    "french": false,
    "search": "senior salesforce developer tforce freight saint-laurent, manitoba, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Salesforce Developer",
+   "company": "LGS",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5962893078",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "salesforce developer lgs montreal, quebec adzuna salesforce adzuna salesforce role fit quebec",
    "alternates": []
   },
   {
@@ -1858,27 +1901,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Product Manager, ServiceNow",
-   "company": "Loblaw Companies Limited",
-   "location": "Brampton, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "product manager, servicenow loblaw companies limited brampton, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "ServiceNow Developer",
    "company": "SPECTRAFORCE",
    "location": "Toronto, Ontario, Canada",
@@ -1896,6 +1918,27 @@
    ],
    "french": false,
    "search": "servicenow developer spectraforce toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Product Manager, ServiceNow",
+   "company": "Loblaw Companies Limited",
+   "location": "Brampton, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "product manager, servicenow loblaw companies limited brampton, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -3377,6 +3420,26 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Gestionnaire de prestation de services – Gestion applicative (AMS) et services gérés ServiceNow",
+   "company": "LGS, an IBM Company",
+   "location": "Ville-Marie, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/gestionnaire-de-prestation-de-services-%E2%80%93-gestion-applicative-ams-et-services-g%C3%A9r%C3%A9s-servicenow-at-lgs-an-ibm-company-4489993687",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "gestionnaire de prestation de services – gestion applicative (ams) et services geres servicenow lgs, an ibm company ville-marie, quebec, canada linkedin servicenow linkedin servicenow canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
    "title": "ServiceNow SME – Platform Security & Vault (Remote)",
    "company": "Resonaite",
    "location": "Canada",
@@ -3405,26 +3468,6 @@
      "label": "LinkedIn · Ottawa"
     }
    ]
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "Gestionnaire de prestation de services – Gestion applicative (AMS) et services gérés ServiceNow",
-   "company": "LGS, an IBM Company",
-   "location": "Ville-Marie, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/gestionnaire-de-prestation-de-services-%E2%80%93-gestion-applicative-ams-et-services-g%C3%A9r%C3%A9s-servicenow-at-lgs-an-ibm-company-4489993687",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "gestionnaire de prestation de services – gestion applicative (ams) et services geres servicenow lgs, an ibm company ville-marie, quebec, canada linkedin servicenow linkedin servicenow canada / remote",
-   "alternates": []
   },
   {
    "posted": "2026-11-11",
@@ -3961,27 +4004,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Devops Engineer",
-   "company": "Akkodis",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5961954410",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce devops engineer akkodis toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Senior Salesforce Developer",
    "company": "Atos",
    "location": "Toronto, Ontario",
@@ -4020,6 +4042,27 @@
    ],
    "french": false,
    "search": "ncino salesforce developer - apex, lws, copado astra-north infoteck inc. toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Devops Engineer",
+   "company": "Akkodis",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961954410",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce devops engineer akkodis toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -4444,27 +4487,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Sr. Salesforce Developer - FSC, Field Service Lightning, Vaadin",
-   "company": "Astra-North Infoteck Inc.",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5961944557",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. salesforce developer - fsc, field service lightning, vaadin astra-north infoteck inc. toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Salesforce Developer",
    "company": "Delpath",
    "location": "Toronto, Ontario",
@@ -4489,6 +4511,27 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Sr. Salesforce Developer - FSC, Field Service Lightning, Vaadin",
+   "company": "Astra-North Infoteck Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5961944557",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. salesforce developer - fsc, field service lightning, vaadin astra-north infoteck inc. toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-11",
@@ -8511,6 +8554,33 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Lead Salesforce Solution Architect",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Salesforce Solution Architect",
    "company": "Cognizant",
    "location": "Toronto, ON-199 Bay Street, Ontario, Canada",
@@ -8543,33 +8613,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-cognizant-4467116032",
      "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Lead Salesforce Solution Architect",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
-     "label": "LinkedIn · Mississauga"
     }
    ]
   },
