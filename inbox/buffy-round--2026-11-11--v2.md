@@ -1,3 +1,4 @@
+<!-- merged 2026-11-12T124717Z: +0 new, 3 duplicate, version 2 -->
 # Job hunt round — 2026-11-11
 notes: LinkedIn guest (3-day window) + Workday CXS (TD, Manulife, BMO, CIBC, SunLife) + a curated pass over the unmerged inbox backlog. Every date is the one the source publishes (`<time datetime>`, Workday `postedOn`); undated, foreign and out-of-window rows were dropped, not guessed. Sales/AE/BD and aggregator listing pages are excluded by title.
 

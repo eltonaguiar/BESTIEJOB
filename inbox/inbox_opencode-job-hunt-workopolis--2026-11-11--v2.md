@@ -1,3 +1,4 @@
+<!-- merged 2026-11-12T124717Z: +0 new, 66 duplicate, version 2 -->
 ---
 model: opencode-job-hunt-workopolis
 scanned_at: 2026-11-11T14:00:00Z

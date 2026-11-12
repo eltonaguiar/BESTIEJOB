@@ -1,3 +1,4 @@
+<!-- merged 2026-11-12T124717Z: +0 new, 7 duplicate, version 2 -->
 | Posted | Role | Company | Location | URL | Note |
 |---|---|---|---|---|---|
 | 2026-11-11 | [Intermediate Salesforce System Coordinator - 5816](https://ca.linkedin.com/jobs/view/intermediate-salesforce-system-coordinator-5816-at-amyantek-4489682441) | Amyantek | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/intermediate-salesforce-system-coordinator-5816-at-amyantek-4489682441 | via hermes-cron--2026-11-11--v1.md |

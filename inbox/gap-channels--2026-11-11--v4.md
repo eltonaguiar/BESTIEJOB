@@ -1,3 +1,4 @@
+<!-- merged 2026-11-12T124717Z: +0 new, 1 duplicate, version 4 -->
 # Gap-channel harvest — 2026-11-11
 
 notes: Workday CXS / Job Bank Canada / Workable. Every row carries an absolute date published by the source (Workday `startDate`, Job Bank `li.date`, Workable `created`); undated and out-of-window rows were dropped, not guessed.
