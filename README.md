@@ -1920,7 +1920,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-12T03:03:50.214Z** · 1488 live postings from 10 public sources · 75 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-12T05:02:17.079Z** · 1326 live postings from 10 public sources · 75 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -1932,29 +1932,29 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-11 | [ServiceNow System Administrator (Remote)](https://www.adzuna.ca/details/5961957936) | Linuxassociation | Calgary, Calgary region |
 | 2026-11-11 | [Senior ServiceNow Specialist](https://www.adzuna.ca/details/5961957410) | Trans Mountain | Calgary, Calgary region |
 | 2026-11-11 | [Développeur / Développeuse ServiceNow](https://www.adzuna.ca/details/5961956857) | Viseyo | Québec, Canada |
-| 2026-11-11 | [Servicenow Developer](https://www.adzuna.ca/details/5961956080) | Triunity Software, Inc. | Markham, York region |
 | 2026-11-11 | [Senior ITSM Lead: ITIL, ServiceNow & CSI Expert](https://www.adzuna.ca/details/5961956059) | Master | Montréal, Québec |
 | 2026-11-11 | [ServiceNow Technical Architect](https://www.adzuna.ca/details/5961955873) | Alldus | Montréal, Québec |
 | 2026-11-11 | [FSO-ServiceNow Developer](https://www.adzuna.ca/details/5961955276) | National Bank of Canada | Montréal, Québec |
 | 2026-11-11 | [Contract](https://www.adzuna.ca/details/5961954885) | Thinkpivot | Montréal, Québec |
 | 2026-11-11 | [Administrateur ServiceNow](https://www.adzuna.ca/details/5961954561) | Talent Pomerleau | Montréal, Québec |
+| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490093184) | OSI Digital | Toronto, Ontario, Canada |
+| 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490077712) | OSI Digital | Vancouver, British Columbia, Canada |
 | 2026-11-12 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tforce-freight-4490068325) | TForce Freight | Saint-Laurent, Manitoba, Canada |
+| 2026-11-12 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-osi-digital-4490082587) | OSI Digital | Toronto, Ontario, Canada |
+| 2026-11-12 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-cognizant-4489077423) | Cognizant | Toronto, Ontario, Canada |
+| 2026-11-12 | [Salesforce Product Manager](https://ca.linkedin.com/jobs/view/salesforce-product-manager-at-osi-digital-4490095068) | OSI Digital | Toronto, Ontario, Canada |
+| 2026-11-12 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-osi-digital-4490079718) | OSI Digital | Vancouver, British Columbia, Canada |
+| 2026-11-11 | [Salesforce Developer](https://www.adzuna.ca/details/5962506341) | OSI Digital | Greater Vancouver, British Columbia |
+| 2026-11-11 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5962506337) | OSI Digital | Greater Vancouver, British Columbia |
 | 2026-11-11 | [Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team)](https://www.adzuna.ca/details/5962360473) | Deloitte | Toronto, Ontario |
 | 2026-11-11 | [Project Manager (Netsuite, Salesforce CPQ) - FTC until end of June 2027](https://www.adzuna.ca/details/5961958983) | Keyloop | Canada |
 | 2026-11-11 | [Salesforce Developer](https://www.adzuna.ca/details/5961958928) | Yochana | Greater Vancouver, British Columbia |
-| 2026-11-11 | [Salesforce Platform Developer](https://www.adzuna.ca/details/5961958254) | Altus Group Limited/Groupe Altus Limitée | Toronto, Ontario |
-| 2026-11-11 | [Solution Architect](https://www.adzuna.ca/details/5961957930) | Bay Street Staffing | Toronto, Ontario |
-| 2026-11-11 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5961957776) | Benevity | Calgary, Calgary region |
-| 2026-11-11 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5961957311) | Benevity | Greater Vancouver, British Columbia |
-| 2026-11-11 | [Sales Compensation Analyst](https://www.adzuna.ca/details/5961956476) | Salesforce.com, inc. | Toronto, Ontario |
-| 2026-11-11 | [Solutions Architect, Salesforce Migrations (Data360, Revenue, Tableau, or Marketing Clouds)](https://www.adzuna.ca/details/5961956366) | Salesforce | Toronto, Ontario |
-| 2026-11-11 | [Salesforce Platform Developer](https://www.adzuna.ca/details/5961955838) | Reonomy | Toronto, Ontario |
-| 2026-11-11 | [Architecte de solutions- Salesforce](https://www.adzuna.ca/details/5961955400) | Industrial Alliance Insurance and Financial Services Inc | Montréal, Québec |
 
 ### Other keyword matches — newest 10
 

@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-12T04:06:40+00:00",
+ "generatedAt": "2026-11-12T05:06:03+00:00",
  "timezone": "America/Toronto",
- "count": 2437,
- "appliedHidden": 36,
+ "count": 2442,
+ "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
   "Adzuna",
@@ -252,6 +252,114 @@
   "yoailabs.careers-page.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-12",
+   "title": "Salesforce Business Analyst",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-cognizant-4489077423",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 70,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce business analyst cognizant toronto, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Salesforce Business Analyst",
+   "company": "OSI Digital",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-osi-digital-4490079718",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 66,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce business analyst osi digital vancouver, british columbia, canada linkedin salesforce linkedin salesforce consulting/ba role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-osi-digital-4490082587",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5962506337",
+     "label": "Adzuna · Greater Vancouver"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Salesforce Product Manager",
+   "company": "OSI Digital",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-product-manager-at-osi-digital-4490095068",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce product manager osi digital toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Salesforce Developer",
+   "company": "OSI Digital",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490077712",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer osi digital vancouver, british columbia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490093184",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5962506341",
+     "label": "Adzuna · Greater Vancouver"
+    }
+   ]
+  },
   {
    "posted": "2026-11-12",
    "title": "Senior Salesforce Developer",
@@ -4406,15 +4514,15 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Manager, Sales & Marketing Clouds",
-   "company": "ivari Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
-   "note": "readme",
+   "title": "Lead Salesforce Solution Architect",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+   "note": "workday",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "Workday ATS",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -4422,8 +4530,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce manager, sales & marketing clouds ivari canada toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": []
+   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -4449,33 +4563,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5961474368",
      "label": "Adzuna · Canada"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "Lead Salesforce Solution Architect",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
-     "label": "LinkedIn · Mississauga"
     }
    ]
   },
@@ -4978,27 +5065,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Opportunités Salesforce - Architectes, Développeurs, Tech Leads, Analystes d'Affaires/Fonctionnel",
-   "company": "GFT Technologies North America",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/opportunit%C3%A9s-salesforce-architectes-d%C3%A9veloppeurs-tech-leads-analystes-d-affaires-fonctionnel-at-gft-technologies-north-america-4489699336",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "opportunites salesforce - architectes, developpeurs, tech leads, analystes d'affaires/fonctionnel gft technologies north america quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Engineering Manager, Salesforce",
    "company": "Brex",
    "location": "Vancouver, British Columbia, Canada",
@@ -5023,6 +5089,27 @@
      "label": "LinkedIn · Vancouver"
     }
    ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Opportunités Salesforce - Architectes, Développeurs, Tech Leads, Analystes d'Affaires/Fonctionnel",
+   "company": "GFT Technologies North America",
+   "location": "Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/opportunit%C3%A9s-salesforce-architectes-d%C3%A9veloppeurs-tech-leads-analystes-d-affaires-fonctionnel-at-gft-technologies-north-america-4489699336",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "opportunites salesforce - architectes, developpeurs, tech leads, analystes d'affaires/fonctionnel gft technologies north america quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-11",
@@ -6343,6 +6430,26 @@
    ],
    "french": false,
    "search": "sfdc developer motocol toronto, on adzuna salesforce readme role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "AWS Technical Architect",
+   "company": "NeuraFlash",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5961466090",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "aws technical architect neuraflash canada adzuna other adzuna role fit canada / remote",
    "alternates": []
   },
   {
@@ -42574,6 +42681,26 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "DevOps Engineer",
+   "company": "GTT, LLC",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5948017534",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer gtt, llc toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-31",
    "title": "eComm Management Analyst/ Data Analyst",
    "company": "Mindlance",
    "location": "Toronto, Ontario",
@@ -46843,6 +46970,26 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Site Reliability Engineer (Canada - Remote)",
+   "company": "AXON-Networks",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5946007386",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "site reliability engineer (canada - remote) axon-networks toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "Technical Lead, Cyber & Technology Compliance",
    "company": "Loblaw",
    "location": "Brampton, Peel region",
@@ -49229,28 +49376,6 @@
    ],
    "french": false,
    "search": "servicenow system administrator bell toronto, on / montreal, qc jobs.bell.ca servicenow readme servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-25",
-   "title": "Salesforce Business Analyst",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5941205903",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 70,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce business analyst cognizant toronto, ontario adzuna salesforce adzuna salesforce consulting/ba role fit toronto area",
    "alternates": []
   },
   {
