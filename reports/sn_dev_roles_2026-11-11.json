@@ -1,19 +1,19 @@
 {
  "status": {
   "GC Jobs (federal)": {
-   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31619B",
+   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31621B",
    "raw": 0
   },
   "RemoteOK": {
-   "status": "http 200, 100 jobs",
+   "status": "http 200, 99 jobs",
    "raw": 0
   },
   "Remotive": {
-   "status": "http 200, 13 jobs",
-   "raw": 13
+   "status": "http 200, 14 jobs",
+   "raw": 14
   },
   "Himalayas": {
-   "status": "p0:20/117922, p1:20/117932, p2:20/117922, p3:20/117922, p4:20/117922",
+   "status": "p0:20/118933, p1:20/118933, p2:20/118933, p3:20/118933, p4:20/118933",
    "raw": 0
   },
   "Jobboom (QC)": {
@@ -56,6 +56,11 @@
  "dated": [],
  "undated": [],
  "dropped": [
+  {
+   "source": "Remotive",
+   "title": "Senior React Full-stack Developer",
+   "why": "title filter"
+  },
   {
    "source": "Remotive",
    "title": "Inside Sales Contractor",
