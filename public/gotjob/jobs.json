@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-11T22:11:15.757Z",
     "generatedAt": "2026-11-12T01:15:24.625Z",
-    "total": 2850,
+    "total": 2851,
     "newThisScan": 819,
     "retainedFromPrevious": 1714,
     "sources": {
@@ -38,44 +38,6 @@
     }
   },
   "jobs": [
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
-      "source": "linkedin",
-      "company": "Loblaw Companies Limited",
-      "title": "Product Manager, ServiceNow",
-      "location": "Brampton, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-11T00:00:00.000Z",
-      "scrapedAt": "2026-11-12T01:14:08.182Z",
-      "excerpt": "Product Manager, ServiceNow · Brampton, ON · LinkedIn guest · posted 1 hour ago · ServiceNow platform product role",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ],
-      "verifiedAt": "2026-11-12T01:14:08.182Z",
-      "verifyState": "live"
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808",
-      "source": "linkedin",
-      "company": "Salesforce",
-      "title": "Q2C Senior Business Analyst",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-11T00:00:00.000Z",
-      "scrapedAt": "2026-11-12T01:14:08.182Z",
-      "excerpt": "Q2C Senior Business Analyst · Toronto, ON · Salesforce careers · posted 2 hours ago · Salesforce Quote-to-Cash",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ],
-      "verifiedAt": "2026-11-12T01:14:08.182Z",
-      "verifyState": "live"
-    },
     {
       "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/canada---toronto-metro---remote/devops-architect--can-_jr367615",
       "source": "workday",
@@ -4873,6 +4835,23 @@
       "verifyState": "unknown"
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
+      "source": "readme",
+      "company": "ivari Canada",
+      "title": "Salesforce Manager, Sales & Marketing Clouds",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-12T02:10:44.388Z",
+      "excerpt": "via linkedin",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5961482603",
       "source": "adzuna",
       "company": "Plative",
@@ -4988,6 +4967,44 @@
         "data"
       ],
       "verifiedAt": "2026-11-11T22:12:02.319775+00:00",
+      "verifyState": "live"
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
+      "source": "linkedin",
+      "company": "Loblaw Companies Limited",
+      "title": "Product Manager, ServiceNow",
+      "location": "Brampton, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T00:00:00.000Z",
+      "scrapedAt": "2026-11-12T01:14:08.182Z",
+      "excerpt": "Product Manager, ServiceNow · Brampton, ON · LinkedIn guest · posted 1 hour ago · ServiceNow platform product role",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ],
+      "verifiedAt": "2026-11-12T01:14:08.182Z",
+      "verifyState": "live"
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808",
+      "source": "linkedin",
+      "company": "Salesforce",
+      "title": "Q2C Senior Business Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T00:00:00.000Z",
+      "scrapedAt": "2026-11-12T01:14:08.182Z",
+      "excerpt": "Q2C Senior Business Analyst · Toronto, ON · Salesforce careers · posted 2 hours ago · Salesforce Quote-to-Cash",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-12T01:14:08.182Z",
       "verifyState": "live"
     },
     {
