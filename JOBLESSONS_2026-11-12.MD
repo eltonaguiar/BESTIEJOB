@@ -286,3 +286,40 @@ Result: 0 verified fresh rows added (null run).
 - Rogers / Bell / Government of Canada / elite-partner sweep: no fresh addable rows this hour (Bell roles return "has been filled"; GC platform work arrives via prime vendors; nothing new vs. the 15:00 pass).
 
 Entry-level / Platform Administrator / Platform Developer I Toronto postings: none surfaced this hour — fresh Toronto SN/SF supply remains mid/senior-heavy.
+
+## Hourly scan — 2026-11-12 18:00 EST (23:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-12 18:00 EST (23:00 UTC) |
+| Baseline (README.md tables on main @ HEAD 87941f5) | 6,758 live postings · window 2026-10-13 → 2026-11-12 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 1 |
+| Jobs merged to README.md tables | +1 → total 6,759 live postings (Salesforce header 1368→1369) |
+| Jobs merged to GitHub Pages (public/) | rebuilt with tools/build_site.py: index.html + jobs-data.json, 5,074 jobs (891 SN / 938 SF / 3,245 Other); commit+push pending |
+
+### Candidates reviewed — 1 merged, 3 logged as leads, rest deduped
+- **Quarry Consulting — Salesforce Administrator (hybrid, North York)** (LinkedIn req 4490381214; verified live and dated on movojobs.ca: Published 2026-11-12, "Added 4 hours ago", 1-year contract, hybrid 3 days/week on-site, North York / Toronto ON) — **merged** to the Salesforce table (movojobs · salesforce). Entry-level Platform Administrator row; Toronto/GTA.
+- Dexian — ServiceNow Developer (LinkedIn 4489282548, Greater Toronto Area, 2026-11-12): LinkedIn-only posting behind the HTTP 422 login wall; postedDate not independently verifiable → logged as a lead, not added (board rule: no verifiable postedDate → no merge). The same Dexian ServiceNow Developer–Toronto requisition is already on the board (2026-11-11, LinkedIn 4489008317 / 4489004961) → not a fresh row even if dated.
+- iTech US Inc — Salesforce Financial Service Cloud Developer (LinkedIn 4488521970, Toronto, 2026-11-12): same LinkedIn-date gate → lead only.
+- Rang Technologies — Salesforce Technical Architect with Revenue Cloud (RCA) (LinkedIn 4490511439, Toronto, 2026-11-12): same gate; also a senior Architect role, outside the Platform Administrator / Platform Developer I emphasis → lead only.
+- All other 2026-11-12 Toronto/GTA rows from today's fresh_ca sweep (BMO workday pair, Devconnectplatform/Alimentiv, BDO ×5, Swoon, OSI Digital QA Tester, Cognizant ×2, City of Toronto AMANDA, etc.): already on board — duplicates, skipped.
+
+### Target-company checks (Rogers / Bell / partners / GC) — nothing fresh addable
+- **Rogers** (jobs.rogers.com): Lead Management Operations Salesforce Req 343961 posted ~Oct 28 (outside the freshness window, already on board); Technical Specialist Markham lists SN/SF only as "comparable tools" (not a platform role); Delivery Specialist consumes Salesforce TOM but is not a platform role. Nothing fresh addable.
+- **Bell** (jobs.bell.ca): every ServiceNow hit returns "has been filled" — Developer/Integrator 431695, System Administrator 432824, Senior Technical Advisor 432829, Senior Manager Platform Delivery 432892, Senior SN Architect SPM 431688. Filled roles never enter the board.
+- **Government of Canada** / jobs.gc.ca / Canada.ca: zero fresh Toronto SN/SF results; GC platform work arrives via prime vendors on their own ATS. City of Toronto Systems Integration Specialist (AMANDA / Salesforce asset, posting 12-Nov-2026 → 26-Nov-2026) already on board.
+- **ServiceNow Careers Ontario** page (16 jobs): Toronto hits are sales/security/SRE — no fresh SN dev/admin.
+- **Salesforce careers Canada**: hub hiring is sales/Customer Success — no fresh Toronto Platform Administrator / Platform Developer I.
+- **Partner / elite-partner sweep** (Ateko/FX Innovation — ServiceNow Elite Partner, Montreal; Deloitte Global Elite; KPMG Global Elite; Accenture; CGI; TCS; Wipro; HCLTech; Crossfuze; BDO; MNP; OSI Digital; Apptoza; Galent; Lane Four; CloudKettle): no fresh addable Toronto rows this hour.
+
+### Patterns / lessons (18:00 pass)
+1. **Merge rate stays low by design.** ~60 Toronto SN/SF rows surfaced this hour; exactly 1 passed all three gates (live + dated + not on board). Zero-to-one merge hours are the norm, not a failure.
+2. **movojobs.ca is a dated LinkedIn mirror that passes the gates.** Its pages publish "Published: YYYY-MM-DD" and answer live (HTTP 200), unlike ca.linkedin.com job pages (HTTP 422 login wall, no extractable date). Aggregator mirrors with explicit publish dates are a usable verification fallback for LinkedIn-sourced requisitions.
+3. **Role + company + location dedupe beats URL-only dedupe.** Dexian 4489282548 is a brand-new URL but the same Dexian ServiceNow Developer–Toronto requisition is already on the board (2026-11-11) under different LinkedIn URLs → not fresh.
+4. **Bell filled-role and Scotiabank closed-role gates hold across every pass.** Never re-list filled or "not accepting applicants" roles.
+5. **Entry-level / Platform Administrator / Platform Developer I Toronto supply:** 1 fresh Platform Administrator row this hour (Quarry); zero Platform Developer I rows. Fresh Toronto SN/SF supply remains mid/senior-heavy.
+
+### Files changed
+- README.md (+1 Salesforce row: Quarry Consulting Salesforce Administrator; Contents 1367→1368, header 1368→1369, total 6758→6759)
+- public/index.html + public/jobs-data.json (rebuilt via tools/build_site.py)
+- JOBLESSONS_2026-11-12.MD (this entry)

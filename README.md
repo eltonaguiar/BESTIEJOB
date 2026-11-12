@@ -10,7 +10,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-12](#current-jobs--as-of-2026-11-12)
   - [ServiceNow jobs (1193)](#servicenow-jobs-1193)
-  - [Salesforce jobs (1367)](#salesforce-jobs-1367)
+  - [Salesforce jobs (1368)](#salesforce-jobs-1367)
   - [Other jobs (4206)](#other-jobs-4206)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-12
 
-Window: 2026-10-13 → 2026-11-12 · **6758 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-12 · **6759 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1195)_developer / administrator / architect / analyst roles_|| 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447?utm_medium=api&utm_source=54ce986e) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v3.md · adzuna |
 <details><summary><strong>Show 1195 postings</strong></summary>|| 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow |
@@ -1215,14 +1215,15 @@ Window: 2026-10-13 → 2026-11-12 · **6758 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1368)_developer / administrator / architect / consultant roles_
-<details><summary><strong>Show 1368 postings</strong></summary>|| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (Toronto) | cognizant · salesforce |
+### Salesforce jobs (1369)_developer / administrator / architect / consultant roles_
+<details><summary><strong>Show 1369 postings</strong></summary>|| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (Toronto) | cognizant · salesforce |
 || 2026-11-12 | [Salesforce Omnistudio Developer](https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4488534223) | Galent | Toronto, Ontario, Canada | linkedin · salesforce |
 || 2026-11-12 | [Salesforce Senior FSC Developer / Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4488530420) | Apptoza Inc. | Toronto, Ontario, Canada | linkedin · salesforce |
 || 2026-11-12 | [Salesforce Quality Analyst Tester](https://www.adzuna.ca/land/ad/5963156514) | OSI Digital | Toronto, Ontario | adzuna · salesforce |
 || 2026-11-12 | [Salesforce Technical Architect - Strong in Revenue Cloud Advanced RCA](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-in-revenue-cloud-advanced-rca-at-smart-it-frame-llc-4489256411) | Smart IT Frame LLC | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
-| 2026-11-12 | [Technical Architect Director - PubSec - Mulesoft Canada](https://ca.linkedin.com/jobs/view/technical-architect-director-pubsec-mulesoft-canada-at-salesforce-4473927818) | Salesforce | Montreal, Quebec, Canada | via fresh-ca--2026-11-12--v1.md |
-||| 2026-11-11 | [Salesforce Architect with Multi-Cloud Experience](https://www.adzuna.ca/details/5961946308) | CloudLabs Inc | Toronto, ON, Canada | via fresh-ca--2026-11-12--v1.md · adzuna |
+|| 2026-11-12 | [Technical Architect Director - PubSec - Mulesoft Canada](https://ca.linkedin.com/jobs/view/technical-architect-director-pubsec-mulesoft-canada-at-salesforce-4473927818) | Salesforce | Montreal, Quebec, Canada | via fresh-ca--2026-11-12--v1.md |
+|| 2026-11-12 | [Salesforce Administrator (hybrid, North York)](https://movojobs.ca/quarry-consulting/jobs/salesforce-administrator-hybrid-north-york-3908906) | Quarry Consulting | North York, Ontario, Canada | movojobs · salesforce |
+|| 2026-11-11 | [Salesforce Architect with Multi-Cloud Experience](https://www.adzuna.ca/details/5961946308) | CloudLabs Inc | Toronto, ON, Canada | via fresh-ca--2026-11-12--v1.md · adzuna |
 | 2026-11-11 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5961943912?utm_medium=api&utm_source=54ce986e) | Capgemini | Mississauga, Peel region | via fresh-ca--2026-11-11--v8.md |
 | 2026-11-11 | [ERP Salesforce Financial Consultant](https://www.adzuna.ca/details/5961946448?utm_medium=api&utm_source=54ce986e) | Chapman Tate Associates | British Columbia, Canada | via fresh-ca--2026-11-11--v8.md |
 | 2026-11-11 | [Salesforce Field Service (FSL) Developer](https://www.adzuna.ca/details/5961935818?utm_medium=api&utm_source=54ce986e) | Danaher Corporation | Vaughan, York region | via fresh-ca--2026-11-12--v1.md |
