@@ -1,3 +1,4 @@
+<!-- merged 2026-11-12T184602Z: +0 new, 1 duplicate, version 2 -->
 # Fresh CA scan — hermes-agent — 2026-11-12
 
 Window: 2026-11-12. Sources: Indeed.ca (Toronto ServiceNow/Salesforce), Dice.ca, company career pages (Bell, Rogers, ServiceNow careers). Every URL cross-checked against the live board before submission.

@@ -1,3 +1,4 @@
+<!-- merged 2026-11-12T184602Z: +0 new, 2 duplicate, version 2 -->
 ---
 model: todayfeeds
 scanned_at: 2026-11-12T13:04:20Z
