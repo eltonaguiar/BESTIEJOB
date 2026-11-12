@@ -205,3 +205,38 @@ Adzuna detail pages return HTTP 405 to extractors — trust the dated sweep file
 - README.md (+6 rows; counts refreshed: TOC + table headers)
 - jobs.json + public/jobs.json + public/gotjob/jobs.json + public/findjobs/jobs.json (sync_write attempted; README authoritative)
 - JOBLESSONS_2026-11-12.MD (this entry)
+
+## Hourly scan — 2026-11-12 13:00 EST (18:00 UTC) — NULL RUN (seventh pass)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-12 13:00 EST (18:00 UTC) |
+| Baseline (README.md tables + jobs.json on main @ HEAD e8d3578) | 6,756 live postings · ServiceNow 1,191 · Salesforce 1,366 · Other 4,206 · window 2026-10-13 → 2026-11-12 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md tables | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required; public/ republished on the 12:00 EST push via .github/workflows/pages.yml) |
+
+### Scans run (13:00 pass)
+- scripts/fresh_ca_scan.py --days 2 --linkedin 0 --eluta-pages 2 --jobbank-pages 1 --geos "||Toronto, Ontario|Ontario": hit the 240s wall clock before completing (LinkedIn guest pass + Adzuna calls are the slow path). Partial report generated 13:09:38Z surfaced 1 row past URL+liveness+board dedupe — Yochana "ServiceNow Product and Platform Consultant" (adzuna.ca/details/5961953846, posted 2026-11-11, Remote Canada) — already on the board (added via fresh-ca--2026-11-12--v1.md in the 12:00 EST merge). No inbox file was written (scan timed out before the inbox step).
+- Manual verification sweep (web search + direct page fetch + README/jobs.json URL dedupe): all candidates below already on board, closed, filled, or out of scope.
+
+### Candidates reviewed (13:00 pass) — all deduped, 0 added
+- Cognizant — Salesforce Developer (req 00071305431, Toronto/remote 199 Bay Street, applies till 11/20/2026, $80–95K CAD): verified live directly on careers.cognizant.com — already on board (2026-11-12, cognizant · salesforce)
+- City of Toronto — Systems Integration Specialist (AMANDA Developer/Administrator, posting 12-Nov-2026 to 26-Nov-2026, Salesforce is an asset): already on board (2026-11-12, city-government)
+- Scotiabank — ServiceNow Developer (Req 260518 / 603030017): already on board (2026-11-04); employer page now returns "not accepting any further applicants" — closed, excluded
+- Yochana — ServiceNow Product and Platform Consultant (adzuna 5961953846): already on board (Remote Canada)
+- Survalent / Amyantek / Benevity / Procom / Altus Group Salesforce + ServiceNow roles (Toronto/Mississauga, posted 2026-11-04 → 2026-11-11): already on board
+- Bell ServiceNow reqs (Developer/Integrator 431695, System Administrator 432824, Senior Technical Advisor 432829, Senior Manager Platform Delivery 432892): return "has been filled" — skipped
+- Rogers — Technical Specialist Markham (Req 343759, SN/SF only as comparable tools, not a platform role); Lead Management Operations Salesforce (Req 343961): already on board or out of scope
+- ServiceNow Careers Ontario page (16 jobs): Toronto hits are sales/security/SRE, no fresh SN dev/admin
+- Salesforce careers Canada: hub hiring is sales/Customer Success — no fresh Toronto Platform Admin / Platform Developer I
+
+### Target-company checks (Rogers / Bell / partners / GC) — nothing fresh addable
+- Rogers, Bell, TELUS, Government of Canada / jobs.gc.ca / Canada.ca: nothing fresh addable this hour
+- Partner / elite-partner sweep (Ateko/FX Innovation, Deloitte, EY, KPMG, Cognizant, CGI, TCS, Wipro, HCLTech, Crossfuze, BDO, MNP, OSI Digital, Apptoza, Galent, Lane Four, CloudKettle): nothing fresh addable
+
+### Patterns / lessons (13:00 pass)
+1. Seventh pass today with zero table additions. Null runs are the norm at this hour; a scan that surfaces rows but adds none is still a successful dedupe verification — the board did not stagnate, it simply had nothing genuinely new this hour.
+2. fresh_ca_scan.py timed out at 240s; its partial report still dedupes cleanly and its single survivor was already on the board. Split Adzuna and the LinkedIn guest pass into separate sub-runs to fit the session wall clock.
+3. URL-only dedupe catches re-emitted Adzuna requisitions; role + company + location dedupe catches locale-variant Cognizant requisitions (us-en / uki-en / ca-en).
+4. Confirm apply status before listing: Bell filled roles and the closed Scotiabank role both surfaced in search but fail the liveness/apply gate — never list closed or filled roles as fresh.
