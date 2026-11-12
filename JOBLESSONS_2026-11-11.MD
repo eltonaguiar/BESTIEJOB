@@ -446,3 +446,42 @@ Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs)
 - `JOBLESSONS_2026-11-11.MD` — this section added
 
 Commit pushed to main; README push triggers GitHub Pages redeploy via pages.yml.
+
+
+## Hourly cron scan — 2026-11-11 19:00 EST (2026-11-12 00:00 UTC) — null run
+
+**Scope:** fresh Toronto/GTA ServiceNow + Salesforce postings, deduped against `jobs.json` (2,849 rows), `README.md` tables (1,578 URLs; 1,580 live postings: SN 536 · SF 545 · Other 499), and `APPLIED.md` (7 archived rows).
+**Branch:** main, current with `ddcc952` / `7b13df2` — hourly scan refresh 2026-11-11T23:11–23:12Z (18:11–18:12 EST).
+**Result: 0 verified-fresh jobs merged (null run).**
+
+**Channels checked**
+1. `jobs.json` hourly-refresh feed (ran 18:11–18:12 EST): smartrecruiters 13 · workday 14 · greenhouse 16 · lever 1 · ashby 2 · linkedin 285 · adzuna 480 · remote boards 9 → 819 fresh candidates. Filtered to SN/SF + Toronto/GTA/Ontario/Canada/remote posted 2026-11-09 → 2026-11-11: 356 candidates, 92 absent from README tables by URL.
+2. Company+title dedupe of those 92 against README rows — every Toronto candidate already on the board under another URL or mirror:
+   - Triunity ServiceNow Developer (adzuna 5961958534, README line 124, posted 2026-11-10 — "also Markham & Mississauga")
+   - Delpath Salesforce Developer (adzuna 5961944597, line 594)
+   - Altus Group Salesforce Platform Developer (Workopolis mirror, line 615; also lines 713/981/982)
+   - Jobgether Remote ServiceNow Functional Analyst (adzuna 5961953410, line 41)
+   - BeachHead Senior ServiceNow Developer SAM/HAM (LinkedIn 4489985060, line 44; new LinkedIn id 4489988081 = same company+title+city repost)
+   - Dexian ServiceNow Developer (LinkedIn 4489008317, line 52; 4489004961 = same company+title repost)
+   - CAAT Pension ServiceNow Technical Lead (Workopolis mirror, line 63)
+   - Fxinnovation (ATEKO) ServiceNow Implementation Specialist (adzuna 5961958891, line 193 — Adzuna id re-index)
+   - Cognizant Salesforce Data Cloud Developer (Workopolis mirror line 629; careers.cognizant.com direct URL = company+title dupe)
+   - AGF Salesforce AI & Data Cloud Solutions Engineer (adzuna 5961954086, line 596; new adzuna id 5961935620 = id churn)
+   - Smart IT Frame / Brillio / Insight Global / Winobell / Co-operators — already on board or outside Toronto (Guelph).
+3. Web search (Indeed.ca / LinkedIn / Workopolis / JobBank): BMO ServiceNow SAM Administrator (already on board); KPMG/CGI/Deloitte senior SN roles (already on board); ServiceNow-the-company staff/SRE/security roles (staff level, already represented); Salesforce.com corporate AE/SE/pre-sales/partner-sales roles (excluded by title rule); Lane Four Salesforce Consultant Toronto (already on board 2026-11-06 via LinkedIn 4487341676; page shows no new date).
+4. Partner / telco / government sweep:
+   - Rogers (jobs.rogers.com): Technical Specialist — SN/SF only as "familiarity" (excluded by title rule); Lead Management Operations = marketing operations, Ottawa (excluded).
+   - Bell (jobs.bell.ca): ServiceNow Developer/Integrator 431695 filled; Senior Manager ServiceNow Platform Delivery filled; Senior Technical Advisor filled — skip-on-sight holds, never re-probed as live.
+   - RBC (jobs.rbc.com): ServiceNow Discovery & Service Mapping Engineer filled; Salesforce Platform Engineer filled; Senior Manager Salesforce Solutions = manager-level (excluded).
+   - Government of Canada (jobs.gc.ca/canada.ca) + Ontario gojobs.gov.on.ca: zero dated Toronto SN/SF platform hits.
+
+**Excluded:** relative-age postings with no verifiable absolute `datePosted`; sales/pre-sales/account-management/marketing-ops titles; staff/manager/director/senior-advisory levels outside the Platform Admin / Platform Developer I emphasis; expired/filled/"no longer accepting applicants" (skip-on-sight).
+
+**Merged:** 0 jobs to README.md; 0 to GitHub Pages (board unchanged — no pages.yml redeploy required; GitHub Pages remains current via the scheduled :35 pages build after the 18:12 EST refresh).
+
+**Lessons confirmed**
+- Null runs are the expected norm: seventh null run of 2026-11-11 (01:00, 02:00, 05:00, 09:00, 11:00, 14:00, 19:00 EST); merge cycles this date were 00:00 (+9), 06:00 (+3), 12:00 (+5), 13:00 (+23), 17:00 (+1).
+- Adzuna id churn (new adzuna.ca id, same company+title+date) and Workopolis/LinkedIn mirror dups are this cycle's main duplicate drivers — company+title dedupe catches them; URL-only dedupe does not.
+- Entry-level Salesforce Platform Administrator / Platform Developer I (0–2 yrs) in Toronto: none surfaced — remains the top keyword gap; the Bell 2027 Grad Program (Salesforce + ServiceNow CSM mention) stays the closest entry-level match.
+
+**Files touched:** `JOBLESSONS_2026-11-11.MD` (this section). `README.md`, `jobs.json`, `public/` unchanged.
