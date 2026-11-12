@@ -6868,56 +6868,49 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-12T05:02:17.079Z** · 1326 live postings from 10 public sources · 75 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-12T12:01:02.467Z** · 77 live postings from 10 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
-| 2026-11-11 | [ServiceNow Developers and Architects (Future Opportunity)](https://www.adzuna.ca/details/5961958875) | OXARO Inc. | Ottawa, Ottawa region |
-| 2026-11-11 | [ServiceNow Administrator](https://www.adzuna.ca/details/5961958824) | Pomerleau | Montréal, Québec |
-| 2026-11-11 | [ServiceNow SPM Developer](https://www.adzuna.ca/details/5961958394) | Alldus | Montréal, Québec |
-| 2026-11-11 | [ServiceNow System Administrator (Remote)](https://www.adzuna.ca/details/5961957936) | Linuxassociation | Calgary, Calgary region |
-| 2026-11-11 | [Senior ServiceNow Specialist](https://www.adzuna.ca/details/5961957410) | Trans Mountain | Calgary, Calgary region |
-| 2026-11-11 | [Développeur / Développeuse ServiceNow](https://www.adzuna.ca/details/5961956857) | Viseyo | Québec, Canada |
-| 2026-11-11 | [Senior ITSM Lead: ITIL, ServiceNow & CSI Expert](https://www.adzuna.ca/details/5961956059) | Master | Montréal, Québec |
-| 2026-11-11 | [ServiceNow Technical Architect](https://www.adzuna.ca/details/5961955873) | Alldus | Montréal, Québec |
-| 2026-11-11 | [FSO-ServiceNow Developer](https://www.adzuna.ca/details/5961955276) | National Bank of Canada | Montréal, Québec |
-| 2026-11-11 | [Contract](https://www.adzuna.ca/details/5961954885) | Thinkpivot | Montréal, Québec |
-| 2026-11-11 | [Administrateur ServiceNow](https://www.adzuna.ca/details/5961954561) | Talent Pomerleau | Montréal, Québec |
-| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON |
+| 2026-11-12 | [Hybrid! ServiceNow Developer - Senior, 6 Month Contract](https://www.adzuna.ca/details/5962875281) | Dimensional Tech | Canada |
+| 2026-11-11 | [ServiceNow Technical Lead](https://www.adzuna.ca/details/5961946481) | CAAT Pension Plan | Toronto, Ontario |
+| 2026-11-11 | [Servicenow implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-pacer-group-4488236553) | Pacer Group | Toronto, Ontario, Canada |
+| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-developer-at-cognizant-4489032943) | Cognizant | Toronto, Ontario, Canada |
+| 2026-10-12 | [ServiceNow Senior. Business Analyst (SPM)](https://boards.greenhouse.io/accenturefederalservices/jobs/4678720006?gh_jid=4678720006) | accenturefederalservices | Springfield, VA |
+| 2026-10-12 | [ServiceNow Nuvolo Integration Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4691240006?gh_jid=4691240006) | accenturefederalservices | Washington, DC |
+| 2026-10-12 | [ServiceNow Developer - HRSD](https://boards.greenhouse.io/accenturefederalservices/jobs/4601744006?gh_jid=4601744006) | accenturefederalservices | Springfield, VA |
+| 2026-10-12 | [ServiceNow Developer](https://boards.greenhouse.io/accenturefederalservices/jobs/4673205006?gh_jid=4673205006) | accenturefederalservices | Arlington, VA |
+| 2026-10-12 | [ServiceNow Business Analyst - HRSD](https://boards.greenhouse.io/accenturefederalservices/jobs/4601714006?gh_jid=4601714006) | accenturefederalservices | Springfield, VA |
+| 2026-10-12 | [ServiceNow Business Analyst (SPM)](https://boards.greenhouse.io/accenturefederalservices/jobs/4678729006?gh_jid=4678729006) | accenturefederalservices | Springfield, VA |
+| 2026-10-12 | [ServiceNow Architect](https://boards.greenhouse.io/accenturefederalservices/jobs/4643648006?gh_jid=4643648006) | accenturefederalservices | Springfield, VA |
+| 2026-10-12 | [Senior-Level ServiceNow Developer](https://boards.greenhouse.io/accenturefederalservices/jobs/4697590006?gh_jid=4697590006) | accenturefederalservices | Washington, DC |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
-| 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490093184) | OSI Digital | Toronto, Ontario, Canada |
-| 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490077712) | OSI Digital | Vancouver, British Columbia, Canada |
-| 2026-11-12 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tforce-freight-4490068325) | TForce Freight | Saint-Laurent, Manitoba, Canada |
-| 2026-11-12 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-osi-digital-4490082587) | OSI Digital | Toronto, Ontario, Canada |
-| 2026-11-12 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-cognizant-4489077423) | Cognizant | Toronto, Ontario, Canada |
-| 2026-11-12 | [Salesforce Product Manager](https://ca.linkedin.com/jobs/view/salesforce-product-manager-at-osi-digital-4490095068) | OSI Digital | Toronto, Ontario, Canada |
-| 2026-11-12 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-osi-digital-4490079718) | OSI Digital | Vancouver, British Columbia, Canada |
-| 2026-11-11 | [Salesforce Developer](https://www.adzuna.ca/details/5962506341) | OSI Digital | Greater Vancouver, British Columbia |
-| 2026-11-11 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5962506337) | OSI Digital | Greater Vancouver, British Columbia |
-| 2026-11-11 | [Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team)](https://www.adzuna.ca/details/5962360473) | Deloitte | Toronto, Ontario |
-| 2026-11-11 | [Project Manager (Netsuite, Salesforce CPQ) - FTC until end of June 2027](https://www.adzuna.ca/details/5961958983) | Keyloop | Canada |
-| 2026-11-11 | [Salesforce Developer](https://www.adzuna.ca/details/5961958928) | Yochana | Greater Vancouver, British Columbia |
+| 2026-11-12 | [Multiple Year Contract! Salesforce Solutions Designer - Senior](https://www.adzuna.ca/details/5962894993) | Dimensional Tech | Canada |
+| 2026-11-11 | [Salesforce Product Manager](https://www.adzuna.ca/details/5962506353) | OSI Digital | Toronto, Ontario |
+| 2026-11-11 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5962506340) | OSI Digital | Toronto, Ontario |
+| 2026-11-11 | [Salesforce Developer](https://www.adzuna.ca/details/5962506342) | OSI Digital | Toronto, Ontario |
+| 2026-11-11 | [Salesforce Data Cloud Developer](https://www.adzuna.ca/details/5961953621) | Cognizant | Toronto, Ontario |
+| 2026-11-11 | [Salesforce FSC Developer](https://www.adzuna.ca/details/5961951995) | Cognizant | Toronto, Ontario |
+| 2026-11-11 | [Salesforce Developer (Dealer Services)](https://www.adzuna.ca/details/5961949272) | Winobell | Toronto, Ontario |
+| 2026-11-11 | [Salesforce Developer 1014](https://www.adzuna.ca/details/5961942812) | Veracity Ventures Inc. | Toronto, Ontario |
+| 2026-11-11 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5961940577) | Benevity | Toronto, Ontario |
+| 2026-11-11 | [Salesforce Platform Developer](https://www.adzuna.ca/details/5961940115) | Altus Group | Toronto, Ontario |
+| 2026-11-10 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5960555239) | Cognizant | Toronto, Ontario |
+| 2026-11-07 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5957382523) | Insight Global | Toronto, Ontario |
 
-### Other keyword matches — newest 10
+### Other keyword matches — newest 3
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
-| 2026-11-11 | [DevOps Architect (CAN)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto-Metro---Remote/DevOps-Architect--CAN-_JR367615) | Salesforce | Canada - Toronto Metro - Remote | DevOps / Cloud |
-| 2026-11-11 | [DÉVELOPPEUR BACKEND DEVOPS Montréal (hybride) 2026-10-07](https://www.adzuna.ca/details/5961958996) | CHROME TECHNOLOGIES | Canada | DevOps / Cloud |
-| 2026-11-11 | [Full-Stack Developer](https://www.adzuna.ca/details/5961958759) | Lucova Inc. | Toronto, Ontario | Full stack |
-| 2026-11-11 | [RQ00675/RQ00674 - Sr. Solutions Designer - CRM](https://www.adzuna.ca/details/5961958561) | Source Code | Toronto, Ontario | other |
-| 2026-11-11 | [Full Stack Java Engineer](https://www.adzuna.ca/details/5961958318) | Miratech | Toronto, Ontario | Full stack |
-| 2026-11-11 | [Senior Full Stack Java Developer – Adobe Experience Manager (AEM)](https://www.adzuna.ca/details/5961957922) | Astra-North Infoteck Inc. | Toronto, Ontario | Full stack |
-| 2026-11-11 | [Senior Software Engineer (Full Stack)](https://www.adzuna.ca/details/5961957888) | O2E Brands | Greater Vancouver, British Columbia | Full stack |
-| 2026-11-11 | [Solutions Architect (Full Stack, Data, Cloud, Reliability)](https://www.adzuna.ca/details/5961957947) | Apex Systems | Toronto, Ontario | Full stack |
-| 2026-11-11 | [RQ08939 - Software Developer - Full Stack - Senior](https://www.adzuna.ca/details/5961956975) | Rubicon Path | Toronto, Ontario | Full stack |
-| 2026-11-11 | [Full Stack Developer - Canada Remote (10)](https://www.adzuna.ca/details/5961956088) | Yoush Consulting | Toronto, Ontario | Full stack |
+| 2026-11-11 | [Consultant, ITAM Transactions & Compliance](https://www.adzuna.ca/details/5961944032) | CIBC | Toronto, Ontario | other |
+| 2026-11-06 | [Staff Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955917180) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-06 | [Senior Site Reliability Engineer, Canada Protected B](https://www.adzuna.ca/details/5955916244) | ServiceNow | Toronto, Ontario | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
