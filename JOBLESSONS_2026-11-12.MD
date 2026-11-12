@@ -275,3 +275,14 @@ Adzuna detail pages return HTTP 405 to extractors — trust the dated sweep file
 ### Files changed
 - `JOBLESSONS_2026-11-12.MD` (this entry)
 - `README.md` / `jobs.json` / `public/` — unchanged (null run, no rows to merge; no site rebuild required)
+
+### 17:00 EST re-scan (independent pass, 2026-11-12)
+Independent targeted search for fresh Toronto ServiceNow/Salesforce postings; every candidate deduped against README.md tables + jobs.json before any merge.
+
+Result: 0 verified fresh rows added (null run).
+- **Cognizant Salesforce Developer** (careers.cognizant.com/apj-en/jobs/00071305431, posted Nov 12 2026, Remote Canada/Toronto, $80–95k CAD) — already on the board as the `us-en` locale mirror (README line 1223, same requisition 00071305431). Dedupe by role+company+location, not URL alone → skipped.
+- **Scotiabank Salesforce Developer** (jobs.scotiabank.com .../604373417/, req 265640) — canonical page returns "not accepting any further applicants" → closed, skipped.
+- **Indeed Senior ServiceNow Developer, CMDB/HAM/SAM, Toronto Eaton Center** (ca.indeed.com/viewjob?jk=6d12ca9d15fb67dc, $100–110/hr contract to 2027-04-30) — live but Indeed hides the posting date; rows without a verified postedDate are dropped by `tools/build_site.py`, and it's senior (5+ yrs) not Platform Administrator/Developer I → logged as a lead only, not added.
+- Rogers / Bell / Government of Canada / elite-partner sweep: no fresh addable rows this hour (Bell roles return "has been filled"; GC platform work arrives via prime vendors; nothing new vs. the 15:00 pass).
+
+Entry-level / Platform Administrator / Platform Developer I Toronto postings: none surfaced this hour — fresh Toronto SN/SF supply remains mid/senior-heavy.
