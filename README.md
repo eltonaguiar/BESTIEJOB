@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-12](#current-jobs--as-of-2026-11-12)
-  - [ServiceNow jobs (1187)](#servicenow-jobs-1187)
-  - [Salesforce jobs (1357)](#salesforce-jobs-1357)
+  - [ServiceNow jobs (1191)](#servicenow-jobs-1191)
+  - [Salesforce jobs (1366)](#salesforce-jobs-1366)
   - [Other jobs (4206)](#other-jobs-4206)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,11 +18,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-12
 
-Window: 2026-10-13 → 2026-11-12 · **6750 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-12 · **6756 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1189)_developer / administrator / architect / analyst roles_
-<details><summary><strong>Show 1189 postings</strong></summary>| 2026-11-12 | [Specialized IT Consultant (ServiceNow) - Senior, 1 yr contract](https://www.adzuna.ca/details/5962883790?utm_medium=api&utm_source=54ce986e) | Dimensional Tech | Canada | via fresh-ca--2026-11-12--v1.md |
-| 2026-11-12 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-swoon-4490348678) | Swoon | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
+### ServiceNow jobs (1191)_developer / administrator / architect / analyst roles_
+<details><summary><strong>Show 1191 postings</strong></summary>| 2026-11-12 | [Specialized IT Consultant (ServiceNow) - Senior, 1 yr contract](https://www.adzuna.ca/details/5962883790?utm_medium=api&utm_source=54ce986e) | Dimensional Tech | Canada | via fresh-ca--2026-11-12--v1.md |
+|| 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow |
+|| 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995) | BMO | Toronto, ON, CAN | workday · servicenow |
+|| 2026-11-12 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-swoon-4490348678) | Swoon | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-09 | [ServiceNow SAM Administrator - ITAM](https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-09--v14.md |
 | 2026-11-09 | [ServiceNow Senior Developer](https://emplois.ca.indeed.com/viewjob?jk=c956b22cc281049c) | BDO Canada | Toronto, ON, Canada | via hermes-agent--2026-11-09--v10.md |
 | 2026-11-09 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454522998) | KPMG Canada | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-final--2026-11-09--v10.md |
@@ -1213,10 +1215,14 @@ Window: 2026-10-13 → 2026-11-12 · **6750 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1362)_developer / administrator / architect / consultant roles_
+### Salesforce jobs (1366)_developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 1362 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
-| 2026-11-12 | [Salesforce Technical Architect - Strong in Revenue Cloud Advanced RCA](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-in-revenue-cloud-advanced-rca-at-smart-it-frame-llc-4489256411) | Smart IT Frame LLC | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
+<details><summary><strong>Show 1366 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
+|| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (Toronto) | cognizant · salesforce |
+|| 2026-11-12 | [Salesforce Omnistudio Developer](https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4488534223) | Galent | Toronto, Ontario, Canada | linkedin · salesforce |
+|| 2026-11-12 | [Salesforce Senior FSC Developer / Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4488530420) | Apptoza Inc. | Toronto, Ontario, Canada | linkedin · salesforce |
+|| 2026-11-12 | [Salesforce Quality Analyst Tester](https://www.adzuna.ca/land/ad/5963156514) | OSI Digital | Toronto, Ontario | adzuna · salesforce |
+|| 2026-11-12 | [Salesforce Technical Architect - Strong in Revenue Cloud Advanced RCA](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-in-revenue-cloud-advanced-rca-at-smart-it-frame-llc-4489256411) | Smart IT Frame LLC | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-12 | [Technical Architect Director - PubSec - Mulesoft Canada](https://ca.linkedin.com/jobs/view/technical-architect-director-pubsec-mulesoft-canada-at-salesforce-4473927818) | Salesforce | Montreal, Quebec, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-11 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5961943912?utm_medium=api&utm_source=54ce986e) | Capgemini | Mississauga, Peel region | via fresh-ca--2026-11-11--v8.md |
 | 2026-11-11 | [ERP Salesforce Financial Consultant](https://www.adzuna.ca/details/5961946448?utm_medium=api&utm_source=54ce986e) | Chapman Tate Associates | British Columbia, Canada | via fresh-ca--2026-11-11--v8.md |

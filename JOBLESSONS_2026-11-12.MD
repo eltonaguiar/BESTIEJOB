@@ -160,3 +160,48 @@ Adzuna detail pages return HTTP 405 to extractors — trust the dated sweep file
 2. Re-surfaced Adzuna requisitions are the bulk of "fresh." All 3 fresh_ca rows were already on the board from the 06:00 EST merge - Adzuna re-emits the same requisition hourly under the same URL, so URL dedupe catches them before they reach the tables.
 3. Workday "Posted Today" roles still need liveness + dedupe. The Salesforce Technical Architect Director re-surfaced on todayfeeds but is already on board via LinkedIn since Oct 22 - same role, different source URL; dedupe by role + company + location.
 4. Public-sector and partner boards add almost nothing dated. OPS blocked by bot manager (Job Bank fallback had nothing dated), partner Workday tenants 1/15 answering with 0 relevant - rely on aggregators (Adzuna dated API) + employer ATS feeds for dated Canadian SN/SF rows.
+
+
+## Hourly scan — 2026-11-12 12:00 EST (17:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-12 12:00 EST (17:00 UTC) |
+| Baseline (README.md tables + jobs.json on main @ origin 394ea96, 16:16 UTC scan) | 6,750 live postings · ServiceNow 1,187 (TOC) / 1,189 (table header) · Salesforce 1,357 (TOC) / 1,362 (table header) · Other 4,206 · window 2026-10-13 → 2026-11-12 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 6 |
+| Jobs merged to README.md tables | +6 → ServiceNow 1,191 · Salesforce 1,366 · total 6,756 live postings |
+| Jobs merged to GitHub Pages (public/) | pending `git push origin main` — `.github/workflows/pages.yml` rebuilds + redeploys on push (README.md is a trigger path) |
+
+### Candidates reviewed and merged (all posted 2026-11-12, Toronto unless noted)
+- BMO — ServiceNow CMDB Administrator (R260030992), Toronto ON — workday — bmo.wd3.myworkdayjobs.com — added to ServiceNow table
+- BMO — ServiceNow Technology Lifecycle Analyst (R260030995), Toronto ON — workday — bmo.wd3.myworkdayjobs.com — added to ServiceNow table
+- Cognizant — Salesforce Developer (req 00071305431, remote in Canada / Toronto 199 Bay Street, applies till 11/20/2026, $80–95K CAD) — **verified live directly on careers.cognizant.com** — added to Salesforce table (cognizant · salesforce)
+- Galent — Salesforce Omnistudio Developer (4488534223), Toronto — linkedin — added
+- Apptoza Inc. — Salesforce Senior FSC Developer / Technical Lead (4488530420), Toronto — linkedin — added
+- OSI Digital — Salesforce Quality Analyst Tester (5963156514), Toronto — adzuna — added
+
+### Dedupe outcome (checked against board before merging)
+- OSI Digital adzuna URLs (Salesforce Business Analyst 5963222927, Developer 5962893078) — skipped: LinkedIn versions (4490082587, 4490093184) already absorbed by origin's 16:16 UTC scan.
+- Already on board, skipped: Cognizant SAM Developer 00070949051; Cognizant Salesforce FSC Developer 00070907531; Scotiabank ServiceNow Developer 603030017 + Salesforce Developer 604373417; Bell ServiceNow System Administrator 432824; Robert Half Salesforce Developer 000954410; Lightspeed ServiceNow Developer 4482543161; Triunity ServiceNow Developer (Handshake 11766074); Take-Two ITOM 4481160381; CAAT Pension Technical Lead 4481155245 (same LinkedIn URLs as earlier-dated rows).
+
+### Target-company checks (Rogers / Bell / partners / GC) — nothing fresh addable beyond the 6 above
+- Rogers (jobs.rogers.com): Technical / corporate listings checked — no ServiceNow or Salesforce developer/admin role surfaced.
+- TELUS (careers.telus.com): searched — no fresh Toronto SN/SF posting.
+- Bell (jobs.bell.ca): ServiceNow hits (Developer/Integrator 431695, System Administrator 432824, Senior Technical Advisor 432829, Senior Manager Platform Delivery 432892) return "has been filled" — skipped.
+- Government of Canada / jobs.gc.ca / Canada.ca: nothing dated fresh; GC platform work comes via prime vendors on their own ATS.
+- ServiceNow Careers Ontario page: 16 Ontario jobs — Toronto hits are sales/security/SRE, no fresh SN dev/admin.
+- Salesforce careers Canada: hub hiring is sales/Customer Success — no fresh Toronto Platform Admin / Platform Developer I.
+- Partners hiring SN/SF in Toronto this period seen in feeds: Cognizant, Deloitte, KPMG, Accenture, Infosys, CGI, TCS, Wipro, HCLTech, Crossfuze, BDO, MNP, OSI Digital, Apptoza, Galent.
+
+### Patterns / lessons (12:00 pass)
+1. Re-dedupe against rebased `origin/main` before merging: the 16:16 UTC hourly scan had already absorbed the day's LinkedIn fresh batch (OSI Digital, Smart IT Frame, Enterprise Solutions). Merging blindly would duplicate rows.
+2. Role + company + location dedupe beats URL-only dedupe: Cognizant publishes the same requisition under locale variants (us-en / uki-en / ca-en). Match on req ID (e.g. 00071305431), not URL prefix.
+3. BMO Workday requisitions (R260030xxx) appear same-day on Workday before aggregators — check Workday first for net-new Toronto roles.
+4. Always confirm apply status on jobs.bell.ca: Bell SN postings surface in search but show "has been filled" — never list filled roles as fresh.
+5. Verify at least one high-value posting per run directly on the employer ATS (done: Cognizant Salesforce Developer 00071305431).
+6. `scripts/sync_readme_to_jobs.mjs` parsed 0 README rows this run — these tables lack the separator/header rows the parser expects (pre-existing gap). README.md is authoritative; `public/` is rebuilt by `tools/build_site.py` via pages.yml on push.
+
+### Files changed
+- README.md (+6 rows; counts refreshed: TOC + table headers)
+- jobs.json + public/jobs.json + public/gotjob/jobs.json + public/findjobs/jobs.json (sync_write attempted; README authoritative)
+- JOBLESSONS_2026-11-12.MD (this entry)
