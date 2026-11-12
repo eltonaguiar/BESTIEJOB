@@ -1,0 +1,29 @@
+{
+  "generated": "2026-11-12T13:09:38.039543+00:00",
+  "window": [
+    "2026-11-12",
+    "2026-11-11"
+  ],
+  "stats": {
+    "requests": 68,
+    "jobbank_pages": 11,
+    "eluta_pages": 15,
+    "linkedin_requests": 40,
+    "unverified_dropped": 43,
+    "already_on_board": 111,
+    "already_on_board_by_title": 1,
+    "cross_source_dup": 0
+  },
+  "count": 1,
+  "rows": [
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-11",
+      "title": "ServiceNow Product and Platform Consultant",
+      "company": "Yochana",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5961953846?utm_medium=api&utm_source=54ce986e"
+    }
+  ]
+}

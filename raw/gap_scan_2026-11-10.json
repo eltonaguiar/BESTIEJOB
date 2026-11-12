@@ -1,0 +1,862 @@
+{
+ "scannedAt": "2026-11-10T16:03:42.682Z",
+ "total": 47,
+ "sites": {
+  "FX Innovation / Ateko": {
+   "url": "https://www.fxinnovation.com/en/jobs",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Cofomo": {
+   "url": "https://www.cofomo.com/en/careers/",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Everforth": {
+   "url": "https://everforth.com/careers",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Coaxxion": {
+   "url": "https://coaxxion.com/en/careers/",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "CloudKettle": {
+   "url": "https://cloudkettle.com/careers/",
+   "jsonLd": 0,
+   "anchors": 0
+  },
+  "Lane Four": {
+   "url": "https://lanefour.com/opportunities/",
+   "jsonLd": 0,
+   "anchors": 2
+  },
+  "Crossfuze": {
+   "url": "https://crossfuze.pinpointhq.com/",
+   "jsonLd": 0,
+   "anchors": 0
+  }
+ },
+ "undated": [
+  {
+   "site": "Lane Four",
+   "title": "Salesforce Consultant",
+   "company": "Lane Four",
+   "location": "",
+   "url": "https://lanefour.com/job-posting/salesforce-consultant/",
+   "excerpt": "Skip to content Why Lane Four? Who We Are Consulting Foursight Labs Blog Toolbox Contact Us About Lane Four Lane Four is growing! We hope you will consider join"
+  },
+  {
+   "site": "Lane Four",
+   "title": "Salesforce Administrator",
+   "company": "Lane Four",
+   "location": "",
+   "url": "https://lanefour.com/job-posting/salesforce-administrator/",
+   "excerpt": "Skip to content Why Lane Four? Who We Are Consulting Foursight Labs Blog Toolbox Contact Us About Lane Four Lane Four is growing! We hope you will consider join"
+  }
+ ],
+ "dated": [],
+ "jobs": [
+  {
+   "id": "adzuna:adzuna.ca/details/5959388219",
+   "source": "adzuna",
+   "company": "Royal Bank of Canada",
+   "title": "Senior Configuration Analyst",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388219",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:31.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "What is the Opportunity? This senior role ensures the integrity, compliance, and operational excellence of RBC's IT infrastructure through comprehensive CMDB and asset management. You'll maintain data accuracy, oversee data certification and audit processes, and implement world‑class standards for Infrastructure Servic",
+   "workArrangement": "unknown",
+   "tags": [
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388441",
+   "source": "adzuna",
+   "company": "Smart IT Frame LLC",
+   "title": "Salesforce Data Cloud Architect",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388441",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:36.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Architect scalable, secure, and high-performance Salesforce solutions leveraging Salesforce Data Cloud, CRM Analytics, and Snowflake integrations. Design and implement real-time and batch data pipelines to support Customer 360 initiatives. Collaborate with cross-functional teams to ensure successful solution delivery, ",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388506",
+   "source": "adzuna",
+   "company": "S I Systems",
+   "title": "Senior Salesforce Solution Architect to lead the solution design and migration from an existing Open CTI implementation to Salesforce Service Cloud Voice integrated with NICE CXone.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388506",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:37.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Senior Salesforce Solution Architect to lead the solution design and migration from an existing Open CTI implementation to Salesforce Service Cloud Voice integrated with NICE CXone. We are seeking a senior Salesforce Solution Architect to lead the solution design and migration from an existing Open CTI implementation t",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388441",
+   "source": "adzuna",
+   "company": "Smart IT Frame LLC",
+   "title": "Salesforce Data Cloud Architect",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388441",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:36.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Architect scalable, secure, and high-performance Salesforce solutions leveraging Salesforce Data Cloud, CRM Analytics, and Snowflake integrations. Design and implement real-time and batch data pipelines to support Customer 360 initiatives. Collaborate with cross-functional teams to ensure successful solution delivery, ",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/land/ad/5960420667",
+   "source": "adzuna",
+   "company": "Traction Rec",
+   "title": "Salesforce Implementation Specialist (Hybrid or Remote)",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/land/ad/5960420667?se=fhb7aiDd8RG2ju3U9MuxdQ&v=B58BED0034C18A6451F5F4887F4060E752FE0279",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-10T09:26:31.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description This role is open to remote based candidates based in Canada with a preference for PST/EST We’re looking for an Implementation Specialist to join our team and be part of our next stage of growth. As an Implementation Specialist, your top priority is to understand business requirements an",
+   "workArrangement": "remote",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388084",
+   "source": "adzuna",
+   "company": "Resonaite",
+   "title": "Senior ServiceNow Platform Architect (CoE / Vault)",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959388084",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:28.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Our client is seeking a contract-based Senior ServiceNow Platform / Enterprise Architect to assess its ServiceNow platform, define the target operating model and roadmap for a ServiceNow Center of Excellence (CoE), and guide the architecture of ServiceNow Vault security capabilities. Working with the central platform t",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959247965",
+   "source": "adzuna",
+   "company": "Analyst Technical Solutions",
+   "title": "RQ00793 - Project Manager/Leader - Senior",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959247965",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-09T08:46:58.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description Senior Project Manager / Leader – ServiceNow Contract: 1 Year Pay Rate: $110–$115/hr Inc. Location: Metro Hall, 55 John Street, Toronto, ON M5V 3C6 – 15th Floor Work Model: Hybrid – minimum 3 days/week onsite Project: ServiceNow Digital Product Release Management (DPRM) Role Overview We ",
+   "workArrangement": "hybrid",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959173529",
+   "source": "adzuna",
+   "company": "Tech Talent International",
+   "title": "ServiceNow Enterprise Architect - Security Clearance",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959173529",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T08:16:29.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description Tech Talent International (TTI) supplies technical talent to a variety of clients ranging from Fortune 100/500/1000 companies to startups, small and mid-sized organizations in Canada/US. We are currently hiring a ServiceNow Enterprise Architect - Security Clearance for our consulting cli",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959122166",
+   "source": "adzuna",
+   "company": "Lightspeed Commerce",
+   "title": "ServiceNow Developer",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959122166",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T07:53:08.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Hi there! Thanks for stopping by Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! We are looking for a hands-on ServiceNow Developer to join our IT Platform team. This person will own the day-to-day configuration, development, and support of our Se",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959033381",
+   "source": "adzuna",
+   "company": "Accenture",
+   "title": "ServiceNow Technical Architect",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5959033381",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T05:06:18.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "A global professional services organization, which includes being a vital services partner to the world’s major cloud providers — ServiceNow, AWS, Azure, Google, and others. Choose Accenture and make delivering innovative work part of your extraordinary career! The Accenture ServiceNow Business Group’s platform-led app",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388500",
+   "source": "adzuna",
+   "company": "LeverageTek Staffing Solutions",
+   "title": "Enterprise Architect - ServiceNow",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959388500",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:37.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "LeverageTek is actively seeking a Senior Enterprise Architect – ServiceNow for a consulting engagement with its Ottawa based client. Work Location The successful candidate will be required to work hybrid at the customer headquarters in Ottawa if located in the National Capital Region. Key Tasks Lead the assessment of t",
+   "workArrangement": "hybrid",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388204",
+   "source": "adzuna",
+   "company": "Resonaite",
+   "title": "ServiceNow SME – Platform Security & Vault",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959388204",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:31.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Our client is seeking a contract-based ServiceNow Subject Matter Expert to advise on the implementation of ServiceNow Vault capabilities (Code Signing, Data Discovery and Data Anonymization) and to strengthen platform security and access governance. Acting as a trusted advisor to the ServiceNow platform team, the consu",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow",
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388084",
+   "source": "adzuna",
+   "company": "Resonaite",
+   "title": "Senior ServiceNow Platform Architect (CoE / Vault)",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959388084",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:28.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Our client is seeking a contract-based Senior ServiceNow Platform / Enterprise Architect to assess its ServiceNow platform, define the target operating model and roadmap for a ServiceNow Center of Excellence (CoE), and guide the architecture of ServiceNow Vault security capabilities. Working with the central platform t",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959173529",
+   "source": "adzuna",
+   "company": "Tech Talent International",
+   "title": "ServiceNow Enterprise Architect - Security Clearance",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959173529",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T08:16:29.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description Tech Talent International (TTI) supplies technical talent to a variety of clients ranging from Fortune 100/500/1000 companies to startups, small and mid-sized organizations in Canada/US. We are currently hiring a ServiceNow Enterprise Architect - Security Clearance for our consulting cli",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959033381",
+   "source": "adzuna",
+   "company": "Accenture",
+   "title": "ServiceNow Technical Architect",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5959033381",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T05:06:18.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "A global professional services organization, which includes being a vital services partner to the world’s major cloud providers — ServiceNow, AWS, Azure, Google, and others. Choose Accenture and make delivering innovative work part of your extraordinary career! The Accenture ServiceNow Business Group’s platform-led app",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388332",
+   "source": "adzuna",
+   "company": "ServiceNow",
+   "title": "Staff Systems Engineer",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388332",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:33.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Company Description It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is t",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388309",
+   "source": "adzuna",
+   "company": "VulnU",
+   "title": "Staff Security Engineer | Enterprise Security",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5959388309",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:33.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Staff Security Engineer | Enterprise SecurityServiceNow · servicenow.comCategory: Cloud SecurityLocation: RemoteLevel: Staff / Principal Quality of lifeWhat the posting states. Hover or tap a perk to see the line it came from.* Paid parental leave* Retirement match* Equity* Learning budgetEligibilityThis position suppo",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388131",
+   "source": "adzuna",
+   "company": "VulnU",
+   "title": "Staff Security Engineer | Security Engineering",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5959388131",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:29.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Staff Security Engineer | Security EngineeringServiceNow · servicenow.comCategory: Cloud SecurityLocation: RemoteLevel: Staff / Principal Quality of lifeWhat the posting states. Hover or tap a perk to see the line it came from.* Paid parental leave* Retirement match* Equity* Learning budgetEligibilityThis position supp",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388084",
+   "source": "adzuna",
+   "company": "Resonaite",
+   "title": "Senior ServiceNow Platform Architect (CoE / Vault)",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959388084",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:28.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Our client is seeking a contract-based Senior ServiceNow Platform / Enterprise Architect to assess its ServiceNow platform, define the target operating model and roadmap for a ServiceNow Center of Excellence (CoE), and guide the architecture of ServiceNow Vault security capabilities. Working with the central platform t",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959247965",
+   "source": "adzuna",
+   "company": "Analyst Technical Solutions",
+   "title": "RQ00793 - Project Manager/Leader - Senior",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959247965",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-09T08:46:58.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description Senior Project Manager / Leader – ServiceNow Contract: 1 Year Pay Rate: $110–$115/hr Inc. Location: Metro Hall, 55 John Street, Toronto, ON M5V 3C6 – 15th Floor Work Model: Hybrid – minimum 3 days/week onsite Project: ServiceNow Digital Product Release Management (DPRM) Role Overview We ",
+   "workArrangement": "hybrid",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959173529",
+   "source": "adzuna",
+   "company": "Tech Talent International",
+   "title": "ServiceNow Enterprise Architect - Security Clearance",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959173529",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T08:16:29.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description Tech Talent International (TTI) supplies technical talent to a variety of clients ranging from Fortune 100/500/1000 companies to startups, small and mid-sized organizations in Canada/US. We are currently hiring a ServiceNow Enterprise Architect - Security Clearance for our consulting cli",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5960417102",
+   "source": "adzuna",
+   "company": "March Networks",
+   "title": "Salesforce Technical Lead",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5960417102",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-10T09:16:56.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description March Networks is proud to be recognized as one of Ottawa’s Best Places to Work (2025). March Networks is an established global leader in the video surveillance industry and works with the world’s largest retailers and banking institutions. Our goal is to create a positive working enviro",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5960018734",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "Salesforce Configuration Developer (Salesforce FSC)",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5960018734",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-10T02:06:20.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Mandate Overview: The role combines configuration and development of the client's Salesforce FSC platform. Both components are required: a profile limited to administration and user support is not a fit, nor is a non-Salesforce developer. FSC is required, even as partial exposure, and must be tied to a project on the r",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5960018741",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "Salesforce FSC Solution Architect",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5960018741",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-10T02:06:20.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Mandate Overview: The role owns the design of the Salesforce FSC solution for the client's Wealth Management, in an implementation with no existing Salesforce platform. The person decides what falls under configuration and development, and aligns FSC with the program's other solutions. Governance and design reviews are",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959734122",
+   "source": "adzuna",
+   "company": "Intact Financial",
+   "title": "Senior Back-End Email Developer (Salesforce Marketing Cloud)",
+   "location": "Westmount, Montréal",
+   "url": "https://www.adzuna.ca/details/5959734122",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T22:03:34.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Our employees are at the heart of everything we do. Together, we help people, businesses, and society prosper in good times and be resilient in bad times. Our employee promise represents Intact’s commitment to you in exchange for living our Values, striving to do your best work, being open to change and investing in yo",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959468273",
+   "source": "adzuna",
+   "company": "March Networks",
+   "title": "Salesforce Technical Lead",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959468273",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T14:30:57.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "March Networks is proud to be recognized as one of Ottawa’s Best Places to Work (2025). March Networks is an established global leader in the video surveillance industry and works with the world’s largest retailers and banking institutions. Our goal is to create a positive working environment where all of our employees",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388441",
+   "source": "adzuna",
+   "company": "Smart IT Frame LLC",
+   "title": "Salesforce Data Cloud Architect",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388441",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:36.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Architect scalable, secure, and high-performance Salesforce solutions leveraging Salesforce Data Cloud, CRM Analytics, and Snowflake integrations. Design and implement real-time and batch data pipelines to support Customer 360 initiatives. Collaborate with cross-functional teams to ensure successful solution delivery, ",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5960417102",
+   "source": "adzuna",
+   "company": "March Networks",
+   "title": "Salesforce Technical Lead",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5960417102",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-10T09:16:56.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description March Networks is proud to be recognized as one of Ottawa’s Best Places to Work (2025). March Networks is an established global leader in the video surveillance industry and works with the world’s largest retailers and banking institutions. Our goal is to create a positive working enviro",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959468273",
+   "source": "adzuna",
+   "company": "March Networks",
+   "title": "Salesforce Technical Lead",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959468273",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T14:30:57.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "March Networks is proud to be recognized as one of Ottawa’s Best Places to Work (2025). March Networks is an established global leader in the video surveillance industry and works with the world’s largest retailers and banking institutions. Our goal is to create a positive working environment where all of our employees",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388110",
+   "source": "adzuna",
+   "company": "Academic Key",
+   "title": "Senior Full Stack Engineer People Products",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388110",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:29.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Senior Full Stack Engineer People Products Remote Remote Toronto full stack design saas react salesforce hr front end python Link validated Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home â from personalized guidance to AI tool",
+   "workArrangement": "remote",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959122166",
+   "source": "adzuna",
+   "company": "Lightspeed Commerce",
+   "title": "ServiceNow Developer",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959122166",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T07:53:08.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Hi there! Thanks for stopping by Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! We are looking for a hands-on ServiceNow Developer to join our IT Platform team. This person will own the day-to-day configuration, development, and support of our Se",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959173529",
+   "source": "adzuna",
+   "company": "Tech Talent International",
+   "title": "ServiceNow Enterprise Architect - Security Clearance",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959173529",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T08:16:29.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description Tech Talent International (TTI) supplies technical talent to a variety of clients ranging from Fortune 100/500/1000 companies to startups, small and mid-sized organizations in Canada/US. We are currently hiring a ServiceNow Enterprise Architect - Security Clearance for our consulting cli",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388219",
+   "source": "adzuna",
+   "company": "Royal Bank of Canada",
+   "title": "Senior Configuration Analyst",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388219",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:31.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "What is the Opportunity? This senior role ensures the integrity, compliance, and operational excellence of RBC's IT infrastructure through comprehensive CMDB and asset management. You'll maintain data accuracy, oversee data certification and audit processes, and implement world‑class standards for Infrastructure Servic",
+   "workArrangement": "unknown",
+   "tags": [
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959122166",
+   "source": "adzuna",
+   "company": "Lightspeed Commerce",
+   "title": "ServiceNow Developer",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959122166",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T07:53:08.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Hi there! Thanks for stopping by Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! We are looking for a hands-on ServiceNow Developer to join our IT Platform team. This person will own the day-to-day configuration, development, and support of our Se",
+   "workArrangement": "unknown",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388441",
+   "source": "adzuna",
+   "company": "Smart IT Frame LLC",
+   "title": "Salesforce Data Cloud Architect",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388441",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:36.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Architect scalable, secure, and high-performance Salesforce solutions leveraging Salesforce Data Cloud, CRM Analytics, and Snowflake integrations. Design and implement real-time and batch data pipelines to support Customer 360 initiatives. Collaborate with cross-functional teams to ensure successful solution delivery, ",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5960420672",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "Salesforce Technical Architect",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5960420672",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-10T09:26:32.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description Mandate Overview: The role owns the technical architecture of the client's Salesforce platform and the integration of FSC with the program's other systems. Integration is required on the same footing as technical architecture: a profile with no demonstrated integration project is not a f",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/land/ad/5960420667",
+   "source": "adzuna",
+   "company": "Traction Rec",
+   "title": "Salesforce Implementation Specialist (Hybrid or Remote)",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/land/ad/5960420667?se=ZvOeayDd8RGRTbZzUjwcZg&v=B58BED0034C18A6451F5F4887F4060E752FE0279",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-10T09:26:31.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description This role is open to remote based candidates based in Canada with a preference for PST/EST We’re looking for an Implementation Specialist to join our team and be part of our next stage of growth. As an Implementation Specialist, your top priority is to understand business requirements an",
+   "workArrangement": "remote",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5960417102",
+   "source": "adzuna",
+   "company": "March Networks",
+   "title": "Salesforce Technical Lead",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5960417102",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-10T09:16:56.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description March Networks is proud to be recognized as one of Ottawa’s Best Places to Work (2025). March Networks is an established global leader in the video surveillance industry and works with the world’s largest retailers and banking institutions. Our goal is to create a positive working enviro",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5960018759",
+   "source": "adzuna",
+   "company": "Maarut",
+   "title": "Salesforce Technical Architect",
+   "location": "Montréal East, Montréal",
+   "url": "https://www.adzuna.ca/details/5960018759",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-10T02:06:22.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Mandate Overview: The role owns the technical architecture of the client's Salesforce platform and the integration of FSC with the program's other systems. Integration is required on the same footing as technical architecture: a profile with no demonstrated integration project is not a fit. Development standards, DevOp",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959734122",
+   "source": "adzuna",
+   "company": "Intact Financial",
+   "title": "Senior Back-End Email Developer (Salesforce Marketing Cloud)",
+   "location": "Westmount, Montréal",
+   "url": "https://www.adzuna.ca/details/5959734122",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T22:03:34.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Our employees are at the heart of everything we do. Together, we help people, businesses, and society prosper in good times and be resilient in bad times. Our employee promise represents Intact’s commitment to you in exchange for living our Values, striving to do your best work, being open to change and investing in yo",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959468273",
+   "source": "adzuna",
+   "company": "March Networks",
+   "title": "Salesforce Technical Lead",
+   "location": "Ottawa, Ottawa region",
+   "url": "https://www.adzuna.ca/details/5959468273",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T14:30:57.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "March Networks is proud to be recognized as one of Ottawa’s Best Places to Work (2025). March Networks is an established global leader in the video surveillance industry and works with the world’s largest retailers and banking institutions. Our goal is to create a positive working environment where all of our employees",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388506",
+   "source": "adzuna",
+   "company": "S I Systems",
+   "title": "Senior Salesforce Solution Architect to lead the solution design and migration from an existing Open CTI implementation to Salesforce Service Cloud Voice integrated with NICE CXone.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388506",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:37.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Senior Salesforce Solution Architect to lead the solution design and migration from an existing Open CTI implementation to Salesforce Service Cloud Voice integrated with NICE CXone. We are seeking a senior Salesforce Solution Architect to lead the solution design and migration from an existing Open CTI implementation t",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388441",
+   "source": "adzuna",
+   "company": "Smart IT Frame LLC",
+   "title": "Salesforce Data Cloud Architect",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388441",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:36.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Architect scalable, secure, and high-performance Salesforce solutions leveraging Salesforce Data Cloud, CRM Analytics, and Snowflake integrations. Design and implement real-time and batch data pipelines to support Customer 360 initiatives. Collaborate with cross-functional teams to ensure successful solution delivery, ",
+   "workArrangement": "unknown",
+   "tags": [
+    "salesforce"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388309",
+   "source": "adzuna",
+   "company": "VulnU",
+   "title": "Staff Security Engineer | Enterprise Security",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5959388309",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:33.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Staff Security Engineer | Enterprise SecurityServiceNow · servicenow.comCategory: Cloud SecurityLocation: RemoteLevel: Staff / Principal Quality of lifeWhat the posting states. Hover or tap a perk to see the line it came from.* Paid parental leave* Retirement match* Equity* Learning budgetEligibilityThis position suppo",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388219",
+   "source": "adzuna",
+   "company": "Royal Bank of Canada",
+   "title": "Senior Configuration Analyst",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959388219",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:31.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "What is the Opportunity? This senior role ensures the integrity, compliance, and operational excellence of RBC's IT infrastructure through comprehensive CMDB and asset management. You'll maintain data accuracy, oversee data certification and audit processes, and implement world‑class standards for Infrastructure Servic",
+   "workArrangement": "unknown",
+   "tags": [
+    "itam"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959388131",
+   "source": "adzuna",
+   "company": "VulnU",
+   "title": "Staff Security Engineer | Security Engineering",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5959388131",
+   "employmentType": "unknown",
+   "salary": null,
+   "postedDate": "2026-11-09T12:14:29.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Staff Security Engineer | Security EngineeringServiceNow · servicenow.comCategory: Cloud SecurityLocation: RemoteLevel: Staff / Principal Quality of lifeWhat the posting states. Hover or tap a perk to see the line it came from.* Paid parental leave* Retirement match* Equity* Learning budgetEligibilityThis position supp",
+   "workArrangement": "remote",
+   "tags": [
+    "servicenow"
+   ]
+  },
+  {
+   "id": "adzuna:adzuna.ca/details/5959247965",
+   "source": "adzuna",
+   "company": "Analyst Technical Solutions",
+   "title": "RQ00793 - Project Manager/Leader - Senior",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959247965",
+   "employmentType": "contract",
+   "salary": null,
+   "postedDate": "2026-11-09T08:46:58.000Z",
+   "scrapedAt": "2026-11-10T16:03:42.682Z",
+   "excerpt": "Job Description Job Description Senior Project Manager / Leader – ServiceNow Contract: 1 Year Pay Rate: $110–$115/hr Inc. Location: Metro Hall, 55 John Street, Toronto, ON M5V 3C6 – 15th Floor Work Model: Hybrid – minimum 3 days/week onsite Project: ServiceNow Digital Product Release Management (DPRM) Role Overview We ",
+   "workArrangement": "hybrid",
+   "tags": [
+    "servicenow"
+   ]
+  }
+ ]
+}
