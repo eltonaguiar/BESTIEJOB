@@ -8,9 +8,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Contents
 
-- [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
+- [Current jobs — as of 2026-11-12](#current-jobs--as-of-2026-11-12)
   - [ServiceNow jobs (596)](#servicenow-jobs-596)
-  - [Salesforce jobs (613)](#salesforce-jobs-613)
+  - [Salesforce jobs (614)](#salesforce-jobs-614)
   - [Other jobs (584)](#other-jobs-584)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-12
 
-Window: 2026-10-13 → 2026-11-12 · **2858 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-12 · **2859 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1048)
 
@@ -1079,14 +1079,15 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1115)
+### Salesforce jobs (1116)
 
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 1115 postings</strong></summary>
+<details><summary><strong>Show 1116 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-12 | [SYSTEMS INTEGRATION SPECIALIST (AMANDA Developer/Administrator)](https://jobs.toronto.ca/jobsatcity/job/Toronto-SYSTEMS-INTEGRATION-SPECIALIST-%28AMANDA-DeveloperAdministrator%29-ON-M5V-3C6/607899017/) | City of Toronto | Toronto, ON M5V 3C6 | readme · salesforce · city-government |
 | 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490093184) | OSI Digital | Toronto, Ontario, Canada | linkedin · salesforce |
 | 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490077712) | OSI Digital | Vancouver, British Columbia, Canada | linkedin · salesforce |
 | 2026-11-12 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tforce-freight-4490068325) | TForce Freight | Saint-Laurent, Manitoba, Canada | linkedin · salesforce |
