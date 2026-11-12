@@ -43,3 +43,30 @@ Adzuna detail pages return HTTP 405 to extractors — trust the dated sweep file
 
 ## Left as-is (untracked working queue, per repo convention)
 `inbox/*` (incl. new `inbox/gap-scan--2026-11-12--v1.md`), `raw/*`, `docs/JOB_GAP_STRATEGY.md`, `README.BAK_*` backups.
+
+## Hourly scan — 2026-11-12 01:00 EST (06:00 UTC) — NULL RUN (second pass)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-12 01:00 EST (06:00 UTC) |
+| Baseline (README.md tables + jobs.json on main) | 1,793 live postings · ServiceNow 596 · Salesforce 613 · Other 584 · window 2026-10-12 → 2026-11-11 · HEAD c988068 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required) |
+
+### Candidates reviewed (01:00 pass)
+
+- **Cognizant — ServiceNow Software Asset Management Developer** (req 00070949051, Toronto ON-199 Bay Street, published Nov 11 2026, hybrid, $92k–$105k CAD, applies till 11/30/2026) — verified live on careers.cognizant.com. **NOT added**: duplicate — same role already on the board via LinkedIn `ca.linkedin.com/jobs/view/servicenow-software-asset-management-developer-at-cognizant-4489032943` dated 2026-11-11. Same role arrives via employer ATS and LinkedIn under different URLs; dedupe by role + company + location, not URL alone.
+- **ServiceNow Careers Ontario** (16 Ontario jobs) — latest Toronto listings are Senior CRM Account Executive (Nov 09, sales), Sales Director - CRM Sales (Nov 09, sales), and Staff/Senior Staff Security Engineer roles (already on board from Nov 05–06). No fresh technical ServiceNow Toronto posting for Nov 11–12.
+- **Bell (jobs.bell.ca)** — every ServiceNow hit returned "has been filled": System Administrator 432824, Senior Manager Platform Delivery 432892, Developer/Integrator 431695, Senior Technical Advisor 432829, Business Analyst CoE BECACA429615, Senior Architect SPM BECACA431688. Filled roles never enter the board; mark dead in the source scan.
+- **Rogers (jobs.rogers.com)** — Sr Business Systems Analyst ServiceNow ITSM (Req 317411, Brampton/Toronto, no posting date → freshness unverifiable, skipped); Lead Management Operations Salesforce (Req 343961, posted ~Oct 28, outside window, already flagged); Technical Specialist Markham (Cisco/Fortinet networking; SN/SF only as "comparable" tools, not a platform role). Nothing fresh/addable.
+- **jobs.gc.ca** — zero ServiceNow/Salesforce Toronto results; GC platform work comes via prime vendors on their own ATS.
+- **Indeed.ca "New" tags / LinkedIn** — Moneris Principal Salesforce Developer, CGI Senior Salesforce Developer, Survalent Salesforce Admin, LTM Salesforce DevOps, CoreKloud FSC Developer, Altus Group Platform Developer, Deloitte Senior Consultant Salesforce Platform — all aggregator/search-result listings without direct date-verifiable URLs; LinkedIn behind HTTP 422 login wall. Each either already on the board or unverifiable. Never add without a verifiable direct posting URL + date.
+
+### Patterns / lessons (01:00 pass)
+
+1. **Second consecutive null run.** The 00:00 EST refresh and the 01:00 EST web scan both found 0 new table rows — zero fresh merges on most hourly runs is the norm, not a failure.
+2. **Dedupe before trusting "fresh."** The Cognizant SAM Developer looked fresh (Nov 11) but was already on the board via a different URL (LinkedIn 4489032943). Normalize by role + company + location.
+3. **Bell filled-roles gate holds.** All six Bell ServiceNow reqs checked are filled; don't re-surface filled roles each hour.
+4. **Indeed "New" + LinkedIn dates are not independently verifiable.** Capture the direct posting URL and date at search time, or skip.
+
