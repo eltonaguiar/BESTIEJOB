@@ -77,6 +77,20 @@ LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
 BARE_URL_RE = re.compile(r"https?://[^\s|)]+")
 
 
+def _clean_title(title: str) -> str:
+    """Strip bracket artifacts from a submission title so it survives as [title](url).
+
+    Older submissions carried titles like ``[[[Hiring] X @Y](url)`` or
+    ``[[IT Project Manager [4987]](url)``: nested brackets make the inserted
+    README line unparseable by ``extract_rows``, which would silently drop the
+    row on the next render.  Collapse leading brackets and turn inner ``]`` into
+    ``:``; the URL, company and location are untouched, so nothing is lost.
+    """
+    t = re.sub(r"^\[+", "", str(title or ""))
+    t = t.replace("]", ":").strip().rstrip(":").strip()
+    return title if not t else t
+
+
 def parse_inbox_file(path: Path) -> list[dict]:
     """Rows: | Posted | Role | Company | Location | URL | (extra columns tolerated)."""
     rows: list[dict] = []
@@ -243,7 +257,7 @@ def insert_rows(readme_text: str, rows: list[dict]) -> tuple[str, int]:
                 break
         lines.insert(
             pos,
-            f"| {row['posted']} | [{row['title']}]({row['url']}) | {row['company']} | "
+            f"| {row['posted']} | [{_clean_title(row['title'])}]({row['url']}) | {row['company']} | "
             f"{row['location']} | {row['note']} |\n",
         )
         _bump_counts(lines, start)

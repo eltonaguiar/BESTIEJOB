@@ -95,3 +95,36 @@ Adzuna detail pages return HTTP 405 to extractors — trust the dated sweep file
 3. **Undated postings are skipped.** Lane Four is live but publishes no posted date; the board records the source's posted date, so undated rows are deliberately not merged.
 4. **Always re-verify liveness before adding.** Scotiabank (closed) and Levioconsulting (404) surfaced in search but fail the liveness gate — never add closed/dead roles.
 
+## Hourly scan — 2026-11-12 06:00 EST (11:00 UTC)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-12 06:00 EST (11:00 UTC) |
+| Baseline (README.md tables on main before merge) | 2,893 parsed rows · ServiceNow 596 / Salesforce 614 / Other 584 · window 2026-10-13 → 2026-11-12 · HEAD 79a1018 |
+| Fresh postings surfaced by this sweep | 126 unique URLs (Adzuna 51 calls, Job Bank 6 pages, Eluta 6 pages); 109 URL-verified |
+| Fresh, live, not already on board | 3 postings (1 ServiceNow, 2 Salesforce) |
+| Jobs merged to README.md tables | +3887 rows from the whole inbox backlog (2,893 → 6,780 parsed); this sweep's 3 postings all present in final tables (one arrived via another inbox submission in the same merge, logged as +2 new / 1 duplicate against it) |
+| Jobs merged to GitHub Pages (public/) | rebuilt with `tools/build_site.py`: 5,043 unique jobs (761 mirror duplicates collapsed, 41 applied hidden) |
+
+### Candidates reviewed (06:00 pass)
+
+- **Dimensional Tech — Specialized IT Consultant (ServiceNow) - Senior, 1 yr contract**, Canada, posted 2026-11-12 — **added** to the ServiceNow table (`adzuna.ca/details/5962883790`).
+- **Danaher Corporation — Salesforce Field Service (FSL) Developer**, Vaughan, York region, posted 2026-11-11 — **added** to the Salesforce table (`adzuna.ca/details/5961935818`).
+- **Chapman Tate Associates — ERP Salesforce Financial Consultant**, British Columbia, Canada, posted 2026-11-11 — **added** to the Salesforce table (`adzuna.ca/details/5961946448`).
+- Targeted **Rogers / Bell / BCE / Government of Canada / Canada.ca** Adzuna queries: 2 unique URLs, both already on the board — 0 addable.
+- **Partner / elite-partner sweep** (`scripts/partner_sponsor_scan_verified.py`: Ateko, Deloitte Canada, EY, KPMG, Cognizant, Fujitsu, TELUS, CGI + ServiceNow World Forum sponsors): boards lane 0 relevant, search lane 0 relevant, 1/15 Workday tenants answered — nothing fresh addable.
+- **Lane Four gap scan**: Salesforce Consultant + Salesforce Administrator, both undated — skipped per policy, no invented dates.
+
+### Fixes
+
+- Repaired **13 pre-existing unparseable README rows** (nested/double bracket titles from 2026-11-02 → 2026-11-04, e.g. `[[[Hiring] …](…)`, `[[IT Project Manager [4987]](…)`) that trip the merger's `rows_are_readable()` guard; all three tables re-verified parseable before merging.
+- Patched `tools/jobs_merge_inbox.py`: `insert_rows` now sanitizes submission titles through `_clean_title()` (collapses leading brackets, turns inner `]` into `:`) so a malformed inbox title can't break the written README and block the next merge. Syntax-checked with `py_compile`.
+- Header summary and Contents counts bumped to match: **ServiceNow 1185 / Salesforce 1355 / Other 4206 = 6,746 live postings**.
+
+### Patterns / lessons (06:00 pass)
+
+1. **First non-null hourly merge today.** The 00:00, 01:00, and 05:00 EST runs were null runs; this sweep found 3 verified fresh postings, all from Adzuna's dated API (`sort_by=date`, geo-scoped to Toronto/Ontario). Job Bank and Eluta contributed nothing new this hour.
+2. **Role + company + location dedupe catches re-surfaced requisitions.** The Cognizant SAM Developer role re-seen this hour via another submission was skipped as a duplicate — it was already on the board under a different URL.
+3. **The merger guard blocks before it drops.** `rows_are_readable()` aborted the write until all 13 unparseable README title rows were repaired — fix unparseable titles before merging, never after with `--allow-row-loss`.
+
+
