@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-12T19:21:37+00:00",
+ "generatedAt": "2026-11-12T20:13:31+00:00",
  "timezone": "America/Toronto",
- "count": 5068,
+ "count": 5072,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -314,6 +314,28 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "Spécialiste, configuration et intégration ServiceNow",
+   "company": "CGI",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-configuration-et-int%C3%A9gration-servicenow-at-cgi-4473004570",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "Integration",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialiste, configuration et integration servicenow cgi quebec, quebec, canada linkedin servicenow linkedin servicenow integration role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Senior Lead, ServiceNow ITOM (8306166)",
    "company": "Take-Two Interactive",
    "location": "Toronto, ON",
@@ -357,10 +379,10 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "Spécialiste, configuration et intégration ServiceNow",
-   "company": "CGI",
-   "location": "Québec, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-configuration-et-int%C3%A9gration-servicenow-at-cgi-4473004570",
+   "title": "ServiceNow ITAM/ ITOM Architect",
+   "company": "Raas Infotek",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490395721",
    "note": "linkedin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
@@ -369,46 +391,14 @@
    "match": 100,
    "matchReasons": [
     "ServiceNow",
-    "Integration",
+    "ITAM",
+    "ITOM",
     "Role fit",
     "Canada / remote"
    ],
    "french": false,
-   "search": "specialiste, configuration et integration servicenow cgi quebec, quebec, canada linkedin servicenow linkedin servicenow integration role fit canada / remote",
+   "search": "servicenow itam/ itom architect raas infotek canada linkedin servicenow linkedin servicenow itam itom role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "ServiceNow Technical Consultant",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-at-cognizant-4481192199",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 98,
-   "matchReasons": [
-    "ServiceNow",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow technical consultant cognizant toronto, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/servicenow-technical-consultant-d0eb5b4b6a3740d527041634642d1f38",
-     "label": "Eluta · Toronto ON"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5938973159",
-     "label": "Adzuna · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-12",
@@ -439,6 +429,39 @@
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5938973158",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "ServiceNow Technical Consultant",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-at-cognizant-4481192199",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow technical consultant cognizant toronto, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
+   "alternates": [
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/servicenow-technical-consultant-d0eb5b4b6a3740d527041634642d1f38",
+     "label": "Eluta · Toronto ON"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938973159",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -550,6 +573,33 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/servicenow-technical-lead-at-caat-pension-plan-4481155245",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "ServiceNow Developer",
+   "company": "Dexian",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-dexian-4489282548",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer dexian greater toronto area, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-dexian-4489004961",
      "label": "LinkedIn · Toronto"
     }
    ]
@@ -1006,6 +1056,27 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "Salesforce Technical Architect with Revenue Cloud (RCA)",
+   "company": "Rang Technologies Inc",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-with-revenue-cloud-rca-at-rang-technologies-inc-4490511439",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect with revenue cloud (rca) rang technologies inc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Salesforce Senior FSC Developer / Technical Lead",
    "company": "Apptoza Inc.",
    "location": "Toronto, Ontario, Canada",
@@ -1197,6 +1268,33 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "Analyste-développeur, Salesforce (Montréal ou Québec)",
+   "company": "Investissement Québec",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-d%C3%A9veloppeur-salesforce-montr%C3%A9al-ou-qu%C3%A9bec-at-investissement-qu%C3%A9bec-4473563293",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "analyste-developpeur, salesforce (montreal ou quebec) investissement quebec montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/analyste-d%C3%A9veloppeur-salesforce-montr%C3%A9al-ou-qu%C3%A9bec-e53aa9ba8e7d1e128bf65677ffd4b3f1",
+     "label": "Eluta · Montréal QC"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Salesforce CPQ Solution Engineer",
    "company": "Infoway Software",
    "location": "Canada",
@@ -1247,33 +1345,6 @@
    "french": false,
    "search": "salesforce technical architect revenue cloud cpq enterprise solutions inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "Analyste-développeur, Salesforce (Montréal ou Québec)",
-   "company": "Investissement Québec",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/analyste-d%C3%A9veloppeur-salesforce-montr%C3%A9al-ou-qu%C3%A9bec-at-investissement-qu%C3%A9bec-4473563293",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "analyste-developpeur, salesforce (montreal ou quebec) investissement quebec montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/analyste-d%C3%A9veloppeur-salesforce-montr%C3%A9al-ou-qu%C3%A9bec-e53aa9ba8e7d1e128bf65677ffd4b3f1",
-     "label": "Eluta · Montréal QC"
-    }
-   ]
   },
   {
    "posted": "2026-11-12",
@@ -1561,6 +1632,26 @@
    ],
    "french": false,
    "search": "it asset management support alberta electric system operator (aeso) calgary, alberta, canada linkedin other linkedin itam canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Cloud Architect",
+   "company": "IKO",
+   "location": "Mississauga, ON",
+   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Cloud-Architect_REQ-14062",
+   "note": "workday",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "cloud architect iko mississauga, on workday ats other workday role fit toronto area",
    "alternates": []
   },
   {
@@ -2708,27 +2799,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Mid-Senior ServiceNow Developer",
-   "company": "MSZ Systems",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/mid-senior-servicenow-developer-at-msz-systems-4489018947",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "mid-senior servicenow developer msz systems toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Product Manager, ServiceNow",
    "company": "Loblaw Companies Limited",
    "location": "Brampton, Ontario, Canada",
@@ -2746,6 +2816,27 @@
    ],
    "french": false,
    "search": "product manager, servicenow loblaw companies limited brampton, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Mid-Senior ServiceNow Developer",
+   "company": "MSZ Systems",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/mid-senior-servicenow-developer-at-msz-systems-4489018947",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "mid-senior servicenow developer msz systems toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -2799,27 +2890,6 @@
    ],
    "french": false,
    "search": "senior consultant - servicenow csm infosys mississauga, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "servicenow developer",
-   "company": "Dexian",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-dexian-4489004961",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer dexian toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -31781,6 +31851,27 @@
   },
   {
    "posted": "2026-11-04",
+   "title": "ServiceNow HRSD",
+   "company": "NLB Services",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-hrsd-at-nlb-services-4486384478",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 90,
+   "matchReasons": [
+    "ServiceNow",
+    "HRSD / VA",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow hrsd nlb services mississauga, ontario, canada linkedin servicenow linkedin servicenow hrsd / va toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-04",
    "title": "Product Owner I - AskHR (ServiceNow HRSD) (R_1519634)",
    "company": "TD Bank",
    "location": "Toronto, ON",
@@ -56796,27 +56887,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Senior ServiceNow Developer",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "ServiceNow Developer",
    "company": "GDIT",
    "location": "Any Location / Remote",
@@ -56834,6 +56904,27 @@
    ],
    "french": false,
    "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior ServiceNow Developer",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -81326,26 +81417,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "DevOps Engineer",
-   "company": "Equinix",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5949576836",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer equinix toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Analyst, IT Support (6 Months Contract)",
    "company": "OMERS",
    "location": "Toronto, ON",
@@ -82642,6 +82713,26 @@
    ],
    "french": false,
    "search": "senior portfolio & program manager, operational technology & controls equinix toronto, ontario adzuna other via rounds1-8--2026-11-05--v22.md role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "DevOps Engineer",
+   "company": "Equinix",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5949576836",
+   "note": "adzuna · devops",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer equinix toronto, ontario adzuna other adzuna · devops role fit toronto area",
    "alternates": []
   },
   {
