@@ -70,3 +70,28 @@ Adzuna detail pages return HTTP 405 to extractors — trust the dated sweep file
 3. **Bell filled-roles gate holds.** All six Bell ServiceNow reqs checked are filled; don't re-surface filled roles each hour.
 4. **Indeed "New" + LinkedIn dates are not independently verifiable.** Capture the direct posting URL and date at search time, or skip.
 
+## Hourly scan — 2026-11-12 05:00 EST (10:00 UTC) — NULL RUN (third pass)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-12 05:00 EST (10:00 UTC) |
+| Baseline (README.md tables + jobs.json on main) | 2,859 live postings · ServiceNow 1,048 · Salesforce 1,116 · Other 695 · window 2026-10-13 → 2026-11-12 · HEAD 57701f9 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required) |
+
+### Candidates reviewed (05:00 pass)
+
+- **Cognizant — ServiceNow Software Asset Management (SAM) Developer** (req 00070949051, Toronto ON-199 Bay Street, published Nov 11 2026, hybrid) — verified live on careers.cognizant.com. **NOT added**: same req already on the board via `careers.cognizant.com/uki-en/jobs/00070949051/...` dated 2026-11-11. Dedupe by role + company + location, not URL alone; a second URL for an on-board role is not a fresh row.
+- **Lane Four — Salesforce Administrator** (Toronto, entry-level 0–2 yrs) — page verified live but the role is already on the board from 2026-11-09 (`lanefour.com/job-posting/salesforce-administrator/`). Source publishes no posting date; merger skips undated rows. Not re-added.
+- **Scotiabank — ServiceNow Administrator Specialist** (Toronto, Req 261367) — extraction returned "not accepting any further applicants"; closed, excluded.
+- **Levioconsulting — ServiceNow Developer** (gh_jid=8684331002) — HTTP 404; dead posting, excluded.
+- **ServiceNow Careers / Bell / Rogers corporate roles** — filled, sales/security/SRE (not platform), outside window, or already on board. Nothing fresh addable.
+
+### Patterns / lessons (05:00 pass)
+
+1. **Third consecutive null run.** 00:00, 01:00, and 05:00 EST all found 0 new table rows — zero fresh merges on most hourly runs is the norm, not a failure.
+2. **URL-only dedupe is insufficient.** The Cognizant careers.us-en URL was absent from the URL dedupe set, but req 00070949051 is already on the board via the uki-en URL. Always dedupe by role + company + location.
+3. **Undated postings are skipped.** Lane Four is live but publishes no posted date; the board records the source's posted date, so undated rows are deliberately not merged.
+4. **Always re-verify liveness before adding.** Scotiabank (closed) and Levioconsulting (404) surfaced in search but fail the liveness gate — never add closed/dead roles.
+
