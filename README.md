@@ -20,12 +20,11 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-13 → 2026-11-12 · **6750 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1187)
-_developer / administrator / architect / analyst roles_
+### ServiceNow jobs (1188)_developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1187 postings</strong></summary>
-| Posted | Role | Company | Location | Source / note |
+<details><summary><strong>Show 1188 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
 | 2026-11-12 | [Specialized IT Consultant (ServiceNow) - Senior, 1 yr contract](https://www.adzuna.ca/details/5962883790?utm_medium=api&utm_source=54ce986e) | Dimensional Tech | Canada | via fresh-ca--2026-11-12--v1.md |
+| 2026-11-12 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-swoon-4490348678) | Swoon | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-09 | [ServiceNow SAM Administrator - ITAM](https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-09--v14.md |
 | 2026-11-09 | [ServiceNow Senior Developer](https://emplois.ca.indeed.com/viewjob?jk=c956b22cc281049c) | BDO Canada | Toronto, ON, Canada | via hermes-agent--2026-11-09--v10.md |
 | 2026-11-09 | [Senior Consultant, ServiceNow (ITAM/ITOM)](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-itam-itom-at-kpmg-canada-4454522998) | KPMG Canada | Toronto, Ontario, Canada | via inbox_opencode-job-hunt-final--2026-11-09--v10.md |
@@ -1216,16 +1215,18 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1357)
-_developer / administrator / architect / consultant roles_
+### Salesforce jobs (1362)_developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 1357 postings</strong></summary>
-| Posted | Role | Company | Location | Source / note |
+<details><summary><strong>Show 1362 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
+| 2026-11-12 | [Salesforce Technical Architect - Strong in Revenue Cloud Advanced RCA](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-in-revenue-cloud-advanced-rca-at-smart-it-frame-llc-4489256411) | Smart IT Frame LLC | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
+| 2026-11-12 | [Technical Architect Director - PubSec - Mulesoft Canada](https://ca.linkedin.com/jobs/view/technical-architect-director-pubsec-mulesoft-canada-at-salesforce-4473927818) | Salesforce | Montreal, Quebec, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-11 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5961943912?utm_medium=api&utm_source=54ce986e) | Capgemini | Mississauga, Peel region | via fresh-ca--2026-11-11--v8.md |
 | 2026-11-11 | [ERP Salesforce Financial Consultant](https://www.adzuna.ca/details/5961946448?utm_medium=api&utm_source=54ce986e) | Chapman Tate Associates | British Columbia, Canada | via fresh-ca--2026-11-11--v8.md |
 | 2026-11-11 | [Salesforce Field Service (FSL) Developer](https://www.adzuna.ca/details/5961935818?utm_medium=api&utm_source=54ce986e) | Danaher Corporation | Vaughan, York region | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-11 | [Senior Salesforce Developer - Docebo - Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/OXjQph21lhSlSOWbNhVAyEHEkgj9DHdHDfWT4Jg0w6Nh62qBhkopJKmyayCkKirh) | Workopolis Canada | Toronto | via inbox_opencode-job-hunt-workopolis--2026-11-11--v1.md |
 | 2026-11-11 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487851759) | Parkland Corporation | Calgary, Alberta, Canada | via inbox_staffing--2026-11-10--v3.md |
+| 2026-11-11 | [Salesforce Developer](https://myprocom-portal.procomservices.com/jobs/salesforce-developer-toronto-73f5a6b2) | Procom | Toronto, Ontario, CA | via Procom |
+| 2026-11-11 | [Associate Vice President, Salesforce Engineering &amp; Development](https://ca.linkedin.com/jobs/view/associate-vice-president-salesforce-engineering-development-at-infotech-4489988803) | Infotech | London, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-10 | [Senior Salesforce Developer](https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad) | Docebo | Toronto, Ontario | via ats-sweep--2026-11-11--v1.md |
 | 2026-11-10 | [Principal Applied AI Architect](https://ca.linkedin.com/jobs/view/principal-applied-ai-architect-at-salesforce-4487978961) | Salesforce | Toronto, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-10--v5.md |
 | 2026-11-09 | [Sr. Salesforce Developer](https://builtintoronto.com/job/sr-salesforce-developer/12147425) | Genesys | Toronto, ON, Canada | via Built In Toronto |
@@ -1333,6 +1334,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-01 | [Marketing Cloud Solution Architect (Remote)](https://www.adzuna.ca/details/5949286092?utm_medium=api&utm_source=54ce986e) | CloudKettle Inc | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v100.md |
 | 2026-11-01 | [Salesforce Administrator – SOTICAN SOTI](https://ca.talent.com/view?id=640033361101654850) | SOTI / Talent.com | Mississauga, ON | via round11-cached--2026-11-05--v21.md |
 | 2026-11-01 | [Marketing Cloud Solution Architect (Remote)](https://www.adzuna.ca/land/ad/5949286092?se=TsnBUW_W8RGlsqBLt3cZZQ&utm_medium=api&utm_source=54ce986e&v=0BF6D0607F073EBF74F697E5ED51EC45476D547C) | CloudKettle Inc | Toronto, Ontario | via round11-cached--2026-11-05--v21.md |
+| 2026-11-01 | [Salesforce Industries Cloud Architect (Remote - CloudKettle Inc - Remote in Toronto, ON, CA](https://www.dice.com/job-detail/335652dc-e4e4-4b66-8894-956fc362d4b0) | Dice | Toronto, Ontario, Canada | via Dice |
 | 2026-10-31 | [Salesforce Administrator / Natural Health / Hybrid in Toronto / $60-75k  Benefits](https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e) | White Bay | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v24.md |
 | 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948021504?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v24.md |
 | 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5947991002?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v24.md |
@@ -2582,11 +2584,10 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (4206)
-_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
+### Other jobs (4207)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 4206 postings</strong></summary>
-| Posted | Role | Company | Location | Source / note |
+<details><summary><strong>Show 4207 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
+| 2026-11-11 | [MuleSoft Senior Developer](https://www.adzuna.ca/details/5961953750?utm_medium=api&utm_source=54ce986e) | Modes | Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-09 | [Digital Workforce Transformation - UKG Pro Implementation Senior Consultant](https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057) | EY | Calgary, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-10--v5.md |
 | 2026-11-08 | [BIM Facilities Specialist - Digital Delivery, Rail & Transit](https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453734020) | WSP in Canada | Vancouver, British Columbia, Canada | via inbox_opencode-job-hunt--2026-11-09--v16.md |
 | 2026-11-08 | [BIM Facilities Specialist - Digital Delivery, Rail & Transit](https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453726579) | WSP in Canada | Vaughan, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v16.md |
