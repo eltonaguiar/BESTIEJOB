@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-12](#current-jobs--as-of-2026-11-12)
-  - [ServiceNow jobs (1185)](#servicenow-jobs-1185)
-  - [Salesforce jobs (1355)](#salesforce-jobs-1355)
+  - [ServiceNow jobs (1187)](#servicenow-jobs-1187)
+  - [Salesforce jobs (1357)](#salesforce-jobs-1357)
   - [Other jobs (4206)](#other-jobs-4206)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,12 +18,12 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-12
 
-Window: 2026-10-13 → 2026-11-12 · **6746 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-12 · **6750 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1185)
+### ServiceNow jobs (1187)
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1185 postings</strong></summary>
+<details><summary><strong>Show 1187 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 | 2026-11-12 | [Specialized IT Consultant (ServiceNow) - Senior, 1 yr contract](https://www.adzuna.ca/details/5962883790?utm_medium=api&utm_source=54ce986e) | Dimensional Tech | Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-09 | [ServiceNow SAM Administrator - ITAM](https://ca.linkedin.com/jobs/view/servicenow-sam-administrator-itam-at-bmo-4487066764) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-09--v14.md |
@@ -305,6 +305,8 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-11 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-nityo-infotech-4489980178) | Nityo Infotech | Toronto, Ontario, Canada | linkedin · servicenow |
 | 2026-11-11 | [ServiceNow ITOM Consultant](https://ca.linkedin.com/jobs/view/servicenow-itom-consultant-at-2isolutions-inc-4486429594) | 2iSolutions Inc. | Canada | linkedin · servicenow |
 | 2026-11-11 | [ServiceNow Software Asset Management Pro (SAM Pro) Consultant](https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-pro-sam-pro-consultant-at-2isolutions-inc-4486426865) | 2iSolutions Inc. | Canada | linkedin · servicenow |
+| 2026-11-11 | [ServiceNow Product and Platform Consultant](https://www.adzuna.ca/details/5961953846?utm_medium=api&utm_source=54ce986e) | Yochana | Remote, Canada | via fresh-ca--2026-11-12--v1.md · adzuna |
+| 2026-11-11 | [Senior ServiceNow Specialist](https://www.adzuna.ca/details/5961944871) | Trans Mountain | Calgary, Calgary region | gap_scan --2026-11-12 · adzuna |
 | 2026-11-10 | [Senior Staff DevOps Engineer - Flow](https://jobs.smartrecruiters.com/ServiceNow/744000160985589) | ServiceNow | Waltham, Massachusetts, us · Remote | smartrecruiters · devops |
 | 2026-11-10 | [Senior Staff DevOps Engineer - Flow](https://jobs.smartrecruiters.com/ServiceNow/744000160985419) | ServiceNow | San Diego, California, us · Remote | smartrecruiters · devops |
 | 2026-11-10 | [Senior Staff DevOps Engineer - Flow](https://jobs.smartrecruiters.com/ServiceNow/744000160984939) | ServiceNow | Austin, Texas, us · Remote | smartrecruiters · devops |
@@ -1214,10 +1216,10 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1355)
+### Salesforce jobs (1357)
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 1355 postings</strong></summary>
+<details><summary><strong>Show 1357 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 | 2026-11-11 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5961943912?utm_medium=api&utm_source=54ce986e) | Capgemini | Mississauga, Peel region | via fresh-ca--2026-11-11--v8.md |
 | 2026-11-11 | [ERP Salesforce Financial Consultant](https://www.adzuna.ca/details/5961946448?utm_medium=api&utm_source=54ce986e) | Chapman Tate Associates | British Columbia, Canada | via fresh-ca--2026-11-11--v8.md |
@@ -1609,6 +1611,8 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-11 | [Salesforce Marketing Cloud Specialist (CRM Executive)](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-specialist-crm-executive-at-vertage-4489011906) | Vertage | Toronto, Ontario, Canada | linkedin · salesforce |
 | 2026-11-11 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487861359) | Parkland Corporation | Calgary, Alberta, Canada | linkedin · salesforce |
 | 2026-11-11 | [Intermediate Salesforce System Coordinator- 5816](https://ca.linkedin.com/jobs/view/intermediate-salesforce-system-coordinator-5816-at-amyantek-4489682441) | Amyantek | Toronto, Ontario, Canada | linkedin · salesforce |
+| 2026-11-11 | [Salesforce Developer](https://www.adzuna.ca/details/5961942437) | iA Financial Group | Greater Vancouver, British Columbia | gap_scan --2026-11-12 · adzuna |
+| 2026-11-11 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5961957776) | Benevity | Calgary, Calgary region | gap_scan --2026-11-12 · adzuna |
 | 2026-11-10 | [Manager - Salesforce - Life Sciences (PH - AN)](https://www.adzuna.ca/details/5960985588) | Deloitte | Montréal, Québec | adzuna · salesforce |
 | 2026-11-10 | [Salesforce Solution Architect](https://careers.cognizant.com/ca-en/jobs/00070590911/salesforce-solution-architect/) | Cognizant | Toronto, ON-199 Bay Street, Ontario, Canada | cognizant · salesforce |
 | 2026-11-10 | [Salesforce Industries Cloud Architect (Remote](https://www.adzuna.ca/details/5960555127) | CloudKettle Inc. | Toronto, Ontario | adzuna · salesforce, devops |
