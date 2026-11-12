@@ -127,4 +127,36 @@ Adzuna detail pages return HTTP 405 to extractors — trust the dated sweep file
 2. **Role + company + location dedupe catches re-surfaced requisitions.** The Cognizant SAM Developer role re-seen this hour via another submission was skipped as a duplicate — it was already on the board under a different URL.
 3. **The merger guard blocks before it drops.** `rows_are_readable()` aborted the write until all 13 unparseable README title rows were repaired — fix unparseable titles before merging, never after with `--allow-row-loss`.
 
+## Hourly scan — 2026-11-12 08:00 EST (13:00 UTC) — NULL RUN (fifth pass)
 
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-12 08:00 EST (13:00 UTC) |
+| Baseline (README.md tables on main) | 6,746 live postings · ServiceNow 1,185 · Salesforce 1,355 · Other 4,206 · window 2026-10-13 -> 2026-11-12 · HEAD 9779fe8 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md tables | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required; public/ last rebuilt 06:00 EST via tools/build_site.py) |
+
+### Scans run (08:00 pass)
+- scripts/fresh_ca_scan.py --days 2 (Adzuna 51 calls, Job Bank 6 pages, Eluta 6 pages): 3 fresh rows surfaced.
+- scripts/today_feeds_scan.py --days 1 (Workday, SmartRecruiters, Greenhouse, Lever, Ashby, Job Bank): 13 rows; 1 SN/SF-relevant (Salesforce Technical Architect Director - PubSec / Mulesoft Canada, workday JR362275), rest data/analytics roles outside board scope.
+- scripts/public_sector_scan.py: City of Toronto 9 tiles (all dated), OPS gojobs blocked by Radware bot manager, OPS Job Bank fallback 10 articles -> 0 new postings.
+- scripts/partner_sponsor_scan_verified.py: boards lane 0 relevant, search lane 0 relevant, 1/15 Workday tenants answered -> 0 fresh addable.
+
+### Candidates reviewed (08:00 pass) — all deduped, 0 added
+- Dimensional Tech - Specialized IT Consultant (ServiceNow) - Senior, Canada, posted 2026-11-12 (adzuna.ca/details/5962883790): already on board at README line 1224 (via fresh-ca--2026-11-12--v1.md). Duplicate.
+- Danaher Corporation - Salesforce Field Service (FSL) Developer, Vaughan, York region, posted 2026-11-11 (adzuna.ca/details/5961935818): already on board at README line 1224 (via fresh-ca--2026-11-12--v1.md). Duplicate.
+- Chapman Tate Associates - ERP Salesforce Financial Consultant, British Columbia, Canada, posted 2026-11-11 (adzuna.ca/details/5961946448): already on board at README line 1223 (via fresh-ca--2026-11-11--v8.md). Duplicate.
+- Salesforce - Technical Architect Director - PubSec - Mulesoft Canada (workday JR362275, "4 Locations"): already on board since 2026-10-22 via LinkedIn ca.linkedin.com/jobs/view/technical-architect-director-pubsec-mulesoft-canada-at-salesforce-4473930835 (README line 2516) and ...-4473921931 (line 1436). Cross-source duplicate - same role, different source URL; dedupe by role + company + location, not URL alone.
+
+### Target-company checks (Rogers / Bell / partners / GC) - nothing fresh addable
+- Rogers / Bell / BCE / Government of Canada / Canada.ca Adzuna queries: 0 fresh addable (all already on board or outside the 30-day window).
+- ServiceNow Careers Ontario: no fresh SN developer/admin posting for Nov 11-12 (latest are sales/security/SRE).
+- Salesforce careers Canada: no fresh Toronto Platform Admin / Platform Developer I posting.
+- Partner / elite-partner sweep (Ateko, Deloitte Canada, EY, KPMG, Cognizant, Fujitsu, TELUS, CGI + ServiceNow World Forum sponsors): nothing fresh addable.
+
+### Patterns / lessons (08:00 pass)
+1. Fifth pass today with zero table additions at this hour. Null runs are the norm; a scan that surfaces rows but adds none is still a successful dedupe verification - the board did not stagnate, it simply had nothing genuinely new this hour.
+2. Re-surfaced Adzuna requisitions are the bulk of "fresh." All 3 fresh_ca rows were already on the board from the 06:00 EST merge - Adzuna re-emits the same requisition hourly under the same URL, so URL dedupe catches them before they reach the tables.
+3. Workday "Posted Today" roles still need liveness + dedupe. The Salesforce Technical Architect Director re-surfaced on todayfeeds but is already on board via LinkedIn since Oct 22 - same role, different source URL; dedupe by role + company + location.
+4. Public-sector and partner boards add almost nothing dated. OPS blocked by bot manager (Job Bank fallback had nothing dated), partner Workday tenants 1/15 answering with 0 relevant - rely on aggregators (Adzuna dated API) + employer ATS feeds for dated Canadian SN/SF rows.
