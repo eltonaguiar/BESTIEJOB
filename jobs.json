@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-12T21:10:53.005Z",
     "generatedAt": "2026-11-12T21:10:53.005Z",
-    "total": 2585,
+    "total": 2586,
     "newThisScan": 853,
     "retainedFromPrevious": 1785,
     "sources": {
@@ -7827,6 +7827,23 @@
       ],
       "verifiedAt": "2026-11-12T12:18:21.522139+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "adzuna:adzuna.ca/details/5961946308",
+      "source": "adzuna",
+      "company": "CloudLabs Inc",
+      "title": "Salesforce Architect with Multi-Cloud Experience",
+      "location": "Toronto, ON, Canada",
+      "url": "https://www.adzuna.ca/details/5961946308",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T00:00:00.000Z",
+      "scrapedAt": "2026-11-12T21:00:00.000Z",
+      "excerpt": "Salesforce Architect with Multi-Cloud Experience — design and deliver scalable Salesforce solutions across multiple clouds and third-party integrations (CloudLabs Inc, Toronto).",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000160985589",
@@ -48379,23 +48396,6 @@
       "scrapedAt": "2026-11-09T10:56:56.029354+00:00",
       "excerpt": "Deloitte Salesforce Developer Digital Customer, 1-year fixed-term contract, Toronto, $58K-$102K, 3+ yrs Apex/LWC, Einstein AI/Agentforce.",
       "workArrangement": "hybrid",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "adzuna:adzuna.ca/details/5961946308",
-      "source": "adzuna",
-      "company": "CloudLabs Inc",
-      "title": "Salesforce Architect with Multi-Cloud Experience",
-      "location": "Toronto, ON, Canada",
-      "url": "https://www.adzuna.ca/details/5961946308",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-11T00:00:00.000Z",
-      "scrapedAt": "2026-11-12T21:00:00.000Z",
-      "excerpt": "Salesforce Architect with Multi-Cloud Experience — design and deliver scalable Salesforce solutions across multiple clouds and third-party integrations (CloudLabs Inc, Toronto).",
-      "workArrangement": "unknown",
       "tags": [
         "salesforce"
       ]

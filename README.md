@@ -20,10 +20,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-13 → 2026-11-12 · **6758 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1193)_developer / administrator / architect / analyst roles_
-|| 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447?utm_medium=api&utm_source=54ce986e) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v3.md · adzuna |
-<details><summary><strong>Show 1193 postings</strong></summary>| 2026-11-12 | [Specialized IT Consultant (ServiceNow) - Senior, 1 yr contract](https://www.adzuna.ca/details/5962883790?utm_medium=api&utm_source=54ce986e) | Dimensional Tech | Canada | via fresh-ca--2026-11-12--v1.md |
-|| 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow |
+### ServiceNow jobs (1195)_developer / administrator / architect / analyst roles_|| 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447?utm_medium=api&utm_source=54ce986e) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v3.md · adzuna |
+<details><summary><strong>Show 1195 postings</strong></summary>|| 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow |
 || 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995) | BMO | Toronto, ON, CAN | workday · servicenow |
 || 2026-11-12 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-swoon-4490348678) | Swoon | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 ||| 2026-11-11 | [ServiceNow Developer - Specialized Developer – Expert](https://www.dice.com/job-detail/731ebf90-6929-44cd-8cec-f2d1393a11fb) | Spectra Group | Toronto, ON (hybrid) | via dice · posted 2026-11-11, $85-90/hr contract |
@@ -1217,10 +1215,8 @@ Window: 2026-10-13 → 2026-11-12 · **6758 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1367)_developer / administrator / architect / consultant roles_
-
-<details><summary><strong>Show 1367 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
-|| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (Toronto) | cognizant · salesforce |
+### Salesforce jobs (1368)_developer / administrator / architect / consultant roles_
+<details><summary><strong>Show 1368 postings</strong></summary>|| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (Toronto) | cognizant · salesforce |
 || 2026-11-12 | [Salesforce Omnistudio Developer](https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4488534223) | Galent | Toronto, Ontario, Canada | linkedin · salesforce |
 || 2026-11-12 | [Salesforce Senior FSC Developer / Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4488530420) | Apptoza Inc. | Toronto, Ontario, Canada | linkedin · salesforce |
 || 2026-11-12 | [Salesforce Quality Analyst Tester](https://www.adzuna.ca/land/ad/5963156514) | OSI Digital | Toronto, Ontario | adzuna · salesforce |
@@ -6823,8 +6819,11 @@ before applying. If a row says `date relative — unverified`, treat the date as
 ```markdown
 | Posted | Role | Company | Location | URL |
 | 2026-11-12 | [ServiceNow Developer - Senior (CMDB, HAM, SAM)](https://ca.indeed.com/viewjob?jk=6d12ca9d15fb67dc) | Spectra Group Inc | Toronto, ON, Canada | via hermes-agent--2026-11-12--v1.md · indeed |
+| 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
+| 2026-11-12 | [ServiceNow CMDB Administrator](https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-11 | [Databricks Solution Architect](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/Databricks-Solution-Architect_JR6061) | BDO Canada | Toronto - Bay St | via workday |
 | 2026-11-11 | [Bilingual Intermediate Associate, Financial Reporting & Insights](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Bilingual-Intermediate-Associate--Financial-Reporting---Insights_JR7344-1) | BDO Canada | Montreal - 1000 Rue De La Gauchetière Ouest | via workday |
+| 2026-11-11 | [Salesforce FinancialForce PSA (Certinia) Developer](https://www.adzuna.ca/details/5961940040?utm_medium=api&utm_source=54ce986e) | YDC Pro | Canada | via fresh-ca--2026-11-12--v1.md |
 |---|---|---|---|---|
 | 2026-11-02 | ServiceNow Developer | Acme Corp | Toronto, ON | https://example.com/job/1 |
 ```
