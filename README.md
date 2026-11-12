@@ -9,24 +9,25 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
-  - [ServiceNow jobs (595)](#servicenow-jobs-595)
-  - [Salesforce jobs (612)](#salesforce-jobs-612)
-  - [Other jobs (583)](#other-jobs-583)
+  - [ServiceNow jobs (596)](#servicenow-jobs-596)
+  - [Salesforce jobs (613)](#salesforce-jobs-613)
+  - [Other jobs (584)](#other-jobs-584)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **1790 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **1793 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (595)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 595 postings</strong></summary>
+<details><summary><strong>Show 596 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-11 | [Servicenow Developer](https://www.adzuna.ca/details/5961956080) | Triunity Software, Inc. | Markham, York region | Adzuna · ServiceNow developer · via fresh-ca--2026-11-11--v8.md |
 | 2026-11-11 | [ServiceNow Developer](https://www.adzuna.ca/details/5961956421) | Avanciers Inc. | Canada (remote) | Adzuna · ServiceNow developer · via fresh-ca--2026-11-11--v8.md |
 | 2026-11-11 | [ServiceNow Architect](https://www.adzuna.ca/details/5961942893) | 2iSolutions Inc. | Oshawa, ON | Adzuna · 18-mo contract · hybrid 2d · security incident/IR |
 | 2026-11-11 | [Solution Architect - ServiceNow, IT Service Management](https://www.adzuna.ca/details/5961945752) | HCLTech | East Gwillimbury, ON | Adzuna · HCLTech · Global Elite SI partner · ITSM/ITAM |
@@ -629,9 +630,10 @@ _developer / administrator / architect / analyst roles_
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 612 postings</strong></summary>
+<details><summary><strong>Show 613 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-11 | [Salesforce Platform Developer](https://www.adzuna.ca/details/5961955838) | Reonomy | Toronto, Ontario | Adzuna · Salesforce platform developer · via fresh-ca--2026-11-11--v8.md |
 | 2026-11-11 | [Salesforce Developer](https://www.adzuna.ca/details/5961951024) | Insight Global | Toronto, ON | Adzuna · 6-mo · FSC developer · insurance |
 | 2026-11-11 | [Salesforce Communications Cloud Architect](https://www.adzuna.ca/details/5961947986) | Tata Consultancy Services Limited | Toronto, ON | Adzuna · TCS · Global Elite SI partner · Communications Cloud |
 | 2026-11-11 | [SFDC Developer](https://www.adzuna.ca/details/5961945425) | MOTOCOL | Toronto, ON | Adzuna · Apex/Visualforce · TN visa possible |
@@ -1251,10 +1253,11 @@ _developer / administrator / architect / analyst roles_
 
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 583 postings</strong></summary>
+<details><summary><strong>Show 584 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-09 | [Lead Management Operations](https://www.onjobcentre.ca/jobs/lead-management-operations-toronto-1680942) | Rogers Communications | Toronto / Mississauga (multi-city requisition) | ONjobcentre.ca · Rogers requisition 343961 · Salesforce lead management and CRM ops · closing 2027-01-03 |
 | 2026-11-11 | [Staff Security Engineer / Security Engineering](https://www.workopolis.com/jobsearch/viewjob/BXQAtlL1fYOHUseDU7rboS08ywujty96WXaNsXggFOisflikVgYiVuVZypOAHX-E) | ServiceNow | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Staff Security Engineer / Enterprise Security](https://www.workopolis.com/jobsearch/viewjob/EEuAZN8ek5clxYTteWp4yQqqoFeDUSsz8xdCYqdfTiufrOHQ7fg3BwK5PXbSlsUK) | ServiceNow | Toronto, ON | Workopolis Canada |
 | 2026-11-11 | [Senior Staff Security Engineer / Systems Engineering](https://www.workopolis.com/jobsearch/viewjob/TQFODEbqf0ocEe7ZYvNiF647DGzAtKRc_uOLch_M8QNa9VOkoa4cTCdN0Dt4vCqC) | ServiceNow | Toronto, ON | Workopolis Canada |
