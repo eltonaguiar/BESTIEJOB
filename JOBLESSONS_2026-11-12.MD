@@ -240,3 +240,38 @@ Adzuna detail pages return HTTP 405 to extractors — trust the dated sweep file
 2. fresh_ca_scan.py timed out at 240s; its partial report still dedupes cleanly and its single survivor was already on the board. Split Adzuna and the LinkedIn guest pass into separate sub-runs to fit the session wall clock.
 3. URL-only dedupe catches re-emitted Adzuna requisitions; role + company + location dedupe catches locale-variant Cognizant requisitions (us-en / uki-en / ca-en).
 4. Confirm apply status before listing: Bell filled roles and the closed Scotiabank role both surfaced in search but fail the liveness/apply gate — never list closed or filled roles as fresh.
+
+## Hourly scan — 2026-11-12 15:00 EST (20:00 UTC) — NULL RUN (eighth pass)
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-12 15:00 EST (20:00 UTC) |
+| Baseline (README.md tables + jobs.json on main @ HEAD cdd895f) | 6,757 live postings · ServiceNow 1,192 · Salesforce 1,366 · Other 4,206 · window 2026-10-13 → 2026-11-12 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md tables | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required; public/ republished on the 12:00 EST push via .github/workflows/pages.yml) |
+
+### Scans run (15:00 pass)
+- Targeted web search + direct `site:` checks for Rogers (jobs.rogers.com), Bell (jobs.bell.ca), Government of Canada (jobs.gc.ca), and fresh ServiceNow / Salesforce Platform Administrator / Platform Developer I Toronto postings.
+- Adzuna candidate check: adzuna.ca/details/5961946308 (CloudLabs "Salesforce Architect with Multi-Cloud Experience", posted 2026-11-11, Canada) — HTTP 405 from origin, not independently extractable; skipped as out of board scope anyway (senior Architect title, not Platform Administrator/Platform Developer I; Canada-wide, not Toronto).
+
+### Candidates reviewed (15:00 pass) — all deduped, 0 added
+- **Rogers** (jobs.rogers.com): Platform Specialist Toronto (VMware/NetApp infrastructure, ServiceNow only incidental), Technical Specialist Markham Req 343759 (SN/SF listed as "comparable tools", not a platform role), Lead Management Operations Salesforce Req 343961 (posted ~Oct 28, outside freshness window, already on board). Nothing fresh addable.
+- **Bell** (jobs.bell.ca): every ServiceNow hit returns "has been filled" — Developer/Integrator 431695, System Administrator 432824, Senior Technical Advisor 432829, Senior Manager Platform Delivery 432892. Filled roles never enter the board.
+- **Government of Canada** / jobs.gc.ca: zero ServiceNow/Salesforce Toronto results; GC platform work arrives via prime vendors on their own ATS.
+- **City of Toronto** Systems Integration Specialist (AMANDA Developer/Administrator, posting 12-Nov-2026 → 26-Nov-2026, Salesforce an asset): already on board (2026-11-12, city-government). Duplicate.
+- **Indeed/search aggregations** (SS&C Salesforce Implementation Consultant & Platform Administrator posted 3 Nov 2026 Senior; Robert Half Salesforce Developer 2026-11-10; Equest Senior Salesforce Administrator Nov 7; Lane Four / CGI / Deloitte): outside freshness window, wrong seniority, or already absorbed by earlier scans. Nothing fresh addable.
+
+### Target-company checks (Rogers / Bell / partners / GC) — nothing fresh addable
+- Rogers, Bell, TELUS, Government of Canada / jobs.gc.ca / Canada.ca: nothing fresh addable this hour.
+- Partner / elite-partner sweep (Ateko/FX Innovation, Deloitte, EY, KPMG, Cognizant, CGI, TCS, Wipro, HCLTech, Crossfuze, BDO, MNP, OSI Digital, Apptoza, Galent, Lane Four, CloudKettle): nothing fresh addable beyond previously absorbed rows.
+
+### Patterns / lessons (15:00 pass)
+1. Eighth pass today with zero table additions. Null runs are the norm at this hour; a scan that surfaces rows but adds none is still a successful dedupe verification — the board did not stagnate, it simply had nothing genuinely new this hour.
+2. Adzuna detail pages return HTTP 405 to extractors (confirmed on adzuna.ca/details/5961946308). Trust dated sweep files + URL dedupe against the board; never add an Adzuna-only role without a directly-verifiable employer page.
+3. Role + company + location dedupe beats URL-only dedupe: the same requisition re-surfaces via Adzuna/LinkedIn/Workday under different URLs (e.g. City of Toronto AMANDA/Salesforce role, Cognizant us-en/uki-en/ca-en locale variants). Match on role + company + location, not URL alone.
+4. Bell filled-role gate holds across every hourly pass: all six Bell ServiceNow reqs checked return "has been filled"; don't re-surface filled roles each hour.
+
+### Files changed
+- `JOBLESSONS_2026-11-12.MD` (this entry)
+- `README.md` / `jobs.json` / `public/` — unchanged (null run, no rows to merge; no site rebuild required)
