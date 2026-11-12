@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-11](#current-jobs--as-of-2026-11-11)
-  - [ServiceNow jobs (536)](#servicenow-jobs-536)
-  - [Salesforce jobs (545)](#salesforce-jobs-545)
+  - [ServiceNow jobs (538)](#servicenow-jobs-538)
+  - [Salesforce jobs (546)](#salesforce-jobs-546)
   - [Other jobs (499)](#other-jobs-499)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,17 +18,18 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-11
 
-Window: 2026-10-12 → 2026-11-11 · **1580 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-12 → 2026-11-11 · **1582 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (536)
+### ServiceNow jobs (538)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 536 postings</strong></summary>
+<details><summary><strong>Show 538 postings</strong></summary>
 
 | Posted | Role | Company | Location | Source / note |
-|---|---|---|---|---|
-| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON | Cognizant careers · ServiceNow SAM/SAM Pro · hybrid |
+||---|---|---|---|---|
+|| 2026-11-11 | [Product Manager, ServiceNow](https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009) | Loblaw Companies Limited | Brampton, Ontario, Canada | via hermes-cron--2026-11-11--v3.md ||
+|| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON | Cognizant careers · ServiceNow SAM/SAM Pro · hybrid ||
 | 2026-11-11 | [ServiceNow Architect](https://www.adzuna.ca/details/5961942893) | 2iSolutions Inc. | Oshawa, ON | Adzuna · 18-mo contract · hybrid 2d · security incident/IR |
 | 2026-11-11 | [Solution Architect - ServiceNow, IT Service Management](https://www.adzuna.ca/details/5961945752) | HCLTech | East Gwillimbury, ON | Adzuna · HCLTech · Global Elite SI partner · ITSM/ITAM |
 | 2026-11-11 | [ServiceNow QA Engineer](https://www.adzuna.ca/details/5961948831) | Tata Consultancy Services Limited | Toronto, ON | Adzuna · TCS · Global Elite SI partner · SN QA |
@@ -567,14 +568,15 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (545)
+### Salesforce jobs (546)
 _developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 545 postings</strong></summary>
+<details><summary><strong>Show 546 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 | 2026-11-10 | [Salesforce Developer](https://www.roberthalf.com/ca/en/job/toronto-on/salesforce-developer/000954410-caen) | Robert Half | Toronto, ON (remote) | Salesforce Apex/LWC/Agentforce, permanent, $90-95K CAD · via hermes-cron--2026-11-11--v4.md |
-|---|---|---|---|---|
-| 2026-11-10 | [Salesforce Revenue Cloud Advanced](https://www.jobs.ca/apptoza-inc/jobs/salesforce-revenue-cloud-advanced-toronto-on-7031f7d779ba) | Apptoza Inc. | Toronto, ON | jobs.ca · Salesforce Revenue Cloud/CPQ · hybrid · apply on LinkedIn |
+||---|---|---|---|---|
+|| 2026-11-11 | [Q2C Senior Business Analyst](https://ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808) | Salesforce | Toronto, Ontario, Canada | via hermes-cron--2026-11-11--v3.md ||
+|| 2026-11-10 | [Salesforce Revenue Cloud Advanced](https://www.jobs.ca/apptoza-inc/jobs/salesforce-revenue-cloud-advanced-toronto-on-7031f7d779ba) | Apptoza Inc. | Toronto, ON | jobs.ca · Salesforce Revenue Cloud/CPQ · hybrid · apply on LinkedIn ||
 | 2026-11-10 | [Senior Salesforce Developer](https://www.jobs.ca/cgi/jobs/senior-salesforce-developer-toronto-on-050842228e28) | CGI | Toronto, ON | jobs.ca · $80K–130K · on-site |
 | 2026-11-10 | [Senior Salesforce Developer](https://www.jobs.ca/apptoza-inc/jobs/senior-salesforce-developer-toronto-on-f7caa5132084) | Apptoza Inc. | Toronto, ON | jobs.ca · Salesforce FSC · hybrid · apply on LinkedIn |
 | 2026-11-11 | [Senior Platform Support Analyst with data cloud](https://www.adzuna.ca/details/5961949045) | Maarut | Toronto, ON | Adzuna · contract · SF Data Cloud/Loyalty |

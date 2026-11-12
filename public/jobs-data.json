@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-11T23:16:08+00:00",
+ "generatedAt": "2026-11-12T01:18:53+00:00",
  "timezone": "America/Toronto",
- "count": 2413,
+ "count": 2415,
  "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
@@ -755,6 +755,27 @@
      "label": "LinkedIn · Montreal"
     }
    ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Product Manager, ServiceNow",
+   "company": "Loblaw Companies Limited",
+   "location": "Brampton, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "product manager, servicenow loblaw companies limited brampton, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-11",
@@ -4278,27 +4299,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Manager, Sales & Marketing Clouds",
-   "company": "ivari Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce manager, sales & marketing clouds ivari canada toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Marketing Cloud Next Solution Architect",
    "company": "NeuraFlash",
    "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
@@ -4564,6 +4564,27 @@
    ],
    "french": false,
    "search": "salesforce marketing cloud specialist (crm executive) vertage toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Manager, Sales & Marketing Clouds",
+   "company": "ivari Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
+   "note": "via linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce manager, sales & marketing clouds ivari canada toronto, ontario, canada linkedin salesforce via linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -4943,6 +4964,28 @@
    ],
    "french": false,
    "search": "intermediate salesforce system coordinator- 5816 amyantek toronto, ontario, canada linkedin salesforce linkedin salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Q2C Senior Business Analyst",
+   "company": "Salesforce",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 50,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "q2c senior business analyst salesforce toronto, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
    "alternates": []
   },
   {

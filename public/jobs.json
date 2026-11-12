@@ -16,8 +16,8 @@
     "location": "Toronto, ON",
     "dateFilter": "month",
     "scrapedAt": "2026-11-11T22:11:15.757Z",
-    "generatedAt": "2026-11-11T22:11:15.757Z",
-    "total": 2849,
+    "generatedAt": "2026-11-12T01:15:24.625Z",
+    "total": 2850,
     "newThisScan": 819,
     "retainedFromPrevious": 1714,
     "sources": {
@@ -33,11 +33,49 @@
       "adzuna": 480
     },
     "primaryCounts": {
-      "servicenow": 1186,
-      "salesforce": 1178
+      "servicenow": 1187,
+      "salesforce": 1179
     }
   },
   "jobs": [
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
+      "source": "linkedin",
+      "company": "Loblaw Companies Limited",
+      "title": "Product Manager, ServiceNow",
+      "location": "Brampton, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T00:00:00.000Z",
+      "scrapedAt": "2026-11-12T01:14:08.182Z",
+      "excerpt": "Product Manager, ServiceNow · Brampton, ON · LinkedIn guest · posted 1 hour ago · ServiceNow platform product role",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ],
+      "verifiedAt": "2026-11-12T01:14:08.182Z",
+      "verifyState": "live"
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808",
+      "source": "linkedin",
+      "company": "Salesforce",
+      "title": "Q2C Senior Business Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T00:00:00.000Z",
+      "scrapedAt": "2026-11-12T01:14:08.182Z",
+      "excerpt": "Q2C Senior Business Analyst · Toronto, ON · Salesforce careers · posted 2 hours ago · Salesforce Quote-to-Cash",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-12T01:14:08.182Z",
+      "verifyState": "live"
+    },
     {
       "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/canada---toronto-metro---remote/devops-architect--can-_jr367615",
       "source": "workday",
@@ -168,7 +206,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -223,7 +261,7 @@
       "excerpt": "RQ00675/RQ00674 - Sr. Solutions Designer - CRM 2 openings - 2 different submissions 6-month contract (130 business days) - possible extension 3 days onsite / 2 days remote (subject to HM's discretion) - Metro Hall, 55 John Street Must Haves 10 years of hands‑on experience working in large project and/or program environ",
       "workArrangement": "remote",
       "tags": [],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -261,7 +299,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -417,7 +455,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -447,7 +485,9 @@
           "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484146485",
           "label": "linkedin"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961957410",
@@ -647,8 +687,8 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961956405",
@@ -743,8 +783,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961956059",
@@ -763,8 +803,8 @@
         "servicenow",
         "it-reporting"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961955962",
@@ -801,8 +841,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961955772",
@@ -862,8 +902,8 @@
       "tags": [
         "full-stack"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961955616",
@@ -919,8 +959,8 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961955300",
@@ -957,8 +997,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961954885",
@@ -976,7 +1016,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1014,8 +1054,8 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961954616",
@@ -1052,8 +1092,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961954410",
@@ -1148,8 +1188,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961954169",
@@ -1167,7 +1207,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1186,7 +1226,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1320,7 +1360,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1378,7 +1418,7 @@
         "servicenow",
         "itam"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1395,7 +1435,7 @@
       "excerpt": "Since 1879, Birks has been synonymous with exceptional jewellery, luxury craftsmanship and meaningful client experiences, offering both our own creations and a curated selection from renowned luxury brands. We’re looking for a versatile, experienced developer to help shape the next generation of our digital commerce an",
       "workArrangement": "unknown",
       "tags": [],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1414,7 +1454,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1433,7 +1473,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1452,7 +1492,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1471,7 +1511,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1490,7 +1530,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1605,7 +1645,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1662,7 +1702,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1681,7 +1721,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1745,7 +1785,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1764,7 +1804,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live",
       "alternates": [
         {
@@ -1829,7 +1869,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1848,7 +1888,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1950,7 +1990,7 @@
           "label": "readme"
         }
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1976,7 +2016,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1995,7 +2035,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2053,7 +2093,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2148,7 +2188,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2195,7 +2235,7 @@
           "label": "readme"
         }
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2220,7 +2260,9 @@
           "url": "https://www.adzuna.ca/details/5961946481",
           "label": "adzuna"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961946360",
@@ -2238,7 +2280,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2276,7 +2318,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2315,7 +2357,7 @@
         "servicenow",
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2353,7 +2395,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2391,7 +2433,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2448,7 +2490,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2486,7 +2528,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2543,7 +2585,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2562,7 +2604,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2588,7 +2630,7 @@
           "label": "linkedin"
         }
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2607,7 +2649,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2645,7 +2687,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2671,7 +2713,7 @@
           "label": "linkedin"
         }
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2728,7 +2770,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2747,7 +2789,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2804,7 +2846,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -2823,7 +2865,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -2842,7 +2884,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -2861,7 +2903,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2880,7 +2922,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2899,7 +2941,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2918,7 +2960,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2937,7 +2979,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2956,7 +2998,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2975,7 +3017,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2995,7 +3037,7 @@
         "servicenow",
         "itam"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3014,7 +3056,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3033,7 +3075,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3052,7 +3094,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3071,7 +3113,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3090,7 +3132,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3109,7 +3151,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3128,7 +3170,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3147,7 +3189,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3166,7 +3208,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3186,7 +3228,7 @@
         "servicenow",
         "itam"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3205,7 +3247,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3224,7 +3266,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3243,7 +3285,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3263,7 +3305,7 @@
         "servicenow",
         "it-reporting"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3282,7 +3324,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3301,7 +3343,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3320,7 +3362,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3339,7 +3381,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3358,7 +3400,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3378,7 +3420,7 @@
         "servicenow",
         "itam"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3398,7 +3440,7 @@
         "servicenow",
         "itam"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3417,7 +3459,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3436,7 +3478,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3455,7 +3497,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3474,7 +3516,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3493,7 +3535,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3512,7 +3554,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3531,7 +3573,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3550,7 +3592,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3569,7 +3611,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3588,7 +3630,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3607,7 +3649,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3626,7 +3668,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3645,7 +3687,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3664,7 +3706,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3683,7 +3725,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3702,7 +3744,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3721,7 +3763,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3740,7 +3782,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3759,7 +3801,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3778,7 +3820,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3797,7 +3839,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3816,7 +3858,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3835,7 +3877,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3854,7 +3896,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3873,7 +3915,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3892,7 +3934,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3911,7 +3953,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3930,7 +3972,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3949,7 +3991,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3968,7 +4010,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -3987,7 +4029,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4006,7 +4048,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4025,7 +4067,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4044,7 +4086,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4063,7 +4105,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4082,7 +4124,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4101,7 +4143,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4120,7 +4162,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4139,7 +4181,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4158,7 +4200,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4177,7 +4219,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4196,7 +4238,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4215,7 +4257,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4234,7 +4276,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4253,7 +4295,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4272,7 +4314,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4291,7 +4333,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4310,7 +4352,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4329,7 +4371,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4348,7 +4390,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4367,7 +4409,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4386,7 +4428,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4405,7 +4447,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4424,7 +4466,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4443,7 +4485,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4462,7 +4504,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4481,7 +4523,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4500,7 +4542,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4519,7 +4561,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4538,7 +4580,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4557,7 +4599,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4576,7 +4618,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -4595,7 +4637,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4614,7 +4656,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4633,7 +4675,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -4652,7 +4694,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4671,7 +4713,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -4690,7 +4732,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4710,7 +4752,7 @@
         "servicenow",
         "itam"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -4730,7 +4772,7 @@
         "servicenow",
         "it-reporting"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -4812,23 +4854,6 @@
       "verifyState": "unknown"
     },
     {
-      "id": "readme:ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
-      "source": "readme",
-      "company": "ivari Canada",
-      "title": "Salesforce Manager, Sales & Marketing Clouds",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-manager-sales-marketing-clouds-at-ivari-canada-4093448492",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-11T12:00:00.000Z",
-      "scrapedAt": "2026-11-11T22:12:59.335Z",
-      "excerpt": "via linkedin",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
       "id": "readme:careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer",
       "source": "readme",
       "company": "Cognizant",
@@ -4843,7 +4868,9 @@
       "workArrangement": "hybrid",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5961482603",
@@ -4861,7 +4888,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4884,7 +4911,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4903,7 +4930,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -4922,7 +4949,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -5538,7 +5565,7 @@
           "label": "linkedin"
         }
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -5740,8 +5767,8 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4487861359",
@@ -5759,8 +5786,8 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
-      "verifyState": "unknown",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live",
       "alternates": [
         {
           "source": "linkedin",
@@ -5810,8 +5837,8 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000160985589",
@@ -5886,7 +5913,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown",
       "alternates": [
         {
@@ -5956,7 +5983,7 @@
       "tags": [
         "full-stack"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -5975,7 +6002,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6026,7 +6053,7 @@
           "label": "linkedin"
         }
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6070,8 +6097,8 @@
         "servicenow",
         "it-reporting"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/principal-applied-ai-architect-at-salesforce-4487983795",
@@ -6089,7 +6116,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -6108,8 +6135,8 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/senior-software-engineering-specialist-at-mackenzie-investments-4489601589",
@@ -6127,7 +6154,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6146,7 +6173,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6165,7 +6192,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -6184,7 +6211,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6203,7 +6230,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6222,7 +6249,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6241,7 +6268,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6260,7 +6287,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6279,7 +6306,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6298,7 +6325,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6317,7 +6344,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6336,7 +6363,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -6355,7 +6382,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -6374,7 +6401,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -6393,7 +6420,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -6412,7 +6439,7 @@
       "tags": [
         "other"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "live"
     },
     {
@@ -6431,7 +6458,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-11T19:10:59.205856+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6449,7 +6476,9 @@
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5960420672",
@@ -6479,7 +6508,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6539,7 +6568,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6562,7 +6591,7 @@
       "tags": [
         "full-stack"
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6579,7 +6608,7 @@
       "excerpt": "Job Description Job Description Position Summary We are seeking an experienced contractor to migrate existing GitHub-based automation workflows to HashiCorp Cloud Platform (HCP) and integrate HCP with Ansible. The goal is to establish a unified automation platform for infrastructure deployment and Day 2 operations, and",
       "workArrangement": "hybrid",
       "tags": [],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6620,7 +6649,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
@@ -6646,7 +6675,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
+      "verifiedAt": "2026-11-12T01:18:36.165113+00:00",
       "verifyState": "unknown"
     },
     {
