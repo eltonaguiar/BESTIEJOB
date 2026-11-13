@@ -46,8 +46,15 @@ The GitHub Action's `daily_job_scan.mjs` refreshed `jobs.json` at 05:12Z (`scrap
 | BMO — ServiceNow SAM Administrator (Toronto) | Indeed/ZipRecruiter | **Already on board** (deadline 11/22/2026) |
 
 ## Dedupe outcome
-- Normalized-URL set from `jobs.json` (2,657 unique, 0 bad date/url/title) was the primary gate; fuzzy company+title checked as a backstop (KPMG/CGI/Deloitte roles re-surface under LinkedIn/eluta/njoyn/icims URLs — company+title catches them even when the URL differs).
+- Normalized-URL set from `jobs.json` (2,609 unique, 0 bad date/url/title) was the primary gate; fuzzy company+title checked as a backstop (KPMG/CGI/Deloitte/BMO roles re-surface under LinkedIn/eluta/njoyn/icims/Workday URLs — company+title catches them even when the URL differs).
 - Every candidate either matched an existing URL, matched an existing company+title row, or failed liveness/deadline. Nothing met the "genuinely fresh + verifiable + not already tracked" bar.
+
+## `import_fresh_rows.py` check — do NOT run it blind this hour
+A `--dry-run --days 2` reported **431 fresh rows, 22 "genuinely new"**. Cross-checking each against the full README text showed **every one was already on the board under a mirror URL**, e.g.:
+- BMO ServiceNow CMDB Administrator (Workday `R260030992`, live HTTP 200) ≡ README row via LinkedIn `...cmdb-administrator-at-bmo-4490380189`
+- BMO ServiceNow Technology Lifecycle Analyst (Workday `R260030995`, live HTTP 200) ≡ README via LinkedIn `...technology-lifecycle-analyst-at-bmo-4490364941`
+- Cognizant / CAAT / OSI Digital / TForce Freight / Deloitte (2026-11-12) rows — already added to README by the 22:00 EST run.
+`import_fresh_rows.py` only diffs against its own scan-output URLs, so it cannot see the README's LinkedIn/aggregator mirrors and would have **duplicated ~22 existing roles**. Dry-run it, then confirm each "new" row by company+title against the whole README before importing — or better, skip it and let `build_site.py` union jobs.json + README.
 
 ## Target-company checks (Rogers / Bell / partners / Government of Canada)
 - **Rogers:** no fresh SN/SF *platform* role surfaced; Rogers Salesforce hits are sales/marketing-ops (already tracked in Other), not Platform Admin/Dev I.
@@ -60,9 +67,11 @@ The GitHub Action's `daily_job_scan.mjs` refreshed `jobs.json` at 05:12Z (`scrap
 2. **HTTP 410 on a Job Bank posting id = removed.** Both CSA/CAD SPM and RBC HRSD hits were 410; do not re-add them.
 3. **LinkedIn detail pages are behind a login wall for `web_extract`** (HTTP 422 target_paywalled) and the browser harness may fail with a locked Chrome profile. Dedupe by URL/id from search snippets instead; don't burn calls re-extracting walled pages.
 4. **`postedDate` on ATS/Workday rows is the scan timestamp, not the real posting date.** The 15 "2026-11-13" rows in `jobs.json` are mostly jobs *scanned* today (Workday/BMO/GDIT), not genuinely new postings. Never insert them into README as "Posted today" — freshness must come from the source, not the scan clock.
-5. **Rebuild after any `jobs.json` change.** `public/jobs-data.json` was stale (5,079 jobs built at 23:15 EST from the 2,600 feed) while `jobs.json` had moved to 2,657. `tools/build_site.py` re-unions `jobs.json` (leads) + README rows → 5,086 cards. Editing `jobs.json` alone never reaches the page — always run `build_site.py` and commit `public/jobs-data.json` + `public/index.html` too.
-6. **The board is already dense (5,086 unique cards; 2,657 fresh feed).** Sustained null hours mean coverage is good, not that scanning stopped. Keep the liveness/verification gate, but don't manufacture rows to "hit a number".
+5. **Rebuild after any `jobs.json` change.** `public/jobs-data.json` can lag the feed (this hour my local 2,657 feed built to 5,086 cards, but origin's newer 2,609 feed already built 5,088 at 05:13:54Z — trust the newer feed). `tools/build_site.py` re-unions `jobs.json` (leads) + README rows; editing `jobs.json` alone never reaches the page, so always run `build_site.py` and commit `public/jobs-data.json` + `public/index.html`.
+6. **The board is already dense (5,088 unique cards; 2,609 fresh feed).** Sustained null hours mean coverage is good, not that scanning stopped. Keep the liveness/verification gate, but don't manufacture rows to "hit a number".
 7. **Partner portals rarely publish dates and rarely have entry-level Platform Admin / Dev I.** GC platform work reaches the market through prime vendors on their own ATS; check those boards, not `jobs.gc.ca` (Radware-blocked).
+8. **`import_fresh_rows.py` over-reports "new" rows by mirror URL.** It reported 22 "genuinely new" this hour, but all 22 were already in README under LinkedIn/aggregator URLs (its dedupe only sees its own scan-output URLs). Never import its output without a company+title cross-check against the full README first.
+9. **Workday↔LinkedIn mirror pairs share one requisition.** BMO `R260030992`/`R260030995` live on Workday *and* as LinkedIn `4489…` rows; either URL is valid, but adding both double-lists one job. Prefer the employer-board URL when adding a genuinely new row; keep the LinkedIn mirror as an alternate.
 
 ## Files touched
 - `JOBLESSONS_2026-11-13.MD` (this file)
