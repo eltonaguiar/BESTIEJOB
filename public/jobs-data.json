@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T13:08:11+00:00",
+ "generatedAt": "2026-11-13T13:13:15+00:00",
  "timezone": "America/Toronto",
  "count": 5103,
  "appliedHidden": 42,
@@ -386,6 +386,38 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Salesforce Marketing Cloud Developer",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud developer mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-mckesson-4428388178",
+     "label": "LinkedIn · Mississauga"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946003198?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Enterprise Implementation Consultant (Salesforce Commerce Migration)",
    "company": "VTRAC Consulting Corporation (WBE)",
    "location": "Greater Toronto Area, Canada",
@@ -533,6 +565,48 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-associate-at-pwc-canada-4490544328",
      "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Software Engineering LMTS",
+   "company": "Salesforce",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5964479115",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "software engineering lmts salesforce toronto, ontario adzuna other adzuna salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5952912332",
+     "label": "Adzuna · Greater Vancouver"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5952815146",
+     "label": "Adzuna · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/software-engineering-lmts-at-salesforce-partner-canada-4486832785",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/software-engineering-lmts-at-salesforce-4486803500",
+     "label": "LinkedIn · Vancouver"
     }
    ]
   },
@@ -1623,27 +1697,6 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "Salesforce Administrator (hybrid, North York)",
-   "company": "Quarry Consulting",
-   "location": "North York, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-hybrid-north-york-at-quarry-consulting-4490381214",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce administrator (hybrid, north york) quarry consulting north york, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
    "title": "Salesforce Omnistudio Developer",
    "company": "Galent",
    "location": "Toronto, Ontario, Canada",
@@ -1837,6 +1890,27 @@
      "label": "Adzuna · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Salesforce Administrator (hybrid, North York)",
+   "company": "Quarry Consulting",
+   "location": "North York, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-hybrid-north-york-at-quarry-consulting-4490381214",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce administrator (hybrid, north york) quarry consulting north york, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-12",
@@ -40075,42 +40149,6 @@
    "french": false,
    "search": "account solution engineer - enterprise nonprofit team salesforce seattle, wa linkedin salesforce readme salesforce role fit",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Software Engineering LMTS",
-   "company": "Salesforce",
-   "location": "Greater Vancouver, British Columbia",
-   "url": "https://www.adzuna.ca/details/5952912332",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 28,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "software engineering lmts salesforce greater vancouver, british columbia adzuna other adzuna salesforce role fit",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5952815146",
-     "label": "Adzuna · Vancouver"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/software-engineering-lmts-at-salesforce-partner-canada-4486832785",
-     "label": "LinkedIn · Vancouver"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/software-engineering-lmts-at-salesforce-4486803500",
-     "label": "LinkedIn · Vancouver"
-    }
-   ]
   },
   {
    "posted": "2026-11-04",
@@ -95634,38 +95672,6 @@
    "french": false,
    "search": "salesforce architect/consultant international business machines corporation toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-10-29",
-   "title": "Salesforce Marketing Cloud Developer",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce marketing cloud developer mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946003198?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Mississauga"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-mckesson-4428388178",
-     "label": "LinkedIn · Mississauga"
-    }
-   ]
   },
   {
    "posted": "2026-10-29",
