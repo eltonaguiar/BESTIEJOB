@@ -1,3 +1,4 @@
+<!-- merged 2026-11-13T154417Z: +0 new, 1 duplicate, version 2 -->
 # Agency boards scan — 2026-11-13
 
 | Posted | Role | Company | Location | Note |
