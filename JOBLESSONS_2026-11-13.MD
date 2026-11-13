@@ -147,3 +147,40 @@ Files touched:
 - `jobs.json`, `public/jobs.json`, `public/gotjob/jobs.json`, `public/findjobs/jobs.json` — refreshed by the scan
 - `public/index.html`, `public/jobs-data.json` — GitHub Pages site rebuilt
 - `JOBLESSONS_2026-11-13.MD` — this section appended
+
+
+## 18:00 UTC run (2026-11-13 13:00 EST) — local cron search sweep (this run)
+
+**Result: 3 verified fresh rows merged into README.md tables.**
+
+| Metric | Value |
+|---|---|
+| Scan start | 2026-11-13T18:00Z (13:00 EST) |
+| jobs.json total (Action feed, scrapedAt 2026-11-13T17:10:40Z) | 2,619 (servicenow 1,230 / salesforce 1,269) |
+| README rows before merge | 6,812 live postings (window 2026-10-13 → 2026-11-13) |
+| New rows merged this run | 3 (2 ServiceNow, 1 Salesforce) |
+| README rows after merge | 6,815 live postings |
+
+Candidates reviewed (all checked against jobs.json + README.md tables — 0 matches in either):
+
+| Candidate | Source | Disposition |
+|---|---|---|
+| ServiceNow Developer | Dexian — Toronto, Hybrid — posted 2026-11-12 — https://snpro.jobs/jobs/servicenow-developer-6c1dc | MERGED — ServiceNow table (snpro · servicenow, itam) |
+| Senior ServiceNow Developer | Swoon — Toronto, Hybrid — posted 2026-11-11 — $75–105/hr, Canadian Big 5 bank contract — https://snpro.jobs/jobs/senior-servicenow-developer-0fcb9 | MERGED — ServiceNow table (snpro · servicenow, itam) |
+| Q2C Senior Business Analyst | Salesforce — Toronto, on-site — posted 2026-11-11 — https://ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808 | MERGED — Salesforce table (linkedin · salesforce) |
+| Sr. Analyst, TMT Commercial Business | Salesforce — Toronto — https://emploive.com/jobs/9887265 | EXCLUDED — field marketing at Salesforce Inc., not a platform role |
+| Procom Salesforce Developer (Toronto, posted 11/11/2026) | myprocom-portal.procomservices.com | DUPLICATE — already on board |
+| BMO ServiceNow CMDB Administrator (posted 2026-11-12) | bmo.wd3.myworkdayjobs.com | DUPLICATE — already on board |
+
+All live pages verified: snpro.jobs Dexian and Swoon pages extracted (posted dates, modules, locations); Salesforce Q2C BA corroborated via LinkedIn listing ("2 days ago") + scoutify + realanalystjobs (Workday feed, Nov 11).
+
+Lessons this run:
+1. The Action's 17:10Z feed already covers broad sources (LinkedIn/adzuna/workday/greenhouse etc.); targeted partner/employer searches (Rogers, Bell, TELUS, banks, CGI, Deloitte, KPMG, Accenture, ServiceNow/Salesforce careers, jobs.gc.ca) plus live-page verification are the incremental value this hour — same pattern as prior runs.
+2. Entry-level Platform Admin I / Platform Developer I roles still absent; fresh volume is mid/senior contract roles via staffing agencies (Dexian, Swoon) for Canadian bank clients.
+3. jobs.gc.ca and Rogers/Bell queries surfaced no addable SN/SF technical postings (Bell SN roles previously confirmed filled; Rogers titles are non-platform).
+4. Always dedupe against BOTH jobs.json and README.md table URLs before merge — this run's 3 leads were absent from both.
+
+Files touched:
+- `README.md` — +3 rows (2 SN, 1 SF); section headers SN 1202→1204, SF 1405→1406; live postings line 6812→6815
+- `JOBLESSONS_2026-11-13.MD` — this section appended
+- Push to main triggers `pages.yml` redeploy of https://eltonaguiar.github.io/BESTIEJOB/ (README.md is a pages build path; no `[skip ci]` on this content push).
