@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-13T08:15:05.473Z",
     "generatedAt": "2026-11-13T08:15:05.473Z",
-    "total": 2611,
+    "total": 2613,
     "newThisScan": 841,
     "retainedFromPrevious": 1820,
     "sources": {
@@ -657,6 +657,40 @@
       ],
       "verifiedAt": "2026-11-13T04:14:23.361397+00:00",
       "verifyState": "live"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984",
+      "source": "readme",
+      "company": "KTek Resourcing",
+      "title": "Servicenow Expert (ServiceNow Architect, remote, CSA/CAD/CTA)",
+      "location": "Canada (Remote)",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-12T12:00:00.000Z",
+      "scrapedAt": "2026-11-13T09:11:40.031Z",
+      "excerpt": "linkedin · servicenow, architect",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-consultant-at-avanciers-inc-4488577401",
+      "source": "readme",
+      "company": "Avanciers Inc.",
+      "title": "Salesforce Consultant (Senior, FSC, 12+ mo contract)",
+      "location": "Montreal, QC - Hybrid",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-avanciers-inc-4488577401",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-12T12:00:00.000Z",
+      "scrapedAt": "2026-11-13T09:11:40.031Z",
+      "excerpt": "linkedin · salesforce",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5963223318",

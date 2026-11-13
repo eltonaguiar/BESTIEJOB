@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-12](#current-jobs--as-of-2026-11-12)
-  - [ServiceNow jobs (1195)](#servicenow-jobs-1193)
-  - [Salesforce jobs (1368)](#salesforce-jobs-1367)
+  - [ServiceNow jobs (1191)](#servicenow-jobs-1191)
+  - [Salesforce jobs (1392)](#salesforce-jobs-1392)
   - [Other jobs (4206)](#other-jobs-4206)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,15 +18,16 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-12
 
-Window: 2026-10-13 → 2026-11-12 · **6761 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-12 · **6763 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1190)
+### ServiceNow jobs (1191)
 _developer / administrator / architect / analyst roles_
 
 <details><summary><strong>Show 1190 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
 | 2026-11-12 | [Sr. ServiceNow Developer](https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) | TekStaff IT Solutions (end client) | Toronto, ON - Hybrid (2-3 days/week onsite) | via hermes--2026-11-13--v1.md |
 | 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON - Hybrid (199 Bay Street) | via hermes--2026-11-13--v1.md |
 |---|---|---|---|---|
+| 2026-11-12 | [Servicenow Expert (ServiceNow Architect, remote, CSA/CAD/CTA)](https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984) | KTek Resourcing | Canada (Remote) | linkedin · servicenow, architect |
 | 2026-11-12 | [ServiceNow Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-at-cognizant-4481192199) | Cognizant | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
 | 2026-11-12 | [ServiceNow Senior Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-senior-technical-consultant-at-cognizant-4481180659) | Cognizant | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
 | 2026-11-12 | [ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/servicenow-technical-lead-at-caat-pension-plan-4481155245) | CAAT Pension Plan | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
@@ -1218,12 +1219,13 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1391)
+### Salesforce jobs (1392)
 _developer / administrator / architect / analyst roles_
 
 <details><summary><strong>Show 1391 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
 | 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (hiring location Toronto, ON - 199 Bay Street) | via hermes--2026-11-13--v1.md |
 |---|---|---|---|---|
+| 2026-11-12 | [Salesforce Consultant (Senior, FSC, 12+ mo contract)](https://ca.linkedin.com/jobs/view/salesforce-consultant-at-avanciers-inc-4488577401) | Avanciers Inc. | Montreal, QC - Hybrid | linkedin · salesforce |
 | 2026-11-12 | [Salesforce Developer - Digital Customer : Future Opportunities](https://ca.linkedin.com/jobs/view/salesforce-developer-digital-customer-future-opportunities-at-deloitte-4473525211) | Deloitte | Toronto, Ontario, Canada | via twin 20-round harvest |
 | 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490093184) | OSI Digital | Toronto, Ontario, Canada | linkedin · salesforce |
 | 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490077712) | OSI Digital | Vancouver, British Columbia, Canada | linkedin · salesforce |
