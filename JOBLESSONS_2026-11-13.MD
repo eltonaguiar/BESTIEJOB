@@ -267,3 +267,51 @@ Lessons this run:
 Files touched:
 - `JOBLESSONS_2026-11-13.MD` — this section appended
 - No changes to `README.md`, `jobs.json`, or `public/` (0 new verified jobs; board already current from the Action).
+
+## 22:00 UTC run (2026-11-13 17:00 EST) — hourly cron (local run standing in for the scheduled GitHub Action)
+
+**Result: 3 new fresh rows merged to README.md and the feed; board rebuilt and pushed to main as db0a9ab (fast-forward, 1004793..db0a9ab).**
+
+| Metric | Value |
+|---|---|
+| Scan start | 2026-11-13T22:02Z (17:02 EST) |
+| Feed baseline | jobs.json 2,635 (origin Action scan at 22:12 UTC) |
+| Fresh scan hits | 800 (Adzuna ×33 queries, LinkedIn guest, Workday 15 tenants, Greenhouse/Lever/Ashby, SmartRecruiters, remote feeds) |
+| Net-new URLs vs feed | 52 |
+| Passed freshness+geo+SN/SF filter (posted 11-12/11-13, Canada/GTA, platform-named title) | 8 |
+| Already on board / duplicates | 5 (2× OSI Digital Salesforce Developer already in Salesforce table; LanceSoft 4488379400 = job-id mirror of existing "Senior Salesforce Developer"; BMO CMDB Admin = mirror of existing Workday row; Cognizant SAM Dev already in the auto-scanned block) |
+| New rows merged | **3** — Alimentiv ServiceNow Platform Specialist (Canada, adzuna); Raas Infotek ServiceNow ITAM/ITOM Architect (Canada, linkedin); Avance Consulting Senior Consultant - ServiceNow HRSD (Ontario, linkedin) |
+| README rows after merge | 6,818 live postings |
+| Live page (GitHub Pages, serves public/ from main) | rebuilt via `tools/build_site.py`: 5,120 jobs (904 SN / 955 SF / 3,261 Other) |
+
+Merge notes:
+- Dedupe checked against normalized URL (README tables + jobs.json feed) AND LinkedIn trailing job id — LanceSoft's relisted title ("Revenue Cloud Technical Architect") shares job id 4488379400 with an existing row ("Senior Salesforce Developer") and was correctly skipped.
+- BMO's LinkedIn CMDB Administrator mirrors the Workday requisition already in the ServiceNow table — same req, skipped (dedupe on posting, not URL alone).
+- Adzuna/LinkedIn freshness coverage cross-validates: every platform-named Toronto role surfaced was either already on the board or one of the 3 added above.
+
+Sources queried and results:
+- **LinkedIn guest search** (`f_TPR=r86400`, Toronto, SN & SF): readable via cards in this session; 273 cards, 443 LinkedIn rows in feed.
+- **Adzuna Canada API** (demo keys, sort_by=date, max_days_old=14, geo=Toronto/Ottawa/Mississauga/Canada): 468 hits; source of the Alimentiv add.
+- **Workday CXS** (BMO, TD, Salesforce, CIBC-known tenants, etc.): 20 hits.
+- **Greenhouse/Lever/Ashby/SmartRecruiters/remote feeds**: 46 hits combined.
+- **Rogers** (jobs.rogers.com date-sorted crawl): zero ServiceNow/Salesforce platform roles (consistent with prior crawls).
+- **Bell** (jobs.bell.ca): zero reqs for servicenow/salesforce — weekly cadence, not re-scanned.
+- **Canadian government** (jobs.gc.ca, gojobs.gov.on.ca): Radware-walled; Job Bank used as proxy via the fresh-ca sweep (12 Job Bank + 16 Eluta pages) — only title-named platform hits trusted; nothing addable beyond the board.
+- **Partner portals / gap_scan (Playwright)**: not run locally — Chromium isn't installed in the cron environment (runs on ubuntu-24.04 in the Action); partner roles come via Adzuna/LinkedIn instead.
+
+Blockers / environment notes (for future agents):
+1. **Push race with the hourly Action.** The 22:00 UTC Action had already pushed (1004793, 2,635 listings). My local scan (2,685) diverged; I reset main to origin, re-applied only the README curation, added the 2 rows origin's scan missed (Alimentiv, Raas; Avance was already in its feed), rebuilt public/, and fast-forward pushed. Always `git fetch` + rebase onto origin/main before pushing.
+2. **playwright Chromium missing locally** — `gap_scan.mjs` (FX Innovation, Ateko, Cofomo, Everforth, Coaxxion, CloudKettle, Lane Four, Crossfuze) cannot run in cron; it's `continue-on-error` in the Action anyway.
+3. **README tables are not reliably parseable** by `tools/sync_readme_to_jobs.mjs` in their current concatenated format (0 parseable rows in the ServiceNow table region), so the live page is fed by jobs.json (public/), not the README tables. README edits keep the curated view current; feed edits keep the page current. Both must be touched.
+4. **`verify_links.py --days 2`**: live=36, dead=0, unknown=114 (bot walls kept as live — correct policy; 404/410/451 only are dead).
+
+Lessons this run:
+1. **Hourly scans keep converging on the same population** — 5 of 8 fresh candidates were already on the board (mostly via the 21:25 UTC fresh-ca sweep). An empty-ish merge is normal; don't force stale roles.
+2. **Freshness window (today/yesterday) + platform-named title + Canada geo** cuts 52 net-new URLs down to 3 genuine adds — the other 52 were older/off-platform/off-geo or mirrors.
+3. **Entry-level Platform Admin I / Platform Developer I roles still absent** this cycle; fresh volume remains mid/senior contract roles via staffing agencies for Canadian bank clients.
+
+Files touched:
+- `JOBLESSONS_2026-11-13.MD` — this section appended
+- `README.md` — 3 rows added to ServiceNow table (newest first); counts bumped (6815→6818 total; SN contents 1200→1203, heading 1206→1209, summary 1203→1206)
+- `jobs.json` + `public/{jobs.json,gotjob/jobs.json,findjobs/jobs.json}` — +2 rows (Alimentiv, Raas; Avance already present), 2,635→2,637
+- `public/jobs-data.json` + `public/index.html` — rebuilt (5,120 jobs)
