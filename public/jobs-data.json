@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T22:12:35+00:00",
+ "generatedAt": "2026-11-13T22:17:40+00:00",
  "timezone": "America/Toronto",
  "count": 5120,
  "appliedHidden": 43,
@@ -293,6 +293,40 @@
  "jobs": [
   {
    "posted": "2026-11-13",
+   "title": "ServiceNow ITAM/ITOM Architect",
+   "company": "Raas Infotek",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "ITOM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow itam/itom architect raas infotek canada linkedin servicenow linkedin servicenow itam itom role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490760400",
+     "label": "LinkedIn · Canada"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490395721",
+     "label": "LinkedIn · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Senior ServiceNow ITAM ITOM Architect - Remote / Telecommute",
    "company": "CYNET SYSTEMS",
    "location": "Canada",
@@ -317,40 +351,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5963558171",
      "label": "Adzuna · Hastings-Sunrise"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-13",
-   "title": "ServiceNow ITAM/ITOM Architect",
-   "company": "Raas Infotek",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490760400",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "ITOM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow itam/itom architect raas infotek canada linkedin servicenow linkedin servicenow itam itom role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
-     "label": "LinkedIn · Canada"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490395721",
-     "label": "LinkedIn · Canada"
     }
    ]
   },
@@ -588,7 +588,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5964818813?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5964818813",
      "label": "Adzuna · Canada"
     },
     {

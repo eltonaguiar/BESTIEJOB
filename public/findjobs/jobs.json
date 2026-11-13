@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-13T22:10:49.035Z",
-    "generatedAt": "2026-11-13T22:10:49.035Z",
-    "total": 2635,
+    "scrapedAt": "2026-11-13T22:17:35.399Z",
+    "generatedAt": "2026-11-13T22:17:35.399Z",
+    "total": 2637,
     "newThisScan": 798,
     "retainedFromPrevious": 1887,
     "sources": {
@@ -32,8 +32,8 @@
       "adzuna": 468
     },
     "primaryCounts": {
-      "servicenow": 1234,
-      "salesforce": 1282
+      "servicenow": 1219,
+      "salesforce": 1251
     }
   },
   "jobs": [
@@ -250,6 +250,41 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "adzuna:adzuna.ca/details/5964818813",
+      "source": "adzuna",
+      "company": "Alimentiv",
+      "title": "ServiceNow Platform Specialist",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5964818813",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-13T12:00:00.000Z",
+      "scrapedAt": "2026-11-13T22:17:35.399Z",
+      "excerpt": "ServiceNow Platform Specialist — Alimentiv · Adzuna Canada (fresh 2026-11-13)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
+      "source": "linkedin",
+      "company": "Raas Infotek",
+      "title": "ServiceNow ITAM/ITOM Architect",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-13T12:00:00.000Z",
+      "scrapedAt": "2026-11-13T22:17:35.399Z",
+      "excerpt": "ServiceNow ITAM/ITOM Architect — Raas Infotek · LinkedIn guest search (fresh 2026-11-13)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
       ]
     },
     {
