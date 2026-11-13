@@ -18,10 +18,12 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-13
 
-Window: 2026-10-13 → 2026-11-13 · **6812 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-13 · **6815 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1202)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1201 postings</strong></summary>|---|---|---|---|---|
-||| 2026-11-13 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-nityo-infotech-4490726894) | Nityo Infotech | Toronto, Ontario, Canada | linkedin · servicenow |
+### ServiceNow jobs (1204)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1203 postings</strong></summary>|---|---|---|---|---|
+|||| 2026-11-12 | [ServiceNow Developer](https://snpro.jobs/jobs/servicenow-developer-6c1dc) | Dexian | Toronto, Ontario, Canada | snpro · servicenow, itam |
+|||| 2026-11-11 | [Senior ServiceNow Developer](https://snpro.jobs/jobs/senior-servicenow-developer-0fcb9) | Swoon | Toronto, Ontario, Canada | snpro · servicenow, itam |
+|||| 2026-11-13 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-nityo-infotech-4490726894) | Nityo Infotech | Toronto, Ontario, Canada | linkedin · servicenow |
 ||| 2026-11-13 | [Product Manager, ServiceNow](https://www.adzuna.ca/details/5964327184) | Loblaw Companies | Brampton, Peel region | adzuna · servicenow |
 || 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow, itam |
 || 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995) | BMO | Toronto, ON, CAN | workday · servicenow |
@@ -1225,7 +1227,8 @@ Window: 2026-10-13 → 2026-11-13 · **6812 live postings** · deduplicated by U
 | 2026-10-13 | [ServiceNow Business Analyst in Toronto ($55/hr)](https://www.freelanceradar.co/ca/job/89a2fee2-cf49-4e19-a433-ab7a503b6428) | Freelance Radar | Toronto | freelanceradar · servicenow, analyst, contract |
 </details>
 
-### Salesforce jobs (1405)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1412 postings</strong></summary>||| 2026-11-13 | [Salesforce Business Analyst, Associate](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490540600) | PwC Canada | Calgary, Alberta, Canada | linkedin · salesforce |
+### Salesforce jobs (1406)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1413 postings</strong></summary>||| 2026-11-13 | [Salesforce Business Analyst, Associate](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490540600) | PwC Canada | Calgary, Alberta, Canada | linkedin · salesforce |
+||| 2026-11-11 | [Q2C Senior Business Analyst](https://ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808) | Salesforce | Toronto, Ontario, Canada | linkedin · salesforce |
 || 2026-11-12 | [Salesforce Revenue Cloud Developer](https://www.adzuna.ca/details/5963511070) | Apptoza Inc. | Toronto, Ontario | adzuna · salesforce |
 || 2026-11-12 | [Salesforce Senior FSC Developer/Technical Lead](https://www.adzuna.ca/details/5963511071) | Apptoza Inc. | Toronto, Ontario | adzuna · salesforce |
 || 2026-11-12 | [Salesforce Developer](https://www.adzuna.ca/details/5963223318) | OSI Digital | Toronto, Ontario | adzuna · salesforce |
