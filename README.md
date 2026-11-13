@@ -20,9 +20,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-13 → 2026-11-12 · **6763 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1196)_developer / administrator / architect / analyst roles_
-<details><summary><strong>Show 1195 postings</strong></summary>| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON - Hybrid (199 Bay Street) | via hermes--2026-11-13--v1.md |
-|---|---|---|---|---|
+### ServiceNow jobs (1197)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1196 postings</strong></summary>|---|---|---|---|---|
 | 2026-11-12 | [Servicenow Expert (ServiceNow Architect, remote, CSA/CAD/CTA)](https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984) | KTek Resourcing | Canada (Remote) | linkedin · servicenow, architect |
 | 2026-11-12 | [ServiceNow Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-at-cognizant-4481192199) | Cognizant | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
 | 2026-11-12 | [ServiceNow Senior Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-senior-technical-consultant-at-cognizant-4481180659) | Cognizant | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
@@ -2611,8 +2609,7 @@ Window: 2026-10-13 → 2026-11-12 · **6763 live postings** · deduplicated by U
 
 </details>
 
-### Other jobs (700)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_<details><summary><strong>Show 700 postings</strong></summary>| 2026-11-09 | [Digital Workforce Transformation - UKG Pro Implementation Senior Consultant](https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057) | EY | Calgary, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-10--v5.md |
-| 2026-11-08 | [BIM Facilities Specialist - Digital Delivery, Rail & Transit](https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453734020) | WSP in Canada | Vancouver, British Columbia, Canada | via inbox_opencode-job-hunt--2026-11-09--v16.md |
+### Other jobs (701)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_<details><summary><strong>Show 700 postings</strong></summary>| 2026-11-09 | [Digital Workforce Transformation - UKG Pro Implementation Senior Consultant](https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057) | EY | Calgary, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-10--v5.md || 2026-11-08 | [BIM Facilities Specialist - Digital Delivery, Rail & Transit](https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453734020) | WSP in Canada | Vancouver, British Columbia, Canada | via inbox_opencode-job-hunt--2026-11-09--v16.md |
 | 2026-11-08 | [BIM Facilities Specialist - Digital Delivery, Rail & Transit](https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453726579) | WSP in Canada | Vaughan, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v16.md |
 | 2026-11-08 | [BIM Facilities Specialist, Digital Delivery - Rail & Transit](https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451251906) | WSP in Canada | Markham, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v16.md |
 | 2026-11-08 | [Gestionnaire des opération Marketing](https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487627896) | Rogers Communications | Grande Prairie, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-10--v9.md |
@@ -6868,7 +6865,9 @@ before applying. If a row says `date relative — unverified`, treat the date as
 | 2026-11-11 | [Salesforce FinancialForce PSA (Certinia) Developer](https://www.adzuna.ca/details/5961940040?utm_medium=api&utm_source=54ce986e) | YDC Pro | Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-11 | [ServiceNow Software Asset Management Developer](https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-developer-at-cognizant-4489032943) | Cognizant | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
 | 2026-11-11 | [Production Support Engineer (GRC) - Operate](https://ca.linkedin.com/jobs/view/production-support-engineer-grc-operate-at-deloitte-4490023849) | Deloitte | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON - Hybrid (199 Bay Street) | via hermes--2026-11-13--v3.md |
 | 2026-11-10 | [Gestionnaire Cybersécurité - Gouvernance, Risques et Conformité (GRC)](https://ca.linkedin.com/jobs/view/gestionnaire-cybers%C3%A9curit%C3%A9-gouvernance-risques-et-conformit%C3%A9-grc-at-taltek-talent-in-technology-4488607415) | TALTEK | TALENT in TECHNOLOGY | Greater Montreal Metropolitan Area |
+| 2026-11-09 | [Digital Workforce Transformation - UKG Pro Implementation Senior Consultant](https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057) | EY | Calgary, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-10--v12.md |
 |---|---|---|---|---|
 | 2026-11-02 | [ServiceNow Developer](https://example.com/job/1) | Acme Corp | Toronto, ON | https://example.com/job/1 |
 ```
