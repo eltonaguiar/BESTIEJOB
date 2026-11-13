@@ -227,4 +227,43 @@ Lessons this run:
 Files touched:
 - `JOBLESSONS_2026-11-13.MD` — this section appended
 - No changes to `README.md`, `jobs.json`, or `public/` (0 new verified jobs; board already current from the Action and fresh-ca sweep).",
-- Push to main triggers `pages.yml` redeploy of https://eltonaguiar.github.io/BESTIEJOB/ (README.md is a pages build path; no `[skip ci]` on this content push).
+- Push to main triggers `pages.yml` redeploy of https://eltonaguiar.github.io/BESTIEJOB/ (README.md is a pages build path; no `[skip ci]` on this content push).",
+
+
+## 21:00 UTC run (2026-11-13 16:00 EST) — local cron supplementary web-search sweep (this run)
+
+**Result: 0 new fresh rows merged. Board already current.**
+
+| Metric | Value |
+|---|---|
+| Scan start | 2026-11-13T21:00Z (16:00 EST) |
+| jobs.json total (Action feed, just-refreshed at 21:00 UTC) | 2,632 listings |
+| README rows before merge | 6,815 live postings (window 2026-10-13 → 2026-11-13) |
+| New rows merged this run | **0** |
+| README rows after merge | 6,815 live postings |
+
+Candidates reviewed (all checked against jobs.json + README.md tables — all duplicates or unverifiable):
+
+| Candidate | Source | Disposition |
+|---|---|---|
+| SS&C — Salesforce Implementation Consultant & Platform Administrator, Toronto (Nov 3) | jobs.ca / scoutify / workopolis / adzuna / eluta / revopsroles / linkedin | DUPLICATE — already on README (5 existing rows, Nov 3–11) |
+| Huron — Servicenow Developer (Sr. Associate), Toronto (Nov 3–5) | builtintoronto / adzuna / workday | DUPLICATE — already on README |
+| Brookfield — ServiceNow Developer contract, Toronto (Oct 19) | builtintoronto.com | DUPLICATE — already on README |
+| BeachHead / Pacer / Procom / Altus / TekStaff — SN & SF roles, Toronto | linkedin / readme | DUPLICATE — already on README |
+| Cpus Engineering — Remote Servicenow Developer, Toronto (Nov 4) | jobsca.org (aggregator) | NOT VERIFIED — live page not extractable (search-only backend); not added without corroborated date |
+| Rogers (jobs.rogers.com) | date-sorted crawl | Zero ServiceNow/Salesforce platform roles |
+| Bell (jobs.bell.ca) | careers site | No new platform reqs (prior runs: SN roles filled) |
+| Government of Canada (jobs.gc.ca / Job Bank) | jobbank.gc.ca | No addable SN/SF technical postings |
+| ServiceNow careers / Salesforce careers | careers.servicenow.com / careers.salesforce.com | Sales/engineering & recruiting roles, no Toronto platform dev/admin roles |
+| CGI / Deloitte / KPMG / Accenture / Capgemini | career sites | General careers pages; no addable fresh Toronto platform posting surfaced |
+
+Lessons this run:
+1. The hourly GitHub Action (`daily_job_scan.mjs` with credentialed Adzuna) refreshed jobs.json to 2,632 listings and rebuilt `public/` — the board is current; a supplementary local sweep shortly after the :00 UTC Action adds little.
+2. Web search alone surfaces nothing not already harvested: every Toronto SN/SF posting from Indeed, Workopolis, jobs.ca, snpro.jobs, landthatrole, Glassdoor and ZipRecruiter matched an existing row by normalized URL or role+company+location.
+3. Target employer checks (Rogers, Bell, TELUS, banks, CGI, Deloitte, KPMG, Accenture, ServiceNow/Salesforce careers, jobs.gc.ca) returned no addable Toronto platform roles — Rogers titles are non-platform, Bell SN roles filled, Job Bank/GC Jobs no SN/SF technical postings.
+4. Entry-level Platform Admin I / Platform Developer I roles still absent this cycle; fresh volume remains mid/senior contract roles via staffing agencies for Canadian bank clients.
+5. Live-page verification via web_extract is blocked (search-only backend); unverified aggregator rows (e.g. Cpus Engineering via jobsca.org) are not added without a corroborated posting date.
+
+Files touched:
+- `JOBLESSONS_2026-11-13.MD` — this section appended
+- No changes to `README.md`, `jobs.json`, or `public/` (0 new verified jobs; board already current from the Action).
