@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-13T19:11:58+00:00",
+ "generatedAt": "2026-11-13T20:13:52+00:00",
  "timezone": "America/Toronto",
- "count": 5116,
+ "count": 5118,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -640,39 +640,6 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "Salesforce Business Analyst, Associate",
-   "company": "PwC Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4482190221",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 70,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce business analyst, associate pwc canada toronto, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490540600",
-     "label": "LinkedIn · Calgary"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490546247",
-     "label": "LinkedIn · Ottawa"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-13",
    "title": "Salesforce Business Analyst",
    "company": "Cognizant",
    "location": "Toronto, Ontario, Canada",
@@ -738,6 +705,44 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-senior-associate-at-pwc-canada-4490544331",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Salesforce Business Analyst, Associate",
+   "company": "PwC Canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4482196034",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 66,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce business analyst, associate pwc canada vancouver, british columbia, canada linkedin salesforce linkedin salesforce consulting/ba role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4482190221",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490540600",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490546247",
      "label": "LinkedIn · Ottawa"
     }
    ]
@@ -813,6 +818,27 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Salesforce Technical Architect",
+   "company": "Experis Canada",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-experis-canada-4489818508",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect experis canada greater toronto area, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Senior Salesforce Developer",
    "company": "Zodiac Solutions, Inc",
    "location": "Toronto, Ontario, Canada",
@@ -879,27 +905,6 @@
      "label": "Adzuna · Mississauga"
     }
    ]
-  },
-  {
-   "posted": "2026-11-13",
-   "title": "Senior Salesforce Developer",
-   "company": "LanceSoft, Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-lancesoft-inc-4488379400",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-13",
@@ -972,6 +977,27 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Senior Salesforce Developer",
+   "company": "LanceSoft, Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-lancesoft-inc-4488379400",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Software Engineer (Salesforce) (CANADA REMOTE)",
    "company": "Motorola Solutions Inc",
    "location": "Canada",
@@ -1025,6 +1051,27 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Solution Architect, Salesforce Voice",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solution-architect-salesforce-voice-at-jobgether-4489523848",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "solution architect, salesforce voice jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Salesforce Technical Architect Revenue Cloud CPQ",
    "company": "Enterprise Solutions Inc.",
    "location": "Canada",
@@ -1046,10 +1093,10 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "Solution Architect, Salesforce Voice",
-   "company": "Jobgether",
+   "title": "Senior Salesforce Architect",
+   "company": "LanceSoft, Inc.",
    "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/solution-architect-salesforce-voice-at-jobgether-4489523848",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-architect-at-lancesoft-inc-4488379400",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -1062,7 +1109,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "solution architect, salesforce voice jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "search": "senior salesforce architect lancesoft, inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -58178,27 +58225,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Senior ServiceNow Developer",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "ServiceNow Developer",
    "company": "GDIT",
    "location": "Any Location / Remote",
@@ -58216,6 +58242,27 @@
    ],
    "french": false,
    "search": "servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Senior ServiceNow Developer",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
@@ -87888,26 +87935,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "DevOps Engineer",
-   "company": "GTT, LLC",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948017534",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer gtt, llc toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
    "title": "eComm Management Analyst/ Data Analyst",
    "company": "Mindlance",
    "location": "Toronto, Ontario",
@@ -89604,6 +89631,26 @@
      "label": "Adzuna · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "DevOps Engineer",
+   "company": "GTT, LLC",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5948017534",
+   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v100.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer gtt, llc toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v100.md role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-10-31",
@@ -107619,26 +107666,6 @@
   },
   {
    "posted": "2026-10-22",
-   "title": "Senior DevOps Engineer",
-   "company": "Lemon.io",
-   "location": "Remote",
-   "url": "https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
-   "note": "remoteok",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "remoteok.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior devops engineer lemon.io remote remoteok.com other remoteok role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-22",
    "title": "RevPro Zuora Architect",
    "company": "ENTERPRISE MINDS INC",
    "location": "Canada",
@@ -107675,6 +107702,26 @@
    ],
    "french": false,
    "search": "netsuite systems manager / est canada / remote grafana labs canada adzuna other via adzuna-autonomous--2026-11-05--v24.md role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-22",
+   "title": "Senior DevOps Engineer",
+   "company": "Lemon.io",
+   "location": "Remote",
+   "url": "https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v100.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remoteok.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior devops engineer lemon.io remote remoteok.com other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v100.md role fit canada / remote",
    "alternates": []
   },
   {
