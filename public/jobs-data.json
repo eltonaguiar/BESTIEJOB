@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-13T05:13:54+00:00",
+ "generatedAt": "2026-11-13T06:21:25+00:00",
  "timezone": "America/Toronto",
- "count": 5088,
+ "count": 5089,
  "appliedHidden": 42,
  "sources": [
   "103.careerplug.com",
@@ -434,6 +434,27 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Solution Architect, Salesforce Voice",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solution-architect-salesforce-voice-at-jobgether-4489523848",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "solution architect, salesforce voice jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Technical Salesforce Senior Associate",
    "company": "PwC Canada",
    "location": "Toronto, Ontario, Canada",
@@ -481,6 +502,11 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-associate-at-pwc-canada-4490538607",
      "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-associate-at-pwc-canada-4490549176",
+     "label": "LinkedIn · Calgary"
     },
     {
      "source": "LinkedIn",
@@ -1770,6 +1796,27 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "Salesforce Technical Architect Revenue Cloud CPQ",
+   "company": "Enterprise Solutions Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce technical architect revenue cloud cpq enterprise solutions inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Salesforce CPQ Solution Engineer",
    "company": "Infoway Software",
    "location": "Canada",
@@ -1799,27 +1846,6 @@
      "label": "LinkedIn · Canada"
     }
    ]
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "Salesforce Technical Architect Revenue Cloud CPQ",
-   "company": "Enterprise Solutions Inc.",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce technical architect revenue cloud cpq enterprise solutions inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
   },
   {
    "posted": "2026-11-12",
@@ -15270,25 +15296,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Senior HVAC Designer",
-   "company": "Worley",
-   "location": "Edmonton, Alberta, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-hvac-designer-at-worley-4488404114",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior hvac designer worley edmonton, alberta, canada linkedin other readme canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Gestionnaire des opération Marketing",
    "company": "Rogers Communications",
    "location": "Quebec, Canada",
@@ -15321,6 +15328,25 @@
      "label": "Adzuna · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior HVAC Designer",
+   "company": "Worley",
+   "location": "Edmonton, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-hvac-designer-at-worley-4488404114",
+   "note": "readme · other",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior hvac designer worley edmonton, alberta, canada linkedin other readme · other canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-09",
