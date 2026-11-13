@@ -182,5 +182,49 @@ Lessons this run:
 
 Files touched:
 - `README.md` — +3 rows (2 SN, 1 SF); section headers SN 1202→1204, SF 1405→1406; live postings line 6812→6815
+- `JOBLESSONS_2026-11-13.MD` — this section appended",
+
+
+## 20:00 UTC run (2026-11-13 15:00 EST) — scheduled cron scan (this run)
+
+**Result: 0 new fresh rows merged. Board already current.**
+
+| Metric | Value |
+|---|---|
+| Scan start | 2026-11-13T20:00Z (15:00 EST) |
+| jobs.json total (Action feed) | 2,619 (servicenow 1,230 / salesforce 1,269; scrapedAt 2026-11-13T17:10:40Z) |
+| README rows | ~6,815 live postings (window 2026-10-13 → 2026-11-13) |
+| New rows merged this run | **0** |
+| README.md / jobs.json / public/ changed | No |
+
+Candidates reviewed (all checked against jobs.json + README.md tables — 0 net-new):
+
+| Candidate | Source | Disposition |
+|---|---|---|
+| Sr. ServiceNow Developer — TekStaff IT Solutions, Toronto hybrid | jobs.ca / LinkedIn | DUPLICATE — already on board (jobs.ca …tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) |
+| ServiceNow Developer — Dexian, Toronto hybrid | snpro.jobs | DUPLICATE — already on board (servicenow-developer-6c1dc) |
+| Senior ServiceNow Developer — Swoon, Toronto hybrid | snpro.jobs | DUPLICATE — already on board (senior-servicenow-developer-0fcb9) |
+| ServiceNow CMDB Administrator — BMO, Toronto | scoutify → BMO Workday | DUPLICATE — already on board (…_R260030992) |
+| Salesforce Developer — Procom, Toronto hybrid | myprocom-portal | DUPLICATE — already on board (salesforce-developer-toronto-73f5a6b2) |
+| Salesforce Architect/Admin — Lyft, Movable Ink, Docebo, Altus Group, Benevity, MLSE, Scotiabank | landthatrole / adzuna / workopolis | DUPLICATE — all already on board |
+| Senior Salesforce Administrator — Make-A-Wish Canada, Toronto | careerbeacon / LinkedIn | DUPLICATE — already on board (4486201660; adzuna 5956791140) |
+| Salesforce Developer — Panasonic, Mississauga | workopolis / Indeed | DUPLICATE — already on board |
+| Salesforce Administrator — Survalent, Mississauga | workopolis / LinkedIn | DUPLICATE — already on board |
+| ServiceNow Developer — Spectraforce / Spectra Group, Toronto | LinkedIn / Dice | DUPLICATE — already on board |
+| ServiceNow careers Toronto (Staff SRE / Security / Systems Engineer, Nov 03–06) | careers.servicenow.com | DUPLICATE — already on board (SmartRecruiters mirrors) |
+| Salesforce careers Canada | careers.salesforce.com | No fresh Toronto platform posting |
+| Rogers careers (jobs.rogers.com) | date-sorted crawl | Zero ServiceNow/Salesforce mentions |
+| Bell careers (jobs.bell.ca) | weekly cadence, not re-scanned | No new platform reqs |
+| Government of Canada (jobs.gc.ca / GC Digital Talent) | radware-walled; Job Bank proxy | No addable SN/SF technical postings |
+
+Lessons this run:
+1. The hourly GitHub Action (`daily_job_scan.mjs` with credentialed Adzuna) plus the off-cycle fresh-ca sweep (:25 past every third hour) keep the board current; the 18:45Z fresh-ca sweep (+4 rows incl. PwC Salesforce Business Analyst Associate Toronto, Alimentiv ServiceNow Platform Specialist) landed just before this run, so the baseline was complete — an empty merge is a valid hourly outcome.
+2. Web search alone surfaces nothing not already harvested this cycle: every Toronto SN/SF posting from Indeed, Glassdoor, ZipRecruiter, jobs.ca, snpro.jobs, Workopolis and landthatrole matched an existing row by normalized URL or role+company+location.
+3. Dedupe on role + company + location beats URL-only dedupe — Cognizant and Spectraforce publish the same requisition under locale-mirror URLs.
+4. Entry-level Platform Admin I / Platform Developer I roles still absent this cycle; fresh volume remains mid/senior contract roles via staffing agencies (Dexian, Swoon, Procom) for Canadian bank clients.
+5. jobs.gc.ca stays radware-walled; Rogers' date-sorted crawl returned zero platform roles; Bell is on a weekly cadence and was not re-scanned this hour.
+
+Files touched:
 - `JOBLESSONS_2026-11-13.MD` — this section appended
+- No changes to `README.md`, `jobs.json`, or `public/` (0 new verified jobs; board already current from the Action and fresh-ca sweep).",
 - Push to main triggers `pages.yml` redeploy of https://eltonaguiar.github.io/BESTIEJOB/ (README.md is a pages build path; no `[skip ci]` on this content push).
