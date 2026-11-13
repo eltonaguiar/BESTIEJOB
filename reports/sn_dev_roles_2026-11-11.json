@@ -1,7 +1,7 @@
 {
  "status": {
   "GC Jobs (federal)": {
-   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31621B",
+   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31611B",
    "raw": 0
   },
   "RemoteOK": {
@@ -13,11 +13,11 @@
    "raw": 14
   },
   "Himalayas": {
-   "status": "p0:20/118933, p1:20/118933, p2:20/118933, p3:20/118933, p4:20/118933",
+   "status": "p0:20/117848, p1:20/117858, p2:20/117848, p3:20/117848, p4:20/117848",
    "raw": 0
   },
   "Jobboom (QC)": {
-   "status": "http 403, 6046B; http 403, 6088B",
+   "status": "http 403, 6046B; http 403, 6067B",
    "raw": 0
   },
   "We Work Remotely": {
@@ -56,6 +56,11 @@
  "dated": [],
  "undated": [],
  "dropped": [
+  {
+   "source": "Remotive",
+   "title": "Customer Service Representative",
+   "why": "title filter"
+  },
   {
    "source": "Remotive",
    "title": "Senior React Full-stack Developer",
@@ -119,11 +124,6 @@
   {
    "source": "Remotive",
    "title": "Tech Lead Full-Stack Rails Engineer",
-   "why": "title filter"
-  },
-  {
-   "source": "Remotive",
-   "title": "Remote Office Assistant",
    "why": "title filter"
   }
  ]
