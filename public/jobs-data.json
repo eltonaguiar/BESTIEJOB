@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-13T09:43:54+00:00",
+ "generatedAt": "2026-11-13T10:13:41+00:00",
  "timezone": "America/Toronto",
- "count": 5096,
+ "count": 5097,
  "appliedHidden": 42,
  "sources": [
   "103.careerplug.com",
@@ -293,6 +293,33 @@
  "jobs": [
   {
    "posted": "2026-11-13",
+   "title": "Product Manager, ServiceNow",
+   "company": "Loblaw Companies",
+   "location": "Brampton, Peel region",
+   "url": "https://www.adzuna.ca/details/5964327184",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "product manager, servicenow loblaw companies brampton, peel region adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
+     "label": "LinkedIn · Brampton"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Salesforce Business Analyst, Senior Associate",
    "company": "PwC Canada",
    "location": "Vancouver, British Columbia, Canada",
@@ -401,6 +428,33 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Senior Salesforce Developer",
+   "company": "TForce Freight",
+   "location": "Dorval, Montréal",
+   "url": "https://www.adzuna.ca/details/5964320626",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "senior salesforce developer tforce freight dorval, montreal adzuna salesforce adzuna salesforce role fit quebec",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tforce-freight-4490068325",
+     "label": "LinkedIn · Saint-Laurent"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Technical Salesforce Senior Associate",
    "company": "PwC Canada",
    "location": "Toronto, Ontario, Canada",
@@ -460,6 +514,47 @@
      "label": "LinkedIn · Ottawa"
     }
    ]
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Intermediate Full-Stack Developer",
+   "company": "Method Integration",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5964333034",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 29,
+   "matchReasons": [
+    "Integration",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "intermediate full-stack developer method integration toronto, ontario adzuna other adzuna integration role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Service Asset & Configuration Management (SACM) Analyst",
+   "company": "Bevertec",
+   "location": "CN Tower, City of Toronto",
+   "url": "https://www.adzuna.ca/details/5964321675",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "service asset & configuration management (sacm) analyst bevertec cn tower, city of toronto adzuna other adzuna role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-12",
@@ -1920,27 +2015,6 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "Senior Salesforce Developer",
-   "company": "TForce Freight",
-   "location": "Saint-Laurent, Manitoba, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tforce-freight-4490068325",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior salesforce developer tforce freight saint-laurent, manitoba, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
    "title": "Salesforce Technical Architect",
    "company": "Maarut Inc",
    "location": "Montreal, Quebec, Canada",
@@ -2632,6 +2706,35 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "ServiceNow Software Asset Management Developer",
+   "company": "Cognizant",
+   "location": "Toronto, ON - Hybrid (199 Bay Street)",
+   "url": "https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/",
+   "note": "via hermes--2026-11-13--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow software asset management developer cognizant toronto, on - hybrid (199 bay street) careers.cognizant.com servicenow via hermes--2026-11-13--v1.md servicenow itam sam/ham role fit toronto area",
+   "alternates": [
+    {
+     "source": "careers.cognizant.com",
+     "url": "https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/",
+     "label": "careers.cognizant.com · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Lead Specialist, ServiceNow CMDB Solution Architect, Deloitte Global Technology - Deloitte / Toronto, ON",
    "company": "Toronto, ON](https://www.workopolis.com/jobsearch/viewjob/gQNwVERfuUtuUOXxdrGMlt-jgPQJOINl56O3aQG7CpxTYJn0fiAh67UwF0CrKMmc)",
    "location": "Workopolis Canada",
@@ -2697,35 +2800,6 @@
    "french": false,
    "search": "senior consultant, servicenow (itam/itom) - kpmg / toronto, on toronto, on](https://www.workopolis.com/jobsearch/viewjob/zzq-f2uop-5aoyopchqazrah4i7vaevuff5p6nzm6tbu5qmksnpj9taw7xvgyuaa) workopolis canada workopolis servicenow readme servicenow itam itom role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "ServiceNow Software Asset Management Developer",
-   "company": "Cognizant",
-   "location": "Toronto, ON - Hybrid (199 Bay Street)",
-   "url": "https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/",
-   "note": "via hermes--2026-11-13--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "SAM/HAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow software asset management developer cognizant toronto, on - hybrid (199 bay street) careers.cognizant.com servicenow via hermes--2026-11-13--v1.md servicenow itam sam/ham role fit toronto area",
-   "alternates": [
-    {
-     "source": "careers.cognizant.com",
-     "url": "https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/",
-     "label": "careers.cognizant.com · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-11",
@@ -3563,27 +3637,6 @@
    ],
    "french": false,
    "search": "servicenow implementation architect avanciers inc. toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "Product Manager, ServiceNow",
-   "company": "Loblaw Companies Limited",
-   "location": "Brampton, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "product manager, servicenow loblaw companies limited brampton, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -7122,27 +7175,6 @@
    ],
    "french": false,
    "search": "associate vice president, salesforce engineering &amp; development infotech london, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "Salesforce Developer",
-   "company": "Procom",
-   "location": "Toronto, Ontario, CA",
-   "url": "https://myprocom-portal.procomservices.com/jobs/salesforce-developer-toronto-73f5a6b2",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "myprocom-portal.procomservices.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer procom toronto, ontario, ca myprocom-portal.procomservices.com salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -13668,26 +13700,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "Senior Manager, Sales Enablement and Strategy",
-   "company": "Metergy Solutions",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-manager-sales-enablement-and-strategy-at-metergy-solutions-4488872209",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior manager, sales enablement and strategy metergy solutions toronto, ontario, canada linkedin other readme role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Lead Management Operations",
    "company": "Rogers Communications",
    "location": "Toronto / Mississauga (multi-city requisition)",
@@ -13865,6 +13877,26 @@
      "label": "LinkedIn · Waterloo"
     }
    ]
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Senior Manager, Sales Enablement and Strategy",
+   "company": "Metergy Solutions",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-manager-sales-enablement-and-strategy-at-metergy-solutions-4488872209",
+   "note": "readme · other",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior manager, sales enablement and strategy metergy solutions toronto, ontario, canada linkedin other readme · other role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-09",
@@ -22795,26 +22827,6 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "Software Developer - Full Stack",
-   "company": "Innosystech Inc",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5955746489",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "software developer - full stack innosystech inc toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-06",
    "title": "Cloud Architect",
    "company": "Scotiabank",
    "location": "Toronto, Ontario",
@@ -24047,6 +24059,26 @@
    ],
    "french": false,
    "search": "ai and data engineer george weston limited toronto, on linkedin other readme · other role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Software Developer - Full Stack",
+   "company": "Innosystech Inc",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955746489",
+   "note": "adzuna · full-stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "software developer - full stack innosystech inc toronto, ontario adzuna other adzuna · full-stack role fit toronto area",
    "alternates": []
   },
   {
