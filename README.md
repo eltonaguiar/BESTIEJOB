@@ -20,10 +20,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-13 → 2026-11-12 · **6763 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1192)_developer / administrator / architect / analyst roles_
-
-<details><summary><strong>Show 1191 postings</strong></summary>| 2026-11-12 | [Sr. ServiceNow Developer](https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) | TekStaff IT Solutions (end client) | Toronto, ON - Hybrid (2-3 days/week onsite) | via hermes--2026-11-13--v1.md |
-| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON - Hybrid (199 Bay Street) | via hermes--2026-11-13--v1.md |
+### ServiceNow jobs (1196)_developer / administrator / architect / analyst roles_
+<details><summary><strong>Show 1195 postings</strong></summary>| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON - Hybrid (199 Bay Street) | via hermes--2026-11-13--v1.md |
 |---|---|---|---|---|
 | 2026-11-12 | [Servicenow Expert (ServiceNow Architect, remote, CSA/CAD/CTA)](https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984) | KTek Resourcing | Canada (Remote) | linkedin · servicenow, architect |
 | 2026-11-12 | [ServiceNow Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-at-cognizant-4481192199) | Cognizant | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
@@ -1217,10 +1215,8 @@ Window: 2026-10-13 → 2026-11-12 · **6763 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1393)_developer / administrator / architect / analyst roles_
-
-<details><summary><strong>Show 1392 postings</strong></summary>| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (hiring location Toronto, ON - 199 Bay Street) | via hermes--2026-11-13--v1.md |
-|---|---|---|---|---|
+### Salesforce jobs (1404)_developer / administrator / architect / analyst roles_
+<details><summary><strong>Show 1403 postings</strong></summary>|---|---|---|---|---|
 | 2026-11-12 | [Salesforce Consultant (Senior, FSC, 12+ mo contract)](https://ca.linkedin.com/jobs/view/salesforce-consultant-at-avanciers-inc-4488577401) | Avanciers Inc. | Montreal, QC - Hybrid | linkedin · salesforce |
 | 2026-11-12 | [Salesforce Developer - Digital Customer : Future Opportunities](https://ca.linkedin.com/jobs/view/salesforce-developer-digital-customer-future-opportunities-at-deloitte-4473525211) | Deloitte | Toronto, Ontario, Canada | via twin 20-round harvest |
 | 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490093184) | OSI Digital | Toronto, Ontario, Canada | linkedin · salesforce |
@@ -2615,9 +2611,7 @@ Window: 2026-10-13 → 2026-11-12 · **6763 live postings** · deduplicated by U
 
 </details>
 
-### Other jobs (697)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
-<details><summary><strong>Show 697 postings</strong></summary>| 2026-11-11 | [MuleSoft Senior Developer](https://www.adzuna.ca/details/5961953750?utm_medium=api&utm_source=54ce986e) | Modes | Canada | via fresh-ca--2026-11-12--v1.md |
-| 2026-11-09 | [Digital Workforce Transformation - UKG Pro Implementation Senior Consultant](https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057) | EY | Calgary, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-10--v5.md |
+### Other jobs (700)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_<details><summary><strong>Show 700 postings</strong></summary>| 2026-11-09 | [Digital Workforce Transformation - UKG Pro Implementation Senior Consultant](https://ca.linkedin.com/jobs/view/digital-workforce-transformation-ukg-pro-implementation-senior-consultant-at-ey-4385404057) | EY | Calgary, Alberta, Canada | via inbox_opencode-job-hunt--2026-11-10--v5.md |
 | 2026-11-08 | [BIM Facilities Specialist - Digital Delivery, Rail & Transit](https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453734020) | WSP in Canada | Vancouver, British Columbia, Canada | via inbox_opencode-job-hunt--2026-11-09--v16.md |
 | 2026-11-08 | [BIM Facilities Specialist - Digital Delivery, Rail & Transit](https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453726579) | WSP in Canada | Vaughan, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v16.md |
 | 2026-11-08 | [BIM Facilities Specialist, Digital Delivery - Rail & Transit](https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451251906) | WSP in Canada | Markham, Ontario, Canada | via inbox_opencode-job-hunt--2026-11-09--v16.md |
@@ -6848,15 +6842,33 @@ before applying. If a row says `date relative — unverified`, treat the date as
 
 ```markdown
 | Posted | Role | Company | Location | URL |
+| 2026-11-13 | [Technical Salesforce Associate](https://ca.linkedin.com/jobs/view/technical-salesforce-associate-at-pwc-canada-4490549176) | PwC Canada | Calgary, Alberta, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-13 | [Enterprise Implementation Consultant (Salesforce Commerce Migration)](https://ca.linkedin.com/jobs/view/enterprise-implementation-consultant-salesforce-commerce-migration-at-vtrac-consulting-corporation-wbe-4489538546) | VTRAC Consulting Corporation (WBE) | Greater Toronto Area, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-13 | [Solution Architect, Salesforce Voice](https://ca.linkedin.com/jobs/view/solution-architect-salesforce-voice-at-jobgether-4489523848) | Jobgether | Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-13 | [Associate Vice President, Salesforce Engineering &amp; Development](https://ca.linkedin.com/jobs/view/associate-vice-president-salesforce-engineering-development-at-jobgether-4490561491) | Jobgether | Canada | via linkedin-guest--2026-11-13--v1.md |
 | 2026-11-12 | [ServiceNow Developer - Senior (CMDB, HAM, SAM)](https://ca.indeed.com/viewjob?jk=6d12ca9d15fb67dc) | Spectra Group Inc | Toronto, ON, Canada | via hermes-agent--2026-11-12--v1.md · indeed |
 | 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-12 | [ServiceNow CMDB Administrator](https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v5.md |
 | 2026-11-12 | [ServiceNow Certified Technical Architect (CTA)](https://ca.linkedin.com/jobs/view/servicenow-certified-technical-architect-cta-at-raas-infotek-4490365820) | Raas Infotek | Canada | via fresh-ca--2026-11-13--v1.md |
 | 2026-11-12 | [Senior Solution Architect - Agentforce/ Salesforce](https://ca.linkedin.com/jobs/view/senior-solution-architect-agentforce-salesforce-at-lululemon-4488575656) | lululemon | Vancouver, British Columbia, Canada | via fresh-ca--2026-11-13--v1.md |
+| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (hiring location Toronto, ON - 199 Bay Street) | via hermes--2026-11-13--v3.md |
+| 2026-11-12 | [Sr. ServiceNow Developer](https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) | TekStaff IT Solutions (end client) | Toronto, ON - Hybrid (2-3 days/week onsite) | via hermes--2026-11-13--v3.md |
+| 2026-11-12 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-swoon-4490348678) | Swoon | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-12 | [Certified Technical Architect – ServiceNow](https://ca.linkedin.com/jobs/view/certified-technical-architect-%E2%80%93-servicenow-at-raas-infotek-4490371608) | Raas Infotek | Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-12 | [Salesforce Technical Architect - Strong in Revenue Cloud Advanced RCA](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-in-revenue-cloud-advanced-rca-at-smart-it-frame-llc-4489256411) | Smart IT Frame LLC | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-12 | [Salesforce Omnistudio Developer](https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4488534223) | Galent | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-12 | [Technical Architect - Azure + .NET + REST API + onPrem &amp; Cloud connections using Mulesoft + enterprise integration experience Toronto, Ontario(Onsite)](https://ca.linkedin.com/jobs/view/technical-architect-azure-%2B-net-%2B-rest-api-%2B-onprem-cloud-connections-using-mulesoft-%2B-enterprise-integration-experience-toronto-ontario-onsite-at-verito-solutions-inc-4488565685) | Verito Solutions Inc | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-12 | [Salesforce Quality Analyst Tester](https://ca.linkedin.com/jobs/view/salesforce-quality-analyst-tester-at-osi-digital-4490095070) | OSI Digital | Vancouver, British Columbia, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-12 | [Salesforce Quality Analyst Tester](https://ca.linkedin.com/jobs/view/salesforce-quality-analyst-tester-at-osi-digital-4490076753) | OSI Digital | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-12 | [Salesforce Senior FSC Developer / Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-senior-fsc-developer-technical-lead-at-apptoza-inc-4488530420) | Apptoza Inc. | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-12 | [Salesforce Product Manager](https://ca.linkedin.com/jobs/view/salesforce-product-manager-at-osi-digital-4490092277) | OSI Digital | Vancouver, British Columbia, Canada | via linkedin-guest--2026-11-13--v1.md |
 | 2026-11-11 | [Databricks Solution Architect](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/Databricks-Solution-Architect_JR6061) | BDO Canada | Toronto - Bay St | via workday |
 | 2026-11-11 | [Bilingual Intermediate Associate, Financial Reporting & Insights](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Bilingual-Intermediate-Associate--Financial-Reporting---Insights_JR7344-1) | BDO Canada | Montreal - 1000 Rue De La Gauchetière Ouest | via workday |
 | 2026-11-11 | [Salesforce FinancialForce PSA (Certinia) Developer](https://www.adzuna.ca/details/5961940040?utm_medium=api&utm_source=54ce986e) | YDC Pro | Canada | via fresh-ca--2026-11-12--v1.md |
+| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-developer-at-cognizant-4489032943) | Cognizant | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-11 | [Production Support Engineer (GRC) - Operate](https://ca.linkedin.com/jobs/view/production-support-engineer-grc-operate-at-deloitte-4490023849) | Deloitte | Toronto, Ontario, Canada | via linkedin-guest--2026-11-13--v1.md |
+| 2026-11-10 | [Gestionnaire Cybersécurité - Gouvernance, Risques et Conformité (GRC)](https://ca.linkedin.com/jobs/view/gestionnaire-cybers%C3%A9curit%C3%A9-gouvernance-risques-et-conformit%C3%A9-grc-at-taltek-talent-in-technology-4488607415) | TALTEK | TALENT in TECHNOLOGY | Greater Montreal Metropolitan Area |
 |---|---|---|---|---|
 | 2026-11-02 | [ServiceNow Developer](https://example.com/job/1) | Acme Corp | Toronto, ON | https://example.com/job/1 |
 ```
