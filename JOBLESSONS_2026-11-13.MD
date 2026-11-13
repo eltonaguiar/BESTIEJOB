@@ -66,3 +66,31 @@ The GitHub Action's `daily_job_scan.mjs` refreshed `jobs.json` earlier today (`s
 - `jobs.json`, `public/jobs.json`, `public/gotjob/jobs.json`, `public/findjobs/jobs.json` — synced from README
 - `public/jobs-data.json`, `public/index.html` — GitHub Pages site rebuilt (5,091 jobs, stamped 2026-11-13 08:07 UTC)
 - `JOBLESSONS_2026-11-13.MD` — this file
+
+
+## 09:00 EST run (2026-11-13 14:00 UTC) — supplementary hourly scan
+**Result: 0 new fresh rows merged. Board already current.**
+
+| Metric | Value |
+|---|---|
+| Scan start | 2026-11-13T14:00Z (09:00 EST) |
+| jobs.json total (latest Action feed) | 2,615 (scrapedAt 2026-11-13T13:11:30Z; newThisScan 844; primaryCounts servicenow 1,228 / salesforce 1,269) |
+| README rows | 6,827 (window 2026-10-13 → 2026-11-12) |
+| New rows merged this run | **0** |
+
+Candidates reviewed and disposition (all checked against jobs.json + README.md tables):
+| Candidate | Source | Disposition |
+|---|---|---|
+| Adzuna — Cyber StrategiX, ServiceNow Platform Specialist, Canada, posted 2026-11-12 | adzuna.ca/details/5963510756 | NOT ADDED — detail page blocked by CloudFront (403); Adzuna API posted/created dates recycle ids (prior runs saw ~47 kept rows collapse to ~23 genuinely new), so API date alone is not proof of freshness. Flagged for next run; verify via direct employer/ATS page or once the Adzuna detail is reachable. |
+| Adzuna — Salesforce, Software Engineering LMTS, Toronto, posted 2026-11-13 | adzuna.ca/details/5964479115 | EXCLUDED — not a Platform Administrator / Platform Developer I role (Salesforce-company engineering LMTS; title does not name the platform). Board title rule: title must name ServiceNow/Salesforce or a platform module/cert. |
+| fresh-ca inbox v3 — Raas Infotek ServiceNow CTA (4490365820), lululemon Senior Solution Architect Agentforce/Salesforce (4488575656) | LinkedIn | Already on README (merged via fresh-ca--2026-11-13--v1.md) — DUPLICATE, skipped. |
+
+Lessons this run:
+1. The hourly GitHub Action (`daily_job_scan.mjs`, ADZUNA credentials) already refreshed `jobs.json` at 13:11 UTC (2,615 jobs; 844 new this scan) and republished `public/` to `main` — the live page https://eltonaguiar.github.io/BESTIEJOB/ is current. A local re-scan shortly after the Action adds little.
+2. Local browser cannot reach Adzuna detail pages (CloudFront 403) and Cognizant pages render an authwall shell, so `postedDate` from the Adzuna API cannot be independently corroborated locally. Do not add Adzuna-sourced rows on API date alone given the known id-recycling issue.
+3. Inbox submissions were already merged under an earlier inbox version (`fresh-ca--2026-11-13--v1.md`) — always grep the exact URL in README before treating an inbox row as new.
+4. Title rule holds: Salesforce "Software Engineering LMTS" (company engineering role, not Platform Admin/Dev I) excluded; board rule is title must name ServiceNow/Salesforce or a platform module/cert.
+
+Files touched:
+- `JOBLESSONS_2026-11-13.MD` — appended this 09:00 EST section
+- No changes to `README.md`, `jobs.json`, or `public/` (0 new verified jobs; board already current from the Action).
