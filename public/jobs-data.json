@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-13T10:13:41+00:00",
+ "generatedAt": "2026-11-13T11:12:57+00:00",
  "timezone": "America/Toronto",
- "count": 5097,
+ "count": 5098,
  "appliedHidden": 42,
  "sources": [
   "103.careerplug.com",
@@ -1191,6 +1191,33 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "ServiceNow Architect - Canada",
+   "company": "Ondaro",
+   "location": "Canada",
+   "url": "https://ondarowave.com/job-listing?gh_jid=5271251007",
+   "note": "ondaro",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "ondarowave.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow architect - canada ondaro canada ondarowave.com servicenow ondaro servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-canada-at-ondaro-4481168218",
+     "label": "LinkedIn · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Manager - ServiceNow",
    "company": "KPMG Canada",
    "location": "Montreal, Quebec, Canada",
@@ -1218,33 +1245,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5947366387?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Montréal"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "ServiceNow Architect - Canada",
-   "company": "Ondaro",
-   "location": "Canada",
-   "url": "https://ondarowave.com/job-listing?gh_jid=5271251007",
-   "note": "ondaro",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "ondarowave.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow architect - canada ondaro canada ondarowave.com servicenow ondaro servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-canada-at-ondaro-4481168218",
-     "label": "LinkedIn · Canada"
     }
    ]
   },
@@ -7545,6 +7545,27 @@
      "label": "LinkedIn · Mississauga"
     }
    ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Developer",
+   "company": "Procom",
+   "location": "Toronto, Ontario, CA",
+   "url": "https://myprocom-portal.procomservices.com/jobs/salesforce-developer-toronto-73f5a6b2",
+   "note": "via Procom",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "myprocom-portal.procomservices.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer procom toronto, ontario, ca myprocom-portal.procomservices.com salesforce via procom salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-11",
