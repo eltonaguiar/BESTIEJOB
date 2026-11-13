@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-13T16:07:15+00:00",
+ "generatedAt": "2026-11-13T16:15:14+00:00",
  "timezone": "America/Toronto",
- "count": 5105,
+ "count": 5106,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -361,6 +361,54 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Product Manager, ServiceNow",
+   "company": "Loblaw Companies",
+   "location": "Brampton, Peel region",
+   "url": "https://www.adzuna.ca/details/5964327184",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "product manager, servicenow loblaw companies brampton, peel region adzuna servicenow adzuna servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
+     "label": "LinkedIn · Brampton"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "ServiceNow Implementation Architect",
+   "company": "AceStack",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-acestack-4489586279",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow implementation architect acestack toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
    "title": "ServiceNow Implementation Architect",
    "company": "Nityo Infotech",
    "location": "Toronto, Ontario, Canada",
@@ -388,28 +436,55 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "Product Manager, ServiceNow",
-   "company": "Loblaw Companies",
-   "location": "Brampton, Peel region",
-   "url": "https://www.adzuna.ca/details/5964327184",
-   "note": "adzuna",
+   "title": "ServiceNow System Administrator",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
+   "note": "workday",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 88,
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
    "matchReasons": [
     "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Salesforce Business Analyst",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-cognizant-4481627891",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 70,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
     "Role fit",
     "Toronto area"
    ],
    "french": false,
-   "search": "product manager, servicenow loblaw companies brampton, peel region adzuna servicenow adzuna servicenow role fit toronto area",
+   "search": "salesforce business analyst cognizant toronto, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
-     "label": "LinkedIn · Brampton"
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-cognizant-4489077423",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941205903?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
     }
    ]
   },
@@ -508,6 +583,54 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946003198?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Senior Salesforce Developer",
+   "company": "LanceSoft, Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-lancesoft-inc-4488379400",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Salesforce Technical Architect - Strong in Revenue Cloud Advanced RCA",
+   "company": "Smart IT Frame LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-in-revenue-cloud-advanced-rca-at-smart-it-frame-llc-4489587262",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect - strong in revenue cloud advanced rca smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-in-revenue-cloud-advanced-rca-at-smart-it-frame-llc-4489256411",
+     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -690,13 +813,13 @@
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-associate-at-pwc-canada-4490538607",
-     "label": "LinkedIn · Toronto"
+     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-associate-at-pwc-canada-4490549176",
+     "label": "LinkedIn · Calgary"
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-associate-at-pwc-canada-4490549176",
-     "label": "LinkedIn · Calgary"
+     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-associate-at-pwc-canada-4490538607",
+     "label": "LinkedIn · Toronto"
     },
     {
      "source": "LinkedIn",
@@ -1176,27 +1299,6 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "ServiceNow Developer",
-   "company": "Swoon",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-swoon-4490348678",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer swoon toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
    "title": "Service Now Implementation Architect",
    "company": "Nityo Infotech",
    "location": "Toronto, Ontario, Canada",
@@ -1214,6 +1316,27 @@
    ],
    "french": false,
    "search": "service now implementation architect nityo infotech toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "ServiceNow Developer",
+   "company": "Swoon",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-swoon-4490348678",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer swoon toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -1680,39 +1803,6 @@
   {
    "posted": "2026-11-12",
    "title": "Salesforce Business Analyst",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-cognizant-4489077423",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 70,
-   "matchReasons": [
-    "Salesforce",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce business analyst cognizant toronto, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5941205903?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-cognizant-4481627891",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "Salesforce Business Analyst",
    "company": "OSI Digital",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-osi-digital-4490079718",
@@ -1969,27 +2059,6 @@
    ],
    "french": false,
    "search": "salesforce technical architect with revenue cloud (rca) rang technologies inc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "Salesforce Technical Architect - Strong in Revenue Cloud Advanced RCA",
-   "company": "Smart IT Frame LLC",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-in-revenue-cloud-advanced-rca-at-smart-it-frame-llc-4489256411",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce technical architect - strong in revenue cloud advanced rca smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -7552,27 +7621,6 @@
      "label": "LinkedIn · Toronto"
     }
    ]
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "Senior Salesforce Developer",
-   "company": "LanceSoft, Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-lancesoft-inc-4488379400",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer lancesoft, inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-11",
@@ -49963,27 +50011,6 @@
    ],
    "french": false,
    "search": "remote servicenow csm/omt architect (12-month contract) jobleads canada jobleads.com servicenow readme servicenow role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "ServiceNow System Administrator",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
    "alternates": []
   },
   {
