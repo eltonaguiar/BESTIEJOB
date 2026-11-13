@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-13T18:45:23+00:00",
+ "generatedAt": "2026-11-13T19:11:58+00:00",
  "timezone": "America/Toronto",
- "count": 5115,
+ "count": 5116,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -609,6 +609,70 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technical-delivery-mgr-servicenow-irm-sec-ops-deloitte-global-technology-at-deloitte-4482812205",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "technical delivery mgr, servicenow irm/sec ops, deloitte global technology deloitte toronto, ontario, canada linkedin servicenow linkedin servicenow toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5939808966",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938629826?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Salesforce Business Analyst, Associate",
+   "company": "PwC Canada",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4482190221",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 70,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce business analyst, associate pwc canada toronto, ontario, canada linkedin salesforce linkedin salesforce consulting/ba role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490540600",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490546247",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Salesforce Business Analyst",
    "company": "Cognizant",
    "location": "Toronto, Ontario, Canada",
@@ -680,36 +744,24 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "Salesforce Business Analyst, Associate",
-   "company": "PwC Canada",
-   "location": "Calgary, Alberta, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490540600",
-   "note": "linkedin",
+   "title": "Software Engineer III - Salesforce Data 360",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III---Salesforce-Data-360_R_1515074",
+   "note": "workday",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 66,
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
    "matchReasons": [
     "Salesforce",
-    "Consulting/BA",
     "Role fit",
-    "Canada / remote"
+    "Toronto area"
    ],
    "french": false,
-   "search": "salesforce business analyst, associate pwc canada calgary, alberta, canada linkedin salesforce linkedin salesforce consulting/ba role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4482190221",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490546247",
-     "label": "LinkedIn · Ottawa"
-    }
-   ]
+   "search": "software engineer iii - salesforce data 360 td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-13",
@@ -920,27 +972,6 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "Software Engineer III - Salesforce Data 360",
-   "company": "Td",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III---Salesforce-Data-360_R_1515074",
-   "note": "via ats--2026-11-13--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "software engineer iii - salesforce data 360 td toronto, ontario workday ats salesforce via ats--2026-11-13--v1.md salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-13",
    "title": "Software Engineer (Salesforce) (CANADA REMOTE)",
    "company": "Motorola Solutions Inc",
    "location": "Canada",
@@ -1109,7 +1140,7 @@
    "company": "PwC Canada",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4482190174",
-   "note": "via fresh-ca--2026-11-13--v1.md",
+   "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
    "source": "LinkedIn",
@@ -1120,7 +1151,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "technical salesforce senior associate pwc canada vancouver, british columbia, canada linkedin salesforce via fresh-ca--2026-11-13--v1.md salesforce canada / remote",
+   "search": "technical salesforce senior associate pwc canada vancouver, british columbia, canada linkedin salesforce linkedin salesforce canada / remote",
    "alternates": [
     {
      "source": "LinkedIn",
@@ -1307,6 +1338,26 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Data Analyst",
+   "company": "J M Group Inc",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5964888350",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data analyst j m group inc toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
    "title": "RQ11553 - DevOPS/Cloud Engineer -2 positions",
    "company": "Analyst Technical Solutions",
    "location": "Toronto, Ontario",
@@ -1480,39 +1531,6 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "ServiceNow Senior Technical Consultant",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-technical-consultant-at-cognizant-4481180659",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 98,
-   "matchReasons": [
-    "ServiceNow",
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow senior technical consultant cognizant toronto, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
-   "alternates": [
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/servicenow-senior-technical-consultant-fdf31415a5c7ac8c5148df997f3cc654",
-     "label": "Eluta · Toronto ON"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5938973158",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-12",
    "title": "ServiceNow Technical Consultant",
    "company": "Cognizant",
    "location": "Toronto, Ontario, Canada",
@@ -1540,6 +1558,39 @@
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5938973159",
+     "label": "Adzuna · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "ServiceNow Senior Technical Consultant",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-technical-consultant-at-cognizant-4481180659",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow senior technical consultant cognizant toronto, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
+   "alternates": [
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/servicenow-senior-technical-consultant-fdf31415a5c7ac8c5148df997f3cc654",
+     "label": "Eluta · Toronto ON"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938973158",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -2076,26 +2127,6 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "Senior ServiceNow Platform Architect - Remote / Telecommute",
-   "company": "CYNET SYSTEMS",
-   "location": "Hastings-Sunrise, Vancouver",
-   "url": "https://www.adzuna.ca/details/5963558170",
-   "note": "adzuna",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior servicenow platform architect - remote / telecommute cynet systems hastings-sunrise, vancouver adzuna servicenow adzuna servicenow role fit",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
    "title": "Senior ServiceNow Solution Architect - Remote / Telecommute",
    "company": "CYNET SYSTEMS",
    "location": "Hastings-Sunrise, Vancouver",
@@ -2112,6 +2143,26 @@
    ],
    "french": false,
    "search": "senior servicenow solution architect - remote / telecommute cynet systems hastings-sunrise, vancouver adzuna servicenow adzuna servicenow role fit",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Senior ServiceNow Platform Architect - Remote / Telecommute",
+   "company": "CYNET SYSTEMS",
+   "location": "Hastings-Sunrise, Vancouver",
+   "url": "https://www.adzuna.ca/details/5963558170",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "senior servicenow platform architect - remote / telecommute cynet systems hastings-sunrise, vancouver adzuna servicenow adzuna servicenow role fit",
    "alternates": []
   },
   {
@@ -2353,6 +2404,27 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "Sr. Cloud Consultant- Salesforce",
+   "company": "Mphasis",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-cloud-consultant-salesforce-at-mphasis-4488567972",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. cloud consultant- salesforce mphasis toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Salesforce Developer - Digital Customer : Future Opportunities",
    "company": "Deloitte",
    "location": "Toronto, Ontario, Canada",
@@ -2382,27 +2454,6 @@
      "label": "jobs.ca · Toronto"
     }
    ]
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "Sr. Cloud Consultant- Salesforce",
-   "company": "Mphasis",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/sr-cloud-consultant-salesforce-at-mphasis-4488567972",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. cloud consultant- salesforce mphasis toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
   },
   {
    "posted": "2026-11-12",
@@ -87837,6 +87888,26 @@
   },
   {
    "posted": "2026-10-31",
+   "title": "DevOps Engineer",
+   "company": "GTT, LLC",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5948017534",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "devops engineer gtt, llc toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-31",
    "title": "eComm Management Analyst/ Data Analyst",
    "company": "Mindlance",
    "location": "Toronto, Ontario",
@@ -87893,26 +87964,6 @@
    ],
    "french": false,
    "search": "bsa - banking sme and data analyst epsilon solutions ltd toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Data Analyst (Social)",
-   "company": "Rethink Canada",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948012942?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "data analyst (social) rethink canada toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -89556,26 +89607,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "DevOps Engineer",
-   "company": "GTT, LLC",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948017534",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v100.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer gtt, llc toronto, ontario adzuna other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v100.md role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
    "title": "Cloud DevOps Engineer",
    "company": "Epsilon Solutions LTD",
    "location": "Toronto, Ontario",
@@ -89817,6 +89848,26 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Data Analyst (Social)",
+   "company": "Rethink Canada",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5948012942?utm_medium=api&utm_source=54ce986e",
+   "note": "adzuna · data",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data analyst (social) rethink canada toronto, ontario adzuna other adzuna · data role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-10-31",
@@ -105565,37 +105616,6 @@
   },
   {
    "posted": "2026-10-23",
-   "title": "Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology",
-   "company": "Deloitte",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/technical-delivery-mgr-servicenow-irm-sec-ops-deloitte-global-technology-at-deloitte-4482812205",
-   "note": "via buffy-round15b--2026-11-06--v12.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 80,
-   "matchReasons": [
-    "ServiceNow",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "technical delivery mgr, servicenow irm/sec ops, deloitte global technology deloitte toronto, ontario, canada linkedin servicenow via buffy-round15b--2026-11-06--v12.md servicenow toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5939808966",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5938629826?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-10-23",
    "title": "ServiceNow Platform Engineer - LightFeather",
    "company": "USA: Washington, DC; hybrid",
    "location": "Full-time",
@@ -107599,6 +107619,26 @@
   },
   {
    "posted": "2026-10-22",
+   "title": "Senior DevOps Engineer",
+   "company": "Lemon.io",
+   "location": "Remote",
+   "url": "https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+   "note": "remoteok",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remoteok.com",
+   "verified": "Employer board",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior devops engineer lemon.io remote remoteok.com other remoteok role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-22",
    "title": "RevPro Zuora Architect",
    "company": "ENTERPRISE MINDS INC",
    "location": "Canada",
@@ -107635,26 +107675,6 @@
    ],
    "french": false,
    "search": "netsuite systems manager / est canada / remote grafana labs canada adzuna other via adzuna-autonomous--2026-11-05--v24.md role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-22",
-   "title": "Senior DevOps Engineer",
-   "company": "Lemon.io",
-   "location": "Remote",
-   "url": "https://remoteok.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
-   "note": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v100.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "remoteok.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior devops engineer lemon.io remote remoteok.com other via peer-bestiejob-scan-refresh-20261102--2026-11-02--v100.md role fit canada / remote",
    "alternates": []
   },
   {
