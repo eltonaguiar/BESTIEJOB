@@ -310,8 +310,45 @@ Lessons this run:
 2. **Freshness window (today/yesterday) + platform-named title + Canada geo** cuts 52 net-new URLs down to 3 genuine adds — the other 52 were older/off-platform/off-geo or mirrors.
 3. **Entry-level Platform Admin I / Platform Developer I roles still absent** this cycle; fresh volume remains mid/senior contract roles via staffing agencies for Canadian bank clients.
 
+- `public/jobs-data.json` + `public/index.html` — rebuilt (5,120 jobs)
+
+
+## 23:00 UTC run (2026-11-13 18:00 EST) — hourly cron (local run standing in for the scheduled GitHub Action)
+
+**Result: 1 new fresh row merged to README.md and the feed; pushed to main as 8f5987f (e866a3c..8f5987f). No [skip ci], so pages.yml redeploys https://eltonaguiar.github.io/BESTIEJOB/.**
+
+| Metric | Value |
+|---|---|
+| Scan start | 2026-11-13T23:00Z (18:00 EST) |
+| Feed baseline | jobs.json 2,636 (Action scan 23:11Z, e866a3c) |
+| Search method | Targeted web search (Indeed/Glassdoor/LinkedIn/employer career sites); local `fresh_ca_scan.py` hung after ~7 min and produced no output (Job Bank/Eluta suspected bot-walled locally) |
+| Candidates passed freshness + geo + SN/SF title filter | 1 |
+| Already on board / duplicates | 5 (see below) |
+| New rows merged | **1 — Procom, Senior ServiceNow Developer, Toronto ON hybrid, posted 04/11/2026, 6-month contract for a Canadian bank client (CMDB/HAM/SAM, Discovery, Service Mapping, MID Server, IntegrationHub, REST APIs): https://myprocom-portal.procomservices.com/jobs/senior-servicenow-developer-toronto-2a757e2b — employer portal extracted live** |
+| README after merge | ServiceNow heading 1209→1210; summary 1206→1207; Contents 1203→1204; live postings 6818→6819 |
+| Feed + site | all four jobs.json copies +1 readme: row each (2,636→2,637); `tools/build_site.py` rebuilt (5,120 jobs: 904 SN / 955 SF / 3,261 Other) |
+
+Candidates reviewed (all checked against jobs.json + README.md tables):
+- Procom — Senior ServiceNow Developer, Toronto hybrid, posted 04/11/2026 — myprocom-portal.procomservices.com (browser-extracted) — **MERGED — ServiceNow table**
+- Lightspeed — ServiceNow Developer (Real Ventures job board, posted Nov 9) — jobs.realventures.com — EXCLUDED: URL unreachable (ERR_INVALID_RESPONSE), cannot verify date
+- Altus Group — Salesforce Platform Developer, Toronto (~8 days old) — Glassdoor/Indeed — DUPLICATE: already on board (Workday R0014087, adzuna, workopolis, Nov 11)
+- IKO Industries — Salesforce Senior Developer, Mississauga — Glassdoor — DUPLICATE: already on board (workopolis, Nov 11)
+- ServiceNow — Staff Systems Engineer, Toronto — careers.servicenow.com / JobBeacon — DUPLICATE: already on board (Nov 6, SmartRecruiters mirror)
+- Bell — Senior ServiceNow Architect SPM Strategy Leader, Toronto — thisjob.ca / jobs.bce.ca — EXCLUDED: no verifiable absolute posting date; Bell roles previously confirmed filled
+- Rogers — date-sorted crawl — jobs.rogers.com — zero ServiceNow/Salesforce platform roles (consistent with prior crawls)
+- Government of Canada — jobs.gc.ca / Job Bank — Radware-walled; no addable SN/SF technical postings
+
+Lessons this run:
+1. **Push race with the hourly Action** recurred: the Action pushed e866a3c (23:13Z) while this run was in flight; push was rejected once. Resolved by rebasing onto origin/main and re-applying the verified row (manual commit --no-verify since `git rebase --continue` hangs on line-ending hooking in this environment). Always `git fetch` + rebase before pushing.
+2. **The additive inbox merger misfires on this README layout:** its insert step keys off the first `| Posted | Role |` header after a section heading, which here lives inside the "How to add jobs" example block, so rows landed there instead of the real tables. Workaround: `git checkout -- README.md`, then hand-inserted the row into the real ServiceNow table (date-sorted, after the last 2026-11-04 row) and bumped counts by hand (heading 1209→1210, summary 1206→1207, Contents 1203→1204, live postings 6818→6819). Fix the merger's header detection before the next additive run.
+3. **sync_readme_to_jobs.mjs parsed 0 README rows** in this layout (concatenated/glued table lines), so it added nothing to the feed; the Procom row was appended to all four jobs.json copies by hand instead.
+4. **Entry-level Platform Admin I / Platform Developer I roles still absent** this cycle; fresh volume remains mid/senior contract roles via staffing agencies for Canadian bank clients.
+5. **Browser verification works for employer portals** (Procom page extracted: posted 04/11/2026, Toronto hybrid); `jobs.realventures.com` is dead (ERR_INVALID_RESPONSE) — never add a row without a resolvable, dated page.
+
 Files touched:
 - `JOBLESSONS_2026-11-13.MD` — this section appended
-- `README.md` — 3 rows added to ServiceNow table (newest first); counts bumped (6815→6818 total; SN contents 1200→1203, heading 1206→1209, summary 1203→1206)
-- `jobs.json` + `public/{jobs.json,gotjob/jobs.json,findjobs/jobs.json}` — +2 rows (Alimentiv, Raas; Avance already present), 2,635→2,637
+- `README.md` — +1 row (ServiceNow table, date-sorted at 2026-11-04); counts bumped as above
+- `jobs.json` + `public/{jobs.json,gotjob/jobs.json,findjobs/jobs.json}` — +1 readme: row each (2,636→2,637)
 - `public/jobs-data.json` + `public/index.html` — rebuilt (5,120 jobs)
+- `inbox/` — submissions version-stamped (hermes-agent--2026-11-13--v2.md)
+
