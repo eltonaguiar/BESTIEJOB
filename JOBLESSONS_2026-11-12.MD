@@ -348,3 +348,37 @@ Entry-level / Platform Administrator / Platform Developer I Toronto postings: no
 - public/index.html + public/jobs-data.json (rebuilt via tools/build_site.py; built 2026-11-13 00:04 UTC)
 - JOBLESSONS_2026-11-12.MD (this entry)
 - commit 7fc9ede pushed to origin/main; GitHub Pages redeploys via pages.yml on push
+
+## Hourly scan — 2026-11-12 21:00 EST (2026-11-13 02:00 UTC) — NULL RUN
+
+| Metric | Value |
+|---|---|
+| Run time | 2026-11-12 21:00 EST (2026-11-13 02:00 UTC) |
+| Baseline (README.md tables + jobs.json on main @ HEAD 5ee5d10) | 6,761 live postings · ServiceNow 1,197 · Salesforce 1,368 · Other 4,206 · window 2026-10-13 → 2026-11-12 |
+| Fresh Toronto ServiceNow/Salesforce postings verified live AND not already on board | 0 |
+| Jobs merged to README.md tables | 0 |
+| Jobs merged to GitHub Pages (public/) | 0 (no changes required — tables unchanged; public/ last rebuilt on the 19:00 EST push) |
+
+### Scan run (21:00 pass)
+- `scripts/fresh_ca_scan.py` Adzuna dated API only (51 calls, geos national / Toronto, Ontario / Ontario, window 2026-11-12 + 2026-11-11; Job Bank + Eluta skipped — their fetches repeatedly overrun the session wall clock and have added no dated fresh rows this week): 665 rows surfaced → 112 unique URLs → all 112 passed URL liveness → 104 already on board by URL → 2 more removed by role+company+location fingerprint → 1 kept → that 1 is a duplicate of an on-board role → 0 new rows, nothing written to the tables.
+
+### Candidates reviewed (21:00 pass) — 1 surfaced, 0 added
+- **Webflow — Senior Salesforce Developer (Canada)** via adzuna.ca/details/5961484676, posted 2026-11-11 — **skipped**: same role + company + location is already on the board at README line 1692 (`ca.linkedin.com/jobs/view/senior-salesforce-developer-at-webflow-4488879234`, Webflow, Ontario, Canada, posted 2026-11-09). URL-only dedupe misses it (Adzuna redirect URL ≠ LinkedIn URL); role+company+location dedupe catches it — not a fresh row.
+
+### Target-company checks (Rogers / Bell / partners / GC) — nothing fresh addable
+- **Rogers** (jobs.rogers.com): no SN/SF platform developer/admin role surfaced (Salesforce-adjacent hits are lead-management/marketing roles; ServiceNow listed only as "comparable tools").
+- **Bell** (jobs.bell.ca): every ServiceNow requisition returns "has been filled" (431695, 432824, 432829, 432892, 431688) — never listed.
+- **Government of Canada / jobs.gc.ca / Canada.ca**: zero fresh dated Toronto SN/SF results; GC platform work arrives via prime vendors on their own ATS.
+- **ServiceNow Careers Ontario** page (16 jobs): Toronto hits are sales/security/SRE — no fresh SN dev/admin for Nov 11–12.
+- **Salesforce careers Canada**: hub hiring is sales/Customer Success — no fresh Toronto Platform Administrator / Platform Developer I.
+- **Elite / partner sweep** (Ateko/FX Innovation ServiceNow Elite Partner, Deloitte/KPMG/Accenture/CGI/TCS/Wipro/HCLTech/Crossfuze/BDO/MNP/OSI Digital/Apptoza/Galent/Lane Four/CloudKettle): no fresh addable Toronto SN/SF rows this hour.
+
+### Patterns / lessons (21:00 pass)
+1. **Null run is the normal hourly outcome** — this joins the 00:00, 01:00, 05:00, 08:00, 13:00, 15:00, and 17:00 EST null passes; only the 06:00 (+3), 12:00 (+6), 18:00 (+1), and 19:00 (+2) EST passes merged rows today.
+2. **Adzuna dated API is the only freshness source that surfaced anything this hour** (665 rows from 51 calls); everything it returned was already on the board. URL dedupe plus role+company+location dedupe kept the board clean.
+3. **Fingerprint blind spot:** the kept Webflow row matched the on-board LinkedIn row only on role + company; locations "Canada" vs "Ontario, Canada" do not collapse under the city-first-token fingerprint — it was caught by README/grep review, not by the script. Review `final kept` rows by hand before trusting the count.
+4. **Scan artifacts left untracked (working copies only):** `inbox/fresh-ca--2026-11-12--v4.md` (1 candidate, skipped as duplicate) and `reports/fresh_ca_2026-11-12.json` (scan report). Nothing merged → nothing added to the main tables → no site rebuild required.
+
+### Files changed
+- `JOBLESSONS_2026-11-12.MD` (this entry)
+- `README.md` / `jobs.json` / `public/` — unchanged (null run; nothing to merge, no rebuild required)
