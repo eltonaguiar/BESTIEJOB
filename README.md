@@ -20,9 +20,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-13 → 2026-11-12 · **6761 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1197)_developer / administrator / architect / analyst roles_|| 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447?utm_medium=api&utm_source=54ce986e) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v3.md · adzuna |
-<details><summary><strong>Show 1197 postings</strong></summary>
-|| 2026-11-12 | [Sr. ServiceNow Developer](https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) | TekStaff IT Solutions | Toronto, ON, CAN | jobs.ca · servicenow · itam |
+### ServiceNow jobs (1198)_developer / administrator / architect / analyst roles_|| 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447?utm_medium=api&utm_source=54ce986e) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v3.md · adzuna |<details><summary><strong>Show 1198 postings</strong></summary>|| 2026-11-12 | [Sr. ServiceNow Developer](https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) | TekStaff IT Solutions | Toronto, ON, CAN | jobs.ca · servicenow · itam |
 || 2026-11-12 | [Senior ServiceNow Developer](https://myprocom-portal.procomservices.com/jobs/senior-servicenow-developer-toronto-0fe02eb9) | BMO via Procom | Toronto, ON, CAN | procom · servicenow · itam |
 || 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow |
 || 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995) | BMO | Toronto, ON, CAN | workday · servicenow |
@@ -6825,6 +6823,7 @@ before applying. If a row says `date relative — unverified`, treat the date as
 | 2026-11-12 | [ServiceNow Developer - Senior (CMDB, HAM, SAM)](https://ca.indeed.com/viewjob?jk=6d12ca9d15fb67dc) | Spectra Group Inc | Toronto, ON, Canada | via hermes-agent--2026-11-12--v1.md · indeed |
 | 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-12 | [ServiceNow CMDB Administrator](https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
+| 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v5.md |
 | 2026-11-11 | [Databricks Solution Architect](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/Databricks-Solution-Architect_JR6061) | BDO Canada | Toronto - Bay St | via workday |
 | 2026-11-11 | [Bilingual Intermediate Associate, Financial Reporting & Insights](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Bilingual-Intermediate-Associate--Financial-Reporting---Insights_JR7344-1) | BDO Canada | Montreal - 1000 Rue De La Gauchetière Ouest | via workday |
 | 2026-11-11 | [Salesforce FinancialForce PSA (Certinia) Developer](https://www.adzuna.ca/details/5961940040?utm_medium=api&utm_source=54ce986e) | YDC Pro | Canada | via fresh-ca--2026-11-12--v1.md |
