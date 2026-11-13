@@ -94,3 +94,56 @@ Lessons this run:
 Files touched:
 - `JOBLESSONS_2026-11-13.MD` — appended this 09:00 EST section
 - No changes to `README.md`, `jobs.json`, or `public/` (0 new verified jobs; board already current from the Action).
+
+
+## 15:00 UTC run (2026-11-13 10:00 EST) — local cron API scan (`daily_job_scan.mjs`)
+
+**Result: 9 verified fresh rows merged into README.md tables; site rebuilt.**
+
+| Metric | Value |
+|---|---|
+| Scan start | 2026-11-13T15:02:40Z (10:02 EST) |
+| Feed | `scripts/daily_job_scan.mjs` (SmartRecruiters ServiceNow, Workday boards incl. BMO/TD/BDO/CAAT, Greenhouse, Lever, Ashby, LinkedIn guest HTTP, RemoteOK, Adzuna CA with demo keys) |
+| Fresh in feed | 844 postings (2,667 total; servicenow 1,227 / salesforce 1,271) |
+| Genuinely new vs README board | 20 (README holds 6,674 table URLs) |
+| Verified Toronto/Canada SN/SF within 30-day window | **9** (4 ServiceNow, 5 Salesforce) |
+
+New verified rows merged (each checked: URL present in jobs.json feed, platform tag matches, postedDate matches):
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-13 | Salesforce Business Analyst, Associate | PwC Canada | Calgary, Alberta, Canada | linkedin |
+| 2026-11-12 | ServiceNow ITAM/ ITOM Architect | Raas Infotek | Canada | linkedin |
+| 2026-11-11 | ServiceNow Technical Lead | CAAT Pension Plan | Toronto, Ontario | adzuna |
+| 2026-11-11 | Servicenow implementation Architect | Pacer Group | Toronto, Ontario, Canada | linkedin |
+| 2026-11-11 | Senior Salesforce Administrator | Benevity | Toronto, Ontario | adzuna |
+| 2026-11-10 | Salesforce Implementation Specialist (Hybrid or Remote) | Traction Rec | Canada | adzuna |
+| 2026-11-06 | Senior Salesforce Developer | CGI | Toronto, Ontario | adzuna |
+| 2026-11-04 | ServiceNow HRSD | NLB Services | Mississauga, Ontario, Canada | linkedin |
+| 2026-10-30 | Salesforce Technical Architect | Cognizant | Toronto, Ontario, Canada | linkedin |
+
+README after merge: ServiceNow jobs (1201), Salesforce jobs (1404), Other 4,206 → 6,811 live postings. Rows inserted date-sorted; counts updated in section headers, Contents, and the "live postings" line.
+
+Site rebuilt: `python3 tools/build_site.py` → `public/index.html` + `public/jobs-data.json` (5,104 indexed jobs; servicenow 900 / salesforce 947 / other 3,257), stamped 2026-11-13 15:11 UTC.
+
+Partners / Elite Partners / sponsors / technical companies / public sector seen this run:
+- CGI — Senior Salesforce Developer, Toronto (major Canadian IT/ServiceNow & Salesforce partner)
+- Benevity — Senior Salesforce Administrator, Toronto (Calgary tech/Salesforce shop)
+- PwC Canada — Salesforce Business Analyst Associate, Calgary
+- Cognizant — Salesforce Technical Architect, Toronto
+- CAAT Pension Plan, BMO, NLB Services, Pacer Group, Raas Infotek, Traction Rec — verified SN/SF roles
+- Government of Canada / Job Bank / GC Jobs: no ServiceNow/Salesforce technical postings surfaced this run
+- Rogers / Bell: not present in this batch (prior runs found Bell SN roles filled; Rogers titles mislead as non-dev/admin)
+
+Lessons / patterns for future agents:
+1. The repo's API scan (`daily_job_scan.mjs`) is the reliable freshness engine locally: it needs no search-API keys (Adzuna demo keys are hardcoded) and produced 844 fresh postings this hour. LinkedIn guest works over plain HTTP; the Playwright fallback and `gap_scan.mjs --sites` need Chromium, which is not installed locally, so LinkedIn site sweeps and partner career-site Playwright sweeps are skipped in this environment.
+2. Dedupe must run against BOTH `README.md` table URLs and `jobs.json`, normalizing by stripping query strings/trailing slashes. This run found 20 rows absent from README; 9 passed the Toronto/Canada + 30-day + platform-title filter.
+3. `build_site.py` reads only README's three tables for GitHub Pages, so fresh jobs must land in the tables (not just the `<!-- DAILY-SCAN -->` block or FRESH_JOBS.md) to appear on https://eltonaguiar.github.io/BESTIEJOB/.
+4. `pages.yml` redeploys Pages on any push to `main` touching `public/` or `README.md`, so committing both triggers the deploy (no `[skip ci]` on a content push).
+5. Search-API keys (PARALLEL/TAVILY/EXA/FIRECRAWL/BRAVE/OPENROUTER) and ADZUNA secrets are NOT set in the local cron env, so `web_search_scan.py` skips and the GitHub Action's credentialed Adzuna/LinkedIn pass is the richer feed — prefer the Action feed and supplement locally with the API scan.
+
+Files touched:
+- `README.md` — +9 rows (4 SN, 5 SF), counts updated, board now 6,811 live postings
+- `jobs.json`, `public/jobs.json`, `public/gotjob/jobs.json`, `public/findjobs/jobs.json` — refreshed by the scan
+- `public/index.html`, `public/jobs-data.json` — GitHub Pages site rebuilt
+- `JOBLESSONS_2026-11-13.MD` — this section appended
