@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-13T18:14:41+00:00",
+ "generatedAt": "2026-11-13T18:45:23+00:00",
  "timezone": "America/Toronto",
- "count": 5114,
+ "count": 5115,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -561,6 +561,11 @@
     },
     {
      "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5964818813?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada"
+    },
+    {
+     "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946002922?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Greater Vancouver"
     },
@@ -578,11 +583,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946004071?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945477143?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal"
     }
    ]
   },
@@ -699,6 +699,11 @@
    "french": false,
    "search": "salesforce business analyst, associate pwc canada calgary, alberta, canada linkedin salesforce linkedin salesforce consulting/ba role fit canada / remote",
    "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4482190221",
+     "label": "LinkedIn · Toronto"
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490546247",
@@ -915,6 +920,27 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Software Engineer III - Salesforce Data 360",
+   "company": "Td",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III---Salesforce-Data-360_R_1515074",
+   "note": "via ats--2026-11-13--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "software engineer iii - salesforce data 360 td toronto, ontario workday ats salesforce via ats--2026-11-13--v1.md salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Software Engineer (Salesforce) (CANADA REMOTE)",
    "company": "Motorola Solutions Inc",
    "location": "Canada",
@@ -1058,32 +1084,6 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "Technical Salesforce Senior Associate",
-   "company": "PwC Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4490546249",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "technical salesforce senior associate pwc canada toronto, ontario, canada linkedin salesforce linkedin salesforce toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4490549177",
-     "label": "LinkedIn · Ottawa"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-13",
    "title": "Senior Staff Software Engineer",
    "company": "ServiceNow",
    "location": "Canada",
@@ -1102,6 +1102,42 @@
    "french": false,
    "search": "senior staff software engineer servicenow canada adzuna other adzuna servicenow role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Technical Salesforce Senior Associate",
+   "company": "PwC Canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4482190174",
+   "note": "via fresh-ca--2026-11-13--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "technical salesforce senior associate pwc canada vancouver, british columbia, canada linkedin salesforce via fresh-ca--2026-11-13--v1.md salesforce canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4490546249",
+     "label": "LinkedIn · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4482194058",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4490549177",
+     "label": "LinkedIn · Ottawa"
+    }
+   ]
   },
   {
    "posted": "2026-11-13",
@@ -1444,39 +1480,6 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "ServiceNow Developer",
-   "company": "Dexian",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://snpro.jobs/jobs/servicenow-developer-6c1dc",
-   "note": "snpro · servicenow, itam",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "snpro.jobs",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer dexian toronto, ontario, canada snpro.jobs servicenow snpro · servicenow, itam servicenow itam role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-dexian-4489282548",
-     "label": "LinkedIn · Greater Toronto Area"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-dexian-4489004961",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-12",
    "title": "ServiceNow Senior Technical Consultant",
    "company": "Cognizant",
    "location": "Toronto, Ontario, Canada",
@@ -1720,6 +1723,33 @@
    "french": false,
    "search": "servicenow developer swoon toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "ServiceNow Developer",
+   "company": "Dexian",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-dexian-4489282548",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer dexian greater toronto area, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-dexian-4489004961",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-12",
@@ -15295,42 +15325,6 @@
   },
   {
    "posted": "2026-11-09",
-   "title": "BIM Facilities Specialist, Digital Delivery - Rail & Transit",
-   "company": "WSP in Canada",
-   "location": "Calgary, Alberta, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451262824",
-   "note": "readme · other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "bim facilities specialist, digital delivery - rail & transit wsp in canada calgary, alberta, canada linkedin other readme · other role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453720592",
-     "label": "LinkedIn · Calgary"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453734020",
-     "label": "LinkedIn · Vancouver"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451251906",
-     "label": "LinkedIn · Markham"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-09",
    "title": "Spécialiste, Données clients et identité (écosystème CDP/CRM)-FR",
    "company": "Air Canada Vacations",
    "location": "Montreal, Quebec, Canada",
@@ -15668,6 +15662,42 @@
    "french": true,
    "search": "bilingual operations manager (en/fr) bgis montreal, quebec, canada linkedin other readme · other role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "BIM Facilities Specialist, Digital Delivery - Rail & Transit",
+   "company": "WSP in Canada",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4451262824",
+   "note": "readme · other",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "bim facilities specialist, digital delivery - rail & transit wsp in canada calgary, alberta, canada linkedin other readme · other role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453720592",
+     "label": "LinkedIn · Calgary"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453734020",
+     "label": "LinkedIn · Vancouver"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/bim-facilities-specialist-digital-delivery-rail-transit-at-wsp-in-canada-4453726579",
+     "label": "LinkedIn · Vaughan"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
