@@ -20,12 +20,12 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-13 → 2026-11-12 · **6761 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1188)
-
+### ServiceNow jobs (1190)
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1188 postings</strong></summary>
-| Posted | Role | Company | Location | Source / note |
+<details><summary><strong>Show 1190 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
+| 2026-11-12 | [Sr. ServiceNow Developer](https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) | TekStaff IT Solutions (end client) | Toronto, ON - Hybrid (2-3 days/week onsite) | via hermes--2026-11-13--v1.md |
+| 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON - Hybrid (199 Bay Street) | via hermes--2026-11-13--v1.md |
 |---|---|---|---|---|
 | 2026-11-12 | [ServiceNow Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-at-cognizant-4481192199) | Cognizant | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
 | 2026-11-12 | [ServiceNow Senior Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-senior-technical-consultant-at-cognizant-4481180659) | Cognizant | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
@@ -1218,12 +1218,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1390)
-
+### Salesforce jobs (1391)
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1390 postings</strong></summary>
-| Posted | Role | Company | Location | Source / note |
+<details><summary><strong>Show 1391 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
+| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (hiring location Toronto, ON - 199 Bay Street) | via hermes--2026-11-13--v1.md |
 |---|---|---|---|---|
 | 2026-11-12 | [Salesforce Developer - Digital Customer : Future Opportunities](https://ca.linkedin.com/jobs/view/salesforce-developer-digital-customer-future-opportunities-at-deloitte-4473525211) | Deloitte | Toronto, Ontario, Canada | via twin 20-round harvest |
 | 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490093184) | OSI Digital | Toronto, Ontario, Canada | linkedin · salesforce |
@@ -6859,7 +6858,7 @@ before applying. If a row says `date relative — unverified`, treat the date as
 | 2026-11-11 | [Bilingual Intermediate Associate, Financial Reporting & Insights](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Bilingual-Intermediate-Associate--Financial-Reporting---Insights_JR7344-1) | BDO Canada | Montreal - 1000 Rue De La Gauchetière Ouest | via workday |
 | 2026-11-11 | [Salesforce FinancialForce PSA (Certinia) Developer](https://www.adzuna.ca/details/5961940040?utm_medium=api&utm_source=54ce986e) | YDC Pro | Canada | via fresh-ca--2026-11-12--v1.md |
 |---|---|---|---|---|
-| 2026-11-02 | ServiceNow Developer | Acme Corp | Toronto, ON | https://example.com/job/1 |
+| 2026-11-02 | [ServiceNow Developer](https://example.com/job/1) | Acme Corp | Toronto, ON | https://example.com/job/1 |
 ```
 
 4. Same model, same day, more rows? Rename `v1` → `v2` and edit that file. Do not open a second one.

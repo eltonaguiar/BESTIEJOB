@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-13T07:14:34+00:00",
+ "generatedAt": "2026-11-13T08:07:52+00:00",
  "timezone": "America/Toronto",
- "count": 5089,
+ "count": 5091,
  "appliedHidden": 42,
  "sources": [
   "103.careerplug.com",
@@ -124,6 +124,7 @@
   "emploive.com",
   "employment-mackenziehealth.icims.com",
   "epam.com",
+  "example.com",
   "exphire-kpmgca.icims.com",
   "fairygodboss.com",
   "flexgen.zya.me",
@@ -1417,13 +1418,13 @@
    "posted": "2026-11-12",
    "title": "Salesforce Developer",
    "company": "Cognizant",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cognizant-4489273359",
-   "note": "linkedin",
+   "location": "Remote in Canada (hiring location Toronto, ON - 199 Bay Street)",
+   "url": "https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/",
+   "note": "via hermes--2026-11-13--v1.md",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -1431,8 +1432,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce developer cognizant toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
+   "search": "salesforce developer cognizant remote in canada (hiring location toronto, on - 199 bay street) careers.cognizant.com salesforce via hermes--2026-11-13--v1.md salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cognizant-4489273359",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-12",
@@ -2596,9 +2603,9 @@
    "posted": "2026-11-11",
    "title": "ServiceNow Software Asset Management Developer",
    "company": "Cognizant",
-   "location": "Toronto, ON",
-   "url": "https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/",
-   "note": "readme",
+   "location": "Toronto, ON - Hybrid (199 Bay Street)",
+   "url": "https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/",
+   "note": "via hermes--2026-11-13--v1.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "careers.cognizant.com",
@@ -2612,8 +2619,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "servicenow software asset management developer cognizant toronto, on careers.cognizant.com servicenow readme servicenow itam sam/ham role fit toronto area",
-   "alternates": []
+   "search": "servicenow software asset management developer cognizant toronto, on - hybrid (199 bay street) careers.cognizant.com servicenow via hermes--2026-11-13--v1.md servicenow itam sam/ham role fit toronto area",
+   "alternates": [
+    {
+     "source": "careers.cognizant.com",
+     "url": "https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/",
+     "label": "careers.cognizant.com · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-11",
@@ -7010,6 +7023,27 @@
    ],
    "french": false,
    "search": "associate vice president, salesforce engineering &amp; development infotech london, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Developer",
+   "company": "Procom",
+   "location": "Toronto, Ontario, CA",
+   "url": "https://myprocom-portal.procomservices.com/jobs/salesforce-developer-toronto-73f5a6b2",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "myprocom-portal.procomservices.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer procom toronto, ontario, ca myprocom-portal.procomservices.com salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -57401,6 +57435,27 @@
    ],
    "french": false,
    "search": "servicenow developer in mississauga, on rexall pharmacy group ltd. mississauga, on mymiltonontario.ca servicenow mymiltonontario servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "ServiceNow Developer",
+   "company": "Acme Corp",
+   "location": "Toronto, ON",
+   "url": "https://example.com/job/1",
+   "note": "https://example.com/job/1",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "example.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer acme corp toronto, on example.com servicenow https://example.com/job/1 servicenow role fit toronto area",
    "alternates": []
   },
   {
