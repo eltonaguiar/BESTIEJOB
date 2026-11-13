@@ -323,3 +323,28 @@ Entry-level / Platform Administrator / Platform Developer I Toronto postings: no
 - README.md (+1 Salesforce row: Quarry Consulting Salesforce Administrator; Contents 1367→1368, header 1368→1369, total 6758→6759)
 - public/index.html + public/jobs-data.json (rebuilt via tools/build_site.py)
 - JOBLESSONS_2026-11-12.MD (this entry)
+
+### 19:00 EST pass (2026-11-12) — merged 2 verified fresh Toronto ServiceNow rows
+
+**Target-company checks this pass**
+- **Rogers** (jobs.rogers.com): mobile-applications and marketing/lead-management Salesforce-adjacent hits; none are ServiceNow or Salesforce platform developer/admin roles → skipped.
+- **Bell** (jobs.bell.ca): every ServiceNow requisition returns "has been filled" → never listed (431695, 432824, 432829, 432892, 431688).
+- **Government of Canada / City of Toronto**: no fresh GC SN/SF postings dated 2026-11-12; City of Toronto Systems Integration Specialist (AMANDA/Salesforce asset, posting 12-Nov → 26-Nov-2026) already on board.
+- **ServiceNow / Salesforce careers hubs**: ServiceNow Ontario page (16 jobs) shows sales/security/SRE Toronto hits, no fresh dev/admin; Salesforce Canada hub is sales/Customer Success hiring, no fresh Platform Administrator / Platform Developer I.
+- **Elite/partner sweep** (Ateko/FX Innovation ServiceNow Elite Partner, Deloitte/KPMG/Accenture/CGI/TCS/Wipro/HCLTech/Crossfuze/BDO/MNP/OSI Digital/Lane Four/CloudKettle): no fresh addable Toronto SN/SF rows this hour.
+
+**Verified fresh (live page fetched + dated 2026-11-12 + not on board)**
+1. Sr. ServiceNow Developer — TekStaff IT Solutions — Toronto, ON hybrid (2-3 days/week onsite), 5.5-month contract — CMDB, HAM, SAM, Discovery/Service Mapping, IntegrationHub, MID Servers — https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93 — merged (jobs.ca · servicenow · itam)
+2. Senior ServiceNow Developer — BMO via Procom — Toronto hybrid, contract — CMDB/HAM/SAM, enterprise inventory management — https://myprocom-portal.procomservices.com/jobs/senior-servicenow-developer-toronto-0fe02eb9 — merged (procom · servicenow · itam)
+
+**Patterns / lessons**
+- `jobs.ca` company pages render publicly and carry explicit "Posted Nov 12, 2026" dates — usable as primary verification when ca.linkedin.com returns HTTP 422 login wall.
+- Both fresh rows this hour came from agency/partner channel postings (TekStaff for an unnamed client; Procom for BMO), not direct employer careers sites — partner staffing portals remain the freshest Toronto SN source at 19:00 EST.
+- Entry-level / Platform Administrator / Platform Developer I Toronto supply: 0 fresh junior rows this pass; fresh supply stays mid/senior-heavy.
+
+**Files changed**
+- README.md (+2 ServiceNow rows; Contents 1193→1195, header 1195→1197, total 6759→6761)
+- jobs.json (+2 rows; total 2586→2588, servicenow 1225→1227)
+- public/index.html + public/jobs-data.json (rebuilt via tools/build_site.py; built 2026-11-13 00:04 UTC)
+- JOBLESSONS_2026-11-12.MD (this entry)
+- commit 7fc9ede pushed to origin/main; GitHub Pages redeploys via pages.yml on push
