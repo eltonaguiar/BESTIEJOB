@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-12T22:10:53.672Z",
-    "generatedAt": "2026-11-12T22:10:53.672Z",
-    "total": 2586,
+    "scrapedAt": "2026-11-13T00:04:35.000Z",
+    "generatedAt": "2026-11-13T00:04:35.000Z",
+    "total": 2588,
     "newThisScan": 853,
     "retainedFromPrevious": 1787,
     "sources": {
@@ -32,11 +32,49 @@
       "adzuna": 474
     },
     "primaryCounts": {
-      "servicenow": 1225,
+      "servicenow": 1227,
       "salesforce": 1246
     }
   },
   "jobs": [
+    {
+      "id": "jobs.ca:tekstaff-it-solutions/sr-servicenow-developer-toronto-on-1955e5a41d93",
+      "source": "jobs.ca",
+      "company": "TekStaff IT Solutions",
+      "title": "Sr. ServiceNow Developer",
+      "location": "Toronto, ON, CAN",
+      "url": "https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-12T00:00:00.000Z",
+      "scrapedAt": "2026-11-13T00:04:35.000Z",
+      "excerpt": "Sr. ServiceNow Developer, 5.5-month contract, Toronto hybrid (2-3 days/week onsite). ServiceNow CMDB, HAM, SAM, Discovery, Service Mapping, IntegrationHub, MID Servers, REST/SOAP APIs. Posted Nov 12, 2026 on jobs.ca.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "servicenow",
+        "itam"
+      ],
+      "alternates": []
+    },
+    {
+      "id": "procom:myprocom-portal.procomservices.com/senior-servicenow-developer-toronto-0fe02eb9",
+      "source": "procom",
+      "company": "BMO via Procom",
+      "title": "Senior ServiceNow Developer",
+      "location": "Toronto, ON, CAN",
+      "url": "https://myprocom-portal.procomservices.com/jobs/senior-servicenow-developer-toronto-0fe02eb9",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-12T00:00:00.000Z",
+      "scrapedAt": "2026-11-13T00:04:35.000Z",
+      "excerpt": "Senior ServiceNow Developer contract with Bank of Montreal (posted by Procom, BMO's recruitment partner), Toronto hybrid. CMDB, HAM, SAM, enterprise inventory management; Business Rules, Script Includes, Flow Designer, IntegrationHub, catalog items, Discovery, REST APIs. Posted 11/12/2026.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "servicenow",
+        "itam"
+      ],
+      "alternates": []
+    },
     {
       "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/servicenow-cmdb-administrator_r260030992",
       "source": "workday",

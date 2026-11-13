@@ -9,7 +9,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-12](#current-jobs--as-of-2026-11-12)
-  - [ServiceNow jobs (1193)](#servicenow-jobs-1193)
+  - [ServiceNow jobs (1195)](#servicenow-jobs-1193)
   - [Salesforce jobs (1368)](#salesforce-jobs-1367)
   - [Other jobs (4206)](#other-jobs-4206)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,10 +18,13 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-12
 
-Window: 2026-10-13 → 2026-11-12 · **6759 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-12 · **6761 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1195)_developer / administrator / architect / analyst roles_|| 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447?utm_medium=api&utm_source=54ce986e) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v3.md · adzuna |
-<details><summary><strong>Show 1195 postings</strong></summary>|| 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow |
+### ServiceNow jobs (1197)_developer / administrator / architect / analyst roles_|| 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447?utm_medium=api&utm_source=54ce986e) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v3.md · adzuna |
+<details><summary><strong>Show 1197 postings</strong></summary>
+|| 2026-11-12 | [Sr. ServiceNow Developer](https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) | TekStaff IT Solutions | Toronto, ON, CAN | jobs.ca · servicenow · itam |
+|| 2026-11-12 | [Senior ServiceNow Developer](https://myprocom-portal.procomservices.com/jobs/senior-servicenow-developer-toronto-0fe02eb9) | BMO via Procom | Toronto, ON, CAN | procom · servicenow · itam |
+|| 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow |
 || 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995) | BMO | Toronto, ON, CAN | workday · servicenow |
 || 2026-11-12 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-swoon-4490348678) | Swoon | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 ||| 2026-11-11 | [ServiceNow Developer - Specialized Developer – Expert](https://www.dice.com/job-detail/731ebf90-6929-44cd-8cec-f2d1393a11fb) | Spectra Group | Toronto, ON (hybrid) | via dice · posted 2026-11-11, $85-90/hr contract |
