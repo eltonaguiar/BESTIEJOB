@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
  "generatedAt": "2026-11-13T23:13:08+00:00",
+=======
+ "generatedAt": "2026-11-13T23:17:08+00:00",
+>>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
  "timezone": "America/Toronto",
  "count": 5121,
  "appliedHidden": 43,
@@ -325,7 +329,11 @@
    "title": "ServiceNow ITAM/ITOM Architect",
    "company": "Raas Infotek",
    "location": "Canada",
+<<<<<<< HEAD
    "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
+=======
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490760400",
+>>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
    "note": "linkedin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
@@ -344,6 +352,14 @@
    "alternates": [
     {
      "source": "LinkedIn",
+<<<<<<< HEAD
+=======
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
+     "label": "LinkedIn · Canada"
+    },
+    {
+     "source": "LinkedIn",
+>>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
      "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490395721",
      "label": "LinkedIn · Canada"
     }
@@ -1981,6 +1997,11 @@
    "french": false,
    "search": "senior servicenow developer bmo via procom toronto, on, can myprocom-portal.procomservices.com servicenow procom servicenow role fit toronto area",
    "alternates": [
+    {
+     "source": "myprocom-portal.procomservices.com",
+     "url": "https://myprocom-portal.procomservices.com/jobs/senior-servicenow-developer-toronto-2a757e2b",
+     "label": "myprocom-portal.procomservices.com · Toronto"
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-procom-4486536078",

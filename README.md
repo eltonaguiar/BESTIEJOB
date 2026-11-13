@@ -9,7 +9,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-13](#current-jobs--as-of-2026-11-13)
-  - [ServiceNow jobs (1203)](#servicenow-jobs-1199)
+  - [ServiceNow jobs (1204)](###servicenow-jobs-1199)
   - [Salesforce jobs (1400)](#salesforce-jobs-1400)
   - [Other jobs (4206)](#other-jobs-4206)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,9 +18,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-13
 
-Window: 2026-10-13 → 2026-11-13 · **6818 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-13 · **6819 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1209)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1206 postings</strong></summary>|---|---|---|---|---||||| 2026-11-13 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5964818813) | Alimentiv | Canada | adzuna · servicenow | ||||| 2026-11-13 | [ServiceNow ITAM/ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038) | Raas Infotek | Canada | linkedin · servicenow, itam | ||||| 2026-11-13 | [Senior Consultant - ServiceNow HRSD](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-hrsd-at-avance-consulting-4489814875) | Avance Consulting | Ontario, Canada | linkedin · servicenow | ||||| 2026-11-12 | [ServiceNow Developer](https://snpro.jobs/jobs/servicenow-developer-6c1dc) | Dexian | Toronto, Ontario, Canada | snpro · servicenow, itam ||||| 2026-11-11 | [Senior ServiceNow Developer](https://snpro.jobs/jobs/senior-servicenow-developer-0fcb9) | Swoon | Toronto, Ontario, Canada | snpro · servicenow, itam |
+### ServiceNow jobs (1210)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1207 postings</strong></summary>|---|---|---|---|---||||| 2026-11-13 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5964818813) | Alimentiv | Canada | adzuna · servicenow | ||||| 2026-11-13 | [ServiceNow ITAM/ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038) | Raas Infotek | Canada | linkedin · servicenow, itam | ||||| 2026-11-13 | [Senior Consultant - ServiceNow HRSD](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-hrsd-at-avance-consulting-4489814875) | Avance Consulting | Ontario, Canada | linkedin · servicenow | ||||| 2026-11-12 | [ServiceNow Developer](https://snpro.jobs/jobs/servicenow-developer-6c1dc) | Dexian | Toronto, Ontario, Canada | snpro · servicenow, itam ||||| 2026-11-11 | [Senior ServiceNow Developer](https://snpro.jobs/jobs/senior-servicenow-developer-0fcb9) | Swoon | Toronto, Ontario, Canada | snpro · servicenow, itam |
 |||| 2026-11-13 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-nityo-infotech-4490726894) | Nityo Infotech | Toronto, Ontario, Canada | linkedin · servicenow |
 ||| 2026-11-13 | [Product Manager, ServiceNow](https://www.adzuna.ca/details/5964327184) | Loblaw Companies | Brampton, Peel region | adzuna · servicenow |
 || 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow, itam |
@@ -660,7 +660,8 @@ Window: 2026-10-13 → 2026-11-13 · **6818 live postings** · deduplicated by U
 | 2026-11-04 | [ServiceNow Strategic Portfolio Management (SPM) Consultant](https://ca.linkedin.com/jobs/view/servicenow-strategic-portfolio-management-spm-consultant-at-rsm-canada-4405749125) | RSM Canada | Calgary, Alberta, Canada | linkedin · servicenow |
 | 2026-11-04 | [Analyste d’affaires ServiceNow](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-servicenow-at-cgi-4443093088) | CGI | Sherbrooke, Quebec, Canada | linkedin · servicenow |
 | 2026-11-04 | [Service Now ITAM/Discovery](https://ca.linkedin.com/jobs/view/service-now-itam-discovery-at-zodiac-solutions-inc-4485085976) | Zodiac Solutions, Inc | Canada | linkedin · servicenow, itam |
-||| 2026-11-04 | [ServiceNow HRSD](https://ca.linkedin.com/jobs/view/servicenow-hrsd-at-nlb-services-4486384478) | NLB Services | Mississauga, Ontario, Canada | linkedin · servicenow |
+|||| 2026-11-04 | [ServiceNow HRSD](https://ca.linkedin.com/jobs/view/servicenow-hrsd-at-nlb-services-4486384478) | NLB Services | Mississauga, Ontario, Canada | linkedin · servicenow |
+|||| 2026-11-04 | [Senior ServiceNow Developer](https://myprocom-portal.procomservices.com/jobs/senior-servicenow-developer-toronto-2a757e2b) | Procom | Toronto, ON, Canada | via hermes-agent--2026-11-13--v2.md |
 | 2026-11-03 | [Senior Manager, ServiceNow HRSD Program and Solution Management](https://www.linkedin.com/jobs/view/senior-manager-servicenow-hrsd-program-and-solution-management-at-deloitte-4486854990) | Deloitte | Seattle, WA | via buffy--2026-11-08--v12.md |
 | 2026-11-03 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469993127) | Pomerleau | Québec, Quebec, Canada | via inbox_opencode-job-hunt-c10--2026-11-09--v10.md |
 | 2026-11-03 | [Senior Business Systems Analyst (ServiceNow)](https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Senior-Business-Systems-Analyst_REQ-2351) | Interac | Canada | via round11-cached--2026-11-05--v21.md |
