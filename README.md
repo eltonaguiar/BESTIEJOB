@@ -8,19 +8,27 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Contents
 
-- [Current jobs — as of 2026-11-12](#current-jobs--as-of-2026-11-12)
-  - [ServiceNow jobs (1191)](#servicenow-jobs-1191)
-  - [Salesforce jobs (1392)](#salesforce-jobs-1392)
+- [Current jobs — as of 2026-11-13](#current-jobs--as-of-2026-11-13)
+  - [ServiceNow jobs (1199)](#servicenow-jobs-1199)
+  - [Salesforce jobs (1400)](#salesforce-jobs-1400)
   - [Other jobs (4206)](#other-jobs-4206)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-12
+## Current jobs — as of 2026-11-13
 
-Window: 2026-10-13 → 2026-11-12 · **6763 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-13 · **6779 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1197)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1196 postings</strong></summary>|---|---|---|---|---|
+### ServiceNow jobs (1205)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1204 postings</strong></summary>|---|---|---|---|---|
+|| 2026-11-13 | [Product Manager, ServiceNow](https://www.adzuna.ca/details/5964327184) | Loblaw Companies | Brampton, Peel region | adzuna · servicenow |
+|| 2026-11-12 | [ServiceNow CMDB Administrator](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992) | BMO | Toronto, ON, CAN | workday · servicenow, itam |
+|| 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995) | BMO | Toronto, ON, CAN | workday · servicenow |
+|| 2026-11-12 | [ServiceNow Technical Architect](https://www.adzuna.ca/details/5963510770) | Accenture PLC | Toronto, Ontario | adzuna · servicenow |
+|| 2026-11-12 | [Senior ServiceNow Developer](https://myprocom-portal.procomservices.com/jobs/senior-servicenow-developer-toronto-0fe02eb9) | BMO via Procom | Toronto, ON, CAN | procom · servicenow, itam |
+|| 2026-11-12 | [Senior ServiceNow ITAM ITOM Architect - Remote / Telecommute](https://www.adzuna.ca/details/5963558171) | CYNET SYSTEMS | Hastings-Sunrise, Vancouver | adzuna · servicenow, itam |
+|| 2026-11-12 | [Senior ServiceNow Platform Architect - Remote / Telecommute](https://www.adzuna.ca/details/5963558170) | CYNET SYSTEMS | Hastings-Sunrise, Vancouver | adzuna · servicenow |
+|| 2026-11-12 | [Senior ServiceNow Solution Architect - Remote / Telecommute](https://www.adzuna.ca/details/5963558169) | CYNET SYSTEMS | Hastings-Sunrise, Vancouver | adzuna · servicenow |
 | 2026-11-12 | [Servicenow Expert (ServiceNow Architect, remote, CSA/CAD/CTA)](https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984) | KTek Resourcing | Canada (Remote) | linkedin · servicenow, architect |
 | 2026-11-12 | [ServiceNow Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-technical-consultant-at-cognizant-4481192199) | Cognizant | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
 | 2026-11-12 | [ServiceNow Senior Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-senior-technical-consultant-at-cognizant-4481180659) | Cognizant | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v12.md |
@@ -1213,8 +1221,16 @@ Window: 2026-10-13 → 2026-11-12 · **6763 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1404)_developer / administrator / architect / analyst roles_
-<details><summary><strong>Show 1403 postings</strong></summary>|---|---|---|---|---|
+### Salesforce jobs (1412)_developer / administrator / architect / analyst roles_
+<details><summary><strong>Show 1411 postings</strong></summary>|---|---|---|---|---|
+|| 2026-11-12 | [Salesforce Revenue Cloud Developer](https://www.adzuna.ca/details/5963511070) | Apptoza Inc. | Toronto, Ontario | adzuna · salesforce |
+|| 2026-11-12 | [Salesforce Senior FSC Developer/Technical Lead](https://www.adzuna.ca/details/5963511071) | Apptoza Inc. | Toronto, Ontario | adzuna · salesforce |
+|| 2026-11-12 | [Salesforce Developer](https://www.adzuna.ca/details/5963223318) | OSI Digital | Toronto, Ontario | adzuna · salesforce |
+|| 2026-11-12 | [Salesforce Developer](https://www.adzuna.ca/details/5963218467) | OSI Digital | Vancouver, Greater Vancouver | adzuna · salesforce |
+|| 2026-11-12 | [Salesforce Quality Analyst Tester](https://www.adzuna.ca/land/ad/5963156514) | OSI Digital | Vancouver, Greater Vancouver | adzuna · salesforce |
+|| 2026-11-12 | [Q2C Senior Business Analyst](https://www.adzuna.ca/details/5962895995) | Salesforce | Toronto, Ontario | adzuna · salesforce |
+|| 2026-11-12 | [Associate Salesforce Administrator](https://www.adzuna.ca/details/5962884799) | Jobgether | Canada | adzuna · salesforce |
+|| 2026-11-12 | [DevOps Architect (CAN)](https://www.adzuna.ca/details/5962878718) | Salesforce | Canada | adzuna · salesforce |
 | 2026-11-12 | [Salesforce Consultant (Senior, FSC, 12+ mo contract)](https://ca.linkedin.com/jobs/view/salesforce-consultant-at-avanciers-inc-4488577401) | Avanciers Inc. | Montreal, QC - Hybrid | linkedin · salesforce |
 | 2026-11-12 | [Salesforce Developer - Digital Customer : Future Opportunities](https://ca.linkedin.com/jobs/view/salesforce-developer-digital-customer-future-opportunities-at-deloitte-4473525211) | Deloitte | Toronto, Ontario, Canada | via twin 20-round harvest |
 | 2026-11-12 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490093184) | OSI Digital | Toronto, Ontario, Canada | linkedin · salesforce |
