@@ -20,11 +20,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-13 → 2026-11-12 · **6763 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1191)
-_developer / administrator / architect / analyst roles_
+### ServiceNow jobs (1192)_developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1190 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
-| 2026-11-12 | [Sr. ServiceNow Developer](https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) | TekStaff IT Solutions (end client) | Toronto, ON - Hybrid (2-3 days/week onsite) | via hermes--2026-11-13--v1.md |
+<details><summary><strong>Show 1191 postings</strong></summary>| 2026-11-12 | [Sr. ServiceNow Developer](https://www.jobs.ca/tekstaff-it-solutions/jobs/sr-servicenow-developer-toronto-on-1955e5a41d93) | TekStaff IT Solutions (end client) | Toronto, ON - Hybrid (2-3 days/week onsite) | via hermes--2026-11-13--v1.md |
 | 2026-11-11 | [ServiceNow Software Asset Management Developer](https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/) | Cognizant | Toronto, ON - Hybrid (199 Bay Street) | via hermes--2026-11-13--v1.md |
 |---|---|---|---|---|
 | 2026-11-12 | [Servicenow Expert (ServiceNow Architect, remote, CSA/CAD/CTA)](https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984) | KTek Resourcing | Canada (Remote) | linkedin · servicenow, architect |
@@ -1219,11 +1217,9 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1392)
-_developer / administrator / architect / analyst roles_
+### Salesforce jobs (1393)_developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1391 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
-| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (hiring location Toronto, ON - 199 Bay Street) | via hermes--2026-11-13--v1.md |
+<details><summary><strong>Show 1392 postings</strong></summary>| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/) | Cognizant | Remote in Canada (hiring location Toronto, ON - 199 Bay Street) | via hermes--2026-11-13--v1.md |
 |---|---|---|---|---|
 | 2026-11-12 | [Salesforce Consultant (Senior, FSC, 12+ mo contract)](https://ca.linkedin.com/jobs/view/salesforce-consultant-at-avanciers-inc-4488577401) | Avanciers Inc. | Montreal, QC - Hybrid | linkedin · salesforce |
 | 2026-11-12 | [Salesforce Developer - Digital Customer : Future Opportunities](https://ca.linkedin.com/jobs/view/salesforce-developer-digital-customer-future-opportunities-at-deloitte-4473525211) | Deloitte | Toronto, Ontario, Canada | via twin 20-round harvest |
@@ -6856,6 +6852,8 @@ before applying. If a row says `date relative — unverified`, treat the date as
 | 2026-11-12 | [ServiceNow Technology Lifecycle Analyst](https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-12 | [ServiceNow CMDB Administrator](https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189) | BMO | Toronto, Ontario, Canada | via fresh-ca--2026-11-12--v1.md |
 | 2026-11-12 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5963510447) | Devconnectplatform · Alimentiv via Jobicy | Remote, Canada | via fresh-ca--2026-11-12--v5.md |
+| 2026-11-12 | [ServiceNow Certified Technical Architect (CTA)](https://ca.linkedin.com/jobs/view/servicenow-certified-technical-architect-cta-at-raas-infotek-4490365820) | Raas Infotek | Canada | via fresh-ca--2026-11-13--v1.md |
+| 2026-11-12 | [Senior Solution Architect - Agentforce/ Salesforce](https://ca.linkedin.com/jobs/view/senior-solution-architect-agentforce-salesforce-at-lululemon-4488575656) | lululemon | Vancouver, British Columbia, Canada | via fresh-ca--2026-11-13--v1.md |
 | 2026-11-11 | [Databricks Solution Architect](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/Databricks-Solution-Architect_JR6061) | BDO Canada | Toronto - Bay St | via workday |
 | 2026-11-11 | [Bilingual Intermediate Associate, Financial Reporting & Insights](https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Bilingual-Intermediate-Associate--Financial-Reporting---Insights_JR7344-1) | BDO Canada | Montreal - 1000 Rue De La Gauchetière Ouest | via workday |
 | 2026-11-11 | [Salesforce FinancialForce PSA (Certinia) Developer](https://www.adzuna.ca/details/5961940040?utm_medium=api&utm_source=54ce986e) | YDC Pro | Canada | via fresh-ca--2026-11-12--v1.md |

@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-13T09:15:35+00:00",
+ "generatedAt": "2026-11-13T09:43:54+00:00",
  "timezone": "America/Toronto",
- "count": 5093,
+ "count": 5096,
  "appliedHidden": 42,
  "sources": [
   "103.careerplug.com",
@@ -1155,6 +1155,27 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "ServiceNow Certified Technical Architect (CTA)",
+   "company": "Raas Infotek",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-certified-technical-architect-cta-at-raas-infotek-4490365820",
+   "note": "via fresh-ca--2026-11-13--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow certified technical architect (cta) raas infotek canada linkedin servicenow via fresh-ca--2026-11-13--v1.md servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Senior ServiceNow Platform Architect - Remote / Telecommute",
    "company": "CYNET SYSTEMS",
    "location": "Hastings-Sunrise, Vancouver",
@@ -1440,13 +1461,13 @@
    "posted": "2026-11-12",
    "title": "Salesforce Developer",
    "company": "Cognizant",
-   "location": "Remote in Canada (hiring location Toronto, ON - 199 Bay Street)",
-   "url": "https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/",
-   "note": "via hermes--2026-11-13--v1.md",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cognizant-4489273359",
+   "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -1454,14 +1475,8 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce developer cognizant remote in canada (hiring location toronto, on - 199 bay street) careers.cognizant.com salesforce via hermes--2026-11-13--v1.md salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cognizant-4489273359",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
+   "search": "salesforce developer cognizant toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-12",
@@ -1950,6 +1965,27 @@
      "label": "Adzuna · Montréal East"
     }
    ]
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Senior Solution Architect - Agentforce/ Salesforce",
+   "company": "lululemon",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-solution-architect-agentforce-salesforce-at-lululemon-4488575656",
+   "note": "via fresh-ca--2026-11-13--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior solution architect - agentforce/ salesforce lululemon vancouver, british columbia, canada linkedin salesforce via fresh-ca--2026-11-13--v1.md salesforce role fit canada / remote",
+   "alternates": []
   },
   {
    "posted": "2026-11-12",
@@ -7086,6 +7122,27 @@
    ],
    "french": false,
    "search": "associate vice president, salesforce engineering &amp; development infotech london, ontario, canada linkedin salesforce readme salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce Developer",
+   "company": "Procom",
+   "location": "Toronto, Ontario, CA",
+   "url": "https://myprocom-portal.procomservices.com/jobs/salesforce-developer-toronto-73f5a6b2",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "myprocom-portal.procomservices.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer procom toronto, ontario, ca myprocom-portal.procomservices.com salesforce readme salesforce role fit toronto area",
    "alternates": []
   },
   {
