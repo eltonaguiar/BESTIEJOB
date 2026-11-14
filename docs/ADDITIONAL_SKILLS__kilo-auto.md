@@ -42,7 +42,7 @@ Verdict: **over-certified on breadth, under-certified on depth.** The flat cert 
 
 ## Resume flags to fix BEFORE any cert spend
 
-1. **"Certifications under eaguiar2015@yahoo.ca email"** — red flag. Tells a screener the Now Learning / Trailhead records sit under a non-professional address, inviting verification friction. Consolidate accounts, then delete the line.
+1. **"Certifications under [redacted email]"** — red flag. Tells a screener the Now Learning / Trailhead records sit under a non-professional address, inviting verification friction. Consolidate accounts, then delete the line.
 2. **"Salesforce Certified Platform Administrator"** and **"Salesforce Platform Developer"** are not real certification names. Correct to **Certified Administrator** and **Platform Developer I**. A screener who knows the SF cert tree catches this in seconds and discounts the whole section.
 3. **Two resumes with divergent cert lists** — one omits Salesforce certs from the top block; the other drops CIS-ITSM. Inconsistency between versions is what background checks surface. Unify into one master list.
 

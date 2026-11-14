@@ -59,7 +59,7 @@ credentials, chosen along one path rather than both.
 
 ## Resume fixes to land before any cert spend
 
-1. Delete **"Certifications under eaguiar2015@yahoo.ca email"** — it invites verification friction
+1. Delete **"Certifications under [redacted email]"** — it invites verification friction
    and hints the Now Learning / Trailhead records sit under an address that isn't used professionally.
 2. Rename **"Salesforce Certified Platform Administrator" → Salesforce Certified Administrator**, and
    **"Salesforce Platform Developer" → Platform Developer I**.
