@@ -14,7 +14,10 @@ mkdir -p logs
 # Node lives in the user-local bin dir on this host, which cron's minimal PATH
 # does not include. Without this, scheduled runs died with
 # "node: command not found" (see updates/2026-11-02-daily-scan-node-path-fix.md).
-export PATH="$HOME/.local/bin:/usr/local/bin:$PATH"
+# On this host node is installed under ~/.hermes/node/bin (not ~/.local/bin and
+# not nvm), so that directory is prepended too — the 2026-11-02 fix did not
+# actually cover this host and the cron kept exiting 127.
+export PATH="$HOME/.hermes/node/bin:$HOME/.local/bin:/usr/local/bin:$PATH"
 if ! command -v node >/dev/null 2>&1; then
   NODE_BIN="$(ls -d "$HOME"/.nvm/versions/node/*/bin 2>/dev/null | sort -V | tail -1)"
   [ -n "$NODE_BIN" ] && export PATH="$NODE_BIN:$PATH"
@@ -63,7 +66,9 @@ STARTED="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
     # changes: without the guard every run re-bumps every submission's version
     # suffix and mints an empty README.BAK archive.
     if [ -n "$(git status --porcelain -- inbox 2>/dev/null)" ]; then
-      python3 tools/jobs_merge_inbox.py --max-per-table "${SCAN_INBOX_CAP:-400}" \
+      # 5000 is a runaway guard only: the live board holds ~1300 rows per family,
+      # so the old 400 default silently archived ~900 in-window postings per run.
+      python3 tools/jobs_merge_inbox.py --max-per-table "${SCAN_INBOX_CAP:-5000}" \
         || echo "inbox merge failed (non-fatal)"
     fi
     # Curated README rows (inbox merges, partner finds) must also reach the
