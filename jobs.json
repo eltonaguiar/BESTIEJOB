@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-14T04:12:54.486Z",
     "generatedAt": "2026-11-14T04:12:54.486Z",
-    "total": 2636,
+    "total": 2637,
     "newThisScan": 752,
     "retainedFromPrevious": 1934,
     "sources": {
@@ -32,7 +32,7 @@
       "adzuna": 449
     },
     "primaryCounts": {
-      "servicenow": 1231,
+      "servicenow": 1232,
       "salesforce": 1286
     }
   },
@@ -2078,6 +2078,30 @@
       ],
       "verifiedAt": "2026-11-13T04:14:23.361397+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "workday:interac.wd3.myworkdayjobs.com/en-us/interac/job/toronto/enterprise-architect--senior-specialist_req-2310",
+      "source": "workday",
+      "company": "Interac",
+      "title": "Enterprise Architect, Senior Specialist",
+      "location": "Toronto, ON",
+      "url": "https://interac.wd3.myworkdayjobs.com/en-US/interac/job/Toronto/Enterprise-Architect--Senior-Specialist_REQ-2310",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 120000,
+        "max": 140000,
+        "currency": "CAD",
+        "display": "$120K-$140K"
+      },
+      "postedDate": "2026-11-12T00:00:00.000Z",
+      "scrapedAt": "2026-11-14T05:00:00.000Z",
+      "excerpt": "Enterprise Architecture / architecture governance role at Interac (Toronto). Requires working understanding of ServiceNow CMDB and CSDM; APM, ITAM, lifecycle and technology portfolio tooling strongly preferred; ServiceNow/ITIL/TOGAF/COBIT certs assets. Hiring range $120,000-$140,000.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "cmdb",
+        "itam"
+      ]
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-senior-developer-at-bdo-canada-4489928639",
