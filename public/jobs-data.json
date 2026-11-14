@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T02:17:04+00:00",
+ "generatedAt": "2026-11-14T03:14:39+00:00",
  "timezone": "America/Toronto",
  "count": 5124,
  "appliedHidden": 43,
@@ -1589,13 +1589,13 @@
   {
    "posted": "2026-11-13",
    "title": "Data Analyst",
-   "company": "J M Group Inc",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5964888350",
-   "note": "adzuna",
+   "company": "J&M Group",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/data-analyst-at-j-m-group-4490752589",
+   "note": "linkedin",
    "family": "other",
    "familyLabel": "Other",
-   "source": "Adzuna",
+   "source": "LinkedIn",
    "verified": "Aggregator",
    "match": 20,
    "matchReasons": [
@@ -1603,8 +1603,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "data analyst j m group inc toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
+   "search": "data analyst j&m group toronto, ontario, canada linkedin other linkedin role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5964888350",
+     "label": "Adzuna · Toronto"
+    }
+   ]
   },
   {
    "posted": "2026-11-13",
@@ -88106,26 +88112,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "BSA - Banking SME and Data Analyst",
-   "company": "Epsilon Solutions LTD",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5948015034",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "bsa - banking sme and data analyst epsilon solutions ltd toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-10-31",
    "title": "CAN_Developer",
    "company": "Varite, Inc",
    "location": "Toronto, Ontario",
@@ -90026,6 +90012,26 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "BSA - Banking SME and Data Analyst",
+   "company": "Epsilon Solutions LTD",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5948015034",
+   "note": "adzuna · data",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "bsa - banking sme and data analyst epsilon solutions ltd toronto, ontario adzuna other adzuna · data role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-10-31",
