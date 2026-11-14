@@ -1,23 +1,23 @@
 {
  "status": {
   "GC Jobs (federal)": {
-   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31611B",
+   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31616B",
    "raw": 0
   },
   "RemoteOK": {
-   "status": "http 200, 99 jobs",
+   "status": "http 200, 98 jobs",
    "raw": 0
   },
   "Remotive": {
-   "status": "http 200, 14 jobs",
-   "raw": 14
+   "status": "http 200, 16 jobs",
+   "raw": 16
   },
   "Himalayas": {
-   "status": "p0:20/117848, p1:20/117858, p2:20/117848, p3:20/117848, p4:20/117848",
+   "status": "crashed TypeError",
    "raw": 0
   },
   "Jobboom (QC)": {
-   "status": "http 403, 6046B; http 403, 6067B",
+   "status": "http 403, 6067B; http 403, 6067B",
    "raw": 0
   },
   "We Work Remotely": {
@@ -33,7 +33,7 @@
    "raw": 0
   },
   "Careerjet CA": {
-   "status": "http 200; http 200",
+   "status": "Timeout; Timeout",
    "raw": 0
   },
   "Jobrapido CA": {
@@ -56,6 +56,16 @@
  "dated": [],
  "undated": [],
  "dropped": [
+  {
+   "source": "Remotive",
+   "title": "Remote Office Assistant",
+   "why": "title filter"
+  },
+  {
+   "source": "Remotive",
+   "title": "Senior Data Engineer",
+   "why": "title filter"
+  },
   {
    "source": "Remotive",
    "title": "Customer Service Representative",
