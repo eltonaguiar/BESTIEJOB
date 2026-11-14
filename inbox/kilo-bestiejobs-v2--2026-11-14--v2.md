@@ -1,3 +1,4 @@
+<!-- merged 2026-11-14T094302Z: +2 new, 90 duplicate, version 2 -->
 ---
 model: kilo-bestiejobs-v2
 scanned_at: 2026-11-14T08:15:00Z

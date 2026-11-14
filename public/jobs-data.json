@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T09:12:46+00:00",
+ "generatedAt": "2026-11-14T09:43:04+00:00",
  "timezone": "America/Toronto",
  "count": 5142,
  "appliedHidden": 44,
@@ -20253,6 +20253,37 @@
   },
   {
    "posted": "2026-11-07",
+   "title": "Data Engineer",
+   "company": "Canadian Cancer Society",
+   "location": "Hamilton, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-canadian-cancer-society-4487380866",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v29.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data engineer canadian cancer society hamilton, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v29.md role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-canadian-cancer-society-4487360736",
+     "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-canadian-cancer-society-4487372458",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-07",
    "title": "Software Developer",
    "company": "Fidelity Canada",
    "location": "Toronto, ON",
@@ -20631,26 +20662,6 @@
   },
   {
    "posted": "2026-11-07",
-   "title": "Data Engineer",
-   "company": "Canadian Cancer Society",
-   "location": "Toronto, ON",
-   "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-canadian-cancer-society-4487372458",
-   "note": "readme · other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "data engineer canadian cancer society toronto, on linkedin other readme · other role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-07",
    "title": "Data Analyst",
    "company": "Aramark Canada",
    "location": "Mississauga, ON",
@@ -20748,32 +20759,6 @@
    "french": false,
    "search": "analyst – provisioning and access control master st-bruno-de-montarville, qc linkedin other readme · other controls/acl role fit",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "Global Trainer Unity Program",
-   "company": "Siemens Healthineers",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/global-trainer-unity-program-at-siemens-healthineers-4462585147",
-   "note": "via inbox_opencode-job-hunt--2026-11-09--v16.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 17,
-   "matchReasons": [
-    "Controls/ACL",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "global trainer unity program siemens healthineers toronto, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v16.md controls/acl toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/global-trainer-unity-program-at-siemens-healthineers-4462575311",
-     "label": "LinkedIn · Montreal"
-    }
-   ]
   },
   {
    "posted": "2026-11-07",
@@ -21079,6 +21064,26 @@
    ],
    "french": false,
    "search": "analyste d'affaire fop consultants brossard, quebec, canada linkedin other readme · other role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Global Trainer Unity Program",
+   "company": "Siemens Healthineers",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/global-trainer-unity-program-at-siemens-healthineers-4462575311",
+   "note": "readme · other",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 13,
+   "matchReasons": [
+    "Controls/ACL",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "global trainer unity program siemens healthineers montreal, quebec, canada linkedin other readme · other controls/acl canada / remote",
    "alternates": []
   },
   {
