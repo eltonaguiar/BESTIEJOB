@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-14T08:38:21+00:00",
+ "generatedAt": "2026-11-14T08:42:48+00:00",
  "timezone": "America/Toronto",
- "count": 5140,
+ "count": 5141,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -19977,6 +19977,27 @@
   },
   {
    "posted": "2026-11-07",
+   "title": "MuleSoft Senior Developer",
+   "company": "Modes",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5961953750",
+   "note": "via kilo-bestiejobs--2026-11-14--v4.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 34,
+   "matchReasons": [
+    "Integration",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "mulesoft senior developer modes canada adzuna other via kilo-bestiejobs--2026-11-14--v4.md integration role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
    "title": "Senior Director, Controllership & Operations Transformation",
    "company": "Salesforce",
    "location": "Toronto, Ontario, Canada",
@@ -20170,32 +20191,6 @@
    "french": false,
    "search": "senior full stack .net developer cognizant mississauga, peel region adzuna other adzuna role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "Data Engineer",
-   "company": "Canadian Cancer Society",
-   "location": "Hamilton, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-canadian-cancer-society-4487380866",
-   "note": "via inbox_opencode-job-hunt--2026-11-09--v16.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "data engineer canadian cancer society hamilton, ontario, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v16.md role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-canadian-cancer-society-4487372458",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-07",
@@ -20573,6 +20568,26 @@
    ],
    "french": false,
    "search": "data engineer (data modeling/data governance) tangerine toronto, on linkedin other readme · other role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Data Engineer",
+   "company": "Canadian Cancer Society",
+   "location": "Toronto, ON",
+   "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-canadian-cancer-society-4487372458",
+   "note": "readme · other",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data engineer canadian cancer society toronto, on linkedin other readme · other role fit toronto area",
    "alternates": []
   },
   {
