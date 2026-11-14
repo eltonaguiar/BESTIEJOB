@@ -12,4 +12,4 @@ NewRocket employer ATS (Greenhouse highmetric) requisition 6260728004, first pub
 
 | Posted | Role | Company | Location | URL | Note |
 |---|---|---|---|---|---|
-| 2026-11-12 | Solution Architect ServiceNow Service Portal, Moveworks | NewRocket | US or Canada - Remote | https://www.newrocket.com/careers/job?gh_jid=6260728004 | Greenhouse first_published 2026-11-12; distinct req |
+| 2026-11-12 | Solution Architect ServiceNow Service Portal, Moveworks | NewRocket | US or Canada - Remote | https://job-boards.greenhouse.io/highmetric/jobs/6260728004 | Greenhouse first_published 2026-11-12; distinct req |
