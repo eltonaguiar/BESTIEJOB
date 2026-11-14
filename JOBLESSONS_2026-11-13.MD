@@ -386,3 +386,44 @@ Files touched:
 
 - `JOBLESSONS_2026-11-13.MD` — this section appended
 - `jobs.json` — conflict-marker repair only (listing count unchanged at 2636)
+
+## 20:00 EST run (2026-11-13 01:00 UTC) — hourly scan
+
+**Result: 1 new fresh row merged (Salesforce).**
+
+| Metric | Value |
+|---|---|
+| Scan start | 2026-11-13T20:00 EST (2026-11-14T01:00Z) |
+| Baseline | jobs.json 2,633 / README 6,819 live postings (00:51Z Action sweep) |
+| jobs.json total | 2,634 |
+| README live postings | 6,820 |
+| Site (public/jobs-data.json) | 5,123 jobs (servicenow 905 / salesforce 957 / other 3261) · built 2026-11-14 01:11 UTC |
+| New rows merged this run | **1** (1 Salesforce, 0 ServiceNow) |
+
+Candidates reviewed and disposition (checked against jobs.json + README.md tables + APPLIED.md):
+
+| Candidate | Source | Disposition |
+|---|---|---|
+| Maarut Inc — Salesforce Platform Specialist — Toronto, ON | LinkedIn ca.linkedin.com/jobs/view/salesforce-platform-specialist-at-maarut-inc-4482134685 | ADDED — surfaced under `f_TPR=r86400` (past 24h); not on board or APPLIED.md; LinkedIn guest detail is auth-walled, date inferred from the 24h window |
+| Lightspeed Commerce — ServiceNow Developer — 4466234344 | LinkedIn | SKIPPED — already in APPLIED.md (archived 2026-11-03 as applied; QuoteMachine/Real Ventures twin) |
+| Humber College — Senior Platform Administrator (Salesforce) — 4474406386 | LinkedIn | SKIPPED — detail page dated July 31, 2026 (aged out) |
+| Finning via Jobgether — Salesforce Platform Administrator — 4476569878 | LinkedIn | SKIPPED — "1 week ago" (~2026-11-06), not fresh; guest detail auth-walled |
+| Deloitte — Technical Delivery Mgr, ServiceNow IRM/Sec Ops — 4482812205 | LinkedIn | SKIPPED — manager/delivery role, off-profile (target: Platform Admin / Platform Developer I) |
+| Greenhouse + Lever sweep — 81 CA slugs (d2l, flipp, geotab, hootsuite, pointclickcare, palantir, sonatype, trustarc, wattpad…) | boards-api.greenhouse.io / api.lever.co | 0 fresh — all SN/SF postings older than 2 days |
+| Workday CXS probes — BMO, TD, CIBC, Manulife, Interac, CAAT, GDIT, Salesforce, Accenture | myworkdayjobs.com | 0 — CXS endpoint rejects urllib handshake (needs curl_cffi, not installed) |
+| Rogers jobs.rogers.com (date-sorted), Bell jobs.bell.ca, gojobs.gov.on.ca / jobs.gc.ca via Job Bank | employer portals | 0 new verifiable SN/SF — Rogers hits name platforms only in body (title rule); Bell SN roles filled; public-sector portals Radware-walled |
+
+Lessons this run:
+
+1. **LinkedIn guest search pages are reachable in-browser (`f_TPR=r86400`), but LinkedIn guest *detail* pages now serve generic job-alert walls** ("8,000+ … Jobs in United States") — posted dates can't be read from detail; infer freshness only from the past-24h search window and say so in the excerpt.
+2. **APPLIED.md is a hard exclude before adding anything** — the Lightspeed SN Developer re-surfaced but is archived as applied (QuoteMachine/Real Ventures twin, APPLIED.md lines 42–48). Always grep APPLIED.md URLs plus jobs.json and README before adding.
+3. **Playwright locally works only with an explicit `executable_path` to an installed Chromium** (`.../ms-playwright/chromium-1254/chrome-win64/chrome.exe`); the harness default revision (1248) binaries are missing, and the user's Chrome profile is locked — run headless, no real profile.
+4. **urllib is blocked where the repo needs browser fingerprints:** Workday CXS rejects the handshake (every tenant except one, proved in the round-4 ATS pass) and LinkedIn returns 422; `curl_cffi`/`pip` are unavailable in the Hermes venv. Greenhouse/Lever public JSON APIs still answer but returned nothing posted ≥2026-11-12 across the 81 Canadian slugs.
+5. **Named-employer checks (Rogers, Bell, government):** Rogers' `jobs.rogers.com` is date-sortable and server-rendered, but current hits mention ServiceNow/Salesforce only in the body (e.g. "Technical Specialist") — excluded by the title rule. Bell's SN postings are "has been filled". `gojobs.gov.on.ca` and `jobs.gc.ca` are Radware-walled; the Job Bank proxy returned no titled SN/SF technical postings.
+
+### Files touched
+
+- `README.md` — +1 Salesforce row (Maarut Inc, Toronto); counts bumped: Contents 1400→1401, heading 1410→1411, summary 1413→1414, total 6819→6820 live postings
+- `jobs.json` — +1 row (2633→2634), meta salesforce 1283→1284
+- `public/jobs-data.json`, `public/index.html`, `public/jobs.json`, `public/gotjob/jobs.json`, `public/findjobs/jobs.json` — site rebuilt (5,123 jobs, stamped 2026-11-14 01:11 UTC)
+- `JOBLESSONS_2026-11-13.MD` — this section appended

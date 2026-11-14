@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-14T00:28:48.785Z",
     "generatedAt": "2026-11-14T00:28:48.785Z",
-    "total": 2633,
+    "total": 2634,
     "newThisScan": 770,
     "retainedFromPrevious": 1913,
     "sources": {
@@ -33,7 +33,7 @@
     },
     "primaryCounts": {
       "servicenow": 1231,
-      "salesforce": 1283
+      "salesforce": 1284
     }
   },
   "jobs": [
@@ -1154,6 +1154,23 @@
       "postedDate": "2026-11-13T00:00:00.000Z",
       "scrapedAt": "2026-11-13T15:10:50.339Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-platform-specialist-at-maarut-inc-4482134685",
+      "source": "linkedin",
+      "company": "Maarut Inc",
+      "title": "Salesforce Platform Specialist",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-platform-specialist-at-maarut-inc-4482134685",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-13",
+      "scrapedAt": "2026-11-14T01:00:00.000Z",
+      "excerpt": "Salesforce Platform Specialist — Toronto, ON. Surfaced via LinkedIn past-24h guest search (f_TPR=r86400); staffing/agency posting. LinkedIn guest detail is auth-walled; date inferred from the past-24h search window.",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
