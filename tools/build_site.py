@@ -34,6 +34,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 
 from jobs_consolidate import README, classify, extract_rows, is_listing_url  # noqa: E402
+from job_source_truth import domain_is_gated, xref_search_links  # noqa: E402
 
 PUBLIC = ROOT / "public"
 APPLIED = ROOT / "APPLIED.md"
@@ -256,7 +257,11 @@ def source_of(url: str) -> str:
     for needle, label in SOURCE_RULES:
         if needle in low:
             return label
-    return urlparse(url or "").netloc.replace("www.", "") or "unknown"
+    try:
+        netloc = urlparse(url or "").netloc.replace("www.", "")
+    except ValueError:
+        netloc = ""
+    return netloc or "unknown"
 
 
 def is_aggregator(url: str) -> bool:
@@ -514,6 +519,21 @@ def rows() -> tuple[list[dict], int]:
         primary.pop("canonTitle", None)
         primary.pop("reqIds", None)
         primary.pop("canonWeak", None)
+        # ---- source-truth: flag signup-gated aggregator traps, attach cross-ref providers ----
+        primary["gated"] = domain_is_gated(primary["url"])
+        for alt in primary["alternates"]:
+            alt["gated"] = domain_is_gated(alt["url"])
+        # if the representative link is a paywall trap, prefer a clean mirror as the
+        # canonical link so the card never sends a seeker to a signup wall.
+        if primary["gated"]:
+            idx = next((i for i, a in enumerate(primary["alternates"]) if not a.get("gated")), None)
+            if idx is not None:
+                alt = primary["alternates"].pop(idx)
+                primary["url"], primary["source"] = alt["url"], alt["source"]
+                primary["verified"] = "Employer board" if not is_aggregator(alt["url"]) else "Aggregator"
+                primary["gated"] = False
+        primary["xref"] = [{"name": n, "url": u} for n, u in
+                           xref_search_links(primary["title"], primary["company"], primary["location"])]
         out.append(primary)
     out.sort(key=lambda r: (r["posted"], r["match"]), reverse=True)
     return out, dropped_applied
@@ -553,6 +573,10 @@ HTML = """<!DOCTYPE html>
   .meta b { color:var(--text); }
   .grid { display:grid; gap:10px; }
   .job { background:var(--card); border:1px solid var(--edge); border-radius:12px; padding:13px 15px; }
+  .xref { margin-top:9px; padding-top:8px; border-top:1px dashed var(--edge); font-size:12px; color:var(--muted); }
+  .xref a { margin-right:10px; color:var(--accent); text-decoration:none; }
+  .tag.bad { background:rgba(224,106,106,.16); color:var(--bad); }
+  .gated-note { margin-top:6px; font-size:12px; color:var(--warn); }
   .job h3 { margin:0 0 5px; font-size:15.5px; font-weight:600; }
   .job a { color:var(--text); text-decoration:none; }
   .job a:hover { color:var(--accent); }
@@ -706,6 +730,7 @@ function render() {
         <span class="tag ${j.posted === TODAY ? "today" : ""}">${esc(j.posted)}</span>
         <span class="tag match" title="${esc((j.matchReasons||[]).join(', '))}">fit ${j.match}</span>
         <span class="tag ${j.verified === "Employer board" ? "board" : "agg"}">${esc(j.verified)}</span>
+        ${j.gated ? '<span class="tag bad">gated link</span>' : ""}
         ${j.french ? '<span class="tag">FR</span>' : ""}
         <span>${esc(j.company || "—")}</span>
         <span>${esc(j.location || "")}</span>
@@ -714,8 +739,12 @@ function render() {
         <a class="apply" href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">Open posting &#8599;</a>
         <span>${esc((j.matchReasons || []).join(" · "))}</span>
       </div>
+      ${j.gated ? `<div class="gated-note">⚠️ Original link is a signup/paywall aggregator — use “Search across providers” to reach the real posting.</div>` : ""}
       ${(j.alternates || []).length ? `<div class="alts"><span>Also listed:</span>` +
-        j.alternates.map(a => `<a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.label || a.source)}</a>`).join("") +
+        j.alternates.map(a => `<a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.label || a.source)}${a.gated ? " ⚠️" : ""}</a>`).join("") +
+        `</div>` : ""}
+      ${(j.xref || []).length ? `<div class="xref"><span>Search across providers:</span>` +
+        j.xref.map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.name)}</a>`).join("") +
         `</div>` : ""}
     </article>`).join("");
 }

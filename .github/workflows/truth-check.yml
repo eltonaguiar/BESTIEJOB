@@ -1,0 +1,40 @@
+name: Job Source Truth Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'FRESH_JOBS.md'
+      - 'jobs.json'
+      - 'tools/job_source_truth.py'
+      - 'tools/build_site.py'
+      - 'tools/import_fresh_rows.py'
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  truth:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Scan for signup-gated / paywall job links
+        run: |
+          python3 tools/job_source_truth.py --check \
+            --out public/source-truth.json \
+            --report-md public/source-truth-report.md
+      - name: Upload truth report
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-truth-report
+          path: |
+            public/source-truth.json
+            public/source-truth-report.md
+          if-no-files-found: error

@@ -36,6 +36,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 
 from jobs_consolidate import classify, normalise_url  # noqa: E402
+from job_source_truth import domain_is_gated, xref_search_links  # noqa: E402
 
 README = ROOT / "README.md"
 APPLIED = ROOT / "APPLIED.md"
@@ -93,7 +94,7 @@ def block_rows(text: str, heading: str, stop: str) -> list[dict]:
     return out
 
 
-def load_fresh(days: int) -> list[dict]:
+def load_fresh(days: int) -> tuple[list[dict], list[dict]]:
     cutoff = (datetime.now(timezone.utc).date() - timedelta(days=days)).isoformat()
     upper = (datetime.now(timezone.utc).date() + timedelta(days=1)).isoformat()
     rows: list[dict] = []
@@ -122,7 +123,14 @@ def load_fresh(days: int) -> list[dict]:
                          "url": r["url"], "company": r.get("company", ""),
                          "location": r.get("location", "") or "",
                          "note": f"via {r.get('source', 'scan')}", "line": ""})
-    return rows
+    gated: list[dict] = []
+    clean: list[dict] = []
+    for row in rows:
+        if domain_is_gated(row["url"]):
+            gated.append(row)
+        else:
+            clean.append(row)
+    return clean, gated
 
 
 def main() -> int:
@@ -143,8 +151,11 @@ def main() -> int:
     middle = block_rows(text, "### ServiceNow jobs", "### Other jobs")
     print(f"rows in the ServiceNow/Salesforce block: {len(middle)}")
 
-    fresh = load_fresh(args.days)
-    print(f"fresh rows in the last {args.days} days across scan output: {len(fresh)}")
+    fresh, gated_skipped = load_fresh(args.days)
+    print(f"fresh rows in the last {args.days} days across scan output: {len(fresh)}"
+          f" (skipped {len(gated_skipped)} signup-gated aggregator rows)")
+    for g in gated_skipped:
+        print(f"  skipped gated: {g['title'][:60]} — {g['url'][:90]}")
 
     # Rows already in the README always survive. A fresh row for the same canonical
     # URL does not duplicate it — it updates the posting date, because the employer
