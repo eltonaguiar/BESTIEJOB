@@ -352,3 +352,37 @@ Files touched:
 - `public/jobs-data.json` + `public/index.html` — rebuilt (5,120 jobs)
 - `inbox/` — submissions version-stamped (hermes-agent--2026-11-13--v2.md)
 
+
+
+## 19:00 EST run (00:00 UTC, 2026-11-14) — scheduled cron hour
+
+| Metric | Value |
+|---|---|
+| Sources queried | LinkedIn guest search (ServiceNow + Salesforce, Toronto, past 24h — 60 cards each), Rogers careers date-sorted crawl (Nov 12–13 rows), Bell careers (jobs.bell.ca / jobs.bce.ca), Job Bank as proxy for gojobs.gov.on.ca / jobs.gc.ca (Radware-walled), partner / Elite Partner career sites via web search (Accenture, Deloitte, KPMG, PwC, CGI, IBM, Cognizant) |
+| Fresh verified live postings NOT already on board | 0 |
+| Jobs merged to README.md | 0 |
+| Jobs rebuilt to GitHub Pages (public/) | 0 (no data change — page already current) |
+| Commit | `fix(jobs): resolve committed conflict markers in jobs.json (2636 listings) [skip ci]` |
+
+### Checked, not added (duplicate or mirror)
+
+- **Salesforce — Solution Architect - (Healthcare/Life Sciences or Financial Services), Toronto** — linkedin `4457037698` — shows "14 hours ago" on LinkedIn but is the **same job id** as the row already on README since 2026-10-23 (`via twin 20-round harvest`). LinkedIn job-id equality is a hard dedupe signal: a repost bumps the relative recency clock but is the same requisition. Excluded.
+- **TD Bank — Software Engineer III - Salesforce Data 360** — linkedin `4491008435` — live, posted 29 minutes ago, but a **mirror** of the Workday row already on the board (`td.wd3.myworkdayjobs.com ... R_1515074`, added by the 23:13Z sweep). Dedupe on company+title collapses it into the existing row. Excluded.
+- All other platform-named roles on LinkedIn page 1 — Hire In Solutions `4489582503`, Deloitte `4482812205`, PwC `4490546249`, Experis `4489818508`, Pacer Group `4488991201`, Zodiac `4488960373` — already on the board.
+- **Rogers:** 25 dated rows (Nov 12–13, 2026), zero ServiceNow/Salesforce platform mentions — clean.
+- **Bell:** zero platform requisitions (phenom site returns empty shell / "(0)" per prior runs; re-check weekly).
+- **Government of Canada:** no addable SN/SF technical postings; Job Bank full-text search is noisy (trust only title-named platform hits); gojobs.gov.on.ca and jobs.gc.ca are Radware-walled.
+
+### Lessons this run
+
+1. **Dedupe against README.md as well as jobs.json.** This run's top LinkedIn hit (Salesforce Solution Architect `4457037698`) existed **only** in the README table (added by the "twin 20-round harvest" pipeline), not in jobs.json — a jobs.json-only check would have double-listed it. Always grep both, normalizing URLs and matching on LinkedIn job id / fingerprint.
+2. **Same LinkedIn job id = same requisition even when "posted X hours ago" resets.** LinkedIn reposts refresh the recency clock; compare the trailing numeric job id / normalized URL, never the title or the relative timestamp.
+3. **Employer ATS rows beat aggregator mirrors.** TD's Data 360 role arrived via LinkedIn but was already tracked from the td.wd3 Workday feed — one row per employer requisition, source-agnostic dedupe.
+4. **Zero-merge hours are normal.** The board was refreshed by the 23:13Z sweep just before this run, so the baseline was near-complete; 0 net-new verified roles is a valid hourly outcome.
+5. **Partner / Elite Partner sweep adds nothing fresh this hour.** Accenture, Deloitte, KPMG, PwC, CGI, IBM, Cognizant Workday tenants return 422 on guessed slugs; their Canadian SN/SF postings surface via LinkedIn/aggregators and are already on the board.
+6. **jobs.json on main had been committed with unresolved conflict markers** (invalid JSON, 23 conflict regions, e.g. meta block and per-row scrapedAt/tags). Repaired by keeping the HEAD side of each region — valid JSON again, 2636 listings, no job data lost; build tooling can now parse the feed.
+
+### Files touched
+
+- `JOBLESSONS_2026-11-13.MD` — this section appended
+- `jobs.json` — conflict-marker repair only (listing count unchanged at 2636)

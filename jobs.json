@@ -15,19 +15,6 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-<<<<<<< HEAD
-    "scrapedAt": "2026-11-13T23:11:22.280Z",
-    "generatedAt": "2026-11-13T23:11:22.280Z",
-    "total": 2636,
-    "newThisScan": 783,
-    "retainedFromPrevious": 1903,
-=======
-    "scrapedAt": "2026-11-13T22:11:38.087Z",
-    "generatedAt": "2026-11-13T22:11:38.087Z",
-    "total": 2635,
-    "newThisScan": 800,
-    "retainedFromPrevious": 1885,
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
     "sources": {
       "smartrecruiters": 12,
       "workday": 16,
@@ -253,11 +240,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-13T12:16:50.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Serve as a Salesforce design and development resource using Agile software development lifecycle methodologies. Develop Salesforce solutions to meet agency needs. Integrate Salesforce with other systems used by Minnesota Housing. Create and maintain automated workflows and process builders to streamline business proces",
       "workArrangement": "unknown",
       "tags": [
@@ -516,37 +498,12 @@
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
-<<<<<<< HEAD
-        "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
-      "source": "linkedin",
-      "company": "Raas Infotek",
-      "title": "ServiceNow ITAM/ITOM Architect",
-      "location": "Canada",
-      "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-13T00:00:00.000Z",
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-=======
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
         "servicenow",
         "itam"
       ],
       "alternates": [
         {
           "source": "linkedin",
-<<<<<<< HEAD
-          "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490760400",
-=======
-          "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
           "label": "linkedin"
         }
       ]
@@ -2144,11 +2101,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-12T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -5140,11 +5092,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-11T12:21:04.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "JR100193",
       "workArrangement": "unknown",
       "tags": [
@@ -5874,11 +5821,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-11T12:19:52.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Ontario · R0014087",
       "workArrangement": "unknown",
       "tags": [
@@ -8648,11 +8590,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-11T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12050,11 +11987,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-09T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "R260030096",
       "workArrangement": "unknown",
       "tags": [
@@ -14641,11 +14573,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-08T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -14662,11 +14589,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-08T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -15577,11 +15499,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-07T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -16522,11 +16439,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-06T14:14:33.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Req JB0076847",
       "workArrangement": "unknown",
       "tags": [
@@ -16729,11 +16641,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-06T14:14:04.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Req JB0076846",
       "workArrangement": "unknown",
       "tags": [
@@ -28228,11 +28135,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -28249,11 +28151,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34248,11 +34145,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-02T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34694,11 +34586,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-01T12:05:40.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Req JB0076386",
       "workArrangement": "remote",
       "tags": [
@@ -42426,11 +42313,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-29T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -42518,11 +42400,6 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-28T21:43:28.498Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "MEET BENEVITY Benevity is the way the world does good, providing companies (and their employees) with technology to take social action on the issues they care about. Through giving, volunteering, grantmaking, employee resource groups and micro-actions, we help most of the Fortune 100 brands build better cultures and us",
       "workArrangement": "hybrid",
       "tags": [
@@ -43397,11 +43274,6 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Alimentiv is a global CRO with a singular focus: advancing therapies for patients with gastrointestinal diseases. GI is our WHY and for more than 30 years that purpose has driven our scientific rigour, operational excellence, and deep therapeutic expertise, including supporting more than 70% of IBD compounds in develop",
       "workArrangement": "unknown",
       "tags": [
@@ -43425,11 +43297,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -43463,11 +43330,6 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T00:00:00.000Z",
-<<<<<<< HEAD
-      "scrapedAt": "2026-11-13T23:11:22.280Z",
-=======
-      "scrapedAt": "2026-11-13T22:02:06.867Z",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
