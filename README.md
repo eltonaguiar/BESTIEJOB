@@ -10,7 +10,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-13](#current-jobs--as-of-2026-11-13)
   - [ServiceNow jobs (1204)](###servicenow-jobs-1199)
-  - [Salesforce jobs (1401)](###salesforce-jobs-1401)
+  - [Salesforce jobs (1404)](###salesforce-jobs-1401)
   - [Other jobs (4206)](#other-jobs-4206)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-13
 
-Window: 2026-10-13 → 2026-11-13 · **6820 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-13 → 2026-11-13 · **6823 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1210)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1207 postings</strong></summary>|---|---|---|---|---||||| 2026-11-13 | [ServiceNow Platform Specialist](https://www.adzuna.ca/details/5964818813) | Alimentiv | Canada | adzuna · servicenow | ||||| 2026-11-13 | [ServiceNow ITAM/ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038) | Raas Infotek | Canada | linkedin · servicenow, itam | ||||| 2026-11-13 | [Senior Consultant - ServiceNow HRSD](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-hrsd-at-avance-consulting-4489814875) | Avance Consulting | Ontario, Canada | linkedin · servicenow | ||||| 2026-11-12 | [ServiceNow Developer](https://snpro.jobs/jobs/servicenow-developer-6c1dc) | Dexian | Toronto, Ontario, Canada | snpro · servicenow, itam ||||| 2026-11-11 | [Senior ServiceNow Developer](https://snpro.jobs/jobs/senior-servicenow-developer-0fcb9) | Swoon | Toronto, Ontario, Canada | snpro · servicenow, itam |
 |||| 2026-11-13 | [ServiceNow Implementation Architect](https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-nityo-infotech-4490726894) | Nityo Infotech | Toronto, Ontario, Canada | linkedin · servicenow |
@@ -1226,7 +1226,11 @@ Window: 2026-10-13 → 2026-11-13 · **6820 live postings** · deduplicated by U
 | 2026-10-13 | [ServiceNow Business Analyst in Toronto ($55/hr)](https://www.freelanceradar.co/ca/job/89a2fee2-cf49-4e19-a433-ab7a503b6428) | Freelance Radar | Toronto | freelanceradar · servicenow, analyst, contract |
 </details>
 
-### Salesforce jobs (1411)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1414 postings</strong></summary>||| 2026-11-13 | [Salesforce Platform Specialist](https://ca.linkedin.com/jobs/view/salesforce-platform-specialist-at-maarut-inc-4482134685) | Maarut Inc | Toronto, Ontario, Canada | linkedin · salesforce |||| 2026-11-13 | [Salesforce Business Analyst, Associate](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490540600) | PwC Canada | Calgary, Alberta, Canada | linkedin · salesforce |||| 2026-11-11 | [Q2C Senior Business Analyst](https://ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808) | Salesforce | Toronto, Ontario, Canada | linkedin · salesforce |
+### Salesforce jobs (1414)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1417 postings</strong></summary>||| 2026-11-13 | [Salesforce Platform Specialist](https://ca.linkedin.com/jobs/view/salesforce-platform-specialist-at-maarut-inc-4482134685) | Maarut Inc | Toronto, Ontario, Canada | linkedin · salesforce ||||
+||| 2026-11-13 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5964819497) | S.I. Systems Ltd. | Toronto, Ontario | adzuna · salesforce ||||
+||| 2026-11-13 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5964818831) | Tekgence Inc | Toronto, Ontario | adzuna · salesforce ||||
+||| 2026-11-13 | [Salesforce Vlocity Developer](https://ca.linkedin.com/jobs/view/salesforce-vlocity-developer-at-pacer-group-4479434150) | Pacer Group | Toronto, Ontario, Canada | linkedin · salesforce ||||
+||| 2026-11-13 | [Salesforce Business Analyst, Associate](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490540600) | PwC Canada | Calgary, Alberta, Canada | linkedin · salesforce |||| 2026-11-13 | [Salesforce Business Analyst, Associate](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4490540600) | PwC Canada | Calgary, Alberta, Canada | linkedin · salesforce |||| 2026-11-11 | [Q2C Senior Business Analyst](https://ca.linkedin.com/jobs/view/q2c-senior-business-analyst-at-salesforce-4490007808) | Salesforce | Toronto, Ontario, Canada | linkedin · salesforce |
 || 2026-11-12 | [Salesforce Revenue Cloud Developer](https://www.adzuna.ca/details/5963511070) | Apptoza Inc. | Toronto, Ontario | adzuna · salesforce |
 || 2026-11-12 | [Salesforce Senior FSC Developer/Technical Lead](https://www.adzuna.ca/details/5963511071) | Apptoza Inc. | Toronto, Ontario | adzuna · salesforce |
 || 2026-11-12 | [Salesforce Developer](https://www.adzuna.ca/details/5963223318) | OSI Digital | Toronto, Ontario | adzuna · salesforce |

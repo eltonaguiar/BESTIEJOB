@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-14T00:28:48.785Z",
     "generatedAt": "2026-11-14T00:28:48.785Z",
-    "total": 2634,
+    "total": 2635,
     "newThisScan": 770,
     "retainedFromPrevious": 1913,
     "sources": {
@@ -33,7 +33,7 @@
     },
     "primaryCounts": {
       "servicenow": 1231,
-      "salesforce": 1284
+      "salesforce": 1285
     }
   },
   "jobs": [
@@ -49457,6 +49457,23 @@
       "scrapedAt": "2026-11-14T00:28:48.785Z",
       "excerpt": "",
       "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-vlocity-developer-at-pacer-group-4479434150",
+      "source": "linkedin",
+      "company": "Pacer Group",
+      "title": "Salesforce Vlocity Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-vlocity-developer-at-pacer-group-4479434150",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-13T00:00:00.000Z",
+      "scrapedAt": "2026-11-13T21:00:00.000Z",
+      "excerpt": "Contract Salesforce Vlocity Developer (Telecom domain), Pacer Group, Toronto ON · 2-3 days onsite · Base pay CA$50-55/hr · Application deadline Nov 30, 2026 · Skills: Vlocity/Communications Cloud, Apex, LWC, SOQL, OmniStudio (FlexCards, DataRaptors, Integration Procedures), REST/SOAP APIs, Git/CI/CD, Agile/Scrum.",
+      "workArrangement": "hybrid",
       "tags": [
         "salesforce"
       ]
