@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-14T21:43:35+00:00",
+ "generatedAt": "2026-11-14T22:11:47+00:00",
  "timezone": "America/Toronto",
- "count": 5160,
+ "count": 5161,
  "appliedHidden": 44,
  "sources": [
   "103.careerplug.com",
@@ -341,6 +341,49 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "ServiceNow Technical Lead – ITSM, ITOM, CMDB & SecOps",
+   "company": "Astra North Infoteck Inc.",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5965661670",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "CMDB",
+    "ITOM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow technical lead – itsm, itom, cmdb & secops astra north infoteck inc. greater vancouver, british columbia adzuna servicenow adzuna servicenow itsm cmdb itom role fit",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra%20North%20Infoteck%20Inc.+Vancouver+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra%20North%20Infoteck%20Inc.&location=Vancouver"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra%20North%20Infoteck%20Inc.&l=Vancouver"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra%20North%20Infoteck%20Inc.&loc=Vancouver"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-14",
@@ -194751,47 +194794,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Developer",
-   "company": "9th Way Insignia",
-   "location": "United States - Remote",
-   "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
-   "note": "greenhouse",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer 9th way insignia united states - remote greenhouse servicenow greenhouse servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Developer%209th%20Way%20Insignia+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%209th%20Way%20Insignia&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%209th%20Way%20Insignia&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%209th%20Way%20Insignia&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Senior ServiceNow Developer",
    "company": "Resolve Tech Solutions",
    "location": "US Remote - TX",
@@ -194827,6 +194829,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Developer",
+   "company": "9th Way Insignia",
+   "location": "United States - Remote",
+   "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
+   "note": "greenhouse",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer 9th way insignia united states - remote greenhouse servicenow greenhouse servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%209th%20Way%20Insignia+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%209th%20Way%20Insignia&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%209th%20Way%20Insignia&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%209th%20Way%20Insignia&loc=Canada"
     }
    ],
    "toronto": false
