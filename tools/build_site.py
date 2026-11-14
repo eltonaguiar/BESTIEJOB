@@ -252,6 +252,17 @@ def city_of(location: str) -> str:
     return (location or "").split(";")[0].split(",")[0].strip()[:28]
 
 
+TORONTO_AREA = ("toronto", "gta", "mississauga", "brampton", "oakville", "markham",
+                "north york", "etobicoke", "scarborough", "vaughan", "richmond hill",
+                "woodbridge", "pickering", "ajax", "whitby", "oshawa", "hamilton",
+                "waterloo", "kitchener")
+
+
+def is_toronto(location: str) -> bool:
+    l = (location or "").lower()
+    return any(k in l for k in TORONTO_AREA)
+
+
 def source_of(url: str) -> str:
     low = (url or "").lower()
     for needle, label in SOURCE_RULES:
@@ -534,6 +545,7 @@ def rows() -> tuple[list[dict], int]:
                 primary["gated"] = False
         primary["xref"] = [{"name": n, "url": u} for n, u in
                            xref_search_links(primary["title"], primary["company"], primary["location"])]
+        primary["toronto"] = is_toronto(primary["location"])
         out.append(primary)
     out.sort(key=lambda r: (r["posted"], r["match"]), reverse=True)
     return out, dropped_applied
@@ -615,6 +627,7 @@ HTML = """<!DOCTYPE html>
       <option value="newest">Newest first</option>
       <option value="fit">Best fit first</option>
     </select>
+    <div class="chips"><button id="tor-btn" type="button" aria-pressed="false">📍 Toronto only</button></div>
   </div>
   <div class="controls"><div class="chips" id="when" role="group" aria-label="Date window"></div></div>
   <div class="meta" id="meta"></div>
@@ -659,13 +672,14 @@ const saved = (() => { try { return JSON.parse(localStorage.getItem("bestiejob")
 const state = {
   tab: (location.hash || "").replace("#", "") || saved.tab || "servicenow",
   when: Object.assign({ servicenow:"all", salesforce:"all", other:"all", match:"all" }, saved.when || {}),
-  src: saved.src || "all", sort: saved.sort || "newest", q: ""
+  src: saved.src || "all", sort: saved.sort || "newest", q: "",
+  toronto: saved.toronto === true
 };
 if (!TABS.some(t => t[0] === state.tab)) state.tab = "servicenow";
 const $ = (s) => document.querySelector(s);
 const fmt = (s) => new Date(s + "T12:00:00Z").toLocaleDateString("en-CA", { weekday:"short", month:"short", day:"numeric", year:"numeric" });
 const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-function persist() { try { localStorage.setItem("bestiejob", JSON.stringify({ tab: state.tab, when: state.when, sort: state.sort, src: state.src })); } catch (e) {} }
+function persist() { try { localStorage.setItem("bestiejob", JSON.stringify({ tab: state.tab, when: state.when, sort: state.sort, src: state.src, toronto: state.toronto })); } catch (e) {} }
 
 const srcCounts = {};
 JOBS.forEach(j => { srcCounts[j.source] = (srcCounts[j.source] || 0) + 1; });
@@ -673,6 +687,7 @@ $("#src").innerHTML = `<option value="all">All sources (${JOBS.length})</option>
   Object.keys(srcCounts).sort((a,b) => srcCounts[b] - srcCounts[a])
     .map(s => `<option value="${esc(s)}">${esc(s)} (${srcCounts[s]})</option>`).join("");
 $("#sort").value = state.sort;
+$("#tor-btn").setAttribute("aria-pressed", state.toronto);
 
 function renderTabs() {
   const counts = {};
@@ -696,6 +711,7 @@ function render() {
   let list = JOBS.filter(j => tabDef[2](j)
     && (state.when[state.tab] === "all" || j.posted >= from)
     && (state.src === "all" || j.source === state.src || (j.alternates || []).some(a => a.source === state.src))
+    && (!state.toronto || j.toronto)
     && (toks.length === 0 || toks.every(t => (j.search || "").includes(t))));
   if (state.sort === "fit") list.sort((a, b) => (b.match - a.match) || (b.posted > a.posted ? 1 : -1));
   else list.sort((a, b) => (a.posted < b.posted ? 1 : a.posted > b.posted ? -1 : b.match - a.match));
@@ -708,6 +724,7 @@ function render() {
   $("#meta").innerHTML = `<b>${list.length}</b> shown · ${whenLabel}` +
     ` · employer-board ${boardCount} · aggregator ${list.length - boardCount}` +
     (state.src !== "all" ? ` · source <b>${esc(state.src)}</b>` : "") +
+    (state.toronto ? ` · Toronto <b>only</b>` : "") +
     (toks.length ? ` · search “${esc(state.q)}”` : "");
 
   if (!list.length) {
@@ -768,6 +785,11 @@ $("#when").addEventListener("click", (e) => {
   state.when[state.tab] = b.dataset.whenKind; persist(); renderWindows(); render();
 });
 $("#src").addEventListener("change", (e) => { state.src = e.target.value; persist(); render(); });
+$("#tor-btn").addEventListener("click", (e) => {
+  state.toronto = !state.toronto;
+  e.currentTarget.setAttribute("aria-pressed", state.toronto);
+  persist(); render();
+});
 $("#sort").addEventListener("change", (e) => { state.sort = e.target.value; persist(); render(); });
 $("#q").addEventListener("input", (e) => { state.q = e.target.value; render(); });
 $("#list").addEventListener("click", (e) => {
