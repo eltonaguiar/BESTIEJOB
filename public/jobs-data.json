@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-14T09:43:04+00:00",
+ "generatedAt": "2026-11-14T10:12:11+00:00",
  "timezone": "America/Toronto",
- "count": 5142,
+ "count": 5147,
  "appliedHidden": 44,
  "sources": [
   "103.careerplug.com",
@@ -292,6 +292,28 @@
  "jobs": [
   {
    "posted": "2026-11-14",
+   "title": "ServiceNow CMDB Administrator",
+   "company": "Bank of Montreal",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5965591272",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "CMDB",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow cmdb administrator bank of montreal toronto, ontario adzuna servicenow adzuna servicenow cmdb role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-14",
    "title": "ServiceNow Architecture Consultant",
    "company": "CGI",
    "location": "Calgary, Alberta, Canada",
@@ -309,6 +331,106 @@
    ],
    "french": false,
    "search": "servicenow architecture consultant cgi calgary, alberta, canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Sr Solution Sales Executive CRM (CPQ)",
+   "company": "ServiceNow, Inc.",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5965563233",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 74,
+   "matchReasons": [
+    "ServiceNow",
+    "Salesforce"
+   ],
+   "french": false,
+   "search": "sr solution sales executive crm (cpq) servicenow, inc. greater vancouver, british columbia adzuna other adzuna servicenow salesforce",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Salesforce Developer",
+   "company": "Cognizant",
+   "location": "Remote in Canada (hiring location Toronto, ON - 199 Bay Street)",
+   "url": "https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/",
+   "note": "via hermes--2026-11-13--v3.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer cognizant remote in canada (hiring location toronto, on - 199 bay street) careers.cognizant.com salesforce via hermes--2026-11-13--v3.md salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5965563455",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cognizant-4489273359",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Solution Architect, Salesforce Voice",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5965578571",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "solution architect, salesforce voice jobgether canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/solution-architect-salesforce-voice-at-jobgether-4489523848",
+     "label": "LinkedIn · Canada"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Associate Vice President, Salesforce Engineering & Development",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5965570930",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "associate vice president, salesforce engineering & development jobgether canada adzuna salesforce adzuna salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -331,6 +453,73 @@
    "french": false,
    "search": "salesforce administrator (remote) hired canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Lead, Account Solution Engineer/Manufacturing & Automotive",
+   "company": "Salesforce",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5965594230",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "lead, account solution engineer/manufacturing & automotive salesforce montreal, quebec adzuna other adzuna salesforce role fit quebec",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Talent Advisor, AI Labs",
+   "company": "Salesforce",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5965594125",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "talent advisor, ai labs salesforce toronto, ontario adzuna other adzuna salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Cloud Architect",
+   "company": "IKO",
+   "location": "Mississauga, ON",
+   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Cloud-Architect_REQ-14062",
+   "note": "workday",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "cloud architect iko mississauga, on workday ats other workday role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5965582444",
+     "label": "Adzuna · Canada"
+    }
+   ]
   },
   {
    "posted": "2026-11-13",
@@ -1611,27 +1800,6 @@
    ],
    "french": false,
    "search": "salesforce revenue cloud technical architect lancesoft, inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-13",
-   "title": "Solution Architect, Salesforce Voice",
-   "company": "Jobgether",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/solution-architect-salesforce-voice-at-jobgether-4489523848",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "solution architect, salesforce voice jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -3167,33 +3335,6 @@
   },
   {
    "posted": "2026-11-12",
-   "title": "Salesforce Developer",
-   "company": "Cognizant",
-   "location": "Remote in Canada (hiring location Toronto, ON - 199 Bay Street)",
-   "url": "https://careers.cognizant.com/us-en/jobs/00071305431/salesforce-developer/",
-   "note": "via hermes--2026-11-13--v3.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer cognizant remote in canada (hiring location toronto, on - 199 bay street) careers.cognizant.com salesforce via hermes--2026-11-13--v3.md salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cognizant-4489273359",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-12",
    "title": "Sr. Cloud Consultant- Salesforce",
    "company": "Mphasis",
    "location": "Toronto, Ontario, Canada",
@@ -4048,26 +4189,6 @@
    ],
    "french": false,
    "search": "junior fullstack engineer quo toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "Cloud Architect",
-   "company": "IKO",
-   "location": "Mississauga, ON",
-   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Cloud-Architect_REQ-14062",
-   "note": "workday",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "cloud architect iko mississauga, on workday ats other workday role fit toronto area",
    "alternates": []
   },
   {
@@ -54921,26 +55042,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "DevOps Engineer / Azure GitHub Enterprise",
-   "company": "Insight Global",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5951979981",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "devops engineer / azure github enterprise insight global toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
    "title": "Application Developer in Markham, Ontario",
    "company": "Adastra",
    "location": "Markham, Ontario",
@@ -58368,6 +58469,25 @@
    ],
    "french": false,
    "search": "gestionnaire du centre de distribution cozey mont-royal, quebec, canada linkedin other via inbox_opencode-job-hunt--2026-11-10--v5.md canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-03",
+   "title": "DevOps Engineer \\/ Azure GitHub Enterprise",
+   "company": "Azure GitHub Enterprise](https://www.adzuna.ca/details/5951979981)",
+   "location": "Insight Global",
+   "url": "https://www.adzuna.ca/details/5951979981",
+   "note": "Toronto, Ontario adzuna · devops",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "devops engineer \\/ azure github enterprise azure github enterprise](https://www.adzuna.ca/details/5951979981) insight global adzuna other toronto, ontario adzuna · devops role fit",
    "alternates": []
   },
   {
