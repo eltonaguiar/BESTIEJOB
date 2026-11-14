@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-14T05:12:40+00:00",
+ "generatedAt": "2026-11-14T06:18:58+00:00",
  "timezone": "America/Toronto",
- "count": 5131,
+ "count": 5133,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -291,6 +291,27 @@
   "zoominfo.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-14",
+   "title": "ServiceNow Architecture Consultant",
+   "company": "CGI",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-architecture-consultant-at-cgi-4491050108",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow architecture consultant cgi calgary, alberta, canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": []
+  },
   {
    "posted": "2026-11-14",
    "title": "Software Engineer III - Salesforce Data 360",
@@ -1624,27 +1645,6 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "Solution Architect, Salesforce Voice",
-   "company": "Jobgether",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/solution-architect-salesforce-voice-at-jobgether-4489523848",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "solution architect, salesforce voice jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-13",
    "title": "Salesforce Revenue Cloud Technical Architect",
    "company": "LanceSoft, Inc.",
    "location": "Canada",
@@ -1662,6 +1662,27 @@
    ],
    "french": false,
    "search": "salesforce revenue cloud technical architect lancesoft, inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Solution Architect, Salesforce Voice",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solution-architect-salesforce-voice-at-jobgether-4489523848",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "solution architect, salesforce voice jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
    "alternates": []
   },
   {
@@ -3284,6 +3305,28 @@
    ],
    "french": false,
    "search": "salesforce administrator (hybrid, north york) quarry consulting north york, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "SYSTEMS INTEGRATION SPECIALIST (AMANDA Developer/Administrator)",
+   "company": "City of Toronto",
+   "location": "Toronto, ON M5V 3C6",
+   "url": "https://jobs.toronto.ca/jobsatcity/job/Toronto-SYSTEMS-INTEGRATION-SPECIALIST-%28AMANDA-DeveloperAdministrator%29-ON-M5V-3C6/607899017/",
+   "note": "readme · salesforce · city-government",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobs.toronto.ca",
+   "verified": "Employer board",
+   "match": 58,
+   "matchReasons": [
+    "Integration",
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "systems integration specialist (amanda developer/administrator) city of toronto toronto, on m5v 3c6 jobs.toronto.ca other readme · salesforce · city-government integration salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -15847,7 +15890,7 @@
    "company": "Government of Newfoundland and Labrador",
    "location": "St John’s, Newfoundland and Labrador, Canada",
    "url": "https://ca.linkedin.com/jobs/view/senior-systems-analyst-power-platform-developer-at-government-of-newfoundland-and-labrador-4487907238",
-   "note": "readme",
+   "note": "readme · other",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -15858,7 +15901,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "senior systems analyst (power platform developer) government of newfoundland and labrador st john’s, newfoundland and labrador, canada linkedin other readme role fit canada / remote",
+   "search": "senior systems analyst (power platform developer) government of newfoundland and labrador st john’s, newfoundland and labrador, canada linkedin other readme · other role fit canada / remote",
    "alternates": []
   },
   {
@@ -16920,7 +16963,7 @@
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/solution-architect-%E2%80%93-servicenow-itsm-itom-cmdb-secops-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4486789948",
+     "url": "https://ca.linkedin.com/jobs/view/solution-architect-%E2%80%93-servicenow-itsm-itom-cmdb-secops-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4489829101",
      "label": "LinkedIn · Vancouver"
     }
    ]
