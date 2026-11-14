@@ -9,8 +9,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-14](#current-jobs--as-of-2026-11-13)
-  - [ServiceNow jobs (1238)](###servicenow-jobs-1238)
-  - [Salesforce jobs (1293)](###salesforce-jobs-1293)
+  - [ServiceNow jobs (1240)](###servicenow-jobs-1240)
+  - [Salesforce jobs (1449)](###salesforce-jobs-1449)
   - [Other jobs (4206)](#other-jobs-4206)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,13 +18,20 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-14
 
-Window: 2026-10-15 → 2026-11-14 · **2700 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-15 → 2026-11-14 · **2713 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1233)
+### ServiceNow jobs (1240)
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1233 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
+<details><summary><strong>Show 1240 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+|| 2026-11-13 | [Global ServiceNow Alliance Performance and Operations Lead, Deloitte Global Ecosystem and Alliances](https://www.adzuna.ca/details/5965094611) | Deloitte | Toronto, Ontario | adzuna · servicenow |
+|| 2026-11-13 | [Senior Staff Software Engineer](https://www.adzuna.ca/details/5964819864) | ServiceNow | Canada | adzuna · servicenow |
+|| 2026-11-13 | [ServiceNow Manager](https://www.adzuna.ca/details/5964819695) | 10 Ledcor Industries Inc. | Greater Vancouver, British Columbia | adzuna · servicenow |
+|| 2026-11-13 | [QA Lead - ServiceNow](https://www.adzuna.ca/details/5964819153) | MatchBox Consulting Group | New Westminster, Greater Vancouver | adzuna · servicenow |
+|| 2026-11-13 | [Senior ServiceNow ITAM ITOM Architect - Remote / Telecommute](https://www.adzuna.ca/details/5964633614) | CYNET SYSTEMS | Canada | adzuna · servicenow, itam |
+|| 2026-11-13 | [Senior ServiceNow Solution Architect - Remote / Telecommute](https://www.adzuna.ca/details/5964629686) | CYNET SYSTEMS | Canada | adzuna · servicenow |
+|| 2026-11-13 | [Senior ServiceNow Platform Architect - Remote / Telecommute](https://www.adzuna.ca/details/5964546298) | CYNET SYSTEMS | Canada | adzuna · servicenow |
 | 2026-11-13 | [ServiceNow Consultant](https://ca.linkedin.com/jobs/view/servicenow-consultant-at-ktek-resourcing-4490754390) | KTek Resourcing | Canada | via linkedin-guest--2026-11-14--v1.md |
 | 2026-11-13 | [ITSM Business Analyst](https://ca.linkedin.com/jobs/view/itsm-business-analyst-at-systematix-4489818449) | Systematix | Canada | via fresh-ca--2026-11-14--v3.md |
 | 2026-11-13 | [ServiceNow Platform Specialist](https://jobicy.com/jobs/160724-servicenow-platform-specialist) | Alimentiv | Canada | jobicy · servicenow |
@@ -1261,14 +1268,19 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1443)
+### Salesforce jobs (1449)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1443 postings</strong></summary>
+<details><summary><strong>Show 1449 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-14 | [Développeur Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-croix-bleue-du-qu%C3%A9bec-4481967008) | Croix Bleue du Québec | Montreal, Quebec, Canada | linkedin · salesforce |
+|| 2026-11-13 | [Salesforce Administrator (Remote)](https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4489853550) | Hired | Canada | linkedin · salesforce |
+|| 2026-11-13 | [Salesforce Developer](https://www.adzuna.ca/details/5964820291) | Altis | Toronto, Ontario | adzuna · salesforce |
+|| 2026-11-13 | [Principal Applied AI Architect](https://www.adzuna.ca/details/5964820170) | Salesforce Partner Canada | Montréal, Québec | adzuna · salesforce |
+|| 2026-11-13 | [Lead Salesforce Solution Architect, Specialty Health](https://www.adzuna.ca/details/5964819910) | McKesson Corporation | Mississauga, Peel region | adzuna · salesforce |
+|| 2026-11-13 | [Salesforce Marketing Cloud Developer](https://www.adzuna.ca/details/5964819838) | MCD McKesson Canada Corporation / La Corporation McKesson Canada | Canada | adzuna · salesforce |
 | 2026-11-13 | [Technical Architect Director - PubSec - Mulesoft Canada](https://ca.linkedin.com/jobs/view/technical-architect-director-pubsec-mulesoft-canada-at-salesforce-4473927817) | Salesforce | Greater Montreal Metropolitan Area | via bestiejobs-v4--2026-11-14--v1.md |
 | 2026-11-13 | [Salesforce Technical Architect](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-experis-canada-4489818508) | Experis Canada | Greater Toronto Area, Canada | via linkedin-guest--2026-11-14--v1.md |
 | 2026-11-13 | [Salesforce FSC Developer](https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-pacer-group-4488991201) | Pacer Group | Toronto, Ontario, Canada | via linkedin-guest--2026-11-14--v1.md |
@@ -2247,6 +2259,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-01 | [Salesforce Engineer](https://ca.linkedin.com/jobs/view/salesforce-engineer-at-thomson-reuters-4422875926) | Thomson Reuters | Toronto, Ontario, Canada | linkedin · salesforce |
 | 2026-11-01 | [Directeur(trice), Salesforce fonctionnel](https://ca.linkedin.com/jobs/view/directeur-trice-salesforce-fonctionnel-at-kpmg-canada-4434096618) | KPMG Canada | Montreal, Quebec, Canada | linkedin · salesforce |
 | 2026-11-01 | [QM – Salesforce Tester](https://ca.linkedin.com/jobs/view/qm-%E2%80%93-salesforce-tester-at-tata-consultancy-services-4485403209) | Tata Consultancy Services | Toronto, Ontario, Canada | linkedin · salesforce |
+|| 2026-11-01 | [Senior Salesforce Administrator](https://www.adzuna.ca/details/5949576662?utm_medium=api&utm_source=54ce986e) | Benevity | Canada | adzuna · salesforce |
 | 2026-10-31 | [Salesforce Administrator / Natural Health / Hybrid in Toronto / $60-75k  Benefits](https://www.adzuna.ca/details/5948025592?utm_medium=api&utm_source=54ce986e) | White Bay | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v24.md |
 | 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5948021504?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v24.md |
 | 2026-10-31 | [Salesforce Developer](https://www.adzuna.ca/details/5947991002?utm_medium=api&utm_source=54ce986e) | Epsilon Solutions LTD | Toronto, Ontario | via adzuna-autonomous--2026-11-05--v24.md |
