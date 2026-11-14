@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-14T18:05:59+00:00",
+ "generatedAt": "2026-11-14T18:14:19+00:00",
  "timezone": "America/Toronto",
- "count": 5158,
+ "count": 5159,
  "appliedHidden": 44,
  "sources": [
   "103.careerplug.com",
@@ -552,13 +552,13 @@
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-developer-at-bdo-canada-4489934361",
-     "label": "LinkedIn · Ottawa"
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-developer-at-bdo-canada-4489939243",
+     "label": "LinkedIn · Barrie"
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-developer-at-bdo-canada-4489939243",
-     "label": "LinkedIn · Barrie"
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-developer-at-bdo-canada-4489934361",
+     "label": "LinkedIn · Ottawa"
     }
    ]
   },
@@ -631,6 +631,43 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/technical-lead-salesforce-at-bench-4489964109",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Marketing Cloud Specialist",
+   "company": "Medcan",
+   "location": "Toronto",
+   "url": "https://medcan.wd10.myworkdayjobs.com/en-US/Medcan/job/Toronto/Marketing-Cloud-Specialist_MED02574",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "marketing cloud specialist medcan toronto workday ats salesforce readme salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "BuiltIn",
+     "url": "https://builtin.com/job/marketing-cloud-specialist/11922900",
+     "label": "BuiltIn · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5945494725?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/marketing-cloud-specialist-at-medcan-4484263719",
      "label": "LinkedIn · Toronto"
     }
    ]
@@ -855,6 +892,80 @@
   },
   {
    "posted": "2026-11-14",
+   "title": "Staff Security Engineer / Security Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "staff security engineer / security engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5966144251",
+     "label": "Adzuna · Canada"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Senior Staff Security Engineer / Systems Engineering",
+   "company": "ServiceNow",
+   "location": "Toronto, Ontario, ca · Remote",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294989",
+   "note": "smartrecruiters",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "careers.servicenow.com",
+     "url": "https://careers.servicenow.com/jobs/744000160294989/senior-staff-security-engineer-systems-engineering/",
+     "label": "careers.servicenow.com · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5966143863",
+     "label": "Adzuna · Canada"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5957952513",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-staff-security-engineer-systems-engineering-at-servicenow-4488427761",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-14",
    "title": "Senior Solution Architect - Agentforce/ Salesforce",
    "company": "Lululemon Athletica Inc.",
    "location": "Greater Vancouver, British Columbia",
@@ -964,6 +1075,26 @@
    ],
    "french": false,
    "search": "talent advisor, ai labs salesforce toronto, ontario adzuna other adzuna salesforce toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Principal Applied AI Architect",
+   "company": "Momentum",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5966143636",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "principal applied ai architect momentum toronto, ontario adzuna other adzuna role fit toronto area",
    "alternates": []
   },
   {
@@ -1138,45 +1269,6 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "ServiceNow Software Asset Management Developer",
-   "company": "Cognizant",
-   "location": "Toronto, ON - Hybrid (199 Bay Street)",
-   "url": "https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/",
-   "note": "via hermes--2026-11-13--v3.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "SAM/HAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow software asset management developer cognizant toronto, on - hybrid (199 bay street) careers.cognizant.com servicenow via hermes--2026-11-13--v3.md servicenow itam sam/ham role fit toronto area",
-   "alternates": [
-    {
-     "source": "careers.cognizant.com",
-     "url": "https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/",
-     "label": "careers.cognizant.com · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5964305339",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-developer-at-cognizant-4489032943",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-13",
    "title": "ServiceNow ITAM/ITOM Architect",
    "company": "Raas Infotek",
    "location": "Canada",
@@ -1267,6 +1359,45 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "ServiceNow Software Asset Management Developer",
+   "company": "Cognizant",
+   "location": "Toronto, ON - Hybrid (199 Bay Street)",
+   "url": "https://careers.cognizant.com/us-en/jobs/00070949051/servicenow-software-asset-management-developer/",
+   "note": "via hermes--2026-11-13--v3.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow software asset management developer cognizant toronto, on - hybrid (199 bay street) careers.cognizant.com servicenow via hermes--2026-11-13--v3.md servicenow itam sam/ham role fit toronto area",
+   "alternates": [
+    {
+     "source": "careers.cognizant.com",
+     "url": "https://careers.cognizant.com/uki-en/jobs/00070949051/servicenow-software-asset-management-developer/",
+     "label": "careers.cognizant.com · Toronto"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5964305339",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-software-asset-management-developer-at-cognizant-4489032943",
      "label": "LinkedIn · Toronto"
     }
    ]
@@ -4090,7 +4221,7 @@
    "company": "OSI Digital",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-osi-digital-4490077712",
-   "note": "linkedin",
+   "note": "linkedin · salesforce",
    "family": "salesforce",
    "familyLabel": "Salesforce",
    "source": "LinkedIn",
@@ -4102,7 +4233,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "salesforce developer osi digital vancouver, british columbia, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "search": "salesforce developer osi digital vancouver, british columbia, canada linkedin salesforce linkedin · salesforce salesforce role fit canada / remote",
    "alternates": [
     {
      "source": "Adzuna",
@@ -7696,12 +7827,12 @@
    "posted": "2026-11-11",
    "title": "Salesforce Platform Developer",
    "company": "Altus Group",
-   "location": "Toronto, ON, Canada",
-   "url": "https://www.simplyhired.ca/job/MALyTKklaujfyIdBtjSqR0SpupZ_dd4mpU98wASOHT6xok0SilC1Rg",
-   "note": "via hermes-agent--2026-11-09--v10.md",
+   "location": "Toronto, Ontario",
+   "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
+   "note": "workday",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "simplyhired.ca",
+   "source": "Workday ATS",
    "verified": "Employer board",
    "match": 60,
    "matchReasons": [
@@ -7710,17 +7841,17 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce platform developer altus group toronto, on, canada simplyhired.ca salesforce via hermes-agent--2026-11-09--v10.md salesforce role fit toronto area",
+   "search": "salesforce platform developer altus group toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "simplyhired.ca",
+     "url": "https://www.simplyhired.ca/job/MALyTKklaujfyIdBtjSqR0SpupZ_dd4mpU98wASOHT6xok0SilC1Rg",
+     "label": "simplyhired.ca · Toronto"
+    },
     {
      "source": "jobs.lererhippeau.com",
      "url": "https://jobs.lererhippeau.com/companies/reonomy/jobs/98617401-salesforce-platform-developer",
      "label": "jobs.lererhippeau.com · Toronto"
-    },
-    {
-     "source": "Workday ATS",
-     "url": "https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/Toronto-Ontario/Salesforce-Platform-Developer_R0014087",
-     "label": "Workday ATS · Toronto"
     },
     {
      "source": "Adzuna",
@@ -7739,7 +7870,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5949004280",
+     "url": "https://www.adzuna.ca/details/5949004280?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -8081,48 +8212,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce FSC Developer",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://careers.cognizant.com/us-en/jobs/00070907531/salesforce-fsc-developer/",
-   "note": "cognizant",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce fsc developer cognizant toronto, ontario, canada careers.cognizant.com salesforce cognizant salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5961951995",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/salesforce-fsc-developer-c777855de09cc538edad06a56d487bbb",
-     "label": "Eluta · Toronto ON"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5938973162?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-cognizant-4481164192",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Salesforce Developer",
    "company": "Insight Global",
    "location": "Toronto, Ontario",
@@ -8403,7 +8492,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950814412",
+     "url": "https://www.adzuna.ca/details/5950814412?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     },
     {
@@ -9464,7 +9553,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5958362977",
+     "url": "https://www.adzuna.ca/details/5958362977?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     },
     {
@@ -9602,6 +9691,48 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5952815343?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Concord"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "Salesforce FSC Developer",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.cognizant.com/us-en/jobs/00070907531/salesforce-fsc-developer/",
+   "note": "cognizant",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce fsc developer cognizant toronto, ontario, canada careers.cognizant.com salesforce cognizant salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961951995",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/salesforce-fsc-developer-c777855de09cc538edad06a56d487bbb",
+     "label": "Eluta · Toronto ON"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938973162?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-cognizant-4481164192",
+     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -12874,12 +13005,12 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955916244",
+     "url": "https://www.adzuna.ca/details/5953989200?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5953989200?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5953992006?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -13790,11 +13921,6 @@
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944",
-     "label": "LinkedIn · Toronto"
-    },
-    {
-     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480399043",
      "label": "LinkedIn · Brossard"
     },
@@ -13802,6 +13928,11 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480386776",
      "label": "LinkedIn · Montreal"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944?position=2&pageNum=0&refId=oDRcTHnpyro0JCmjsd0hkg%3D%3D&trackingId=ZeAJrz23N8BV8ODYGnXAQA%3D%3D",
+     "label": "LinkedIn · Toronto"
     },
     {
      "source": "LinkedIn",
@@ -14664,6 +14795,48 @@
    "french": false,
    "search": "salesforce administrator lane four toronto, on, canada lanefour.com salesforce lanefour salesforce role fit toronto area",
    "alternates": []
+  },
+  {
+   "posted": "2026-11-09",
+   "title": "Salesforce Senior Developer",
+   "company": "IKO",
+   "location": "Mississauga, ON",
+   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-12533",
+   "note": "via inbox_opencode-job-hunt-final--2026-11-09--v10.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce senior developer iko mississauga, on workday ats salesforce via inbox_opencode-job-hunt-final--2026-11-09--v10.md salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Workday ATS",
+     "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036",
+     "label": "Workday ATS · Mississauga"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726",
+     "label": "LinkedIn · Mississauga"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399",
+     "label": "LinkedIn · Mississauga"
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5945998169?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Mississauga"
+    }
+   ]
   },
   {
    "posted": "2026-11-09",
@@ -18330,7 +18503,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5958221292",
+     "url": "https://www.adzuna.ca/details/5958221292?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -18557,11 +18730,6 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955917180",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5953989159?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     },
@@ -18592,43 +18760,6 @@
    "french": false,
    "search": "staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-08",
-   "title": "Senior Staff Security Engineer / Systems Engineering",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294989",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior staff security engineer / systems engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000160294989/senior-staff-security-engineer-systems-engineering/",
-     "label": "careers.servicenow.com · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5957952513",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-staff-security-engineer-systems-engineering-at-servicenow-4488427761",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-08",
@@ -20155,7 +20286,7 @@
    "company": "Insight Global",
    "location": "Toronto, Ontario",
    "url": "https://www.adzuna.ca/details/5957382523",
-   "note": "adzuna",
+   "note": "unknown",
    "family": "salesforce",
    "familyLabel": "Salesforce",
    "source": "Adzuna",
@@ -20167,7 +20298,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce technical lead insight global toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "search": "salesforce technical lead insight global toronto, ontario adzuna salesforce unknown salesforce role fit toronto area",
    "alternates": [
     {
      "source": "jobs.ca",
@@ -20225,48 +20356,6 @@
   },
   {
    "posted": "2026-11-07",
-   "title": "Salesforce Senior Developer",
-   "company": "IKO",
-   "location": "Mississauga, ON",
-   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce senior developer iko mississauga, on workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Workday ATS",
-     "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-12533",
-     "label": "Workday ATS · Mississauga"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4477710726",
-     "label": "LinkedIn · Mississauga"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-iko-north-america-4411506399",
-     "label": "LinkedIn · Mississauga"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945998169?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Mississauga"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-07",
    "title": "Staff Database Engineer",
    "company": "ServiceNow",
    "location": "Toronto, ON",
@@ -20285,11 +20374,6 @@
    "french": false,
    "search": "staff database engineer servicenow toronto, on careers.servicenow.com servicenow servicenow-careers servicenow role fit toronto area",
    "alternates": [
-    {
-     "source": "SmartRecruiters",
-     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000154789179",
-     "label": "SmartRecruiters · Toronto"
-    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/staff-database-engineer-at-servicenow-4449680948",
@@ -23135,7 +23219,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5951978948",
+     "url": "https://www.adzuna.ca/details/5951978948?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -23285,33 +23369,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300",
      "label": "LinkedIn · Montreal"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Staff Security Engineer / Security Engineering",
-   "company": "ServiceNow",
-   "location": "Toronto, Ontario, ca · Remote",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160294642",
-   "note": "smartrecruiters",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "staff security engineer / security engineering servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-security-engineer-security-engineering-at-servicenow-4488427755",
-     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -34567,7 +34624,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5953557971",
+     "url": "https://www.adzuna.ca/details/5953557971?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     }
    ]
@@ -51524,7 +51581,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5949576383",
+     "url": "https://www.adzuna.ca/details/5949576383?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     },
     {
@@ -53935,43 +53992,6 @@
    "french": false,
    "search": "salesforce marketing cloud specialist - senior pwc canada toronto, on jobs.ca salesforce pwc salesforce role fit toronto area",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Marketing Cloud Specialist",
-   "company": "Medcan",
-   "location": "Toronto",
-   "url": "https://medcan.wd10.myworkdayjobs.com/en-US/Medcan/job/Toronto/Marketing-Cloud-Specialist_MED02574",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "marketing cloud specialist medcan toronto workday ats salesforce readme salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "BuiltIn",
-     "url": "https://builtin.com/job/marketing-cloud-specialist/11922900",
-     "label": "BuiltIn · Toronto"
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945494725?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/marketing-cloud-specialist-at-medcan-4484263719",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-03",
@@ -59942,27 +59962,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Salesforce Technical Architect with Revenue Cloud (RCA)",
-   "company": "LTM",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-with-revenue-cloud-rca-at-ltm-4484622096",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce technical architect with revenue cloud (rca) ltm toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
    "title": "Principal Salesforce Software Developer",
    "company": "Moneris Solutions",
    "location": "Toronto, ON",
@@ -59980,6 +59979,27 @@
    ],
    "french": false,
    "search": "principal salesforce software developer moneris solutions toronto, on jobs.ca salesforce jobs.ca salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-02",
+   "title": "Salesforce Technical Architect with Revenue Cloud (RCA)",
+   "company": "LTM",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-with-revenue-cloud-rca-at-ltm-4484622096",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect with revenue cloud (rca) ltm toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": []
   },
   {
@@ -87236,7 +87256,7 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948021504",
+     "url": "https://www.adzuna.ca/details/5948021504?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto"
     },
     {
