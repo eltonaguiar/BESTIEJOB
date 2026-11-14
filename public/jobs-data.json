@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-14T08:33:20+00:00",
+ "generatedAt": "2026-11-14T08:36:21+00:00",
  "timezone": "America/Toronto",
- "count": 5137,
+ "count": 5139,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -124,7 +124,6 @@
   "emploive.com",
   "employment-mackenziehealth.icims.com",
   "epam.com",
-  "example.com",
   "exphire-kpmgca.icims.com",
   "fairygodboss.com",
   "flexgen.zya.me",
@@ -2299,6 +2298,28 @@
      "label": "BuiltIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Senior ServiceNow Discovery & Service Mapping Engineer",
+   "company": "RBC",
+   "location": "Toronto, ON",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-ServiceNow-Discovery---Service-Mapping-Engineer_R-0000167419-2",
+   "note": "via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow discovery & service mapping engineer rbc toronto, on workday ats servicenow via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md servicenow itom role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-12",
@@ -5196,6 +5217,27 @@
    ],
    "french": false,
    "search": "servicenow developer spectraforce toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-11",
+   "title": "ServiceNow CSM/FSO Developer",
+   "company": "Alldus International Consulting",
+   "location": "Toronto, ON / Remote, Canada",
+   "url": "https://alldus.com/job/58804-csm-fso-developer-toronto-ontario/",
+   "note": "via kilo-bestiejobs--2026-11-14--v2.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "alldus.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow csm/fso developer alldus international consulting toronto, on / remote, canada alldus.com servicenow via kilo-bestiejobs--2026-11-14--v2.md servicenow role fit toronto area",
    "alternates": []
   },
   {
@@ -20129,11 +20171,6 @@
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-canadian-cancer-society-4487360736",
-     "label": "LinkedIn · Montreal"
-    },
-    {
-     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/data-engineer-at-canadian-cancer-society-4487372458",
      "label": "LinkedIn · Toronto"
     }
@@ -21299,9 +21336,9 @@
    "posted": "2026-11-07",
    "title": "Technicien(ne) en structure du bâtiment",
    "company": "WSP in Canada",
-   "location": "Brossard, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/technicien-ne-en-structure-du-b%C3%A2timent-at-wsp-in-canada-4479623668",
-   "note": "readme · other",
+   "location": "Chicoutimi, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technicien-ne-en-structure-du-b%C3%A2timent-at-wsp-in-canada-4477728637",
+   "note": "via inbox_opencode-job-hunt--2026-11-09--v29.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -21311,8 +21348,14 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "technicien(ne) en structure du batiment wsp in canada brossard, quebec, canada linkedin other readme · other canada / remote",
-   "alternates": []
+   "search": "technicien(ne) en structure du batiment wsp in canada chicoutimi, quebec, canada linkedin other via inbox_opencode-job-hunt--2026-11-09--v29.md canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/technicien-ne-en-structure-du-b%C3%A2timent-at-wsp-in-canada-4479623668",
+     "label": "LinkedIn · Brossard"
+    }
+   ]
   },
   {
    "posted": "2026-11-07",
@@ -21432,9 +21475,9 @@
    "posted": "2026-11-07",
    "title": "Field Service Solution Architect",
    "company": "Slalom",
-   "location": "Detroit, MI",
-   "url": "https://www.linkedin.com/jobs/view/field-service-solution-architect-at-slalom-4476823223",
-   "note": "readme · other",
+   "location": "New York, NY",
+   "url": "https://www.linkedin.com/jobs/view/field-service-solution-architect-at-slalom-4476820414",
+   "note": "via buffy--2026-11-08--v25.md",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -21444,8 +21487,19 @@
     "Role fit"
    ],
    "french": false,
-   "search": "field service solution architect slalom detroit, mi linkedin other readme · other role fit",
-   "alternates": []
+   "search": "field service solution architect slalom new york, ny linkedin other via buffy--2026-11-08--v25.md role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/field-service-solution-architect-at-slalom-4476823223",
+     "label": "LinkedIn · Detroit"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/field-service-solution-architect-at-slalom-4476819485",
+     "label": "LinkedIn · Seattle"
+    }
+   ]
   },
   {
    "posted": "2026-11-07",
@@ -58717,27 +58771,6 @@
   {
    "posted": "2026-11-02",
    "title": "ServiceNow Developer",
-   "company": "Acme Corp",
-   "location": "Toronto, ON",
-   "url": "https://example.com/job/1",
-   "note": "https://example.com/job/1",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "example.com",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer acme corp toronto, on example.com servicenow https://example.com/job/1 servicenow role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "ServiceNow Developer",
    "company": "GDIT",
    "location": "Any Location / Remote",
    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ228138-1",
@@ -87051,6 +87084,26 @@
      "label": "LinkedIn · Greater Toronto Area"
     }
    ]
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Salesforce Consultant, GoC focus",
+   "company": "Deloitte",
+   "location": "Ottawa, ON",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-goc-focus-at-deloitte-4460503246",
+   "note": "via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce consultant, goc focus deloitte ottawa, on linkedin salesforce via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md salesforce role fit",
+   "alternates": []
   },
   {
    "posted": "2026-10-31",
