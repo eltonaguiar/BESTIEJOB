@@ -1,11 +1,7 @@
 {
-<<<<<<< HEAD
- "generatedAt": "2026-11-13T23:13:08+00:00",
-=======
- "generatedAt": "2026-11-13T23:17:08+00:00",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
+ "generatedAt": "2026-11-14T00:30:38+00:00",
  "timezone": "America/Toronto",
- "count": 5121,
+ "count": 5122,
  "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
@@ -296,6 +292,27 @@
  ],
  "jobs": [
   {
+   "posted": "2026-11-14",
+   "title": "Software Engineer III - Salesforce Data 360",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III---Salesforce-Data-360_R_1515074",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "software engineer iii - salesforce data 360 td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": []
+  },
+  {
    "posted": "2026-11-13",
    "title": "Senior ServiceNow ITAM ITOM Architect - Remote / Telecommute",
    "company": "CYNET SYSTEMS",
@@ -326,14 +343,38 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "ServiceNow CMDB Administrator",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "CMDB",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow cmdb administrator bmo toronto, on, can workday ats servicenow workday servicenow cmdb role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189",
+     "label": "LinkedIn · Toronto"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
    "title": "ServiceNow ITAM/ITOM Architect",
    "company": "Raas Infotek",
    "location": "Canada",
-<<<<<<< HEAD
    "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
-=======
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490760400",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
    "note": "linkedin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
@@ -352,14 +393,6 @@
    "alternates": [
     {
      "source": "LinkedIn",
-<<<<<<< HEAD
-=======
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490793038",
-     "label": "LinkedIn · Canada"
-    },
-    {
-     "source": "LinkedIn",
->>>>>>> cc31238 (chore(jobs): merge verified fresh Toronto SN/SF jobs (2636 listings, 2026-11-13T23:00:00Z))
      "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490395721",
      "label": "LinkedIn · Canada"
     }
@@ -479,6 +512,33 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/product-manager-servicenow-at-loblaw-companies-limited-4490061009",
      "label": "LinkedIn · Brampton"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "ServiceNow Technology Lifecycle Analyst",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow technology lifecycle analyst bmo toronto, on, can workday ats servicenow workday servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941",
+     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -808,27 +868,6 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "Software Engineer III - Salesforce Data 360",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III---Salesforce-Data-360_R_1515074",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "software engineer iii - salesforce data 360 td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-13",
    "title": "Senior Salesforce Developer to design, build, and maintain scalable Salesforce solutions using Salesforce Marketing Cloud, Apex, and Lightning Web Components - RQ02596",
    "company": "S.I. Systems Ltd.",
    "location": "Toronto, Ontario",
@@ -932,6 +971,27 @@
      "label": "LinkedIn · Toronto"
     }
    ]
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "Software Engineer III - Salesforce Data 360",
+   "company": "TD",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/software-engineer-iii-salesforce-data-360-at-td-4491008435",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "software engineer iii - salesforce data 360 td toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": []
   },
   {
    "posted": "2026-11-13",
@@ -1303,13 +1363,13 @@
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4490546249",
-     "label": "LinkedIn · Toronto"
+     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4482194058",
+     "label": "LinkedIn · Calgary"
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4482194058",
-     "label": "LinkedIn · Calgary"
+     "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-canada-4490546249",
+     "label": "LinkedIn · Toronto"
     },
     {
      "source": "LinkedIn",
@@ -1546,6 +1606,26 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "Cloud Architect",
+   "company": "IKO",
+   "location": "Mississauga, ON",
+   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Cloud-Architect_REQ-14062",
+   "note": "workday",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "cloud architect iko mississauga, on workday ats other workday role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-13",
    "title": "Senior Data Analyst, GTM Analytics - CANADA",
    "company": "Coinscapture",
    "location": "Canada",
@@ -1583,34 +1663,6 @@
    "french": false,
    "search": "principal applied ai architect aimlroles montreal, quebec adzuna other adzuna role fit quebec",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "ServiceNow CMDB Administrator",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "CMDB",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow cmdb administrator bmo toronto, on, can workday ats servicenow workday servicenow cmdb role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189",
-     "label": "LinkedIn · Toronto"
-    }
-   ]
   },
   {
    "posted": "2026-11-12",
@@ -1740,33 +1792,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5938973158",
      "label": "Adzuna · Toronto"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "ServiceNow Technology Lifecycle Analyst",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow technology lifecycle analyst bmo toronto, on, can workday ats servicenow workday servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941",
-     "label": "LinkedIn · Toronto"
     }
    ]
   },
@@ -3345,26 +3370,6 @@
    ],
    "french": false,
    "search": "site reliability engineer / release management & automation specialist fdm group toronto dominion centre, city of toronto adzuna other adzuna automation role fit toronto area",
-   "alternates": []
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "Cloud Architect",
-   "company": "IKO",
-   "location": "Mississauga, ON",
-   "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Cloud-Architect_REQ-14062",
-   "note": "workday",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "cloud architect iko mississauga, on workday ats other workday role fit toronto area",
    "alternates": []
   },
   {
@@ -8087,6 +8092,33 @@
   },
   {
    "posted": "2026-11-11",
+   "title": "Lead Salesforce Solution Architect",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+     "label": "LinkedIn · Mississauga"
+    }
+   ]
+  },
+  {
+   "posted": "2026-11-11",
    "title": "Salesforce Administrator / Application Support Specialist (Intermediate)-5816",
    "company": "Amyantek",
    "location": "Toronto, Ontario, Canada",
@@ -11174,33 +11206,6 @@
    "french": false,
    "search": "itom solution architect servicenow north america / canada smartrecruiters servicenow smartrecruiters servicenow itom role fit canada / remote",
    "alternates": []
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Lead Salesforce Solution Architect",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
-     "label": "LinkedIn · Mississauga"
-    }
-   ]
   },
   {
    "posted": "2026-11-10",
@@ -16287,6 +16292,11 @@
    "alternates": [
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487627896",
+     "label": "LinkedIn · Grande Prairie"
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4486964872",
      "label": "LinkedIn · Medicine Hat"
     },
@@ -19638,32 +19648,6 @@
   },
   {
    "posted": "2026-11-07",
-   "title": "Data Solutions Engineer",
-   "company": "Dexterra Group",
-   "location": "Mississauga, ON",
-   "url": "https://ca.linkedin.com/jobs/view/data-solutions-engineer-at-dexterra-group-4488490058",
-   "note": "readme · other",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "data solutions engineer dexterra group mississauga, on linkedin other readme · other role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/data-solutions-engineer-at-dexterra-group-4488490056",
-     "label": "LinkedIn · Calgary"
-    }
-   ]
-  },
-  {
-   "posted": "2026-11-07",
    "title": "Data Engineer",
    "company": "Canadian Cancer Society",
    "location": "Hamilton, Ontario, Canada",
@@ -20003,6 +19987,26 @@
    ],
    "french": false,
    "search": "infrastructure developer, platform engineering maintainx toronto, on linkedin other readme · other role fit toronto area",
+   "alternates": []
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Data Solutions Engineer",
+   "company": "Dexterra Group",
+   "location": "Mississauga, ON",
+   "url": "https://ca.linkedin.com/jobs/view/data-solutions-engineer-at-dexterra-group-4488490058",
+   "note": "readme · other",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data solutions engineer dexterra group mississauga, on linkedin other readme · other role fit toronto area",
    "alternates": []
   },
   {
@@ -95684,6 +95688,27 @@
   },
   {
    "posted": "2026-10-29",
+   "title": "Senior ServiceNow Developer",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - TX",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-29",
    "title": "ServiceNow Senior Technical Advisor (432829)",
    "company": "Bell",
    "location": "Toronto / Montreal",
@@ -100128,27 +100153,6 @@
      "label": "LinkedIn · Toronto"
     }
    ]
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Senior ServiceNow Developer",
-   "company": "Resolve Tech Solutions",
-   "location": "US Remote - TX",
-   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
   },
   {
    "posted": "2026-10-28",
@@ -110296,6 +110300,27 @@
   },
   {
    "posted": "2026-10-15",
+   "title": "Senior ServiceNow Engineer",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - FL",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow engineer resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": []
+  },
+  {
+   "posted": "2026-10-15",
    "title": "Functional Consultant/Senior Consultant, ServiceNow (34113) - KPMG Canada",
    "company": "Canada: Toronto, Montreal or Ottawa; hybrid",
    "location": "Full-time",
@@ -110638,27 +110663,6 @@
      "label": "Greenhouse · Washington"
     }
    ]
-  },
-  {
-   "posted": "2026-10-14",
-   "title": "Senior ServiceNow Engineer",
-   "company": "Resolve Tech Solutions",
-   "location": "US Remote - FL",
-   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow engineer resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": []
   },
   {
    "posted": "2026-10-14",
@@ -112021,28 +112025,7 @@
    ],
    "french": false,
    "search": "servicenow administrator / automation analyst harris computer toronto, on jobsca.org servicenow jobsca servicenow automation role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471642446",
-     "label": "LinkedIn · Newfoundland and Labrador"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471632752",
-     "label": "LinkedIn · Prince Edward Island"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471646313",
-     "label": "LinkedIn · Saskatchewan"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-automation-analyst-at-harris-computer-4471633698",
-     "label": "LinkedIn · Manitoba"
-    }
-   ]
+   "alternates": []
   },
   {
    "posted": "2026-10-02",
