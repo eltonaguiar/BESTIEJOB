@@ -18,8 +18,11 @@ on:
         description: 'Window in days'
         default: '30'
 
+# Serialised with every other workflow that pushes to main (hourly-scan,
+# fresh-ca-scan, linkedin-sweep): two pushers at once rebase-collide on the
+# generated jobs.json/public files and strand the loser's work.
 concurrency:
-  group: gap-channels
+  group: bestiejob-main-write
   cancel-in-progress: false
 
 jobs:
@@ -77,7 +80,12 @@ jobs:
         run: python3 scripts/check_inbox.py
 
       - name: Merge inbox into README (additive)
-        run: python3 tools/jobs_merge_inbox.py --bump-inbox
+        # --max-per-table must exceed the live per-family row count: the default
+        # 150 silently archives in-window postings into README.BAK_*.
+        run: python3 tools/jobs_merge_inbox.py --bump-inbox --max-per-table 5000
+
+      - name: Reject unparseable jobs.json before it can reach main
+        run: python3 -c "import json;json.load(open('jobs.json'));print('jobs.json parses')"
 
       - name: Rebuild the feed
         run: |

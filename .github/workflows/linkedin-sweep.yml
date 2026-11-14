@@ -13,8 +13,11 @@ on:
 permissions:
   contents: write
 
+# Serialised with every other workflow that pushes to main (hourly-scan,
+# fresh-ca-scan, gap-channels): two pushers at once rebase-collide on the
+# generated jobs.json/public files and strand the loser's work.
 concurrency:
-  group: linkedin-sweep
+  group: bestiejob-main-write
   cancel-in-progress: false
 
 jobs:
@@ -36,6 +39,9 @@ jobs:
         # Cap must exceed the live per-family row count or the scan's own render
         # archives in-window postings (see the rebase step below).
         run: python3 scripts/linkedin_guest_scan.py --days 3 --apply --max-per-table 5000
+
+      - name: Reject unparseable jobs.json before it can reach main
+        run: python3 -c "import json;json.load(open('jobs.json'));print('jobs.json parses')"
 
       - name: Commit and push
         run: |

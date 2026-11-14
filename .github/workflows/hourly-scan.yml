@@ -6,8 +6,11 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+# Serialised with every other workflow that pushes to main (fresh-ca-scan,
+# gap-channels, linkedin-sweep): two pushers at once rebase-collide on the
+# generated jobs.json/public files and strand the loser's work.
 concurrency:
-  group: hourly-scan
+  group: bestiejob-main-write
   cancel-in-progress: false
 
 jobs:
@@ -81,6 +84,9 @@ jobs:
 
       - name: Rebuild page data from README
         run: python3 tools/build_site.py
+
+      - name: Reject unparseable jobs.json before it can reach main
+        run: python3 -c "import json;json.load(open('jobs.json'));print('jobs.json parses')"
 
       - name: Commit refreshed job data
         run: |

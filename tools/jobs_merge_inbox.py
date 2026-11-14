@@ -243,15 +243,26 @@ def insert_rows(readme_text: str, rows: list[dict]) -> tuple[str, int]:
         start = next((i for i, l in enumerate(lines) if l.startswith(marker)), None)
         if start is None:
             continue
-        header = next((i for i in range(start, len(lines)) if lines[i].startswith("| Posted | Role |")), None)
-        if header is None:
+        # Bound the search to this section. The three job tables carry no
+        # "| Posted | Role |" header row (that header only exists in the
+        # submission guide at the bottom of the file), so the old file-wide
+        # header search fell through to the guide and inserted live postings
+        # into the documentation instead of the board.
+        section_end = len(lines)
+        for i in range(start + 1, len(lines)):
+            if lines[i].startswith("### ") or lines[i].startswith("## "):
+                section_end = i
+                break
+        row_lines = [
+            i for i in range(start + 1, section_end)
+            if DATED_CELL_RE.search(lines[i])
+        ]
+        if not row_lines:
             continue
-        end = header + 1
-        while end < len(lines) and lines[end].startswith("| 20"):
-            end += 1
-        pos = end
-        for i in range(header + 1, end):
-            m = re.match(r"\| (20\d\d-\d\d-\d\d) \|", lines[i])
+        first_row, last_row = row_lines[0], row_lines[-1]
+        pos = last_row + 1
+        for i in range(first_row, last_row + 1):
+            m = re.search(r"(20\d\d-\d\d-\d\d)", lines[i])
             if m and m.group(1) < row["posted"]:
                 pos = i
                 break
