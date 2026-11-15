@@ -1,0 +1,34 @@
+{
+  "generated": "2026-11-14T20:10:14.208051+00:00",
+  "window": [
+    "2026-11-14",
+    "2026-11-13"
+  ],
+  "stats": {
+    "requests": 68,
+    "misses": 0,
+    "raw": 275,
+    "unique": 33,
+    "fresh": 2
+  },
+  "rows": [
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-13",
+      "title": "ITSM Reporting Specialist",
+      "company": "Danaher",
+      "location": "London, Middlesex",
+      "url": "https://www.adzuna.ca/details/5964331993?utm_medium=api&utm_source=54ce986e"
+    },
+    {
+      "source": "adzuna",
+      "bucket": "servicenow",
+      "posted": "2026-11-13",
+      "title": "ITSM Reporting Specialist",
+      "company": "Danaher Corporation",
+      "location": "London, Middlesex",
+      "url": "https://www.adzuna.ca/details/5964305343?utm_medium=api&utm_source=54ce986e"
+    }
+  ]
+}
