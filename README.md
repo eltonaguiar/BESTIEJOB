@@ -25,6 +25,7 @@ _developer / administrator / architect / analyst roles_
 
 <details><summary><strong>Show 1247 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-15 | [Certified Technical Architect – ServiceNow](https://ca.linkedin.com/jobs/view/certified-technical-architect-%E2%80%93-servicenow-at-raas-infotek-4491207399) | Raas Infotek | Canada | via linkedin-guest — posted 2026-11-15 · ServiceNow |
 | 2026-11-14 | [ServiceNow Senior Developer](https://ca.indeed.com/viewjob?jk=c956b22cc281049c) | BDO | Toronto, ON | via indeed — discovered 2026-11-14 · BDO Toronto · $84,000–$128,000 · permanent |
 | 2026-11-14 | [ServiceNow Administrator / Developer (Intermediate)](https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgQqwj9nk2rkgPuymZV9HtwmEaiRycrFVyKGpml1Xqe9fbe86vMTEJ8qOhIMLD8DtaYKhXf9veXMKZKUmSXA_-u5rP2FAHe5-PPLlooualsP0LTCfpG1IiKZnvddhKb3fgsA5WJv7fT4DuxdOsek2MytJshKWk69DChDftE41KS37hq_5nt76sL0mxk6pBZkPbdKyfg8zetTAOjzvvMphoURMFa3r7deehHqwqrO-xlFbKjeQUFrCjoqvH-AY-7xvhIpNif_Py4SqIUv3KV_8wvvU7YKkVekdOJm-T4Xd2-MxWtOfsnzMzQKC8AOz6YAD2spGYduMzq6sFE21nxDki6xZ6KaUhrCfGB_YVJmU2MlbtaC-6gdqkYzuv8JOmwYI73uH64Aj0WYosmtw7ln5WIskD9Yjy8IvsVunyyRzkAoGyFyrfVmp1C-PwwF9cVcF6i1RqnCEFDqkril84UXaaN9IUFqECbhjjy2FIvWRbdD3WGl5fKliuuykmq7wCAjTer_PMYnllL5_nzMzBi76O0DD7AJXNdFC3kVNighNZmYs1ePv_ahqQoK__nbcePW4F2nzu5j7mBy_-guvRB30J-FRb5RjlvypszScDkdx3oJannHM_BkAinOOfGTsEycC5nklOt2w8dCuHTTd8NKhfCursSIbuvubyjJXtuF4_oOpT4POh0jJjYhf6c7vF1TBVFjur0NlIVxgFdbuRFdJLxtCk0iXdsoPrMrlp42Y_IcjQaqw9VYSy&xkcb=SoAv6_M2cWnKB7yMZZ0IbzkdCdPP&p=3&jsa=3040&camk=UoKtGZLa3XKVi4sNYO5Udw==&vjs=3) | BFG Enterprise Services | Markham, ON | via indeed — discovered 2026-11-14 · Markham GTA · $70,000–$85,000 · permanent |
 | 2026-11-14 | [Manager, ServiceNow Technical Lead](https://ca.indeed.com/viewjob?jk=8c270c710f6166a5) | KPMG | Toronto, ON | via indeed — discovered 2026-11-14 · Toronto M5H 2S5 · $101,000–$135,000 · full-time |
@@ -1280,6 +1281,7 @@ _developer / administrator / architect / analyst roles_
 
 <details><summary><strong>Show 1456 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-13 | [Marketing Cloud Next Solution Architect](https://www.adzuna.ca/details/5964819994) | NeuraFlash | Canada | via adzuna — posted 2026-11-13 · Salesforce Marketing Cloud |
 | 2026-11-14 | [Développeur Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-croix-bleue-du-qu%C3%A9bec-4481967008) | Croix Bleue du Québec | Montreal, Quebec, Canada | linkedin · salesforce |
 | 2026-11-14 | [Salesforce Technical Consultant](https://ca.indeed.com/viewjob?jk=491d358dcf0e3147) | iVedha | Toronto, ON | via indeed — discovered 2026-11-14 · Toronto M3C 3S2 · hybrid · 12-month contract · Agentforce |
 | 2026-11-14 | [Salesforce Architect](https://ca.indeed.com/viewjob?jk=f724fedd3a867dd3) | Munvo | Toronto, ON | via indeed — discovered 2026-11-14 · 355 Adelaide St W · $105,000–$120,000 · full-time · hybrid |
