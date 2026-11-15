@@ -49,3 +49,37 @@ Dedupe: URL + title\|company\|city fingerprint held against README.md and jobs.j
 Outcome: no commit, no publish — README.md, jobs.json, and public/ are unchanged. pages.yml only redeploys on a main push, so no GitHub Pages redeploy this run.
 
 Lesson re-confirmed: late-2026 Toronto SN/SF hourly supply is sparse — 0–1 fresh postings per hour is normal, not a scanner failure. Don't re-run the merge "just to have a commit".
+
+## 2026-11-15 06:00 EST run — aggregator + focused search
+
+Window: 2026-11-14 → 2026-11-15, Toronto-first ServiceNow / Salesforce.
+
+Ran canonical hourly flow:
+1. `node scripts/daily_job_scan.mjs` — aggregator (SmartRecruiters/Workday/Greenhouse/Lever/Ashby/LinkedIn/RemoteOK/Jobicy/Remotive/Adzuna).
+2. `node scripts/focused_search.mjs` — resume-relevant keywords (ITAM/CMDB/ITSM/technical consultant/etc.).
+3. `python3 tools/jobs_merge_inbox.py --today 2026-11-15 --days 30 --max-per-table 5000` — inbox → README tables.
+4. `python3 tools/build_site.py` — public/jobs-data.json + public/index.html.
+5. `git commit + push origin main`.
+
+Counts:
+- Fresh postings this scan: **715**; live board **2774** aggregator jobs (servicenow 1271 / salesforce 1334); 4121 incl. focused-search metadata.
+- Source hits: adzuna 486, linkedin 169, workday 20, greenhouse 17, smartrecruiters 12, remotive 6, ashby 2, lever 1, remoteok 1, jobicy 1.
+- Dedupe: 27 already on board dropped by URL; 0 cross-source dupes.
+- README merge: +0 new rows (inbox finds were dupes/older than 30 days); README tables hold 7452 rows.
+- Site build: 6377 jobs (servicenow 935 / salesforce 988 / other 4454), built 2026-11-15 11:06 UTC, newest posting 2026-11-15.
+
+Toronto fresh ServiceNow (2026-11-15 / 2026-11-14):
+- Interac Corp., Toronto — Senior Business Systems Analyst (ServiceNow), QE Senior Specialist (ServiceNow Platform) — linkedin, posted 2026-11-15.
+- Raas Infotek — Certified Technical Architect – ServiceNow — linkedin, posted 2026-11-15.
+- Accenture, Toronto — ServiceNow Technical Architect; Avanciers Inc., Toronto — ServiceNow Implementation Architect; S I Systems, Toronto — ServiceNow Developer (CMDB/HAM/SAM); Dexian, Toronto — servicenow developer; SPECTRAFORCE, Toronto — ServiceNow Developer; Pacer Group, Toronto — ServiceNow Implementation Architect — adzuna, 2026-11-14.
+- BDO Canada — ServiceNow Senior Developer (Ottawa/Oakville); RBC — Senior ServiceNow Discovery & Service Mapping Engineer; BMO, Toronto — ServiceNow Technology Lifecycle Analyst — adzuna, 2026-11-14.
+- ServiceNow careers (careers.servicenow.com), Toronto — Senior ServiceNow Database Engineer, Government of Canada Reliability Status, 2026-11-14.
+
+Salesforce: Rogers Communications Georgetown ON Lead Management Operations (Salesforce lead SME) was added in the 04:00 EST scan; no additional fresh Toronto Salesforce Platform Admin/Dev I this hour.
+
+Failures/notes:
+- `workday:bdo` returned HTTP 401 for servicenow + salesforce — BDO Workday tenant blocked; use BDO direct careers / LinkedIn.
+- Entry-level / Platform Admin / Platform Developer I postings remain sparse — almost nothing explicit; best proxy is ITAM/CMDB/ServiceNow Administrator at banks & consultancies (BMO, RBC, BDO, CGI, Deloitte, Infosys).
+- Future scan keyword variants: "platform administrator", "platform developer I", "junior servicenow", "entry level salesforce", "associate consultant servicenow".
+
+Commit: `68903ae chore(jobs): hourly scan 2026-11-15 06:00 EST — aggregator + focused search, +715 fresh SN/SF postings (servicenow 1271 / salesforce 1334), site rebuilt [skip ci]` — pushed to origin/main; GitHub Pages redeploys on main push.
