@@ -1299,11 +1299,12 @@ Window: 2026-10-15 → 2026-11-14 · **2728 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1485)
+### Salesforce jobs (1486)
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1485 postings</strong></summary>|---|---|---|---|---|
-|| 2026-11-14 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065) | Rogers Communications | Georgetown, Ontario, Canada | via linkedin-guest — posted 2026-11-14 · Salesforce |
+<details><summary><strong>Show 1486 postings</strong></summary>|---|---|---|---|---|
+| 2026-11-15 | [Salesforce Administrator (Remote)](https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4490216969) | Hired | Canada | via linkedin-guest — posted 2026-11-15 · Salesforce |
+||| 2026-11-14 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065) | Rogers Communications | Georgetown, Ontario, Canada | via linkedin-guest — posted 2026-11-14 · Salesforce |
 || 2026-11-14 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5966145328?utm_medium=api&utm_source=54ce986e) | TForce Freight | Québec, Canada | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Salesforce Developer (Salesforce 360)](https://www.adzuna.ca/details/5966144644?utm_medium=api&utm_source=54ce986e) | Rang Technologies Inc | Mississauga, Peel region | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5966143597?utm_medium=api&utm_source=54ce986e) | LanceSoft | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |

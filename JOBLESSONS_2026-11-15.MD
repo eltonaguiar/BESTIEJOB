@@ -83,3 +83,24 @@ Failures/notes:
 - Future scan keyword variants: "platform administrator", "platform developer I", "junior servicenow", "entry level salesforce", "associate consultant servicenow".
 
 Commit: `68903ae chore(jobs): hourly scan 2026-11-15 06:00 EST — aggregator + focused search, +715 fresh SN/SF postings (servicenow 1271 / salesforce 1334), site rebuilt [skip ci]` — pushed to origin/main; GitHub Pages redeploys on main push.
+
+## 2026-11-15 07:00 EST run — +1 fresh Salesforce job
+
+Window: 2026-11-15 → 2026-11-14, Toronto-first ServiceNow / Salesforce. Local main was behind origin/main, so local was reset onto origin/main (ecc3ef1, hourly scan refresh 12:16 UTC) before scanning.
+
+Sources checked:
+- **Adzuna API**: 68 calls (13 queries × 3 geos) + **Job Bank**: 12 pages → raw 282 → unique 27 → kept 0 (all 27 already on board by URL).
+- **Eluta.ca**: stalled (~30 s/page, 0 usable pages) — skipped this hour.
+- **LinkedIn guest pass**: **1 fresh row** — Hired, "Salesforce Administrator (Remote)", Canada, LinkedIn job id **4490216969**, posted 2026-11-15. Independently re-fetched: HTTP 200 guest-details page — posting is live. Clean of README.md (title|company|city fingerprint).
+- **Concurrent scan**: origin/main's jobs.json/feeds (ecc3ef1, scraped 12:14:56Z, source linkedin, workArrangement remote) already carried the Hired row — it was only missing from the README table.
+- **ATS discovery**: 24 Workday tenants (salesforce wd12; bmo/rbc/cibc/scotiabank/manulife/sunlife/telus/opg wd3) + SmartRecruiters ServiceNow → raw 5, kept 0 (4 non-Canada).
+
+Merge + publish:
+- Inserted the row newest-first into the README Salesforce table (2026-11-15, above the 2026-11-14 Rogers row); heading and details count 1485 → 1486.
+- `jobs_merge_inbox.py` not needed this run (no new inbox submissions; the row came through the live linkedin-guest check and was already in origin's feed).
+- `build_site.py`: page unions jobs.json + README rows with URL dedupe, so the Hired row renders once; public/ rebuilt.
+- No heading-merge side effect this run: origin/main's README kept `### <family> jobs (N)` and its subtitle on separate lines, so `sync_readme_to_jobs.mjs` parses all three sections cleanly.
+
+Outcome: +1 verified fresh job — **Hired — Salesforce Administrator (Remote), Canada** (LinkedIn 4490216969). Present in origin's jobs.json feed from the concurrent scan; this run adds it to the README table and republishes the page. README.md, public/, and this lessons file committed to main; pages.yml redeploys eltonaguiar.github.io/BESTIEJOB/ on the push.
+
+Lesson re-confirmed: late-2026 Canadian SN/SF hourly supply is extremely sparse — most hours yield 0–1 postings; the value of the run is dedupe + liveness verification, not volume. Adzuna + Job Bank + LinkedIn guest details cover the today/yesterday window; Eluta.ca is currently unusable for same-day sweeps via urllib. When peer scans run in parallel, always re-check origin/main before adding: the same posting can already be in the feed under a different source id (here `linkedin:...` vs my candidate `readme:...`).
