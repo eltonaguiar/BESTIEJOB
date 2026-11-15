@@ -222,3 +222,26 @@ New lessons:
 
 Commit: JOBLESSONS_2026-11-15.MD entry appended and committed [skip ci]; no board-data or pages change.
 
+## 2026-11-15 13:00 EST run — +1 fresh Salesforce job
+
+Window: 2026-11-14 → 2026-11-15, Toronto-first ServiceNow / Salesforce; Canada scope incl. Rogers, Bell, banks, government, partners/Elite sponsors.
+
+Board state: local main at d25617a "hourly scan refresh (2746 listings, 2026-11-15T16:12:47Z)" (servicenow 1284 / salesforce 1339); HEAD df8a0f9 (12:00 EST) was a null-result lessons-only commit.
+
+Fresh verified job added this run (1):
+| Posted | Role | Company | Location | Source | Notes |
+|--------|------|---------|----------|--------|-------|
+| 2026-11-15 | [Sales Operations Coordinator / Junior Salesforce Admin](https://ca.linkedin.com/jobs/view/revenue-operations-coordinator-at-generis-4444467031) | Generis | Toronto, Ontario, Canada | LinkedIn guest (job id 4444467031) | Full-time Entry level Salesforce Administrator role, downtown Toronto. Corroborated by LinkedIn ("Entry level role", Toronto) and RevOps Report ("8h ago", Toronto, Actively Hiring). Junior / Platform Admin emphasis matching the user's entry-level target. Dedupe clean: not in jobs.json or README.md (searched "Generis" + "4444467031" — 0 hits). Added to README Salesforce table (newest-first, above the 2026-11-15 Hired row) and to jobs.json. Count Salesforce jobs 1486 → 1487. |
+
+Sources checked this hour, all zero new except Generis above:
+- LinkedIn guest pass: ServiceNow Toronto + Salesforce Platform Admin/Developer Toronto scans → Generis Junior Salesforce Admin (Toronto, entry-level, ~8h ago) kept; everything else already on board or non-matching (senior/generic CRM, non-Toronto, closed).
+- Workday CXS (curl --compressed, one call at a time): BMO/TD/Manulife/Sunlife/Interac/Accenture/salesforce tenants — all Canada SN/SF hits already on board (recurring BMO requisitions under same job IDs; check postedOn).
+- Adzuna API / Job Bank / Eluta / Rogers / Bell / Canadian government: Eluta stalls (~30s/page); Bell JS-rendered 303; gojobs Radware-walled; jobs.gc.ca NXDOMAIN; City of Toronto 0 SN/SF cards; Rogers = sales/retail only. 0 new.
+- Partners/Elite sponsors (CGI, Deloitte, Accenture, IBM, Cognizant): covered by aggregator on main; no additional Canadian SN/SF.
+
+Dedupe: URL + title|company|city fingerprint held against README.md and jobs.json; Generis survived as new.
+
+Outcome: +1 verified fresh job — Generis — Sales Operations Coordinator / Junior Salesforce Admin (Toronto, entry-level Salesforce Admin), LinkedIn 4444467031. README.md and jobs.json committed to main [skip ci]; pages.yml redeploys eltonaguiar.github.io/BESTIEJOB/ on the push.
+
+Lesson re-confirmed: late-2026 Toronto SN/SF hourly supply is sparse (0–1 fresh postings/hour); entry-level / Platform Admin / Platform Developer I postings are the rarest slice — most fresh hits are mid/senior architect or recurring bank requisitions. When a fresh entry-level platform admin role does surface (as Generis did today), add it even if the hour is otherwise null.
+
