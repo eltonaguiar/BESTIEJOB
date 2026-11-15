@@ -8,21 +8,25 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Contents
 
-- [Current jobs — as of 2026-11-14](#current-jobs--as-of-2026-11-13)
-  - [ServiceNow jobs (1247)](###servicenow-jobs-1247)
-  - [Salesforce jobs (1456)](###salesforce-jobs-1456)
-  - [Other jobs (4206)](#other-jobs-4206)
+- [Current jobs — as of 2026-11-15](#current-jobs--as-of-2026-11-15)
+  - [ServiceNow jobs (1269)](###servicenow-jobs-1269)
+  - [Salesforce jobs (1480)](###salesforce-jobs-1480)
+  - [Other jobs (4660)](#other-jobs-4660)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-14
+## Current jobs — as of 2026-11-15
 
-Window: 2026-10-15 → 2026-11-14 · **2728 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-02 → 2026-11-15 · **7409 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1273)_developer / administrator / architect / analyst roles_
+### ServiceNow jobs (1269)_developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1273 postings</strong></summary>| 2026-11-15 | [Certified Technical Architect – ServiceNow](https://ca.linkedin.com/jobs/view/certified-technical-architect-%E2%80%93-servicenow-at-raas-infotek-4491207399) | Raas Infotek | Canada | via linkedin-guest — posted 2026-11-15 · ServiceNow |
+<details><summary><strong>Show 1269 postings</strong></summary>
+| 2026-11-14 | [ServiceNow System Administrator](https://www.adzuna.ca/details/5965987501) | Forhyre | Toronto, Ontario | via adzuna · servicenow |
+| 2026-11-14 | [ServiceNow Admin](https://www.adzuna.ca/details/5965955381) | Forhyre | Toronto, Ontario | via adzuna · servicenow |
+| 2026-11-14 | [ServiceNow CMDB Administrator](https://www.adzuna.ca/details/5965591272) | Bank of Montreal | Toronto, Ontario | via adzuna · servicenow, itam |
+| 2026-11-15 | [Certified Technical Architect – ServiceNow](https://ca.linkedin.com/jobs/view/certified-technical-architect-%E2%80%93-servicenow-at-raas-infotek-4491207399) | Raas Infotek | Canada | via linkedin-guest — posted 2026-11-15 · ServiceNow |
 | 2026-11-14 | [ServiceNow Senior Developer](https://ca.indeed.com/viewjob?jk=c956b22cc281049c) | BDO | Toronto, ON | via indeed — discovered 2026-11-14 · BDO Toronto · $84,000–$128,000 · permanent |
 | 2026-11-14 | [ServiceNow Administrator / Developer (Intermediate)](https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgQqwj9nk2rkgPuymZV9HtwmEaiRycrFVyKGpml1Xqe9fbe86vMTEJ8qOhIMLD8DtaYKhXf9veXMKZKUmSXA_-u5rP2FAHe5-PPLlooualsP0LTCfpG1IiKZnvddhKb3fgsA5WJv7fT4DuxdOsek2MytJshKWk69DChDftE41KS37hq_5nt76sL0mxk6pBZkPbdKyfg8zetTAOjzvvMphoURMFa3r7deehHqwqrO-xlFbKjeQUFrCjoqvH-AY-7xvhIpNif_Py4SqIUv3KV_8wvvU7YKkVekdOJm-T4Xd2-MxWtOfsnzMzQKC8AOz6YAD2spGYduMzq6sFE21nxDki6xZ6KaUhrCfGB_YVJmU2MlbtaC-6gdqkYzuv8JOmwYI73uH64Aj0WYosmtw7ln5WIskD9Yjy8IvsVunyyRzkAoGyFyrfVmp1C-PwwF9cVcF6i1RqnCEFDqkril84UXaaN9IUFqECbhjjy2FIvWRbdD3WGl5fKliuuykmq7wCAjTer_PMYnllL5_nzMzBi76O0DD7AJXNdFC3kVNighNZmYs1ePv_ahqQoK__nbcePW4F2nzu5j7mBy_-guvRB30J-FRb5RjlvypszScDkdx3oJannHM_BkAinOOfGTsEycC5nklOt2w8dCuHTTd8NKhfCursSIbuvubyjJXtuF4_oOpT4POh0jJjYhf6c7vF1TBVFjur0NlIVxgFdbuRFdJLxtCk0iXdsoPrMrlp42Y_IcjQaqw9VYSy&xkcb=SoAv6_M2cWnKB7yMZZ0IbzkdCdPP&p=3&jsa=3040&camk=UoKtGZLa3XKVi4sNYO5Udw==&vjs=3) | BFG Enterprise Services | Markham, ON | via indeed — discovered 2026-11-14 · Markham GTA · $70,000–$85,000 · permanent |
 | 2026-11-14 | [Manager, ServiceNow Technical Lead](https://ca.indeed.com/viewjob?jk=8c270c710f6166a5) | KPMG | Toronto, ON | via indeed — discovered 2026-11-14 · Toronto M5H 2S5 · $101,000–$135,000 · full-time |
@@ -1299,12 +1303,14 @@ Window: 2026-10-15 → 2026-11-14 · **2728 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1487)
+### Salesforce jobs (1480)
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1487 postings</strong></summary>|---|---|---|---|---|
+<details><summary><strong>Show 1480 postings</strong></summary>|---|---|---|---|---|
 || 2026-11-15 | [Sales Operations Coordinator / Junior Salesforce Admin](https://ca.linkedin.com/jobs/view/revenue-operations-coordinator-at-generis-4444467031) | Generis | Toronto, Ontario, Canada | via linkedin-guest — posted 2026-11-15 · Salesforce · junior |
 || 2026-11-15 | [Salesforce Administrator (Remote)](https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4490216969) | Hired | Canada | via linkedin-guest — posted 2026-11-15 · Salesforce |
+||| 2026-11-14 | [Salesforce DevOps Engineer](https://www.adzuna.ca/details/5965988095) | Zortech Solutions | Toronto, Ontario | via adzuna · salesforce, devops |
+||| 2026-11-14 | [Salesforce Developer](https://www.adzuna.ca/details/5965563455) | Cognizant | Toronto, Ontario | via adzuna · salesforce |
 ||| 2026-11-14 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065) | Rogers Communications | Georgetown, Ontario, Canada | via linkedin-guest — posted 2026-11-14 · Salesforce |
 || 2026-11-14 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5966145328?utm_medium=api&utm_source=54ce986e) | TForce Freight | Québec, Canada | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Salesforce Developer (Salesforce 360)](https://www.adzuna.ca/details/5966144644?utm_medium=api&utm_source=54ce986e) | Rang Technologies Inc | Mississauga, Peel region | via adzuna-autonomous--2026-11-15--v1.md |
@@ -2794,9 +2800,9 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Other jobs (1167)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
+### Other jobs (4660)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 | 2026-11-15 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4490212417) | Rogers Communications | Markham, Ontario, Canada | Salesforce lead management / Salesforce administration — posted 31 minutes ago |
-<details><summary><strong>Show 773 postings</strong></summary>| 2026-11-14 | [Senior Developer](https://www.adzuna.ca/details/5966143705?utm_medium=api&utm_source=54ce986e) | Dexian | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |
+<details><summary><strong>Show 4660 postings</strong></summary>| 2026-11-14 | [Senior Developer](https://www.adzuna.ca/details/5966143705?utm_medium=api&utm_source=54ce986e) | Dexian | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Staff Systems Engineer](https://www.adzuna.ca/details/5966144085?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [HR Coordinator](https://www.adzuna.ca/details/5965595790?utm_medium=api&utm_source=54ce986e) | University of British Columbia | Greater Vancouver, British Columbia | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Senior Manager, Enterprise Data Quality Management](https://www.adzuna.ca/details/5965592125?utm_medium=api&utm_source=54ce986e) | TD Bank | Canada | via adzuna-autonomous--2026-11-15--v1.md |
