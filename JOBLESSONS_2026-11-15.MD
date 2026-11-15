@@ -104,3 +104,32 @@ Merge + publish:
 Outcome: +1 verified fresh job — **Hired — Salesforce Administrator (Remote), Canada** (LinkedIn 4490216969). Present in origin's jobs.json feed from the concurrent scan; this run adds it to the README table and republishes the page. README.md, public/, and this lessons file committed to main; pages.yml redeploys eltonaguiar.github.io/BESTIEJOB/ on the push.
 
 Lesson re-confirmed: late-2026 Canadian SN/SF hourly supply is extremely sparse — most hours yield 0–1 postings; the value of the run is dedupe + liveness verification, not volume. Adzuna + Job Bank + LinkedIn guest details cover the today/yesterday window; Eluta.ca is currently unusable for same-day sweeps via urllib. When peer scans run in parallel, always re-check origin/main before adding: the same posting can already be in the feed under a different source id (here `linkedin:...` vs my candidate `readme:...`).
+
+
+## 2026-11-15 08:00 EST run — aggregator scan, +49 newly-tracked URLs
+
+Window: 2026-10-09 → 2026-11-15, Toronto-first ServiceNow / Salesforce (45-day source window).
+
+Ran canonical hourly flow:
+1. `node scripts/daily_job_scan.mjs` — aggregator (SmartRecruiters/Workday/Greenhouse/Lever/Ashby/LinkedIn/RemoteOK/Jobicy/Remotive/Adzuna).
+2. `python3 tools/verify_links.py --days 2 --blocklist dead_urls.txt` — liveness gate.
+3. `python3 tools/build_site.py` — public/jobs-data.json + public/index.html.
+4. `git commit + push origin main`.
+
+Counts:
+- Fresh source results this scan: 718; merged board: 2794 (was 2746); genuinely new URLs added: 49.
+- Tags: servicenow 1284 / salesforce 1340.
+- Source hits: adzuna 486, linkedin 172, workday 20, greenhouse 17, smartrecruiters 12, remotive 6, ashby 2, lever 1, remoteok 1, jobicy 1.
+- Liveness gate: probed 133 fresh rows, live=87 dead=0 unknown=46 — nothing dropped.
+- Site build: 5734 jobs (servicenow 936 / salesforce 989 / other 3809), 906 duplicate mirrors collapsed, 45 applied hidden, best-match 1856, newest posting 2026-11-15, built 2026-11-15 13:03 UTC.
+
+Today-fresh (posted 2026-11-15) additions this run:
+- Parkland Corporation — Specialist- Salesforce Architect — Calgary, Alberta, Canada — linkedin (salesforce)
+
+Older postings newly surfaced by aggregator sources (not today-fresh, newly tracked by URL): 48 more, mostly Adzuna/LinkedIn, posted 2026-10-09 → 2026-11-14, across Toronto/Ottawa/Vancouver/Montreal/Calgary.
+
+Failures/notes:
+- Workday: bdo.wd3 returned HTTP 401 for servicenow+salesforce (BDO tenant blocked); accenture.wd103 and salesforce.wd12 returned HTTP 422 (rate-limited on burst). One-call-at-a-time with gaps re-confirmed; multi-tenant bursts get 422.
+- Today-fresh Toronto SN/SF supply remains sparse (1 today-fresh addition this hour); the board's growth came from Adzuna/LinkedIn surfacing older-but-untracked URLs.
+
+Commit: pending — jobs.json, README.md (daily-scan block), public/*, FRESH_JOBS.md, this lessons file.

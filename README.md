@@ -7533,7 +7533,7 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-15T11:02:01.988Z** · 89 live postings from 10 public sources · 0 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-15T13:02:17.615Z** · 183 live postings from 10 public sources · 0 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -7541,16 +7541,16 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 |---|---|---|---|
 | 2026-11-15 | [ServiceNow Architecture Consultant](https://www.adzuna.ca/details/5966726512) | CGI | Calgary, Calgary region |
 | 2026-11-14 | [ServiceNow Technical Architect](https://www.adzuna.ca/details/5966145606) | Accenture | Toronto, Ontario |
+| 2026-11-14 | [Gestionnaire de prestation de services – Gestion applicative (AMS) et services gérés ServiceNow](https://www.adzuna.ca/details/5966145545?utm_medium=api&utm_source=54ce986e) | LGS, an IBM Company | Ville-Marie, Témiscamingue |
 | 2026-11-14 | [ServiceNow ITOM / AIOps Solution Architect](https://www.adzuna.ca/details/5966145336) | K&K Global Talent Solutions INC. | Toronto, Ontario |
 | 2026-11-14 | [ServiceNow Senior Developer](https://www.adzuna.ca/details/5966145277) | BDO Canada | Ottawa, Ottawa region |
 | 2026-11-14 | [Staff Security Engineer \| Security Engineering](https://www.adzuna.ca/details/5966144251) | ServiceNow | Canada |
+| 2026-11-14 | [Gestionnaire de prestation de services – Gestion applicative (AMS) et services gérés ServiceNow](https://www.adzuna.ca/details/5966144111?utm_medium=api&utm_source=54ce986e) | LGS, une Société IBM / an IBM Company | Montréal, Québec |
 | 2026-11-14 | [Senior Consultant - ServiceNow CSM](https://www.adzuna.ca/details/5966143894) | Infosys | Mississauga, Peel region |
 | 2026-11-14 | [Senior Staff Security Engineer \| Systems Engineering](https://www.adzuna.ca/details/5966143863) | ServiceNow | Canada |
 | 2026-11-14 | [Sr Specialist - ServiceNow Developer](https://www.adzuna.ca/details/5965979032) | Parkland | Calgary, Calgary region |
 | 2026-11-14 | [ServiceNow Technical Lead – ITSM, ITOM, CMDB & SecOps](https://www.adzuna.ca/details/5965661670) | Astra North Infoteck Inc. | Greater Vancouver, British Columbia |
 | 2026-11-14 | [Solution Architect ServiceNow Service Portal, Moveworks](https://www.adzuna.ca/details/5965600328) | NewRocket | Canada |
-| 2026-11-14 | [ServiceNow CMDB Administrator](https://www.adzuna.ca/details/5965591272) | Bank of Montreal | Toronto, Ontario |
-| 2026-11-14 | [Sr Solution Sales Executive CRM (CPQ)](https://www.adzuna.ca/details/5965563233) | ServiceNow, Inc. | Greater Vancouver, British Columbia |
 
 ### Salesforce — newest 12
 
@@ -7573,16 +7573,16 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
-| 2026-11-15 | [Senior Full-Stack Engineer, Builder Platform](https://www.adzuna.ca/details/5966728584) | Okta | Toronto, Ontario | Full stack |
-| 2026-11-15 | [Site Reliability Engineer](https://www.adzuna.ca/details/5966727845) | TJX | Mississauga, Peel region | DevOps / Cloud |
-| 2026-11-15 | [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4) | Supabase | Anywhere | DevOps / Cloud |
-| 2026-11-15 | [Software Engineer, Fullstack Java Developer](https://www.adzuna.ca/details/5966613408) | Scotiabank | Toronto, Ontario | Full stack |
-| 2026-11-14 | [Senior Full-Stack Developer (Senior Digital Product Developer)](https://www.adzuna.ca/details/5966145102) | House of Commons | Ottawa, Ottawa region | Full stack |
-| 2026-11-14 | [Manager Marketing Ops: Jitterbit in Ottawa](https://www.adzuna.ca/details/5966144175) | CanadaLync | Ottawa, Ottawa region | other |
-| 2026-11-14 | [RQ09129 - Software Developer - Full Stack - Senior](https://www.adzuna.ca/details/5966143777) | Rubicon Path | Toronto, Ontario | Full stack |
-| 2026-11-14 | [DevOps Engineer, AFT](https://www.adzuna.ca/details/5966143641) | Amazon Development Centre Canada ULC | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-14 | [Développeur Backend DevOps – CI/CD & IaC Expert](https://www.adzuna.ca/details/5966143516) | Gravity Conseil | Canada | DevOps / Cloud |
-| 2026-11-14 | [Data Analyst](https://www.adzuna.ca/details/5965975221) | J M Group Inc | Toronto, Ontario | Data / BI |
+| 2026-11-15 | [Network Administrator - Full Time - Markham Stouffville Hospital](https://www.adzuna.ca/details/5966739350?utm_medium=api&utm_source=54ce986e) | Oak Valley Health | Canada | other |
+| 2026-11-15 | [Manager, Application Support](https://www.adzuna.ca/details/5966739320?utm_medium=api&utm_source=54ce986e) | Richardson Wealth | Toronto, Ontario | other |
+| 2026-11-15 | [Assistant.e technique en pharmacie, rémunéré(e) à l’heure – PHX temps partiel jour](https://www.adzuna.ca/details/5966739288?utm_medium=api&utm_source=54ce986e) | Gestion Guiltre | Canada | other |
+| 2026-11-15 | [Account Executive, New Business](https://www.adzuna.ca/details/5966739230?utm_medium=api&utm_source=54ce986e) | H2 Safety | Lynnwood Ridge, Calgary | other |
+| 2026-11-15 | [Safety & Data Coordinator](https://www.adzuna.ca/details/5966739097?utm_medium=api&utm_source=54ce986e) | Northumberland Ferries Limited | Charlottetown, Queens | other |
+| 2026-11-15 | [Telemetry Analyst](https://www.adzuna.ca/details/5966738865?utm_medium=api&utm_source=54ce986e) | Air Liquide | Montréal, Québec | other |
+| 2026-11-15 | [Senior IAM & Cyber Third-Party Analyst](https://www.adzuna.ca/details/5966738828?utm_medium=api&utm_source=54ce986e) | Alberta Investment Management Corporation | Edmonton, Edmonton region | other |
+| 2026-11-15 | [Solution Analyst](https://www.adzuna.ca/details/5966738593?utm_medium=api&utm_source=54ce986e) | Price Industries | Winnipeg region, Manitoba | other |
+| 2026-11-15 | [Financial Analyst, FP&A](https://www.adzuna.ca/details/5966738503?utm_medium=api&utm_source=54ce986e) | Organigram | Toronto, Ontario | other |
+| 2026-11-15 | [M&E Coordinator](https://www.adzuna.ca/details/5966738445?utm_medium=api&utm_source=54ce986e) | Amico | Mississauga, Peel region | other |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
