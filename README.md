@@ -7532,12 +7532,13 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-14T22:05:28.387Z** · 100 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-15T11:02:01.988Z** · 89 live postings from 10 public sources · 0 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-15 | [ServiceNow Architecture Consultant](https://www.adzuna.ca/details/5966726512) | CGI | Calgary, Calgary region |
 | 2026-11-14 | [ServiceNow Technical Architect](https://www.adzuna.ca/details/5966145606) | Accenture | Toronto, Ontario |
 | 2026-11-14 | [ServiceNow ITOM / AIOps Solution Architect](https://www.adzuna.ca/details/5966145336) | K&K Global Talent Solutions INC. | Toronto, Ontario |
 | 2026-11-14 | [ServiceNow Senior Developer](https://www.adzuna.ca/details/5966145277) | BDO Canada | Ottawa, Ottawa region |
@@ -7549,39 +7550,38 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-14 | [Solution Architect ServiceNow Service Portal, Moveworks](https://www.adzuna.ca/details/5965600328) | NewRocket | Canada |
 | 2026-11-14 | [ServiceNow CMDB Administrator](https://www.adzuna.ca/details/5965591272) | Bank of Montreal | Toronto, Ontario |
 | 2026-11-14 | [Sr Solution Sales Executive CRM (CPQ)](https://www.adzuna.ca/details/5965563233) | ServiceNow, Inc. | Greater Vancouver, British Columbia |
-| 2026-11-14 | [ServiceNow Architecture Consultant](https://ca.linkedin.com/jobs/view/servicenow-architecture-consultant-at-cgi-4491050108) | CGI | Calgary, Alberta, Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-15 | [Software Engineer III - Salesforce Data 360](https://www.adzuna.ca/details/5966728505) | TD Bank | Canada |
 | 2026-11-14 | [Senior Solution Architect - Agentforce/ Salesforce](https://www.adzuna.ca/details/5966145561) | Lululemon Athletica Inc. | Greater Vancouver, British Columbia |
 | 2026-11-14 | [Technical Lead - Salesforce](https://www.adzuna.ca/details/5966145261) | Bench | Toronto, Ontario |
-| 2026-11-14 | [Marketing Cloud Specialist](https://www.adzuna.ca/details/5966144281) | Medcan | Toronto, Ontario |
 | 2026-11-14 | [Software Engineer (Salesforce) (CANADA REMOTE)](https://www.adzuna.ca/details/5966144174) | Motorola Solutions Inc | Canada |
 | 2026-11-14 | [Sr. Salesforce CRM Development Lead](https://www.adzuna.ca/details/5966143811) | MCD McKesson Canada Corporation / La Corporation McKesson Canada | Canada |
 | 2026-11-14 | [Principal Applied AI Architect](https://www.adzuna.ca/details/5966143636) | Momentum | Toronto, Ontario |
 | 2026-11-14 | [Salesforce Developer – CPQ](https://www.adzuna.ca/details/5966143278) | Infoway Software | Canada |
+| 2026-11-14 | [Principal Applied AI Architect](https://www.adzuna.ca/details/5966143303) | Salesforce, Inc. | Toronto, Ontario |
 | 2026-11-14 | [Lead, Account Solution Engineer/Manufacturing & Automotive](https://www.adzuna.ca/details/5965594230) | Salesforce | Montréal, Québec |
 | 2026-11-14 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5965594125) | Salesforce | Toronto, Ontario |
+| 2026-11-14 | [Sr. Analyst, TMT Commercial Business](https://www.adzuna.ca/details/5965586866) | Salesforce | Toronto, Ontario |
 | 2026-11-14 | [Solution Architect, Salesforce Voice](https://www.adzuna.ca/details/5965578571) | Jobgether | Canada |
-| 2026-11-14 | [Associate Vice President, Salesforce Engineering & Development](https://www.adzuna.ca/details/5965570930) | Jobgether | Canada |
-| 2026-11-14 | [Salesforce Developer](https://www.adzuna.ca/details/5965563455) | Cognizant | Toronto, Ontario |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-15 | [Senior Full-Stack Engineer, Builder Platform](https://www.adzuna.ca/details/5966728584) | Okta | Toronto, Ontario | Full stack |
+| 2026-11-15 | [Site Reliability Engineer](https://www.adzuna.ca/details/5966727845) | TJX | Mississauga, Peel region | DevOps / Cloud |
+| 2026-11-15 | [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4) | Supabase | Anywhere | DevOps / Cloud |
+| 2026-11-15 | [Software Engineer, Fullstack Java Developer](https://www.adzuna.ca/details/5966613408) | Scotiabank | Toronto, Ontario | Full stack |
 | 2026-11-14 | [Senior Full-Stack Developer (Senior Digital Product Developer)](https://www.adzuna.ca/details/5966145102) | House of Commons | Ottawa, Ottawa region | Full stack |
+| 2026-11-14 | [Manager Marketing Ops: Jitterbit in Ottawa](https://www.adzuna.ca/details/5966144175) | CanadaLync | Ottawa, Ottawa region | other |
+| 2026-11-14 | [RQ09129 - Software Developer - Full Stack - Senior](https://www.adzuna.ca/details/5966143777) | Rubicon Path | Toronto, Ontario | Full stack |
+| 2026-11-14 | [DevOps Engineer, AFT](https://www.adzuna.ca/details/5966143641) | Amazon Development Centre Canada ULC | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-14 | [Développeur Backend DevOps – CI/CD & IaC Expert](https://www.adzuna.ca/details/5966143516) | Gravity Conseil | Canada | DevOps / Cloud |
 | 2026-11-14 | [Data Analyst](https://www.adzuna.ca/details/5965975221) | J M Group Inc | Toronto, Ontario | Data / BI |
-| 2026-11-14 | [IT Asset Management Support](https://www.adzuna.ca/details/5965587640) | Alberta Electric System Operator | Canada | other |
-| 2026-11-14 | [Cloud Architect](https://www.adzuna.ca/details/5965582444) | IKO | Canada | DevOps / Cloud |
-| 2026-11-14 | [Staff Site Reliability Operations](https://ca.linkedin.com/jobs/view/staff-site-reliability-operations-at-nvidia-4481983993) | NVIDIA | Toronto, Ontario, Canada | DevOps / Cloud |
-| 2026-11-14 | [IT Reporting & Analytics Consultant-L2](https://ca.linkedin.com/jobs/view/it-reporting-analytics-consultant-l2-at-microserve-4486600933) | Microserve | British Columbia, Canada | other |
-| 2026-11-13 | [Data Analyst](https://www.adzuna.ca/details/5964888350) | J M Group Inc | Toronto, Ontario | Data / BI |
-| 2026-11-13 | [DevOps Technical Team Lead, VP](https://www.adzuna.ca/details/5964825643) | STATE STREET CORPORATION | Toronto, Ontario | DevOps / Cloud |
-| 2026-11-13 | [Senior Data Analyst, GTM Analytics - CANADA](https://www.adzuna.ca/details/5964819903) | Coinscapture | Canada | Data / BI |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
