@@ -197,3 +197,28 @@ New lessons:
 3. **"Posted Today" on Workday is not Canada**: Sunlife posted a Principal Consultant–ServiceNow in Gurugram today and Salesforce posted a Technical Architect in Bangalore today. Always read the `/job/<City>/…` slug before counting a fresh posting — postedOn only proves recency, not scope.
 4. Rogers careers is a SuccessFactors-style search: keyword returns are body-text matches, so a hit count means noise, not platform roles. Parse the `/job/…` card titles, not the mention count.
 
+## 2026-11-15 12:00 EST run — null result (0 fresh Canada jobs)
+
+Window: 2026-11-14 → 2026-11-15, Toronto-first ServiceNow / Salesforce; Canada scope with partners/Elite sponsors, Rogers, Bell, and government/public-sector checks per scan charter.
+
+Board state: local main fast-forwarded to origin/main d25617a "hourly scan refresh (2746 listings, 2026-11-15T16:12:47Z)" before scanning; jobs.json = 2746 listings (servicenow 1284 / salesforce 1339).
+
+Sources checked, all zero new:
+- **Workday CXS** (`curl -s --compressed`, POST `/wday/cxs/{tenant}/{site}/jobs`, body `{"appliedFacets":{},"limit":20,"offset":0,"searchText":q}`, one call at a time, ~4s gaps): BMO External (ServiceNow 7 / Salesforce 15) and TD TD_Bank_Careers (ServiceNow 12 / Salesforce 13) — HTTP 200 all four. Canada SN/SF-titled hits: BMO ServiceNow CMDB Administrator (3 d), ServiceNow Technology Lifecycle Analyst (3 d), ServiceNow SAM Administrator–ITAM (12 d); TD Software Engineer III–Salesforce Data 360 (2 d) — all already on board by URL. **0 fresh Canada SN/SF.** First POST attempt returned HTTP 000 (connection failed) on all four combos — transient; retry succeeded.
+- **Web-search aggregates** (Indeed/LinkedIn/Glassdoor/Adzuna via search engine): Make-A-Wish Sr Salesforce Administrator (Nov 6), SS&C Salesforce Implementation Consultant & Platform Admin (Nov 3–11), Survalent Salesforce Administrator (Nov 4–11), emergiTEL Salesforce System Coordinator (Nov 13) — all already in jobs.json by URL/title, older than fresh window. **0 new URLs.** Search snippets are not a freshness oracle.
+- **Adzuna API**: no app keys in this environment — skipped (jobs.json refreshed <1 hour ago by CI at 16:12Z).
+- **Job Bank / Eluta / Rogers / Bell / Canadian government**: Job Bank 0 pages; Eluta stalls (~30s/page, 0 usable); Rogers careers = sales/retail only, no SN/SF platform titles; Bell JS-rendered 303, not curl-scrapeable; gojobs.gov.on.ca Radware-walled; jobs.gc.ca not reachable; City of Toronto 0 SN/SF cards.
+- **Partners/Elite sponsors** (CGI, Deloitte, Accenture, IBM, Cognizant, etc.): no additional Canadian SN/SF beyond aggregator data already on main.
+
+Dedupe: URL + title\|company\|city fingerprint held against README.md and jobs.json; nothing new survived.
+
+Outcome: no commit for board data (0 fresh jobs), no publish — README.md, jobs.json, and public/ unchanged; live page (eltonaguiar.github.io/BESTIEJOB/) remains current. Only this lessons entry is committed.
+
+New lessons:
+1. **Workday curl HTTP 000 can be transient** — first POST attempt returned connection-failed (000, 0 bytes) for all four tenant/query combos; retry with correct body schema returned HTTP 200. Don't mark a tenant dead on a single 000.
+2. **Web-search aggregate leads are not fresh board candidates** — Indeed/LinkedIn/Glassdoor surfaced Make-A-Wish, SS&C, Survalent, emergiTEL Salesforce roles, but every one was already in jobs.json (posted Nov 3–13). Stick to Workday CXS + LinkedIn guest for same-day verification.
+3. **LinkedIn guest re-fetch unavailable this run** — Chrome profile locked (browser_exec) and direct LinkedIn search returns 301/422; the 04:00 EST linkedin_sn_2026-11-15.html and linkedin_sfpa_2026-11-15.html captures were already fully processed (Deloitte SN roles + Rogers Lead Management Ops all on board). Treat LinkedIn as stale until the browser profile is freed or guest API recovers.
+4. **CI hourly refresh** — origin/main advanced to d25617a "hourly scan refresh (2746 listings)" at 16:12Z via CI; local fast-forwarded cleanly. jobs.json is the system of record and is refreshed by CI independent of this run.
+
+Commit: JOBLESSONS_2026-11-15.MD entry appended and committed [skip ci]; no board-data or pages change.
+
