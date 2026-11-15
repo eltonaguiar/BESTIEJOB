@@ -15,10 +15,10 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-15T03:14:35.445Z",
-    "generatedAt": "2026-11-15T03:14:35.445Z",
-    "total": 2680,
-    "newThisScan": 646,
+    "scrapedAt": "2026-11-15T05:06:22.000Z",
+    "generatedAt": "2026-11-15T05:06:22.000Z",
+    "total": 2681,
+    "newThisScan": 1,
     "retainedFromPrevious": 2081,
     "sources": {
       "smartrecruiters": 12,
@@ -26,7 +26,7 @@
       "greenhouse": 17,
       "lever": 1,
       "ashby": 2,
-      "linkedin": 158,
+      "linkedin": 159,
       "remoteok": 1,
       "remotive": 6,
       "adzuna": 429
@@ -37,6 +37,23 @@
     }
   },
   "jobs": [
+    {
+      "id": "linkedin:https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4490212417",
+      "source": "linkedin",
+      "company": "Rogers Communications",
+      "title": "Lead Management Operations",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4490212417",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-15T00:00:00.000Z",
+      "scrapedAt": "2026-11-15T05:06:22.000Z",
+      "excerpt": "Salesforce Lead Management & Administration at Rogers Communications (Markham, ON): business lead/SME for Lead Management within Salesforce — campaign structures, lead routing rules, automation workflows, Salesforce enhancements/releases/testing/adoption; in-office 5 days/week. Posted 31 minutes ago.",
+      "workArrangement": "onsite",
+      "tags": [
+        "salesforce"
+      ]
+    },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/certified-technical-architect-%e2%80%93-servicenow-at-raas-infotek-4491207399",
       "source": "linkedin",
