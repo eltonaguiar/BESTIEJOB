@@ -10,7 +10,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-15](#current-jobs--as-of-2026-11-15)
   - [ServiceNow jobs (1269)](###servicenow-jobs-1269)
-  - [Salesforce jobs (1480)](###salesforce-jobs-1480)
+  - [Salesforce jobs (1490)](###salesforce-jobs-1490)
   - [Other jobs (4660)](#other-jobs-4660)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-15
 
-Window: 2026-10-02 → 2026-11-15 · **7409 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-02 → 2026-11-15 · **7419 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1269)_developer / administrator / architect / analyst roles_
 
@@ -1303,14 +1303,15 @@ Window: 2026-10-02 → 2026-11-15 · **7409 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1480)
-_developer / administrator / architect / analyst roles_
+### Salesforce jobs (1490)_developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1480 postings</strong></summary>|---|---|---|---|---|
+<details><summary><strong>Show 1490 postings</strong></summary>|---|---|---|---|---|
 || 2026-11-15 | [Sales Operations Coordinator / Junior Salesforce Admin](https://ca.linkedin.com/jobs/view/revenue-operations-coordinator-at-generis-4444467031) | Generis | Toronto, Ontario, Canada | via linkedin-guest — posted 2026-11-15 · Salesforce · junior |
 || 2026-11-15 | [Salesforce Administrator (Remote)](https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4490216969) | Hired | Canada | via linkedin-guest — posted 2026-11-15 · Salesforce |
-||| 2026-11-14 | [Salesforce DevOps Engineer](https://www.adzuna.ca/details/5965988095) | Zortech Solutions | Toronto, Ontario | via adzuna · salesforce, devops |
-||| 2026-11-14 | [Salesforce Developer](https://www.adzuna.ca/details/5965563455) | Cognizant | Toronto, Ontario | via adzuna · salesforce |
+|| 2026-11-15 | [Senior Salesforce Marketing Cloud Engineer](https://www.adzuna.ca/details/5967039572?utm_medium=api&utm_source=54ce986e) | 407 ETR Concession Company Limited | Vaughan, York region | via fresh-ca--2026-11-15--v1.md |
+|| 2026-11-14 | [Salesforce DevOps Engineer](https://www.adzuna.ca/details/5965988095) | Zortech Solutions | Toronto, Ontario | via adzuna · salesforce, devops |
+|| 2026-11-14 | [Salesforce Developer](https://www.adzuna.ca/details/5965563455) | Cognizant | Toronto, Ontario | via adzuna · salesforce |
+|| 2026-11-14 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065) | Rogers Communications | Georgetown, Ontario, Canada | via linkedin-guest — posted 2026-11-14 · Salesforce |
 ||| 2026-11-14 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065) | Rogers Communications | Georgetown, Ontario, Canada | via linkedin-guest — posted 2026-11-14 · Salesforce |
 || 2026-11-14 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5966145328?utm_medium=api&utm_source=54ce986e) | TForce Freight | Québec, Canada | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Salesforce Developer (Salesforce 360)](https://www.adzuna.ca/details/5966144644?utm_medium=api&utm_source=54ce986e) | Rang Technologies Inc | Mississauga, Peel region | via adzuna-autonomous--2026-11-15--v1.md |
