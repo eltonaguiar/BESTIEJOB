@@ -171,3 +171,29 @@ Dedupe: URL + title\|company\|city fingerprint held against README.md and jobs.j
 Outcome: no commit for board data (0 fresh Canada jobs), no publish — README.md, jobs.json, and public/ unchanged; pages.yml redeploys only on main push, so no GitHub Pages redeploy this run. Live page (eltonaguiar.github.io/BESTIEJOB/) remains current from the 09:00 EST push.
 
 Lesson re-confirmed: hourly Toronto SN/SF supply is near zero at this cadence; Workday CXS single-call `--compressed` probes stay under the 422 rate limit, but every Canada-located SN/SF requisition surfaced was already tracked. Recurring BMO SN requisitions reappear under the same job IDs — check postedOn before treating as fresh. Do not re-run the merge "just to have a commit".
+
+## 2026-11-15 11:00 EST run — null result (0 fresh Canada jobs)
+
+Window: 2026-11-14 → 2026-11-15, Toronto-first ServiceNow / Salesforce; Canada scope with partners/Elite sponsors, Rogers, Bell, and government/public-sector checks per scan charter.
+
+Board state: origin/main was force-updated to `333cdfc chore(jobs): fresh CA sweep 2026-11-15T15:43Z` (an orphan-history commit from CI carrying the entire tree). Local main was reset onto origin/main before scanning; jobs.json = 2747 listings, 0 new from that 15:43Z sweep.
+
+Sources checked, all zero new:
+- **fresh_ca_scan.py** (`--days 2 --eluta-pages 0 --jobbank-pages 1 --linkedin 1 --linkedin-max 10`): Adzuna 68 calls (17 queries × 4 geos), Job Bank 6 pages, LinkedIn guest 20 requests (10 keywords × Toronto/Canada) → raw 386, unique 38, **kept 0** — all 38 already on board by URL, 0 unverified dropped. Inbox written: `inbox/fresh-ca--2026-11-15--v3.md` (0 rows).
+- **Eluta.ca**: skipped (stalls ~30 s/page, 0 usable pages — unchanged for 3 days).
+- **Workday CXS** (bash `curl -s --compressed`, POST `/wday/cxs/{tenant}/{site}/jobs`, one call at a time): 18 tenant probes — bmo/External, td/TD_Bank_Careers, cibc/search, manulife/MFCJH_Jobs, sunlife/Experienced-Jobs, interac/interac, accenture/AccentureCareers (wd103), salesforce/External_Career_Site (wd12), omers/OMERS_External, desjardins/Desjardins all HTTP 200. SN/SF-titled hits: BMO ServiceNow CMDB Administrator + Technology Lifecycle Analyst (3 d) and ServiceNow SAM Administrator–ITAM (12 d) — on board; Interac Senior BSA (ServiceNow) + QE Senior Specialist (ServiceNow Platform) (30+ d) — on board; TD Software Engineer III–Salesforce Data 360 (2 d, Toronto) — on board; Manulife Salesforce Functional Analyst (13 d, Waterloo) — on board; Sunlife ServiceNow Associate Software Engineer (11 d, Waterloo) — on board. URL-fresh but **non-Canada**: Sunlife Principal Consultant–ServiceNow (Posted Today, Gurugram), Salesforce corporate Technical Architect–Salesforce Devops (Posted Today, Bangalore, 2 Locations), 34 Accenture SN/SF roles (Warsaw/Bucharest/Madrid/Monterrey/Taguig/Canberra/Melbourne/Prague/Singapore/etc. — none Canadian).
+- **Rogers careers** (`jobs.rogers.com/search/?q=…&sortColumn=referencedate`): "servicenow" → 0 job cards; "salesforce" → 32 cards, all field-sales/delivery roles that merely mention Salesforce in the body (Lead Management Operations, Toronto, already added 04:00 EST). No SN/SF platform titles.
+- **Bell** (`jobs.bell.ca`): 303 redirect, JS-rendered — not curl-scrapeable (unchanged).
+- **Canadian government**: `jobs.gc.ca` DNS did not resolve this run (curl exit 6) — Job Bank proxy covered by fresh_ca_scan; `gojobs.gov.on.ca` remains Radware-walled. **City of Toronto** `jobs.toronto.ca` ServiceNow search: HTTP 200, 0 SN/SF job cards.
+- **Partners/Elite sponsors**: covered by the LinkedIn guest pass (title-based, company-agnostic) and Adzuna; direct Accenture + Salesforce corporate ATS probes returned no Canadian SN/SF. CGI/Deloitte/KPMG/Cognizant inventory unchanged on main.
+
+Dedupe: URL + title\|company\|city fingerprint held against README.md and jobs.json; nothing new survived.
+
+Outcome: no board-data commit, no publish — README.md, jobs.json, public/ unchanged, so the live page (eltonaguiar.github.io/BESTIEJOB/) remains current from the 09:00 EST push. Only this lessons entry, the 0-row inbox v3, the fresh_ca report, and raw probe artifacts are committed.
+
+New lessons:
+1. **Python `subprocess.run(["curl", …])` fails with WinError 5 (Access is denied) on this host** — the Proactor/AppContainer blocks child curl.exe from Python. Call `curl` directly in the bash terminal tool instead; writing a Python driver around curl is a dead end.
+2. **Workday 422 ≠ always rate-limit**: canadalife/CL_External, loblaw/External, cnr/CN_Careers, nbc/National_Bank returned 422 on first call even with 2 s gaps — that is a wrong site slug, not throttling. 404 = wrong tenant/site (rbc/RBC_Careers, cppib/CPPIB, otppb/OTPP_Careers, intactfc/Intact this run). Treat 422-after-first-call as "drop this tenant", keep only 200 pairs in the probe list.
+3. **"Posted Today" on Workday is not Canada**: Sunlife posted a Principal Consultant–ServiceNow in Gurugram today and Salesforce posted a Technical Architect in Bangalore today. Always read the `/job/<City>/…` slug before counting a fresh posting — postedOn only proves recency, not scope.
+4. Rogers careers is a SuccessFactors-style search: keyword returns are body-text matches, so a hit count means noise, not platform roles. Parse the `/job/…` card titles, not the mention count.
+
