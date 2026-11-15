@@ -154,3 +154,20 @@ Dedupe: URL + title\|company\|city fingerprint held against README.md and jobs.j
 Outcome: no commit for board data (0 fresh jobs), no publish — README.md, jobs.json, and public/ are unchanged. pages.yml only redeploys on a main push, so no GitHub Pages redeploy for board data this run.
 
 Lesson re-confirmed: late-2026 Toronto SN/SF hourly supply is sparse — 0 fresh jobs this hour is normal, not a scanner failure. Workday BMO SN requisitions recur every few days under the same job IDs — check `postedOn` date before treating as fresh. Rogers careers page carries no SN/SF roles at all. Bell/Rogers career sites are JS-rendered and blocked to direct curl (301/303) — need Playwright browser or skip.
+
+## 2026-11-15 10:00 EST run — null result (0 fresh Canada jobs)
+
+Window: 2026-11-14 → 2026-11-15, Toronto-first ServiceNow / Salesforce; Canada scope (Rogers, Bell, banks, government, partners/Elite sponsors per scan charter).
+
+Sources checked, all zero new:
+- **Workday CXS curl `--compressed`**, 20 tenants × 2 queries (ServiceNow, Salesforce): 115 postings scanned, 13 SN/SF-titled. 8 already on board by URL/title fingerprint: BMO ServiceNow CMDB Administrator, BMO ServiceNow Technology Lifecycle Analyst, BMO ServiceNow SAM Administrator–ITAM (Toronto), Manulife Salesforce Functional Analyst (Waterloo), Sunlife ServiceNow Associate Software Engineer (Waterloo), TD Software Engineer III–Salesforce Data 360 (Toronto), plus board-carried non-Toronto BMO Salesforce Developer (Chicago). 5 URL-fresh but non-Canada — excluded from the Canada-focused board: Manulife Salesforce Platform Technical Analyst (Quezon City, PH), Manulife Front End Software Engineer (Salesforce) (Makati City, PH), Manulife Associate Front End Software Engineer (Salesforce) (Makati City, PH), Sunlife Principal Consultant–ServiceNow (Gurugram, India), TD Salesforce IT Solutions Design Specialist (US) (New Jersey). Each confirmed absent from README.md/jobs.json, then dropped on scope.
+- **Adzuna API**: no app keys in this environment — skipped. jobs.json already refreshed 2026-11-15T14:10Z by the 09:00 cycle (2747 listings), so aggregator data is <1 hour old.
+- **LinkedIn guest pass**: not run this hour — guest details return 422 and the full pass needs ~7 min.
+- **Rogers careers HTML** (105 KB): sales/retail roles only, no SN/SF titles. **Bell**: JS-rendered, not curl-scrapeable (303 redirect). **Canadian government/public sector**: City of Toronto tiles 0 new; gojobs Radware-walled; Job Bank proxy 0 new.
+- **Partners/Elite sponsors** (CGI, Deloitte, Accenture, IBM, Cognizant, etc.): covered by the aggregator refresh already on main; Workday direct-ATS probe returned no additional Canadian SN/SF hits from any tenant.
+
+Dedupe: URL + title\|company\|city fingerprint held against README.md and jobs.json; nothing new survived.
+
+Outcome: no commit for board data (0 fresh Canada jobs), no publish — README.md, jobs.json, and public/ unchanged; pages.yml redeploys only on main push, so no GitHub Pages redeploy this run. Live page (eltonaguiar.github.io/BESTIEJOB/) remains current from the 09:00 EST push.
+
+Lesson re-confirmed: hourly Toronto SN/SF supply is near zero at this cadence; Workday CXS single-call `--compressed` probes stay under the 422 rate limit, but every Canada-located SN/SF requisition surfaced was already tracked. Recurring BMO SN requisitions reappear under the same job IDs — check postedOn before treating as fresh. Do not re-run the merge "just to have a commit".
