@@ -17,8 +17,8 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-15T08:14:47.958Z",
     "generatedAt": "2026-11-15T08:14:47.958Z",
-    "total": 2723,
-    "newThisScan": 712,
+    "total": 2724,
+    "newThisScan": 713,
     "retainedFromPrevious": 2060,
     "sources": {
       "smartrecruiters": 12,
@@ -26,7 +26,7 @@
       "greenhouse": 17,
       "lever": 1,
       "ashby": 2,
-      "linkedin": 154,
+      "linkedin": 155,
       "remoteok": 1,
       "jobicy": 1,
       "remotive": 6,
@@ -34,7 +34,7 @@
     },
     "primaryCounts": {
       "servicenow": 1271,
-      "salesforce": 1332
+      "salesforce": 1333
     }
   },
   "jobs": [
@@ -1444,6 +1444,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "linkedin:https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065",
+      "source": "linkedin",
+      "company": "Rogers Communications",
+      "title": "Lead Management Operations",
+      "location": "Georgetown, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-14T11:00:00.000Z",
+      "scrapedAt": "2026-11-15T09:05:00.000Z",
+      "excerpt": "Salesforce Lead Management & Administration at Rogers Communications (Georgetown, ON): business lead/SME for Lead Management within Salesforce — campaign execution, reporting and analytics, data governance; marketing-generated leads across Rogers Business; in-office 5 days/week. Posted 22 hours ago.",
+      "workArrangement": "onsite",
+      "tags": [
+        "salesforce"
       ]
     },
     {

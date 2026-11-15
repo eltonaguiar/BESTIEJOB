@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T09:11:59+00:00",
+ "generatedAt": "2026-11-15T09:43:06+00:00",
  "timezone": "America/Toronto",
  "count": 5653,
  "appliedHidden": 45,
@@ -342,6 +342,46 @@
   },
   {
    "posted": "2026-11-15",
+   "title": "Software Engineer, Fullstack Java Developer",
+   "company": "Scotiabank",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5966613408",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "software engineer, fullstack java developer scotiabank toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Software%20Engineer%2C%20Fullstack%20Java%20Developer%20Scotiabank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Fullstack%20Java%20Developer%20Scotiabank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Software%20Engineer%2C%20Fullstack%20Java%20Developer%20Scotiabank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Software%20Engineer%2C%20Fullstack%20Java%20Developer%20Scotiabank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-15",
    "title": "Lead Management Operations",
    "company": "Rogers Communications",
    "location": "Toronto / Mississauga (multi-city requisition)",
@@ -413,46 +453,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Lead%20Management%20Operations%20Rogers%20Communications&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Software Engineer, Fullstack Java Developer",
-   "company": "Scotiabank",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5966613408",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "software engineer, fullstack java developer scotiabank toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Software%20Engineer%2C%20Fullstack%20Java%20Developer%20Scotiabank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Fullstack%20Java%20Developer%20Scotiabank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Software%20Engineer%2C%20Fullstack%20Java%20Developer%20Scotiabank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Software%20Engineer%2C%20Fullstack%20Java%20Developer%20Scotiabank&loc=Toronto"
     }
    ],
    "toronto": true
