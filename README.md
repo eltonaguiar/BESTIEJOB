@@ -1299,11 +1299,12 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1484)
+### Salesforce jobs (1485)
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1484 postings</strong></summary>|---|---|---|---|---|
-| 2026-11-14 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5966145328?utm_medium=api&utm_source=54ce986e) | TForce Freight | Québec, Canada | via adzuna-autonomous--2026-11-15--v1.md |
+<details><summary><strong>Show 1485 postings</strong></summary>|---|---|---|---|---|
+|| 2026-11-14 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065) | Rogers Communications | Georgetown, Ontario, Canada | via linkedin-guest — posted 2026-11-14 · Salesforce |
+|| 2026-11-14 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5966145328?utm_medium=api&utm_source=54ce986e) | TForce Freight | Québec, Canada | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Salesforce Developer (Salesforce 360)](https://www.adzuna.ca/details/5966144644?utm_medium=api&utm_source=54ce986e) | Rang Technologies Inc | Mississauga, Peel region | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5966143597?utm_medium=api&utm_source=54ce986e) | LanceSoft | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Salesforce Business Analyst, Senior Associate](https://www.adzuna.ca/details/5965570834?utm_medium=api&utm_source=54ce986e) | PricewaterhouseCoopers | Canada | via adzuna-autonomous--2026-11-15--v1.md |
