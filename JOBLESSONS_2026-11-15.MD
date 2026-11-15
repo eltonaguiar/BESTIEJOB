@@ -31,3 +31,21 @@ BESTIEJOB hourly cron scan — 2026-11-15 00:00 EST (UTC-05). Target: fresh Toro
 
 ## Commit
 `4e262e7 chore(jobs): merge 1 fresh Toronto Salesforce posting (Rogers) — 2026-11-15 00:00 EST scan [skip ci]` — pushed to origin/main.
+
+## 2026-11-15 03:00 EST run — null result (0 fresh jobs)
+
+Window: 2026-11-14 → 2026-11-15, Toronto-first ServiceNow / Salesforce.
+
+Sources checked, all zero new:
+- Adzuna API: 68 calls (13 queries × 3 geos: national/Toronto/Ontario), raw 298 → unique 27 → kept 0 (all 27 already on board).
+- Job Bank: 12 pages; Eluta: 6 pages — included in the 27 above, all dupes.
+- LinkedIn guest: 67 cards (Toronto, last 24h, pages 1–2) → 0 new.
+- Workday tenants (24): salesforce wd12, gdit wd5, bmo/rbc/cibc/scotiabank/manulife/sunlife/telus/opg wd3, plus SmartRecruiters ServiceNow — raw 5, kept 0 (4 non-Canada).
+- City of Toronto jobs.toronto.ca: 9 tiles, 0 new; OPS gojobs blocked by Radware; OPS Job Bank fallback: 8 articles, 0 new.
+- Partner/sponsor scan (ServiceNow World Forum Toronto tiers + Canadian partners): 0 relevant postings.
+
+Dedupe: URL + title\|company\|city fingerprint held against README.md and jobs.json; nothing new survived.
+
+Outcome: no commit, no publish — README.md, jobs.json, and public/ are unchanged. pages.yml only redeploys on a main push, so no GitHub Pages redeploy this run.
+
+Lesson re-confirmed: late-2026 Toronto SN/SF hourly supply is sparse — 0–1 fresh postings per hour is normal, not a scanner failure. Don't re-run the merge "just to have a commit".
