@@ -1,3 +1,4 @@
+<!-- merged 2026-11-15T065620Z: +1 new, 0 duplicate, version 2 -->
 # HERMES hourly cron scan — 2026-11-15
 
 Fresh Toronto/GTA ServiceNow/Salesforce postings from the 2026-11-15 00:00 EST scan.
