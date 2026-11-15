@@ -1,3 +1,4 @@
+<!-- merged 2026-11-15T034251Z: +0 new, 14 duplicate, version 2 -->
 # Hermes cron scan — 2026-11-14 20:00 EST
 Fresh Toronto ServiceNow / Salesforce postings found via Indeed and employer career sites.
 Every URL was deduped against jobs.json and README.md before submission (none found on board).
