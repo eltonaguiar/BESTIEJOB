@@ -133,3 +133,24 @@ Failures/notes:
 - Today-fresh Toronto SN/SF supply remains sparse (1 today-fresh addition this hour); the board's growth came from Adzuna/LinkedIn surfacing older-but-untracked URLs.
 
 Commit: pending — jobs.json, README.md (daily-scan block), public/*, FRESH_JOBS.md, this lessons file.
+
+## 2026-11-15 09:00 EST run — null result (0 fresh jobs)
+
+Window: 2026-11-14 → 2026-11-15, Toronto-first ServiceNow / Salesforce.
+
+Sources checked, all zero new:
+- **Adzuna API**: 68 calls (13 queries × 3 geos: national/Toronto/Ontario), raw 289 → unique 28 → kept 0 (27 already on board by URL, 1 by title fingerprint). Inbox written: `inbox/fresh-ca--2026-11-15--v1.md` (0 rows).
+- **Eluta.ca**: skipped — stalls ~30s/page, 0 usable pages (same as 07:00 EST lesson).
+- **Job Bank**: 0 pages (skipped to prioritize Adzuna freshness window).
+- **LinkedIn guest pass**: not completed — guest pass needs ~7 min (20 keywords × 2 locations), exceeded session timeout; direct LinkedIn returns 403.
+- **Workday tenants (10)**: bmo/rbc/cibc/scotiabank/manulife/sunlife/telus/opg/salesforce/accenture — BMO ServiceNow CMDB Administrator + Technology Lifecycle Analyst already on board (posted ~3 days ago, recurring requisitions); no fresh Canadian SN/SF.
+- **Rogers careers**: 0 SN/SF mentions on careers page HTML (105 KB scanned, Nov 11–14 page = sales/retail only).
+- **Bell careers**: 303 redirect, JS-rendered, not scrapeable via curl.
+- **Canadian government / public sector**: City of Toronto 9 tiles, 0 new; OPS gojobs blocked by Radware; OPS Job Bank 8 articles, 0 new.
+- **Partner/sponsor scan**: ServiceNow World Forum Toronto sponsors + Canadian partners — scan timed out, no results; sponsor data last refreshed 2026-11-03.
+
+Dedupe: URL + title\|company\|city fingerprint held against README.md and jobs.json; nothing new survived.
+
+Outcome: no commit for board data (0 fresh jobs), no publish — README.md, jobs.json, and public/ are unchanged. pages.yml only redeploys on a main push, so no GitHub Pages redeploy for board data this run.
+
+Lesson re-confirmed: late-2026 Toronto SN/SF hourly supply is sparse — 0 fresh jobs this hour is normal, not a scanner failure. Workday BMO SN requisitions recur every few days under the same job IDs — check `postedOn` date before treating as fresh. Rogers careers page carries no SN/SF roles at all. Bell/Rogers career sites are JS-rendered and blocked to direct curl (301/303) — need Playwright browser or skip.
