@@ -382,6 +382,23 @@ def dead_url_keys() -> set[str]:
     return keys
 
 
+POSTING_ID = re.compile(r"[?&](jk|gh_jid|vjk|jobId|job_id|jid|id)=([^&#]+)", re.I)
+
+
+def ident_key(url: str) -> str:
+    """Identity key for mirror collapsing.
+
+    Path-only keys are right when the board puts the posting id in the path
+    (LinkedIn /jobs/view/<id>, Adzuna /details/<id>), but Indeed keeps it in the
+    query (?jk=...). Keyed by path alone, every ca.indeed.com/viewjob URL
+    collapsed onto one card: only the first rendered and the rest silently
+    vanished. Keep the posting id when the query carries it.
+    """
+    base = (url or "").split("?")[0].rstrip("/").lower()
+    m = POSTING_ID.search(url or "")
+    return f"{base}?{m.group(1).lower()}={m.group(2).lower()}" if m else base
+
+
 def rows() -> tuple[list[dict], int]:
     parsed, _ = extract_rows(README.read_text(encoding="utf-8"))
     from_json = jobs_json_rows()
@@ -389,9 +406,9 @@ def rows() -> tuple[list[dict], int]:
         def _key(u: str) -> str:
             return (u or "").split("?")[0].rstrip("/").lower()
 
-        have = {_key(r["url"]) for r in from_json}
+        have = {ident_key(r["url"]) for r in from_json}
         # jobs.json leads; README rows survive only where the JSON does not know them yet
-        parsed = from_json + [r for r in parsed if _key(r["url"]) not in have]
+        parsed = from_json + [r for r in parsed if ident_key(r["url"]) not in have]
     skip, skip_keys = applied_index()
     dead_keys = dead_url_keys()
     seen: set[str] = set()
@@ -424,9 +441,10 @@ def rows() -> tuple[list[dict], int]:
         if applied_ident:
             dropped_applied += 1
             continue
-        if key in seen:
+        ident = ident_key(url)
+        if ident in seen:
             continue
-        seen.add(key)
+        seen.add(ident)
         row = {
             "posted": r["posted"], "title": r["title"], "company": r["company"],
             "location": r["location"], "url": url, "note": r["note"][:160],
@@ -512,9 +530,9 @@ def rows() -> tuple[list[dict], int]:
                                     len(r["location"]) + len(r["company"])), reverse=True)
         primary = members[0]
         primary["alternates"] = []
-        seen_url = {primary["url"].split("?")[0].rstrip("/").lower()}
+        seen_url = {ident_key(primary["url"])}
         for dup in members[1:]:
-            u = dup["url"].split("?")[0].rstrip("/").lower()
+            u = ident_key(dup["url"])
             if u in seen_url:
                 continue
             seen_url.add(u)

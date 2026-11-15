@@ -64,3 +64,33 @@ Hourly Toronto / Canada ServiceNow + Salesforce board scan — Saturday 2026-11-
 ### Market shape (late 2026, Toronto)
 ServiceNow-the-company posts only sales/SRE/security in Toronto; Salesforce-the-company posts nothing below 4 days old and no Platform Admin/Dev I. Fresh platform work comes from banks (BMO/TD/CIBC Workday) and GRC/IRM consultancies. No entry-level Salesforce Platform Admin/Dev I surfaced this cycle — keep `site:ca.linkedin.com/jobs/view "Platform Administrator" Toronto f_TPR=r86400` as the priority query next run.
 
+---
+
+## Cycle: Saturday 2026-11-14 20:00 EST (2026-11-15 01:00 UTC) — Hermes cron
+- Merged **14 fresh Toronto SN/SF rows** (7 ServiceNow · 7 Salesforce) into README.md on `main`: SN 1240→1247, SF 1449→1456, total 2713→2728. Push to `main` (no `[skip ci]`) triggers `pages.yml`, which rebuilds `public/` from README and deploys to https://eltonaguiar.github.io/BESTIEJOB/.
+- Source file: `inbox/hermes-cron--2026-11-14--v1.md` (14 dated rows, all deduped against `jobs.json` + README).
+
+### New this cycle
+- ServiceNow: BDO Senior Developer (Toronto, $84k–$128k); BFG Enterprise Services Admin/Developer Intermediate (Markham, $70k–$85k); KPMG ×4 — Manager SN Technical Lead ($101k–$135k), Sr Technical Consultant SN Developer ($73k–$102k), Consultant SN Developer ($66k–$72k), Sr Consultant Developer SN ($73k–$102k); ServiceNow Senior Database Engineer (Toronto, Reliability Status required).
+- Salesforce: iVedha Technical Consultant (Toronto, 12-mo contract, Agentforce); Munvo Architect (Toronto, $105k–$120k); Salesforce DevOps Architect CAN (Toronto/remote, published 2026-11-11, $130.3k–$179.2k, govt clearance); Incepta Developer (Toronto hybrid, Marketing Cloud/Loyalty); Procom Consultant (Toronto/Waterloo, $63.75–$85/hr, 5-mo); Accenture Marketing & Data Cloud Consultant (Toronto et al., $69.45k–$119.45k); Source Code Sr Solutions Designer – CRM/Salesforce (Toronto, 6-mo govt contract, $96.16–$144.24/hr).
+
+### Checked, already on board (not re-added)
+- TD Bank Software Engineer III – Salesforce Data 360 (td.wd3 Workday) — tracked earlier today; BMO ServiceNow Technology Lifecycle Analyst / CMDB Administrator — already in README; Lane Four Salesforce Administrator — on board (Lane Four Salesforce Consultant is undated, so the merger skips it).
+
+### Excluded / negative
+- Danaher ITSM Reporting Specialist ×2 (London, ON — outside Toronto); Compugen ServiceNow ITOM Specialist (location only "Canada", no city); Morson SN ITAM (Saskatoon); City of Toronto Systems Integrator 1 (ServiceNow Developer) — posting window 05-Oct→20-Oct-2026, already expired; Rogers jobs.rogers.com — Phenom/JS site, 404/9-byte body to curl, still 0 Rogers rows; jobs.bell.ca — 0 SN/SF requisitions this hour.
+- Adzuna hourly sweep (68 calls) returned only 2 rows (Danaher) — 41 candidates already on board; fresh_ca sweep 0 rows; OPS/GC Jobs blocked by Radware bot manager.
+
+### Techniques / pitfalls (hard-won)
+1. `tools/jobs_merge_inbox.py` `_bump_counts` is lossy: it rebuilds the heading/summary line without its trailing newline and drops everything after `</summary>`. After every merge, re-check and repair: `### X jobs (N)_italic_` must be split back onto two lines, and the `| Posted | Role | Company | Location | Source / note |` header row restored before `|---|---|` (it vanished from the ServiceNow table this run).
+2. The "Other jobs" table is one giant glued line (rows joined by `||`, line starts with `###`). The merger's dated-cell readability guard only inspects lines starting with `|`, so it cannot see that region: dedupe misses glued rows (a duplicate Teck ERP Security & GRC row was added this run) and the "Show N postings" summary there never bumps. Accept the noise; do not de-glue mid-merge.
+3. Indeed link hygiene: `rc/clk?jk=<jk>` and `viewjob?...jk=<jk>` normalize to `https://ca.indeed.com/viewjob?jk=<jk>`; `pagead/clk?ad=...` exposes no jk — use verbatim.
+4. Indeed snippets rarely give absolute posted dates; use the scan date and write "discovered YYYY-MM-DD" in the note (merger requires YYYY-MM-DD + URL).
+5. Workday CXS: `salesforce.wd12.myworkdayjobs.com` readable (JR367615 published 2026-11-11); `td.wd3`, `bmo.wd3` verified previously.
+6. Consultancies are the densest fresh SN source right now (KPMG posted 4 SN roles + a Salesforce Alliance Exec in one sweep); banks via Workday; Salesforce's own Toronto reqs skew senior/security/SRE, not Platform Admin I.
+
+### Next-cycle focus
+- Re-run Indeed queries "ServiceNow developer Toronto", "Salesforce administrator Toronto", "ServiceNow architect Toronto" (fresh) and `site:ca.linkedin.com/jobs/view "Platform Administrator" Toronto f_TPR=r86400`.
+- Workday wd3 tenants: TD, BMO, CIBC; plus KPMG/BDO/Deloitte/Accenture career pages; check posting windows for public-sector reqs before adding.
+- Rogers/Bell/Canadian government remain low-yield via curl; Rogers needs a real browser (Phenom).
+
