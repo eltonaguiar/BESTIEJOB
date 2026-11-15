@@ -100,3 +100,28 @@ ServiceNow-the-company posts only sales/SRE/security in Toronto; Salesforce-the-
 - `Job Source Truth Check` — **fails on pre-existing rows**: JobLeads/TheLadders links dated 2026-11-01…04 already in README; none of this cycle's rows are gated domains.
 - `board invariants` — **fails on chronic debt**: non-canada 1112, split-row 81, outside-window 67, vendor-sales (Sales Director at ServiceNow/Salesforce), placeholder cells, jobs.json clock-date, header-vs-table count disagreement (2728 vs 6965). This cycle's rows add 0 errors (only 2 identity-date-conflict warnings for KPMG/BFG mirrors). Note: every commit 2026-11-05…14 used `[skip ci]`, so these audits had not run for days and the ratchet baseline is stale — a non-`[skip ci]` push surfaces accumulated debt. Use `[skip ci]` on lessons/docs-only commits to avoid re-running them.
 
+---
+## Cycle: Saturday 2026-11-14 22:00 EST (2026-11-15 03:00 UTC) — Hermes cron
+- Fresh ServiceNow / Salesforce jobs merged to the board: **0** — everything scanned was already tracked, expired, filled, or unverifiable. `README.md`, `jobs.json`, and GitHub Pages unchanged; board holds 2,728 jobs (window 2026-10-15 → 2026-11-14).
+
+### Fresh candidates checked (all already on board or out of scope)
+- Workday CXS TD (td.wd3/TD_Bank_Careers): Software Engineer III - Salesforce Data 360 (Toronto, posted 2026-11-14) — already on board (jobs.json + README).
+- gap_scan_2026-11-14 (7 partner/employer boards, 74 raw jobs): all 29 adzuna.ca SN/SF Canada detail IDs checked are already present in README.md; Lane Four Salesforce Consultant / Salesforce Administrator are undated → merger skips them.
+- ATS deep sweep (455 employer boards): 1 dated Canada row — the TD role above; no other fresh Toronto SN/SF.
+
+### Sources with zero fresh Toronto SN/SF rows
+- Adzuna dated API (68 calls) + Job Bank (11 pages) + Eluta (6 pages): 0 rows (`reports/fresh_ca_2026-11-14.json` count 0). Adzuna hourly sweep returned only 2 Danaher ITSM Reporting Specialist rows — London, Middlesex (UK), out of Toronto scope.
+- Indeed.ca direct candidates (5): Deloitte Lead ServiceNow Solutions Architect; Deloitte ServiceNow Product & Delivery Manager; Deloitte Senior Consultant ServiceNow Platform; Deloitte ServiceNow SAM Specialist; ServiceNow Business Process Champion (ITAM) — all Toronto — but ca.indeed.com/viewjob returns Cloudflare "Request Blocked" from this IP (Ray IDs a5ab09c61ab01d7b, a5ab09c9ed221d7b, a5ab09caadc11d7b; IP 142.181.219.3). No absolute posted date obtainable and posting liveness unverifiable → recorded as leads only, NOT added (merger requires YYYY-MM-DD posted date + resolvable URL per the board evidence standard).
+- Employer-direct: Bell ServiceNow System Administrator 432824 (Toronto/Montreal, hybrid) application deadline 2026-11-02 → expired; Bell Salesforce Developer 430187 → "has been filled"; Bell 2027 grad program page renders as an empty JS shell (no date readable); Rogers jobs.rogers.com — no SN/SF postings surfaced; ServiceNow careers (Ontario/Canada) and Salesforce Canada careers — no fresh Toronto platform listings.
+- Government of Canada jobs (jobs.gc.ca / Workday OPS feed): Radware bot manager blocked.
+
+### Techniques confirmed / re-confirmed
+- Workday CXS reachable via `curl --compressed` on the `wdN` host (bmo.wd3, td.wd3 verified); bare tenant host is NXDOMAIN; `urllib` blocked by Workday CXS.
+- LinkedIn guest detail returns 422; Indeed.ca viewjob is Cloudflare-blocked from this IP; jobs.bell.ca renders as an empty JS shell.
+- Dedupe key: normalised URL against `README.md` and `jobs.json`; APPLIED.md is a hard exclude.
+
+### Next-cycle focus
+- Retry Indeed.ca queries ("ServiceNow developer Toronto", "Salesforce administrator Toronto") and `site:ca.linkedin.com/jobs/view "Platform Administrator" Toronto f_TPR=r86400` once the Indeed block lifts.
+- Re-scan Workday wd3 tenants (TD, BMO, CIBC, Interac, Loblaw); KPMG / BDO / Deloitte / Accenture career pages; check public-sector posting windows before adding.
+- Rogers (Phenom — needs a real browser), Bell, and Canadian government remain low-yield via curl.
+
