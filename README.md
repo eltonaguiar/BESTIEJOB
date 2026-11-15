@@ -20,11 +20,9 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-15 → 2026-11-14 · **2728 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1271)
-_developer / administrator / architect / analyst roles_
+### ServiceNow jobs (1273)_developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1271 postings</strong></summary>|---|---|---|---|---|
-| 2026-11-15 | [Certified Technical Architect – ServiceNow](https://ca.linkedin.com/jobs/view/certified-technical-architect-%E2%80%93-servicenow-at-raas-infotek-4491207399) | Raas Infotek | Canada | via linkedin-guest — posted 2026-11-15 · ServiceNow |
+<details><summary><strong>Show 1273 postings</strong></summary>| 2026-11-15 | [Certified Technical Architect – ServiceNow](https://ca.linkedin.com/jobs/view/certified-technical-architect-%E2%80%93-servicenow-at-raas-infotek-4491207399) | Raas Infotek | Canada | via linkedin-guest — posted 2026-11-15 · ServiceNow |
 | 2026-11-14 | [ServiceNow Senior Developer](https://ca.indeed.com/viewjob?jk=c956b22cc281049c) | BDO | Toronto, ON | via indeed — discovered 2026-11-14 · BDO Toronto · $84,000–$128,000 · permanent |
 | 2026-11-14 | [ServiceNow Administrator / Developer (Intermediate)](https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgQqwj9nk2rkgPuymZV9HtwmEaiRycrFVyKGpml1Xqe9fbe86vMTEJ8qOhIMLD8DtaYKhXf9veXMKZKUmSXA_-u5rP2FAHe5-PPLlooualsP0LTCfpG1IiKZnvddhKb3fgsA5WJv7fT4DuxdOsek2MytJshKWk69DChDftE41KS37hq_5nt76sL0mxk6pBZkPbdKyfg8zetTAOjzvvMphoURMFa3r7deehHqwqrO-xlFbKjeQUFrCjoqvH-AY-7xvhIpNif_Py4SqIUv3KV_8wvvU7YKkVekdOJm-T4Xd2-MxWtOfsnzMzQKC8AOz6YAD2spGYduMzq6sFE21nxDki6xZ6KaUhrCfGB_YVJmU2MlbtaC-6gdqkYzuv8JOmwYI73uH64Aj0WYosmtw7ln5WIskD9Yjy8IvsVunyyRzkAoGyFyrfVmp1C-PwwF9cVcF6i1RqnCEFDqkril84UXaaN9IUFqECbhjjy2FIvWRbdD3WGl5fKliuuykmq7wCAjTer_PMYnllL5_nzMzBi76O0DD7AJXNdFC3kVNighNZmYs1ePv_ahqQoK__nbcePW4F2nzu5j7mBy_-guvRB30J-FRb5RjlvypszScDkdx3oJannHM_BkAinOOfGTsEycC5nklOt2w8dCuHTTd8NKhfCursSIbuvubyjJXtuF4_oOpT4POh0jJjYhf6c7vF1TBVFjur0NlIVxgFdbuRFdJLxtCk0iXdsoPrMrlp42Y_IcjQaqw9VYSy&xkcb=SoAv6_M2cWnKB7yMZZ0IbzkdCdPP&p=3&jsa=3040&camk=UoKtGZLa3XKVi4sNYO5Udw==&vjs=3) | BFG Enterprise Services | Markham, ON | via indeed — discovered 2026-11-14 · Markham GTA · $70,000–$85,000 · permanent |
 | 2026-11-14 | [Manager, ServiceNow Technical Lead](https://ca.indeed.com/viewjob?jk=8c270c710f6166a5) | KPMG | Toronto, ON | via indeed — discovered 2026-11-14 · Toronto M5H 2S5 · $101,000–$135,000 · full-time |
@@ -43,6 +41,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-14 | [ServiceNow Implementation Architect](https://www.adzuna.ca/details/5966144678?utm_medium=api&utm_source=54ce986e) | Pacer Group | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Senior ServiceNow Discovery & Service Mapping Engineer](https://www.adzuna.ca/details/5965591557?utm_medium=api&utm_source=54ce986e) | Royal Bank of Canada | Canada | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [ServiceNow Technology Lifecycle Analyst](https://www.adzuna.ca/details/5965587880?utm_medium=api&utm_source=54ce986e) | Bank of Montreal | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |
+| 2026-11-14 | [ServiceNow Architecture Consultant](https://ca.linkedin.com/jobs/view/servicenow-architecture-consultant-at-cgi-4491050108) | CGI | Calgary, Alberta, Canada | via linkedin-guest--2026-11-15--v1.md |
 || 2026-11-13 | [Global ServiceNow Alliance Performance and Operations Lead, Deloitte Global Ecosystem and Alliances](https://www.adzuna.ca/details/5965094611) | Deloitte | Toronto, Ontario | adzuna · servicenow |
 || 2026-11-13 | [Senior Staff Software Engineer](https://www.adzuna.ca/details/5964819864) | ServiceNow | Canada | adzuna · servicenow |
 || 2026-11-13 | [ServiceNow Manager](https://www.adzuna.ca/details/5964819695) | 10 Ledcor Industries Inc. | Greater Vancouver, British Columbia | adzuna · servicenow |
@@ -101,6 +100,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-12 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-raas-infotek-4490395721) | Raas Infotek | Canada | unknown |
 | 2026-11-12 | [Senior ServiceNow Developer](https://myprocom-portal.procomservices.com/jobs/senior-servicenow-developer-toronto-0fe02eb9) | BMO via Procom | Toronto, ON, CAN | contract |
 | 2026-11-12 | [ServiceNow Specialist & Developer - Remote/Hybrid ITIL Expert](https://www.adzuna.ca/details/5963510820?utm_medium=api&utm_source=54ce986e) | TEHORA | Laval, Laval region | via adzuna-autonomous--2026-11-15--v1.md |
+| 2026-11-12 | [ServiceNow CTA consultant](https://ca.linkedin.com/jobs/view/servicenow-cta-consultant-at-ktek-resourcing-4490355074) | KTek Resourcing | Canada | via linkedin-guest--2026-11-15--v1.md |
 | 2026-11-11 | [Senior Consultant, ServiceNow Platform - Deloitte Technology Canada (DTC), Platform Team](https://www.adzuna.ca/details/5962360471) | Deloitte | Toronto, Ontario | adzuna · servicenow |
 | 2026-11-11 | [ServiceNow Developers and Architects (Future Opportunity)](https://www.adzuna.ca/details/5961958875) | OXARO Inc. | Ottawa, Ottawa region | adzuna · servicenow |
 | 2026-11-11 | [ServiceNow Implementation Specialist](https://www.adzuna.ca/details/5961958891) | Fxinnovation | Canada | adzuna · servicenow |
