@@ -94,3 +94,9 @@ ServiceNow-the-company posts only sales/SRE/security in Toronto; Salesforce-the-
 - Workday wd3 tenants: TD, BMO, CIBC; plus KPMG/BDO/Deloitte/Accenture career pages; check posting windows for public-sector reqs before adding.
 - Rogers/Bell/Canadian government remain low-yield via curl; Rogers needs a real browser (Phenom).
 
+### CI result (this push, commit 5d0f60a)
+- `Deploy GitHub Pages` — **success** (31s). Live page verified serving the new rows (live HTML at eltonaguiar.github.io/BESTIEJOB contains Munvo, iVedha, BFG Enterprise, Source Code cards).
+- `Inbox submission guard`, `README job-row guard` — success.
+- `Job Source Truth Check` — **fails on pre-existing rows**: JobLeads/TheLadders links dated 2026-11-01…04 already in README; none of this cycle's rows are gated domains.
+- `board invariants` — **fails on chronic debt**: non-canada 1112, split-row 81, outside-window 67, vendor-sales (Sales Director at ServiceNow/Salesforce), placeholder cells, jobs.json clock-date, header-vs-table count disagreement (2728 vs 6965). This cycle's rows add 0 errors (only 2 identity-date-conflict warnings for KPMG/BFG mirrors). Note: every commit 2026-11-05…14 used `[skip ci]`, so these audits had not run for days and the ratchet baseline is stale — a non-`[skip ci]` push surfaces accumulated debt. Use `[skip ci]` on lessons/docs-only commits to avoid re-running them.
+
