@@ -8,20 +8,20 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Contents
 
-- [Current jobs — as of 2026-11-15](#current-jobs--as-of-2026-11-15)
-  - [ServiceNow jobs (1271)](###servicenow-jobs-1271)
+- [Current jobs — as of 2026-11-16](#current-jobs--as-of-2026-11-16)
+  - [ServiceNow jobs (1308)](###servicenow-jobs-1308)
   - [Salesforce jobs (1496)](###salesforce-jobs-1496)
   - [Other jobs (4660)](#other-jobs-4660)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-15
+## Current jobs — as of 2026-11-16
 
-Window: 2026-10-02 → 2026-11-15 · **7426 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-02 → 2026-11-16 · **7426 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1272)_developer / administrator / architect / analyst roles_
-<details><summary><strong>Show 1272 postings</strong></summary>|| 2026-11-15 | [Senior ServiceNow Consultant](https://www.adzuna.ca/details/5967041236) | Jolera | Markham, York region | via adzuna · servicenow |
+### ServiceNow jobs (1308)_developer / administrator / architect / analyst roles_
+<details><summary><strong>Show 1308 postings</strong></summary>|| 2026-11-16 | [ServiceNow ITOM Developer](https://ca.linkedin.com/jobs/view/servicenow-itom-developer-at-techneptune-consulting-inc-4489717217) | TechNeptune Consulting Inc. | Canada | via linkedin · servicenow || 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-techneptune-consulting-inc-4489716220) | TechNeptune Consulting Inc. | Canada | via linkedin · servicenow || 2026-11-15 | [Senior ServiceNow Consultant](https://www.adzuna.ca/details/5967041236) | Jolera | Markham, York region | via adzuna · servicenow |
 || 2026-11-15 | [Senior ServiceNow Developer (SAM/HAM)](https://www.adzuna.ca/details/5967040327) | BeachHead | Toronto, Ontario | via adzuna · servicenow |
 | 2026-11-15 | [Conseiller(ère) en architecture bureautique - ITSM (C2)](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-en-architecture-bureautique-itsm-c2-at-services-sft-4473445699) | Services SFT | Montreal, Quebec, Canada | via fresh-ca--2026-11-16--v1.md |
 | 2026-11-14 | [ServiceNow System Administrator](https://www.adzuna.ca/details/5965987501) | Forhyre | Toronto, Ontario | via adzuna · servicenow |
