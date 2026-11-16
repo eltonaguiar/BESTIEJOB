@@ -1,7 +1,7 @@
 {
  "status": {
   "GC Jobs (federal)": {
-   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31614B",
+   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31613B",
    "raw": 0
   },
   "RemoteOK": {
@@ -13,16 +13,16 @@
    "raw": 16
   },
   "Himalayas": {
-   "status": "p0:20/119235, p1:20/119240, p2:20/119235, p3:20/119235, p4:20/119235",
+   "status": "crashed TypeError",
    "raw": 0
   },
   "Jobboom (QC)": {
-   "status": "http 403, 6046B; http 403, 6067B",
+   "status": "http 403, 6067B; http 403, 6067B",
    "raw": 0
   },
   "We Work Remotely": {
    "status": "http 200; http 200",
-   "raw": 0
+   "raw": 1
   },
   "Hacker News hiring": {
    "status": "thread 22665398, 0 SN comments",
@@ -56,6 +56,11 @@
  "dated": [],
  "undated": [],
  "dropped": [
+  {
+   "source": "Remotive",
+   "title": "Content Creator - YouTube",
+   "why": "title filter"
+  },
   {
    "source": "Remotive",
    "title": "Remote Office Assistant",
@@ -132,8 +137,8 @@
    "why": "title filter"
   },
   {
-   "source": "Remotive",
-   "title": "Tech Lead Full-Stack Rails Engineer",
+   "source": "We Work Remotely",
+   "title": "ServiceNow: Senior CRM Account Executive",
    "why": "title filter"
   }
  ]
