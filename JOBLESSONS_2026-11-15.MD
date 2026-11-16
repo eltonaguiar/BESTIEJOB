@@ -245,3 +245,26 @@ Outcome: +1 verified fresh job — Generis — Sales Operations Coordinator / Ju
 
 Lesson re-confirmed: late-2026 Toronto SN/SF hourly supply is sparse (0–1 fresh postings/hour); entry-level / Platform Admin / Platform Developer I postings are the rarest slice — most fresh hits are mid/senior architect or recurring bank requisitions. When a fresh entry-level platform admin role does surface (as Generis did today), add it even if the hour is otherwise null.
 
+## 2026-11-15 21:00 EST run — +1 fresh ServiceNow job
+
+Window: 2026-11-14 → 2026-11-15, Toronto-first ServiceNow / Salesforce; Canada scope (banks, government, partners, Rogers, Bell).
+
+Board state: local main == origin/main (2,755 jobs) before scanning.
+
+Fresh verified job added this run (1):
+
+| Posted | Role | Company | Location | Source | Notes |
+|--------|------|---------|----------|--------|-------|
+| 2026-11-15 | Applications Support Analyst | BMO | Toronto, ON, CAN | Workday CXS (bmo.wd3/External, req R260028077) | Full-time, Toronto (33 Dundas St W), applies by 11/29/2026. Workday CXS `searchText=ServiceNow` matched it; detail fetch confirmed country=Canada, `servicenow` mentioned in description, `timeType=Full time`, `startDate=2026-11-15`, `endDate=2026-11-30` (live). Dedupe clean: not in jobs.json or APPLIED.md. Added to jobs.json (tags: servicenow); public/ rebuilt. |
+
+Sources checked this hour, all zero new except BMO above:
+
+- **Workday CXS** (`curl -s --compressed`, POST `/wday/cxs/{tenant}/{site}/jobs`, one call at a time): bmo/External, td/TD_Bank_Careers, cibc/search, manulife/MFCJH_Jobs, interac/interac, accenture/AccentureCareers, salesforce/External_Career_Site × ServiceNow + Salesforce. Only Canada-located SN/SF "Posted Today" hit was the BMO Applications Support Analyst; everything else already on board, non-Canada, or non-SN/SF. Accenture/Salesforce Workday page 1 is relevance-sorted and effectively non-Canada — append the city to `searchText` or page 1 is useless for a Toronto board.
+- **gap_scan/adzuna harvest** (02:04 UTC): 38 rows, all already on board — 0 new.
+- **Public sector**: gojobs.gov.on.ca Radware-walled; jobs.gc.ca NXDOMAIN; Job Bank OPS feed 0 platform-titled postings; City of Toronto 0 SN/SF cards.
+- **Rogers/Bell**: Rogers = sales/retail only, no SN/SF platform titles; Bell JS-rendered 303, not curl-scrapeable.
+
+Outcome: +1 verified fresh job — BMO Applications Support Analyst (Toronto, ServiceNow-linked production support). jobs.json → 2,756 rows; `public/jobs-data.json` + `public/index.html` rebuilt via `tools/build_site.py` (site: 5,739 jobs, newest 2026-11-15). Committed to origin/main with [skip ci]; pages.yml schedule (:35 UTC) redeploys eltonaguiar.github.io/BESTIEJOB/.
+
+Lessons re-confirmed: hourly Toronto SN/SF supply is near zero — 0–1 fresh/hour is normal, not a scanner failure. Workday CXS "Posted Today" single-call `--compressed` probes stay under the 422 rate limit; always confirm `country` + platform mention before counting a fresh hit. `bmo.myworkdayjobs.com` is NXDOMAIN — use the `wdN` host (`bmo.wd3...`).
+
