@@ -20,11 +20,10 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-02 → 2026-11-15 · **7426 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1271)_developer / administrator / architect / analyst roles_
-
-<details><summary><strong>Show 1271 postings</strong></summary>
-|| 2026-11-15 | [Senior ServiceNow Consultant](https://www.adzuna.ca/details/5967041236) | Jolera | Markham, York region | via adzuna · servicenow |
+### ServiceNow jobs (1272)_developer / administrator / architect / analyst roles_
+<details><summary><strong>Show 1272 postings</strong></summary>|| 2026-11-15 | [Senior ServiceNow Consultant](https://www.adzuna.ca/details/5967041236) | Jolera | Markham, York region | via adzuna · servicenow |
 || 2026-11-15 | [Senior ServiceNow Developer (SAM/HAM)](https://www.adzuna.ca/details/5967040327) | BeachHead | Toronto, Ontario | via adzuna · servicenow |
+| 2026-11-15 | [Conseiller(ère) en architecture bureautique - ITSM (C2)](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-en-architecture-bureautique-itsm-c2-at-services-sft-4473445699) | Services SFT | Montreal, Quebec, Canada | via fresh-ca--2026-11-16--v1.md |
 | 2026-11-14 | [ServiceNow System Administrator](https://www.adzuna.ca/details/5965987501) | Forhyre | Toronto, Ontario | via adzuna · servicenow |
 | 2026-11-14 | [ServiceNow Admin](https://www.adzuna.ca/details/5965955381) | Forhyre | Toronto, Ontario | via adzuna · servicenow |
 | 2026-11-14 | [ServiceNow CMDB Administrator](https://www.adzuna.ca/details/5965591272) | Bank of Montreal | Toronto, Ontario | via adzuna · servicenow, itam |
