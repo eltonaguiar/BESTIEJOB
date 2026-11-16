@@ -94,3 +94,30 @@ Window: 2026-11-16, Toronto-first ServiceNow / Salesforce; Canada scope.
 
 **Board state after this run:** jobs.json 6,270 rows; README SN 1295 / SF 1505 / Other 4,777 = 7,542 live postings; public/jobs-data.json + public/index.html rebuilt; live page redeployed by pages.yml (commit without [skip ci] so Pages rebuilds).
 
+
+## 2026-11-16 17:00 EST run — null result (0 fresh jobs merged)
+
+Window: 2026-11-16, Toronto-first ServiceNow / Salesforce; Canada scope (banks, government, partners, Rogers, Bell).
+
+Board state: local main == origin/main 4ca08c3; no data changed this run (jobs.json 6,281 rows on disk; README SN 1295 / SF 1505 unchanged since the 12:00 EST run).
+
+Sources checked, all zero new merged:
+
+- **Workday CXS** (POST /wday/cxs/{tenant}/{site}/jobs, curl --compressed, calls serialized after 422 rate-limit): bmo.wd3/External re-probed live — Applications Support Analyst R260028077 (Posted Yesterday, aboard from 2026-11-15 run), CMDB Administrator R260030992 / Technology Lifecycle Analyst R260030995 (Posted 4 Days Ago, recurring requisitions aboard); no "Posted Today" Canada SN/SF. accenture.wd103/AccentureCareers × "ServiceNow Toronto" = 3 postings (CCaaS Engineer, 2× Forward Deployed AI Engineer), none platform, 13–30+ days old. Remaining tenants (td.wd3/TD_Bank_Careers, cibc.wd3/search, manulife.wd3/MFCJH_Jobs, interac.wd3/interac, salesforce.wd12, gdit.wd5, caatpension.wd10, iko.wd3) not re-probed live — CXS 422s on bursts — but their 01:03Z–15:02Z captures today (raw/wd20261116/) show nothing newer than "Posted Yesterday". **0 fresh.**
+- **LinkedIn** (raw/linkedin_fresh_2026-11-16.json, 6 queries, past 24h): every on-target lead already in jobs.json — TechNeptune SN ITOM Developer + SN CMDB Consultant (Toronto), HCLTech Salesforce Administrator (Toronto), AllianceIT SN ITOM/CMDB Developer, NLB Services SN CSM/HRSD + SN HRSD (Mississauga), Resource Logistics SN Developer (Toronto), CAAT Pension Application Support Analyst, Four Seasons Senior SF Developer, Bridgenext SF Product Owner. Off-target: ServiceNow IRM architects (Burgeon, no Toronto), Smart IT Frame SF CPQ/Revenue Cloud architect, Yochana/Cognizant SN architects (location not Toronto/Canada-only). **0 fresh.**
+- **gap_scan / Adzuna** (raw/gap_scan_2026-11-16.json, posted 2026-11-15): BeachHead Senior SN Developer (SAM/HAM, Toronto) and Jolera Senior SN Consultant (Markham) already aboard; MLSE [C] Salesforce Engineer ×2 already aboard but generic SF dev (secondary, not Platform Dev I); everything else off-target (architects, Montréal/Calgary/Vancouver/Québec/Alberta, sales roles). **0 fresh.**
+- **Rogers** (jobs.rogers.com date-sorted, browser): q=servicenow → "no open positions"; q=salesforce → 16 results, all field-sales/delivery/retail (Field Sales/Delivery Specialists, campaigns), no platform titles. **0 mergeable.**
+- **Bell** (jobs.bell.ca): zero for both platforms — re-check weekly, not hourly.
+- **Public sector**: gojobs.gov.on.ca and jobs.gc.ca Radware-walled; Job Bank OPS feed 0 platform-titled postings (raw/public_sector_2026-11-16.json). Skipped.
+- **inbox/todayfeeds--2026-11-16--v1.md** (Workday 04:01Z): data-engineering roles only (Altus, Brookfield, Moneris, OMERS, TD), no SN/SF.
+
+Dedupe: URL + title|company|city fingerprint held against jobs.json + README.md + APPLIED.md; nothing new survived.
+
+Outcome: no board-data commit — README.md, jobs.json, and public/ unchanged; live page (https://eltonaguiar.github.io/BESTIEJOB/) remains current. Only this lessons entry committed ([skip ci]).
+
+New lessons:
+
+1. Workday CXS rate-limits bursts of POST /wday/cxs calls (HTTP 422 even for verified 200 tenants such as bmo.wd3/External); a single call after ~30–45 s still returns 200. Hourly re-probes must serialize calls with long gaps — or rely on the day's earliest captures, which already carry the freshest "Posted Today/Yesterday" signal.
+2. Rogers date-sorted search is browser-renderable (Phenom): servicenow → 0 open positions; salesforce → 16 field-sales/delivery roles, no platform titles. Confirmed no platform work at Rogers this cycle.
+3. Late-2026 hourly SN/SF supply in Toronto is near zero (null-merge hours at 07:00, 16:00, 17:00 EST this day; 08:00's +129 was a FRESH_JOBS.md backfill, 12:00's +1 was HCLTech). Do not manufacture commits — only commit when verified fresh rows exist or lessons are added.
+
