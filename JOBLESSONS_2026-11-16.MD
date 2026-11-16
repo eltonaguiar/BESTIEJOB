@@ -77,3 +77,20 @@ New lessons:
 - Dedup key = normalized URL (tracking params stripped). The same role via LinkedIn and via Adzuna creates an identity-date-conflict.
 - Vendor sales/exec roles at ServiceNow/Salesforce are excluded; a job *at* ServiceNow is not a ServiceNow role.
 
+## 2026-11-16 12:00 EST run — +1 fresh job merged
+
+Window: 2026-11-16, Toronto-first ServiceNow / Salesforce; Canada scope.
+
+**1 brand-new on-target discovery merged:**
+- Salesforce Administrator — HCLTech — Toronto, Ontario, Canada — https://ca.linkedin.com/jobs/view/salesforce-administrator-at-hcltech-4490676918 — posted ~2026-11-16 (53 min ago at scan time), entry level, full-time; LinkedIn guest detail re-fetch confirmed "Salesforce" in the body (configuration work: automation, fields, page layouts, record types, dashboards, reports) and the posting is live. Absent from jobs.json, README.md, and APPLIED.md. Added to the head of jobs.json's jobs array and to the top of the README Salesforce table; Salesforce jobs 1504 → 1505, live postings 7541 → 7542; site rebuilt (5,752 jobs, newest 2026-11-16, built 2026-11-16 17:11 UTC).
+
+**Sources checked, all zero new merged:**
+- Workday CXS re-probe (rate limit had reset): all 20 tenant×query probes HTTP 200 (bmo.wd3/External, td.wd3/TD_Bank_Careers, cibc.wd3/search, manulife.wd3/MFCJH_Jobs, interac.wd3/interac, accenture.wd103/AccentureCareers, salesforce.wd12/External_Career_Site, gdit.wd5/External_Career_Site, caatpension.wd10/Careers, iko.wd3/IKO_Careers × {ServiceNow, Salesforce}). Only "Posted Today/Yesterday + Canada" hits were BMO Applications Support Analyst R260028077 (already aboard), Manulife Internal Business Development Manager–Advisor (not platform), Salesforce-corp Software Engineering MTS and RVP Sales–Public Sector (not Platform Admin/Dev I). 0 mergeable.
+- LinkedIn guest via browser fallback (fresh profile; the locked-profile wall from the 11:00 EST run cleared): 60 SN + 60 SF cards, past 24h. Fresh on-target leads NLB Services CSM/HRSD Mississauga (4490660430), AllianceIT ITOM/CMDB Developer Toronto (4490602725), Resource Logistics ServiceNow Developer Toronto (4489780092), CAAT Pension Application Support Analyst Toronto (4447192111), plus NLB HRSD twin (4490663180) — all already in jobs.json from earlier scans (render through the jobs.json → site union, just not mirrored in README); not re-added. HCLTech Salesforce Administrator (4490676918) was the only row absent from jobs.json + README + APPLIED.md → merged.
+- Rogers careers date-sortable pages (q=servicenow / q=salesforce): 0 SN rows; 16 SF rows, all field-sales/delivery/retail, no platform titles. 0 mergeable.
+- Bell: zero for both platforms (re-check weekly, not hourly). Public sector (gojobs.gov.on.ca, jobs.gc.ca): Radware-walled, skipped.
+
+**Verification:** tools/verify_links.py --days 2 → 51 fresh rows probed, live=26, dead=0, nothing dropped. scripts/check_site_links.py → OK (5751 jobs, blocked=0). python3 tools/build_site.py → 5,752 jobs, newest 2026-11-16.
+
+**Board state after this run:** jobs.json 6,270 rows; README SN 1295 / SF 1505 / Other 4,777 = 7,542 live postings; public/jobs-data.json + public/index.html rebuilt; live page redeployed by pages.yml (commit without [skip ci] so Pages rebuilds).
+

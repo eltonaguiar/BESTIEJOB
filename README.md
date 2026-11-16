@@ -10,7 +10,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-16](#current-jobs--as-of-2026-11-16)
   - [ServiceNow jobs (1296)](###servicenow-jobs-1296)
-  - [Salesforce jobs (1504)](###salesforce-jobs-1504)
+  - [Salesforce jobs (1505)](###salesforce-jobs-1505)
   - [Other jobs (4777)](#other-jobs-4777)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-16
 
-Window: 2026-10-02 → 2026-11-16 · **7541 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-02 → 2026-11-16 · **7542 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1295)
 
@@ -1325,13 +1325,14 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1504)
+### Salesforce jobs (1505)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1504 postings</strong></summary>
+<details><summary><strong>Show 1505 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-16 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-hcltech-4490676918) | HCLTech | Toronto, Ontario, Canada | unknown |
 | 2026-11-16 | [Salesforce Technical Architect Revenue Cloud CPQ](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100) | Enterprise Solutions Inc. | Canada | linkedin · salesforce |
 | 2026-11-16 | [Salesforce Data Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483) | Enterprise Solutions Inc. | Toronto, Ontario, Canada | linkedin · salesforce, devops |
 | 2026-11-16 | [Salesforce Product Owner](https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-bridgenext-4478614508) | Bridgenext | Greater Toronto Area, Canada | linkedin · salesforce |
