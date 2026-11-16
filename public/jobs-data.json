@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T09:53:05+00:00",
+ "generatedAt": "2026-11-16T10:17:01+00:00",
  "timezone": "America/Toronto",
  "count": 5747,
  "appliedHidden": 45,
@@ -372,6 +372,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20CMDB%20Consultant%20TechNeptune%20Consulting%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "Senior Software Developer – Salesforce",
+   "company": "Four Seasons",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-software-developer-%E2%80%93-salesforce-at-four-seasons-4466719005",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior software developer – salesforce four seasons toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/senior-software-developer-%E2%80%93-salesforce-4ea14b926c5f42de5cdb37d23778ed5c",
+     "label": "Eluta · Toronto ON",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Software%20Developer%20%E2%80%93%20Salesforce%20Four%20Seasons+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20%E2%80%93%20Salesforce%20Four%20Seasons&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Developer%20%E2%80%93%20Salesforce%20Four%20Seasons&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Developer%20%E2%80%93%20Salesforce%20Four%20Seasons&loc=Toronto"
     }
    ],
    "toronto": true
@@ -72291,54 +72339,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Technical%20Architect%20LTM&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-05",
-   "title": "Senior Software Developer – Salesforce",
-   "company": "Four Seasons Hotels and Resorts",
-   "location": "Toronto ON",
-   "url": "https://www.eluta.ca/spl/senior-software-developer-%E2%80%93-salesforce-4ea14b926c5f42de5cdb37d23778ed5c",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Eluta",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior software developer – salesforce four seasons hotels and resorts toronto on eluta salesforce readme salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-software-developer-%E2%80%93-salesforce-at-four-seasons-4466719005",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Developer%20%E2%80%93%20Salesforce%20Four%20Seasons%20Hotels%20and%20Resorts+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20%E2%80%93%20Salesforce%20Four%20Seasons%20Hotels%20and%20Resorts&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Developer%20%E2%80%93%20Salesforce%20Four%20Seasons%20Hotels%20and%20Resorts&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Developer%20%E2%80%93%20Salesforce%20Four%20Seasons%20Hotels%20and%20Resorts&loc=Toronto"
     }
    ],
    "toronto": true
