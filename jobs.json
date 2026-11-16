@@ -15,10 +15,10 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-16T15:19:56.897Z",
-    "generatedAt": "2026-11-16T15:19:56.897Z",
-    "total": 6270,
-    "newThisScan": 840,
+    "scrapedAt": "2026-11-16T18:13:35+00:00",
+    "generatedAt": "2026-11-16T18:13:35+00:00",
+    "total": 6263,
+    "newThisScan": 845,
     "retainedFromPrevious": 1983,
     "sources": {
       "smartrecruiters": 12,
@@ -26,18 +26,120 @@
       "greenhouse": 16,
       "lever": 1,
       "ashby": 2,
-      "linkedin": 286,
+      "linkedin": 291,
       "remoteok": 1,
       "jobicy": 2,
       "remotive": 6,
       "adzuna": 494
     },
     "primaryCounts": {
-      "servicenow": 1298,
-      "salesforce": 1359
+      "servicenow": 1302,
+      "salesforce": 1360
     }
   },
   "jobs": [
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-developer-at-nlb-services-4490908189",
+      "source": "linkedin",
+      "company": "NLB Services",
+      "title": "ServiceNow Developer",
+      "location": "Remote - Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-nlb-services-4490908189",
+      "employmentType": "contract",
+      "salary": {
+        "min": 60,
+        "max": 65,
+        "currency": "CAD",
+        "display": "$60-$65/hr"
+      },
+      "postedDate": "2026-11-16",
+      "scrapedAt": "2026-11-16T18:13:35+00:00",
+      "excerpt": "ServiceNow Developer, Remote - Canada, contract, CAD $60-65/hr. Body confirms ServiceNow development work. Verified fresh 2026-11-16.",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-aict-solution-architect-at-cognizant-4490682098",
+      "source": "linkedin",
+      "company": "Cognizant",
+      "title": "ServiceNow AICT Solution Architect",
+      "location": "Remote - US or Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-aict-solution-architect-at-cognizant-4490682098",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16",
+      "scrapedAt": "2026-11-16T18:13:35+00:00",
+      "excerpt": "ServiceNow AICT Solution Architect (Remote - US or Canada). Body confirms ServiceNow AI Control Tower / AI governance architecture. Verified fresh 2026-11-16.",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-yochana-4490658757",
+      "source": "linkedin",
+      "company": "Yochana",
+      "title": "ServiceNow ITAM/ ITOM Architect",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-yochana-4490658757",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16",
+      "scrapedAt": "2026-11-16T18:13:35+00:00",
+      "excerpt": "ServiceNow ITAM/ITOM Architect (Canada). Body requires 3x ServiceNow CIS certs plus CAD; confirms ServiceNow platform expertise. Verified fresh 2026-11-16.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam",
+        "itom"
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4490656901",
+      "source": "linkedin",
+      "company": "HRConnects",
+      "title": "Solution Architect - ServiceNow Expert",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4490656901",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16",
+      "scrapedAt": "2026-11-16T18:13:35+00:00",
+      "excerpt": "Solution Architect – ServiceNow Expert for a leading utility organization (Canada). Body confirms ServiceNow ITSM/ITOM/CMDB/SecOps platform architecture. Verified fresh 2026-11-16.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4490672278",
+      "source": "linkedin",
+      "company": "Smart IT Frame LLC",
+      "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
+      "location": "Remote (Toronto-Ontario)",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4490672278",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-16",
+      "scrapedAt": "2026-11-16T18:13:35+00:00",
+      "excerpt": "Salesforce Technical Architect (CPQ / Revenue Cloud), Remote (Toronto-Ontario), full-time. LinkedIn guest detail body confirms Salesforce platform work. Verified fresh 2026-11-16.",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
+    },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-administrator-at-hcltech-4490676918",
       "source": "linkedin",
@@ -53,7 +155,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "jobicy:jobicy.com/jobs/155494-senior-devops-engineer-9",
@@ -70,7 +174,9 @@
       "workArrangement": "unknown",
       "tags": [
         "devops"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-itom-cmdb-developer-at-allianceit-inc-4490602725",
@@ -88,7 +194,9 @@
       "tags": [
         "servicenow",
         "itam"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-itom-developer-at-techneptune-consulting-inc-4489717217",
@@ -105,7 +213,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/senior-software-developer-%e2%80%93-salesforce-at-four-seasons-4466719005",
@@ -122,7 +232,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-irm-sr-developer-%40-any-nearest-dc-office-in-canada-at-burgeon-it-services-4489770670",
@@ -139,7 +251,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-developer-at-envision-technology-solutions-4490655467",
@@ -156,7 +270,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-irm-senior-developer-at-burgeon-it-services-4489774223",
@@ -173,7 +289,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-hrsd-at-nlb-services-4490663180",
@@ -197,7 +315,9 @@
           "url": "https://ca.linkedin.com/jobs/view/servicenow-hrsd-at-nlb-services-4486384478",
           "label": "linkedin"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-csm-hrsd-at-nlb-services-4490660430",
@@ -214,7 +334,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-techneptune-consulting-inc-4489716220",
@@ -232,7 +354,9 @@
       "tags": [
         "servicenow",
         "itam"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-developer-at-resource-logistics-inc-4489780092",
@@ -249,7 +373,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483",
@@ -267,7 +393,9 @@
       "tags": [
         "salesforce",
         "devops"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-plus-company-4489770858",
@@ -284,7 +412,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/enterprise-implementation-consultant-salesforce-commerce-migration-at-vtrac-consulting-corporation-wbe-4489538546",
@@ -301,7 +431,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-consultant-at-avanciers-inc-4488577401",
@@ -318,7 +450,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100",
@@ -335,7 +469,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/revops-solutions-architect-hubspot-%2b-salesforce-at-properexpression-4479235053",
@@ -352,7 +488,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-product-owner-at-bridgenext-4478614508",
@@ -369,7 +507,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4490652540",
@@ -386,7 +526,9 @@
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/senior-infrastructure-engineer-salesforce-mulesoft-at-lumenalta-4489759494",
@@ -403,7 +545,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967247618",
@@ -421,8 +565,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967247642",
@@ -440,8 +584,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967247606",
@@ -459,8 +603,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967247600",
@@ -478,8 +622,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "unknown"
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967247520",
@@ -496,7 +640,9 @@
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967247510",
@@ -513,7 +659,9 @@
       "workArrangement": "hybrid",
       "tags": [
         "full-stack"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967041291",
@@ -530,7 +678,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:5967041349",
@@ -555,33 +705,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
-    },
-    {
-      "id": "adzuna:5967041333",
-      "source": "adzuna",
-      "company": "Association Restauration Québec",
-      "title": "Directeur.trice – Informatique",
-      "location": "Montréal, Québec",
-      "url": "https://www.adzuna.ca/details/5967041333?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:21.000Z",
-      "excerpt": "Association Restauration Québec | Temps plein Relevant de la direction – Finances et TI, le/la directeur(trice) - informatique estresponsable de la planification, de la gestion et de l’évolution del’ensemble des activités technologiques de ",
-      "category": "Trade & Construction Jobs",
-      "scrapedAt": "2026-11-15T20:06:12.987Z",
-      "matchedKeyword": "PowerShell",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -609,7 +733,7 @@
       "tags": [
         "data"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -635,7 +759,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -661,7 +785,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -687,7 +811,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -705,7 +829,9 @@
       "workArrangement": "unknown",
       "tags": [
         "devops"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967041236",
@@ -722,7 +848,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:5967041230",
@@ -747,7 +875,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -773,60 +901,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
-    },
-    {
-      "id": "adzuna:5967041205",
-      "source": "adzuna",
-      "company": "Wawanesa Insurance",
-      "title": "Actuarial Consultant - Corporate Actuarial - Reserving (All Levels)",
-      "location": "Calgary, Calgary region",
-      "url": "https://www.adzuna.ca/details/5967041205?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "part_time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:20.000Z",
-      "excerpt": "Select how often (in days) to receive an alert: Actuarial Consultant - Corporate Actuarial - Reserving (All Levels) Job ID: 10386 Employment Type: Existing Role Work Environment: We offer a hybrid work environment that offers flexibility to",
-      "category": "Accounting & Finance Jobs",
-      "scrapedAt": "2026-11-15T20:06:24.268Z",
-      "matchedKeyword": "Power BI",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "workArrangement": "hybrid",
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
-    },
-    {
-      "id": "adzuna:5967041177",
-      "source": "adzuna",
-      "company": "Finning",
-      "title": "Especialista de HR People Analytics",
-      "location": "Greater Vancouver, British Columbia",
-      "url": "https://www.adzuna.ca/details/5967041177?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:20.000Z",
-      "excerpt": "Si siempre te han gustado los equipos Caterpillar y te fascinan las máquinas y los motores, ¡te invitamos a jugar en grande! Finning, socio estratégico de CATERPILLAR, líder en distribución de equipos y servicios, se encuentra en búsqueda d",
-      "category": "IT Jobs",
-      "scrapedAt": "2026-11-15T20:06:24.268Z",
-      "matchedKeyword": "Power BI",
-      "classification": {
-        "isServiceNow": true,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -860,34 +935,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
-    },
-    {
-      "id": "adzuna:5967041250",
-      "source": "adzuna",
-      "company": "Thrive Digital",
-      "title": "Strategic Analytics Manager (Marketing Measurement Partner) (Mexico)",
-      "location": "Canada",
-      "url": "https://www.adzuna.ca/details/5967041250?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:20.000Z",
-      "excerpt": "Strategics Analytics Manager (Marketing Measurement Partner) Job Details Role: Strategic Analytics Manager (Marketing Measurement Partner) Department: Data & Measurement Job Location: Remote (Canada) Role Type: Full-Time, Permanent Hours: M",
-      "category": "PR, Advertising & Marketing Jobs",
-      "scrapedAt": "2026-11-15T20:06:30.809Z",
-      "matchedKeyword": "Technical Consultant",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "workArrangement": "remote",
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -912,7 +960,9 @@
           "url": "https://www.adzuna.ca/details/5967040864",
           "label": "adzuna"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967041010",
@@ -929,7 +979,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967041009",
@@ -946,7 +998,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967041074",
@@ -964,7 +1018,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -983,7 +1037,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1010,33 +1064,7 @@
       },
       "tags": [],
       "workArrangement": "hybrid",
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
-    },
-    {
-      "id": "adzuna:5967041085",
-      "source": "adzuna",
-      "company": "Rogers Communications",
-      "title": "Lead Management Operations",
-      "location": "North Vancouver, Greater Vancouver",
-      "url": "https://www.adzuna.ca/details/5967041085?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:19.000Z",
-      "excerpt": "We are committed to connecting Canadians through unique partnerships, our world-class network and content Canadians love—and our innovative team is growing. We are looking for dedicated team members to join our Corporate team who have a gen",
-      "category": "PR, Advertising & Marketing Jobs",
-      "scrapedAt": "2026-11-15T20:05:15.061Z",
-      "matchedKeyword": "Salesforce Developer",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1062,7 +1090,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1088,7 +1116,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1114,33 +1142,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
-    },
-    {
-      "id": "adzuna:5967041078",
-      "source": "adzuna",
-      "company": "Intact Financial Corporation",
-      "title": "Actuarial Analyst",
-      "location": "Saint-Hyacinthe, Les Maskoutains",
-      "url": "https://www.adzuna.ca/details/5967041078?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:19.000Z",
-      "excerpt": "Notre client, une entreprise manufacturière et de distribution située à Saint-Hyacinthe, cherche actuellement un analyste-programmeur pour un poste permanent.Ils recrutent un(e) analyste-progr Notre client, une entreprise manufacturière et ",
-      "category": "IT Jobs",
-      "scrapedAt": "2026-11-15T20:06:12.987Z",
-      "matchedKeyword": "PowerShell",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1166,7 +1168,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1192,7 +1194,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1218,7 +1220,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1244,7 +1246,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1270,7 +1272,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1296,33 +1298,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
-    },
-    {
-      "id": "adzuna:5967041037",
-      "source": "adzuna",
-      "company": "Thales Group",
-      "title": "Maximo Technical Data Package Analyst",
-      "location": "Canada",
-      "url": "https://www.adzuna.ca/details/5967041037?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:19.000Z",
-      "excerpt": "Location: Halifax - Wilkinson, Canada In fast changing markets, customers worldwide rely on Thales. Thales is a business where brilliant people from all over the world come together to share ideas and inspire each other. In aerospace, trans",
-      "category": "Engineering Jobs",
-      "scrapedAt": "2026-11-15T20:06:24.268Z",
-      "matchedKeyword": "Power BI",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1348,7 +1324,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1374,7 +1350,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1400,7 +1376,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1426,7 +1402,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1444,33 +1420,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
-    },
-    {
-      "id": "adzuna:5967040873",
-      "source": "adzuna",
-      "company": "Dropbox",
-      "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
-      "location": "Saskatchewan, Canada",
-      "url": "https://www.adzuna.ca/details/5967040873?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:18.000Z",
-      "excerpt": "Dropbox is a Virtual First company. For this role, we are currently only authorized to hire candidates from the following provinces: Alberta, British Columbia, Ontario, and Saskatchewan. Role Description As a Senior Client Platform Engineer",
-      "category": "Engineering Jobs",
-      "scrapedAt": "2026-11-15T20:05:58.033Z",
-      "matchedKeyword": "ITSM",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:5967040942",
@@ -1495,33 +1447,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
-    },
-    {
-      "id": "adzuna:5967040931",
-      "source": "adzuna",
-      "company": "Gestion & Conseils Arya Inc.",
-      "title": "Administrateur/administratrice de base de données",
-      "location": "Montréal, Québec",
-      "url": "https://www.adzuna.ca/details/5967040931?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:18.000Z",
-      "excerpt": "N2P Systems is seeking an experienced Senior SQL Server DBA to join our enterprise technology delivery team in Montreal, Quebec, Canada. At N2P Systems, you will put 8 years of hands‑on experience with Microsoft SQL Server, Azure SQL Databa",
-      "category": "IT Jobs",
-      "scrapedAt": "2026-11-15T20:06:12.987Z",
-      "matchedKeyword": "PowerShell",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1547,7 +1473,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1573,7 +1499,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1599,7 +1525,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1625,7 +1551,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1643,7 +1569,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967040738",
@@ -1660,7 +1588,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967040727",
@@ -1677,59 +1607,9 @@
       "workArrangement": "unknown",
       "tags": [
         "full-stack"
-      ]
-    },
-    {
-      "id": "adzuna:5967040720",
-      "source": "adzuna",
-      "company": "Rogers Communications",
-      "title": "Lead Management Operations",
-      "location": "Canada",
-      "url": "https://www.adzuna.ca/details/5967040720?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:17.000Z",
-      "excerpt": "We are committed to connecting Canadians through unique partnerships, our world-class network and content Canadians love—and our innovative team is growing. We are looking for dedicated team members to join our Corporate team who have a gen",
-      "category": "PR, Advertising & Marketing Jobs",
-      "scrapedAt": "2026-11-15T20:05:15.061Z",
-      "matchedKeyword": "Salesforce Developer",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
-    },
-    {
-      "id": "adzuna:5967040744",
-      "source": "adzuna",
-      "company": "Rogers Communications",
-      "title": "Gestionnaire des opération Marketing",
-      "location": "Lanaudière, Québec",
-      "url": "https://www.adzuna.ca/details/5967040744?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:17.000Z",
-      "excerpt": "Notre entreprise a été fondée sur le rêve d’un entrepreneur pionnier, et cet esprit continue d’inspirer notre travail auprès des entreprises partout au pays encore aujourd’hui. L’équipe de Rogers Affaires aide les entreprises de toutes tail",
-      "category": "Engineering Jobs",
-      "scrapedAt": "2026-11-15T20:05:20.442Z",
-      "matchedKeyword": "Salesforce Administrator",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:5967040787",
@@ -1754,7 +1634,7 @@
         "hasPlatformAdmin1": false
       },
       "tags": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1781,7 +1661,7 @@
       },
       "tags": [],
       "workArrangement": "onsite",
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1816,7 +1696,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1844,7 +1724,7 @@
       "tags": [
         "data"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1862,7 +1742,9 @@
       "workArrangement": "unknown",
       "tags": [
         "devops"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967040628",
@@ -1879,7 +1761,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967040684",
@@ -1897,7 +1781,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -1926,7 +1810,7 @@
         "devops"
       ],
       "workArrangement": "hybrid",
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1961,7 +1845,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -1990,7 +1874,7 @@
         "devops"
       ],
       "workArrangement": "hybrid",
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2008,7 +1892,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967040295",
@@ -2026,7 +1912,7 @@
       "tags": [
         "data"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2045,7 +1931,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2064,7 +1950,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2092,7 +1978,7 @@
       "tags": [
         "data"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2110,7 +1996,9 @@
       "workArrangement": "onsite",
       "tags": [
         "devops"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967040093",
@@ -2128,7 +2016,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2163,7 +2051,7 @@
           "label": "adzuna"
         }
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2191,7 +2079,7 @@
       "tags": [
         "data"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2209,7 +2097,9 @@
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967039738",
@@ -2226,35 +2116,9 @@
       "workArrangement": "unknown",
       "tags": [
         "devops"
-      ]
-    },
-    {
-      "id": "adzuna:5967039684",
-      "source": "adzuna",
-      "company": "S.i. Systems",
-      "title": "Data Analyst (0-2 years) to deliver enterprise communication analytics using Python, JavaScript,",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5967039684?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-15T12:16:10.000Z",
-      "excerpt": "About Us A career at Hitachi Rail will help create a legacy. With operations in every corner of the world, our work goes to the cutting edge of digital transformation and technology. From the multicultural strength of our global organisatio",
-      "category": "Engineering Jobs",
-      "scrapedAt": "2026-11-15T20:06:10.752Z",
-      "matchedKeyword": "PowerShell",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": false,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [
-        "data"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5967039571",
@@ -2272,7 +2136,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2305,7 +2169,7 @@
         "salesforce"
       ],
       "workArrangement": "onsite",
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2334,7 +2198,7 @@
         "salesforce"
       ],
       "workArrangement": "hybrid",
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2362,7 +2226,7 @@
       "tags": [
         "devops"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2381,7 +2245,9 @@
       "tags": [
         "servicenow",
         "it-reporting"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5966905053",
@@ -2405,7 +2271,9 @@
           "url": "https://www.adzuna.ca/details/5959247965",
           "label": "adzuna"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5966816415",
@@ -2423,7 +2291,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2451,7 +2319,7 @@
       "tags": [
         "devops"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2470,7 +2338,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2489,7 +2357,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2508,7 +2376,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2531,7 +2399,7 @@
       "tags": [
         "full-stack"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2554,7 +2422,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2576,7 +2444,9 @@
       "workArrangement": "unknown",
       "tags": [
         "devops"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "adzuna:adzuna.ca/details/5966726512",
@@ -2598,7 +2468,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2617,7 +2487,7 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2642,7 +2512,9 @@
           "url": "https://www.adzuna.ca/details/5966715213",
           "label": "adzuna"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:5966715109",
@@ -2669,7 +2541,7 @@
       "tags": [
         "full-stack"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2687,7 +2559,9 @@
       "workArrangement": "unknown",
       "tags": [
         "devops"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5966613408",
@@ -2705,7 +2579,7 @@
       "tags": [
         "full-stack"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2723,7 +2597,9 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-ncino-developer-at-cognizant-4473387635",
@@ -2747,7 +2623,9 @@
           "url": "https://www.adzuna.ca/details/5961950494",
           "label": "adzuna"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094",
@@ -2764,7 +2642,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/technical-lead-salesforce-dealer-experience-at-brp-4453470897",
@@ -2781,7 +2661,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-revenue-cloud-technical-architect-at-lancesoft-inc-4488379400",
@@ -2798,7 +2680,9 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/incident-coordinator-at-scotiabank-4489894559",
@@ -2823,7 +2707,9 @@
           "url": "https://www.adzuna.ca/details/5955295495",
           "label": "readme"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/senior-business-systems-analyst-servicenow-at-interac-corp-4465181202",
@@ -2841,8 +2727,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/quality-engineering-senior-specialist-servicenow-platform-at-interac-corp-4465182167",
@@ -2860,8 +2746,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/operations-specialist---expert_r260028077",
@@ -2880,7 +2766,7 @@
         "servicenow"
       ],
       "alternates": [],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "live"
     },
     {
@@ -2899,8 +2785,8 @@
       "tags": [
         "servicenow"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
-      "verifyState": "live"
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "unknown"
     },
     {
       "id": "linkedin:https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4490212417",
@@ -2918,7 +2804,7 @@
       "tags": [
         "salesforce"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2939,7 +2825,7 @@
         "junior",
         "entry-level"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2958,7 +2844,7 @@
       "tags": [
         "data"
       ],
-      "verifiedAt": "2026-11-16T11:13:01.301077+00:00",
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
       "verifyState": "unknown"
     },
     {
@@ -2976,7 +2862,9 @@
       "workArrangement": "unknown",
       "tags": [
         "full-stack"
-      ]
+      ],
+      "verifiedAt": "2026-11-16T18:13:41.419285+00:00",
+      "verifyState": "live"
     },
     {
       "id": "adzuna:adzuna.ca/details/5966185910",

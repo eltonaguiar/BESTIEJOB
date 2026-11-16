@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-16T17:18:18+00:00",
+ "generatedAt": "2026-11-16T18:13:55+00:00",
  "timezone": "America/Toronto",
- "count": 5752,
+ "count": 5750,
  "appliedHidden": 45,
  "sources": [
   "103.careerplug.com",
@@ -292,6 +292,49 @@
   "zoominfo.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-16",
+   "title": "ServiceNow ITAM/ ITOM Architect",
+   "company": "Yochana",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-yochana-4490658757",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "ITOM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow itam/ itom architect yochana canada linkedin servicenow linkedin servicenow itam itom role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20ITAM/%20ITOM%20Architect%20Yochana+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20ITAM/%20ITOM%20Architect%20Yochana&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20ITAM/%20ITOM%20Architect%20Yochana&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20ITAM/%20ITOM%20Architect%20Yochana&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
   {
    "posted": "2026-11-16",
    "title": "ServiceNow ITOM / CMDB Developer",
@@ -674,6 +717,136 @@
   },
   {
    "posted": "2026-11-16",
+   "title": "ServiceNow Developer",
+   "company": "NLB Services",
+   "location": "Remote - Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-nlb-services-4490908189",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer nlb services remote - canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20NLB%20Services+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20NLB%20Services&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20NLB%20Services&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20NLB%20Services&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "ServiceNow AICT Solution Architect",
+   "company": "Cognizant",
+   "location": "Remote - US or Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-aict-solution-architect-at-cognizant-4490682098",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow aict solution architect cognizant remote - us or canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20AICT%20Solution%20Architect%20Cognizant+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20AICT%20Solution%20Architect%20Cognizant&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20AICT%20Solution%20Architect%20Cognizant&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20AICT%20Solution%20Architect%20Cognizant&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "Solution Architect - ServiceNow Expert",
+   "company": "HRConnects",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4490656901",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "solution architect - servicenow expert hrconnects canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4488181037",
+     "label": "LinkedIn · Vancouver",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Solution%20Architect%20-%20ServiceNow%20Expert%20HRConnects+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Solution%20Architect%20-%20ServiceNow%20Expert%20HRConnects&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Solution%20Architect%20-%20ServiceNow%20Expert%20HRConnects&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Solution%20Architect%20-%20ServiceNow%20Expert%20HRConnects&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-16",
    "title": "Senior Infrastructure Engineer - Salesforce/MuleSoft",
    "company": "Lumenalta",
    "location": "Canada",
@@ -726,6 +899,72 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
+   "company": "Smart IT Frame LLC",
+   "location": "Remote (Toronto-Ontario)",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4490672278",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce technical architect - strong cpq and revenue cloud advanced smart it frame llc remote (toronto-ontario) linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4489034748",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4487909642",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5958362977?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486994714?position=3&pageNum=0&refId=0Pu%2BhuZkt10H7tz9BXbyJA%3D%3D&trackingId=OtqcYh546iqktQ4YR92qpQ%3D%3D",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Technical%20Architect%20-%20Strong%20CPQ%20and%20Revenue%20Cloud%20Advanced%20Smart%20IT%20Frame%20LLC+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Technical%20Architect%20-%20Strong%20CPQ%20and%20Revenue%20Cloud%20Advanced%20Smart%20IT%20Frame%20LLC&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Technical%20Architect%20-%20Strong%20CPQ%20and%20Revenue%20Cloud%20Advanced%20Smart%20IT%20Frame%20LLC&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Technical%20Architect%20-%20Strong%20CPQ%20and%20Revenue%20Cloud%20Advanced%20Smart%20IT%20Frame%20LLC&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-16",
@@ -2986,48 +3225,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Data Analyst (0-2 years) to deliver enterprise communication analytics using Python, JavaScript,",
-   "company": "S.i. Systems",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5967039684?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 46,
-   "matchReasons": [
-    "JavaScript",
-    "Data/reporting",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "data analyst (0-2 years) to deliver enterprise communication analytics using python, javascript, s.i. systems toronto, ontario adzuna other adzuna javascript data/reporting role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Data%20Analyst%20%280-2%20years%29%20to%20deliver%20enterprise%20communication%20analytics%20using%20Python%2C%20JavaScript%2C%20S.i.%20Systems+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Data%20Analyst%20%280-2%20years%29%20to%20deliver%20enterprise%20communication%20analytics%20using%20Python%2C%20JavaScript%2C%20S.i.%20Systems&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Data%20Analyst%20%280-2%20years%29%20to%20deliver%20enterprise%20communication%20analytics%20using%20Python%2C%20JavaScript%2C%20S.i.%20Systems&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Data%20Analyst%20%280-2%20years%29%20to%20deliver%20enterprise%20communication%20analytics%20using%20Python%2C%20JavaScript%2C%20S.i.%20Systems&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
    "title": "Director, Regional Product Management",
    "company": "ServiceNow, Inc.",
    "location": "Toronto, Ontario",
@@ -3062,6 +3259,48 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Director%2C%20Regional%20Product%20Management%20ServiceNow%2C%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "Data Analyst (0-2 years) to deliver enterprise communication analytics using Python, JavaScript,",
+   "company": "S.i. Systems",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5967039684?utm_medium=api&utm_source=54ce986e",
+   "note": "full-time",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "JavaScript",
+    "Data/reporting",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "data analyst (0-2 years) to deliver enterprise communication analytics using python, javascript, s.i. systems toronto, ontario adzuna other full-time javascript data/reporting role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Data%20Analyst%20%280-2%20years%29%20to%20deliver%20enterprise%20communication%20analytics%20using%20Python%2C%20JavaScript%2C%20S.i.%20Systems+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Data%20Analyst%20%280-2%20years%29%20to%20deliver%20enterprise%20communication%20analytics%20using%20Python%2C%20JavaScript%2C%20S.i.%20Systems&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Data%20Analyst%20%280-2%20years%29%20to%20deliver%20enterprise%20communication%20analytics%20using%20Python%2C%20JavaScript%2C%20S.i.%20Systems&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Data%20Analyst%20%280-2%20years%29%20to%20deliver%20enterprise%20communication%20analytics%20using%20Python%2C%20JavaScript%2C%20S.i.%20Systems&loc=Toronto"
     }
    ],
    "toronto": true
@@ -3650,47 +3889,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
-   "company": "Dropbox",
-   "location": "Saskatchewan, Canada",
-   "url": "https://www.adzuna.ca/details/5967040873?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 26,
-   "matchReasons": [
-    "Automation",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior client platform engineer, endpoint platform & automation dropbox saskatchewan, canada adzuna other adzuna automation role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Client%20Platform%20Engineer%2C%20Endpoint%20Platform%20%26%20Automation%20Dropbox+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Client%20Platform%20Engineer%2C%20Endpoint%20Platform%20%26%20Automation%20Dropbox&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Client%20Platform%20Engineer%2C%20Endpoint%20Platform%20%26%20Automation%20Dropbox&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Client%20Platform%20Engineer%2C%20Endpoint%20Platform%20%26%20Automation%20Dropbox&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
    "title": "Manager, Product Engineering & Development - Full-Stack Builder",
    "company": "Deloitte",
    "location": "Toronto, Ontario",
@@ -3805,83 +4003,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Manager%2C%20Pensions%20myview&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Lead Management Operations",
-   "company": "Rogers Communications",
-   "location": "Toronto / Mississauga (multi-city requisition)",
-   "url": "https://www.onjobcentre.ca/jobs/lead-management-operations-toronto-1680942",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "onjobcentre.ca",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead management operations rogers communications toronto / mississauga (multi-city requisition) onjobcentre.ca other readme role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5967041085?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · North Vancouver",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4490212417",
-     "label": "LinkedIn · Markham",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5967040720?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065",
-     "label": "LinkedIn · Georgetown",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5964819299?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Fredericton",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5964819548?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · St. Catharines",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Lead%20Management%20Operations%20Rogers%20Communications+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Management%20Operations%20Rogers%20Communications&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Lead%20Management%20Operations%20Rogers%20Communications&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Lead%20Management%20Operations%20Rogers%20Communications&loc=Toronto"
     }
    ],
    "toronto": true
@@ -4651,6 +4772,83 @@
   },
   {
    "posted": "2026-11-15",
+   "title": "Lead Management Operations",
+   "company": "Rogers Communications",
+   "location": "Toronto / Mississauga (multi-city requisition)",
+   "url": "https://www.onjobcentre.ca/jobs/lead-management-operations-toronto-1680942",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "onjobcentre.ca",
+   "verified": "Employer board",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead management operations rogers communications toronto / mississauga (multi-city requisition) onjobcentre.ca other readme role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4490212417",
+     "label": "LinkedIn · Markham",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4489888065",
+     "label": "LinkedIn · Georgetown",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5964819299?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Fredericton",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5964819548?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · St. Catharines",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5964820085?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Midland",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5964819863?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Barrie",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Lead%20Management%20Operations%20Rogers%20Communications+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Management%20Operations%20Rogers%20Communications&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Lead%20Management%20Operations%20Rogers%20Communications&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Lead%20Management%20Operations%20Rogers%20Communications&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-15",
    "title": "Senior Data Analyst",
    "company": "IA Financial Services",
    "location": "Québec, Canada",
@@ -4778,46 +4976,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Strategic Analytics Manager (Marketing Measurement Partner) (Mexico)",
-   "company": "Thrive Digital",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967041250?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "strategic analytics manager (marketing measurement partner) (mexico) thrive digital canada adzuna other adzuna role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Strategic%20Analytics%20Manager%20%28Marketing%20Measurement%20Partner%29%20%28Mexico%29%20Thrive%20Digital+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Strategic%20Analytics%20Manager%20%28Marketing%20Measurement%20Partner%29%20%28Mexico%29%20Thrive%20Digital&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Strategic%20Analytics%20Manager%20%28Marketing%20Measurement%20Partner%29%20%28Mexico%29%20Thrive%20Digital&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Strategic%20Analytics%20Manager%20%28Marketing%20Measurement%20Partner%29%20%28Mexico%29%20Thrive%20Digital&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
    "title": "BRM Software Developer",
    "company": "AceStack",
    "location": "Canada",
@@ -4939,46 +5097,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Security%20Operations%20Engineer%20Devconnectplatform&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Maximo Technical Data Package Analyst",
-   "company": "Thales Group",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967041037?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "maximo technical data package analyst thales group canada adzuna other adzuna role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Maximo%20Technical%20Data%20Package%20Analyst%20Thales%20Group+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Maximo%20Technical%20Data%20Package%20Analyst%20Thales%20Group&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Maximo%20Technical%20Data%20Package%20Analyst%20Thales%20Group&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Maximo%20Technical%20Data%20Package%20Analyst%20Thales%20Group&loc=Canada"
     }
    ],
    "toronto": false
@@ -5223,84 +5341,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Actuarial Consultant - Corporate Actuarial - Reserving (All Levels)",
-   "company": "Wawanesa Insurance",
-   "location": "Calgary, Calgary region",
-   "url": "https://www.adzuna.ca/details/5967041205?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "actuarial consultant - corporate actuarial - reserving (all levels) wawanesa insurance calgary, calgary region adzuna other adzuna role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Actuarial%20Consultant%20-%20Corporate%20Actuarial%20-%20Reserving%20%28All%20Levels%29%20Wawanesa%20Insurance+Calgary+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Actuarial%20Consultant%20-%20Corporate%20Actuarial%20-%20Reserving%20%28All%20Levels%29%20Wawanesa%20Insurance&location=Calgary"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Actuarial%20Consultant%20-%20Corporate%20Actuarial%20-%20Reserving%20%28All%20Levels%29%20Wawanesa%20Insurance&l=Calgary"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Actuarial%20Consultant%20-%20Corporate%20Actuarial%20-%20Reserving%20%28All%20Levels%29%20Wawanesa%20Insurance&loc=Calgary"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Especialista de HR People Analytics",
-   "company": "Finning",
-   "location": "Greater Vancouver, British Columbia",
-   "url": "https://www.adzuna.ca/details/5967041177?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "especialista de hr people analytics finning greater vancouver, british columbia adzuna other adzuna role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Especialista%20de%20HR%20People%20Analytics%20Finning+Vancouver+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Especialista%20de%20HR%20People%20Analytics%20Finning&location=Vancouver"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Especialista%20de%20HR%20People%20Analytics%20Finning&l=Vancouver"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Especialista%20de%20HR%20People%20Analytics%20Finning&loc=Vancouver"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
    "title": "Solutions Architect",
    "company": "Insight",
    "location": "Fort Saskatchewan, Edmonton region",
@@ -5334,45 +5374,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Solutions%20Architect%20Insight&loc=Edmonton"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Actuarial Analyst",
-   "company": "Intact Financial Corporation",
-   "location": "Saint-Hyacinthe, Les Maskoutains",
-   "url": "https://www.adzuna.ca/details/5967041078?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "actuarial analyst intact financial corporation saint-hyacinthe, les maskoutains adzuna other adzuna role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Actuarial%20Analyst%20Intact%20Financial%20Corporation+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Actuarial%20Analyst%20Intact%20Financial%20Corporation&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Actuarial%20Analyst%20Intact%20Financial%20Corporation&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Actuarial%20Analyst%20Intact%20Financial%20Corporation&loc=Canada"
     }
    ],
    "toronto": false
@@ -5704,39 +5705,78 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Directeur.trice – Informatique",
-   "company": "Association Restauration Québec",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5967041333?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
+   "title": "Actuarial Consultant - Corporate Actuarial - Reserving (All Levels)",
+   "company": "Wawanesa Insurance",
+   "location": "Calgary, Calgary region",
+   "url": "https://www.adzuna.ca/details/5967041205?utm_medium=api&utm_source=54ce986e",
+   "note": "other",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
    "verified": "Aggregator",
-   "match": 4,
+   "match": 8,
    "matchReasons": [
-    "Quebec"
+    "Role fit"
    ],
    "french": false,
-   "search": "directeur.trice – informatique association restauration quebec montreal, quebec adzuna other adzuna quebec",
+   "search": "actuarial consultant - corporate actuarial - reserving (all levels) wawanesa insurance calgary, calgary region adzuna other other role fit",
    "alternates": [],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Directeur.trice%20%E2%80%93%20Informatique%20Association%20Restauration%20Qu%C3%A9bec+Canada+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Actuarial%20Consultant%20-%20Corporate%20Actuarial%20-%20Reserving%20%28All%20Levels%29%20Wawanesa%20Insurance+Calgary+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Directeur.trice%20%E2%80%93%20Informatique%20Association%20Restauration%20Qu%C3%A9bec&location=Canada"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Actuarial%20Consultant%20-%20Corporate%20Actuarial%20-%20Reserving%20%28All%20Levels%29%20Wawanesa%20Insurance&location=Calgary"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Directeur.trice%20%E2%80%93%20Informatique%20Association%20Restauration%20Qu%C3%A9bec&l=Canada"
+     "url": "https://ca.indeed.com/jobs?q=Actuarial%20Consultant%20-%20Corporate%20Actuarial%20-%20Reserving%20%28All%20Levels%29%20Wawanesa%20Insurance&l=Calgary"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Directeur.trice%20%E2%80%93%20Informatique%20Association%20Restauration%20Qu%C3%A9bec&loc=Canada"
+     "url": "https://www.adzuna.ca/search?q=Actuarial%20Consultant%20-%20Corporate%20Actuarial%20-%20Reserving%20%28All%20Levels%29%20Wawanesa%20Insurance&loc=Calgary"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "Especialista de HR People Analytics",
+   "company": "Finning",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5967041177?utm_medium=api&utm_source=54ce986e",
+   "note": "other",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 8,
+   "matchReasons": [
+    "Role fit"
+   ],
+   "french": false,
+   "search": "especialista de hr people analytics finning greater vancouver, british columbia adzuna other other role fit",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Especialista%20de%20HR%20People%20Analytics%20Finning+Vancouver+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Especialista%20de%20HR%20People%20Analytics%20Finning&location=Vancouver"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Especialista%20de%20HR%20People%20Analytics%20Finning&l=Vancouver"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Especialista%20de%20HR%20People%20Analytics%20Finning&loc=Vancouver"
     }
    ],
    "toronto": false
@@ -5860,50 +5900,11 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Administrateur/administratrice de base de données",
-   "company": "Gestion & Conseils Arya Inc.",
+   "title": "Directeur.trice – Informatique",
+   "company": "Association Restauration Québec",
    "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5967040931?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 4,
-   "matchReasons": [
-    "Quebec"
-   ],
-   "french": true,
-   "search": "administrateur/administratrice de base de donnees gestion & conseils arya inc. montreal, quebec adzuna other adzuna quebec",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Administrateur/administratrice%20de%20base%20de%20donn%C3%A9es%20Gestion%20%26%20Conseils%20Arya%20Inc.+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Administrateur/administratrice%20de%20base%20de%20donn%C3%A9es%20Gestion%20%26%20Conseils%20Arya%20Inc.&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Administrateur/administratrice%20de%20base%20de%20donn%C3%A9es%20Gestion%20%26%20Conseils%20Arya%20Inc.&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Administrateur/administratrice%20de%20base%20de%20donn%C3%A9es%20Gestion%20%26%20Conseils%20Arya%20Inc.&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Gestionnaire des opération Marketing",
-   "company": "Rogers Communications",
-   "location": "Lanaudière, Québec",
-   "url": "https://www.adzuna.ca/details/5967040744?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
+   "url": "https://www.adzuna.ca/details/5967041333?utm_medium=api&utm_source=54ce986e",
+   "note": "other",
    "family": "other",
    "familyLabel": "Other",
    "source": "Adzuna",
@@ -5913,62 +5914,25 @@
     "Quebec"
    ],
    "french": false,
-   "search": "gestionnaire des operation marketing rogers communications lanaudiere, quebec adzuna other adzuna quebec",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5966143985?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Chilliwack",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5966145709?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Chatham-Kent",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487699436",
-     "label": "LinkedIn · Quebec",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487627896",
-     "label": "LinkedIn · Grande Prairie",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4486964872",
-     "label": "LinkedIn · Medicine Hat",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5952912896?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
+   "search": "directeur.trice – informatique association restauration quebec montreal, quebec adzuna other other quebec",
+   "alternates": [],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Gestionnaire%20des%20op%C3%A9ration%20Marketing%20Rogers%20Communications+Canada+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Directeur.trice%20%E2%80%93%20Informatique%20Association%20Restauration%20Qu%C3%A9bec+Canada+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Gestionnaire%20des%20op%C3%A9ration%20Marketing%20Rogers%20Communications&location=Canada"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Directeur.trice%20%E2%80%93%20Informatique%20Association%20Restauration%20Qu%C3%A9bec&location=Canada"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Gestionnaire%20des%20op%C3%A9ration%20Marketing%20Rogers%20Communications&l=Canada"
+     "url": "https://ca.indeed.com/jobs?q=Directeur.trice%20%E2%80%93%20Informatique%20Association%20Restauration%20Qu%C3%A9bec&l=Canada"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Gestionnaire%20des%20op%C3%A9ration%20Marketing%20Rogers%20Communications&loc=Canada"
+     "url": "https://www.adzuna.ca/search?q=Directeur.trice%20%E2%80%93%20Informatique%20Association%20Restauration%20Qu%C3%A9bec&loc=Canada"
     }
    ],
    "toronto": false
@@ -15738,6 +15702,74 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Shift%20Runner%20Domino%27s%20Pizza%20Canada&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "Gestionnaire des opération Marketing",
+   "company": "Rogers Communications",
+   "location": "Chilliwack, Fraser Valley",
+   "url": "https://www.adzuna.ca/details/5966143985?utm_medium=api&utm_source=54ce986e",
+   "note": "via adzuna-autonomous--2026-11-15--v1.md",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 0,
+   "matchReasons": [],
+   "french": false,
+   "search": "gestionnaire des operation marketing rogers communications chilliwack, fraser valley adzuna other via adzuna-autonomous--2026-11-15--v1.md ",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5966145709?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Chatham-Kent",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487699436",
+     "label": "LinkedIn · Quebec",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4487627896",
+     "label": "LinkedIn · Grande Prairie",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/gestionnaire-des-op%C3%A9ration-marketing-at-rogers-communications-4486964872",
+     "label": "LinkedIn · Medicine Hat",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5952912896?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Gestionnaire%20des%20op%C3%A9ration%20Marketing%20Rogers%20Communications+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Gestionnaire%20des%20op%C3%A9ration%20Marketing%20Rogers%20Communications&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Gestionnaire%20des%20op%C3%A9ration%20Marketing%20Rogers%20Communications&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Gestionnaire%20des%20op%C3%A9ration%20Marketing%20Rogers%20Communications&loc=Canada"
     }
    ],
    "toronto": false
@@ -34405,66 +34437,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Administrator%20/%20Application%20Support%20Specialist%20%28Intermediate%29-5816%20Amyantek&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-11",
-   "title": "Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced",
-   "company": "Smart IT Frame LLC",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4489034748",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce technical architect - strong cpq and revenue cloud advanced smart it frame llc toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4487909642",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5958362977?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4486994714?position=3&pageNum=0&refId=0Pu%2BhuZkt10H7tz9BXbyJA%3D%3D&trackingId=OtqcYh546iqktQ4YR92qpQ%3D%3D",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Technical%20Architect%20-%20Strong%20CPQ%20and%20Revenue%20Cloud%20Advanced%20Smart%20IT%20Frame%20LLC+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Technical%20Architect%20-%20Strong%20CPQ%20and%20Revenue%20Cloud%20Advanced%20Smart%20IT%20Frame%20LLC&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Technical%20Architect%20-%20Strong%20CPQ%20and%20Revenue%20Cloud%20Advanced%20Smart%20IT%20Frame%20LLC&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Technical%20Architect%20-%20Strong%20CPQ%20and%20Revenue%20Cloud%20Advanced%20Smart%20IT%20Frame%20LLC&loc=Toronto"
     }
    ],
    "toronto": true
@@ -61612,47 +61584,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Senior%20Technical%20Consultant/Technical%20Lead%20DXC%20Technology&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-06",
-   "title": "Solution Architect - ServiceNow Expert",
-   "company": "HRConnects",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4488181037",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "solution architect - servicenow expert hrconnects vancouver, british columbia, canada linkedin servicenow linkedin servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Solution%20Architect%20-%20ServiceNow%20Expert%20HRConnects+Vancouver+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Solution%20Architect%20-%20ServiceNow%20Expert%20HRConnects&location=Vancouver"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Solution%20Architect%20-%20ServiceNow%20Expert%20HRConnects&l=Vancouver"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Solution%20Architect%20-%20ServiceNow%20Expert%20HRConnects&loc=Vancouver"
     }
    ],
    "toronto": false
