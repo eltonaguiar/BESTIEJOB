@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-16T02:08:54+00:00",
+ "generatedAt": "2026-11-16T02:19:18+00:00",
  "timezone": "America/Toronto",
- "count": 5739,
+ "count": 5741,
  "appliedHidden": 45,
  "sources": [
   "103.careerplug.com",
@@ -375,6 +375,53 @@
    "toronto": false
   },
   {
+   "posted": "2026-11-16",
+   "title": "Salesforce Product Owner",
+   "company": "Bridgenext",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-bridgenext-4478614508",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 52,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce product owner bridgenext greater toronto area, canada linkedin salesforce linkedin salesforce toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5936223980",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Product%20Owner%20Bridgenext+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Product%20Owner%20Bridgenext&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Product%20Owner%20Bridgenext&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Product%20Owner%20Bridgenext&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
    "posted": "2026-11-15",
    "title": "Senior ServiceNow Developer (SAM/HAM)",
    "company": "BeachHead",
@@ -664,6 +711,239 @@
   },
   {
    "posted": "2026-11-15",
+   "title": "Functional Consultant / Senior Consultant - ServiceNow",
+   "company": "KPMG",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5967247618",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "functional consultant / senior consultant - servicenow kpmg montreal, quebec adzuna servicenow adzuna servicenow role fit quebec",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480399041",
+     "label": "LinkedIn · Boisbriand",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480501034",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480382876",
+     "label": "LinkedIn · Montreal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389737",
+     "label": "LinkedIn · Brossard",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389738",
+     "label": "LinkedIn · Ottawa",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480502039",
+     "label": "LinkedIn · Québec",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Functional%20Consultant%20/%20Senior%20Consultant%20-%20ServiceNow%20KPMG+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Functional%20Consultant%20/%20Senior%20Consultant%20-%20ServiceNow%20KPMG&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Functional%20Consultant%20/%20Senior%20Consultant%20-%20ServiceNow%20KPMG&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Functional%20Consultant%20/%20Senior%20Consultant%20-%20ServiceNow%20KPMG&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "Manager - ServiceNow Solution Architect",
+   "company": "KPMG",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5967247606",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 80,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "manager - servicenow solution architect kpmg montreal, quebec adzuna servicenow adzuna servicenow role fit quebec",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480391488",
+     "label": "LinkedIn · Boisbriand",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480392412",
+     "label": "LinkedIn · Montreal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480390494",
+     "label": "LinkedIn · Brossard",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480398115",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480397232",
+     "label": "LinkedIn · Ottawa",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480384865",
+     "label": "LinkedIn · Québec",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Manager%20-%20ServiceNow%20Solution%20Architect%20KPMG+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%20-%20ServiceNow%20Solution%20Architect%20KPMG&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Manager%20-%20ServiceNow%20Solution%20Architect%20KPMG&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Manager%20-%20ServiceNow%20Solution%20Architect%20KPMG&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "Functional Manager - ServiceNow",
+   "company": "KPMG",
+   "location": "Multiple Locations",
+   "url": "https://careers.kpmg.ca/jobs/34115?lang=en-us",
+   "note": "kpmg",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.kpmg.ca",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "functional manager - servicenow kpmg multiple locations careers.kpmg.ca servicenow kpmg servicenow role fit",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5967247642",
+     "label": "Adzuna · Montréal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480384864",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480502037",
+     "label": "LinkedIn · Boisbriand",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480398118",
+     "label": "LinkedIn · Brossard",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480385843",
+     "label": "LinkedIn · Montreal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480396266",
+     "label": "LinkedIn · Ottawa",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Functional%20Manager%20-%20ServiceNow%20KPMG+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Functional%20Manager%20-%20ServiceNow%20KPMG&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Functional%20Manager%20-%20ServiceNow%20KPMG&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Functional%20Manager%20-%20ServiceNow%20KPMG&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-15",
    "title": "ServiceNow Architecture Consultant",
    "company": "CGI",
    "location": "Calgary, AB",
@@ -714,6 +994,47 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "Salesforce Alliance - Operations & PMO Manager 24 Month Fixed Term Contract",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5967247520",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce alliance - operations & pmo manager 24 month fixed term contract deloitte toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Alliance%20-%20Operations%20%26%20PMO%20Manager%2024%20Month%20Fixed%20Term%20Contract%20Deloitte+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Alliance%20-%20Operations%20%26%20PMO%20Manager%2024%20Month%20Fixed%20Term%20Contract%20Deloitte&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Alliance%20-%20Operations%20%26%20PMO%20Manager%2024%20Month%20Fixed%20Term%20Contract%20Deloitte&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Alliance%20-%20Operations%20%26%20PMO%20Manager%2024%20Month%20Fixed%20Term%20Contract%20Deloitte&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-15",
@@ -2020,47 +2341,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Applications Support Analyst",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Operations-Specialist---Expert_R260028077",
-   "note": "workday",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 30,
-   "matchReasons": [
-    "IT operations",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "applications support analyst bmo toronto, on, can workday ats other workday it operations role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Applications%20Support%20Analyst%20BMO+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Applications%20Support%20Analyst%20BMO&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Applications%20Support%20Analyst%20BMO&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Applications%20Support%20Analyst%20BMO&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
    "title": "Bilingual Senior Specialist, IT Operations Monitoring & Service Insights",
    "company": "Canada Mortgage Housing Corporation",
    "location": "Ottawa, Ottawa region",
@@ -2106,6 +2386,47 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "Applications Support Analyst",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Operations-Specialist---Expert_R260028077",
+   "note": "workday",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 30,
+   "matchReasons": [
+    "IT operations",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "applications support analyst bmo toronto, on, can workday ats other workday it operations role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Applications%20Support%20Analyst%20BMO+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Applications%20Support%20Analyst%20BMO&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Applications%20Support%20Analyst%20BMO&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Applications%20Support%20Analyst%20BMO&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-15",
@@ -2299,6 +2620,46 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "Manager, Product Engineering & Development - Full-Stack Builder",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5967247510",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "manager, product engineering & development - full-stack builder deloitte toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Manager%2C%20Product%20Engineering%20%26%20Development%20-%20Full-Stack%20Builder%20Deloitte+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Product%20Engineering%20%26%20Development%20-%20Full-Stack%20Builder%20Deloitte&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20Product%20Engineering%20%26%20Development%20-%20Full-Stack%20Builder%20Deloitte&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Manager%2C%20Product%20Engineering%20%26%20Development%20-%20Full-Stack%20Builder%20Deloitte&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-15",
@@ -34808,53 +35169,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Product Owner",
-   "company": "Bridgenext",
-   "location": "Greater Toronto Area, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-product-owner-at-bridgenext-4478614508",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce product owner bridgenext greater toronto area, canada linkedin salesforce linkedin salesforce toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5936223980",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Product%20Owner%20Bridgenext+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Product%20Owner%20Bridgenext&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Product%20Owner%20Bridgenext&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Product%20Owner%20Bridgenext&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Intermediate Salesforce System Coordinator- 5816",
    "company": "Amyantek",
    "location": "Toronto, Ontario, Canada",
@@ -55267,156 +55581,6 @@
   },
   {
    "posted": "2026-11-07",
-   "title": "Manager - ServiceNow Solution Architect",
-   "company": "KPMG Canada",
-   "location": "Boisbriand, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480391488",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "manager - servicenow solution architect kpmg canada boisbriand, quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480392412",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480390494",
-     "label": "LinkedIn · Brossard",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480398115",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480397232",
-     "label": "LinkedIn · Ottawa",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-solution-architect-at-kpmg-canada-4480384865",
-     "label": "LinkedIn · Québec",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Manager%20-%20ServiceNow%20Solution%20Architect%20KPMG%20Canada+Quebec+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%20-%20ServiceNow%20Solution%20Architect%20KPMG%20Canada&location=Quebec"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Manager%20-%20ServiceNow%20Solution%20Architect%20KPMG%20Canada&l=Quebec"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Manager%20-%20ServiceNow%20Solution%20Architect%20KPMG%20Canada&loc=Quebec"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "Functional Consultant / Senior Consultant – ServiceNow",
-   "company": "KPMG Canada",
-   "location": "Boisbriand, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480399041",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "functional consultant / senior consultant – servicenow kpmg canada boisbriand, quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480501034",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480382876",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389737",
-     "label": "LinkedIn · Brossard",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480389738",
-     "label": "LinkedIn · Ottawa",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-consultant-senior-consultant-%E2%80%93-servicenow-at-kpmg-canada-4480502039",
-     "label": "LinkedIn · Québec",
-     "gated": false
-    },
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/functional-consultant-senior-consultant-%E2%80%93-servicenow-6ef4713e5ee39f4b6dc5504b8b8ecb0f",
-     "label": "Eluta · Montréal QC",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Functional%20Consultant%20/%20Senior%20Consultant%20%E2%80%93%20ServiceNow%20KPMG%20Canada+Quebec+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Functional%20Consultant%20/%20Senior%20Consultant%20%E2%80%93%20ServiceNow%20KPMG%20Canada&location=Quebec"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Functional%20Consultant%20/%20Senior%20Consultant%20%E2%80%93%20ServiceNow%20KPMG%20Canada&l=Quebec"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Functional%20Consultant%20/%20Senior%20Consultant%20%E2%80%93%20ServiceNow%20KPMG%20Canada&loc=Quebec"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-07",
    "title": "ServiceNow Techno Functional Lead",
    "company": "Deloitte",
    "location": "Columbus, OH",
@@ -55977,83 +56141,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Directeur.rice%20fonctionnel.le%20-%20ServiceNow%20KPMG%20Canada&loc=Quebec"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-07",
-   "title": "Functional Manager - ServiceNow",
-   "company": "KPMG",
-   "location": "Multiple Locations",
-   "url": "https://careers.kpmg.ca/jobs/34115?lang=en-us",
-   "note": "kpmg",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.kpmg.ca",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "functional manager - servicenow kpmg multiple locations careers.kpmg.ca servicenow kpmg servicenow role fit",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480384864",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480502037",
-     "label": "LinkedIn · Boisbriand",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480398118",
-     "label": "LinkedIn · Brossard",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480385843",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480396266",
-     "label": "LinkedIn · Ottawa",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/functional-manager-servicenow-at-kpmg-canada-4480379956",
-     "label": "LinkedIn · Québec",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Functional%20Manager%20-%20ServiceNow%20KPMG+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Functional%20Manager%20-%20ServiceNow%20KPMG&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Functional%20Manager%20-%20ServiceNow%20KPMG&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Functional%20Manager%20-%20ServiceNow%20KPMG&loc=Canada"
     }
    ],
    "toronto": false
@@ -57186,46 +57273,6 @@
   },
   {
    "posted": "2026-11-07",
-   "title": "Senior Full Stack .NET Developer",
-   "company": "Cognizant",
-   "location": "Mississauga, Peel region",
-   "url": "https://www.adzuna.ca/details/5956636310",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full stack .net developer cognizant mississauga, peel region adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Full%20Stack%20.NET%20Developer%20Cognizant+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Full%20Stack%20.NET%20Developer%20Cognizant&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Full%20Stack%20.NET%20Developer%20Cognizant&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Full%20Stack%20.NET%20Developer%20Cognizant&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-07",
    "title": "Data Engineer",
    "company": "Canadian Cancer Society",
    "location": "Hamilton, Ontario, Canada",
@@ -58240,6 +58287,46 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Full%20Stack%20Engineer%20People%20Products%20Thumbtack&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Senior Full Stack .NET Developer",
+   "company": "Cognizant",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5956636310",
+   "note": "adzuna · full-stack",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior full stack .net developer cognizant mississauga, peel region adzuna other adzuna · full-stack role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Full%20Stack%20.NET%20Developer%20Cognizant+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Full%20Stack%20.NET%20Developer%20Cognizant&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Full%20Stack%20.NET%20Developer%20Cognizant&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Full%20Stack%20.NET%20Developer%20Cognizant&loc=Mississauga"
     }
    ],
    "toronto": true
