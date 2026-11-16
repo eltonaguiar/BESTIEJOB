@@ -9,7 +9,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-16](#current-jobs--as-of-2026-11-16)
-  - [ServiceNow jobs (1296)](###servicenow-jobs-1296)
+  - [ServiceNow jobs (1298)](###servicenow-jobs-1298)
   - [Salesforce jobs (1505)](###salesforce-jobs-1505)
   - [Other jobs (4777)](#other-jobs-4777)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,15 +18,17 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-16
 
-Window: 2026-10-02 → 2026-11-16 · **7542 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-02 → 2026-11-16 · **7544 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1295)
+### ServiceNow jobs (1297)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1295 postings</strong></summary>
+<details><summary><strong>Show 1297 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
+| 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-envision-technology-solutions-4490926514) | Envision Technology Solutions | Toronto, ON, Canada | via linkedin-guest--2026-11-16 |
+| 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-imr-soft-llc-4490936151) | IMR Soft LLC | Toronto, Canada (Hybrid) | via linkedin-guest--2026-11-16 |
 | 2026-11-16 | [ServiceNow ITOM Developer](https://ca.linkedin.com/jobs/view/servicenow-itom-developer-at-techneptune-consulting-inc-4489717217) | TechNeptune Consulting Inc. | Toronto, Ontario, Canada | unknown |
 | 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-techneptune-consulting-inc-4489716220) | TechNeptune Consulting Inc. | Toronto, Ontario, Canada | unknown |
 | 2026-11-15 | [Functional Consultant / Senior Consultant - ServiceNow](https://www.adzuna.ca/details/5967247618) | KPMG | Montréal, Québec | unknown |
