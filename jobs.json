@@ -35,9 +35,29 @@
     "primaryCounts": {
       "servicenow": 1293,
       "salesforce": 1357
-    }
+    },
+    "count": 6263,
+    "updatedAt": "2026-11-16T14:10:23.000Z"
   },
   "jobs": [
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/incident-coordinator-at-scotiabank-4489894559",
+      "source": "linkedin",
+      "company": "Scotiabank",
+      "title": "Incident Coordinator",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/incident-coordinator-at-scotiabank-4489894559",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-15T00:00:00.000Z",
+      "scrapedAt": "2026-11-16T14:10:23.000Z",
+      "excerpt": "Incident Coordinator at Scotiabank (Toronto, ON). Posting requires ITSM tool experience and names ServiceNow as a plus (Requisition ID 269257). Posted 1 day ago on LinkedIn; freshness verified on the live posting.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itsm"
+      ]
+    },
     {
       "id": "jobicy:jobicy.com/jobs/155494-senior-devops-engineer-9",
       "source": "jobicy",
