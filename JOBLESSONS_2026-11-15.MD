@@ -268,3 +268,36 @@ Outcome: +1 verified fresh job — BMO Applications Support Analyst (Toronto, Se
 
 Lessons re-confirmed: hourly Toronto SN/SF supply is near zero — 0–1 fresh/hour is normal, not a scanner failure. Workday CXS "Posted Today" single-call `--compressed` probes stay under the 422 rate limit; always confirm `country` + platform mention before counting a fresh hit. `bmo.myworkdayjobs.com` is NXDOMAIN — use the `wdN` host (`bmo.wd3...`).
 
+## 2026-11-15 22:00 EST run — null result (0 fresh jobs)
+
+
+Window: 2026-11-14 → 2026-11-15, Toronto-first ServiceNow / Salesforce; Canada scope (banks, government, partners, Rogers, Bell).
+
+
+Board state: local main == origin/main (jobs.json 2,756 rows; README parsed 7,470 rows).
+
+
+Fresh verified jobs added this run: 0.
+
+
+Sources checked, all zero new:
+
+- **Inbox merge** (`python3 tools/jobs_merge_inbox.py --max-per-table 4000`): fresh-ca--2026-11-15--v1.md = +0 new, 43 duplicate — every URL/fingerprint already in README.md; nothing survived dedupe.
+
+- **fresh_ca_scan** (Adzuna 13 queries × 3 geos, Job Bank, Eluta): local re-scan timed out (~4 min) on URL liveness verification; the 18:00 EST harvest's 43 rows are all already aboard, so nothing lost.
+
+- **Public sector**: gojobs.gov.on.ca Radware-walled (do not retry); jobs.gc.ca NXDOMAIN; Job Bank OPS feed 0 platform-titled postings; City of Toronto jobs.toronto.ca 0 SN/SF cards.
+
+- **Partner/Elite sponsors** (`scripts/partner_sponsor_scan_verified.py`): 18 sponsors confirmed, 0 relevant postings; Workday tenants 0/15 answering; slug guesses rejected by identity check (Ernst & Young, KPMG, Crossfuze, Fujitsu, Blue Mantis, Brightfin, Tech Mahindra — no verifiable board or demo boards).
+
+- **Rogers/Bell/Workday raw probes**: BMO ServiceNow CMDB Administrator R260030992 + Technology Lifecycle Analyst R260030995 and TD Software Engineer III - Salesforce Data 360 all confirmed already aboard (README); no new Canada SN/SF hits in this cycle.
+
+
+Dedupe: URL + title|company|city fingerprint held against README.md and jobs.json; nothing new survived.
+
+
+Outcome: no commit, no publish — README.md, jobs.json, and public/ unchanged. pages.yml redeploys eltonaguiar.github.io/BESTIEJOB/ only on a main push, so no GitHub Pages redeploy this run.
+
+
+Lesson re-confirmed: late-2026 Toronto SN/SF hourly supply is sparse — 0 fresh jobs this hour is normal; don't re-run the merge "just to have a commit". Local network is too slow for full re-scans (Adzuna verify + LinkedIn guest pass time out past ~4 min), so trust the same-day captures already aboard rather than re-scraping.
+
