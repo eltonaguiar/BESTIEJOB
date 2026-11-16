@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:15:50+00:00",
+ "generatedAt": "2026-11-16T21:12:36+00:00",
  "timezone": "America/Toronto",
  "count": 5765,
  "appliedHidden": 45,
@@ -294,90 +294,6 @@
  "jobs": [
   {
    "posted": "2026-11-16",
-   "title": "ServiceNow CMDB Consultant",
-   "company": "Envision Technology Solutions",
-   "location": "Toronto, ON, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-envision-technology-solutions-4490926514",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "CMDB",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow cmdb consultant envision technology solutions toronto, on, canada linkedin servicenow linkedin servicenow cmdb role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20CMDB%20Consultant%20Envision%20Technology%20Solutions+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CMDB%20Consultant%20Envision%20Technology%20Solutions&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CMDB%20Consultant%20Envision%20Technology%20Solutions&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CMDB%20Consultant%20Envision%20Technology%20Solutions&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
-   "title": "ServiceNow CMDB Consultant",
-   "company": "IMR Soft LLC",
-   "location": "Toronto, Canada (Hybrid)",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-imr-soft-llc-4490936151",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "CMDB",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow cmdb consultant imr soft llc toronto, canada (hybrid) linkedin servicenow linkedin servicenow cmdb role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
    "title": "ServiceNow SPM Developer",
    "company": "Astra-North Infoteck Inc.",
    "location": "Toronto, Ontario",
@@ -629,6 +545,48 @@
   },
   {
    "posted": "2026-11-16",
+   "title": "ServiceNow CMDB Consultant",
+   "company": "Envision Technology Solutions",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-envision-technology-solutions-4490926514",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "CMDB",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow cmdb consultant envision technology solutions toronto, ontario, canada linkedin servicenow linkedin servicenow cmdb role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20CMDB%20Consultant%20Envision%20Technology%20Solutions+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CMDB%20Consultant%20Envision%20Technology%20Solutions&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CMDB%20Consultant%20Envision%20Technology%20Solutions&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CMDB%20Consultant%20Envision%20Technology%20Solutions&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
    "title": "ServiceNow ITAM/ ITOM Architect",
    "company": "Yochana",
    "location": "Canada",
@@ -669,6 +627,48 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "ServiceNow CMDB Consultant",
+   "company": "IMR Soft LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-imr-soft-llc-4490936151",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "CMDB",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow cmdb consultant imr soft llc toronto, ontario, canada linkedin servicenow linkedin servicenow cmdb role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-16",
@@ -844,47 +844,6 @@
   },
   {
    "posted": "2026-11-16",
-   "title": "ServiceNow IRM Senior Developer",
-   "company": "BURGEON IT SERVICES",
-   "location": "Greater Toronto Area, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-irm-senior-developer-at-burgeon-it-services-4489774223",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow irm senior developer burgeon it services greater toronto area, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20IRM%20Senior%20Developer%20BURGEON%20IT%20SERVICES+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20IRM%20Senior%20Developer%20BURGEON%20IT%20SERVICES&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20IRM%20Senior%20Developer%20BURGEON%20IT%20SERVICES&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20IRM%20Senior%20Developer%20BURGEON%20IT%20SERVICES&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
    "title": "ServiceNow Developer",
    "company": "Resource Logistics Inc.",
    "location": "Toronto, Ontario, Canada",
@@ -920,6 +879,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Resource%20Logistics%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "ServiceNow IRM Senior Developer",
+   "company": "BURGEON IT SERVICES",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-irm-senior-developer-at-burgeon-it-services-4489774223",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow irm senior developer burgeon it services greater toronto area, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20IRM%20Senior%20Developer%20BURGEON%20IT%20SERVICES+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20IRM%20Senior%20Developer%20BURGEON%20IT%20SERVICES&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20IRM%20Senior%20Developer%20BURGEON%20IT%20SERVICES&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20IRM%20Senior%20Developer%20BURGEON%20IT%20SERVICES&loc=Toronto"
     }
    ],
    "toronto": true
@@ -1015,47 +1015,6 @@
   },
   {
    "posted": "2026-11-16",
-   "title": "ServiceNow Developer",
-   "company": "NLB Services",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-nlb-services-4490908189",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer nlb services canada linkedin servicenow linkedin servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20NLB%20Services+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20NLB%20Services&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20NLB%20Services&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20NLB%20Services&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-16",
    "title": "ServiceNow AICT Solution Architect",
    "company": "Cognizant",
    "location": "Canada",
@@ -1091,6 +1050,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20AICT%20Solution%20Architect%20Cognizant&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "ServiceNow Developer",
+   "company": "NLB Services",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-nlb-services-4490908189",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer nlb services canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20NLB%20Services+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20NLB%20Services&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20NLB%20Services&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20NLB%20Services&loc=Canada"
     }
    ],
    "toronto": false
@@ -2039,6 +2039,95 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Administrator%20%28Remote%29%20Hired&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "Salesforce Consultant",
+   "company": "Robert Half",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-robert-half-4490919505",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce consultant robert half canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-robert-half-4484808192",
+     "label": "LinkedIn · Calgary",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Consultant%20Robert%20Half+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Consultant%20Robert%20Half&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Consultant%20Robert%20Half&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Consultant%20Robert%20Half&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "Salesforce Revenue Cloud Technical Architect",
+   "company": "LanceSoft, Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-technical-architect-at-lancesoft-inc-4488379400",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce revenue cloud technical architect lancesoft, inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Revenue%20Cloud%20Technical%20Architect%20LanceSoft%2C%20Inc.+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Revenue%20Cloud%20Technical%20Architect%20LanceSoft%2C%20Inc.&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Revenue%20Cloud%20Technical%20Architect%20LanceSoft%2C%20Inc.&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Revenue%20Cloud%20Technical%20Architect%20LanceSoft%2C%20Inc.&loc=Canada"
     }
    ],
    "toronto": false
@@ -3847,47 +3936,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Specialist-%20Salesforce%20Architect%20Parkland%20Corporation&loc=Calgary"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Salesforce Revenue Cloud Technical Architect",
-   "company": "LanceSoft, Inc.",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-technical-architect-at-lancesoft-inc-4488379400",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce revenue cloud technical architect lancesoft, inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Revenue%20Cloud%20Technical%20Architect%20LanceSoft%2C%20Inc.+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Revenue%20Cloud%20Technical%20Architect%20LanceSoft%2C%20Inc.&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Revenue%20Cloud%20Technical%20Architect%20LanceSoft%2C%20Inc.&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Revenue%20Cloud%20Technical%20Architect%20LanceSoft%2C%20Inc.&loc=Canada"
     }
    ],
    "toronto": false
@@ -205961,47 +206009,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Marketing%20Cloud%20Consultant%20CGI&loc=Victoria"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-30",
-   "title": "Salesforce Consultant",
-   "company": "Robert Half",
-   "location": "Calgary, Alberta, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-robert-half-4484808192",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce consultant robert half calgary, alberta, canada linkedin salesforce readme salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Consultant%20Robert%20Half+Calgary+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Consultant%20Robert%20Half&location=Calgary"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Consultant%20Robert%20Half&l=Calgary"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Consultant%20Robert%20Half&loc=Calgary"
     }
    ],
    "toronto": false
