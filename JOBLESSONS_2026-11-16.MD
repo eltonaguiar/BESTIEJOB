@@ -35,3 +35,28 @@
 
 ## Extractor quirk
 - `jobs_consolidate.extract_rows` skips any README table line that doesn't start with `|` — the glued `<details><summary>...|| first-row` line is never parsed, so README heading counts and extractor counts diverge (baseline debt; count-disagreement is a warning, not an error). Do not chase a perfect heading count; protect that jobs-data.json carries the new URLs and check_site_links passes.
+
+
+## 2026-11-16 07:00 EST run — null result (0 fresh jobs merged)
+
+Window: 2026-11-15 → 2026-11-16, Toronto-first ServiceNow / Salesforce; Canada scope (banks, government, partners, Rogers, Bell).
+
+Board state: local main == origin/main 00f00e3 after rebase; README already carries the two TechNeptune ServiceNow roles from the 00:00 EST run (ServiceNow jobs 1308, "as of" 2026-11-16).
+
+Sources checked, all zero new merged:
+
+- **Workday CXS** (`curl -s --compressed`, POST `/wday/cxs/{tenant}/{site}/jobs`, body `{"appliedFacets":{},"limit":20,"offset":0,"searchText":q}`, one call at a time, ~6 s gaps): 18 probes × {ServiceNow, Salesforce} — bmo.wd3/External, td.wd3/TD_Bank_Careers, cibc.wd3/search, manulife.wd3/MFCJH_Jobs, sunlife.wd3/Experienced-Jobs, interac.wd3/interac, accenture.wd103/AccentureCareers, salesforce.wd12/External_Career_Site, gdit.wd5/External_Career_Site — all HTTP 200. Canada SN/SF hits: BMO Applications Support Analyst (Posted Yesterday, R260028077 — already aboard from the 2026-11-15 21:00 EST run), BMO ServiceNow CMDB Administrator R260030992 / Technology Lifecycle Analyst R260030995 / SAM Administrator–ITAM R260030096 (4–13 days, recurring requisitions aboard), TD Software Engineer III–Salesforce Data 360 R_1515074 (3 days, aboard), Manulife Salesforce Functional Analyst Waterloo (14 days, aboard). Interac Senior BSA (ServiceNow) + QE Senior Specialist (ServiceNow Platform), Toronto — 30+ days, outside fresh window. All other hits non-Canada (Accenture/GDIT/Salesforce corporate offshore + US). **0 fresh.**
+- **LinkedIn** (web-search cross-check; guest pass unavailable — Chrome profile locked, direct LinkedIn 301/403): six "1 day ago" (2026-11-15) Toronto ServiceNow leads — Brookfield contract dev 4481508851 (already aboard), Lightspeed 4466234344 (in APPLIED.md — hard exclude), Cloud Resourcing 4397607517, Brainhunter 4474956448, ThoughtStorm 4480281328, iPartner/Cognizant 4480455968 (none in jobs.json/README.md/APPLIED.md). Not merged: cannot re-fetch live guest-detail pages this run to confirm freshness and that the posting is live. Deferred to next run.
+- **gap_scan** (`raw/gap_scan_2026-11-16.json`, 01:03Z): partner/Elite-sponsor career sites (FX Innovation/Ateko, Cofomo, Everforth, Coaxxion, CloudKettle, Lane Four, Crossfuze) — Lane Four "Salesforce Consultant" undated (merger skips undated rows); all other sites returned 0 postings. **0 fresh.**
+- **Public sector**: gojobs.gov.on.ca Radware-walled; jobs.gc.ca NXDOMAIN; Job Bank OPS feed 0 platform-titled postings; City of Toronto 0 SN/SF cards; inbox todayfeed (Workday, 04:01Z) = data-engineering roles only, no SN/SF.
+- **Rogers / Bell**: Rogers careers = sales/retail only, no SN/SF platform titles; Bell JS-rendered 303, not curl-scrapeable.
+
+Dedupe: URL + title|company|city fingerprint held against jobs.json + README.md + APPLIED.md; nothing new survived.
+
+Outcome: no board-data commit — README.md, jobs.json, and public/ unchanged; live page (https://eltonaguiar.github.io/BESTIEJOB/) remains current from the 00:00 EST push. Only this lessons entry committed ([skip ci]).
+
+New lessons:
+
+1. **Workday CXS `searchText` matches body text, not just titles** — BMO's "ServiceNow" probe returned "Applications Support Analyst" etc.; read the title before counting a hit. Recurring BMO requisitions reappear under the same job IDs (R260030992, R260030995) — check postedOn before treating as fresh.
+2. **LinkedIn guest re-fetch stayed unavailable** (Chrome profile locked; direct LinkedIn 301/403; ddgs cannot extract URLs). Web-search snippets give "1 day ago" freshness but not liveness — do not merge unverified leads; re-fetch via LinkedIn guest next run before merging the Cloud Resourcing / Brainhunter / ThoughtStorm / iPartner leads.
+3. **Late-2026 hourly supply stays near zero** — 0 fresh merged hours are normal; don't re-run the merge "just to have a commit".
