@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-16T16:15:17+00:00",
+ "generatedAt": "2026-11-16T17:12:46+00:00",
  "timezone": "America/Toronto",
- "count": 5752,
+ "count": 5755,
  "appliedHidden": 45,
  "sources": [
   "103.careerplug.com",
@@ -464,6 +464,48 @@
   },
   {
    "posted": "2026-11-16",
+   "title": "ServiceNow ITOM Developer",
+   "company": "Envision Technology Solutions",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-itom-developer-at-envision-technology-solutions-4490655467",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow itom developer envision technology solutions toronto, ontario, canada linkedin servicenow linkedin servicenow itom role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20ITOM%20Developer%20Envision%20Technology%20Solutions+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20ITOM%20Developer%20Envision%20Technology%20Solutions&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20ITOM%20Developer%20Envision%20Technology%20Solutions&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20ITOM%20Developer%20Envision%20Technology%20Solutions&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
    "title": "ServiceNow HRSD",
    "company": "NLB Services",
    "location": "Mississauga, Ontario, Canada",
@@ -594,47 +636,6 @@
   },
   {
    "posted": "2026-11-16",
-   "title": "ServiceNow Developer",
-   "company": "Envision Technology Solutions",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-envision-technology-solutions-4490655467",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow developer envision technology solutions toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20Envision%20Technology%20Solutions+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20Envision%20Technology%20Solutions&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20Envision%20Technology%20Solutions&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Envision%20Technology%20Solutions&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
    "title": "ServiceNow IRM Senior Developer",
    "company": "BURGEON IT SERVICES",
    "location": "Greater Toronto Area, Canada",
@@ -717,6 +718,47 @@
   },
   {
    "posted": "2026-11-16",
+   "title": "ServiceNow Developer",
+   "company": "Envision Technology Solutions",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-envision-technology-solutions-4490655467",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer envision technology solutions toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20Envision%20Technology%20Solutions+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20Envision%20Technology%20Solutions&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20Envision%20Technology%20Solutions&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Envision%20Technology%20Solutions&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
    "title": "Solution Architect - ServiceNow Expert",
    "company": "HRConnects",
    "location": "Vancouver, British Columbia, Canada",
@@ -759,6 +801,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Solution%20Architect%20-%20ServiceNow%20Expert%20HRConnects&loc=Vancouver"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "ServiceNow AICT Solution Architect",
+   "company": "Cognizant",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-aict-solution-architect-at-cognizant-4490682098",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow aict solution architect cognizant canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20AICT%20Solution%20Architect%20Cognizant+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20AICT%20Solution%20Architect%20Cognizant&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20AICT%20Solution%20Architect%20Cognizant&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20AICT%20Solution%20Architect%20Cognizant&loc=Canada"
     }
    ],
    "toronto": false
@@ -862,6 +945,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Developer%20%E2%80%93%20Salesforce%20Four%20Seasons&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "Salesforce Administrator",
+   "company": "HCLTech",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-at-hcltech-4490676918",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce administrator hcltech toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Administrator%20HCLTech+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Administrator%20HCLTech&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Administrator%20HCLTech&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Administrator%20HCLTech&loc=Toronto"
     }
    ],
    "toronto": true
@@ -1051,6 +1175,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Enterprise%20Implementation%20Consultant%20%28Salesforce%20Commerce%20Migration%29%20VTRAC%20Consulting%20Corporation%20%28WBE%29&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "Senior/Lead Salesforce Marketing Cloud Engineer",
+   "company": "Diligente Technologies",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-lead-salesforce-marketing-cloud-engineer-at-diligente-technologies-4477699547",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior/lead salesforce marketing cloud engineer diligente technologies mississauga, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior/Lead%20Salesforce%20Marketing%20Cloud%20Engineer%20Diligente%20Technologies+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior/Lead%20Salesforce%20Marketing%20Cloud%20Engineer%20Diligente%20Technologies&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior/Lead%20Salesforce%20Marketing%20Cloud%20Engineer%20Diligente%20Technologies&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior/Lead%20Salesforce%20Marketing%20Cloud%20Engineer%20Diligente%20Technologies&loc=Mississauga"
     }
    ],
    "toronto": true
@@ -22470,47 +22635,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20-%20Digital%20Customer%20%3A%20Future%20Opportunities%20Deloitte&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "Senior/Lead Salesforce Marketing Cloud Engineer",
-   "company": "Diligente Technologies",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-lead-salesforce-marketing-cloud-engineer-at-diligente-technologies-4477699547",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior/lead salesforce marketing cloud engineer diligente technologies mississauga, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior/Lead%20Salesforce%20Marketing%20Cloud%20Engineer%20Diligente%20Technologies+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior/Lead%20Salesforce%20Marketing%20Cloud%20Engineer%20Diligente%20Technologies&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior/Lead%20Salesforce%20Marketing%20Cloud%20Engineer%20Diligente%20Technologies&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior/Lead%20Salesforce%20Marketing%20Cloud%20Engineer%20Diligente%20Technologies&loc=Mississauga"
     }
    ],
    "toronto": true
