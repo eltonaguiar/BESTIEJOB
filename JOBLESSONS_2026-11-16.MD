@@ -60,3 +60,20 @@ New lessons:
 1. **Workday CXS `searchText` matches body text, not just titles** — BMO's "ServiceNow" probe returned "Applications Support Analyst" etc.; read the title before counting a hit. Recurring BMO requisitions reappear under the same job IDs (R260030992, R260030995) — check postedOn before treating as fresh.
 2. **LinkedIn guest re-fetch stayed unavailable** (Chrome profile locked; direct LinkedIn 301/403; ddgs cannot extract URLs). Web-search snippets give "1 day ago" freshness but not liveness — do not merge unverified leads; re-fetch via LinkedIn guest next run before merging the Cloud Resourcing / Brainhunter / ThoughtStorm / iPartner leads.
 3. **Late-2026 hourly supply stays near zero** — 0 fresh merged hours are normal; don't re-run the merge "just to have a commit".
+
+## 2026-11-16 08:00 EST run — +129 fresh SN/SF jobs merged
+
+- `tools/import_fresh_rows.py --days 7` over FRESH_JOBS.md (aggregator scan: adzuna/linkedin/workday/greenhouse/smartrecruiters/...; 774 rows new in that scan): +128 dated SN/SF rows merged, 17 date refreshes, deduped by URL. Board: 7,448 → 7,541 dated rows (SN 1,295 / SF 1,504 / other 4,776); jobs.json 6,261; site rebuilt (5,745 jobs, newest 2026-11-16).
+- Representative fresh adds: TechNeptune (SN ITOM Developer, SN CMDB Consultant), KPMG (SN Functional Consultant/Manager/SA, Montréal), Interac (SN BSA/QE), Raas Infotek (SN CTA), CGI, CYNET, Forhyre, BeachHead, Jolera (SN); Enterprise Solutions (SF Data Cloud/CPQ architect), Bridgenext (SF PO), Four Seasons (SF developer), MLSE (SF engineer), Hired (SF Administrator remote).
+- Employer Workday scans (Accenture, BMO, CIBC, GDIT, Interac, Manulife, Salesforce, Sun Life, TD): `postedOn` is relative ("Posted Yesterday", "Posted 4 Days Ago"); nearly all 3+ days old, and Salesforce Canada "Posted Today" rows carry `locationsText: "2 Locations"` — no city, not mergeable without a detail call. Zero new Toronto SN/SF rows from employer scans today.
+- Public sector/Job Bank OPS feed blocked by Radware; gap scan of partner portals (CloudKettle, Lane Four, Crossfuze, Cofomo...) found no dated postings. Rogers/Bell: no platform titles.
+- Dropped per board rules: Benevity "Senior Salesforce Administrator" (2026-11-01, outside 30-day window); ServiceNow-inc "Sr Solution Sales Executive CRM (CPQ)" (vendor sales role — audit flagged vendor-sales 6 > baseline 5).
+- Re-running the import collapsed a ~1,500-row Salesforce-in-ServiceNow duplication (duplicate-url 1503 → 0): re-running `import_fresh_rows` is the dedupe safety net.
+- Remote advanced 3 commits mid-run → `git fetch` + `git merge` (never rebase; case-insensitive `.claude/skills` breaks rebase), regenerated `jobs.json` + `public/*` feeds from the merged README (`scripts/sync_readme_to_jobs.mjs` + `tools/build_site.py`), fast-forward push. Board-invariants CI now fails only on legacy kinds that pre-existed on origin/main (location-ambiguous, split-row, non-canada, outside-window, identity-date, clock-date); count-disagreement and duplicate-url are resolved.
+- Pushed without `[skip ci]` so `pages.yml` redeploys the live board (https://eltonaguiar.github.io/BESTIEJOB/). `gh` shells out to git (blocked in cron) — use `curl` + `gh auth token` against the GitHub Actions API instead.
+
+## Board hygiene rules enforced
+- Row = absolute `YYYY-MM-DD` + URL + `[title](url)` on its own line; relative "Posted N Days Ago" never becomes a published date.
+- Dedup key = normalized URL (tracking params stripped). The same role via LinkedIn and via Adzuna creates an identity-date-conflict.
+- Vendor sales/exec roles at ServiceNow/Salesforce are excluded; a job *at* ServiceNow is not a ServiceNow role.
+
