@@ -37,3 +37,14 @@ This is the third consecutive hour (20:00/21:00/22:00/23:00 EST Nov 16, plus 00:
 - Keep LinkedIn guest browser (not the API — API 429s; Playwright fallback works) for Toronto f_TPR=r86400 sweeps.
 - Rogers: page 1 clear today; consider paging only if a platform title appears.
 - Do not re-scan jobs.gc.ca/gojobs.gov.on.ca until the Radware wall lifts; Job Bank title-filtered search remains the public-sector proxy.
+
+## 08:00 EST scan (this run) — merged 0
+
+**Named-employer spot checks (Rogers, Bell, Government of Canada/Ontario):**
+- Rogers: jobs.rogers.com date-sort page 1 — zero ServiceNow/Salesforce titles; page clear for the second scan in a row.
+- Bell: web search surfaced ServiceNow Developer / Integrator, Req 431695 (Toronto among Montreal/Ottawa/Toronto/Quebec City). Opened the posting: "the job you are trying to apply for has been filled" → dropped, not merged. Salesforce query returned only sales-rep roles mentioning Salesforce (not Platform Admin/Dev I) → noise. Existing Bell rows stay on board: 432824 ServiceNow System Administrator (2026-10-25), 432829 ServiceNow Senior Technical Advisor (2026-10-19).
+- Government of Canada/Ontario: jobs.gc.ca and gojobs.gov.on.ca behind Radware bot manager; Job Bank title-filtered Toronto proxy returned 0 platform postings. Still walled — re-check weekly, not hourly.
+
+**Dedupe vs board:** every LinkedIn-fresh SN/SF card in today's raw files (NLB CSM/HRSD 4490660430, Envision CMDB Consultant 4490926514, AllianceIT ITOM/CMDB 4490602725, NLB HRSD 4490663180, TD Senior Solution Architect 4491539817, Resource Logistics 4489780092, IMR Soft 4490936151, Smart IT Frame CPQ 4490672278/4490945616) was already on the board or previously flagged off-target — none new.
+
+**Result:** 0 fresh verified Toronto SN/SF jobs merged this hour — third scan today (00:00, 07:00, 08:00 EST) with no new Platform Administrator / Platform Developer I postings. Board state unchanged: README tables, jobs.json and public/ untouched; no generated-file commit needed. Live page keeps serving the previous build.
