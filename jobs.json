@@ -15,10 +15,10 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-17T18:14:35.884Z",
-    "generatedAt": "2026-11-17T18:14:35.884Z",
-    "total": 2844,
-    "newThisScan": 814,
+    "scrapedAt": "2026-11-17T19:08:26.000Z",
+    "generatedAt": "2026-11-17T19:08:26.000Z",
+    "total": 2845,
+    "newThisScan": 815,
     "retainedFromPrevious": 2073,
     "sources": {
       "smartrecruiters": 12,
@@ -29,10 +29,11 @@
       "linkedin": 247,
       "remoteok": 1,
       "remotive": 6,
-      "adzuna": 510
+      "adzuna": 510,
+      "talentnet": 1
     },
     "primaryCounts": {
-      "servicenow": 1322,
+      "servicenow": 1323,
       "salesforce": 1400
     }
   },
@@ -54452,6 +54453,23 @@
       "scrapedAt": "2026-11-02T23:11:27.044Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v23.md",
       "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "talentnet:hydroone.talentnet.community/jobs/272e8208-a275-4f85-af68-a443053ed133",
+      "source": "talentnet",
+      "company": "Acronym Solutions Inc.",
+      "title": "ServiceNow Developer (Contract)",
+      "location": "Toronto, ON, Canada",
+      "url": "https://hydroone.talentnet.community/jobs/272e8208-a275-4f85-af68-a443053ed133",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-16T00:00:00.000Z",
+      "scrapedAt": "2026-11-17T19:08:26.000Z",
+      "excerpt": "ServiceNow Developer contract (5 months) for Hydro One via Acronym Solutions Inc. (formerly Hydro One Telecom Inc.), Toronto ON hybrid. Requires CSA/CAD certs. Configure ServiceNow applications/modules: TSOM, CSM, FSM, Sales CRM, HAM, ITSM; ServiceNow Studio, workflows, business rules, client scripts, REST/SOAP APIs, MID servers. Hybrid 2 days/week onsite.",
+      "workArrangement": "hybrid",
       "tags": [
         "servicenow"
       ]
