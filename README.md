@@ -10,15 +10,15 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-16](#current-jobs--as-of-2026-11-16)
 - [ServiceNow jobs (1315)](###servicenow-jobs-1315)
-- [Salesforce jobs (1529)](###salesforce-jobs-1529)
+- [Salesforce jobs (1528)](###salesforce-jobs-1528)
   - [Other jobs (4777)](#other-jobs-4777)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-17
+## Current jobs — as of 2026-11-16
 
-Window: 2026-10-02 → 2026-11-17 · **7586 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-02 → 2026-11-16 · **7585 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1316)
 _developer / administrator / architect / analyst roles_
@@ -1344,14 +1344,13 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1529)
+### Salesforce jobs (1528)
 
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1529 postings</strong></summary>
+<details><summary><strong>Show 1528 postings</strong></summary>
 | Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
-| 2026-11-16 | [Technical Salesforce Senior Associate](https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-brasil-4490946147) | PwC Brasil | Toronto, Ontario, Canada | via linkedin |
 | 2026-11-16 | [lululemon Senior Solution Architect - Agentforce/ Salesforce](https://www.adzuna.ca/details/5968012975) | Lululemon Athletica Inc. | Greater Vancouver, British Columbia | via adzuna |
 | 2026-11-16 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5968012741) | Salesforce Partner Canada | Toronto, Ontario | via adzuna |
 | 2026-11-16 | [Software Engineer III - Salesforce Data 360](https://www.adzuna.ca/details/5968012143) | The Toronto-Dominion Bank | Toronto, Ontario | via adzuna |
