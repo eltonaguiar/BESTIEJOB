@@ -20,12 +20,10 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-02 → 2026-11-16 · **7585 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1315)
-
+### ServiceNow jobs (1316)
 _developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1315 postings</strong></summary>
-| Posted | Role | Company | Location | Source / note |
+<details><summary><strong>Show 1316 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-16 | [Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps](https://www.adzuna.ca/details/5968011019) | Astra-North Infoteck Inc. | Greater Vancouver, British Columbia | via adzuna |
 | 2026-11-16 | [Solution Architect - ServiceNow Expert](https://ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4490656901) | HRConnects | Vancouver, British Columbia, Canada | via linkedin |
@@ -1247,6 +1245,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-10-23 | [ServiceNow Senior Technical Consultant](https://www.adzuna.ca/details/5938973158) | Cognizant | Toronto, Ontario | adzuna · servicenow |
 | 2026-10-23 | [ServiceNow Technical Consultant](https://www.adzuna.ca/details/5938973159) | Cognizant | Toronto, Ontario | adzuna · servicenow |
 | 2026-10-23 | [ServiceNow Administrator (CSA certification required)](https://movojobs.ca/spectraforce/jobs/servicenow-systems-administrator-csa-certification-required-2708308) | SpectraForce | Toronto, ON | movojobs · servicenow, admin, csa |
+| 2026-10-23 | [Senior Lead, ServiceNow ITOM](https://ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-game-companies-4490172006) | Game Companies | Toronto, Ontario, Canada | via linkedin |
 | 2026-10-22 | [ServiceNow Solution Architect - FSO, FSM, CSM](https://www.adzuna.ca/details/5937651970?utm_medium=api&utm_source=54ce986e) | NewRocket | Canada | via adzuna-autonomous--2026-11-05--v24.md |
 | 2026-10-22 | [Senior Lead, ServiceNow ITOM](https://job-boards.greenhouse.io/taketwo/jobs/8285449) | taketwo | Austin, Texas, United States | via gx10--2026-11-05--v22.md |
 | 2026-10-22 | [Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology](https://www.adzuna.ca/details/5938629826?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | via other-expansion--2026-11-02--v102.md |
@@ -1374,7 +1373,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-16 | [GCP Data Migration Engineer – PySpark & Salesforce Data Migration](https://www.adzuna.ca/details/5968011956) | Astra-North Infoteck Inc. | Brampton, Peel region | via adzuna |
 | 2026-11-16 | [Enterprise Implementation Consultant (Salesforce Commerce Migration)](https://www.adzuna.ca/details/5968012967) | VTRAC Consulting Corporation | Canada | via adzuna |
 | 2026-11-16 | [Analyste organique Salesforce](https://ca.linkedin.com/jobs/view/analyste-organique-salesforce-at-xideral-canada-4490956317) | Xideral Canada | Montreal, Quebec, Canada | via linkedin |
-| 2026-11-15 | [[C] Salesforce Engineer / Developer](https://www.adzuna.ca/details/5967040864) | mlse | Toronto, Ontario | via adzuna |
+| 2026-11-15 | [C: Salesforce Engineer / Developer](https://www.adzuna.ca/details/5967040864) | mlse | Toronto, Ontario | via adzuna |
 | 2026-11-16 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-hcltech-4490676918) | HCLTech | Toronto, Ontario, Canada | unknown |
 | 2026-11-16 | [Salesforce Technical Architect Revenue Cloud CPQ](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100) | Enterprise Solutions Inc. | Canada | linkedin · salesforce |
 | 2026-11-16 | [Salesforce Data Cloud Architect](https://ca.linkedin.com/jobs/view/salesforce-data-cloud-architect-at-enterprise-solutions-inc-4486386483) | Enterprise Solutions Inc. | Toronto, Ontario, Canada | linkedin · salesforce, devops |
@@ -7706,15 +7705,18 @@ Every row must carry an absolute `Posted` date and a URL that resolves. Relative
 
 Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
-<!-- DAILY-SCAN:START -->## Latest auto-scanned jobs (newest first)
+<!-- DAILY-SCAN:START -->
+## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-15T23:02:33.934Z** · 203 live postings from 9 public sources · 0 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-17T04:01:55.754Z** · 104 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-15 | [RQ00793 - Project Manager/Leader - Senior](https://www.adzuna.ca/details/5966905053) | Analyst Technical Solutions | Toronto, Ontario |
 | 2026-11-15 | [ServiceNow Architecture Consultant](https://www.adzuna.ca/details/5966726512) | CGI | Calgary, Calgary region |
+| 2026-11-15 | [Incident Coordinator](https://ca.linkedin.com/jobs/view/incident-coordinator-at-scotiabank-4489894559) | Scotiabank | Toronto, Ontario, Canada |
 | 2026-11-14 | [ServiceNow Technical Architect](https://www.adzuna.ca/details/5966145606) | Accenture | Toronto, Ontario |
 | 2026-11-14 | [Gestionnaire de prestation de services – Gestion applicative (AMS) et services gérés ServiceNow](https://www.adzuna.ca/details/5966145545?utm_medium=api&utm_source=54ce986e) | LGS, an IBM Company | Ville-Marie, Témiscamingue |
 | 2026-11-14 | [ServiceNow ITOM / AIOps Solution Architect](https://www.adzuna.ca/details/5966145336) | K&K Global Talent Solutions INC. | Toronto, Ontario |
@@ -7724,18 +7726,16 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-14 | [Senior Consultant - ServiceNow CSM](https://www.adzuna.ca/details/5966143894) | Infosys | Mississauga, Peel region |
 | 2026-11-14 | [Senior Staff Security Engineer \| Systems Engineering](https://www.adzuna.ca/details/5966143863) | ServiceNow | Canada |
 | 2026-11-14 | [Sr Specialist - ServiceNow Developer](https://www.adzuna.ca/details/5965979032) | Parkland | Calgary, Calgary region |
-| 2026-11-14 | [ServiceNow Technical Lead – ITSM, ITOM, CMDB & SecOps](https://www.adzuna.ca/details/5965661670) | Astra North Infoteck Inc. | Greater Vancouver, British Columbia |
-| 2026-11-14 | [Solution Architect ServiceNow Service Portal, Moveworks](https://www.adzuna.ca/details/5965600328) | NewRocket | Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-16 | [Technical Salesforce Senior Associate](https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-brasil-4490946147) | PwC Brasil | Toronto, Ontario, Canada |
 | 2026-11-15 | [Solution Architect, Salesforce Voice](https://www.adzuna.ca/details/5967041010) | Jobgether | Alberta, Canada |
 | 2026-11-15 | [Salesforce Developer](https://www.adzuna.ca/details/5967041009) | LGS, an IBM Company | Québec, Canada |
 | 2026-11-15 | [Software Engineering LMTS](https://www.adzuna.ca/details/5967041074) | Salesforce, Inc. | Greater Vancouver, British Columbia |
 | 2026-11-15 | [Senior Lead Solutions Architect, Salesforce Migrations](https://www.adzuna.ca/details/5967041048) | Salesforce, Inc. | Montréal, Québec |
-| 2026-11-15 | [[C] Salesforce Engineer / Developer](https://www.adzuna.ca/details/5967040864) | mlse | Toronto, Ontario |
 | 2026-11-15 | [Salesforce Developer](https://www.adzuna.ca/details/5967040901) | Clarity | Greater Vancouver, British Columbia |
 | 2026-11-15 | [Senior Salesforce Technical Architect to lead the technical architecture, design, and](https://www.adzuna.ca/details/5967040684) | S.i. Systems | Greater Vancouver, British Columbia |
 | 2026-11-15 | [Architecte Salesforce FSC – Architecture Financières Senior](https://www.adzuna.ca/details/5967040267) | EY | Canada |
@@ -7748,16 +7748,16 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-16 | [GitHub - Bitbucket Migration Engineer - DevOps, CI/CD & SCM](https://www.adzuna.ca/details/5968013138) | Astra-North Infoteck Inc. | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-16 | [Full Stack Data Engineer](https://www.adzuna.ca/details/5968012880) | Manulife John Hancock | Toronto, Ontario | Full stack |
+| 2026-11-16 | [DevOps Architect (CAN)](https://www.adzuna.ca/details/5968012526) | Leadout Capital | Toronto, Ontario | DevOps / Cloud |
 | 2026-11-15 | [Specialist, Data Developer (Microsoft)](https://www.adzuna.ca/details/5967041349?utm_medium=api&utm_source=54ce986e) | Vale Base Metals | Toronto, Ontario | other |
-| 2026-11-15 | [Directeur.trice – Informatique](https://www.adzuna.ca/details/5967041333?utm_medium=api&utm_source=54ce986e) | Association Restauration Québec | Montréal, Québec | other |
 | 2026-11-15 | [Senior Data Analyst,](https://www.adzuna.ca/details/5967041279?utm_medium=api&utm_source=54ce986e) | iA Financial Group | Toronto, Ontario | Data / BI |
 | 2026-11-15 | [Senior Manager, Pensions](https://www.adzuna.ca/details/5967041289?utm_medium=api&utm_source=54ce986e) | myview | Toronto, Ontario | other |
 | 2026-11-15 | [Tax, Retirement and Estate Planning Services Consultant](https://www.adzuna.ca/details/5967041340?utm_medium=api&utm_source=54ce986e) | Manulife John Hancock | Canada | other |
 | 2026-11-15 | [Architect, Software Engineering](https://www.adzuna.ca/details/5967041318?utm_medium=api&utm_source=54ce986e) | Credera India | Canada | other |
 | 2026-11-15 | [Cyber Threat Researcher](https://www.adzuna.ca/details/5967041230?utm_medium=api&utm_source=54ce986e) | Fortinet Inc. | Burnaby, Greater Vancouver | other |
 | 2026-11-15 | [Director, Fraud Analytics & Risk Management](https://www.adzuna.ca/details/5967041167?utm_medium=api&utm_source=54ce986e) | Manulife | Toronto, Ontario | other |
-| 2026-11-15 | [Actuarial Consultant - Corporate Actuarial - Reserving (All Levels)](https://www.adzuna.ca/details/5967041205?utm_medium=api&utm_source=54ce986e) | Wawanesa Insurance | Calgary, Calgary region | other |
-| 2026-11-15 | [Especialista de HR People Analytics](https://www.adzuna.ca/details/5967041177?utm_medium=api&utm_source=54ce986e) | Finning | Greater Vancouver, British Columbia | other |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
