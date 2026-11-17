@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-17T18:16:17+00:00",
+ "generatedAt": "2026-11-17T18:45:26+00:00",
  "timezone": "America/Toronto",
- "count": 5984,
+ "count": 5985,
  "appliedHidden": 45,
  "sources": [
   "103.careerplug.com",
@@ -1299,6 +1299,87 @@
   },
   {
    "posted": "2026-11-17",
+   "title": "ITSM Consultant",
+   "company": "Long View Systems",
+   "location": "Calgary, Alberta, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/itsm-consultant-at-long-view-systems-4490480445",
+   "note": "via fresh-ca--2026-11-17--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 42,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "itsm consultant long view systems calgary, alberta, canada linkedin servicenow via fresh-ca--2026-11-17--v1.md itsm role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ITSM%20Consultant%20Long%20View%20Systems+Calgary+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ITSM%20Consultant%20Long%20View%20Systems&location=Calgary"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ITSM%20Consultant%20Long%20View%20Systems&l=Calgary"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ITSM%20Consultant%20Long%20View%20Systems&loc=Calgary"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "IT Directors - Short Term Paid Research Opportunity - ITSM & ESM Platforms",
+   "company": "Aitrainergigs",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5969279971?utm_medium=api&utm_source=54ce986e",
+   "note": "via fresh-ca--2026-11-17--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 34,
+   "matchReasons": [
+    "ITSM",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "it directors - short term paid research opportunity - itsm & esm platforms aitrainergigs canada adzuna servicenow via fresh-ca--2026-11-17--v1.md itsm canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=IT%20Directors%20-%20Short%20Term%20Paid%20Research%20Opportunity%20-%20ITSM%20%26%20ESM%20Platforms%20Aitrainergigs+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=IT%20Directors%20-%20Short%20Term%20Paid%20Research%20Opportunity%20-%20ITSM%20%26%20ESM%20Platforms%20Aitrainergigs&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=IT%20Directors%20-%20Short%20Term%20Paid%20Research%20Opportunity%20-%20ITSM%20%26%20ESM%20Platforms%20Aitrainergigs&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=IT%20Directors%20-%20Short%20Term%20Paid%20Research%20Opportunity%20-%20ITSM%20%26%20ESM%20Platforms%20Aitrainergigs&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
    "title": "Senior Platform Support Analyst with data cloud",
    "company": "Maarut",
    "location": "Toronto, Ontario",
@@ -1908,46 +1989,6 @@
     }
    ],
    "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
-   "title": "IT Operations Manager",
-   "company": "Northumberland Ferries Limited",
-   "location": "Charlottetown, Queens",
-   "url": "https://www.adzuna.ca/details/5968878942?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-17--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 18,
-   "matchReasons": [
-    "IT operations",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "it operations manager northumberland ferries limited charlottetown, queens adzuna other via adzuna-autonomous--2026-11-17--v1.md it operations role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=IT%20Operations%20Manager%20Northumberland%20Ferries%20Limited+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=IT%20Operations%20Manager%20Northumberland%20Ferries%20Limited&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=IT%20Operations%20Manager%20Northumberland%20Ferries%20Limited&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=IT%20Operations%20Manager%20Northumberland%20Ferries%20Limited&loc=Canada"
-    }
-   ],
-   "toronto": false
   },
   {
    "posted": "2026-11-17",
