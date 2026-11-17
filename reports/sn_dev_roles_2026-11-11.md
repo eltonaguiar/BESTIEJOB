@@ -1,6 +1,6 @@
 # ServiceNow developer roles outside the current feeds
 
-Run: 2026-11-16 13:46 local. Term: `servicenow`.
+Run: 2026-11-17 13:25 local. Term: `servicenow`.
 
 Sources already feeding bestiejob (Job Bank, GoJobs, SmartRecruiters,
 Greenhouse, Lever, Ashby, Workday tenants, CareerBeacon, Dice, Procom,
@@ -10,11 +10,11 @@ Built In) are excluded by design.
 
 | Source | Result | Raw hits |
 | --- | --- | --- |
-| GC Jobs (federal) | emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31613B | 0 |
+| GC Jobs (federal) | emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31620B | 0 |
 | RemoteOK | http 200, 98 jobs | 0 |
-| Remotive | http 200, 16 jobs | 16 |
-| Himalayas | crashed TypeError | 0 |
-| Jobboom (QC) | http 403, 6067B; http 403, 6067B | 0 |
+| Remotive | http 200, 17 jobs | 17 |
+| Himalayas | p0:20/117346, p1:20/117347, p2:20/117346, p3:20/117346, p4:20/117347 | 0 |
+| Jobboom (QC) | http 403, 6046B; http 403, 6067B | 0 |
 | We Work Remotely | http 200; http 200 | 1 |
 | Hacker News hiring | thread 22665398, 0 SN comments | 0 |
 | Reddit r/servicenow | http 403 (blocked) | 0 |
@@ -41,6 +41,7 @@ They are not eligible to become dated board rows.
 
 | Source | Title | Why |
 | --- | --- | --- |
+| Remotive | Tech Lead Full-Stack Rails Engineer | title filter |
 | Remotive | Content Creator - YouTube | title filter |
 | Remotive | Remote Office Assistant | title filter |
 | Remotive | Senior Data Engineer | title filter |
