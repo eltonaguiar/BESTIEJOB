@@ -20,10 +20,8 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-02 → 2026-11-17 · **7588 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1321)_developer / administrator / architect / analyst roles_
-
-<details><summary><strong>Show 1321 postings</strong></summary>|---|---|---|---|---|
-| 2026-11-16 | [Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps](https://www.adzuna.ca/details/5968011019) | Astra-North Infoteck Inc. | Greater Vancouver, British Columbia | via adzuna |
+### ServiceNow jobs (1323)_developer / administrator / architect / analyst roles_
+<details><summary><strong>Show 1323 postings</strong></summary>| 2026-11-16 | [Solution Architect – ServiceNow, ITSM, ITOM, CMDB & SecOps](https://www.adzuna.ca/details/5968011019) | Astra-North Infoteck Inc. | Greater Vancouver, British Columbia | via adzuna |
 | 2026-11-16 | [Solution Architect - ServiceNow Expert](https://ca.linkedin.com/jobs/view/solution-architect-servicenow-expert-at-hrconnects-4490656901) | HRConnects | Vancouver, British Columbia, Canada | via linkedin |
 | 2026-11-16 | [ServiceNow SPM Developer](https://www.adzuna.ca/details/5968012935) | Astra-North Infoteck Inc. | Toronto, Ontario | via adzuna |
 | 2026-11-16 | [ServiceNow Lead](https://ca.linkedin.com/jobs/view/servicenow-lead-at-apptoza-inc-4490150415) | Apptoza Inc. | Vancouver, British Columbia, Canada | via linkedin |
@@ -40,6 +38,8 @@ Window: 2026-10-02 → 2026-11-17 · **7588 live postings** · deduplicated by U
 | 2026-11-16 | [ServiceNow AICT Solution Architect](https://ca.linkedin.com/jobs/view/servicenow-aict-solution-architect-at-cognizant-4490682098) | Cognizant | Canada | via linkedin |
 | 2026-11-16 | [Senior Solution Architect (ServiceNow)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185) | TD Bank | Toronto, Ontario | via workday |
 | 2026-11-16 | [Senior Solution Architect (ServiceNow)](https://ca.linkedin.com/jobs/view/senior-solution-architect-servicenow-at-td-4491539817) | TD | Toronto, Ontario, Canada | via linkedin |
+| 2026-11-16 | [ServiceNow ITOM Technical Consultant](https://ca.linkedin.com/jobs/view/servicenow-itom-technical-consultant-at-alldus-4490154066) | Alldus | Canada | via linkedin-guest--2026-11-17--v1.md |
+| 2026-11-16 | [ITSM Platform Migration Lead – Zendesk to OpenText SMAX](https://ca.linkedin.com/jobs/view/itsm-platform-migration-lead-%E2%80%93-zendesk-to-opentext-smax-at-astra-north-infoteck-inc-%7E-conquering-today%E2%80%99s-challenges-achieving-tomorrow%E2%80%99s-vision%21-4490686438) | Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision! | Waterloo, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
 | 2026-11-15 | [Conseiller(ère) en architecture bureautique - ITSM (C2)](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-en-architecture-bureautique-itsm-c2-at-services-sft-4473445699) | Services SFT | Montreal, Quebec, Canada | via readme |
 | 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-envision-technology-solutions-4490926514) | Envision Technology Solutions | Toronto, ON, Canada | via linkedin-guest--2026-11-16 |
 | 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-imr-soft-llc-4490936151) | IMR Soft LLC | Toronto, Canada (Hybrid) | via linkedin-guest--2026-11-16 |
@@ -1347,11 +1347,13 @@ Window: 2026-10-02 → 2026-11-17 · **7588 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1543)
-_developer / administrator / architect / analyst roles_
+### Salesforce jobs (1547)_developer / administrator / architect / analyst roles_
 
-<details><summary><strong>Show 1540 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
-|---|---|---|---|---|
+<details><summary><strong>Show 1544 postings</strong></summary>|---|---|---|---|---|
+| 2026-11-17 | [Manager, Systems Development - Agentic Salesforce Delivery](https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483268219) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
+| 2026-11-17 | [Manager, Systems Development - Agentic Salesforce Delivery](https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483263677) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
+| 2026-11-17 | [Manager, Systems Development - Agentic Salesforce Delivery](https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483251912) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
+| 2026-11-17 | [Salesforce Administrator (Remote)](https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4491158151) | Hired | Canada | via linkedin-guest--2026-11-17--v1.md |
 | 2026-11-16 | [lululemon Senior Solution Architect - Agentforce/ Salesforce](https://www.adzuna.ca/details/5968012975) | Lululemon Athletica Inc. | Greater Vancouver, British Columbia | via adzuna |
 | 2026-11-16 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5968012741) | Salesforce Partner Canada | Toronto, Ontario | via adzuna |
 | 2026-11-16 | [Software Engineer III - Salesforce Data 360](https://www.adzuna.ca/details/5968012143) | The Toronto-Dominion Bank | Toronto, Ontario | via adzuna |
@@ -2898,11 +2900,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Other jobs (4783)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
+### Other jobs (4785)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_| 2026-11-16 | [IRM/GRC Technologies Senior Associate](https://ca.linkedin.com/jobs/view/irm-grc-technologies-senior-associate-at-pwc-brasil-4490950459) | PwC Brasil | Toronto, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
 | 2026-11-15 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4490212417) | Rogers Communications | Markham, Ontario, Canada | Salesforce lead management / Salesforce administration — posted 31 minutes ago |
 | 2026-11-15 | [Software Engineering LMTS](https://www.adzuna.ca/details/5967041074) | Salesforce, Inc. | Greater Vancouver, British Columbia | via hermes-cron--2026-11-17--v1.md |
-<details><summary><strong>Show 4783 postings</strong></summary>| 2026-11-15 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5967039571) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
-| 2026-11-15 | [Sr. Analyst, TMT Commercial Business](https://www.adzuna.ca/details/5967040173) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
+<details><summary><strong>Show 4785 postings</strong></summary>| 2026-11-15 | [Sr. Analyst, TMT Commercial Business](https://www.adzuna.ca/details/5967040173) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
+| 2026-11-15 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5967039571) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
 | 2026-11-14 | [Staff Systems Engineer](https://www.adzuna.ca/details/5966144085?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [HR Coordinator](https://www.adzuna.ca/details/5965595790?utm_medium=api&utm_source=54ce986e) | University of British Columbia | Greater Vancouver, British Columbia | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Senior Manager, Enterprise Data Quality Management](https://www.adzuna.ca/details/5965592125?utm_medium=api&utm_source=54ce986e) | TD Bank | Canada | via adzuna-autonomous--2026-11-15--v1.md |
