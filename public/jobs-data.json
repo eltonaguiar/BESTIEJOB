@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-17T20:13:59+00:00",
+ "generatedAt": "2026-11-17T21:13:07+00:00",
  "timezone": "America/Toronto",
- "count": 5987,
+ "count": 5989,
  "appliedHidden": 45,
  "sources": [
   "103.careerplug.com",
@@ -922,6 +922,47 @@
   },
   {
    "posted": "2026-11-17",
+   "title": "Salesforce Business Process Analyst",
+   "company": "Nuvei",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-nuvei-4491413880",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce business process analyst nuvei toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Business%20Process%20Analyst%20Nuvei+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Business%20Process%20Analyst%20Nuvei&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Business%20Process%20Analyst%20Nuvei&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Business%20Process%20Analyst%20Nuvei&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
    "title": "Business Systems Analyst – Salesforce Revenue Cloud",
    "company": "UST",
    "location": "Ontario, Canada",
@@ -1017,6 +1058,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Full%20Stack%20Developer%20-%20Salesforce%20%28Contract%29%20Electric%20Mind&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Salesforce DevOps Engineer",
+   "company": "Serefin",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-devops-engineer-at-serefin-4491426431",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce devops engineer serefin toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20DevOps%20Engineer%20Serefin+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20DevOps%20Engineer%20Serefin&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20DevOps%20Engineer%20Serefin&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20DevOps%20Engineer%20Serefin&loc=Toronto"
     }
    ],
    "toronto": true
