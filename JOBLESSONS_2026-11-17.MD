@@ -62,3 +62,24 @@ This is the third consecutive hour (20:00/21:00/22:00/23:00 EST Nov 16, plus 00:
 **Named employers:** Rogers jobs.rogers.com page 1 — zero SN/SF titles (clear 2nd scan in a row). Bell — expired/filled SysAdmin + architect + sales-rep noise; existing Bell rows 432824/432829 stay on board. Government of Canada/Ontario — jobs.gc.ca & gojobs.gov.on.ca still Radware-walled; Job Bank Toronto proxy = 0 platform postings. SN/SF partners & Elite Partners (Deloitte, Cognizant, CGI, KPMG, TCS, IBM, DXC, Accenture) — architect-tier or stale Jul–Sep postings only.
 
 **Result:** 0 fresh verified Toronto SN/SF jobs merged this hour — fourth consecutive scan today (00:00, 07:00, 08:00, 09:00 EST) with no new Platform Administrator / Platform Developer I postings. Board state unchanged: README tables, jobs.json and public/ untouched; no generated-file commit needed. Live page keeps serving the previous build.
+
+## 10:00 EST scan (this run) — merged 0
+
+**Scope:** fresh Toronto/GTA ServiceNow + Salesforce jobs, prioritizing Platform Administrator and Platform Developer I (entry-level/junior). Dedupe against jobs.json + README.md tables.
+
+**What ran / checked:**
+1. Adzuna CA API, `max_days_old=2&sort_by=date&where=Toronto`, `what=ServiceNow` (40 results) and `what=Salesforce` (pp. 1–2, 140 results): only one platform-titled hit — "ServiceNow SPM Developer", Astra-North Infoteck Inc., Toronto, created 2026-11-16T12:16:09Z — already on board as `adzuna:adzuna.ca/details/5968012935` (jobs.json:230). Salesforce page 2 surfaced only Technical Lead (Astra-North), Senior Production Support Engineer (Astra-North), Technical Architect (Cognizant) — lead/architect/senior tiers, none Platform Administrator / Platform Developer I.
+2. LinkedIn guest browser, Toronto f_TPR=r86400 × ServiceNow and Salesforce: sign-in modal ("Sign in to view more jobs") blocked the results panel — 0 cards accessible; guest/API wall for a second consecutive hour.
+3. Workday CXS known tenants (BMO/TD/CIBC/Manulife/Interac/Accenture/Salesforce): 429 on every probe since this morning — rate-limited host; treated as weekly, not hourly.
+4. Rogers `jobs.rogers.com` date-sort page 1 (rows dated Nov 13–17, incl. Nov 17): 25 rows, all sales/retail/finance/HR — zero ServiceNow/Salesforce titles; clear for the third scan in a row.
+5. Bell: `jobs.bell.ca` returns (0) for both platforms — weekly re-check only.
+6. Government of Canada/Ontario: jobs.gc.ca and gojobs.gov.on.ca behind Radware bot manager; Job Bank raw search HTML is a JS shell with no job cards, and full-text search is title-noise — no usable postings. Job Bank as public-sector proxy returned nothing platform-titled.
+7. Partners / Elite Partners via web search: SS&C Technologies "Salesforce Implementation Consultant & Platform Administrator" Toronto (posted Nov 3, 2026 — stale, 3–5+ yrs exp); Infotek Consulting "Salesforce Platform Administrator/Architect" Toronto (posted 2026-11-10, expired 2026-11-16); Make-A-Wish Canada "Senior Salesforce Administrator" (Nov 5, 5+ yrs, senior). None fresh (≤2 days), none entry-level Platform Admin/Dev I.
+
+**Dedupe vs board:** the sole Adzuna hit already exists on the board (adzuna:adzuna.ca/details/5968012935). No new URLs, titles, or company+title pairs to add.
+
+**Result:** 0 fresh verified Toronto SN/SF jobs merged this hour — fifth consecutive scan today (00:00, 07:00, 08:00, 09:00, 10:00 EST) with no new Platform Administrator / Platform Developer I postings. Board state unchanged by this run; origin's own 14:14 UTC scan refresh (c87e23e, 2827 listings) is already deployed. Live page verified: HTTP 200, jobs-data.json serves 5787 jobs, matches `public/jobs-data.json` in repo.
+
+**Market shape holds:** fresh platform work = senior/architect roles at banks (BMO/TD Workday) and GRC/IRM consultancies; ServiceNow-the-company and Salesforce-the-company post nothing below 4 days and no Platform Admin/Dev I in Toronto.
+
+**Recommended next-hour focus:** re-probe Workday CXS tenants after cooldown (≥5s spacing between calls); keep attempting LinkedIn guest browser (wall may lift); Rogers page 1 clear — page deeper only if a platform title appears; public-sector portals stay Radware-walled, re-check weekly.
