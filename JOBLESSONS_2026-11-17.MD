@@ -82,4 +82,21 @@ This is the third consecutive hour (20:00/21:00/22:00/23:00 EST Nov 16, plus 00:
 
 **Market shape holds:** fresh platform work = senior/architect roles at banks (BMO/TD Workday) and GRC/IRM consultancies; ServiceNow-the-company and Salesforce-the-company post nothing below 4 days and no Platform Admin/Dev I in Toronto.
 
-**Recommended next-hour focus:** re-probe Workday CXS tenants after cooldown (≥5s spacing between calls); keep attempting LinkedIn guest browser (wall may lift); Rogers page 1 clear — page deeper only if a platform title appears; public-sector portals stay Radware-walled, re-check weekly.
+**Recommended next-hour focus:** re-probe Workday CXS tenants after cooldown (≥5s spacing between calls); keep attempting LinkedIn guest browser (wall may lift); Rogers page 1 clear — page deeper only if a platform title appears; public-sector portals stay Radware-walled, re-check weekly; Adzuna demo key remains usable (51 requests, 0 misses).
+
+
+## 17:00 EST scan (this run) — merged 0
+
+**Scope:** fresh Toronto/GTA ServiceNow + Salesforce jobs, prioritizing Platform Administrator and Platform Developer I (entry-level/junior). Dedupe against jobs.json + README.md tables.
+
+**What ran / checked:**
+1. Adzuna CA API, `max_days_old=2&sort_by=date`, `what=` over 17 ServiceNow/Salesforce queries × 3 geos (Toronto, Ontario, Canada) = 51 requests, window 2026-11-16 → 2026-11-17; every candidate URL HTTP-verified (2xx or 401/403 treated as live). 32 platform-titled Canadian candidates.
+2. Named-employer spot checks: Rogers (Workopolis ITSM ServiceNow role, Brampton — posting date not confirmed fresh, not added), Bell (jobs.bell.ca/jobs.bce.ca — 0 platform postings; existing Bell rows 432824/432829 stay on board), TD (Salesforce Data 360 ×2 — already on board), ServiceNow Careers Ontario, Salesforce Canada careers, Job Bank as GC/Ontario public-sector proxy (0 platform postings; jobs.gc.ca/gojobs.gov.on.ca Radware-walled).
+
+**Dedupe vs board:** 31 of 32 candidates already on the board by canonical URL. The 32nd ("ITSM Platform Migration Lead – Zendesk to OpenText SMAX", Astra North Infoteck Inc., Waterloo, adzuna.ca/details/5968301899, created 2026-11-16) is the same posting already on README via LinkedIn guest (ca.linkedin.com/jobs/view/...4490686438) — same role/company/location/date, different URL — so treated as already-covered, not merged. No genuinely new URL, title, or company+title pair to add.
+
+**Result:** 0 fresh verified Toronto SN/SF jobs merged this hour — sixth consecutive scan today with 0 new Platform Administrator / Platform Developer I postings. Board state unchanged: README tables, jobs.json and public/ untouched; no generated-file commit needed. Live page keeps serving the previous build (HTTP 200).
+
+**Market shape holds:** fresh platform work = senior/architect roles at banks (BMO/TD Workday) and GRC/IRM consultancies; ServiceNow-the-company and Salesforce-the-company post nothing below 4 days and no Platform Admin/Dev I in Toronto.
+
+**Recommended next-hour focus:** re-probe Workday CXS tenants after cooldown (≥5s spacing; host is 429'd); keep attempting LinkedIn guest browser; Rogers page 1 clear for multiple scans; public-sector portals stay Radware-walled, re-check weekly; Adzuna demo key remains usable (51 requests, 0 misses).
