@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-17T06:19:53.723Z",
     "generatedAt": "2026-11-17T06:19:53.723Z",
-    "total": 6315,
+    "total": 6316,
     "newThisScan": 856,
     "retainedFromPrevious": 2008,
     "sources": {
@@ -3509,6 +3509,23 @@
       ],
       "verifiedAt": "2026-11-17T04:14:37.742495+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967040864",
+      "source": "readme",
+      "company": "mlse",
+      "title": "C: Salesforce Engineer / Developer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5967040864",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-17T06:52:28.281Z",
+      "excerpt": "via adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5966905053",
