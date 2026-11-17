@@ -1347,13 +1347,12 @@ Window: 2026-10-02 → 2026-11-17 · **7588 live postings** · deduplicated by U
 
 </details>
 
-### Salesforce jobs (1547)_developer / administrator / architect / analyst roles_
-
-<details><summary><strong>Show 1544 postings</strong></summary>|---|---|---|---|---|
-| 2026-11-17 | [Manager, Systems Development - Agentic Salesforce Delivery](https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483268219) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
+### Salesforce jobs (1548)_developer / administrator / architect / analyst roles_
+<details><summary><strong>Show 1545 postings</strong></summary>| 2026-11-17 | [Manager, Systems Development - Agentic Salesforce Delivery](https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483268219) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
 | 2026-11-17 | [Manager, Systems Development - Agentic Salesforce Delivery](https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483263677) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
 | 2026-11-17 | [Manager, Systems Development - Agentic Salesforce Delivery](https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483251912) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
 | 2026-11-17 | [Salesforce Administrator (Remote)](https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4491158151) | Hired | Canada | via linkedin-guest--2026-11-17--v1.md |
+| 2026-11-17 | [Développeur en automatisation QA Salesforce](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-group-e-4490438795) | nesto group(e) | Canada | via fresh-ca--2026-11-17--v1.md |
 | 2026-11-16 | [lululemon Senior Solution Architect - Agentforce/ Salesforce](https://www.adzuna.ca/details/5968012975) | Lululemon Athletica Inc. | Greater Vancouver, British Columbia | via adzuna |
 | 2026-11-16 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5968012741) | Salesforce Partner Canada | Toronto, Ontario | via adzuna |
 | 2026-11-16 | [Software Engineer III - Salesforce Data 360](https://www.adzuna.ca/details/5968012143) | The Toronto-Dominion Bank | Toronto, Ontario | via adzuna |
@@ -2900,11 +2899,11 @@ Window: 2026-10-02 → 2026-11-17 · **7588 live postings** · deduplicated by U
 
 </details>
 
-### Other jobs (4785)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_| 2026-11-16 | [IRM/GRC Technologies Senior Associate](https://ca.linkedin.com/jobs/view/irm-grc-technologies-senior-associate-at-pwc-brasil-4490950459) | PwC Brasil | Toronto, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
+### Other jobs (4787)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_| 2026-11-16 | [IRM/GRC Technologies Senior Associate](https://ca.linkedin.com/jobs/view/irm-grc-technologies-senior-associate-at-pwc-brasil-4490950459) | PwC Brasil | Toronto, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md || 2026-11-16 | [IRM/GRC Technologies Senior Associate](https://ca.linkedin.com/jobs/view/irm-grc-technologies-senior-associate-at-pwc-brasil-4490950459) | PwC Brasil | Toronto, Ontario, Canada | via linkedin-guest--2026-11-17--v1.md |
 | 2026-11-15 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4490212417) | Rogers Communications | Markham, Ontario, Canada | Salesforce lead management / Salesforce administration — posted 31 minutes ago |
 | 2026-11-15 | [Software Engineering LMTS](https://www.adzuna.ca/details/5967041074) | Salesforce, Inc. | Greater Vancouver, British Columbia | via hermes-cron--2026-11-17--v1.md |
-<details><summary><strong>Show 4785 postings</strong></summary>| 2026-11-15 | [Sr. Analyst, TMT Commercial Business](https://www.adzuna.ca/details/5967040173) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
-| 2026-11-15 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5967039571) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
+<details><summary><strong>Show 4787 postings</strong></summary>| 2026-11-15 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5967039571) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
+| 2026-11-15 | [Sr. Analyst, TMT Commercial Business](https://www.adzuna.ca/details/5967040173) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
 | 2026-11-14 | [Staff Systems Engineer](https://www.adzuna.ca/details/5966144085?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [HR Coordinator](https://www.adzuna.ca/details/5965595790?utm_medium=api&utm_source=54ce986e) | University of British Columbia | Greater Vancouver, British Columbia | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Senior Manager, Enterprise Data Quality Management](https://www.adzuna.ca/details/5965592125?utm_medium=api&utm_source=54ce986e) | TD Bank | Canada | via adzuna-autonomous--2026-11-15--v1.md |
