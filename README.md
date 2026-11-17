@@ -2898,12 +2898,11 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Other jobs (4782)
-_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
+### Other jobs (4783)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 | 2026-11-15 | [Lead Management Operations](https://ca.linkedin.com/jobs/view/lead-management-operations-at-rogers-communications-4490212417) | Rogers Communications | Markham, Ontario, Canada | Salesforce lead management / Salesforce administration — posted 31 minutes ago |
 | 2026-11-15 | [Software Engineering LMTS](https://www.adzuna.ca/details/5967041074) | Salesforce, Inc. | Greater Vancouver, British Columbia | via hermes-cron--2026-11-17--v1.md |
-<details><summary><strong>Show 4782 postings</strong></summary>| 2026-11-15 | [Sr. Analyst, TMT Commercial Business](https://www.adzuna.ca/details/5967040173) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
-| 2026-11-15 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5967039571) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
+<details><summary><strong>Show 4783 postings</strong></summary>| 2026-11-15 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5967039571) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
+| 2026-11-15 | [Sr. Analyst, TMT Commercial Business](https://www.adzuna.ca/details/5967040173) | 110 salesforce.com Canada Corporation | Toronto, Ontario | via hermes-cron--2026-11-17--v1.md |
 | 2026-11-14 | [Staff Systems Engineer](https://www.adzuna.ca/details/5966144085?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [HR Coordinator](https://www.adzuna.ca/details/5965595790?utm_medium=api&utm_source=54ce986e) | University of British Columbia | Greater Vancouver, British Columbia | via adzuna-autonomous--2026-11-15--v1.md |
 | 2026-11-14 | [Senior Manager, Enterprise Data Quality Management](https://www.adzuna.ca/details/5965592125?utm_medium=api&utm_source=54ce986e) | TD Bank | Canada | via adzuna-autonomous--2026-11-15--v1.md |
