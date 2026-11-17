@@ -48,3 +48,17 @@ This is the third consecutive hour (20:00/21:00/22:00/23:00 EST Nov 16, plus 00:
 **Dedupe vs board:** every LinkedIn-fresh SN/SF card in today's raw files (NLB CSM/HRSD 4490660430, Envision CMDB Consultant 4490926514, AllianceIT ITOM/CMDB 4490602725, NLB HRSD 4490663180, TD Senior Solution Architect 4491539817, Resource Logistics 4489780092, IMR Soft 4490936151, Smart IT Frame CPQ 4490672278/4490945616) was already on the board or previously flagged off-target — none new.
 
 **Result:** 0 fresh verified Toronto SN/SF jobs merged this hour — third scan today (00:00, 07:00, 08:00 EST) with no new Platform Administrator / Platform Developer I postings. Board state unchanged: README tables, jobs.json and public/ untouched; no generated-file commit needed. Live page keeps serving the previous build.
+
+## 09:00 EST scan (this run) — merged 0
+
+**Scope:** fresh Toronto/GTA ServiceNow + Salesforce jobs, prioritizing Platform Administrator and Platform Developer I (entry-level/junior). Dedupe against jobs.json + README.md tables. Named-employer spot checks: Rogers, Bell, Government of Canada/Ontario, ServiceNow/Salesforce partners & Elite Partners.
+
+**What ran / checked:**
+1. Today's Workday tenant scans (raw/wd20261117/): BMO ServiceNow CMDB Administrator & Technology Lifecycle Analyst (Toronto, 5d ago), BMO SAM Administrator–ITAM (14d), Interac Sr Business Systems Analyst & QE Senior Specialist (Toronto, 30d+), TD Senior Solution Architect SN (Toronto, yesterday), TD Software Engineer III Salesforce Data 360 (Toronto, 4d), Manulife Salesforce Functional Analyst (Waterloo, 15d). All already on the board or off-target (non-Toronto, senior, architect, or functional analyst — none Platform Admin/Dev I).
+2. 08:00 EST 105-board canonical scan (on origin/main): 0 net-new ServiceNow, 4 net-new Salesforce — Jobgether AVP Salesforce Engineering & Voice, Jobgether Associate Salesforce Administrator (Canada-wide, not Toronto), Docebo Senior Salesforce Developer (Toronto, senior tier). None entry-level Platform Admin/Dev I in Toronto.
+3. LinkedIn guest browser: 0 cards (guest/API rate-limited this hour).
+4. Web-search due diligence: Bell ServiceNow SysAdmin (Posted Oct 22, deadline Nov 3 — filled/expired, 3+ yrs), Bell Enterprise Solutions Architect II (architect tier), Job Bank Gov of Canada ServiceNow SPM developer contract (5+ yrs, CSA+CAD — intermediate/senior). Workopolis/Glassdoor surface intermediate+ roles only (CGI Toronto $80k–$130k, BFG Markham intermediate). No Platform Administrator / Platform Developer I posted ≤7 days in Toronto.
+
+**Named employers:** Rogers jobs.rogers.com page 1 — zero SN/SF titles (clear 2nd scan in a row). Bell — expired/filled SysAdmin + architect + sales-rep noise; existing Bell rows 432824/432829 stay on board. Government of Canada/Ontario — jobs.gc.ca & gojobs.gov.on.ca still Radware-walled; Job Bank Toronto proxy = 0 platform postings. SN/SF partners & Elite Partners (Deloitte, Cognizant, CGI, KPMG, TCS, IBM, DXC, Accenture) — architect-tier or stale Jul–Sep postings only.
+
+**Result:** 0 fresh verified Toronto SN/SF jobs merged this hour — fourth consecutive scan today (00:00, 07:00, 08:00, 09:00 EST) with no new Platform Administrator / Platform Developer I postings. Board state unchanged: README tables, jobs.json and public/ untouched; no generated-file commit needed. Live page keeps serving the previous build.
