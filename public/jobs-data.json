@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T12:47:30+00:00",
+ "generatedAt": "2026-11-17T13:14:37+00:00",
  "timezone": "America/Toronto",
  "count": 5787,
  "appliedHidden": 45,
@@ -436,7 +436,7 @@
    "company": "nesto group(e)",
    "location": "Canada",
    "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-group-e-4490438795",
-   "note": "via fresh-ca--2026-11-17--v1.md",
+   "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
    "source": "LinkedIn",
@@ -447,7 +447,7 @@
     "Canada / remote"
    ],
    "french": true,
-   "search": "developpeur en automatisation qa salesforce nesto group(e) canada linkedin salesforce via fresh-ca--2026-11-17--v1.md salesforce canada / remote",
+   "search": "developpeur en automatisation qa salesforce nesto group(e) canada linkedin salesforce linkedin salesforce canada / remote",
    "alternates": [
     {
      "source": "LinkedIn",
@@ -870,6 +870,48 @@
   },
   {
    "posted": "2026-11-16",
+   "title": "ServiceNow CMDB Consultant",
+   "company": "IMR Soft LLC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-imr-soft-llc-4490936151",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "CMDB",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow cmdb consultant imr soft llc toronto, ontario, canada linkedin servicenow linkedin servicenow cmdb role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
    "title": "ServiceNow ITAM/ ITOM Architect",
    "company": "Yochana",
    "location": "Canada",
@@ -910,48 +952,6 @@
     }
    ],
    "toronto": false
-  },
-  {
-   "posted": "2026-11-16",
-   "title": "ServiceNow CMDB Consultant",
-   "company": "IMR Soft LLC",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-imr-soft-llc-4490936151",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "CMDB",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow cmdb consultant imr soft llc toronto, ontario, canada linkedin servicenow linkedin servicenow cmdb role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CMDB%20Consultant%20IMR%20Soft%20LLC&loc=Toronto"
-    }
-   ],
-   "toronto": true
   },
   {
    "posted": "2026-11-16",
@@ -1171,6 +1171,47 @@
   },
   {
    "posted": "2026-11-16",
+   "title": "Senior Solution Architect (ServiceNow)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
    "title": "ServiceNow Developer cum Architect",
    "company": "W3Global",
    "location": "Mississauga, Peel region",
@@ -1213,47 +1254,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20cum%20Architect%20W3Global&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
-   "title": "Senior Solution Architect (ServiceNow)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
     }
    ],
    "toronto": true
@@ -18864,6 +18864,47 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "ServiceNow System Administrator",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20GDIT+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20GDIT&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20GDIT&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20GDIT&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-13",
    "title": "ServiceNow Platform Specialist",
    "company": "Alimentiv",
    "location": "Canada",
@@ -18936,47 +18977,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Platform%20Specialist%20Alimentiv&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-13",
-   "title": "ServiceNow System Administrator",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20GDIT+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20GDIT&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20GDIT&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20GDIT&loc=Canada"
     }
    ],
    "toronto": false
@@ -45606,6 +45606,54 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Lead Salesforce Solution Architect",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+     "label": "LinkedIn · Mississauga",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Salesforce%20Solution%20Architect%20McKesson&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&loc=Mississauga"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Salesforce Solution Architect",
    "company": "Cognizant",
    "location": "Toronto, ON-199 Bay Street, Ontario, Canada",
@@ -45749,54 +45797,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Robert%20Half&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Lead Salesforce Solution Architect",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
-     "label": "LinkedIn · Mississauga",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Salesforce%20Solution%20Architect%20McKesson&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&loc=Mississauga"
     }
    ],
    "toronto": true
@@ -95910,6 +95910,47 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-04",
+   "title": "Hiring: Solutions Architect, Salesforce Migrations @Salesforce:(https://remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295)",
+   "company": "Unknown",
+   "location": "Canada",
+   "url": "https://remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295",
+   "note": "via round11-cached--2026-11-05--v21.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "remotive.com",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "hiring: solutions architect, salesforce migrations @salesforce:(https://remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295) unknown canada remotive.com salesforce via round11-cached--2026-11-05--v21.md salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Hiring%3A%20Solutions%20Architect%2C%20Salesforce%20Migrations%20%40Salesforce%3A%28https%3A//remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295%29+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Hiring%3A%20Solutions%20Architect%2C%20Salesforce%20Migrations%20%40Salesforce%3A%28https%3A//remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295%29&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Hiring%3A%20Solutions%20Architect%2C%20Salesforce%20Migrations%20%40Salesforce%3A%28https%3A//remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295%29&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Hiring%3A%20Solutions%20Architect%2C%20Salesforce%20Migrations%20%40Salesforce%3A%28https%3A//remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295%29&loc=Canada"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-04",
@@ -222259,47 +222300,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Platform Architect (00071000111)",
-   "company": "Cognizant",
-   "location": "Canada",
-   "url": "https://careers.cognizant.com/ca-en/jobs/00071000111/servicenow-platform-architect/",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow platform architect (00071000111) cognizant canada careers.cognizant.com servicenow readme servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Senior ServiceNow Developer",
    "company": "Resolve Tech Solutions",
    "location": "US Remote - TX",
@@ -222335,6 +222335,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Platform Architect (00071000111)",
+   "company": "Cognizant",
+   "location": "Canada",
+   "url": "https://careers.cognizant.com/ca-en/jobs/00071000111/servicenow-platform-architect/",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow platform architect (00071000111) cognizant canada careers.cognizant.com servicenow readme servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&loc=Canada"
     }
    ],
    "toronto": false
@@ -244334,47 +244375,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Discovery%20Developer%20%28258467%29%20-%20Scotiabank%20Canada%3A%20Toronto%3B%20office/remote%20pattern%20not%20disclosed&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-03",
-   "title": "[Hiring] Solutions Architect, Salesforce Migrations @Salesforce",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295",
-   "note": "exa",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "[hiring] solutions architect, salesforce migrations @salesforce unknown canada remotive.com salesforce exa salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=%5BHiring%5D%20Solutions%20Architect%2C%20Salesforce%20Migrations%20%40Salesforce+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=%5BHiring%5D%20Solutions%20Architect%2C%20Salesforce%20Migrations%20%40Salesforce&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=%5BHiring%5D%20Solutions%20Architect%2C%20Salesforce%20Migrations%20%40Salesforce&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=%5BHiring%5D%20Solutions%20Architect%2C%20Salesforce%20Migrations%20%40Salesforce&loc=Canada"
     }
    ],
    "toronto": false
