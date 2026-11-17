@@ -10,15 +10,15 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-16](#current-jobs--as-of-2026-11-16)
 - [ServiceNow jobs (1315)](###servicenow-jobs-1315)
-- [Salesforce jobs (1528)](###salesforce-jobs-1528)
+- [Salesforce jobs (1531)](###salesforce-jobs-1531)
   - [Other jobs (4777)](#other-jobs-4777)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
 - [Archive](#archive)
 
-## Current jobs — as of 2026-11-16
+## Current jobs — as of 2026-11-17
 
-Window: 2026-10-02 → 2026-11-16 · **7585 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-02 → 2026-11-17 · **7588 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1316)
 _developer / administrator / architect / analyst roles_
@@ -1344,7 +1344,7 @@ _developer / administrator / architect / analyst roles_
 
 </details>
 
-### Salesforce jobs (1528)
+### Salesforce jobs (1531)
 
 _developer / administrator / architect / analyst roles_
 
@@ -1373,6 +1373,9 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-16 | [GCP Data Migration Engineer – PySpark & Salesforce Data Migration](https://www.adzuna.ca/details/5968011956) | Astra-North Infoteck Inc. | Brampton, Peel region | via adzuna |
 | 2026-11-16 | [Enterprise Implementation Consultant (Salesforce Commerce Migration)](https://www.adzuna.ca/details/5968012967) | VTRAC Consulting Corporation | Canada | via adzuna |
 | 2026-11-16 | [Analyste organique Salesforce](https://ca.linkedin.com/jobs/view/analyste-organique-salesforce-at-xideral-canada-4490956317) | Xideral Canada | Montreal, Quebec, Canada | via linkedin |
+| 2026-11-13 | [Associate Vice President, Salesforce Engineering & Development](https://jobs.lever.co/jobgether/72434945-c782-4d3e-9b31-1ab1a75c21b7) | Jobgether | Canada | via lever |
+| 2026-11-13 | [Solution Architect, Salesforce Voice](https://jobs.lever.co/jobgether/af053390-3bd6-4a14-b02e-f9a95abab903) | Jobgether | Canada | via lever |
+| 2026-11-10 | [Associate Salesforce Administrator](https://jobs.lever.co/jobgether/31937f76-54e7-4341-8158-d03a295821a8) | Jobgether | Canada | via lever |
 | 2026-11-15 | [C: Salesforce Engineer / Developer](https://www.adzuna.ca/details/5967040864) | mlse | Toronto, Ontario | via adzuna |
 | 2026-11-16 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-hcltech-4490676918) | HCLTech | Toronto, Ontario, Canada | unknown |
 | 2026-11-16 | [Salesforce Technical Architect Revenue Cloud CPQ](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-cpq-at-enterprise-solutions-inc-4486796100) | Enterprise Solutions Inc. | Canada | linkedin · salesforce |

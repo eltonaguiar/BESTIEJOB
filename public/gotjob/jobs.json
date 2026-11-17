@@ -15,10 +15,10 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-17T07:13:29.131Z",
-    "generatedAt": "2026-11-17T07:13:29.131Z",
-    "total": 6315,
-    "newThisScan": 851,
+    "scrapedAt": "2026-11-17T07:45:00.000Z",
+    "generatedAt": "2026-11-17T07:45:00.000Z",
+    "total": 6318,
+    "newThisScan": 854,
     "retainedFromPrevious": 2013,
     "sources": {
       "smartrecruiters": 12,
@@ -34,7 +34,7 @@
     },
     "primaryCounts": {
       "servicenow": 1312,
-      "salesforce": 1387
+      "salesforce": 1390
     }
   },
   "jobs": [
@@ -113554,6 +113554,63 @@
         "salesforce"
       ],
       "dateSource": "posting:json-ld"
+    },
+    {
+      "id": "lever:jobgether/72434945-c782-4d3e-9b31-1ab1a75c21b7",
+      "source": "lever",
+      "company": "Jobgether",
+      "title": "Associate Vice President, Salesforce Engineering & Development",
+      "location": "Canada",
+      "url": "https://jobs.lever.co/jobgether/72434945-c782-4d3e-9b31-1ab1a75c21b7",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-13T00:00:00.000Z",
+      "scrapedAt": "2026-11-17T07:45:00.000Z",
+      "excerpt": "Fresh 02:00 EST scan hit — Lever / Jobgether board, live-verified HTTP 200",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-17T07:45:00+00:00",
+      "verifyState": "live"
+    },
+    {
+      "id": "lever:jobgether/af053390-3bd6-4a14-b02e-f9a95abab903",
+      "source": "lever",
+      "company": "Jobgether",
+      "title": "Solution Architect, Salesforce Voice",
+      "location": "Canada",
+      "url": "https://jobs.lever.co/jobgether/af053390-3bd6-4a14-b02e-f9a95abab903",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-13T00:00:00.000Z",
+      "scrapedAt": "2026-11-17T07:45:00.000Z",
+      "excerpt": "Fresh 02:00 EST scan hit — Lever / Jobgether board, live-verified HTTP 200",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-17T07:45:00+00:00",
+      "verifyState": "live"
+    },
+    {
+      "id": "lever:jobgether/31937f76-54e7-4341-8158-d03a295821a8",
+      "source": "lever",
+      "company": "Jobgether",
+      "title": "Associate Salesforce Administrator",
+      "location": "Canada",
+      "url": "https://jobs.lever.co/jobgether/31937f76-54e7-4341-8158-d03a295821a8",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-17T07:45:00.000Z",
+      "excerpt": "Fresh 02:00 EST scan hit — Lever / Jobgether board, live-verified HTTP 200",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-17T07:45:00+00:00",
+      "verifyState": "live"
     }
   ]
 }
