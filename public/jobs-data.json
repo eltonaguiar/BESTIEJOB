@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-18T02:18:32+00:00",
+ "generatedAt": "2026-11-18T03:09:10+00:00",
  "timezone": "America/Toronto",
- "count": 5999,
- "appliedHidden": 45,
+ "count": 5989,
+ "appliedHidden": 43,
  "sources": [
   "103.careerplug.com",
   "Adzuna",
@@ -160,7 +160,6 @@
   "jobgether.com",
   "jobicy.com",
   "jobily.ca",
-  "jobleads.com",
   "jobmesh.io",
   "jobpilot.suxrobgm.net",
   "jobs-ca.jobflurry.com",
@@ -272,7 +271,6 @@
   "teladochealth.ca",
   "tenthrevolution.com",
   "thejobsmap.com",
-  "theladders.com",
   "themuse.com",
   "toronto.ca.expertini.com",
   "traversal.cv",
@@ -293,6 +291,48 @@
   "zoominfo.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-18",
+   "title": "Manager, HR Technology &amp; ServiceNow HRSD",
+   "company": "IG Wealth Management",
+   "location": "Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491785075",
+   "note": "via fresh-ca--2026-11-18--v2.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "HRSD / VA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "manager, hr technology &amp; servicenow hrsd ig wealth management ontario, canada linkedin servicenow via fresh-ca--2026-11-18--v2.md servicenow hrsd / va role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Manager%2C%20HR%20Technology%20%26amp%3B%20ServiceNow%20HRSD%20IG%20Wealth%20Management+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20HR%20Technology%20%26amp%3B%20ServiceNow%20HRSD%20IG%20Wealth%20Management&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20HR%20Technology%20%26amp%3B%20ServiceNow%20HRSD%20IG%20Wealth%20Management&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Manager%2C%20HR%20Technology%20%26amp%3B%20ServiceNow%20HRSD%20IG%20Wealth%20Management&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
   {
    "posted": "2026-11-18",
    "title": "Manager, HR Technology & ServiceNow HRSD",
@@ -331,48 +371,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Manager%2C%20HR%20Technology%20%26%20ServiceNow%20HRSD%20IG%20Wealth%20Management&loc=Quebec"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Manager, HR Technology &amp; ServiceNow HRSD",
-   "company": "IG Wealth Management",
-   "location": "Manitoba, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491778246",
-   "note": "via fresh-ca--2026-11-18--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 94,
-   "matchReasons": [
-    "ServiceNow",
-    "HRSD / VA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "manager, hr technology &amp; servicenow hrsd ig wealth management manitoba, canada linkedin servicenow via fresh-ca--2026-11-18--v1.md servicenow hrsd / va role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Manager%2C%20HR%20Technology%20%26amp%3B%20ServiceNow%20HRSD%20IG%20Wealth%20Management+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20HR%20Technology%20%26amp%3B%20ServiceNow%20HRSD%20IG%20Wealth%20Management&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20HR%20Technology%20%26amp%3B%20ServiceNow%20HRSD%20IG%20Wealth%20Management&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Manager%2C%20HR%20Technology%20%26amp%3B%20ServiceNow%20HRSD%20IG%20Wealth%20Management&loc=Canada"
     }
    ],
    "toronto": false
@@ -93138,48 +93136,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow ITSM Consultant - SNICND - Navitas Healthcare LLC - Toronto, ON / Ladders",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.theladders.com/job/servicenow-itsm-consultant-snicnd-navitas-healthcare-llc-toronto-on_87207258",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "theladders.com",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow itsm consultant - snicnd - navitas healthcare llc - toronto, on / ladders unknown canada theladders.com servicenow readme servicenow itsm role fit canada / remote",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20ITSM%20Consultant%20-%20SNICND%20-%20Navitas%20Healthcare%20LLC%20-%20Toronto%2C%20ON%20/%20Ladders+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20ITSM%20Consultant%20-%20SNICND%20-%20Navitas%20Healthcare%20LLC%20-%20Toronto%2C%20ON%20/%20Ladders&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20ITSM%20Consultant%20-%20SNICND%20-%20Navitas%20Healthcare%20LLC%20-%20Toronto%2C%20ON%20/%20Ladders&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20ITSM%20Consultant%20-%20SNICND%20-%20Navitas%20Healthcare%20LLC%20-%20Toronto%2C%20ON%20/%20Ladders&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-04",
    "title": "ServiceNow ITOM Developer in Toronto, ON M8X ...",
    "company": "Unknown",
    "location": "Canada",
@@ -97773,47 +97729,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "ServiceNow Security Operations (SecOps) Consultant",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/servicenow-security-operations-secops-consultant--toronto--e68e01aca8c06bda31573495cb1825be6",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow security operations (secops) consultant unknown canada jobleads.com servicenow readme servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Security%20Operations%20%28SecOps%29%20Consultant+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Security%20Operations%20%28SecOps%29%20Consultant&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Security%20Operations%20%28SecOps%29%20Consultant&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Security%20Operations%20%28SecOps%29%20Consultant&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-04",
    "title": "ServiceNow Project Manager in Greater Toronto Area, ON - Opensity Solutions",
    "company": "Opensity Solutions",
    "location": "Canada",
@@ -98483,46 +98398,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20QA%20Engineer%20%E2%80%93%20ServiceNow%20jobgether&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Remote ServiceNow WSD Dev for 3-Month Contract",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/remote-servicenow-wsd-dev-for-3-month-contract--canada--e39b2f838521d43bb3c3eed2c6ab1bc3a",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "remote servicenow wsd dev for 3-month contract unknown canada jobleads.com servicenow readme servicenow canada / remote",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Remote%20ServiceNow%20WSD%20Dev%20for%203-Month%20Contract+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Remote%20ServiceNow%20WSD%20Dev%20for%203-Month%20Contract&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Remote%20ServiceNow%20WSD%20Dev%20for%203-Month%20Contract&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Remote%20ServiceNow%20WSD%20Dev%20for%203-Month%20Contract&loc=Canada"
     }
    ],
    "toronto": false
@@ -102761,47 +102636,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "Remote Salesforce & CPQ Specialist (Part-Time) / Ottawa",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/remote-salesforce-cpq-specialist-part-time--ottawa--eba3e51d2dd20338c65881e3da6d7618b",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "remote salesforce & cpq specialist (part-time) / ottawa unknown canada jobleads.com salesforce readme salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Remote%20Salesforce%20%26%20CPQ%20Specialist%20%28Part-Time%29%20/%20Ottawa+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Remote%20Salesforce%20%26%20CPQ%20Specialist%20%28Part-Time%29%20/%20Ottawa&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Remote%20Salesforce%20%26%20CPQ%20Specialist%20%28Part-Time%29%20/%20Ottawa&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Remote%20Salesforce%20%26%20CPQ%20Specialist%20%28Part-Time%29%20/%20Ottawa&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-04",
    "title": "Notify - Senior Manager, Client Relationship Management (Salesforce.com CRM)",
    "company": "Unknown",
    "location": "Canada",
@@ -103623,47 +103457,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20-%20Toronto%2C%20Ontario%2C%20Canada%20-%20Vancouver%2C%20British%20Columbia%2C%20Canada&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Salesforce Developer - Hybrid in Toronto",
-   "company": "Hybrid in Toronto",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/senior-salesforce-developer-hybrid-in-toronto--toronto--ef8c7465b6f043af17027cfeb6eb54e60",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior salesforce developer - hybrid in toronto hybrid in toronto canada jobleads.com salesforce readme salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Developer%20-%20Hybrid%20in%20Toronto%20Hybrid%20in%20Toronto+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Developer%20-%20Hybrid%20in%20Toronto%20Hybrid%20in%20Toronto&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Developer%20-%20Hybrid%20in%20Toronto%20Hybrid%20in%20Toronto&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20-%20Hybrid%20in%20Toronto%20Hybrid%20in%20Toronto&loc=Canada"
     }
    ],
    "toronto": false
@@ -104622,14 +104415,7 @@
    ],
    "french": false,
    "search": "salesforce administrator (contract position) unknown canada jobboard.d9f.my-board.org salesforce readme salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "jobleads.com",
-     "url": "https://www.jobleads.com/ca/job/salesforce-administrator--montreal--toronto--e70363728ee9ba4d203edc2ad5faf4330",
-     "label": "jobleads.com · Canada",
-     "gated": true
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -108423,47 +108209,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Developer%20-%20Python%20%26%20Java%20Pacer%20Group&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "PowerBI Developer",
-   "company": "JobLeads",
-   "location": "Toronto",
-   "url": "https://www.jobleads.com/ca/job/tableau-powerbi-developer--toronto--ef219d9022fa4b634c767a0d780fdd7db",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 32,
-   "matchReasons": [
-    "Data/reporting",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "powerbi developer jobleads toronto jobleads.com other via round11-cached--2026-11-05--v21.md data/reporting role fit toronto area",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=PowerBI%20Developer+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=PowerBI%20Developer&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=PowerBI%20Developer&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=PowerBI%20Developer&loc=Toronto"
     }
    ],
    "toronto": true
@@ -117064,46 +116809,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=IT%20Manager%20-%20Kepler%20Communications%20/%20Built%20In%20Toronto%20Kepler%20Communications%20/%20Built%20In%20Toronto&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "IT Ops (Operation & Support) Manager",
-   "company": "Unknown",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/it-ops-operation-support-manager--toronto--e8db3d4647a0ebb7e57c051cc4f1e50cb",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "it ops (operation & support) manager unknown canada jobleads.com other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=IT%20Ops%20%28Operation%20%26%20Support%29%20Manager+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=IT%20Ops%20%28Operation%20%26%20Support%29%20Manager&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=IT%20Ops%20%28Operation%20%26%20Support%29%20Manager&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=IT%20Ops%20%28Operation%20%26%20Support%29%20Manager&loc=Canada"
     }
    ],
    "toronto": false
@@ -128029,47 +127734,6 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "Remote ServiceNow CSM/OMT Architect (12-Month Contract)",
-   "company": "JobLeads",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/remote-servicenow-csm-omt-architect-12-month-contract--canada--ef3a20b37cfb351764c02aca6a3ebffea",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "remote servicenow csm/omt architect (12-month contract) jobleads canada jobleads.com servicenow readme servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Remote%20ServiceNow%20CSM/OMT%20Architect%20%2812-Month%20Contract%29+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Remote%20ServiceNow%20CSM/OMT%20Architect%20%2812-Month%20Contract%29&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Remote%20ServiceNow%20CSM/OMT%20Architect%20%2812-Month%20Contract%29&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Remote%20ServiceNow%20CSM/OMT%20Architect%20%2812-Month%20Contract%29&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-03",
    "title": "ServiceNow Developer",
    "company": "Onico Solutions",
    "location": "Canada",
@@ -128529,47 +128193,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=%5BHiring%5D%20ServiceNow%20Developer%20%40FX%20Innovation%20FX%20Innovation&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Principal Platform Architect- Banking - ServiceNow - Remote",
-   "company": "Ladders",
-   "location": "Remote",
-   "url": "https://www.theladders.com/job/principal-platform-architect-banking-servicenow-virtual-travel_83377105",
-   "note": "theladders",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "theladders.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal platform architect- banking - servicenow - remote ladders remote theladders.com servicenow theladders servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Platform%20Architect-%20Banking%20-%20ServiceNow%20-%20Remote%20Ladders+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Platform%20Architect-%20Banking%20-%20ServiceNow%20-%20Remote%20Ladders&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Platform%20Architect-%20Banking%20-%20ServiceNow%20-%20Remote%20Ladders&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Platform%20Architect-%20Banking%20-%20ServiceNow%20-%20Remote%20Ladders&loc=Canada"
     }
    ],
    "toronto": false
@@ -195184,47 +194807,6 @@
     }
    ],
    "toronto": false
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "ServiceNow System Admin – Enterprise IT & CX",
-   "company": "JobLeads",
-   "location": "Toronto, ON",
-   "url": "https://www.jobleads.com/ca/job/servicenow-system-admin-enterprise-it-cx--toronto--efca808d1a6bf61f79b6aecf1f4e05ca3",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow system admin – enterprise it & cx jobleads toronto, on jobleads.com servicenow readme servicenow role fit toronto area",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20System%20Admin%20%E2%80%93%20Enterprise%20IT%20%26%20CX+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Admin%20%E2%80%93%20Enterprise%20IT%20%26%20CX&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Admin%20%E2%80%93%20Enterprise%20IT%20%26%20CX&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Admin%20%E2%80%93%20Enterprise%20IT%20%26%20CX&loc=Toronto"
-    }
-   ],
-   "toronto": true
   },
   {
    "posted": "2026-11-01",
