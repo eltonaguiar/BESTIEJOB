@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-18T21:21:31+00:00",
+ "generatedAt": "2026-11-18T22:06:38+00:00",
  "timezone": "America/Toronto",
- "count": 4944,
+ "count": 4945,
  "appliedHidden": 31,
  "sources": [
   "103.careerplug.com",
@@ -280,6 +280,49 @@
   "zoominfo.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-18",
+   "title": "Business Analyst – ServiceNow Strategic Portfolio Management (SPM)",
+   "company": "NTT DATA North America",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/business-analyst-at-ntt-data-north-america-4490843088",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "SPM/PPM",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business analyst – servicenow strategic portfolio management (spm) ntt data north america toronto, ontario, canada linkedin servicenow linkedin servicenow spm/ppm consulting/ba role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20NTT%20DATA%20North%20America+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20NTT%20DATA%20North%20America&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20NTT%20DATA%20North%20America&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20NTT%20DATA%20North%20America&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
   {
    "posted": "2026-11-18",
    "title": "Manager, HR Technology & ServiceNow HRSD",

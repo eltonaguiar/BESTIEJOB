@@ -9,7 +9,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 ## Contents
 
 - [Current jobs — as of 2026-11-18](#current-jobs--as-of-2026-11-18)
-  - [ServiceNow jobs (1112)](#servicenow-jobs-1112)
+  - [ServiceNow jobs (1113)](#servicenow-jobs-1112)
   - [Salesforce jobs (1071)](#salesforce-jobs-1071)
   - [Other jobs (4061)](#other-jobs-4061)
 - [User / AI agent guide](#user--ai-agent-guide)
@@ -18,9 +18,10 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-18
 
-Window: 2026-10-19 → 2026-11-18 · **6186 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-19 → 2026-11-18 · **6187 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1123)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1123 postings</strong></summary>| 2026-11-18 | [Technicien en soutien informatique de niveau 3 – ServiceNow](https://ca.linkedin.com/jobs/view/technicien-en-soutien-informatique-de-niveau-3-%E2%80%93-servicenow-at-fop-consultants-4491849439) | FOP Consultants | Montreal, Quebec, Canada | via fresh-ca--2026-11-18--v1.md |
+### ServiceNow jobs (1124)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1124 postings</strong></summary>| 2026-11-18 | [Business Analyst – ServiceNow Strategic Portfolio Management (SPM)](https://ca.linkedin.com/jobs/view/business-analyst-at-ntt-data-north-america-4490843088) | NTT DATA North America | Toronto, Ontario, Canada | via hermes-cron--2026-11-18--v9.md |
+| 2026-11-18 | [Technicien en soutien informatique de niveau 3 – ServiceNow](https://ca.linkedin.com/jobs/view/technicien-en-soutien-informatique-de-niveau-3-%E2%80%93-servicenow-at-fop-consultants-4491849439) | FOP Consultants | Montreal, Quebec, Canada | via fresh-ca--2026-11-18--v1.md |
 | 2026-11-18 | [Manager, HR Technology &amp; ServiceNow HRSD](https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491785075) | IG Wealth Management | Ontario, Canada | via fresh-ca--2026-11-18--v5.md |
 | 2026-11-18 | [ServiceNow Developer Cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-raas-infotek-4492064906) | Raas Infotek | Mississauga, Ontario, Canada | via fresh-ca--2026-11-18--v1.md |
 | 2026-11-18 | [Technicien de soutien informatique niveau 3 (ServiceNow / ITIL)](https://ca.linkedin.com/jobs/view/technicien-de-soutien-informatique-niveau-3-servicenow-itil-at-fop-consultants-4491864927) | FOP Consultants | Montreal, Quebec, Canada | via fresh-ca--2026-11-18--v1.md |

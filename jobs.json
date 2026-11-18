@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-18T19:09:26.897Z",
-    "generatedAt": "2026-11-18T19:09:26.897Z",
-    "total": 5465,
+    "scrapedAt": "2026-11-18T22:06:09.327724+00:00",
+    "generatedAt": "2026-11-18T22:06:09.327724+00:00",
+    "total": 5466,
     "newThisScan": 797,
     "retainedFromPrevious": 1606,
     "sources": {
@@ -33,12 +33,29 @@
       "adzuna": 483
     },
     "primaryCounts": {
-      "servicenow": 1136,
+      "servicenow": 1137,
       "salesforce": 1161
     },
     "undated": 0
   },
   "jobs": [
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/business-analyst-at-ntt-data-north-america-4490843088",
+      "source": "linkedin",
+      "company": "NTT DATA North America",
+      "title": "Business Analyst – ServiceNow Strategic Portfolio Management (SPM)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-analyst-at-ntt-data-north-america-4490843088",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T00:00:00.000Z",
+      "scrapedAt": "2026-11-18T22:06:09.327724+00:00",
+      "excerpt": "Business Analyst – ServiceNow SPM · LinkedIn guest search · ServiceNow platform team, SPM capabilities",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
     {
       "id": "jobicy:jobicy.com/jobs/163157-full-stack-engineer-11",
       "source": "jobicy",
