@@ -79,6 +79,15 @@ jobs:
             echo "no new inbox submissions"
           fi
 
+      - name: Drop rows that break the board's published rules
+        # Self-healing, not a one-off purge: board-invariants ratchets the same
+        # kinds, so a row that violates a published promise was failing the gate
+        # until someone deleted it. This runs after the merge (new rows are in)
+        # and before the site rebuild (page data comes from the pruned README).
+        # scripts/normalize_board.py removes the row from README.md, jobs.json and
+        # inbox/*.md — pruning only the README is undone by the next hourly merge.
+        run: python3 scripts/normalize_board.py --apply
+
       - name: Sync curated README rows into the feed
         run: node scripts/sync_readme_to_jobs.mjs
 
