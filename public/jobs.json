@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-10T21:01:17.951Z",
     "generatedAt": "2026-11-10T21:01:17.951Z",
-    "total": 5307,
+    "total": 5389,
     "newThisScan": 700,
     "retainedFromPrevious": 1661,
     "sources": {
@@ -89,6 +89,91 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technicien-en-soutien-informatique-de-niveau-3-%e2%80%93-servicenow-at-fop-consultants-4491849439",
+      "source": "readme",
+      "company": "FOP Consultants",
+      "title": "Technicien en soutien informatique de niveau 3 – ServiceNow",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technicien-en-soutien-informatique-de-niveau-3-%E2%80%93-servicenow-at-fop-consultants-4491849439",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
+      "source": "readme",
+      "company": "Tata Consultancy Services",
+      "title": "Senior Salesforce Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-techno-functional-support-lead-ams-lead-at-accenture-4490848765",
+      "source": "readme",
+      "company": "Accenture",
+      "title": "Salesforce Techno-Functional Support Lead / AMS Lead",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-techno-functional-support-lead-ams-lead-at-accenture-4490848765",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-senior-developer-at-tata-consultancy-services-4491841920",
+      "source": "readme",
+      "company": "Tata Consultancy Services",
+      "title": "Salesforce Senior Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-senior-developer-at-tata-consultancy-services-4491841920",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-software-engineer-salesforce-specialty-health-technology-at-loblaw-companies-limited-4490857015",
+      "source": "readme",
+      "company": "Loblaw Companies Limited",
+      "title": "Sr. Software Engineer (Salesforce), Specialty Health Technology",
+      "location": "Brampton, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sr-software-engineer-salesforce-specialty-health-technology-at-loblaw-companies-limited-4490857015",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via linkedin-guest--2026-11-18--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -788,6 +873,312 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:jobs.smartrecruiters.com/servicenow/744000162166739",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Sr Solution Sales Executive CRM (CPQ)",
+      "location": "Toronto, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via ats--2026-11-17--v6.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/associate-software-engineer--sql--ci-cd--_r_1508918",
+      "source": "readme",
+      "company": "Td",
+      "title": "Associate Software Engineer (nCino/Salesforce)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via ats--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-en-automatisation-qa-salesforce-at-nesto-group-e-4490438795",
+      "source": "readme",
+      "company": "nesto group(e)",
+      "title": "Développeur en automatisation QA Salesforce",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-en-automatisation-qa-salesforce-at-nesto-group-e-4490438795",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-17--v10.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-munvo-4491434167",
+      "source": "readme",
+      "company": "Munvo",
+      "title": "Salesforce Marketing Cloud Consultant",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-munvo-4491434167",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-17--v6.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-devops-engineer-at-serefin-4491426431",
+      "source": "readme",
+      "company": "Serefin",
+      "title": "Salesforce DevOps Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-devops-engineer-at-serefin-4491426431",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5969569896",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "Salesforce Alliance - Operations & PMO Manager 24 Month Fixed Term Contract",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5969569896",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-administrator-sfmc-natural-health-hybrid-in-toronto-%2460-75k-%2b-benefits-at-white-bay-4491195862",
+      "source": "readme",
+      "company": "White Bay",
+      "title": "Salesforce Administrator / SFMC / Natural Health / Hybrid in Toronto / $60-75k + Benefits",
+      "location": "North York, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-sfmc-natural-health-hybrid-in-toronto-%2460-75k-%2B-benefits-at-white-bay-4491195862",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-systems-analyst-%e2%80%93-salesforce-revenue-cloud-at-ust-4490471342",
+      "source": "readme",
+      "company": "UST",
+      "title": "Business Systems Analyst – Salesforce Revenue Cloud",
+      "location": "Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-salesforce-revenue-cloud-at-ust-4490471342",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-salesforce-functional-analyst-at-tforce-freight-4491723072",
+      "source": "readme",
+      "company": "TForce Freight",
+      "title": "Senior Salesforce Functional Analyst",
+      "location": "Saint-Laurent, Manitoba, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-functional-analyst-at-tforce-freight-4491723072",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968978269",
+      "source": "readme",
+      "company": "Respawn Entertainment",
+      "title": "Développeur.se d’outils / Tools Developer (Apex Legends)",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5968978269",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/student-intern-salesforce-developer-1-at-celestica-4491444461",
+      "source": "readme",
+      "company": "Celestica",
+      "title": "Student Intern, Salesforce Developer 1",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/student-intern-salesforce-developer-1-at-celestica-4491444461",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-solution-architect-at-the-citco-group-limited-4490484571",
+      "source": "readme",
+      "company": "The Citco Group Limited",
+      "title": "Salesforce Solution Architect",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-the-citco-group-limited-4490484571",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/analyste-fonctionnel-senior-salesforce-at-tfi-international-inc-4491163840",
+      "source": "readme",
+      "company": "TFI International Inc.",
+      "title": "Analyste fonctionnel senior Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/analyste-fonctionnel-senior-salesforce-at-tfi-international-inc-4491163840",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483268219",
+      "source": "readme",
+      "company": "Co-operators Assurance et services financiers",
+      "title": "Manager, Systems Development - Agentic Salesforce Delivery",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483268219",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via linkedin-guest--2026-11-17--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4491158151",
+      "source": "readme",
+      "company": "Hired",
+      "title": "Salesforce Administrator (Remote)",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4491158151",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via linkedin-guest--2026-11-17--v9.md",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-salesforce-clm-developer-at-gravity-infosolutions-inc-4491424178",
+      "source": "readme",
+      "company": "Gravity Infosolutions, Inc.",
+      "title": "Senior Salesforce CLM Developer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-clm-developer-at-gravity-infosolutions-inc-4491424178",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via linkedin-guest--2026-11-18--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-euse-oracle-apex-interm%c3%a9diaire-at-talan-4491430129",
+      "source": "readme",
+      "company": "Talan",
+      "title": "Développeur(euse) Oracle APEX, intermédiaire",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-oracle-apex-interm%C3%A9diaire-at-talan-4491430129",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via linkedin-guest--2026-11-18--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-nuvei-4491414881",
+      "source": "readme",
+      "company": "Nuvei",
+      "title": "Salesforce Business Process Analyst",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-nuvei-4491414881",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via linkedin-guest--2026-11-18--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -3214,6 +3605,193 @@
       ]
     },
     {
+      "id": "readme:adzuna.ca/details/5968011277",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.",
+      "title": "Salesforce Techno-Functional Consultant",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5968011277",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-17--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968010931",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.",
+      "title": "Senior Salesforce Technical Lead – Salesforce Development, Enterprise Implementation & Integration",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5968010931",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-17--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968010678",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.",
+      "title": "Salesforce Functional Analyst – Financial Services Cloud (FSC)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5968010678",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-17--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-brasil-4490946147",
+      "source": "readme",
+      "company": "PwC Brasil",
+      "title": "Technical Salesforce Senior Associate",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technical-salesforce-senior-associate-at-pwc-brasil-4490946147",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-17--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968011533",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.",
+      "title": "Solution Architect – Salesforce Service Cloud Voice, Amazon Connect & Contact Center",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5968011533",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968012098",
+      "source": "readme",
+      "company": "Intact FC",
+      "title": "Senior Back-End Email Developer (Salesforce Marketing Cloud)",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5968012098",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968011767",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.",
+      "title": "Salesforce Technical Lead – Salesforce Development, Integration & Data Migration",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5968011767",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968012932",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.",
+      "title": "Salesforce Technical Lead – Salesforce Development, Enterprise Implementations & Integration",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5968012932",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968012359",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.",
+      "title": "Salesforce Technical Lead - Financial Services Cloud.",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5968012359",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968012774",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.",
+      "title": "Salesforce Functional Lead (Financial Services Cloud)",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5968012774",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967828998",
+      "source": "readme",
+      "company": "CYNET SYSTEMS",
+      "title": "Salesforce Application Developer",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5967828998",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-18--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "readme:adzuna.ca/details/5967247618",
       "source": "readme",
       "company": "KPMG",
@@ -4775,6 +5353,108 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967039572",
+      "source": "readme",
+      "company": "407 ETR Concession Company Limited",
+      "title": "Senior Salesforce Marketing Cloud Engineer",
+      "location": "Vaughan, York region",
+      "url": "https://www.adzuna.ca/details/5967039572",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-15--v21.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967041009",
+      "source": "readme",
+      "company": "LGS, an IBM Company",
+      "title": "Salesforce Developer",
+      "location": "Québec, Canada",
+      "url": "https://www.adzuna.ca/details/5967041009",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-17--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967040901",
+      "source": "readme",
+      "company": "Clarity",
+      "title": "Salesforce Developer",
+      "location": "Greater Vancouver, British Columbia",
+      "url": "https://www.adzuna.ca/details/5967040901",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-17--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967040684",
+      "source": "readme",
+      "company": "S.i. Systems",
+      "title": "Senior Salesforce Technical Architect to lead the technical architecture, design, and",
+      "location": "Greater Vancouver, British Columbia",
+      "url": "https://www.adzuna.ca/details/5967040684",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-17--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967040267",
+      "source": "readme",
+      "company": "EY",
+      "title": "Architecte Salesforce FSC – Architecture Financières Senior",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5967040267",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-17--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967039718",
+      "source": "readme",
+      "company": "Ensiti",
+      "title": "Remote Salesforce Consultant - Cloud Solutions & Growth",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5967039718",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-17--v9.md",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -8235,6 +8915,23 @@
       ]
     },
     {
+      "id": "readme:ca.indeed.com/job/salesforce-developer-df0fa6f93f91e382",
+      "source": "readme",
+      "company": "Incepta Solutions",
+      "title": "Salesforce Developer",
+      "location": "Toronto, ON",
+      "url": "https://ca.indeed.com/job/salesforce-developer-df0fa6f93f91e382",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-14T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via indeed — discovered 2026-11-14 · hybrid · Marketing Cloud/Loyalty · 4–7 years · Platform Developer I preferred",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "readme:ca.linkedin.com/jobs/view/salesforce-business-analyst-senior-associate-at-pwc-canada-4490536839",
       "source": "readme",
       "company": "PwC Canada",
@@ -9908,6 +10605,57 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-technical-architect-at-experis-canada-4489818508",
+      "source": "readme",
+      "company": "Experis Canada",
+      "title": "Salesforce Technical Architect",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-experis-canada-4489818508",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-13T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via linkedin-guest--2026-11-14--v31.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-pacer-group-4488991201",
+      "source": "readme",
+      "company": "Pacer Group",
+      "title": "Salesforce FSC Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-pacer-group-4488991201",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-13T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via linkedin-guest--2026-11-14--v31.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-revenue-cloud-technical-architect-at-lancesoft-inc-4488379400",
+      "source": "readme",
+      "company": "LanceSoft, Inc.",
+      "title": "Salesforce Revenue Cloud Technical Architect",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-revenue-cloud-technical-architect-at-lancesoft-inc-4488379400",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-13T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via linkedin-guest--2026-11-14--v31.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "readme:ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984",
       "source": "readme",
       "company": "KTek Resourcing",
@@ -11250,6 +11998,40 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sr-cloud-consultant-salesforce-at-mphasis-4488567972",
+      "source": "readme",
+      "company": "Mphasis",
+      "title": "Sr. Cloud Consultant — Salesforce",
+      "location": "Toronto, ON",
+      "url": "https://ca.linkedin.com/jobs/view/sr-cloud-consultant-salesforce-at-mphasis-4488567972",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-12T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via kilo-bestiejobs-v2--2026-11-14--v32.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-technical-architect-with-revenue-cloud-rca-at-rang-technologies-inc-4490511439",
+      "source": "readme",
+      "company": "Rang Technologies",
+      "title": "Salesforce Technical Architect - Revenue Cloud (RCA)",
+      "location": "Toronto, ON",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-with-revenue-cloud-rca-at-rang-technologies-inc-4490511439",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-12T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via kilo-bestiejobs-v2-fresh--2026-11-14--v32.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -14905,6 +15687,516 @@
       ]
     },
     {
+      "id": "readme:adzuna.ca/details/5962506340",
+      "source": "readme",
+      "company": "OSI Digital",
+      "title": "Salesforce Business Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5962506340",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via fresh-ca--2026-11-15--v15.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/intermediate-salesforce-system-coordinator-5816-at-amyantek-4489682441",
+      "source": "readme",
+      "company": "Amyantek",
+      "title": "Intermediate Salesforce System Coordinator - 5816",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/intermediate-salesforce-system-coordinator-5816-at-amyantek-4489682441",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-11--v48.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-corekloud-technologies-4488678111",
+      "source": "readme",
+      "company": "CoreKloud Technologies",
+      "title": "Salesforce FSC Developer",
+      "location": "Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-corekloud-technologies-4488678111",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via hermes-cron--2026-11-11--v48.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/oxjqph21lhslsowbnhvayehekgj9dhdhdfwt4jg0w6nh62qbhkopjkmyayckkirh",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Senior Salesforce Developer - Docebo - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/OXjQph21lhSlSOWbNhVAyEHEkgj9DHdHDfWT4Jg0w6Nh62qBhkopJKmyayCkKirh",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/pdwl20cpwvwlxsyxhhrlhto_6ofts0vme1sygsytptlg2q37i2vipird65gawpdv",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Senior Salesforce Developer - CGI - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/PdWL20cPwvWLXSyXhHRlHtO_6ofts0vMe1SYGsYtpTlg2Q37i2vipiRd65gAwpdV",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/rtg7tomgm9wm-qwxnjo4memymfgjjrjgpdc7lpo1imxzq_dzesxt6azn3eqair-k",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Developer 1014 - Veracity Ventures Inc. - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/rtG7ToMgM9Wm-qWXnJO4MEmymFgjJRJgPdc7LPO1imxZq_dzesxt6Azn3eqAir-K",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/h6rxbsff44sbjjqgpcacbtm3k_ycrowdxchtpef0bw8eckoybokru_9onyied7z2",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Developer with CPQ - LTM - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/h6RxbsFf44SBJjQgpcAcbtM3K_YCROWdxChtpef0bW8EcKoyboKrU_9ONYIed7z2",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/j9q4-xjfxs389akz-l9cqc2txnoaom56sc651l8g5zchdffhyfkjc5jjc4kngvqa",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Senior Back-End Email Developer (Salesforce Marketing Cloud) - Intact Financial - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/J9q4-xjfxs389akZ-L9cQC2tXNoaOm56sc651l8g5zCHdffHyFKjc5JJC4KnGvQA",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/bfvvcwoyjrilolosi4x4_glxrgsqguig0ch1mbb4s0sozpdj9hxphihuqa9fnk2v",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Developer - PCI Panasonic Canada Inc. - Mississauga, ON",
+      "location": "Mississauga",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/bfvVCwoyJriLOlOsI4X4_gLxRgsQguig0Ch1mbB4s0sOZPDj9hXpHihUqA9fNk2V",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/apgljjikr3ptpzaqtqegna-b9ya5qkqc9pfy5aui-yheoui5ozgmohjkm-p1uby0",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Developer with Java OR SQL - LTM - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/ApGljjiKR3ptpZAqTqegna-B9Ya5QKQc9pFY5Aui-yHeouI5oZGmoHjkm-P1ubY0",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/4ov1oum98u4ukgt7bvrsnmdfgctwunamc0rn7coikdyxydhw4f586d7msu8amgnv",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Sr. Salesforce Developer - Capgemini - Mississauga, ON",
+      "location": "Mississauga",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/4OV1oUM98u4UKGt7bvRSNMdfgcTWUNAmc0Rn7cOikDYXyDHW4f586D7Msu8AmGnV",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/z7oosq459-y5bh-qocahfob9zqxkklrvxbb5_x2sjiptyji8xtxidvd8yey2mpz9",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Senior Developer - IKO Industries Ltd. - Mississauga, ON",
+      "location": "Mississauga",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/Z7oosQ459-Y5bh-qoCaHfOB9ZQXkKlRvXBB5_X2sjIPTyji8xtxidvD8YEy2MpZ9",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/wtselzlsjsl03zcsd81tk-bxf4ksphaxtjui41nwpnswd7wpwdmhfjstxdi2hcnu",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce nCino Developer - Cognizant - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/wTsElzlsJsl03ZcSD81tk-bXf4ksPHAXTJui41nWpnswD7wpWDmHfjStXDi2HCNU",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/vz-zfckcolmtousato9buwmpe9cjuy-nsqiv3ev-_wwlyqlypil8efoqtxxzzqpq",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Datacloud Developer - Cognizant - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/vz-ZFCKcolMToUSAtO9BUWMPe9CjuY-NSqIV3Ev-_WwLyQlyPiL8EFOQtXxzzQPQ",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/qom-j31o-3qvjgnnqwckjqwp7ukcx2e8c3rillqzfbtxcjmnsj7jf-lmwgrqcon8",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Developer - Panasonic - Mississauga, ON",
+      "location": "Mississauga",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/qom-j31o-3QVjGnNqWCKjQwP7UKcx2e8C3RiLlQzFBTxcjmNSJ7jf-LmwGRQcON8",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/hq9pr9jntxotkfxql8_kduar4cqnn5wigosfpo6jvrhqwb-rr9iyu6n-yhag1gnc",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Platform Developer - Altus Group - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/hQ9pr9JNtXOTKfXql8_kDuAR4CqNN5wIGosfpo6jvrhqWB-Rr9IyU6n-yHag1gNc",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/7h1asue8qvz3ihocf-u5-tpazarotf4f-5ome3hrawrv8-6k2u-o5ghu7qctcrmh",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Developer - Toronto (hybrid) (PL834) - Paralucent - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/7H1AsUE8qVz3iHOcf-u5-TpaZAROTF4f-5OME3Hrawrv8-6k2u-O5Ghu7QCTCrmH",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/b773-ilhhx2cli4urvrviretaa2b8xbwuxarxdqwrtlhpdbjiamlpvjwcgn8u99y",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Junior Software Developer (Salesforce & AI) - Industrious CRM - Pickering, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/B773-IlHhx2clI4UrVrVIretaA2b8XbwUxaRxDqwrtLHPDbJIAMlPVjwCgN8u99Y",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/0zhro3a4ff5bgjklfvdqei19m8pxol9mawod5upjisw4ppoc7cbxsivklb-dkemx",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce DevOps with Admin / Deployment Engineer - LTM - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/0zhrO3A4Ff5BgJKLFvdqEI19M8pxol9mAwoD5upjISW4PpOc7CbXsIVKLB-dkEmx",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/bayrp6mybynw3qhcvoqouiti6y39iomctevg-xc_45p7ujxq4pgnpnrdsbgmai-7",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Lead - OSI Digital - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/baYrp6myBYNW3QHCVoqouIti6y39iOmctEvG-XC_45p7UJxq4PGNpNrDsbGmai-7",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/pp8jvsoloq0b750ncp7bdjvpomtoiqnwvj3113seepvryvol7g5b3nfaqjb1yp1i",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Architect - CGI - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/PP8JvSolOq0B750NCP7BDjVpomToIQNwVJ3113SEepvryvoL7G5b3nFAqjb1yP1I",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/mkly8kv-qghiqrxtzlmnawlajaugqav4q7qeuhxss_jsb56fdsw8g3t_eb-07ban",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Implementation Consultant & Platform Administrator - SS&C Technologies - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/MkLY8Kv-QGhIQRxtzLMnawlAjAugqAV4Q7qeuHxss_jSb56FDsW8g3t_Eb-07ban",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/_w-sspzz5jskfkqfmsxl4fn3bcvzt0ujoe_ghmzthcxhiou81rzaodt-w5k3t6q5",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Marketing Cloud Specialist - MEDCAN - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/_w-sSPzZ5jSkfkQFMSxL4fN3Bcvzt0ujOE_gHmZthCxHIou81rZaODt-W5K3T6q5",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/_lq4tga6x7shus4xu_j7qygkexuqi3idthzzdidvtebp9rhr5f9gkiet-wmqq3aj",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Administrator (Hybrid) - Survalent - Mississauga, ON",
+      "location": "Mississauga",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/_LQ4tgA6x7ShuS4Xu_J7qygKExuQi3IdtHzzDiDVTeBp9RHR5F9GKIeT-WMQq3aJ",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/7vnggrpmf_lgtsy1nskmop_k6y3ildwfv6ap71gawory7d0qd4iam5szgopjsidg",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Salesforce Product Owner - Docebo - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/7vnGgRpmF_lgtSy1NSKMOP_k6y3IldWfV6Ap71gAwOry7d0qD4IaM5SzGopjSidG",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/mybay-kjyxqdwnfqqzudnahp-pbmxe-qv3akboq87aplexdbfu4xutpvg5q0wici",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Business Systems & IT Specialist – Salesforce, Rootstock ERP & Google Workspace - Metro Jet Wash Corporation - Etobicoke, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/MYBAY-KJyXQDwNFqQZudnAhp-pbmxE-Qv3AKBOq87AplexDbFU4XutpVg5Q0wICI",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:workopolis.com/jobsearch/viewjob/lfe9kza15adfbrd6nnk7bxoprw6qwvlcsnbxetoexnoqvpkribrgx9qjjlruczum",
+      "source": "readme",
+      "company": "Workopolis Canada",
+      "title": "Senior Consultant, Salesforce Platform (Deloitte Technology Canada (DTC), Platform Team) - Deloitte - Toronto, ON",
+      "location": "Toronto",
+      "url": "https://www.workopolis.com/jobsearch/viewjob/lFE9Kza15AdFbRD6nnk7bxOpRW6qwvlcsnbxeToEXNoqVpKRIBRGx9qJjlrUczuM",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_opencode-job-hunt-workopolis--2026-11-11--v45.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-developer-salesforce-360-at-rang-technologies-inc-4490021104",
+      "source": "readme",
+      "company": "Rang Technologies",
+      "title": "Salesforce Developer (360)",
+      "location": "Mississauga, ON",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-salesforce-360-at-rang-technologies-inc-4490021104",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via kilo-bestiejobs-v2--2026-11-14--v32.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-salesforce-marketing-cloud-engineer-at-407-etr-4489031805",
+      "source": "readme",
+      "company": "407 ETR",
+      "title": "Senior Salesforce Marketing Cloud Engineer",
+      "location": "Woodbridge, ON",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-marketing-cloud-engineer-at-407-etr-4489031805",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via kilo-bestiejobs-v2--2026-11-14--v32.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-technical-architect-at-brillio-4489013179",
+      "source": "readme",
+      "company": "Brillio",
+      "title": "Salesforce Technical Architect",
+      "location": "Ontario",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-brillio-4489013179",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-11T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via kilo-bestiejobs-v2-fresh--2026-11-14--v32.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5960555439",
       "source": "adzuna",
       "company": "ServiceNow, Inc.",
@@ -15534,6 +16826,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-technical-architect-service-cloud-voice-at-experis-4488612601",
+      "source": "readme",
+      "company": "Experis",
+      "title": "Salesforce Technical Architect - Service Cloud Voice",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-service-cloud-voice-at-experis-4488612601",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-10T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via inbox_staffing2--2026-11-10--v48.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -65618,6 +66927,23 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/revops-solutions-architect-hubspot-%2b-salesforce-at-properexpression-4479235053",
+      "source": "readme",
+      "company": "ProperExpression",
+      "title": "RevOps Solutions Architect (HubSpot + Salesforce)",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/revops-solutions-architect-hubspot-%2B-salesforce-at-properexpression-4479235053",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-02T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via buffy-critical--2026-11-02--v103.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/salesforce-developer--cloud-developer-_rq230765",
       "source": "workday",
       "company": "GDIT",
@@ -78490,6 +79816,23 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-lead-salesforce-marketing-cloud-engineer-at-diligente-technologies-4477699547",
+      "source": "readme",
+      "company": "Diligente Technologies",
+      "title": "Senior/Lead Salesforce Marketing Cloud Engineer",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-lead-salesforce-marketing-cloud-engineer-at-diligente-technologies-4477699547",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via buffy-round3--2026-11-02--v140.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5947005036",
       "source": "adzuna",
       "company": "Hire DigITalent",
@@ -88431,6 +89774,40 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/technical-lead-salesforce-dealer-experience-at-brp-4453470897",
+      "source": "readme",
+      "company": "BRP",
+      "title": "Technical Lead Salesforce, Dealer Experience",
+      "location": "Greater Montreal Metropolitan Area",
+      "url": "https://ca.linkedin.com/jobs/view/technical-lead-salesforce-dealer-experience-at-brp-4453470897",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via copilot-pattern-rounds--2026-11-03--v102.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-wepoint-4482350344",
+      "source": "readme",
+      "company": "Wepoint",
+      "title": "Analyste / Administrateur Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-wepoint-4482350344",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v110.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "linkedin:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-servicenow-itsm-senior-at-cgi-4434789024",
       "source": "linkedin",
       "company": "CGI",
@@ -89600,6 +90977,23 @@
       "postedDate": "2026-10-23T12:00:00.000Z",
       "scrapedAt": "2026-11-18T15:10:45.578Z",
       "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-salesforce-at-croix-bleue-du-qu%c3%a9bec-4481967008",
+      "source": "readme",
+      "company": "Croix Bleue du Québec",
+      "title": "Développeur Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-croix-bleue-du-qu%C3%A9bec-4481967008",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-23T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T15:45:56.115Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v110.md",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
