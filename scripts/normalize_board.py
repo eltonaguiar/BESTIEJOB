@@ -215,6 +215,7 @@ def main(argv: list[str] | None = None) -> int:
     i_removed = _prune_inbox(p["urls"], p["inbox_files"])
 
     if not ns.json:
+        print(f"normalize: removed={p['readme_rows'] - after} rows")  # parsed by hourly-scan
         print(f"\napplied: README {p['readme_rows']} -> {after} rows")
         print(f"         jobs.json {j_before} -> {j_before - j_removed} rows")
         print(f"         inbox {i_removed} row(s) removed from {len(p['inbox_files'])} file(s)")
