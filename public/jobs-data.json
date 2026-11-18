@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-18T07:09:24+00:00",
+ "generatedAt": "2026-11-18T07:15:25+00:00",
  "timezone": "America/Toronto",
- "count": 5016,
+ "count": 5015,
  "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
@@ -326,40 +326,47 @@
    "posted": "2026-11-18",
    "title": "Manager, HR Technology & ServiceNow HRSD",
    "company": "IG Wealth Management",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491775339",
+   "location": "Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491785075",
    "note": "linkedin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "LinkedIn",
    "verified": "Aggregator",
-   "match": 94,
+   "match": 98,
    "matchReasons": [
     "ServiceNow",
     "HRSD / VA",
     "Role fit",
-    "Canada / remote"
+    "Toronto area"
    ],
    "french": false,
-   "search": "manager, hr technology & servicenow hrsd ig wealth management quebec, canada linkedin servicenow linkedin servicenow hrsd / va role fit canada / remote",
-   "alternates": [],
+   "search": "manager, hr technology & servicenow hrsd ig wealth management ontario, canada linkedin servicenow linkedin servicenow hrsd / va role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491775339",
+     "label": "LinkedIn · Quebec",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Manager%2C%20HR%20Technology%20%26%20ServiceNow%20HRSD%20IG%20Wealth%20Management+Quebec+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Manager%2C%20HR%20Technology%20%26%20ServiceNow%20HRSD%20IG%20Wealth%20Management+Canada+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20HR%20Technology%20%26%20ServiceNow%20HRSD%20IG%20Wealth%20Management&location=Quebec"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20HR%20Technology%20%26%20ServiceNow%20HRSD%20IG%20Wealth%20Management&location=Canada"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20HR%20Technology%20%26%20ServiceNow%20HRSD%20IG%20Wealth%20Management&l=Quebec"
+     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20HR%20Technology%20%26%20ServiceNow%20HRSD%20IG%20Wealth%20Management&l=Canada"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Manager%2C%20HR%20Technology%20%26%20ServiceNow%20HRSD%20IG%20Wealth%20Management&loc=Quebec"
+     "url": "https://www.adzuna.ca/search?q=Manager%2C%20HR%20Technology%20%26%20ServiceNow%20HRSD%20IG%20Wealth%20Management&loc=Canada"
     }
    ],
    "toronto": false
@@ -384,14 +391,7 @@
    ],
    "french": false,
    "search": "manager, hr technology &amp; servicenow hrsd ig wealth management manitoba, canada linkedin servicenow via fresh-ca--2026-11-18--v3.md servicenow hrsd / va role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491785075",
-     "label": "LinkedIn · Ontario",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -952,60 +952,6 @@
   },
   {
    "posted": "2026-11-17",
-   "title": "Sr Solution Sales Executive CRM (CPQ)",
-   "company": "ServiceNow",
-   "location": "Toronto, ca",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
-   "note": "via ats--2026-11-17--v4.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 86,
-   "matchReasons": [
-    "ServiceNow",
-    "Salesforce",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow via ats--2026-11-17--v4.md servicenow salesforce toronto area",
-   "alternates": [
-    {
-     "source": "SmartRecruiters",
-     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162143024",
-     "label": "SmartRecruiters · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5969570818?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
    "title": "ServiceNow Architect",
    "company": "Spruce InfoTech Inc.",
    "location": "Canada",
@@ -1224,6 +1170,47 @@
   },
   {
    "posted": "2026-11-17",
+   "title": "Associate Software Engineer (nCino/Salesforce)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "associate software engineer (ncino/salesforce) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
    "title": "Salesforce Alliance - Operations & PMO Manager 24 Month Fixed Term Contract",
    "company": "Deloitte",
    "location": "Toronto, Ontario",
@@ -1307,47 +1294,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Sr.%20Salesforce%20Software%20Engineer%20-%201%20yr.%20Fixed%20Term%20myview&loc=Brampton"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
-   "title": "Associate Software Engineer (nCino/Salesforce)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "associate software engineer (ncino/salesforce) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&loc=Toronto"
     }
    ],
    "toronto": true
@@ -54430,6 +54376,46 @@
   },
   {
    "posted": "2026-11-10",
+   "title": "Senior React Full-stack Developer",
+   "company": "Lemon.io",
+   "location": "LATAM, Europe, USA, Canada, APAC",
+   "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+   "note": "remotive",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "remotive.com",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior react full-stack developer lemon.io latam, europe, usa, canada, apac remotive.com other remotive role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20React%20Full-stack%20Developer%20Lemon.io+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20React%20Full-stack%20Developer%20Lemon.io&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20React%20Full-stack%20Developer%20Lemon.io&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20React%20Full-stack%20Developer%20Lemon.io&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-10",
    "title": "Technology Lifecycle & Data Analyst",
    "company": "Millennium Software and Staffing Inc",
    "location": "Montreal, Quebec, Canada",
@@ -54464,46 +54450,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Technology%20Lifecycle%20%26%20Data%20Analyst%20Millennium%20Software%20and%20Staffing%20Inc&loc=Montreal"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-10",
-   "title": "Senior React Full-stack Developer",
-   "company": "Lemon.io",
-   "location": "LATAM, Europe, USA, Canada, APAC",
-   "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
-   "note": "remotive · full-stack",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "remotive.com",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior react full-stack developer lemon.io latam, europe, usa, canada, apac remotive.com other remotive · full-stack role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20React%20Full-stack%20Developer%20Lemon.io+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20React%20Full-stack%20Developer%20Lemon.io&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20React%20Full-stack%20Developer%20Lemon.io&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20React%20Full-stack%20Developer%20Lemon.io&loc=Canada"
     }
    ],
    "toronto": false
