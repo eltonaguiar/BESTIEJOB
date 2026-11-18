@@ -97,3 +97,18 @@ Re-check Traction Rec Product Developer (Ontario) for a publishable date; re-sca
 - Skipped (dup/stale): Lyft Salesforce Architect (10/20), Make-A-Wish Sr SA (11/6), Procom Sr SN Dev (11/4, different role), Bell ServiceNow SysAdmin (deadline passed 10/20), OPS Solution Manager ServiceNow (date unconfirmed).
 - Fix: synced stale README header counts after rebase onto active main to actual table rows — ServiceNow 1108, Salesforce 915 (incl. the 4 new), Other 4096; total 6119 live postings; window 2026-10-19 to 2026-11-18.
 - jobs.json + public/ regenerated (sync_readme_to_jobs.mjs + build_site.py); committed to main and pushed; GitHub Pages rebuilds from main automatically.
+
+
+### 11:00 EST run (this run)
+
+- Scan method: targeted web search for Toronto / Canada ServiceNow & Salesforce postings dated 2026-11-11 to 2026-11-18; dedupe against README.md + jobs.json by normalized URL. Checked Rogers (jobs.rogers.com reachable, no servicenow/salesforce platform postings), Bell (jobs.bell.ca zero reqs), Canadian government (jobs.gc.ca / gojobs.gov.on.ca Radware-walled — not retried; Job Bank full-text proxy, title-noise only), ServiceNow & Salesforce careers Canada, SN/SF partners (Ateko / FX Innovation, NewRocket, Lane Four, Pentio, Fujitsu), and martechjobs.io Canada Salesforce list.
+- Result: 2 fresh verified ServiceNow jobs merged to the ServiceNow table (newest first):
+  - 2026-11-12 | ServiceNow Developer | SPECTRAFORCE | Toronto, ON, Canada | https://www.jobs.ca/spectraforce/jobs/servicenow-developer-toronto-on-54256a3e5345 — via jobs.ca — posted 2026-11-12 · Hybrid · Contract · ServiceNow CMDB/HAM/SAM/discovery/inventory build
+  - 2026-11-13 | ServiceNow Developer | Dexian | Toronto, ON, Canada | https://www.jobs.ca/dexian/jobs/servicenow-developer-toronto-on-42da4c496cfe — via jobs.ca — posted 2026-11-13 · Hybrid · Contract 6 months · $90–$100/hr · Blue Rewards – IPS line of business (distinct staffing-vendor posting from the already-boarded Procom 2026-11-04 Blue Rewards requisition)
+- Salesforce: no fresh unboarded Toronto Platform Admin / Developer I postings this hour.
+- Dedupe vs README.md + jobs.json: +2 new, 0 duplicate (check_inbox OK; merger +2 new, 0 duplicate). Direct jobs.ca fetch returns Cloudflare 403 — listings verified via search-indexed content (posted date, duties, location, employment type). Both rows dedupe onto existing adzuna.ca Spectraforce/Dexian Toronto cards in jobs.json (vendor-twin URLs stay distinct README rows per the URL-only dedupe rule).
+- Counts after merge: ServiceNow 1112, Salesforce 1071, Other 4061, total 6244 live postings — TOC, headings, "Show N postings" summaries and headline all agree; window 2026-10-19 → 2026-11-18.
+- Publish: jobs.json 5,438 rows; public/ rebuilt: 4,926 jobs (SN 812 · SF 876 · Other 3238), 814 mirrors collapsed, link check OK; commit 4fd1f9e rebased onto upstream hourly scan 5a129f4 and pushed to origin/main; GitHub Pages deploys from main automatically.
+- inbox/hermes-cron--2026-11-18--v5.md left as submitted untracked (upstream main already carries hermes-cron--2026-11-18--v4.md, their scan submission — not overwritten).
+- Blockers this cycle: jobs.ca / Indeed.ca Cloudflare 403 to direct fetch; LinkedIn guest detail pages need sign-in; Adzuna detail pages CloudFront 403; Jobs Bank / GC portals walled or noisy.
+
