@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-18
 
-Window: 2026-10-19 → 2026-11-18 · **6183 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-19 → 2026-11-18 · **6186 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1119)_developer / administrator / architect / analyst roles_
 <details><summary><strong>Show 1119 postings</strong></summary>| 2026-11-18 | [Manager, HR Technology &amp; ServiceNow HRSD](https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491778246) | IG Wealth Management | Manitoba, Canada | via fresh-ca--2026-11-18--v4.md |
@@ -46,8 +46,6 @@ Window: 2026-10-19 → 2026-11-18 · **6183 live postings** · deduplicated by U
 | 2026-11-17 | [Manager, HR Technology & ServiceNow HRSD](https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-mackenzie-investments-4491753355) | Mackenzie Investments | Greater Toronto Area, Canada | via hermes-cron--2026-11-18--v1.md |
 | 2026-11-17 | [Senior Manager, Employee Technology](https://www.adzuna.ca/details/5968725995) | Scotiabank | Toronto, Ontario | via adzuna · servicenow |
 | 2026-11-17 | [Business Analyst – ServiceNow Strategic Portfolio Management (SPM)](https://ca.linkedin.com/jobs/view/business-analyst-%E2%80%93-servicenow-strategic-portfolio-management-spm-at-vivid-soft-global-4490469850) | Vivid Soft Global | Canada | via linkedin-guest--2026-11-18--v1.md |
-| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162166739) | ServiceNow | Toronto, ca | via ats--2026-11-17--v7.md |
-| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162143024) | ServiceNow | Toronto, ca | via ats--2026-11-17--v9.md |
 | 2026-11-16 | [ServiceNow SPM Developer](https://www.adzuna.ca/details/5968012935) | Astra-North Infoteck Inc. | Toronto, Ontario | via adzuna |
 | 2026-11-16 | [ServiceNow Lead](https://ca.linkedin.com/jobs/view/servicenow-lead-at-apptoza-inc-4490150415) | Apptoza Inc. | Vancouver, British Columbia, Canada | via linkedin |
 | 2026-11-16 | [ServiceNow ITOM / CMDB Developer](https://ca.linkedin.com/jobs/view/servicenow-itom-cmdb-developer-at-allianceit-inc-4490602725) | AllianceIT Inc | Toronto, Ontario, Canada | via linkedin |
@@ -2166,7 +2164,6 @@ _developer / administrator / architect / consultant roles_
 ### Other jobs (4062)
 _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://www.adzuna.ca/details/5969570818?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via fresh-ca--2026-11-18--v4.md |
 <details><summary><strong>Show 4062 postings</strong></summary>| 2026-11-17 | [Product Manager](https://www.adzuna.ca/details/5968976069?utm_medium=api&utm_source=54ce986e) | Rogers Communications | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [Business Architect (Business Architecture), Industry Innovation & Co-Dev](https://www.adzuna.ca/details/5968886447?utm_medium=api&utm_source=54ce986e) | Guidewire | Canada | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [Software Engineer, Banking Technology](https://www.adzuna.ca/details/5968879721?utm_medium=api&utm_source=54ce986e) | Manulife | Canada | via adzuna-autonomous--2026-11-17--v1.md |
