@@ -16,8 +16,8 @@
     "location": "Toronto, ON",
     "dateFilter": "month",
     "scrapedAt": "2026-11-18T06:19:33.892Z",
-    "generatedAt": "2026-11-18T06:19:33.892Z",
-    "total": 2569,
+    "generatedAt": "2026-11-18T07:09:19.000Z",
+    "total": 2570,
     "newThisScan": 811,
     "retainedFromPrevious": 1800,
     "sources": {
@@ -33,12 +33,29 @@
       "adzuna": 490
     },
     "primaryCounts": {
-      "servicenow": 1141,
+      "servicenow": 1142,
       "salesforce": 1305
     },
     "undated": 0
   },
   "jobs": [
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/business-analyst-at-ntt-data-north-america-4490843088",
+      "source": "linkedin",
+      "company": "NTT DATA North America",
+      "title": "Business Analyst – ServiceNow SPM",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-analyst-at-ntt-data-north-america-4490843088",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-18T05:00:00.000Z",
+      "scrapedAt": "2026-11-18T07:09:19.000Z",
+      "excerpt": "Req ID 397935 — supports the ServiceNow Platform Team on Strategic Portfolio Management (SPM): requirements gathering, user stories, UAT, demand intake, Agile delivery.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
     {
       "id": "jobicy:jobicy.com/jobs/153380-senior-full-stack-engineer-2",
       "source": "jobicy",
