@@ -1,0 +1,28 @@
+{
+  "generated": "2026-11-18T21:08:49.831721+00:00",
+  "window": [
+    "2026-11-18",
+    "2026-11-17"
+  ],
+  "stats": {
+    "requests": 68,
+    "jobbank_pages": 12,
+    "eluta_pages": 6,
+    "linkedin_requests": 16,
+    "already_on_board": 30,
+    "already_on_board_by_title": 1,
+    "cross_source_dup": 0
+  },
+  "count": 1,
+  "rows": [
+    {
+      "source": "linkedin-guest",
+      "bucket": "servicenow",
+      "posted": "2026-11-18",
+      "title": "ServiceNow Developer - Remote Contract",
+      "company": "2iSolutions Inc.",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-remote-contract-at-2isolutions-inc-4492201395"
+    }
+  ]
+}

@@ -20,15 +20,15 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-19 → 2026-11-18 · **6186 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1119)_developer / administrator / architect / analyst roles_
-<details><summary><strong>Show 1119 postings</strong></summary>| 2026-11-18 | [Manager, HR Technology &amp; ServiceNow HRSD](https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491778246) | IG Wealth Management | Manitoba, Canada | via fresh-ca--2026-11-18--v4.md |
-| 2026-11-18 | [Technicien en soutien informatique de niveau 3 – ServiceNow](https://ca.linkedin.com/jobs/view/technicien-en-soutien-informatique-de-niveau-3-%E2%80%93-servicenow-at-fop-consultants-4491849439) | FOP Consultants | Montreal, Quebec, Canada | via fresh-ca--2026-11-18--v1.md |
+### ServiceNow jobs (1123)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1123 postings</strong></summary>| 2026-11-18 | [Technicien en soutien informatique de niveau 3 – ServiceNow](https://ca.linkedin.com/jobs/view/technicien-en-soutien-informatique-de-niveau-3-%E2%80%93-servicenow-at-fop-consultants-4491849439) | FOP Consultants | Montreal, Quebec, Canada | via fresh-ca--2026-11-18--v1.md |
 | 2026-11-18 | [Manager, HR Technology &amp; ServiceNow HRSD](https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491785075) | IG Wealth Management | Ontario, Canada | via fresh-ca--2026-11-18--v5.md |
 | 2026-11-18 | [ServiceNow Developer Cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-raas-infotek-4492064906) | Raas Infotek | Mississauga, Ontario, Canada | via fresh-ca--2026-11-18--v1.md |
 | 2026-11-18 | [Technicien de soutien informatique niveau 3 (ServiceNow / ITIL)](https://ca.linkedin.com/jobs/view/technicien-de-soutien-informatique-niveau-3-servicenow-itil-at-fop-consultants-4491864927) | FOP Consultants | Montreal, Quebec, Canada | via fresh-ca--2026-11-18--v1.md |
 | 2026-11-18 | [Senior Engineer, ITSM](https://www.adzuna.ca/details/5970622652?utm_medium=api&utm_source=54ce986e) | SUOMEN OSUUSKAUPPOJEN KESKUSKUNTA | Canada | via fresh-ca--2026-11-18--v1.md |
 | 2026-11-18 | [Manager, HR Technology & ServiceNow HRSD](https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491775339) | IG Wealth Management | Quebec, Canada | via hermes-cron--2026-11-18--v4.md |
 | 2026-11-18 | [Conseiller(ère) en architecture bureautique - ITSM (C2)](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-en-architecture-bureautique-itsm-c2-at-services-sft-4473443819) | Services SFT | Québec, Quebec, Canada | via linkedin-guest--2026-11-18--v3.md |
+| 2026-11-18 | [ServiceNow Developer - Remote Contract](https://ca.linkedin.com/jobs/view/servicenow-developer-remote-contract-at-2isolutions-inc-4492201395) | 2iSolutions Inc. | Canada | via fresh-ca--2026-11-18--v1.md |
+| 2026-11-18 | [Manager, HR Technology &amp; ServiceNow HRSD](https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491778246) | IG Wealth Management | Manitoba, Canada | via fresh-ca--2026-11-18--v7.md |
 | 2026-11-17 | [ServiceNow Certified Technical Architect (CTA)](https://ca.linkedin.com/jobs/view/servicenow-certified-technical-architect-cta-at-w3global-4491180399) | W3Global | Canada | via fresh-ca--2026-11-17--v1.md |
 | 2026-11-17 | [ITSM Consultant](https://ca.linkedin.com/jobs/view/itsm-consultant-at-long-view-systems-4490480445) | Long View Systems | Calgary, Alberta, Canada | via fresh-ca--2026-11-17--v4.md |
 | 2026-11-17 | [IT Directors - Short Term Paid Research Opportunity - ITSM & ESM Platforms](https://www.adzuna.ca/details/5969279971?utm_medium=api&utm_source=54ce986e) | Aitrainergigs | Canada | via fresh-ca--2026-11-17--v4.md |
@@ -46,6 +46,8 @@ Window: 2026-10-19 → 2026-11-18 · **6186 live postings** · deduplicated by U
 | 2026-11-17 | [Manager, HR Technology & ServiceNow HRSD](https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-mackenzie-investments-4491753355) | Mackenzie Investments | Greater Toronto Area, Canada | via hermes-cron--2026-11-18--v1.md |
 | 2026-11-17 | [Senior Manager, Employee Technology](https://www.adzuna.ca/details/5968725995) | Scotiabank | Toronto, Ontario | via adzuna · servicenow |
 | 2026-11-17 | [Business Analyst – ServiceNow Strategic Portfolio Management (SPM)](https://ca.linkedin.com/jobs/view/business-analyst-%E2%80%93-servicenow-strategic-portfolio-management-spm-at-vivid-soft-global-4490469850) | Vivid Soft Global | Canada | via linkedin-guest--2026-11-18--v1.md |
+| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162143024) | ServiceNow | Toronto, ca | via ats--2026-11-17--v10.md |
+| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162166739) | ServiceNow | Toronto, ca | via ats--2026-11-17--v8.md |
 | 2026-11-16 | [ServiceNow SPM Developer](https://www.adzuna.ca/details/5968012935) | Astra-North Infoteck Inc. | Toronto, Ontario | via adzuna |
 | 2026-11-16 | [ServiceNow Lead](https://ca.linkedin.com/jobs/view/servicenow-lead-at-apptoza-inc-4490150415) | Apptoza Inc. | Vancouver, British Columbia, Canada | via linkedin |
 | 2026-11-16 | [ServiceNow ITOM / CMDB Developer](https://ca.linkedin.com/jobs/view/servicenow-itom-cmdb-developer-at-allianceit-inc-4490602725) | AllianceIT Inc | Toronto, Ontario, Canada | via linkedin |
@@ -2161,11 +2163,9 @@ _developer / administrator / architect / consultant roles_
 
 </details>
 
-### Other jobs (4062)
-_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
+### Other jobs (4063)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
 
-<details><summary><strong>Show 4062 postings</strong></summary>| 2026-11-17 | [Product Manager](https://www.adzuna.ca/details/5968976069?utm_medium=api&utm_source=54ce986e) | Rogers Communications | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
-| 2026-11-17 | [Business Architect (Business Architecture), Industry Innovation & Co-Dev](https://www.adzuna.ca/details/5968886447?utm_medium=api&utm_source=54ce986e) | Guidewire | Canada | via adzuna-autonomous--2026-11-17--v1.md |
+<details><summary><strong>Show 4063 postings</strong></summary>| 2026-11-17 | [Business Architect (Business Architecture), Industry Innovation & Co-Dev](https://www.adzuna.ca/details/5968886447?utm_medium=api&utm_source=54ce986e) | Guidewire | Canada | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [Software Engineer, Banking Technology](https://www.adzuna.ca/details/5968879721?utm_medium=api&utm_source=54ce986e) | Manulife | Canada | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [EverPro - Product Analyst](https://www.adzuna.ca/details/5968873713?utm_medium=api&utm_source=54ce986e) | EverCommerce Solutions | Canada | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [Principal QA Analyst FCC](https://www.adzuna.ca/details/5968873360?utm_medium=api&utm_source=54ce986e) | Fidelity International | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
@@ -2190,6 +2190,7 @@ _ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the prof
 | 2026-11-17 | [IT Support Technician](https://www.adzuna.ca/details/5968765926?utm_medium=api&utm_source=54ce986e) | Lemay | Montréal, Québec | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [MuleSoft Architect](https://ca.linkedin.com/jobs/view/mulesoft-architect-at-insight-global-4491415925) | Insight Global | Toronto, Ontario, Canada | via linkedin-guest--2026-11-18--v1.md |
 | 2026-11-17 | [Analyste sénior en gouvernance, risques &amp; conformité (GRC)](https://ca.linkedin.com/jobs/view/analyste-s%C3%A9nior-en-gouvernance-risques-conformit%C3%A9-grc-at-coveo-4491567365) | Coveo | Montreal, Quebec, Canada | via linkedin-guest--2026-11-18--v1.md |
+| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://www.adzuna.ca/details/5969570818?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via fresh-ca--2026-11-18--v5.md |
 | 2026-11-16 | [Enablement Lead, Employee Relations, Compliance & Health and Safety Technology](https://www.adzuna.ca/details/5968011151?utm_medium=api&utm_source=54ce986e) | Manulife | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-16 | [Lead, Enterprise Applications & Integration](https://www.adzuna.ca/details/5968409380?utm_medium=api&utm_source=54ce986e) | Nelson Education LTD | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-16 | [Lead Management Operations](https://www.adzuna.ca/details/5968011611?utm_medium=api&utm_source=54ce986e) | Rogers Communications | Summerside, Prince | via adzuna-autonomous--2026-11-17--v1.md |
