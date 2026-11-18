@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-18T09:32:22+00:00",
+ "generatedAt": "2026-11-18T10:14:29+00:00",
  "timezone": "America/Toronto",
- "count": 5018,
+ "count": 5020,
  "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
@@ -415,6 +415,108 @@
   },
   {
    "posted": "2026-11-18",
+   "title": "Senior Solution Architect (ServiceNow)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5970088512",
+     "label": "Adzuna · Canada",
+     "gated": false
+    },
+    {
+     "source": "BuiltIn",
+     "url": "https://builtintoronto.com/job/senior-solution-architect-servicenow/12280234",
+     "label": "BuiltIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "Salesforce Solution Architect",
+   "company": "The Citco Group",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5970092171",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce solution architect the citco group toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-the-citco-group-limited-4490484571",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Solution%20Architect%20The%20Citco%20Group+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Solution%20Architect%20The%20Citco%20Group&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Solution%20Architect%20The%20Citco%20Group&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Solution%20Architect%20The%20Citco%20Group&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
    "title": "Sr. Software Engineer (Salesforce), Specialty Health Technology",
    "company": "Loblaw Companies Limited",
    "location": "Brampton, Ontario, Canada",
@@ -491,6 +593,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Techno-Functional%20Support%20Lead%20/%20AMS%20Lead%20Accenture&loc=Mississauga"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "GTM Strategy and Operations Associate Analyst",
+   "company": "Salesforce",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5970091376",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "gtm strategy and operations associate analyst salesforce toronto, ontario adzuna other adzuna salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=GTM%20Strategy%20and%20Operations%20Associate%20Analyst%20Salesforce+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=GTM%20Strategy%20and%20Operations%20Associate%20Analyst%20Salesforce&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=GTM%20Strategy%20and%20Operations%20Associate%20Analyst%20Salesforce&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=GTM%20Strategy%20and%20Operations%20Associate%20Analyst%20Salesforce&loc=Toronto"
     }
    ],
    "toronto": true
@@ -1334,47 +1477,6 @@
   },
   {
    "posted": "2026-11-17",
-   "title": "Salesforce Solution Architect",
-   "company": "The Citco Group Limited",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-the-citco-group-limited-4490484571",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce solution architect the citco group limited toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Solution%20Architect%20The%20Citco%20Group%20Limited+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Solution%20Architect%20The%20Citco%20Group%20Limited&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Solution%20Architect%20The%20Citco%20Group%20Limited&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Solution%20Architect%20The%20Citco%20Group%20Limited&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
    "title": "Associate Software Engineer (nCino/Salesforce)",
    "company": "TD",
    "location": "Toronto, Ontario, Canada",
@@ -1595,88 +1697,6 @@
   },
   {
    "posted": "2026-11-17",
-   "title": "Salesforce Marketing Cloud Consultant",
-   "company": "Munvo",
-   "location": "Greater Toronto Area, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-munvo-4491434167",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce marketing cloud consultant munvo greater toronto area, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
-   "title": "Business Systems Analyst – Salesforce Revenue Cloud",
-   "company": "UST",
-   "location": "Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-salesforce-revenue-cloud-at-ust-4490471342",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "business systems analyst – salesforce revenue cloud ust ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-17",
    "title": "Senior Full Stack Developer - Salesforce (Contract)",
    "company": "Electric Mind",
    "location": "Downtown Toronto, ON, Canada",
@@ -1775,6 +1795,129 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Salesforce Marketing Cloud Consultant",
+   "company": "Munvo",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-munvo-4491434167",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud consultant munvo greater toronto area, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Business Systems Analyst – Salesforce Revenue Cloud",
+   "company": "UST",
+   "location": "Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-salesforce-revenue-cloud-at-ust-4490471342",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business systems analyst – salesforce revenue cloud ust ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Senior Salesforce CLM Developer",
+   "company": "Gravity Infosolutions, Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-clm-developer-at-gravity-infosolutions-inc-4491424178",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce clm developer gravity infosolutions, inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20CLM%20Developer%20Gravity%20Infosolutions%2C%20Inc.+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20CLM%20Developer%20Gravity%20Infosolutions%2C%20Inc.&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20CLM%20Developer%20Gravity%20Infosolutions%2C%20Inc.&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20CLM%20Developer%20Gravity%20Infosolutions%2C%20Inc.&loc=Canada"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-17",
@@ -2738,46 +2881,6 @@
   },
   {
    "posted": "2026-11-17",
-   "title": "Senior Manager, Employee Technology",
-   "company": "Scotiabank",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5968725995",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior manager, employee technology scotiabank toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Manager%2C%20Employee%20Technology%20Scotiabank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Employee%20Technology%20Scotiabank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Manager%2C%20Employee%20Technology%20Scotiabank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Manager%2C%20Employee%20Technology%20Scotiabank&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
    "title": "Manager, Product Engineering & Development - Full-Stack Builder",
    "company": "Deloitte",
    "location": "Toronto, Ontario",
@@ -2872,6 +2975,46 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Cloud%20Architect%20IKO&loc=Mississauga"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Senior Manager, Employee Technology",
+   "company": "Scotiabank",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5968725995",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior manager, employee technology scotiabank toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Manager%2C%20Employee%20Technology%20Scotiabank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Employee%20Technology%20Scotiabank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Manager%2C%20Employee%20Technology%20Scotiabank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Manager%2C%20Employee%20Technology%20Scotiabank&loc=Toronto"
     }
    ],
    "toronto": true
@@ -4607,54 +4750,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20CSM/HRSD%20NLB%20Services&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
-   "title": "Senior Solution Architect (ServiceNow)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "BuiltIn",
-     "url": "https://builtintoronto.com/job/senior-solution-architect-servicenow/12280234",
-     "label": "BuiltIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
     }
    ],
    "toronto": true
