@@ -34,43 +34,10 @@
     "primaryCounts": {
       "servicenow": 1321,
       "salesforce": 1402
-    }
+    },
+    "undated": 0
   },
   "jobs": [
-    {
-      "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/associate-software-engineer--sql--ci-cd--_r_1508918",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Associate Software Engineer (nCino/Salesforce)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-18T03:17:11.462Z",
-      "scrapedAt": "2026-11-18T03:17:11.462Z",
-      "excerpt": "R_1508918 · Software Engineering",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/sr-servicenow-development-sme_r1299",
-      "source": "workday",
-      "company": "Resolve Tech Solutions",
-      "title": "Sr. ServiceNow Development SME",
-      "location": "US Remote - FL",
-      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Development-SME_R1299",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-18T03:17:11.462Z",
-      "scrapedAt": "2026-11-18T03:17:11.462Z",
-      "excerpt": "R1299",
-      "workArrangement": "remote",
-      "tags": [
-        "servicenow"
-      ]
-    },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-ig-wealth-management-4491775339",
       "source": "linkedin",
@@ -179,6 +146,42 @@
       "tags": [
         "salesforce"
       ]
+    },
+    {
+      "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/associate-software-engineer--sql--ci-cd--_r_1508918",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Associate Software Engineer (nCino/Salesforce)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T03:17:11.462Z",
+      "excerpt": "R_1508918 · Software Engineering",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "dateSource": "posting:ats-json"
+    },
+    {
+      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/sr-servicenow-development-sme_r1299",
+      "source": "workday",
+      "company": "Resolve Tech Solutions",
+      "title": "Sr. ServiceNow Development SME",
+      "location": "US Remote - FL",
+      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Development-SME_R1299",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T03:17:11.462Z",
+      "excerpt": "R1299",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/senior-solution-architect--servicenow-_r_1521185",
