@@ -59,3 +59,18 @@ Re-check Traction Rec Product Developer (Ontario) for a publishable date; re-sca
   - Salesforce-the-company: no Platform Admin / Developer I in Toronto under 4 days old. ServiceNow-the-company: Toronto postings are sales/SRE/security only.
 - Net board change: 0. Counts unchanged (~6601 live; ServiceNow ~1155, Salesforce ~1478). `jobs.json`, README, and `public/` already current on `main`; GitHub Pages deploys from `main` automatically, so no redeploy needed.
 - Limitation: the feed covers up to ~11:24 UTC (06:24 EST); postings between then and this 07:00 run were not re-scanned because the aggregator scanner is unreliable on this host. Next run should retry `fresh_ca_scan.py` with the LinkedIn pass dropped and wider Adzuna spacing, or rely on the next scheduled daily scan.
+
+### 08:00 EST run (this run)
+
+- Scan method: ran `node scripts/daily_job_scan.mjs` (aggregator: Adzuna 483, LinkedIn 253, SmartRecruiters 12, Lever 1, Workday 0 — HTTP 429 on BMO/TD/Moneris/CAAT Pension/BDO/Medcan/Altus Group/IKO/Huron/Irving Oil/McKesson/Brookfield/GDIT/Resolve Tech). Regenerated `FRESH_JOBS.md` (2637 postings, SN 1154 / SF 1318), `jobs.json`, and the README `DAILY-SCAN` block (scan stamp 2026-11-18T13:02:16Z).
+- Dedupe vs `README.md` + `jobs.json` (normalized URL + title\|company\|city fingerprint; posted >= 2026-11-17; Canada; ServiceNow/Salesforce track): **0 new candidates** — every fresh Canada SN/SF row already on the board. No inbox file staged, no curated-table merge.
+- Curated tables unchanged: ServiceNow 1155, Salesforce 1478, Other 4039 (~6601 live). `board_invariants` not re-run (no table change).
+- Commit `3f53b01` pushed to `origin/main`; `tools/build_site.py` rebuilt `public/` (4997 jobs indexed: SN 811 · SF 939 · Other 3247 · 867 duplicate mirrors collapsed · 35 applied hidden · newest 2026-11-18). GitHub Pages deploys from `main` automatically, so the live board reflects this scan.
+- Partner / employer look (Rogers, Bell, Government of Canada, Elite SN/SF partners):
+  - Bell (`jobs.bce.ca` Phenom): ServiceNow System Administrator / Senior Technical Advisor (Req 432824/432829, Toronto) exist but Posted Oct 6 2026, apply-by Nov 3 2026 — expired; already on board from prior runs. Not fresh.
+  - Zaelab: ServiceNow FSM Architect — expired (Posted Jul 22, expired Aug 5 2026). Digital Consulting Architect CPQ — Posted Oct 2 2026, outside the 30-day window. Nothing fresh.
+  - OSI Digital / PwC / Docebo / Lane Four / NewRocket / Ateko (FX Innovation): sampled roles already on board (posted Nov 2–16). No new unboarded partner requisition.
+  - Rogers: `jobs.rogers.com` Phenom board unreachable (HTTP 404 / 9-byte body); search hits were sales/pre-sales, not platform build.
+  - Canadian government: `jobs.gc.ca` / `gojobs.gov.on.ca` Radware-walled (captcha) — not retried; Job Bank used as proxy but full-text "servicenow" search is title-noise.
+- Net board change this run: 0 new verified jobs (feed refresh only).
+- Limitation: Workday Canadian hosts 429'd on this host; known dead-ends this cycle incl. canadalife/telus/desjardins/loblaw/kpmg/deloitte/cgi (.wd3 → 422), sunlife/rbc.wd3 (→ 404), dxctechnology/cognizant (.wd1 → 521). LinkedIn detail pages require sign-in — verification via search snippets + employer canonical pages where available.
