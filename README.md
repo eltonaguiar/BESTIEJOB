@@ -6720,12 +6720,14 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-18T05:02:03.349Z** · 128 live postings from 9 public sources · 0 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-18T13:02:16.372Z** · 110 live postings from 9 public sources · 0 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-18 | [Senior Solution Architect (ServiceNow)](https://www.adzuna.ca/details/5970088512) | TD Bank | Canada |
+| 2026-11-18 | [Senior Solution Architect (ServiceNow)](https://www.adzuna.ca/details/5970077372) | TD Bank | Toronto, Ontario |
 | 2026-11-17 | [Sr. ServiceNow Development SME](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Development-SME_R1299) | Resolve Tech Solutions | US Remote - FL |
 | 2026-11-16 | [ServiceNow Technical Lead](https://www.adzuna.ca/details/5968012934) | Apptoza Inc. | Greater Vancouver, British Columbia |
 | 2026-11-16 | [ServiceNow Developer cum Architect](https://www.adzuna.ca/details/5968012906) | W3Global | Mississauga, Peel region |
@@ -6736,30 +6738,29 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-15 | [RQ00793 - Project Manager/Leader - Senior](https://www.adzuna.ca/details/5966905053) | Analyst Technical Solutions | Toronto, Ontario |
 | 2026-11-15 | [ServiceNow Architecture Consultant](https://www.adzuna.ca/details/5966726512) | CGI | Calgary, Calgary region |
 | 2026-11-15 | [Incident Coordinator](https://ca.linkedin.com/jobs/view/incident-coordinator-at-scotiabank-4489894559) | Scotiabank | Toronto, Ontario, Canada |
-| 2026-11-14 | [ServiceNow Technical Architect](https://www.adzuna.ca/details/5966145606) | Accenture | Toronto, Ontario |
-| 2026-11-14 | [Gestionnaire de prestation de services – Gestion applicative (AMS) et services gérés ServiceNow](https://www.adzuna.ca/details/5966145545?utm_medium=api&utm_source=54ce986e) | LGS, an IBM Company | Ville-Marie, Témiscamingue |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-18 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5970092171) | The Citco Group | Toronto, Ontario |
+| 2026-11-18 | [GTM Strategy and Operations Associate Analyst](https://www.adzuna.ca/details/5970091376) | Salesforce | Toronto, Ontario |
 | 2026-11-17 | [Salesforce Business Process Analyst](https://www.adzuna.ca/details/5969439394) | Nuvei | Toronto, Ontario |
 | 2026-11-17 | [Salesforce Business Process Analyst](https://www.adzuna.ca/details/5969439399) | Nuvei | Ottawa, Ottawa region |
+| 2026-11-17 | [Marketing Operations Manager](https://www.adzuna.ca/details/5969395886) | Traction Complete Technologies Inc. | Bentall Centre, Vancouver |
 | 2026-11-17 | [Senior Platform Support Analyst with data cloud](https://www.adzuna.ca/details/5969280246) | Maarut | Toronto, Ontario |
 | 2026-11-17 | [Sr. Salesforce Software Engineer - 1 yr. Fixed Term](https://www.adzuna.ca/details/5969279987) | myview | Brampton, Peel region |
 | 2026-11-17 | [Senior Corporate Counsel - Commercial](https://www.adzuna.ca/details/5969279902) | Salesforce, Inc. | British Columbia, Canada |
+| 2026-11-17 | [Salesforce FSC Solution Architect](https://www.adzuna.ca/details/5969279913) | Maarut | Montréal, Québec |
+| 2026-11-17 | [Salesforce Configuration Developer (Salesforce FSC)](https://www.adzuna.ca/details/5969279766) | Maarut | Montréal, Québec |
+| 2026-11-17 | [Software Engineering MTS](https://www.adzuna.ca/details/5968880742) | Salesforce | Toronto, Ontario |
 | 2026-11-16 | [Talent Advisor, AI Labs](https://www.adzuna.ca/details/5968013006) | Salesforce, Inc. | Toronto, Ontario |
-| 2026-11-16 | [Salesforce Technical Lead – Salesforce Development, Enterprise Implementations & Integration](https://www.adzuna.ca/details/5968012932) | Astra-North Infoteck Inc. | Toronto, Ontario |
-| 2026-11-16 | [Salesforce Functional Lead (Financial Services Cloud)](https://www.adzuna.ca/details/5968012774) | Astra-North Infoteck Inc. | Toronto, Ontario |
-| 2026-11-16 | [Analytics Specialist SE (Commercial FINS & Canada) - Senior/Lead Solution Engineer](https://www.adzuna.ca/details/5968012630) | 110 salesforce.com Canada Corporation | Greater Vancouver, British Columbia |
-| 2026-11-16 | [Salesforce Technical Lead - Financial Services Cloud.](https://www.adzuna.ca/details/5968012359) | Astra-North Infoteck Inc. | Toronto, Ontario |
-| 2026-11-16 | [Salesforce Senior Developer](https://www.adzuna.ca/details/5968012257) | IKO North America | Mississauga, Peel region |
-| 2026-11-16 | [Senior Back-End Email Developer (Salesforce Marketing Cloud)](https://www.adzuna.ca/details/5968012098) | Intact FC | Canada |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-18 | [Senior Full-stack Engineer](https://jobicy.com/jobs/153380-senior-full-stack-engineer-2) | Limbic | Canada | Full stack |
 | 2026-11-17 | [Manager, Product Engineering & Development - Full-Stack Builder](https://www.adzuna.ca/details/5969569881) | Deloitte | Toronto, Ontario | Full stack |
 | 2026-11-17 | [Senior Fullstack Developer](https://www.adzuna.ca/details/5969280100) | IrisCX | Calgary, Calgary region | Full stack |
 | 2026-11-17 | [Cloud Architect](https://www.adzuna.ca/details/5969279884) | IKO | Mississauga, Peel region | DevOps / Cloud |
@@ -6769,7 +6770,6 @@ Raw output of `npm run scan:daily`; it may repeat rows from the tables above.
 | 2026-11-16 | [Full Stack Data Engineer](https://www.adzuna.ca/details/5968012880) | Manulife John Hancock | Toronto, Ontario | Full stack |
 | 2026-11-16 | [Senior Java Full Stack Engineer, TD Securities](https://www.adzuna.ca/details/5968012849) | TD | Toronto, Ontario | Full stack |
 | 2026-11-16 | [Senior Full Stack AI Engineer/Ingénieur(e) principal(e), Full Stack et intelligence artificielle (IA)](https://www.adzuna.ca/details/5968012674) | Manulife | Toronto, Ontario | Full stack |
-| 2026-11-16 | [DevOps Architect (CAN)](https://www.adzuna.ca/details/5968012526) | Momentum | Toronto, Ontario | DevOps / Cloud |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
