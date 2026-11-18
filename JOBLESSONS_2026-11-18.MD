@@ -29,3 +29,18 @@
 ## What did not change
 - `jobs.json` untouched (scan rows go to README via the inbox merger; `build_site.py` unions jobs.json + README, so the page reflects both).
 - `inbox/hermes-cron--2026-11-18--v1.md` left untracked (merger run without `--bump-inbox`; all 40 rows were duplicates).
+
+### 06:00 EST run (later the same day) — 4 fresh verified jobs merged
+- Diffed the 09:12 UTC `FRESH_JOBS.md` feed (2617 postings) against README.md + jobs.json by normalized URL; 7 rows posted >= 2026-11-17 were absent from both; verified each survivor on the employer canonical page or ≥2 mirrors; 4 were genuine, live, platform-track roles and were merged via `inbox/hermes-cron--2026-11-18--v2.md` (`check_inbox.py` OK; merger `+4 new, 0 duplicate`):
+  - 2026-11-18 | Sr. Software Engineer (Salesforce), Specialty Health Technology | Loblaw Companies Limited | Brampton, Ontario, Canada | careers.loblaw.ca .../sr-software-engineer-salesforce-specialty-health-technology/job/PAF-LCL-D6E814FF-FBEA-41E6-8CF9-562A2B21717E_4479_1791569521_0
+  - 2026-11-17 | Salesforce Techno-Functional Support Lead / AMS Lead | Accenture | Mississauga, Ontario, Canada (hybrid, 3d/wk) | accenture.com/ca-en/careers/jobdetails?id=R00364526_en
+  - 2026-11-17 | Salesforce FSC Solution Architect | Maarut | Montréal, Québec, Canada | ca.talent.com/view?id=645321517787778374 (also adzuna.ca/details/5969279913)
+  - 2026-11-17 | Software Engineering MTS | Salesforce | Toronto, Ontario | ca.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-4490679676
+- Skipped as already-covered or stale: Interac "Technical Service Now, Lead" (already on board as posted 2026-10-28 — LinkedIn "20 hours ago" is stale); Avanciers ServiceNow Implementation Architect (on board 2026-11-11); Maarut Salesforce Configuration Developer (on board 2026-11-10); Bell ServiceNow System Administrator / Senior Technical Advisor (deadlines 10/20–11/02/2026, expired) and Salesforce Developer (05/20/2026); Rogers surface hits were sales/pre-sales, not platform build; Traction Rec "Product Developer (Remote) - Ontario" is genuine Salesforce build work but BambooHR publishes no posted date, so it cannot enter the dated tables; Take-Two ServiceNow ITOM already covered; GC/CSIS Stream 10 closed 06-25-2026; CDS roles are general development, not SN/SF platform.
+- Board after merge + normalize: 6601 live postings (normalize removed 3 vendor-sales rows); `board-invariants` PASS (errors=0, no ratchet kind grew); header count synced; `jobs.json` feed superset synced to README (5638 rows); `build_site.py` rebuilt, newest 2026-11-18.
+- Pushed to `main` as `3b0d896` (rebased onto the 10:00 UTC hourly scan `ccae40f`); GitHub Pages deploys from `main` automatically.
+- Channel updates vs 01:00 run: **Indeed.ca is blocked** (Cloudflare 403, browser and curl); LinkedIn job detail pages require sign-in — verify via search snippets + employer canonical pages; **Adzuna detail pages return CloudFront 403** — corroborate via mirrors (talent.com, lmiafinder.ca, jobrapido, workopolis). Employer canonical pages that verified cleanly today: careers.loblaw.ca, accenture.com/ca-en/careers.
+- **Script fix:** `scripts/sync_readme_to_jobs.mjs` failed to parse section headings because the blurb is glued to the heading line (`### ServiceNow jobs (1159)_developer … roles_`), so it read 0 README rows and the feed missed every curated row. Patched to prefix-match `^(servicenow jobs|salesforce jobs|other jobs)/`; committed with the run.
+
+## Next run (07:00 EST)
+Re-check Traction Rec Product Developer (Ontario) for a publishable date; re-scan Accenture for sister Salesforce AMS requisitions; re-poll Rogers/Bell/GC careers portals; confirm the 4 merged roles are still live before anyone applies.
