@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-18T18:20:34.376Z",
     "generatedAt": "2026-11-18T18:20:34.376Z",
-    "total": 5460,
+    "total": 5464,
     "newThisScan": 796,
     "retainedFromPrevious": 1604,
     "sources": {
@@ -35,26 +35,10 @@
     "primaryCounts": {
       "servicenow": 1133,
       "salesforce": 1161
-    }
+    },
+    "undated": 0
   },
   "jobs": [
-    {
-      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/sr-servicenow-architect_r1300",
-      "source": "workday",
-      "company": "Resolve Tech Solutions",
-      "title": "Sr. ServiceNow Architect",
-      "location": "US Remote - FL",
-      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-18T18:20:34.376Z",
-      "scrapedAt": "2026-11-18T18:20:34.376Z",
-      "excerpt": "R1300",
-      "workArrangement": "remote",
-      "tags": [
-        "servicenow"
-      ]
-    },
     {
       "id": "jobicy:jobicy.com/jobs/163157-full-stack-engineer-11",
       "source": "jobicy",
@@ -309,6 +293,24 @@
       ]
     },
     {
+      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/sr-servicenow-architect_r1300",
+      "source": "workday",
+      "company": "Resolve Tech Solutions",
+      "title": "Sr. ServiceNow Architect",
+      "location": "US Remote - FL",
+      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T18:20:34.376Z",
+      "excerpt": "R1300",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ],
+      "dateSource": "posting:ats-json"
+    },
+    {
       "id": "readme:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-en-architecture-bureautique-itsm-c2-at-services-sft-4473443819",
       "source": "readme",
       "company": "Services SFT",
@@ -358,6 +360,42 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technicien-de-soutien-informatique-niveau-3-servicenow-itil-at-fop-consultants-4491864927",
+      "source": "readme",
+      "company": "FOP Consultants",
+      "title": "Technicien de soutien informatique niveau 3 (ServiceNow / ITIL)",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technicien-de-soutien-informatique-niveau-3-servicenow-itil-at-fop-consultants-4491864927",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T18:47:57.350Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5970622652",
+      "source": "readme",
+      "company": "SUOMEN OSUUSKAUPPOJEN KESKUSKUNTA",
+      "title": "Senior Engineer, ITSM",
+      "location": "Canada",
+      "url": "https://www.adzuna.ca/details/5970622652",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T18:47:57.350Z",
+      "excerpt": "via fresh-ca--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
       ]
     },
     {
@@ -1902,6 +1940,23 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobs.smartrecruiters.com/servicenow/744000162166739",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Sr Solution Sales Executive CRM (CPQ)",
+      "location": "Toronto, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T18:47:57.350Z",
+      "excerpt": "via ats--2026-11-17--v7.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -25144,6 +25199,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5958362734",
+      "source": "readme",
+      "company": "RSM US",
+      "title": "ServiceNow Architect",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5958362734",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-08T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T18:47:57.350Z",
+      "excerpt": "adzuna · servicenow",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {

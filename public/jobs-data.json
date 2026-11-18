@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-18T18:22:27+00:00",
+ "generatedAt": "2026-11-18T18:47:59+00:00",
  "timezone": "America/Toronto",
- "count": 4941,
+ "count": 4943,
  "appliedHidden": 31,
  "sources": [
   "103.careerplug.com",
@@ -331,6 +331,48 @@
   },
   {
    "posted": "2026-11-18",
+   "title": "Technicien de soutien informatique niveau 3 (ServiceNow / ITIL)",
+   "company": "FOP Consultants",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technicien-de-soutien-informatique-niveau-3-servicenow-itil-at-fop-consultants-4491864927",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 96,
+   "matchReasons": [
+    "ServiceNow",
+    "ITIL",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "technicien de soutien informatique niveau 3 (servicenow / itil) fop consultants montreal, quebec, canada linkedin servicenow readme servicenow itil role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Technicien%20de%20soutien%20informatique%20niveau%203%20%28ServiceNow%20/%20ITIL%29%20FOP%20Consultants+Montreal+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Technicien%20de%20soutien%20informatique%20niveau%203%20%28ServiceNow%20/%20ITIL%29%20FOP%20Consultants&location=Montreal"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Technicien%20de%20soutien%20informatique%20niveau%203%20%28ServiceNow%20/%20ITIL%29%20FOP%20Consultants&l=Montreal"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Technicien%20de%20soutien%20informatique%20niveau%203%20%28ServiceNow%20/%20ITIL%29%20FOP%20Consultants&loc=Montreal"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-18",
    "title": "Manager, HR Technology &amp; ServiceNow HRSD",
    "company": "IG Wealth Management",
    "location": "Manitoba, Canada",
@@ -522,7 +564,14 @@
    ],
    "french": false,
    "search": "servicenow developer cum architect raas infotek mississauga, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-raas-infotek-4492064906",
+     "label": "LinkedIn · Mississauga",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -543,47 +592,6 @@
     }
    ],
    "toronto": true
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Sr. ServiceNow Architect",
-   "company": "Resolve Tech Solutions",
-   "location": "US Remote - FL",
-   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "sr. servicenow architect resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&loc=Canada"
-    }
-   ],
-   "toronto": false
   },
   {
    "posted": "2026-11-18",
@@ -641,6 +649,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Business%20Systems%20Analyst%20%28ServiceNow%29%20Interac&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "Sr. ServiceNow Architect",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - FL",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "sr. servicenow architect resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&loc=Canada"
     }
    ],
    "toronto": false
@@ -1761,6 +1810,54 @@
   },
   {
    "posted": "2026-11-18",
+   "title": "Senior Engineer, ITSM",
+   "company": "SUOMEN OSUUSKAUPPOJEN KESKUSKUNTA",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5970622652",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 42,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior engineer, itsm suomen osuuskauppojen keskuskunta canada adzuna servicenow readme itsm role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5953261528",
+     "label": "Adzuna · Canada",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Engineer%2C%20ITSM%20SUOMEN%20OSUUSKAUPPOJEN%20KESKUSKUNTA+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Engineer%2C%20ITSM%20SUOMEN%20OSUUSKAUPPOJEN%20KESKUSKUNTA&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Engineer%2C%20ITSM%20SUOMEN%20OSUUSKAUPPOJEN%20KESKUSKUNTA&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Engineer%2C%20ITSM%20SUOMEN%20OSUUSKAUPPOJEN%20KESKUSKUNTA&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-18",
    "title": "GTM Strategy and Operations Associate Analyst",
    "company": "Salesforce",
    "location": "Toronto, Ontario",
@@ -2604,6 +2701,60 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Principal%20Solution%20Architect-%20ServiceNow%20ServiceNow&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Sr Solution Sales Executive CRM (CPQ)",
+   "company": "ServiceNow",
+   "location": "Toronto, ca",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 86,
+   "matchReasons": [
+    "ServiceNow",
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow readme servicenow salesforce toronto area",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162143024",
+     "label": "SmartRecruiters · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5969570818?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&loc=Toronto"
     }
    ],
    "toronto": true
@@ -95219,47 +95370,6 @@
     }
    ],
    "toronto": true
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Engineer, ITSM",
-   "company": "1000 SUOMEN OSUUSKAUPPOJEN KESKUSKUNTA",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5953261528",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 42,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior engineer, itsm 1000 suomen osuuskauppojen keskuskunta canada adzuna servicenow readme itsm role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Engineer%2C%20ITSM%201000%20SUOMEN%20OSUUSKAUPPOJEN%20KESKUSKUNTA+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Engineer%2C%20ITSM%201000%20SUOMEN%20OSUUSKAUPPOJEN%20KESKUSKUNTA&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Engineer%2C%20ITSM%201000%20SUOMEN%20OSUUSKAUPPOJEN%20KESKUSKUNTA&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Engineer%2C%20ITSM%201000%20SUOMEN%20OSUUSKAUPPOJEN%20KESKUSKUNTA&loc=Canada"
-    }
-   ],
-   "toronto": false
   },
   {
    "posted": "2026-11-04",
