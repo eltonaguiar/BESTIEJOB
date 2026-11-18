@@ -98,6 +98,10 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Keep the "**N live postings**" header equal to the rows the tables
+          # hold, using board_invariants' own parser so the audit cannot see a
+          # header/tables count disagreement (it read 7588 vs 7856 on 2026-11-18).
+          python3 scripts/sync_readme_counts.py
           git add README.md inbox jobs.json public/jobs.json public/gotjob/jobs.json \
                   public/findjobs/jobs.json public/jobs-data.json FRESH_JOBS.md 2>/dev/null || true
           if git diff --cached --quiet; then
