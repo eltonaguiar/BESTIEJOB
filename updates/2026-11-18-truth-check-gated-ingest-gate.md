@@ -113,6 +113,21 @@ To land: apply the patch on a branch, push, and let `truth-check.yml` run on the
 push trigger (`paths:` includes `README.md`, `jobs.json`,
 `tools/job_source_truth.py`) or dispatch it manually.
 
+## Why 13 rows were removed deliberately
+
+`readme-guard.yml` exists to stop silent row loss, so this PR trips it by design:
+
+```
+removed: 11   added: 0   net loss: 11
+If this deletion is intended, put [allow-readme-removals] in the commit message.
+```
+
+The removal is the fix. Each dropped row is a paywall-aggregator link that the
+board's own truth gate classifies as a non-posting; all 13 roles are preserved
+with cross-ref links in `PAYWALL_ROLES.md`, and `jobs_merge_inbox.py` now refuses
+to re-add that class of URL. The acknowledgement marker is on the follow-up
+commit for this reason.
+
 ## Caveats
 
 - `scripts/board_invariants.py` on the clone still reports its pre-existing
