@@ -18,7 +18,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-18
 
-Window: 2026-10-19 → 2026-11-18 · **6182 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-19 → 2026-11-18 · **6183 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1112)
 _developer / administrator / architect / analyst roles_
@@ -69,6 +69,7 @@ _developer / administrator / architect / analyst roles_
 | 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-imr-soft-llc-4490936151) | IMR Soft LLC | Toronto, Canada (Hybrid) | via linkedin-guest--2026-11-16 |
 | 2026-11-16 | [ServiceNow ITOM Developer](https://ca.linkedin.com/jobs/view/servicenow-itom-developer-at-techneptune-consulting-inc-4489717217) | TechNeptune Consulting Inc. | Toronto, Ontario, Canada | unknown |
 | 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-techneptune-consulting-inc-4489716220) | TechNeptune Consulting Inc. | Toronto, Ontario, Canada | unknown |
+| 2026-11-16 | [ServiceNow ITOM Developer](https://www.jobbank.gc.ca/jobsearch/jobposting/50740706) | Bonafide Info Systems Inc. | Toronto, ON (hybrid remote) | via hermes-cron--2026-11-18--v6.md |
 | 2026-11-15 | [Functional Consultant / Senior Consultant - ServiceNow](https://www.adzuna.ca/details/5967247618) | KPMG | Montréal, Québec | unknown |
 | 2026-11-15 | [Functional Manager - ServiceNow](https://www.adzuna.ca/details/5967247642) | KPMG | Montréal, Québec | unknown |
 | 2026-11-15 | [Manager - ServiceNow Solution Architect](https://www.adzuna.ca/details/5967247606) | KPMG | Montréal, Québec | unknown |

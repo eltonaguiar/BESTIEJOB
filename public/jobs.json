@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-18T17:16:46.111Z",
     "generatedAt": "2026-11-18T17:16:46.111Z",
-    "total": 5447,
+    "total": 5448,
     "newThisScan": 793,
     "retainedFromPrevious": 1592,
     "sources": {
@@ -35,7 +35,8 @@
     "primaryCounts": {
       "servicenow": 1130,
       "salesforce": 1156
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -47,13 +48,14 @@
       "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-18T17:16:46.111Z",
+      "postedDate": "2026-11-18T12:00:00.000Z",
       "scrapedAt": "2026-11-18T17:16:46.111Z",
       "excerpt": "R1300",
       "workArrangement": "remote",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-en-architecture-bureautique-itsm-c2-at-services-sft-4473443819",
@@ -4848,6 +4850,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:jobbank.gc.ca/jobsearch/jobposting/50740706",
+      "source": "readme",
+      "company": "Bonafide Info Systems Inc.",
+      "title": "ServiceNow ITOM Developer",
+      "location": "Toronto, ON (hybrid remote)",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50740706",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T18:10:35.457Z",
+      "excerpt": "via hermes-cron--2026-11-18--v6.md",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
       ]
     },
     {
