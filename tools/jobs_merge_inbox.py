@@ -39,11 +39,18 @@ from __future__ import annotations
 import argparse
 import re
 import sys
+from collections import Counter
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
+sys.path.insert(0, str(ROOT / "scripts"))
+
+# The same classifiers `scripts/board_invariants.py` audits with, so ingest and
+# audit cannot disagree about what the board's rules mean.
+from board_invariants import PLACEHOLDER  # noqa: E402
+from locscope import is_foreign  # noqa: E402
 
 from jobs_consolidate import (  # noqa: E402
     README,
@@ -96,8 +103,17 @@ def _clean_title(title: str) -> str:
 
 
 def parse_inbox_file(path: Path) -> list[dict]:
-    """Rows: | Posted | Role | Company | Location | URL | (extra columns tolerated)."""
+    """Rows: | Posted | Role | Company | Location | URL | (extra columns tolerated).
+
+    Rows that cannot be published are refused here rather than merged and purged
+    later: `](` anywhere in a cell means a link leaked out of its column (the row
+    is unreadable and the gate calls it `split-row`), PLACEHOLDER cells hold
+    scraper bookkeeping instead of a company or role, and a location that names a
+    non-Canadian country is out of scope for a Canadian board. Catching them at
+    ingest keeps the inbox clean, so the hourly purge has nothing to undo.
+    """
     rows: list[dict] = []
+    skipped: Counter = Counter()
     for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
         if not line.strip().startswith("|"):
             continue
@@ -119,6 +135,15 @@ def parse_inbox_file(path: Path) -> list[dict]:
         company = cells[2] if len(cells) > 2 else ""
         location = cells[3] if len(cells) > 3 else ""
         note = (cells[4] if len(cells) > 4 and "http" not in cells[4] else "").strip()
+        if any("](" in c for c in (title, company, location)):
+            skipped["link leaked into a cell"] += 1
+            continue
+        if PLACEHOLDER.match(company) or PLACEHOLDER.match(title):
+            skipped["scraper bookkeeping in a cell"] += 1
+            continue
+        if is_foreign(location):
+            skipped["not a Canadian location"] += 1
+            continue
         rows.append(
             {
                 "posted": posted,
@@ -131,6 +156,10 @@ def parse_inbox_file(path: Path) -> list[dict]:
                 "origin": path.name,
             }
         )
+    if skipped:
+        detail = ", ".join(f"{k} {v}" for k, v in skipped.most_common())
+        print(f"  {path.name}: refused {sum(skipped.values())} row(s) at ingest ({detail})",
+              file=sys.stderr)
     return rows
 
 

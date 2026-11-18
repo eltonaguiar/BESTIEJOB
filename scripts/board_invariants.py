@@ -229,11 +229,18 @@ def audit_readme(rows: list[dict], claimed: int | None, today: date) -> list[dic
     by_ident: dict[str, list[dict]] = defaultdict(list)
     for r in rows:
         by_ident[identity(r)].append(r)
+    # Informational, not ratcheted. This is "same company + title, different
+    # posting date" and it ignores the URL — but the board dedupes on the URL, so
+    # the same role re-listed on two boards on two days is legitimate and was the
+    # entire 505-row count (every one of them a distinct URL). The dedupe
+    # violation it was meant to catch is `url-date-conflict` below, which is an
+    # error and compares the thing the board actually keys on.
     for key, group in by_ident.items():
         if len({g["posted"] for g in group}) > 1:
-            findings.append({"kind": "identity-date-conflict", "severity": "warning",
+            findings.append({"kind": "identity-date-conflict", "severity": "info",
                              "note": f"{len(group)} rows, {len({g['posted'] for g in group})} dates, "
-                                     f"{len({normalise_url(g['url']) for g in group})} URLs",
+                                     f"{len({normalise_url(g['url']) for g in group})} URLs "
+                                     f"(distinct URLs: cross-board relistings, not duplicates)",
                              "line": group[0]["line"], "posted": group[0]["posted"],
                              "title": group[0]["title"], "company": group[0]["company"],
                              "location": group[0]["location"], "url": group[0]["url"]})
@@ -307,7 +314,8 @@ def main() -> int:
     print(f"{'kind':26s} {'severity':9s} count")
     print("-" * 48)
     for kind, count in sorted(by_kind.items(), key=lambda kv: (-kv[1], kv[0])):
-        sev = "error" if any(f["kind"] == kind and f["severity"] == "error" for f in findings) else "warning"
+        sevs = {f["severity"] for f in findings if f["kind"] == kind}
+        sev = "error" if "error" in sevs else "info" if sevs == {"info"} else "warning"
         print(f"{kind:26s} {sev:9s} {count}")
 
     for kind, _ in sorted(by_kind.items(), key=lambda kv: (-kv[1], kv[0])):
@@ -347,8 +355,11 @@ def main() -> int:
         recorded = dict(by_kind)
 
     considered = errors if args.fail_on == "error" else errors + warnings
+    # Only kinds that can fail are ratcheted: an informational kind measures
+    # something the board does not promise (see identity-date-conflict).
+    ratcheted = {f["kind"] for f in errors + warnings}
     growing = {k: (c, recorded.get(k, 0)) for k, c in by_kind.items()
-               if c > recorded.get(k, 0)}
+               if k in ratcheted and c > recorded.get(k, 0)}
     failing = [f for f in considered if not recorded or f["kind"] in growing]
 
     if recorded:

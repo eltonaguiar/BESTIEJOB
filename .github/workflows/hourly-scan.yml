@@ -96,6 +96,14 @@ jobs:
       - name: Sync curated README rows into the feed
         run: node scripts/sync_readme_to_jobs.mjs
 
+      - name: Re-date rows whose postedDate is the scan clock
+        # board-invariants fails on `clock-date` (postedDate == scrapedAt): the board
+        # promises the date comes from the posting, and two Workday rows were
+        # carrying the moment of the scan. scripts/resolve_clock_dates.py asks the
+        # ATS JSON first and only keeps an absolute, in-window date; a posting that
+        # states no date leaves the row undated rather than guessed.
+        run: python3 scripts/resolve_clock_dates.py --apply --workers 8
+
       - name: Rebuild page data from README
         run: python3 tools/build_site.py
 
