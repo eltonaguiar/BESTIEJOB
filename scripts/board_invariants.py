@@ -56,6 +56,27 @@ CA_RE = re.compile(
     r"Nova Scotia|New Brunswick|Newfoundland|Prince Edward Island|Yukon|Nunavut|"
     r"Northwest Territories|ON|BC|QC|AB|MB|SK|NS|NB|NL|PE|YT|NT|NU)\b")
 
+# A Canadian place written without a province. "Toronto, ca" is the postings'
+# own country code; "Mississauga, Peel region" and "Ottawa, Ottawa region" name
+# a Canadian administrative region; a bare Canadian city is unambiguous on a
+# Canada-only board. Without these the audit reported 1,111 valid Canadian rows
+# as "location names no province or country" (2026-11-18) — the pattern was
+# wrong, not the data. The explicit-country check above still runs first, so a
+# row that says "Vancouver, WA" is still caught as non-Canada.
+CA_PLACE_RE = re.compile(
+    r"(?:,\s*ca\b)"
+    r"|(?:\b(?:Peel|York|Durham|Halton|Waterloo|Ottawa|Calgary|Edmonton|Montréal|Montreal)"
+    r"\s+(?:region|area)\b)"
+    r"|(?:\b(?:Greater Vancouver|Greater Toronto|City of Toronto)\b)"
+    r"|(?:\b(?:Toronto|Mississauga|Brampton|Markham|Vaughan|Richmond Hill|Oakville|Hamilton"
+    r"|Kitchener|Waterloo|Guelph|Barrie|Oshawa|Whitby|Ajax|Pickering|Newmarket"
+    r"|Ottawa|Gatineau|Laval|Longueuil|Québec City|Quebec City|Sherbrooke|Trois-Rivières"
+    r"|Montréal|Montreal|Calgary|Edmonton|Red Deer|Lethbridge|Winnipeg|Regina|Saskatoon"
+    r"|Vancouver|Burnaby|Surrey|Richmond|Coquitlam|Langley|Kelowna|Victoria|Nanaimo"
+    r"|Halifax|Dartmouth|Moncton|Fredericton|Saint John|St. John's|Charlottetown"
+    r"|Regent Park|East York|North York|Scarborough|Etobicoke|York Region)\b)",
+    re.I)
+
 # "vendor sales titles" — the exclusion the registry's rules name explicitly.
 VENDOR_CO = re.compile(r"\bservice\s?now\b|\bsalesforce\b", re.I)
 SALES_TITLE = re.compile(
@@ -174,7 +195,8 @@ def audit_readme(rows: list[dict], claimed: int | None, today: date) -> list[dic
         loc = r["location"]
         if loc and region_of(loc) and region_of(loc) != "ca":
             add("non-canada", "error", r, f"location is explicitly outside Canada: {loc}")
-        elif loc and not CA_RE.search(loc) and "remote" not in loc.lower():
+        elif (loc and not CA_RE.search(loc) and not CA_PLACE_RE.search(loc)
+              and "remote" not in loc.lower()):
             add("location-ambiguous", "warning", r, f"location names no province or country: {loc}")
 
         if VENDOR_CO.search(company) and SALES_TITLE.search(title) and not ENG_TITLE.search(title):
