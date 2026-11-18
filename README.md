@@ -47,8 +47,6 @@ Window: 2026-10-19 → 2026-11-18 · **6187 live postings** · deduplicated by U
 | 2026-11-17 | [Manager, HR Technology & ServiceNow HRSD](https://ca.linkedin.com/jobs/view/manager-hr-technology-servicenow-hrsd-at-mackenzie-investments-4491753355) | Mackenzie Investments | Greater Toronto Area, Canada | via hermes-cron--2026-11-18--v1.md |
 | 2026-11-17 | [Senior Manager, Employee Technology](https://www.adzuna.ca/details/5968725995) | Scotiabank | Toronto, Ontario | via adzuna · servicenow |
 | 2026-11-17 | [Business Analyst – ServiceNow Strategic Portfolio Management (SPM)](https://ca.linkedin.com/jobs/view/business-analyst-%E2%80%93-servicenow-strategic-portfolio-management-spm-at-vivid-soft-global-4490469850) | Vivid Soft Global | Canada | via linkedin-guest--2026-11-18--v1.md |
-| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162143024) | ServiceNow | Toronto, ca | via ats--2026-11-17--v10.md |
-| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162166739) | ServiceNow | Toronto, ca | via ats--2026-11-17--v8.md |
 | 2026-11-16 | [ServiceNow SPM Developer](https://www.adzuna.ca/details/5968012935) | Astra-North Infoteck Inc. | Toronto, Ontario | via adzuna |
 | 2026-11-16 | [ServiceNow Lead](https://ca.linkedin.com/jobs/view/servicenow-lead-at-apptoza-inc-4490150415) | Apptoza Inc. | Vancouver, British Columbia, Canada | via linkedin |
 | 2026-11-16 | [ServiceNow ITOM / CMDB Developer](https://ca.linkedin.com/jobs/view/servicenow-itom-cmdb-developer-at-allianceit-inc-4490602725) | AllianceIT Inc | Toronto, Ontario, Canada | via linkedin |
@@ -2191,7 +2189,6 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-17 | [IT Support Technician](https://www.adzuna.ca/details/5968765926?utm_medium=api&utm_source=54ce986e) | Lemay | Montréal, Québec | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [MuleSoft Architect](https://ca.linkedin.com/jobs/view/mulesoft-architect-at-insight-global-4491415925) | Insight Global | Toronto, Ontario, Canada | via linkedin-guest--2026-11-18--v1.md |
 | 2026-11-17 | [Analyste sénior en gouvernance, risques &amp; conformité (GRC)](https://ca.linkedin.com/jobs/view/analyste-s%C3%A9nior-en-gouvernance-risques-conformit%C3%A9-grc-at-coveo-4491567365) | Coveo | Montreal, Quebec, Canada | via linkedin-guest--2026-11-18--v1.md |
-| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://www.adzuna.ca/details/5969570818?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via fresh-ca--2026-11-18--v5.md |
 | 2026-11-16 | [Enablement Lead, Employee Relations, Compliance & Health and Safety Technology](https://www.adzuna.ca/details/5968011151?utm_medium=api&utm_source=54ce986e) | Manulife | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-16 | [Lead, Enterprise Applications & Integration](https://www.adzuna.ca/details/5968409380?utm_medium=api&utm_source=54ce986e) | Nelson Education LTD | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-16 | [Lead Management Operations](https://www.adzuna.ca/details/5968011611?utm_medium=api&utm_source=54ce986e) | Rogers Communications | Summerside, Prince | via adzuna-autonomous--2026-11-17--v1.md |
