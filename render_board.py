@@ -36,7 +36,7 @@ def card(j,asof):
     details+=cell('Posting ID',j['posting_id']);attrs=' '.join(f'data-{k}="{ESC(v)}"' for k,v in [('track',tr),('geo',gid),('date',fresh),('channel','agency' if agency else 'direct')])
     return f'''<article class="role {cls}" {attrs}><div class="flagrow"><span class="pill {cls}">{ESC(tr if tr!='Other' else 'Other · adjacent')}</span><span class="status">{ESC(j['access_level'])}</span></div>
 <h3>{link(j['posting_url'],j['title'],'titlelink')}</h3><p class="org">{ESC(org)}</p><p class="by">{ESC(by)}</p>
-<div class="facts">{cell('Where',j['location_summary'])}{cell('Pay',j['pay_as_listed'])}{cell('Terms',j['employment'])}</div>
+<dl class="facts">{cell('Where',j['location_summary'])}{cell('Pay',j['pay_as_listed'])}{cell('Terms',j['employment'])}</dl>
 <p class="duties">{ESC(j['developer_evidence'])}</p><p class="note">{ESC(j['candidate_note'])}</p>
 <div class="when"><span>{ESC(date_label)}</span>{clos}</div><div class="actions">{link(j['posting_url'],'View posting','cta')}</div>
 <details><summary>Evidence &amp; access</summary><dl class="evidence">{details}</dl>{extra}</details></article>'''

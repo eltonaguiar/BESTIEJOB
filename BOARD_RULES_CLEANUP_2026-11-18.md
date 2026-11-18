@@ -104,3 +104,17 @@ python3 scripts/normalize_board.py     # dry run: reports the plan, exit 1 when 
 python3 -c "import json;json.load(open('jobs.json'))"   # still valid, 2552 rows
 git diff --stat                        # jobs.json diff is row-sized (format preserved)
 ```
+
+---
+
+## Guard interaction (learned the hard way)
+
+`README job-row guard` fails any push that loses README rows unless the commit message carries
+`[allow-readme-removals]`. The first merge of this work (PR #46) removed 373 README rows with a
+message that did not carry it, so main went red on `README job-row guard` for that one push even
+though `board invariants` passed. That guard is doing its job — it exists to stop *unreviewed*
+row loss — so the fix is on the deleting side, not the guard:
+
+`hourly-scan` now captures `normalize: removed=<n>` from the step and appends
+`[allow-readme-removals]` to its commit message **only when n > 0**. An accidental mass deletion
+from anywhere else still trips the guard.

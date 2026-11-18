@@ -1,0 +1,157 @@
+# Finding Toronto and remote platform developer jobs
+
+**Agent runbook · November 17, 2026, Toronto time**  
+**Deliverable each run:** a short list of real requisitions in three tracks, a change log against the previous board, and a list of employers to check next. **Do not target a minimum number of jobs.** Zero new verified jobs is a valid result; an unavailable source is not a zero.
+
+## Start here
+
+1. Open `board.html` for the dated, filterable example. `job-snapshot.csv` contains the evidence behind every card. The `checked_at_utc` column identifies the research batch (Nov 18 UTC = Nov 17 in Toronto), not the exact second of every individual request. It includes roles that are still listed but too old or insufficiently dated for a fresh-jobs feed.
+2. Start the next run from **employers, not search strings**: `employer-watchlist.csv` contains 24 source entries, including separate portals for different practices of the same firm. `entry_url` is a place to look, not a job. `resolve_employer` means the careers route is not yet verified.
+3. Use documented applicant-tracking system (ATS) feeds for the repeatable part. The included `scan_boards.py` stages keyword leads; it does **not** certify, apply, publish or log in. Verify each short-listed role below. Use `render_board.py` to regenerate the standalone board after review.
+4. If contributing to BestieJob, use its inbox and reviewer workflow. Do not import the entire example CSV. Some rows are already present, some are better links to old rows, and one global lead still needs a country check.
+
+### Scope to put in the run configuration
+
+| Decision | Default for this assignment |
+|---|---|
+| Place | City of Toronto, Ontario, including its districts; OR a fully remote role explicitly open to someone working from Ontario. An office in Markham or Mississauga alone is **not** Toronto. Keep a different GTA radius configurable. |
+| Work model | Toronto on-site/hybrid is in scope but separate from remote. Record required days, onboarding, travel, time zone, eligible provinces/countries, language and stated work authorization. Global remote without clear Ontario hiring goes into **confirm**, not the Ontario count. |
+| Tracks | **ServiceNow** and **Salesforce** require substantive platform-building duties. **Other** is a configurable adjacent track: hands-on integration, automation, SQL/data engineering, BI, business applications or platform operations. Label its actual specialty. Never assume the user has a given credential or a particular résumé. |
+| Experience / terms | No hard seniority, industry, employer or contract-type exclusions requested. Tag seniority and direct employer / agency / named client. Keep consultant-build roles, admin/developer blends and independent software vendor (ISV) product development identifiable. |
+| Two clocks | **Still listed** and **newly posted** are different promises. Publish both in a personal shortlist, with labels. For a fresh feed use an explicit window, e.g. 30 days on the issuer's date, not on discovery time. |
+
+## 1. Decide where to spend the next hour
+
+**Recommended order, not a measured ranking:** (1) proven repeat hirers' and staffing partners' own requisitions; (2) local implementation partners and software vendors; (3) licensed discovery/alerts and event rosters for employers not yet covered. A single indexed vacancy is perishable. Its employer and recruiting portal can keep yielding jobs for years.
+
+| Employer source | How to turn it into a repeatable search |
+|---|---|
+| **Past developer vacancies** | Mine the previous 12–24 months of your own permitted history: BestieJob `jobs.json`, inbox, archived tables and, if needed, earlier public revisions. Extract issuer, end-client only if disclosed, ATS tenant, req ID, platform, local/remote evidence, earliest/latest *issuer* dates and number of distinct reqs. Eliminate placeholders, aggregators-as-employers and aliases; keep agencies in their own lane. A removed job is **historical evidence**, not an opening. Example: [Cognizant's 2025 Toronto posting](https://careers.cognizant.com/ca-en/jobs/00065235481/senior-servicenow-developer/) is a reason to revisit Cognizant, not to repost it. The repo already has a [ServiceNow employer-register script](https://github.com/eltonaguiar/BESTIEJOB/blob/7851e0073844070b124d554e68374bd09519b884/scripts/snow_company_register.py); apply the same logic to Salesforce and validate body-only matches. |
+| **ServiceNow partners** | In the [Partner Finder](https://www.servicenow.com/partners/partner-finder.html) start with Consulting & Implementation, Canada coverage **and** a Toronto office or evidence of Ontario hiring. Start with the [official Elite/Global Elite implementation filter](https://www.servicenow.com/partners/partner-finder.html?servicenow-partner-type=provides-implementation-services&segment=elite%24global-elite) for scale, then Premier/Select local specialists for less obvious employers. Add Service Providers and Build partners for managed platform/product jobs; put pure resellers lower unless there is build evidence. Check implementation specializations such as CSM, ITAM, ITSM and IntegrationHub. [Fujitsu](https://www.servicenow.com/partners/partner-finder/fujitsu-services-limited.html) is Elite for implementation but Premier for Build; tiers attach to a practice. [Pentio](https://www.servicenow.com/partners/partner-finder/pentio-inc.html) is a Toronto **Select** implementation boutique: an Elite-only filter misses it. Country coverage can mean customers, not payroll. |
+| **Salesforce partners and software publishers** | Start from [Salesforce Canada Partners](https://www.salesforce.com/ca/partners/) → [AppExchange Consulting](https://appexchange.salesforce.com/consulting). Search Canadian consulting partners by location, expertise, clouds and public implementation history. Separately search **apps** and follow the publisher: ISVs often call builders *Product Developer*, *Software Engineer* or *Integrations Engineer*. [Traction Rec #148](https://tractionrec.bamboohr.com/careers/148) names the Salesforce build work in the body and explicitly invites developers new to the platform. Use Salesforce's own current designations; do not copy ServiceNow tier names onto Salesforce firms. |
+| **Toronto conferences and community** | Use the dated [2026 ServiceNow World Forum Toronto](https://www.servicenow.com/events/world-forum/toronto.html) and [2026 sponsor showcase](https://reg.servicenow.com/flow/servicenow/wftoronto26/sponsorshowcase/page/sponsors), not just an old search result for the 2025 event. Seeds include Ateko, Cognizant, NewRocket and Pentio. On the Salesforce side use the [May 2026 Toronto event](https://www.salesforce.com/events/world-tour/toronto/faq/) and its [sponsor catalog](https://reg.salesforce.com/flow/plus/wttoronto26may/sponsors/page/sponsorcatalog): examples include Lane Four, Slalom, Ateko and CloudFulcrum. Remove the organizer's own booths, duplicates and nontechnical exhibitors. Revisit after each event; use official public session agendas, customer case studies, local developer/user-group hosts, and Knowledge/Dreamforce programs for expansion. |
+| **Customer organizations, not just consultancies** | Public speaker affiliations and public customer case studies reveal **end users** of the platforms (e.g. Sobeys on the Toronto ServiceNow event program). Banks, utilities, insurers and public-sector organizations may have separate permanent and contingent-worker portals. Monitor the organizations, not people. Do not buy, scrape or infer private attendee lists, emails or personal profiles. Sponsorship, attendance and partner tier all mean different things; **none is a vacancy**. |
+
+**Worked sponsor example:** the [Ateko careers page](https://ateko.com/en/careers/) sends **ServiceNow** candidates to [FX Innovation](https://www.fxinnovation.com/en/jobs) and **Salesforce** candidates to [a separate ADP career centre](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bac8b058-33cf-427f-837d-a045403bf4e9&ccId=19000101_000001&type=JS&lang=en_CA&selectedMenuKey=CareerCenter). Save two source records. An FX detail returned an error during this check; the two **portals** are the finding, not a purported open job. [Lane Four's own opportunities](https://lanefour.com/opportunities/) also illustrate why a Salesforce consultancy's administrator/consultant roles should not automatically enter the developer track.
+
+**Cadence:** daily for recent repeat hirers, contract channels and accepted jobs near deadline; weekly for local partners, ISVs and former hirers; monthly or after an event for directories and sponsor/speaker organizations. Promote a source when it yields verified roles, rotate sources that don't. For every new source record the legal entity/aliases, ecosystem, evidence URL and date, official careers link → board identity/token, eligible geography evidence, permitted access/display, last successful run and next due date. Keep separate rows for parent/brand/practice portals when needed.
+
+## 2. Acquire leads without depending on anonymous scraping
+
+**Signed-out visibility is not automation or republication permission.** A person can open a public posting where the service offers it. Some details may be unavailable or require sign-in. An unattended agent should use a documented feed, authorized API/partnership, or user-supplied alert it is authorized to process. Never automate guest endpoints just because a browser can display a page; do not create accounts, rotate identities or work around blocks.
+
+| Channel | Use it for | Access and publishing decision |
+|---|---|---|
+| LinkedIn, Indeed, Monster | Human spot checks, native searches/alerts where offered, finding a title, employer or req ID to look up independently | [LinkedIn guidance](https://www.linkedin.com/help/linkedin/answer/a1341387) bars scraping/unauthorized automation. [Indeed Canada terms](https://ca.indeed.com/legal) restrict automated access absent written permission, apart from conditional crawling allowed by its robots policy; that is not a job-data redistribution licence. [Monster terms](https://www.monster.com/inside/terms-of-use?fwr=true) restrict data-mining/robots. Check current regional terms. Do not assume employer posting APIs are public job-search APIs. |
+| **Adzuna Canada** | Broad, structured discovery of both local and remote listings. Candidate for a coverage pilot, **not** a truth source | [Search API](https://developer.adzuna.com/docs/search): ID + key, e.g. `/v1/api/jobs/ca/search/1?what=servicenow&where=Toronto&sort_by=date` plus credentials supplied privately. Run another Canada-wide remote query. `created` is the ad's clock, `redirect_url` its route; distinguish predicted pay. [Terms](https://developer.adzuna.com/docs/terms_of_service): account limits, attribution and linked Adzuna label per displayed ad; separate salary-estimate rules, a 14-day validation trial for covered organizational use, licences for relevant ongoing/commercial use, queries via Adzuna, removal obligations. No keyed API was used for this report. Do not repackage their data or bypass their routing by stripping attribution. |
+| **Himalayas** | Easiest documented no-key starting point here for **remote-only** searches | [API and display rules](https://himalayas.app/api). Try `https://himalayas.app/jobs/api/search?q=salesforce&country=CA&exclude_worldwide=true&sort=recent&page=1`; separately try worldwide and put it in the confirm queue. Paginate to an empty page, dedupe `guid`. `pubDate` is **last updated**. Its single-job endpoint distinguishes 200/410/404. For display on your own board use the **unchanged applicationLink**, visible credit and remove expired jobs. No onward syndication, including Google Jobs, LinkedIn Jobs, feeds or JobPosting markup. Do not put sourced ads in a redistributable public repo/feed unless rights cover it. |
+| Job Bank, Eluta, Built In Toronto, CareerBeacon | Supplementary Canadian alerts, smaller employers and agencies | Use [Job Bank's filtered email alerts](https://www.jobbank.gc.ca/intro/findajob) and [Eluta](https://www.eluta.ca/) for leads. Eluta/Freehire helped surface the Traction Rec role, but BambooHR identified the correct Ontario req. Do not depend on a brittle/undocumented list API. The repo already catalogs [agency portals and adapters](https://github.com/eltonaguiar/BESTIEJOB/blob/7851e0073844070b124d554e68374bd09519b884/AGENCIES.md), including Built In Toronto, CareerBeacon and Procom. Check access rights and the originating ad. |
+| Commercial employer-direct datasets | If coverage or engineering time justifies paying, evaluate a licensed employer-sourced feed such as [LinkUp](https://www.linkup.com/) | Ask for a Toronto/remote-Canada sample, update/closure latency, coverage of local boutiques and contract boards, stable IDs, and **redistribution rights in writing**. Not tested head-to-head here. Do not pay based on gross ad count. |
+
+Keep a per-source rights policy: `manual_discovery`, `permitted_api_private`, `own_site_attributed`, `redistribution_approved`, or `unknown`. **Unknown: do not redistribute.** A public GET is not a blanket licence to republish text. Store minimal facts, provenance and a link; not whole copied descriptions. For restricted data follow its link, attribution, storage and deletion rules. Do not strip a licensed source to pass its records off as independently collected. Secrets, applicant or attendee data never belong in the repo.
+
+### Read the recruiting system once per employer
+
+Find the tenant through an official careers link, not by assuming the brand is its slug. Check the board's issuer, branding, country and one known job. Search the **public jobs list** then request details for candidate IDs. The following are employer-scoped, not cross-employer search engines:
+
+| Documented interface | Listing pattern and fields to use |
+|---|---|
+| [Lever Postings API](https://github.com/lever/postings-api) | `GET https://api.lever.co/v0/postings/{site}?mode=json&limit=100&skip=0`. Page with `skip`; use the documented EU host when the official board is EU-hosted. Keep `id`, `country`, `categories.allLocations`, `workplaceType`, `hostedUrl`, `applyUrl`, compensation currency/period. For date use hosted `JobPosting.datePosted` when present, not an unqualified `createdAt`. |
+| [Greenhouse Job Board API](https://docs.greenhouse.io/job-board.html) | `GET https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true`; detail `/jobs/{id}`. Read location/offices, content, absolute URL and `first_published` when the detail actually supplies it. `updated_at` is **not** posted. Preserve posting `id` as well as `internal_job_id`/req ID when available. |
+| [Ashby public posting API](https://developers.ashbyhq.com/docs/public-job-posting-api) | `GET https://api.ashbyhq.com/posting-api/job-board/{site}`. Keep only `isListed=true`. Use `workplaceType`, primary **and secondary** locations, `jobUrl`, `applyUrl`. `isRemote` can include hybrid. `publishedAt` is **last published**; do not call it the original posting date. |
+| [SmartRecruiters Posting API](https://developers.smartrecruiters.com/docs/posting-api) | `GET https://api.smartrecruiters.com/v1/companies/{identifier}/postings?limit=50&offset=0`, then `/postings/{id}`. Read `active`, public visibility, `releasedDate`, actual duties, work model, `refNumber` and the returned URLs. Some list rows lack the description; a title-only pass is incomplete. Never request internal/private ads. |
+| Other systems | Use the employer's public Workday, BambooHR, TalentNet, Taleo, ADP, SuccessFactors or custom careers UI, allowed index/sitemap/feed, or native alert. On rendered Workday detail, keep the req and explicit close date; if all you see is “30+ Days Ago,” leave posted date empty. A login, timeout or throttle is a **review state**, not a cue to emulate a different user. |
+
+**Quick start, from the extracted kit directory (Python 3.10+, no packages or keys):**
+
+```sh
+# Offline: inspect exactly which public list endpoints would be read.
+python3 scan_boards.py --plan --source alimentiv eqbank versapay ensiti levio cea
+# After checking permission for these sources; use new output filenames for subsequent runs.
+python3 scan_boards.py --read --source alimentiv eqbank versapay --out leads-lever.jsonl
+python3 scan_boards.py --read --source ensiti --max-details 15 --out leads-ensiti.jsonl
+```
+
+The helper emits **candidates**, including out-of-scope countries and false positives. No network by default. It supports the four documented API types above for the configured tenants; it does not try arbitrary URLs, implement all regional ATS variants, interpret JS-only portals, or search the whole web. Respect reported page/detail caps; schedule another review or use the public UI if a pass is incomplete. Add a new token only after verification and permission. Cache IDs/results on recurring runs, use conditional requests if supported, limit concurrent work per host, honor `Retry-After` and stop on access denial. Log coverage and errors, not just hits.
+
+### Search the titles the platforms don't use
+
+Use these in an authorized search tool or manually in employer career portals (split Boolean expressions into single terms on portals with weak search). Run Toronto and remote-Canada queries **separately**. Then search each newly found employer's entire relevant category; generic titles often have no platform words in their URL.
+
+```text
+("ServiceNow" OR "Service Now") (developer OR engineer OR "technical consultant") Toronto
+("Script Includes" OR GlideRecord OR "Flow Designer" OR IntegrationHub) ("remote Canada" OR "remote Ontario")
+("Salesforce" OR "Force.com") (Apex OR LWC OR SOQL OR "Data 360" OR "Data Cloud") Toronto
+("product developer" OR "platform engineer" OR "software engineer") (Salesforce OR "managed package") (Ontario OR "remote Canada")
+(site:jobs.lever.co OR site:job-boards.greenhouse.io OR site:jobs.ashbyhq.com) (ServiceNow OR Salesforce) (Toronto OR Ontario OR Canada)
+("développeur Salesforce" OR "développeur ServiceNow") (télétravail OR Canada OR Toronto)
+("integration developer" OR "MDM technical lead" OR "Power Platform developer" OR "BI engineer") (Toronto OR "remote Canada")
+```
+
+Other useful expansions: CSM/FSO, ITSM, SAM, CMDB/CSDM, Service Portal, UI Builder, MID Server; Salesforce Platform Developer, Lightning, Apex triggers, Data Cloud/360, CPQ/Revenue Cloud, Agentforce, Financial Services Cloud, MuleSoft **with** a Salesforce integration duty. Bare `SNOW`, `CAD`, `Flow`, `Apex` or `CRM` alone are not proof. Search results and AI suggestions are vocabulary and leads, not facts.
+
+## 3. Verify each exact vacancy and assign it to one track
+
+1. **Resolve the issuer:** employer careers → branded ATS detail and ID; for staffing, the recruiter's own job page or named-client contractor portal is acceptable, clearly labelled. Save discovery URL, canonical detail, application route and issuer separately. Prefer current employer/ATS evidence over a mirror. Do not publish a careers homepage as a vacancy.
+2. **Verify it exists now:** look for the same ID on the current public list, an actual description and a matching Apply target. A visited matching form is stronger than a button. A login/consent step is not a form check. A future deadline helps but is not sufficient alone. Use `form_reached`, `apply_shown`, `gated_route`, `listed`, `needs_review`, `closed` separately. Do not submit data or applications. Never claim the employer has confirmed an interview or that the req will stay open.
+3. **Read the duties:** require a platform **and a build action** in context. *Build CMDB integrations with Script Includes* ⇒ ServiceNow. *Write Apex/Lightning components* or *develop products on the Salesforce platform* ⇒ Salesforce. *Use Salesforce to manage your pipeline* ⇒ reject. *Design Informatica integrations to CRM and ERP* ⇒ Other. For two platforms, choose the main deliverable, cross-tag the second and count the req once. Do not rename a generic title to get the importer to accept a family.
+4. **Read the work arrangement:** save the country/province/city and a short evidence snippet or paraphrase. Compare role-specific body to ATS flags; “remote US,” Quebec-only, overseas delivery teams, client-site days, relocation and timezone-only eligibility are different outcomes. A firm with a Toronto office need not offer this role there. If detail explicitly and repeatedly confirms Canada-remote but a map flag disagrees, disclose and recommend written confirmation (Ensiti). If purported remote is contradicted by an actual office policy (BDO/Cognizant), keep the Toronto row but do not count it as strict remote. For global remote, ask about Ontario employment/contracting and travel.
+5. **Verify dates/pay:** retain the literal source clock, timezone and which field supplied it. `posted_on`, `last_published`, `updated_at`, `first_seen`, `last_seen`, `last_checked`, `closes_on` and structured `validThrough` are different fields. Never back-calculate a date from “3 days ago,” fill it with the scan clock, or use a mirror date as employer date. Preserve conflicting dates with **no chosen date**. Don't convert base to total comp or a US twin's USD band to Canadian pay. Leave missing details null.
+6. **Check reuse + evidence:** today's digest needs a direct link, issuer, duties and eligibility evidence, actual liveness level, time of check and known restrictions. An absolute publication date is additionally required for the **fresh** feed. An undated but role-specific employer listing can go on the personal board with its evidence. Unknown eligibility/rights, broken flows or ambiguous classifications belong in review, not in a verified/new total.
+
+**Closure decisions:** explicit closed/filled/410 or elapsed real deadline ⇒ hide/archive that req; preserve employer. 404 + missing from current official list ⇒ mark removed after checking alternate official URLs. A “200” that says *no longer open*, only shows related jobs or redirects to the careers home is not proof of a vacancy. For a vanished form with a still-live detail, downgrade to manual review. 401/403/429, timeouts, 5xx and JS shells ⇒ `blocked/unknown`; never mark every posting closed on a failed list. Recheck later, hide from the fresh verified lane when evidence is stale. On complete unexplained list disappearance, confirm with a second successful list/detail check before bulk archiving.
+
+## 4. Dedupe and publish without damaging the existing board
+
+**Identity order:** `(ATS, tenant, posting_id)` → verified employer requisition and country → normalized canonical URL → *review* similar normalized employer + exact title + eligible area + terms. Strip known tracking parameters/fragments, not identity parameters (`jobId`, `job`, etc.) or tenant. Preserve locale alternates as aliases after proving identity. Keep post IDs and internal req IDs separately. Same title + city is **not** sufficient to merge two reqs; keep seniority, duration, distinct country postings and client. Multiple agencies with indistinguishable redacted clients are *possible* duplicates, not proven ones. Keep every attribution/provenance edge even when showing just one row.
+
+**Real test cases:**
+
+- Versapay's Canadian and US Salesforce Developer postings have distinct IDs and currencies. Keep the Canadian row; do not dedupe the two into a US pay range. EQ Bank's current Lever canonical is better than its three title-equivalent mirrors; this is a **link upgrade**, not three newly discovered vacancies.
+- [Levio's former role](https://job-boards.greenhouse.io/levio/jobs/8684331002) now says it is no longer open; the current employer board is still useful. [Solink's indexed Salesforce link](https://jobs.ashbyhq.com/solink/30548ee4-a1c2-4c72-9807-ce0985383cd6) returned “Job not found.” Do not count these just because a search engine did.
+- Traction Rec #148 is Salesforce despite the title **Product Developer**, and is Ontario-specific. Manitoba #162 is not a second Ontario opportunity. Procom's BMO ad gives two November dates; keep them in evidence, not in a fabricated fresh row.
+
+**Storage:** one `employers/sources` table, one `jobs` table, one append-only `observations` table and one `review/rejects` table are enough. Use SQLite, JSONL or CSV. Each job needs the fields in `job-snapshot.csv`; add `stable_key`, `source_edges[]`, `rights`, `first_seen`, `last_seen`, `disposition`, and a content fingerprint for live operation. Do not store personal contact information. Report `new_unique`, `existing_rechecked`, `canonical_upgrades`, `changed`, `closed`, `review` and `source_failed` separately. Never overwrite known values with null on a failed fetch.
+
+**For a standalone board:** stage → review → render an atomic replacement of the public subset. Keep global-confirm and older/undated rows visually distinct. Recheck within 24–48 hours for active shortlisted ads and again before an application. Avoid serving stale confirmed-open badges indefinitely. To rebuild this snapshot locally: `python3 render_board.py`. It is intentionally offline.
+
+**For BestieJob:** this review used [revision 7851e00](https://github.com/eltonaguiar/BESTIEJOB/tree/7851e0073844070b124d554e68374bd09519b884). Look at the current head before each run. Use the [submission rules](https://github.com/eltonaguiar/BESTIEJOB/blob/7851e0073844070b124d554e68374bd09519b884/docs/JOB_SUBMISSION_METHODOLOGY.md), [inbox validator](https://github.com/eltonaguiar/BESTIEJOB/blob/7851e0073844070b124d554e68374bd09519b884/scripts/check_inbox.py), [additive merger](https://github.com/eltonaguiar/BESTIEJOB/blob/7851e0073844070b124d554e68374bd09519b884/tools/jobs_merge_inbox.py), [hourly workflow](https://github.com/eltonaguiar/BESTIEJOB/blob/7851e0073844070b124d554e68374bd09519b884/.github/workflows/hourly-scan.yml) and [invariants](https://github.com/eltonaguiar/BESTIEJOB/blob/7851e0073844070b124d554e68374bd09519b884/.github/workflows/board-invariants.yml). Reuse the existing hourly single-writer path (`bestiejob-main-write`); don't start a competing publisher or enable every legacy adapter without reviewing access terms.
+
+- Dedupe against the latest README tables, all feed variants (including `jobs.json`, `public/jobs-data.json`), open inbox submissions and applied/archived records, using IDs, alternate links and employer/title. Stage one file per agent per day, `inbox/<agent>--YYYY-MM-DD--vN.md`; for updates version the same submission. Use `Posted | Role | Company | Location | URL | Note`. First five fields matter. Preserve detailed evidence in a private sidecar: the pinned merger's parser doesn't reliably carry a sixth-cell note into output.
+- The pinned additive path inserts dated rows in its 30-day window; `—` means undated and is intentionally skipped. Tag *listed but older* separately. The importer determines family from **title + URL**; until there is a reviewed evidence-based family override, hold generic titles for routing review. Don't alter the employer's title, URL or date to pass a validator.
+- Example inbox line (format only; **recheck and dedupe** before staging):
+
+```text
+| Posted | Role | Company | Location | URL | Note |
+|---|---|---|---|---|---|
+| 2026-11-16 | Informatica MDM Technical Lead | Cognizant | Toronto, ON (hybrid) | https://careers.cognizant.com/ca-en/jobs/00071003871/informatica-mdm-technical-lead/ | Other; employer req 00071003871; closes Nov 29 |
+```
+
+```sh
+# In a clean local clone/fork, after replacing NAME with the actual staged filename:
+python3 scripts/check_inbox.py --file "inbox/$NAME"
+python3 tools/jobs_merge_inbox.py --dry-run  # reads ALL pending inbox files; inspect the whole diff
+# Only on an authorized local working branch, after review:
+python3 tools/jobs_merge_inbox.py
+node scripts/sync_readme_to_jobs.mjs && python3 tools/build_site.py
+python3 scripts/board_invariants.py
+```
+
+Check parseable JSON, family counts, no unintended losses/duplicates, unchanged old rows, correct apply links, date/geo evidence and a mobile-readable render. The baseline invariant check prevents certain regressions; it does **not** certify that every old row is correct. Keep an audit record and seek review; no push/deploy without authorization. The [Nov 17 hourly log](https://github.com/eltonaguiar/BESTIEJOB/blob/7851e0073844070b124d554e68374bd09519b884/JOBLESSONS_2026-11-17T2100EST.MD) recorded zero fresh verified platform merges and source failures in that run—not zero jobs in Toronto.
+
+## 5. Measure the source mix before scaling
+
+Run a **seven-day pilot**. Freeze the initial board keys. Each day give comparable request/time budgets to (A) historical employers/direct ATS, (B) partner, ISV and sponsor-derived employers not in A, and (C) permitted aggregator/alerts. Use the same developer definition, location rules, date window and canonical verifier. Save all discovery channels for overlapping jobs and the first-seen time for each; report exclusive **and** shared finds so the first adapter in the pipeline doesn't get all the credit. Manually audit a random sample of accepts and rejects, including generic titles.
+
+| Measure | Definition and decision |
+|---|---|
+| Incremental useful yield | In-scope, currently issuer-listed **unique reqs not in the baseline**, per channel and per reviewer-hour. Separate known reqs with better links, older still-listed roles and undated rows. |
+| Verification quality | Verified relevant/live/eligible ÷ candidate links reviewed. Track false remote, dead detail/form, wrong track, duplicate and unknown/blocked as separate reasons. Report the denominator and failure coverage. |
+| Freshness and liveness | Median issuer post → first discovery for rows with real dates; recheck at +48h and day 7. Track closure-detection lag, same-ID updates and form-reached share. Exclude unknown dates from lag, not from the audit. |
+| Cost and breadth | Requests, paid credits, elapsed time, reviewer minutes and cost per incremental verified job; new hiring employers/tenants gained. Compare sample of omissions to the *verified union*, not a claim of market-wide recall. |
+
+After one week, increase cadence for channels adding verified unique roles or materially earlier alerts; use duplicate-heavy sources for occasional gap discovery. Retain a small exploration budget for local partners and product companies even when there is no vacancy on the first pass. **No provider-wide accuracy or recall ranking was measured in this one-time scan.**
+
+### Copy/paste instruction for the next agent
+
+> Run this playbook for the current date in America/Toronto. Start from the watchlist and previous board keys; check due employer/agency sources, then expand via recent Canadian partner or event records and permitted search/alerts. Verify the exact issuer, duties, work mode, eligibility, dates, pay and open status. Keep ServiceNow, Salesforce and substantive Other separate. Split Ontario-eligible fully remote, Toronto with its actual office requirements, and global/uncertain. Return a linked candidate digest, review/rejection reasons, and an incremental change report, with source failures and verification time. Never treat a mirror, relative date or sponsor as a vacancy. Stage only eligible, rights-cleared, deduped rows; dry-run the validator/merge. Do not apply, contact people, commit, deploy or push.

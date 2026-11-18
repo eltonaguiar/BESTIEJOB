@@ -80,13 +80,18 @@ jobs:
           fi
 
       - name: Drop rows that break the board's published rules
+        id: normalize
         # Self-healing, not a one-off purge: board-invariants ratchets the same
         # kinds, so a row that violates a published promise was failing the gate
         # until someone deleted it. This runs after the merge (new rows are in)
         # and before the site rebuild (page data comes from the pruned README).
         # scripts/normalize_board.py removes the row from README.md, jobs.json and
         # inbox/*.md — pruning only the README is undone by the next hourly merge.
-        run: python3 scripts/normalize_board.py --apply
+        run: |
+          OUT=$(python3 scripts/normalize_board.py --apply)
+          echo "$OUT"
+          REMOVED=$(printf '%s\n' "$OUT" | sed -n 's/^normalize: removed=\([0-9]*\) rows$/\1/p' | tail -1)
+          echo "removed=${REMOVED:-0}" >> "$GITHUB_OUTPUT"
 
       - name: Sync curated README rows into the feed
         run: node scripts/sync_readme_to_jobs.mjs
@@ -115,7 +120,16 @@ jobs:
           fi
 
           JOB_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('jobs.json','utf8')).jobs.length)")
-          git commit -m "chore(jobs): hourly scan refresh (${JOB_COUNT} listings, $(date -u +%Y-%m-%dT%H:%M:%SZ)) [skip ci]"
+          # readme-guard fails any push that loses README rows unless the message
+          # carries its documented override. The step above deletes rows by rule,
+          # so the marker is added ONLY when it actually deleted some: an
+          # accidental mass deletion elsewhere still trips the guard.
+          MARK=""
+          if [ "${{ steps.normalize.outputs.removed }}" -gt 0 ] 2>/dev/null; then
+            MARK=" [allow-readme-removals]"
+            echo "normalize removed ${{ steps.normalize.outputs.removed }} rows — carrying the guard override"
+          fi
+          git commit -m "chore(jobs): hourly scan refresh (${JOB_COUNT} listings, $(date -u +%Y-%m-%dT%H:%M:%SZ))${MARK} [skip ci]"
           # Peer agents push to main constantly, so a bare `git push` is rejected
           # with "fetch first" and the whole run fails with the work stranded
           # locally (run 41543335815, 2026-11-02). Rebase once and retry.
