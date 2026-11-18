@@ -52,10 +52,23 @@ jobs:
       - name: Check for intentional-removal override
         id: override
         run: |
-          msg="$(git log -1 --pretty=%B)"
-          if printf '%s' "$msg" | grep -q '\[allow-readme-removals\]'; then
+          set -euo pipefail
+          # The documented override is "put [allow-readme-removals] in the commit
+          # message". On pull_request events actions/checkout leaves HEAD on
+          # GitHub's synthetic merge commit, so `git log -1` returns
+          # "Merge <sha> into <sha>" and a marker in a real commit was invisible —
+          # the override was unreachable on exactly the event it is needed for.
+          # Scan the commits this PR/push introduces instead. Without the marker
+          # anywhere in the range the guard still fails, so the protection is
+          # unchanged; only the lookup is fixed.
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            range="${{ github.event.pull_request.base.sha }}..HEAD"
+          else
+            range="$(git rev-parse HEAD~1)..HEAD"
+          fi
+          if git log --pretty=%B "$range" 2>/dev/null | grep -q '\[allow-readme-removals\]'; then
             echo "allow=--allow-removals" >> "$GITHUB_OUTPUT"
-            echo "Override found in commit message."
+            echo "Override found in commit message(s) ${range}."
           else
             echo "allow=" >> "$GITHUB_OUTPUT"
           fi
