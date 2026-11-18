@@ -112,3 +112,21 @@ Re-check Traction Rec Product Developer (Ontario) for a publishable date; re-sca
 - inbox/hermes-cron--2026-11-18--v5.md left as submitted untracked (upstream main already carries hermes-cron--2026-11-18--v4.md, their scan submission — not overwritten).
 - Blockers this cycle: jobs.ca / Indeed.ca Cloudflare 403 to direct fetch; LinkedIn guest detail pages need sign-in; Adzuna detail pages CloudFront 403; Jobs Bank / GC portals walled or noisy.
 
+### 12:00 EST run (this run)
+- Scan method: targeted web search for Toronto / Canada ServiceNow & Salesforce postings dated 2026-11-17 to 2026-11-18; dedupe against README.md + jobs.json by normalized URL + title|company fingerprint. Checked Indeed.ca, Workopolis, CareerBeacon, LinkedIn guest, Built In Toronto, whatjobs aggregator mirrors, plus Rogers, Bell, Canadian government (jobs.gc.ca / gojobs.gov.on.ca Radware-walled), ServiceNow & Salesforce careers Canada, and SN/SF partners (SS&C, NewRocket, Lane Four, Ateko/FX Innovation, Pentio, Fujitsu).
+- Result: **0 new verified jobs** — every surfaced Canada SN/SF row was already on the board or not fresh/platform-track:
+  - City of Toronto RQ00757 Specialized IT Consultant (ServiceNow SPM, CareerBeacon 4060430, posted 2026-11-13) — already on board via CareerBeacon 3954299 / Job Bank 50492172 (posted 2026-11-03); company+title dedupe collapsed the re-surface.
+  - SS&C Salesforce Implementation Consultant & Platform Administrator (LinkedIn 4487007282) — already on board ×5 rows (Nov 3–11).
+  - whatjobs "posted today" mirrors (Insight Global Health Cloud, Maarut FSC, CYNET Scarborough, CorGTA, Virtusa Backend/API) — resolve to already-boarded companies/roles or non-platform tracks; CorGTA already on board (2026-11-03); Maarut roles Montreal.
+- ServiceNow: no newly-dated Toronto platform/dev/admin posting verified after 2026-11-10 this cycle beyond boarded rows.
+- Salesforce: no fresh unboarded Toronto Platform Admin / Developer I posting this hour.
+- Partner / employer look (Rogers, Bell, Government of Canada, Elite SN/SF partners):
+  - Rogers: jobs.rogers.com Phenom board unreachable (HTTP 404 / 9-byte body); search hits sales/pre-sales only. Re-check weekly.
+  - Bell: jobs.bell.ca zero reqs for servicenow/salesforce. Re-check weekly.
+  - Canadian government: jobs.gc.ca / gojobs.gov.on.ca Radware-walled (captcha) — not retried; Job Bank used as proxy, full-text "servicenow" search is title-noise. City of Toronto RQ00757 already boarded.
+  - SS&C / NewRocket / Lane Four / Ateko (FX Innovation): sampled roles already on board (posted Nov 3–16). No new unboarded partner requisition.
+  - Salesforce-the-company / ServiceNow-the-company Toronto careers: nothing fresh platform-track.
+- Net board change this run: 0 new verified jobs. Counts unchanged: ServiceNow 1112, Salesforce 1071, Other 4061, total 6244 live postings; window 2026-10-19 → 2026-11-18.
+- No README merge, no inbox file staged, no jobs.json/public change required; GitHub Pages already current from the 11:00 EST push (4fd1f9e).
+- Blockers this cycle: jobs.ca / Indeed.ca Cloudflare 403 to direct fetch; LinkedIn guest detail pages need sign-in; Adzuna detail pages CloudFront 403; Jobs Bank / GC portals walled or noisy; whatjobs/careerbeacon detail dates are aggregator mirrors, resolved to boarded primary URLs.
+
