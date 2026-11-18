@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T07:15:25+00:00",
+ "generatedAt": "2026-11-18T08:16:58+00:00",
  "timezone": "America/Toronto",
  "count": 5015,
  "appliedHidden": 35,
@@ -724,54 +724,6 @@
   },
   {
    "posted": "2026-11-17",
-   "title": "Senior Solution Architect (ServiceNow)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "BuiltIn",
-     "url": "https://builtintoronto.com/job/senior-solution-architect-servicenow/12280234",
-     "label": "BuiltIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
    "title": "ServiceNow Developer cum Architect",
    "company": "W3Global",
    "location": "Mississauga, Ontario, Canada",
@@ -1170,47 +1122,6 @@
   },
   {
    "posted": "2026-11-17",
-   "title": "Associate Software Engineer (nCino/Salesforce)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "associate software engineer (ncino/salesforce) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
    "title": "Salesforce Alliance - Operations & PMO Manager 24 Month Fixed Term Contract",
    "company": "Deloitte",
    "location": "Toronto, Ontario",
@@ -1294,6 +1205,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Sr.%20Salesforce%20Software%20Engineer%20-%201%20yr.%20Fixed%20Term%20myview&loc=Brampton"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Associate Software Engineer (nCino/Salesforce)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "associate software engineer (ncino/salesforce) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&loc=Toronto"
     }
    ],
    "toronto": true
@@ -4534,6 +4486,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20CSM/HRSD%20NLB%20Services&loc=Mississauga"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "Senior Solution Architect (ServiceNow)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "BuiltIn",
+     "url": "https://builtintoronto.com/job/senior-solution-architect-servicenow/12280234",
+     "label": "BuiltIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
     }
    ],
    "toronto": true
@@ -19715,47 +19715,6 @@
   },
   {
    "posted": "2026-11-14",
-   "title": "ServiceNow System Administrator",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20GDIT+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20GDIT&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20GDIT&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20GDIT&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-14",
    "title": "Solution Architect ServiceNow Service Portal, Moveworks",
    "company": "NewRocket",
    "location": "US or Canada - Remote",
@@ -28886,60 +28845,6 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "ServiceNow Technology Lifecycle Analyst",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow technology lifecycle analyst bmo toronto, on, can workday ats servicenow workday servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "jobs.bmo.com",
-     "url": "https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260030995EXTERNALENCA/ServiceNow-Technology-Lifecycle-Analyst",
-     "label": "jobs.bmo.com · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-13",
    "title": "Product Manager, ServiceNow",
    "company": "Loblaw Companies",
    "location": "Brampton, Peel region",
@@ -29238,6 +29143,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Solution%20Architect%20-%20Remote%20/%20Telecommute%20CYNET%20SYSTEMS&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "ServiceNow System Administrator",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20GDIT+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20GDIT&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20GDIT&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20GDIT&loc=Canada"
     }
    ],
    "toronto": false
@@ -33880,6 +33826,60 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "ServiceNow Technology Lifecycle Analyst",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow technology lifecycle analyst bmo toronto, on, can workday ats servicenow workday servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "jobs.bmo.com",
+     "url": "https://jobs.bmo.com/ca/en/job/BOMOGLOBALR260030995EXTERNALENCA/ServiceNow-Technology-Lifecycle-Analyst",
+     "label": "jobs.bmo.com · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-12",
@@ -44052,54 +44052,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Lead Salesforce Solution Architect",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
-     "label": "LinkedIn · Mississauga",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Salesforce%20Solution%20Architect%20McKesson&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Salesforce Administrator / Application Support Specialist (Intermediate)-5816",
    "company": "Amyantek",
    "location": "Toronto, Ontario, Canada",
@@ -52917,6 +52869,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Robert%20Half&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Lead Salesforce Solution Architect",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+     "label": "LinkedIn · Mississauga",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Salesforce%20Solution%20Architect%20McKesson&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&loc=Mississauga"
     }
    ],
    "toronto": true
@@ -61871,47 +61871,6 @@
   },
   {
    "posted": "2026-11-08",
-   "title": "ServiceNow Developer Senior – Electronic Health Records – Remote!",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer senior – electronic health records – remote! gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20Senior%20%E2%80%93%20Electronic%20Health%20Records%20%E2%80%93%20Remote%21%20GDIT+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20Senior%20%E2%80%93%20Electronic%20Health%20Records%20%E2%80%93%20Remote%21%20GDIT&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20Senior%20%E2%80%93%20Electronic%20Health%20Records%20%E2%80%93%20Remote%21%20GDIT&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Senior%20%E2%80%93%20Electronic%20Health%20Records%20%E2%80%93%20Remote%21%20GDIT&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-08",
    "title": "ServiceNow System Developer (Contract)",
    "company": "407 ETR",
    "location": "Woodbridge, ON, Canada",
@@ -64465,6 +64424,47 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "ServiceNow Developer Senior – Electronic Health Records – Remote!",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer senior – electronic health records – remote! gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20Senior%20%E2%80%93%20Electronic%20Health%20Records%20%E2%80%93%20Remote%21%20GDIT+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20Senior%20%E2%80%93%20Electronic%20Health%20Records%20%E2%80%93%20Remote%21%20GDIT&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20Senior%20%E2%80%93%20Electronic%20Health%20Records%20%E2%80%93%20Remote%21%20GDIT&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Senior%20%E2%80%93%20Electronic%20Health%20Records%20%E2%80%93%20Remote%21%20GDIT&loc=Canada"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-07",
@@ -185894,47 +185894,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Senior ServiceNow Developer",
-   "company": "Resolve Tech Solutions",
-   "location": "US Remote - TX",
-   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-29",
    "title": "ServiceNow Senior Technical Advisor (432829)",
    "company": "Bell",
    "location": "Toronto / Montreal",
@@ -194006,6 +193965,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "Senior ServiceNow Developer",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - TX",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow developer resolve tech solutions us remote - tx workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&loc=Canada"
     }
    ],
    "toronto": false
