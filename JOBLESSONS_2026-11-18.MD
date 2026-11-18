@@ -44,3 +44,18 @@
 
 ## Next run (07:00 EST)
 Re-check Traction Rec Product Developer (Ontario) for a publishable date; re-scan Accenture for sister Salesforce AMS requisitions; re-poll Rogers/Bell/GC careers portals; confirm the 4 merged roles are still live before anyone applies.
+
+### 07:00 EST run (this run) — zero new verified jobs
+
+- Scan method: diffed the 11:24 UTC `FRESH_JOBS.md` feed (2638 postings across Adzuna, LinkedIn, Workday, Greenhouse, SmartRecruiters, Ashby, Lever, Jobicy, Remotive, RemoteOK) against `README.md` + `jobs.json` by normalized URL and `title|company|city` fingerprint. Fresh window: posted >= 2026-11-17, Canada, ServiceNow/Salesforce track.
+- Result: **0 new candidates** — every fresh Canada SN/SF row in the feed was already on the board; dedupe held. No inbox file staged, no README merge.
+- `scripts/fresh_ca_scan.py` (Adzuna / Job Bank / Eluta + optional LinkedIn guest) could not complete on this host: ran twice, both timed out, no output written. Known blockers (from prior runs): Adzuna 503s under rapid queries (needs >=3s spacing), LinkedIn guest 429s after ~4 fast queries.
+- Targeted web checks for today/yesterday Toronto SN/SF postings returned only aged roles (17d / 30d+ / 6 days ago); nothing fresh and unboarded.
+- Partner / employer look:
+  - Rogers: `jobs.rogers.com` Phenom board unreachable (HTTP 404 / 9-byte body); search hits were sales/pre-sales, not platform build. Re-check weekly, not hourly.
+  - Bell: `jobs.bell.ca` empty shell / (0) reqs for servicenow and salesforce; previously found ServiceNow SysAdmin / Senior Technical Advisor and Salesforce Developer reqs had expired deadlines (10/20–11/02/2026 and 05/20/2026). Re-check weekly.
+  - Canadian government: `jobs.gc.ca` / `gojobs.gov.on.ca` Radware-walled (captcha) — do not retry. Job Bank used as proxy; full-text "servicenow" search is noise. Trust only postings whose TITLE names the platform.
+  - Ateko (Bell-backed SN/SF partner): careers page routes SN to FX Innovation and SF to an ADP career centre; no fresh Toronto platform posting surfaced. NewRocket / Lane Four careers pages loaded but list no fresh requisition.
+  - Salesforce-the-company: no Platform Admin / Developer I in Toronto under 4 days old. ServiceNow-the-company: Toronto postings are sales/SRE/security only.
+- Net board change: 0. Counts unchanged (~6601 live; ServiceNow ~1155, Salesforce ~1478). `jobs.json`, README, and `public/` already current on `main`; GitHub Pages deploys from `main` automatically, so no redeploy needed.
+- Limitation: the feed covers up to ~11:24 UTC (06:24 EST); postings between then and this 07:00 run were not re-scanned because the aggregator scanner is unreliable on this host. Next run should retry `fresh_ca_scan.py` with the LinkedIn pass dropped and wider Adzuna spacing, or rely on the next scheduled daily scan.
