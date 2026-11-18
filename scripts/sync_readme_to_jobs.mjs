@@ -275,8 +275,8 @@ function parseReadme(text) {
     const heading = line.match(/^###\s+(.+?)\s*$/);
     if (heading) {
       // Section headings carry a live count, e.g. "### ServiceNow jobs (150)".
-      const name = heading[1].toLowerCase().replace(/\s*\(\d+[^)]*\)\s*$/, "").trim();
-      family = SECTIONS[name] || null;
+      const m = heading[1].toLowerCase().match(/^(servicenow jobs|salesforce jobs|other jobs)/);
+      family = m ? SECTIONS[m[1]] : null;
       continue;
     }
     if (/^##\s/.test(line)) {
