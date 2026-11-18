@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-18T11:40:29+00:00",
+ "generatedAt": "2026-11-18T12:19:15+00:00",
  "timezone": "America/Toronto",
- "count": 5022,
+ "count": 4996,
  "appliedHidden": 35,
  "sources": [
   "103.careerplug.com",
@@ -831,6 +831,49 @@
   },
   {
    "posted": "2026-11-17",
+   "title": "Business Analyst – ServiceNow Strategic Portfolio Management (SPM)",
+   "company": "Vivid Soft Global",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/business-analyst-%E2%80%93-servicenow-strategic-portfolio-management-spm-at-vivid-soft-global-4490469850",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "SPM/PPM",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "business analyst – servicenow strategic portfolio management (spm) vivid soft global canada linkedin servicenow readme servicenow spm/ppm consulting/ba role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20Vivid%20Soft%20Global+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20Vivid%20Soft%20Global&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20Vivid%20Soft%20Global&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20Vivid%20Soft%20Global&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
    "title": "ServiceNow CMDB Administrator",
    "company": "BMO",
    "location": "Toronto, ON, CAN",
@@ -931,49 +974,6 @@
     }
    ],
    "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
-   "title": "Business Analyst – ServiceNow Strategic Portfolio Management (SPM)",
-   "company": "Vivid Soft Global",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/business-analyst-%E2%80%93-servicenow-strategic-portfolio-management-spm-at-vivid-soft-global-4490469850",
-   "note": "via linkedin-guest--2026-11-18--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "SPM/PPM",
-    "Consulting/BA",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "business analyst – servicenow strategic portfolio management (spm) vivid soft global canada linkedin servicenow via linkedin-guest--2026-11-18--v1.md servicenow spm/ppm consulting/ba role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20Vivid%20Soft%20Global+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20Vivid%20Soft%20Global&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20Vivid%20Soft%20Global&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20Vivid%20Soft%20Global&loc=Canada"
-    }
-   ],
-   "toronto": false
   },
   {
    "posted": "2026-11-17",
@@ -1238,60 +1238,6 @@
     }
    ],
    "toronto": false
-  },
-  {
-   "posted": "2026-11-17",
-   "title": "Sr Solution Sales Executive CRM (CPQ)",
-   "company": "ServiceNow",
-   "location": "Toronto, ca",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
-   "note": "via ats--2026-11-17--v5.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 86,
-   "matchReasons": [
-    "ServiceNow",
-    "Salesforce",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow via ats--2026-11-17--v5.md servicenow salesforce toronto area",
-   "alternates": [
-    {
-     "source": "SmartRecruiters",
-     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162143024",
-     "label": "SmartRecruiters · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5969570818?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&loc=Toronto"
-    }
-   ],
-   "toronto": true
   },
   {
    "posted": "2026-11-17",
@@ -1880,166 +1826,6 @@
   },
   {
    "posted": "2026-11-17",
-   "title": "Manager, Systems Development - Agentic Salesforce Delivery",
-   "company": "Co-operators Assurance et services financiers",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483263677",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "manager, systems development - agentic salesforce delivery co-operators assurance et services financiers mississauga, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483268219",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483251912",
-     "label": "LinkedIn · Guelph",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483777144",
-     "label": "LinkedIn · Mississauga",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483760655",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483758677",
-     "label": "LinkedIn · Guelph",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5944360162?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Guelph",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Manager%2C%20Systems%20Development%20-%20Agentic%20Salesforce%20Delivery%20Co-operators%20Assurance%20et%20services%20financiers+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Systems%20Development%20-%20Agentic%20Salesforce%20Delivery%20Co-operators%20Assurance%20et%20services%20financiers&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20Systems%20Development%20-%20Agentic%20Salesforce%20Delivery%20Co-operators%20Assurance%20et%20services%20financiers&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Manager%2C%20Systems%20Development%20-%20Agentic%20Salesforce%20Delivery%20Co-operators%20Assurance%20et%20services%20financiers&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
-   "title": "Salesforce Marketing Cloud Consultant",
-   "company": "Munvo",
-   "location": "Greater Toronto Area, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-munvo-4491434167",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce marketing cloud consultant munvo greater toronto area, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-17",
-   "title": "Business Systems Analyst – Salesforce Revenue Cloud",
-   "company": "UST",
-   "location": "Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-salesforce-revenue-cloud-at-ust-4490471342",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "business systems analyst – salesforce revenue cloud ust ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-17",
    "title": "Senior Full Stack Developer - Salesforce (Contract)",
    "company": "Electric Mind",
    "location": "Downtown Toronto, ON, Canada",
@@ -2141,6 +1927,166 @@
   },
   {
    "posted": "2026-11-17",
+   "title": "Salesforce Marketing Cloud Consultant",
+   "company": "Munvo",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-munvo-4491434167",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud consultant munvo greater toronto area, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Consultant%20Munvo&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Business Systems Analyst – Salesforce Revenue Cloud",
+   "company": "UST",
+   "location": "Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-salesforce-revenue-cloud-at-ust-4490471342",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business systems analyst – salesforce revenue cloud ust ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Manager, Systems Development - Agentic Salesforce Delivery",
+   "company": "Co-operators Assurance et services financiers",
+   "location": "Mississauga, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483263677",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "manager, systems development - agentic salesforce delivery co-operators assurance et services financiers mississauga, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483268219",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-assurance-et-services-financiers-4483251912",
+     "label": "LinkedIn · Guelph",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483777144",
+     "label": "LinkedIn · Mississauga",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483760655",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483758677",
+     "label": "LinkedIn · Guelph",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5944360162?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Guelph",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Manager%2C%20Systems%20Development%20-%20Agentic%20Salesforce%20Delivery%20Co-operators%20Assurance%20et%20services%20financiers+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Systems%20Development%20-%20Agentic%20Salesforce%20Delivery%20Co-operators%20Assurance%20et%20services%20financiers&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20Systems%20Development%20-%20Agentic%20Salesforce%20Delivery%20Co-operators%20Assurance%20et%20services%20financiers&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Manager%2C%20Systems%20Development%20-%20Agentic%20Salesforce%20Delivery%20Co-operators%20Assurance%20et%20services%20financiers&loc=Mississauga"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
    "title": "Salesforce FSC Solution Architect",
    "company": "Maarut",
    "location": "Montréal, Québec, Canada",
@@ -2236,6 +2182,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur.se%20d%E2%80%99outils%20/%20Tools%20Developer%20%28Apex%20Legends%29%20Respawn%20Entertainment&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Senior Salesforce CLM Developer",
+   "company": "Gravity Infosolutions, Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-clm-developer-at-gravity-infosolutions-inc-4491424178",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce clm developer gravity infosolutions, inc. canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20CLM%20Developer%20Gravity%20Infosolutions%2C%20Inc.+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20CLM%20Developer%20Gravity%20Infosolutions%2C%20Inc.&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20CLM%20Developer%20Gravity%20Infosolutions%2C%20Inc.&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20CLM%20Developer%20Gravity%20Infosolutions%2C%20Inc.&loc=Canada"
     }
    ],
    "toronto": false
@@ -2368,7 +2355,7 @@
    "title": "Salesforce Delivery Manager / Financial Services",
    "company": "Plative",
    "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-clm-developer-at-gravity-infosolutions-inc-4491424178",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-delivery-manager-financial-services-at-plative-4491588074",
    "note": "linkedin",
    "family": "salesforce",
    "familyLabel": "Salesforce",
@@ -2382,14 +2369,7 @@
    ],
    "french": false,
    "search": "salesforce delivery manager / financial services plative canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-delivery-manager-financial-services-at-plative-4491588074",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -2574,6 +2554,46 @@
   },
   {
    "posted": "2026-11-17",
+   "title": "Développeur(euse) Oracle APEX, intermédiaire",
+   "company": "Talan",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-oracle-apex-interm%C3%A9diaire-at-talan-4491430129",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur(euse) oracle apex, intermediaire talan montreal, quebec, canada linkedin salesforce readme salesforce canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=D%C3%A9veloppeur%28euse%29%20Oracle%20APEX%2C%20interm%C3%A9diaire%20Talan+Montreal+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=D%C3%A9veloppeur%28euse%29%20Oracle%20APEX%2C%20interm%C3%A9diaire%20Talan&location=Montreal"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=D%C3%A9veloppeur%28euse%29%20Oracle%20APEX%2C%20interm%C3%A9diaire%20Talan&l=Montreal"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur%28euse%29%20Oracle%20APEX%2C%20interm%C3%A9diaire%20Talan&loc=Montreal"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
    "title": "Développeur en automatisation QA Salesforce",
    "company": "nesto group(e)",
    "location": "Canada",
@@ -2621,46 +2641,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur%20en%20automatisation%20QA%20Salesforce%20nesto%20group%28e%29&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-17",
-   "title": "Développeur(euse) Oracle APEX, intermédiaire",
-   "company": "Talan",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-oracle-apex-interm%C3%A9diaire-at-talan-4491430129",
-   "note": "via linkedin-guest--2026-11-18--v1.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "developpeur(euse) oracle apex, intermediaire talan montreal, quebec, canada linkedin salesforce via linkedin-guest--2026-11-18--v1.md salesforce canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=D%C3%A9veloppeur%28euse%29%20Oracle%20APEX%2C%20interm%C3%A9diaire%20Talan+Montreal+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=D%C3%A9veloppeur%28euse%29%20Oracle%20APEX%2C%20interm%C3%A9diaire%20Talan&location=Montreal"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=D%C3%A9veloppeur%28euse%29%20Oracle%20APEX%2C%20interm%C3%A9diaire%20Talan&l=Montreal"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur%28euse%29%20Oracle%20APEX%2C%20interm%C3%A9diaire%20Talan&loc=Montreal"
     }
    ],
    "toronto": false
@@ -2760,7 +2740,7 @@
    "company": "Insight Global",
    "location": "Toronto, Ontario, Canada",
    "url": "https://ca.linkedin.com/jobs/view/mulesoft-architect-at-insight-global-4491415925",
-   "note": "via linkedin-guest--2026-11-18--v1.md",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -2772,7 +2752,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "mulesoft architect insight global toronto, ontario, canada linkedin other via linkedin-guest--2026-11-18--v1.md integration role fit toronto area",
+   "search": "mulesoft architect insight global toronto, ontario, canada linkedin other readme integration role fit toronto area",
    "alternates": [],
    "gated": false,
    "xref": [
@@ -2936,7 +2916,7 @@
    "company": "Coveo",
    "location": "Montreal, Quebec, Canada",
    "url": "https://ca.linkedin.com/jobs/view/analyste-s%C3%A9nior-en-gouvernance-risques-conformit%C3%A9-grc-at-coveo-4491567365",
-   "note": "via linkedin-guest--2026-11-18--v1.md",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
    "source": "LinkedIn",
@@ -2948,7 +2928,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "analyste senior en gouvernance, risques &amp; conformite (grc) coveo montreal, quebec, canada linkedin other via linkedin-guest--2026-11-18--v1.md risk/grc role fit canada / remote",
+   "search": "analyste senior en gouvernance, risques &amp; conformite (grc) coveo montreal, quebec, canada linkedin other readme risk/grc role fit canada / remote",
    "alternates": [],
    "gated": false,
    "xref": [
@@ -9111,6 +9091,83 @@
   },
   {
    "posted": "2026-11-16",
+   "title": "Enablement Lead, Employee Relations, Compliance & Health and Safety Technology",
+   "company": "Manulife",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5968011151",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "enablement lead, employee relations, compliance & health and safety technology manulife toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5967041160",
+     "label": "Adzuna · Canada",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5966145375?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Waterloo region",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5964819020",
+     "label": "Adzuna · Canada",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5964818944?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5962861764?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Waterloo region",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5962861760?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Enablement%20Lead%2C%20Employee%20Relations%2C%20Compliance%20%26%20Health%20and%20Safety%20Technology%20Manulife+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Enablement%20Lead%2C%20Employee%20Relations%2C%20Compliance%20%26%20Health%20and%20Safety%20Technology%20Manulife&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Enablement%20Lead%2C%20Employee%20Relations%2C%20Compliance%20%26%20Health%20and%20Safety%20Technology%20Manulife&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Enablement%20Lead%2C%20Employee%20Relations%2C%20Compliance%20%26%20Health%20and%20Safety%20Technology%20Manulife&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
    "title": "Infrastructure Analyst",
    "company": "Westerkirk Capital",
    "location": "Mississauga, Peel region",
@@ -10392,83 +10449,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Data%20Analyst%20Movable%20Ink&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
-   "title": "Enablement Lead, Employee Relations, Compliance & Health and Safety Technology",
-   "company": "Manulife",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5968011151?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-17--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "enablement lead, employee relations, compliance & health and safety technology manulife toronto, ontario adzuna other via adzuna-autonomous--2026-11-17--v1.md role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5967041160",
-     "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5966145375",
-     "label": "Adzuna · Waterloo region",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5964819020",
-     "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5964818944?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5962861764?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Waterloo region",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5962861760?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Enablement%20Lead%2C%20Employee%20Relations%2C%20Compliance%20%26%20Health%20and%20Safety%20Technology%20Manulife+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Enablement%20Lead%2C%20Employee%20Relations%2C%20Compliance%20%26%20Health%20and%20Safety%20Technology%20Manulife&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Enablement%20Lead%2C%20Employee%20Relations%2C%20Compliance%20%26%20Health%20and%20Safety%20Technology%20Manulife&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Enablement%20Lead%2C%20Employee%20Relations%2C%20Compliance%20%26%20Health%20and%20Safety%20Technology%20Manulife&loc=Toronto"
     }
    ],
    "toronto": true
@@ -14038,47 +14018,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "C: Salesforce Engineer / Developer",
-   "company": "mlse",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5967040864",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "c: salesforce engineer / developer mlse toronto, ontario adzuna salesforce readme salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=C%3A%20Salesforce%20Engineer%20/%20Developer%20mlse+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=C%3A%20Salesforce%20Engineer%20/%20Developer%20mlse&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=C%3A%20Salesforce%20Engineer%20/%20Developer%20mlse&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=C%3A%20Salesforce%20Engineer%20/%20Developer%20mlse&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
    "title": "Senior Consultant, Product Delivery (Salesforce)",
    "company": "CIBC",
    "location": "Toronto, ON",
@@ -14270,6 +14209,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Sales%20Operations%20Coordinator%20/%20Junior%20Salesforce%20Admin%20Generis&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "C: Salesforce Engineer / Developer",
+   "company": "mlse",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5967040864",
+   "note": "via adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "c: salesforce engineer / developer mlse toronto, ontario adzuna salesforce via adzuna salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=C%3A%20Salesforce%20Engineer%20/%20Developer%20mlse+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=C%3A%20Salesforce%20Engineer%20/%20Developer%20mlse&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=C%3A%20Salesforce%20Engineer%20/%20Developer%20mlse&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=C%3A%20Salesforce%20Engineer%20/%20Developer%20mlse&loc=Toronto"
     }
    ],
    "toronto": true
@@ -15029,54 +15009,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Bilingual Senior Specialist, IT Operations Monitoring & Service Insights",
-   "company": "Canada Mortgage Housing Corporation",
-   "location": "Ottawa, Ottawa region",
-   "url": "https://www.adzuna.ca/details/5967041097?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 30,
-   "matchReasons": [
-    "AIOps",
-    "IT operations",
-    "Role fit"
-   ],
-   "french": true,
-   "search": "bilingual senior specialist, it operations monitoring & service insights canada mortgage housing corporation ottawa, ottawa region adzuna other adzuna aiops it operations role fit",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/bilingual-senior-specialist-it-operations-monitoring-service-insights-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4404316848",
-     "label": "LinkedIn · Ottawa",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Bilingual%20Senior%20Specialist%2C%20IT%20Operations%20Monitoring%20%26%20Service%20Insights%20Canada%20Mortgage%20Housing%20Corporation+Ottawa+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Bilingual%20Senior%20Specialist%2C%20IT%20Operations%20Monitoring%20%26%20Service%20Insights%20Canada%20Mortgage%20Housing%20Corporation&location=Ottawa"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Bilingual%20Senior%20Specialist%2C%20IT%20Operations%20Monitoring%20%26%20Service%20Insights%20Canada%20Mortgage%20Housing%20Corporation&l=Ottawa"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Bilingual%20Senior%20Specialist%2C%20IT%20Operations%20Monitoring%20%26%20Service%20Insights%20Canada%20Mortgage%20Housing%20Corporation&loc=Ottawa"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
    "title": "VP, Quantitative Research - TD Asset Management",
    "company": "TD",
    "location": "Montréal, Québec",
@@ -15307,403 +15239,6 @@
     }
    ],
    "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Director, Fraud Analytics & Risk Management",
-   "company": "Manulife",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5967041167?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 26,
-   "matchReasons": [
-    "Risk/GRC",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "director, fraud analytics & risk management manulife toronto, ontario adzuna other adzuna risk/grc toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Director%2C%20Fraud%20Analytics%20%26%20Risk%20Management%20Manulife+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Director%2C%20Fraud%20Analytics%20%26%20Risk%20Management%20Manulife&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Director%2C%20Fraud%20Analytics%20%26%20Risk%20Management%20Manulife&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Director%2C%20Fraud%20Analytics%20%26%20Risk%20Management%20Manulife&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Specialist, Data Developer (Microsoft)",
-   "company": "Vale Base Metals",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5967041349?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "specialist, data developer (microsoft) vale base metals toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Specialist%2C%20Data%20Developer%20%28Microsoft%29%20Vale%20Base%20Metals+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Data%20Developer%20%28Microsoft%29%20Vale%20Base%20Metals&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Specialist%2C%20Data%20Developer%20%28Microsoft%29%20Vale%20Base%20Metals&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Specialist%2C%20Data%20Developer%20%28Microsoft%29%20Vale%20Base%20Metals&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Senior Manager, Pensions",
-   "company": "myview",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5967041289?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior manager, pensions myview toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Manager%2C%20Pensions%20myview+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Pensions%20myview&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Manager%2C%20Pensions%20myview&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Manager%2C%20Pensions%20myview&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Specialist II TIS Application Observability",
-   "company": "Enbridge",
-   "location": "Fort Saskatchewan, Edmonton region",
-   "url": "https://www.adzuna.ca/details/5967041092?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "AIOps",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "specialist ii tis application observability enbridge fort saskatchewan, edmonton region adzuna other adzuna aiops role fit",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5954560922",
-     "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5951980126?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Calgary",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950813998?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Fort Saskatchewan",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950814193",
-     "label": "Adzuna · Calgary",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5950814440?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948973306?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Specialist%20II%20TIS%20Application%20Observability%20Enbridge+Edmonton+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Specialist%20II%20TIS%20Application%20Observability%20Enbridge&location=Edmonton"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Specialist%20II%20TIS%20Application%20Observability%20Enbridge&l=Edmonton"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Specialist%20II%20TIS%20Application%20Observability%20Enbridge&loc=Edmonton"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Applications Architect",
-   "company": "Adido",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5967040976?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "applications architect adido toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Applications%20Architect%20Adido+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Applications%20Architect%20Adido&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Applications%20Architect%20Adido&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Applications%20Architect%20Adido&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Senior Manager, Financial Planning and Analysis",
-   "company": "Investment Management Corporation of Ontario",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5967041046?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior manager, financial planning and analysis investment management corporation of ontario toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Manager%2C%20Financial%20Planning%20and%20Analysis%20Investment%20Management%20Corporation%20of%20Ontario+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Financial%20Planning%20and%20Analysis%20Investment%20Management%20Corporation%20of%20Ontario&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Manager%2C%20Financial%20Planning%20and%20Analysis%20Investment%20Management%20Corporation%20of%20Ontario&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Manager%2C%20Financial%20Planning%20and%20Analysis%20Investment%20Management%20Corporation%20of%20Ontario&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Senior Data Engineer, Risk Technology",
-   "company": "Investment Management Corporation of Ontario",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5967041047?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior data engineer, risk technology investment management corporation of ontario toronto, ontario adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Data%20Engineer%2C%20Risk%20Technology%20Investment%20Management%20Corporation%20of%20Ontario+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Data%20Engineer%2C%20Risk%20Technology%20Investment%20Management%20Corporation%20of%20Ontario&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Data%20Engineer%2C%20Risk%20Technology%20Investment%20Management%20Corporation%20of%20Ontario&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Data%20Engineer%2C%20Risk%20Technology%20Investment%20Management%20Corporation%20of%20Ontario&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Accounting Manager",
-   "company": "Cooper Equipment Rentals Limited",
-   "location": "Mississauga, Peel region",
-   "url": "https://www.adzuna.ca/details/5967041059?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "accounting manager cooper equipment rentals limited mississauga, peel region adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Accounting%20Manager%20Cooper%20Equipment%20Rentals%20Limited+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Accounting%20Manager%20Cooper%20Equipment%20Rentals%20Limited&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Accounting%20Manager%20Cooper%20Equipment%20Rentals%20Limited&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Accounting%20Manager%20Cooper%20Equipment%20Rentals%20Limited&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Senior Agentic Systems / AI Ops Admin",
-   "company": "McKesson Corporation",
-   "location": "Mississauga, Peel region",
-   "url": "https://www.adzuna.ca/details/5967040787?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior agentic systems / ai ops admin mckesson corporation mississauga, peel region adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Agentic%20Systems%20/%20AI%20Ops%20Admin%20McKesson%20Corporation+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Agentic%20Systems%20/%20AI%20Ops%20Admin%20McKesson%20Corporation&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Agentic%20Systems%20/%20AI%20Ops%20Admin%20McKesson%20Corporation&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Agentic%20Systems%20/%20AI%20Ops%20Admin%20McKesson%20Corporation&loc=Mississauga"
-    }
-   ],
-   "toronto": true
   },
   {
    "posted": "2026-11-15",
@@ -15967,6 +15502,53 @@
   },
   {
    "posted": "2026-11-15",
+   "title": "Senior Lead, Mass Fundraising",
+   "company": "IJM Canada",
+   "location": "Mississauga, Peel region",
+   "url": "https://www.adzuna.ca/details/5966734367",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior lead, mass fundraising ijm canada mississauga, peel region adzuna other readme role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5965971751?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Mississauga",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Lead%2C%20Mass%20Fundraising%20IJM%20Canada+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Lead%2C%20Mass%20Fundraising%20IJM%20Canada&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Lead%2C%20Mass%20Fundraising%20IJM%20Canada&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Lead%2C%20Mass%20Fundraising%20IJM%20Canada&loc=Mississauga"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-15",
    "title": "Change, Learning & Communications Analyst",
    "company": "IKO North America",
    "location": "Mississauga, Peel region",
@@ -16146,6 +15728,46 @@
   },
   {
    "posted": "2026-11-15",
+   "title": "Specialist, Data Developer (Microsoft)",
+   "company": "Vale Base Metals",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5967041349",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "specialist, data developer (microsoft) vale base metals toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Specialist%2C%20Data%20Developer%20%28Microsoft%29%20Vale%20Base%20Metals+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Data%20Developer%20%28Microsoft%29%20Vale%20Base%20Metals&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Specialist%2C%20Data%20Developer%20%28Microsoft%29%20Vale%20Base%20Metals&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Specialist%2C%20Data%20Developer%20%28Microsoft%29%20Vale%20Base%20Metals&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-15",
    "title": "ETL Lead",
    "company": "BrainRidge Consulting",
    "location": "Toronto, Ontario",
@@ -16180,6 +15802,46 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ETL%20Lead%20BrainRidge%20Consulting&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "Senior Data Engineer, Risk Technology",
+   "company": "Investment Management Corporation of Ontario",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5967041047",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior data engineer, risk technology investment management corporation of ontario toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Data%20Engineer%2C%20Risk%20Technology%20Investment%20Management%20Corporation%20of%20Ontario+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Data%20Engineer%2C%20Risk%20Technology%20Investment%20Management%20Corporation%20of%20Ontario&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Data%20Engineer%2C%20Risk%20Technology%20Investment%20Management%20Corporation%20of%20Ontario&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Data%20Engineer%2C%20Risk%20Technology%20Investment%20Management%20Corporation%20of%20Ontario&loc=Toronto"
     }
    ],
    "toronto": true
@@ -16479,53 +16141,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Senior Lead, Mass Fundraising",
-   "company": "IJM Canada",
-   "location": "Mississauga, Peel region",
-   "url": "https://www.adzuna.ca/details/5966734367?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-17--v1.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior lead, mass fundraising ijm canada mississauga, peel region adzuna other via adzuna-autonomous--2026-11-17--v1.md role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5965971751",
-     "label": "Adzuna · Mississauga",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Lead%2C%20Mass%20Fundraising%20IJM%20Canada+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Lead%2C%20Mass%20Fundraising%20IJM%20Canada&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Lead%2C%20Mass%20Fundraising%20IJM%20Canada&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Lead%2C%20Mass%20Fundraising%20IJM%20Canada&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
    "title": "Senior Data Analyst",
    "company": "IA Financial Services",
    "location": "Québec, Canada",
@@ -16567,253 +16182,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Data%20Analyst%20IA%20Financial%20Services&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Tax, Retirement and Estate Planning Services Consultant",
-   "company": "Manulife John Hancock",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967041340?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "tax, retirement and estate planning services consultant manulife john hancock canada adzuna other adzuna role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Tax%2C%20Retirement%20and%20Estate%20Planning%20Services%20Consultant%20Manulife%20John%20Hancock+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Tax%2C%20Retirement%20and%20Estate%20Planning%20Services%20Consultant%20Manulife%20John%20Hancock&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Tax%2C%20Retirement%20and%20Estate%20Planning%20Services%20Consultant%20Manulife%20John%20Hancock&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Tax%2C%20Retirement%20and%20Estate%20Planning%20Services%20Consultant%20Manulife%20John%20Hancock&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Architect, Software Engineering",
-   "company": "Credera India",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967041318?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "architect, software engineering credera india canada adzuna other adzuna role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Architect%2C%20Software%20Engineering%20Credera%20India+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Architect%2C%20Software%20Engineering%20Credera%20India&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Architect%2C%20Software%20Engineering%20Credera%20India&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Architect%2C%20Software%20Engineering%20Credera%20India&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "BRM Software Developer",
-   "company": "AceStack",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967041030?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "brm software developer acestack canada adzuna other adzuna role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5966185967?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=BRM%20Software%20Developer%20AceStack+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=BRM%20Software%20Developer%20AceStack&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=BRM%20Software%20Developer%20AceStack&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=BRM%20Software%20Developer%20AceStack&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Architecte Microsoft 365 et Collaboration Cloud",
-   "company": "Sword Technologies SA",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967041021?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "architecte microsoft 365 et collaboration cloud sword technologies sa canada adzuna other adzuna role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Architecte%20Microsoft%20365%20et%20Collaboration%20Cloud%20Sword%20Technologies%20SA+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Architecte%20Microsoft%20365%20et%20Collaboration%20Cloud%20Sword%20Technologies%20SA&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Architecte%20Microsoft%20365%20et%20Collaboration%20Cloud%20Sword%20Technologies%20SA&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Architecte%20Microsoft%20365%20et%20Collaboration%20Cloud%20Sword%20Technologies%20SA&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Senior Security Operations Engineer",
-   "company": "Devconnectplatform",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967041082?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior security operations engineer devconnectplatform canada adzuna other adzuna role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Security%20Operations%20Engineer%20Devconnectplatform+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Security%20Operations%20Engineer%20Devconnectplatform&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Security%20Operations%20Engineer%20Devconnectplatform&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Security%20Operations%20Engineer%20Devconnectplatform&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "ERP System Administrator (Acumatica)",
-   "company": "Coinscapture",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967040983?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "erp system administrator (acumatica) coinscapture canada adzuna other adzuna role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ERP%20System%20Administrator%20%28Acumatica%29%20Coinscapture+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ERP%20System%20Administrator%20%28Acumatica%29%20Coinscapture&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ERP%20System%20Administrator%20%28Acumatica%29%20Coinscapture&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ERP%20System%20Administrator%20%28Acumatica%29%20Coinscapture&loc=Canada"
     }
    ],
    "toronto": false
@@ -17394,45 +16762,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Développeur d'applications senior",
-   "company": "nesto",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5967040840?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Toronto area"
-   ],
-   "french": true,
-   "search": "developpeur d'applications senior nesto toronto, ontario adzuna other adzuna toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=D%C3%A9veloppeur%20d%27applications%20senior%20nesto+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=D%C3%A9veloppeur%20d%27applications%20senior%20nesto&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=D%C3%A9veloppeur%20d%27applications%20senior%20nesto&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur%20d%27applications%20senior%20nesto&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
    "title": "DevOps Developer [5001]",
    "company": "Alteo",
    "location": "Montréal, Québec",
@@ -17666,279 +16995,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Sp%C3%A9cialiste%20DevOps%20/%20DevOps%20Specialist%20Highdive&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Auditeur (trice) interne – Fraude, protection des actifs et contrôles",
-   "company": "Techo-Bloc",
-   "location": "Longueuil, Champlain",
-   "url": "https://www.adzuna.ca/details/5967040903?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 10,
-   "matchReasons": [
-    "Controls/ACL"
-   ],
-   "french": false,
-   "search": "auditeur (trice) interne – fraude, protection des actifs et controles techo-bloc longueuil, champlain adzuna other adzuna controls/acl",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Auditeur%20%28trice%29%20interne%20%E2%80%93%20Fraude%2C%20protection%20des%20actifs%20et%20contr%C3%B4les%20Techo-Bloc+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Auditeur%20%28trice%29%20interne%20%E2%80%93%20Fraude%2C%20protection%20des%20actifs%20et%20contr%C3%B4les%20Techo-Bloc&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Auditeur%20%28trice%29%20interne%20%E2%80%93%20Fraude%2C%20protection%20des%20actifs%20et%20contr%C3%B4les%20Techo-Bloc&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Auditeur%20%28trice%29%20interne%20%E2%80%93%20Fraude%2C%20protection%20des%20actifs%20et%20contr%C3%B4les%20Techo-Bloc&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Solutions Architect",
-   "company": "Insight",
-   "location": "Fort Saskatchewan, Edmonton region",
-   "url": "https://www.adzuna.ca/details/5967041222?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "solutions architect insight fort saskatchewan, edmonton region adzuna other adzuna role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Solutions%20Architect%20Insight+Edmonton+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Solutions%20Architect%20Insight&location=Edmonton"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Solutions%20Architect%20Insight&l=Edmonton"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Solutions%20Architect%20Insight&loc=Edmonton"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Security Engineer - Identity Security (Saviynt, SailPoint & Agentic Identity)",
-   "company": "The Missing Link",
-   "location": "North Sydney, Cape Breton",
-   "url": "https://www.adzuna.ca/details/5967041038?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "security engineer - identity security (saviynt, sailpoint & agentic identity) the missing link north sydney, cape breton adzuna other adzuna role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Security%20Engineer%20-%20Identity%20Security%20%28Saviynt%2C%20SailPoint%20%26%20Agentic%20Identity%29%20The%20Missing%20Link+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Security%20Engineer%20-%20Identity%20Security%20%28Saviynt%2C%20SailPoint%20%26%20Agentic%20Identity%29%20The%20Missing%20Link&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Security%20Engineer%20-%20Identity%20Security%20%28Saviynt%2C%20SailPoint%20%26%20Agentic%20Identity%29%20The%20Missing%20Link&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Security%20Engineer%20-%20Identity%20Security%20%28Saviynt%2C%20SailPoint%20%26%20Agentic%20Identity%29%20The%20Missing%20Link&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Senior Manager, Business Applications and Partnering (Utility Operations Technology)",
-   "company": "Liberty Utilities",
-   "location": "Oakville, Halton",
-   "url": "https://www.adzuna.ca/details/5967040942?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior manager, business applications and partnering (utility operations technology) liberty utilities oakville, halton adzuna other adzuna role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Manager%2C%20Business%20Applications%20and%20Partnering%20%28Utility%20Operations%20Technology%29%20Liberty%20Utilities+Oakville+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Business%20Applications%20and%20Partnering%20%28Utility%20Operations%20Technology%29%20Liberty%20Utilities&location=Oakville"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Manager%2C%20Business%20Applications%20and%20Partnering%20%28Utility%20Operations%20Technology%29%20Liberty%20Utilities&l=Oakville"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Manager%2C%20Business%20Applications%20and%20Partnering%20%28Utility%20Operations%20Technology%29%20Liberty%20Utilities&loc=Oakville"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Creative Director - Video (L.A. or D.C.) - Full-time, Freelance, or Contractor",
-   "company": "Bryson Gillette, LLC",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967040961?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "creative director - video (l.a. or d.c.) - full-time, freelance, or contractor bryson gillette, llc canada adzuna other adzuna canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Creative%20Director%20-%20Video%20%28L.A.%20or%20D.C.%29%20-%20Full-time%2C%20Freelance%2C%20or%20Contractor%20Bryson%20Gillette%2C%20LLC+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Creative%20Director%20-%20Video%20%28L.A.%20or%20D.C.%29%20-%20Full-time%2C%20Freelance%2C%20or%20Contractor%20Bryson%20Gillette%2C%20LLC&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Creative%20Director%20-%20Video%20%28L.A.%20or%20D.C.%29%20-%20Full-time%2C%20Freelance%2C%20or%20Contractor%20Bryson%20Gillette%2C%20LLC&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Creative%20Director%20-%20Video%20%28L.A.%20or%20D.C.%29%20-%20Full-time%2C%20Freelance%2C%20or%20Contractor%20Bryson%20Gillette%2C%20LLC&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Manager, DevSecOps",
-   "company": "British Columbia Investment Management Corporation",
-   "location": "Greater Vancouver, British Columbia",
-   "url": "https://www.adzuna.ca/details/5967040885?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "manager, devsecops british columbia investment management corporation greater vancouver, british columbia adzuna other adzuna role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Manager%2C%20DevSecOps%20British%20Columbia%20Investment%20Management%20Corporation+Vancouver+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20DevSecOps%20British%20Columbia%20Investment%20Management%20Corporation&location=Vancouver"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20DevSecOps%20British%20Columbia%20Investment%20Management%20Corporation&l=Vancouver"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Manager%2C%20DevSecOps%20British%20Columbia%20Investment%20Management%20Corporation&loc=Vancouver"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Growth-Focused Financial Controller / Scale & Insights",
-   "company": "NXTRND",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5967040697?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "growth-focused financial controller / scale & insights nxtrnd canada adzuna other adzuna canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Growth-Focused%20Financial%20Controller%20/%20Scale%20%26%20Insights%20NXTRND+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Growth-Focused%20Financial%20Controller%20/%20Scale%20%26%20Insights%20NXTRND&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Growth-Focused%20Financial%20Controller%20/%20Scale%20%26%20Insights%20NXTRND&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Growth-Focused%20Financial%20Controller%20/%20Scale%20%26%20Insights%20NXTRND&loc=Canada"
     }
    ],
    "toronto": false
@@ -18719,123 +17775,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Contrôleur·euse financier·ère │ Financial Controller",
-   "company": "Evvo",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5967041057?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 4,
-   "matchReasons": [
-    "Quebec"
-   ],
-   "french": false,
-   "search": "controleur·euse financier·ere │ financial controller evvo montreal, quebec adzuna other adzuna quebec",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Contr%C3%B4leur%C2%B7euse%20financier%C2%B7%C3%A8re%20%E2%94%82%20Financial%20Controller%20Evvo+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Contr%C3%B4leur%C2%B7euse%20financier%C2%B7%C3%A8re%20%E2%94%82%20Financial%20Controller%20Evvo&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Contr%C3%B4leur%C2%B7euse%20financier%C2%B7%C3%A8re%20%E2%94%82%20Financial%20Controller%20Evvo&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Contr%C3%B4leur%C2%B7euse%20financier%C2%B7%C3%A8re%20%E2%94%82%20Financial%20Controller%20Evvo&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Contrôleur(e) de coûts senior",
-   "company": "WSP USA",
-   "location": "Laval, Laval region",
-   "url": "https://www.adzuna.ca/details/5967040998?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 4,
-   "matchReasons": [
-    "Quebec"
-   ],
-   "french": false,
-   "search": "controleur(e) de couts senior wsp usa laval, laval region adzuna other adzuna quebec",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Contr%C3%B4leur%28e%29%20de%20co%C3%BBts%20senior%20WSP%20USA+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Contr%C3%B4leur%28e%29%20de%20co%C3%BBts%20senior%20WSP%20USA&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Contr%C3%B4leur%28e%29%20de%20co%C3%BBts%20senior%20WSP%20USA&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Contr%C3%B4leur%28e%29%20de%20co%C3%BBts%20senior%20WSP%20USA&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Contrôleur financier",
-   "company": "TBC Constructions inc.",
-   "location": "Brossard, Champlain",
-   "url": "https://www.adzuna.ca/details/5967040984?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 4,
-   "matchReasons": [
-    "Quebec"
-   ],
-   "french": false,
-   "search": "controleur financier tbc constructions inc. brossard, champlain adzuna other adzuna quebec",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Contr%C3%B4leur%20financier%20TBC%20Constructions%20inc.+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Contr%C3%B4leur%20financier%20TBC%20Constructions%20inc.&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Contr%C3%B4leur%20financier%20TBC%20Constructions%20inc.&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Contr%C3%B4leur%20financier%20TBC%20Constructions%20inc.&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
    "title": "E-MAIL MARKETING INTERNSHIP",
    "company": "la Vie en Rose",
    "location": "Montréal, Québec",
@@ -18869,43 +17808,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=E-MAIL%20MARKETING%20INTERNSHIP%20la%20Vie%20en%20Rose&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "Cyber Threat Researcher",
-   "company": "Fortinet Inc.",
-   "location": "Burnaby, Greater Vancouver",
-   "url": "https://www.adzuna.ca/details/5967041230?utm_medium=api&utm_source=54ce986e",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 0,
-   "matchReasons": [],
-   "french": false,
-   "search": "cyber threat researcher fortinet inc. burnaby, greater vancouver adzuna other adzuna ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Cyber%20Threat%20Researcher%20Fortinet%20Inc.+Vancouver+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Cyber%20Threat%20Researcher%20Fortinet%20Inc.&location=Vancouver"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Cyber%20Threat%20Researcher%20Fortinet%20Inc.&l=Vancouver"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Cyber%20Threat%20Researcher%20Fortinet%20Inc.&loc=Vancouver"
     }
    ],
    "toronto": false
@@ -24811,6 +23713,46 @@
   },
   {
    "posted": "2026-11-14",
+   "title": "BRM Software Developer",
+   "company": "Acestack",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5966185967",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "brm software developer acestack canada adzuna other readme role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=BRM%20Software%20Developer%20Acestack+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=BRM%20Software%20Developer%20Acestack&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=BRM%20Software%20Developer%20Acestack&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=BRM%20Software%20Developer%20Acestack&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-14",
    "title": "Lead / Senior Business Systems Analyst (P&C Insurance / Reinsurance) - Canada (Remote)",
    "company": "Saransh Inc",
    "location": "Alberta, Canada",
@@ -26482,45 +25424,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=DevOps%20and%20Security%20Engineer%20Altis&loc=Ottawa"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-14",
-   "title": "Manager Marketing Ops: Jitterbit in Ottawa",
-   "company": "CanadaLync",
-   "location": "Ottawa, Ottawa region",
-   "url": "https://www.adzuna.ca/details/5966144175",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "manager marketing ops: jitterbit in ottawa canadalync ottawa, ottawa region adzuna other adzuna role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Manager%20Marketing%20Ops%3A%20Jitterbit%20in%20Ottawa%20CanadaLync+Ottawa+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%20Marketing%20Ops%3A%20Jitterbit%20in%20Ottawa%20CanadaLync&location=Ottawa"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Manager%20Marketing%20Ops%3A%20Jitterbit%20in%20Ottawa%20CanadaLync&l=Ottawa"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Manager%20Marketing%20Ops%3A%20Jitterbit%20in%20Ottawa%20CanadaLync&loc=Ottawa"
     }
    ],
    "toronto": false
@@ -29474,6 +28377,47 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "ServiceNow System Administrator",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20GDIT+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20GDIT&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20GDIT&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20GDIT&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-13",
    "title": "ServiceNow Platform Specialist",
    "company": "Alimentiv",
    "location": "Canada",
@@ -29546,47 +28490,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Platform%20Specialist%20Alimentiv&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-13",
-   "title": "ServiceNow System Administrator",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow system administrator gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20GDIT+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20GDIT&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20GDIT&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20GDIT&loc=Canada"
     }
    ],
    "toronto": false
@@ -32661,46 +31564,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Business%20Intelligence%20Specialist%20emergiTEL&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-13",
-   "title": "Service Asset & Configuration Management (SACM) Analyst",
-   "company": "Bevertec",
-   "location": "CN Tower, City of Toronto",
-   "url": "https://www.adzuna.ca/details/5964321675",
-   "note": "adzuna",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "service asset & configuration management (sacm) analyst bevertec cn tower, city of toronto adzuna other adzuna role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Service%20Asset%20%26%20Configuration%20Management%20%28SACM%29%20Analyst%20Bevertec+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Service%20Asset%20%26%20Configuration%20Management%20%28SACM%29%20Analyst%20Bevertec&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Service%20Asset%20%26%20Configuration%20Management%20%28SACM%29%20Analyst%20Bevertec&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Service%20Asset%20%26%20Configuration%20Management%20%28SACM%29%20Analyst%20Bevertec&loc=Toronto"
     }
    ],
    "toronto": true
@@ -44887,54 +43750,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Lead Salesforce Solution Architect",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
-   "note": "workday · salesforce",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday · salesforce salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
-     "label": "LinkedIn · Mississauga",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Salesforce%20Solution%20Architect%20McKesson&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Project Manager (Netsuite, Salesforce CPQ) - FTC until end of June 2027",
    "company": "Keyloop",
    "location": "Canada",
@@ -53222,6 +52037,54 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Lead Salesforce Solution Architect",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead salesforce solution architect mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/lead-salesforce-solution-architect-at-mckesson-4476771889",
+     "label": "LinkedIn · Mississauga",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Salesforce%20Solution%20Architect%20McKesson&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Lead%20Salesforce%20Solution%20Architect%20McKesson&loc=Mississauga"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-10",
@@ -80996,6 +79859,78 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-05",
+   "title": "Specialist II TIS Application Observability",
+   "company": "Enbridge",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5954560922",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 28,
+   "matchReasons": [
+    "AIOps",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialist ii tis application observability enbridge canada adzuna other readme aiops role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5951980126?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Calgary",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5950813998?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Fort Saskatchewan",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5950814193",
+     "label": "Adzuna · Calgary",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5950814440?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5948973306?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Specialist%20II%20TIS%20Application%20Observability%20Enbridge+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Specialist%20II%20TIS%20Application%20Observability%20Enbridge&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Specialist%20II%20TIS%20Application%20Observability%20Enbridge&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Specialist%20II%20TIS%20Application%20Observability%20Enbridge&loc=Canada"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-05",
@@ -194302,47 +193237,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Platform Architect (00071000111)",
-   "company": "Cognizant",
-   "location": "Canada",
-   "url": "https://careers.cognizant.com/ca-en/jobs/00071000111/servicenow-platform-architect/",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow platform architect (00071000111) cognizant canada careers.cognizant.com servicenow readme servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Senior ServiceNow Developer",
    "company": "Resolve Tech Solutions",
    "location": "US Remote - TX",
@@ -194378,6 +193272,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Platform Architect (00071000111)",
+   "company": "Cognizant",
+   "location": "Canada",
+   "url": "https://careers.cognizant.com/ca-en/jobs/00071000111/servicenow-platform-architect/",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow platform architect (00071000111) cognizant canada careers.cognizant.com servicenow readme servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&loc=Canada"
     }
    ],
    "toronto": false
@@ -202304,6 +201239,48 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Sp%C3%A9cialiste%20principal%20bilingue%2C%20Gestion%20des%20incidents%20et%20GSTI%20Canada%20Mortgage%20and%20Housing%20Corporation%20%28CMHC%29%20Soci%C3%A9t%C3%A9%20canadienne%20d%27hypoth%C3%A8ques%20et%20de%20logement%28SCHL%29&loc=Ottawa"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-24",
+   "title": "Bilingual Senior Specialist, IT Operations Monitoring & Service Insights",
+   "company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/bilingual-senior-specialist-it-operations-monitoring-service-insights-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4404316848",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 42,
+   "matchReasons": [
+    "AIOps",
+    "IT operations",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": true,
+   "search": "bilingual senior specialist, it operations monitoring & service insights canada mortgage and housing corporation (cmhc) societe canadienne d'hypotheques et de logement(schl) ottawa, ontario, canada linkedin other readme aiops it operations role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Bilingual%20Senior%20Specialist%2C%20IT%20Operations%20Monitoring%20%26%20Service%20Insights%20Canada%20Mortgage%20and%20Housing%20Corporation%20%28CMHC%29%20Soci%C3%A9t%C3%A9%20canadienne%20d%27hypoth%C3%A8ques%20et%20de%20logement%28SCHL%29+Ottawa+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Bilingual%20Senior%20Specialist%2C%20IT%20Operations%20Monitoring%20%26%20Service%20Insights%20Canada%20Mortgage%20and%20Housing%20Corporation%20%28CMHC%29%20Soci%C3%A9t%C3%A9%20canadienne%20d%27hypoth%C3%A8ques%20et%20de%20logement%28SCHL%29&location=Ottawa"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Bilingual%20Senior%20Specialist%2C%20IT%20Operations%20Monitoring%20%26%20Service%20Insights%20Canada%20Mortgage%20and%20Housing%20Corporation%20%28CMHC%29%20Soci%C3%A9t%C3%A9%20canadienne%20d%27hypoth%C3%A8ques%20et%20de%20logement%28SCHL%29&l=Ottawa"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Bilingual%20Senior%20Specialist%2C%20IT%20Operations%20Monitoring%20%26%20Service%20Insights%20Canada%20Mortgage%20and%20Housing%20Corporation%20%28CMHC%29%20Soci%C3%A9t%C3%A9%20canadienne%20d%27hypoth%C3%A8ques%20et%20de%20logement%28SCHL%29&loc=Ottawa"
     }
    ],
    "toronto": false
@@ -212796,47 +211773,6 @@
     }
    ],
    "toronto": true
-  },
-  {
-   "posted": "2026-10-04",
-   "title": "ServiceNow Discovery Developer (258467) - Scotiabank",
-   "company": "Canada: Toronto; office/remote pattern not disclosed",
-   "location": "Not disclosed",
-   "url": "https://jobs.scotiabank.com/job/Toronto-ServiceNow-Discovery-Developer-ON-M1L4S2/602442317/",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.scotiabank.com",
-   "verified": "Employer board",
-   "match": 98,
-   "matchReasons": [
-    "ServiceNow",
-    "ITOM",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow discovery developer (258467) - scotiabank canada: toronto; office/remote pattern not disclosed not disclosed jobs.scotiabank.com servicenow readme servicenow itom role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Discovery%20Developer%20%28258467%29%20-%20Scotiabank%20Canada%3A%20Toronto%3B%20office/remote%20pattern%20not%20disclosed+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Discovery%20Developer%20%28258467%29%20-%20Scotiabank%20Canada%3A%20Toronto%3B%20office/remote%20pattern%20not%20disclosed&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Discovery%20Developer%20%28258467%29%20-%20Scotiabank%20Canada%3A%20Toronto%3B%20office/remote%20pattern%20not%20disclosed&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Discovery%20Developer%20%28258467%29%20-%20Scotiabank%20Canada%3A%20Toronto%3B%20office/remote%20pattern%20not%20disclosed&loc=Canada"
-    }
-   ],
-   "toronto": false
   }
  ]
 }
