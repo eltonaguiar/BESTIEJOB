@@ -84,3 +84,16 @@ Re-check Traction Rec Product Developer (Ontario) for a publishable date; re-sca
 - Merge/rebase note: origin/main advanced 2 commits mid-run (08:13 hourly scan + 09:00 agency scan). Rebased onto origin/main; jobs.json/public/* resolved to upstream (--ours during rebase = upstream wins). Upstream's jobs.json independently already contains the TCS role (2 rows: id + url) — the CI scan ingested it independently, confirming it is a genuine fresh posting. Local feed differences absorbed; build_site.py re-run: 4997 jobs indexed (SN 810 · SF 941 · Other 3246), 865 mirrors collapsed, 35 applied hidden, newest 2026-11-18. README counts bumped: TOC/summary 1461→1462, heading 1492→1493.
 - Pushed 3c3aadf to origin/main; triggered pages.yml (run 44322454096); live https://eltonaguiar.github.io/BESTIEJOB/jobs-data.json verified carrying the TCS URL (verified: Aggregator, match 60, match reasons Salesforce / Role fit / Toronto area).
 - Limitation: Indeed.ca blocked (Cloudflare 403, browser and curl); LinkedIn detail pages need the guest-browser read (.jobs-description selector); Adzuna detail pages return CloudFront 403 to curl — corroborate via mirrors (talent.com, lmiafinder.ca, jobrapido, workopolis, anitab.org).
+
+
+### 10:00 EST run (this run) — 4 fresh verified jobs merged
+- Scan method: targeted web search for Toronto / Canada ServiceNow & Salesforce postings dated 2026-11-11 to 2026-11-18; dedupe against README.md + jobs.json by normalized URL + title\|company fingerprint. Checked Rogers, Bell, Canadian government (jobs.gc.ca / gojobs.gov.on.ca Radware-walled), ServiceNow & Salesforce careers Canada, and SN/SF partners (Ateko/NewRocket/Lane Four).
+- Result: 4 fresh verified Salesforce jobs merged to the Salesforce table (newest first):
+  - 2026-11-16 | Software Engineering MTS | Salesforce | Toronto, Canada | scoutify.com/companies/salesforce/jobs/3499409/ (Salesforce careers)
+  - 2026-11-13 | Salesforce Business Analyst, Senior Associate | PwC Canada | Toronto, Ontario, CA | LinkedIn 4490536839 (~CA$88K-138K)
+  - 2026-11-11 | Salesforce Developer | OSI Digital | Toronto, ON | jobs.ca/osi-digital/.../71730b7f3a5b3 (on-site, full-time)
+  - 2026-11-11 | Salesforce Developer | Procom | Toronto, ON, Canada | myprocom-portal .../salesforce-developer-toronto-73f5a6b2 (hybrid, contract 2 months, posted 11/11/2026)
+- ServiceNow: no newly-dated Toronto platform/dev/admin posting verified after 2026-11-10 this cycle.
+- Skipped (dup/stale): Lyft Salesforce Architect (10/20), Make-A-Wish Sr SA (11/6), Procom Sr SN Dev (11/4, different role), Bell ServiceNow SysAdmin (deadline passed 10/20), OPS Solution Manager ServiceNow (date unconfirmed).
+- Fix: synced stale README header counts after rebase onto active main to actual table rows — ServiceNow 1108, Salesforce 915 (incl. the 4 new), Other 4096; total 6119 live postings; window 2026-10-19 to 2026-11-18.
+- jobs.json + public/ regenerated (sync_readme_to_jobs.mjs + build_site.py); committed to main and pushed; GitHub Pages rebuilds from main automatically.
