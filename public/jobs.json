@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-18T12:17:00.208Z",
     "generatedAt": "2026-11-18T12:17:00.208Z",
-    "total": 5617,
+    "total": 5619,
     "newThisScan": 798,
     "retainedFromPrevious": 1839,
     "sources": {
@@ -35,7 +35,8 @@
     "primaryCounts": {
       "servicenow": 1154,
       "salesforce": 1318
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -1131,6 +1132,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:jobs.smartrecruiters.com/servicenow/744000162166739",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Sr Solution Sales Executive CRM (CPQ)",
+      "location": "Toronto, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T12:47:15.418Z",
+      "excerpt": "via ats--2026-11-17--v5.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -7370,6 +7388,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967040864",
+      "source": "readme",
+      "company": "mlse",
+      "title": "C: Salesforce Engineer / Developer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5967040864",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-18T12:47:15.418Z",
+      "excerpt": "via adzuna",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {

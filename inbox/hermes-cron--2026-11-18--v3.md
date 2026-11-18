@@ -1,3 +1,4 @@
+<!-- merged 2026-11-18T124714Z: +0 new, 40 duplicate, version 2 -->
 # Hermes cron scan — fresh Toronto/Canada ServiceNow & Salesforce jobs
 
 Scan run: 2026-11-18T05:02Z (EST morning of Nov 18). Sources: public ATS feeds (SmartRecruiters, Workday, Greenhouse, Lever, Ashby, LinkedIn, remote boards, Adzuna).
