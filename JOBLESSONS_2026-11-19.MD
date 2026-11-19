@@ -65,3 +65,28 @@ Source notes this cycle:
 
 README counts: ServiceNow 1130, Salesforce 1031, total 6190 live postings. Committed on branch hermes-cron-2026-11-19, merged with origin/main, pushed to main (no force-push); pages.yml redeploys eltonaguiar.github.io/BESTIEJOB on push to main.
 
+## Cycle 3 — Hermes hourly cron, 2026-11-19 03:00 EST (08:00Z)
+Base: eltonaguiar/bestiejob `main` at 63c0384 (README ServiceNow 1133 / Salesforce 1032 / 6206 live postings, window 2026-10-20 → 2026-11-19).
+
+**Merged zero jobs.** Every candidate was either already on the board (dedupe by normalized URL against README + jobs.json), outside Toronto (Montréal/Québec or US-remote), undated (Lever public lists carry no date; detail JSON-LD required), older than the 30-day window, or not a platform-build duty:
+
+- EQ Bank — Senior ServiceNow Engineer, Toronto, hybrid, datePosted 2026-09-22 (live, verified via jobs.lever.co/eqbank/1af36346… JSON-LD; predates window — not added).
+- EQ Bank — AI Solutions Engineer, Technology Workplace Services, Toronto, datePosted 2026-10-15 (live, verified; predates window — not added).
+- EQ Bank — Manager, Technology Workplace Services, Toronto (people-management duties, no ServiceNow build — not added).
+- Versapay — Salesforce Developer, Canada (Remote), live but undated — merger skips undated rows.
+- Alimentiv SN Platform Specialist Toronto — already on board (lever row, 2026-10-29).
+- Ensiti two Salesforce leads — released 2026-10-05 / 2026-09-21, Montréal/Ottawa, outside window.
+- Levio leads — all Montréal/Québec or undated/old.
+- ServiceNow SmartRecruiters company feed page 1 — 3 Toronto hits (full-stack Experience Team, sales CPQ, cloud security); none are ServiceNow platform build/admin.
+- Web-search leads (HCLTech Salesforce Administrator Nov 17; Pacer Group Salesforce FSC Developer Nov 11; Procom Salesforce Developer Nov 11; Nityo Infotech ServiceNow Architect) — all already boarded under other URLs.
+
+Sources scanned: Dice Toronto (servicenow + salesforce, server-rendered cards — the one Toronto card, Spectra Group, was already boarded 2026-11-12; rest US-remote), Job Bank Canada keyword search (noise: indeed/Talent.com/CareerBeacon mirrors, no genuine SN/SF Toronto roles), Bell careers jobs.bell.ca (embedded `eagerLoadRefineSearch.data.jobs` JSON — keyword filter does not apply server-side; no dedicated SN/SF openings), ATS public APIs (Alimentiv, EQ Bank, Versapay, Ensiti via SmartRecruiters, Levio via Greenhouse), ServiceNow SmartRecruiters feed page 1 of 835, web-search dedupe.
+
+Source notes this cycle:
+- Indeed.ca still returns HTTP 403 to direct fetch; rely on the daily scan's Indeed/Adzuna harvest.
+- Workday CXS returned HTTP 429 at :00Z during the concurrent CI hourly scan (bmo, td, salesforce tenants) — leave Workday to the CI pass or retry ≥8 s spacing off-peak.
+- Bell detail pages carry no server-rendered datePosted; freshness unverifiable.
+
+`tools/build_site.py` re-ran cleanly against the unchanged README (4971 jobs: SN 832, SF 895, Other 3244); `public/` content is unchanged, so nothing to commit for the site this cycle.
+
+
