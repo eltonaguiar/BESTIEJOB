@@ -763,6 +763,183 @@ async function scanAdzuna() {
 }
 
 // ---------------------------------------------------------------------------
+// Source: Dice.com (tech job board, server-rendered HTML)
+// ---------------------------------------------------------------------------
+
+function parseDiceRelativeDate(text) {
+  const t = (text || '').toLowerCase().trim();
+  if (!t) return null;
+  if (t === 'today') return NOW_ISO;
+  if (t === 'yesterday') return new Date(NOW.getTime() - 864e5).toISOString();
+  const m = t.match(/^(\d+)\s*d$/);
+  if (m) return new Date(NOW.getTime() - Number(m[1]) * 864e5).toISOString();
+  const m2 = t.match(/^(\d+)\s*w$/);
+  if (m2) return new Date(NOW.getTime() - Number(m2[1]) * 7 * 864e5).toISOString();
+  const m3 = t.match(/^(\d+)\s*mo$/);
+  if (m3) return new Date(NOW.getTime() - Number(m3[1]) * 30 * 864e5).toISOString();
+  return null;
+}
+
+async function scanDice() {
+  const jobs = [];
+  const queries = ['servicenow', 'salesforce'];
+  const locations = ['Toronto', 'Canada'];
+
+  for (const query of queries) {
+    for (const location of locations) {
+      for (let page = 1; page <= 3; page++) {
+        try {
+          const url =
+            'https://www.dice.com/jobs' +
+            `?q=${encodeURIComponent(query)}` +
+            `&location=${encodeURIComponent(location)}` +
+            '&radius=50' +
+            `&page=${page}`;
+          const html = await fetchText(url, { timeout: 25000 });
+          const $ = cheerio.load(html);
+          const cards = $('[data-testid="job-card"]').toArray();
+
+          if (cards.length === 0) break;
+
+          for (const el of cards) {
+            const card = $(el);
+            const titleEl = card.find('[data-testid="job-search-job-detail-link"]').first();
+            const title = titleEl.text().trim();
+            if (!title) continue;
+
+            const href = titleEl.attr('href') || '';
+            const url = href.startsWith('http') ? href : 'https://www.dice.com' + href;
+
+            const company = card.find('[data-testid="job-card-company-name"]').text().trim() || 'Unknown';
+
+            // Location + posted date are in one paragraph: "Remote • Today"
+            const infoEl = card.find('p.mb-0.text-sm.font-normal.text-foreground-light').first();
+            const infoText = infoEl.text().trim();
+            const infoParts = infoText.split('•').map(s => s.trim());
+            const locationStr = infoParts[0] || 'Not specified';
+            const postedDate = parseDiceRelativeDate(infoParts[1] || '');
+
+            // Full card text for salary and type extraction
+            const fullText = card.text().trim();
+            const salMatch = fullText.match(/\$[\d,]+\s*-\s*\$[\d,]+/);
+            let salary = null;
+            if (salMatch) {
+              const nums = salMatch[0].replace(/[^\d\s-]/g, '').split(/\s*-\s*/);
+              salary = { min: Number(nums[0]) || 0, max: Number(nums[1]) || 0, currency: 'CAD' };
+            }
+
+            const job = buildJob({
+              source: 'dice',
+              title,
+              company,
+              location: locationStr,
+              url,
+              postedDate,
+              excerpt: title + ' at ' + company,
+              salary,
+              requireGeo: true,
+            });
+            if (job) jobs.push(job);
+          }
+
+          console.log(`[dice:${query}/${location}] page ${page}: ${cards.length} cards`);
+          await new Promise((r) => setTimeout(r, 800));
+
+        } catch (err) {
+          console.warn(`[dice:${query}/${location}] page ${page} failed: ${err.message}`);
+          break;
+        }
+      }
+    }
+  }
+  console.log(`[dice] ${jobs.length} matching postings`);
+  return jobs;
+}
+
+// ---------------------------------------------------------------------------
+// Source: NoDesk.com (remote jobs board, server-rendered HTML)
+// ---------------------------------------------------------------------------
+
+async function scanNoDesk() {
+  const jobs = [];
+  const categories = ['', 'engineering', 'ai', 'product', 'sales', 'customer-support'];
+
+  for (const cat of categories) {
+    try {
+      const url = cat
+        ? `https://nodesk.co/remote-jobs/${cat}/`
+        : 'https://nodesk.co/remote-jobs/';
+      const html = await fetchText(url, { timeout: 25000 });
+      const $ = cheerio.load(html);
+
+      // Real job cards: li elements with both h2>a (title link) and h3>a (company link)
+      const cards = $('li').toArray().filter((el) => {
+        const $el = $(el);
+        return $el.find('h2 a[href*="/remote-jobs/"]').length > 0 &&
+               $el.find('h3 a[href*="/remote-companies/"]').length > 0;
+      });
+
+      if (cards.length === 0) break;
+
+      for (const el of cards) {
+        const card = $(el);
+        const titleEl = card.find('h2 a').first();
+        const companyEl = card.find('h3 a').first();
+
+        const title = titleEl.text().trim();
+        if (!title) continue;
+
+        const href = titleEl.attr('href') || '';
+        const url = href.startsWith('http') ? href : 'https://nodesk.co' + href;
+        const company = companyEl.text().trim() || 'Unknown';
+
+        // Full card text for location, date, type, salary extraction
+        const fullText = card.text().trim();
+
+        // Location: pattern like "Remote:Worldwide" or "Remote:US (select states)"
+        const remoteMatch = fullText.match(/Remote:[^\n•]*/);
+        let locationStr = 'Remote';
+        if (remoteMatch) locationStr = remoteMatch[0].replace('Remote:', '').trim();
+
+        // Date: not reliably visible on listing page; skip
+        const postedDate = null;
+
+        // Job type
+        const typeMatch = fullText.match(/\b(Full-Time|Part-Time|Contract|Freelance|Internship)\b/);
+
+        // Salary
+        const salMatch = fullText.match(/\$\d[\d,K\s\-–]+/);
+        let salary = null;
+        if (salMatch) {
+          salary = { min: 0, max: 0, currency: 'USD', note: salMatch[0] };
+        }
+
+        const job = buildJob({
+          source: 'nodesk',
+          title,
+          company,
+          location: locationStr,
+          url,
+          postedDate,
+          excerpt: title + ' at ' + company + (typeMatch ? ' · ' + typeMatch[0] : ''),
+          salary,
+          requireGeo: false, // NoDesk is remote-first, don't require Canada geo
+        });
+        if (job) jobs.push(job);
+      }
+
+      console.log(`[nodesk:${cat || 'all'}] ${cards.length} cards`);
+      await new Promise((r) => setTimeout(r, 800));
+
+    } catch (err) {
+      console.warn(`[nodesk:${cat || 'all'}] failed: ${err.message}`);
+    }
+  }
+  console.log(`[nodesk] ${jobs.length} matching postings`);
+  return jobs;
+}
+
+// ---------------------------------------------------------------------------
 // Merge, build output, write site data + docs
 // ---------------------------------------------------------------------------
 
@@ -991,6 +1168,8 @@ async function main() {
     scanLinkedIn(),
     scanRemoteBoards(),
     scanAdzuna(),
+    scanDice(),
+    scanNoDesk(),
   ]);
 
   const fresh = [];
