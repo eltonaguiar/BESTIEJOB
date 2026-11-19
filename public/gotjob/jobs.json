@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-19T03:14:22.752Z",
     "generatedAt": "2026-11-19T03:14:22.752Z",
-    "total": 5473,
+    "total": 5474,
     "newThisScan": 826,
     "retainedFromPrevious": 1596,
     "sources": {
@@ -35,26 +35,10 @@
     "primaryCounts": {
       "servicenow": 1149,
       "salesforce": 1167
-    }
+    },
+    "undated": 0
   },
   "jobs": [
-    {
-      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/sr-servicenow-architect_r1300",
-      "source": "workday",
-      "company": "Resolve Tech Solutions",
-      "title": "Sr. ServiceNow Architect",
-      "location": "US Remote - FL",
-      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-19T03:14:22.752Z",
-      "scrapedAt": "2026-11-19T03:14:22.752Z",
-      "excerpt": "R1300",
-      "workArrangement": "remote",
-      "tags": [
-        "servicenow"
-      ]
-    },
     {
       "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000162410339",
       "source": "smartrecruiters",
@@ -505,6 +489,24 @@
       "tags": [
         "full-stack"
       ]
+    },
+    {
+      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/sr-servicenow-architect_r1300",
+      "source": "workday",
+      "company": "Resolve Tech Solutions",
+      "title": "Sr. ServiceNow Architect",
+      "location": "US Remote - FL",
+      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T03:14:22.752Z",
+      "excerpt": "R1300",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/conseiller-%c3%a8re-en-architecture-bureautique-itsm-c2-at-services-sft-4473443819",
@@ -2334,6 +2336,23 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobs.smartrecruiters.com/servicenow/744000162143024",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Sr Solution Sales Executive CRM (CPQ)",
+      "location": "Toronto, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162143024",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T03:44:26.813Z",
+      "excerpt": "via ats--2026-11-17--v11.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
