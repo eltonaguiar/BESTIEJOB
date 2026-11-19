@@ -18,11 +18,12 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-19
 
-Window: 2026-10-20 → 2026-11-19 · **6206 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-20 → 2026-11-19 · **6209 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1123)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1123 postings</strong></summary>
-| 2026-11-18 | [Project Manager – ServiceNow & Financial Systems - Contract](https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-servicenow-financial-systems-contract-at-compugen-inc-4492108232) | Compugen Inc | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md |
+### ServiceNow jobs (1125)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1123 postings</strong></summary>| 2026-11-18 | [Project Manager – ServiceNow & Financial Systems - Contract](https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-servicenow-financial-systems-contract-at-compugen-inc-4492108232) | Compugen Inc | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md |
 | 2026-11-18 | [ServiceNow Business Analyst - Contract](https://ca.linkedin.com/jobs/view/servicenow-business-analyst-contract-at-compugen-inc-4492113150) | Compugen Inc | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md |
+| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162143024) | ServiceNow | Toronto, ca | via ats--2026-11-17--v10.md |
+| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162166739) | ServiceNow | Toronto, ca | via ats--2026-11-17--v8.md |
 | 2026-11-14 | [ServiceNow Developer](https://www.adzuna.ca/details/5966144486) | SPECTRAFORCE | Toronto, Ontario | via hermes-cron--2026-11-19--v1.md |
 | 2026-11-07 | [Consultant/Senior Consultant - ServiceNow Solution Developer](https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944) | KPMG Canada | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md |
 | 2026-11-04 | [🚨WE’RE HIRING / ServiceNow Solution Architect – CTA Certified / Devansh Gupta](https://www.linkedin.com/posts/devansh-gupta-0489b9222_hiring-servicenow-servicenowjobs-activity-7501335133141184513-aasr) | Unknown | Canada | readme · servicenow |
@@ -1146,14 +1147,13 @@ Window: 2026-10-20 → 2026-11-19 · **6206 live postings** · deduplicated by U
 | 2026-11-03 | ["ServiceNow Architect"](https://www.adzuna.ca/details/5951769665) | Nityo Infotech | Toronto, Ontario | adzuna · servicenow |
 </details>
 
-### Salesforce jobs (1026)
-_developer / administrator / architect / consultant roles_
+### Salesforce jobs (1027)_developer / administrator / architect / consultant roles_
 
-<details><summary><strong>Show 1026 postings</strong></summary>
-| Posted | Role | Company | Location | Source / note |
+<details><summary><strong>Show 1027 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
 |---|---|---|---|---|
 | 2026-11-19 | [Senior Specialist, Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-specialist-salesforce-developer-at-sickkids-foundation-4492230536) | SickKids Foundation | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md |
-| 2026-11-15 | [[C] Salesforce Engineer / Developer](https://mlse.wd3.myworkdayjobs.com/en-US/MLSE/job/XMLNAME--C--Salesforce-Engineer_JR0000580) | MLSE | Toronto, Ontario | via hermes-cron--2026-11-19--v1.md |
+| 2026-11-18 | [Analyste Fonctionnel Salesforce](https://www.adzuna.ca/details/5970900783?utm_medium=api&utm_source=54ce986e) | DELAN | Canada | via fresh-ca--2026-11-19--v1.md |
+| 2026-11-15 | [(C) Salesforce Engineer / Developer](https://mlse.wd3.myworkdayjobs.com/en-US/MLSE/job/XMLNAME--C--Salesforce-Engineer_JR0000580) | MLSE | Toronto, Ontario | via hermes-cron--2026-11-19--v1.md |
 | 2026-11-08 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://www.adzuna.ca/details/5958362977) | Smart IT Frame LLC | Toronto, Ontario | via hermes-cron--2026-11-19--v1.md |
 | 2026-11-08 | [Salesforce Lead](https://www.adzuna.ca/details/5958221292) | OSI Digital | Toronto, Ontario | via hermes-cron--2026-11-19--v1.md |
 | 2026-10-28 | [nCino Tech Lead](https://ca.linkedin.com/jobs/view/ncino-tech-lead-at-j-m-group-4484726714) | J&M Group | Toronto, Ontario, Canada | readme · salesforce |
@@ -2180,10 +2180,8 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-04 | [((Hiring) Senior Salesforce Administrator @Desjardins)(https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269)](https://remotive.com/remote/jobs/information-technology/senior-salesforce-administrator-6272269) | Unknown | Canada | via round11-cached--2026-11-05--v11.md |
 </details>
 
-### Other jobs (4058)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
-
-<details><summary><strong>Show 4063 postings</strong></summary>| 2026-11-17 | [Business Architect (Business Architecture), Industry Innovation & Co-Dev](https://www.adzuna.ca/details/5968886447?utm_medium=api&utm_source=54ce986e) | Guidewire | Canada | via adzuna-autonomous--2026-11-17--v1.md |
-| 2026-11-17 | [Software Engineer, Banking Technology](https://www.adzuna.ca/details/5968879721?utm_medium=api&utm_source=54ce986e) | Manulife | Canada | via adzuna-autonomous--2026-11-17--v1.md |
+### Other jobs (4059)_ITSM, ITAM, CMDB, SQL, BI, automation and integration roles that match the profile_
+<details><summary><strong>Show 4064 postings</strong></summary>| 2026-11-17 | [Software Engineer, Banking Technology](https://www.adzuna.ca/details/5968879721?utm_medium=api&utm_source=54ce986e) | Manulife | Canada | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [EverPro - Product Analyst](https://www.adzuna.ca/details/5968873713?utm_medium=api&utm_source=54ce986e) | EverCommerce Solutions | Canada | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [Principal QA Analyst FCC](https://www.adzuna.ca/details/5968873360?utm_medium=api&utm_source=54ce986e) | Fidelity International | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [Conseiller Financier / Advisor Finance](https://www.adzuna.ca/details/5968872425?utm_medium=api&utm_source=54ce986e) | Enbridge | Canada | via adzuna-autonomous--2026-11-17--v1.md |
@@ -2207,6 +2205,7 @@ _developer / administrator / architect / consultant roles_
 | 2026-11-17 | [IT Support Technician](https://www.adzuna.ca/details/5968765926?utm_medium=api&utm_source=54ce986e) | Lemay | Montréal, Québec | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-17 | [MuleSoft Architect](https://ca.linkedin.com/jobs/view/mulesoft-architect-at-insight-global-4491415925) | Insight Global | Toronto, Ontario, Canada | via linkedin-guest--2026-11-18--v1.md |
 | 2026-11-17 | [Analyste sénior en gouvernance, risques &amp; conformité (GRC)](https://ca.linkedin.com/jobs/view/analyste-s%C3%A9nior-en-gouvernance-risques-conformit%C3%A9-grc-at-coveo-4491567365) | Coveo | Montreal, Quebec, Canada | via linkedin-guest--2026-11-18--v1.md |
+| 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://www.adzuna.ca/details/5969570818?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via fresh-ca--2026-11-18--v5.md |
 | 2026-11-16 | [Enablement Lead, Employee Relations, Compliance & Health and Safety Technology](https://www.adzuna.ca/details/5968011151?utm_medium=api&utm_source=54ce986e) | Manulife | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-16 | [Lead, Enterprise Applications & Integration](https://www.adzuna.ca/details/5968409380?utm_medium=api&utm_source=54ce986e) | Nelson Education LTD | Toronto, Ontario | via adzuna-autonomous--2026-11-17--v1.md |
 | 2026-11-16 | [Lead Management Operations](https://www.adzuna.ca/details/5968011611?utm_medium=api&utm_source=54ce986e) | Rogers Communications | Summerside, Prince | via adzuna-autonomous--2026-11-17--v1.md |
