@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-19T09:13:05.492Z",
-    "generatedAt": "2026-11-19T09:13:05.492Z",
-    "total": 5497,
+    "scrapedAt": "2026-11-19T09:30:00.000Z",
+    "generatedAt": "2026-11-19T09:30:00.000Z",
+    "total": 5501,
     "newThisScan": 833,
     "retainedFromPrevious": 1604,
     "sources": {
@@ -33,9 +33,10 @@
       "adzuna": 491
     },
     "primaryCounts": {
-      "servicenow": 1151,
+      "servicenow": 1153,
       "salesforce": 1172
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -949,6 +950,40 @@
       "workArrangement": "unknown",
       "tags": [
         "full-stack"
+      ]
+    },
+    {
+      "id": "linkedin:https://ca.linkedin.com/jobs/view/senior-project-manager-servicenow-at-bevertec-4492090234",
+      "source": "linkedin",
+      "company": "Bevertec",
+      "title": "Senior Project Manager, ServiceNow",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-project-manager-servicenow-at-bevertec-4492090234",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T09:30:00.000Z",
+      "excerpt": "ServiceNow project management posting via LinkedIn, posted 2026-11-18.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:https://ca.linkedin.com/jobs/view/servicenow-project-manager-at-russell-tobin-4491327690",
+      "source": "linkedin",
+      "company": "Russell Tobin",
+      "title": "Servicenow Project Manager",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-project-manager-at-russell-tobin-4491327690",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T09:30:00.000Z",
+      "excerpt": "ServiceNow project manager posting via LinkedIn, posted 2026-11-18.",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -6036,6 +6071,43 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968012814",
+      "source": "readme",
+      "company": "S I Systems",
+      "title": "enior ServiceNow ITOM Developer designing and building cloud, on-premises and network Discovery to populate and strengthen the CMDB",
+      "location": "Calgary, Calgary region",
+      "url": "https://www.adzuna.ca/details/5968012814",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T10:08:31.385Z",
+      "excerpt": "via hermes-cron--2026-11-18--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968012580",
+      "source": "readme",
+      "company": "Astra-North Infoteck Inc.",
+      "title": "ServiceNow Technical Lead – ITSM, ITOM, CMDB & SecOps",
+      "location": "Greater Vancouver, British Columbia",
+      "url": "https://www.adzuna.ca/details/5968012580",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T10:08:31.385Z",
+      "excerpt": "via hermes-cron--2026-11-18--v9.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting",
+        "itam"
       ]
     },
     {
