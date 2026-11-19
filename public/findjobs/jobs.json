@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-19T15:13:15.862Z",
     "generatedAt": "2026-11-19T15:13:15.862Z",
-    "total": 5525,
+    "total": 5523,
     "newThisScan": 11,
     "retainedFromPrevious": 5514,
     "sources": {
@@ -182,193 +182,6 @@
   },
   "jobs": [
     {
-      "id": "adzuna:adzuna.ca/details/5971684475",
-      "source": "adzuna",
-      "company": "ServiceNow",
-      "title": "Staff Full-Stack Engineer, Experience Team",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5971684475",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-19T08:22:34.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "Job Description Team & Role: This role is part of our Experience Team (UX/UI). ServiceNow is transforming how enterprise knowledge is created, delivered, and consumed. We’re moving from a world where large teams of writers produce content manually to one where AI-powered, agentic systems generate, classify, and deliver",
-      "workArrangement": "unknown",
-      "tags": [
-        "full-stack"
-      ]
-    },
-    {
-      "id": "adzuna:adzuna.ca/details/5971441048",
-      "source": "adzuna",
-      "company": "TD Bank",
-      "title": "Associate Software Engineer (nCino/Salesforce)",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5971441048",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-19T04:36:16.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "Office Focused Toronto, Ontario Full time R_1508918 Work Location: Toronto, Ontario, Canada Hours: 37.5 Line of Business: Technology Solutions Pay Details: $59,500 - $84,000 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are d",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/staff-full-stack-engineer-experience-team-at-servicenow-4492262650",
-      "source": "linkedin",
-      "company": "ServiceNow",
-      "title": "Staff Full-Stack Engineer, Experience Team",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/staff-full-stack-engineer-experience-team-at-servicenow-4492262650",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "full-stack"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491623443",
-      "source": "linkedin",
-      "company": "Apptoza Inc.",
-      "title": "ServiceNow Business Analyst",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491623443",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4492170001",
-      "source": "linkedin",
-      "company": "Ateko, backed by Bell Canada",
-      "title": "Développeur.euse ServiceNow",
-      "location": "Canada",
-      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4492170001",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/sp%c3%a9cialiste-d-implantation-servicenow-implementation-specialist-at-ateko-backed-by-bell-canada-4492156434",
-      "source": "linkedin",
-      "company": "Ateko, backed by Bell Canada",
-      "title": "Spécialiste d'implantation ServiceNow | Implementation Specialist",
-      "location": "Canada",
-      "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-d-implantation-servicenow-implementation-specialist-at-ateko-backed-by-bell-canada-4492156434",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-developer-at-vaco-by-highspring-4492439820",
-      "source": "linkedin",
-      "company": "Vaco by Highspring",
-      "title": "Salesforce Developer",
-      "location": "Greater Toronto Area, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-vaco-by-highspring-4492439820",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4492174064",
-      "source": "linkedin",
-      "company": "Tata Consultancy Services",
-      "title": "Salesforce Developer",
-      "location": "Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4492174064",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "adzuna:adzuna.ca/details/5970077372",
-      "source": "adzuna",
-      "company": "TD Bank",
-      "title": "Senior Solution Architect (ServiceNow)",
-      "location": "Toronto, Ontario",
-      "url": "https://www.adzuna.ca/details/5970077372",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-18T04:36:33.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "Office Focused Toronto, Ontario Full time R_1521185 Work Location: Toronto, Ontario, Canada Hours: 37.5 Line of Business: Technology Solutions Pay Details: $115,600 - $163,200 CAD This role is temporarily eligible for a pay premium above the posted salary range that is reassessed annually. You are encouraged to have an",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
-      "source": "linkedin",
-      "company": "Tata Consultancy Services",
-      "title": "Senior Salesforce Developer",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "Salesforce developer · LinkedIn guest search",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-developer-at-cgi-4492058344",
-      "source": "linkedin",
-      "company": "CGI",
-      "title": "Salesforce Developer",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cgi-4492058344",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-19T15:02:17.083Z",
-      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
       "id": "readme:ca.linkedin.com/jobs/view/senior-business-analyst-salesforce-at-co-operators-assurance-et-services-financiers-4484107191",
       "source": "readme",
       "company": "Co-operators Assurance et services financiers",
@@ -380,6 +193,23 @@
       "postedDate": "2026-11-19T12:00:00.000Z",
       "scrapedAt": "2026-11-19T12:18:38.430Z",
       "excerpt": "via linkedin-guest--2026-11-19--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:builtintoronto.com/job/salesforce-agentic-developer/12337693",
+      "source": "readme",
+      "company": "Paralucent",
+      "title": "Salesforce Agentic Developer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://builtintoronto.com/job/salesforce-agentic-developer/12337693",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:44:11.753Z",
+      "excerpt": "via Built In Toronto",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
@@ -434,6 +264,16 @@
         "servicenow"
       ],
       "alternates": [
+        {
+          "source": "adzuna",
+          "url": "https://www.adzuna.ca/details/5971684475",
+          "label": "adzuna"
+        },
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/staff-full-stack-engineer-experience-team-at-servicenow-4492262650",
+          "label": "linkedin"
+        },
         {
           "source": "adzuna",
           "url": "https://www.adzuna.ca/details/5971684475",
@@ -551,6 +391,11 @@
           "source": "linkedin",
           "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cgi-4492058344",
           "label": "linkedin"
+        },
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cgi-4492058344",
+          "label": "linkedin"
         }
       ]
     },
@@ -614,6 +459,11 @@
           "source": "adzuna",
           "url": "https://www.adzuna.ca/details/5971441048",
           "label": "adzuna"
+        },
+        {
+          "source": "adzuna",
+          "url": "https://www.adzuna.ca/details/5971441048",
+          "label": "adzuna"
         }
       ]
     },
@@ -649,6 +499,98 @@
       "workArrangement": "unknown",
       "tags": [
         "full-stack"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491623443",
+      "source": "linkedin",
+      "company": "Apptoza Inc.",
+      "title": "ServiceNow Business Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491623443",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-19T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:02:17.083Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4492170001",
+      "source": "linkedin",
+      "company": "Ateko, backed by Bell Canada",
+      "title": "Développeur.euse ServiceNow",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4492170001",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-19T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:02:17.083Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ],
+      "alternates": [
+        {
+          "source": "readme",
+          "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4472361195",
+          "label": "readme"
+        }
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/sp%c3%a9cialiste-d-implantation-servicenow-implementation-specialist-at-ateko-backed-by-bell-canada-4492156434",
+      "source": "linkedin",
+      "company": "Ateko, backed by Bell Canada",
+      "title": "Spécialiste d'implantation ServiceNow | Implementation Specialist",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-d-implantation-servicenow-implementation-specialist-at-ateko-backed-by-bell-canada-4492156434",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-19T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:02:17.083Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-developer-at-vaco-by-highspring-4492439820",
+      "source": "linkedin",
+      "company": "Vaco by Highspring",
+      "title": "Salesforce Developer",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-vaco-by-highspring-4492439820",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-19T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:02:17.083Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4492174064",
+      "source": "linkedin",
+      "company": "Tata Consultancy Services",
+      "title": "Salesforce Developer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4492174064",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-19T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:02:17.083Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
@@ -1450,6 +1392,57 @@
       ]
     },
     {
+      "id": "readme:myprocom-portal.procomservices.com/jobs/servicenow-business-analyst-toronto-6040e555",
+      "source": "readme",
+      "company": "Procom",
+      "title": "ServiceNow Business Analyst",
+      "location": "Toronto, Ontario, CA",
+      "url": "https://myprocom-portal.procomservices.com/jobs/servicenow-business-analyst-toronto-6040e555",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:44:11.753Z",
+      "excerpt": "via Procom",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:myprocom-portal.procomservices.com/jobs/project-manager-servicenow-toronto-7133e057",
+      "source": "readme",
+      "company": "Procom",
+      "title": "Project Manager-ServiceNow",
+      "location": "Toronto, Ontario, CA",
+      "url": "https://myprocom-portal.procomservices.com/jobs/project-manager-servicenow-toronto-7133e057",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:44:11.753Z",
+      "excerpt": "via Procom",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5970383356",
+      "source": "readme",
+      "company": "Shodh Consultancy Services Inc.",
+      "title": "Salesforce Architect [Sales Cloud  Service Cloud",
+      "location": "Mississauga, Peel region",
+      "url": "https://www.adzuna.ca/details/5970383356",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:44:11.753Z",
+      "excerpt": "via fresh-ca--2026-11-19--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5970107795",
       "source": "adzuna",
       "company": "mosaic Clinical Technologies",
@@ -1567,6 +1560,11 @@
           "source": "adzuna",
           "url": "https://www.adzuna.ca/details/5970077372",
           "label": "adzuna"
+        },
+        {
+          "source": "adzuna",
+          "url": "https://www.adzuna.ca/details/5970077372",
+          "label": "adzuna"
         }
       ]
     },
@@ -1626,6 +1624,30 @@
       ]
     },
     {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
+      "source": "linkedin",
+      "company": "Tata Consultancy Services",
+      "title": "Senior Salesforce Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:02:17.083Z",
+      "excerpt": "Salesforce developer · LinkedIn guest search",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "alternates": [
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491845382",
+          "label": "linkedin"
+        }
+      ]
+    },
+    {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-itom-developer-at-techneptune-consulting-inc-4491345268",
       "source": "linkedin",
       "company": "TechNeptune Consulting Inc.",
@@ -1674,30 +1696,6 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491845382",
-      "source": "linkedin",
-      "company": "Tata Consultancy Services",
-      "title": "Senior Salesforce Developer",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491845382",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-19T14:12:43.265Z",
-      "excerpt": "Salesforce developer · LinkedIn guest search",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ],
-      "alternates": [
-        {
-          "source": "linkedin",
-          "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
-          "label": "linkedin"
-        }
       ]
     },
     {
@@ -3303,6 +3301,23 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobs.smartrecruiters.com/servicenow/744000162166739",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Sr Solution Sales Executive CRM (CPQ)",
+      "location": "Toronto, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T15:44:11.753Z",
+      "excerpt": "via ats--2026-11-17--v11.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -89823,23 +89838,6 @@
       "title": "ServiceNow Architect - FSM",
       "location": "Canada",
       "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-fsm-at-ateko-backed-by-bell-canada-4472356457",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-10-27T12:00:00.000Z",
-      "scrapedAt": "2026-11-03T00:50:26.653Z",
-      "excerpt": "via copilot-multiai--2026-11-03--v1.md",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "readme:ca.linkedin.com/jobs/view/d%c3%a9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4472361195",
-      "source": "readme",
-      "company": "Ateko, backed by Bell Canada",
-      "title": "Développeur.euse ServiceNow",
-      "location": "Canada",
-      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4472361195",
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-27T12:00:00.000Z",
