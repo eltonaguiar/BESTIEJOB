@@ -13,16 +13,16 @@
    "raw": 16
   },
   "Himalayas": {
-   "status": "p0:20/117876, p1:20/117882, p2:20/117876, p3:20/117876, p4:20/117882",
+   "status": "p0:20/117859, p1:20/117859, p2:20/117859, p3:20/117859, p4:20/117859",
    "raw": 0
   },
   "Jobboom (QC)": {
-   "status": "http 403, 6046B; http 403, 6067B",
+   "status": "http 403, 6067B; http 403, 6067B",
    "raw": 0
   },
   "We Work Remotely": {
    "status": "http 200; http 200",
-   "raw": 1
+   "raw": 0
   },
   "Hacker News hiring": {
    "status": "thread 22665398, 0 SN comments",
@@ -33,7 +33,7 @@
    "raw": 0
   },
   "Careerjet CA": {
-   "status": "Timeout; Timeout",
+   "status": "http 200; http 200",
    "raw": 0
   },
   "Jobrapido CA": {
@@ -49,20 +49,11 @@
    "raw": 0
   },
   "_verify": {
-   "status": "liveness checked, 1 live",
-   "raw": 1
+   "status": "liveness checked, 0 live",
+   "raw": 0
   }
  },
- "dated": [
-  {
-   "title": "ProArch: Senior ServiceNow Developer",
-   "url": "https://weworkremotely.com/remote-jobs/proarch-senior-servicenow-developer",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-18",
-   "source": "We Work Remotely"
-  }
- ],
+ "dated": [],
  "undated": [],
  "dropped": [
   {
