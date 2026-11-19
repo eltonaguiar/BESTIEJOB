@@ -3,12 +3,13 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-19T19:03:19.899Z** · 411 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-19T20:02:00.833Z** · 413 live postings from 10 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-19 | [Project Manager ServiceNow](https://www.adzuna.ca/details/5972002614) | vTech Solution | Regent Park, City of Toronto |
 | 2026-11-19 | [ServiceNow CSM/HRSD](https://www.adzuna.ca/details/5971925727) | NLB Services | Mississauga, Peel region |
 | 2026-11-19 | [Senior ServiceNow Consultant](https://ca.linkedin.com/jobs/view/senior-servicenow-consultant-at-flexstaf-i-t-inc-4492170849) | Flexstaf I.T. Inc. | Toronto, Ontario, Canada |
 | 2026-11-19 | [ServiceNow Developer cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-yochana-4492501308) | Yochana | Mississauga, Ontario, Canada |
@@ -20,12 +21,12 @@
 | 2026-11-18 | [ServiceNow Architect](https://www.adzuna.ca/details/5970623169) | RSM US LLP | Toronto, Ontario |
 | 2026-11-18 | [Senior Business Systems Analyst (ServiceNow)](https://www.adzuna.ca/details/5970622713) | Interac Corp. | Toronto, Ontario |
 | 2026-11-17 | [Sr. ServiceNow Development SME](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Development-SME_R1299) | Resolve Tech Solutions | US Remote - FL |
-| 2026-11-14 | [ServiceNow Technical Architect](https://www.adzuna.ca/land/ad/5965936226) | Forhyre | Toronto, Ontario |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-19 | [Senior Corporate Counsel - Commercial](https://www.adzuna.ca/details/5971924657) | Slack | Greater Vancouver, British Columbia |
 | 2026-11-19 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-coforge-4492193291) | Coforge | Markham, Ontario, Canada |
 | 2026-11-19 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-highspring-4492439820) | Highspring | Toronto, Ontario, Canada |
 | 2026-11-19 | [Senior Systems Developer - Salesforce (Temp Full-Time - 12 mths)](https://ca.linkedin.com/jobs/view/senior-systems-developer-salesforce-temp-full-time-12-mths-at-co-operators-4492464622) | Co-operators | Mississauga, Ontario, Canada |
@@ -37,7 +38,6 @@
 | 2026-11-18 | [Software Engineering LMTS](https://www.adzuna.ca/details/5970622998) | Salesforce, Inc. | Canada |
 | 2026-11-18 | [AWS Technical Architect](https://www.adzuna.ca/details/5970622277) | NeuraFlash | Canada |
 | 2026-11-18 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5970622166) | Docebo | Canada |
-| 2026-11-18 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5970621513) | IA Financial Services | Québec, Canada |
 
 ### Other keyword matches — newest 10
 
