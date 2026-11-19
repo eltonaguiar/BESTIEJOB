@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-19T14:14:30+00:00",
+ "generatedAt": "2026-11-19T15:13:18+00:00",
  "timezone": "America/Toronto",
- "count": 4984,
- "appliedHidden": 34,
+ "count": 4986,
+ "appliedHidden": 30,
  "sources": [
   "103.careerplug.com",
   "Adzuna",
@@ -282,6 +282,48 @@
  "jobs": [
   {
    "posted": "2026-11-19",
+   "title": "ServiceNow Business Analyst",
+   "company": "Apptoza Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491623443",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 98,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow business analyst apptoza inc. toronto, ontario, canada linkedin servicenow linkedin servicenow consulting/ba role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Business%20Analyst%20Apptoza%20Inc.+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Business%20Analyst%20Apptoza%20Inc.&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Business%20Analyst%20Apptoza%20Inc.&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Business%20Analyst%20Apptoza%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-19",
    "title": "ServiceNow Lead, Business Analyst",
    "company": "Cayuse Holdings",
    "location": "Remote, Canada",
@@ -532,6 +574,54 @@
   },
   {
    "posted": "2026-11-19",
+   "title": "Spécialiste d'implantation ServiceNow / Implementation Specialist",
+   "company": "Ateko, backed by Bell Canada",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-d-implantation-servicenow-implementation-specialist-at-ateko-backed-by-bell-canada-4492156434",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "specialiste d'implantation servicenow / implementation specialist ateko, backed by bell canada canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-d-implantation-servicenow-implementation-specialist-at-ateko-backed-by-bell-canada-4472362253",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sp%C3%A9cialiste%20d%27implantation%20ServiceNow%20/%20Implementation%20Specialist%20Ateko%2C%20backed%20by%20Bell%20Canada+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sp%C3%A9cialiste%20d%27implantation%20ServiceNow%20/%20Implementation%20Specialist%20Ateko%2C%20backed%20by%20Bell%20Canada&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sp%C3%A9cialiste%20d%27implantation%20ServiceNow%20/%20Implementation%20Specialist%20Ateko%2C%20backed%20by%20Bell%20Canada&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sp%C3%A9cialiste%20d%27implantation%20ServiceNow%20/%20Implementation%20Specialist%20Ateko%2C%20backed%20by%20Bell%20Canada&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-19",
    "title": "ServiceNow Developer - Platform Configuration, Scripting and Administration",
    "company": "LGS, an IBM Company",
    "location": "Ville-Marie, Quebec, Canada",
@@ -696,6 +786,53 @@
   },
   {
    "posted": "2026-11-19",
+   "title": "Développeur.euse ServiceNow",
+   "company": "Ateko, backed by Bell Canada",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4492170001",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "developpeur.euse servicenow ateko, backed by bell canada canada linkedin servicenow linkedin servicenow canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4472361195",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=D%C3%A9veloppeur.euse%20ServiceNow%20Ateko%2C%20backed%20by%20Bell%20Canada+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=D%C3%A9veloppeur.euse%20ServiceNow%20Ateko%2C%20backed%20by%20Bell%20Canada&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=D%C3%A9veloppeur.euse%20ServiceNow%20Ateko%2C%20backed%20by%20Bell%20Canada&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur.euse%20ServiceNow%20Ateko%2C%20backed%20by%20Bell%20Canada&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-19",
    "title": "Sr Specialist - ServiceNow Developer",
    "company": "Energy Transfer",
    "location": "Calgary, Alberta",
@@ -797,15 +934,15 @@
   },
   {
    "posted": "2026-11-19",
-   "title": "Request ID: 114275 - Salesforce Revenue Cloud Architect",
-   "company": "Flexstaf IT",
+   "title": "Associate Software Engineer (nCino/Salesforce)",
+   "company": "TD Bank",
    "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5971682371",
-   "note": "adzuna",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
+   "note": "workday",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "Workday ATS",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -813,17 +950,11 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "request id: 114275 - salesforce revenue cloud architect flexstaf it toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "search": "associate software engineer (ncino/salesforce) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5941645141",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5939233633?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5971441048",
      "label": "Adzuna · Toronto",
      "gated": false
     }
@@ -832,19 +963,60 @@
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Request%20ID%3A%20114275%20-%20Salesforce%20Revenue%20Cloud%20Architect%20Flexstaf%20IT+Toronto+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Request%20ID%3A%20114275%20-%20Salesforce%20Revenue%20Cloud%20Architect%20Flexstaf%20IT&location=Toronto"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&location=Toronto"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Request%20ID%3A%20114275%20-%20Salesforce%20Revenue%20Cloud%20Architect%20Flexstaf%20IT&l=Toronto"
+     "url": "https://ca.indeed.com/jobs?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&l=Toronto"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Request%20ID%3A%20114275%20-%20Salesforce%20Revenue%20Cloud%20Architect%20Flexstaf%20IT&loc=Toronto"
+     "url": "https://www.adzuna.ca/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-19",
+   "title": "Salesforce Developer",
+   "company": "Vaco by Highspring",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-vaco-by-highspring-4492439820",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer vaco by highspring greater toronto area, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Vaco%20by%20Highspring+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Vaco%20by%20Highspring&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Vaco%20by%20Highspring&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Vaco%20by%20Highspring&loc=Toronto"
     }
    ],
    "toronto": true
@@ -899,6 +1071,60 @@
   },
   {
    "posted": "2026-11-19",
+   "title": "Request ID: 114275 - Salesforce Revenue Cloud Architect",
+   "company": "Flexstaf IT",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5971682371",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "request id: 114275 - salesforce revenue cloud architect flexstaf it toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941645141",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5939233633?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Request%20ID%3A%20114275%20-%20Salesforce%20Revenue%20Cloud%20Architect%20Flexstaf%20IT+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Request%20ID%3A%20114275%20-%20Salesforce%20Revenue%20Cloud%20Architect%20Flexstaf%20IT&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Request%20ID%3A%20114275%20-%20Salesforce%20Revenue%20Cloud%20Architect%20Flexstaf%20IT&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Request%20ID%3A%20114275%20-%20Salesforce%20Revenue%20Cloud%20Architect%20Flexstaf%20IT&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-19",
    "title": "Salesforce DevOps Engineer",
    "company": "Serefin",
    "location": "Berczy Park, City of Toronto",
@@ -941,54 +1167,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20DevOps%20Engineer%20Serefin&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-19",
-   "title": "Associate Software Engineer (nCino/Salesforce)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "associate software engineer (ncino/salesforce) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5971441048",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&loc=Toronto"
     }
    ],
    "toronto": true
@@ -1289,6 +1467,66 @@
   },
   {
    "posted": "2026-11-19",
+   "title": "Salesforce Developer",
+   "company": "Tata Consultancy Services",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4492174064",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer tata consultancy services canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961956971",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4482677936",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4480706778",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Tata%20Consultancy%20Services+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Tata%20Consultancy%20Services&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Tata%20Consultancy%20Services&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Tata%20Consultancy%20Services&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-19",
    "title": "Staff Full-Stack Engineer, Experience Team",
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca",
@@ -1311,6 +1549,12 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/staff-full-stack-engineer-experience-team-at-servicenow-4492262650",
      "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5971684475",
+     "label": "Adzuna · Toronto",
      "gated": false
     }
    ],
@@ -2026,6 +2270,72 @@
   },
   {
    "posted": "2026-11-18",
+   "title": "Senior Solution Architect (ServiceNow)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "snpro.jobs",
+     "url": "https://snpro.jobs/jobs/senior-solution-architect-servicenow-de7b8",
+     "label": "snpro.jobs · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5970077372",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5970088512",
+     "label": "Adzuna · Canada",
+     "gated": false
+    },
+    {
+     "source": "BuiltIn",
+     "url": "https://builtintoronto.com/job/senior-solution-architect-servicenow/12280234",
+     "label": "BuiltIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
    "title": "ServiceNow Architect",
    "company": "RSM",
    "location": "Toronto",
@@ -2092,72 +2402,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Architect%20RSM&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Senior Solution Architect (ServiceNow)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "snpro.jobs",
-     "url": "https://snpro.jobs/jobs/senior-solution-architect-servicenow-de7b8",
-     "label": "snpro.jobs · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5970077372",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5970088512",
-     "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "BuiltIn",
-     "url": "https://builtintoronto.com/job/senior-solution-architect-servicenow/12280234",
-     "label": "BuiltIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
     }
    ],
    "toronto": true
@@ -2805,6 +3049,54 @@
   {
    "posted": "2026-11-18",
    "title": "Senior Salesforce Developer",
+   "company": "Tata Consultancy Services",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer tata consultancy services toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491845382",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "Senior Salesforce Developer",
    "company": "Docebo",
    "location": "Toronto, Ontario",
    "url": "https://jobs.ashbyhq.com/docebo/0bbdde71-476f-4f46-bfdc-d4536cdcf7ad",
@@ -2906,54 +3198,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Solution%20Architect%20The%20Citco%20Group&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Senior Salesforce Developer",
-   "company": "Tata Consultancy Services",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491845382",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer tata consultancy services toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&loc=Toronto"
     }
    ],
    "toronto": true
@@ -40741,60 +40985,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Salesforce Developer",
-   "company": "Tata Consultancy Services Limited",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5961956971",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer tata consultancy services limited toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4482677936",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4480706778",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Tata%20Consultancy%20Services%20Limited+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Tata%20Consultancy%20Services%20Limited&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Tata%20Consultancy%20Services%20Limited&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Tata%20Consultancy%20Services%20Limited&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-11",
    "title": "Senior Salesforce Developer",
    "company": "Synechron",
    "location": "Toronto, Ontario",
@@ -50104,13 +50294,13 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955916244",
+     "url": "https://www.adzuna.ca/details/5953989200?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto",
      "gated": false
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5953989200?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5953992006?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto",
      "gated": false
     }
@@ -59954,12 +60144,6 @@
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5956636939",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955917180",
      "label": "Adzuna · Toronto",
      "gated": false
     },
@@ -194820,47 +195004,6 @@
   },
   {
    "posted": "2026-10-27",
-   "title": "Spécialiste d'implantation ServiceNow / Implementation Specialist",
-   "company": "Ateko, backed by Bell Canada",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-d-implantation-servicenow-implementation-specialist-at-ateko-backed-by-bell-canada-4472362253",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "specialiste d'implantation servicenow / implementation specialist ateko, backed by bell canada canada linkedin servicenow readme servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sp%C3%A9cialiste%20d%27implantation%20ServiceNow%20/%20Implementation%20Specialist%20Ateko%2C%20backed%20by%20Bell%20Canada+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sp%C3%A9cialiste%20d%27implantation%20ServiceNow%20/%20Implementation%20Specialist%20Ateko%2C%20backed%20by%20Bell%20Canada&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sp%C3%A9cialiste%20d%27implantation%20ServiceNow%20/%20Implementation%20Specialist%20Ateko%2C%20backed%20by%20Bell%20Canada&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sp%C3%A9cialiste%20d%27implantation%20ServiceNow%20/%20Implementation%20Specialist%20Ateko%2C%20backed%20by%20Bell%20Canada&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-27",
    "title": "ServiceNow Architect, FSO/FSM",
    "company": "Ateko (FX Innovation, backed by Bell Canada)",
    "location": "Remote, Canada",
@@ -195017,46 +195160,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Sr%20ServiceNow%20Developer%20/%20Architect%20-%20HPTech%20USA%3A%20Metadata%20specifies%20TELECOMMUTE%20and%20applicant%20country%20USA.%20Confirm%20permitted%20states%2C%20work%20authorization%2C%20and%20contract%20terms%20with%20the%20recruiter.&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-27",
-   "title": "Développeur.euse ServiceNow",
-   "company": "Ateko, backed by Bell Canada",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-servicenow-at-ateko-backed-by-bell-canada-4472361195",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Canada / remote"
-   ],
-   "french": true,
-   "search": "developpeur.euse servicenow ateko, backed by bell canada canada linkedin servicenow readme servicenow canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=D%C3%A9veloppeur.euse%20ServiceNow%20Ateko%2C%20backed%20by%20Bell%20Canada+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=D%C3%A9veloppeur.euse%20ServiceNow%20Ateko%2C%20backed%20by%20Bell%20Canada&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=D%C3%A9veloppeur.euse%20ServiceNow%20Ateko%2C%20backed%20by%20Bell%20Canada&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur.euse%20ServiceNow%20Ateko%2C%20backed%20by%20Bell%20Canada&loc=Canada"
     }
    ],
    "toronto": false
