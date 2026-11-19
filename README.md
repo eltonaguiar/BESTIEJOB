@@ -1,5 +1,62 @@
 # BESTIEJOB
 
+<!-- DAILY-SCAN:START -->
+## Latest auto-scanned jobs (newest first)
+
+**Scan: 2026-11-19T17:02:56.935Z** · 346 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+
+### ServiceNow — newest 12
+
+| Posted | Role | Company | Location |
+|---|---|---|---|
+| 2026-11-19 | [ServiceNow Business Analyst](https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491626483) | Apptoza Inc. | Toronto, Ontario, Canada |
+| 2026-11-19 | [Senior ServiceNow Consultant](https://ca.linkedin.com/jobs/view/senior-servicenow-consultant-at-flexstaf-i-t-inc-4492170849) | Flexstaf I.T. Inc. | Toronto, Ontario, Canada |
+| 2026-11-19 | [Consultant fonctionnel ServiceNow IRM – Risques, politiques et conformité, et audit](https://ca.linkedin.com/jobs/view/consultant-fonctionnel-servicenow-irm-%E2%80%93-risques-politiques-et-conformit%C3%A9-et-audit-at-lgs-an-ibm-company-4492249211) | LGS, an IBM Company | Ville-Marie, Quebec, Canada |
+| 2026-11-18 | [Business Analyst – ServiceNow Strategic Portfolio Management (SPM)](https://www.adzuna.ca/details/5970699098) | VDart Inc | Canada |
+| 2026-11-18 | [Sr. ServiceNow Architect](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300) | Resolve Tech Solutions | US Remote - FL |
+| 2026-11-18 | [ServiceNow Architect](https://www.adzuna.ca/details/5970623169) | RSM US LLP | Toronto, Ontario |
+| 2026-11-18 | [Senior Business Systems Analyst (ServiceNow)](https://www.adzuna.ca/details/5970622713) | Interac Corp. | Toronto, Ontario |
+| 2026-11-17 | [Sr. ServiceNow Development SME](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Development-SME_R1299) | Resolve Tech Solutions | US Remote - FL |
+| 2026-11-14 | [ServiceNow Technical Architect](https://www.adzuna.ca/land/ad/5965936226) | Forhyre | Toronto, Ontario |
+| 2026-11-06 | [Staff Security Engineer \| Enterprise Security](https://jobs.smartrecruiters.com/ServiceNow/744000160297239) | ServiceNow | Toronto, Ontario, ca · Remote |
+| 2026-11-06 | [Staff Security Engineer \| Security Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294642) | ServiceNow | Toronto, Ontario, ca · Remote |
+| 2026-11-06 | [Senior Staff Security Engineer \| Systems Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000160294989) | ServiceNow | Toronto, Ontario, ca · Remote |
+
+### Salesforce — newest 12
+
+| Posted | Role | Company | Location |
+|---|---|---|---|
+| 2026-11-19 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-highspring-4492439820) | Highspring | Toronto, Ontario, Canada |
+| 2026-11-18 | [Salesforce Experience Architect, AI and Agentforce (Solution Architect)](https://job-boards.greenhouse.io/neuraflash/jobs/6265700004) | NeuraFlash | Remote - Colombia |
+| 2026-11-18 | [Senior Salesforce CLM Developer](https://www.adzuna.ca/details/5970699322) | Northern Base | Alberta, Canada |
+| 2026-11-18 | [Software Engineering LMTS](https://www.adzuna.ca/details/5970622998) | Salesforce, Inc. | Canada |
+| 2026-11-18 | [AWS Technical Architect](https://www.adzuna.ca/details/5970622277) | NeuraFlash | Canada |
+| 2026-11-18 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5970622166) | Docebo | Canada |
+| 2026-11-18 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5970621513) | IA Financial Services | Québec, Canada |
+| 2026-11-18 | [Salesforce Solution Architect](https://www.adzuna.ca/details/5970092171) | The Citco Group | Toronto, Ontario |
+| 2026-11-18 | [GTM Strategy and Operations Associate Analyst](https://www.adzuna.ca/details/5970091376) | Salesforce | Toronto, Ontario |
+| 2026-11-18 | [Salesforce Business Analyst, Associate](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4492083143) | PwC Canada | Toronto, Ontario, Canada |
+| 2026-11-18 | [Technical Salesforce Associate](https://ca.linkedin.com/jobs/view/technical-salesforce-associate-at-pwc-canada-4492077178) | PwC Canada | Ottawa, Ontario, Canada |
+| 2026-11-18 | [Salesforce Business Analyst, Associate](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-associate-at-pwc-canada-4492065902) | PwC Canada | Vancouver, British Columbia, Canada |
+
+### Other keyword matches — newest 10
+
+| Posted | Role | Company | Location | Keyword |
+|---|---|---|---|---|
+| 2026-11-18 | [SEO Full Stack Engineer](https://remoteok.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Remote | Full stack |
+| 2026-11-18 | [Staff Fullstack Engineer, Data Products (Golang / Node)](https://www.adzuna.ca/details/5970621971) | Skynettstudio | Canada | Full stack |
+| 2026-11-18 | [Senior Fullstack Engineer - Grafana Data Source Plugins \| NASA \| (Remote, Canada)](https://www.adzuna.ca/details/5970622009) | Skynettstudio | Canada | Full stack |
+| 2026-11-18 | [Senior Full Stack Engineer, App Runtime](https://www.adzuna.ca/details/5970621265) | Skynettstudio | Toronto, Ontario | Full stack |
+| 2026-11-18 | [Marketing Operations Manager](https://www.adzuna.ca/details/5970378131) | Traction Complete Technologies Inc. | Vancouver, Greater Vancouver | other |
+| 2026-11-18 | [Senior Full Stack Developer (Hybrid \| Downtown Toronto, CAD)](https://www.adzuna.ca/details/5970107795) | mosaic Clinical Technologies | Toronto, Ontario | Full stack |
+| 2026-11-18 | [Senior Full Stack Developer (Hybrid \| Downtown Toronto)](https://www.adzuna.ca/details/5970091984) | mosaic Clinical Technologies | Toronto, Ontario | Full stack |
+| 2026-11-18 | [Sr. Full Stack Developer, TD Securities](https://www.adzuna.ca/details/5970077325) | TD Bank | Toronto, Ontario | Full stack |
+| 2026-11-18 | [Lead Full Stack AI Engineer](https://www.adzuna.ca/details/5970077232) | Manulife | Toronto, Ontario | Full stack |
+| 2026-11-18 | [Senior Full-stack Engineer](https://jobicy.com/jobs/153380-senior-full-stack-engineer-2) | Limbic | Canada | Full stack |
+
+_Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
+<!-- DAILY-SCAN:END -->
+
 <h2 align="center"><a href="https://eltonaguiar.github.io/BESTIEJOB/">▶ Open the live job board — eltonaguiar.github.io/BESTIEJOB</a></h2>
 
 **[Search, filter and sort every live posting on the web version →](https://eltonaguiar.github.io/BESTIEJOB/)**
