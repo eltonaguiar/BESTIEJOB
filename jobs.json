@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-19T09:13:05.492Z",
-    "generatedAt": "2026-11-19T09:13:05.492Z",
-    "total": 5497,
+    "scrapedAt": "2026-11-19T09:30:00.000Z",
+    "generatedAt": "2026-11-19T09:30:00.000Z",
+    "total": 5499,
     "newThisScan": 833,
     "retainedFromPrevious": 1604,
     "sources": {
@@ -33,12 +33,42 @@
       "adzuna": 491
     },
     "primaryCounts": {
-      "servicenow": 1151,
+      "servicenow": 1153,
       "salesforce": 1172
     },
     "undated": 0
   },
   "jobs": [
+    {
+      "id": "linkedin:https://ca.linkedin.com/jobs/view/senior-project-manager-servicenow-at-bevertec-4492090234",
+      "source": "linkedin",
+      "company": "Bevertec",
+      "title": "Senior Project Manager, ServiceNow",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-project-manager-servicenow-at-bevertec-4492090234",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T09:30:00.000Z",
+      "excerpt": "ServiceNow project management posting via LinkedIn, posted 2026-11-18.",
+      "workArrangement": "unknown",
+      "tags": ["servicenow"]
+    },
+    {
+      "id": "linkedin:https://ca.linkedin.com/jobs/view/servicenow-project-manager-at-russell-tobin-4491327690",
+      "source": "linkedin",
+      "company": "Russell Tobin",
+      "title": "Servicenow Project Manager",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-project-manager-at-russell-tobin-4491327690",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T00:00:00.000Z",
+      "scrapedAt": "2026-11-19T09:30:00.000Z",
+      "excerpt": "ServiceNow project manager posting via LinkedIn, posted 2026-11-18.",
+      "workArrangement": "unknown",
+      "tags": ["servicenow"]
+    },
     {
       "id": "dice:https://www.dice.com/job-detail/8dcf8f09-3c51-4ee2-a726-fd48976ea7c1",
       "source": "dice",
