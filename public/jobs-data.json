@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-19T04:15:41+00:00",
+ "generatedAt": "2026-11-19T05:13:57+00:00",
  "timezone": "America/Toronto",
- "count": 4954,
+ "count": 4959,
  "appliedHidden": 30,
  "sources": [
   "103.careerplug.com",
@@ -687,6 +687,49 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Revenue%20Data%20Analyst%20Jobgether&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "Business Analyst – ServiceNow Strategic Portfolio Management (SPM)",
+   "company": "VDart Inc",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5970699098",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "SPM/PPM",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "business analyst – servicenow strategic portfolio management (spm) vdart inc canada adzuna servicenow adzuna servicenow spm/ppm consulting/ba role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20VDart%20Inc+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20VDart%20Inc&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20VDart%20Inc&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Business%20Analyst%20%E2%80%93%20ServiceNow%20Strategic%20Portfolio%20Management%20%28SPM%29%20VDart%20Inc&loc=Canada"
     }
    ],
    "toronto": false
@@ -1715,6 +1758,47 @@
   },
   {
    "posted": "2026-11-18",
+   "title": "Associate Software Engineer (nCino/Salesforce)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "associate software engineer (ncino/salesforce) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
    "title": "Salesforce Solution Architect",
    "company": "The Citco Group",
    "location": "Toronto, Ontario",
@@ -1757,47 +1841,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Solution%20Architect%20The%20Citco%20Group&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Associate Software Engineer (nCino/Salesforce)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "associate software engineer (ncino/salesforce) td bank toronto, ontario workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Associate%20Software%20Engineer%20%28nCino/Salesforce%29%20TD%20Bank&loc=Toronto"
     }
    ],
    "toronto": true
@@ -2560,6 +2603,47 @@
   },
   {
    "posted": "2026-11-18",
+   "title": "Senior Salesforce CLM Developer",
+   "company": "Northern Base",
+   "location": "Alberta, Canada",
+   "url": "https://www.adzuna.ca/details/5970699322",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce clm developer northern base alberta, canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20CLM%20Developer%20Northern%20Base+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20CLM%20Developer%20Northern%20Base&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20CLM%20Developer%20Northern%20Base&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20CLM%20Developer%20Northern%20Base&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-18",
    "title": "Salesforce Solution Architect",
    "company": "IA Financial Services",
    "location": "Québec, Canada",
@@ -3173,6 +3257,133 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Full%20Stack%20Engineer%2C%20App%20Runtime%20Skynettstudio&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "Senior Full Stack Developer (Hybrid / Downtown Toronto, CAD)",
+   "company": "mosaic Clinical Technologies",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5970107795",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior full stack developer (hybrid / downtown toronto, cad) mosaic clinical technologies toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5970091984",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Full%20Stack%20Developer%20%28Hybrid%20/%20Downtown%20Toronto%2C%20CAD%29%20mosaic%20Clinical%20Technologies+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Full%20Stack%20Developer%20%28Hybrid%20/%20Downtown%20Toronto%2C%20CAD%29%20mosaic%20Clinical%20Technologies&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Full%20Stack%20Developer%20%28Hybrid%20/%20Downtown%20Toronto%2C%20CAD%29%20mosaic%20Clinical%20Technologies&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Full%20Stack%20Developer%20%28Hybrid%20/%20Downtown%20Toronto%2C%20CAD%29%20mosaic%20Clinical%20Technologies&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "Sr. Full Stack Developer, TD Securities",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5970077325",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. full stack developer, td securities td bank toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr.%20Full%20Stack%20Developer%2C%20TD%20Securities%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Full%20Stack%20Developer%2C%20TD%20Securities%20TD%20Bank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr.%20Full%20Stack%20Developer%2C%20TD%20Securities%20TD%20Bank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr.%20Full%20Stack%20Developer%2C%20TD%20Securities%20TD%20Bank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "Lead Full Stack AI Engineer",
+   "company": "Manulife",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5970077232",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "lead full stack ai engineer manulife toronto, ontario adzuna other adzuna role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Lead%20Full%20Stack%20AI%20Engineer%20Manulife+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Full%20Stack%20AI%20Engineer%20Manulife&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Lead%20Full%20Stack%20AI%20Engineer%20Manulife&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Lead%20Full%20Stack%20AI%20Engineer%20Manulife&loc=Toronto"
     }
    ],
    "toronto": true
