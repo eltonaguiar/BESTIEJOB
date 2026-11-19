@@ -20,7 +20,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-20 → 2026-11-19 · **6185 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1127)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1123 postings</strong></summary>| 2026-11-18 | [Project Manager – ServiceNow & Financial Systems - Contract](https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-servicenow-financial-systems-contract-at-compugen-inc-4492108232) | Compugen Inc | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md || 2026-11-18 | [ServiceNow Business Analyst - Contract](https://ca.linkedin.com/jobs/view/servicenow-business-analyst-contract-at-compugen-inc-4492113150) | Compugen Inc | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md |
+### ServiceNow jobs (1128)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1123 postings</strong></summary>| 2026-11-18 | [Project Manager – ServiceNow & Financial Systems - Contract](https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-servicenow-financial-systems-contract-at-compugen-inc-4492108232) | Compugen Inc | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md || 2026-11-18 | [ServiceNow Business Analyst - Contract](https://ca.linkedin.com/jobs/view/servicenow-business-analyst-contract-at-compugen-inc-4492113150) | Compugen Inc | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md || 2026-11-18 | [Business Analyst – ServiceNow Strategic Portfolio Management (SPM)](https://ca.linkedin.com/jobs/view/business-analyst-at-ntt-data-north-america-4490843088) | NTT DATA North America | Toronto, Ontario, Canada | via hermes-cron--2026-11-18--v12.md · servicenow · employer page opened and read in full; LinkedIn datePosted 2026-11-18; ServiceNow SPM duties (portfolio/configuration work on the platform) |
 | 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162143024) | ServiceNow | Toronto, ca | via ats--2026-11-17--v11.md |
 | 2026-11-17 | [Sr Solution Sales Executive CRM (CPQ)](https://jobs.smartrecruiters.com/ServiceNow/744000162166739) | ServiceNow | Toronto, ca | via ats--2026-11-17--v9.md |
 | 2026-11-14 | [ServiceNow Developer](https://www.adzuna.ca/details/5966144486) | SPECTRAFORCE | Toronto, Ontario | via hermes-cron--2026-11-19--v1.md |
@@ -1138,12 +1138,11 @@ Window: 2026-10-20 → 2026-11-19 · **6185 live postings** · deduplicated by U
 | 2026-11-03 | ["ServiceNow Architect"](https://www.adzuna.ca/details/5951769665) | Nityo Infotech | Toronto, Ontario | adzuna · servicenow |
 </details>
 
-### Salesforce jobs (1027)_developer / administrator / architect / consultant roles_
-
-<details><summary><strong>Show 1027 postings</strong></summary>| Posted | Role | Company | Location | Source / note |
-|---|---|---|---|---|
+### Salesforce jobs (1028)_developer / administrator / architect / consultant roles_
+<details><summary><strong>Show 1028 postings</strong></summary>|---|---|---|---|---|
 | 2026-11-19 | [Senior Specialist, Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-specialist-salesforce-developer-at-sickkids-foundation-4492230536) | SickKids Foundation | Toronto, Ontario, Canada | via hermes-cron--2026-11-19--v1.md |
 | 2026-11-18 | [Analyste Fonctionnel Salesforce](https://www.adzuna.ca/details/5970900783?utm_medium=api&utm_source=54ce986e) | DELAN | Canada | via fresh-ca--2026-11-19--v1.md |
+| 2026-11-18 | [Salesforce Senior Solutions Architect](https://ca.linkedin.com/jobs/view/salesforce-senior-solution-architect-at-ibm-4491324074) | IBM | Toronto, Ontario, Canada | via hermes-cron--2026-11-18--v12.md · salesforce · employer page opened and read in full; LinkedIn datePosted 2026-11-18; designing/implementing Salesforce CRM solutions with LWC and integration |
 | 2026-11-15 | [(C) Salesforce Engineer / Developer](https://mlse.wd3.myworkdayjobs.com/en-US/MLSE/job/XMLNAME--C--Salesforce-Engineer_JR0000580) | MLSE | Toronto, Ontario | via hermes-cron--2026-11-19--v1.md |
 | 2026-11-08 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://www.adzuna.ca/details/5958362977) | Smart IT Frame LLC | Toronto, Ontario | via hermes-cron--2026-11-19--v1.md |
 | 2026-11-08 | [Salesforce Lead](https://www.adzuna.ca/details/5958221292) | OSI Digital | Toronto, Ontario | via hermes-cron--2026-11-19--v1.md |
