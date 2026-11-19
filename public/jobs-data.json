@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-19T05:13:57+00:00",
+ "generatedAt": "2026-11-19T05:23:08+00:00",
  "timezone": "America/Toronto",
- "count": 4959,
+ "count": 4968,
  "appliedHidden": 30,
  "sources": [
   "103.careerplug.com",
@@ -279,6 +279,48 @@
   "zoominfo.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-19",
+   "title": "ServiceNow Lead, Business Analyst",
+   "company": "Cayuse Holdings",
+   "location": "Remote, Canada",
+   "url": "https://www.dice.com/job-detail/7e368586-ec98-403a-8408-177194d5e605",
+   "note": "dice",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 94,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow lead, business analyst cayuse holdings remote, canada dice.com servicenow dice servicenow consulting/ba role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Lead%2C%20Business%20Analyst%20Cayuse%20Holdings+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Lead%2C%20Business%20Analyst%20Cayuse%20Holdings&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Lead%2C%20Business%20Analyst%20Cayuse%20Holdings&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Lead%2C%20Business%20Analyst%20Cayuse%20Holdings&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
   {
    "posted": "2026-11-19",
    "title": "Architecte de solutions ServiceNow – HRSD, CSM, IRM, IA et plateforme",
@@ -571,6 +613,46 @@
   },
   {
    "posted": "2026-11-19",
+   "title": "Sr Specialist - ServiceNow Developer",
+   "company": "Energy Transfer",
+   "location": "Calgary, Alberta",
+   "url": "https://www.dice.com/job-detail/8dcf8f09-3c51-4ee2-a726-fd48976ea7c1",
+   "note": "dice",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "sr specialist - servicenow developer energy transfer calgary, alberta dice.com servicenow dice servicenow role fit",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr%20Specialist%20-%20ServiceNow%20Developer%20Energy%20Transfer+Calgary+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr%20Specialist%20-%20ServiceNow%20Developer%20Energy%20Transfer&location=Calgary"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr%20Specialist%20-%20ServiceNow%20Developer%20Energy%20Transfer&l=Calgary"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr%20Specialist%20-%20ServiceNow%20Developer%20Energy%20Transfer&loc=Calgary"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-19",
    "title": "Senior Specialist, Salesforce Developer",
    "company": "SickKids Foundation",
    "location": "Toronto, Ontario, Canada",
@@ -629,7 +711,14 @@
    ],
    "french": false,
    "search": "staff full-stack engineer, experience team servicenow toronto, ontario, ca smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-full-stack-engineer-experience-team-at-servicenow-4492262650",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -1098,12 +1187,6 @@
    "french": false,
    "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area",
    "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5970077372",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5970088512",
@@ -3884,14 +3967,7 @@
    ],
    "french": false,
    "search": "servicenow developer cum architect w3global mississauga, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5968012906",
-     "label": "Adzuna · Mississauga",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -4044,6 +4120,60 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Sr Solution Sales Executive CRM (CPQ)",
+   "company": "ServiceNow",
+   "location": "Toronto, ca",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162143024",
+   "note": "via ats--2026-11-17--v11.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 86,
+   "matchReasons": [
+    "ServiceNow",
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow via ats--2026-11-17--v11.md servicenow salesforce toronto area",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+     "label": "SmartRecruiters · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5969570818?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr%20Solution%20Sales%20Executive%20CRM%20%28CPQ%29%20ServiceNow&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-17",
@@ -4324,12 +4454,6 @@
    "french": false,
    "search": "salesforce business process analyst nuvei ottawa, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5969439399",
-     "label": "Adzuna · Ottawa",
-     "gated": false
-    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5969439394",
@@ -4792,6 +4916,129 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Business%20Systems%20Analyst%20%E2%80%93%20Salesforce%20Revenue%20Cloud%20UST&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Salesforce Marketing Cloud Architect",
+   "company": "MAVLRA CORPORATION",
+   "location": "Remote, Canada",
+   "url": "https://www.dice.com/job-detail/37b3d327-1e21-4bb8-abc2-7bc20fb9e41c",
+   "note": "dice",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud architect mavlra corporation remote, canada dice.com salesforce dice salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Marketing%20Cloud%20Architect%20MAVLRA%20CORPORATION+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Marketing%20Cloud%20Architect%20MAVLRA%20CORPORATION&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Marketing%20Cloud%20Architect%20MAVLRA%20CORPORATION&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Architect%20MAVLRA%20CORPORATION&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "salesforce cpq developer",
+   "company": "Spiceorb",
+   "location": "Remote, Canada",
+   "url": "https://www.dice.com/job-detail/77fb7a3d-a387-4963-9c44-d50c82a871ac",
+   "note": "dice",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce cpq developer spiceorb remote, canada dice.com salesforce dice salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=salesforce%20cpq%20developer%20Spiceorb+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=salesforce%20cpq%20developer%20Spiceorb&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=salesforce%20cpq%20developer%20Spiceorb&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=salesforce%20cpq%20developer%20Spiceorb&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-17",
+   "title": "Salesforce Marketing Cloud Architect (Remote)",
+   "company": "SSV Technologies Inc",
+   "location": "Remote, Canada",
+   "url": "https://www.dice.com/job-detail/86aad22c-bf6c-4901-bc4b-c34ef4a72837",
+   "note": "dice",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud architect (remote) ssv technologies inc remote, canada dice.com salesforce dice salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Marketing%20Cloud%20Architect%20%28Remote%29%20SSV%20Technologies%20Inc+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Marketing%20Cloud%20Architect%20%28Remote%29%20SSV%20Technologies%20Inc&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Marketing%20Cloud%20Architect%20%28Remote%29%20SSV%20Technologies%20Inc&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Architect%20%28Remote%29%20SSV%20Technologies%20Inc&loc=Canada"
     }
    ],
    "toronto": false
@@ -5350,14 +5597,7 @@
    ],
    "french": false,
    "search": "software engineering mts salesforce toronto, canada scoutify.com salesforce readme salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5968880742",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -5797,12 +6037,6 @@
    "french": false,
    "search": "cloud architect iko mississauga, on workday ats other workday role fit toronto area",
    "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5969279884",
-     "label": "Adzuna · Mississauga",
-     "gated": false
-    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5965582444",
@@ -6726,45 +6960,6 @@
   },
   {
    "posted": "2026-11-17",
-   "title": "Senior Fullstack Developer",
-   "company": "IrisCX",
-   "location": "Calgary, Calgary region",
-   "url": "https://www.adzuna.ca/details/5969280100",
-   "note": "Full stack",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "french": false,
-   "search": "senior fullstack developer iriscx calgary, calgary region adzuna other full stack role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Fullstack%20Developer%20IrisCX+Calgary+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Fullstack%20Developer%20IrisCX&location=Calgary"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Fullstack%20Developer%20IrisCX&l=Calgary"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Fullstack%20Developer%20IrisCX&loc=Calgary"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-17",
    "title": "QA Coordinator (Integrated Testing), Senior Level",
    "company": "Maarut",
    "location": "Montréal East, Montréal",
@@ -7387,98 +7582,6 @@
     }
    ],
    "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
-   "title": "ServiceNow Technical Lead – ITSM, ITOM, CMDB & SecOps",
-   "company": "Astra-North Infoteck Inc.",
-   "location": "Greater Vancouver, British Columbia",
-   "url": "https://www.adzuna.ca/details/5968012580",
-   "note": "",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "CMDB",
-    "ITOM",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow technical lead – itsm, itom, cmdb & secops astra-north infoteck inc. greater vancouver, british columbia adzuna servicenow  servicenow itsm cmdb itom role fit",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5965661670",
-     "label": "Adzuna · Greater Vancouver",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra-North%20Infoteck%20Inc.+Vancouver+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra-North%20Infoteck%20Inc.&location=Vancouver"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra-North%20Infoteck%20Inc.&l=Vancouver"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra-North%20Infoteck%20Inc.&loc=Vancouver"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-16",
-   "title": "enior ServiceNow ITOM Developer designing and building cloud, on-premises and network Discovery to populate and strengthen the CMDB",
-   "company": "S I Systems",
-   "location": "Calgary, Calgary region",
-   "url": "https://www.adzuna.ca/details/5968012814",
-   "note": "",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "CMDB",
-    "ITOM",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "enior servicenow itom developer designing and building cloud, on-premises and network discovery to populate and strengthen the cmdb s i systems calgary, calgary region adzuna servicenow  servicenow cmdb itom role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=enior%20ServiceNow%20ITOM%20Developer%20designing%20and%20building%20cloud%2C%20on-premises%20and%20network%20Discovery%20to%20populate%20and%20strengthen%20the%20CMDB%20S%20I%20Systems+Calgary+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=enior%20ServiceNow%20ITOM%20Developer%20designing%20and%20building%20cloud%2C%20on-premises%20and%20network%20Discovery%20to%20populate%20and%20strengthen%20the%20CMDB%20S%20I%20Systems&location=Calgary"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=enior%20ServiceNow%20ITOM%20Developer%20designing%20and%20building%20cloud%2C%20on-premises%20and%20network%20Discovery%20to%20populate%20and%20strengthen%20the%20CMDB%20S%20I%20Systems&l=Calgary"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=enior%20ServiceNow%20ITOM%20Developer%20designing%20and%20building%20cloud%2C%20on-premises%20and%20network%20Discovery%20to%20populate%20and%20strengthen%20the%20CMDB%20S%20I%20Systems&loc=Calgary"
-    }
-   ],
-   "toronto": false
   },
   {
    "posted": "2026-11-16",
@@ -9721,59 +9824,6 @@
   },
   {
    "posted": "2026-11-16",
-   "title": "Talent Advisor, AI Labs",
-   "company": "Salesforce, Inc.",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5968013006",
-   "note": "",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 32,
-   "matchReasons": [
-    "Salesforce",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "talent advisor, ai labs salesforce, inc. toronto, ontario adzuna other  salesforce toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5967039571",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5965594125",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Talent%20Advisor%2C%20AI%20Labs%20Salesforce%2C%20Inc.+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Talent%20Advisor%2C%20AI%20Labs%20Salesforce%2C%20Inc.&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Talent%20Advisor%2C%20AI%20Labs%20Salesforce%2C%20Inc.&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Talent%20Advisor%2C%20AI%20Labs%20Salesforce%2C%20Inc.&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
    "title": "PeopleSoft Financials Technical Consultant",
    "company": "Astra-North Infoteck Inc.",
    "location": "Toronto, Ontario",
@@ -11914,46 +11964,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Lead%20Management%20Operations%20Rogers%20Communications&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
-   "title": "Senior Full Stack AI Engineer/Ingénieur(e) principal(e), Full Stack et intelligence artificielle (IA)",
-   "company": "Manulife",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5968012674",
-   "note": "Full stack",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior full stack ai engineer/ingenieur(e) principal(e), full stack et intelligence artificielle (ia) manulife toronto, ontario adzuna other full stack role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Full%20Stack%20AI%20Engineer/Ing%C3%A9nieur%28e%29%20principal%28e%29%2C%20Full%20Stack%20et%20intelligence%20artificielle%20%28IA%29%20Manulife+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Full%20Stack%20AI%20Engineer/Ing%C3%A9nieur%28e%29%20principal%28e%29%2C%20Full%20Stack%20et%20intelligence%20artificielle%20%28IA%29%20Manulife&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Full%20Stack%20AI%20Engineer/Ing%C3%A9nieur%28e%29%20principal%28e%29%2C%20Full%20Stack%20et%20intelligence%20artificielle%20%28IA%29%20Manulife&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Full%20Stack%20AI%20Engineer/Ing%C3%A9nieur%28e%29%20principal%28e%29%2C%20Full%20Stack%20et%20intelligence%20artificielle%20%28IA%29%20Manulife&loc=Toronto"
     }
    ],
    "toronto": true
@@ -15041,59 +15051,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "ServiceNow Architecture Consultant",
-   "company": "CGI",
-   "location": "Calgary, AB",
-   "url": "https://cgi.njoyn.com/CORP/xweb/xweb.asp?page=JobDetails&CLID=21001&Jobid=J1126-1312&BRID=1349609&lang=1",
-   "note": "via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "cgi.njoyn.com",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "servicenow architecture consultant cgi calgary, ab cgi.njoyn.com servicenow via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md servicenow role fit",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5966726512",
-     "label": "Adzuna · Calgary",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-architecture-consultant-at-cgi-4491050108",
-     "label": "LinkedIn · Calgary",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Architecture%20Consultant%20CGI+Calgary+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Architecture%20Consultant%20CGI&location=Calgary"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Architecture%20Consultant%20CGI&l=Calgary"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Architecture%20Consultant%20CGI&loc=Calgary"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-15",
    "title": "Functional Manager - ServiceNow",
    "company": "KPMG",
    "location": "Multiple Locations",
@@ -15993,53 +15950,6 @@
   },
   {
    "posted": "2026-11-15",
-   "title": "Incident Coordinator",
-   "company": "Scotiabank",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/incident-coordinator-at-scotiabank-4489894559",
-   "note": "",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 38,
-   "matchReasons": [
-    "ITSM",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "incident coordinator scotiabank toronto, ontario, canada linkedin other  itsm toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5955295495",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Incident%20Coordinator%20Scotiabank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Incident%20Coordinator%20Scotiabank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Incident%20Coordinator%20Scotiabank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Incident%20Coordinator%20Scotiabank&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
    "title": "Bilingual Technical Integration Consultant - Diagnostic Cardiology Solutions (Canada Based)",
    "company": "Philips",
    "location": "Canada",
@@ -16123,6 +16033,53 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Full%20stack%20AI%20Developer%20%28Python%20%26%20Angular/React%29%20Intact%20FC&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-15",
+   "title": "Talent Advisor, AI Labs",
+   "company": "110 salesforce.com Canada Corporation",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5967039571",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 32,
+   "matchReasons": [
+    "Salesforce",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "talent advisor, ai labs 110 salesforce.com canada corporation toronto, ontario adzuna other readme salesforce toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5965594125",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Talent%20Advisor%2C%20AI%20Labs%20110%20salesforce.com%20Canada%20Corporation+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Talent%20Advisor%2C%20AI%20Labs%20110%20salesforce.com%20Canada%20Corporation&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Talent%20Advisor%2C%20AI%20Labs%20110%20salesforce.com%20Canada%20Corporation&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Talent%20Advisor%2C%20AI%20Labs%20110%20salesforce.com%20Canada%20Corporation&loc=Toronto"
     }
    ],
    "toronto": true
@@ -17170,59 +17127,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Site%20Reliability%20Engineer%20TJX&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-15",
-   "title": "RQ00793 - Project Manager/Leader - Senior",
-   "company": "Analyst Technical Solutions",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5966905053",
-   "note": "",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq00793 - project manager/leader - senior analyst technical solutions toronto, ontario adzuna other  role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5959247965",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5936605736",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=RQ00793%20-%20Project%20Manager/Leader%20-%20Senior%20Analyst%20Technical%20Solutions+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=RQ00793%20-%20Project%20Manager/Leader%20-%20Senior%20Analyst%20Technical%20Solutions&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=RQ00793%20-%20Project%20Manager/Leader%20-%20Senior%20Analyst%20Technical%20Solutions&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=RQ00793%20-%20Project%20Manager/Leader%20-%20Senior%20Analyst%20Technical%20Solutions&loc=Toronto"
     }
    ],
    "toronto": true
@@ -19207,6 +19111,49 @@
   },
   {
    "posted": "2026-11-14",
+   "title": "ServiceNow Technical Lead – ITSM, ITOM, CMDB & SecOps",
+   "company": "Astra North Infoteck Inc.",
+   "location": "Greater Vancouver, British Columbia",
+   "url": "https://www.adzuna.ca/details/5965661670",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "CMDB",
+    "ITOM",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow technical lead – itsm, itom, cmdb & secops astra north infoteck inc. greater vancouver, british columbia adzuna servicenow readme servicenow itsm cmdb itom role fit",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra%20North%20Infoteck%20Inc.+Vancouver+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra%20North%20Infoteck%20Inc.&location=Vancouver"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra%20North%20Infoteck%20Inc.&l=Vancouver"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Technical%20Lead%20%E2%80%93%20ITSM%2C%20ITOM%2C%20CMDB%20%26%20SecOps%20Astra%20North%20Infoteck%20Inc.&loc=Vancouver"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-14",
    "title": "ServiceNow CMDB Administrator",
    "company": "Bank of Montreal",
    "location": "Toronto, Ontario",
@@ -20268,6 +20215,53 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Sr%20Specialist%20%E2%80%93%20ServiceNow%20Developer%20Sunoco%20LP&loc=Calgary"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-14",
+   "title": "ServiceNow Architecture Consultant",
+   "company": "CGI",
+   "location": "Calgary, AB",
+   "url": "https://cgi.njoyn.com/CORP/xweb/xweb.asp?page=JobDetails&CLID=21001&Jobid=J1126-1312&BRID=1349609&lang=1",
+   "note": "via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "cgi.njoyn.com",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "servicenow architecture consultant cgi calgary, ab cgi.njoyn.com servicenow via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md servicenow role fit",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-architecture-consultant-at-cgi-4491050108",
+     "label": "LinkedIn · Calgary",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Architecture%20Consultant%20CGI+Calgary+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Architecture%20Consultant%20CGI&location=Calgary"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Architecture%20Consultant%20CGI&l=Calgary"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Architecture%20Consultant%20CGI&loc=Calgary"
     }
    ],
    "toronto": false
@@ -29136,6 +29130,46 @@
   },
   {
    "posted": "2026-11-13",
+   "title": "CAM ServiceNow CAD CSA",
+   "company": "Boston Associate Software Systems",
+   "location": "Remote, Canada",
+   "url": "https://www.dice.com/job-detail/50e2af54-a8e4-4700-9779-8893ac184f80",
+   "note": "dice",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "cam servicenow cad csa boston associate software systems remote, canada dice.com servicenow dice servicenow canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=CAM%20ServiceNow%20CAD%20CSA%20Boston%20Associate%20Software%20Systems+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=CAM%20ServiceNow%20CAD%20CSA%20Boston%20Associate%20Software%20Systems&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=CAM%20ServiceNow%20CAD%20CSA%20Boston%20Associate%20Software%20Systems&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=CAM%20ServiceNow%20CAD%20CSA%20Boston%20Associate%20Software%20Systems&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-13",
    "title": "ServiceNow Manager",
    "company": "10 Ledcor Industries Inc.",
    "location": "Greater Vancouver, British Columbia",
@@ -32709,6 +32743,47 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "ServiceNow Developer - Specialized Developer – Expert",
+   "company": "Spectra Group",
+   "location": "Hybrid in Toronto, Ontario",
+   "url": "https://www.dice.com/job-detail/731ebf90-6929-44cd-8cec-f2d1393a11fb",
+   "note": "dice",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow developer - specialized developer – expert spectra group hybrid in toronto, ontario dice.com servicenow dice servicenow role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20-%20Specialized%20Developer%20%E2%80%93%20Expert%20Spectra%20Group+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20-%20Specialized%20Developer%20%E2%80%93%20Expert%20Spectra%20Group&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20-%20Specialized%20Developer%20%E2%80%93%20Expert%20Spectra%20Group&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20-%20Specialized%20Developer%20%E2%80%93%20Expert%20Spectra%20Group&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Hybrid! ServiceNow Developer - Senior, 6 Month Contract",
    "company": "Dimensional Tech Inc.",
    "location": "Toronto, ON",
@@ -33634,6 +33709,47 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "Salesforce CPQ & Billing Developer",
+   "company": "Spiceorb",
+   "location": "Remote",
+   "url": "https://www.dice.com/job-detail/ad89e383-949f-428b-ab77-2715c3c8c0df",
+   "note": "dice",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce cpq & billing developer spiceorb remote dice.com salesforce dice salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20CPQ%20%26%20Billing%20Developer%20Spiceorb+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20CPQ%20%26%20Billing%20Developer%20Spiceorb&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20CPQ%20%26%20Billing%20Developer%20Spiceorb&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20CPQ%20%26%20Billing%20Developer%20Spiceorb&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Senior Solution Architect - Agentforce/ Salesforce",
    "company": "lululemon",
    "location": "Vancouver, British Columbia, Canada",
@@ -33888,6 +34004,46 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-12",
+   "title": "Salesforce Ops Consultant",
+   "company": "JConnect Inc",
+   "location": "Hybrid in Vancouver, British Columbia",
+   "url": "https://www.dice.com/job-detail/c2460d11-3eb6-49d6-8cd8-a90a056c1b07",
+   "note": "dice",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 48,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit"
+   ],
+   "french": false,
+   "search": "salesforce ops consultant jconnect inc hybrid in vancouver, british columbia dice.com salesforce dice salesforce role fit",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Ops%20Consultant%20JConnect%20Inc+Vancouver+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Ops%20Consultant%20JConnect%20Inc&location=Vancouver"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Ops%20Consultant%20JConnect%20Inc&l=Vancouver"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Ops%20Consultant%20JConnect%20Inc&loc=Vancouver"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-12",
@@ -53176,6 +53332,53 @@
   },
   {
    "posted": "2026-11-09",
+   "title": "RQ00793 - Project Manager/Leader - Senior",
+   "company": "Analyst Technical Solutions",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5959247965",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "rq00793 - project manager/leader - senior analyst technical solutions toronto, ontario adzuna other readme role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5936605736",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=RQ00793%20-%20Project%20Manager/Leader%20-%20Senior%20Analyst%20Technical%20Solutions+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=RQ00793%20-%20Project%20Manager/Leader%20-%20Senior%20Analyst%20Technical%20Solutions&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=RQ00793%20-%20Project%20Manager/Leader%20-%20Senior%20Analyst%20Technical%20Solutions&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=RQ00793%20-%20Project%20Manager/Leader%20-%20Senior%20Analyst%20Technical%20Solutions&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-09",
    "title": "Senior Full Stack Engineer People Products",
    "company": "Zim Directory",
    "location": "Toronto, Ontario",
@@ -60434,6 +60637,47 @@
   },
   {
    "posted": "2026-11-07",
+   "title": "Salesforce CPQ Solution Engineer",
+   "company": "Sagarsoft",
+   "location": "Hybrid in Bolton, Ontario",
+   "url": "https://www.dice.com/job-detail/2871e980-df5e-4723-b8d1-d833332ca413",
+   "note": "dice",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce cpq solution engineer sagarsoft hybrid in bolton, ontario dice.com salesforce dice salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20CPQ%20Solution%20Engineer%20Sagarsoft+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20CPQ%20Solution%20Engineer%20Sagarsoft&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20CPQ%20Solution%20Engineer%20Sagarsoft&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20CPQ%20Solution%20Engineer%20Sagarsoft&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-07",
    "title": "Salesforce Technical Lead",
    "company": "Insight Global",
    "location": "Toronto, ON",
@@ -60545,6 +60789,47 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-07",
+   "title": "Salesforce CPQ Lead Developer - Canada",
+   "company": "SRA Staffing Solutions LTD",
+   "location": "Remote, Canada",
+   "url": "https://www.dice.com/job-detail/bba6a816-cf04-42ad-a305-e3131b00f7dc",
+   "note": "dice",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce cpq lead developer - canada sra staffing solutions ltd remote, canada dice.com salesforce dice salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20CPQ%20Lead%20Developer%20-%20Canada%20SRA%20Staffing%20Solutions%20LTD+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20CPQ%20Lead%20Developer%20-%20Canada%20SRA%20Staffing%20Solutions%20LTD&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20CPQ%20Lead%20Developer%20-%20Canada%20SRA%20Staffing%20Solutions%20LTD&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20CPQ%20Lead%20Developer%20-%20Canada%20SRA%20Staffing%20Solutions%20LTD&loc=Canada"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-07",
@@ -66284,6 +66569,46 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "Incident Coordinator",
+   "company": "Scotiabank",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5955295495",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 38,
+   "matchReasons": [
+    "ITSM",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "incident coordinator scotiabank toronto, ontario adzuna other readme itsm toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Incident%20Coordinator%20Scotiabank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Incident%20Coordinator%20Scotiabank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Incident%20Coordinator%20Scotiabank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Incident%20Coordinator%20Scotiabank&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-06",
@@ -174538,6 +174863,60 @@
   },
   {
    "posted": "2026-10-30",
+   "title": "ServiceNow CSM/OMT Architect – 12-Month Contract",
+   "company": "Alldus International Consulting Limited",
+   "location": "Remote, Canada",
+   "url": "https://www.dice.com/job-detail/56a91ce9-8622-495c-8744-59f0ceb10c4e",
+   "note": "dice",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow csm/omt architect – 12-month contract alldus international consulting limited remote, canada dice.com servicenow dice servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-csm-omt-architect-%E2%80%93-12-month-contract-at-alldus-4481452768",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946004861?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-30",
    "title": "ServiceNow OMT Architect",
    "company": "Alldus",
    "location": "Canada",
@@ -174703,54 +175082,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20WSD%20Lead%20Architect%20SRA%20Group&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-30",
-   "title": "ServiceNow CSM/OMT Architect – 12-Month Contract",
-   "company": "Alldus",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-csm-omt-architect-%E2%80%93-12-month-contract-at-alldus-4481452768",
-   "note": "via freebuff--2026-11-05--v20.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow csm/omt architect – 12-month contract alldus canada linkedin servicenow via freebuff--2026-11-05--v20.md servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946004861?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus&loc=Canada"
     }
    ],
    "toronto": false
