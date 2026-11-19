@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-19T18:02:42.645Z** · 350 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-19T19:03:19.899Z** · 411 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -11,6 +11,7 @@
 |---|---|---|---|
 | 2026-11-19 | [ServiceNow CSM/HRSD](https://www.adzuna.ca/details/5971925727) | NLB Services | Mississauga, Peel region |
 | 2026-11-19 | [Senior ServiceNow Consultant](https://ca.linkedin.com/jobs/view/senior-servicenow-consultant-at-flexstaf-i-t-inc-4492170849) | Flexstaf I.T. Inc. | Toronto, Ontario, Canada |
+| 2026-11-19 | [ServiceNow Developer cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-yochana-4492501308) | Yochana | Mississauga, Ontario, Canada |
 | 2026-11-19 | [Premier(-ère) développeur(-euse), ServiceNow- FR](https://ca.linkedin.com/jobs/view/premier-%C3%A8re-d%C3%A9veloppeur-euse-servicenow-fr-at-la-caisse-caisse-de-d%C3%A9p%C3%B4t-et-placement-du-qu%C3%A9bec-4492195190) | La Caisse (Caisse de dépôt et placement du Québec) | Montreal, Quebec, Canada |
 | 2026-11-19 | [ServiceNow Business Analyst](https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491626483) | Apptoza Inc. | Toronto, Ontario, Canada |
 | 2026-11-19 | [Consultant fonctionnel ServiceNow IRM – Risques, politiques et conformité, et audit](https://ca.linkedin.com/jobs/view/consultant-fonctionnel-servicenow-irm-%E2%80%93-risques-politiques-et-conformit%C3%A9-et-audit-at-lgs-an-ibm-company-4492249211) | LGS, an IBM Company | Ville-Marie, Quebec, Canada |
@@ -20,7 +21,6 @@
 | 2026-11-18 | [Senior Business Systems Analyst (ServiceNow)](https://www.adzuna.ca/details/5970622713) | Interac Corp. | Toronto, Ontario |
 | 2026-11-17 | [Sr. ServiceNow Development SME](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Development-SME_R1299) | Resolve Tech Solutions | US Remote - FL |
 | 2026-11-14 | [ServiceNow Technical Architect](https://www.adzuna.ca/land/ad/5965936226) | Forhyre | Toronto, Ontario |
-| 2026-11-06 | [Staff Security Engineer \| Enterprise Security](https://jobs.smartrecruiters.com/ServiceNow/744000160297239) | ServiceNow | Toronto, Ontario, ca · Remote |
 
 ### Salesforce — newest 12
 
@@ -43,16 +43,16 @@
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
-| 2026-11-18 | [SEO Full Stack Engineer](https://remoteok.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Remote | Full stack |
-| 2026-11-18 | [Staff Fullstack Engineer, Data Products (Golang / Node)](https://www.adzuna.ca/details/5970621971) | Skynettstudio | Canada | Full stack |
-| 2026-11-18 | [Senior Fullstack Engineer - Grafana Data Source Plugins \| NASA \| (Remote, Canada)](https://www.adzuna.ca/details/5970622009) | Skynettstudio | Canada | Full stack |
-| 2026-11-18 | [Senior Full Stack Engineer, App Runtime](https://www.adzuna.ca/details/5970621265) | Skynettstudio | Toronto, Ontario | Full stack |
-| 2026-11-18 | [Marketing Operations Manager](https://www.adzuna.ca/details/5970378131) | Traction Complete Technologies Inc. | Vancouver, Greater Vancouver | other |
-| 2026-11-18 | [Senior Full Stack Developer (Hybrid \| Downtown Toronto, CAD)](https://www.adzuna.ca/details/5970107795) | mosaic Clinical Technologies | Toronto, Ontario | Full stack |
-| 2026-11-18 | [Senior Full Stack Developer (Hybrid \| Downtown Toronto)](https://www.adzuna.ca/details/5970091984) | mosaic Clinical Technologies | Toronto, Ontario | Full stack |
-| 2026-11-18 | [Sr. Full Stack Developer, TD Securities](https://www.adzuna.ca/details/5970077325) | TD Bank | Toronto, Ontario | Full stack |
-| 2026-11-18 | [Lead Full Stack AI Engineer](https://www.adzuna.ca/details/5970077232) | Manulife | Toronto, Ontario | Full stack |
-| 2026-11-18 | [Senior Full-stack Engineer](https://jobicy.com/jobs/153380-senior-full-stack-engineer-2) | Limbic | Canada | Full stack |
+| 2026-11-19 | [Canada, Europe, USA](https://www.adzuna.ca/details/5971925748?utm_medium=api&utm_source=54ce986e) | Big Internet Seller Services Inc | Canada | other |
+| 2026-11-19 | [Global Oil Gas Marketing Director](https://www.adzuna.ca/details/5971925499?utm_medium=api&utm_source=54ce986e) | IFS | Montréal, Québec | other |
+| 2026-11-19 | [Manager, Credit Card Acquisition and Onboarding](https://www.adzuna.ca/details/5971925528?utm_medium=api&utm_source=54ce986e) | BMO | Toronto, Ontario | other |
+| 2026-11-19 | [Marketing Manager, Member Marketing & Growth](https://www.adzuna.ca/details/5971925342?utm_medium=api&utm_source=54ce986e) | Manulife | Halifax region, Nova Scotia | other |
+| 2026-11-19 | [Sr Manager, Field Marketing](https://www.adzuna.ca/details/5971925334?utm_medium=api&utm_source=54ce986e) | Dayforce | Toronto, Ontario | other |
+| 2026-11-19 | [Managing Counsel, eDiscovery & Litigation Operations](https://www.adzuna.ca/details/5971925383?utm_medium=api&utm_source=54ce986e) | TD | Toronto, Ontario | other |
+| 2026-11-19 | [Manager, Controls Testing](https://www.adzuna.ca/details/5971925337?utm_medium=api&utm_source=54ce986e) | BMO | Toronto, Ontario | other |
+| 2026-11-19 | [Leader, Building Safety](https://www.adzuna.ca/details/5971925318?utm_medium=api&utm_source=54ce986e) | City of Chestermere | Chestermere, Calgary region | other |
+| 2026-11-19 | [Senior Human Resources Operations Analyst](https://www.adzuna.ca/details/5971925249?utm_medium=api&utm_source=54ce986e) | The Institute for Performance and Learning | Calgary, Calgary region | other |
+| 2026-11-19 | [Manager, Campaign Analytics (5 years) to lead audience strategy and campaign measurement using SQL and GCP- 42415](https://www.adzuna.ca/details/5971925206?utm_medium=api&utm_source=54ce986e) | S.I. Systems Ltd. | Toronto, Ontario | other |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
