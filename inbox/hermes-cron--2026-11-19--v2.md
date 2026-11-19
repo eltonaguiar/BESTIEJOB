@@ -1,3 +1,4 @@
+<!-- merged 2026-11-19T124818Z: +0 new, 3 duplicate, version 2 -->
 # Hermes cron scan — fresh Toronto ServiceNow & Salesforce jobs — 2026-11-19 05:00 EST
 
 Scan run: 2026-11-19 05:00 EST (2026-11-19T10:00Z).

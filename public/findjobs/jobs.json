@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-19T12:16:42.960Z",
     "generatedAt": "2026-11-19T12:16:42.960Z",
-    "total": 5508,
+    "total": 5509,
     "newThisScan": 840,
     "retainedFromPrevious": 1606,
     "sources": {
@@ -35,7 +35,8 @@
     "primaryCounts": {
       "servicenow": 1155,
       "salesforce": 1177
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -2809,6 +2810,23 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobs.smartrecruiters.com/servicenow/744000162166739",
+      "source": "readme",
+      "company": "ServiceNow",
+      "title": "Sr Solution Sales Executive CRM (CPQ)",
+      "location": "Toronto, ca",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-19T12:48:18.422Z",
+      "excerpt": "via ats--2026-11-17--v10.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
