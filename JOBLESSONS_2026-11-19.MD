@@ -39,3 +39,29 @@ Origin advanced mid-run (a511db8, actions hourly scan). Resolved by branching `h
 - EverCommerce "EverHealth — Sr Salesforce Administrator / Architect (Remote, US)" — title says US.
 - Symphony "Salesforce Architect/Tech Lead — W2 Only" — W2 = US.
 - Bell ServiceNow Senior Technical Advisor — no verifiable posting date.
+## Cycle 2 — Hermes hourly cron, 2026-11-19 01:00 EST (06:00Z)
+Base: eltonaguiar/bestiejob `main` at e7c0845 (cycle 1 Dice merge, commit fc2c05f at 05:13Z; jobs.json refreshed 05:22Z).
+
+**Merged +5 verified Toronto/GTA ServiceNow/Salesforce jobs into README tables** (jobs.json already carried them from the 05:22Z harvest; README tables were out of sync with jobs.json — tables now synced; dedupe by URL against existing ~8,000 board URLs, all clear).
+
+ServiceNow added (2):
+- Senior Solution Architect (ServiceNow) — TD Bank — Toronto, Ontario — 2026-11-18 — adzuna.ca/details/5970077372
+- ServiceNow Developer cum Architect — W3Global — Mississauga, Peel region — 2026-11-16 — adzuna.ca/details/5968012906
+
+Salesforce added (3):
+- [C] Salesforce Engineer / Developer — mlse — Toronto, Ontario — 2026-11-15 — adzuna.ca/details/5967040864
+- Software Engineer III - Salesforce Data 360 — TD Bank — Toronto, Ontario — 2026-11-15 — adzuna.ca/details/5966715213
+- Salesforce Senior Developer — IKO — Mississauga, ON — 2026-10-20 — iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-14036 (Workday detail shell has no server-rendered datePosted; date taken from FRESH_JOBS.md daily-scan row, inside the 30-day window)
+
+Deliberately skipped:
+- IKO Cloud Architect (Mississauga, 2026-11-13) — no ServiceNow/Salesforce evidence in title or scan row; out of scope for the SN/SF board.
+
+Source notes this cycle:
+- FRESH_JOBS.md (daily scan output, regenerated each run) is the fertile layer when direct scraping is blocked: 6 URLs absent from the board; 5 added as above, 1 skipped for relevance.
+- Indeed.ca returns HTTP 403 to curl — direct Indeed scraping is dead; rely on the daily scan's Indeed/Adzuna harvest instead.
+- Dice.com page-1 "Toronto" query returns mostly US remote cards; both Ontario hits (Spectra Group 11-12, Sagarsoft Bolton 11-06) were already in the board — zero new Dice adds this cycle.
+- nodesk.co / jobs.canada.ca / careers.rogers.com: DNS failures or JS shells with no server-rendered cards; Bell jobs.bce.ca is a Phenom shell with no verifiable datePosted.
+- Workday detail pages (e.g. IKO) render a client shell with no datePosted — pair Workday adds with the daily-scan row for the posted date.
+
+README counts: ServiceNow 1130, Salesforce 1031, total 6190 live postings. Committed on branch hermes-cron-2026-11-19, merged with origin/main, pushed to main (no force-push); pages.yml redeploys eltonaguiar.github.io/BESTIEJOB on push to main.
+
