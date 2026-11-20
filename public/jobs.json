@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-20T16:12:49.966Z",
     "generatedAt": "2026-11-20T16:12:49.966Z",
-    "total": 5586,
+    "total": 5588,
     "newThisScan": 562,
     "retainedFromPrevious": 5061,
     "sources": {
@@ -35,7 +35,8 @@
     "primaryCounts": {
       "servicenow": 1191,
       "salesforce": 4289
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -47,13 +48,14 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-20T16:12:49.966Z",
+      "postedDate": "2026-11-20T12:00:00.000Z",
       "scrapedAt": "2026-11-20T16:12:49.966Z",
       "excerpt": "JR362421",
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "linkedin:https://ca.linkedin.com/jobs/view/it-operations-service-transition-consultant-itsm-at-procom-4492596285",
@@ -90,6 +92,40 @@
         "other",
         "it-reporting",
         "itsm"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/directeur-trice-adjoint-e-plateforme-servicenow-at-ia-financial-group-industrial-alliance-4492965179",
+      "source": "readme",
+      "company": "iA Financial Group (Industrial Alliance)",
+      "title": "Directeur(trice) adjoint(e), Plateforme ServiceNow",
+      "location": "Québec, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/directeur-trice-adjoint-e-plateforme-servicenow-at-ia-financial-group-industrial-alliance-4492965179",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T17:10:16.983Z",
+      "excerpt": "via linkedin · servicenow · JSON-LD datePosted 2026-11-20T16:44Z, validThrough 2026-12-20; body-verified",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-financial-services-cloud-architect-contract-to-hire-montreal-canada-hybrid-4491935347",
+      "source": "readme",
+      "company": "IH",
+      "title": "Salesforce Financial Services Cloud Architect - Contract to Hire - Montreal, Canada(Hybrid)",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-financial-services-cloud-architect-contract-to-hire-montreal-canada-hybrid-4491935347",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T17:10:16.983Z",
+      "excerpt": "via linkedin · salesforce · FSC technical architect (FR/EN), body-verified; posted ~17:05Z",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
       ]
     },
     {
