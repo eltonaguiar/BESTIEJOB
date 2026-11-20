@@ -89,4 +89,26 @@ Source notes this cycle:
 
 `tools/build_site.py` re-ran cleanly against the unchanged README (4971 jobs: SN 832, SF 895, Other 3244); `public/` content is unchanged, so nothing to commit for the site this cycle.
 
+## Cycle 4 — Hermes hourly cron, 2026-11-19 22:00 EST (2026-11-20T03:00Z)
+Base: eltonaguiar/bestiejob `main` at 88f3af9 (README ServiceNow 1152 / Salesforce 1047 / Other 4089 = 6290 live postings, window 2026-10-20 → 2026-11-19).
+
+**Merged +1 verified Toronto/GTA Salesforce job into the README Salesforce table** (dedupe by normalized URL against README + jobs.json — clean).
+
+Salesforce added (1):
+- Salesforce Developer — Apex Systems — Mississauga, Ontario, Canada — 2026-11-10 — https://www.apexsystems.com/job/3058976_usa/salesforce-developer — 6-month hybrid contract, Salesforce Platform Developer I preferred; corroborated by LinkedIn guest snippet (job 4489664187, "Nov 10, 2026") and the Apex posting page.
+
+Counts after merge: ServiceNow 1152 / Salesforce 1048 / Other 4089 = 6291 live postings. README.md committed to main; `pages.yml` redeploys https://eltonaguiar.github.io/BESTIEJOB/ on push to main.
+
+Candidates verified but NOT added:
+- Zaelab — ServiceNow FSM Architect (LinkedIn 4434135469) — expired posting (Posted 2026-07-22 / expired 2026-08-05 per earlier runs); search engines re-surface expired postings.
+- EQ Bank / Equitable Bank — Senior ServiceNow CMDB Consultant (6-month contract), Toronto (LinkedIn 4144379061) — not on board but unverifiable this cycle: LinkedIn detail gated, exact-title search did not resurface it, no employer canonical page (EQ Bank Lever ATS shows other SN roles, not this one). Held as unverified lead.
+- Altus Group — Salesforce Platform Developer R0014087 — already on board ×2 (2026-10-30/31).
+- MLSE — Senior Salesforce Loyalty Cloud Administrator/Developer — canonical Workday Published 2026-09-30, outside the 30-day window.
+
+Source notes this cycle:
+- Indeed.ca: Cloudflare 403 (browser + curl) — direct Indeed scraping dead; rely on the daily scan's Indeed/Adzuna harvest.
+- LinkedIn guest: detail pages sign-in-gated; verify via search snippets + corroborating employer/mirror pages.
+- Rogers jobs.rogers.com: HTTP 404 / 9-byte body; Bell jobs.bell.ca: zero SN/SF reqs; GC Jobs / Job Bank portals Radware-walled or title-noise — re-check weekly, not hourly.
+- Entry-level / Platform Developer I emphasis: Apex row matches (PD1 preferred, GTA). MLSE Built In Toronto "Entry level" tag was stale (canonical publish 2026-09-30).
+
 

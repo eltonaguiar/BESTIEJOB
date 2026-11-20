@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-20T01:01:43.018Z** · 423 live postings from 10 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-20T03:00:00Z** · hourly cron scan — 1 net-new verified row merged to curated tables (Salesforce · Apex Systems, Mississauga, posted 2026-11-10) · dedupe against README.md tables (0 duplicates) · full list in [FRESH_JOBS.md](FRESH_JOBS.md) · 2 leads held unverified: Zaelab FSM Architect (expired posting), EQ Bank CMDB Consultant (detail gated, no canonical page) — see JOBLESSONS_2026-11-19.MD
 
 ### ServiceNow — newest 12
 
@@ -63,7 +63,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 - [Current jobs — as of 2026-11-19](#current-jobs--as-of-2026-11-19)
   - [ServiceNow jobs (1152)](#servicenow-jobs-1112)
-  - [Salesforce jobs (1047)](#salesforce-jobs-1071)
+  - [Salesforce jobs (1048)](#salesforce-jobs-1071)
   - [Other jobs (4089)](#other-jobs-4061)
 - [User / AI agent guide](#user--ai-agent-guide)
 - [How to add jobs](#how-to-add-jobs-to-this-file)
@@ -71,7 +71,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-19
 
-Window: 2026-10-20 → 2026-11-19 · **6256 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-20 → 2026-11-19 · **6255 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1152)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1152 postings</strong> postings</strong></summary>
 | 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, Canada | via smartrecruiters · servicenow · ATS API released 2026-11-20T00:08Z; hybrid at 161 Bay St |
@@ -1222,8 +1222,9 @@ Window: 2026-10-20 → 2026-11-19 · **6256 live postings** · deduplicated by U
 | 2026-10-20 | [ServiceNow Developer (CONTRACT ROLE) - Brookfield](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/ServiceNow-Developer--CONTRACT-ROLE-_R2053249-1) | Canada: Toronto, ON; board labels it in-office. Contract runs November 2026 through June 2027. | Full-time contract, Nov 2026-Jun 2027 | readme · servicenow |
 | 2026-10-20 | [Service and Technology Delivery Lead (ServiceNow ITSM, Req 48436, closes 2026-11-04)](https://jobs.utoronto.ca/job/Toronto-Service-and-Technology-Delivery-Lead-ON/603172317/) | University of Toronto | Toronto, ON | readme · servicenow, it-reporting |
 | 2026-10-20 | [Secret Cleared ServiceNow Developer - App Engine](https://ca.linkedin.com/jobs/view/secret-cleared-servicenow-developer-app-engine-at-alldus-4480466540) | Alldus | Canada | readme · servicenow |
-### Salesforce jobs (1047)_developer / administrator / architect / consultant roles_<details><summary><strong>Show 1047 postings</strong> postings</strong></summary>
-| 2026-11-20 | [Sr Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-euna-solutions-4492752341) | Euna Solutions | Oakville, Ontario, Canada | via linkedin · salesforce · live 200 |
+### Salesforce jobs (1048)_developer / administrator / architect / consultant roles_<details><summary><strong>Show 1048 postings</strong> postings</strong></summary>
+|| 2026-11-10 | [Salesforce Developer](https://www.apexsystems.com/job/3058976_usa/salesforce-developer) | Apex Systems | Mississauga, Ontario, Canada | via linkedin · salesforce · posted 2026-11-10 · 6-month hybrid contract · Platform Developer I preferred |
+|| 2026-11-20 | [Sr Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-euna-solutions-4492752341) | Euna Solutions | Oakville, Ontario, Canada | via linkedin · salesforce · live 200 |
 | 2026-11-19 | [Senior Business Analyst - Salesforce](https://ca.linkedin.com/jobs/view/senior-business-analyst-salesforce-at-co-operators-assurance-et-services-financiers-4484100312) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada | via linkedin-guest--2026-11-19--v1.md |
 | 2026-11-19 | [Salesforce Agentic Developer](https://builtintoronto.com/job/salesforce-agentic-developer/12337693) | Paralucent | Toronto, ON, Canada | via Built In Toronto |
 | 2026-11-19 | [Senior Business Analyst - Salesforce](https://ca.linkedin.com/jobs/view/senior-business-analyst-salesforce-at-co-operators-assurance-et-services-financiers-4484107191) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-19--v2.md |
