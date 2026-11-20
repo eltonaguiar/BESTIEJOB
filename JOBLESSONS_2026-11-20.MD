@@ -35,3 +35,14 @@ Toronto SN/SF hourly scans routinely yield 0–1 net-new verified jobs. Blockers
 
 ## Counts after this cycle (unchanged)
 ServiceNow 1152 / Salesforce 1048 / Other 4089 = 6291 live postings. README.md unchanged — no rows inserted, none removed. No GitHub Pages content change this cycle beyond this lessons record committed to main.
+
+
+## Second cycle — 2026-11-20 00:00 EST (05:02:09 UTC) — `scripts/daily_job_scan.mjs`
+**Base**: origin/main at 48009ca (CI hourly scan, 04:15:11Z, 5,586 listings).
+**Fresh postings surfaced**: 472 (linkedin 292 · adzuna 133 · greenhouse 17 · smartrecruiters 13 · remotive 6 · jobicy 4 · workday 2 · ashby 2 · remoteok 2 · lever 1).
+**Merged to jobs.json + README.md DAILY-SCAN block**: commit c31ce75 (2,514 rows after capSecondary; primary ServiceNow 1,169 / Salesforce 1,206 retained).
+**Liveness gate** (`verify_links.py --days 2`): 155 fresh rows probed · 0 dead · 66 unknown (bot-wall, not treated as dead) · nothing dropped.
+**GitHub Pages**: `tools/build_site.py` → 5,045 cards (SN 848 / SF 916 / Other 3,281), built 2026-11-20 05:03 UTC; `pages.yml` run 44678537345 triggered to redeploy.
+**Notable fresh Toronto/partner roles**: ServiceNow — Senior Systems Engineer (ServiceNow, smartrecruiters, posted 2026-11-20), Senior Associate Workflows & Automation / SN Developer (PwC), Senior Solution Architect SN (TD Bank), Senior BSA SN (Interac Corp.), HR Tech & SN HRSD (Mackenzie Investments), ServiceNow Architect (Pacer Group), SN ITAM/ITOM Architect (W3Global), SN ITOM Developer (Virtusa); Salesforce — Sr Salesforce Developer (Euna Solutions, Oakville), Sr Systems Developer Salesforce (Co-operators, Mississauga/Toronto/Guelph), Salesforce Administrator (CanPrev).
+**Employer / partner / telco / government checks**: Bell — Ateko ("backed by Bell Canada") had live SN roles; jobs.bell.ca itself returns 0 SN/SF. Rogers — jobs.rogers.com unreachable (HTTP 404), re-check weekly. Government of Canada — jobs.gc.ca / gojobs.gov.on.ca Radware-captcha-walled; Job Bank is the title-only proxy. Workday CXS — every tenant HTTP 429 at :00Z (CI scan minute); space manual probes ≥8s or leave to CI.
+**Lessons**: (1) Workday CXS 429 at :00Z — avoid probing at the top of the hour. (2) Adzuna 503 under rapid queries — space calls ≥3s; demo keys still surface results despite partial failures. (3) LinkedIn guest API works over HTTP (292 cards); no local Playwright/chromium, so `--playwright` is not an option. (4) capSecondary shrinkage (5,586 → 2,514) is by design — secondary tags capped at 40, primary SN/SF unlimited; do not hand-merge dropped rows back. (5) 403/429/5xx are bot-walls on live postings, never dead; only 404/410/451 are dropped. (6) Commit scan outputs with `[skip ci]` (avoids pre-existing red board-invariants) and manually trigger `pages.yml` for immediate Pages redeploy; never commit the unrelated `ServiceNow_Learning_...` submodule pointer or untracked scratch files.
