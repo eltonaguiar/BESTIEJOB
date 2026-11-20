@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T18:26:39+00:00",
+ "generatedAt": "2026-11-20T18:48:26+00:00",
  "timezone": "America/Toronto",
  "count": 5045,
  "appliedHidden": 30,
@@ -34759,6 +34759,12 @@
     },
     {
      "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941645750?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5939044602?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto",
      "gated": false
@@ -35505,6 +35511,12 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946007553?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Kelowna",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940716920",
+     "label": "Adzuna · Calgary",
      "gated": false
     }
    ],
@@ -46811,7 +46823,14 @@
    ],
    "french": false,
    "search": "salesforce software engineer steadman brown toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-software-engineer-at-steadman-brown-4480664272",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -48066,6 +48085,12 @@
      "source": "Eluta",
      "url": "https://www.eluta.ca/spl/salesforce-fsc-developer-c777855de09cc538edad06a56d487bbb",
      "label": "Eluta · Toronto ON",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938973162?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
      "gated": false
     },
     {
@@ -81068,6 +81093,12 @@
     },
     {
      "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4482190174",
+     "label": "LinkedIn · Vancouver",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4482189212",
      "label": "LinkedIn · Toronto",
      "gated": false
@@ -95965,6 +95996,12 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-salytics-4456030739",
      "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5939042938?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
      "gated": false
     }
    ],
@@ -125948,6 +125985,12 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5937645138",
      "label": "Adzuna · Ontario",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5936615388",
+     "label": "Adzuna · Toronto",
      "gated": false
     }
    ],
@@ -190921,7 +190964,14 @@
    ],
    "french": false,
    "search": "itam governance analyst insight global toronto, on adzuna servicenow readme itam role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941206005?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -201719,7 +201769,14 @@
    ],
    "french": false,
    "search": "salesforce consultant axiom global technologies toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-axiom-global-technologies-4481996153",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {

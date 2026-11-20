@@ -35,28 +35,10 @@
     "primaryCounts": {
       "servicenow": 1192,
       "salesforce": 4291
-    }
+    },
+    "undated": 0
   },
   "jobs": [
-    {
-      "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/taiwan---remote/salesforce---salesforce-architect-_jr362421",
-      "source": "workday",
-      "company": "Salesforce",
-      "title": "Salesforce 架構師 (Salesforce Architect)",
-      "location": "Taiwan - Remote",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-20T18:24:27.525Z",
-      "scrapedAt": "2026-11-20T18:24:27.525Z",
-      "excerpt": "JR362421",
-      "workArrangement": "remote",
-      "tags": [
-        "salesforce"
-      ],
-      "verifiedAt": "2026-11-20T18:25:34.565061+00:00",
-      "verifyState": "live"
-    },
     {
       "id": "adzuna:adzuna.ca/details/5973150270",
       "source": "adzuna",
@@ -71,6 +53,26 @@
       "excerpt": "Are you passionate about helping people live their healthiest lives? Do you thrive in a dynamic, supportive environment where your contributions truly matter? If so, Medcan is the place for you! This job is for a current vacancy. The Opportunity As a member of Medcan's Lifecycle Marketing team, the Specialist, Salesfor",
       "workArrangement": "unknown",
       "tags": []
+    },
+    {
+      "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/taiwan---remote/salesforce---salesforce-architect-_jr362421",
+      "source": "workday",
+      "company": "Salesforce",
+      "title": "Salesforce 架構師 (Salesforce Architect)",
+      "location": "Taiwan - Remote",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T18:24:27.525Z",
+      "excerpt": "JR362421",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-20T18:25:34.565061+00:00",
+      "verifyState": "live",
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "linkedin:https://ca.linkedin.com/jobs/view/it-operations-service-transition-consultant-itsm-at-procom-4492596285",
