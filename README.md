@@ -3,35 +3,41 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-20T03:00:00Z** · hourly cron scan — 1 net-new verified row merged to curated tables (Salesforce · Apex Systems, Mississauga, posted 2026-11-10) · dedupe against README.md tables (0 duplicates) · full list in [FRESH_JOBS.md](FRESH_JOBS.md) · 2 leads held unverified: Zaelab FSM Architect (expired posting), EQ Bank CMDB Consultant (detail gated, no canonical page) — see JOBLESSONS_2026-11-19.MD
+**Scan: 2026-11-20T05:02:09.337Z** · 441 live postings from 10 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
-| 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, ca |
-| 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada |
+| 2026-11-19 | [ServiceNow Business Analyst - Senior -Toronto, ON (3 days onsite)](https://www.adzuna.ca/details/5972002660) | Amicis Global | Toronto, Ontario |
 | 2026-11-19 | [Project Manager ServiceNow](https://www.adzuna.ca/details/5972002614) | vTech Solution | Regent Park, City of Toronto |
 | 2026-11-19 | [ServiceNow CSM/HRSD](https://www.adzuna.ca/details/5971925727) | NLB Services | Mississauga, Peel region |
-| 2026-11-19 | [Premier(-ère) développeur(-euse), ServiceNow- FR](https://ca.linkedin.com/jobs/view/premier-%C3%A8re-d%C3%A9veloppeur-euse-servicenow-fr-at-la-caisse-caisse-de-d%C3%A9p%C3%B4t-et-placement-du-qu%C3%A9bec-4492195190) | La Caisse (Caisse de dépôt et placement du Québec) | Montreal, Quebec, Canada |
+| 2026-11-19 | [Senior Associate, Workflows and Automation (Sr. ServiceNow Developer)](https://www.adzuna.ca/details/5971464664) | PricewaterhouseCoopers | Canada |
+| 2026-11-19 | [Sr. ServiceNow Architect](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300) | Resolve Tech Solutions | US Remote - FL |
 | 2026-11-19 | [Senior ServiceNow Consultant](https://ca.linkedin.com/jobs/view/senior-servicenow-consultant-at-flexstaf-i-t-inc-4492170849) | Flexstaf I.T. Inc. | Toronto, Ontario, Canada |
 | 2026-11-19 | [ServiceNow Architect](https://ca.linkedin.com/jobs/view/servicenow-architect-at-pacer-group-4492515163) | Pacer Group | Toronto, Ontario, Canada |
-| 2026-11-19 | [ServiceNow Developer cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-yochana-4492518439) | Yochana | Canada |
 | 2026-11-19 | [ServiceNow Business Analyst](https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491626483) | Apptoza Inc. | Toronto, Ontario, Canada |
-| 2026-11-19 | [Consultant fonctionnel ServiceNow IRM – Risques, politiques et conformité, et audit](https://ca.linkedin.com/jobs/view/consultant-fonctionnel-servicenow-irm-%E2%80%93-risques-politiques-et-conformit%C3%A9-et-audit-at-lgs-an-ibm-company-4492249211) | LGS, an IBM Company | Ville-Marie, Quebec, Canada |
-| 2026-11-19 | [ServiceNow Developer cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-yochana-4492501308) | Yochana | Mississauga, Ontario, Canada |
-| 2026-11-18 | [Sr. ServiceNow Architect](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300) | Resolve Tech Solutions | US Remote - FL |
+| 2026-11-19 | [Premier(-ère) développeur(-euse), ServiceNow- FR](https://ca.linkedin.com/jobs/view/premier-%C3%A8re-d%C3%A9veloppeur-euse-servicenow-fr-at-la-caisse-caisse-de-d%C3%A9p%C3%B4t-et-placement-du-qu%C3%A9bec-4492195190) | La Caisse (Caisse de dépôt et placement du Québec) | Montreal, Quebec, Canada |
+| 2026-11-19 | [ServiceNow Developer cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-yochana-4492518439) | Yochana | Canada |
+| 2026-11-19 | [Spécialiste d'implantation ServiceNow \| Implementation Specialist](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-d-implantation-servicenow-implementation-specialist-at-ateko-backed-by-bell-canada-4492156434) | Ateko, backed by Bell Canada | Canada |
+| 2026-11-19 | [Spécialiste de l'IA ServiceNow – Now Assist, AI Agents et connaissances](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-de-l-ia-servicenow-%E2%80%93-now-assist-ai-agents-et-connaissances-at-lgs-an-ibm-company-4492235862) | LGS, an IBM Company | Ville-Marie, Quebec, Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
-| 2026-11-20 | [Sr Salesforce Developer](https://ca.linkedin.com/jobs/view/sr-salesforce-developer-at-euna-solutions-4492752341) | Euna Solutions | Oakville, Ontario, Canada |
-| 2026-11-19 | [Senior Systems Developer - Salesforce (Temp Full-Time - 12 mths)](https://ca.linkedin.com/jobs/view/senior-systems-developer-salesforce-temp-full-time-12-mths-at-co-operators-4492480161) | Co-operators | Toronto, Ontario, Canada |
-| 2026-11-19 | [Senior Systems Developer - Salesforce (Temp Full-Time - 12 mths)](https://ca.linkedin.com/jobs/view/senior-systems-developer-salesforce-temp-full-time-12-mths-at-co-operators-assurance-et-services-financiers-4492181417) | Co-operators Assurance et services financiers | Guelph, Ontario, Canada |
-| 2026-11-19 | [Managed Services - Salesforce Associate Consultant, Nonprofit](https://ca.linkedin.com/jobs/view/managed-services-salesforce-associate-consultant-nonprofit-at-passion-fruit-partners-4492182835) | Passion Fruit Partners | Canada |
-| 2026-11-19 | [Senior Systems Developer - Salesforce (Temp Full-Time - 12 mths)](https://ca.linkedin.com/jobs/view/senior-systems-developer-salesforce-temp-full-time-12-mths-at-co-operators-4492476404) | Co-operators | Guelph, Ontario, Canada |
-| 2026-11-18 | [Salesforce Experience Architect, AI and Agentforce (Solution Architect)](https://job-boards.greenhouse.io/neuraflash/jobs/6265700004) | NeuraFlash | Remote - Colombia |
+| 2026-11-20 | [Salesforce 架構師 (Salesforce Architect)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421) | Salesforce | Taiwan - Remote |
+| 2026-11-20 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-canprev-4492535763) | CanPrev | North York, Ontario, Canada |
+| 2026-11-20 | [Salesforce Business Process Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492537774) | Jobgether | Canada |
+| 2026-11-19 | [Senior Corporate Counsel - Commercial](https://www.adzuna.ca/details/5971924657) | Slack | Greater Vancouver, British Columbia |
+| 2026-11-19 | [Technical Salesforce Associate](https://www.adzuna.ca/details/5971469914) | PricewaterhouseCoopers | Canada |
+| 2026-11-19 | [Salesforce Techno-Functional Support Lead / AMS Lead](https://www.adzuna.ca/details/5971469672) | Accenture | Canada |
+| 2026-11-19 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5971464660) | CGI | Toronto, Ontario |
+| 2026-11-19 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-coforge-4492193291) | Coforge | Markham, Ontario, Canada |
+| 2026-11-19 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-highspring-4492439820) | Highspring | Toronto, Ontario, Canada |
+| 2026-11-19 | [Senior Systems Developer - Salesforce (Temp Full-Time - 12 mths)](https://ca.linkedin.com/jobs/view/senior-systems-developer-salesforce-temp-full-time-12-mths-at-co-operators-assurance-et-services-financiers-4492177633) | Co-operators Assurance et services financiers | Mississauga, Ontario, Canada |
+| 2026-11-19 | [Senior Systems Developer - Salesforce (Temp Full-Time - 12 mths)](https://ca.linkedin.com/jobs/view/senior-systems-developer-salesforce-temp-full-time-12-mths-at-co-operators-assurance-et-services-financiers-4492178449) | Co-operators Assurance et services financiers | Toronto, Ontario, Canada |
+| 2026-11-19 | [Senior Systems Developer - Salesforce (Temp Full-Time - 12 mths)](https://ca.linkedin.com/jobs/view/senior-systems-developer-salesforce-temp-full-time-12-mths-at-co-operators-4492464622) | Co-operators | Mississauga, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
