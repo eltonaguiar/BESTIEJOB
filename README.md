@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-20T11:02:12.797Z** · 492 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-20T12:01:27.327Z** · 474 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -29,11 +29,13 @@
 | 2026-11-20 | [Salesforce 架構師 (Salesforce Architect)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421) | Salesforce | Taiwan - Remote |
 | 2026-11-20 | [Salesforce Data Cloud MarTech Consultant](https://www.adzuna.ca/details/5972727367) | Accenture | Canada |
 | 2026-11-20 | [Salesforce Business Systems Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-systems-analyst-at-avanciers-inc-4491679996) | Avanciers Inc. | Toronto, Ontario, Canada |
-| 2026-11-20 | [Salesforce Business Process Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492537774) | Jobgether | Canada |
 | 2026-11-20 | [Salesforce Architect](https://ca.linkedin.com/jobs/view/salesforce-architect-at-avanciers-inc-4491690701) | Avanciers Inc. | Toronto, Ontario, Canada |
 | 2026-11-20 | [Salesforce Business Process Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492529940) | Jobgether | Canada |
+| 2026-11-20 | [Salesforce Business Process Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492537774) | Jobgether | Canada |
 | 2026-11-20 | [Product Manager, Workplace Salesforce Product Team, Vice President](https://ca.linkedin.com/jobs/view/product-manager-workplace-salesforce-product-team-vice-president-at-morgan-stanley-4480247596) | Morgan Stanley | Calgary, Alberta, Canada |
 | 2026-11-19 | [Salesforce CLM Developer](https://www.adzuna.ca/details/5972002704) | Northern Base | Alberta, Canada |
+| 2026-11-19 | [Senior Corporate Counsel - Commercial](https://www.adzuna.ca/details/5971924657) | Slack | Greater Vancouver, British Columbia |
+| 2026-11-19 | [Technical Salesforce Associate](https://www.adzuna.ca/details/5971469914) | PricewaterhouseCoopers | Canada |
 | 2026-11-19 | [Salesforce Techno-Functional Support Lead / AMS Lead](https://www.adzuna.ca/details/5971469672) | Accenture | Canada |
 | 2026-11-19 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5971464660) | CGI | Toronto, Ontario |
 
@@ -75,7 +77,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 Window: 2026-10-20 → 2026-11-19 · **6159 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
-### ServiceNow jobs (1208)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1152 postings</strong> postings</strong></summary>| 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, Canada | via smartrecruiters · servicenow · ATS API released 2026-11-20T00:08Z; hybrid at 161 Bay St || 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada | via linkedin · servicenow · live 200 || 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, ca | via hermes-cron--2026-11-20--v1.md || 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada | via hermes-cron--2026-11-20--v1.md |
+### ServiceNow jobs (1211)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1155 postings</strong> postings</strong></summary>| 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, Canada | via smartrecruiters · servicenow · ATS API released 2026-11-20T00:08Z; hybrid at 161 Bay St || 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada | via linkedin · servicenow · live 200 || 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, ca | via hermes-cron--2026-11-20--v1.md || 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada | via hermes-cron--2026-11-20--v1.md || 2026-11-19 | [Enterprise Risk Management Manager (ServiceNow IRM)](https://ca.linkedin.com/jobs/view/enterprise-risk-management-manager-at-workplace-safety-and-insurance-board-wsib-4492156479) | WSIB | Toronto, Ontario | via hermes-cron-2026-11-20T0700EST · servicenow · body-verified || 2026-11-19 | [Senior Project Manager – ServiceNow (26-29279)](https://ca.linkedin.com/jobs/view/project-manager-%23-26-29279-at-us-tech-solutions-4492164585) | US Tech Solutions | Toronto, Ontario | via hermes-cron-2026-11-20T0700EST · servicenow · body-verified || 2026-11-17 | [Application Administrator (ServiceNow)](https://ca.linkedin.com/jobs/view/application-administrator-at-halifax-regional-municipality-4490481507) | Halifax Regional Municipality | Halifax, Nova Scotia | via hermes-cron-2026-11-20T0700EST · servicenow · body-verified 
 | 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, ca | via hermes-cron--2026-11-20--v2.md |
 | 2026-11-19 | [ITSM Consultant](https://www.adzuna.ca/details/5971453686?utm_medium=api&utm_source=54ce986e) | Long View Systems | Canada | via fresh-ca--2026-11-20--v1.md |
 | 2026-11-19 | [Project Manager – ServiceNow](https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-servicenow-at-apptoza-inc-4491624485) | Apptoza Inc. | Toronto, Ontario, Canada | via fresh-ca--2026-11-20--v1.md |
