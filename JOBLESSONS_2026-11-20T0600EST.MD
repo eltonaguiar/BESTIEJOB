@@ -23,6 +23,7 @@ Outcome: full pipeline scan (`node scripts/daily_job_scan.mjs`) → **fresh=542,
 - **Salesforce keyword search is 80% sales/marketing noise.** `Enterprise Account Executive`, `SDR`, `Lead Management Operations`, `SFMC Manager` (borderline), `Marketing Operations Manager` dominate. Filter to admin/developer/architect/analyst titles before dedupe.
 - **"salesforce" hits from the sidebar, again.** S M Software RQ11675 "Software Developer – CRM – Senior" (Toronto, 8h) is **Microsoft Dynamics 365 / Power Platform**; the only `salesforce` token on the page was a "People also viewed" card. Same class as the City of Hamilton rejection.
 - **Title mirrors across sources.** LinkedIn `Staff Systems Engineer` (ServiceNow Toronto, 16h) duplicates the SmartRecruiters row posted 2026-11-09 (same company+title+city). Company+title matching catches it; URL matching does not.
+- **A trailing LinkedIn id can appear twice under different slugs.** NLB job `4490660430` already existed as a README-only "ServiceNow CSM/HRSD" (Mississauga) row while the live card is "ServiceNow CSM/HRSD/IRM/ITAM/SPM" (Calgary). Grep the trailing id across README too, not only jobs.json — the stale row was removed rather than double-listed.
 - **jobs.json insert must stay textual.** Inserting 5 rows at the head added ~26 lines; re-dumping the JSON would have rewritten all ~4k lines.
 
 ## Source yields this hour (for future agents)

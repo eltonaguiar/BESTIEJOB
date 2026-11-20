@@ -75,7 +75,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-19
 
-Window: 2026-10-20 → 2026-11-19 · **6194 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-20 → 2026-11-19 · **6193 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1186)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1152 postings</strong> postings</strong></summary>| 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, Canada | via smartrecruiters · servicenow · ATS API released 2026-11-20T00:08Z; hybrid at 161 Bay St || 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada | via linkedin · servicenow · live 200 || 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, ca | via hermes-cron--2026-11-20--v1.md |
 | 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada | via hermes-cron--2026-11-20--v1.md |
@@ -167,7 +167,6 @@ Window: 2026-10-20 → 2026-11-19 · **6194 live postings** · deduplicated by U
 | 2026-11-16 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-nlb-services-4490908189) | NLB Services | Canada | via linkedin |
 | 2026-11-16 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-envision-technology-solutions-4490655467) | Envision Technology Solutions | Toronto, Ontario, Canada | via linkedin |
 | 2026-11-16 | [ServiceNow Developer (Contract)](https://hydroone.talentnet.community/jobs/272e8208-a275-4f85-af68-a443053ed133) | Acronym Solutions Inc. | Toronto, ON, Canada | via hermes-cron--2026-11-18--v1.md |
-| 2026-11-16 | [ServiceNow CSM/HRSD](https://ca.linkedin.com/jobs/view/servicenow-csm-hrsd-at-nlb-services-4490660430) | NLB Services | Mississauga, Ontario, Canada | via linkedin |
 | 2026-11-16 | [ServiceNow CMDB Consultant](https://www.jobbank.gc.ca/jobsearch/jobposting/50740661) | Bonafide Info Systems Inc. | Toronto, ON (hybrid remote) | via jobbank.gc.ca |
 | 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-techneptune-consulting-inc-4489716220) | TechNeptune Consulting Inc. | Toronto, Ontario, Canada | unknown |
 | 2026-11-16 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-imr-soft-llc-4490936151) | IMR Soft LLC | Toronto, Canada (Hybrid) | via linkedin-guest--2026-11-16 |
