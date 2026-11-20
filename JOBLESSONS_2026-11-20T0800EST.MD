@@ -46,7 +46,7 @@ The local scan "added" 29 rows vs origin's jobs.json, and every one was **alread
 
 ## Partner / sponsor / tech-company watch (all already tracked)
 
-Deloitte, KPMG, Cognizant, OSI Digital, TCS, IBM/LGS, Accenture, PwC, CGI, TD, BMO, ServiceNow (vendor), Salesforce (vendor), Altus Group, Benevity, Alimentiv, IKO. Rogers/Bell were not surfaced as fresh SN/SF cards this hour (their Workday boards 429'd); government roles arrived only via the S M Software RQ contracts (Dynamics, rejected).
+Deloitte, KPMG, Cognizant, OSI Digital, TCS, IBM/LGS, Accenture, PwC, CGI, TD, BMO, ServiceNow (vendor), Salesforce (vendor), Altus Group, Benevity, Alimentiv, IKO. Rogers/Bell: no *fresh* platform roles this hour — Rogers surfaced only Lead Management Operations ×2 (Pefferlaw/Cambridge, non-platform), and Ateko (backed by Bell Canada) ServiceNow Developer 4492170001 is already tracked; their Workday boards 429'd. Government: S M Software RQ contracts (Dynamics 365, rejected) plus a Salesforce Federal-Government Account Executive (sales, rejected).
 
 Seen but off-target: Salesforce Inc — *Analytics Specialist SE (Commercial FINS & Canada)*, Vancouver, Senior/Lead pre-sales solution engineering. Real vendor role, but Vancouver + pre-sales → not added to a Toronto-first board.
 
