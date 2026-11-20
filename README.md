@@ -9,6 +9,7 @@
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-19 | [Business Process Consultant – ServiceNow](https://ca.linkedin.com/jobs/view/business-process-consultant-at-compugen-inc-4491869271) | Compugen Inc | Ontario, Canada |
 | 2026-11-19 | [ServiceNow Business Analyst - Senior -Toronto, ON (3 days onsite)](https://www.adzuna.ca/details/5972002660) | Amicis Global | Toronto, Ontario |
 | 2026-11-19 | [Project Manager ServiceNow](https://www.adzuna.ca/details/5972002614) | vTech Solution | Regent Park, City of Toronto |
 | 2026-11-19 | [ServiceNow CSM/HRSD](https://www.adzuna.ca/details/5971925727) | NLB Services | Mississauga, Peel region |
@@ -20,8 +21,6 @@
 | 2026-11-19 | [ServiceNow Developer cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-yochana-4492518439) | Yochana | Canada |
 | 2026-11-19 | [Spécialiste d'implantation ServiceNow \| Implementation Specialist](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-d-implantation-servicenow-implementation-specialist-at-ateko-backed-by-bell-canada-4492156434) | Ateko, backed by Bell Canada | Canada |
 | 2026-11-19 | [ServiceNow Platform Developer](https://ca.linkedin.com/jobs/view/servicenow-platform-developer-at-acronym-solutions-4492159456) | Acronym Solutions | Etobicoke, Ontario, Canada |
-| 2026-11-19 | [Senior ServiceNow Consultant](https://ca.linkedin.com/jobs/view/senior-servicenow-consultant-at-flexstaf-i-t-inc-4492170849) | Flexstaf I.T. Inc. | Toronto, Ontario, Canada |
-
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
