@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T12:19:23+00:00",
+ "generatedAt": "2026-11-20T12:48:40+00:00",
  "timezone": "America/Toronto",
  "count": 5043,
  "appliedHidden": 30,
@@ -35054,6 +35054,12 @@
      "url": "https://www.adzuna.ca/details/5946007553?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Kelowna",
      "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940716920",
+     "label": "Adzuna · Calgary",
+     "gated": false
     }
    ],
    "gated": false,
@@ -46455,7 +46461,14 @@
    ],
    "french": false,
    "search": "salesforce software engineer steadman brown toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-software-engineer-at-steadman-brown-4480664272",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -66488,6 +66501,12 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-insight-global-4485783296",
      "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938973317",
+     "label": "Adzuna · Toronto",
      "gated": false
     }
    ],
@@ -201685,7 +201704,14 @@
    ],
    "french": false,
    "search": "salesforce consultant axiom global technologies toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-axiom-global-technologies-4481996153",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
