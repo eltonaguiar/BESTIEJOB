@@ -75,7 +75,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-19
 
-Window: 2026-10-20 → 2026-11-19 · **6288 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-20 → 2026-11-19 · **6286 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1135)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1135 postings</strong> postings</strong></summary>
 | 2026-11-18 | [ServiceNow Developer cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-raas-infotek-4492046880) | Raas Infotek | Mississauga, Ontario, Canada | via linkedin · servicenow |
@@ -1608,7 +1608,6 @@ Window: 2026-10-20 → 2026-11-19 · **6288 live postings** · deduplicated by U
 | 2026-11-04 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-pacer-group-4483463490) | Pacer Group | Toronto, ON | via round11-cached--2026-11-05--v11.md |
 | 2026-11-04 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4487212430) | CGI | Victoria, British Columbia, Canada | via inbox_opencode-job-hunt-final--2026-11-09--v6.md |
 | 2026-11-04 | [Senior Salesforce Developer - Toronto, Ontario, Canada - Vancouver, British Columbia, Canada](https://careers.hootsuite.com/jobs/senior-salesforce-developer-toronto-ontario-canada-vancouver-british-columbia) | Unknown | Canada | via round11-cached--2026-11-05--v11.md |
-| 2026-11-04 | [Senior Salesforce Developer - Hybrid in Toronto](https://www.jobleads.com/ca/job/senior-salesforce-developer-hybrid-in-toronto--toronto--ef8c7465b6f043af17027cfeb6eb54e60) | Hybrid in Toronto | Canada | via round11-cached--2026-11-05--v11.md |
 | 2026-11-04 | [Senior Marketing Cloud Developer - Moneris / Built In Toronto](https://builtintoronto.com/job/senior-marketing-cloud-developer/10202146) | Moneris / Built In Toronto | Canada | via round11-cached--2026-11-05--v11.md |
 | 2026-11-04 | [Salesforce Technical lead](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-cognizant-4478163469) | Cognizant | Mississauga, Ontario, Canada | via buffy-linkedin60d--2026-11-04--v3.md |
 | 2026-11-04 | [Salesforce Technical Architecture Advisor, LWC, Apex & Implementations](https://www.adzuna.ca/details/5952811197?utm_medium=api&utm_source=54ce986e) | Alithya | Westmount, Montréal | via adzuna-round14--2026-11-06--v5.md |
@@ -1669,7 +1668,6 @@ Window: 2026-10-20 → 2026-11-19 · **6288 live postings** · deduplicated by U
 | 2026-11-04 | [Salesforce Business Analyst](https://altusgroup.wd3.myworkdayjobs.com/en-US/AltusGroup/job/300---Toronto/Salesforce-Business-Analyst_R0014075) | Altus Group | 300 - Toronto | via ats-sweep--2026-11-07--v9.md |
 | 2026-11-04 | [Salesforce BSA](https://www.eluta.ca/spl/salesforce-bsa-f50849a6e720fdbefcf53602962c1002) | Cognizant Technology Solutions | Toronto ON | via canada-index--2026-11-06--v7.md |
 | 2026-11-04 | [Salesforce BSA](https://ca.linkedin.com/jobs/view/salesforce-bsa-at-pacer-group-4477730211) | Pacer Group | Toronto, Ontario, Canada | via round11-cached--2026-11-05--v11.md |
-| 2026-11-04 | [Salesforce Administrator](https://www.jobleads.com/ca/job/salesforce-administrator--montreal--toronto--e70363728ee9ba4d203edc2ad5faf4330) | Unknown | Canada | via round11-cached--2026-11-05--v17.md |
 | 2026-11-04 | [Salesforce Administrator](https://www.eluta.ca/spl/salesforce-administrator-b0ef44f013416d69f12c22920cba2bc0) | VGH & UBC Hospital Foundation | Vancouver BC | via canada-index--2026-11-06--v7.md |
 | 2026-11-04 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-survalent-4486500184) | Survalent | Greater Toronto Area, Canada | via buffy-linkedin60d--2026-11-04--v3.md |
 | 2026-11-04 | [Salesforce Administrator – Remote · Toronto, Ontario, Canada / Jobs.ca](https://www.jobs.ca/kort-payments/jobs/salesforce-administrator-remote-toronto-ontario-canada-abbeb2bdf21a) | Remote · Toronto, Ontario, Canada / Jobs.ca | Canada | via round11-cached--2026-11-05--v11.md |

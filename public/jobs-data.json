@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-20T00:16:22+00:00",
+ "generatedAt": "2026-11-20T00:17:27+00:00",
  "timezone": "America/Toronto",
- "count": 5051,
+ "count": 5050,
  "appliedHidden": 30,
  "sources": [
   "103.careerplug.com",
@@ -153,7 +153,6 @@
   "jobgether.com",
   "jobicy.com",
   "jobily.ca",
-  "jobleads.com",
   "jobmesh.io",
   "jobpilot.suxrobgm.net",
   "jobs-ca.jobflurry.com",
@@ -99363,14 +99362,7 @@
    ],
    "french": false,
    "search": "salesforce administrator (contract position) unknown canada jobboard.d9f.my-board.org salesforce readme salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "jobleads.com",
-     "url": "https://www.jobleads.com/ca/job/salesforce-administrator--montreal--toronto--e70363728ee9ba4d203edc2ad5faf4330",
-     "label": "jobleads.com · Canada",
-     "gated": true
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -99757,47 +99749,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Hiring%3A%20Solutions%20Architect%2C%20Salesforce%20Migrations%20%40Salesforce%3A%28https%3A//remotive.com/remote/jobs/all-others/solutions-architect-salesforce-migrations-6110295%29&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "Senior Salesforce Developer - Hybrid in Toronto",
-   "company": "Hybrid in Toronto",
-   "location": "Canada",
-   "url": "https://www.jobleads.com/ca/job/senior-salesforce-developer-hybrid-in-toronto--toronto--ef8c7465b6f043af17027cfeb6eb54e60",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobleads.com",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior salesforce developer - hybrid in toronto hybrid in toronto canada jobleads.com salesforce readme salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": true,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Developer%20-%20Hybrid%20in%20Toronto%20Hybrid%20in%20Toronto+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Developer%20-%20Hybrid%20in%20Toronto%20Hybrid%20in%20Toronto&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Developer%20-%20Hybrid%20in%20Toronto%20Hybrid%20in%20Toronto&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20-%20Hybrid%20in%20Toronto%20Hybrid%20in%20Toronto&loc=Canada"
     }
    ],
    "toronto": false
