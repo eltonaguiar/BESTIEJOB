@@ -3,13 +3,14 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-20T12:01:27.327Z** · 474 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-20T13:02:13.606Z** · 490 live postings from 10 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
 | 2026-11-20 | [Hybrid! Business Analyst (ServiceNow) - Senior, 6 months contract extendable](https://www.adzuna.ca/details/5972736236) | Dimensional Tech | Canada |
+| 2026-11-20 | [ServiceNow IRM Functional Consultant - Risk, Policy and Compliance, and Audit](https://www.adzuna.ca/details/5972731551) | LGS | Montréal, Québec |
 | 2026-11-20 | [Hybrid! Project Manager/Leader (ServiceNow) - Senior, 6 Ms contract extendable](https://www.adzuna.ca/details/5972718715) | Dimensional Tech | Canada |
 | 2026-11-19 | [Business Process Consultant – ServiceNow](https://ca.linkedin.com/jobs/view/business-process-consultant-at-compugen-inc-4491869271) | Compugen Inc | Ontario, Canada |
 | 2026-11-19 | [ServiceNow Business Analyst - Senior -Toronto, ON (3 days onsite)](https://www.adzuna.ca/details/5972002660) | Amicis Global | Toronto, Ontario |
@@ -20,7 +21,6 @@
 | 2026-11-19 | [Sr Solution Sales Executive CRM (CPQ)](https://www.adzuna.ca/details/5971441161) | ServiceNow, Inc. | Toronto, Ontario |
 | 2026-11-19 | [Staff Full-Stack Engineer, Experience Team](https://jobs.smartrecruiters.com/ServiceNow/744000162410339) | ServiceNow | Toronto, Ontario, ca |
 | 2026-11-19 | [ServiceNow Developer - Platform Configuration, Scripting and Administration](https://ca.linkedin.com/jobs/view/servicenow-developer-platform-configuration-scripting-and-administration-at-lgs-an-ibm-company-4492120105) | LGS, an IBM Company | Ville-Marie, Quebec, Canada |
-| 2026-11-19 | [Architecte de solutions ServiceNow – HRSD, CSM, IRM, IA et plateforme](https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-%E2%80%93-hrsd-csm-irm-ia-et-plateforme-at-lgs-an-ibm-company-4492252144) | LGS, an IBM Company | Ville-Marie, Quebec, Canada |
 
 ### Salesforce — newest 12
 
@@ -29,15 +29,15 @@
 | 2026-11-20 | [Salesforce 架構師 (Salesforce Architect)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421) | Salesforce | Taiwan - Remote |
 | 2026-11-20 | [Salesforce Data Cloud MarTech Consultant](https://www.adzuna.ca/details/5972727367) | Accenture | Canada |
 | 2026-11-20 | [Salesforce Business Systems Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-systems-analyst-at-avanciers-inc-4491679996) | Avanciers Inc. | Toronto, Ontario, Canada |
-| 2026-11-20 | [Salesforce Architect](https://ca.linkedin.com/jobs/view/salesforce-architect-at-avanciers-inc-4491690701) | Avanciers Inc. | Toronto, Ontario, Canada |
-| 2026-11-20 | [Salesforce Business Process Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492529940) | Jobgether | Canada |
 | 2026-11-20 | [Salesforce Business Process Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492537774) | Jobgether | Canada |
 | 2026-11-20 | [Product Manager, Workplace Salesforce Product Team, Vice President](https://ca.linkedin.com/jobs/view/product-manager-workplace-salesforce-product-team-vice-president-at-morgan-stanley-4480247596) | Morgan Stanley | Calgary, Alberta, Canada |
+| 2026-11-20 | [Salesforce Architect](https://ca.linkedin.com/jobs/view/salesforce-architect-at-avanciers-inc-4491690701) | Avanciers Inc. | Toronto, Ontario, Canada |
 | 2026-11-19 | [Salesforce CLM Developer](https://www.adzuna.ca/details/5972002704) | Northern Base | Alberta, Canada |
 | 2026-11-19 | [Senior Corporate Counsel - Commercial](https://www.adzuna.ca/details/5971924657) | Slack | Greater Vancouver, British Columbia |
 | 2026-11-19 | [Technical Salesforce Associate](https://www.adzuna.ca/details/5971469914) | PricewaterhouseCoopers | Canada |
 | 2026-11-19 | [Salesforce Techno-Functional Support Lead / AMS Lead](https://www.adzuna.ca/details/5971469672) | Accenture | Canada |
 | 2026-11-19 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5971464660) | CGI | Toronto, Ontario |
+| 2026-11-19 | [Senior Salesforce Functional Analyst](https://www.adzuna.ca/details/5971453584) | TForce Freight | Dorval, Montréal |
 
 ### Other keyword matches — newest 10
 
@@ -47,6 +47,8 @@
 | 2026-11-20 | [Staff Full-Stack Engineer, Experience Team](https://www.adzuna.ca/details/5972705636) | ServiceNow, Inc. | Toronto, Ontario | Full stack |
 | 2026-11-19 | [Lead Data Analyst - Finanace](https://www.adzuna.ca/details/5972447551) | Bridgenext | Toronto, Ontario | Data / BI |
 | 2026-11-19 | [DevOps Engineer – Jenkins/CI/CD](https://www.adzuna.ca/details/5972097514) | Astra North Infoteck Inc. | Toronto, Ontario | DevOps / Cloud |
+| 2026-11-19 | [Business Analyst](https://www.adzuna.ca/details/5972002638) | Cleo Consulting | Regent Park, City of Toronto | other |
+| 2026-11-19 | [Senior Business Analyst](https://www.adzuna.ca/details/5972002620) | vTech Solution | Regent Park, City of Toronto | other |
 | 2026-11-19 | [Canada, Europe, USA](https://www.adzuna.ca/details/5971925748?utm_medium=api&utm_source=54ce986e) | Big Internet Seller Services Inc | Canada | other |
 | 2026-11-19 | [Global Oil Gas Marketing Director](https://www.adzuna.ca/details/5971925499?utm_medium=api&utm_source=54ce986e) | IFS | Montréal, Québec | other |
 | 2026-11-19 | [Manager, Credit Card Acquisition and Onboarding](https://www.adzuna.ca/details/5971925528?utm_medium=api&utm_source=54ce986e) | BMO | Toronto, Ontario | other |
@@ -73,7 +75,7 @@ Toronto-first ServiceNow / Salesforce / IT-platform job list. **Three tables, ne
 
 ## Current jobs — as of 2026-11-19
 
-Window: 2026-10-20 → 2026-11-19 · **6180 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-20 → 2026-11-19 · **6181 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 
 ### ServiceNow jobs (1216)_developer / administrator / architect / analyst roles_<details><summary><strong>Show 1155 postings</strong> postings</strong></summary>| 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, Canada | via smartrecruiters · servicenow · ATS API released 2026-11-20T00:08Z; hybrid at 161 Bay St || 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada | via linkedin · servicenow · live 200 || 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, ca | via hermes-cron--2026-11-20--v1.md || 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada | via hermes-cron--2026-11-20--v1.md || 2026-11-19 | [Enterprise Risk Management Manager (ServiceNow IRM)](https://ca.linkedin.com/jobs/view/enterprise-risk-management-manager-at-workplace-safety-and-insurance-board-wsib-4492156479) | WSIB | Toronto, Ontario | via hermes-cron-2026-11-20T0700EST · servicenow · body-verified || 2026-11-19 | [Senior Project Manager – ServiceNow (26-29279)](https://ca.linkedin.com/jobs/view/project-manager-%23-26-29279-at-us-tech-solutions-4492164585) | US Tech Solutions | Toronto, Ontario | via hermes-cron-2026-11-20T0700EST · servicenow · body-verified || 2026-11-17 | [Application Administrator (ServiceNow)](https://ca.linkedin.com/jobs/view/application-administrator-at-halifax-regional-municipality-4490481507) | Halifax Regional Municipality | Halifax, Nova Scotia | via hermes-cron-2026-11-20T0700EST · servicenow · body-verified | 2026-11-20 | [Senior Systems Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162621080) | ServiceNow | Toronto, Ontario, ca | via hermes-cron--2026-11-20--v2.md |
 | 2026-11-20 | [ServiceNow ITAM/ ITOM Architect](https://ca.linkedin.com/jobs/view/servicenow-itam-itom-architect-at-w3global-4492523647) | W3Global | Canada | via hermes-cron--2026-11-20--v2.md |
@@ -1263,6 +1265,7 @@ Window: 2026-10-20 → 2026-11-19 · **6180 live postings** · deduplicated by U
 | 2026-11-19 | [Senior Systems Developer - Salesforce (Temp Full-Time - 12 mths)](https://ca.linkedin.com/jobs/view/senior-systems-developer-salesforce-temp-full-time-12-mths-at-co-operators-4492464622) | Co-operators | Mississauga, Ontario, Canada | via linkedin-guest--2026-11-20--v1.md |
 | 2026-11-19 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-insight-global-4492193845) | Insight Global | Guelph, Ontario, Canada | via linkedin-guest--2026-11-20--v1.md |
 | 2026-11-19 | [QA Automation Engineer (Salesforce Financial Services Cloud)](https://ca.linkedin.com/jobs/view/qa-automation-engineer-salesforce-financial-services-cloud-at-plato-4492712220) | PLATO | Canada | via linkedin-guest--2026-11-20--v1.md |
+| 2026-11-19 | [Product Owner](https://ca.linkedin.com/jobs/view/product-owner-at-insight-global-4492500994) | Insight Global | Guelph or Toronto, Ontario, Canada | via hermes-cron-2026-11-20T0800EST · salesforce-crm · body-verified |
 | 2026-11-18 | [Salesforce Marketing Cloud Consultant](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-munvo-4492091649) | Munvo | Toronto, Ontario, Canada | via linkedin-guest--2026-11-20--v1.md |
 | 2026-11-13 | [Solution Architect — Healthcare/LS or FS](https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457037698) | Salesforce | Toronto, ON | via kilo-bestiejobs-v2--2026-11-14--v41.md |
 | 2026-11-11 | [Lead Solution Engineer, ECS Public Sector](https://ca.linkedin.com/jobs/view/lead-solution-engineer-ecs-public-sector-at-salesforce-4482014686) | Salesforce | Toronto, ON | via kilo-bestiejobs-v2--2026-11-14--v40.md |
