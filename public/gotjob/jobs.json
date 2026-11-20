@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-20T09:12:45.096Z",
     "generatedAt": "2026-11-20T09:12:45.096Z",
-    "total": 5579,
+    "total": 5582,
     "newThisScan": 550,
     "retainedFromPrevious": 1979,
     "sources": {
@@ -35,7 +35,8 @@
     "primaryCounts": {
       "servicenow": 1173,
       "salesforce": 1215
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -47,7 +48,7 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-20T09:12:45.096Z",
+      "postedDate": "2026-11-20T12:00:00.000Z",
       "scrapedAt": "2026-11-20T09:12:45.096Z",
       "excerpt": "JR362421",
       "workArrangement": "remote",
@@ -55,7 +56,8 @@
         "salesforce"
       ],
       "verifiedAt": "2026-11-20T09:13:47.773515+00:00",
-      "verifyState": "live"
+      "verifyState": "live",
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "smartrecruiters:jobs.smartrecruiters.com/servicenow/744000162621080",
@@ -1357,6 +1359,40 @@
       ],
       "verifiedAt": "2026-11-20T09:13:47.773515+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/project-manager-%e2%80%93-servicenow-at-apptoza-inc-4491624485",
+      "source": "readme",
+      "company": "Apptoza Inc.",
+      "title": "Project Manager – ServiceNow",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-servicenow-at-apptoza-inc-4491624485",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T09:45:11.168Z",
+      "excerpt": "via fresh-ca--2026-11-20--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/project-manager-strong-technical-servicenow-at-apptoza-inc-4491620751",
+      "source": "readme",
+      "company": "Apptoza Inc.",
+      "title": "Project Manager - strong technical ServiceNow",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/project-manager-strong-technical-servicenow-at-apptoza-inc-4491620751",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T09:45:11.168Z",
+      "excerpt": "via fresh-ca--2026-11-20--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
     },
     {
       "id": "adzuna:5971732920",
@@ -16114,6 +16150,23 @@
       "postedDate": "2026-11-13T12:00:00.000Z",
       "scrapedAt": "2026-11-20T09:14:47.634Z",
       "excerpt": "unknown",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457037698",
+      "source": "readme",
+      "company": "Salesforce",
+      "title": "Solution Architect — Healthcare/LS or FS",
+      "location": "Toronto, ON",
+      "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457037698",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-13T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T09:45:11.168Z",
+      "excerpt": "via kilo-bestiejobs-v2--2026-11-14--v41.md",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"

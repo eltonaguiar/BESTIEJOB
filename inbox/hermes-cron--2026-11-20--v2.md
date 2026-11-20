@@ -1,3 +1,4 @@
+<!-- merged 2026-11-20T094511Z: +5 new, 13 duplicate, version 2 -->
 <!-- hermes-cron 2026-11-20 03:00 EST (08:00Z) record. Source: node scripts/daily_job_scan.mjs on origin/main 04a870a -> 526 fresh / 2524 merged (SN 1172 / SF 1211); verify_links --days 2 (164 probed, 0 dead); build_site -> 5049 cards. Rows below are already in jobs.json (system of record) and on the live board; this file is a dated record for future agents. Whole-inbox merger intentionally NOT run for this small batch (see JOBLESSONS_2026-11-20T0300EST.MD). -->
 # Hermes cron scan — fresh Toronto ServiceNow & Salesforce jobs — 2026-11-20 03:00 EST
 
