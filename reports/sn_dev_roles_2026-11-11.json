@@ -5,15 +5,15 @@
    "raw": 0
   },
   "RemoteOK": {
-   "status": "http 200, 98 jobs",
+   "status": "http 200, 99 jobs",
    "raw": 0
   },
   "Remotive": {
-   "status": "http 200, 16 jobs",
-   "raw": 16
+   "status": "http 200, 15 jobs",
+   "raw": 15
   },
   "Himalayas": {
-   "status": "p0:20/117859, p1:20/117859, p2:20/117859, p3:20/117859, p4:20/117859",
+   "status": "p0:20/119293, p1:20/119318, p2:20/119293, p3:20/119293, p4:20/119293",
    "raw": 0
   },
   "Jobboom (QC)": {
@@ -37,7 +37,7 @@
    "raw": 0
   },
   "Jobrapido CA": {
-   "status": "http 200, 0 SN links",
+   "status": "http 429",
    "raw": 0
   },
   "Monster.ca": {
@@ -124,11 +124,6 @@
   {
    "source": "Remotive",
    "title": "Senior Back-end Developer",
-   "why": "title filter"
-  },
-  {
-   "source": "Remotive",
-   "title": "Head of Engineering",
    "why": "title filter"
   },
   {
