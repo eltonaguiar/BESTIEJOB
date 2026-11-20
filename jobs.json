@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-20T14:02:58.800Z",
     "generatedAt": "2026-11-20T14:02:58.800Z",
-    "total": 5606,
+    "total": 5608,
     "newThisScan": 532,
     "retainedFromPrevious": 5074,
     "sources": {
@@ -32,11 +32,13 @@
       "adzuna": 210
     },
     "primaryCounts": {
-      "servicenow": 1184,
+      "servicenow": 1185,
       "salesforce": 4281
     }
   },
   "jobs": [
+    {"id":"linkedin:https://ca.linkedin.com/jobs/view/it-operations-service-transition-consultant-itsm-at-procom-4492596285","source":"linkedin","company":"Procom","title":"IT Operations & Service Transition Consultant (ITSM)","location":"Toronto, Ontario, Canada","url":"https://ca.linkedin.com/jobs/view/it-operations-service-transition-consultant-itsm-at-procom-4492596285","employmentType":"contract","salary":null,"postedDate":"2026-11-20T12:00:00.000Z","scrapedAt":"2026-11-20T14:20:00.000Z","excerpt":"12-month contract, hybrid Toronto; senior ITIL service-transition/operational-readiness consultant; ServiceNow listed as a preferred qualification. Body-verified 2026-11-20.","workArrangement":"hybrid","tags":["servicenow","itsm"]},
+    {"id":"linkedin:https://ca.linkedin.com/jobs/view/technical-operations-governance-analyst-at-ktek-resourcing-4492933460","source":"linkedin","company":"KTek Resourcing","title":"Technical Operations & Governance Analyst","location":"Scarborough, Ontario, Canada","url":"https://ca.linkedin.com/jobs/view/technical-operations-governance-analyst-at-ktek-resourcing-4492933460","employmentType":"unknown","salary":null,"postedDate":"2026-11-20T12:00:00.000Z","scrapedAt":"2026-11-20T14:20:00.000Z","excerpt":"IT operations/governance analyst (7+ yrs): ServiceNow/ITSM reporting for incident, request, asset and CMDB data; Power BI, ITIL. Body-verified 2026-11-20.","workArrangement":"onsite","tags":["other","it-reporting","itsm"]},
     {
       "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/taiwan---remote/salesforce---salesforce-architect-_jr362421",
       "source": "workday",

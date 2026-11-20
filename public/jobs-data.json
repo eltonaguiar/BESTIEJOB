@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-20T14:04:11+00:00",
+ "generatedAt": "2026-11-20T14:11:38+00:00",
  "timezone": "America/Toronto",
- "count": 5044,
+ "count": 5046,
  "appliedHidden": 30,
  "sources": [
   "103.careerplug.com",
@@ -891,6 +891,48 @@
   },
   {
    "posted": "2026-11-20",
+   "title": "IT Operations & Service Transition Consultant (ITSM)",
+   "company": "Procom",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/it-operations-service-transition-consultant-itsm-at-procom-4492596285",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "ITSM",
+    "IT operations",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "it operations & service transition consultant (itsm) procom toronto, ontario, canada linkedin servicenow linkedin itsm it operations role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=IT%20Operations%20%26%20Service%20Transition%20Consultant%20%28ITSM%29%20Procom+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=IT%20Operations%20%26%20Service%20Transition%20Consultant%20%28ITSM%29%20Procom&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=IT%20Operations%20%26%20Service%20Transition%20Consultant%20%28ITSM%29%20Procom&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=IT%20Operations%20%26%20Service%20Transition%20Consultant%20%28ITSM%29%20Procom&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-20",
    "title": "Salesforce 架構師 (Salesforce Architect)",
    "company": "Salesforce",
    "location": "Taiwan - Remote",
@@ -1212,6 +1254,46 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Systems%20Engineer%20ServiceNow&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-20",
+   "title": "Technical Operations & Governance Analyst",
+   "company": "KTek Resourcing",
+   "location": "Scarborough, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technical-operations-governance-analyst-at-ktek-resourcing-4492933460",
+   "note": "linkedin",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "technical operations & governance analyst ktek resourcing scarborough, ontario, canada linkedin other linkedin role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Technical%20Operations%20%26%20Governance%20Analyst%20KTek%20Resourcing+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Technical%20Operations%20%26%20Governance%20Analyst%20KTek%20Resourcing&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Technical%20Operations%20%26%20Governance%20Analyst%20KTek%20Resourcing&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Technical%20Operations%20%26%20Governance%20Analyst%20KTek%20Resourcing&loc=Canada"
     }
    ],
    "toronto": true
