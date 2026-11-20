@@ -35,7 +35,8 @@
     "primaryCounts": {
       "servicenow": 1191,
       "salesforce": 4287
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -47,13 +48,14 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-20T15:11:28.485Z",
+      "postedDate": "2026-11-20T12:00:00.000Z",
       "scrapedAt": "2026-11-20T15:11:28.485Z",
       "excerpt": "JR362421",
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "linkedin:https://ca.linkedin.com/jobs/view/it-operations-service-transition-consultant-itsm-at-procom-4492596285",

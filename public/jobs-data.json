@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T15:13:20+00:00",
+ "generatedAt": "2026-11-20T15:44:33+00:00",
  "timezone": "America/Toronto",
  "count": 5051,
  "appliedHidden": 30,
@@ -3161,6 +3161,12 @@
      "url": "https://www.adzuna.ca/details/5941645141",
      "label": "Adzuna · Toronto",
      "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5939233633?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
     }
    ],
    "gated": false,
@@ -4474,22 +4480,28 @@
    "posted": "2026-11-19",
    "title": "ITSM Consultant",
    "company": "Long View Systems",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5971453686?utm_medium=api&utm_source=54ce986e",
-   "note": "via fresh-ca--2026-11-20--v1.md",
+   "location": "Toronto, ON, Canada",
+   "url": "https://builtintoronto.com/job/itsm-consultant/12340414",
+   "note": "via Built In Toronto",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "Adzuna",
+   "source": "BuiltIn",
    "verified": "Aggregator",
-   "match": 42,
+   "match": 46,
    "matchReasons": [
     "ITSM",
     "Role fit",
-    "Canada / remote"
+    "Toronto area"
    ],
    "french": false,
-   "search": "itsm consultant long view systems canada adzuna servicenow via fresh-ca--2026-11-20--v1.md itsm role fit canada / remote",
+   "search": "itsm consultant long view systems toronto, on, canada builtin servicenow via built in toronto itsm role fit toronto area",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5971453686?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada",
+     "gated": false
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/itsm-consultant-at-long-view-systems-4490480445",
@@ -4501,22 +4513,22 @@
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ITSM%20Consultant%20Long%20View%20Systems+Canada+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=ITSM%20Consultant%20Long%20View%20Systems+Toronto+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ITSM%20Consultant%20Long%20View%20Systems&location=Canada"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ITSM%20Consultant%20Long%20View%20Systems&location=Toronto"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ITSM%20Consultant%20Long%20View%20Systems&l=Canada"
+     "url": "https://ca.indeed.com/jobs?q=ITSM%20Consultant%20Long%20View%20Systems&l=Toronto"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ITSM%20Consultant%20Long%20View%20Systems&loc=Canada"
+     "url": "https://www.adzuna.ca/search?q=ITSM%20Consultant%20Long%20View%20Systems&loc=Toronto"
     }
    ],
-   "toronto": false
+   "toronto": true
   },
   {
    "posted": "2026-11-19",
@@ -34855,6 +34867,12 @@
     },
     {
      "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941645750?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5939044602?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto",
      "gated": false
@@ -35601,6 +35619,12 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946007553?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Kelowna",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940716920",
+     "label": "Adzuna · Calgary",
      "gated": false
     }
    ],
@@ -48176,6 +48200,12 @@
      "source": "Eluta",
      "url": "https://www.eluta.ca/spl/salesforce-fsc-developer-c777855de09cc538edad06a56d487bbb",
      "label": "Eluta · Toronto ON",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938973162?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
      "gated": false
     },
     {
@@ -66949,6 +66979,12 @@
      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-insight-global-4485783296",
      "label": "LinkedIn · Toronto",
      "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938973317",
+     "label": "Adzuna · Toronto",
+     "gated": false
     }
    ],
    "gated": false,
@@ -81022,7 +81058,14 @@
    ],
    "french": false,
    "search": "request id: 114262-1 - salesforce communications cloud developer flexstaf it toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5939221310?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -81211,6 +81254,12 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4482190174",
      "label": "LinkedIn · Vancouver",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-associate-salesforce-technical-consultant-at-pwc-canada-4482189212",
+     "label": "LinkedIn · Toronto",
      "gated": false
     }
    ],
@@ -96106,6 +96155,12 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-salytics-4456030739",
      "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5939042938?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
      "gated": false
     }
    ],
@@ -189571,7 +189626,14 @@
    ],
    "french": false,
    "search": "senior salesforce developer tamanna technology toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tamanna-technology-4470429944",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -191140,7 +191202,14 @@
    ],
    "french": false,
    "search": "itam governance analyst insight global toronto, on adzuna servicenow readme itam role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941206005?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
