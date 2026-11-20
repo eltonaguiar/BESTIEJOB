@@ -72,7 +72,7 @@ signals on **one** path — not more badges.
 
 ## 4. Resume defects — fix these before spending a dollar
 
-1. **Delete "Certifications under eaguiar2015@yahoo.ca email."** All five advisors flag it. It invites
+1. **Delete "Certifications under [redacted email]."** All five advisors flag it. It invites
    verification friction and signals the Now Learning / Trailhead records sit under an address not used
    professionally. Consolidate the accounts, then remove the line.
 2. **Rename two certifications.** "Salesforce Certified Platform Administrator" → **Salesforce Certified

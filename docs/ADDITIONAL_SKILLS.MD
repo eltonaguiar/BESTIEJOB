@@ -42,7 +42,7 @@ Recruiters read a long flat cert list as "certification collector" unless a dept
 
 ## Resume flags to fix before any cert spend
 
-1. **"Certifications under eaguiar2015@yahoo.ca email"** — red flag. It tells a screener the Now
+1. **"Certifications under [redacted email]"** — red flag. It tells a screener the Now
    Learning / Trailhead records sit under an address that isn't used professionally, inviting
    verification friction. Consolidate the accounts, then delete the line.
 2. **"Salesforce Certified Platform Administrator"** and **"Salesforce Platform Developer"** are not

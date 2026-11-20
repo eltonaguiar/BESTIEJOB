@@ -3,7 +3,7 @@
 
 **Generated:** 2026-11-06  
 **Agent:** Kilo  
-**Repository:** /home/eaguiar2015/findtorontoevents_antigravity.ca/bestiejob  
+**Repository:** `${HOME}/bestiejob` (clone path on operator machine)  
 =======
 # SUCCESS_PACK_KILO.MD — ServiceNow & Salesforce Job Search Results
 
@@ -483,8 +483,8 @@ Salesforce, Platform Developer I, Javascript Developer I, Platform Admin, AI Ass
 
 ```
 [Your Name]
-Toronto, Ontario | (647) 454-6666 | eaguiar2015@yahoo.ca
-LinkedIn: linkedin.com/in/eaguiar2015
+Toronto, Ontario | [redacted phone] | [redacted email]
+LinkedIn: [redacted LinkedIn profile]
 
 [Date]
 
