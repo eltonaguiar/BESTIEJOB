@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-20T07:01:36.939Z** · 450 live postings from 10 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-20T08:04:44.702Z** · 460 live postings from 10 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -15,18 +15,20 @@
 | 2026-11-19 | [Sr. ServiceNow Architect](https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300) | Resolve Tech Solutions | US Remote - FL |
 | 2026-11-19 | [Senior Associate, Workflows and Automation (Sr. ServiceNow Developer)](https://www.adzuna.ca/details/5971464664) | PricewaterhouseCoopers | Canada |
 | 2026-11-19 | [Sr Solution Sales Executive CRM (CPQ)](https://www.adzuna.ca/details/5971441161) | ServiceNow, Inc. | Toronto, Ontario |
+| 2026-11-19 | [Architecte de solutions ServiceNow – HRSD, CSM, IRM, IA et plateforme](https://ca.linkedin.com/jobs/view/architecte-de-solutions-servicenow-%E2%80%93-hrsd-csm-irm-ia-et-plateforme-at-lgs-an-ibm-company-4492252144) | LGS, an IBM Company | Ville-Marie, Quebec, Canada |
 | 2026-11-19 | [ServiceNow Platform Developer](https://ca.linkedin.com/jobs/view/servicenow-platform-developer-at-acronym-solutions-4492159456) | Acronym Solutions | Etobicoke, Ontario, Canada |
 | 2026-11-19 | [Senior ServiceNow Consultant](https://ca.linkedin.com/jobs/view/senior-servicenow-consultant-at-flexstaf-i-t-inc-4492170849) | Flexstaf I.T. Inc. | Toronto, Ontario, Canada |
 | 2026-11-19 | [ServiceNow Architect](https://ca.linkedin.com/jobs/view/servicenow-architect-at-pacer-group-4492515163) | Pacer Group | Toronto, Ontario, Canada |
 | 2026-11-19 | [ServiceNow Business Analyst](https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491626483) | Apptoza Inc. | Toronto, Ontario, Canada |
 | 2026-11-19 | [Premier(-ère) développeur(-euse), ServiceNow- FR](https://ca.linkedin.com/jobs/view/premier-%C3%A8re-d%C3%A9veloppeur-euse-servicenow-fr-at-la-caisse-caisse-de-d%C3%A9p%C3%B4t-et-placement-du-qu%C3%A9bec-4492195190) | La Caisse (Caisse de dépôt et placement du Québec) | Montreal, Quebec, Canada |
-| 2026-11-19 | [ServiceNow Developer cum Architect](https://ca.linkedin.com/jobs/view/servicenow-developer-cum-architect-at-yochana-4492518439) | Yochana | Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
 | 2026-11-20 | [Salesforce 架構師 (Salesforce Architect)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421) | Salesforce | Taiwan - Remote |
+| 2026-11-20 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-canprev-4492535763) | CanPrev | North York, Ontario, Canada |
+| 2026-11-20 | [Salesforce Business Systems Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-systems-analyst-at-avanciers-inc-4491679996) | Avanciers Inc. | Toronto, Ontario, Canada |
 | 2026-11-20 | [Salesforce Business Process Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492537774) | Jobgether | Canada |
 | 2026-11-20 | [Salesforce Business Process Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492529940) | Jobgether | Canada |
 | 2026-11-19 | [Salesforce CLM Developer](https://www.adzuna.ca/details/5972002704) | Northern Base | Alberta, Canada |
@@ -35,7 +37,7 @@
 | 2026-11-19 | [Salesforce Techno-Functional Support Lead / AMS Lead](https://www.adzuna.ca/details/5971469672) | Accenture | Canada |
 | 2026-11-19 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5971464660) | CGI | Toronto, Ontario |
 | 2026-11-19 | [Senior Salesforce Functional Analyst](https://www.adzuna.ca/details/5971453584) | TForce Freight | Dorval, Montréal |
-| 2026-11-19 | [Student Intern, Salesforce Developer 1](https://www.adzuna.ca/details/5971440660) | Celestica | Toronto, Ontario |
+| 2026-11-19 | [Sr. Software Engineer (Salesforce), Specialty Health Technology](https://www.adzuna.ca/details/5971446361) | Loblaw Companies | Brampton, Peel region |
 
 ### Other keyword matches — newest 10
 
