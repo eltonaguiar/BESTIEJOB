@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-19T23:10:02.804Z",
     "generatedAt": "2026-11-19T23:10:02.804Z",
-    "total": 5596,
+    "total": 5599,
     "newThisScan": 566,
     "retainedFromPrevious": 1941,
     "sources": {
@@ -35,7 +35,8 @@
     "primaryCounts": {
       "servicenow": 1167,
       "salesforce": 1202
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -970,6 +971,23 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/risk-and-compliance-lead-%e2%80%93-grc-model-risk-and-regulatory-requirements-at-lgs-an-ibm-company-4492117242",
+      "source": "readme",
+      "company": "LGS, an IBM Company",
+      "title": "Risk and Compliance Lead – GRC, Model Risk and Regulatory Requirements",
+      "location": "Ville-Marie, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/risk-and-compliance-lead-%E2%80%93-grc-model-risk-and-regulatory-requirements-at-lgs-an-ibm-company-4492117242",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T00:15:28.810Z",
+      "excerpt": "",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -4682,6 +4700,23 @@
       "postedDate": "2026-11-17T12:00:00.000Z",
       "scrapedAt": "2026-11-19T23:12:22.926Z",
       "excerpt": "via linkedin-guest--2026-11-18--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5968873360",
+      "source": "readme",
+      "company": "Fidelity International",
+      "title": "Principal QA Analyst FCC",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5968873360",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T00:15:28.810Z",
+      "excerpt": "",
       "workArrangement": "unknown",
       "tags": [
         "other"
@@ -10015,6 +10050,23 @@
       "workArrangement": "unknown",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5967040864",
+      "source": "readme",
+      "company": "mlse",
+      "title": "C - Salesforce Engineer / Developer",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5967040864",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T00:15:28.810Z",
+      "excerpt": "",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
