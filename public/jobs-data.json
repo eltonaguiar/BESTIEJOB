@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-20T14:11:38+00:00",
+ "generatedAt": "2026-11-20T15:07:05+00:00",
  "timezone": "America/Toronto",
- "count": 5046,
+ "count": 5050,
  "appliedHidden": 30,
  "sources": [
   "103.careerplug.com",
@@ -1389,6 +1389,49 @@
   },
   {
    "posted": "2026-11-19",
+   "title": "Business Analyst - ServiceNow SPM",
+   "company": "NTT DATA",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5971440918",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "SPM/PPM",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "business analyst - servicenow spm ntt data toronto, ontario, canada adzuna servicenow readme servicenow spm/ppm consulting/ba role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Business%20Analyst%20-%20ServiceNow%20SPM%20NTT%20DATA+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst%20-%20ServiceNow%20SPM%20NTT%20DATA&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Business%20Analyst%20-%20ServiceNow%20SPM%20NTT%20DATA&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Business%20Analyst%20-%20ServiceNow%20SPM%20NTT%20DATA&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-19",
    "title": "ServiceNow ITOM Developer",
    "company": "Virtusa",
    "location": "Toronto, Ontario, Canada",
@@ -1536,13 +1579,13 @@
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491623443",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491628316",
      "label": "LinkedIn · Toronto",
      "gated": false
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491628316",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-business-analyst-at-apptoza-inc-4491623443",
      "label": "LinkedIn · Toronto",
      "gated": false
     }
@@ -4543,6 +4586,47 @@
   },
   {
    "posted": "2026-11-19",
+   "title": "RQ00249 - Business Analyst - Senior",
+   "company": "TWC Global",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5971729734",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 30,
+   "matchReasons": [
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "rq00249 - business analyst - senior twc global toronto, ontario, canada adzuna other readme consulting/ba role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=RQ00249%20-%20Business%20Analyst%20-%20Senior%20TWC%20Global+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=RQ00249%20-%20Business%20Analyst%20-%20Senior%20TWC%20Global&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=RQ00249%20-%20Business%20Analyst%20-%20Senior%20TWC%20Global&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=RQ00249%20-%20Business%20Analyst%20-%20Senior%20TWC%20Global&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-19",
    "title": "Lead Data Analyst - Finanace",
    "company": "Bridgenext",
    "location": "Toronto, Ontario",
@@ -5027,6 +5111,46 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=FP%26A%20Lead%20Ratehub&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-19",
+   "title": "RQ00248 - Project Manager/Leader - Senior",
+   "company": "Cleo Consulting",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://www.adzuna.ca/details/5972002634",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "rq00248 - project manager/leader - senior cleo consulting toronto, ontario, canada adzuna other readme role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=RQ00248%20-%20Project%20Manager/Leader%20-%20Senior%20Cleo%20Consulting+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=RQ00248%20-%20Project%20Manager/Leader%20-%20Senior%20Cleo%20Consulting&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=RQ00248%20-%20Project%20Manager/Leader%20-%20Senior%20Cleo%20Consulting&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=RQ00248%20-%20Project%20Manager/Leader%20-%20Senior%20Cleo%20Consulting&loc=Toronto"
     }
    ],
    "toronto": true
@@ -8648,6 +8772,47 @@
   },
   {
    "posted": "2026-11-18",
+   "title": "Renewals Innovation Analyst, Emerging Talent",
+   "company": "Salesforce",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Renewals-Innovation-Analyst--Emerging-Talent_JR368852-1",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "renewals innovation analyst, emerging talent salesforce toronto, ontario, canada workday ats salesforce readme salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Renewals%20Innovation%20Analyst%2C%20Emerging%20Talent%20Salesforce+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Renewals%20Innovation%20Analyst%2C%20Emerging%20Talent%20Salesforce&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Renewals%20Innovation%20Analyst%2C%20Emerging%20Talent%20Salesforce&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Renewals%20Innovation%20Analyst%2C%20Emerging%20Talent%20Salesforce&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
    "title": "GTM Strategy and Operations Associate Analyst",
    "company": "Salesforce",
    "location": "Toronto, Ontario",
@@ -9835,15 +10000,15 @@
      "gated": false
     },
     {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
      "source": "BuiltIn",
      "url": "https://builtintoronto.com/job/servicenow-cmdb-administrator/12242958",
      "label": "BuiltIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-administrator-at-bmo-4490380189",
+     "label": "LinkedIn · Toronto",
      "gated": false
     }
    ],
@@ -9964,7 +10129,7 @@
    "company": "ServiceNow",
    "location": "Toronto, Ontario, ca · Remote",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158575719",
-   "note": "smartrecruiters",
+   "note": "smartrecruiters · servicenow",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "SmartRecruiters",
@@ -9976,7 +10141,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "principal solution architect- servicenow servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters servicenow role fit toronto area",
+   "search": "principal solution architect- servicenow servicenow toronto, ontario, ca · remote smartrecruiters servicenow smartrecruiters · servicenow servicenow role fit toronto area",
    "alternates": [
     {
      "source": "careers.servicenow.com",
@@ -20480,12 +20645,6 @@
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480399043",
      "label": "LinkedIn · Brossard",
      "gated": false
@@ -20494,6 +20653,12 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480386776",
      "label": "LinkedIn · Montreal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944",
+     "label": "LinkedIn · Toronto",
      "gated": false
     },
     {
@@ -70466,47 +70631,6 @@
   },
   {
    "posted": "2026-11-06",
-   "title": "ServiceNow Administrator/Developer",
-   "company": "CGI",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow administrator/developer cgi toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Administrator/Developer%20CGI+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Administrator/Developer%20CGI&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Administrator/Developer%20CGI&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Administrator/Developer%20CGI&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-06",
    "title": "ServiceNow Platform Architect",
    "company": "BDO",
    "location": "Toronto, ON, Canada",
@@ -70542,6 +70666,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Platform%20Architect%20BDO&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-06",
+   "title": "ServiceNow Administrator/Developer",
+   "company": "CGI",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow administrator/developer cgi toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Administrator/Developer%20CGI+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Administrator/Developer%20CGI&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Administrator/Developer%20CGI&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Administrator/Developer%20CGI&loc=Toronto"
     }
    ],
    "toronto": true
