@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-20T02:16:27.719Z",
     "generatedAt": "2026-11-20T02:16:27.719Z",
-    "total": 5583,
+    "total": 5598,
     "newThisScan": 545,
     "retainedFromPrevious": 1962,
     "sources": {
@@ -35,7 +35,8 @@
     "primaryCounts": {
       "servicenow": 1166,
       "salesforce": 1203
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -85456,6 +85457,23 @@
       ]
     },
     {
+      "id": "readme:adzuna.ca/details/5938973159",
+      "source": "readme",
+      "company": "Toronto, Ontario",
+      "title": "ServiceNow Technical Consultant - Cognizant",
+      "location": "Unknown / peer claim not verified",
+      "url": "https://www.adzuna.ca/details/5938973159",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-30T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v117.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5947005036",
       "source": "adzuna",
       "company": "Hire DigITalent",
@@ -97060,6 +97078,244 @@
       "salary": null,
       "postedDate": "2026-10-22T12:00:00.000Z",
       "scrapedAt": "2026-11-20T02:18:31.916Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/manager-crm-support-at-fidelity-canada-4464987114",
+      "source": "readme",
+      "company": "Fidelity Canada",
+      "title": "Manager CRM Support",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/manager-crm-support-at-fidelity-canada-4464987114",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/managed-svcs-service-manager-iii-at-equinix-4462509773",
+      "source": "readme",
+      "company": "Equinix",
+      "title": "Managed Svcs Service Manager III",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/managed-svcs-service-manager-iii-at-equinix-4462509773",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/it-systems-specialist-at-opendoor-4437602768",
+      "source": "readme",
+      "company": "Opendoor",
+      "title": "IT Systems Specialist",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/it-systems-specialist-at-opendoor-4437602768",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/it-service-management-practice-lead-toronto-on-or-burnaby-bc-hybrid-at-lifelabs-medical-laboratory-services-4464919494",
+      "source": "readme",
+      "company": "LifeLabs Medical Laboratory Services",
+      "title": "IT Service Management Practice Lead (Toronto, ON or Burnaby, BC- Hybrid)",
+      "location": "Etobicoke, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/it-service-management-practice-lead-toronto-on-or-burnaby-bc-hybrid-at-lifelabs-medical-laboratory-services-4464919494",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "hybrid",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/it-product-engineer-hris-at-huawei-canada-4482788104",
+      "source": "readme",
+      "company": "Huawei Canada",
+      "title": "IT Product Engineer - HRIS",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/it-product-engineer-hris-at-huawei-canada-4482788104",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/i-t-resilience-and-data-governance-specialist-at-enmax-4481601426",
+      "source": "readme",
+      "company": "ENMAX",
+      "title": "I&T Resilience and Data Governance Specialist",
+      "location": "Calgary, Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/i-t-resilience-and-data-governance-specialist-at-enmax-4481601426",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/hr-manager-at-redwood-software-4455431170",
+      "source": "readme",
+      "company": "Redwood Software",
+      "title": "HR Manager",
+      "location": "Markham, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/hr-manager-at-redwood-software-4455431170",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/engineering-manager-at-manulife-4481621375",
+      "source": "readme",
+      "company": "Manulife",
+      "title": "Engineering Manager",
+      "location": "Waterloo, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/engineering-manager-at-manulife-4481621375",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/electrical-bim-modeller-at-wsp-in-canada-4454902726",
+      "source": "readme",
+      "company": "WSP in Canada",
+      "title": "Electrical BIM Modeller",
+      "location": "Victoria, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/electrical-bim-modeller-at-wsp-in-canada-4454902726",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/director-technology-operations-at-goway-travel-4465868372",
+      "source": "readme",
+      "company": "Goway Travel",
+      "title": "Director, Technology Operations",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/director-technology-operations-at-goway-travel-4465868372",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/data-lead-at-csc-generation-4481356801",
+      "source": "readme",
+      "company": "CSC Generation",
+      "title": "Data Lead",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/data-lead-at-csc-generation-4481356801",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/data-analyst-edh-enterprise-data-hub-at-tata-consultancy-services-4481369207",
+      "source": "readme",
+      "company": "Tata Consultancy Services",
+      "title": "Data Analyst - EDH (Enterprise Data Hub)",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/data-analyst-edh-enterprise-data-hub-at-tata-consultancy-services-4481369207",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/business-system-analyst-pharmaceutical-at-sgs-4480051413",
+      "source": "readme",
+      "company": "SGS",
+      "title": "Business System Analyst - Pharmaceutical",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/business-system-analyst-pharmaceutical-at-sgs-4480051413",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
+      "excerpt": "via twin 20-round harvest",
+      "workArrangement": "unknown",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/associate-physical-security-at-wealthsimple-4481389094",
+      "source": "readme",
+      "company": "Wealthsimple",
+      "title": "Associate, Physical Security",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/associate-physical-security-at-wealthsimple-4481389094",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-22T12:00:00.000Z",
+      "scrapedAt": "2026-11-20T03:45:52.197Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
