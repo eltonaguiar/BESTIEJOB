@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-21T17:12:17+00:00",
+ "generatedAt": "2026-11-21T18:14:12+00:00",
  "timezone": "America/Toronto",
- "count": 5061,
+ "count": 5060,
  "appliedHidden": 30,
  "sources": [
   "103.careerplug.com",
@@ -576,6 +576,66 @@
   },
   {
    "posted": "2026-11-21",
+   "title": "Salesforce Solution Architect",
+   "company": "iA Financial Group (Industrial Alliance)",
+   "location": "Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce solution architect ia financial group (industrial alliance) quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5970621513",
+     "label": "Adzuna · Québec",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5954559999",
+     "label": "Adzuna · Québec",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Solution%20Architect%20iA%20Financial%20Group%20%28Industrial%20Alliance%29+Quebec+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Solution%20Architect%20iA%20Financial%20Group%20%28Industrial%20Alliance%29&location=Quebec"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Solution%20Architect%20iA%20Financial%20Group%20%28Industrial%20Alliance%29&l=Quebec"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Solution%20Architect%20iA%20Financial%20Group%20%28Industrial%20Alliance%29&loc=Quebec"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-21",
    "title": "Salesforce Administrator (Remote)",
    "company": "Hired",
    "location": "Canada",
@@ -720,6 +780,48 @@
   },
   {
    "posted": "2026-11-20",
+   "title": "Senior ServiceNow SAM Pro Technical SME",
+   "company": "Avanciers Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-sam-pro-technical-sme-at-avanciers-inc-4491961105",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow sam pro technical sme avanciers inc. canada linkedin servicenow linkedin servicenow itam sam/ham canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-20",
    "title": "ServiceNow ITOM Developer",
    "company": "Envision Technology Solutions",
    "location": "Toronto, Ontario, Canada",
@@ -766,48 +868,6 @@
     }
    ],
    "toronto": true
-  },
-  {
-   "posted": "2026-11-20",
-   "title": "Senior ServiceNow SAM Pro Technical SME",
-   "company": "Avanciers Inc.",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-sam-pro-technical-sme-at-avanciers-inc-4491961105",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "SAM/HAM",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow sam pro technical sme avanciers inc. canada linkedin servicenow linkedin servicenow itam sam/ham canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&loc=Canada"
-    }
-   ],
-   "toronto": false
   },
   {
    "posted": "2026-11-20",
@@ -1321,12 +1381,6 @@
    "french": true,
    "search": "specialiste / developpeur servicenow tehora quebec, canada adzuna servicenow adzuna servicenow role fit canada / remote",
    "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946005577?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Québec",
-     "gated": false
-    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946005340?utm_medium=api&utm_source=54ce986e",
@@ -10455,66 +10509,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20CLM%20Developer%20Northern%20Base&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Salesforce Solution Architect",
-   "company": "IA Financial Services",
-   "location": "Québec, Canada",
-   "url": "https://www.adzuna.ca/details/5970621513",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce solution architect ia financial services quebec, canada adzuna salesforce adzuna salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5954559999",
-     "label": "Adzuna · Québec",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948983668?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-architect-at-ia-financial-group-industrial-alliance-4485609700",
-     "label": "LinkedIn · Quebec",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Solution%20Architect%20IA%20Financial%20Services+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Solution%20Architect%20IA%20Financial%20Services&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Solution%20Architect%20IA%20Financial%20Services&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Solution%20Architect%20IA%20Financial%20Services&loc=Canada"
     }
    ],
    "toronto": false
@@ -28502,12 +28496,6 @@
      "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488432589",
      "label": "LinkedIn · Toronto",
      "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951",
-     "label": "LinkedIn · Toronto",
-     "gated": false
     }
    ],
    "gated": false,
@@ -41280,12 +41268,6 @@
      "url": "https://www.adzuna.ca/details/5949968733?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Montréal",
      "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5947366387?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal",
-     "gated": false
     }
    ],
    "gated": false,
@@ -48186,14 +48168,7 @@
    ],
    "french": false,
    "search": "salesforce developer delpath toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-delpath-4484206074",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -50692,12 +50667,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5952817449",
      "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/marketing-automation-consultant-at-marketing-automation-corp-4486198412",
-     "label": "LinkedIn · Toronto",
      "gated": false
     }
    ],
@@ -53450,12 +53419,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5961942131",
      "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/product-owner-client-digital-support-at-mri-software-4485741542",
-     "label": "LinkedIn · Canada",
      "gated": false
     },
     {
@@ -67410,14 +67373,7 @@
    ],
    "french": false,
    "search": "product owner i - askhr td toronto, ontario, canada workday ats other readme toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/product-owner-i-askhr-at-td-4486468435",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -82354,12 +82310,6 @@
    "french": false,
    "search": "manager, product, pricing & integrations operations salesforce toronto, canada (office - flexible) workday ats salesforce workday integration salesforce role fit toronto area",
    "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948969657?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-product-pricing-integrations-operations-at-salesforce-4485613624",
@@ -115868,14 +115818,7 @@
    ],
    "french": false,
    "search": "deal desk specialist instacart canada adzuna other readme role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/deal-desk-specialist-at-instacart-4486452518",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -116369,14 +116312,7 @@
    ],
    "french": false,
    "search": "digital marketing engagement coordinator ci financial toronto, ontario adzuna other readme toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/digital-marketing-engagement-coordinator-at-ci-financial-4485758218",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -117083,12 +117019,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5951543592?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/executive-director-enterprise-regional-enablement-at-jobgether-4485426794",
-     "label": "LinkedIn · Canada",
      "gated": false
     }
    ],
@@ -154476,14 +154406,7 @@
    ],
    "french": false,
    "search": "braze architect smart it frame llc canada linkedin other readme role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5949577536?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -163789,66 +163712,6 @@
   },
   {
    "posted": "2026-11-01",
-   "title": "Sr. Consultant, Value Excellence",
-   "company": "ServiceNow",
-   "location": "Toronto, Canada",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158578039",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
-   "match": 54,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. consultant, value excellence servicenow toronto, canada smartrecruiters servicenow readme servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000158578039/sr-consultant-value-excellence/",
-     "label": "careers.servicenow.com · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5949576289?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5947777987",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr.%20Consultant%2C%20Value%20Excellence%20ServiceNow+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Consultant%2C%20Value%20Excellence%20ServiceNow&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr.%20Consultant%2C%20Value%20Excellence%20ServiceNow&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr.%20Consultant%2C%20Value%20Excellence%20ServiceNow&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-01",
    "title": "Salesforce Technical Lead - Financial Services Cloud",
    "company": "Maarut",
    "location": "Laval, Laval region",
@@ -165321,59 +165184,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Analyst%2C%20Walmart%20Services%20-%20WMC%20Systems%20Administrator%20Walmart&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-01",
-   "title": "People Services AI Solutions & Configuration Lead",
-   "company": "Manulife",
-   "location": "Waterloo region, Ontario",
-   "url": "https://www.adzuna.ca/details/5948845582?utm_medium=api&utm_source=54ce986e",
-   "note": "via adzuna-autonomous--2026-11-05--v24.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "people services ai solutions & configuration lead manulife waterloo region, ontario adzuna other via adzuna-autonomous--2026-11-05--v24.md role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948845583?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5948955898",
-     "label": "Adzuna · Canada",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=People%20Services%20AI%20Solutions%20%26%20Configuration%20Lead%20Manulife+Waterloo+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=People%20Services%20AI%20Solutions%20%26%20Configuration%20Lead%20Manulife&location=Waterloo"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=People%20Services%20AI%20Solutions%20%26%20Configuration%20Lead%20Manulife&l=Waterloo"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=People%20Services%20AI%20Solutions%20%26%20Configuration%20Lead%20Manulife&loc=Waterloo"
     }
    ],
    "toronto": true
@@ -167902,6 +167712,46 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Forward%20Deployed%20Specialist%20MCD%20McKesson%20Canada%20Corporation%20/%20La%20Corporation%20McKesson%20Canada&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-01",
+   "title": "People Services AI Solutions & Configuration Lead",
+   "company": "Manulife",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5948955898",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 16,
+   "matchReasons": [
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "people services ai solutions & configuration lead manulife canada adzuna other readme role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=People%20Services%20AI%20Solutions%20%26%20Configuration%20Lead%20Manulife+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=People%20Services%20AI%20Solutions%20%26%20Configuration%20Lead%20Manulife&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=People%20Services%20AI%20Solutions%20%26%20Configuration%20Lead%20Manulife&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=People%20Services%20AI%20Solutions%20%26%20Configuration%20Lead%20Manulife&loc=Canada"
     }
    ],
    "toronto": false
@@ -171766,6 +171616,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Staff%20Cloud%20Security%20Engineer%20%E2%80%93%20Financial%20Services%20-%20Office%20of%20the%20CISO%20ServiceNow&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-10-31",
+   "title": "Sr. Consultant, Value Excellence",
+   "company": "ServiceNow",
+   "location": "Toronto, Canada",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158578039",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
+   "match": 54,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. consultant, value excellence servicenow toronto, canada smartrecruiters servicenow readme servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5947777987",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr.%20Consultant%2C%20Value%20Excellence%20ServiceNow+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Consultant%2C%20Value%20Excellence%20ServiceNow&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr.%20Consultant%2C%20Value%20Excellence%20ServiceNow&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr.%20Consultant%2C%20Value%20Excellence%20ServiceNow&loc=Toronto"
     }
    ],
    "toronto": true
@@ -197526,20 +197424,7 @@
    ],
    "french": false,
    "search": "salesforce developer medcan toronto workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "jobs.ca",
-     "url": "https://www.jobs.ca/medcan/jobs/salesforce-developer-toronto-on-1302474d8486",
-     "label": "jobs.ca · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -209300,47 +209185,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20-%20Revenue%20Cloud%20Advanced%2C%20Apex%2C%20LWC%20Astra%20North%20Infoteck%20Inc.&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-21",
-   "title": "Salesforce Communications Cloud Architect",
-   "company": "Astra North Infoteck Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50647715",
-   "note": "via buffy-round16--2026-11-07--v62.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Job Bank",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce communications cloud architect astra north infoteck inc. toronto, ontario, canada job bank salesforce via buffy-round16--2026-11-07--v62.md salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Communications%20Cloud%20Architect%20Astra%20North%20Infoteck%20Inc.+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Communications%20Cloud%20Architect%20Astra%20North%20Infoteck%20Inc.&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Communications%20Cloud%20Architect%20Astra%20North%20Infoteck%20Inc.&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Communications%20Cloud%20Architect%20Astra%20North%20Infoteck%20Inc.&loc=Toronto"
     }
    ],
    "toronto": true
