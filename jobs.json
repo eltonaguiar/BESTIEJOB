@@ -15,10 +15,10 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-21T11:24:24.921Z",
-    "generatedAt": "2026-11-21T11:24:24.921Z",
-    "total": 5632,
-    "newThisScan": 504,
+    "scrapedAt": "2026-11-21T12:10:16.144Z",
+    "generatedAt": "2026-11-21T12:10:16.144Z",
+    "total": 5633,
+    "newThisScan": 505,
     "retainedFromPrevious": 5128,
     "sources": {
       "smartrecruiters": 12,
@@ -26,7 +26,7 @@
       "greenhouse": 14,
       "lever": 1,
       "ashby": 2,
-      "linkedin": 250,
+      "linkedin": 251,
       "remoteok": 1,
       "jobicy": 1,
       "remotive": 6,
@@ -38,6 +38,7 @@
     }
   },
   "jobs": [
+  {"id":"linkedin:ca.linkedin.com/jobs/view/software-asset-management-sam-analyst-at-deloitte-4468276720","source":"linkedin","company":"Deloitte","title":"Software Asset Management (SAM) Analyst","location":"Toronto, Ontario, Canada","url":"https://ca.linkedin.com/jobs/view/software-asset-management-sam-analyst-at-deloitte-4468276720","employmentType":"full-time","salary":null,"postedDate":"2026-11-20T19:00:00.000Z","scrapedAt":"2026-11-21T12:10:16.144Z","excerpt":"Deloitte Global Operations Software Asset Management (SAM) Analyst (ref 135050), hybrid Toronto — license tracking, compliance and renewals for global software agreements including Microsoft and Salesforce. Body-verified via LinkedIn guest page (ServiceNow not named in JD; ITAM/SAM partner role). Near-twin of the Oct-31 Deloitte SAM posting ref 134674 (4460500284): distinct req id, kept separate.","workArrangement":"hybrid","tags":["itam"]},
     {
       "id": "adzuna:adzuna.ca/details/5973912284",
       "source": "adzuna",
