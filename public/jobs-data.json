@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-21T20:04:27+00:00",
+ "generatedAt": "2026-11-21T20:12:34+00:00",
  "timezone": "America/Toronto",
- "count": 5061,
+ "count": 5026,
  "appliedHidden": 30,
  "sources": [
   "103.careerplug.com",
@@ -5906,12 +5906,6 @@
    "alternates": [
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5941645141?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5939233633?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto",
      "gated": false
@@ -6680,13 +6674,13 @@
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491845382",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
      "label": "LinkedIn · Toronto",
      "gated": false
     },
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491845382",
      "label": "LinkedIn · Toronto",
      "gated": false
     }
@@ -12280,12 +12274,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946065109?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/principal-solution-architect-servicenow-at-servicenow-4484026843",
-     "label": "LinkedIn · Toronto",
      "gated": false
     }
    ],
@@ -56321,14 +56309,7 @@
    ],
    "french": false,
    "search": "salesforce developer intelli-cloudware inc toronto, on jobs.ca salesforce jobs.ca salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "jobs.ca",
-     "url": "https://www.jobs.ca/intelli-cloudware-inc/jobs/salesforce-developer-toronto-on-543d02a0da9c",
-     "label": "jobs.ca · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -70789,46 +70770,39 @@
   {
    "posted": "2026-11-07",
    "title": "Billing Operations Lead",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8232312",
-   "note": "via round11-cached--2026-11-05--v21.md",
+   "company": "Instacart",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/billing-operations-lead-at-instacart-4472226576",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
    "match": 16,
    "matchReasons": [
     "Role fit",
     "Canada / remote"
    ],
    "french": false,
-   "search": "billing operations lead instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/billing-operations-lead-at-instacart-4472226576",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    }
-   ],
+   "search": "billing operations lead instacart canada linkedin other readme role fit canada / remote",
+   "alternates": [],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Billing%20Operations%20Lead%20instacart+Canada+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Billing%20Operations%20Lead%20Instacart+Canada+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Billing%20Operations%20Lead%20instacart&location=Canada"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Billing%20Operations%20Lead%20Instacart&location=Canada"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Billing%20Operations%20Lead%20instacart&l=Canada"
+     "url": "https://ca.indeed.com/jobs?q=Billing%20Operations%20Lead%20Instacart&l=Canada"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Billing%20Operations%20Lead%20instacart&loc=Canada"
+     "url": "https://www.adzuna.ca/search?q=Billing%20Operations%20Lead%20Instacart&loc=Canada"
     }
    ],
    "toronto": false
@@ -73370,14 +73344,7 @@
    ],
    "french": false,
    "search": "analyste d’affaires salesforce alithya montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -113215,46 +113182,39 @@
   {
    "posted": "2026-11-04",
    "title": "Insights Lead, Instacart Business",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8115836",
-   "note": "via round11-cached--2026-11-05--v21.md",
+   "company": "Instacart",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/insights-lead-instacart-business-at-instacart-4479088460",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
    "match": 16,
    "matchReasons": [
     "Role fit",
     "Canada / remote"
    ],
    "french": false,
-   "search": "insights lead, instacart business instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/insights-lead-instacart-business-at-instacart-4479088460",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    }
-   ],
+   "search": "insights lead, instacart business instacart canada linkedin other readme role fit canada / remote",
+   "alternates": [],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Insights%20Lead%2C%20Instacart%20Business%20instacart+Canada+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Insights%20Lead%2C%20Instacart%20Business%20Instacart+Canada+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Insights%20Lead%2C%20Instacart%20Business%20instacart&location=Canada"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Insights%20Lead%2C%20Instacart%20Business%20Instacart&location=Canada"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Insights%20Lead%2C%20Instacart%20Business%20instacart&l=Canada"
+     "url": "https://ca.indeed.com/jobs?q=Insights%20Lead%2C%20Instacart%20Business%20Instacart&l=Canada"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Insights%20Lead%2C%20Instacart%20Business%20instacart&loc=Canada"
+     "url": "https://www.adzuna.ca/search?q=Insights%20Lead%2C%20Instacart%20Business%20Instacart&loc=Canada"
     }
    ],
    "toronto": false
@@ -139490,47 +139450,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Principal Software Engineer, International Integrations",
-   "company": "toast",
-   "location": "Remote (Canada)",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8165076",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 34,
-   "matchReasons": [
-    "Integration",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal software engineer, international integrations toast remote (canada) careers.toasttab.com other via round11-cached--2026-11-05--v21.md integration role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Software%20Engineer%2C%20International%20Integrations%20toast+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Software%20Engineer%2C%20International%20Integrations%20toast&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Software%20Engineer%2C%20International%20Integrations%20toast&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Software%20Engineer%2C%20International%20Integrations%20toast&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
    "title": "Senior Databricks Engineer",
    "company": "KData AI",
    "location": "Toronto, ON",
@@ -145397,206 +145316,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Software%20Developer%20d2l&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer, Backend — Toast International",
-   "company": "toast",
-   "location": "Canada Hybrid (Ontario)",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8223599",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior software engineer, backend — toast international toast canada hybrid (ontario) careers.toasttab.com other via round11-cached--2026-11-05--v21.md role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%2C%20Backend%20%E2%80%94%20Toast%20International%20toast+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Backend%20%E2%80%94%20Toast%20International%20toast&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Backend%20%E2%80%94%20Toast%20International%20toast&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%2C%20Backend%20%E2%80%94%20Toast%20International%20toast&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer, Scheduling",
-   "company": "toast",
-   "location": "Toronto, Canada",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=7861725",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior software engineer, scheduling toast toronto, canada careers.toasttab.com other via round11-cached--2026-11-05--v21.md role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%2C%20Scheduling%20toast+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Scheduling%20toast&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Scheduling%20toast&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%2C%20Scheduling%20toast&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Solutions Engineer",
-   "company": "toast",
-   "location": "Toronto, Ontario",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8326932",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior solutions engineer toast toronto, ontario careers.toasttab.com other via round11-cached--2026-11-05--v21.md role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Solutions%20Engineer%20toast+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solutions%20Engineer%20toast&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Solutions%20Engineer%20toast&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Solutions%20Engineer%20toast&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Software Engineer II, Toast International",
-   "company": "toast",
-   "location": "Canada Hybrid (Ontario)",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8223601",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "software engineer ii, toast international toast canada hybrid (ontario) careers.toasttab.com other via round11-cached--2026-11-05--v21.md role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Software%20Engineer%20II%2C%20Toast%20International%20toast+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%2C%20Toast%20International%20toast&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Software%20Engineer%20II%2C%20Toast%20International%20toast&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Software%20Engineer%20II%2C%20Toast%20International%20toast&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Solutions Engineering Lead, International Upmarket Customers",
-   "company": "toast",
-   "location": "Toronto, Ontario",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8215834",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "solutions engineering lead, international upmarket customers toast toronto, ontario careers.toasttab.com other via round11-cached--2026-11-05--v21.md role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Solutions%20Engineering%20Lead%2C%20International%20Upmarket%20Customers%20toast+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Solutions%20Engineering%20Lead%2C%20International%20Upmarket%20Customers%20toast&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Solutions%20Engineering%20Lead%2C%20International%20Upmarket%20Customers%20toast&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Solutions%20Engineering%20Lead%2C%20International%20Upmarket%20Customers%20toast&loc=Toronto"
     }
    ],
    "toronto": true
@@ -155875,806 +155594,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Senior Design Program Manager II",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8249753",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior design program manager ii instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Design%20Program%20Manager%20II%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Design%20Program%20Manager%20II%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Design%20Program%20Manager%20II%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Design%20Program%20Manager%20II%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Engineering Manager, Core Picking",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8084350",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior engineering manager, core picking instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Engineering%20Manager%2C%20Core%20Picking%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Engineering%20Manager%2C%20Core%20Picking%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Engineering%20Manager%2C%20Core%20Picking%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Engineering%20Manager%2C%20Core%20Picking%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Financial Insights Analyst",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8282591",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior financial insights analyst instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Financial%20Insights%20Analyst%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Financial%20Insights%20Analyst%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Financial%20Insights%20Analyst%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Financial%20Insights%20Analyst%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Machine Learning Engineer, Economist",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8157738",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior machine learning engineer, economist instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Machine%20Learning%20Engineer%2C%20Economist%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Machine%20Learning%20Engineer%2C%20Economist%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Machine%20Learning%20Engineer%2C%20Economist%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Machine%20Learning%20Engineer%2C%20Economist%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Machine Learning Engineer, Fulfillment",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8240307",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior machine learning engineer, fulfillment instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Machine%20Learning%20Engineer%2C%20Fulfillment%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Machine%20Learning%20Engineer%2C%20Fulfillment%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Machine%20Learning%20Engineer%2C%20Fulfillment%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Machine%20Learning%20Engineer%2C%20Fulfillment%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Manager, Marketing Decision Science",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8237127",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior manager, marketing decision science instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Manager%2C%20Marketing%20Decision%20Science%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Marketing%20Decision%20Science%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Manager%2C%20Marketing%20Decision%20Science%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Manager%2C%20Marketing%20Decision%20Science%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Product Manager, Ad Formats",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8281407",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior product manager, ad formats instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Product%20Manager%2C%20Ad%20Formats%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Manager%2C%20Ad%20Formats%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Product%20Manager%2C%20Ad%20Formats%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Product%20Manager%2C%20Ad%20Formats%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Product Manager, Advertiser Experience",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8120471",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior product manager, advertiser experience instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Product%20Manager%2C%20Advertiser%20Experience%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Manager%2C%20Advertiser%20Experience%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Product%20Manager%2C%20Advertiser%20Experience%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Product%20Manager%2C%20Advertiser%20Experience%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Product Manager, AI Control Studio",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8198161",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior product manager, ai control studio instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Product%20Manager%2C%20AI%20Control%20Studio%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Manager%2C%20AI%20Control%20Studio%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Product%20Manager%2C%20AI%20Control%20Studio%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Product%20Manager%2C%20AI%20Control%20Studio%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Sales Engineer",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8292802",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior sales engineer instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Sales%20Engineer%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Sales%20Engineer%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Sales%20Engineer%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Sales%20Engineer%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer - Ads Manager",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8304487",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software engineer - ads manager instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%20-%20Ads%20Manager%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20-%20Ads%20Manager%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%20-%20Ads%20Manager%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%20-%20Ads%20Manager%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer, Enterprise AI",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8240352",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software engineer, enterprise ai instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%2C%20Enterprise%20AI%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Enterprise%20AI%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Enterprise%20AI%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%2C%20Enterprise%20AI%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer, Fulfillment",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8315996",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software engineer, fulfillment instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%2C%20Fulfillment%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Fulfillment%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Fulfillment%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%2C%20Fulfillment%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=7951938",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software engineer ii, ads data solutions engineering instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%20II%2C%20Ads%20Data%20Solutions%20Engineering%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20II%2C%20Ads%20Data%20Solutions%20Engineering%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%20II%2C%20Ads%20Data%20Solutions%20Engineering%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%20II%2C%20Ads%20Data%20Solutions%20Engineering%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer II, Marketing Enablement & Technology",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8141535",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software engineer ii, marketing enablement & technology instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%20II%2C%20Marketing%20Enablement%20%26%20Technology%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20II%2C%20Marketing%20Enablement%20%26%20Technology%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%20II%2C%20Marketing%20Enablement%20%26%20Technology%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%20II%2C%20Marketing%20Enablement%20%26%20Technology%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Software Engineer II, Advertiser Optimization",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8233716",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "software engineer ii, advertiser optimization instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Software%20Engineer%20II%2C%20Advertiser%20Optimization%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%2C%20Advertiser%20Optimization%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Software%20Engineer%20II%2C%20Advertiser%20Optimization%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Software%20Engineer%20II%2C%20Advertiser%20Optimization%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Sr Software Engineer II - Ads Manager (Front End)",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8237393",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "sr software engineer ii - ads manager (front end) instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr%20Software%20Engineer%20II%20-%20Ads%20Manager%20%28Front%20End%29%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr%20Software%20Engineer%20II%20-%20Ads%20Manager%20%28Front%20End%29%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr%20Software%20Engineer%20II%20-%20Ads%20Manager%20%28Front%20End%29%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr%20Software%20Engineer%20II%20-%20Ads%20Manager%20%28Front%20End%29%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Lead Credit Risk Analyst",
-   "company": "toast",
-   "location": "Remote",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8185640",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "lead credit risk analyst toast remote careers.toasttab.com other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Lead%20Credit%20Risk%20Analyst%20toast+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Lead%20Credit%20Risk%20Analyst%20toast&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Lead%20Credit%20Risk%20Analyst%20toast&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Lead%20Credit%20Risk%20Analyst%20toast&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Manager II, Customer Care Tax",
-   "company": "toast",
-   "location": "Remote",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8279381",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "manager ii, customer care tax toast remote careers.toasttab.com other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Manager%20II%2C%20Customer%20Care%20Tax%20toast+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%20II%2C%20Customer%20Care%20Tax%20toast&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Manager%20II%2C%20Customer%20Care%20Tax%20toast&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Manager%20II%2C%20Customer%20Care%20Tax%20toast&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer, Enterprise",
-   "company": "toast",
-   "location": "Remote, Canada",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=7587088",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software engineer, enterprise toast remote, canada careers.toasttab.com other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%2C%20Enterprise%20toast+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Enterprise%20toast&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Enterprise%20toast&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%2C%20Enterprise%20toast&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
    "title": "IT Project Manager [4987::(https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e)",
    "company": "Alteo",
    "location": "Montréal, Québec",
@@ -161975,279 +160894,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Director, AI Solutions Strategy & Planning",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8265982",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "director, ai solutions strategy & planning instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Director%2C%20AI%20Solutions%20Strategy%20%26%20Planning%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Director%2C%20AI%20Solutions%20Strategy%20%26%20Planning%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Director%2C%20AI%20Solutions%20Strategy%20%26%20Planning%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Director%2C%20AI%20Solutions%20Strategy%20%26%20Planning%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Director of Product, Logistics",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8198284",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "director of product, logistics instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Director%20of%20Product%2C%20Logistics%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Director%20of%20Product%2C%20Logistics%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Director%20of%20Product%2C%20Logistics%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Director%20of%20Product%2C%20Logistics%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Sales Development Representative II, Emerging - Instacart Business",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=7991566",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "sales development representative ii, emerging - instacart business instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sales%20Development%20Representative%20II%2C%20Emerging%20-%20Instacart%20Business%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Development%20Representative%20II%2C%20Emerging%20-%20Instacart%20Business%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sales%20Development%20Representative%20II%2C%20Emerging%20-%20Instacart%20Business%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sales%20Development%20Representative%20II%2C%20Emerging%20-%20Instacart%20Business%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior AI Solution Sales Executive",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8241795",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior ai solution sales executive instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20AI%20Solution%20Sales%20Executive%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20AI%20Solution%20Sales%20Executive%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20AI%20Solution%20Sales%20Executive%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20AI%20Solution%20Sales%20Executive%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Product Designer II - Growth Systems & AI Workflows",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8191765",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior product designer ii - growth systems & ai workflows instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Product%20Designer%20II%20-%20Growth%20Systems%20%26%20AI%20Workflows%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Designer%20II%20-%20Growth%20Systems%20%26%20AI%20Workflows%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Product%20Designer%20II%20-%20Growth%20Systems%20%26%20AI%20Workflows%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Product%20Designer%20II%20-%20Growth%20Systems%20%26%20AI%20Workflows%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Staff Experience Designer",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8084090",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "staff experience designer instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Staff%20Experience%20Designer%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Staff%20Experience%20Designer%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Staff%20Experience%20Designer%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Staff%20Experience%20Designer%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Staff Data Scientist",
-   "company": "toast",
-   "location": "Canada",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8052293",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "careers.toasttab.com",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "staff data scientist toast canada careers.toasttab.com other via round11-cached--2026-11-05--v21.md canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Staff%20Data%20Scientist%20toast+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Staff%20Data%20Scientist%20toast&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Staff%20Data%20Scientist%20toast&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Staff%20Data%20Scientist%20toast&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
    "title": "Senior Product Manager, Driver Experience",
    "company": "lyft",
    "location": "Toronto, Canada",
@@ -162447,88 +161093,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Sales%20Lead%20-%20Enterprise%20-%20Healthcare%20elevenlabs&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Retail Partner Manager",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=6819437",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 5,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote",
-    "weak title match"
-   ],
-   "french": false,
-   "search": "retail partner manager instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote weak title match",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Retail%20Partner%20Manager%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Retail%20Partner%20Manager%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Retail%20Partner%20Manager%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Retail%20Partner%20Manager%20instacart&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Product Manager, Retailer App Platform & Insights",
-   "company": "instacart",
-   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-   "url": "https://instacart.careers/job/?gh_jid=8266403",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "instacart.careers",
-   "verified": "Employer board",
-   "match": 5,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote",
-    "weak title match"
-   ],
-   "french": false,
-   "search": "senior product manager, retailer app platform & insights instacart canada - remote (on, ab, bc, or ns only) instacart.careers other via round11-cached--2026-11-05--v21.md role fit canada / remote weak title match",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Product%20Manager%2C%20Retailer%20App%20Platform%20%26%20Insights%20instacart+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Manager%2C%20Retailer%20App%20Platform%20%26%20Insights%20instacart&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Product%20Manager%2C%20Retailer%20App%20Platform%20%26%20Insights%20instacart&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Product%20Manager%2C%20Retailer%20App%20Platform%20%26%20Insights%20instacart&loc=Canada"
     }
    ],
    "toronto": false
@@ -180757,14 +179321,7 @@
    ],
    "french": false,
    "search": "servicenow aiops architect. bull-it solutions ltd toronto, ontario adzuna servicenow adzuna servicenow aiops role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-aiops-architect-at-bull-it-solutions-ltd-4483654511",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -181219,14 +179776,7 @@
    ],
    "french": false,
    "search": "servicenow omt architect alldus canada adzuna servicenow adzuna servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-omt-architect-at-alldus-4481891732",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -188917,12 +187467,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5945998148?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-technical-advisor-at-bell-4476333981",
-     "label": "LinkedIn · Toronto",
      "gated": false
     }
    ],
@@ -202016,54 +200560,6 @@
   },
   {
    "posted": "2026-10-26",
-   "title": "Sr. Salesforce CRM Development Lead",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. salesforce crm development lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-crm-development-lead-at-mckesson-4420467002",
-     "label": "LinkedIn · Mississauga",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-26",
    "title": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Prime-Named-Account-Executive--Mulesoft_JR265635-1",
    "company": "Unknown",
    "location": "Not specified",
@@ -202283,14 +200779,7 @@
    ],
    "french": false,
    "search": "salesforce commerce cloud developer eminence organic skin care vancouver, greater vancouver adzuna salesforce readme salesforce role fit",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-commerce-cloud-developer-at-eminence-organic-skin-care-4483372774",
-     "label": "LinkedIn · Vancouver",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -209035,6 +207524,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Revenue%20Cloud%20Architect%20Astra%20North%20Infoteck%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-10-21",
+   "title": "Sr. Salesforce CRM Development Lead",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. salesforce crm development lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&loc=Mississauga"
     }
    ],
    "toronto": true
