@@ -66,3 +66,29 @@
 - Partner / target-company check: Job Bank ServiceNow CSA+CAD Toronto role (posting 50698289) and Bonafide Info Systems CMDB/ITOM postings (50740661, 50740706) — all already on board via Adzuna (dupe check holds). Rogers Phenom board = zero-row shell (do not retry hourly). Bell `jobs.bell.ca` = empty shell (zero reqs). ServiceNow Careers Toronto = sales/SRE/infrastructure only; Salesforce Inc. = no fresh Canadian Platform Admin/Dev I.
 - Result: 0 manual rows added this hour — every fresh partner/gov/bank lead was already deduplicated against `jobs.json` + README.
 
+## 13:00 EST pass — independent web-search confirmation + target-employer sweep (this run)
+
+**Scope:** Fresh Toronto / remote-Ontario ServiceNow and Salesforce (dev + admin) roles, plus the adjacent "Other" track. Explicit target-employer sweep for Rogers, Bell, Canadian federal/municipal government, and ServiceNow Elite / Salesforce partner employers, as tasked for this cron run.
+
+**Sources:** web search (Indeed.ca, Glassdoor, LinkedIn, ZipRecruiter, Talent.com, Workopolis, employer careers pages, gJobs/Job Bank mirrors). Direct page extraction was blocked — Indeed returned Cloudflare "Request Blocked" and KPMG careers returned HTTP 403 — so findings were corroborated via search mirrors and employer pages. Per AGENT-RUNBOOK.md, search results are leads/vocabulary, not facts; nothing was merged without a URL/fingerprint match to the live board.
+
+**Candidates checked and disposition:**
+- iVedha Salesforce Technical Consultant, Toronto (Indeed jk=491d358dcf0e3147) — genuine Salesforce build (Apex/LWC/Agentforce/Service Cloud) but ALREADY ON BOARD (readme, discovered 2026-11-14, hybrid, 12-month contract, Agentforce). Duplicate — skip.
+- Moneris Senior Salesforce Software Developer, Toronto (Indeed jk=c80349ed24e67528) — mirrors carry a 2026-06-16 first-publish date (stale re-advertisement); Moneris "Principle Salesforce Developer" JR106006 already on board. Old + duplicate — skip.
+- KPMG Consultant / Senior Consultant Developer ServiceNow reqs 33530/33532 (Toronto multi-location) — same requisition family already on board (careers.kpmg.ca/jobs/33533 and LinkedIn mirrors, Nov 8–9). Duplicate — skip.
+- Munvo Salesforce Architect, Toronto (Indeed jk=f724fedd3a867dd3) — ALREADY ON BOARD (readme, 2026-11-14). Duplicate — skip.
+- CMHC Bilingual Senior Specialist, ServiceNow ITSM Developer (req 12379; Montreal/Ottawa/Toronto hybrid, Secret clearance) — external mirrors date it 2026-07 to 2026-10, outside the 30-day fresh window; ALREADY ON BOARD (readme, 2026-11-03). Old + duplicate — skip.
+- Rogers (jobs.rogers.com): live reqs are Salesforce marketing/lead-management administration (e.g. Req 343961, Ottawa, 5 days office) — already on board; no fresh Toronto platform-build role this window.
+- Bell (jobs.bell.ca): ServiceNow technical advisor/admin roles already on board extensively (Nov 2026 LinkedIn/Adzuna mirrors); no fresh Toronto SN/SF vacancy this window.
+- Government of Canada (jobs.gc.ca / CMHC / City of Toronto): no fresh Toronto ServiceNow/Salesforce developer/admin vacancy in window; CMHC req 12379 is a duplicate dated outside the window.
+- ServiceNow Elite partners and Salesforce partners (KPMG, Fujitsu, Cognizant, Ateko/Backed by Bell, Lane Four, NewRocket, Pentio, CloudFulcrum, Slalom, NeuraFlash/Accenture): every fresh Toronto SN/SF hit resolved to an existing req ID already on the board. Partner office or event sponsorship is a lead, not a vacancy — careers path must be resolved before counting a role.
+
+**Result:** +0 new verified jobs this run. All fresh-window Toronto SN/SF candidates resolved to rows already on `origin/main`. Zero new verified jobs is a valid result per AGENT-RUNBOOK.md; every source answered (no unavailable source).
+
+**Dedupe method:** normalized URL match plus `title|company|city` fingerprint against README.md tables and jobs.json.
+
+**Disposition:**
+- README.md: unchanged (no new verified rows to add).
+- jobs.json / public/ (GitHub Pages): unchanged — no data changed, so no Pages rebuild triggered (pages.yml only deploys on pushes to README.md / public/).
+- Nothing to merge: this run produced zero new rows; no inbox submission created.
+
