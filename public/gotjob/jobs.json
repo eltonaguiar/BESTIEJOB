@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-21T15:10:09.791Z",
     "generatedAt": "2026-11-21T15:10:09.791Z",
-    "total": 5556,
+    "total": 5557,
     "newThisScan": 498,
     "retainedFromPrevious": 5089,
     "sources": {
@@ -35,7 +35,8 @@
     "primaryCounts": {
       "servicenow": 1190,
       "salesforce": 4261
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -370,6 +371,23 @@
       "tags": [
         "servicenow",
         "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:myprocom-portal.procomservices.com/jobs/salesforce-developer-technical-consultant-calgary-220d21cc",
+      "source": "readme",
+      "company": "Procom",
+      "title": "Salesforce Developer Technical Consultant",
+      "location": "Calgary, Alberta, CA",
+      "url": "https://myprocom-portal.procomservices.com/jobs/salesforce-developer-technical-consultant-calgary-220d21cc",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-21T15:44:34.669Z",
+      "excerpt": "via Procom",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
       ]
     },
     {
