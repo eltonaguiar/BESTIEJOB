@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T12:17:23+00:00",
+ "generatedAt": "2026-11-21T12:47:03+00:00",
  "timezone": "America/Toronto",
  "count": 5061,
  "appliedHidden": 30,
@@ -23079,6 +23079,12 @@
      "url": "https://www.adzuna.ca/details/5945650283",
      "label": "Adzuna · Calgary",
      "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940719587?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Calgary",
+     "gated": false
     }
    ],
    "gated": false,
@@ -36047,6 +36053,12 @@
     },
     {
      "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941645750?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5939044602",
      "label": "Adzuna · Toronto",
      "gated": false
@@ -36793,6 +36805,12 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946007553?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Kelowna",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940716920",
+     "label": "Adzuna · Calgary",
      "gated": false
     }
    ],
@@ -49361,6 +49379,12 @@
      "source": "Eluta",
      "url": "https://www.eluta.ca/spl/salesforce-fsc-developer-c777855de09cc538edad06a56d487bbb",
      "label": "Eluta · Toronto ON",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938973162?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
      "gated": false
     }
    ],
@@ -97467,6 +97491,12 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/cpq-lead-solution-engineer-salesforce-conga-cpq-pros-at-thomson-reuters-4460296550",
      "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940717711?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
      "gated": false
     }
    ],
@@ -170752,9 +170782,21 @@
    "search": "staff incident response engineer servicenow vancouver, british columbia, ca · remote smartrecruiters servicenow smartrecruiters servicenow itsm role fit canada / remote",
    "alternates": [
     {
+     "source": "careers.servicenow.com",
+     "url": "https://careers.servicenow.com/jobs/744000157918029/staff-incident-response-engineer/",
+     "label": "careers.servicenow.com · Vancouver",
+     "gated": false
+    },
+    {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5948276373",
      "label": "Adzuna · Greater Vancouver",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-incident-response-engineer-at-servicenow-4483125674",
+     "label": "LinkedIn · Vancouver",
      "gated": false
     }
    ],
@@ -171616,7 +171658,14 @@
    ],
    "french": false,
    "search": "senior salesforce technical lead ust montreal, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/senior-salesforce-technical-lead-9f807e873faa04ad2336fa51cf6f4a30",
+     "label": "Eluta · Montréal QC",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -191545,7 +191594,14 @@
    ],
    "french": false,
    "search": "itam governance analyst insight global toronto, on adzuna servicenow readme itam role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941206005?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -204835,6 +204891,60 @@
   },
   {
    "posted": "2026-10-24",
+   "title": "Solution Architect - (Healthcare/Life Sciences or Financial Services)",
+   "company": "Salesforce",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457039647",
+   "note": "via buffy-round15b--2026-11-06--v74.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "solution architect - (healthcare/life sciences or financial services) salesforce greater toronto area, canada linkedin salesforce via buffy-round15b--2026-11-06--v74.md salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457052560",
+     "label": "LinkedIn · Montreal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457034728",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-10-24",
    "title": "Gestionnaire d'incident",
    "company": "Bell",
    "location": "Ottawa, Ontario, Canada",
@@ -204869,47 +204979,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Gestionnaire%20d%27incident%20Bell&loc=Ottawa"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-24",
-   "title": "Solution Architect - (Healthcare/Life Sciences or Financial Services)",
-   "company": "Salesforce",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457052560",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 36,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "solution architect - (healthcare/life sciences or financial services) salesforce montreal, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce+Montreal+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&location=Montreal"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&l=Montreal"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&loc=Montreal"
     }
    ],
    "toronto": false
