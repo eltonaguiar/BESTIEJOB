@@ -33,3 +33,8 @@
 - README.md: unchanged (no new verified rows to add).
 - public/ (GitHub Pages): to be rebuilt from README with `tools/build_site.py` + `scripts/sync_readme_to_jobs.mjs` + `scripts/sync_readme_counts.py`; commit only if output differs.
 - Nothing to merge: `fresh-ca--2026-11-21--v3.md` holds zero rows.
+
+## 01:00 EST pass — independent web-search confirmation
+- Repeated the Toronto SN/SF scan with independent web search; every candidate (Procom, Celestica, Altus, Paralucent, acronym, GTT, ForHyre, Brookfield, Envision, La Caisse, Amicis, Docebo, Cognizant, Moneris, Panasonic, LTIMindtree, Veracity, Capgemini, Recutify) resolved to a row already on `origin/main` — **0 net-new**, matching the 00:00 EST result.
+- One verified live lead surfaced that is not on the board: **Dentalcorp — Salesforce Administrator/Developer, Toronto Support Centre, 181 Bay Street** (`dentalcorp.com/site/careers-support-centre/enterprise-applications-administrator`, LinkedIn mirror `ca.linkedin.com/jobs/view/enterprise-applications-administrator-at-dentalcorp-4468148139`). It carries no absolute posted date from the issuer (mirrors flag ~24h freshness), so per the runbook's no-backfill rule it is **staged undated**, not merged into the dated README tables. Re-check date at next run.
+- README.md: unchanged. jobs.json / public/ (GitHub Pages): unchanged — no data changed; Pages auto-deploys on the next push to `main`.
