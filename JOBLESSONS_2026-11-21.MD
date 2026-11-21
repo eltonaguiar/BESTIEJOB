@@ -55,3 +55,14 @@
 - Salesforce: 0 new — all SF candidates (TCS, Konrad, Altus Group, OSI Digital ×4, TD Associate SE nCino/Salesforce, Benevity) already on board under mirror URLs. No entry-level Platform Admin / Platform Developer I surfaced this cycle.
 - Not scanned this cycle: Rogers (jobs.rogers.com), Bell (jobs.bce.ca / jobs.bell.ca), Government of Canada (jobs.gc.ca) — outside the automated sources; recommend a manual telco/gov sweep on alternate cycles.
 - README.md: changed (+4 verified rows). public/ (GitHub Pages): rebuilt. Committed and pushed to main; `pages.yml` redeploys on push (scheduled redeploy also at :35 UTC).
+
+## 08:02 EST pass — hourly structured scan (this run)
+
+- `node scripts/daily_job_scan.mjs` (no `--no-readme`): `fresh=482 merged=5583`; `servicenow=1189`, `salesforce=4258`; rewrote `jobs.json`, `public/*/jobs.json`, `FRESH_JOBS.md` and the README `<!-- DAILY-SCAN -->` block.
+- `tools/verify_links.py --days 2`: 87 fresh rows probed, live=18, dead=0 — nothing dropped.
+- `tools/build_site.py`: site rebuilt, 5060 jobs (servicenow 871 / salesforce 931 / other 3258), built 2026-11-21 13:03 UTC.
+- Commit `5aaa660` pushed to origin/main; `pages.yml` triggered manually for immediate deploy (commit carried `[skip ci]`).
+- Workday CXS retry post-`:00Z`: all 20 calls HTTP 200 (bmo/td/cibc/manulife/interac × servicenow+salesforce, 8 s spacing). No NEW fresh Toronto SN/SF reqs — freshest ("Posted Yesterday"/"Posted 9 Days Ago") already on board (CIBC `Senior Production Application Support Analyst_2621365`, BMO `ServiceNow CMDB Administrator_R260030992`, TD `Senior Solution Architect (ServiceNow)_R_1521185`). Manulife SN hits were Quezon City (PH) — excluded.
+- Partner / target-company check: Job Bank ServiceNow CSA+CAD Toronto role (posting 50698289) and Bonafide Info Systems CMDB/ITOM postings (50740661, 50740706) — all already on board via Adzuna (dupe check holds). Rogers Phenom board = zero-row shell (do not retry hourly). Bell `jobs.bell.ca` = empty shell (zero reqs). ServiceNow Careers Toronto = sales/SRE/infrastructure only; Salesforce Inc. = no fresh Canadian Platform Admin/Dev I.
+- Result: 0 manual rows added this hour — every fresh partner/gov/bank lead was already deduplicated against `jobs.json` + README.
+
