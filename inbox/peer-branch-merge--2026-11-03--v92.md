@@ -164,13 +164,9 @@ notes: 166 rows recovered from aicert-harvest-2026-11-03 / kilo-deep-scan-2026-1
 | 2026-10-22 | [Salesforce Developer - 100% Remote](https://www.adzuna.ca/details/5937871952) | Ensiti | Ottawa, Ottawa region | via aicert-harvest-2026-11-03 |
 | 2026-10-22 | [Senior ServiceNow Developer](https://www.adzuna.ca/details/5937659434?utm_medium=api&utm_source=54ce986e) | Irving Oil | Saint John region, New Brunswick | via aicert-harvest-2026-11-03 |
 | 2026-10-22 | [Functional Lead, AI & Agentforce Delivery](https://www.adzuna.ca/details/5937617115?utm_medium=api&utm_source=54ce986e) | NeuraFlash | Canada | via aicert-harvest-2026-11-03 |
-| 2026-10-21 | [Senior Manager, ServiceNow - Operate](https://www.adzuna.ca/details/5937220371) | Deloitte | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-21 | [Senior Lead, ServiceNow ITOM](https://ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-take-two-interactive-4481160381) | Take-Two Interactive | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
 | 2026-10-21 | [Salesforce Revenue Cloud Developer](https://www.adzuna.ca/details/5937070752) | Astra North Infoteck Inc. | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-21 | [Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5937070757) | Astra North Infoteck Inc. | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-21 | [Salesforce Communications Cloud Developer](https://www.adzuna.ca/details/5937070753) | Astra North Infoteck Inc. | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-21 | [Sr. Salesforce Developer (Marketing Cloud)](https://www.adzuna.ca/details/5936615388) | Periscope Search Group | Toronto, Ontario | via aicert-harvest-2026-11-03 |
-| 2026-10-21 | [Salesforce Product Owner](https://www.adzuna.ca/details/5936223980) | Bridgenext | Toronto, Ontario | via aicert-harvest-2026-11-03 |
-| 2026-10-21 | [Salesforce FSC Developer](https://ca.linkedin.com/jobs/view/salesforce-fsc-developer-at-cognizant-4481164192) | Cognizant | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
-| 2026-10-21 | [Sr. Developer, AI and Agentforce (6231605004) - NeuraFlash / Accenture](https://job-boards.greenhouse.io/neuraflash/jobs/6231605004) | Canada: Remote Canada: Alberta, British Columbia or Ontario only; up to 25% travel | Not disclosed | via blobstopper-opencode-2026-11-02 |
 | 2026-10-20 | [Salesforce Architect](https://ca.linkedin.com/jobs/view/salesforce-architect-at-cgi-4408560005) | CGI | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
