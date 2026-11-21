@@ -38,3 +38,20 @@
 - Repeated the Toronto SN/SF scan with independent web search; every candidate (Procom, Celestica, Altus, Paralucent, acronym, GTT, ForHyre, Brookfield, Envision, La Caisse, Amicis, Docebo, Cognizant, Moneris, Panasonic, LTIMindtree, Veracity, Capgemini, Recutify) resolved to a row already on `origin/main` — **0 net-new**, matching the 00:00 EST result.
 - One verified live lead surfaced that is not on the board: **Dentalcorp — Salesforce Administrator/Developer, Toronto Support Centre, 181 Bay Street** (`dentalcorp.com/site/careers-support-centre/enterprise-applications-administrator`, LinkedIn mirror `ca.linkedin.com/jobs/view/enterprise-applications-administrator-at-dentalcorp-4468148139`). It carries no absolute posted date from the issuer (mirrors flag ~24h freshness), so per the runbook's no-backfill rule it is **staged undated**, not merged into the dated README tables. Re-check date at next run.
 - README.md: unchanged. jobs.json / public/ (GitHub Pages): unchanged — no data changed; Pages auto-deploys on the next push to `main`.
+
+## 04:00 EST pass — hourly ATS/board scan (`scripts/daily_job_scan.mjs`)
+- Scan: 2026-11-21T09:01:51Z · 1,031 live postings from 9 public sources (SmartRecruiters ServiceNow, Workday CXS incl. TD/BMO/Moneris/BDO/Brookfield/Altus Group/Resolve Tech/GDIT, Greenhouse, Lever, Ashby, LinkedIn guest, RemoteOK/Jobicy/Remotive, Adzuna Canada).
+- Workday CXS returned HTTP 429 for every Canadian board — zero employer-board captures from Workday this cycle; all fresh Toronto hits came via LinkedIn/Adzuna feeds.
+- LinkedIn guest search HTTP 429 rate-limited; Adzuna.ca detail pages return CloudFront "The request could not be satisfied" in this environment — corroborated via search mirrors (ZipRecruiter/Talent.com/Indeed) and employer pages before merging.
+- Fresh Toronto SN/SF candidates not on board: 4, all ServiceNow, all merged to the README.md curated ServiceNow table (newest first) and verified live:
+  - ServiceNow Business Analyst - Senior -Toronto, ON (3 days onsite) | Amicis Global | Toronto, Ontario | adzuna.ca — live via ZipRecruiter/Talent.com mirrors.
+  - ServiceNow CMDB Administrator | BMO | Toronto, Ontario, Canada | linkedin — live on jobs.bmo.com (req BOMOGLOBALR260030992).
+  - ServiceNow Technology Lifecycle Analyst | BMO | Toronto, Ontario, Canada | linkedin — live on jobs.bmo.com (req BOMOGLOBALR260030995).
+  - ServiceNow Software Asset Management Developer | Cognizant | Toronto, Ontario, Canada | linkedin — live on careers.cognizant.com (req 00070949051, posted 2026-11-11).
+- Counts bumped: ServiceNow jobs 1389→1393, "Show 1156→1160 postings", total 5529→5531 live postings. BMO CMDB Administrator merged at 2026-11-12 (matching the pre-existing table row at line 2919) to avoid a url-date-conflict.
+- `public/` rebuilt with `tools/build_site.py` (5,060 jobs; built 2026-11-21 09:12 UTC); `jobs.json` + `public/*/jobs.json` rewritten by `scripts/sync_readme_to_jobs.mjs` (added=0 — rows already in feed).
+- Staged submission: `inbox/hermes-agent--2026-11-21--v1.md` (check_inbox.py OK; stamped merged +4 new, 0 duplicate).
+- `board_invariants.py`: errors=97 (one fewer than before this run — count-disagreement and url-date-conflict resolved). Remaining findings are pre-existing: vendor-sales rows, duplicate-url echoes between the scan block and tables, the non-canada Colombia row, outside-window rows.
+- Salesforce: 0 new — all SF candidates (TCS, Konrad, Altus Group, OSI Digital ×4, TD Associate SE nCino/Salesforce, Benevity) already on board under mirror URLs. No entry-level Platform Admin / Platform Developer I surfaced this cycle.
+- Not scanned this cycle: Rogers (jobs.rogers.com), Bell (jobs.bce.ca / jobs.bell.ca), Government of Canada (jobs.gc.ca) — outside the automated sources; recommend a manual telco/gov sweep on alternate cycles.
+- README.md: changed (+4 verified rows). public/ (GitHub Pages): rebuilt. Committed and pushed to main; `pages.yml` redeploys on push (scheduled redeploy also at :35 UTC).
