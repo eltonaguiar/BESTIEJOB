@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T13:03:56+00:00",
+ "generatedAt": "2026-11-21T14:04:16+00:00",
  "timezone": "America/Toronto",
  "count": 5060,
  "appliedHidden": 30,
@@ -327,6 +327,60 @@
   },
   {
    "posted": "2026-11-21",
+   "title": "ServiceNow Business System Architect (J0926-2617)",
+   "company": "CGI",
+   "location": "Toronto, ON; hybrid",
+   "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2617&BRID=&lang=1",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "cgi.njoyn.com",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow business system architect (j0926-2617) cgi toronto, on; hybrid cgi.njoyn.com servicenow readme servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-business-system-architect-at-cgi-4475089095",
+     "label": "LinkedIn · Ontario",
+     "gated": false
+    },
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/servicenow-business-system-architect-0d306db7d800b872e0cf41690b8cbc1f",
+     "label": "Eluta · Toronto ON",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Business%20System%20Architect%20%28J0926-2617%29%20CGI+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Business%20System%20Architect%20%28J0926-2617%29%20CGI&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Business%20System%20Architect%20%28J0926-2617%29%20CGI&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Business%20System%20Architect%20%28J0926-2617%29%20CGI&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-21",
    "title": "Conseiller senior ou chef d'équipe - Gestion intégrée des risques, ServiceNow",
    "company": "EY",
    "location": "Toronto, Ontario, Canada",
@@ -371,6 +425,46 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-21",
+   "title": "Développeur/Développeuse ServiceNow",
+   "company": "CGI",
+   "location": "Greater Montreal Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-d%C3%A9veloppeuse-servicenow-at-cgi-4463123291",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 72,
+   "matchReasons": [
+    "ServiceNow",
+    "Quebec"
+   ],
+   "french": true,
+   "search": "developpeur/developpeuse servicenow cgi greater montreal metropolitan area linkedin servicenow linkedin servicenow quebec",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=D%C3%A9veloppeur/D%C3%A9veloppeuse%20ServiceNow%20CGI+Montreal+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=D%C3%A9veloppeur/D%C3%A9veloppeuse%20ServiceNow%20CGI&location=Montreal"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=D%C3%A9veloppeur/D%C3%A9veloppeuse%20ServiceNow%20CGI&l=Montreal"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur/D%C3%A9veloppeuse%20ServiceNow%20CGI&loc=Montreal"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-21",
@@ -519,97 +613,6 @@
   },
   {
    "posted": "2026-11-20",
-   "title": "Senior ServiceNow Discovery & Service Mapping Engineer",
-   "company": "RBC",
-   "location": "Toronto, ON",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-ServiceNow-Discovery---Service-Mapping-Engineer_R-0000167419-2",
-   "note": "via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITOM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior servicenow discovery & service mapping engineer rbc toronto, on workday ats servicenow via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md servicenow itom role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-discovery-service-mapping-engineer-at-rbc-4468324868",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20Discovery%20%26%20Service%20Mapping%20Engineer%20RBC+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20Discovery%20%26%20Service%20Mapping%20Engineer%20RBC&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20Discovery%20%26%20Service%20Mapping%20Engineer%20RBC&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Discovery%20%26%20Service%20Mapping%20Engineer%20RBC&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-20",
-   "title": "Senior ServiceNow SAM Pro Technical SME",
-   "company": "Avanciers Inc.",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-sam-pro-technical-sme-at-avanciers-inc-4491961105",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITAM",
-    "SAM/HAM",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior servicenow sam pro technical sme avanciers inc. canada linkedin servicenow linkedin servicenow itam sam/ham canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-20",
    "title": "ServiceNow CMDB Consultant",
    "company": "TechNeptune Consulting Inc.",
    "location": "Toronto, Ontario, Canada",
@@ -659,6 +662,48 @@
   },
   {
    "posted": "2026-11-20",
+   "title": "Senior ServiceNow SAM Pro Technical SME",
+   "company": "Avanciers Inc.",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-sam-pro-technical-sme-at-avanciers-inc-4491961105",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITAM",
+    "SAM/HAM",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior servicenow sam pro technical sme avanciers inc. canada linkedin servicenow linkedin servicenow itam sam/ham canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20SAM%20Pro%20Technical%20SME%20Avanciers%20Inc.&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-20",
    "title": "ServiceNow SAM Pro Consultant",
    "company": "Pacer Group",
    "location": "Canada",
@@ -699,6 +744,55 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-20",
+   "title": "Senior ServiceNow Discovery & Service Mapping Engineer",
+   "company": "RBC",
+   "location": "Toronto, ON",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-ServiceNow-Discovery---Service-Mapping-Engineer_R-0000167419-2",
+   "note": "via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITOM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow discovery & service mapping engineer rbc toronto, on workday ats servicenow via kilo-bestiejobs-v2-remaining--2026-11-14--v1.md servicenow itom role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-discovery-service-mapping-engineer-at-rbc-4468324868",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20Discovery%20%26%20Service%20Mapping%20Engineer%20RBC+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20Discovery%20%26%20Service%20Mapping%20Engineer%20RBC&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20Discovery%20%26%20Service%20Mapping%20Engineer%20RBC&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Discovery%20%26%20Service%20Mapping%20Engineer%20RBC&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-20",
@@ -170457,60 +170551,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "ServiceNow Business System Architect (J0926-2617)",
-   "company": "CGI",
-   "location": "Toronto, ON; hybrid",
-   "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2617&BRID=&lang=1",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "cgi.njoyn.com",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow business system architect (j0926-2617) cgi toronto, on; hybrid cgi.njoyn.com servicenow readme servicenow role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-business-system-architect-at-cgi-4475089095",
-     "label": "LinkedIn · Ontario",
-     "gated": false
-    },
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/servicenow-business-system-architect-0d306db7d800b872e0cf41690b8cbc1f",
-     "label": "Eluta · Toronto ON",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Business%20System%20Architect%20%28J0926-2617%29%20CGI+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Business%20System%20Architect%20%28J0926-2617%29%20CGI&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Business%20System%20Architect%20%28J0926-2617%29%20CGI&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Business%20System%20Architect%20%28J0926-2617%29%20CGI&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-31",
    "title": "ServiceNow Systems Administrator",
    "company": "GTT, LLC",
    "location": "Toronto, Ontario",
@@ -170937,46 +170977,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Technical%20Lead%20-%2026-18755%20US%20Tech%20Solutions%2C%20Inc.&loc=Ottawa"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Développeur/Développeuse ServiceNow",
-   "company": "CGI",
-   "location": "Greater Montreal Metropolitan Area",
-   "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-d%C3%A9veloppeuse-servicenow-at-cgi-4463123291",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 72,
-   "matchReasons": [
-    "ServiceNow",
-    "Quebec"
-   ],
-   "french": true,
-   "search": "developpeur/developpeuse servicenow cgi greater montreal metropolitan area linkedin servicenow linkedin servicenow quebec",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=D%C3%A9veloppeur/D%C3%A9veloppeuse%20ServiceNow%20CGI+Montreal+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=D%C3%A9veloppeur/D%C3%A9veloppeuse%20ServiceNow%20CGI&location=Montreal"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=D%C3%A9veloppeur/D%C3%A9veloppeuse%20ServiceNow%20CGI&l=Montreal"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur/D%C3%A9veloppeuse%20ServiceNow%20CGI&loc=Montreal"
     }
    ],
    "toronto": false
