@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-21T12:10:16.144Z** · 996 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-21T13:02:22.357Z** · 1084 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -44,7 +44,7 @@
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
 | 2026-11-21 | [Full-Stack Software Engineer (C#, .Net, React)](https://www.adzuna.ca/details/5973912284) | Manulife | Toronto, Ontario | Full stack |
-| 2026-11-20 | [Software Asset Management (SAM) Analyst](https://ca.linkedin.com/jobs/view/software-asset-management-sam-analyst-at-deloitte-4468276720) | Deloitte | Toronto, Ontario, Canada | itam |
+| 2026-11-20 | [Software Asset Management (SAM) Analyst](https://ca.linkedin.com/jobs/view/software-asset-management-sam-analyst-at-deloitte-4468276720) | Deloitte | Toronto, Ontario, Canada | other |
 | 2026-11-20 | [Marketing Cloud Specialist](https://www.adzuna.ca/details/5973150270) | Medcan Health Management | Toronto, Ontario | other |
 | 2026-11-20 | [Technical Lead - Full Stack Developer (Mobile Development experience)](https://www.adzuna.ca/details/5972996630) | Miratech | Toronto, Ontario | Full stack |
 | 2026-11-20 | [Senior DevOps Engineer II - Europe](https://remoteok.com/remote-jobs/remote-senior-devops-engineer-ii-europe-storyblok-1137887) | Storyblok | Worldwide | DevOps / Cloud |
