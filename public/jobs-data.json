@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T03:16:09+00:00",
+ "generatedAt": "2026-11-21T03:45:47+00:00",
  "timezone": "America/Toronto",
  "count": 5051,
  "appliedHidden": 30,
@@ -1126,14 +1126,14 @@
   {
    "posted": "2026-11-20",
    "title": "Marketing Cloud Specialist",
-   "company": "Medcan Health Management",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5973150270",
-   "note": "adzuna",
+   "company": "Medcan",
+   "location": "Toronto",
+   "url": "https://medcan.wd10.myworkdayjobs.com/en-US/Medcan/job/Toronto/Marketing-Cloud-Specialist_MED02574",
+   "note": "via buffy-scan60d--2026-11-04--v73.md",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "Workday ATS",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -1141,8 +1141,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "marketing cloud specialist medcan health management toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "search": "marketing cloud specialist medcan toronto workday ats salesforce via buffy-scan60d--2026-11-04--v73.md salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5973150270",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5945494725",
@@ -1160,19 +1166,19 @@
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Marketing%20Cloud%20Specialist%20Medcan%20Health%20Management+Toronto+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Marketing%20Cloud%20Specialist%20Medcan+Toronto+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Cloud%20Specialist%20Medcan%20Health%20Management&location=Toronto"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Cloud%20Specialist%20Medcan&location=Toronto"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Marketing%20Cloud%20Specialist%20Medcan%20Health%20Management&l=Toronto"
+     "url": "https://ca.indeed.com/jobs?q=Marketing%20Cloud%20Specialist%20Medcan&l=Toronto"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Marketing%20Cloud%20Specialist%20Medcan%20Health%20Management&loc=Toronto"
+     "url": "https://www.adzuna.ca/search?q=Marketing%20Cloud%20Specialist%20Medcan&loc=Toronto"
     }
    ],
    "toronto": true
@@ -4287,7 +4293,20 @@
    ],
    "french": false,
    "search": "request id: 114275 - salesforce revenue cloud architect flexstaf it toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941645141?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5939233633?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -10916,6 +10935,12 @@
      "url": "https://www.adzuna.ca/details/5946065109?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto",
      "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/principal-solution-architect-servicenow-at-servicenow-4484026843",
+     "label": "LinkedIn · Toronto",
+     "gated": false
     }
    ],
    "gated": false,
@@ -11478,6 +11503,18 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483777144",
      "label": "LinkedIn · Mississauga",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483760655",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483758677",
+     "label": "LinkedIn · Guelph",
      "gated": false
     }
    ],
@@ -22219,6 +22256,12 @@
      "url": "https://www.adzuna.ca/details/5945650283",
      "label": "Adzuna · Calgary",
      "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940719587?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Calgary",
+     "gated": false
     }
    ],
    "gated": false,
@@ -27200,6 +27243,12 @@
    "french": false,
    "search": "salesforce marketing and data cloud consultant accenture toronto, on / ontario accenture.com salesforce via accenture careers — discovered 2026-11-14 · $69,450–$119,450 · multiple locations incl. toronto salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-and-data-cloud-consultant-at-accenture-4481198229",
+     "label": "LinkedIn · Vancouver",
+     "gated": false
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-and-data-cloud-consultant-at-accenture-4481190658",
@@ -35282,6 +35331,12 @@
     },
     {
      "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941645750?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5939044602",
      "label": "Adzuna · Toronto",
      "gated": false
@@ -36041,6 +36096,12 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946007553?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Kelowna",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940716920",
+     "label": "Adzuna · Calgary",
      "gated": false
     }
    ],
@@ -40680,6 +40741,12 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5947169671",
      "label": "Adzuna · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4482231111",
+     "label": "LinkedIn · Toronto",
      "gated": false
     }
    ],
@@ -47109,7 +47176,14 @@
    ],
    "french": false,
    "search": "salesforce developer delpath toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-delpath-4484206074",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -47280,7 +47354,14 @@
    ],
    "french": false,
    "search": "salesforce software engineer steadman brown toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-software-engineer-at-steadman-brown-4480664272",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -48535,6 +48616,12 @@
      "source": "Eluta",
      "url": "https://www.eluta.ca/spl/salesforce-fsc-developer-c777855de09cc538edad06a56d487bbb",
      "label": "Eluta · Toronto ON",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5938973162?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
      "gated": false
     },
     {
@@ -56965,6 +57052,18 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5959122166",
      "label": "Adzuna · Ottawa",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4482543161",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-lightspeed-commerce-4466232343",
+     "label": "LinkedIn · Montreal",
      "gated": false
     },
     {
@@ -81025,6 +81124,12 @@
      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899",
      "label": "LinkedIn · Toronto",
      "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940715632?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Calgary",
+     "gated": false
     }
    ],
    "gated": false,
@@ -81245,7 +81350,14 @@
    ],
    "french": false,
    "search": "request id: 114262-1 - salesforce communications cloud developer flexstaf it toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5939221310?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -96675,6 +96787,12 @@
      "url": "https://ca.linkedin.com/jobs/view/cpq-lead-solution-engineer-salesforce-conga-cpq-pros-at-thomson-reuters-4460296550",
      "label": "LinkedIn · Toronto",
      "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5940717711?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
     }
    ],
    "gated": false,
@@ -100515,6 +100633,12 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5947169370",
      "label": "Adzuna · Canada",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-tech-lead-canada-remote-at-cloudlabs-inc-4482213499",
+     "label": "LinkedIn · Canada",
      "gated": false
     }
    ],
@@ -169949,7 +170073,14 @@
    ],
    "french": false,
    "search": "senior servicenow architect optovia ottawa, ottawa region adzuna servicenow adzuna servicenow role fit",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-architect-at-optovia-4484139182",
+     "label": "LinkedIn · Ottawa",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -170033,6 +170164,12 @@
    "search": "staff incident response engineer servicenow vancouver, british columbia, ca · remote smartrecruiters servicenow smartrecruiters servicenow itsm role fit canada / remote",
    "alternates": [
     {
+     "source": "careers.servicenow.com",
+     "url": "https://careers.servicenow.com/jobs/744000157918029/staff-incident-response-engineer/",
+     "label": "careers.servicenow.com · Vancouver",
+     "gated": false
+    },
+    {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5948276373",
      "label": "Adzuna · Greater Vancouver",
@@ -170042,6 +170179,12 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5947170036?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Greater Vancouver",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/staff-incident-response-engineer-at-servicenow-4483125674",
+     "label": "LinkedIn · Vancouver",
      "gated": false
     }
    ],
@@ -170903,7 +171046,14 @@
    ],
    "french": false,
    "search": "senior salesforce technical lead ust montreal, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/senior-salesforce-technical-lead-9f807e873faa04ad2336fa51cf6f4a30",
+     "label": "Eluta · Montréal QC",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -180230,7 +180380,14 @@
    ],
    "french": false,
    "search": "servicenow aiops architect. bull-it solutions ltd toronto, ontario adzuna servicenow adzuna servicenow aiops role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-aiops-architect-at-bull-it-solutions-ltd-4483654511",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -180685,7 +180842,14 @@
    ],
    "french": false,
    "search": "servicenow omt architect alldus canada adzuna servicenow adzuna servicenow role fit canada / remote",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-omt-architect-at-alldus-4481891732",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -180907,6 +181071,12 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/conseiller-technique-principal-servicenow-at-bell-4476346779",
      "label": "LinkedIn · Montreal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/conseiller-technique-principal-servicenow-at-bell-4476360201",
+     "label": "LinkedIn · Toronto",
      "gated": false
     }
    ],
@@ -188534,6 +188704,12 @@
      "url": "https://www.adzuna.ca/details/5945998148?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Canada",
      "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-technical-advisor-at-bell-4476333981",
+     "label": "LinkedIn · Toronto",
+     "gated": false
     }
    ],
    "gated": false,
@@ -191049,7 +191225,14 @@
    ],
    "french": false,
    "search": "itam governance analyst insight global toronto, on adzuna servicenow readme itam role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5941206005?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -197189,7 +197372,20 @@
    ],
    "french": false,
    "search": "salesforce developer medcan toronto workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/medcan/jobs/salesforce-developer-toronto-on-1302474d8486",
+     "label": "jobs.ca · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -201620,7 +201816,14 @@
    ],
    "french": false,
    "search": "salesforce consultant axiom global technologies toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-at-axiom-global-technologies-4481996153",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -201638,6 +201841,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Consultant%20Axiom%20Global%20Technologies&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "Sr. Salesforce CRM Development Lead",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. salesforce crm development lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-crm-development-lead-at-mckesson-4420467002",
+     "label": "LinkedIn · Mississauga",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&loc=Mississauga"
     }
    ],
    "toronto": true
@@ -201863,7 +202114,14 @@
    ],
    "french": false,
    "search": "salesforce commerce cloud developer eminence organic skin care vancouver, greater vancouver adzuna salesforce readme salesforce role fit",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-commerce-cloud-developer-at-eminence-organic-skin-care-4483372774",
+     "label": "LinkedIn · Vancouver",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -204302,6 +204560,60 @@
   },
   {
    "posted": "2026-10-24",
+   "title": "Solution Architect - (Healthcare/Life Sciences or Financial Services)",
+   "company": "Salesforce",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457039647",
+   "note": "via buffy-round15b--2026-11-06--v71.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 40,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "solution architect - (healthcare/life sciences or financial services) salesforce greater toronto area, canada linkedin salesforce via buffy-round15b--2026-11-06--v71.md salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457052560",
+     "label": "LinkedIn · Montreal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457034728",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-10-24",
    "title": "Gestionnaire d'incident",
    "company": "Bell",
    "location": "Ottawa, Ontario, Canada",
@@ -204336,47 +204648,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Gestionnaire%20d%27incident%20Bell&loc=Ottawa"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-24",
-   "title": "Solution Architect - (Healthcare/Life Sciences or Financial Services)",
-   "company": "Salesforce",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457052560",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 36,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "solution architect - (healthcare/life sciences or financial services) salesforce montreal, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce+Montreal+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&location=Montreal"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&l=Montreal"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&loc=Montreal"
     }
    ],
    "toronto": false
@@ -208092,7 +208363,14 @@
    ],
    "french": false,
    "search": "technical architect director - pubsec - mulesoft canada salesforce toronto, ontario, canada linkedin salesforce readme integration salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/technical-architect-director-pubsec-mulesoft-canada-at-salesforce-4473921931",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -208608,47 +208886,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Revenue%20Cloud%20Architect%20Astra-North%20Infoteck%20Inc.%20~%20Conquering%20today%E2%80%99s%20challenges%2C%20achieving%20tomorrow%E2%80%99s%20vision%21&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-21",
-   "title": "Sr. Salesforce CRM Development Lead",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. salesforce crm development lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&loc=Mississauga"
     }
    ],
    "toronto": true
