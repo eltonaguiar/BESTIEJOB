@@ -326,7 +326,11 @@ async function scanWorkday() {
       try {
         data = await fetchJson(api, {
           method: "POST",
-          headers: { "content-type": "application/json", accept: "application/json" },
+          headers: {
+            "content-type": "application/json",
+            accept: "application/json",
+            origin: `https://${board.tenant}.${board.wd}.myworkdayjobs.com`,
+          },
           body: JSON.stringify({ appliedFacets: {}, limit: 20, offset, searchText: query }),
         });
       } catch (err) {
