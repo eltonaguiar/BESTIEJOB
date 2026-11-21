@@ -5202,3 +5202,27 @@ Window: 2026-10-20 → 2026-11-19 · **5123 live postings** · deduplicated by U
 | 2026-10-20 | [Agile Project Manager](https://ca.linkedin.com/jobs/view/agile-project-manager-at-cognizant-4480727239) | Cognizant | Toronto, Ontario, Canada | via twin 20-round harvest |
 | 2026-11-20 | [IT Operations & Service Transition Consultant (ITSM)](https://ca.linkedin.com/jobs/view/it-operations-service-transition-consultant-itsm-at-procom-4492596285) | Procom | Toronto, Ontario, Canada | via hermes-cron-2026-11-20T0900EST · servicenow/itsm · body-verified |
 | 2026-11-20 | [Technical Operations & Governance Analyst](https://ca.linkedin.com/jobs/view/technical-operations-governance-analyst-at-ktek-resourcing-4492933460) | KTek Resourcing | Scarborough, Ontario, Canada | via hermes-cron-2026-11-20T0900EST · other/it-reporting · body-verified |
+<!-- DAILY-SCAN:END -->
+
+<!-- DAILY-SCAN:START -->
+## Latest auto-scanned jobs (newest first)
+**Scan: 2026-11-21T20:01:22Z** · 6 fresh verified postings from 3 sources · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+### ServiceNow — newest 0
+| Posted | Role | Company | Location |
+|---|---|---|---|
+No new verified Toronto ServiceNow requisitions this scan.
+### Salesforce — newest 6
+| Posted | Role | Company | Location |
+|---|---|---|---|
+| 2026-11-20 | [Salesforce Developer](https://www.jobs.ca/avanciers-inc/jobs/salesforce-developer-toronto-on-6f53b53eb30b) | Avanciers Inc | Toronto, ON |
+| 2026-11-19 | [Salesforce Agentic Developer](https://careers.paralucent.com/o/salesforce-agentic-developer) | Paralucent | Greater Toronto Area, Canada |
+| 2026-11-19 | [Salesforce Developer](https://www.jobs.ca/cgi/jobs/salesforce-developer-toronto-on-27d21bf0b1ab) | CGI | Toronto, ON |
+| 2026-11-19 | [Senior Salesforce Developer](https://www.jobs.ca/tata-consultancy-services/jobs/senior-salesforce-developer-toronto-on-e1263bb1f0ce) | Tata Consultancy Services | Toronto, ON |
+| 2026-11-17 | [Student Intern, Salesforce Developer 1](https://careers.celestica.com/job/Toronto-Student-Intern%2C-Salesforce-Developer-1-ON/1458172833/) | Celestica | Toronto, ON |
+| 2026-11-10 | [Salesforce Developer](https://www.jobs.ca/intelli-cloudware-inc/jobs/salesforce-developer-toronto-on-8f562fc76127) | Intelli-CloudWare Inc | Toronto, ON |
+### Other keyword matches — newest 0
+| Posted | Role | Company | Location | Keyword |
+|---|---|---|---|---|
+None this scan.
+_Generated automatically by the hourly job scan; run `npm run scan:daily` to refresh._
+<!-- DAILY-SCAN:END -->

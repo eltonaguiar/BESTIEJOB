@@ -15,11 +15,11 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-21T19:09:33.288Z",
-    "generatedAt": "2026-11-21T19:09:33.288Z",
-    "total": 5561,
-    "newThisScan": 486,
-    "retainedFromPrevious": 5106,
+    "scrapedAt": "2026-11-21T20:04:06.000Z",
+    "generatedAt": "2026-11-21T20:04:06.000Z",
+    "total": 5567,
+    "newThisScan": 6,
+    "retainedFromPrevious": 5561,
     "sources": {
       "smartrecruiters": 12,
       "workday": 16,
@@ -30,12 +30,16 @@
       "remoteok": 1,
       "jobicy": 1,
       "remotive": 6,
-      "adzuna": 206
+      "adzuna": 206,
+      "jobs.ca": 4,
+      "paralucent": 1,
+      "celestica": 1
     },
     "primaryCounts": {
       "servicenow": 1193,
-      "salesforce": 4263
-    }
+      "salesforce": 4269
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -99343,6 +99347,116 @@
         "salesforce"
       ],
       "dateSource": "posting:json-ld"
+    },
+    {
+      "id": "paralucent:careers.paralucent.com/o/salesforce-agentic-developer",
+      "source": "paralucent",
+      "company": "Paralucent",
+      "title": "Salesforce Agentic Developer",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://careers.paralucent.com/o/salesforce-agentic-developer",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-19T00:00:00.000Z",
+      "scrapedAt": "2026-11-21T20:04:06.000Z",
+      "excerpt": "Builds AI agents on Salesforce (Agentforce Builder, Agent Script, Apex, Flow, REST APIs); integrates agents with Salesforce CRM, Data Cloud, ServiceNow, SharePoint and ERP. Contract role, Canada / Greater Toronto Area.",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "jobs.ca:cgi-salesforce-developer-toronto-on-27d21bf0b1ab",
+      "source": "jobs.ca",
+      "company": "CGI",
+      "title": "Salesforce Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.jobs.ca/cgi/jobs/salesforce-developer-toronto-on-27d21bf0b1ab",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 85000,
+        "max": 135000,
+        "currency": "CAD"
+      },
+      "postedDate": "2026-11-19T00:00:00.000Z",
+      "scrapedAt": "2026-11-21T20:04:06.000Z",
+      "excerpt": "Design, develop, integrate, test and support Salesforce solutions incl. Financial Services Cloud; Apex, Visualforce, Lightning Components, REST/SOAP APIs; hybrid, min 3 days/week onsite at downtown Toronto or client office; 5+ yrs Salesforce dev, banking/FSC experience.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "jobs.ca:avanciers-inc-salesforce-developer-toronto-on-6f53b53eb30b",
+      "source": "jobs.ca",
+      "company": "Avanciers Inc",
+      "title": "Salesforce Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.jobs.ca/avanciers-inc/jobs/salesforce-developer-toronto-on-6f53b53eb30b",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-20T00:00:00.000Z",
+      "scrapedAt": "2026-11-21T20:04:06.000Z",
+      "excerpt": "Salesforce CRM for Commercial Banking (Financial Services Cloud, Sales Cloud, Service Cloud); Apex, LWC, Flows, REST/SOAP integrations; 6-12+ month contract, CAD $75-85/hr, 2 days/week onsite, applies until 2026-12-15.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "celestica:req-141238",
+      "source": "celestica",
+      "company": "Celestica",
+      "title": "Student Intern, Salesforce Developer 1",
+      "location": "Toronto, ON",
+      "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Salesforce-Developer-1-ON/1458172833/",
+      "employmentType": "internship",
+      "salary": null,
+      "postedDate": "2026-11-17T00:00:00.000Z",
+      "scrapedAt": "2026-11-21T20:04:06.000Z",
+      "excerpt": "16-month internship from May 2027 at 5140 Yonge St, North York; configure/develop Salesforce (Apex, Visualforce, LWC, Flow, validation rules); enrolled CS/IT student required; hybrid; CAD $23-30/hr.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "jobs.ca:tcs-senior-salesforce-developer-toronto-on-e1263bb1f0ce",
+      "source": "jobs.ca",
+      "company": "Tata Consultancy Services",
+      "title": "Senior Salesforce Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.jobs.ca/tata-consultancy-services/jobs/senior-salesforce-developer-toronto-on-e1263bb1f0ce",
+      "employmentType": "full-time",
+      "salary": {
+        "min": 100000,
+        "max": 120000,
+        "currency": "CAD"
+      },
+      "postedDate": "2026-11-19T00:00:00.000Z",
+      "scrapedAt": "2026-11-21T20:04:06.000Z",
+      "excerpt": "Develop/customize/integrate Salesforce via Apex, Visualforce, LWC, SOQL; Agentforce and Data Cloud exposure; on-site Toronto; PD I/II and Agentforce certifications; CA$100k-120k.",
+      "workArrangement": "on-site",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "jobs.ca:intelli-cloudware-salesforce-developer-toronto-on-8f562fc76127",
+      "source": "jobs.ca",
+      "company": "Intelli-CloudWare Inc",
+      "title": "Salesforce Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.jobs.ca/intelli-cloudware-inc/jobs/salesforce-developer-toronto-on-8f562fc76127",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-10T00:00:00.000Z",
+      "scrapedAt": "2026-11-21T20:04:06.000Z",
+      "excerpt": "Custom Salesforce applications (Apex, Visualforce, Lightning Components), external integrations, reports and dashboards; Platform Developer I or II certification required; apply by 2026-11-24; on-site Toronto.",
+      "workArrangement": "on-site",
+      "tags": [
+        "salesforce"
+      ]
     }
   ]
 }

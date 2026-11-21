@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T19:11:50+00:00",
+ "generatedAt": "2026-11-21T20:04:27+00:00",
  "timezone": "America/Toronto",
  "count": 5061,
  "appliedHidden": 30,
@@ -2798,6 +2798,12 @@
    "french": false,
    "search": "salesforce developer avanciers inc. toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/avanciers-inc/jobs/salesforce-developer-toronto-on-6f53b53eb30b",
+     "label": "jobs.ca · Toronto",
+     "gated": false
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-avanciers-inc-4483452974",
@@ -5711,13 +5717,13 @@
    "posted": "2026-11-19",
    "title": "Salesforce Agentic Developer",
    "company": "Paralucent",
-   "location": "Toronto, ON, Canada",
-   "url": "https://builtintoronto.com/job/salesforce-agentic-developer/12337693",
-   "note": "readme",
+   "location": "Greater Toronto Area, Canada",
+   "url": "https://careers.paralucent.com/o/salesforce-agentic-developer",
+   "note": "paralucent",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "BuiltIn",
-   "verified": "Aggregator",
+   "source": "careers.paralucent.com",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -5725,8 +5731,15 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "salesforce agentic developer paralucent toronto, on, canada builtin salesforce readme salesforce role fit toronto area",
-   "alternates": [],
+   "search": "salesforce agentic developer paralucent greater toronto area, canada careers.paralucent.com salesforce paralucent salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "BuiltIn",
+     "url": "https://builtintoronto.com/job/salesforce-agentic-developer/12337693",
+     "label": "BuiltIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -5946,6 +5959,12 @@
    "search": "salesforce developer cgi toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
    "alternates": [
     {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/cgi/jobs/salesforce-developer-toronto-on-27d21bf0b1ab",
+     "label": "jobs.ca · Toronto",
+     "gated": false
+    },
+    {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-cgi-4492058344",
      "label": "LinkedIn · Toronto",
@@ -6121,13 +6140,13 @@
    "posted": "2026-11-19",
    "title": "Student Intern, Salesforce Developer 1",
    "company": "Celestica",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5971440660",
-   "note": "adzuna",
+   "location": "Toronto, ON",
+   "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Salesforce-Developer-1-ON/1458172833/",
+   "note": "celestica",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "careers.celestica.com",
+   "verified": "Employer board",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -6135,8 +6154,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "student intern, salesforce developer 1 celestica toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "search": "student intern, salesforce developer 1 celestica toronto, on careers.celestica.com salesforce celestica salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5971440660",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/student-intern-salesforce-developer-1-at-celestica-4491444461",
@@ -6629,6 +6654,60 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Business%20Systems%20Analyst-%20Salesforce%20Revenue%20Cloud%20Bench&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-19",
+   "title": "Senior Salesforce Developer",
+   "company": "Tata Consultancy Services",
+   "location": "Toronto, ON",
+   "url": "https://www.jobs.ca/tata-consultancy-services/jobs/senior-salesforce-developer-toronto-on-e1263bb1f0ce",
+   "note": "jobs.ca",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer tata consultancy services toronto, on jobs.ca salesforce jobs.ca salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491845382",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&loc=Toronto"
     }
    ],
    "toronto": true
@@ -10153,54 +10232,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Solution%20Architect%20The%20Citco%20Group&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Senior Salesforce Developer",
-   "company": "Tata Consultancy Services",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491845382",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer tata consultancy services toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20Tata%20Consultancy%20Services&loc=Toronto"
     }
    ],
    "toronto": true
@@ -56267,6 +56298,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20System%20Coordinator%20/%20Administrator%20Quarry%20Consulting&loc=Canada"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-10",
+   "title": "Salesforce Developer",
+   "company": "Intelli-CloudWare Inc",
+   "location": "Toronto, ON",
+   "url": "https://www.jobs.ca/intelli-cloudware-inc/jobs/salesforce-developer-toronto-on-8f562fc76127",
+   "note": "jobs.ca",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer intelli-cloudware inc toronto, on jobs.ca salesforce jobs.ca salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "jobs.ca",
+     "url": "https://www.jobs.ca/intelli-cloudware-inc/jobs/salesforce-developer-toronto-on-543d02a0da9c",
+     "label": "jobs.ca · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Intelli-CloudWare%20Inc+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Intelli-CloudWare%20Inc&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Intelli-CloudWare%20Inc&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Intelli-CloudWare%20Inc&loc=Toronto"
     }
    ],
    "toronto": true
@@ -127239,47 +127318,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Architect%20Paralucent&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-03",
-   "title": "Salesforce Developer",
-   "company": "Intelli-CloudWare Inc",
-   "location": "Toronto, ON",
-   "url": "https://www.jobs.ca/intelli-cloudware-inc/jobs/salesforce-developer-toronto-on-543d02a0da9c",
-   "note": "intelli-cloudware",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.ca",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer intelli-cloudware inc toronto, on jobs.ca salesforce intelli-cloudware salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Intelli-CloudWare%20Inc+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Intelli-CloudWare%20Inc&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Intelli-CloudWare%20Inc&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Intelli-CloudWare%20Inc&loc=Toronto"
     }
    ],
    "toronto": true
