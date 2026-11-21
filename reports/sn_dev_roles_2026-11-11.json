@@ -5,19 +5,19 @@
    "raw": 0
   },
   "RemoteOK": {
-   "status": "http 200, 99 jobs",
+   "status": "http 200, 101 jobs",
    "raw": 0
   },
   "Remotive": {
-   "status": "http 200, 15 jobs",
-   "raw": 15
+   "status": "http 200, 16 jobs",
+   "raw": 16
   },
   "Himalayas": {
-   "status": "p0:20/119293, p1:20/119318, p2:20/119293, p3:20/119293, p4:20/119293",
+   "status": "crashed TypeError",
    "raw": 0
   },
   "Jobboom (QC)": {
-   "status": "http 403, 6067B; http 403, 6067B",
+   "status": "http 403, 6046B; http 403, 6067B",
    "raw": 0
   },
   "We Work Remotely": {
@@ -37,7 +37,7 @@
    "raw": 0
   },
   "Jobrapido CA": {
-   "status": "http 429",
+   "status": "http 200, 0 SN links",
    "raw": 0
   },
   "Monster.ca": {
@@ -56,6 +56,11 @@
  "dated": [],
  "undated": [],
  "dropped": [
+  {
+   "source": "Remotive",
+   "title": "Content Reviewer - United States",
+   "why": "title filter"
+  },
   {
    "source": "Remotive",
    "title": "Tech Lead Full-Stack Rails Engineer",
