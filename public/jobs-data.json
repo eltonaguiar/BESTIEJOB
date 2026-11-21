@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T20:12:34+00:00",
+ "generatedAt": "2026-11-21T21:12:30+00:00",
  "timezone": "America/Toronto",
  "count": 5026,
  "appliedHidden": 30,
@@ -12843,12 +12843,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483760655",
      "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483758677",
-     "label": "LinkedIn · Guelph",
      "gated": false
     }
    ],
@@ -48377,14 +48371,7 @@
    ],
    "french": false,
    "search": "salesforce developer delpath toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-delpath-4484206074",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -97465,12 +97452,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-salytics-4456030739",
      "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5939042938?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
      "gated": false
     }
    ],
@@ -179923,60 +179904,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "ServiceNow CSM/OMT Architect – 12-Month Contract",
-   "company": "Alldus International Consulting Limited",
-   "location": "Remote, Canada",
-   "url": "https://www.dice.com/job-detail/56a91ce9-8622-495c-8744-59f0ceb10c4e",
-   "note": "dice",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "dice.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow csm/omt architect – 12-month contract alldus international consulting limited remote, canada dice.com servicenow dice servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-csm-omt-architect-%E2%80%93-12-month-contract-at-alldus-4481452768",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946004861?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-30",
    "title": "Conseiller technique principal ServiceNow",
    "company": "Bell",
    "location": "Toronto, Ontario",
@@ -187354,6 +187281,54 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-10-29",
+   "title": "ServiceNow CSM/OMT Architect – 12-Month Contract",
+   "company": "Alldus International Consulting Limited",
+   "location": "Remote, Canada",
+   "url": "https://www.dice.com/job-detail/56a91ce9-8622-495c-8744-59f0ceb10c4e",
+   "note": "dice",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "dice.com",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow csm/omt architect – 12-month contract alldus international consulting limited remote, canada dice.com servicenow dice servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5946004861?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20CSM/OMT%20Architect%20%E2%80%93%2012-Month%20Contract%20Alldus%20International%20Consulting%20Limited&loc=Canada"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-10-29",
@@ -196085,20 +196060,7 @@
    ],
    "french": false,
    "search": "salesforce developer medcan toronto workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "jobs.ca",
-     "url": "https://www.jobs.ca/medcan/jobs/salesforce-developer-toronto-on-1302474d8486",
-     "label": "jobs.ca · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -205373,14 +205335,7 @@
    ],
    "french": true,
    "search": "analyste-developpeur, salesforce (montreal ou quebec) investissement quebec montreal qc eluta salesforce readme salesforce role fit quebec",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/analyste-d%C3%A9veloppeur-salesforce-montr%C3%A9al-ou-qu%C3%A9bec-at-investissement-qu%C3%A9bec-4473563293",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
