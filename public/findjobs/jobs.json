@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-21T00:28:44.992Z",
     "generatedAt": "2026-11-21T00:28:44.992Z",
-    "total": 5586,
+    "total": 5587,
     "newThisScan": 500,
     "retainedFromPrevious": 5119,
     "sources": {
@@ -157,6 +157,23 @@
       ],
       "verifiedAt": "2026-11-20T18:25:34.565061+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "readme:workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html",
+      "source": "readme",
+      "company": "Canadian Cancer Society",
+      "title": "Technical Business Analyst",
+      "location": "Toronto, ON (hybrid; 10 Canadian locations)",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&lang=en_CA&jobId=594878",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-21T01:06:55.301Z",
+      "excerpt": "via hermes-cron 20:00 EST · salesforce · ADP req 2067, posted today; datePosted 2026-11-21T00:17Z; Salesforce ecosystem BA (solution design, testing, release support)",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5972996630",
