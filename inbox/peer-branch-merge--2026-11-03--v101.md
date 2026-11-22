@@ -155,14 +155,9 @@ notes: 166 rows recovered from aicert-harvest-2026-11-03 / kilo-deep-scan-2026-1
 | 2026-10-23 | [Request ID: 114262-1 - Salesforce Communications Cloud Developer](https://www.adzuna.ca/details/5939221310) | Flexstaf IT | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-23 | [Salesforce Developer (Marketing, Data, and Experience Clouds)](https://www.adzuna.ca/details/5939042938) | Salytics | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-22 | [Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology](https://www.adzuna.ca/details/5938629826) | Deloitte | Toronto, Ontario | via aicert-harvest-2026-11-03 |
-| 2026-10-22 | [Technical Delivery Manager, ServiceNow IRM/SecOps (Ref 135632)](https://www.workopolis.com/jobsearch/viewjob/pUjUr1JaRFXXtXvUQMWlr7hhZ3KMGwfvEtYARMRXEPHGgcgHIRn7c17phJr_yn9h) | Deloitte | Remote (Primary Toronto) | via aicert-harvest-2026-11-03 |
-| 2026-10-22 | [ServiceNow Technical Architect - Randstad](https://www.randstad.ca/jobs/servicenow-technical-architect_toronto_47644537/) | Canada: Toronto; 100% remote; confirm Canadian province eligibility | Five-month contract through March 2027 | via aicert-harvest-2026-11-03 |
 | 2026-10-22 | [ServiceNow Technical Lead](https://www.adzuna.ca/details/5937649084) | CAAT Pension Plan | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-22 | [ServiceNow Technical Lead](https://caatpension.wd10.myworkdayjobs.com/en-US/Careers/job/Toronto-ON/ServiceNow-Technical-Lead_JR100193-1) | CAAT Pension Plan | Toronto, ON | via aicert-harvest-2026-11-03 |
 | 2026-10-22 | [ServiceNow Developer (CONTRACT ROLE)](https://www.adzuna.ca/details/5937568813) | Brookfield Properties | Toronto, Ontario | via aicert-harvest-2026-11-03 |
-| 2026-10-22 | [ServiceNow Transformation Program Manager](https://www.adzuna.ca/details/5937566810) | Cognizant | Toronto, Ontario | via aicert-harvest-2026-11-03 |
-| 2026-10-22 | [Salesforce Developer - 100% Remote](https://www.adzuna.ca/details/5937871952) | Ensiti | Ottawa, Ottawa region | via aicert-harvest-2026-11-03 |
-| 2026-10-22 | [Senior ServiceNow Developer](https://www.adzuna.ca/details/5937659434?utm_medium=api&utm_source=54ce986e) | Irving Oil | Saint John region, New Brunswick | via aicert-harvest-2026-11-03 |
 | 2026-10-22 | [Functional Lead, AI & Agentforce Delivery](https://www.adzuna.ca/details/5937617115?utm_medium=api&utm_source=54ce986e) | NeuraFlash | Canada | via aicert-harvest-2026-11-03 |
 | 2026-10-21 | [Senior Lead, ServiceNow ITOM](https://ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-take-two-interactive-4481160381) | Take-Two Interactive | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
 | 2026-10-21 | [Salesforce Revenue Cloud Developer](https://www.adzuna.ca/details/5937070752) | Astra North Infoteck Inc. | Toronto, Ontario | via aicert-harvest-2026-11-03 |
