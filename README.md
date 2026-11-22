@@ -3,56 +3,56 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-22T09:01:30.777Z** · 1665 live postings from 7 public sources · 163 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-22T14:02:19.526Z** · 2294 live postings from 7 public sources · 166 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-22 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ232563-1) | GDIT | Any Location / Remote |
+| 2026-11-22 | [Manager, ServiceNow Platform](https://www.adzuna.ca/details/5974911787) | iA Financial Group | Canada |
+| 2026-11-22 | [Cyber Advisory Solution Consultant](https://www.adzuna.ca/details/5974890953) | ServiceNow, Inc. | Toronto, Ontario |
+| 2026-11-22 | [Solution Sales Executive, Moveworks](https://www.adzuna.ca/details/5974890956) | ServiceNow, Inc. | Toronto, Ontario |
+| 2026-11-22 | [Sr Mgr, Sales, Cyber](https://www.adzuna.ca/details/5974890954) | ServiceNow, Inc. | Toronto, Ontario |
+| 2026-11-22 | [Solution Sales Executive - Moveworks](https://www.adzuna.ca/details/5974890957) | ServiceNow, Inc. | Toronto, Ontario |
 | 2026-11-21 | [CLDRSRC10472 - Project Manager - ServiceNow - ITSM/ITOM/CSM - Toronto - Hybrid](https://www.adzuna.ca/details/5974418392) | Cloud Resourcing | Regent Park, City of Toronto |
 | 2026-11-21 | [Service now Developer CUM Architect](https://www.adzuna.ca/details/5974418388) | VDart Inc | Canada |
 | 2026-11-21 | [Sr ServiceNow Business Process Consultant - Toronto Canada](https://www.adzuna.ca/details/5974233718) | Blue Mantis | Toronto, Ontario |
 | 2026-11-21 | [Développeur(-euse), ServiceNow](https://www.adzuna.ca/details/5974102765) | La Caisse | Canada |
+| 2026-11-21 | [Senior Systems Engineer](https://www.adzuna.ca/details/5973912516) | ServiceNow, Inc. | Toronto, Ontario |
 | 2026-11-21 | [ServiceNow IRM Senior Consultant - NFR](https://ca.linkedin.com/jobs/view/servicenow-irm-senior-consultant-nfr-at-ey-4491983802) | EY | Toronto, Ontario, Canada |
-| 2026-11-21 | [Conseiller senior ou chef d'équipe - Gestion intégrée des risques, ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-senior-ou-chef-d-%C3%A9quipe-gestion-int%C3%A9gr%C3%A9e-des-risques-servicenow-at-ey-4491980880) | EY | Toronto, Ontario, Canada |
-| 2026-11-21 | [ServiceNow IRM Senior Consultant - NFR](https://ca.linkedin.com/jobs/view/servicenow-irm-senior-consultant-nfr-at-ey-4491983803) | EY | Montreal, Quebec, Canada |
-| 2026-11-21 | [Conseiller senior ou chef d'équipe - Gestion intégrée des risques, ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-senior-ou-chef-d-%C3%A9quipe-gestion-int%C3%A9gr%C3%A9e-des-risques-servicenow-at-ey-4491985686) | EY | Montreal, Quebec, Canada |
-| 2026-11-20 | [CLDRSRC10473 - ServiceNow Business Analyst - Toronto](https://www.adzuna.ca/details/5973196097) | Cloud Resourcing | Regent Park, City of Toronto |
-| 2026-11-20 | [ITSM Administrator](https://ca.linkedin.com/jobs/view/itsm-administrator-at-encore-technical-solutions-inc-4492987948) | Encore Technical Solutions Inc. | Greater Toronto Area, Canada |
-| 2026-11-20 | [RQ00793 - Project Manager/Leader - Senior](https://www.adzuna.ca/details/5972986374) | Flexstaf IT | Toronto, Ontario |
-| 2026-11-20 | [ServiceNow Business Analyst](https://www.adzuna.ca/details/5972986326) | Innosystech Inc | Toronto, Ontario |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-22 | [Salesforce Developer](https://www.adzuna.ca/details/5974910194) | Harbor | Canada |
+| 2026-11-22 | [Salesforce Business Process Analyst](https://www.adzuna.ca/details/5974901121) | Jobgether | Canada |
+| 2026-11-22 | [Team Leader, Salesforce](https://www.adzuna.ca/details/5974894699) | Medavie | Canada |
+| 2026-11-22 | [Salesforce Tech Lead (Remote)](https://www.adzuna.ca/details/5974890709) | Cognizant | Toronto, Ontario |
+| 2026-11-22 | [Salesforce Administrator (Remote)](https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4493191511) | Hired | Canada |
 | 2026-11-22 | [Leader, Salesforce Digital – Canada](https://ca.linkedin.com/jobs/view/leader-salesforce-digital-%E2%80%93-canada-at-slalom-4470021744) | Slalom | Greater Toronto Area, Canada |
+| 2026-11-21 | [Salesforce Developer - 100% Remote](https://www.adzuna.ca/details/5974238938) | Ensiti | Ottawa, Ottawa region |
+| 2026-11-21 | [Marketing Operations Specialist (HubSpot)](https://www.adzuna.ca/details/5973941009) | BCA Research | Montréal, Québec |
+| 2026-11-21 | [Senior Systems Developer - Salesforce (Temp Full-Time - 12 mths)](https://www.adzuna.ca/details/5973937616?utm_medium=api&utm_source=54ce986e) | Co-operators Career | Guelph, Wellington region |
 | 2026-11-21 | [Salesforce Functional Analyst](https://www.adzuna.ca/details/5973912276) | Manulife | Toronto, Ontario |
-| 2026-11-21 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5973912092) | Cognizant | Toronto, Ontario |
-| 2026-11-21 | [Salesforce Enterprise Solution Architect](https://ca.linkedin.com/jobs/view/salesforce-enterprise-solution-architect-at-vysystems-4493300667) | VySystems | Canada |
-| 2026-11-21 | [Salesforce Administrator (Remote)](https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4492888602) | Hired | Canada |
-| 2026-11-20 | [Technical Customer Support Team Lead](https://www.adzuna.ca/details/5972984950) | Dot Compliance | Canada |
-| 2026-11-20 | [Salesforce Business Analyst, Associate](https://www.adzuna.ca/details/5972737673) | PricewaterhouseCoopers | Canada |
-| 2026-11-20 | [Senior Specialist, Salesforce Developer](https://www.adzuna.ca/details/5972734638) | SickKids Foundation | Central Bay Street, City of Toronto |
-| 2026-11-20 | [Senior Salesforce Loyalty Developer](https://www.adzuna.ca/details/5972733894) | Konrad | Toronto, Ontario |
-| 2026-11-20 | [Salesforce Architect (Loyalty & Data 360)](https://www.adzuna.ca/details/5972733701) | Konrad | Toronto, Ontario |
-| 2026-11-20 | [Architecte Technique- Salesforce](https://ca.linkedin.com/jobs/view/architecte-technique-salesforce-at-lgs-an-ibm-company-4492995657) | LGS, an IBM Company | Quebec, Canada |
-| 2026-11-20 | [Salesforce Tech Lead (Remote)](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-remote-at-cognizant-4492842720) | Cognizant | Toronto, Ontario, Canada |
+| 2026-11-21 | [Salesforce Functional Analyst](https://www.adzuna.ca/details/5973912261?utm_medium=api&utm_source=54ce986e) | Manulife | Waterloo region, Ontario |
+| 2026-11-21 | [Salesforce Senior Solution Architect](https://www.adzuna.ca/details/5973912180?utm_medium=api&utm_source=54ce986e) | IBM | Ottawa, Ottawa region |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
-| 2026-11-21 | [Full-Stack Software Developers](https://www.adzuna.ca/details/5973919781) | Capco | Toronto, Ontario | Full stack |
-| 2026-11-21 | [Full-Stack Software Engineer (C#, .Net, React)](https://www.adzuna.ca/details/5973912284) | Manulife | Toronto, Ontario | Full stack |
-| 2026-11-21 | [Business Intelligence Analyst - Data and Automation](https://ca.linkedin.com/jobs/view/business-intelligence-analyst-data-and-automation-at-communications-power-industries-cpi-4485634062) | Communications & Power Industries (CPI) | Georgetown, Ontario, Canada | Data / BI |
-| 2026-11-21 | [Manager, Application Support & DevOps](https://ca.linkedin.com/jobs/view/manager-application-support-devops-at-caa-club-group-4458040990) | CAA Club Group | Vaughan, Ontario, Canada | DevOps / Cloud |
-| 2026-11-20 | [Software Asset Management (SAM) Analyst](https://ca.linkedin.com/jobs/view/software-asset-management-sam-analyst-at-deloitte-4468276720) | Deloitte | Toronto, Ontario, Canada | other |
-| 2026-11-20 | [Marketing Cloud Specialist](https://www.adzuna.ca/details/5973150270) | Medcan Health Management | Toronto, Ontario | other |
-| 2026-11-20 | [Technical Lead - Full Stack Developer (Mobile Development experience)](https://www.adzuna.ca/details/5972996630) | Miratech | Toronto, Ontario | Full stack |
-| 2026-11-20 | [Senior DevOps Engineer II - Europe](https://remoteok.com/remote-jobs/remote-senior-devops-engineer-ii-europe-storyblok-1137887) | Storyblok | Worldwide | DevOps / Cloud |
-| 2026-11-20 | [Customer Success Specialist (Hybrid or Remote)](https://www.adzuna.ca/details/5972732225) | Traction Rec | Greater Vancouver, British Columbia | other |
-| 2026-11-20 | [Revenue Data Analyst](https://www.adzuna.ca/details/5972732010) | Jobgether | Canada | Data / BI |
+| 2026-11-22 | [Software Developer (Full-Time)](https://www.adzuna.ca/details/5974782971?utm_medium=api&utm_source=54ce986e) | Vancouver Whitecaps FC | Greater Vancouver, British Columbia | other |
+| 2026-11-21 | [Senior Manager, Financial Planning & Analysis](https://www.adzuna.ca/details/5974640215?utm_medium=api&utm_source=54ce986e) | Sleep Country | Brampton, Peel region | other |
+| 2026-11-21 | [Planner, Demand Planning](https://www.adzuna.ca/details/5974640209?utm_medium=api&utm_source=54ce986e) | ENDY | Toronto, Ontario | other |
+| 2026-11-21 | [Controls Technologist](https://www.adzuna.ca/details/5974640200?utm_medium=api&utm_source=54ce986e) | Magna International, Inc | Guelph, Wellington region | other |
+| 2026-11-21 | [Student Systems Administrator](https://www.adzuna.ca/details/5974640190?utm_medium=api&utm_source=54ce986e) | Magna International, Inc | Vaughan, York region | other |
+| 2026-11-21 | [Manager, Engineering Application Business Services](https://www.adzuna.ca/details/5974550036?utm_medium=api&utm_source=54ce986e) | WSP Canada | Montréal, Québec | other |
+| 2026-11-21 | [Manager, Engineering Technology Platforms](https://www.adzuna.ca/details/5974550043?utm_medium=api&utm_source=54ce986e) | WSP Canada | Montréal, Québec | other |
+| 2026-11-21 | [Endpoint Specialist](https://www.adzuna.ca/details/5974549869?utm_medium=api&utm_source=54ce986e) | Swim Recruiting | Greater Vancouver, British Columbia | other |
+| 2026-11-21 | [Senior Accountant](https://www.adzuna.ca/details/5974549903?utm_medium=api&utm_source=54ce986e) | Swim Recruiting | Greater Vancouver, British Columbia | other |
+| 2026-11-21 | [Senior Manager, Highway and Municipal Roads](https://www.adzuna.ca/details/5974549876?utm_medium=api&utm_source=54ce986e) | WSP Canada | Ottawa, Ottawa region | other |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
