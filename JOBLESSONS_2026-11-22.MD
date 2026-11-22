@@ -81,3 +81,20 @@ ServiceNow careers (Ontario), JobsByCountry ServiceNow Toronto, jobs.ca, LinkedI
 2. Adzuna/LinkedIn are saturated for Toronto SN/SF: every source posting this run matched an existing board row. URL-only dedupe under-reports saturation — always twin-check employer + title + city + date before claiming a "new" job.
 3. `fresh=N merged=M` from the scan counts source hits, not net-new board rows — diff URL sets against `git show HEAD:jobs.json` before reporting additions.
 4. When 0 net-new jobs are found, do not commit mirror URLs to jobs.json — double-listing breaks the employer+title card clustering on the live page; a lessons-only `[skip ci]` commit is the correct output.
+
+## Hourly scan — Sunday 2026-11-22 07:00 EST (UTC-05) (this run)
+
+### Result this run
+- Fresh verified jobs merged: **0** — every fresh candidate was already tracked or failed verification
+- Sources scanned: Adzuna CA API (servicenow/salesforce × Toronto/Ontario, max_days_old=3); Workday CXS (BMO, TD, CIBC, Manulife, Interac, Accenture, Salesforce.com × ServiceNow/Salesforce); Phenom (jobs.scotiabank.com, jobs.rogers.com × q=servicenow/q=salesforce, date-sorted); LinkedIn guest search (ServiceNow & Salesforce, Toronto/GTA, f_TPR=r86400, 60 cards each); Dice.com Toronto page 1 (servicenow/salesforce)
+- Fresh LinkedIn hits, all **already on the board**: Altus Group "Salesforce Platform Developer" (Toronto, 20h ago, CAD 105–115k); Deloitte "Senior Consultant, AI – NowAssist" (Toronto, 17h ago — NowAssist is ServiceNow's GenAI product, genuine SN platform role); Moneris "Principle Salesforce Developer" (Toronto, 17h); Scotiabank "DevOps Engineer(Salesforce)" (Toronto, 21h)
+- Verified then **excluded**: S M Software "Software Developer – CRM – Intermediate" (Toronto, 10h) = Oracle Siebel IP18/Open UI, not Salesforce; DEPT "CRM Campaign Managers (Talent Pool)" (Toronto, 17h) = not a live role
+- Phenom and Dice surfaces: keyword noise / no fresh Canadian platform rows (Rogers 0 ServiceNow rows; Scotiabank hits = incident mgmt/security/sales only)
+- Board unchanged: no jobs.json, README.md, or public/ commit — no net-new rows to add this hour
+
+### Lessons this run
+1. LinkedIn guest search intermittently returns 0 cards on a live query (Salesforce/Toronto returned 0 once, 60 cards on retry) — retry before declaring a source empty.
+2. Workday CXS returned HTTP 200 on all 14 Canadian-tenant probes (probed after :05Z, `curl --compressed`, Content-Type/Accept/Origin headers only, no Referer); freshest platform hit was BMO ServiceNow CMDB Administrator at 10 days — nothing fresh enough to add.
+3. Adzuna returns HTTP 503 when queries repeat faster than ~3s — space calls ≥3s, retry once; the API param is `content-type`, not `content_type`.
+4. "CRM" in a title ≠ Salesforce: confirmed exclusions were Oracle Siebel (S M Software) and a DEPT talent-pool ad (explicitly not a live role).
+5. When 0 net-new jobs are found, the correct output is a lessons-only `[skip ci]` commit — do not commit mirror URLs that would double-list roles already on the board.
