@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T03:46:32+00:00",
+ "generatedAt": "2026-11-22T04:14:55+00:00",
  "timezone": "America/Toronto",
  "count": 5013,
  "appliedHidden": 30,
@@ -5259,7 +5259,7 @@
    "company": "ServiceNow",
    "location": "Toronto, ca",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
-   "note": "readme",
+   "note": "via ats--2026-11-17--v12.md",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "SmartRecruiters",
@@ -5271,7 +5271,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow readme servicenow salesforce toronto area",
+   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow via ats--2026-11-17--v12.md servicenow salesforce toronto area",
    "alternates": [
     {
      "source": "SmartRecruiters",
@@ -5287,7 +5287,7 @@
     },
     {
      "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5969570818?utm_medium=api&utm_source=54ce986e",
+     "url": "https://www.adzuna.ca/details/5969570818",
      "label": "Adzuna · Toronto",
      "gated": false
     }
@@ -6068,12 +6068,6 @@
    "french": false,
    "search": "request id: 114275 - salesforce revenue cloud architect flexstaf it toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
    "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5941645141?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5939233633?utm_medium=api&utm_source=54ce986e",
@@ -12403,12 +12397,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946065109?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/principal-solution-architect-servicenow-at-servicenow-4484026843",
-     "label": "LinkedIn · Toronto",
      "gated": false
     }
    ],
@@ -23703,12 +23691,6 @@
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5945650283",
-     "label": "Adzuna · Calgary",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5940719587?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Calgary",
      "gated": false
     }
@@ -36840,7 +36822,7 @@
    "company": "Take-Two Interactive",
    "location": "Toronto, ON",
    "url": "https://job-boards.greenhouse.io/taketwo/jobs/8306166",
-   "note": "readme",
+   "note": "readme · servicenow",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "Greenhouse",
@@ -36853,7 +36835,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior lead, servicenow itom (8306166) take-two interactive toronto, on greenhouse servicenow readme servicenow itom role fit toronto area",
+   "search": "senior lead, servicenow itom (8306166) take-two interactive toronto, on greenhouse servicenow readme · servicenow servicenow itom role fit toronto area",
    "alternates": [
     {
      "source": "jobs.ca",
@@ -36865,12 +36847,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-lead-servicenow-itom-at-take-two-interactive-4481160381",
      "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5941645750?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
      "gated": false
     },
     {
@@ -37634,12 +37610,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946007553?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Kelowna",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5940716920",
-     "label": "Adzuna · Calgary",
      "gated": false
     }
    ],
@@ -82485,12 +82455,6 @@
      "url": "https://ca.linkedin.com/jobs/view/salesforce-technical-architect-at-ltm-4484603899",
      "label": "LinkedIn · Toronto",
      "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5940715632?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Calgary",
-     "gated": false
     }
    ],
    "gated": false,
@@ -98063,12 +98027,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/cpq-lead-solution-engineer-salesforce-conga-cpq-pros-at-thomson-reuters-4460296550",
      "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5940717711?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
      "gated": false
     }
    ],
@@ -169041,21 +168999,9 @@
    "search": "staff incident response engineer servicenow vancouver, british columbia, ca · remote smartrecruiters servicenow smartrecruiters servicenow itsm role fit canada / remote",
    "alternates": [
     {
-     "source": "careers.servicenow.com",
-     "url": "https://careers.servicenow.com/jobs/744000157918029/staff-incident-response-engineer/",
-     "label": "careers.servicenow.com · Vancouver",
-     "gated": false
-    },
-    {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5948276373",
      "label": "Adzuna · Greater Vancouver",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-incident-response-engineer-at-servicenow-4483125674",
-     "label": "LinkedIn · Vancouver",
      "gated": false
     }
    ],
@@ -179068,14 +179014,7 @@
    ],
    "french": false,
    "search": "servicenow aiops architect. bull-it solutions ltd toronto, ontario adzuna servicenow adzuna servicenow aiops role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-aiops-architect-at-bull-it-solutions-ltd-4483654511",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -179530,14 +179469,7 @@
    ],
    "french": false,
    "search": "servicenow omt architect alldus canada adzuna servicenow adzuna servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-omt-architect-at-alldus-4481891732",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -187188,12 +187120,6 @@
      "url": "https://www.adzuna.ca/details/5945998148?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Canada",
      "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-senior-technical-advisor-at-bell-4476333981",
-     "label": "LinkedIn · Toronto",
-     "gated": false
     }
    ],
    "gated": false,
@@ -189709,14 +189635,7 @@
    ],
    "french": false,
    "search": "itam governance analyst insight global toronto, on adzuna servicenow readme itam role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5941206005?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -200252,54 +200171,6 @@
   },
   {
    "posted": "2026-10-26",
-   "title": "Sr. Salesforce CRM Development Lead",
-   "company": "McKesson",
-   "location": "CAN, ON, Mississauga",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sr. salesforce crm development lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/sr-salesforce-crm-development-lead-at-mckesson-4420467002",
-     "label": "LinkedIn · Mississauga",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-26",
    "title": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Prime-Named-Account-Executive--Mulesoft_JR265635-1",
    "company": "Unknown",
    "location": "Not specified",
@@ -200519,14 +200390,7 @@
    ],
    "french": false,
    "search": "salesforce commerce cloud developer eminence organic skin care vancouver, greater vancouver adzuna salesforce readme salesforce role fit",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-commerce-cloud-developer-at-eminence-organic-skin-care-4483372774",
-     "label": "LinkedIn · Vancouver",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -200693,12 +200557,6 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-global-incentive-compensation-at-salesforce-4455919738",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-global-incentive-compensation-at-salesforce-4482065559",
      "label": "LinkedIn · Toronto",
      "gated": false
     }
@@ -206331,7 +206189,7 @@
    "company": "EY",
    "location": "Canada",
    "url": "https://careers.ey.com/ey/job/ServiceNow-Developer-%28HRSD-&-App-Engine-Contract%29%2C-Technology-Consulting-048583/1440302233/",
-   "note": "readme",
+   "note": "readme · servicenow",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "careers.ey.com",
@@ -206344,7 +206202,7 @@
     "Canada / remote"
    ],
    "french": false,
-   "search": "servicenow developer (hrsd & app engine - contract) ey canada careers.ey.com servicenow readme servicenow hrsd / va role fit canada / remote",
+   "search": "servicenow developer (hrsd & app engine - contract) ey canada careers.ey.com servicenow readme · servicenow servicenow hrsd / va role fit canada / remote",
    "alternates": [],
    "gated": false,
    "xref": [
@@ -206373,7 +206231,7 @@
    "company": "Deloitte",
    "location": "Remote (Primary Toronto)",
    "url": "https://www.workopolis.com/jobsearch/viewjob/pUjUr1JaRFXXtXvUQMWlr7hhZ3KMGwfvEtYARMRXEPHGgcgHIRn7c17phJr_yn9h",
-   "note": "readme",
+   "note": "readme · servicenow",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "Workopolis",
@@ -206385,7 +206243,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "technical delivery manager, servicenow irm/secops (ref 135632) deloitte remote (primary toronto) workopolis servicenow readme servicenow role fit toronto area",
+   "search": "technical delivery manager, servicenow irm/secops (ref 135632) deloitte remote (primary toronto) workopolis servicenow readme · servicenow servicenow role fit toronto area",
    "alternates": [],
    "gated": false,
    "xref": [
@@ -206414,7 +206272,7 @@
    "company": "Cognizant",
    "location": "Toronto, Ontario",
    "url": "https://www.adzuna.ca/details/5937566810",
-   "note": "readme",
+   "note": "adzuna · servicenow",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "Adzuna",
@@ -206426,7 +206284,7 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "servicenow transformation program manager cognizant toronto, ontario adzuna servicenow readme servicenow role fit toronto area",
+   "search": "servicenow transformation program manager cognizant toronto, ontario adzuna servicenow adzuna · servicenow servicenow role fit toronto area",
    "alternates": [],
    "gated": false,
    "xref": [
@@ -206455,7 +206313,7 @@
    "company": "Montreal, Quebec; French-speaking; work mode not disclosed",
    "location": "Contract",
    "url": "https://alldus.com/job/59286-servicenow-spm-developer-montreal-quebec/",
-   "note": "readme",
+   "note": "readme · servicenow",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "alldus.com",
@@ -206467,7 +206325,7 @@
     "Role fit"
    ],
    "french": false,
-   "search": "servicenow spm developer (59286) - alldus montreal, quebec; french-speaking; work mode not disclosed contract alldus.com servicenow readme servicenow spm/ppm role fit",
+   "search": "servicenow spm developer (59286) - alldus montreal, quebec; french-speaking; work mode not disclosed contract alldus.com servicenow readme · servicenow servicenow spm/ppm role fit",
    "alternates": [],
    "gated": false,
    "xref": [
@@ -206486,6 +206344,49 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20SPM%20Developer%20%2859286%29%20-%20Alldus%20Montreal%2C%20Quebec%3B%20French-speaking%3B%20work%20mode%20not%20disclosed&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-22",
+   "title": "Principal Solution Consultant - ITSM - North America",
+   "company": "Valiantys",
+   "location": "Greater Montreal Metropolitan Area",
+   "url": "https://ca.linkedin.com/jobs/view/principal-solution-consultant-itsm-north-america-at-valiantys-4482768073",
+   "note": "readme · servicenow, it-reporting",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 82,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Consulting/BA",
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "principal solution consultant - itsm - north america valiantys greater montreal metropolitan area linkedin servicenow readme · servicenow, it-reporting servicenow itsm consulting/ba role fit quebec",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Principal%20Solution%20Consultant%20-%20ITSM%20-%20North%20America%20Valiantys+Montreal+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Solution%20Consultant%20-%20ITSM%20-%20North%20America%20Valiantys&location=Montreal"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Principal%20Solution%20Consultant%20-%20ITSM%20-%20North%20America%20Valiantys&l=Montreal"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Principal%20Solution%20Consultant%20-%20ITSM%20-%20North%20America%20Valiantys&loc=Montreal"
     }
    ],
    "toronto": false
@@ -206543,7 +206444,7 @@
    "company": "Canada: Toronto; 100% remote; confirm Canadian province eligibility",
    "location": "Five-month contract through March 2027",
    "url": "https://www.randstad.ca/jobs/servicenow-technical-architect_toronto_47644537/",
-   "note": "readme",
+   "note": "readme · servicenow",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "randstad.ca",
@@ -206554,7 +206455,7 @@
     "Role fit"
    ],
    "french": false,
-   "search": "servicenow technical architect - randstad canada: toronto; 100% remote; confirm canadian province eligibility five-month contract through march 2027 randstad.ca servicenow readme servicenow role fit",
+   "search": "servicenow technical architect - randstad canada: toronto; 100% remote; confirm canadian province eligibility five-month contract through march 2027 randstad.ca servicenow readme · servicenow servicenow role fit",
    "alternates": [],
    "gated": false,
    "xref": [
@@ -206786,48 +206687,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Business%20Analyst%20%2800070950941%29%20-%20Cognizant%20Canada%3A%20Toronto%3B%20hybrid%2C%20three%20office%20days&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-22",
-   "title": "Principal Solution Consultant - ITSM - North America",
-   "company": "Valiantys",
-   "location": "Greater Montreal Metropolitan Area",
-   "url": "https://ca.linkedin.com/jobs/view/principal-solution-consultant-itsm-north-america-at-valiantys-4482768073",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "ITSM",
-    "Consulting/BA",
-    "Role fit",
-    "Quebec"
-   ],
-   "french": false,
-   "search": "principal solution consultant - itsm - north america valiantys greater montreal metropolitan area linkedin servicenow readme itsm consulting/ba role fit quebec",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Solution%20Consultant%20-%20ITSM%20-%20North%20America%20Valiantys+Montreal+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Solution%20Consultant%20-%20ITSM%20-%20North%20America%20Valiantys&location=Montreal"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Solution%20Consultant%20-%20ITSM%20-%20North%20America%20Valiantys&l=Montreal"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Solution%20Consultant%20-%20ITSM%20-%20North%20America%20Valiantys&loc=Montreal"
     }
    ],
    "toronto": false
@@ -207235,6 +207094,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Revenue%20Cloud%20Architect%20Astra%20North%20Infoteck%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-10-21",
+   "title": "Sr. Salesforce CRM Development Lead",
+   "company": "McKesson",
+   "location": "CAN, ON, Mississauga",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Salesforce-CRM-Development-Lead_JR0147163",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr. salesforce crm development lead mckesson can, on, mississauga workday ats salesforce workday salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson+Mississauga+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&location=Mississauga"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&l=Mississauga"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr.%20Salesforce%20CRM%20Development%20Lead%20McKesson&loc=Mississauga"
     }
    ],
    "toronto": true
