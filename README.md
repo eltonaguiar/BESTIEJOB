@@ -63,7 +63,6 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 **Scan: 2026-11-20T18:01:59.294Z** · 553 live postings from 9 public sources · 1 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
-
 | Posted | Role | Company | Location |
 |---|---|---|---|
 | 2026-11-20 | [ServiceNow Business Analyst - Senior -Toronto, ON (3 days onsite)](https://www.adzuna.ca/details/5972983023) | Amicis Global | Toronto, Ontario |
@@ -74,7 +73,7 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 | 2026-11-20 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-techneptune-consulting-inc-4491940243) | TechNeptune Consulting Inc. | Toronto, Ontario, Canada |
 | 2026-11-20 | [Spécialiste / Développeur ServiceNow](https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-d%C3%A9veloppeur-servicenow-at-exposant-3-4492587548) | Exposant 3 | Quebec, Canada |
 
-Window: 2026-10-20 → 2026-11-19 · **4811 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
+Window: 2026-10-20 → 2026-11-19 · **3952 live postings** · deduplicated by URL · `Posted` is the date shown by the source, not a board's relative "days ago".
 | 2026-11-20 | [ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/servicenow-technical-lead-at-apptoza-inc-4491956845) | Apptoza Inc. | Vancouver, British Columbia, Canada | via hermes-cron--2026-11-21--v1.md |
 | 2026-11-20 | [ServiceNow SAM Pro Consultant](https://ca.linkedin.com/jobs/view/servicenow-sam-pro-consultant-at-pacer-group-4492825407) | Pacer Group | Canada | via hermes-cron--2026-11-21--v1.md |
 | 2026-11-20 | [ServiceNow Lead](https://ca.linkedin.com/jobs/view/servicenow-lead-at-apptoza-inc-4491955863) | Apptoza Inc. | Vancouver, British Columbia, Canada | via hermes-cron--2026-11-21--v2.md |
@@ -902,26 +901,6 @@ Window: 2026-10-20 → 2026-11-19 · **4811 live postings** · deduplicated by U
 | 2026-11-03 | [Configuration Management Database (CMDB) Analyst](https://careers.softchoice.com/job/Toronto-Configuration-Management-Database-%28CMDB%29-Analyst-ON/605135117/) | Softchoice | Toronto, ON | softchoice · servicenow, cmdb, analyst |
 | 2026-11-03 | [Business System Analyst-ServiceNow](https://hiretik.com/jobs/81ebca60-8667-448d-8842-6b043d685ce4) | BMO | Toronto | hiretik · servicenow, analyst, banking |
 | 2026-11-03 | [Business Analyst, ServiceNow &amp; ITAM Specialist](https://www.dice.com/job-detail/6001b949-8622-495c-8744-59f0ceb10c4e) | Spectra Group | Toronto, ON, CA | dice · servicenow, analyst, itam |
-| 2026-11-03 | [Bilingual Senior Specialist, ServiceNow ITSM Developer](https://careers.cmhc-schl.gc.ca/job/Ottawa-Bilingual-Senior-Specialist%2C-ServiceNow-ITSM-Developer/604630117/) | CMHC - SCHL | Ottawa, ON | cmhc · servicenow, itsm, government, bilingual |
-| 2026-11-03 | [Associate ServiceNow Developer](https://www.rapdev.io/jobs/associate-servicenow-developer-66cf2f9a) | RapDev | Canada | rapdev · servicenow, junior |
-| 2026-11-03 | [Architecte principal(e) des systèmes d'affaires ServiceNow](https://www.simplyhired.ca/job/lVCsWo-D6D3YlCKcnJXLc419cySN5jjrKDdrJSRa_9c5MA7BNvXA6A) | CGI | Toronto, ON | simplyhired · servicenow, architect |
-| 2026-11-03 | [Analyst, Platform Management – ServiceNow](https://snpro.jobs/jobs/analyst-platform-management-servicenow-602fb) | SNPro.jobs | Toronto | snpro · servicenow, analyst, junior |
-| 2026-11-03 | [Administrateur ServiceNow](https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220744) | Pomerleau | Québec, Quebec, Canada | linkedin · servicenow |
-| 2026-11-03 | ["ServiceNow Architect"](https://www.adzuna.ca/details/5951769665) | Nityo Infotech | Toronto, Ontario | adzuna · servicenow |
-| 2026-11-02 | [Spécialiste principal bilingue ServiceNow GSTI (Gestion des incidents) 1](https://www.eluta.ca/spl/sp%C3%A9cialiste-principal-bilingue-servicenow-gsti-gestion-des-incidents-1-5ae3d3652f59212bb33c1fdad14fdb6c) | Canada Mortgage and Housing Corporation / CMHC | Montréal QC | readme · servicenow |
-| 2026-11-02 | [ServiceNow SAM Pro Consultant](https://ca.linkedin.com/jobs/view/4486426865) | 2iSolutions Inc. | Canada | readme · servicenow |
-| 2026-11-02 | [ServiceNow ITAM/Discovery in Toronto](https://cazvid.com/en/job/servicenow-itam-discovery-4ca31a51) | CazVid | Not specified | readme · servicenow, itam |
-| 2026-11-02 | [ServiceNow GRC/IRM Developer, Deloitte Global Technology](https://jobs.discovertechnata.com/companies/deloitte-2-548ffef4-5e36-4ac1-9d45-edef2fdcac69/jobs/43003886-servicenow-grc-irm-developer-deloitte-global-technology) | Deloitte | Toronto, Canada | readme · servicenow |
-| 2026-11-02 | [ServiceNow Developer](https://www.adzuna.ca/details/5926069932) | Zaelab | Montreal, QC | readme · servicenow |
-| 2026-11-02 | [ServiceNow Developer in Mississauga, ON](https://mymiltonontario.ca/jobs/servicenow-developer-3283053) | Rexall Pharmacy Group Ltd. | Mississauga, ON | mymiltonontario · servicenow |
-| 2026-11-02 | [ServiceNow Consultant (Discovery & ITAM SME)](https://ca.linkedin.com/jobs/view/4485761822) | Bull Information Technology and Services | Toronto, ON | readme · servicenow, itam |
-| 2026-11-02 | [ServiceNow CMDB - Data Governance Analyst](https://spectraforce.com/careers/jobs/servicenow-cmdb-data-governance-analyst-toronto-ontario-canada-502549) | Spectraforce | Toronto, Ontario, Canada | readme · servicenow, itam |
-| 2026-11-02 | [ServiceNow Architect (526327)](https://www.fxinnovation.com/en/jobs/526327) | Ateko (FX Innovation) | Canada; remote | readme · servicenow |
-| 2026-11-02 | [ServiceNow Administrator](https://www.eluta.ca/spl/servicenow-administrator-433a510c045a4d273f18240dbdc851f9) | Pomerleau Inc. | Montréal QC | readme · servicenow |
-| 2026-11-02 | [Service Now Developer](https://careers.cognizant.com/ca-en/jobs/00070868112/service-now-developer/) | Cognizant | Canada | cognizant · servicenow |
-| 2026-11-02 | [Senior ServiceNow GRC/IRM Consultant](https://www.accenture.com/pl-en/careers/jobdetails?id=14367861_en) | Accenture | Remote | readme · servicenow |
-| 2026-11-02 | [Senior ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-ServiceNow-Developer_RQ228679-1) | GDIT | Any Location / Remote | workday · servicenow |
-| 2026-11-02 | [Lead ServiceNow SPM Technical Consultant](https://www.adzuna.ca/details/5950813531) | Peek IT Services, LLC | Ottawa, Ottawa region | adzuna · servicenow |
 | 2026-11-02 | [ITAM Management (Mid Level)](https://ca.linkedin.com/jobs/view/itam-management-mid-level-at-soho-square-solutions-4484365333) | Soho Square Solutions | Montreal, Quebec, Canada | readme · servicenow, itam |
 | 2026-11-02 | [Digital Consulting Architect, ServiceNow](https://ca.linkedin.com/jobs/view/digital-consulting-architect-servicenow-at-zaelab-4461309483) | Zaelab | Canada | linkedin · servicenow |
 | 2026-11-02 | [Bilingual Senior Specialist, ServiceNow ITSM Developer](https://www.eluta.ca/spl/bilingual-senior-specialist-servicenow-itsm-developer-3216e66ac26a1764b8428bb2e5876c91) | Canada Mortgage and Housing Corporation / CMHC | Montréal QC | readme · servicenow, it-reporting |
@@ -1690,23 +1669,6 @@ Window: 2026-10-20 → 2026-11-19 · **4811 live postings** · deduplicated by U
 | 2026-10-27 | [Salesforce, LWC, Omnistudio Developer](https://www.adzuna.ca/details/5943424777) | J M Group Inc | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v125.md |
 | 2026-10-27 | [Salesforce Solution Lead (JR0156424) - McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Salesforce-Solution-Lead_JR0156424-1) | Canada: Mississauga, ON; hybrid/remote arrangement not established in inspected fields | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v125.md |
 | 2026-10-27 | [Architecte d'application Salesforce](https://ca.linkedin.com/jobs/view/architecte-d-application-salesforce-at-cgi-4483743941) | CGI | Montreal, Quebec, Canada | via freebuff--2026-11-05--v80.md |
-| 2026-10-27 | [Salesforce Engagement Manager](https://job-boards.greenhouse.io/neuraflash/jobs/6220891004) | NeuraFlash | Remote - Canada (AB, BC, ON) | via freebuff--2026-11-05--v88.md |
-| 2026-10-27 | [Salesforce Experience Architect, AI and Agentforce (Solution Architect)](https://job-boards.greenhouse.io/neuraflash/jobs/5764374004) | NeuraFlash | Remote - Canada (AB, BC, ON) | via freebuff--2026-11-05--v88.md |
-| 2026-10-27 | [Salesforce Manager, AI & Agentforce Delivery](https://job-boards.greenhouse.io/neuraflash/jobs/6206506004) | NeuraFlash | Remote - Canada (AB, BC, ON) | via freebuff--2026-11-05--v88.md |
-| 2026-10-27 | [Salesforce Project Manager](https://job-boards.greenhouse.io/neuraflash/jobs/6220750004) | NeuraFlash | Remote - Canada (AB, BC, ON) | via freebuff--2026-11-05--v88.md |
-| 2026-10-27 | [Salesforce Solution Architect, Field Service](https://job-boards.greenhouse.io/neuraflash/jobs/6011721004) | NeuraFlash | Remote - Canada (AB, BC, ON) | via freebuff--2026-11-05--v88.md |
-| 2026-10-27 | [Salesforce Solution Architect, Revenue Cloud](https://job-boards.greenhouse.io/neuraflash/jobs/6222627004) | NeuraFlash | Remote - Canada (AB, BC, ON) | via freebuff--2026-11-05--v88.md |
-| 2026-10-27 | [Salesforce Solution Architect, Service Cloud Voice](https://job-boards.greenhouse.io/neuraflash/jobs/5993680004) | NeuraFlash | Remote - Canada (AB, BC, ON) | via freebuff--2026-11-05--v88.md |
-| 2026-10-27 | [Salesforce Solution Engineer,  RCA & RCB](https://job-boards.greenhouse.io/neuraflash/jobs/6015378004) | NeuraFlash | Remote - Canada (AB, BC, ON) | via freebuff--2026-11-05--v88.md |
-| 2026-10-27 | [Salesforce Technical Architect](https://job-boards.greenhouse.io/neuraflash/jobs/6222640004) | NeuraFlash | Remote - Canada (AB, BC, ON) | via freebuff--2026-11-05--v88.md |
-| 2026-10-27 | [Salesforce Developer (MED02518) - Medcan](https://medcan.wd10.myworkdayjobs.com/medcan/job/Toronto/Salesforce-Developer_MED02518) | Canada: Toronto; hybrid, two office days; full-time; Platform Developer I required; deadline Nov 6 | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v134.md |
-| 2026-10-27 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-delpath-4484206074) | Delpath | Toronto, Ontario, Canada | restored after over-merge |
-| 2026-10-27 | [Salesforce Project Manager](https://ca.linkedin.com/jobs/view/salesforce-project-manager-at-tata-consultancy-services-4483658132) | Tata Consultancy Services | Waterloo, Ontario, Canada | via twin 20-round harvest |
-| 2026-10-26 | [Salesforce Consultant](https://www.adzuna.ca/details/5942366203?utm_medium=api&utm_source=54ce986e) | Axiom Global Technologies | Toronto, Ontario | via adzuna-round9--2026-11-05--v91.md |
-| 2026-10-26 | [Propriétaire de Produit Salesforce](https://ca.linkedin.com/jobs/view/propri%C3%A9taire-de-produit-salesforce-at-ia-financial-group-industrial-alliance-4483748835) | iA Financial Group (Industrial Alliance) | Québec, Quebec, Canada | via copilot-pattern-rounds--2026-11-03--v110.md |
-| 2026-10-26 | [Salesforce Commerce Cloud Developer](https://www.adzuna.ca/details/5942157871?utm_medium=api&utm_source=54ce986e) | Eminence Organic Skin Care | Vancouver, Greater Vancouver | via adzuna-autonomous--2026-11-05--v92.md |
-| 2026-10-26 | [Sr. Salesforce CRM Development Lead](https://ca.linkedin.com/jobs/view/sr-salesforce-crm-development-lead-at-mckesson-4420467002) | McKesson | Mississauga, Ontario, Canada | via freebuff--2026-11-05--v89.md |
-| 2026-10-26 | [Software Engineer II (Salesforce Loyalty Management Developer) (R_1509038) - TD](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038) | Canada: Toronto; Office Focused; full-time; deadline Nov 9 | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v135.md |
 | 2026-10-26 | [Senior Salesforce Developer (1443153641962) - CACI](https://searchcareers.caci.com/careers/job/1443153641962) | USA: Remote US; US citizenship and Public Trust eligibility | Full-time | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v135.md |
 | 2026-10-26 | [Analyste / Administrateur Salesforce](https://ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-onepoint-4481467806) | Onepoint | Montreal, Quebec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v135.md |
 | 2026-10-26 | [B2B Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/b2b-salesforce-business-analyst-at-staples-canada-4430798266) | Staples Canada | Richmond Hill, Ontario, Canada | restored after over-merge |
@@ -1721,7 +1683,6 @@ Window: 2026-10-20 → 2026-11-19 · **4811 live postings** · deduplicated by U
 | 2026-10-24 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5940717636?utm_medium=api&utm_source=54ce986e) | Bpm Llp | Canada | via Salesforce Platform Developer |
 | 2026-10-24 | [Salesforce Developer 1014](https://www.adzuna.ca/details/5940436085?utm_medium=api&utm_source=54ce986e) | Veracity Ventures Inc. | Toronto, Ontario | via Salesforce Platform Developer |
 | 2026-10-24 | [Solution Architect - (Healthcare/Life Sciences or Financial Services)](https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457034728) | Salesforce | Toronto, Ontario, Canada | via buffy-round15b--2026-11-06--v80.md |
-| 2026-10-24 | [Solution Architect - (Healthcare/Life Sciences or Financial Services)](https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457039647) | Salesforce | Greater Toronto Area, Canada | via buffy-round15b--2026-11-06--v80.md |
 | 2026-10-24 | [Senior Salesforce Technical Lead](https://www.eluta.ca/spl/senior-salesforce-technical-lead-9f807e873faa04ad2336fa51cf6f4a30) | UST | Montréal QC | via canada-index--2026-11-06--v85.md |
 | 2026-10-24 | [Technical Lead Salesforce, Dealer Experience](https://ca.linkedin.com/jobs/view/technical-lead-salesforce-dealer-experience-at-brp-4453470897) | BRP | Greater Montreal Metropolitan Area | via copilot-pattern-rounds--2026-11-03--v112.md |
 | 2026-10-24 | [Analyste / Administrateur Salesforce](https://ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-wepoint-4482350344) | Wepoint | Montreal, Quebec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v134.md |
@@ -4000,54 +3961,6 @@ Window: 2026-10-20 → 2026-11-19 · **4811 live postings** · deduplicated by U
 | 2026-11-02 | [Senior Manager, Technical Program Management](https://job-boards.greenhouse.io/gitlab/jobs/8845972002) | gitlab | Remote, Canada; Remote, United Kingdom; Remote, United States | via round11-cached--2026-11-05--v21.md |
 | 2026-11-02 | [Senior Partner Solutions Manager, Strategic Partnerships](https://job-boards.greenhouse.io/gitlab/jobs/8863314002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
 | 2026-11-02 | [Senior People Business Partner, Engineering](https://job-boards.greenhouse.io/gitlab/jobs/8882519002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Product Manager, Agentic Source Code](https://job-boards.greenhouse.io/gitlab/jobs/8597805002) | gitlab | Remote, Canada; Remote, US | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Professional Services Technical Architect - Security](https://job-boards.greenhouse.io/gitlab/jobs/8795736002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Renewals Operations Manager](https://job-boards.greenhouse.io/gitlab/jobs/8645879002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Security Risk Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8846304002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Software Engineer, Security Factory: Code Security](https://job-boards.greenhouse.io/gitlab/jobs/8738179002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Solutions Architect Operations Manager](https://job-boards.greenhouse.io/gitlab/jobs/8770661002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Solutions Architect - UAE](https://job-boards.greenhouse.io/gitlab/jobs/8894457002) | gitlab | Remote, UAE | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)](https://job-boards.greenhouse.io/gitlab/jobs/8623389002) | gitlab | Remote, Canada; Remote, US | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)](https://job-boards.greenhouse.io/gitlab/jobs/8773546002) | gitlab | Remote | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity](https://job-boards.greenhouse.io/gitlab/jobs/8646544002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Backend Engineer, Core DevOps](https://job-boards.greenhouse.io/gitlab/jobs/8689236002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Backend Engineer, Database Automation (Go)](https://job-boards.greenhouse.io/gitlab/jobs/8770702002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Backend Engineer, Developer Experience](https://job-boards.greenhouse.io/gitlab/jobs/8490477002) | gitlab | Remote, Canada; Remote, United Kingdom; Remote, US | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Corporate Security Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8734888002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Fullstack Engineer, Data Products (Golang / Node)](https://job-boards.greenhouse.io/gitlab/jobs/8845277002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase](https://job-boards.greenhouse.io/gitlab/jobs/8739391002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Product Manager, Agentic Test Intelligence](https://job-boards.greenhouse.io/gitlab/jobs/8871820002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Product Security Architect](https://job-boards.greenhouse.io/gitlab/jobs/8815140002) | gitlab | Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Professional Services Operations Manager](https://job-boards.greenhouse.io/gitlab/jobs/8691770002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Program Manager, CCO Programs](https://job-boards.greenhouse.io/gitlab/jobs/8822279002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Renewals Operations Manager](https://job-boards.greenhouse.io/gitlab/jobs/8868652002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Staff Software Engineer, Security Factory: Static Analysis](https://job-boards.greenhouse.io/gitlab/jobs/8693563002) | gitlab | Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Support Engineer (AMER)](https://job-boards.greenhouse.io/gitlab/jobs/8654230002) | gitlab | Remote, Canada; Remote, United States | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Analytical Engineering Manager](https://www.asana.com/jobs/apply/8177854?gh_jid=8177854) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Copywriter](https://www.asana.com/jobs/apply/8232028?gh_jid=8232028) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Customer Enablement Manager](https://www.asana.com/jobs/apply/8275101?gh_jid=8275101) | asana | Remote | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Data Scientist](https://www.asana.com/jobs/apply/8275149?gh_jid=8275149) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Developer Advocate](https://www.asana.com/jobs/apply/8257464?gh_jid=8257464) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Experience Researcher, PLG](https://www.asana.com/jobs/apply/8244380?gh_jid=8244380) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Head of Web Strategy and Services](https://www.asana.com/jobs/apply/8324814?gh_jid=8324814) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [IT Systems Engineer - Identity](https://www.asana.com/jobs/apply/7839280?gh_jid=7839280) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Lead Product Manager, Enterprise Services Management](https://www.asana.com/jobs/apply/8213887?gh_jid=8213887) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Product Designer](https://www.asana.com/jobs/apply/8024052?gh_jid=8024052) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Product Security Engineer](https://www.asana.com/jobs/apply/8137817?gh_jid=8137817) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Analytics Engineer](https://www.asana.com/jobs/apply/8282814?gh_jid=8282814) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Security Engineer, Threat Response](https://www.asana.com/jobs/apply/7380414?gh_jid=7380414) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Security Technical Program Manager](https://www.asana.com/jobs/apply/8188918?gh_jid=8188918) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Software Engineer, AI](https://www.asana.com/jobs/apply/8319678?gh_jid=8319678) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Software Engineer, AI](https://www.asana.com/jobs/apply/7962306?gh_jid=7962306) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Software Engineer, Product](https://www.asana.com/jobs/apply/7961454?gh_jid=7961454) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Sr. Manager, Web Strategy](https://www.asana.com/jobs/apply/8241519?gh_jid=8241519) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Technical Lead, API](https://www.asana.com/jobs/apply/7776446?gh_jid=7776446) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Third Party Risk Management Lead](https://www.asana.com/jobs/apply/7821585?gh_jid=7821585) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Workday Integration Developer](https://www.asana.com/jobs/apply/8214792?gh_jid=8214792) | asana | Vancouver, BC | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Senior Principal, Sales Compensation Design & Strategy](https://boards.greenhouse.io/cloudflare/jobs/8024849?gh_jid=8024849) | cloudflare | Remote | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Analytics Lead, Full Stack (Collections & Recoveries)](https://job-boards.greenhouse.io/affirm/jobs/7979912003) | affirm | Remote Canada | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Compensation Analyst II (Programs & Partnerships)](https://job-boards.greenhouse.io/affirm/jobs/8048121003) | affirm | Remote Canada | via round11-cached--2026-11-05--v21.md |
-| 2026-11-02 | [Compliance Manager, Card](https://job-boards.greenhouse.io/affirm/jobs/7979497003) | affirm | Remote Canada | via round11-cached--2026-11-05--v21.md |
 | 2026-11-02 | [Content Designer II](https://job-boards.greenhouse.io/affirm/jobs/8008481003) | affirm | Remote UK | via round11-cached--2026-11-05--v21.md |
 | 2026-11-02 | [Director, Key Accounts Sales](https://job-boards.greenhouse.io/affirm/jobs/7871086003) | affirm | Remote UK | via round11-cached--2026-11-05--v21.md |
 | 2026-11-02 | [Executive Assistant III](https://job-boards.greenhouse.io/affirm/jobs/7995763003) | affirm | Remote UK | via round11-cached--2026-11-05--v21.md |
