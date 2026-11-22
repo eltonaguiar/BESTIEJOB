@@ -98,3 +98,23 @@ ServiceNow careers (Ontario), JobsByCountry ServiceNow Toronto, jobs.ca, LinkedI
 3. Adzuna returns HTTP 503 when queries repeat faster than ~3s — space calls ≥3s, retry once; the API param is `content-type`, not `content_type`.
 4. "CRM" in a title ≠ Salesforce: confirmed exclusions were Oracle Siebel (S M Software) and a DEPT talent-pool ad (explicitly not a live role).
 5. When 0 net-new jobs are found, the correct output is a lessons-only `[skip ci]` commit — do not commit mirror URLs that would double-list roles already on the board.
+
+## Hourly scan — Sunday 2026-11-22 09:00 EST (UTC-05) (this run)
+
+### Result this run
+- Fresh verified jobs merged: **0** — every fresh candidate was already tracked or failed verification
+- Sources checked: Adzuna CA retry output (servicenow/salesforce × Toronto/Ontario, created 2026-11-21 → 2026-11-22); live web searches (LinkedIn guest, Indeed, Glassdoor, Built In) for Toronto SN/SF posted Nov 20–22
+- Fresh candidates checked against README.md + jobs.json — all dupes or excluded:
+  - Cognizant "Salesforce Tech Lead (Remote)" Toronto, adzuna 5974890709 / 5973912092, posted 2026-11-22 → already on board via LinkedIn 4492842720 (README line 40, posted 2026-11-20); mirror URL, same employer+title+city
+  - IBM "Salesforce Senior Solution Architect" Toronto, adzuna 5973912179, posted 2026-11-21 → already on board via fresh-ca--2026-11-22--v1.md (adzuna canonical row)
+  - Novartis "SFMC Manager" Toronto → already on board via LinkedIn 4491648837 (README line 896, posted 2026-11-19)
+  - ServiceNow "Senior Systems Engineer" Toronto, adzuna 5973912516 → already on board via SmartRecruiters 744000162621080 (README line 79, posted 2026-11-20); mirror URL
+  - ServiceNow sales roles (Cyber Advisory Solution Consultant, Solution Sales Executive Moveworks, Sr Mgr Sales Cyber, Toronto) → vendor sales execs, excluded by board rule
+  - BMO "ServiceNow SAM Administrator - ITAM" R260030096 → already on board since 2026-11-09 (README lines 467/586/587)
+  - Procom "Senior ServiceNow Developer" Toronto 2a757e2b, posted 2026-11-04 → already on board (README line 603)
+  - Remaining web-search hits (CareerBeacon GTT/Forhyre/Nityo, Movo/Spectraforce, Built In Brookfield/Acronym) → posted 4–29 days ago or closed; previously tracked or out of window
+- Board unchanged: no jobs.json, README.md, or public/ commit — no net-new rows to add this hour
+
+### Lessons this run
+1. Adzuna CA API returned HTTP 503 on repeated salesforce queries — space calls ≥3s, retry once; the API param is `content-type`, not `content_type`
+2. URL-only dedupe under-reports saturation — always twin-check employer + title + city + posted date before claiming a "new" job (caught again with the Cognizant Tech Lead mirror URL)
