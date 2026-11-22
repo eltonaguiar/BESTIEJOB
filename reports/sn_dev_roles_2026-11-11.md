@@ -1,6 +1,6 @@
 # ServiceNow developer roles outside the current feeds
 
-Run: 2026-11-21 13:24 local. Term: `servicenow`.
+Run: 2026-11-22 13:24 local. Term: `servicenow`.
 
 Sources already feeding bestiejob (Job Bank, GoJobs, SmartRecruiters,
 Greenhouse, Lever, Ashby, Workday tenants, CareerBeacon, Dice, Procom,
@@ -14,7 +14,7 @@ Built In) are excluded by design.
 | RemoteOK | http 200, 101 jobs | 0 |
 | Remotive | http 200, 16 jobs | 16 |
 | Himalayas | crashed TypeError | 0 |
-| Jobboom (QC) | http 403, 6046B; http 403, 6067B | 0 |
+| Jobboom (QC) | http 403, 6046B; http 403, 6088B | 0 |
 | We Work Remotely | http 200; http 200 | 0 |
 | Hacker News hiring | thread 22665398, 0 SN comments | 0 |
 | Reddit r/servicenow | http 403 (blocked) | 0 |
