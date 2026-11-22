@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-22T02:17:01.456Z",
     "generatedAt": "2026-11-22T02:17:01.456Z",
-    "total": 5565,
+    "total": 5568,
     "newThisScan": 433,
     "retainedFromPrevious": 5166,
     "sources": {
@@ -34,7 +34,8 @@
     "primaryCounts": {
       "servicenow": 1193,
       "salesforce": 4270
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -10252,6 +10253,23 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-developer-at-scotiabank-4423415449",
+      "source": "readme",
+      "company": "Scotiabank",
+      "title": "ServiceNow Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-scotiabank-4423415449",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-22T03:09:40.562Z",
+      "excerpt": "via hermes-cron--2026-11-21--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "adzuna:5967828998",
       "source": "adzuna",
       "company": "CYNET SYSTEMS",
@@ -15740,6 +15758,40 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobs.lever.co/eqbank/1af36346-6dd1-475a-bee9-1d5e805452e8",
+      "source": "readme",
+      "company": "EQ Bank / Equitable Bank",
+      "title": "Senior ServiceNow Engineer",
+      "location": "Toronto, Canada",
+      "url": "https://jobs.lever.co/eqbank/1af36346-6dd1-475a-bee9-1d5e805452e8",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-14T12:00:00.000Z",
+      "scrapedAt": "2026-11-22T03:09:40.562Z",
+      "excerpt": "via hermes-cron--2026-11-21--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/solution-architect-servicenow-service-portal-us-or-canada-at-newrocket-4430961727",
+      "source": "readme",
+      "company": "NewRocket",
+      "title": "Solution Architect-ServiceNow Service Portal (US or Canada)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/solution-architect-servicenow-service-portal-us-or-canada-at-newrocket-4430961727",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-14T12:00:00.000Z",
+      "scrapedAt": "2026-11-22T03:09:40.562Z",
+      "excerpt": "via hermes-cron--2026-11-21--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
