@@ -137,3 +137,40 @@ ServiceNow careers (Ontario), JobsByCountry ServiceNow Toronto, jobs.ca, LinkedI
 1. When 0 net-new jobs are found, the correct output is a lessons-only `[skip ci]` commit — do not commit mirror URLs that would double-list roles already on the board.
 2. fresh_ca_scan with the public Adzuna demo key is slow (~7.5 min for 68 Adzuna + Job Bank + Eluta calls without LinkedIn) — time-box it; the CI hourly scan at :00Z already covers Adzuna/LinkedIn/Job Bank/Eluta, so the manual sweep adds most value on the partner/employer targets the aggregators miss.
 3. URL dedupe held this hour: all 15 unique scan rows were already on the board under the same normalized URL — because the 09:00 EST scan already published today's batch, URL-only dedupe was sufficient.
+
+
+## Hourly scan — Sunday 2026-11-22 12:00 EST (UTC-05) (this run)
+
+### Result this run
+- Fresh verified jobs merged: **0** — every fresh candidate was already tracked, expired, outside the fresh window, or not a ServiceNow/Salesforce platform role
+- Base commit: `77ce9de` (11:14 EST hourly scan refresh, 5600 listings: Adzuna 190 · LinkedIn 152 · Workday 17 · Greenhouse 14 · Lever 1 · Ashby 2 · SmartRecruiters 12 · Remotive 6; 1195 ServiceNow / 4285 Salesforce primary-tagged)
+- Direct-employer postings dated Nov 21–22 checked: Deloitte, Envision Technology, Procom, CIBC (jobs.ca); LinkedIn guest search
+- Board unchanged: no jobs.json, README.md, or public/ commit — no net-new rows to add this hour
+
+### Dedupe / exclusion checks (README.md + jobs.json)
+| Candidate | Disposition |
+|---|---|
+| Deloitte — Senior Consultant, IT Operations Management / Discovery (ServiceNow team), Toronto, jobs.ca 96d8925e69f7 | Already tracked in jobs.json under LinkedIn canonical `4460512143`; posting dates Nov 14 / 27d ago on mirrors — outside fresh window either way |
+| Envision Technology — ServiceNow ITOM Developer, Toronto | Same requisition already on board via LinkedIn `4492816283` (posted 2026-11-20); jobs.ca "Nov 21" is a mirror re-date |
+| Deloitte — Lead Specialist, ServiceNow CMDB Solution Architect, Toronto, jobs.ca 1791c72ef02a | Already on board since 2026-11-14 under the same jobs.ca URL |
+| Deloitte — Senior Consultant, AI – NowAssist, Toronto, posted Nov 21 | Already tracked in jobs.json under LinkedIn canonical `4460501313` |
+| CIBC — IT Administration Analyst, Toronto, posted Nov 21 | Excluded: ServiceNow SRM access provisioning, not a platform build/admin role |
+| Procom — IT Operations & Service Transition Consultant (ITSM), Toronto, Nov 21 | Generic ITSM; ServiceNow optional — not an SN role |
+| Bell — ServiceNow System Administrator, Toronto | Expired (apply-by Oct 21, 2026) |
+| Government of Canada — Senior Salesforce Developer (LinkedIn 4481939757) | Posted Nov 18; SECRET clearance; location not Toronto-confirmed; outside window |
+
+### Partner / sponsor / target-employer sweep
+- **Rogers** (jobs.rogers.com, Phenom): page shell renders zero server-side rows; no ServiceNow/Salesforce platform posting
+- **Bell** (jobs.bell.ca): no fresh SN/SF platform requisition; the ServiceNow SysAdmin role expired Oct 21
+- **Canadian government** (jobs.gc.ca): Radware captcha wall; no fresh platform posting surfaced
+- **Salesforce Canada careers**: sales/Customer Success hiring only; no platform dev/admin posting surfaced
+
+### Lessons this run
+1. Employer mirrors re-date old requisitions — Envision ITOM and Deloitte CMDB Architect showed "Nov 21" on jobs.ca but are already tracked under older URLs; dedupe on employer + title + city, not the mirror's posted date.
+2. jobs.ca card dates can be stale — the Deloitte IOM/Discovery card said Nov 21 while careers.deloitte.ca shows Posting Start Date 1/21/26; verify on the employer canonical before trusting a date.
+3. `git pull --ff-only` before merging: the 11:14 EST scan commit `77ce9de` landed while this run was scanning, so the dedupe base must be current.
+4. "ServiceNow" in duties ≠ platform role — CIBC IT Administration Analyst (SRM access provisioning) and the Procom ITSM consultant (ServiceNow optional) were checked and excluded.
+5. With 0 net-new jobs, the correct output is a lessons-only `[skip ci]` commit — do not commit mirror URLs that would double-list roles already on the board.
+
+### Sources consulted
+jobs.ca (Deloitte, Envision, Procom, CIBC), LinkedIn guest search, careers.deloitte.ca, Glassdoor/ApplyTOP date mirrors, jobs.rogers.com, jobs.bell.ca, jobs.gc.ca, Salesforce careers Canada, LinkedIn 4481939757, hourly scan commit `77ce9de`.
