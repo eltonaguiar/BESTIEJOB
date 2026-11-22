@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-22T09:12:12.662Z",
     "generatedAt": "2026-11-22T09:12:12.662Z",
-    "total": 5592,
+    "total": 5596,
     "newThisScan": 418,
     "retainedFromPrevious": 5183,
     "sources": {
@@ -1052,6 +1052,40 @@
       "tags": [],
       "verifiedAt": "2026-11-22T09:13:04.216910+00:00",
       "verifyState": "live"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/sales-operations-coordinator-junior-salesforce-admin-at-generis-4444467031",
+      "source": "readme",
+      "company": "Generis",
+      "title": "Sales Operations Coordinator / Junior Salesforce Admin",
+      "location": "Downtown Toronto, ON",
+      "url": "https://ca.linkedin.com/jobs/view/sales-operations-coordinator-junior-salesforce-admin-at-generis-4444467031",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
+      "excerpt": "LinkedIn guest page: posted '1 day ago' (~2026-11-21); entry-level, 1-2 yrs Salesforce support, first 90 days in office Downtown Toronto",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-ai-data-cloud-solutions-engineer-at-agf-investments-4437612626",
+      "source": "readme",
+      "company": "AGF Investments",
+      "title": "CRM Data Engineer (Salesforce Data360)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-ai-data-cloud-solutions-engineer-at-agf-investments-4437612626",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-21T12:00:00.000Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
+      "excerpt": "LinkedIn guest page: posted '1 day ago' (~2026-11-21); Data360/integration, Platform Admin + Platform Developer I assets",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "adzuna:5974253625",
@@ -8144,6 +8178,23 @@
       ]
     },
     {
+      "id": "readme:ca.linkedin.com/jobs/view/production-support-analyst-engineer-%e2%80%93-salesforce-admin-certified-at-synechron-4423691005",
+      "source": "readme",
+      "company": "Synechron",
+      "title": "Production Support Analyst / Engineer – Salesforce Admin Certified",
+      "location": "Toronto, ON",
+      "url": "https://ca.linkedin.com/jobs/view/production-support-analyst-engineer-%E2%80%93-salesforce-admin-certified-at-synechron-4423691005",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
+      "excerpt": "LinkedIn guest page: posted '5 days ago' (~2026-11-17); CAD 100-120K, admin cert mandatory, trading/risk systems support",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
       "id": "dice:https://www.dice.com/job-detail/86aad22c-bf6c-4901-bc4b-c34ef4a72837",
       "source": "dice",
       "company": "SSV Technologies Inc",
@@ -13523,6 +13574,23 @@
       "postedDate": "2026-11-15T12:00:00.000Z",
       "scrapedAt": "2026-11-22T09:14:01.436Z",
       "excerpt": "unknown",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-administrator-experience-cloud-at-braze-4426344471",
+      "source": "readme",
+      "company": "Braze",
+      "title": "Salesforce Administrator, Experience Cloud",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-experience-cloud-at-braze-4426344471",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-15T12:00:00.000Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
+      "excerpt": "LinkedIn guest page: posted '1 week ago' (~2026-11-15); Experience Cloud/PRM admin, 5+ yrs, cert required",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
@@ -99726,7 +99794,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-22T12:00:00.000Z",
-      "scrapedAt": "2026-11-22T09:14:01.436Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -99743,7 +99811,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-22T12:00:00.000Z",
-      "scrapedAt": "2026-11-22T09:14:01.436Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -99760,7 +99828,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-22T12:00:00.000Z",
-      "scrapedAt": "2026-11-22T09:14:01.436Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
       "excerpt": "via aicert-harvest-2026-11-03",
       "workArrangement": "remote",
       "tags": [
@@ -99777,7 +99845,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-22T12:00:00.000Z",
-      "scrapedAt": "2026-11-22T09:14:01.436Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v127.md",
       "workArrangement": "unknown",
       "tags": [
@@ -99794,7 +99862,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-22T12:00:00.000Z",
-      "scrapedAt": "2026-11-22T09:14:01.436Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
       "excerpt": "via twin 20-round harvest",
       "workArrangement": "unknown",
       "tags": [
@@ -99811,7 +99879,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-22T12:00:00.000Z",
-      "scrapedAt": "2026-11-22T09:14:01.436Z",
+      "scrapedAt": "2026-11-22T10:07:28.837Z",
       "excerpt": "via buffy-linkedin60d--2026-11-04--v75.md",
       "workArrangement": "unknown",
       "tags": [
