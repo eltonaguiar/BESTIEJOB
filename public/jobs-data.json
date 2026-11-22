@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-22T10:07:38+00:00",
+ "generatedAt": "2026-11-22T10:13:02+00:00",
  "timezone": "America/Toronto",
- "count": 5036,
+ "count": 5012,
  "appliedHidden": 29,
  "sources": [
   "103.careerplug.com",
@@ -326,6 +326,150 @@
   },
   {
    "posted": "2026-11-22",
+   "title": "Manager, ServiceNow Platform",
+   "company": "iA Financial Group",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5974911787",
+   "note": "adzuna",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "manager, servicenow platform ia financial group canada adzuna servicenow adzuna servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-platform-at-ia-financial-group-industrial-alliance-4493215027",
+     "label": "LinkedIn · Quebec",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Manager%2C%20ServiceNow%20Platform%20iA%20Financial%20Group+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20ServiceNow%20Platform%20iA%20Financial%20Group&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20ServiceNow%20Platform%20iA%20Financial%20Group&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Manager%2C%20ServiceNow%20Platform%20iA%20Financial%20Group&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-22",
+   "title": "Cyber Advisory Solution Consultant",
+   "company": "ServiceNow, Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5974890953",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 64,
+   "matchReasons": [
+    "ServiceNow",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "cyber advisory solution consultant servicenow, inc. toronto, ontario adzuna other adzuna servicenow consulting/ba role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Cyber%20Advisory%20Solution%20Consultant%20ServiceNow%2C%20Inc.+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Cyber%20Advisory%20Solution%20Consultant%20ServiceNow%2C%20Inc.&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Cyber%20Advisory%20Solution%20Consultant%20ServiceNow%2C%20Inc.&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Cyber%20Advisory%20Solution%20Consultant%20ServiceNow%2C%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-22",
+   "title": "Salesforce Tech Lead (Remote)",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5974890709",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce tech lead (remote) cognizant toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-tech-lead-remote-at-cognizant-4492842720",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-tech-lead-remote-at-cognizant-4492525247",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Tech%20Lead%20%28Remote%29%20Cognizant+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Tech%20Lead%20%28Remote%29%20Cognizant&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Tech%20Lead%20%28Remote%29%20Cognizant&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Tech%20Lead%20%28Remote%29%20Cognizant&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-22",
    "title": "Leader, Salesforce Digital – Canada",
    "company": "Slalom",
    "location": "Greater Toronto Area, Canada",
@@ -361,6 +505,284 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Leader%2C%20Salesforce%20Digital%20%E2%80%93%20Canada%20Slalom&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-22",
+   "title": "Salesforce Developer",
+   "company": "Harbor",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5974910194",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer harbor canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Harbor+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Harbor&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Harbor&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Harbor&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-22",
+   "title": "Salesforce Business Process Analyst",
+   "company": "Jobgether",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5974901121",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce business process analyst jobgether canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492529940",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492537774",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Business%20Process%20Analyst%20Jobgether+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Business%20Process%20Analyst%20Jobgether&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Business%20Process%20Analyst%20Jobgether&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Business%20Process%20Analyst%20Jobgether&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-22",
+   "title": "Team Leader, Salesforce",
+   "company": "Medavie",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5974894699",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "team leader, salesforce medavie canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/team-leader-salesforce-at-medavie-4492843913",
+     "label": "LinkedIn · New Brunswick",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Team%20Leader%2C%20Salesforce%20Medavie+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Team%20Leader%2C%20Salesforce%20Medavie&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Team%20Leader%2C%20Salesforce%20Medavie&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Team%20Leader%2C%20Salesforce%20Medavie&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-22",
+   "title": "Senior Salesforce Technical Lead",
+   "company": "UST",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-technical-lead-at-ust-4466613813",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "senior salesforce technical lead ust montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/senior-salesforce-technical-lead-9f807e873faa04ad2336fa51cf6f4a30",
+     "label": "Eluta · Montréal QC",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Technical%20Lead%20UST+Montreal+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Technical%20Lead%20UST&location=Montreal"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Technical%20Lead%20UST&l=Montreal"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Technical%20Lead%20UST&loc=Montreal"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-22",
+   "title": "Solution Sales Executive, Moveworks",
+   "company": "ServiceNow, Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5974890956",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "solution sales executive, moveworks servicenow, inc. toronto, ontario adzuna other adzuna servicenow toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5974890957",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Solution%20Sales%20Executive%2C%20Moveworks%20ServiceNow%2C%20Inc.+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Solution%20Sales%20Executive%2C%20Moveworks%20ServiceNow%2C%20Inc.&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Solution%20Sales%20Executive%2C%20Moveworks%20ServiceNow%2C%20Inc.&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Solution%20Sales%20Executive%2C%20Moveworks%20ServiceNow%2C%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-22",
+   "title": "Sr Mgr, Sales, Cyber",
+   "company": "ServiceNow, Inc.",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5974890954",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "ServiceNow",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "sr mgr, sales, cyber servicenow, inc. toronto, ontario adzuna other adzuna servicenow toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr%20Mgr%2C%20Sales%2C%20Cyber%20ServiceNow%2C%20Inc.+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr%20Mgr%2C%20Sales%2C%20Cyber%20ServiceNow%2C%20Inc.&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr%20Mgr%2C%20Sales%2C%20Cyber%20ServiceNow%2C%20Inc.&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr%20Mgr%2C%20Sales%2C%20Cyber%20ServiceNow%2C%20Inc.&loc=Toronto"
     }
    ],
    "toronto": true
@@ -826,47 +1248,6 @@
   },
   {
    "posted": "2026-11-21",
-   "title": "Sales Operations Coordinator / Junior Salesforce Admin",
-   "company": "Generis",
-   "location": "Downtown Toronto, ON",
-   "url": "https://ca.linkedin.com/jobs/view/sales-operations-coordinator-junior-salesforce-admin-at-generis-4444467031",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "sales operations coordinator / junior salesforce admin generis downtown toronto, on linkedin salesforce readme salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sales%20Operations%20Coordinator%20/%20Junior%20Salesforce%20Admin%20Generis+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Operations%20Coordinator%20/%20Junior%20Salesforce%20Admin%20Generis&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sales%20Operations%20Coordinator%20/%20Junior%20Salesforce%20Admin%20Generis&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sales%20Operations%20Coordinator%20/%20Junior%20Salesforce%20Admin%20Generis&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-21",
    "title": "CRM Data Engineer (Salesforce Data360)",
    "company": "AGF Investments",
    "location": "Toronto, Ontario, Canada",
@@ -993,54 +1374,6 @@
   },
   {
    "posted": "2026-11-21",
-   "title": "Senior Salesforce Developer",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5973912092",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce developer cognizant toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cognizant-4492525247",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Developer%20Cognizant+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Developer%20Cognizant&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Developer%20Cognizant&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20Cognizant&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-21",
    "title": "Principle Salesforce Developer",
    "company": "Moneris",
    "location": "Toronto",
@@ -1143,6 +1476,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=DevOps%20Engineer%20%28Salesforce%29%20Scotiabank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-21",
+   "title": "Senior Salesforce Developer",
+   "company": "Cognizant",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5973912092",
+   "note": "",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer cognizant toronto, ontario adzuna salesforce  salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-cognizant-4492525247",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Developer%20Cognizant+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Developer%20Cognizant&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Developer%20Cognizant&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20Cognizant&loc=Toronto"
     }
    ],
    "toronto": true
@@ -2954,6 +3335,46 @@
   },
   {
    "posted": "2026-11-21",
+   "title": "Marketing Operations Specialist (HubSpot)",
+   "company": "BCA Research",
+   "location": "Montréal, Québec",
+   "url": "https://www.adzuna.ca/details/5973941009",
+   "note": "adzuna",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 12,
+   "matchReasons": [
+    "Role fit",
+    "Quebec"
+   ],
+   "french": false,
+   "search": "marketing operations specialist (hubspot) bca research montreal, quebec adzuna other adzuna role fit quebec",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Marketing%20Operations%20Specialist%20%28HubSpot%29%20BCA%20Research+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Operations%20Specialist%20%28HubSpot%29%20BCA%20Research&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Marketing%20Operations%20Specialist%20%28HubSpot%29%20BCA%20Research&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Marketing%20Operations%20Specialist%20%28HubSpot%29%20BCA%20Research&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-21",
    "title": "Spécialiste DevOps / Plateforme infonuagique (Azure ou AWS)",
    "company": "Onepoint",
    "location": "Montréal, Québec",
@@ -4192,47 +4613,6 @@
   },
   {
    "posted": "2026-11-20",
-   "title": "Manager, ServiceNow Platform",
-   "company": "iA Financial Group (Industrial Alliance)",
-   "location": "Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/manager-servicenow-platform-at-ia-financial-group-industrial-alliance-4493215027",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "manager, servicenow platform ia financial group (industrial alliance) quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Manager%2C%20ServiceNow%20Platform%20iA%20Financial%20Group%20%28Industrial%20Alliance%29+Quebec+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20ServiceNow%20Platform%20iA%20Financial%20Group%20%28Industrial%20Alliance%29&location=Quebec"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20ServiceNow%20Platform%20iA%20Financial%20Group%20%28Industrial%20Alliance%29&l=Quebec"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Manager%2C%20ServiceNow%20Platform%20iA%20Financial%20Group%20%28Industrial%20Alliance%29&loc=Quebec"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-20",
    "title": "Spécialiste / Développeur ServiceNow",
    "company": "Exposant 3",
    "location": "Quebec, Canada",
@@ -4683,47 +5063,6 @@
   },
   {
    "posted": "2026-11-20",
-   "title": "Salesforce Developer",
-   "company": "Bell Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://jobs.bell.ca/ca/en/job/430187/Salesforce-Developer",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "jobs.bell.ca",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer bell canada toronto, ontario, canada jobs.bell.ca salesforce readme salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Bell%20Canada+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Bell%20Canada&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Bell%20Canada&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Bell%20Canada&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-20",
    "title": "Senior Specialist, Salesforce Developer",
    "company": "SickKids Foundation",
    "location": "Central Bay Street, City of Toronto",
@@ -4992,54 +5331,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Technical%20Architect%20Cognizant&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-20",
-   "title": "Salesforce Tech Lead (Remote)",
-   "company": "Cognizant",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-tech-lead-remote-at-cognizant-4492842720",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce tech lead (remote) cognizant toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-tech-lead-remote-at-cognizant-4492525247",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Tech%20Lead%20%28Remote%29%20Cognizant+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Tech%20Lead%20%28Remote%29%20Cognizant&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Tech%20Lead%20%28Remote%29%20Cognizant&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Tech%20Lead%20%28Remote%29%20Cognizant&loc=Toronto"
     }
    ],
    "toronto": true
@@ -5809,47 +6100,6 @@
   },
   {
    "posted": "2026-11-20",
-   "title": "Team Leader, Salesforce",
-   "company": "Medavie",
-   "location": "New Brunswick, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/team-leader-salesforce-at-medavie-4492843913",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "team leader, salesforce medavie new brunswick, canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Team%20Leader%2C%20Salesforce%20Medavie+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Team%20Leader%2C%20Salesforce%20Medavie&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Team%20Leader%2C%20Salesforce%20Medavie&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Team%20Leader%2C%20Salesforce%20Medavie&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-20",
    "title": "Analyste Fonctionnel Salesforce",
    "company": "DELAN - IT Talent Solutions",
    "location": "Montreal, Quebec, Canada",
@@ -5933,54 +6183,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Product%20Manager%2C%20Workplace%20Salesforce%20Product%20Team%2C%20Vice%20President%20Morgan%20Stanley&loc=Calgary"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-20",
-   "title": "Salesforce Business Process Analyst",
-   "company": "Jobgether",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492529940",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce business process analyst jobgether canada linkedin salesforce linkedin salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-process-analyst-at-jobgether-4492537774",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Business%20Process%20Analyst%20Jobgether+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Business%20Process%20Analyst%20Jobgether&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Business%20Process%20Analyst%20Jobgether&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Business%20Process%20Analyst%20Jobgether&loc=Canada"
     }
    ],
    "toronto": false
@@ -14314,18 +14516,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483777144",
      "label": "LinkedIn · Mississauga",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483760655",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483758677",
-     "label": "LinkedIn · Guelph",
      "gated": false
     }
    ],
@@ -49310,14 +49500,7 @@
    ],
    "french": false,
    "search": "salesforce developer delpath toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-delpath-4484206074",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -153876,1086 +154059,6 @@
   },
   {
    "posted": "2026-11-02",
-   "title": "Marketing Strategy & Planning Specialist",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8327970&gh_jid=8327970",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "marketing strategy & planning specialist elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Marketing%20Strategy%20%26%20Planning%20Specialist%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Strategy%20%26%20Planning%20Specialist%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Marketing%20Strategy%20%26%20Planning%20Specialist%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Marketing%20Strategy%20%26%20Planning%20Specialist%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal AI Engineer - Context - Agents and Context",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8223688&gh_jid=8223688",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal ai engineer - context - agents and context elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20AI%20Engineer%20-%20Context%20-%20Agents%20and%20Context%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20AI%20Engineer%20-%20Context%20-%20Agents%20and%20Context%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20AI%20Engineer%20-%20Context%20-%20Agents%20and%20Context%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20AI%20Engineer%20-%20Context%20-%20Agents%20and%20Context%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Java Developer - Distributed Systems, Serverless - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=7982102&gh_jid=7982102",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal java developer - distributed systems, serverless - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Java%20Developer%20-%20Distributed%20Systems%2C%20Serverless%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Java%20Developer%20-%20Distributed%20Systems%2C%20Serverless%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Java%20Developer%20-%20Distributed%20Systems%2C%20Serverless%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Java%20Developer%20-%20Distributed%20Systems%2C%20Serverless%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Product Manager Agents and Context - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8070011&gh_jid=8070011",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal product manager agents and context - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Product%20Manager%20Agents%20and%20Context%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Product%20Manager%20Agents%20and%20Context%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Product%20Manager%20Agents%20and%20Context%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Product%20Manager%20Agents%20and%20Context%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Product Manager II, AI/Vectors - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8306227&gh_jid=8306227",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal product manager ii, ai/vectors - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Product%20Manager%20II%2C%20AI/Vectors%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Product%20Manager%20II%2C%20AI/Vectors%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Product%20Manager%20II%2C%20AI/Vectors%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Product%20Manager%20II%2C%20AI/Vectors%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Product Manager, Security Pricing and Packaging (Serverless) - Security Solutions",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8332655&gh_jid=8332655",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal product manager, security pricing and packaging (serverless) - security solutions elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Product%20Manager%2C%20Security%20Pricing%20and%20Packaging%20%28Serverless%29%20-%20Security%20Solutions%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Product%20Manager%2C%20Security%20Pricing%20and%20Packaging%20%28Serverless%29%20-%20Security%20Solutions%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Product%20Manager%2C%20Security%20Pricing%20and%20Packaging%20%28Serverless%29%20-%20Security%20Solutions%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Product%20Manager%2C%20Security%20Pricing%20and%20Packaging%20%28Serverless%29%20-%20Security%20Solutions%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Software Developer - Performance Tuning - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8138661&gh_jid=8138661",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal software developer - performance tuning - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Software%20Developer%20-%20Performance%20Tuning%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Software%20Developer%20-%20Performance%20Tuning%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Software%20Developer%20-%20Performance%20Tuning%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Software%20Developer%20-%20Performance%20Tuning%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Software Developer - Query Engine, Database Internals - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8169102&gh_jid=8169102",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal software developer - query engine, database internals - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Software%20Developer%20-%20Query%20Engine%2C%20Database%20Internals%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Software%20Developer%20-%20Query%20Engine%2C%20Database%20Internals%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Software%20Developer%20-%20Query%20Engine%2C%20Database%20Internals%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Software%20Developer%20-%20Query%20Engine%2C%20Database%20Internals%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Software Developer - Search Algorithms - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8162459&gh_jid=8162459",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal software developer - search algorithms - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Software%20Developer%20-%20Search%20Algorithms%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Software%20Developer%20-%20Search%20Algorithms%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Software%20Developer%20-%20Search%20Algorithms%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Software%20Developer%20-%20Search%20Algorithms%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Software Developer - Search Infra - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8220114&gh_jid=8220114",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal software developer - search infra - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Software%20Developer%20-%20Search%20Infra%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Software%20Developer%20-%20Search%20Infra%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Software%20Developer%20-%20Search%20Infra%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Software%20Developer%20-%20Search%20Infra%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Software Developer - Security - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8082617&gh_jid=8082617",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal software developer - security - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Software%20Developer%20-%20Security%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Software%20Developer%20-%20Security%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Software%20Developer%20-%20Security%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Software%20Developer%20-%20Security%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Software Developer - Storage Engine - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8074820&gh_jid=8074820",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal software developer - storage engine - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Software%20Developer%20-%20Storage%20Engine%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Software%20Developer%20-%20Storage%20Engine%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Software%20Developer%20-%20Storage%20Engine%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Software%20Developer%20-%20Storage%20Engine%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Principal Software Developer - Vector Search - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8162358&gh_jid=8162358",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "principal software developer - vector search - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principal%20Software%20Developer%20-%20Vector%20Search%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Software%20Developer%20-%20Vector%20Search%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principal%20Software%20Developer%20-%20Vector%20Search%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principal%20Software%20Developer%20-%20Vector%20Search%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Developer Advocate",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8053891&gh_jid=8053891",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior developer advocate elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Developer%20Advocate%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Developer%20Advocate%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Developer%20Advocate%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Developer%20Advocate%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Engineer, Competitive Benchmarking & Performance",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8306617&gh_jid=8306617",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior engineer, competitive benchmarking & performance elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Engineer%2C%20Competitive%20Benchmarking%20%26%20Performance%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Engineer%2C%20Competitive%20Benchmarking%20%26%20Performance%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Engineer%2C%20Competitive%20Benchmarking%20%26%20Performance%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Engineer%2C%20Competitive%20Benchmarking%20%26%20Performance%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Java Developer - Core/Infra - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8074285&gh_jid=8074285",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior java developer - core/infra - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Java%20Developer%20-%20Core/Infra%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Java%20Developer%20-%20Core/Infra%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Java%20Developer%20-%20Core/Infra%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Java%20Developer%20-%20Core/Infra%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Java Developer - Distributed Systems, Serverless - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=7734579&gh_jid=7734579",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior java developer - distributed systems, serverless - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Java%20Developer%20-%20Distributed%20Systems%2C%20Serverless%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Java%20Developer%20-%20Distributed%20Systems%2C%20Serverless%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Java%20Developer%20-%20Distributed%20Systems%2C%20Serverless%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Java%20Developer%20-%20Distributed%20Systems%2C%20Serverless%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Java Developer - Security - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8082602&gh_jid=8082602",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior java developer - security - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Java%20Developer%20-%20Security%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Java%20Developer%20-%20Security%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Java%20Developer%20-%20Security%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Java%20Developer%20-%20Security%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Product Manager, Control Plane - Platform",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8093933&gh_jid=8093933",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior product manager, control plane - platform elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Product%20Manager%2C%20Control%20Plane%20-%20Platform%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Manager%2C%20Control%20Plane%20-%20Platform%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Product%20Manager%2C%20Control%20Plane%20-%20Platform%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Product%20Manager%2C%20Control%20Plane%20-%20Platform%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Developer",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8130076&gh_jid=8130076",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software developer elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Developer%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Developer%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Developer%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Developer - Performance Tuning - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8138559&gh_jid=8138559",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software developer - performance tuning - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Developer%20-%20Performance%20Tuning%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20-%20Performance%20Tuning%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Developer%20-%20Performance%20Tuning%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Developer%20-%20Performance%20Tuning%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Developer - Query Engine, Database Internals - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8174948&gh_jid=8174948",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software developer - query engine, database internals - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Developer%20-%20Query%20Engine%2C%20Database%20Internals%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20-%20Query%20Engine%2C%20Database%20Internals%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Developer%20-%20Query%20Engine%2C%20Database%20Internals%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Developer%20-%20Query%20Engine%2C%20Database%20Internals%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Developer - Search Algorithms - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8161422&gh_jid=8161422",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software developer - search algorithms - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Developer%20-%20Search%20Algorithms%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20-%20Search%20Algorithms%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Developer%20-%20Search%20Algorithms%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Developer%20-%20Search%20Algorithms%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Developer - Storage Engine - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8074844&gh_jid=8074844",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software developer - storage engine - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Developer%20-%20Storage%20Engine%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20-%20Storage%20Engine%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Developer%20-%20Storage%20Engine%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Developer%20-%20Storage%20Engine%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Developer - Vector Search - Elasticsearch",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8161518&gh_jid=8161518",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software developer - vector search - elasticsearch elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Developer%20-%20Vector%20Search%20-%20Elasticsearch%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20-%20Vector%20Search%20-%20Elasticsearch%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Developer%20-%20Vector%20Search%20-%20Elasticsearch%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Developer%20-%20Vector%20Search%20-%20Elasticsearch%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications)",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8311496&gh_jid=8311496",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software engineer - control plane (hosted foundations / applications) elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%20-%20Control%20Plane%20%28Hosted%20Foundations%20/%20Applications%29%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20-%20Control%20Plane%20%28Hosted%20Foundations%20/%20Applications%29%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%20-%20Control%20Plane%20%28Hosted%20Foundations%20/%20Applications%29%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%20-%20Control%20Plane%20%28Hosted%20Foundations%20/%20Applications%29%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
-   "title": "Senior Software Engineer - EDR Workflows - Security",
-   "company": "elastic",
-   "location": "Canada",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8173332&gh_jid=8173332",
-   "note": "via round11-cached--2026-11-05--v21.md",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "jobs.elastic.co",
-   "verified": "Employer board",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior software engineer - edr workflows - security elastic canada jobs.elastic.co other via round11-cached--2026-11-05--v21.md role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Software%20Engineer%20-%20EDR%20Workflows%20-%20Security%20elastic+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20-%20EDR%20Workflows%20-%20Security%20elastic&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Software%20Engineer%20-%20EDR%20Workflows%20-%20Security%20elastic&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Software%20Engineer%20-%20EDR%20Workflows%20-%20Security%20elastic&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-02",
    "title": "IT Project Manager [4987::(https://www.adzuna.ca/details/5950547964?utm_medium=api&utm_source=54ce986e)",
    "company": "Alteo",
    "location": "Montréal, Québec",
@@ -169202,54 +168305,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Technical%20Architect%20Jobgether&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-31",
-   "title": "Senior Salesforce Technical Lead",
-   "company": "UST",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-technical-lead-at-ust-4466613813",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "senior salesforce technical lead ust montreal, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
-   "alternates": [
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/senior-salesforce-technical-lead-9f807e873faa04ad2336fa51cf6f4a30",
-     "label": "Eluta · Montréal QC",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Technical%20Lead%20UST+Montreal+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Technical%20Lead%20UST&location=Montreal"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Technical%20Lead%20UST&l=Montreal"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Technical%20Lead%20UST&loc=Montreal"
     }
    ],
    "toronto": false
@@ -195032,20 +194087,7 @@
    ],
    "french": false,
    "search": "salesforce developer medcan toronto workday ats salesforce workday salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "jobs.ca",
-     "url": "https://www.jobs.ca/medcan/jobs/salesforce-developer-toronto-on-1302474d8486",
-     "label": "jobs.ca · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
