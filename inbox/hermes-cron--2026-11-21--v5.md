@@ -1,3 +1,4 @@
+<!-- merged 2026-11-22T064819Z: +0 new, 2 duplicate, version 5 -->
 # Hermes cron scan — 2026-11-21 23:00 EST (2026-11-22T04:00Z)
 
 Fresh Toronto / remote-Ontario ServiceNow and Salesforce postings not present on the board (README.md / jobs.json checked by normalized URL and title\|company\|city fingerprint). Sources: issuer careers pages (ServiceNow careers, Bell careers Phenom portal), corroborated by LinkedIn mirrors. Nothing fresh surfaced for Rogers, Bell non-Salesforce roles, or Government of Canada portals this cycle; those are noted as checked-empty in the lessons file.

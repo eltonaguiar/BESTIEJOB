@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-22T04:13:01.153Z",
     "generatedAt": "2026-11-22T04:13:01.153Z",
-    "total": 5561,
+    "total": 5562,
     "newThisScan": 432,
     "retainedFromPrevious": 5169,
     "sources": {
@@ -6902,6 +6902,23 @@
       "scrapedAt": "2026-11-22T04:14:53.357Z",
       "excerpt": "via fresh-ca--2026-11-18--v9.md",
       "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobs.ca/slalom/jobs/salesforce-developer-enhance-operate-toronto-on-9ee02fcc7a11",
+      "source": "readme",
+      "company": "Slalom",
+      "title": "Salesforce Developer - Enhance & Operate",
+      "location": "Toronto, ON",
+      "url": "https://www.jobs.ca/slalom/jobs/salesforce-developer-enhance-operate-toronto-on-9ee02fcc7a11",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-17T12:00:00.000Z",
+      "scrapedAt": "2026-11-22T06:48:19.388Z",
+      "excerpt": "via jobs.ca · Salesforce partner · hybrid · apply by Dec 1, 2026 · 2+ yrs platform exp",
+      "workArrangement": "hybrid",
       "tags": [
         "salesforce"
       ]
