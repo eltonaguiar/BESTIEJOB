@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T14:12:04+00:00",
+ "generatedAt": "2026-11-22T15:12:12+00:00",
  "timezone": "America/Toronto",
  "count": 5010,
  "appliedHidden": 29,
@@ -495,6 +495,47 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-22",
+   "title": "Salesforce Consultant, GoC focus",
+   "company": "Deloitte",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-goc-focus-at-deloitte-4460503246",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce consultant, goc focus deloitte ottawa, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Consultant%2C%20GoC%20focus%20Deloitte+Ottawa+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Consultant%2C%20GoC%20focus%20Deloitte&location=Ottawa"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Consultant%2C%20GoC%20focus%20Deloitte&l=Ottawa"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Consultant%2C%20GoC%20focus%20Deloitte&loc=Ottawa"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-22",
@@ -43123,12 +43164,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5947169671",
      "label": "Adzuna · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4482231111",
-     "label": "LinkedIn · Toronto",
      "gated": false
     }
    ],
@@ -85842,14 +85877,7 @@
    ],
    "french": false,
    "search": "intermediate technology specialist, it service management equitable waterloo region, ontario adzuna other readme role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/intermediate-technology-specialist-it-service-management-at-equitable-4485010499",
-     "label": "LinkedIn · Waterloo",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -102115,12 +102143,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5947169370",
      "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-tech-lead-canada-remote-at-cloudlabs-inc-4482213499",
-     "label": "LinkedIn · Canada",
      "gated": false
     }
    ],
@@ -130886,14 +130908,7 @@
    ],
    "french": false,
    "search": "senior data integration developer, fabric kpmg canada vaughan, on linkedin other readme integration role fit",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-data-integration-developer-fabric-at-kpmg-canada-4486811181",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -131860,26 +131875,8 @@
    "alternates": [
     {
      "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-data-engineer-databricks-focused-at-bdo-canada-4486887975",
-     "label": "LinkedIn · Edmonton",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-data-engineer-databricks-focused-at-bdo-canada-4486891979",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-data-engineer-databricks-focused-at-bdo-canada-4487008340",
      "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-data-engineer-databricks-focused-at-bdo-canada-4487005384",
-     "label": "LinkedIn · Calgary",
      "gated": false
     }
    ],
@@ -132226,47 +132223,40 @@
   },
   {
    "posted": "2026-11-03",
-   "title": "T&O Senior Data Analyst,  Financial Data",
+   "title": "T&O Senior Data Analyst, Financial Data",
    "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/T-O-Senior-Data-Analyst---Financial-Data_R260030331",
-   "note": "via buffy-scan60d--2026-11-04--v14.md",
+   "location": "Toronto, ON",
+   "url": "https://ca.linkedin.com/jobs/view/t-o-senior-data-analyst-financial-data-at-bmo-4487071487",
+   "note": "readme",
    "family": "other",
    "familyLabel": "Other",
-   "source": "Workday ATS",
-   "verified": "Employer board",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
    "match": 20,
    "matchReasons": [
     "Role fit",
     "Toronto area"
    ],
    "french": false,
-   "search": "t&o senior data analyst,  financial data bmo toronto, on, can workday ats other via buffy-scan60d--2026-11-04--v14.md role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/t-o-senior-data-analyst-financial-data-at-bmo-4487071487",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "search": "t&o senior data analyst, financial data bmo toronto, on linkedin other readme role fit toronto area",
+   "alternates": [],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=T%26O%20Senior%20Data%20Analyst%2C%20%20Financial%20Data%20BMO+Toronto+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=T%26O%20Senior%20Data%20Analyst%2C%20Financial%20Data%20BMO+Toronto+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=T%26O%20Senior%20Data%20Analyst%2C%20%20Financial%20Data%20BMO&location=Toronto"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=T%26O%20Senior%20Data%20Analyst%2C%20Financial%20Data%20BMO&location=Toronto"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=T%26O%20Senior%20Data%20Analyst%2C%20%20Financial%20Data%20BMO&l=Toronto"
+     "url": "https://ca.indeed.com/jobs?q=T%26O%20Senior%20Data%20Analyst%2C%20Financial%20Data%20BMO&l=Toronto"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=T%26O%20Senior%20Data%20Analyst%2C%20%20Financial%20Data%20BMO&loc=Toronto"
+     "url": "https://www.adzuna.ca/search?q=T%26O%20Senior%20Data%20Analyst%2C%20Financial%20Data%20BMO&loc=Toronto"
     }
    ],
    "toronto": true
@@ -135111,14 +135101,7 @@
    ],
    "french": false,
    "search": "ingenieur(e) principal(e) de donnees, specialisation databricks bdo canada edmonton, ab linkedin other readme data/reporting",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/ing%C3%A9nieur-e-principal-e-de-donn%C3%A9es-sp%C3%A9cialisation-databricks-at-bdo-canada-4487011138",
-     "label": "LinkedIn · Calgary",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -168587,46 +168570,6 @@
   },
   {
    "posted": "2026-10-31",
-   "title": "Salesforce Consultant, GoC focus",
-   "company": "Deloitte",
-   "location": "Ottawa, ON",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-consultant-goc-focus-at-deloitte-4460503246",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit"
-   ],
-   "french": false,
-   "search": "salesforce consultant, goc focus deloitte ottawa, on linkedin salesforce readme salesforce role fit",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Consultant%2C%20GoC%20focus%20Deloitte+Ottawa+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Consultant%2C%20GoC%20focus%20Deloitte&location=Ottawa"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Consultant%2C%20GoC%20focus%20Deloitte&l=Ottawa"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Consultant%2C%20GoC%20focus%20Deloitte&loc=Ottawa"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-31",
    "title": "Salesforce Developer",
    "company": "Macpower Digital Assets Edge Private Limited",
    "location": "Calgary, Calgary region",
@@ -186476,13 +186419,13 @@
    "posted": "2026-10-29",
    "title": "Marketing Cloud Specialist",
    "company": "Medcan",
-   "location": "Toronto",
-   "url": "https://medcan.wd10.myworkdayjobs.com/en-US/Medcan/job/Toronto/Marketing-Cloud-Specialist_MED02574",
-   "note": "via buffy-scan60d--2026-11-04--v87.md",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5945494725",
+   "note": "readme",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
+   "source": "Adzuna",
+   "verified": "Aggregator",
    "match": 60,
    "matchReasons": [
     "Salesforce",
@@ -186490,14 +186433,8 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "marketing cloud specialist medcan toronto workday ats salesforce via buffy-scan60d--2026-11-04--v87.md salesforce role fit toronto area",
+   "search": "marketing cloud specialist medcan toronto, ontario adzuna salesforce readme salesforce role fit toronto area",
    "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945494725",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/marketing-cloud-specialist-at-medcan-4484263719",
@@ -186598,12 +186535,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5945478146?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Mississauga",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-lead-at-mckesson-4484717004",
-     "label": "LinkedIn · Mississauga",
      "gated": false
     }
    ],
@@ -193123,47 +193054,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Developer Principal",
-   "company": "GDIT",
-   "location": "Any Location / Remote",
-   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Principal_RQ230501-1",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer principal gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20Principal%20GDIT+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20Principal%20GDIT&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20Principal%20GDIT&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Principal%20GDIT&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Senior ServiceNow Developer",
    "company": "Resolve Tech Solutions",
    "location": "US Remote - TX",
@@ -193199,6 +193089,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20Resolve%20Tech%20Solutions&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Developer Principal",
+   "company": "GDIT",
+   "location": "Any Location / Remote",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Principal_RQ230501-1",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer principal gdit any location / remote workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20Principal%20GDIT+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20Principal%20GDIT&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20Principal%20GDIT&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Principal%20GDIT&loc=Canada"
     }
    ],
    "toronto": false
@@ -200983,54 +200914,6 @@
   },
   {
    "posted": "2026-10-24",
-   "title": "Solution Architect - (Healthcare/Life Sciences or Financial Services)",
-   "company": "Salesforce",
-   "location": "Greater Toronto Area, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457039647",
-   "note": "via buffy-round15b--2026-11-06--v85.md",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 40,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "solution architect - (healthcare/life sciences or financial services) salesforce greater toronto area, canada linkedin salesforce via buffy-round15b--2026-11-06--v85.md salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457052560",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-24",
    "title": "Gestionnaire d'incident",
    "company": "Bell",
    "location": "Ottawa, Ontario, Canada",
@@ -201065,6 +200948,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Gestionnaire%20d%27incident%20Bell&loc=Ottawa"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-24",
+   "title": "Solution Architect - (Healthcare/Life Sciences or Financial Services)",
+   "company": "Salesforce",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/solution-architect-healthcare-life-sciences-or-financial-services-at-salesforce-4457052560",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 36,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "solution architect - (healthcare/life sciences or financial services) salesforce montreal, quebec, canada linkedin salesforce readme salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce+Montreal+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&location=Montreal"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&l=Montreal"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Solution%20Architect%20-%20%28Healthcare/Life%20Sciences%20or%20Financial%20Services%29%20Salesforce&loc=Montreal"
     }
    ],
    "toronto": false
