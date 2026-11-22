@@ -204,3 +204,29 @@ jobs.ca (Deloitte, Envision, Procom, CIBC), LinkedIn guest search, careers.deloi
 2. Push-rejection recovery: if `git push origin main` is rejected because the CI hourly scan committed first, do not hand-resolve the generated files — `git reset --hard origin/main`, re-run the scan + `tools/build_site.py`, recommit, repush.
 3. Workday CXS 429s persisted all hour (18:06Z) on every Canadian tenant, not just the :00Z CI minute — treat Workday as CI-owned for hourly freshness.
 4. Net-new ≠ source hits: `fresh=382` source hits collapsed to ~30 net-new URLs after dedupe — always diff URL sets against `git show origin/main:jobs.json` before reporting additions.
+
+## Hourly scan — Sunday 2026-11-22 16:00 EST (UTC-05) (this run)
+
+### Result this run
+- Fresh verified jobs merged: **0** — board unchanged (no jobs.json, README.md, or public/ commit)
+- Board base: origin/main `c3dcbd5`; jobs.json at `2026-11-22T18:06:40.456Z` scan (5,597 rows; 1,193 ServiceNow / 4,280 Salesforce primary-tagged); README DAILY-SCAN block `Scan: 2026-11-22T18:06:40.456Z · 5626 live postings from 7 public sources`
+- Sources re-scanned this hour:
+  - Adzuna CA live outputs (14:03 EST: servicenow/salesforce × Toronto/Ontario + ITOM Toronto) — 144 unique SN/SF postings across 13 files; **all already on board** by normalized URL or employer+title+city twin
+  - LinkedIn guest search + today's LinkedIn scan artifacts — fresh SN/SF hits (TechNeptune CMDB Consultant, Blue Mantis Sr SN Business Process Consultant, Cognizant SF Tech Lead, Avanciers SF Developer/Architect/BSA, Euna Sr SF Developer) all **company+title dupes** of rows already on the board
+  - Workday CXS manual retry at 16:03 EST (curl --compressed, Content-Type/Accept/Origin headers only, no Referer, ≥8s spacing) — **HTTP 422 on all 15 Canadian tenants** (BMO/TD/CIBC/Manulife/Interac/CAAT Pension/GDIT/Accenture/Salesforce.com × ServiceNow & Salesforce): Workday blocking probes this hour, not "zero postings" — logged as blocked, carried nothing
+  - Phenom: jobs.rogers.com server-side shell = zero rows (re-checked); jobs.scotiabank.com date-sorted = incident/security/sales only; jobs.bell.ca = zero platform reqs (Bell-backed SN hiring runs under Ateko/FX Innovation — their careers page and LinkedIn show no fresh vacancy this window)
+  - Canadian public sector: gojobs.gov.on.ca and jobs.gc.ca Radware-captcha walled; Job Bank OPS employer feed empty; no fresh SN/SF platform posting
+- Detail checks: Lane Four (Toronto Salesforce partner) Salesforce Consultant and Salesforce Administrator pages both HTTP 200 but **no posted date** on either → undated, freshness unverifiable → not added; ServiceNow vendor sales roles (Cyber Advisory Solution Consultant, Solution Sales Executive Moveworks, Sr Mgr Sales Cyber, Toronto) excluded by board rule; CIBC IT Administration Analyst (SRM access provisioning, not platform build/admin) excluded; Procom ITSM consultant (ServiceNow optional, generic) excluded.
+- Dedupe base: origin/main refreshed before scanning; every candidate matched an existing board row — 0 net-new.
+
+### Board decision
+- No jobs.json / README.md / public/ change: committing mirror URLs would double-list roles already tracked under canonical URLs. Correct output for 0 net-new is this lessons-only `[skip ci]` commit.
+
+### Lessons this run
+1. Saturation: all freshness vectors (Adzuna API, Workday CXS, LinkedIn guest) ran today and returned only board-known rows — always diff URL sets against `git show origin/main:jobs.json` and twin-check employer + title + city + date before reporting a "new" job.
+2. Workday CXS returned HTTP 422 on every Canadian tenant at 16:03 EST, well past the :00Z CI minute — treat 422 as host/IP blocking, not as an empty board; do not log a 422 hour as zero fresh requisitions.
+3. Undated partner pages (Lane Four) cannot be admitted as fresh without a posted date — fetch the detail page and skip when undated.
+4. When 0 net-new jobs are found: lessons-only `[skip ci]` commit; never commit mirror URLs that would double-list roles.
+
+### Sources consulted
+Adzuna CA API (servicenow/salesforce/ITOM × Toronto/Ontario), LinkedIn guest search + scan artifacts, Workday CXS (BMO/TD/CIBC/Manulife/Interac/CAAT Pension/GDIT/Accenture/Salesforce.com), jobs.rogers.com, jobs.scotiabank.com, jobs.bell.ca, ateko.com + fxinnovation.com careers, Lane Four careers, Job Bank (OPS employer feed), gojobs.gov.on.ca, jobs.gc.ca, Salesforce/ServiceNow vendor careers pages.
