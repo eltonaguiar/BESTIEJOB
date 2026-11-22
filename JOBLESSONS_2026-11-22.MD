@@ -174,3 +174,33 @@ ServiceNow careers (Ontario), JobsByCountry ServiceNow Toronto, jobs.ca, LinkedI
 
 ### Sources consulted
 jobs.ca (Deloitte, Envision, Procom, CIBC), LinkedIn guest search, careers.deloitte.ca, Glassdoor/ApplyTOP date mirrors, jobs.rogers.com, jobs.bell.ca, jobs.gc.ca, Salesforce careers Canada, LinkedIn 4481939757, hourly scan commit `77ce9de`.
+
+## Hourly scan — Sunday 2026-11-22 13:00 EST (UTC-05) (this run)
+
+### Result this run
+- Fresh verified jobs merged: **~30 net-new URLs** (jobs.json 5,600 → 5,630; SN 1,193 / SF 4,280)
+- Base: origin/main `843c499` (CI 12:11 EST scan refresh, 5,600 listings)
+- Local direct scan (`node scripts/daily_job_scan.mjs`, unpiped — piped/redirected runs exit `stdin is not a tty` on this host): fresh=382 source hits, merged=5,630 after URL dedupe + capSecondary
+- Workday CXS: all 17 Canadian tenants HTTP 429 again this hour — rate-limited well past :00Z; carried 0 postings
+- Freshest merged roles (posted Nov 21–22, not previously on board):
+  - Jobgether — Salesforce Business Process Analyst, Canada (adzuna 5974899621, 2026-11-22)
+  - Cognizant — Salesforce Tech Lead (Remote), Toronto (adzuna 5973912092, 2026-11-21)
+  - Altus Group — Salesforce Platform Developer, Toronto (LinkedIn 4483476940, 2026-11-21)
+  - Moneris — Principle Salesforce Developer, Toronto (LinkedIn 4466619394, 2026-11-21)
+  - Euna Solutions — Sr Salesforce Developer, Oakville (LinkedIn 4492752341, 2026-11-20)
+  - TD Bank — Senior Solution Architect (ServiceNow), Toronto (adzuna 5970077372, 2026-11-18)
+  - Amicis Global — ServiceNow Business Analyst - Senior, Toronto (adzuna 5972002660, 2026-11-19)
+- Commit: `77faf60` (8 files: jobs.json, README.md DAILY-SCAN block, FRESH_JOBS.md, public/ feeds); pages.yml deploy run 45053302232 → success (~32s)
+- Live page verified: https://eltonaguiar.github.io/BESTIEJOB/jobs-data.json serves 4,930 cards and contains BMO ServiceNow CMDB Administrator (Toronto) — a URL absent from the pre-scan board — confirming the deploy carried this run's data
+
+### Partner / sponsor / target-employer sweep (re-checked this window)
+- **Rogers** (jobs.rogers.com Phenom): zero server-side job rows; no SN/SF platform posting — rely on LinkedIn/Adzuna mirrors
+- **Bell** (jobs.bell.ca): zero SN/SF platform requisitions; ServiceNow hiring surfaces under Ateko (Bell-backed) / FX Innovation, no fresh vacancy this window
+- **Canadian government** (jobs.gc.ca, gojobs.gov.on.ca): Radware captcha wall; Job Bank keyword search noisy (trust title-only matches); CMHC/SSC/Global Affairs no fresh SN/SF platform posting
+- **Salesforce/ServiceNow vendor careers**: vendor sales/SRE/security roles only; platform build/admin comes from partners and end-users (Altus, Moneris, Cognizant, TD, BMO, CGI, KPMG, Deloitte)
+
+### Lessons this run
+1. `node scripts/daily_job_scan.mjs` must run unpiped/unredirected on this host — `> file` or `| tail` makes it exit `stdin is not a tty` immediately without writing. Run it in the foreground so jobs.json/README/public actually get rewritten.
+2. Push-rejection recovery: if `git push origin main` is rejected because the CI hourly scan committed first, do not hand-resolve the generated files — `git reset --hard origin/main`, re-run the scan + `tools/build_site.py`, recommit, repush.
+3. Workday CXS 429s persisted all hour (18:06Z) on every Canadian tenant, not just the :00Z CI minute — treat Workday as CI-owned for hourly freshness.
+4. Net-new ≠ source hits: `fresh=382` source hits collapsed to ~30 net-new URLs after dedupe — always diff URL sets against `git show origin/main:jobs.json` before reporting additions.
