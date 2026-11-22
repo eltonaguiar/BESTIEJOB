@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-22T04:13:01.153Z",
     "generatedAt": "2026-11-22T04:13:01.153Z",
-    "total": 5560,
+    "total": 5561,
     "newThisScan": 432,
     "retainedFromPrevious": 5169,
     "sources": {
@@ -34,7 +34,8 @@
     "primaryCounts": {
       "servicenow": 1196,
       "salesforce": 4269
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -547,6 +548,23 @@
       "postedDate": "2026-11-20T12:00:00.000Z",
       "scrapedAt": "2026-11-21T15:44:34.669Z",
       "excerpt": "via Procom",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:jobs.bell.ca/ca/en/job/430187/salesforce-developer",
+      "source": "readme",
+      "company": "Bell Canada",
+      "title": "Salesforce Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://jobs.bell.ca/ca/en/job/430187/Salesforce-Developer",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-20T12:00:00.000Z",
+      "scrapedAt": "2026-11-22T04:23:33.002Z",
+      "excerpt": "via hermes-cron--2026-11-21--v4.md · salesforce · Req 430187; posted date is a best-estimate (about 1 day old on LinkedIn mirrors on 2026-11-21), not an absolute issuer date; Apex/LWC, Sales/Service/Revenue Cloud (CPQ) build — verified via issuer careers page plus LinkedIn mirrors",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
