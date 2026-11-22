@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-21T23:01:31.208Z** · 1426 live postings from 9 public sources · 159 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-22T02:02:02.540Z** · 1564 live postings from 9 public sources · 159 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -26,6 +26,8 @@
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-22 | [Leader, Salesforce Digital – Canada](https://ca.linkedin.com/jobs/view/leader-salesforce-digital-%E2%80%93-canada-at-slalom-4470021744) | Slalom | Greater Toronto Area, Canada |
+| 2026-11-21 | [Salesforce Enterprise Solution Architect](https://ca.linkedin.com/jobs/view/salesforce-enterprise-solution-architect-at-vysystems-4493300667) | VySystems | Canada |
 | 2026-11-21 | [Salesforce Administrator (Remote)](https://ca.linkedin.com/jobs/view/salesforce-administrator-remote-at-hired-4492888602) | Hired | Canada |
 | 2026-11-20 | [Technical Customer Support Team Lead](https://www.adzuna.ca/details/5972984950) | Dot Compliance | Canada |
 | 2026-11-20 | [Salesforce Business Analyst, Associate](https://www.adzuna.ca/details/5972737673) | PricewaterhouseCoopers | Canada |
@@ -36,8 +38,6 @@
 | 2026-11-20 | [Salesforce Tech Lead (Remote)](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-remote-at-cognizant-4492842720) | Cognizant | Toronto, Ontario, Canada |
 | 2026-11-20 | [Team Leader, Salesforce](https://ca.linkedin.com/jobs/view/team-leader-salesforce-at-medavie-4492843913) | Medavie | New Brunswick, Canada |
 | 2026-11-20 | [Salesforce Supervisor CPQ Solution Architect](https://ca.linkedin.com/jobs/view/salesforce-supervisor-cpq-solution-architect-at-rsm-canada-4492845289) | RSM Canada | Toronto, Ontario, Canada |
-| 2026-11-20 | [Salesforce Technical Consultant](https://ca.linkedin.com/jobs/view/salesforce-technical-consultant-at-akkodis-4492834605) | Akkodis | Calgary, Alberta, Canada |
-| 2026-11-20 | [Salesforce, nCino, Omnistudio Developer](https://ca.linkedin.com/jobs/view/salesforce-ncino-omnistudio-developer-at-galent-4491941158) | Galent | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 

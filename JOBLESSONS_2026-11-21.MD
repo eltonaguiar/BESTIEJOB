@@ -92,3 +92,27 @@
 - jobs.json / public/ (GitHub Pages): unchanged — no data changed, so no Pages rebuild triggered (pages.yml only deploys on pushes to README.md / public/).
 - Nothing to merge: this run produced zero new rows; no inbox submission created.
 
+## 21:00 EST pass — scheduled cron run (this run)
+
+**Scope:** Fresh Toronto / remote-Ontario ServiceNow and Salesforce (dev + admin) roles, Canada-focused; explicit target-employer sweep for Rogers, Bell, Canadian federal/municipal government, and ServiceNow Elite / Salesforce partner employers.
+
+**Run:** `node scripts/daily_job_scan.mjs` (no `--no-readme`): `fresh=404 merged=5596`; `servicenow=1193`, `salesforce=4267`. Workday CXS returned HTTP 429 across all Canadian boards (rate-limited at :00Z; CI carries Workday). Source counts: Adzuna 187, LinkedIn 177, SmartRecruiters(SN) 12, Greenhouse 14, Ashby 2, Lever 1, Remote 7.
+
+**Dedupe vs `HEAD:jobs.json`:** 31 new URLs; **all 31 are company+title twins** (same requisition re-advertised under a new aggregator id). **0 net-new distinct geo-matched SN/SF roles** — the CI's preceding scan (`fdd0850`, 01:02Z) already captured today's fresh batch; this run confirms the board is current and adds no net-new rows.
+
+**Build:** `python3 tools/build_site.py` → site 5,013 jobs (SN 872 / SF 930 / other 3,211), 746 duplicate mirrors collapsed, 30 applied hidden, newest 2026-11-22. `scripts/sync_readme_counts.py` header correct (4,889 live postings). README `<!-- DAILY-SCAN -->` block refreshed (scan 2026-11-22T02:02:02Z, 1,564 live postings from 9 sources); today-dated Salesforce role: Slalom "Leader, Salesforce Digital – Canada" (GTA, 2026-11-22).
+
+**Target-employer / partner check:**
+- Ateko (backed by Bell Canada) = Bell's real ServiceNow channel; active SN postings (Developer, Architect, Implementation Specialist, Solution Consultant; Montreal/Ottawa/Remote Canada; CSA/CAD/CIS preferred; FSM/CSM/FSO/SPM demand).
+- Rogers Phenom board = zero-row server shell (do not retry hourly). Bell `jobs.bell.ca` = empty shell, 0 reqs.
+- Canadian government: jobs.gc.ca / gojobs.gov.on.ca Radware-walled; Job Bank is the proxy; trust only postings whose *title* names the platform.
+- Elite partners hiring: Lane Four (Salesforce Consultant $100–130K, Administrator $50–75K, Toronto hybrid), Diabsolut (Salesforce Summit + Agentforce/FDE partner), Altus Group (Workday), Docebo (Ashby).
+
+**Result:** +0 new verified jobs this run. All fresh-window Toronto SN/SF candidates resolved to rows already on `origin/main`. Zero new verified jobs is a valid result; every source answered.
+
+**Disposition:**
+- README.md: DAILY-SCAN block refreshed; no new table rows (0 net-new).
+- jobs.json / public/ (GitHub Pages): rebuilt; committed with `[skip ci]`; `pages.yml` triggered manually for immediate deploy; live site verified via `curl jobs-data.json`.
+- Nothing to merge: no inbox submission created.
+
+
