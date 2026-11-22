@@ -118,3 +118,22 @@ ServiceNow careers (Ontario), JobsByCountry ServiceNow Toronto, jobs.ca, LinkedI
 ### Lessons this run
 1. Adzuna CA API returned HTTP 503 on repeated salesforce queries — space calls ≥3s, retry once; the API param is `content-type`, not `content_type`
 2. URL-only dedupe under-reports saturation — always twin-check employer + title + city + posted date before claiming a "new" job (caught again with the Cognizant Tech Lead mirror URL)
+
+## Hourly scan — Sunday 2026-11-22 10:00 EST (UTC-05) (this run)
+
+### Result this run
+- Fresh verified jobs merged: **0** — no new unique roles to add
+- fresh_ca_scan (Adzuna CA API `max_days_old=2, sort_by=date` across servicenow/salesforce/ITSM/CMDB/ITAM queries, `where=` national + Toronto, Ontario + Ontario; Job Bank 12 pages; Eluta 6 pages): 110 raw rows → 15 unique → 0 kept; all 15 already on the board by normalized URL (reports/fresh_ca_2026-11-22.json, inbox/fresh-ca--2026-11-22--v3.md; stats: requests 68, jobbank_pages 12, eluta_pages 6, unverified_dropped 0, already_on_board 15)
+- The 09:00 EST GitHub Actions hourly scan (commit 2fe967b) had already merged today's aggregator batch into README.md: 34 rows dated 2026-11-22 (12 ServiceNow, 12 Salesforce, 10 Other); top scan block "Scan: 2026-11-22T14:02:19.526Z · 2294 live postings from 7 public sources". GitHub Pages redeployed 09:36 EST and is current with the board.
+- Board unchanged: no jobs.json, README.md, or public/ commit — no net-new rows to add this hour
+
+### Partner / sponsor / target-employer sweep (re-checked this window)
+- Rogers (jobs.rogers.com): ServiceNow/Salesforce appear only as adjacent tools in delivery/sales/marketing-ops roles (Technical Specialist Markham, Delivery Specialist Toronto, Digital Campaigns Manager, Client Relationship Manager) — no platform dev/admin posting; not added.
+- Bell (jobs.bce.ca): ServiceNow System Administrator and Senior Technical Advisor postings (Oct 6, apply-by Oct 20) expired; 2027 Grad/Intern programs mention SF/SN familiarity but are not platform roles.
+- Canadian government (jobs.gc.ca): no fresh ServiceNow/Salesforce platform posting surfaced.
+- Elite/solution partners (KPMG — ServiceNow Global Elite Partner, Slalom, Accenture, Deloitte, CGI, Cognizant, NeuraFlash): KPMG Sr Consultant ServiceNow Toronto (apply-by Nov 9) expired; no fresh Toronto platform roles found.
+
+### Lessons this run
+1. When 0 net-new jobs are found, the correct output is a lessons-only `[skip ci]` commit — do not commit mirror URLs that would double-list roles already on the board.
+2. fresh_ca_scan with the public Adzuna demo key is slow (~7.5 min for 68 Adzuna + Job Bank + Eluta calls without LinkedIn) — time-box it; the CI hourly scan at :00Z already covers Adzuna/LinkedIn/Job Bank/Eluta, so the manual sweep adds most value on the partner/employer targets the aggregators miss.
+3. URL dedupe held this hour: all 15 unique scan rows were already on the board under the same normalized URL — because the 09:00 EST scan already published today's batch, URL-only dedupe was sufficient.
