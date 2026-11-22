@@ -230,3 +230,26 @@ jobs.ca (Deloitte, Envision, Procom, CIBC), LinkedIn guest search, careers.deloi
 
 ### Sources consulted
 Adzuna CA API (servicenow/salesforce/ITOM × Toronto/Ontario), LinkedIn guest search + scan artifacts, Workday CXS (BMO/TD/CIBC/Manulife/Interac/CAAT Pension/GDIT/Accenture/Salesforce.com), jobs.rogers.com, jobs.scotiabank.com, jobs.bell.ca, ateko.com + fxinnovation.com careers, Lane Four careers, Job Bank (OPS employer feed), gojobs.gov.on.ca, jobs.gc.ca, Salesforce/ServiceNow vendor careers pages.
+
+## Hourly scan — Sunday 2026-11-22 17:00 EST (UTC-05) (this run)
+
+### Result this run
+- Fresh verified jobs merged: **0** — no net-new Toronto ServiceNow/Salesforce roles this hour
+- Board base: origin/main; jobs.json at 2026-11-22T18:06:40.456Z scan (5,597 rows; 1,193 ServiceNow / 4,280 Salesforce primary-tagged); README DAILY-SCAN block `Scan: 2026-11-22T18:06:40.456Z · 5626 live postings from 7 public sources`
+- No jobs.json, README.md, or public/ commit — no net-new rows to add this hour
+
+### Sources re-scanned this hour
+- **LinkedIn guest browser search** (ServiceNow & Salesforce, Toronto/GTA, f_TPR=r86400, 60 cards each):
+  - ServiceNow: 2 fresh hits — Deloitte "Conseiller principal ITOM, ServiceNow" (Toronto, 3h ago, LinkedIn 4459429838) and Deloitte "Conseiller principal Intelligence artificielle - Now Assist" (Toronto, 4h ago, LinkedIn 4459418991). **Both already in jobs.json** (deduped by trailing LinkedIn job id); detail-page body confirmed "ServiceNow"/"Now Assist", Toronto, Hybrid — genuine platform roles but not new.
+  - Salesforce: platform-relevant fresh hits (Deloitte Director SF 4460396523, Slalom Leader SF 4470021744) — **both already on README**; remaining cards are sales/marketing or ambiguous "CRM" (excluded — CRM ≠ Salesforce, may be Siebel).
+- **Workday CXS** (curl --compressed, Content-Type/Accept/Origin only, no Referer): BMO returned 5 ServiceNow roles all 7–17 days old (not fresh); TD/CIBC/Manulife/Interac/Accenture/Salesforce.com returned empty or HTTP 429 — carried nothing fresh.
+- **fresh_ca report** (Adzuna CA API + Job Bank + Eluta, window Nov 21–22): count=0, already_on_board=15 — confirms aggregators surfaced nothing beyond today's already-published batch.
+- **Rogers / Bell / public sector**: jobs.rogers.com zero server-side rows; jobs.bell.ca zero platform reqs (Bell-backed SN under Ateko/FX Innovation, no fresh vacancy); gojobs.gov.on.ca / jobs.gc.ca Radware-walled.
+
+### Live page sync
+- `curl https://eltonaguiar.github.io/BESTIEJOB/jobs-data.json` serves 4,930 cards vs repo jobs.json 5,597 rows — the expected `capSecondary(perTag=40)` shrink; page is in sync with the repo's current jobs.json. No pages.yml redeploy required (no data change).
+
+### Lessons this run
+1. LinkedIn guest browser search returns fresh cards (83 SN / 55 SF past 24h in Toronto) but detail pages must be checked in-browser (`web_extract` times out; `document.body.innerText` works) — both fresh SN hits were already tracked, confirming board saturation.
+2. When 0 net-new jobs are found across LinkedIn guest + Workday CXS + fresh_ca, the correct output is a lessons-only `[skip ci]` commit — never commit mirror URLs that would double-list roles already under canonical URLs.
+3. Workday CXS 429s persist well past the :00Z CI minute; manual probes succeed only after ~4 minutes at ≥8s spacing. Treat Workday as CI-owned for hourly freshness.
