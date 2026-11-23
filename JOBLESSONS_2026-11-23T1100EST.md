@@ -1,7 +1,7 @@
 # JOBLESSONS_2026-11-23T1100EST — Hourly BESTIEJOB scan (11:00 EST / 16:00 UTC)
 
 ## What ran
-Hourly scan for fresh Toronto / Canada ServiceNow and Salesforce postings, deduped against jobs.json (5,610 after sync) + README.md + APPLIED.md. This run's own web/ATS scan found **0 net-new platform roles**. The 15:44Z CI fresh-CA sweep had already added four rows, two of which were appended inline on the `### ... jobs (N)` header lines and therefore never parsed into the feed or page. I split those two rows onto their own lines (AceStack Technical Lead – Senior ServiceNow, Vancouver; GLOBAL CONSULTING COMPANY Techno-Functional BA – Salesforce & AI, Toronto), synced, rebuilt the page, and pushed.
+Hourly scan for fresh Toronto / Canada ServiceNow and Salesforce postings, deduped against jobs.json (5,610 after sync) + README.md + APPLIED.md. This run's own web/ATS scan found **0 net-new platform roles**. The 15:44Z CI fresh-CA sweep had already added four rows, two of which were appended inline on the `### ... jobs (N)` header lines and therefore never parsed into the feed or page. I split those two rows onto their own lines (AceStack Technical Lead – Senior ServiceNow, Vancouver; GLOBAL CONSULTING COMPANY Techno-Functional BA – Salesforce & AI, Toronto), synced, rebuilt the page, and pushed. I also found and fixed the recurring failure of the scheduled Hourly Job Scan: `scripts/normalize_board.py` calls `sync_readme_counts.py`, which exited 1 because the README no longer carries a standalone `**N live postings**` header. Making that a no-op restored the CI; a workflow_dispatch canary passed at 16:21Z and pushed 5,613 listings.
 
 ## Scan sources
 | Source | Query / target | Result |
@@ -24,8 +24,8 @@ Hourly scan for fresh Toronto / Canada ServiceNow and Salesforce postings, dedup
 - **Net new from this run's own scan: 0.** After fixing the two inline CI rows, the board gained **2 parseable rows** (AceStack Vancouver Technical Lead; GLOBAL CONSULTING Toronto Salesforce BA).
 
 ## Board state after run
-- jobs.json: 5,610 (was 5,608 at pull).
-- public/jobs-data.json: 4,948 (live page was 4,945; deploy pending).
+- jobs.json: 5,613 after the restored CI scan (my sync left it at 5,610; CI added 3 and dropped the 2 vendor-sales rows).
+- public/jobs-data.json / live page: **4,951** (verified at https://eltonaguiar.github.io/BESTIEJOB/jobs-data.json, generatedAt 2026-11-23T16:24:00Z).
 - ServiceNow table header 566 (565 parseable rows); Salesforce header 899 (896 parseable rows). The 1/3 header drift pre-dates this run and is not gated.
 - `python scripts/board_invariants.py`: **PASS** (errors=2 warnings=108; no kind grew against baseline).
 
@@ -37,6 +37,7 @@ Hourly scan for fresh Toronto / Canada ServiceNow and Salesforce postings, dedup
 5. **ServiceNow's own Toronto roles are sales/security/SRE/product**, excluded by the board. Rogers has 0 ServiceNow and only sales/ops "Salesforce" hits. Bell's search page is JS-gated; its LinkedIn SN role is past its application deadline.
 6. **Government leads:** OPS RQ11686 (ServiceNow Senior Developer, $95–103/hr) and RQ00757 (ServiceNow SPM) are on board; City of Toronto Salesforce/ServiceNow expired; EDC ServiceNow CSM expired Sep 16; Wirehead's government Salesforce contract is 83 days old. Courts Administration Service (Ottawa) is internal-GoC only.
 7. **Respect the 31-day freshness window.** Wirehead (83 days), Randstad Senior Salesforce Development Specialist (Aug 13), Infoya (Sep 2), Salvation Army (Aug) are live but outside the window; do not add them.
+8. **The scheduled Hourly Job Scan was failing on a missing header, not on Adzuna.** `normalize_board.py` runs `sync_readme_counts.py` with `check=True`; that script exited 1 when `COUNT_RE` (`**N live postings**`) found no match. The README's auto-scan block now uses `**Scan: ... · N live postings from ...**`, which does not match. Treating a missing claim as a no-op (return 0) restored the CI; a workflow_dispatch canary passed and pushed 5,613 listings. If the hourly scan fails again, check `sync_readme_counts.py` before blaming the data sources.
 
 ## Leads for next run
 - **S M Software Solutions RQ10997 Software Developer – CRM – Intermediate** (LinkedIn 4493659215, ~2h old) — login-walled; verify whether it is Salesforce/ServiceNow before adding.
