@@ -59,7 +59,13 @@ _Generated automatically by the daily job scan; run `npm run scan:daily` to refr
 
 ## Verified fresh additions — hourly scan 2026-11-22
 
-One employer-direct requisition verified live this hour; not in the Adzuna / Job Bank / Eluta daily scan feed and not already on the board (deduped by URL against jobs.json and README rows). Verified on the employer careers page before adding.
+Two employer-direct requisitions verified live this hour; not in the Adzuna / Job Bank / Eluta daily scan feed and not already on the board (deduped by URL against jobs.json and README rows). Both verified live on the employer page before adding.
+
+### ServiceNow jobs (1)
+|
+|| Posted | Role | Company | Location | Note ||
+|---|---|---|---|---|
+|| 2026-11-19 | [ServiceNow Administrator/Developer](https://leadingtalent.ca/jobs/servicenow-administratordeveloper-in-toronto-ontario-ca-2/) | Leading Talent | Toronto, ON (hybrid) | Employer-direct via Leading Talent (financial-services client); CSA + CAD mandatory; hybrid/onsite downtown Toronto; posted 2026-11-19, expires 2026-12-19 |
 
 ### Salesforce jobs (1)
 
