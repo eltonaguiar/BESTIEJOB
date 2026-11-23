@@ -57,6 +57,16 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — hourly scan 2026-11-22
+
+One employer-direct requisition verified live this hour; not in the Adzuna / Job Bank / Eluta daily scan feed and not already on the board (deduped by URL against jobs.json and README rows). Verified on the employer careers page before adding.
+
+### Salesforce jobs (1)
+
+| Posted | Role | Company | Location | Note |
+|---|---|---|---|---|
+| 2026-11-16 | [Salesforce Administrator/Developer](https://www.dentalcorp.com/site/careers-support-centre/salesforce-administratordeveloper?id=455d9dafd0271001f8408a82227a0000&back=/site/careers-support-centre) | Dentalcorp | Toronto, ON | Employer careers page (dentalcorp.com); datePosted 2026-11-16 per job JSON-LD; Toronto Support Centre, 181 Bay St; on-site Mon–Thu, WFH Fri; candidates must be legally eligible to work in Canada; $87,000–$103,000 CAD + up to 10% bonus; existing vacancy |
+
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 **Scan: 2026-11-21T20:01:22Z** · 6 fresh verified postings from 3 sources · full list in [FRESH_JOBS.md](FRESH_JOBS.md)

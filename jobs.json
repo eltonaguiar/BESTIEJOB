@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-23T00:02:05.205Z",
     "generatedAt": "2026-11-23T00:02:05.205Z",
-    "total": 5599,
+    "total": 5600,
     "newThisScan": 399,
     "retainedFromPrevious": 5233,
     "sources": {
@@ -11968,6 +11968,27 @@
       "scrapedAt": "2026-11-22T09:14:01.436Z",
       "excerpt": "via adzuna-autonomous--2026-11-17--v1.md",
       "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:dentalcorp.com/site/careers-support-centre/salesforce-administratordeveloper",
+      "source": "readme",
+      "company": "Dentalcorp",
+      "title": "Salesforce Administrator/Developer",
+      "location": "Toronto, ON",
+      "url": "https://www.dentalcorp.com/site/careers-support-centre/salesforce-administratordeveloper?id=455d9dafd0271001f8408a82227a0000&back=%2Fsite%2Fcareers-support-centre",
+      "employmentType": "unknown",
+      "salary": {
+        "min": 87000,
+        "max": 103000,
+        "currency": "CAD"
+      },
+      "postedDate": "2026-11-16T12:00:00.000Z",
+      "scrapedAt": "2026-11-23T02:06:33.186Z",
+      "excerpt": "Employer careers page (dentalcorp.com); datePosted 2026-11-16 per job JSON-LD; Toronto Support Centre, 181 Bay St; on-site Mon–Thu, WFH Fri; candidates must be legally eligible to work in Canada; $87,000–$103,000 CAD + up to 10% bonus; existing vacancy",
+      "workArrangement": "onsite",
       "tags": [
         "salesforce"
       ]

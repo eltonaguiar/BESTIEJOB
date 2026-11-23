@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-23T01:02:19+00:00",
+ "generatedAt": "2026-11-23T02:06:35+00:00",
  "timezone": "America/Toronto",
- "count": 4930,
+ "count": 4931,
  "appliedHidden": 24,
  "sources": [
   "103.careerplug.com",
@@ -101,6 +101,7 @@
   "crmforce.careers-page.com",
   "crossfuze.pinpointhq.com",
   "d2l.com",
+  "dentalcorp.com",
   "devitjobs.com",
   "dice.com",
   "digitalcareers.infosys.com",
@@ -18076,6 +18077,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20%E2%80%93%20Financial%20Services%20Cloud%20%28FSC%29%20Astra-North%20Infoteck%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-16",
+   "title": "Salesforce Administrator/Developer",
+   "company": "Dentalcorp",
+   "location": "Toronto, ON",
+   "url": "https://www.dentalcorp.com/site/careers-support-centre/salesforce-administratordeveloper?id=455d9dafd0271001f8408a82227a0000&back=%2Fsite%2Fcareers-support-centre",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "dentalcorp.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce administrator/developer dentalcorp toronto, on dentalcorp.com salesforce readme salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Administrator/Developer%20Dentalcorp+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Administrator/Developer%20Dentalcorp&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Administrator/Developer%20Dentalcorp&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Administrator/Developer%20Dentalcorp&loc=Toronto"
     }
    ],
    "toronto": true
