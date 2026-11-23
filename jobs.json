@@ -35,8 +35,6 @@
     }
   },
   "jobs": [
-        {"id":"adzuna:adzuna.ca/details/5972986374","source":"adzuna","company":"Flexstaf IT","title":"RQ00793 - Project Manager/Leader - Senior","location":"Toronto, Ontario","url":"https://www.adzuna.ca/details/5972986374?utm_medium=api&utm_source=54ce986e","employmentType":"contract","salary":null,"postedDate":"2026-11-20T09:20:34.000Z","scrapedAt":"2026-11-23T08:10:45.738Z","excerpt":"Job Description Job Description Must Haves: Experience assessing current-state processes and developing future-state ITSM operating models, governance frameworks, process improvements, and service management best practices. Experience designing and implementing integrations using ServiceNow APIs and integration technol","workArrangement":"unknown","tags":["servicenow"],"alternates":[]},
-        {"id":"adzuna:adzuna.ca/details/5972982248","source":"adzuna","company":"Innosystech Inc","title":"Project Manager/Leader - Senior","location":"Toronto, Ontario","url":"https://www.adzuna.ca/details/5972982248?utm_medium=api&utm_source=54ce986e","employmentType":"contract","salary":null,"postedDate":"2026-11-20T09:14:14.000Z","scrapedAt":"2026-11-23T08:10:45.738Z","excerpt":"Job Description Job Description Job Title: Project Manager/Leader - Senior Location: Toronto Work Model: Hybrid Duration: 6 months Must Haves 5 years of project management experience in IT, preferably in the public sector. Proven experience with ServiceNow implementation or enhancement projects. Knowledge of public sec","workArrangement":"hybrid","tags":["servicenow"],"alternates":[]},
     {
       "id": "adzuna:adzuna.ca/details/5975652935",
       "source": "adzuna",
@@ -2774,6 +2772,24 @@
       "verifyState": "live"
     },
     {
+      "id": "adzuna:adzuna.ca/details/5972986374",
+      "source": "adzuna",
+      "company": "Flexstaf IT",
+      "title": "RQ00793 - Project Manager/Leader - Senior",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5972986374?utm_medium=api&utm_source=54ce986e",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-20T09:20:34.000Z",
+      "scrapedAt": "2026-11-23T08:10:45.738Z",
+      "excerpt": "Job Description Job Description Must Haves: Experience assessing current-state processes and developing future-state ITSM operating models, governance frameworks, process improvements, and service management best practices. Experience designing and implementing integrations using ServiceNow APIs and integration technol",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ],
+      "alternates": []
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5972986326",
       "source": "adzuna",
       "company": "Innosystech Inc",
@@ -2905,6 +2921,24 @@
           "label": "adzuna"
         }
       ]
+    },
+    {
+      "id": "adzuna:adzuna.ca/details/5972982248",
+      "source": "adzuna",
+      "company": "Innosystech Inc",
+      "title": "Project Manager/Leader - Senior",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5972982248?utm_medium=api&utm_source=54ce986e",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-20T09:14:14.000Z",
+      "scrapedAt": "2026-11-23T08:10:45.738Z",
+      "excerpt": "Job Description Job Description Job Title: Project Manager/Leader - Senior Location: Toronto Work Model: Hybrid Duration: 6 months Must Haves 5 years of project management experience in IT, preferably in the public sector. Proven experience with ServiceNow implementation or enhancement projects. Knowledge of public sec",
+      "workArrangement": "hybrid",
+      "tags": [
+        "servicenow"
+      ],
+      "alternates": []
     },
     {
       "id": "adzuna:5972981205",
