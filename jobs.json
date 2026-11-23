@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-23T03:18:01.168Z",
     "generatedAt": "2026-11-23T03:18:01.168Z",
-    "total": 5601,
+    "total": 5602,
     "newThisScan": 399,
     "retainedFromPrevious": 5233,
     "sources": {
@@ -35,23 +35,6 @@
     }
   },
   "jobs": [
-    {
-      "id": "leadingtalent:leadingtalent.ca/jobs/servicenow-administratordeveloper-in-toronto-ontario-ca-2/",
-      "source": "leadingtalent",
-      "company": "Leading Talent",
-      "title": "ServiceNow Administrator/Developer",
-      "location": "Toronto, Ontario (hybrid)",
-      "url": "https://leadingtalent.ca/jobs/servicenow-administratordeveloper-in-toronto-ontario-ca-2/",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-11-19",
-      "scrapedAt": "2026-11-23T03:18:01.168Z",
-      "excerpt": "Employer-direct posting via Leading Talent. ServiceNow Administrator/Developer, hybrid/onsite downtown Toronto. CSA + CAD mandatory. End-to-end ServiceNow development: Service Catalog, Incident/Change/Problem/Knowledge Management, HR Case, Service Portal; instance administration, server installation/upgrades/cloning, performance optimization. Expires 2026-12-19.",
-      "workArrangement": "hybrid",
-      "tags": [
-        "servicenow"
-      ]
-    },
     {
       "id": "adzuna:adzuna.ca/details/5975311384",
       "source": "adzuna",
@@ -6102,6 +6085,23 @@
           "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4491853255",
           "label": "linkedin"
         }
+      ]
+    },
+    {
+      "id": "leadingtalent:leadingtalent.ca/jobs/servicenow-administratordeveloper-in-toronto-ontario-ca-2/",
+      "source": "leadingtalent",
+      "company": "Leading Talent",
+      "title": "ServiceNow Administrator/Developer",
+      "location": "Toronto, Ontario (hybrid)",
+      "url": "https://leadingtalent.ca/jobs/servicenow-administratordeveloper-in-toronto-ontario-ca-2/",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-19",
+      "scrapedAt": "2026-11-23T03:18:01.168Z",
+      "excerpt": "Employer-direct posting via Leading Talent. ServiceNow Administrator/Developer, hybrid/onsite downtown Toronto. CSA + CAD mandatory. End-to-end ServiceNow development: Service Catalog, Incident/Change/Problem/Knowledge Management, HR Case, Service Portal; instance administration, server installation/upgrades/cloning, performance optimization. Expires 2026-12-19.",
+      "workArrangement": "hybrid",
+      "tags": [
+        "servicenow"
       ]
     },
     {
@@ -96469,6 +96469,23 @@
       "postedDate": "2026-10-27T12:00:00.000Z",
       "scrapedAt": "2026-11-20T20:13:51.942Z",
       "excerpt": "via freebuff--2026-11-05--v20.md",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:job-boards.greenhouse.io/neuraflash/jobs/6220750004",
+      "source": "readme",
+      "company": "NeuraFlash",
+      "title": "Salesforce Project Manager",
+      "location": "Remote - Canada (AB, BC, ON)",
+      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220750004",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-23T03:48:46.794Z",
+      "excerpt": "via freebuff--2026-11-05--v98.md",
       "workArrangement": "remote",
       "tags": [
         "salesforce"
