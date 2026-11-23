@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-23T19:06:19.892Z** · 4502 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-23T22:02:57.406Z** · 4502 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -12,6 +12,7 @@
 | 2026-11-23 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-alldus-4492635219) | Alldus | Canada |
 | 2026-11-23 | [ServiceNow Technical Architect](https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-alldus-4492622723) | Alldus | Canada |
 | 2026-11-23 | [Service Now Consultant _SAM](https://ca.linkedin.com/jobs/view/service-now-consultant-sam-at-futran-solutions-4493665044) | Futran Solutions | Canada |
+| 2026-11-23 | [Servicenow Expert](https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4493908405) | KTek Resourcing | Canada |
 | 2026-11-22 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ232563-1) | GDIT | Any Location / Remote |
 | 2026-11-22 | [Manager, ServiceNow Platform](https://www.adzuna.ca/details/5974911787) | iA Financial Group | Canada |
 | 2026-11-22 | [Cyber Advisory Solution Consultant](https://www.adzuna.ca/details/5974890953) | ServiceNow, Inc. | Toronto, Ontario |
@@ -20,24 +21,23 @@
 | 2026-11-22 | [Solution Sales Executive - Moveworks](https://www.adzuna.ca/details/5974890957) | ServiceNow, Inc. | Toronto, Ontario |
 | 2026-11-22 | [Cyber Enterprise Account Exec](https://www.adzuna.ca/details/5974890955) | ServiceNow, Inc. | Toronto, Ontario |
 | 2026-11-22 | [Conseiller principal ou conseillère principale, ITOM, ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-principal-ou-conseill%C3%A8re-principale-itom-servicenow-at-deloitte-4459429838) | Deloitte | Toronto, Ontario, Canada |
-| 2026-11-22 | [Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation](https://ca.linkedin.com/jobs/view/conseiller-%C3%A8re-principal-e-servicenow-technologie-et-transformation-at-deloitte-4459417849) | Deloitte | Brossard, Quebec, Canada |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
-| 2026-11-23 | [Senior Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/senior-salesforce-tech-lead-at-cognizant-4494018414) | Cognizant | Toronto, Ontario, Canada |
+| 2026-11-23 | [Senior Back-End Email Developer (Salesforce Marketing Cloud)](https://www.adzuna.ca/details/5976294092) | Intact Financial | Montréal, Québec |
 | 2026-11-23 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-doctors-of-bc-4494038737) | Doctors of BC | Greater Vancouver, British Columbia, Canada |
-| 2026-11-23 | [Salesforce Business Analyst manager](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-manager-at-cognizant-4494027154) | Cognizant | Toronto, Ontario, Canada |
+| 2026-11-23 | [Senior Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/senior-salesforce-tech-lead-at-cognizant-4494018414) | Cognizant | Toronto, Ontario, Canada |
 | 2026-11-23 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-highspring-4493661253) | Highspring | Toronto, Ontario, Canada |
 | 2026-11-23 | [Salesforce Marketing Cloud Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-senior-developer-at-diverse-lynx-4494019834) | Diverse Lynx | Toronto, Ontario, Canada |
 | 2026-11-23 | [Salesforce Marketing Cloud Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-senior-developer-at-avanciers-inc-4492645316) | Avanciers Inc. | Toronto, Ontario, Canada |
 | 2026-11-23 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-cloudoplus-4493575307) | Cloudoplus | Ontario, Canada |
-| 2026-11-23 | [Sr. Salesforce Business Analyst (FSC)](https://ca.linkedin.com/jobs/view/sr-salesforce-business-analyst-fsc-at-cgi-4492043976) | CGI | Toronto, Ontario, Canada |
 | 2026-11-23 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-brainhunter-systems-ltd-4492618746) | Brainhunter Systems Ltd | Toronto, Ontario, Canada |
+| 2026-11-23 | [Salesforce Business Analyst manager](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-manager-at-cognizant-4494027154) | Cognizant | Toronto, Ontario, Canada |
+| 2026-11-23 | [Sr. Salesforce Business Analyst (FSC)](https://ca.linkedin.com/jobs/view/sr-salesforce-business-analyst-fsc-at-cgi-4492043976) | CGI | Toronto, Ontario, Canada |
+| 2026-11-23 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-campus4tech-4493925082) | Campus4Tech | Canada |
 | 2026-11-23 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4462540700) | Alithya | Montreal, Quebec, Canada |
-| 2026-11-23 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300) | Alithya | Montreal, Quebec, Canada |
-| 2026-11-23 | [Salesforce Marketing Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-pacer-group-4494026997) | Pacer Group | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
