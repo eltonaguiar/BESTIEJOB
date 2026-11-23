@@ -68,6 +68,16 @@ Four fresh postings from the Adzuna CA API (`max_days_old=3`, sorted by date) ac
 | 2026-11-20 | [RQ00793 - Project Manager/Leader - Senior](https://www.adzuna.ca/details/5972986374?utm_medium=api&utm_source=54ce986e) | Flexstaf IT | Toronto, Ontario | adzuna |
 | 2026-11-20 | [Project Manager/Leader - Senior](https://www.adzuna.ca/details/5972982248?utm_medium=api&utm_source=54ce986e) | Innosystech Inc | Toronto, Ontario | adzuna |
 
+## Verified fresh additions — hourly scan 2026-11-23T15:00EST
+
+One fresh posting from today's Adzuna CA scans (`max_days_old=3`, sorted by date), deduped by URL against jobs.json, README and APPLIED.md: Flexstaf IT — Request ID: 114275 - Salesforce Revenue Cloud Architect, Toronto ON hybrid contract, posted 2026-11-22 (adzuna id 5975115720, API `created` 2026-11-22T08:47:19Z). Detail page sits behind CloudFront 403 from this host; liveness established via the API `created` date plus title/platform match — per board policy a 403 is a bot-wall on a live posting, not dead.
+
+Also checked and yielded nothing net-new: LinkedIn guest ServiceNow + Salesforce Toronto past 24h (VySystems Enterprise Solution Architect already on board; Tenstorrent IT GRC Analyst is not platform-scoped); employer-direct Rogers, Bell, Canada Life and Ateko (no fresh live platform roles — Bell's open ServiceNow roles are Oct 28–30 postings already on the board); Government of Canada / Ontario public-sector portals (nothing fresh); LifeLabs IT Service Management Practice Lead (adzuna 5974915847, posted 2026-11-22, Toronto / Burnaby hybrid) surfaced in the ITSM keyword scan but the API description is truncated with no ServiceNow or platform-build evidence — held as a lead, not added. Workday CXS probes of bmo/td/cibc/manulife returned HTTP 422/429 again.
+
+|| Posted | Role | Company | Location | Source |
+||---|---|---|---|---|
+| 2026-11-22 | [Request ID: 114275 - Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5975115720) | Flexstaf IT | Toronto, Ontario | adzuna |
+
 ## Verified fresh additions — hourly scan 2026-11-22
 
 Two employer-direct requisitions verified live this hour; not in the Adzuna / Job Bank / Eluta daily scan feed and not already on the board (deduped by URL against jobs.json and README rows). Both verified live on the employer page before adding.
