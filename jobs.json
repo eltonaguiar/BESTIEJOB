@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-23T13:12:21.836Z",
+    "scrapedAt": "2026-11-23T15:00:00.000Z",
     "generatedAt": "2026-11-23T13:12:21.836Z",
-    "total": 5639,
+    "total": 5642,
     "newThisScan": 398,
     "retainedFromPrevious": 5241,
     "sources": {
@@ -101322,6 +101322,40 @@
       "postedDate": "2026-11-18T00:00:00.000Z",
       "scrapedAt": "2026-11-23T14:00:00.000Z",
       "excerpt": "Salesforce Administrator / SFMC / Natural Health / Hybrid in Toronto - $60-75k + Benefits. Configure, maintain, and optimize Salesforce clouds, security settings, automation, reports, and custom objects. Salesforce Administrator certification + 2 years experience preferred. Posted 2026-11-18 via jobs.ca search index (direct page Cloudflare-blocked to this host; treated as live per board policy).",
+      "workArrangement": "hybrid",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:www.jobs.ca/alimentiv/jobs/servicenow-platform-specialist-remote-canada-b90d2889bf0e",
+      "source": "jobs.ca",
+      "company": "Alimentiv",
+      "title": "ServiceNow Platform Specialist",
+      "location": "Toronto, ON",
+      "url": "https://www.jobs.ca/alimentiv/jobs/servicenow-platform-specialist-remote-canada-b90d2889bf0e",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-18T12:00:00.000Z",
+      "scrapedAt": "2026-11-23T15:00:00.000Z",
+      "excerpt": "ServiceNow Platform Specialist - Toronto, ON - Remote. Administer and maintain the ServiceNow platform (ITSM, workflows, reporting, integrations); CSA required. Posted 2026-11-18 via jobs.ca; employer/mirror page verified live 2026-11-23.",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:careers.paralucent.com/o/salesforce-architect-senior-manager-advisory",
+      "source": "readme",
+      "company": "Paralucent",
+      "title": "Salesforce Architect, Senior Manager / Advisory",
+      "location": "Toronto / GTA, Ontario, Canada",
+      "url": "https://careers.paralucent.com/o/salesforce-architect-senior-manager-advisory",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-19T12:00:00.000Z",
+      "scrapedAt": "2026-11-23T15:00:00.000Z",
+      "excerpt": "Salesforce Architect, Senior Manager / Advisory - Toronto/GTA, Hybrid, Contract (3-4 weeks). Salesforce Data 360 + Agentforce architecture advisory. Employer careers page verified live 2026-11-23.",
       "workArrangement": "hybrid",
       "tags": [
         "salesforce"

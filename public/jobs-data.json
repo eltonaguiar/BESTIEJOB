@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-23T14:11:49+00:00",
+ "generatedAt": "2026-11-23T15:00:00+00:00",
  "timezone": "America/Toronto",
- "count": 4944,
+ "count": 4946,
  "appliedHidden": 28,
  "sources": [
   "103.careerplug.com",
@@ -205505,6 +205505,88 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-19",
+   "title": "Salesforce Architect, Senior Manager / Advisory",
+   "company": "Paralucent",
+   "location": "Toronto / GTA, Ontario, Canada",
+   "url": "https://careers.paralucent.com/o/salesforce-architect-senior-manager-advisory",
+   "note": "Employer careers page",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Paralucent careers",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce architect senior manager advisory paralucent toronto gta careers",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Paralucent+Salesforce+Architect+Senior+Manager+Advisory+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Paralucent+Salesforce+Architect+Senior+Manager+Advisory&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Paralucent+Salesforce+Architect+Senior+Manager+Advisory&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Paralucent+Salesforce+Architect+Senior+Manager+Advisory&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "ServiceNow Platform Specialist",
+   "company": "Alimentiv",
+   "location": "Toronto, ON",
+   "url": "https://www.jobs.ca/alimentiv/jobs/servicenow-platform-specialist-remote-canada-b90d2889bf0e",
+   "note": "jobs.ca",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 72,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow platform specialist alimentiv toronto on jobs.ca servenow role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Alimentiv+ServiceNow+Platform+Specialist+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Alimentiv+ServiceNow+Platform+Specialist&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Alimentiv+ServiceNow+Platform+Specialist&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Alimentiv+ServiceNow+Platform+Specialist&loc=Toronto"
+    }
+   ],
+   "toronto": true
   }
  ]
 }
