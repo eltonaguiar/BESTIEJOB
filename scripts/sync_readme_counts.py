@@ -44,8 +44,14 @@ def main(argv: list[str]) -> int:
     text = README.read_text(encoding="utf-8")
     new_text = COUNT_RE.sub(f"**{actual} live postings**", text, count=1)
     if new_text == text:
+        # The README's auto-scan block no longer carries a standalone
+        # "**N live postings**" claim (it now reads "**Scan: ... · N live
+        # postings from ...**"), so there is nothing for this script to
+        # rewrite. Return 0 so normalize_board.py and hourly-scan.yml do not
+        # fail on a header that is absent by design; board_invariants treats a
+        # missing claim as no claim.
         print("header count line not found — nothing rewritten", file=sys.stderr)
-        return 1
+        return 0
     README.write_text(new_text, encoding="utf-8")
     print(f"header count {claimed} -> {actual} live postings")
     return 0
