@@ -15,9 +15,9 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-23T04:02:10.837Z",
-    "generatedAt": "2026-11-23T04:02:10.837Z",
-    "total": 5634,
+    "scrapedAt": "2026-11-23T05:09:02.000Z",
+    "generatedAt": "2026-11-23T05:09:02.000Z",
+    "total": 5636,
     "newThisScan": 381,
     "retainedFromPrevious": 5253,
     "sources": {
@@ -30,11 +30,42 @@
       "adzuna": 181
     },
     "primaryCounts": {
-      "servicenow": 1193,
-      "salesforce": 4284
+      "servicenow": 1194,
+      "salesforce": 4285
     }
   },
   "jobs": [
+    {
+      "id": "adzuna:adzuna.ca/details/5975652935",
+      "source": "adzuna",
+      "company": "Deloitte",
+      "title": "Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5975652935",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-22T20:20:08.000Z",
+      "scrapedAt": "2026-11-23T05:09:02.000Z",
+      "excerpt": "Job Type: Permanent Work Model: Remote Reference code: 135632 Primary Location: Toronto, ON All Available Locations: Ottawa, ON; Halifax, NS; Saint John, NB; St. John's, NL; Toronto, ON; Vancouver, BC Our Purpose At Deloitte, our Purpose is to make an impact that matters.",
+      "workArrangement": "unknown",
+      "tags": ["servicenow"]
+    },
+    {
+      "id": "adzuna:adzuna.ca/details/5975287815",
+      "source": "adzuna",
+      "company": "Novartis AG",
+      "title": "SFMC Manager",
+      "location": "Toronto, Ontario",
+      "url": "https://www.adzuna.ca/details/5975287815",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-22T12:25:18.000Z",
+      "scrapedAt": "2026-11-23T05:09:02.000Z",
+      "excerpt": "Band Level 4 Job Description Summary LI-Hybrid Location: Toronto, Ontario This role is based in Toronto, Canada. Novartis is unable to offer relocation support for this role: please only apply if this location is accessible for you. The SFMC Manager owns the design, build, automation and continuous",
+      "workArrangement": "unknown",
+      "tags": ["salesforce"]
+    },
+
     {
       "id": "adzuna:adzuna.ca/details/5975311384",
       "source": "adzuna",

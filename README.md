@@ -57,6 +57,15 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — hourly scan 2026-11-23
+
+Two fresh postings from the Adzuna CA API (`max_days_old=3`, sorted by date); deduped by URL against jobs.json, README and APPLIED.md. Adzuna detail pages sit behind CloudFront 403 from this host, so liveness is established via the live API `created` date (both posted 2026-11-22) plus title/platform match — per board policy a 403 is treated as a bot-wall on a live posting, not dead. LinkedIn guest search (ServiceNow + Salesforce, Toronto, past 24h) surfaced nothing new (every card already on the board); Workday CXS probes of bmo/td/cibc/manulife returned HTTP 422 (site names need re-discovery via careers pages); Ateko/Bell and Canada Life leads checked were either 404-expired or not platform roles.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-22 | [Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology](https://www.adzuna.ca/details/5975652935?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | adzuna |
+| 2026-11-22 | [SFMC Manager](https://www.adzuna.ca/details/5975287815?utm_medium=api&utm_source=54ce986e) | Novartis AG | Toronto, Ontario | adzuna |
+
 ## Verified fresh additions — hourly scan 2026-11-22
 
 Two employer-direct requisitions verified live this hour; not in the Adzuna / Job Bank / Eluta daily scan feed and not already on the board (deduped by URL against jobs.json and README rows). Both verified live on the employer page before adding.
