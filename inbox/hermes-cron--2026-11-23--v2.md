@@ -1,3 +1,4 @@
+<!-- merged 2026-11-23T070139Z: +0 new, 2 duplicate, version 2 -->
 # Fresh CA sweep — 2026-11-23 (hermes hourly cron)
 
 Window: 2026-11-23. Sources: Adzuna CA API (servicenow × Toronto/Ontario, salesforce × Toronto/Ontario, max_days_old=3, sort_by=date), LinkedIn guest search (keywords ServiceNow/Salesforce, location Toronto, f_TPR=r86400), Workday CXS probes (bmo.wd3/External, td.wd3/TD_Bank_Careers, cibc.wd3/search, manulife.wd3/MFCJH_Jobs).

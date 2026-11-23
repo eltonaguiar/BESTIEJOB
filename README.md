@@ -70,9 +70,9 @@ Two fresh postings from the Adzuna CA API (`max_days_old=3`, sorted by date); de
 
 Two employer-direct requisitions verified live this hour; not in the Adzuna / Job Bank / Eluta daily scan feed and not already on the board (deduped by URL against jobs.json and README rows). Both verified live on the employer page before adding.
 
-### ServiceNow jobs (562)|
-|| Posted | Role | Company | Location | Note ||
+### ServiceNow jobs (563)||| Posted | Role | Company | Location | Note ||
 |---|---|---|---|---|
+| 2026-11-22 | [Staff Technology Operations Lead, Service & Transition (ITSM)](https://www.adzuna.ca/details/5974907741?utm_medium=api&utm_source=54ce986e) | TJMaxx | Mississauga, Peel region | via fresh-ca--2026-11-23--v1.md |
 | 2026-11-21 | [ServiceNow IRM Senior Consultant - NFR](https://ca.linkedin.com/jobs/view/servicenow-irm-senior-consultant-nfr-at-ey-4491983802) | EY | Toronto, Ontario, Canada | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-21 | [ServiceNow IRM Senior Consultant - NFR](https://ca.linkedin.com/jobs/view/servicenow-irm-senior-consultant-nfr-at-ey-4491983803) | EY | Montreal, Quebec, Canada | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-21 | [Conseiller senior ou chef d'équipe - Gestion intégrée des risques, ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-senior-ou-chef-d-%C3%A9quipe-gestion-int%C3%A9gr%C3%A9e-des-risques-servicenow-at-ey-4491980880) | EY | Toronto, Ontario, Canada | via hermes-cron--2026-11-21--v16.md |
@@ -636,9 +636,9 @@ Two employer-direct requisitions verified live this hour; not in the Adzuna / Jo
 | 2026-10-24 | [Senior Business Systems Analyst (ServiceNow)](https://ca.linkedin.com/jobs/view/senior-business-systems-analyst-servicenow-at-interac-corp-4465181202) | Interac Corp. | Toronto, Ontario, Canada | via twin 20-round harvest |
 | 2026-10-24 | [Développeur(se) ServiceNow Senior – PSDS et Intégrations](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-se-servicenow-senior-%E2%80%93-psds-et-int%C3%A9grations-at-cgi-4434778042) | CGI | Sherbrooke, Quebec, Canada | via twin 20-round harvest |
 
-### Salesforce jobs (890)
-| Posted | Role | Company | Location | Note |
+### Salesforce jobs (891)| Posted | Role | Company | Location | Note |
 |---|---|---|---|---|
+| 2026-11-22 | [Salesforce Supervisor CPQ Solution Architect](https://www.adzuna.ca/details/5974913547?utm_medium=api&utm_source=54ce986e) | RSM | Toronto, Ontario | via fresh-ca--2026-11-23--v1.md |
 | 2026-11-21 | [Sales Operations Coordinator / Junior Salesforce Admin](https://ca.linkedin.com/jobs/view/sales-operations-coordinator-junior-salesforce-admin-at-generis-4444467031) | Generis | Downtown Toronto, ON | LinkedIn guest page: posted '1 day ago' (~2026-11-21); entry-level, 1-2 yrs Salesforce support, first 90 days in office Downtown Toronto |
 | 2026-11-21 | [CRM Data Engineer (Salesforce Data360)](https://ca.linkedin.com/jobs/view/salesforce-ai-data-cloud-solutions-engineer-at-agf-investments-4437612626) | AGF Investments | Toronto, Ontario, Canada | LinkedIn guest page: posted '1 day ago' (~2026-11-21); Data360/integration, Platform Admin + Platform Developer I assets |
 | 2026-11-20 | [Salesforce Developer Technical Consultant](https://myprocom-portal.procomservices.com/jobs/salesforce-developer-technical-consultant-calgary-220d21cc) | Procom | Calgary, Alberta, CA | via Procom |
