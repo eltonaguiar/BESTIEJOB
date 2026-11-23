@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-23T18:21:52.686Z",
     "generatedAt": "2026-11-23T18:21:52.686Z",
-    "total": 5620,
+    "total": 5621,
     "newThisScan": 511,
     "retainedFromPrevious": 5147,
     "sources": {
@@ -33,7 +33,8 @@
     "primaryCounts": {
       "servicenow": 1200,
       "salesforce": 4301
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -48,6 +49,23 @@
       "postedDate": "2026-11-23T12:36:03.000Z",
       "scrapedAt": "2026-11-23T18:22:55.268Z",
       "excerpt": "Our employees are at the heart of everything we do. Together, we help people, businesses, and society prosper in good times and be resilient in bad times. Our employee promise represents Intact's commitment to you in exchange for living our Values, striving to do your best work, being open to change and investing in yo",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-pacer-group-4494026997",
+      "source": "readme",
+      "company": "Pacer Group",
+      "title": "Salesforce Marketing Cloud Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-pacer-group-4494026997",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-23T12:00:00.000Z",
+      "scrapedAt": "2026-11-23T18:45:56.569Z",
+      "excerpt": "via fresh-ca--2026-11-23--v1.md",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
