@@ -72,8 +72,7 @@ Four fresh postings from the Adzuna CA API (`max_days_old=3`, sorted by date) ac
 
 Two employer-direct requisitions verified live this hour; not in the Adzuna / Job Bank / Eluta daily scan feed and not already on the board (deduped by URL against jobs.json and README rows). Both verified live on the employer page before adding.
 
-### ServiceNow jobs (563)||| Posted | Role | Company | Location | Note ||
-|---|---|---|---|---|
+### ServiceNow jobs (564)||| Posted | Role | Company | Location | Note |||---|---|---|---|---|
 | 2026-11-22 | [Staff Technology Operations Lead, Service & Transition (ITSM)](https://www.adzuna.ca/details/5974907741?utm_medium=api&utm_source=54ce986e) | TJMaxx | Mississauga, Peel region | via fresh-ca--2026-11-23--v1.md |
 | 2026-11-21 | [ServiceNow IRM Senior Consultant - NFR](https://ca.linkedin.com/jobs/view/servicenow-irm-senior-consultant-nfr-at-ey-4491983802) | EY | Toronto, Ontario, Canada | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-21 | [ServiceNow IRM Senior Consultant - NFR](https://ca.linkedin.com/jobs/view/servicenow-irm-senior-consultant-nfr-at-ey-4491983803) | EY | Montreal, Quebec, Canada | via hermes-cron--2026-11-21--v16.md |
@@ -101,6 +100,7 @@ Two employer-direct requisitions verified live this hour; not in the Adzuna / Jo
 | 2026-11-20 | [Directeur(trice) adjoint(e), Plateforme ServiceNow](https://ca.linkedin.com/jobs/view/directeur-trice-adjoint-e-plateforme-servicenow-at-ia-financial-group-industrial-alliance-4492965179) | iA Financial Group (Industrial Alliance) | Québec, Quebec, Canada | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-20 | [CLDRSRC10473 - ServiceNow Business Analyst - Toronto](https://www.adzuna.ca/details/5973196097) | Cloud Resourcing | Regent Park, City of Toronto | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-20 | [ITSM Administrator](https://ca.linkedin.com/jobs/view/itsm-administrator-at-encore-technical-solutions-inc-4492987948) | Encore Technical Solutions Inc. | Greater Toronto Area, Canada | via linkedin-guest--2026-11-21--v17.md |
+| 2026-11-20 | [ITSM Reporting Specialist](https://ca.linkedin.com/jobs/view/itsm-reporting-specialist-at-sciex-4488260295) | SCIEX | London, Ontario, Canada | via linkedin-guest--2026-11-23--v1.md |
 || 2026-11-19 | [ServiceNow Administrator/Developer](https://leadingtalent.ca/jobs/servicenow-administratordeveloper-in-toronto-ontario-ca-2/) | Leading Talent | Toronto, ON (hybrid) | Employer-direct via Leading Talent (financial-services client); CSA + CAD mandatory; hybrid/onsite downtown Toronto; posted 2026-11-19, expires 2026-12-19 |
 | 2026-11-19 | [ITSM Consultant](https://builtintoronto.com/job/itsm-consultant/12340414) | Long View Systems | Toronto, ON, Canada | via Built In Toronto |
 | 2026-11-19 | [Project Manager – ServiceNow](https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-servicenow-at-apptoza-inc-4491624485) | Apptoza Inc. | Toronto, Ontario, Canada | via fresh-ca--2026-11-20--v27.md |
@@ -638,11 +638,11 @@ Two employer-direct requisitions verified live this hour; not in the Adzuna / Jo
 | 2026-10-24 | [Senior Business Systems Analyst (ServiceNow)](https://ca.linkedin.com/jobs/view/senior-business-systems-analyst-servicenow-at-interac-corp-4465181202) | Interac Corp. | Toronto, Ontario, Canada | via twin 20-round harvest |
 | 2026-10-24 | [Développeur(se) ServiceNow Senior – PSDS et Intégrations](https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-se-servicenow-senior-%E2%80%93-psds-et-int%C3%A9grations-at-cgi-4434778042) | CGI | Sherbrooke, Quebec, Canada | via twin 20-round harvest |
 
-### Salesforce jobs (891)| Posted | Role | Company | Location | Note |
-|---|---|---|---|---|
+### Salesforce jobs (892)| Posted | Role | Company | Location | Note ||---|---|---|---|---|
 | 2026-11-22 | [Salesforce Supervisor CPQ Solution Architect](https://www.adzuna.ca/details/5974913547?utm_medium=api&utm_source=54ce986e) | RSM | Toronto, Ontario | via fresh-ca--2026-11-23--v1.md |
 | 2026-11-21 | [Sales Operations Coordinator / Junior Salesforce Admin](https://ca.linkedin.com/jobs/view/sales-operations-coordinator-junior-salesforce-admin-at-generis-4444467031) | Generis | Downtown Toronto, ON | LinkedIn guest page: posted '1 day ago' (~2026-11-21); entry-level, 1-2 yrs Salesforce support, first 90 days in office Downtown Toronto |
 | 2026-11-21 | [CRM Data Engineer (Salesforce Data360)](https://ca.linkedin.com/jobs/view/salesforce-ai-data-cloud-solutions-engineer-at-agf-investments-4437612626) | AGF Investments | Toronto, Ontario, Canada | LinkedIn guest page: posted '1 day ago' (~2026-11-21); Data360/integration, Platform Admin + Platform Developer I assets |
+| 2026-11-21 | [Salesforce Enterprise Solution Architect](https://ca.linkedin.com/jobs/view/salesforce-enterprise-solution-architect-at-vysystems-4493300667) | VySystems | Canada | via linkedin-guest--2026-11-23--v1.md |
 | 2026-11-20 | [Salesforce Developer Technical Consultant](https://myprocom-portal.procomservices.com/jobs/salesforce-developer-technical-consultant-calgary-220d21cc) | Procom | Calgary, Alberta, CA | via Procom |
 | 2026-11-20 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-zodiac-solutions-inc-4491963340) | Zodiac Solutions, Inc | Toronto, Ontario, Canada | via fresh-ca--2026-11-20--v23.md |
 | 2026-11-20 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-insight-global-4492518993) | Insight Global | Toronto, Ontario, Canada | via fresh-ca--2026-11-20--v27.md |
