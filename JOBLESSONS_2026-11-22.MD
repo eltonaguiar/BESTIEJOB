@@ -253,3 +253,31 @@ Adzuna CA API (servicenow/salesforce/ITOM × Toronto/Ontario), LinkedIn guest se
 1. LinkedIn guest browser search returns fresh cards (83 SN / 55 SF past 24h in Toronto) but detail pages must be checked in-browser (`web_extract` times out; `document.body.innerText` works) — both fresh SN hits were already tracked, confirming board saturation.
 2. When 0 net-new jobs are found across LinkedIn guest + Workday CXS + fresh_ca, the correct output is a lessons-only `[skip ci]` commit — never commit mirror URLs that would double-list roles already under canonical URLs.
 3. Workday CXS 429s persist well past the :00Z CI minute; manual probes succeed only after ~4 minutes at ≥8s spacing. Treat Workday as CI-owned for hourly freshness.
+
+
+## Hourly scan — Sunday 2026-11-22 23:00 EST (UTC-05) (this run)
+
+### Result this run
+- Fresh verified jobs merged: ~32 net-new URLs added (jobs.json 5,602 -> 5,634; SN 1,193 / SF 4,284 primary-tagged)
+- Base: origin/main `7fcd1b0` (CI fresh CA sweep 2026-11-23T03:48Z `[skip ci]`); reset local main onto it before scanning
+- Local direct scan (`node scripts/daily_job_scan.mjs`, unpiped/foreground): fresh=381 source hits, merged=5,634 after URL dedupe + capSecondary
+- Sources: Adzuna 181 · LinkedIn 167 (recovered on one retry after HTTP 429) · SmartRecruiters 12 · Greenhouse 12 · Remote 6 · Lever 1 · Ashby 2 · Workday all HTTP 429 (all 17 Canadian tenants; rate-limited past :00Z — carried nothing)
+- Commit: `31b0362` (8 files: jobs.json, README.md DAILY-SCAN block, FRESH_JOBS.md, public/ feeds); no `[skip ci]`
+- pages.yml deploy run 45109892520 -> success (~40s)
+- Live page verified: `curl https://eltonaguiar.github.io/BESTIEJOB/jobs-data.json` now serves `leadingtalent.ca/jobs/servicenow-administratordeveloper` (Leading Talent, ServiceNow Administrator/Developer, Toronto hybrid) — absent from the pre-push live page because the prior commit `7fcd1b0` was `[skip ci]` and never redeployed pages. Note: adzuna URLs fluctuate on the live page due to `build_site.py` mirror collapsing — verify a new role reached the page by company+title, not URL.
+
+### Partner / sponsor / target-employer sweep (this window)
+- Rogers (jobs.rogers.com Phenom): zero server-side job rows; no SN/SF platform posting — rely on LinkedIn/Adzuna mirrors
+- Bell (jobs.bell.ca): zero SN/SF platform requisitions; Bell-backed SN hiring under Ateko/FX Innovation — no fresh vacancy this window
+- Canadian government (jobs.gc.ca, gojobs.gov.on.ca): Radware captcha wall; Job Bank noisy (title-only matches); CMHC/SSC/Global Affairs no fresh SN/SF platform posting
+- ServiceNow/Salesforce vendor careers: sales/SRE/security only; platform build/admin comes from partners/end-users (Leading Talent, Altus, Moneris, TD, BMO, CGI, KPMG, Deloitte)
+
+### Lessons this run
+1. `node scripts/daily_job_scan.mjs` must run unpiped/unredirected on this host — piping/redirecting makes it exit immediately without writing. Run in the foreground so jobs.json/README/public actually get rewritten.
+2. Push-rejection recovery: if `git push origin main` is rejected because the CI hourly scan committed first, do not hand-resolve the generated files — `git reset --hard origin/main`, re-run the scan + `tools/build_site.py`, recommit, repush.
+3. Workday CXS 429s persisted this hour on every Canadian tenant — treat Workday as CI-owned for hourly freshness; manual probes succeed only ~4 minutes after :00Z at ≥8s spacing.
+4. Net-new != source hits: fresh=381 source hits collapsed to ~32 net-new URLs — always diff URL sets against `git show origin/main:jobs.json` and twin-check employer+title+city+date before reporting additions.
+5. `git` at /mingw64/bin/git is blocked (Permission denied) — use `C:/Program Files/Git/cmd/git.exe`; `python3` on PATH is the WindowsApps store stub — use `C:/Users/zerou/AppData/Local/Programs/Python/Python314/python.exe`.
+6. README.md is chronically mangled by the `_bump_counts` glue bug (`### ServiceNow jobs (N)|` on one line, header row dropped); README is display-only — refresh the `<!-- DAILY-SCAN -->` block only, do not chase full cleanup.
+7. `gh` API calls (`gh run list`, `gh auth token`) work, but `gh` fails (WinError 5) when it execs its bundled git — use git directly for push/pull.
+8. When 0 net-new jobs are found, the correct output is a lessons-only `[skip ci]` commit — never commit mirror URLs that double-list roles already under canonical URLs.
