@@ -1,7 +1,7 @@
 {
  "status": {
   "GC Jobs (federal)": {
-   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31621B",
+   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31618B",
    "raw": 0
   },
   "RemoteOK": {
@@ -13,11 +13,11 @@
    "raw": 16
   },
   "Himalayas": {
-   "status": "crashed TypeError",
+   "status": "p0:20/119811, p1:20/119814, p2:20/119811, p3:20/119811, p4:20/119811",
    "raw": 0
   },
   "Jobboom (QC)": {
-   "status": "http 403, 6046B; http 403, 6088B",
+   "status": "http 403, 6046B; http 403, 6067B",
    "raw": 0
   },
   "We Work Remotely": {
@@ -37,7 +37,7 @@
    "raw": 0
   },
   "Jobrapido CA": {
-   "status": "http 200, 0 SN links",
+   "status": "http 429",
    "raw": 0
   },
   "Monster.ca": {
