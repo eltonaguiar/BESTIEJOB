@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-23T15:44:03+00:00",
+ "generatedAt": "2026-11-23T16:11:25+00:00",
  "timezone": "America/Toronto",
- "count": 4946,
+ "count": 4948,
  "appliedHidden": 28,
  "sources": [
   "103.careerplug.com",
@@ -274,6 +274,89 @@
   "zoominfo.com"
  ],
  "jobs": [
+  {
+   "posted": "2026-11-23",
+   "title": "Technical Lead – Senior ServiceNow // Vancouver, BC (Onsite) - FTE",
+   "company": "AceStack",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/technical-lead-%E2%80%93-senior-servicenow-vancouver-bc-onsite-fte-at-acestack-4492615625",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "technical lead – senior servicenow // vancouver, bc (onsite) - fte acestack vancouver, british columbia, canada linkedin servicenow readme servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Technical%20Lead%20%E2%80%93%20Senior%20ServiceNow%20//%20Vancouver%2C%20BC%20%28Onsite%29%20-%20FTE%20AceStack+Vancouver+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Technical%20Lead%20%E2%80%93%20Senior%20ServiceNow%20//%20Vancouver%2C%20BC%20%28Onsite%29%20-%20FTE%20AceStack&location=Vancouver"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Technical%20Lead%20%E2%80%93%20Senior%20ServiceNow%20//%20Vancouver%2C%20BC%20%28Onsite%29%20-%20FTE%20AceStack&l=Vancouver"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Technical%20Lead%20%E2%80%93%20Senior%20ServiceNow%20//%20Vancouver%2C%20BC%20%28Onsite%29%20-%20FTE%20AceStack&loc=Vancouver"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-23",
+   "title": "Techno-Functional Business Analyst – Salesforce &amp; AI-Enabled Delivery",
+   "company": "GLOBAL CONSULTING COMPANY",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/techno-functional-business-analyst-%E2%80%93-salesforce-ai-enabled-delivery-at-global-consulting-company-4492625334",
+   "note": "readme",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 70,
+   "matchReasons": [
+    "Salesforce",
+    "Consulting/BA",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "techno-functional business analyst – salesforce &amp; ai-enabled delivery global consulting company toronto, ontario, canada linkedin salesforce readme salesforce consulting/ba role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Techno-Functional%20Business%20Analyst%20%E2%80%93%20Salesforce%20%26amp%3B%20AI-Enabled%20Delivery%20GLOBAL%20CONSULTING%20COMPANY+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Techno-Functional%20Business%20Analyst%20%E2%80%93%20Salesforce%20%26amp%3B%20AI-Enabled%20Delivery%20GLOBAL%20CONSULTING%20COMPANY&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Techno-Functional%20Business%20Analyst%20%E2%80%93%20Salesforce%20%26amp%3B%20AI-Enabled%20Delivery%20GLOBAL%20CONSULTING%20COMPANY&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Techno-Functional%20Business%20Analyst%20%E2%80%93%20Salesforce%20%26amp%3B%20AI-Enabled%20Delivery%20GLOBAL%20CONSULTING%20COMPANY&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
   {
    "posted": "2026-11-23",
    "title": "Salesforce Data 360 Consultant",

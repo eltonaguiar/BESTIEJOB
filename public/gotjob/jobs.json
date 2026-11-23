@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-23T15:00:00.000Z",
     "generatedAt": "2026-11-23T13:12:21.836Z",
-    "total": 5608,
+    "total": 5610,
     "newThisScan": 398,
     "retainedFromPrevious": 5241,
     "sources": {
@@ -46,6 +46,40 @@
       "salary": null,
       "postedDate": "2026-11-23T12:00:00.000Z",
       "scrapedAt": "2026-11-23T15:44:02.330Z",
+      "excerpt": "via fresh-ca--2026-11-23--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/technical-lead-%e2%80%93-senior-servicenow-vancouver-bc-onsite-fte-at-acestack-4492615625",
+      "source": "readme",
+      "company": "AceStack",
+      "title": "Technical Lead – Senior ServiceNow // Vancouver, BC (Onsite) - FTE",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/technical-lead-%E2%80%93-senior-servicenow-vancouver-bc-onsite-fte-at-acestack-4492615625",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-23T12:00:00.000Z",
+      "scrapedAt": "2026-11-23T16:11:22.924Z",
+      "excerpt": "via fresh-ca--2026-11-23--v1.md",
+      "workArrangement": "onsite",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/techno-functional-business-analyst-%e2%80%93-salesforce-ai-enabled-delivery-at-global-consulting-company-4492625334",
+      "source": "readme",
+      "company": "GLOBAL CONSULTING COMPANY",
+      "title": "Techno-Functional Business Analyst – Salesforce &amp; AI-Enabled Delivery",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/techno-functional-business-analyst-%E2%80%93-salesforce-ai-enabled-delivery-at-global-consulting-company-4492625334",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-23T12:00:00.000Z",
+      "scrapedAt": "2026-11-23T16:11:22.924Z",
       "excerpt": "via fresh-ca--2026-11-23--v1.md",
       "workArrangement": "unknown",
       "tags": [
