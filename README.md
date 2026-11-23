@@ -72,8 +72,9 @@ Four fresh postings from the Adzuna CA API (`max_days_old=3`, sorted by date) ac
 
 Two employer-direct requisitions verified live this hour; not in the Adzuna / Job Bank / Eluta daily scan feed and not already on the board (deduped by URL against jobs.json and README rows). Both verified live on the employer page before adding.
 
-### ServiceNow jobs (566)||| Posted | Role | Company | Location | Note |||---|---|---|---|---|
-| 2026-11-23 | [Technical Lead – Senior ServiceNow // Vancouver, BC (Onsite) - FTE](https://ca.linkedin.com/jobs/view/technical-lead-%E2%80%93-senior-servicenow-vancouver-bc-onsite-fte-at-acestack-4492615625) | AceStack | Vancouver, British Columbia, Canada | via fresh-ca--2026-11-23--v1.md |
+### ServiceNow jobs (568)||| Posted | Role | Company | Location | Note |||---|---|---|---|---|| 2026-11-23 | [Technical Lead – Senior ServiceNow // Vancouver, BC (Onsite) - FTE](https://ca.linkedin.com/jobs/view/technical-lead-%E2%80%93-senior-servicenow-vancouver-bc-onsite-fte-at-acestack-4492615625) | AceStack | Vancouver, British Columbia, Canada | via fresh-ca--2026-11-23--v1.md |
+| 2026-11-20 | [ServiceNow Business Analyst - Senior -Toronto, ON (3 days onsite)](https://www.adzuna.ca/details/5972983023) | Amicis Global | Toronto, Ontario | via hermes-cron--2026-11-21--v21.md |
+| 2026-11-20 | [ServiceNow Business Analyst](https://www.adzuna.ca/details/5972986326) | Innosystech Inc | Toronto, Ontario | via hermes-cron--2026-11-21--v21.md |
 | 2026-11-18 | [ServiceNow Platform Specialist](https://www.jobs.ca/alimentiv/jobs/servicenow-platform-specialist-remote-canada-b90d2889bf0e) | Alimentiv | Toronto, ON · remote | via jobs.ca + employer careers site, verified live 2026-11-23 |
 | 2026-11-22 | [Staff Technology Operations Lead, Service & Transition (ITSM)](https://www.adzuna.ca/details/5974907741?utm_medium=api&utm_source=54ce986e) | TJMaxx | Mississauga, Peel region | via fresh-ca--2026-11-23--v1.md |
 | 2026-11-21 | [ServiceNow IRM Senior Consultant - NFR](https://ca.linkedin.com/jobs/view/servicenow-irm-senior-consultant-nfr-at-ey-4491983802) | EY | Toronto, Ontario, Canada | via hermes-cron--2026-11-21--v16.md |
@@ -87,8 +88,6 @@ Two employer-direct requisitions verified live this hour; not in the Adzuna / Jo
 | 2026-11-20 | [ServiceNow Technical Lead](https://ca.linkedin.com/jobs/view/servicenow-technical-lead-at-apptoza-inc-4491956845) | Apptoza Inc. | Vancouver, British Columbia, Canada | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-20 | [ServiceNow SAM Pro Consultant](https://ca.linkedin.com/jobs/view/servicenow-sam-pro-consultant-at-pacer-group-4492825407) | Pacer Group | Canada | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-20 | [ServiceNow Lead](https://ca.linkedin.com/jobs/view/servicenow-lead-at-apptoza-inc-4491955863) | Apptoza Inc. | Vancouver, British Columbia, Canada | via hermes-cron--2026-11-21--v16.md |
-| 2026-11-20 | [ServiceNow ITOM Developer](https://ca.linkedin.com/jobs/view/servicenow-itom-developer-at-envision-technology-solutions-4492816283) | Envision Technology Solutions | Toronto, Ontario, Canada | via hermes-cron--2026-11-21--v16.md |
-| 2026-11-20 | [ServiceNow CMDB Consultant](https://ca.linkedin.com/jobs/view/servicenow-cmdb-consultant-at-techneptune-consulting-inc-4491940243) | TechNeptune Consulting Inc. | Toronto, Ontario, Canada | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-20 | [Senior ServiceNow SAM Pro Technical SME](https://ca.linkedin.com/jobs/view/senior-servicenow-sam-pro-technical-sme-at-avanciers-inc-4491961105) | Avanciers Inc. | Canada | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-20 | [Senior ServiceNow Discovery & Service Mapping Engineer](https://ca.linkedin.com/jobs/view/senior-servicenow-discovery-service-mapping-engineer-at-rbc-4468324868) | RBC | Toronto, Ontario, Canada | via hermes-cron--2026-11-21--v16.md |
 | 2026-11-20 | [Senior Production Application Support Analyst (ServiceNow Admin/CMDB)](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Senior-Production-Application-Support-Analyst_2621365) | CIBC | Toronto, ON | via hermes-cron--2026-11-21--v16.md |
