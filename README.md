@@ -102,6 +102,21 @@ Eight fresh postings verified live this cycle; deduped by URL against jobs.json,
 
 *Posted date not stated on the listing; date shown is the discovery/derived date per board policy (Brookfield "6 days ago" ≈ 2026-11-18).
 
+## Verified fresh additions — hourly scan 2026-11-24T03:00EST
+
+Six fresh postings verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. ServiceNow: S M Software Solutions Senior Business Analyst – ServiceNow ITOM/CMDB/CSDM (Toronto hybrid, Metrolinx client, 277 Front St W, posted Nov 23, term Jan 5–Jul 2 2027). Salesforce: Cognizant Salesforce Business Analyst Manager (00071295741, posted Nov 23, remote in Canada/Ontario preferred), Cognizant Salesforce Tech Lead Remote (00071198961, posted Nov 20), Cognizant Salesforce Business Analyst (00071303921, posted Nov 11, hybrid Toronto), Cognizant Senior Salesforce Tech Lead (00071295401, posted Nov 23, PD1+PD2, Toronto remote), Wipro Salesforce Data Cloud Developer (Toronto, posting start Nov 18 per Indeed listing). Employer-direct checks this cycle — Rogers Technology jobs page (20 listings, no platform roles), Bell (ServiceNow reqs filled/expired; Salesforce SysAdmin posting expired July 2026), Atego via Bell (ServiceNow → FX Innovation, Salesforce → ADP Workforcenow portals, not enumerable from this host), Government of Canada Job Bank (surfaced postings September–October 2026, stale) — no fresh live platform roles.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-23 | [Business Analyst – Senior (ServiceNow ITOM/CMDB/CSDM)](https://www.bajobs.ca/s-m-software-solutions-inc/jobs/rq00249-business-analyst-senior-toronto-on-229261194b95) | S M Software Solutions Inc. | Toronto, ON (277 Front St W; hybrid, Metrolinx client) | bajobs.ca |
+| 2026-11-23 | [Salesforce Business Analyst Manager](https://careers.cognizant.com/uki-en/jobs/00071295741/salesforce-business-analyst-manager/) | Cognizant | Toronto, ON · remote in Canada, Ontario preferred | cognizant careers |
+| 2026-11-20 | [Salesforce Tech Lead (Remote)](https://careers.cognizant.com/apj-en/jobs/00071198961/salesforce-tech-lead-remote/) | Cognizant | Toronto, ON · remote in Canada | cognizant careers |
+| 2026-11-11 | [Salesforce Business Analyst](https://careers.cognizant.com/us-en/jobs/00071303921/salesforce-business-analyst/) | Cognizant | Toronto, ON (hybrid, 3 days/week office) | cognizant careers |
+| 2026-11-23 | [Senior Salesforce Tech Lead](https://careers.cognizant.com/emea-en/jobs/00071295401/senior-salesforce-tech-lead/) | Cognizant | Toronto, ON · remote | cognizant careers |
+| 2026-11-18 | [Salesforce Data Cloud Developer](https://ca.indeed.com/viewjob?jk=81e2c50562229fe6) | Wipro Limited | Toronto, ON | indeed |
+
+Posted dates are as stated on each listing; the Indeed Wipro row shows posting start 11/18/26.
+
 ## Verified fresh additions — hourly scan 2026-11-23
 
 Four fresh postings from the Adzuna CA API (`max_days_old=3`, sorted by date) across this hour's and this morning's scans; deduped by URL against jobs.json, README and APPLIED.md. This hour (2026-11-23T08:00Z): two Toronto ServiceNow project roles — Flexstaf IT (ServiceNow APIs/SPM/CMDB integrations) and Innosystech Inc (ServiceNow implementation) — body-verified via the live API description; detail pages sit behind CloudFront 403 from this host, so liveness is established via the API `created` date (both posted 2026-11-20) plus title/platform match — per board policy a 403 is treated as a bot-wall on a live posting, not dead. LinkedIn guest search (ServiceNow + Salesforce, Toronto, past 24h) surfaced nothing new (every card already on the board); Workday CXS probes of bmo/td/cibc/manulife returned HTTP 422 (site names need re-discovery via careers pages); Ateko/Bell and Canada Life leads checked were either 404-expired or not platform roles.
