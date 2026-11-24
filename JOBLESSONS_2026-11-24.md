@@ -79,3 +79,24 @@ Source lessons for future agents:
 1. Dedupe on company+title as well as URL — a role already on the board under an Indeed/jobs.ca mirror will not show as URL-duplicate against jobs.json alone.
 2. Workday CXS probes must use full `{tenant}.wd{N}.myworkdayjobs.com` hosts with `--compressed` and no `Referer` header; avoid the :00Z window (HTTP 429 from the CI hourly run).
 3. Wipro careers (SAP SuccessFactors) detail pages are fetchable and show posting start dates — a dateable employer-direct source for Salesforce roles.
+
+## Hourly scan 2026-11-24T10:00EST (this cycle)
+
+Result: 2 fresh postings verified live and added to README.md under "Verified fresh additions — hourly scan 2026-11-24T10:00EST". Both ServiceNow, Toronto/GTA, both via today's Adzuna CA scrape (scrapedAt 2026-11-24T14:13Z). Detail pages behind CloudFront 403; liveness via Adzuna API `created` date + title/platform match per board policy (403 = bot-wall, not dead). Deduped by normalized URL (query strings stripped) against jobs.json, README.md and APPLIED.md. Zero roles removed. Commit e9c2c5fc; pages.yml run 45422180303 success; board invariants, README job-row guard and Job Source Truth Check green; live page https://eltonaguiar.github.io/BESTIEJOB/ rebuilt.
+
+Added:
+- Cloud Resourcing — Project Manager – ServiceNow (ITSM/ITOM/CSM) — Toronto, ON (Regent Park; hybrid) — posted 2026-11-21 — adzuna.ca/details/5974418392 (API created 2026-11-21T13:54:13Z). Distinct requisition from already-listed CLDRSRC10473 ServiceNow BA (Regent Park, 2026-11-20).
+- VDart Inc — ServiceNow Developer CUM Architect — Canada — posted 2026-11-21 — adzuna.ca/details/5974418388.
+
+Salesforce: 0 fresh net-new this cycle.
+
+Checked, yielded nothing net-new this cycle:
+- LinkedIn guest ServiceNow + Salesforce Toronto past 24h — cards already on board.
+- Indeed CA search — 0 cards from real browser (bot wall); date-sorted search snippets exhausted.
+- Employer-direct: Rogers (no platform roles), Bell/Atego-FX (not enumerable), TD/BMO/Scotiabank/CIBC/Manulife/Interac Workday CXS (HTTP 422/429 or nothing fresh), ServiceNow Careers and Salesforce Careers (Cloudflare), GC Job Bank (September–October 2026 postings only, stale).
+- Near-misses not added: La Caisse ServiceNow developer (Canada, near-duplicate of Nov 19–20 Montreal entries); Ensiti Salesforce Developer remote Ottawa (match 48); TJMaxx ITSM reporting lead Mississauga (match 46, platform unconfirmed); SCIEX ITSM Reporting Specialist London ON (match 46); Salesforce Renewals Innovation Analyst Emerging Talent Toronto (Salesforce direct, entry-level, but renewals/sales — not platform).
+
+Updated source lessons for this cycle:
+1. The 09:13Z jobs.json scrape (5,627 rows, +510 new) had already absorbed everything in live_jobs-data.json — the 10:00 cycle found no net-new beyond today's scrape; hourly cadence is now re-harvesting the same pool (fresh yield 0–2 per cycle).
+2. Indeed detail pages and LinkedIn guest cards are fully blocked from this host this cycle (real-browser Indeed run returned 0 cards). Adzuna API `created` date is now the sole dateable freshness evidence for Adzuna-sourced rows; keep flagging 403-sourced rows for user re-verification.
+3. Entry-level Platform Admin / Platform Developer I (Toronto) remain scarce — hits are mid/senior contractor and architect roles. The Salesforce direct "Emerging Talent" posting was sales/renewals, not platform; track separately only if scope widens.
