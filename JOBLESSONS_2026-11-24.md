@@ -100,3 +100,19 @@ Updated source lessons for this cycle:
 1. The 09:13Z jobs.json scrape (5,627 rows, +510 new) had already absorbed everything in live_jobs-data.json — the 10:00 cycle found no net-new beyond today's scrape; hourly cadence is now re-harvesting the same pool (fresh yield 0–2 per cycle).
 2. Indeed detail pages and LinkedIn guest cards are fully blocked from this host this cycle (real-browser Indeed run returned 0 cards). Adzuna API `created` date is now the sole dateable freshness evidence for Adzuna-sourced rows; keep flagging 403-sourced rows for user re-verification.
 3. Entry-level Platform Admin / Platform Developer I (Toronto) remain scarce — hits are mid/senior contractor and architect roles. The Salesforce direct "Emerging Talent" posting was sales/renewals, not platform; track separately only if scope widens.
+
+## Hourly scan 2026-11-24T16:00EST (this cycle)
+
+Result: 1 fresh posting verified live and added to README.md under "Verified fresh additions — cron scan 2026-11-24T16:00EST". 0 ServiceNow, 1 Salesforce. Deduped by URL against jobs.json, README.md and APPLIED.md. Zero roles removed. Commit 728e3919 pushed to main; Deploy GitHub Pages triggered; live page https://eltonaguiar.github.io/BESTIEJOB/jobs-data.json verified carrying the new URL (curl HTTP 200, 4987 live jobs).
+
+Added:
+- Nityo Infotech — Salesforce Marketing Cloud - Senior Developer — Toronto, Ontario, Canada — contract — discovered "44 minutes ago" at scan time (discovery date 2026-11-24, asterisked per board policy). Verified live via LinkedIn job description: SFMC Journey Builder/Automation Studio/Email Studio/Mobile Studio/Content Builder, AMPscript/SSJS, SQL audience segmentation, REST/SOAP API integrations, Salesforce certifications (Marketing Cloud Consultant/Developer/Administrator). Mid-senior; not an entry-level Platform Admin/Developer I role.
+
+Checked, yielded nothing net-new this cycle:
+- LinkedIn Toronto past 24h (f_TPR=r86400): 58 ServiceNow cards, 60 Salesforce cards; every SN/SF-titled card already on the board via the CI hourly scan except the Nityo Infotech req above.
+- Adzuna CA API (ServiceNow + Salesforce, Toronto, max_days_old=3): stale (Nov 22) or non-platform (Third Party Risk, Product Manager); no fresh SN/SF platform roles.
+- Workday CXS probes (BMO/TD/CIBC/Manulife/Interac/Accenture/Salesforce): standalone curl HTTP 200 (reachable), but rapid loop probes returned HTTP 422 rate-limit at this hour; the CI hourly pass carries Workday.
+- Employer-direct: Rogers (no platform roles server-side), Bell/Ateko-FX (reqs expired or filled; jobs.bell.ca empty), Lane Four (no job body server-side — unverifiable, not added), NewRocket (no enumerable jobs), Government of Canada Job Bank / Eluta (Radware-walled; Sept–Oct postings stale), ServiceNow Careers (Cloudflare bot wall), Salesforce-the-company (sales roles only, no Platform Admin/Developer I).
+
+Updated source lesson for this cycle:
+1. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce — nothing junior surfaced this hour, only mid/senior and lead reqs. Keep the weekly partner/Elite-partner pass (Deloitte, Cognizant, Wipro) and deprioritize Rogers/Bell/GC portals to every-other-cycle.
