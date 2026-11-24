@@ -57,6 +57,14 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — hourly scan 2026-11-24T07:00EST
+
+One fresh posting verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Surfaced via a targeted Salesforce/Toronto search and confirmed live on Wipro Limited's employer careers page (careers.wipro.com, SAP SuccessFactors, HTTP 200 OK): Wipro Salesforce Marketing Cloud Senior Developer, Toronto, posted 2026-11-23 ("1 day ago"). Employer-direct checks this cycle — BMO/TD/CIBC/Manulife/Interac Workday CXS, Rogers, Bell/Ateko, ServiceNow Careers Ontario, Government of Canada Job Bank — returned no fresh live ServiceNow or Platform Admin/Developer I roles (already on the board, closed, sales-only, or stale). No entry-level Platform Administrator / Platform Developer I roles surfaced this hour.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-23 | [Salesforce Marketing Cloud Senior Developer](https://careers.wipro.com/job/Salesforce-Marketing-Cloud-Senior-Developer/220984-en_US/) | Wipro Limited | Toronto, Ontario, Canada | wipro careers |
+
 ## Verified fresh additions — hourly scan 2026-11-24T01:00EST
 
 Three fresh postings verified live this cycle; deduped by URL against jobs.json, README and APPLIED.md. All three surfaced via Indeed CA date-sorted search results (Indeed detail pages are behind Cloudflare from this host, so liveness is established via the current search listing plus snippet job detail; rows are asterisked with the discovery date 2026-11-24 per board policy). ServiceNow: Tri-global Solutions Project Manager (hybrid Toronto, 277 Front St W; contract term 2027-01-05 to 2027-07-02), Compugen ServiceNow Business Analyst contract (Toronto, $55–$70/hr), Compugen Project Manager – ServiceNow & Financial Systems contract (Toronto). Employer-direct checks this cycle — Rogers (jobs.rogers.com Technology: no platform roles), Bell/Ateko (Ateko careers → fxinnovation.com jobs portal is client-side rendered and not enumerable from this host; recent Ateko LinkedIn roles are older and already considered), TD/BMO/Scotiabank (TD Senior Solution Architect ServiceNow already on the board via Built In Toronto; Scotiabank Salesforce Developer JR265640 closed — "not accepting any further applicants"), Government of Canada/Job Bank (postings surfaced were September–October 2026, stale).

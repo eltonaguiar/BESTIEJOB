@@ -60,3 +60,22 @@ Checked, yielded nothing net-new this cycle:
 - Employer-direct: Rogers Technology page — no platform roles; Atego/fxinnovation.com portal client-side rendered, not enumerable; Bell — nothing fresh; Government of Canada/Job Bank — September–October 2026 postings only (stale).
 
 Updated source lesson: Indeed detail pages are now Cloudflare-blocked from this host (fetchable last cycle) — switched to date-sorted Indeed search snippets as liveness evidence; asterisk discovery dates. Cognizant careers also behind Cloudflare — search-indexed metadata (date published / apply-until) suffices.
+
+
+## Hourly scan 2026-11-24T07:00EST (this cycle)
+
+Result: 1 fresh posting verified live and added — 0 ServiceNow, 1 Salesforce. Deduped by URL and company+title against jobs.json, README.md and APPLIED.md. Zero roles removed.
+
+Added:
+- Wipro Limited — Salesforce Marketing Cloud Senior Developer — Toronto, ON — posted 2026-11-23 ("1 day ago") — careers.wipro.com/job/Salesforce-Marketing-Cloud-Senior-Developer/220984-en_US/ (verified live, HTTP 200 on employer careers page). Wipro is a Salesforce system integrator partner.
+
+Checked, yielded nothing net-new this cycle:
+- Adzuna CA API (ServiceNow + Salesforce, Toronto, max_days_old=7): all platform-relevant rows already on board (incl. Wipro Salesforce Data Cloud Developer, posting start 11/18, added at the 03:00EST scan via Indeed mirror).
+- Workday CXS probes (BMO/TD/CIBC/Manulife/Interac/Salesforce/Accenture): no fresh Toronto SN/SF reqs; BMO ServiceNow CMDB Administrator / Technology Lifecycle Analyst (12 days old) already boarded via mirrors.
+- Web searches (ServiceNow Toronto, Salesforce Toronto, Platform Developer I Toronto, government jobs): Spectra Group ServiceNow Developer = Dice mirror already on board; HCLTech/Intelli-CloudWare/SS&C/Benevity/Four Seasons/Altus/Make-A-Wish already boarded; ServiceNow vendor sales roles out of scope (Platform Admin/Dev I focus).
+- Employer-direct: Rogers zero server-side job rows; Bell zero reqs; Job Bank stale.
+
+Source lessons for future agents:
+1. Dedupe on company+title as well as URL — a role already on the board under an Indeed/jobs.ca mirror will not show as URL-duplicate against jobs.json alone.
+2. Workday CXS probes must use full `{tenant}.wd{N}.myworkdayjobs.com` hosts with `--compressed` and no `Referer` header; avoid the :00Z window (HTTP 429 from the CI hourly run).
+3. Wipro careers (SAP SuccessFactors) detail pages are fetchable and show posting start dates — a dateable employer-direct source for Salesforce roles.
