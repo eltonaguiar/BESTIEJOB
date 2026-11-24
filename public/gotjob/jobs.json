@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-24T20:10:42.626Z",
     "generatedAt": "2026-11-24T20:10:42.626Z",
-    "total": 5640,
+    "total": 5641,
     "newThisScan": 488,
     "retainedFromPrevious": 5192,
     "sources": {
@@ -32,10 +32,28 @@
     },
     "primaryCounts": {
       "servicenow": 1205,
-      "salesforce": 4317
-    }
+      "salesforce": 4318
+    },
+    "undated": 0
   },
   "jobs": [
+    {
+      "id": "linkedin:https://www.linkedin.com/jobs/view/salesforce-marketing-cloud-senior-developer-at-nityo-infotech-4494412279",
+      "source": "linkedin",
+      "company": "Nityo Infotech",
+      "title": "Salesforce Marketing Cloud - Senior Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/salesforce-marketing-cloud-senior-developer-at-nityo-infotech-4494412279",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-24T16:00:00.000Z",
+      "scrapedAt": "2026-11-24T16:00:00.000Z",
+      "excerpt": "Salesforce Marketing Cloud Senior Developer (contract, Toronto). Hands-on SFMC: Journey Builder, Automation Studio, Email Studio, Mobile Studio, Content Builder; AMPscript/SSJS; SQL audience segmentation; REST/SOAP API integrations; Salesforce certifications (Marketing Cloud Consultant, Marketing Cloud Developer, Administrator). Genuine Salesforce platform build work.",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
     {
       "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6270164004",
       "source": "greenhouse",
