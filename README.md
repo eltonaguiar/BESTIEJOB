@@ -3,40 +3,41 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-24T16:05:56.449Z** · 4489 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-24T22:04:33.025Z** · 4487 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
 | 2026-11-24 | [Architecte ServiceNow (ITOM / ITAM)](https://ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-at-systematix-4494384236) | Systematix | Montreal, Quebec, Canada |
+| 2026-11-24 | [Senior ServiceNow Technical Consultant – ITSM / IRM](https://ca.linkedin.com/jobs/view/senior-servicenow-technical-consultant-%E2%80%93-itsm-irm-at-agility-it-4494410216) | Agility IT | Toronto, Ontario, Canada |
 | 2026-11-24 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469975858) | Pomerleau | Montreal, Quebec, Canada |
 | 2026-11-23 | [servicenow cosultant](https://ca.linkedin.com/jobs/view/servicenow-cosultant-at-nlb-services-4494085039) | NLB Services | Mississauga, Ontario, Canada |
-| 2026-11-23 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-alldus-4492635219) | Alldus | Canada |
 | 2026-11-23 | [Servicenow Expert](https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4493908405) | KTek Resourcing | Canada |
+| 2026-11-23 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-alldus-4492635219) | Alldus | Canada |
 | 2026-11-23 | [Service Now Consultant _SAM](https://ca.linkedin.com/jobs/view/service-now-consultant-sam-at-futran-solutions-4493665044) | Futran Solutions | Canada |
 | 2026-11-23 | [ServiceNow Technical Architect](https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-alldus-4492622723) | Alldus | Canada |
 | 2026-11-22 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ232563-1) | GDIT | Any Location / Remote |
 | 2026-11-22 | [Staff Technology Operations Lead, Service & Transition (ITSM)](https://www.adzuna.ca/details/5974907741) | TJMaxx | Mississauga, Peel region |
 | 2026-11-22 | [Manager, ServiceNow Platform](https://www.adzuna.ca/details/5974911787) | iA Financial Group | Canada |
 | 2026-11-22 | [Cyber Advisory Solution Consultant](https://www.adzuna.ca/details/5974890953) | ServiceNow, Inc. | Toronto, Ontario |
-| 2026-11-22 | [Solution Sales Executive, Moveworks](https://www.adzuna.ca/details/5974890956) | ServiceNow, Inc. | Toronto, Ontario |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-24 | [Salesforce Sr. Developer, AI & Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/6270164004) | NeuraFlash | Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only) |
+| 2026-11-24 | [Salesforce Consultant (Enterprise Commerce Migration)](https://www.adzuna.ca/details/5977373045) | VTRAC Consulting Corporation | Canada |
 | 2026-11-24 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5977112065) | March Networks | Ottawa, Ottawa region |
 | 2026-11-24 | [Senior Salesforce Developer Temp FT](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-temp-ft-at-ehn-canada-4494375495) | EHN Canada | Toronto, Ontario, Canada |
+| 2026-11-24 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-zodiac-solutions-inc-4493059031) | Zodiac Solutions, Inc | Toronto, Ontario, Canada |
+| 2026-11-24 | [Senior BSA/ Data Migration Specialist - Salesforce](https://ca.linkedin.com/jobs/view/senior-bsa-data-migration-specialist-salesforce-at-tamanna-technology-4494413021) | Tamanna Technology | Greater Toronto Area, Canada |
+| 2026-11-24 | [Salesforce Lead](https://ca.linkedin.com/jobs/view/salesforce-lead-at-bull-it-solutions-ltd-4494730713) | BULL-IT SOLUTIONS LTD | Toronto, Ontario, Canada |
 | 2026-11-24 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4494382178) | Smart IT Frame LLC | Toronto, Ontario, Canada |
-| 2026-11-24 | [Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-ia-financial-group-industrial-alliance-4494149845) | iA Financial Group (Industrial Alliance) | Quebec, Canada |
 | 2026-11-24 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300) | Alithya | Montreal, Quebec, Canada |
+| 2026-11-24 | [Salesforce Product Owner & Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-product-owner-business-analyst-at-otodata-4494727219) | Otodata | Montreal, Quebec, Canada |
+| 2026-11-24 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-hire-digitalent-inc-4494375661) | Hire DigITalent Inc. | Toronto, Ontario, Canada |
 | 2026-11-23 | [Senior Back-End Email Developer (Salesforce Marketing Cloud)](https://www.adzuna.ca/details/5976294092) | Intact Financial | Montréal, Québec |
-| 2026-11-23 | [Salesforce Developer 1014](https://www.adzuna.ca/details/5976166298) | Veracity Ventures Inc. | Toronto, Ontario |
-| 2026-11-23 | [Salesforce Administrator \| SFMC + Data Cloud \| Natural Health \| Hybrid in Toronto \| $60-75k + Benefits](https://ca.linkedin.com/jobs/view/salesforce-administrator-sfmc-%2B-data-cloud-natural-health-hybrid-in-toronto-%2460-75k-%2B-benefits-at-white-bay-4494072701) | White Bay | North York, Ontario, Canada |
-| 2026-11-23 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-doctors-of-bc-4494038737) | Doctors of BC | Greater Vancouver, British Columbia, Canada |
-| 2026-11-23 | [Senior Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/senior-salesforce-tech-lead-at-cognizant-4494018414) | Cognizant | Toronto, Ontario, Canada |
-| 2026-11-23 | [Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-at-cognizant-4494074582) | Cognizant | Toronto, Ontario, Canada |
 
 ### Other keyword matches — newest 10
 
