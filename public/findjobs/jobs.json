@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-24T19:10:40.385Z",
     "generatedAt": "2026-11-24T19:10:40.385Z",
-    "total": 5636,
+    "total": 5637,
     "newThisScan": 471,
     "retainedFromPrevious": 5204,
     "sources": {
@@ -33,7 +33,8 @@
     "primaryCounts": {
       "servicenow": 1204,
       "salesforce": 4313
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -1134,6 +1135,24 @@
       ],
       "verifiedAt": "2026-11-24T06:28:02.012407+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-enterprise-risk-management-analyst-at-randstad-digital-4494093984",
+      "source": "linkedin",
+      "company": "Randstad Digital",
+      "title": "Senior Enterprise Risk Management Analyst",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-enterprise-risk-management-analyst-at-randstad-digital-4494093984",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-23T00:00:00.000Z",
+      "scrapedAt": "2026-11-24T19:31:00.000Z",
+      "excerpt": "GRC platform administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "analyst",
+        "grc"
+      ]
     },
     {
       "id": "wipro careers:https://careers.wipro.com/job/Salesforce-Marketing-Cloud-Senior-Developer/220984-en_US/",

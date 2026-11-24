@@ -1710,3 +1710,14 @@ Employer-direct checks this cycle — Rogers (jobs.rogers.com Technology: no SN/
 | 2026-11-22 | [Senior Back-End Email Developer (Salesforce Marketing Cloud)](https://www.adzuna.ca/details/5975311384) | Intact Financial | Toronto, Ontario | adzuna |
 | 2026-11-22 | [Salesforce Tech Lead (Remote)](https://www.adzuna.ca/details/5974890709) | Cognizant | Toronto, Ontario | adzuna |
 
+
+## Verified fresh additions — cron scan 2026-11-24T14:00EST
+
+One fresh posting verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Surfaced via this morning's LinkedIn Toronto ServiceNow/Salesforce scan and confirmed live on the LinkedIn jobs page ("14 hours ago" at capture). Randstad Digital (staffing) Senior Enterprise Risk Management Analyst, Greater Toronto Area — business administrator for the client's enterprise GRC platform (PowerBI/SQL/Python/Alteryx reporting, GRC forms/workflows/reference data/user access). The public ad names Randstad Digital only; end client and GRC platform are not named, so the row is added on title/company/location/recency evidence per board policy. GRC/IRM is an in-scope platform track; ServiceNow GRC/IRM is not confirmed from the public ad.
+
+Employer-direct checks this cycle — Rogers (jobs.rogers.com: no SN/SF platform roles; server-side shell), Bell (no fresh live platform roles), ServiceNow Careers and Salesforce Careers (Cloudflare bot verification blocked this host), Government of Canada Job Bank / canada.ca (September–October 2026 postings only, stale) — returned no other fresh live ServiceNow or Salesforce Platform Admin / Platform Developer I roles. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce this hour.
+
+|| Posted | Role | Company | Location | Source ||
+||---|---|---|---|---|---||
+|| 2026-11-23 | [Senior Enterprise Risk Management Analyst](https://ca.linkedin.com/jobs/view/senior-enterprise-risk-management-analyst-at-randstad-digital-4494093984) | Randstad Digital | Greater Toronto Area, Canada | linkedin ||
+
