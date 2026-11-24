@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-24T17:13:41+00:00",
+ "generatedAt": "2026-11-24T18:16:41+00:00",
  "timezone": "America/Toronto",
- "count": 4979,
+ "count": 4981,
  "appliedHidden": 25,
  "sources": [
   "103.careerplug.com",
@@ -462,6 +462,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Business%20Analyst%20-%20Contract%20Compugen%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-24",
+   "title": "ServiceNow Specialist / Lead",
+   "company": "Galactic Minds INC",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-specialist-lead-at-galactic-minds-inc-4494193200",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow specialist / lead galactic minds inc toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Specialist%20/%20Lead%20Galactic%20Minds%20INC+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Specialist%20/%20Lead%20Galactic%20Minds%20INC&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Specialist%20/%20Lead%20Galactic%20Minds%20INC&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Specialist%20/%20Lead%20Galactic%20Minds%20INC&loc=Toronto"
     }
    ],
    "toronto": true
@@ -1371,6 +1412,47 @@
   },
   {
    "posted": "2026-11-24",
+   "title": "Salesforce Consultant (Enterprise Commerce Migration)",
+   "company": "VTRAC Consulting Corporation",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5977373045",
+   "note": "adzuna",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Adzuna",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce consultant (enterprise commerce migration) vtrac consulting corporation canada adzuna salesforce adzuna salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Consultant%20%28Enterprise%20Commerce%20Migration%29%20VTRAC%20Consulting%20Corporation+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Consultant%20%28Enterprise%20Commerce%20Migration%29%20VTRAC%20Consulting%20Corporation&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Consultant%20%28Enterprise%20Commerce%20Migration%29%20VTRAC%20Consulting%20Corporation&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Consultant%20%28Enterprise%20Commerce%20Migration%29%20VTRAC%20Consulting%20Corporation&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-24",
    "title": "RevOps Solutions Architect (HubSpot + Salesforce)",
    "company": "ProperExpression",
    "location": "Canada",
@@ -2063,6 +2145,53 @@
   },
   {
    "posted": "2026-11-23",
+   "title": "Servicenow Expert",
+   "company": "KTek Resourcing",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4493908405",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow expert ktek resourcing canada linkedin servicenow linkedin servicenow canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984",
+     "label": "LinkedIn · Canada (Remote)",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Servicenow%20Expert%20KTek%20Resourcing+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Servicenow%20Expert%20KTek%20Resourcing&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Servicenow%20Expert%20KTek%20Resourcing&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Servicenow%20Expert%20KTek%20Resourcing&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-23",
    "title": "Conseiller(ère) principal(e)- ServiceNow- Technologie et Transformation",
    "company": "Deloitte",
    "location": "Laval, Quebec, Canada",
@@ -2116,53 +2245,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Conseiller%28%C3%A8re%29%20principal%28e%29-%20ServiceNow-%20Technologie%20et%20Transformation%20Deloitte&loc=Quebec"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-23",
-   "title": "Servicenow Expert",
-   "company": "KTek Resourcing",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4493908405",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow expert ktek resourcing canada linkedin servicenow linkedin servicenow canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4490333984",
-     "label": "LinkedIn · Canada (Remote)",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Servicenow%20Expert%20KTek%20Resourcing+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Servicenow%20Expert%20KTek%20Resourcing&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Servicenow%20Expert%20KTek%20Resourcing&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Servicenow%20Expert%20KTek%20Resourcing&loc=Canada"
     }
    ],
    "toronto": false
@@ -2558,102 +2640,6 @@
   },
   {
    "posted": "2026-11-23",
-   "title": "Senior Salesforce Tech Lead",
-   "company": "Cognizant",
-   "location": "Toronto, ON · remote",
-   "url": "https://careers.cognizant.com/emea-en/jobs/00071295401/senior-salesforce-tech-lead/",
-   "note": "cognizant careers",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce tech lead cognizant toronto, on · remote careers.cognizant.com salesforce cognizant careers salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-tech-lead-at-cognizant-4494018414",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Tech%20Lead%20Cognizant+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Tech%20Lead%20Cognizant&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Tech%20Lead%20Cognizant&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Tech%20Lead%20Cognizant&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-23",
-   "title": "Senior Salesforce Loyalty Developer",
-   "company": "Konrad",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-loyalty-developer-at-konrad-4491312520",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "senior salesforce loyalty developer konrad toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5972733894",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Loyalty%20Developer%20Konrad+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Loyalty%20Developer%20Konrad&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Loyalty%20Developer%20Konrad&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Loyalty%20Developer%20Konrad&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-23",
    "title": "Salesforce Tech Lead",
    "company": "Cognizant",
    "location": "Toronto, ON (hybrid, Ontario)",
@@ -2761,6 +2747,102 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Developer%20Pacer%20Group&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-23",
+   "title": "Senior Salesforce Tech Lead",
+   "company": "Cognizant",
+   "location": "Toronto, ON · remote",
+   "url": "https://careers.cognizant.com/emea-en/jobs/00071295401/senior-salesforce-tech-lead/",
+   "note": "cognizant careers",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "careers.cognizant.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce tech lead cognizant toronto, on · remote careers.cognizant.com salesforce cognizant careers salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-tech-lead-at-cognizant-4494018414",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Tech%20Lead%20Cognizant+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Tech%20Lead%20Cognizant&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Tech%20Lead%20Cognizant&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Tech%20Lead%20Cognizant&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-23",
+   "title": "Senior Salesforce Loyalty Developer",
+   "company": "Konrad",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-loyalty-developer-at-konrad-4491312520",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce loyalty developer konrad toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5972733894",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Loyalty%20Developer%20Konrad+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Loyalty%20Developer%20Konrad&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Loyalty%20Developer%20Konrad&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Loyalty%20Developer%20Konrad&loc=Toronto"
     }
    ],
    "toronto": true
@@ -12543,14 +12625,7 @@
    ],
    "french": false,
    "search": "senior salesforce architect (ca) pointclickcare mississauga, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946005970?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Mississauga",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -48769,12 +48844,6 @@
    "search": "servicenow architect tata consultancy services limited toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
    "alternates": [
     {
-     "source": "jobs.ca",
-     "url": "https://www.jobs.ca/tata-consultancy-services/jobs/servicenow-architect-toronto-on-ec39ec076eb4",
-     "label": "jobs.ca · Toronto",
-     "gated": false
-    },
-    {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-at-tata-consultancy-services-4483870856",
      "label": "LinkedIn · Toronto",
@@ -61358,12 +61427,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-and-administrator-at-mnp-4469795709?position=1&pageNum=0&refId=XxzzWZyI31PKQPjBIKJTTw%3D%3D&trackingId=8OxPRVelVxFRK1CKcnFizg%3D%3D",
      "label": "LinkedIn · Calgary",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5946008106?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Calgary",
      "gated": false
     }
    ],
@@ -188587,54 +188650,6 @@
   },
   {
    "posted": "2026-10-29",
-   "title": "Analyste / Administrateur Salesforce",
-   "company": "Onepoint",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5945496851?utm_medium=api&utm_source=54ce986e",
-   "note": "via kilo-deep-scan-2026-11-03b",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Quebec"
-   ],
-   "french": true,
-   "search": "analyste / administrateur salesforce onepoint montreal, quebec adzuna salesforce via kilo-deep-scan-2026-11-03b salesforce role fit quebec",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-onepoint-4481467806",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Analyste%20/%20Administrateur%20Salesforce%20Onepoint+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Analyste%20/%20Administrateur%20Salesforce%20Onepoint&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Analyste%20/%20Administrateur%20Salesforce%20Onepoint&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Analyste%20/%20Administrateur%20Salesforce%20Onepoint&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-29",
    "title": "Senior Salesforce Developer",
    "company": "Conquest Planning Inc.",
    "location": "Winnipeg region, Manitoba",
@@ -189101,14 +189116,7 @@
    ],
    "french": true,
    "search": "developpeur ou developpeuse principal(e), salesforce journey capital montreal, quebec adzuna salesforce adzuna salesforce quebec",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945675026?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -199608,6 +199616,47 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-10-26",
+   "title": "Analyste / Administrateur Salesforce",
+   "company": "Onepoint",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-onepoint-4481467806",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "analyste / administrateur salesforce onepoint montreal, quebec, canada linkedin salesforce linkedin salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Analyste%20/%20Administrateur%20Salesforce%20Onepoint+Montreal+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Analyste%20/%20Administrateur%20Salesforce%20Onepoint&location=Montreal"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Analyste%20/%20Administrateur%20Salesforce%20Onepoint&l=Montreal"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Analyste%20/%20Administrateur%20Salesforce%20Onepoint&loc=Montreal"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-10-26",
