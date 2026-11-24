@@ -57,6 +57,18 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — hourly scan 2026-11-24T01:00EST
+
+Three fresh postings verified live this cycle; deduped by URL against jobs.json, README and APPLIED.md. All three surfaced via Indeed CA date-sorted search results (Indeed detail pages are behind Cloudflare from this host, so liveness is established via the current search listing plus snippet job detail; rows are asterisked with the discovery date 2026-11-24 per board policy). ServiceNow: Tri-global Solutions Project Manager (hybrid Toronto, 277 Front St W; contract term 2027-01-05 to 2027-07-02), Compugen ServiceNow Business Analyst contract (Toronto, $55–$70/hr), Compugen Project Manager – ServiceNow & Financial Systems contract (Toronto). Employer-direct checks this cycle — Rogers (jobs.rogers.com Technology: no platform roles), Bell/Ateko (Ateko careers → fxinnovation.com jobs portal is client-side rendered and not enumerable from this host; recent Ateko LinkedIn roles are older and already considered), TD/BMO/Scotiabank (TD Senior Solution Architect ServiceNow already on the board via Built In Toronto; Scotiabank Salesforce Developer JR265640 closed — "not accepting any further applicants"), Government of Canada/Job Bank (postings surfaced were September–October 2026, stale).
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-24* | [ServiceNow Project Manager](https://ca.indeed.com/viewjob?jk=83990275ef12d929) | Tri-global Solutions Group Inc. | Toronto, ON (277 Front St W; hybrid) | indeed |
+| 2026-11-24* | [ServiceNow Business Analyst - Contract](https://ca.indeed.com/viewjob?jk=51dd9612200e90ef) | Compugen Inc. | Toronto, ON | indeed |
+| 2026-11-24* | [Project Manager – ServiceNow & Financial Systems - Contract](https://ca.indeed.com/viewjob?jk=653bb0c2cc9bc020) | Compugen Inc. | Toronto, ON | indeed |
+
+*Posted date not stated on the Indeed listing; date shown is discovery date (2026-11-24).
+
 ## Verified fresh additions — hourly scan 2026-11-24T05:01EST
 
 Seven fresh postings verified live this cycle; deduped by URL against jobs.json, README and APPLIED.md. ServiceNow: Deloitte CMDB Solutions Architect (Remote Toronto), Deloitte Senior Consultant ServiceNow Platform (Hybrid Toronto), CGI ServiceNow Administrator/Developer (Hybrid Toronto, 250 Yonge St). Salesforce: Dentalcorp Salesforce Administrator/Developer (Toronto, Workday JR26988, listed ~Nov 17), Cognizant Salesforce QE / QA Automation Engineer (Canada Remote, Ontario preferred, posted Nov 23), Cognizant Salesforce nCino Developer (Hybrid Toronto, posted Nov 13), Deloitte Senior Consultant Salesforce Platform (Hybrid Toronto). Employer-direct checks this cycle — Rogers, Bell, Ateko/FX, Canada Life, TD, BMO, Workday CXS (bmo/td/cibc/manulife) and Government of Canada/Ontario portals — returned no fresh live platform roles (closed, expired, or already on the board). Indeed detail pages carry no posted date; those rows show the discovery date (2026-11-24) and are asterisked.

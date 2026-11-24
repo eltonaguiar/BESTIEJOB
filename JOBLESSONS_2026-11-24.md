@@ -44,3 +44,19 @@ Salesforce:
 - Re-run Indeed ServiceNow/Salesforce Toronto with `sort=date` to catch same-day postings.
 - Re-discover Workday CXS site names for bmo/td/cibc/manulife via their careers pages.
 - Re-check Deloitte Canada platform openings (CMDB/Platform/Salesforce tracks).
+
+## Hourly scan 2026-11-24T01:00EST (this cycle, ~06:00 UTC)
+
+Result: 3 fresh postings added to README under "Verified fresh additions — hourly scan 2026-11-24T01:00EST". All ServiceNow, Toronto/GTA, all via Indeed CA date-sorted search (detail pages Cloudflare-blocked; rows asterisked with discovery date 2026-11-24).
+- Tri-global Solutions Group Inc. — ServiceNow Project Manager — Toronto hybrid (277 Front St W), contract 2027-01-05 to 2027-07-02 — ca.indeed.com/viewjob?jk=83990275ef12d929
+- Compugen Inc. — ServiceNow Business Analyst - Contract — Toronto, $55–$70/hr, VN10208 — ca.indeed.com/viewjob?jk=51dd9612200e90ef
+- Compugen Inc. — Project Manager – ServiceNow & Financial Systems - Contract — Toronto, VN10207 — ca.indeed.com/viewjob?jk=653bb0c2cc9bc020
+
+Checked, yielded nothing net-new this cycle:
+- Cognizant Senior Salesforce Developer (careers.cognizant.com .../00071200141/, Nov 19) = dup of boarded LinkedIn ca.linkedin.com .../senior-salesforce-developer-at-cognizant-4492525247 — skipped (dedupe by job, not just URL).
+- ServiceNow Senior Systems Engineer (careers.servicenow.com/jobs/744000162621080/, Nov 20) = dup of boarded jobs.smartrecruiters.com/ServiceNow/744000162621080 — skipped.
+- TD Bank Senior Solution Architect (ServiceNow), Toronto (Nov 16) = already boarded via Built In Toronto builtintoronto.com/job/senior-solution-architect-servicenow/12280234 — skipped.
+- Scotiabank Salesforce Developer JR265640 (jobs.scotiabank.com .../604373417/) — CLOSED: "not accepting any further applicants".
+- Employer-direct: Rogers Technology page — no platform roles; Atego/fxinnovation.com portal client-side rendered, not enumerable; Bell — nothing fresh; Government of Canada/Job Bank — September–October 2026 postings only (stale).
+
+Updated source lesson: Indeed detail pages are now Cloudflare-blocked from this host (fetchable last cycle) — switched to date-sorted Indeed search snippets as liveness evidence; asterisk discovery dates. Cognizant careers also behind Cloudflare — search-indexed metadata (date published / apply-until) suffices.
