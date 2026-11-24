@@ -57,6 +57,22 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — hourly scan 2026-11-24T05:01EST
+
+Seven fresh postings verified live this cycle; deduped by URL against jobs.json, README and APPLIED.md. ServiceNow: Deloitte CMDB Solutions Architect (Remote Toronto), Deloitte Senior Consultant ServiceNow Platform (Hybrid Toronto), CGI ServiceNow Administrator/Developer (Hybrid Toronto, 250 Yonge St). Salesforce: Dentalcorp Salesforce Administrator/Developer (Toronto, Workday JR26988, listed ~Nov 17), Cognizant Salesforce QE / QA Automation Engineer (Canada Remote, Ontario preferred, posted Nov 23), Cognizant Salesforce nCino Developer (Hybrid Toronto, posted Nov 13), Deloitte Senior Consultant Salesforce Platform (Hybrid Toronto). Employer-direct checks this cycle — Rogers, Bell, Ateko/FX, Canada Life, TD, BMO, Workday CXS (bmo/td/cibc/manulife) and Government of Canada/Ontario portals — returned no fresh live platform roles (closed, expired, or already on the board). Indeed detail pages carry no posted date; those rows show the discovery date (2026-11-24) and are asterisked.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-23 | [Salesforce QA Automation Engineer (Salesforce QE)](https://careers.cognizant.com/uki-en/jobs/00071207741/salesforce-qe/) | Cognizant | Toronto, ON · Canada Remote (Ontario preferred) | cognizant careers |
+| 2026-11-17* | [Salesforce Administrator/Developer](https://dentalcorp.wd3.myworkdayjobs.com/dentalcorp/job/Toronto-Ontario/Enterprise-Applications-Administrator_JR26988) | Dentalcorp | Toronto, ON (181 Bay St; hybrid Mon–Thu onsite) | revopsroles / workday |
+| 2026-11-13 | [Salesforce nCino Developer](https://careers.cognizant.com/us-en/jobs/00070679681/salesforce-ncino-developer/) | Cognizant | Toronto, ON (hybrid) | cognizant careers |
+| 2026-11-24* | [Lead Specialist, ServiceNow CMDB Solution Architect](https://ca.indeed.com/viewjob?jk=8481424a81ab3122) | Deloitte Global Technology | Remote in Toronto, ON (Ottawa also) | indeed |
+| 2026-11-24* | [Senior Consultant, ServiceNow Platform](https://ca.indeed.com/viewjob?jk=159ae9b051d0cc56) | Deloitte Technology Canada | Hybrid, Toronto, ON (Bay Adelaide East) | indeed |
+| 2026-11-24* | [ServiceNow Administrator/Developer](https://ca.indeed.com/viewjob?jk=cf4ffdcf78006e60) | CGI | Hybrid, Toronto, ON (250 Yonge St) | indeed |
+| 2026-11-24* | [Senior Consultant, Salesforce Platform](https://ca.indeed.com/viewjob?jk=ed77066feb39f0cc) | Deloitte Technology Canada | Hybrid, Toronto, ON (Bay Adelaide East) | indeed |
+
+*Posted date not stated on the Indeed/listing page; date shown is discovery date (2026-11-24). Dentalcorp "Listed 7 days ago" relative to this scan ≈ 2026-11-17.
+
 ## Verified fresh additions — hourly scan 2026-11-23
 
 Four fresh postings from the Adzuna CA API (`max_days_old=3`, sorted by date) across this hour's and this morning's scans; deduped by URL against jobs.json, README and APPLIED.md. This hour (2026-11-23T08:00Z): two Toronto ServiceNow project roles — Flexstaf IT (ServiceNow APIs/SPM/CMDB integrations) and Innosystech Inc (ServiceNow implementation) — body-verified via the live API description; detail pages sit behind CloudFront 403 from this host, so liveness is established via the API `created` date (both posted 2026-11-20) plus title/platform match — per board policy a 403 is treated as a bot-wall on a live posting, not dead. LinkedIn guest search (ServiceNow + Salesforce, Toronto, past 24h) surfaced nothing new (every card already on the board); Workday CXS probes of bmo/td/cibc/manulife returned HTTP 422 (site names need re-discovery via careers pages); Ateko/Bell and Canada Life leads checked were either 404-expired or not platform roles.
