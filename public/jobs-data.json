@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-24T20:11:41+00:00",
+ "generatedAt": "2026-11-24T21:11:18+00:00",
  "timezone": "America/Toronto",
- "count": 4985,
+ "count": 4987,
  "appliedHidden": 25,
  "sources": [
   "103.careerplug.com",
@@ -928,6 +928,47 @@
   },
   {
    "posted": "2026-11-24",
+   "title": "Salesforce Marketing Cloud - Senior Developer",
+   "company": "Nityo Infotech",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://www.linkedin.com/jobs/view/salesforce-marketing-cloud-senior-developer-at-nityo-infotech-4494412279",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud - senior developer nityo infotech toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Marketing%20Cloud%20-%20Senior%20Developer%20Nityo%20Infotech+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Marketing%20Cloud%20-%20Senior%20Developer%20Nityo%20Infotech&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Marketing%20Cloud%20-%20Senior%20Developer%20Nityo%20Infotech&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20-%20Senior%20Developer%20Nityo%20Infotech&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-24",
    "title": "Salesforce Developer",
    "company": "Tata Consultancy Services",
    "location": "Toronto, Ontario, Canada",
@@ -1510,6 +1551,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20%28FSC%29%20CoreKloud%20Technologies&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-24",
+   "title": "Senior Salesforce Developer",
+   "company": "BMO",
+   "location": "Scarborough, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-sales-force-developer-at-bmo-4494172759",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior salesforce developer bmo scarborough, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-sales-force-developer-at-bmo-4494175406",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Salesforce%20Developer%20BMO+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Salesforce%20Developer%20BMO&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Salesforce%20Developer%20BMO&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Developer%20BMO&loc=Canada"
     }
    ],
    "toronto": true
