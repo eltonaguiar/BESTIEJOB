@@ -467,7 +467,7 @@ Priority order, with evidence and SubQ confidence where available:
 
 ## 10. Provenance
 
-- **Worktree:** `bestiejobs` (`/home/eaguiar2015/findtorontoevents_antigravity.ca/.kilo/worktrees/bestiejobs`).
+- **Worktree:** `bestiejobs` (a dedicated git worktree of the BESTIEJOB clone on the operator machine).
 - **BESTIEJOB repo:** `github.com/eltonaguiar/BESTIEJOB`, `origin/main`.
 - **Methodology docs read:** `docs/JOB_SEARCH_PROTOCOL_2026-11-02.md`, `docs/JOB_SEARCH_PLAYBOOK.md`, `docs/SERVICENOW_EXHAUSTIVE_HUNT_PLAN.md`, `docs/superpowers/specs/2026-11-11-exhaustive-sn-sf-scan-design.md`, `scripts/fresh_ca_scan.py`, `scripts/daily_job_scan.mjs`, `tools/build_site.py`, `tools/jobs_consolidate.py`.
 - **Lane artifacts:** `/tmp/kilo/discovery/servicenow/`, `/tmp/kilo/discovery/salesforce/`, `/tmp/kilo/discovery/aggregators/`.
