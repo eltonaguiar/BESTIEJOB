@@ -56,6 +56,20 @@
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
+|
+## Verified fresh additions — hourly scan 2026-11-24T09:00EST
+
+One fresh posting verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Surfaced via a targeted LinkedIn Toronto search and confirmed live on the LinkedIn jobs page: Scotiabank Salesforce Developer (requisition 265640), Toronto, Ontario, Canada — the page shows "3 weeks ago" with 134 applicants (discovery date 2026-11-24 shown, asterisked per board policy because the listing carries no absolute posted date). Role is on the Salesforce GWMT Centre of Excellence team: Apex, Visualforce, Lightning components and CI/CD (Azure DevOps, Metadata API) — genuine platform build work, in scope.
+
+Employer-direct checks this cycle — Rogers (jobs.rogers.com Technology: no platform roles), Bell (ServiceNow System Administrator req considered; no fresh live platform role), Atego/FX Innovation (not enumerable from this host), ServiceNow Careers and Cognizant careers (Cloudflare bot verification blocked this host), Government of Canada Job Bank "ServiceNow" Toronto search (27 results: keyword matches only — cloud developer, cybersecurity consultant, business consultant; no fresh ServiceNow platform roles; Blue Mantis Nov 20 and Source Code Nov 8 already on the board), TD/BMO/CIBC/Manulife Workday CXS (no fresh platform roles) — returned no other fresh live ServiceNow or Salesforce roles.
+
+Note: an earlier board entry recorded Scotiabank Salesforce Developer JR265640 as closed ("not accepting any further applicants"); this cycle's LinkedIn check shows the req live with 134 applicants — conflicting liveness evidence, retained for the user to reconcile.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-24* | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-scotiabank-4440270797) | Scotiabank | Toronto, Ontario, Canada | linkedin |
+
+*Posted date not stated absolutely on the LinkedIn listing ("3 weeks ago"); date shown is discovery date (2026-11-24) and the row is asterisked per board policy.
 
 ## Verified fresh additions — hourly scan 2026-11-24T07:00EST
 
