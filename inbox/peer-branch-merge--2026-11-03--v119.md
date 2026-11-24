@@ -143,7 +143,6 @@ notes: 166 rows recovered from aicert-harvest-2026-11-03 / kilo-deep-scan-2026-1
 | 2026-10-24 | [Salesforce AI & Data Cloud Solutions Engineer](https://www.adzuna.ca/details/5940718424) | AGF Management | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-24 | [CPQ Lead Solution Engineer - Salesforce Conga CPQ/PROS](https://www.adzuna.ca/details/5940717711) | Thomson Reuters | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-24 | [Senior Salesforce Developer REMOTE](https://www.adzuna.ca/details/5940714697) | XCentium | Canada | via aicert-harvest-2026-11-03 |
-| 2026-10-24 | [Specialist- Salesforce Architect](https://ca.linkedin.com/jobs/view/specialist-salesforce-architect-at-parkland-corporation-4445036094) | Parkland Corporation | Calgary, Alberta, Canada | via aicert-harvest-2026-11-03 |
 | 2026-10-24 | [ServiceNow Manager](https://www.adzuna.ca/details/5940716920?utm_medium=api&utm_source=54ce986e) | Ledcor | Calgary, Calgary region | via aicert-harvest-2026-11-03 |
 | 2026-10-23 | [Sr. Developer, AI and Agentforce](https://www.adzuna.ca/details/5939018375?utm_medium=api&utm_source=54ce986e) | NeuraFlash | Canada | via aicert-harvest-2026-11-03 |
 | 2026-10-23 | [Senior Lead, ServiceNow ITOM](https://www.adzuna.ca/details/5939044602) | Take-Two Interactive Software | Toronto, Ontario | via aicert-harvest-2026-11-03 |

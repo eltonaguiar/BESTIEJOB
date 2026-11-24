@@ -25,7 +25,6 @@ the note column.
 | 2026-10-29 | [ServiceNow IRM Architect (CA$100–150/hr)](https://www.adzuna.ca/details/5946009468) | Dacaro Services | Toronto, ON | adzuna — posted as "Software Engineering Consultant", ad text is SN IRM architect |
 | 2026-10-31 | [RQ00727 — Business Analyst, Intermediate (GRC/IRM, CMDB, APM)](https://www.adzuna.ca/details/5948023941) | Source Code | Toronto, ON | adzuna — SN GRC/IRM requirements |
 | 2026-10-31 | [IT Operations & CMDB Analyst](https://www.adzuna.ca/details/5948258787) | Purolator | Mississauga, ON | adzuna |
-| 2026-10-24 | [ServiceNow Manager](https://www.adzuna.ca/details/5940716920) | Ledcor | Calgary, AB | adzuna |
 | 2026-11-04 | [Manager, IT Service Management (ITSM)](https://www.adzuna.ca/details/5953261357) | Workplace Safety and Insurance Board | Canada | adzuna — WSIB req mirrored across 4 regions |
 | 2026-11-02 | [Manager, IT Service Management (ITSM)](https://www.adzuna.ca/details/5950814153) | Workplace Safety and Insurance Board | Mississauga, ON | adzuna — same WSIB req, Peel listing |
 | 2026-11-02 | [Manager, IT Service Management (ITSM)](https://www.adzuna.ca/details/5950814284) | Workplace Safety and Insurance Board | Hamilton, ON | adzuna — same WSIB req, Hamilton listing |

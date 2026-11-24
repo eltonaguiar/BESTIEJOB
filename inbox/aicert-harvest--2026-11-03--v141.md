@@ -22,9 +22,6 @@ task: cert-and-role-harvest
 | 2026-10-25 | [Senior Developer, Business Intelligence](https://www.adzuna.ca/details/5941251728?utm_medium=api&utm_source=54ce986e) | Atlantic Packaging Products | Scarborough, Toronto | via VBA Excel |
 | 2026-10-24 | [Senior Developer, Business Intelligence](https://www.adzuna.ca/details/5940437683?utm_medium=api&utm_source=54ce986e) | Atlantic Packaging Products Ltd | Toronto, Ontario | via VBA Excel |
 | 2026-10-24 | [Principle Software Developer](https://www.adzuna.ca/details/5940714501?utm_medium=api&utm_source=54ce986e) | Moneris | Toronto, Ontario | via Salesforce Administrator |
-| 2026-10-24 | [Lead Technique Salesforce – Dealer Experience](https://www.adzuna.ca/details/5940719288?utm_medium=api&utm_source=54ce986e) | BRP | Montréal, Québec | via Salesforce Platform Developer |
-| 2026-10-24 | [Senior Salesforce Developer](https://www.adzuna.ca/details/5940717636?utm_medium=api&utm_source=54ce986e) | Bpm Llp | Canada | via Salesforce Platform Developer |
-| 2026-10-24 | [Salesforce Developer 1014](https://www.adzuna.ca/details/5940436085?utm_medium=api&utm_source=54ce986e) | Veracity Ventures Inc. | Toronto, Ontario | via Salesforce Platform Developer |
 | 2026-10-23 | [Sr. Developer, AI and Agentforce](https://www.adzuna.ca/details/5939018375?utm_medium=api&utm_source=54ce986e) | NeuraFlash | Canada | via Salesforce Platform Developer |
 | 2026-10-23 | [Salesforce FSC Developer](https://www.adzuna.ca/details/5938973162?utm_medium=api&utm_source=54ce986e) | Cognizant | Toronto, Ontario | via Apex Salesforce |
 | 2026-10-22 | [ServiceNow Developer](https://www.adzuna.ca/details/5937652882?utm_medium=api&utm_source=54ce986e) | Lightspeed Commerce | Canada | via ServiceNow CSA CAD |
