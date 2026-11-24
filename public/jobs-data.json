@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T12:21:45+00:00",
+ "generatedAt": "2026-11-24T12:49:10+00:00",
  "timezone": "America/Toronto",
  "count": 4972,
  "appliedHidden": 28,
@@ -1544,47 +1544,6 @@
   },
   {
    "posted": "2026-11-23",
-   "title": "Salesforce Marketing Cloud Senior Developer",
-   "company": "Wipro Limited",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://careers.wipro.com/job/Salesforce-Marketing-Cloud-Senior-Developer/220984-en_US/",
-   "note": "wipro careers",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "careers.wipro.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce marketing cloud senior developer wipro limited toronto, ontario, canada careers.wipro.com salesforce wipro careers salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Marketing%20Cloud%20Senior%20Developer%20Wipro%20Limited+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Marketing%20Cloud%20Senior%20Developer%20Wipro%20Limited&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Marketing%20Cloud%20Senior%20Developer%20Wipro%20Limited&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Senior%20Developer%20Wipro%20Limited&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-23",
    "title": "Senior Salesforce Developer",
    "company": "Insight Global",
    "location": "Ontario, Canada",
@@ -2054,6 +2013,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Senior%20Developer%20Avanciers%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-23",
+   "title": "Salesforce Marketing Cloud Senior Developer",
+   "company": "Wipro Limited",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.wipro.com/job/Salesforce-Marketing-Cloud-Senior-Developer/220984-en_US/",
+   "note": "wipro careers",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "careers.wipro.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce marketing cloud senior developer wipro limited toronto, ontario, canada careers.wipro.com salesforce wipro careers salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Marketing%20Cloud%20Senior%20Developer%20Wipro%20Limited+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Marketing%20Cloud%20Senior%20Developer%20Wipro%20Limited&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Marketing%20Cloud%20Senior%20Developer%20Wipro%20Limited&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Marketing%20Cloud%20Senior%20Developer%20Wipro%20Limited&loc=Toronto"
     }
    ],
    "toronto": true
@@ -17024,6 +17024,18 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483777144",
      "label": "LinkedIn · Mississauga",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483760655",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/manager-systems-development-agentic-salesforce-delivery-at-co-operators-4483758677",
+     "label": "LinkedIn · Guelph",
      "gated": false
     }
    ],
@@ -44968,6 +44980,12 @@
      "url": "https://www.adzuna.ca/details/5947169671",
      "label": "Adzuna · Toronto",
      "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4482231111",
+     "label": "LinkedIn · Toronto",
+     "gated": false
     }
    ],
    "gated": false,
@@ -51114,7 +51132,14 @@
    ],
    "french": false,
    "search": "salesforce developer delpath toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-delpath-4484206074",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -52830,7 +52855,14 @@
    ],
    "french": true,
    "search": "developpeur salesforce lgs, an ibm company ville-marie, quebec, canada linkedin salesforce linkedin salesforce canada / remote",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-lgs-an-ibm-company-4431150964",
+     "label": "LinkedIn · Ville-Marie",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -186511,6 +186543,12 @@
      "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-financial-services-cloud-at-maarut-inc-4484485223",
      "label": "LinkedIn · Montreal",
      "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5945037763?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Montréal East",
+     "gated": false
     }
    ],
    "gated": false,
@@ -187439,6 +187477,12 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5945478146?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Mississauga",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-lead-at-mckesson-4484717004",
+     "label": "LinkedIn · Mississauga",
      "gated": false
     }
    ],
@@ -193903,6 +193947,54 @@
   },
   {
    "posted": "2026-10-28",
+   "title": "ServiceNow System Administrator",
+   "company": "Bell",
+   "location": "Toronto, ON / Montreal, QC",
+   "url": "https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.bell.ca",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "servicenow system administrator bell toronto, on / montreal, qc jobs.bell.ca servicenow readme servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-system-administrator-at-bell-4476350097",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20Bell+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20Bell&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20Bell&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20Bell&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-10-28",
    "title": "ServiceNow Developer Principal",
    "company": "GDIT",
    "location": "Any Location / Remote",
@@ -194650,6 +194742,12 @@
    "french": false,
    "search": "salesforce developer medcan toronto workday ats salesforce workday salesforce role fit toronto area",
    "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
     {
      "source": "jobs.ca",
      "url": "https://www.jobs.ca/medcan/jobs/salesforce-developer-toronto-on-1302474d8486",
@@ -200289,47 +200387,6 @@
     }
    ],
    "toronto": false
-  },
-  {
-   "posted": "2026-10-25",
-   "title": "ServiceNow System Administrator",
-   "company": "Bell",
-   "location": "Toronto, ON / Montreal, QC",
-   "url": "https://jobs.bell.ca/ca/en/job/432824/ServiceNow-System-Administrator",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "jobs.bell.ca",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "servicenow system administrator bell toronto, on / montreal, qc jobs.bell.ca servicenow readme servicenow role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20Bell+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20Bell&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20Bell&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20Bell&loc=Toronto"
-    }
-   ],
-   "toronto": true
   },
   {
    "posted": "2026-10-25",

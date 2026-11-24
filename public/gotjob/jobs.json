@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-24T12:18:05.461Z",
     "generatedAt": "2026-11-24T12:18:05.461Z",
-    "total": 5624,
+    "total": 5625,
     "newThisScan": 504,
     "retainedFromPrevious": 5167,
     "sources": {
@@ -32,8 +32,9 @@
     },
     "primaryCounts": {
       "servicenow": 1205,
-      "salesforce": 4309
-    }
+      "salesforce": 4310
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -708,6 +709,26 @@
       ],
       "verifiedAt": "2026-11-24T06:28:02.012407+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "wipro careers:https://careers.wipro.com/job/Salesforce-Marketing-Cloud-Senior-Developer/220984-en_US/",
+      "source": "wipro careers",
+      "company": "Wipro Limited",
+      "title": "Salesforce Marketing Cloud Senior Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://careers.wipro.com/job/Salesforce-Marketing-Cloud-Senior-Developer/220984-en_US/",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-23",
+      "scrapedAt": "2026-11-24T12:45:00.000Z",
+      "excerpt": "Employer-verified Salesforce Marketing Cloud senior developer role at Wipro Limited, Toronto (careers.wipro.com, HTTP 200 OK). Listing posted 2026-11-23.",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "verifiedAt": "2026-11-24T12:45:00.000Z",
+      "verifyState": "live",
+      "alternates": []
     },
     {
       "id": "adzuna:adzuna.ca/details/5975652935",

@@ -1,3 +1,4 @@
+<!-- merged 2026-11-24T124909Z: +0 new, 1 duplicate, version 2 -->
 # BESTIEJOB hourly scan provenance — 2026-11-24T07:00EST
 
 Scan sources this cycle:
