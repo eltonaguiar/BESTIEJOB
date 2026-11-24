@@ -34,7 +34,7 @@ PowerShell, VBA/Excel, Alteryx, Python, SQL Server, Tableau, Power BI, JIRA, Con
 
 ### Phase 0 — Preparation (once, then as needed)
 
-1. **Confirm API keys** are available in `/home/eaguiar2015/dbpasses.txt`:
+1. **Confirm API keys** are available in the path set by `DBPASSES_FILE` (default: `$HOME/dbpasses.txt`):
    - OpenRouter key (`sk-or-v1-...`) — used to generate search queries and scrutinize results
    - DeepSeek key (`sk-0a01...`) — alternate model for query generation / second opinion
    - No dedicated search API keys (Brave/Tavily/Serper/Google CSE) found; rely on websearch tool + direct site scraping
