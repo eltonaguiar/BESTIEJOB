@@ -1,7 +1,7 @@
 {
  "status": {
   "GC Jobs (federal)": {
-   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31618B",
+   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31620B",
    "raw": 0
   },
   "RemoteOK": {
@@ -9,11 +9,11 @@
    "raw": 0
   },
   "Remotive": {
-   "status": "http 200, 16 jobs",
-   "raw": 16
+   "status": "http 200, 15 jobs",
+   "raw": 15
   },
   "Himalayas": {
-   "status": "p0:20/119811, p1:20/119814, p2:20/119811, p3:20/119811, p4:20/119811",
+   "status": "p0:20/119214, p1:20/119216, p2:20/119214, p3:20/119214, p4:20/119214",
    "raw": 0
   },
   "Jobboom (QC)": {
@@ -37,7 +37,7 @@
    "raw": 0
   },
   "Jobrapido CA": {
-   "status": "http 429",
+   "status": "http 200, 0 SN links",
    "raw": 0
   },
   "Monster.ca": {
@@ -128,12 +128,7 @@
   },
   {
    "source": "Remotive",
-   "title": "Senior Back-end Developer",
-   "why": "title filter"
-  },
-  {
-   "source": "Remotive",
-   "title": "AI Trainer - Video Annotation",
+   "title": "Senior Back-end Developerusa",
    "why": "title filter"
   }
  ]
