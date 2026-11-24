@@ -56,7 +56,20 @@
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
+
+## Verified fresh additions — cron scan 2026-11-24T09:00EST
+
+Two fresh postings verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Both surfaced via a targeted LinkedIn Toronto search (past 24 hours) and confirmed live on the LinkedIn jobs page by reading the full job description: Metrolinx's ITSM analyst uses ServiceNow Performance Analytics/Platform Analytics with Problem and Change management; TCS's Salesforce Developer builds in Apex, LWC, Flows and REST/SOAP integrations across Sales Cloud and Service Cloud.
+
+|| Posted | Role | Company | Location | Source |
+||---|---|---|---|---|
+|| 2026-11-23 | [IT Service Management Analyst](https://www.linkedin.com/jobs/view/it-service-management-analyst-at-metrolinx-4494070999) | Metrolinx | Greater Toronto Area, Canada | linkedin |
+|| 2026-11-24* | [Salesforce Developer](https://www.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4494376362) | Tata Consultancy Services | Toronto, Ontario, Canada | linkedin |
+
+*Posted date not stated absolutely on the LinkedIn listing ("51 minutes ago" at scan time); date shown is discovery date (2026-11-24) and the row is asterisked per board policy.
+
 |
+
 ## Verified fresh additions — hourly scan 2026-11-24T09:00EST
 
 One fresh posting verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Surfaced via a targeted LinkedIn Toronto search and confirmed live on the LinkedIn jobs page: Scotiabank Salesforce Developer (requisition 265640), Toronto, Ontario, Canada — the page shows "3 weeks ago" with 134 applicants (discovery date 2026-11-24 shown, asterisked per board policy because the listing carries no absolute posted date). Role is on the Salesforce GWMT Centre of Excellence team: Apex, Visualforce, Lightning components and CI/CD (Azure DevOps, Metadata API) — genuine platform build work, in scope.

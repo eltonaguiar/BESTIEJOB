@@ -17,8 +17,8 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-24T14:13:09.343Z",
     "generatedAt": "2026-11-24T14:13:09.343Z",
-    "total": 5625,
-    "newThisScan": 508,
+    "total": 5627,
+    "newThisScan": 510,
     "retainedFromPrevious": 5158,
     "sources": {
       "smartrecruiters": 12,
@@ -26,17 +26,19 @@
       "greenhouse": 11,
       "lever": 1,
       "ashby": 2,
-      "linkedin": 255,
+      "linkedin": 257,
       "remotive": 6,
       "adzuna": 204
     },
     "primaryCounts": {
-      "servicenow": 1199,
-      "salesforce": 4310
+      "servicenow": 1200,
+      "salesforce": 4312
     },
     "undated": 0
   },
   "jobs": [
+    {"id":"linkedin:https://www.linkedin.com/jobs/view/it-service-management-analyst-at-metrolinx-4494070999","source":"linkedin","company":"Metrolinx","title":"IT Service Management Analyst","location":"Greater Toronto Area, Canada","url":"https://www.linkedin.com/jobs/view/it-service-management-analyst-at-metrolinx-4494070999","employmentType":"unknown","salary":null,"postedDate":"2026-11-24T00:00:00.000Z","scrapedAt":"2026-11-24T14:00:00.000Z","excerpt":"ITSM analyst role confirmed on the live LinkedIn posting: creates/manages ServiceNow reports using Performance Analytics and Platform Analytics; owns Problem ticket lifecycle; reviews IT Change requests; ITIL incident/request/problem/knowledge/change processes. GTA.","workArrangement":"unknown","tags":["servicenow"]},
+    {"id":"linkedin:https://www.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4494376362","source":"linkedin","company":"Tata Consultancy Services","title":"Salesforce Developer","location":"Toronto, Ontario, Canada","url":"https://www.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4494376362","employmentType":"full-time","salary":{"min":100000,"max":120000,"currency":"CAD","display":"$100K-$120K"},"postedDate":"2026-11-24T13:09:00.000Z","scrapedAt":"2026-11-24T14:00:00.000Z","excerpt":"Salesforce Developer confirmed on the live LinkedIn posting: design/develop/deploy Salesforce solutions; Apex, Triggers, Batch Apex, LWC, SOQL/SOSL; Flows, validation rules, approval processes, custom objects/fields, security controls; REST/SOAP integrations; Data Loader; Sales Cloud and Service Cloud. CA$100K–120K.","workArrangement":"unknown","tags":["salesforce"]},
     {
       "id": "adzuna:adzuna.ca/details/5977112065",
       "source": "adzuna",
