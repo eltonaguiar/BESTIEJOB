@@ -3,46 +3,47 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-24T00:02:36.724Z** · 4497 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-24T16:05:56.449Z** · 4489 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-24 | [Architecte ServiceNow (ITOM / ITAM)](https://ca.linkedin.com/jobs/view/architecte-servicenow-itom-itam-at-systematix-4494384236) | Systematix | Montreal, Quebec, Canada |
+| 2026-11-24 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469975858) | Pomerleau | Montreal, Quebec, Canada |
 | 2026-11-23 | [servicenow cosultant](https://ca.linkedin.com/jobs/view/servicenow-cosultant-at-nlb-services-4494085039) | NLB Services | Mississauga, Ontario, Canada |
 | 2026-11-23 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-alldus-4492635219) | Alldus | Canada |
-| 2026-11-23 | [ServiceNow Technical Architect](https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-alldus-4492622723) | Alldus | Canada |
-| 2026-11-23 | [Service Now Consultant _SAM](https://ca.linkedin.com/jobs/view/service-now-consultant-sam-at-futran-solutions-4493665044) | Futran Solutions | Canada |
 | 2026-11-23 | [Servicenow Expert](https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4493908405) | KTek Resourcing | Canada |
+| 2026-11-23 | [Service Now Consultant _SAM](https://ca.linkedin.com/jobs/view/service-now-consultant-sam-at-futran-solutions-4493665044) | Futran Solutions | Canada |
+| 2026-11-23 | [ServiceNow Technical Architect](https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-alldus-4492622723) | Alldus | Canada |
 | 2026-11-22 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ232563-1) | GDIT | Any Location / Remote |
+| 2026-11-22 | [Staff Technology Operations Lead, Service & Transition (ITSM)](https://www.adzuna.ca/details/5974907741) | TJMaxx | Mississauga, Peel region |
 | 2026-11-22 | [Manager, ServiceNow Platform](https://www.adzuna.ca/details/5974911787) | iA Financial Group | Canada |
 | 2026-11-22 | [Cyber Advisory Solution Consultant](https://www.adzuna.ca/details/5974890953) | ServiceNow, Inc. | Toronto, Ontario |
 | 2026-11-22 | [Solution Sales Executive, Moveworks](https://www.adzuna.ca/details/5974890956) | ServiceNow, Inc. | Toronto, Ontario |
-| 2026-11-22 | [Sr Mgr, Sales, Cyber](https://www.adzuna.ca/details/5974890954) | ServiceNow, Inc. | Toronto, Ontario |
-| 2026-11-22 | [Solution Sales Executive - Moveworks](https://www.adzuna.ca/details/5974890957) | ServiceNow, Inc. | Toronto, Ontario |
-| 2026-11-22 | [Cyber Enterprise Account Exec](https://www.adzuna.ca/details/5974890955) | ServiceNow, Inc. | Toronto, Ontario |
 
 ### Salesforce — newest 12
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-24 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5977112065) | March Networks | Ottawa, Ottawa region |
+| 2026-11-24 | [Senior Salesforce Developer Temp FT](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-temp-ft-at-ehn-canada-4494375495) | EHN Canada | Toronto, Ontario, Canada |
+| 2026-11-24 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4494382178) | Smart IT Frame LLC | Toronto, Ontario, Canada |
+| 2026-11-24 | [Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-ia-financial-group-industrial-alliance-4494149845) | iA Financial Group (Industrial Alliance) | Quebec, Canada |
+| 2026-11-24 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300) | Alithya | Montreal, Quebec, Canada |
 | 2026-11-23 | [Senior Back-End Email Developer (Salesforce Marketing Cloud)](https://www.adzuna.ca/details/5976294092) | Intact Financial | Montréal, Québec |
+| 2026-11-23 | [Salesforce Developer 1014](https://www.adzuna.ca/details/5976166298) | Veracity Ventures Inc. | Toronto, Ontario |
 | 2026-11-23 | [Salesforce Administrator \| SFMC + Data Cloud \| Natural Health \| Hybrid in Toronto \| $60-75k + Benefits](https://ca.linkedin.com/jobs/view/salesforce-administrator-sfmc-%2B-data-cloud-natural-health-hybrid-in-toronto-%2460-75k-%2B-benefits-at-white-bay-4494072701) | White Bay | North York, Ontario, Canada |
 | 2026-11-23 | [Salesforce Administrator](https://ca.linkedin.com/jobs/view/salesforce-administrator-at-doctors-of-bc-4494038737) | Doctors of BC | Greater Vancouver, British Columbia, Canada |
 | 2026-11-23 | [Senior Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/senior-salesforce-tech-lead-at-cognizant-4494018414) | Cognizant | Toronto, Ontario, Canada |
 | 2026-11-23 | [Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-at-cognizant-4494074582) | Cognizant | Toronto, Ontario, Canada |
-| 2026-11-23 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-highspring-4493661253) | Highspring | Toronto, Ontario, Canada |
-| 2026-11-23 | [Salesforce Marketing Cloud Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-senior-developer-at-avanciers-inc-4492645316) | Avanciers Inc. | Toronto, Ontario, Canada |
-| 2026-11-23 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-cloudoplus-4493575307) | Cloudoplus | Ontario, Canada |
-| 2026-11-23 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-brainhunter-systems-ltd-4492618746) | Brainhunter Systems Ltd | Toronto, Ontario, Canada |
-| 2026-11-23 | [Salesforce Business Analyst manager](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-manager-at-cognizant-4494027154) | Cognizant | Toronto, Ontario, Canada |
-| 2026-11-23 | [Sr. Salesforce Business Analyst (FSC)](https://ca.linkedin.com/jobs/view/sr-salesforce-business-analyst-fsc-at-cgi-4492043976) | CGI | Toronto, Ontario, Canada |
-| 2026-11-23 | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-campus4tech-4493925082) | Campus4Tech | Canada |
 
 ### Other keyword matches — newest 10
 
 | Posted | Role | Company | Location | Keyword |
 |---|---|---|---|---|
+| 2026-11-23 | [Senior Consultant, Product Engineering & Development - Full-Stack Builder](https://www.adzuna.ca/details/5976696893) | Deloitte | Toronto, Ontario | Full stack |
+| 2026-11-23 | [Senior Developer, Business Intelligence](https://www.adzuna.ca/details/5976169847) | Atlantic Packaging Products Ltd | Toronto, Ontario | Data / BI |
 | 2026-11-23 | [Middle Full-Stack Engineer (React, Java)](https://www.adzuna.ca/details/5976166477) | Miratech | Toronto, Ontario | Full stack |
 | 2026-11-22 | [RQ00788 - Software Developer - Full Stack - Seniorx3](https://www.adzuna.ca/details/5975114230) | Source Code | Toronto, Ontario | Full stack |
 | 2026-11-22 | [Group Sales Operations & Execution Manager](https://www.adzuna.ca/details/5974894773) | Triumph Group of Companies | Brampton, Peel region | other |
@@ -51,11 +52,19 @@
 | 2026-11-22 | [Senior Consultant / Consultant, SAP BTP Full-Stack & Integration Developer](https://ca.linkedin.com/jobs/view/senior-consultant-consultant-sap-btp-full-stack-integration-developer-at-deloitte-4460513142) | Deloitte | Toronto, Ontario, Canada | Full stack |
 | 2026-11-22 | [Site Reliability Engineer](https://ca.linkedin.com/jobs/view/site-reliability-engineer-at-apex-systems-4479548832) | Apex Systems | Burnaby, British Columbia, Canada | DevOps / Cloud |
 | 2026-11-21 | [Senior Manager, Financial Planning & Analysis](https://www.adzuna.ca/details/5974640215?utm_medium=api&utm_source=54ce986e) | Sleep Country | Brampton, Peel region | other |
-| 2026-11-21 | [Planner, Demand Planning](https://www.adzuna.ca/details/5974640209?utm_medium=api&utm_source=54ce986e) | ENDY | Toronto, Ontario | other |
-| 2026-11-21 | [Controls Technologist](https://www.adzuna.ca/details/5974640200?utm_medium=api&utm_source=54ce986e) | Magna International, Inc | Guelph, Wellington region | other |
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
+
+## Verified fresh additions — hourly scan 2026-11-24T11:00EST
+
+One fresh posting verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Surfaced by today's LinkedIn Toronto scan and confirmed live on LinkedIn's jobs page — posted "3 minutes ago" at scan time. iA Financial Group Salesforce Technical Lead, Quebec, Canada; the listing shows Salesforce Financial Services Cloud / Marketing Cloud context (full description is behind LinkedIn's sign-in modal, so this row is added on title/company/location/recency evidence with discovery date per board policy). Salesforce Technical Lead is mid-level, not an entry-level Platform Admin/Developer I role.
+
+Employer-direct partner/employer checks this cycle — Rogers (jobs.rogers.com: server-side shell, zero platform roles server-side), Bell (all platform reqs expired: SN System Administrator Oct 20 2026, Salesforce Developer Jun 24 2026, 2027 Grad Program Nov 16 2026), ServiceNow Careers Toronto (SRE/security/engineering roles only — no Platform Admin/Developer I), Government of Canada Job Bank (Radware-walled; September–October 2026 postings stale) — returned no fresh live platform roles. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce this hour.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-24 | [Salesforce Technical Lead](https://ca.linkedin.com/jobs/view/salesforce-technical-lead-at-ia-financial-group-industrial-alliance-4494149845) | iA Financial Group (Industrial Alliance) | Quebec, Canada | linkedin |
 
 ## Verified fresh additions — cron scan 2026-11-24T09:00EST
 
