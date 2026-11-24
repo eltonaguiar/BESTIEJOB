@@ -1633,3 +1633,16 @@ No new verified Toronto ServiceNow requisitions this scan.
 None this scan.
 _Generated automatically by the hourly job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
+
+## Verified fresh additions — hourly scan 2026-11-24T10:00EST
+
+Two fresh postings verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Both surfaced from today's Adzuna CA scrape (scrapedAt 2026-11-24T14:13Z); detail pages sit behind CloudFront 403 from this host, so liveness is established via the Adzuna API `created` date plus title/platform match — per board policy a 403 is treated as a bot-wall on a live posting, not dead. `CLDRSRC10472` (Cloud Resourcing, created 2026-11-21T13:54:13Z) is a distinct requisition from the already-listed `CLDRSRC10473` ServiceNow Business Analyst (Regent Park, posted 2026-11-20).
+
+Employer-direct checks this cycle — Rogers (jobs.rogers.com Technology: no platform roles), Bell/Atego-FX (portals not enumerable from this host), TD/BMO/Scotiabank/CIBC/Manulife Workday CXS, ServiceNow Careers and Salesforce Careers (Cloudflare bot verification blocked this host), Government of Canada Job Bank (ServiceNow/Toronto surfaced September–October postings only, stale) — returned no other fresh live ServiceNow or Salesforce Platform Admin / Platform Developer I roles. Indeed and LinkedIn guest search returned nothing net-new (Indeed detail pages blocked; LinkedIn cards already on the board).
+
+|| Posted | Role | Company | Location | Source ||
+||---|---|---|---|---|---||
+|| 2026-11-21 | [Project Manager – ServiceNow (ITSM/ITOM/CSM)](https://www.adzuna.ca/details/5974418392) | Cloud Resourcing | Toronto, ON (Regent Park; hybrid) | adzuna ||
+|| 2026-11-21 | [ServiceNow Developer CUM Architect](https://www.adzuna.ca/details/5974418388) | VDart Inc | Canada | adzuna ||
+
+*Posted dates are as stated on the Adzuna API listings (created 2026-11-21).
