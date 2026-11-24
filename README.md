@@ -85,6 +85,23 @@ Seven fresh postings verified live this cycle; deduped by URL against jobs.json,
 
 *Posted date not stated on the Indeed/listing page; date shown is discovery date (2026-11-24). Dentalcorp "Listed 7 days ago" relative to this scan ≈ 2026-11-17.
 
+## Verified fresh additions — hourly scan 2026-11-24T02:00EST
+
+Eight fresh postings verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. ServiceNow: Brookfield Asset Management contract ServiceNow Developer (Toronto, 181 Bay St, in-office, Nov 2026–Jun 2027 backfill), ServiceNow Inc. Senior Systems Engineer (Toronto, flexible, posted Nov 20), Real Ventures ServiceNow Developer (Toronto, hands-on ITSM/HRSD development, posted Nov 9). Salesforce: Cognizant Salesforce Developer (Toronto remote in Canada, posted Nov 12), Avanciers Salesforce Developer (Toronto hybrid, Financial Services Cloud, posted Nov 21), Cognizant Senior Salesforce Developer (Toronto remote in Canada, posted Nov 19), CGI Salesforce Developer (Toronto hybrid, banking domain, posted Nov 18), Cognizant Salesforce Tech Lead (Toronto hybrid Ontario, posted Nov 23). Employer-direct checks this cycle — Rogers (jobs.rogers.com Technology: no platform roles), Bell/Ateko (FX Innovation portal not enumerable from this host), Government of Canada Job Bank (surfaced postings were September–October 2026, stale) — returned no fresh live platform roles.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-18* | [ServiceNow Developer (contract)](https://builtin.com/job/servicenow-developer-contract-role/11759583) | Brookfield Asset Management | Toronto, ON (181 Bay St; in-office) | builtin |
+| 2026-11-20 | [Senior Systems Engineer](https://careers.servicenow.com/jobs/744000162621080/senior-systems-engineer/) | ServiceNow, Inc. | Toronto, ON (flexible) | servicenow careers |
+| 2026-11-09 | [ServiceNow Developer](https://jobs.realventures.com/companies/real-ventures/jobs/99366763-servicenow-developer) | Real Ventures | Toronto, ON, Canada | real ventures jobs |
+| 2026-11-12 | [Salesforce Developer](https://careers.cognizant.com/global-en/jobs/00071305431/salesforce-developer/) | Cognizant | Toronto, ON (remote in Canada) | cognizant careers |
+| 2026-11-21 | [Salesforce Developer](https://revopscareers.com/job/avanciers-salesforce-developer-toronto-ontario-canada/) | Avanciers | Toronto, ON (hybrid) | revops careers |
+| 2026-11-19 | [Senior Salesforce Developer](https://careers.cognizant.com/apj-en/jobs/00071200141/senior-salesforce-developer/) | Cognizant | Toronto, ON (remote in Canada) | cognizant careers |
+| 2026-11-18 | [Salesforce Developer](https://mettlespark.com/jobs/salesforce-developer-at-cgi-aebddc035fa612f176ae433a) | CGI | Toronto, ON (hybrid) | mettlespark / CGI |
+| 2026-11-23 | [Salesforce Tech Lead](https://careers.cognizant.com/us-en/jobs/00071231443/salesforce-tech-lead/) | Cognizant | Toronto, ON (hybrid, Ontario) | cognizant careers |
+
+*Posted date not stated on the listing; date shown is the discovery/derived date per board policy (Brookfield "6 days ago" ≈ 2026-11-18).
+
 ## Verified fresh additions — hourly scan 2026-11-23
 
 Four fresh postings from the Adzuna CA API (`max_days_old=3`, sorted by date) across this hour's and this morning's scans; deduped by URL against jobs.json, README and APPLIED.md. This hour (2026-11-23T08:00Z): two Toronto ServiceNow project roles — Flexstaf IT (ServiceNow APIs/SPM/CMDB integrations) and Innosystech Inc (ServiceNow implementation) — body-verified via the live API description; detail pages sit behind CloudFront 403 from this host, so liveness is established via the API `created` date (both posted 2026-11-20) plus title/platform match — per board policy a 403 is treated as a bot-wall on a live posting, not dead. LinkedIn guest search (ServiceNow + Salesforce, Toronto, past 24h) surfaced nothing new (every card already on the board); Workday CXS probes of bmo/td/cibc/manulife returned HTTP 422 (site names need re-discovery via careers pages); Ateko/Bell and Canada Life leads checked were either 404-expired or not platform roles.
