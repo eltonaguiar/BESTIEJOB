@@ -32,3 +32,8 @@ Both are discovery-date rows (2026-11-24, asterisked per board policy) because t
 4. Scarborough is in the City of Toronto (in scope); Markham, Mississauga, Vaughan are not.
 5. "CRM Developer" ≠ Salesforce platform — Oracle Siebel postings recur under CRM keywords; reject by body, not title.
 6. Same title + distinct req IDs + distinct cities (BMO Scarborough / Toronto) = separate rows; keep both.
+
+## Site publishing — how this cycle's rows reached GitHub Pages
+1. README.md is merged first (this commit). `tools/build_site.py` renders `public/` from every table row in README.md plus `jobs.json`, so fresh README rows appear on eltonaguiar.github.io/BESTIEJOB without waiting for the feed — verified live: `jobs-data.json` generated 2026-11-24T20:13:13Z (4,986 jobs) carries the BMO card (Scarborough primary, Toronto req listed as the "Also listed" alternate mirror).
+2. `pages.yml` deploys `public/` on push to main touching README.md; this commit carries `[skip ci]` so the push-triggered deploy was skipped — I dispatched `pages.yml` manually (`gh workflow run "Deploy GitHub Pages"`; run 45478441097, completed success, build 13s + deploy 10s). The scheduled `:35 UTC` redeploy covers future `[skip ci]` scan pushes.
+3. `jobs.json` is the scan's system of record and is re-synced from README rows by the next hourly scan (`sync_readme_to_jobs.mjs`); do not hand-edit `jobs.json` mid-cycle — the next hourly run re-derives it from the scan feed plus README rows.
