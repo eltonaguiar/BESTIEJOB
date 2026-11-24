@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-24T08:15:55+00:00",
+ "generatedAt": "2026-11-24T09:14:12+00:00",
  "timezone": "America/Toronto",
- "count": 4969,
+ "count": 4970,
  "appliedHidden": 28,
  "sources": [
   "103.careerplug.com",
@@ -187,6 +187,7 @@
   "jobsus.deloitte.com",
   "kickstartremote.com",
   "kitjob.ca",
+  "konrad.com",
   "lanefour.com",
   "leadingtalent.ca",
   "likeremote.com",
@@ -559,6 +560,149 @@
   },
   {
    "posted": "2026-11-24",
+   "title": "ServiceNow Developer / Insight Global Jobs",
+   "company": "Insight Global Jobs",
+   "location": "Canada",
+   "url": "https://insightglobal.dejobs.org/vancouver-bc/servicenow-developer/4815E8EE49E944CCBFA5934F8AFED634/job/",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "insightglobal.dejobs.org",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow developer / insight global jobs insight global jobs canada insightglobal.dejobs.org servicenow readme servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-at-insight-global-4433236578",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20/%20Insight%20Global%20Jobs%20Insight%20Global%20Jobs+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20/%20Insight%20Global%20Jobs%20Insight%20Global%20Jobs&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20/%20Insight%20Global%20Jobs%20Insight%20Global%20Jobs&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20/%20Insight%20Global%20Jobs%20Insight%20Global%20Jobs&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-24",
+   "title": "Salesforce Architect (Loyalty & Data 360)",
+   "company": "Konrad",
+   "location": "Toronto, ON",
+   "url": "https://www.konrad.com/careers/job/salesforce-architect-loyalty-data-360_8208217003",
+   "note": "konrad",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "konrad.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce architect (loyalty & data 360) konrad toronto, on konrad.com salesforce konrad salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-loyalty-data-360-at-konrad-4491325080",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5972733701",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Architect%20%28Loyalty%20%26%20Data%20360%29%20Konrad+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Architect%20%28Loyalty%20%26%20Data%20360%29%20Konrad&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Architect%20%28Loyalty%20%26%20Data%20360%29%20Konrad&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Architect%20%28Loyalty%20%26%20Data%20360%29%20Konrad&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-24",
+   "title": "Salesforce Developer (FSC)",
+   "company": "CoreKloud Technologies",
+   "location": "Toronto, ON",
+   "url": "https://www.simplyhired.ca/job/zpDOIQFRppfnd8awnPLDJ2_4_yrZn781QmC2VB1-FamKlviYBZXtZA",
+   "note": "simplyhired",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "simplyhired.ca",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer (fsc) corekloud technologies toronto, on simplyhired.ca salesforce simplyhired salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Developer%20%28FSC%29%20CoreKloud%20Technologies+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20%28FSC%29%20CoreKloud%20Technologies&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20%28FSC%29%20CoreKloud%20Technologies&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20%28FSC%29%20CoreKloud%20Technologies&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-24",
    "title": "Senior Consultant, Salesforce Platform",
    "company": "Deloitte Technology Canada",
    "location": "Hybrid, Toronto, ON (Bay Adelaide East)",
@@ -635,6 +779,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Analyste%20d%E2%80%99affaires%20Salesforce%20Alithya&loc=Montreal"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-24",
+   "title": "Salesforce Developer",
+   "company": "Harbor",
+   "location": "Remote, Canada",
+   "url": "https://remotive.com/remote/jobs/software-development/salesforce-developer-6675525",
+   "note": "remotive",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "remotive.com",
+   "verified": "Aggregator",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce developer harbor remote, canada remotive.com salesforce remotive salesforce role fit canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5974910194",
+     "label": "Adzuna · Canada",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Harbor+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Harbor&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Harbor&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Harbor&loc=Canada"
     }
    ],
    "toronto": false
@@ -1391,54 +1583,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Administrator%20/%20SFMC%20%2B%20Data%20Cloud%20/%20Natural%20Health%20/%20Hybrid%20in%20Toronto%20/%20%2460-75k%20%2B%20Benefits%20White%20Bay&loc=Canada"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-23",
-   "title": "Salesforce Architect (Loyalty & Data 360)",
-   "company": "Konrad",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-architect-loyalty-data-360-at-konrad-4491325080",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce architect (loyalty & data 360) konrad toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5972733701",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Architect%20%28Loyalty%20%26%20Data%20360%29%20Konrad+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Architect%20%28Loyalty%20%26%20Data%20360%29%20Konrad&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Architect%20%28Loyalty%20%26%20Data%20360%29%20Konrad&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Architect%20%28Loyalty%20%26%20Data%20360%29%20Konrad&loc=Toronto"
     }
    ],
    "toronto": true
@@ -2729,47 +2873,6 @@
   },
   {
    "posted": "2026-11-22",
-   "title": "Salesforce Developer",
-   "company": "Harbor",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5974910194",
-   "note": "adzuna",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce developer harbor canada adzuna salesforce adzuna salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Harbor+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Harbor&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Harbor&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Harbor&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-22",
    "title": "Salesforce Business Process Analyst",
    "company": "Jobgether",
    "location": "Canada",
@@ -3466,15 +3569,15 @@
   },
   {
    "posted": "2026-11-21",
-   "title": "Sr ServiceNow Business Process Consultant - Toronto Canada",
+   "title": "Sr ServiceNow Business Process Consultant",
    "company": "Blue Mantis",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5974233718",
-   "note": "adzuna",
+   "location": "Toronto, ON",
+   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50771689",
+   "note": "jobbank",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "source": "Job Bank",
+   "verified": "Employer board",
    "match": 88,
    "matchReasons": [
     "ServiceNow",
@@ -3482,8 +3585,14 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "sr servicenow business process consultant - toronto canada blue mantis toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
+   "search": "sr servicenow business process consultant blue mantis toronto, on job bank servicenow jobbank servicenow role fit toronto area",
    "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5974233718",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/sr-servicenow-business-process-consultant-at-blue-mantis-4492804605",
@@ -3495,19 +3604,19 @@
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr%20ServiceNow%20Business%20Process%20Consultant%20-%20Toronto%20Canada%20Blue%20Mantis+Toronto+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Sr%20ServiceNow%20Business%20Process%20Consultant%20Blue%20Mantis+Toronto+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr%20ServiceNow%20Business%20Process%20Consultant%20-%20Toronto%20Canada%20Blue%20Mantis&location=Toronto"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr%20ServiceNow%20Business%20Process%20Consultant%20Blue%20Mantis&location=Toronto"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr%20ServiceNow%20Business%20Process%20Consultant%20-%20Toronto%20Canada%20Blue%20Mantis&l=Toronto"
+     "url": "https://ca.indeed.com/jobs?q=Sr%20ServiceNow%20Business%20Process%20Consultant%20Blue%20Mantis&l=Toronto"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr%20ServiceNow%20Business%20Process%20Consultant%20-%20Toronto%20Canada%20Blue%20Mantis&loc=Toronto"
+     "url": "https://www.adzuna.ca/search?q=Sr%20ServiceNow%20Business%20Process%20Consultant%20Blue%20Mantis&loc=Toronto"
     }
    ],
    "toronto": true
@@ -7038,6 +7147,54 @@
   },
   {
    "posted": "2026-11-20",
+   "title": "Project Manager - ServiceNow",
+   "company": "Apptoza Inc.",
+   "location": "Toronto, ON",
+   "url": "https://jobs.ca/apptoza-inc/jobs/project-manager-servicenow-toronto-on-b60bdbe75e46",
+   "note": "jobs.ca",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "project manager - servicenow apptoza inc. toronto, on jobs.ca servicenow jobs.ca servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-servicenow-at-apptoza-inc-4491624485",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Project%20Manager%20-%20ServiceNow%20Apptoza%20Inc.+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Project%20Manager%20-%20ServiceNow%20Apptoza%20Inc.&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Project%20Manager%20-%20ServiceNow%20Apptoza%20Inc.&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Project%20Manager%20-%20ServiceNow%20Apptoza%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-20",
    "title": "Hybrid! Project Manager/Leader (ServiceNow) - Senior, 6 Ms contract extendable",
    "company": "Dimensional Tech",
    "location": "Canada",
@@ -10094,47 +10251,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Project%20Manager%20-%20strong%20technical%20ServiceNow%20Apptoza%20Inc.&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-19",
-   "title": "Project Manager – ServiceNow",
-   "company": "Apptoza Inc.",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/project-manager-%E2%80%93-servicenow-at-apptoza-inc-4491624485",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "project manager – servicenow apptoza inc. toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Project%20Manager%20%E2%80%93%20ServiceNow%20Apptoza%20Inc.+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Project%20Manager%20%E2%80%93%20ServiceNow%20Apptoza%20Inc.&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Project%20Manager%20%E2%80%93%20ServiceNow%20Apptoza%20Inc.&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Project%20Manager%20%E2%80%93%20ServiceNow%20Apptoza%20Inc.&loc=Toronto"
     }
    ],
    "toronto": true
@@ -18302,6 +18418,53 @@
   },
   {
    "posted": "2026-11-17",
+   "title": "Information Technology Service Management Consultant",
+   "company": "G-FORCE IT SERVICES INC.",
+   "location": "Toronto, ON",
+   "url": "https://jobs.ca/g-force-it-services-inc/jobs/information-technology-service-management-consultant-toronto-on-5926e44be053",
+   "note": "jobs.ca",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "jobs.ca",
+   "verified": "Aggregator",
+   "match": 20,
+   "matchReasons": [
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "information technology service management consultant g-force it services inc. toronto, on jobs.ca other jobs.ca role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/information-technology-service-management-consultant-at-g-force-it-services-inc-4490140539",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Information%20Technology%20Service%20Management%20Consultant%20G-FORCE%20IT%20SERVICES%20INC.+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20Service%20Management%20Consultant%20G-FORCE%20IT%20SERVICES%20INC.&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Information%20Technology%20Service%20Management%20Consultant%20G-FORCE%20IT%20SERVICES%20INC.&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Information%20Technology%20Service%20Management%20Consultant%20G-FORCE%20IT%20SERVICES%20INC.&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-17",
    "title": "Senior Business Analyst – Property & Casualty Insurance (Automobile)",
    "company": "Maarut",
    "location": "Lévis, Desjardins",
@@ -22305,46 +22468,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=DevOps%20Architect%20%28CAN%29%20Momentum&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-16",
-   "title": "Information Technology Service Management Consultant",
-   "company": "G-FORCE IT SERVICES INC",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/information-technology-service-management-consultant-at-g-force-it-services-inc-4490140539",
-   "note": "linkedin",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "information technology service management consultant g-force it services inc toronto, ontario, canada linkedin other linkedin role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Information%20Technology%20Service%20Management%20Consultant%20G-FORCE%20IT%20SERVICES%20INC+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20Service%20Management%20Consultant%20G-FORCE%20IT%20SERVICES%20INC&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Information%20Technology%20Service%20Management%20Consultant%20G-FORCE%20IT%20SERVICES%20INC&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Information%20Technology%20Service%20Management%20Consultant%20G-FORCE%20IT%20SERVICES%20INC&loc=Toronto"
     }
    ],
    "toronto": true
@@ -30915,6 +31038,12 @@
    "french": false,
    "search": "servicenow implementation architect pacer group toronto, ontario adzuna servicenow adzuna servicenow role fit toronto area",
    "alternates": [
+    {
+     "source": "jobs.ca",
+     "url": "https://jobs.ca/pacer-group/jobs/servicenow-implementation-architect-toronto-on-6063b1807c48",
+     "label": "jobs.ca · Toronto",
+     "gated": false
+    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/servicenow-implementation-architect-at-pacer-group-4488236494",
@@ -67202,6 +67331,67 @@
   },
   {
    "posted": "2026-11-08",
+   "title": "Specialized IT Consultant - Intermediate (ServiceNow SPM)",
+   "company": "Source Code",
+   "location": "Toronto, ON",
+   "url": "https://www.on.jobbank.gc.ca/jobsearch/jobposting/50698289",
+   "note": "jobbank",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Job Bank",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "SPM/PPM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "specialized it consultant - intermediate (servicenow spm) source code toronto, on job bank servicenow jobbank servicenow spm/ppm role fit toronto area",
+   "alternates": [
+    {
+     "source": "Job Bank",
+     "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50492172",
+     "label": "Job Bank · Toronto",
+     "gated": false
+    },
+    {
+     "source": "CareerBeacon",
+     "url": "https://www.careerbeacon.com/en/job-9/3796853/source-code/rq00757-specialized-it-consultant-intermediate/toronto",
+     "label": "CareerBeacon · Canada",
+     "gated": false
+    },
+    {
+     "source": "CareerBeacon",
+     "url": "https://www.careerbeacon.com/en/job-9/3954299/source-code/rq00757-specialized-it-consultant-intermediate/toronto-on",
+     "label": "CareerBeacon · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Specialized%20IT%20Consultant%20-%20Intermediate%20%28ServiceNow%20SPM%29%20Source%20Code+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Specialized%20IT%20Consultant%20-%20Intermediate%20%28ServiceNow%20SPM%29%20Source%20Code&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Specialized%20IT%20Consultant%20-%20Intermediate%20%28ServiceNow%20SPM%29%20Source%20Code&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Specialized%20IT%20Consultant%20-%20Intermediate%20%28ServiceNow%20SPM%29%20Source%20Code&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-08",
    "title": "ServiceNow Software Developer",
    "company": "Canada Life",
    "location": "Toronto, Ontario, Canada",
@@ -93172,61 +93362,6 @@
   },
   {
    "posted": "2026-11-04",
-   "title": "RQ00757 Specialized IT Consultant - ServiceNow SPM Developer",
-   "company": "Ontario public sector (via Talent.com/Job Bank)",
-   "location": "Toronto, ON; hybrid 3d Metro Hall",
-   "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50492172",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Job Bank",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "SPM/PPM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "rq00757 specialized it consultant - servicenow spm developer ontario public sector (via talent.com/job bank) toronto, on; hybrid 3d metro hall job bank servicenow readme servicenow spm/ppm role fit toronto area",
-   "alternates": [
-    {
-     "source": "CareerBeacon",
-     "url": "https://www.careerbeacon.com/en/job-9/3796853/source-code/rq00757-specialized-it-consultant-intermediate/toronto",
-     "label": "CareerBeacon · Canada",
-     "gated": false
-    },
-    {
-     "source": "CareerBeacon",
-     "url": "https://www.careerbeacon.com/en/job-9/3954299/source-code/rq00757-specialized-it-consultant-intermediate/toronto-on",
-     "label": "CareerBeacon · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=RQ00757%20Specialized%20IT%20Consultant%20-%20ServiceNow%20SPM%20Developer%20Ontario%20public%20sector%20%28via%20Talent.com/Job%20Bank%29+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=RQ00757%20Specialized%20IT%20Consultant%20-%20ServiceNow%20SPM%20Developer%20Ontario%20public%20sector%20%28via%20Talent.com/Job%20Bank%29&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=RQ00757%20Specialized%20IT%20Consultant%20-%20ServiceNow%20SPM%20Developer%20Ontario%20public%20sector%20%28via%20Talent.com/Job%20Bank%29&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=RQ00757%20Specialized%20IT%20Consultant%20-%20ServiceNow%20SPM%20Developer%20Ontario%20public%20sector%20%28via%20Talent.com/Job%20Bank%29&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-04",
    "title": "ITAM PROJECT MANAGER - SERVICENOW HAM/SAM",
    "company": "Insight Global",
    "location": "Toronto, Ontario",
@@ -97203,47 +97338,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Job%20-%20Toronto%2C%20ON%2C%20Canada%20%28Epsilon%20Solutions%29%20Toronto%2C%20ON%2C%20Canada%20%28Epsilon%20Solutions%29&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-04",
-   "title": "ServiceNow Developer / Insight Global Jobs",
-   "company": "Insight Global Jobs",
-   "location": "Canada",
-   "url": "https://insightglobal.dejobs.org/vancouver-bc/servicenow-developer/4815E8EE49E944CCBFA5934F8AFED634/job/",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "insightglobal.dejobs.org",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow developer / insight global jobs insight global jobs canada insightglobal.dejobs.org servicenow readme servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20/%20Insight%20Global%20Jobs%20Insight%20Global%20Jobs+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20/%20Insight%20Global%20Jobs%20Insight%20Global%20Jobs&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20/%20Insight%20Global%20Jobs%20Insight%20Global%20Jobs&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20/%20Insight%20Global%20Jobs%20Insight%20Global%20Jobs&loc=Canada"
     }
    ],
    "toronto": false

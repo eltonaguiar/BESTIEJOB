@@ -1586,6 +1586,24 @@ Two employer-direct requisitions verified live this hour; not in the Adzuna / Jo
 | 2026-10-24 | [Salesforce & Agentforce Functional Architect](https://www.adzuna.ca/details/5940719653) | UNAVAILABLE | Toronto, Ontario | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v144.md |
 | 2026-10-24 | [Analyste / Administrateur Salesforce](https://ca.linkedin.com/jobs/view/analyste-administrateur-salesforce-at-wepoint-4482350344) | Wepoint | Montreal, Quebec, Canada | via peer-bestiejob-scan-refresh-20261102--2026-11-02--v144.md |
 
+## Verified fresh additions — hourly scan 2026-11-24T04:00EST
+
+Nine fresh postings verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. ServiceNow: Insight Global Intermediate ServiceNow Developer contract (Toronto, ~1 day ago), Blue Mantis Sr ServiceNow Business Process Consultant (Job Bank, posted Nov 20, Toronto; remote hybrid with Concord ON onsite option), G-FORCE IT Services IT Service Management Consultant (jobs.ca, posted Nov 17, Toronto on-site), Apptoza Inc Project Manager – ServiceNow (jobs.ca, posted Nov 20, Toronto hybrid contract), Pacer Group ServiceNow Implementation Architect (jobs.ca, posted Nov 12, Toronto hybrid), Source Code Specialized IT Consultant Intermediate – ServiceNow SPM (Job Bank, posted Nov 8, Toronto on-site; mandatory CSA+CAD). Salesforce: Konrad Salesforce Architect Loyalty & Data 360 (konrad.com careers, Toronto full-time), CoreKloud Salesforce FSC Developer (Indeed/SimplyHired, Toronto hybrid, $90–$100/hr), Harbor Salesforce Developer (Remote Canada). Employer-direct checks this cycle — Rogers (jobs.rogers.com Technology: no platform roles), Bell (ServiceNow System Administrator req considered; no fresh live platform role), Atego/FX Innovation (not enumerable from this host), Government of Canada Job Bank (Blue Mantis Nov 20 and Source Code Nov 8 added; Bonafide Nov 16 already on board) — no other fresh live platform roles.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-24* | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-insight-global-4433236578) | Insight Global | Toronto, ON | linkedin |
+| 2026-11-20 | [Sr ServiceNow Business Process Consultant](https://www.jobbank.gc.ca/jobsearch/jobposting/50771689) | Blue Mantis | Toronto, ON (remote hybrid; Concord ON office) | job bank |
+| 2026-11-17 | [Information Technology Service Management Consultant](https://jobs.ca/g-force-it-services-inc/jobs/information-technology-service-management-consultant-toronto-on-5926e44be053) | G-FORCE IT SERVICES INC. | Toronto, ON | jobs.ca |
+| 2026-11-20 | [Project Manager – ServiceNow](https://jobs.ca/apptoza-inc/jobs/project-manager-servicenow-toronto-on-b60bdbe75e46) | Apptoza Inc. | Toronto, ON (hybrid, contract) | jobs.ca |
+| 2026-11-12 | [ServiceNow Implementation Architect](https://jobs.ca/pacer-group/jobs/servicenow-implementation-architect-toronto-on-6063b1807c48) | Pacer Group | Toronto, ON (hybrid) | jobs.ca |
+| 2026-11-08 | [Specialized IT Consultant - Intermediate (ServiceNow SPM)](https://www.on.jobbank.gc.ca/jobsearch/jobposting/50698289) | Source Code | Toronto, ON (on site, 55 John St) | job bank |
+| 2026-11-24* | [Salesforce Architect (Loyalty & Data 360)](https://www.konrad.com/careers/job/salesforce-architect-loyalty-data-360_8208217003) | Konrad | Toronto, ON | konrad careers |
+| 2026-11-24* | [Salesforce Developer](https://www.simplyhired.ca/job/zpDOIQFRppfnd8awnPLDJ2_4_yrZn781QmC2VB1-FamKlviYBZXtZA) | CoreKloud Technologies | Toronto, ON (hybrid, $90–$100/hr) | indeed / simplyhired |
+| 2026-11-24* | [Salesforce Developer](https://remotive.com/remote/jobs/software-development/salesforce-developer-6675525) | Harbor | Remote, Canada | remotive |
+
+*Posted date not stated on the listing; date shown is discovery date (2026-11-24) and the row is asterisked per board policy.
+
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 **Scan: 2026-11-21T20:01:22Z** · 6 fresh verified postings from 3 sources · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
