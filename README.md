@@ -56,6 +56,17 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — cron scan 2026-11-24T15:00EST
+
+Two fresh postings verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Both surfaced via a targeted LinkedIn Toronto search (past 24 hours) and confirmed live on the LinkedIn jobs page by reading the full job description: BMO has two Senior Salesforce Developer reqs open (Scarborough and downtown Toronto), hybrid with two days onsite at the downtown Toronto office, each requiring 3–5 years on the Salesforce Lightning platform — Apex, LWC, Flows, Aura, declarative/metadata-driven development — supporting Risk Management, i.e. genuine platform build work rather than CRM use. Employer-direct checks this cycle — Rogers (jobs.rogers.com Technology: no platform roles), Bell/Ateko (ServiceNow and Salesforce reqs expired or filled), Lane Four (Salesforce Consultant and Administrator postings listed but no job body server-side from this host — unverifiable leads, not added), NewRocket (no enumerable jobs), Government of Canada Job Bank / Eluta (radware-walled; September–October 2026 postings stale), ServiceNow Careers (Cloudflare bot wall) — returned no other fresh live ServiceNow or Salesforce roles. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce this hour: nothing junior surfaced, only mid/senior and lead reqs.
+
+|| Posted | Role | Company | Location | Source ||
+||---|---|---|---|---|---||
+|| 2026-11-24* | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-sales-force-developer-at-bmo-4494172759) | BMO | Scarborough, Ontario, Canada | linkedin ||
+|| 2026-11-24* | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-sales-force-developer-at-bmo-4494175406) | BMO | Toronto, Ontario, Canada | linkedin ||
+
+*Posted date not stated absolutely on the LinkedIn listing ("2 hours ago" at scan time); date shown is discovery date (2026-11-24) and the row is asterisked per board policy.
+
 ## Verified fresh additions — hourly scan 2026-11-24T11:00EST
 
 One fresh posting verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Surfaced by today's LinkedIn Toronto scan and confirmed live on LinkedIn's jobs page — posted "3 minutes ago" at scan time. iA Financial Group Salesforce Technical Lead, Quebec, Canada; the listing shows Salesforce Financial Services Cloud / Marketing Cloud context (full description is behind LinkedIn's sign-in modal, so this row is added on title/company/location/recency evidence with discovery date per board policy). Salesforce Technical Lead is mid-level, not an entry-level Platform Admin/Developer I role.
