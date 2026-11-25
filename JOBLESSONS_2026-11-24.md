@@ -163,3 +163,23 @@ Updated source lessons for this cycle:
 2. Workday "Posted Today" must be cross-checked against the startDate and the board row: Manulife JR26101237 and BMO R260032445/R260032496 all read "Today" while already boarded.
 3. Rogers' Phenom search returns dated rows server-side again (26 rows, Nov 24 dates) — resume the date-sorted Rogers pass each cycle; still zero platform titles today.
 4. Entry-level Platform Administrator / Platform Developer I (Toronto) still absent; Salesforce BA/CRM-adjacent work is the only fresh yield this hour. Keep the weekly Deloitte/Cognizant/CGI partner pass and the Rogers/Bell/GC portals on every-other-cycle.
+
+
+## Hourly scan 2026-11-24T22:00EST (this cycle)
+
+Result: 0 fresh postings added this cycle. Board unchanged — README.md/jobs.json remain at the 21:00EST state (commit 20320a08). No duplicates created, zero roles removed.
+
+Scan performed:
+- Web searches (8 queries): Indeed CA (ServiceNow administrator/developer Ontario; Salesforce Toronto); LinkedIn CA (ServiceNow/Salesforce Toronto "hours ago"); Glassdoor CA (Toronto SN admin / SF developer / SF consultant / SF agentforce); Job Bank GC (ServiceNow/Salesforce Toronto); partner/employer site queries.
+- Employer/ATS direct: Rogers careers (jobs.rogers.com) loaded — marketing homepage + category shell, no server-side ServiceNow/Salesforce platform rows this hour; Manulife Lead Technical Product Owner, Salesforce (JR26090294) returned Akamai "Access Denied" from this host — unverifiable, not added.
+- Raw Adzuna pulls already on disk (raw/adz_2100_sn.json 9 rows, raw/adz_2100_sf.json 10 rows) parsed: zero ServiceNow/Salesforce-titled jobs — non-platform noise (Account Executive, SAP Basis Consultant, etc.).
+- Dedupe: every SN/SF candidate surfaced was already in jobs.json (5,645 rows) and/or README — Interac Technical Service Now Lead (4126302101, posted 2026-10-28), CSA Group Senior Salesforce Solution Architect/Developer (4210626816, 2026-11-09), Make-A-Wish Senior Salesforce Administrator (2026-11-06), Moneris Principle Salesforce Developer (JR106006), Altus Group Salesforce Platform Developer (2026-11-11), Genesys Sr. Salesforce Developer Ontario (2026-11-09), Docebo Senior Salesforce Developer, Lane Four Salesforce Consultant, LTIMindtree Salesforce Developer FSL, Medcan Salesforce Developer (MED02518), Paralucent PL834, Loopio Senior Salesforce Administrator, Recutify ServiceNow Lead Developer, Survalent Salesforce Administrator (Mississauga — out of Toronto scope). No net-new requisition.
+
+Deploy check: Deploy GitHub Pages run 45534391950 succeeded at 2026-11-25T02:38:22Z (live site current through the 21:00EST board); latest Hourly Job Scan run 45531786498 succeeded at 2026-11-25T02:16:41Z. main == origin/main == 20320a08.
+
+Source lessons for future agents:
+1. Zero-result hours are real: after ~8 board refreshes in one day the web-search surface re-serves already-boarded reqs. Diff candidate URLs/IDs against jobs.json before any body check — 15+ leads this hour were all boarded.
+2. Glassdoor relative-age markers (30d+, 2d, 5d, 7d) are the fastest freshness filter for SN/SF titles; a 30d+ badge on an already-boarded employer is an instant skip.
+3. Rogers' homepage was a marketing shell again this hour (not the 26-row Phenom date-sorted list seen at 21:00EST) — the date-sorted route is intermittent; "zero rows on homepage" is not "zero Rogers jobs."
+4. Manulife job detail URLs intermittently return Akamai Access Denied; the search-results listing still shows posted dates (Salesforce Functional Analyst JR26101237 = Nov 2, already boarded). Use the listing page for dates when the detail is blocked.
+5. Deduping the raw Adzuna files already on disk is a cheap noise filter — this hour both pulls were entirely non-platform.
