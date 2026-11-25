@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-25T00:01:57.716Z** · 4490 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-25T04:03:49.845Z** · 4486 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -13,12 +13,12 @@
 | 2026-11-24 | [Senior ServiceNow Technical Consultant – ITSM / IRM](https://ca.linkedin.com/jobs/view/senior-servicenow-technical-consultant-%E2%80%93-itsm-irm-at-agility-it-4494410216) | Agility IT | Toronto, Ontario, Canada |
 | 2026-11-24 | [Senior ServiceNow Consultant](https://ca.linkedin.com/jobs/view/senior-servicenow-consultant-at-jolera-4494431156) | Jolera | Canada |
 | 2026-11-24 | [ServiceNow Administrator](https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469975858) | Pomerleau | Montreal, Quebec, Canada |
+| 2026-11-23 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ232563-1) | GDIT | Any Location / Remote |
 | 2026-11-23 | [servicenow cosultant](https://ca.linkedin.com/jobs/view/servicenow-cosultant-at-nlb-services-4494085039) | NLB Services | Mississauga, Ontario, Canada |
 | 2026-11-23 | [Servicenow Expert](https://ca.linkedin.com/jobs/view/servicenow-expert-at-ktek-resourcing-4493908405) | KTek Resourcing | Canada |
 | 2026-11-23 | [ServiceNow Developer](https://ca.linkedin.com/jobs/view/servicenow-developer-at-alldus-4492635219) | Alldus | Canada |
 | 2026-11-23 | [Service Now Consultant _SAM](https://ca.linkedin.com/jobs/view/service-now-consultant-sam-at-futran-solutions-4493665044) | Futran Solutions | Canada |
 | 2026-11-23 | [ServiceNow Technical Architect](https://ca.linkedin.com/jobs/view/servicenow-technical-architect-at-alldus-4492622723) | Alldus | Canada |
-| 2026-11-22 | [ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ232563-1) | GDIT | Any Location / Remote |
 | 2026-11-22 | [Staff Technology Operations Lead, Service & Transition (ITSM)](https://www.adzuna.ca/details/5974907741) | TJMaxx | Mississauga, Peel region |
 | 2026-11-22 | [Manager, ServiceNow Platform](https://www.adzuna.ca/details/5974911787) | iA Financial Group | Canada |
 
@@ -26,18 +26,18 @@
 
 | Posted | Role | Company | Location |
 |---|---|---|---|
+| 2026-11-25 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-brunel-4483633994) | Brunel | Quebec, Canada |
 | 2026-11-24 | [Salesforce Sr. Developer, AI & Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/6270164004) | NeuraFlash | Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only) |
 | 2026-11-24 | [Salesforce Consultant (Enterprise Commerce Migration)](https://www.adzuna.ca/details/5977373045) | VTRAC Consulting Corporation | Canada |
 | 2026-11-24 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5977112065) | March Networks | Ottawa, Ottawa region |
 | 2026-11-24 | [Senior Salesforce Developer Temp FT](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-temp-ft-at-ehn-canada-4494375495) | EHN Canada | Toronto, Ontario, Canada |
 | 2026-11-24 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-zodiac-solutions-inc-4493059031) | Zodiac Solutions, Inc | Toronto, Ontario, Canada |
 | 2026-11-24 | [Salesforce Marketing Cloud - Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-senior-developer-at-acestack-4494750123) | AceStack | Toronto, Ontario, Canada |
-| 2026-11-24 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4494382178) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 | 2026-11-24 | [Senior BSA/ Data Migration Specialist - Salesforce](https://ca.linkedin.com/jobs/view/senior-bsa-data-migration-specialist-salesforce-at-tamanna-technology-4494413021) | Tamanna Technology | Greater Toronto Area, Canada |
 | 2026-11-24 | [Salesforce Lead](https://ca.linkedin.com/jobs/view/salesforce-lead-at-bull-it-solutions-ltd-4494730713) | BULL-IT SOLUTIONS LTD | Toronto, Ontario, Canada |
 | 2026-11-24 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300) | Alithya | Montreal, Quebec, Canada |
+| 2026-11-24 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4494382178) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 | 2026-11-24 | [Bilingual Salesforce Technical Architect - Financial Services Cloud - Manager](https://ca.linkedin.com/jobs/view/bilingual-salesforce-technical-architect-financial-services-cloud-manager-at-ey-4493063108) | EY | Montreal, Quebec, Canada |
-| 2026-11-24 | [Salesforce Product Owner & Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-product-owner-business-analyst-at-otodata-4494727219) | Otodata | Montreal, Quebec, Canada |
 
 ### Other keyword matches — newest 10
 
@@ -56,6 +56,26 @@
 
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
+
+## Verified fresh additions — cron scan 2026-11-24T23:00EST
+
+36 net-new Canada-geo ServiceNow/Salesforce rows added to jobs.json this cycle (board now 5,681 rows: 1,205 ServiceNow / 4,318 Salesforce); deduped by normalized URL against jobs.json, README.md and APPLIED.md. Sources: LinkedIn guest (232 cards after two HTTP 429 retries), Adzuna CA API (189), SmartRecruiters ServiceNow (12), Greenhouse (12), Lever (1), Ashby (2), remote feeds (6). All Workday CXS boards returned HTTP 429 past the :00Z window and were skipped — the CI hourly pass carries Workday.
+
+Freshest Toronto-area platform roles this cycle — all were already on the README via earlier scans and are now synchronized into jobs.json so they render as page cards:
+- Tata Consultancy Services — Salesforce Developer, Toronto (2026-11-24, LinkedIn 4494376362; added at the 09:00EST scan)
+- Konrad — Salesforce Architect (Loyalty & Data 360), Toronto (2026-11-23, LinkedIn 4491325080; hermes-cron--2026-11-18--v42.md)
+- Altus Group — Salesforce Platform Developer, Toronto (2026-11-21, LinkedIn 4483476940; fresh-ca--2026-11-15--v49.md)
+- Alithya — Analyste d'affaires Salesforce, Montreal (2026-11-24, LinkedIn 4464669300; DAILY-SCAN block)
+
+Already represented by twin URLs, deliberately not double-listed (Adzuna re-issues ids for the same ad): Cognizant "Salesforce Tech Lead (Remote)" Toronto — boarded 11-22 via adzuna 5974890709 and 11-23 via LinkedIn 4494074582; this cycle's Adzuna 5973912092 is a twin. Celestica "Student Intern, Salesforce Developer 1" Toronto (2026-11-19) — boarded via the careers.celestica.com employer-direct twin; this cycle's Adzuna 5971440660 is a twin. Junior signal: the Celestica student intern is the closest thing to entry-level this cycle; no Platform Administrator / Platform Developer I roles surfaced.
+
+Employer-direct partner/employer checks this cycle — Rogers (jobs.rogers.com date-sorted: no ServiceNow/Salesforce titles), Bell/Ateko (no fresh platform reqs), Government of Canada Job Bank / Ontario gojobs (Radware-walled), ServiceNow Careers (Cloudflare bot wall), Cognizant careers (JS shell search), Salesforce-the-company Workday (Toronto rows are sales/AE/renewals only), Accenture Workday (Toronto hits are CCaaS/AI, not SN/SF platform) — returned no other fresh live ServiceNow or Salesforce platform roles. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce this hour.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-24 | Salesforce Developer | Tata Consultancy Services | Toronto, Ontario, Canada | linkedin |
+| 2026-11-23 | Salesforce Architect (Loyalty & Data 360) | Konrad | Toronto, Ontario, Canada | linkedin |
+| 2026-11-21 | Salesforce Platform Developer | Altus Group | Toronto, Ontario, Canada | linkedin |
 
 ## Verified fresh additions — cron scan 2026-11-24T21:00EST
 
