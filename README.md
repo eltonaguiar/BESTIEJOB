@@ -57,6 +57,19 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — cron scan 2026-11-24T21:00EST
+
+Two fresh postings verified live this cycle; deduped by LinkedIn job id + URL against jobs.json (5,645 rows), README.md and APPLIED.md. Both surfaced via targeted LinkedIn Toronto searches (past 24 hours) and confirmed live by reading the full job description. Both are Salesforce-program business-analysis roles (platform-adjacent; the second's must-have is 2+ years on Salesforce CRM implementations) — neither is an entry-level Platform Administrator / Platform Developer I build role. Zero roles removed.
+
+Employer-direct partner/employer checks this cycle — Workday CXS probes returned HTTP 200 for BMO/TD/CIBC/Manulife/Interac/Salesforce/Accenture (02:00Z, past the CI :00Z window) but the only "Posted Today" SN/SF rows were twins of requisitions already on the board (BMO R260032445 / R260032496 = the two LinkedIn rows added at 15:00EST; Manulife Salesforce Functional Analyst JR26101237 already boarded with a 2026-11-02 postedDate). Rogers (jobs.rogers.com date-sorted: 26 dated rows, no ServiceNow/Salesforce titles), Bell/Ateko (no fresh platform reqs), Government of Canada Job Bank / Ontario gojobs (Radware-walled), ServiceNow Careers (Cloudflare bot wall), Cognizant careers (search now a JS shell), Salesforce-the-company Workday (Toronto rows are sales/AE/renewals only), Accenture Workday (Toronto hits are CCaaS/AI, not SN/SF platform) — returned no other fresh live ServiceNow or Salesforce platform roles. Adzuna CA API ServiceNow/Salesforce/Platform Administrator Toronto (max_days_old=2) returned only non-platform noise. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce this hour.
+
+| Posted | Role | Company | Location | Source |
+|---|---|---|---|---|
+| 2026-11-24* | [Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-business-analyst-at-fp-inc-4494418351) | FP Inc. | Toronto, Ontario, Canada (hybrid, downtown) | linkedin |
+| 2026-11-24* | [Business Analyst (Salesforce CRM)](https://ca.linkedin.com/jobs/view/business-analyst-at-tekstaff-it-solutions-4494418220) | TekStaff IT Solutions | Toronto, Ontario, Canada | linkedin |
+
+*Posted time stated relatively on the LinkedIn listing ("4 hours ago" / within the past 24h); date shown is the discovery date and the row is asterisked per board policy.
+
 ## Verified fresh additions — hourly scan 2026-11-24T20:00EST
 
 Four fresh postings verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Two surfaced via a targeted LinkedIn Toronto Salesforce scan (posted within the last 24h; added on title/company/location/recency evidence because LinkedIn's job detail is behind a sign-in modal from this host — per board policy the listing/scan date is shown). Two surfaced via the Adzuna CA API (`created` is the ad's clock; detail page is behind a bot wall from this host, treated as live per board policy). All four are Toronto-area Salesforce platform build roles; none is an entry-level Platform Administrator / Platform Developer I.

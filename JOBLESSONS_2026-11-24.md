@@ -136,3 +136,30 @@ Employer-direct checks yielding nothing net-new: Rogers (no platform roles serve
 Updated source lesson for this cycle:
 1. Diffing jobs.json against README.md URLs is the cheapest complete freshness signal — it surfaced 4 LinkedIn/Adzuna Salesforce roles the web searches did not. Pair it with a targeted LinkedIn Toronto scan for roles the scrape normalizes to midnight dates.
 2. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce — nothing junior surfaced, only mid/senior and lead reqs.
+
+## Hourly scan 2026-11-24T21:00EST (this cycle)
+
+Result: 2 fresh postings verified live and added to README.md under "Verified fresh additions — cron scan 2026-11-24T21:00EST". 0 ServiceNow, 2 Salesforce (BA / CRM-adjacent), 0 Other. Deduped by LinkedIn job id + URL against jobs.json (5,645 rows), README.md and APPLIED.md. Zero roles removed. Site rebuilt: 4,992 cards (SN 868 / SF 964 / Other 3,160), both new URLs present in public/jobs-data.json and public/index.html.
+
+Added:
+- FP Inc. — Salesforce Business Analyst — Toronto, Ontario, Canada (hybrid, downtown), 5-month contract, CA$40–53/hr — LinkedIn ca.linkedin.com/jobs/view/salesforce-business-analyst-at-fp-inc-4494418351 — "4 hours ago" at scan time (discovery date 2026-11-24*, per board policy). Duties: requirements workshops, user stories/epics in Jira for a Salesforce implementation. Platform-adjacent BA, not Platform Admin/Dev I.
+- TekStaff IT Solutions — Business Analyst (must-have: 2+ yrs on Salesforce CRM implementations or enhancements) — Toronto, Ontario, Canada, contract — LinkedIn ca.linkedin.com/jobs/view/business-analyst-at-tekstaff-it-solutions-4494418220 — within last 24h (discovery date 2026-11-24*).
+
+Deduped / not added:
+- BMO Workday R260032445 (Senior Sales Force Developer, 3 locations, Toronto primary) and R260032496 (Senior Salesforce Developer, 4 locations, Chicago primary) are the same two BMO requisitions already added via LinkedIn at 15:00EST (4494172759 / 4494175406). Twin URLs, not new postings.
+- Manulife JR26101237 Salesforce Functional Analyst — Workday search says "Posted Today" but the board already carries it (postedDate 2026-11-02). Workday startDate bump, not a new posting.
+- CIBC 2623517 Sr. Consultant, Infrastructure Management — ServiceNow named only as an asset alongside Ansible/Azure/OCP; infrastructure role, not platform.
+- Canada Life 4494391635 Lead, Digital Employee Experience & Automation — ServiceNow appears only as a data source ("ServiceNow records"); not a platform role.
+- National Consultants Professionals 4494172283 MSP Governance & ITIL Operations Lead — ITIL/vendor governance (15 yrs), ServiceNow not named as build/admin.
+- Strategio 4494453280 Jr. Production Support Analyst — ServiceNow only as ticketing workflows in the training program; support role, not platform admin/dev.
+- Brainhunter 4494378700 Infrastructure/Platform Engineer (contract) — ServiceNow one item in an infra tool list (SQL/CI-CD/REST/webservers).
+- Dawn InfoTek 4494388043 Business Analyst — Conditional Access Enforcement rollout, not SN/SF.
+- Akkodis 4494734270 / vTech 4494736405 / Flexstaf 4494742387 — BMC Helix/Remedy ITSM, not ServiceNow; noted as 'other'-category leads only.
+
+Employer checks yielding nothing net-new: Rogers (jobs.rogers.com date-sorted now serves 26 real rows with absolute dates — improvement on the 2026-11-20 zero-row shell — but zero ServiceNow/Salesforce titles), Bell/Ateko (no fresh reqs), GC Job Bank / Eluta (Radware-walled), ServiceNow Careers (Cloudflare bot wall), Salesforce-the-company Workday (Toronto = sales/AE/renewals only), Cognizant careers (search page now a JS shell; no jobTitle data in HTML), Accenture Workday (Toronto hits are CCaaS/AI, not SN/SF platform). Workday CXS probes were all HTTP 200 this cycle (02:00Z, past the CI :00Z window) — reachability is not freshness: every "Posted Today" SN/SF row was a twin of a boarded req.
+
+Updated source lessons for this cycle:
+1. LinkedIn Toronto past-24h card IDs diffed against jobs.json is fast and precise (the job id is in the URL). Of 108 unmatched cards across 4 queries, only 2 survived a body check as platform-adjacent — sales/HR/support titles dominate keyword results now. Body-check every generic title; do not add on title alone.
+2. Workday "Posted Today" must be cross-checked against the startDate and the board row: Manulife JR26101237 and BMO R260032445/R260032496 all read "Today" while already boarded.
+3. Rogers' Phenom search returns dated rows server-side again (26 rows, Nov 24 dates) — resume the date-sorted Rogers pass each cycle; still zero platform titles today.
+4. Entry-level Platform Administrator / Platform Developer I (Toronto) still absent; Salesforce BA/CRM-adjacent work is the only fresh yield this hour. Keep the weekly Deloitte/Cognizant/CGI partner pass and the Rogers/Bell/GC portals on every-other-cycle.
