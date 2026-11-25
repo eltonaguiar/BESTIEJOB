@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T12:50:16+00:00",
+ "generatedAt": "2026-11-25T13:07:51+00:00",
  "timezone": "America/Toronto",
  "count": 5001,
  "appliedHidden": 28,
@@ -16332,6 +16332,54 @@
   },
   {
    "posted": "2026-11-18",
+   "title": "Salesforce Data Cloud Developer",
+   "company": "Wipro Limited",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.wipro.com/job/Salesforce-Data-cloud-Developer/220407-en_US",
+   "note": "wipro careers",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "careers.wipro.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce data cloud developer wipro limited toronto, ontario, canada careers.wipro.com salesforce wipro careers salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Indeed",
+     "url": "https://ca.indeed.com/viewjob?jk=81e2c50562229fe6",
+     "label": "Indeed · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
    "title": "Senior Salesforce Developer",
    "company": "Docebo",
    "location": "Toronto, Ontario",
@@ -16829,47 +16877,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Administrator%20/%20SFMC%20/%20Natural%20Health%20/%20Hybrid%20in%20Toronto%20White%20Bay&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Salesforce Data Cloud Developer",
-   "company": "Wipro Limited",
-   "location": "Toronto, ON",
-   "url": "https://ca.indeed.com/viewjob?jk=81e2c50562229fe6",
-   "note": "indeed",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Indeed",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce data cloud developer wipro limited toronto, on indeed salesforce indeed salesforce role fit toronto area",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&loc=Toronto"
     }
    ],
    "toronto": true

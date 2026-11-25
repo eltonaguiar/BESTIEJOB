@@ -58,6 +58,16 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — cron scan 2026-11-25T08:00EST
+
+1 net-new Canada-geo ServiceNow/Salesforce row added to jobs.json this cycle (board now 5,651 rows: 1,208 ServiceNow / 4,325 Salesforce); deduped by normalized URL, LinkedIn job id and company+title against jobs.json, README.md and APPLIED.md.
+
+Sources checked this hour: LinkedIn guest (Toronto 24h: ServiceNow + Salesforce + ServiceNow/Salesforce Developer + Administrator variants — 132 unique cards, 23 title-hits, every one already boarded; Canada-wide 24h: 40 cards, 19 hits, all boarded), Workday CXS (TD, BMO, CIBC, RBC, Moneris, Medcan, SSCTech, Interac, Manulife, Sanofi — all reachable, no net-new), Rogers careers (0 ServiceNow; 17 Salesforce-keyword rows were sales roles only), Eluta Toronto searches (20 ServiceNow/Salesforce leads — 17 already boarded or employer aliases; 1 net-new), Wipro careers direct (net-new below; its ServiceNow Implementation Architect was already boarded).
+
+| Posted | Role | Company | Location | Source / note |
+|---|---|---|---|---|
+| 2026-11-18 | [Salesforce Data Cloud Developer](https://careers.wipro.com/job/Salesforce-Data-cloud-Developer/220407-en_US) | Wipro | Toronto, Ontario, Canada | wipro careers · req 220407; Data 360 mandatory, 5-8 yrs, CAD 77-120k; posting start 2026-11-18 |
+
 ## Verified fresh additions — cron scan 2026-11-25T07:00EST
 
 1 net-new Canada-geo ServiceNow/Salesforce row added to jobs.json this cycle (board now 5,691 rows: 1,208 ServiceNow / 4,324 Salesforce); deduped by normalized URL, LinkedIn job id and company+title against jobs.json, README.md and APPLIED.md.

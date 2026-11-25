@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-25T12:18:26.756Z",
     "generatedAt": "2026-11-25T12:18:26.756Z",
-    "total": 5650,
+    "total": 5651,
     "newThisScan": 506,
     "retainedFromPrevious": 5185,
     "sources": {
@@ -33,11 +33,12 @@
     },
     "primaryCounts": {
       "servicenow": 1208,
-      "salesforce": 4324
+      "salesforce": 4325
     },
     "undated": 0
   },
   "jobs": [
+    {"id":"wipro careers:https://careers.wipro.com/job/Salesforce-Data-cloud-Developer/220407-en_US","source":"wipro careers","company":"Wipro Limited","title":"Salesforce Data Cloud Developer","location":"Toronto, Ontario, Canada","url":"https://careers.wipro.com/job/Salesforce-Data-cloud-Developer/220407-en_US","employmentType":"full-time","salary":null,"postedDate":"2026-11-18T00:00:00.000Z","scrapedAt":"2026-11-25T13:00:00.000Z","excerpt":"Design, test and maintain Salesforce Data 360 (Data Cloud) solutions for Wipro clients; mandatory skill Salesforce Data 360; 5-8 years; CAD 77,000-120,000. Wipro req 220407, posting start 2026-11-18, Toronto ON.","workArrangement":"unknown","tags":["salesforce"]},
     {
       "id": "adzuna:adzuna.ca/details/5978226817",
       "source": "adzuna",
