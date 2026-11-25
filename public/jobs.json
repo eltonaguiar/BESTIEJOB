@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-25T15:12:54.641Z",
     "generatedAt": "2026-11-25T15:12:54.641Z",
-    "total": 5661,
+    "total": 5662,
     "newThisScan": 513,
     "retainedFromPrevious": 5190,
     "sources": {
@@ -34,7 +34,8 @@
     "primaryCounts": {
       "servicenow": 1210,
       "salesforce": 4334
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -46,13 +47,14 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-25T15:12:54.641Z",
+      "postedDate": "2026-11-25T12:00:00.000Z",
       "scrapedAt": "2026-11-25T15:12:54.641Z",
       "excerpt": "JR362421",
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/servicenow-cmdb-administrator_r260030992",
@@ -63,13 +65,14 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-25T15:12:54.641Z",
+      "postedDate": "2026-11-25T12:00:00.000Z",
       "scrapedAt": "2026-11-25T15:12:54.641Z",
       "excerpt": "R260030992",
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "adzuna:adzuna.ca/details/5978355417",
@@ -782,6 +785,23 @@
       "postedDate": "2026-11-24T12:00:00.000Z",
       "scrapedAt": "2026-11-25T12:20:21.468Z",
       "excerpt": "via linkedin-guest--2026-11-25--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:myprocom-portal.procomservices.com/jobs/business-analyst-salesforce-toronto-2aef2ed5",
+      "source": "readme",
+      "company": "Procom",
+      "title": "Business Analyst - Salesforce",
+      "location": "Toronto, Ontario, CA",
+      "url": "https://myprocom-portal.procomservices.com/jobs/business-analyst-salesforce-toronto-2aef2ed5",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-25T15:44:13.163Z",
+      "excerpt": "via Procom",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
