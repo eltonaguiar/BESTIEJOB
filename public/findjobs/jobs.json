@@ -34,26 +34,10 @@
     "primaryCounts": {
       "servicenow": 1207,
       "salesforce": 4322
-    }
+    },
+    "undated": 0
   },
   "jobs": [
-    {
-      "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/software-engineer-ii--salesforce-loyalty-management-developer-_r_1509038",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-25T06:20:38.267Z",
-      "scrapedAt": "2026-11-25T06:20:38.267Z",
-      "excerpt": "R_1509038 · Engineering",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
     {
       "id": "jobicy:jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
       "source": "jobicy",
@@ -329,6 +313,24 @@
       "tags": [
         "salesforce"
       ]
+    },
+    {
+      "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/software-engineer-ii--salesforce-loyalty-management-developer-_r_1509038",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-25T06:20:38.267Z",
+      "excerpt": "R_1509038 · Engineering",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "adzuna:adzuna.ca/details/5977112065",
