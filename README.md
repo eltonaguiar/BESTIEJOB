@@ -3,7 +3,7 @@
 <!-- DAILY-SCAN:START -->
 ## Latest auto-scanned jobs (newest first)
 
-**Scan: 2026-11-24T23:05:40.516Z** · 4515 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
+**Scan: 2026-11-25T00:01:57.716Z** · 4490 live postings from 7 public sources · 164 dated 2026-11-01 · full list in [FRESH_JOBS.md](FRESH_JOBS.md)
 
 ### ServiceNow — newest 12
 
@@ -31,11 +31,11 @@
 | 2026-11-24 | [Salesforce Technical Lead](https://www.adzuna.ca/details/5977112065) | March Networks | Ottawa, Ottawa region |
 | 2026-11-24 | [Senior Salesforce Developer Temp FT](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-temp-ft-at-ehn-canada-4494375495) | EHN Canada | Toronto, Ontario, Canada |
 | 2026-11-24 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-zodiac-solutions-inc-4493059031) | Zodiac Solutions, Inc | Toronto, Ontario, Canada |
-| 2026-11-24 | [Senior BSA/ Data Migration Specialist - Salesforce](https://ca.linkedin.com/jobs/view/senior-bsa-data-migration-specialist-salesforce-at-tamanna-technology-4494413021) | Tamanna Technology | Greater Toronto Area, Canada |
 | 2026-11-24 | [Salesforce Marketing Cloud - Senior Developer](https://ca.linkedin.com/jobs/view/salesforce-marketing-cloud-senior-developer-at-acestack-4494750123) | AceStack | Toronto, Ontario, Canada |
+| 2026-11-24 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4494382178) | Smart IT Frame LLC | Toronto, Ontario, Canada |
+| 2026-11-24 | [Senior BSA/ Data Migration Specialist - Salesforce](https://ca.linkedin.com/jobs/view/senior-bsa-data-migration-specialist-salesforce-at-tamanna-technology-4494413021) | Tamanna Technology | Greater Toronto Area, Canada |
 | 2026-11-24 | [Salesforce Lead](https://ca.linkedin.com/jobs/view/salesforce-lead-at-bull-it-solutions-ltd-4494730713) | BULL-IT SOLUTIONS LTD | Toronto, Ontario, Canada |
 | 2026-11-24 | [Analyste d’affaires Salesforce](https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300) | Alithya | Montreal, Quebec, Canada |
-| 2026-11-24 | [Salesforce Technical Architect - Strong CPQ and Revenue Cloud Advanced](https://ca.linkedin.com/jobs/view/salesforce-technical-architect-strong-cpq-and-revenue-cloud-advanced-at-smart-it-frame-llc-4494382178) | Smart IT Frame LLC | Toronto, Ontario, Canada |
 | 2026-11-24 | [Bilingual Salesforce Technical Architect - Financial Services Cloud - Manager](https://ca.linkedin.com/jobs/view/bilingual-salesforce-technical-architect-financial-services-cloud-manager-at-ey-4493063108) | EY | Montreal, Quebec, Canada |
 | 2026-11-24 | [Salesforce Product Owner & Business Analyst](https://ca.linkedin.com/jobs/view/salesforce-product-owner-business-analyst-at-otodata-4494727219) | Otodata | Montreal, Quebec, Canada |
 
