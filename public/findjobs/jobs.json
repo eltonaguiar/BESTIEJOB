@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-25T21:11:38.051Z",
     "generatedAt": "2026-11-25T21:11:38.051Z",
-    "total": 5677,
+    "total": 5679,
     "newThisScan": 512,
     "retainedFromPrevious": 5206,
     "sources": {
@@ -34,7 +34,8 @@
     "primaryCounts": {
       "servicenow": 1217,
       "salesforce": 4342
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -46,13 +47,14 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-25T21:11:38.051Z",
+      "postedDate": "2026-11-25T12:00:00.000Z",
       "scrapedAt": "2026-11-25T21:11:38.051Z",
       "excerpt": "JR362421",
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/servicenow-cmdb-administrator_r260030992",
@@ -63,7 +65,7 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-25T21:11:38.051Z",
+      "postedDate": "2026-11-25T12:00:00.000Z",
       "scrapedAt": "2026-11-25T21:11:38.051Z",
       "excerpt": "R260030992",
       "workArrangement": "unknown",
@@ -76,7 +78,8 @@
           "url": "https://ca.linkedin.com/jobs/view/servicenow-itom-ham-administrator-at-bmo-4490380189",
           "label": "linkedin"
         }
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/senior-solution-architect--servicenow-_r_1521185",
@@ -87,7 +90,7 @@
       "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-25T21:11:38.051Z",
+      "postedDate": "2026-11-25T12:00:00.000Z",
       "scrapedAt": "2026-11-25T21:11:38.051Z",
       "excerpt": "R_1521185 · Engineering",
       "workArrangement": "unknown",
@@ -100,7 +103,8 @@
           "url": "https://www.adzuna.ca/details/5970077372",
           "label": "adzuna"
         }
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/senior-it-consultant-helix-itsm-at-teckhorizon-inc-4494659181",
@@ -179,6 +183,42 @@
       ],
       "verifiedAt": "2026-11-25T19:11:03.070811+00:00",
       "verifyState": "live"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/itsm-developer-snow-at-tata-consultancy-services-4494956259",
+      "source": "readme",
+      "company": "Tata Consultancy Services",
+      "title": "ITSM Developer (SNOW)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/itsm-developer-snow-at-tata-consultancy-services-4494956259",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-25T12:00:00.000Z",
+      "scrapedAt": "2026-11-25T21:43:53.844Z",
+      "excerpt": "via fresh-ca--2026-11-25--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5978746244",
+      "source": "readme",
+      "company": "vTech Solution",
+      "title": "BMC Remedy/Helix ITSM Consultant",
+      "location": "Regent Park, City of Toronto",
+      "url": "https://www.adzuna.ca/details/5978746244",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-25T12:00:00.000Z",
+      "scrapedAt": "2026-11-25T21:43:53.844Z",
+      "excerpt": "via fresh-ca--2026-11-25--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5978355417",
