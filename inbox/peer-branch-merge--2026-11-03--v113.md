@@ -138,7 +138,6 @@ notes: 166 rows recovered from aicert-harvest-2026-11-03 / kilo-deep-scan-2026-1
 | 2026-10-25 | [Senior Lead, ServiceNow ITOM](https://www.adzuna.ca/details/5941645750) | Take-Two Interactive | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-25 | [Salesforce Data Cloud Developer](https://www.adzuna.ca/details/5941645480) | Maarut Inc | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-25 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5941205903) | Cognizant | Toronto, Ontario | via aicert-harvest-2026-11-03 |
-| 2026-10-25 | [Salesforce Project Manager / Scrum Master](https://www.adzuna.ca/details/5941265158?utm_medium=api&utm_source=54ce986e) | Cloud SynApps | Mississauga, Peel region | via aicert-harvest-2026-11-03 |
 | 2026-10-24 | [Senior Lead, ServiceNow ITOM New Toronto, Ontario, Canada](https://www.adzuna.ca/details/5940716605) | Take-Two Interactive | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-24 | [Salesforce AI & Data Cloud Solutions Engineer](https://www.adzuna.ca/details/5940718424) | AGF Management | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-24 | [CPQ Lead Solution Engineer - Salesforce Conga CPQ/PROS](https://www.adzuna.ca/details/5940717711) | Thomson Reuters | Toronto, Ontario | via aicert-harvest-2026-11-03 |

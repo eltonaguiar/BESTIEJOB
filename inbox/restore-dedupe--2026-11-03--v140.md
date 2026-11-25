@@ -58,7 +58,6 @@ that share a company, city and title stem (e.g. Developer vs Senior Developer).
 | 2026-10-28 | [Senior Consultant, ServiceNow](https://ca.linkedin.com/jobs/view/senior-consultant-servicenow-at-kpmg-canada-4382155163) | KPMG Canada | Toronto, Ontario, Canada | restored after over-merge |
 | 2026-10-27 | [ServiceNow Senior Technical Advisor](https://ca.linkedin.com/jobs/view/servicenow-senior-technical-advisor-at-bell-4476333981) | Bell | Toronto, Ontario, Canada | restored after over-merge |
 | 2026-10-26 | [Staff Incident Response Engineer](https://ca.linkedin.com/jobs/view/staff-incident-response-engineer-at-servicenow-4483125674) | ServiceNow | Vancouver, British Columbia, Canada | restored after over-merge |
-| 2026-10-25 | [Senior Lead, ServiceNow ITOM](https://www.adzuna.ca/details/5941645750?utm_medium=api&utm_source=54ce986e) | Take-Two Interactive | Toronto, Ontario | restored after over-merge |
 | 2026-10-23 | [Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology](https://www.adzuna.ca/details/5939808966?utm_medium=api&utm_source=54ce986e) | Deloitte | Toronto, Ontario | restored after over-merge |
 | 2026-10-23 | [Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology](https://ca.linkedin.com/jobs/view/technical-delivery-mgr-servicenow-irm-sec-ops-deloitte-global-technology-at-deloitte-4482812205) | Deloitte | Toronto, Ontario, Canada | restored after over-merge |
 | 2026-10-23 | [ServiceNow Platform Engineer - LightFeather](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462859008) | USA: Washington, DC; hybrid | Full-time | restored after over-merge |
@@ -130,7 +129,6 @@ that share a company, city and title stem (e.g. Developer vs Senior Developer).
 | 2026-10-26 | [Salesforce Consultant](https://www.adzuna.ca/details/5942366203?utm_medium=api&utm_source=54ce986e) | Axiom Global Technologies | Toronto, Ontario | restored after over-merge |
 | 2026-10-26 | [Salesforce Commerce Cloud Developer](https://www.adzuna.ca/details/5942157871) | Eminence Organic Skin Care | Vancouver, Greater Vancouver | restored after over-merge |
 | 2026-10-26 | [B2B Salesforce Business Analyst](https://ca.linkedin.com/jobs/view/b2b-salesforce-business-analyst-at-staples-canada-4430798266) | Staples Canada | Richmond Hill, Ontario, Canada | restored after over-merge |
-| 2026-10-25 | [Salesforce Business Analyst](https://www.adzuna.ca/details/5941205903?utm_medium=api&utm_source=54ce986e) | Cognizant | Toronto, Ontario | restored after over-merge |
 | 2026-10-25 | [Request ID: 114275 - Salesforce Revenue Cloud Architect](https://www.adzuna.ca/details/5941645141) | Flexstaf IT | Toronto, Ontario | restored after over-merge |
 | 2026-10-23 | [Salesforce FSC Developer](https://www.adzuna.ca/details/5938973162?utm_medium=api&utm_source=54ce986e) | Cognizant | Toronto, Ontario | restored after over-merge |
 | 2026-10-23 | [Salesforce Communications Cloud Developer](https://ca.linkedin.com/jobs/view/salesforce-communications-cloud-developer-at-j-m-group-4483147998) | J&M Group | Toronto, Ontario, Canada | restored after over-merge |
