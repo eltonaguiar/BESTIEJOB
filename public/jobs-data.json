@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-25T18:44:44+00:00",
+ "generatedAt": "2026-11-25T18:46:58+00:00",
  "timezone": "America/Toronto",
- "count": 5018,
+ "count": 5019,
  "appliedHidden": 28,
  "sources": [
   "103.careerplug.com",
@@ -432,14 +432,14 @@
   {
    "posted": "2026-11-25",
    "title": "Senior ServiceNow Developer",
-   "company": "The Salvation Army in Canada",
-   "location": "Greater Toronto Area, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-the-salvation-army-in-canada-4494664983",
-   "note": "linkedin",
+   "company": "Salvationarmyca",
+   "location": "Toronto, ON",
+   "url": "https://salvationarmyca.wd3.myworkdayjobs.com/en-US/TSACB/job/Toronto-ON/Senior-ServiceNow-Developer_JR116039-1",
+   "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "Workday ATS",
+   "verified": "Employer board",
    "match": 88,
    "matchReasons": [
     "ServiceNow",
@@ -447,25 +447,73 @@
     "Toronto area"
    ],
    "french": false,
-   "search": "senior servicenow developer the salvation army in canada greater toronto area, canada linkedin servicenow linkedin servicenow role fit toronto area",
+   "search": "senior servicenow developer salvationarmyca toronto, on workday ats servicenow readme servicenow role fit toronto area",
    "alternates": [],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20Developer%20The%20Salvation%20Army%20in%20Canada+Toronto+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20Developer%20Salvationarmyca+Toronto+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20Developer%20The%20Salvation%20Army%20in%20Canada&location=Toronto"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20Developer%20Salvationarmyca&location=Toronto"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20Developer%20The%20Salvation%20Army%20in%20Canada&l=Toronto"
+     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20Developer%20Salvationarmyca&l=Toronto"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20The%20Salvation%20Army%20in%20Canada&loc=Toronto"
+     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20Salvationarmyca&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-25",
+   "title": "Senior ServiceNow Developer",
+   "company": "Salvation Army Canada",
+   "location": "Toronto, ON",
+   "url": "https://salvationarmyca.wd3.myworkdayjobs.com/tsacb/job/Toronto-ON/Senior-ServiceNow-Developer_JR116039-1",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "senior servicenow developer salvation army canada toronto, on workday ats servicenow readme servicenow role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-the-salvation-army-in-canada-4494664983",
+     "label": "LinkedIn · Greater Toronto Area",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20Developer%20Salvation%20Army%20Canada+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20Developer%20Salvation%20Army%20Canada&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20Developer%20Salvation%20Army%20Canada&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20Salvation%20Army%20Canada&loc=Toronto"
     }
    ],
    "toronto": true

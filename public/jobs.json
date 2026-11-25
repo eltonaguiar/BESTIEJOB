@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-25T18:13:31.811Z",
     "generatedAt": "2026-11-25T18:13:31.811Z",
-    "total": 5670,
+    "total": 5672,
     "newThisScan": 532,
     "retainedFromPrevious": 5179,
     "sources": {
@@ -140,6 +140,40 @@
       "tags": [
         "servicenow",
         "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:salvationarmyca.wd3.myworkdayjobs.com/en-us/tsacb/job/toronto-on/senior-servicenow-developer_jr116039-1",
+      "source": "readme",
+      "company": "Salvationarmyca",
+      "title": "Senior ServiceNow Developer",
+      "location": "Toronto, ON",
+      "url": "https://salvationarmyca.wd3.myworkdayjobs.com/en-US/TSACB/job/Toronto-ON/Senior-ServiceNow-Developer_JR116039-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-25T12:00:00.000Z",
+      "scrapedAt": "2026-11-25T18:46:56.479Z",
+      "excerpt": "via ats--2026-11-25--v2.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:salvationarmyca.wd3.myworkdayjobs.com/tsacb/job/toronto-on/senior-servicenow-developer_jr116039-1",
+      "source": "readme",
+      "company": "Salvation Army Canada",
+      "title": "Senior ServiceNow Developer",
+      "location": "Toronto, ON",
+      "url": "https://salvationarmyca.wd3.myworkdayjobs.com/tsacb/job/Toronto-ON/Senior-ServiceNow-Developer_JR116039-1",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-25T12:00:00.000Z",
+      "scrapedAt": "2026-11-25T18:46:56.479Z",
+      "excerpt": "via workday",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
