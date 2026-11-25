@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-25T13:07:51+00:00",
+ "generatedAt": "2026-11-25T13:15:15+00:00",
  "timezone": "America/Toronto",
  "count": 5001,
- "appliedHidden": 28,
+ "appliedHidden": 27,
  "sources": [
   "103.careerplug.com",
   "Adzuna",
@@ -279,6 +279,131 @@
  "jobs": [
   {
    "posted": "2026-11-25",
+   "title": "ServiceNow Administrator",
+   "company": "Pomerleau",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469993127",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "servicenow administrator pomerleau quebec, quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469975858",
+     "label": "LinkedIn · Montreal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469986334",
+     "label": "LinkedIn · St-Georges",
+     "gated": false
+    },
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/servicenow-administrator-433a510c045a4d273f18240dbdc851f9",
+     "label": "Eluta · Montréal QC",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Administrator%20Pomerleau+Quebec+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Administrator%20Pomerleau&location=Quebec"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Administrator%20Pomerleau&l=Quebec"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Administrator%20Pomerleau&loc=Quebec"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-25",
+   "title": "Administrateur ServiceNow",
+   "company": "Pomerleau",
+   "location": "Québec, Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220744",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Canada / remote"
+   ],
+   "french": true,
+   "search": "administrateur servicenow pomerleau quebec, quebec, canada linkedin servicenow linkedin servicenow canada / remote",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961954561",
+     "label": "Adzuna · Montréal",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220742",
+     "label": "LinkedIn · St-Georges",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470228264",
+     "label": "LinkedIn · Montreal",
+     "gated": false
+    },
+    {
+     "source": "Eluta",
+     "url": "https://www.eluta.ca/spl/administrateur-servicenow-9787e6728b70f8e045ba53b3a5bf0bef",
+     "label": "Eluta · Montréal QC",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Administrateur%20ServiceNow%20Pomerleau+Quebec+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Administrateur%20ServiceNow%20Pomerleau&location=Quebec"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Administrateur%20ServiceNow%20Pomerleau&l=Quebec"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Administrateur%20ServiceNow%20Pomerleau&loc=Quebec"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-25",
    "title": "Salesforce Business Analyst Manager",
    "company": "Cognizant",
    "location": "Toronto, ON · remote in Canada, Ontario preferred",
@@ -522,6 +647,47 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-25",
+   "title": "Salesforce 架構師 (Salesforce Architect)",
+   "company": "Salesforce",
+   "location": "Taiwan - Remote",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 56,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "salesforce 架構師 (salesforce architect) salesforce taiwan - remote workday ats salesforce workday salesforce role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20%E6%9E%B6%E6%A7%8B%E5%B8%AB%20%28Salesforce%20Architect%29%20Salesforce+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20%E6%9E%B6%E6%A7%8B%E5%B8%AB%20%28Salesforce%20Architect%29%20Salesforce&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20%E6%9E%B6%E6%A7%8B%E5%B8%AB%20%28Salesforce%20Architect%29%20Salesforce&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20%E6%9E%B6%E6%A7%8B%E5%B8%AB%20%28Salesforce%20Architect%29%20Salesforce&loc=Canada"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-25",
@@ -1525,66 +1691,6 @@
   },
   {
    "posted": "2026-11-24",
-   "title": "ServiceNow Administrator",
-   "company": "Pomerleau",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469975858",
-   "note": "linkedin",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "servicenow administrator pomerleau montreal, quebec, canada linkedin servicenow linkedin servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469986334",
-     "label": "LinkedIn · St-Georges",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-at-pomerleau-4469993127",
-     "label": "LinkedIn · Québec",
-     "gated": false
-    },
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/servicenow-administrator-433a510c045a4d273f18240dbdc851f9",
-     "label": "Eluta · Montréal QC",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Administrator%20Pomerleau+Montreal+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Administrator%20Pomerleau&location=Montreal"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Administrator%20Pomerleau&l=Montreal"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Administrator%20Pomerleau&loc=Montreal"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-24",
    "title": "ServiceNow Developer / Insight Global Jobs",
    "company": "Insight Global Jobs",
    "location": "Canada",
@@ -1850,66 +1956,6 @@
   },
   {
    "posted": "2026-11-24",
-   "title": "Salesforce Developer",
-   "company": "Tata Consultancy Services",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://www.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4494376362",
-   "note": "linkedin",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce developer tata consultancy services toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4494376362",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4492174064",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5961956971",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Tata%20Consultancy%20Services+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Tata%20Consultancy%20Services&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Tata%20Consultancy%20Services&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Tata%20Consultancy%20Services&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-24",
    "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
    "company": "TD Bank",
    "location": "Toronto, Ontario",
@@ -1964,6 +2010,66 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Software%20Engineer%20II%20%28Salesforce%20Loyalty%20Management%20Developer%29%20TD%20Bank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-24",
+   "title": "Salesforce Developer",
+   "company": "Tata Consultancy Services",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://www.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4494376362",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce developer tata consultancy services toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4494376362",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4492174064",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5961956971",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Developer%20Tata%20Consultancy%20Services+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Developer%20Tata%20Consultancy%20Services&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Developer%20Tata%20Consultancy%20Services&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Developer%20Tata%20Consultancy%20Services&loc=Toronto"
     }
    ],
    "toronto": true
@@ -10641,47 +10747,6 @@
   },
   {
    "posted": "2026-11-20",
-   "title": "Salesforce 架構師 (Salesforce Architect)",
-   "company": "Salesforce",
-   "location": "Taiwan - Remote",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 56,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "salesforce 架構師 (salesforce architect) salesforce taiwan - remote workday ats salesforce workday salesforce role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20%E6%9E%B6%E6%A7%8B%E5%B8%AB%20%28Salesforce%20Architect%29%20Salesforce+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20%E6%9E%B6%E6%A7%8B%E5%B8%AB%20%28Salesforce%20Architect%29%20Salesforce&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20%E6%9E%B6%E6%A7%8B%E5%B8%AB%20%28Salesforce%20Architect%29%20Salesforce&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20%E6%9E%B6%E6%A7%8B%E5%B8%AB%20%28Salesforce%20Architect%29%20Salesforce&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-20",
    "title": "IT Operations & Service Transition Consultant (ITSM)",
    "company": "Procom",
    "location": "Toronto, Ontario, Canada",
@@ -16013,6 +16078,47 @@
   },
   {
    "posted": "2026-11-18",
+   "title": "Sr. ServiceNow Architect",
+   "company": "Resolve Tech Solutions",
+   "location": "US Remote - FL",
+   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "french": false,
+   "search": "sr. servicenow architect resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-18",
    "title": "Senior Business Systems Analyst (ServiceNow)",
    "company": "Interac",
    "location": "Canada",
@@ -16067,47 +16173,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Business%20Systems%20Analyst%20%28ServiceNow%29%20Interac&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Sr. ServiceNow Architect",
-   "company": "Resolve Tech Solutions",
-   "location": "US Remote - FL",
-   "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "french": false,
-   "search": "sr. servicenow architect resolve tech solutions us remote - fl workday ats servicenow workday servicenow role fit canada / remote",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr.%20ServiceNow%20Architect%20Resolve%20Tech%20Solutions&loc=Canada"
     }
    ],
    "toronto": false
@@ -16329,54 +16394,6 @@
     }
    ],
    "toronto": false
-  },
-  {
-   "posted": "2026-11-18",
-   "title": "Salesforce Data Cloud Developer",
-   "company": "Wipro Limited",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://careers.wipro.com/job/Salesforce-Data-cloud-Developer/220407-en_US",
-   "note": "wipro careers",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "careers.wipro.com",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "french": false,
-   "search": "salesforce data cloud developer wipro limited toronto, ontario, canada careers.wipro.com salesforce wipro careers salesforce role fit toronto area",
-   "alternates": [
-    {
-     "source": "Indeed",
-     "url": "https://ca.indeed.com/viewjob?jk=81e2c50562229fe6",
-     "label": "Indeed · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&loc=Toronto"
-    }
-   ],
-   "toronto": true
   },
   {
    "posted": "2026-11-18",
@@ -16624,6 +16641,54 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Administrator%20RideCo%20On-Demand%20Transit&loc=Waterloo"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-18",
+   "title": "Salesforce Data Cloud Developer",
+   "company": "Wipro Limited",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.wipro.com/job/Salesforce-Data-cloud-Developer/220407-en_US",
+   "note": "wipro careers",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "careers.wipro.com",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce data cloud developer wipro limited toronto, ontario, canada careers.wipro.com salesforce wipro careers salesforce role fit toronto area",
+   "alternates": [
+    {
+     "source": "Indeed",
+     "url": "https://ca.indeed.com/viewjob?jk=81e2c50562229fe6",
+     "label": "Indeed · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Data%20Cloud%20Developer%20Wipro%20Limited&loc=Toronto"
     }
    ],
    "toronto": true
@@ -46893,12 +46958,6 @@
      "url": "https://www.adzuna.ca/details/5947169671",
      "label": "Adzuna · Toronto",
      "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-galent-4482231111",
-     "label": "LinkedIn · Toronto",
-     "gated": false
     }
    ],
    "gated": false,
@@ -52014,71 +52073,6 @@
   },
   {
    "posted": "2026-11-11",
-   "title": "Administrateur ServiceNow",
-   "company": "Talent Pomerleau",
-   "location": "Montréal, Québec",
-   "url": "https://www.adzuna.ca/details/5961954561",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 72,
-   "matchReasons": [
-    "ServiceNow",
-    "Quebec"
-   ],
-   "french": true,
-   "search": "administrateur servicenow talent pomerleau montreal, quebec adzuna servicenow readme servicenow quebec",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220742",
-     "label": "LinkedIn · St-Georges",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470228264",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-pomerleau-4470220744",
-     "label": "LinkedIn · Québec",
-     "gated": false
-    },
-    {
-     "source": "Eluta",
-     "url": "https://www.eluta.ca/spl/administrateur-servicenow-9787e6728b70f8e045ba53b3a5bf0bef",
-     "label": "Eluta · Montréal QC",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Administrateur%20ServiceNow%20Talent%20Pomerleau+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Administrateur%20ServiceNow%20Talent%20Pomerleau&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Administrateur%20ServiceNow%20Talent%20Pomerleau&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Administrateur%20ServiceNow%20Talent%20Pomerleau&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-11",
    "title": "DÉVELOPPEUR SERVICENOW Montréal (hybride) 2025-11-18",
    "company": "CHROME TECHNOLOGIES",
    "location": "Montréal, Québec",
@@ -54768,14 +54762,7 @@
    ],
    "french": true,
    "search": "developpeur salesforce lgs, an ibm company ville-marie, quebec, canada linkedin salesforce linkedin salesforce canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-salesforce-at-lgs-an-ibm-company-4431150964",
-     "label": "LinkedIn · Ville-Marie",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -64347,12 +64334,6 @@
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4488440203",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/staff-systems-engineer-at-servicenow-4449668951",
      "label": "LinkedIn · Toronto",
      "gated": false
     }
@@ -169402,14 +169383,7 @@
    ],
    "french": false,
    "search": "senior servicenow architect optovia ottawa, ottawa region adzuna servicenow adzuna servicenow role fit",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-architect-at-optovia-4484139182",
-     "label": "LinkedIn · Ottawa",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -187453,14 +187427,7 @@
    ],
    "french": false,
    "search": "servicenow developer – s2p alldus canada linkedin servicenow readme servicenow role fit canada / remote",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-%E2%80%93-s2p-at-alldus-4483056086",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -188005,12 +187972,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-financial-services-cloud-at-maarut-inc-4484485223",
      "label": "LinkedIn · Montreal",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945037763?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Montréal East",
      "gated": false
     }
    ],
@@ -188892,12 +188853,6 @@
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5945478146?utm_medium=api&utm_source=54ce986e",
      "label": "Adzuna · Mississauga",
-     "gated": false
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-solution-lead-at-mckesson-4484717004",
-     "label": "LinkedIn · Mississauga",
      "gated": false
     }
    ],
@@ -196161,12 +196116,6 @@
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797",
      "label": "LinkedIn · Toronto",
-     "gated": false
-    },
-    {
-     "source": "jobs.ca",
-     "url": "https://www.jobs.ca/medcan/jobs/salesforce-developer-toronto-on-1302474d8486",
-     "label": "jobs.ca · Toronto",
      "gated": false
     }
    ],
