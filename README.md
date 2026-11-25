@@ -58,6 +58,16 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — cron scan 2026-11-25T11:00EST
+
+1 net-new Canada-geo ServiceNow/Salesforce row added to jobs.json this cycle (board now 5,663 rows: 1,210 ServiceNow / 4,335 Salesforce); deduped by normalized URL, LinkedIn job id and company+title against jobs.json, README.md and APPLIED.md. Note: the twin Raas Infotek posting of the same client req was already onboarded by the CI's 15:44Z fresh-CA sweep, so only the Yochana row was missing.
+
+Sources checked this hour: Adzuna CA (ServiceNow/Salesforce + both admin variants Toronto 3d; Canada-wide SN/SF Developer 2d — 15 platform leads, all boarded or sales/support-only), Workday CXS (BMO, TD, CIBC, Manulife, Interac — all fresh hits already boarded by the 09:13Z scan; RBC wd5 422), ServiceNow official SmartRecruiters (973 postings / 26 Canada — all sales/SRE/security, no build), Salesforce official Workday wd12 (sales/GTM only), Accenture wd103 (no SN/SF build), Rogers careers (0 SN/SF), Scotiabank Phenom (only a Bogotá ServiceNow Developer), Bell (303 redirect → 0), Job Bank (generic noise only), NeuraFlash/Docebo/Levio partner boards (all boarded / no fresh Toronto SN/SF), government (gojobs/jobs.gc.ca Radware-walled, none surfaced), LinkedIn guest 24h Toronto (87 cards, 18 boarded; 2 Salesforce admin/dev staffing reqs — 1 new below, 1 already onboarded).
+
+| Posted | Role | Company | Location | Source / note |
+|---|---|---|---|---|
+| 2026-11-25 | [Salesforce Production Support (Platform Admin + Apex/LWC)](https://ca.linkedin.com/jobs/view/salesforce-production-support-at-yochana-4494915808) | Yochana | Toronto, ON | LinkedIn guest · staffing, 4-5 yrs · SF Admin (users/profiles/perm sets/sharing/Flow/reports) + Apex classes/triggers/LWC + prod support · SF Admin cert preferred, Platform Developer I an asset · Sales Cloud/FSC |
+
 ## Verified fresh additions — cron scan 2026-11-25T09:00EST
 
 2 net-new Canada-geo ServiceNow/Salesforce rows added to jobs.json this cycle (board now 5,654 rows: 1,208 ServiceNow / 4,328 Salesforce); deduped by normalized URL, ATS posting id and company+title against jobs.json, README.md and APPLIED.md.

@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-25T15:44:14+00:00",
+ "generatedAt": "2026-11-25T16:13:32+00:00",
  "timezone": "America/Toronto",
- "count": 5011,
+ "count": 5012,
  "appliedHidden": 28,
  "sources": [
   "103.careerplug.com",
@@ -583,6 +583,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Business%20Analyst%20Manager%20Cognizant&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-25",
+   "title": "Salesforce Production Support (Platform Admin + Apex/LWC)",
+   "company": "Yochana",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-production-support-at-yochana-4494915808",
+   "note": "linkedin",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "french": false,
+   "search": "salesforce production support (platform admin + apex/lwc) yochana toronto, ontario, canada linkedin salesforce linkedin salesforce role fit toronto area",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20Production%20Support%20%28Platform%20Admin%20%2B%20Apex/LWC%29%20Yochana+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Production%20Support%20%28Platform%20Admin%20%2B%20Apex/LWC%29%20Yochana&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Production%20Support%20%28Platform%20Admin%20%2B%20Apex/LWC%29%20Yochana&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Production%20Support%20%28Platform%20Admin%20%2B%20Apex/LWC%29%20Yochana&loc=Toronto"
     }
    ],
    "toronto": true

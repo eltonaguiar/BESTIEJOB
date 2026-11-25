@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-25T15:12:54.641Z",
     "generatedAt": "2026-11-25T15:12:54.641Z",
-    "total": 5662,
+    "total": 5663,
     "newThisScan": 513,
     "retainedFromPrevious": 5190,
     "sources": {
@@ -33,11 +33,12 @@
     },
     "primaryCounts": {
       "servicenow": 1210,
-      "salesforce": 4334
+      "salesforce": 4335
     },
     "undated": 0
   },
   "jobs": [
+    {"id":"linkedin:ca.linkedin.com/jobs/view/salesforce-production-support-at-yochana-4494915808","source":"linkedin","company":"Yochana","title":"Salesforce Production Support (Platform Admin + Apex/LWC)","location":"Toronto, Ontario, Canada","url":"https://ca.linkedin.com/jobs/view/salesforce-production-support-at-yochana-4494915808","employmentType":"full-time","salary":null,"postedDate":"2026-11-25T15:35:00.000Z","scrapedAt":"2026-11-25T16:15:00.000Z","excerpt":"Staffing: Salesforce Admin + Apex/LWC dev, 4-5 yrs, Toronto. Administer users/profiles/permission sets/sharing rules; objects/fields/record types/Flow/reports; data loads (Data Loader/Workbench/SOQL); production incident support; Apex classes/triggers/LWC/test classes; deployments (Change Sets/SFDX). Sales Cloud + FSC. SF Admin cert preferred; Platform Developer I an asset. Vendor twin of the Raas Infotek req (already boarded).","workArrangement":"unknown","tags":["salesforce"]},
     {
       "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/taiwan---remote/salesforce---salesforce-architect-_jr362421",
       "source": "workday",
