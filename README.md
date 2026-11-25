@@ -58,6 +58,17 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — cron scan 2026-11-25T09:00EST
+
+2 net-new Canada-geo ServiceNow/Salesforce rows added to jobs.json this cycle (board now 5,654 rows: 1,208 ServiceNow / 4,328 Salesforce); deduped by normalized URL, ATS posting id and company+title against jobs.json, README.md and APPLIED.md.
+
+Sources checked this hour: Eluta Toronto (ServiceNow + Salesforce + both administrator variants — 44 result cards, 8 platform leads; 6 already boarded, 1 older-than-fresh, 2 net-new below), Workday CXS (TD, BMO, CIBC, RBC, Manulife, Sun Life, Rogers, TELUS, Metrolinx, WSIB, Desjardins, Canada Life, CPPIB, OTPP, OMERS, National Bank, Loblaw, Intact, UHN — only BMO R260032445 net-new; all other Toronto-metro SN/SF reqs already boarded), ServiceNow official SmartRecruiters (973 postings, 26 Canada; all Toronto platform roles already boarded), Salesforce official Workday wd12 (0 Toronto reqs), Rogers RSS (0 ServiceNow), LinkedIn guest (429 rate-limited this hour — covered by the CI sweep instead), government (Ontario gojobs / federal jobs.gc.ca surfaced no live dated Toronto SN/SF build reqs).
+
+| Posted | Role | Company | Location | Source / note |
+|---|---|---|---|---|
+| 2026-11-24 | [Senior Sales Force Developer](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Senior-Sales-Force-Developer_R260032445) | BMO | Toronto, ON (hybrid) | Workday req R260032445 · 2 days in any of 4 GTA offices · 3-5 yrs Salesforce Lightning (LWC/Apex/Aura/Flows/APIs), 2-3 yrs admin + SQL/SOQL · closes 2026-12-24 |
+| 2026-11-24 | [Salesforce Developer](https://www.eluta.ca/spl/salesforce-developer-35e9676587de87fc4dc1919ec62a4d2a) | Dawn InfoTek Inc. | Toronto ON | Eluta agency posting for a bank client · Senior SF Developer, 6-month contract, CAD 80-100/hr · Apex/Visualforce/LWC, REST/SOAP integrations, Sales/Service Cloud |
+
 ## Verified fresh additions — cron scan 2026-11-25T08:00EST
 
 1 net-new Canada-geo ServiceNow/Salesforce row added to jobs.json this cycle (board now 5,651 rows: 1,208 ServiceNow / 4,325 Salesforce); deduped by normalized URL, LinkedIn job id and company+title against jobs.json, README.md and APPLIED.md.

@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-25T13:13:21.650Z",
     "generatedAt": "2026-11-25T13:13:21.650Z",
-    "total": 5652,
+    "total": 5654,
     "newThisScan": 508,
     "retainedFromPrevious": 5185,
     "sources": {
@@ -33,11 +33,13 @@
     },
     "primaryCounts": {
       "servicenow": 1208,
-      "salesforce": 4326
+      "salesforce": 4328
     },
     "undated": 0
   },
   "jobs": [
+    {"id":"workday:bmo.wd3.myworkdayjobs.com/external/job/toronto-on-can/senior-sales-force-developer_r260032445","source":"workday","company":"BMO","title":"Senior Sales Force Developer","location":"Toronto, ON, CAN","url":"https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Senior-Sales-Force-Developer_R260032445","employmentType":"full-time","salary":null,"postedDate":"2026-11-24T00:00:00.000Z","scrapedAt":"2026-11-25T14:00:00.000Z","excerpt":"Hybrid: 2 days in any of 4 Greater Toronto offices (Scarborough, Barrie, First Canadian Place, BMO Place 33 Dundas St W). 3-5 yrs Salesforce Lightning (LWC, Apex, Aura, Flows, APIs), 2-3 yrs SF admin, 2-3 yrs SQL/SOQL/SOSL. Req R260032445; application deadline 2026-12-24.","workArrangement":"hybrid","tags":["salesforce"]},
+    {"id":"readme:eluta.ca/spl/salesforce-developer-35e9676587de87fc4dc1919ec62a4d2a","source":"readme","company":"Dawn InfoTek Inc.","title":"Salesforce Developer","location":"Toronto ON","url":"https://www.eluta.ca/spl/salesforce-developer-35e9676587de87fc4dc1919ec62a4d2a","employmentType":"contract","salary":{"min":80,"max":100,"currency":"CAD","period":"hour"},"postedDate":"2026-11-24T08:02:14.000Z","scrapedAt":"2026-11-25T14:00:00.000Z","excerpt":"Agency posting for a bank client: Senior Salesforce Developer, 6 months, CAD 80-100/hr. 5+ yrs Salesforce (Apex, Visualforce, LWC/Aura), 3+ yrs REST/SOAP integrations, Sales/Service Cloud; FSC nice-to-have. Toronto ON.","workArrangement":"unknown","tags":["salesforce"]},
     {
       "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/taiwan---remote/salesforce---salesforce-architect-_jr362421",
       "source": "workday",
