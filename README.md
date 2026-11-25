@@ -58,6 +58,16 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — cron scan 2026-11-25T07:00EST
+
+1 net-new Canada-geo ServiceNow/Salesforce row added to jobs.json this cycle (board now 5,691 rows: 1,208 ServiceNow / 4,324 Salesforce); deduped by normalized URL, LinkedIn job id and company+title against jobs.json, README.md and APPLIED.md.
+
+Sources checked this hour: LinkedIn guest (60 ServiceNow + 60 Salesforce cards, Toronto 24h — 59/60 ServiceNow cards and 13/14 Salesforce title-hits already boarded), Adzuna CA API (31 ServiceNow / 80 Salesforce — 0 net-new, every title-hit already boarded), Workday CXS TD/BMO (most boards 429-limited; the reachable TD/BMO ServiceNow + Salesforce reqs were all already on the board), Rogers date-sorted (26 rows, no ServiceNow/Salesforce titles).
+
+| Posted | Role | Company | Location | Source / note |
+|---|---|---|---|---|
+| 2026-11-25 | [Salesforce Health Cloud Engineer](https://ca.linkedin.com/jobs/view/salesforce-health-cloud-engineer-at-sanofi-4494614953) | Sanofi | Toronto, Ontario, Canada (Hybrid, 3 days onsite) | linkedin · req R2879457; Apex/LWC/Visualforce/Flows/Health Cloud + integrations |
+
 ## Verified fresh additions — cron scan 2026-11-24T23:00EST
 
 36 net-new Canada-geo ServiceNow/Salesforce rows added to jobs.json this cycle (board now 5,681 rows: 1,205 ServiceNow / 4,318 Salesforce); deduped by normalized URL against jobs.json, README.md and APPLIED.md. Sources: LinkedIn guest (232 cards after two HTTP 429 retries), Adzuna CA API (189), SmartRecruiters ServiceNow (12), Greenhouse (12), Lever (1), Ashby (2), remote feeds (6). All Workday CXS boards returned HTTP 429 past the :00Z window and were skipped — the CI hourly pass carries Workday.

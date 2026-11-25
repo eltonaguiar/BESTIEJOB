@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-25T11:25:39.621Z",
     "generatedAt": "2026-11-25T11:25:39.621Z",
-    "total": 5690,
+    "total": 5691,
     "newThisScan": 508,
     "retainedFromPrevious": 5182,
     "sources": {
@@ -33,10 +33,11 @@
     },
     "primaryCounts": {
       "servicenow": 1208,
-      "salesforce": 4323
+      "salesforce": 4324
     }
   },
   "jobs": [
+    {"id":"linkedin:ca.linkedin.com/jobs/view/salesforce-health-cloud-engineer-at-sanofi-4494614953","source":"linkedin","company":"Sanofi","title":"Salesforce Health Cloud Engineer","location":"Toronto, Ontario, Canada","url":"https://ca.linkedin.com/jobs/view/salesforce-health-cloud-engineer-at-sanofi-4494614953","employmentType":"full-time","salary":null,"postedDate":"2026-11-25T00:00:00.000Z","scrapedAt":"2026-11-25T12:10:00.000Z","excerpt":"Lead design/build of Salesforce Health Cloud (iCare) solutions for Sanofi Patient Services: Apex, LWC, Visualforce, triggers, flows, Omni Components, REST/SOAP integrations, Platform Events. Toronto hybrid (3 days onsite). Req R2879457.","workArrangement":"hybrid","tags":["salesforce"]},
     {
       "id": "adzuna:adzuna.ca/details/5978226817",
       "source": "adzuna",
