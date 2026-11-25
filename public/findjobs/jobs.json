@@ -33,26 +33,10 @@
     "primaryCounts": {
       "servicenow": 1206,
       "salesforce": 4321
-    }
+    },
+    "undated": 0
   },
   "jobs": [
-    {
-      "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/software-engineer-ii--salesforce-loyalty-management-developer-_r_1509038",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-25T03:14:38.380Z",
-      "scrapedAt": "2026-11-25T03:14:38.380Z",
-      "excerpt": "R_1509038 · Engineering",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ]
-    },
     {
       "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6270164004",
       "source": "greenhouse",
@@ -140,6 +124,24 @@
       "tags": [
         "salesforce"
       ]
+    },
+    {
+      "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/software-engineer-ii--salesforce-loyalty-management-developer-_r_1509038",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Software Engineer II (Salesforce Loyalty Management Developer)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-25T03:14:38.380Z",
+      "excerpt": "R_1509038 · Engineering",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "adzuna:adzuna.ca/details/5977112065",
