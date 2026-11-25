@@ -116,3 +116,23 @@ Checked, yielded nothing net-new this cycle:
 
 Updated source lesson for this cycle:
 1. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce — nothing junior surfaced this hour, only mid/senior and lead reqs. Keep the weekly partner/Elite-partner pass (Deloitte, Cognizant, Wipro) and deprioritize Rogers/Bell/GC portals to every-other-cycle.
+
+## Hourly scan 2026-11-24T20:00EST (this cycle)
+
+Result: 4 fresh postings verified live and added to README.md under "Verified fresh additions — hourly scan 2026-11-24T20:00EST". 0 ServiceNow, 4 Salesforce, 0 Other. Deduped by URL against jobs.json (5645 listings post-normalize), README.md and APPLIED.md. Zero roles removed.
+
+Added:
+- Hire DigITalent Inc. — Senior Salesforce Developer — Toronto, Ontario, Canada — LinkedIn ca.linkedin.com/jobs/view/senior-salesforce-developer-at-hire-digitalent-inc-4494375661 — postedDate 2026-11-24 (observed via LinkedIn guest search, last 24h; detail gated to this host, added on title/company/location/recency per board policy).
+- Cognizant — Salesforce Tech Lead — Toronto, Ontario, Canada — LinkedIn ca.linkedin.com/jobs/view/salesforce-tech-lead-at-cognizant-4494074582 — postedDate 2026-11-23.
+- Cognizant — Senior Salesforce Tech Lead — Toronto, Ontario, Canada — LinkedIn ca.linkedin.com/jobs/view/senior-salesforce-tech-lead-at-cognizant-4494018414 — postedDate 2026-11-23.
+- Veracity Ventures Inc. — Salesforce Developer 1014 — Toronto, Ontario — Adzuna adzuna.ca/details/5976166298 — API created 2026-11-23T09:05:55Z (detail page behind bot wall from this host, treated as live per board policy).
+
+Deduped / not added:
+- White Bay — Salesforce Administrator / SFMC + Data Cloud / Natural Health, hybrid Toronto, $60–75k: LinkedIn mirror (4494072701) of a role already on the board via jobs.ca (posted 2026-11-18, same employer + role + pay). Same requisition, different source URL — skipped as duplicate.
+- All other fresh-pool candidates (TCS, TD, Agility IT, OnX, EHN Canada, Zodiac, AceStack, Nityo, Konrad, ~40 more) already present in README/jobs.json under the same or canonical URL.
+
+Employer-direct checks yielding nothing net-new: Rogers (no platform roles server-side), Bell/Ateko-FX (reqs expired or filled; portals not enumerable), Lane Four (no job body server-side), NewRocket (no enumerable jobs), Government of Canada Job Bank / Eluta (Radware-walled; Sept–Oct postings stale), ServiceNow Careers (Cloudflare bot wall; Ontario = sales/SRE/engineering only), Salesforce Careers (pre-sales Solution Engineer roles only). Workday CXS probes for BMO/TD/CIBC/Manulife/Interac/Accenture/Salesforce returned HTTP 422 rate-limit at this hour.
+
+Updated source lesson for this cycle:
+1. Diffing jobs.json against README.md URLs is the cheapest complete freshness signal — it surfaced 4 LinkedIn/Adzuna Salesforce roles the web searches did not. Pair it with a targeted LinkedIn Toronto scan for roles the scrape normalizes to midnight dates.
+2. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce — nothing junior surfaced, only mid/senior and lead reqs.

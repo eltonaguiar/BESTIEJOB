@@ -57,6 +57,21 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — hourly scan 2026-11-24T20:00EST
+
+Four fresh postings verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Two surfaced via a targeted LinkedIn Toronto Salesforce scan (posted within the last 24h; added on title/company/location/recency evidence because LinkedIn's job detail is behind a sign-in modal from this host — per board policy the listing/scan date is shown). Two surfaced via the Adzuna CA API (`created` is the ad's clock; detail page is behind a bot wall from this host, treated as live per board policy). All four are Toronto-area Salesforce platform build roles; none is an entry-level Platform Administrator / Platform Developer I.
+
+Employer-direct partner/employer checks this cycle — Rogers (jobs.rogers.com: no platform roles server-side), Bell/Ateko (platform reqs expired or filled), Lane Four (no job body server-side), NewRocket (no enumerable jobs), Government of Canada Job Bank / Eluta (Radware-walled; September–October 2026 postings stale), ServiceNow Careers (Cloudflare bot wall; Ontario listings are sales/SRE/engineering, no Platform Admin/Developer I), Salesforce Careers (pre-sales Solution Engineer roles, not platform build) — returned no other fresh live ServiceNow or Salesforce platform roles. Entry-level Platform Administrator / Platform Developer I (Toronto) remain scarce this hour: nothing junior surfaced, only mid/senior and lead reqs.
+
+|||| Posted | Role | Company | Location | Source ||
+||||---|---|---|---|---|---||
+|||| 2026-11-24* | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-hire-digitalent-inc-4494375661) | Hire DigITalent Inc. | Toronto, Ontario, Canada | linkedin ||
+|||| 2026-11-23* | [Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/salesforce-tech-lead-at-cognizant-4494074582) | Cognizant | Toronto, Ontario, Canada | linkedin ||
+|||| 2026-11-23* | [Senior Salesforce Tech Lead](https://ca.linkedin.com/jobs/view/senior-salesforce-tech-lead-at-cognizant-4494018414) | Cognizant | Toronto, Ontario, Canada | linkedin ||
+|||| 2026-11-23* | [Salesforce Developer 1014](https://www.adzuna.ca/details/5976166298) | Veracity Ventures Inc. | Toronto, Ontario | adzuna ||
+
+*Posted date not stated absolutely on the listing ("within the last 24h" / Adzuna API `created` at scan time); date shown is the discovery date and the row is asterisked per board policy.
+
 ## Verified fresh additions — cron scan 2026-11-24T16:00EST
 
 One fresh posting verified live this cycle; deduped by URL against jobs.json, README.md and APPLIED.md. Surfaced via a targeted LinkedIn Toronto search (past 24 hours) and confirmed live on the LinkedIn jobs page by reading the full job description: Nityo Infotech's Salesforce Marketing Cloud - Senior Developer (contract, Toronto) is hands-on platform build work — SFMC Journey Builder/Automation Studio/Email Studio/Mobile Studio/Content Builder, AMPscript/SSJS, SQL audience segmentation, REST/SOAP API integrations, and Salesforce certifications (Marketing Cloud Consultant/Developer, Administrator). Mid-senior level, not an entry-level Platform Admin/Developer I role.
