@@ -58,6 +58,16 @@
 _Generated automatically by the daily job scan; run `npm run scan:daily` to refresh._
 <!-- DAILY-SCAN:END -->
 
+## Verified fresh additions — cron scan 2026-11-25T12:00EST
+
+1 net-new Canada-geo Salesforce row added to jobs.json this cycle (board now 5,665 rows: 1,210 ServiceNow / 4,336 Salesforce); deduped by normalized URL, LinkedIn job id and company+title against jobs.json (incl. origin/main), README.md and APPLIED.md. The CI's 16:17Z sweep had already onboarded the BULL Information Systems twin (4494919869) of the same client req before this push, so only the Zoho row was missing.
+
+Sources checked this hour: LinkedIn guest 24h Toronto (ServiceNow + Salesforce + both developer/administrator title queries — 112 unique cards, 14 title-hits; 12 already boarded incl. Sanofi/SS&C/Yochana/Raas/Agility IT/AceStack/BULL-IT/Nityo/Tamanna; 2 net-new twins of one client dev req → BULL already on origin/main, Zoho added below), aggregator/web (CGI ServiceNow Admin/Dev, KPMG ServiceNow Dev x2, Deloitte ServiceNow IRM/SecOps, HCLTech SF Admin, Dentalcorp, Lane Four, Wipro Data Cloud, OSI Digital, SS&C, National Bank, Acestack, CGI SF Architect — all boarded), partner/employer (Ateko/FX Innovation ServiceNow Elite → live remote roles but French-required/Montréal and already represented; Envision ITOM boarded; Real Ventures SN Dev boarded; Moneris SF Dev unverified behind aggregator), government (GoC Sr Salesforce Developer 4481939757 boarded; CMHC ServiceNow ITSM Dev boarded; City of Toronto Systems Integrator-1 ServiceNow req 66386 closed 2026-10-20; House of Commons full-stack ServiceNow closed 2026-11-15), telco (Rogers careers no SN/SF titles; Bell 303-redirect → 0). Cloudflare-walled ZIP candidates left unverified in watchlist (not added): Wawanesa SF Lead Developer (CA$100-130k), PwC Sr Associate SF Technical Consultant, Dentsu freelance SF/HubSpot dev.
+
+| Posted | Role | Company | Location | Source / note |
+|---|---|---|---|---|
+| 2026-11-25 | [Senior Salesforce Developer](https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zoho-4494928808) | Zoho | Toronto, ON | LinkedIn guest · posted ~4 min before scan; Apex/Triggers/Batch Apex, LWC, SOQL/SOSL, Flows, REST-SOAP, Sales+Service Cloud, Data Loader, unit tests, Agile/Scrum; vendor twin of BULL Information Systems 4494919869 (same JD, already onboarded by CI) |
+
 ## Verified fresh additions — cron scan 2026-11-25T11:00EST
 
 1 net-new Canada-geo ServiceNow/Salesforce row added to jobs.json this cycle (board now 5,663 rows: 1,210 ServiceNow / 4,335 Salesforce); deduped by normalized URL, LinkedIn job id and company+title against jobs.json, README.md and APPLIED.md. Note: the twin Raas Infotek posting of the same client req was already onboarded by the CI's 15:44Z fresh-CA sweep, so only the Yochana row was missing.

@@ -16,8 +16,8 @@
     "location": "Toronto, ON",
     "dateFilter": "month",
     "scrapedAt": "2026-11-25T16:15:53.519Z",
-    "generatedAt": "2026-11-25T16:15:53.519Z",
-    "total": 5664,
+    "generatedAt": "2026-11-25T17:04:00.000Z",
+    "total": 5665,
     "newThisScan": 511,
     "retainedFromPrevious": 5193,
     "sources": {
@@ -33,10 +33,28 @@
     },
     "primaryCounts": {
       "servicenow": 1210,
-      "salesforce": 4335
-    }
+      "salesforce": 4336
+    },
+    "undated": 0
   },
   "jobs": [
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zoho-4494928808",
+      "source": "linkedin",
+      "company": "Zoho",
+      "title": "Senior Salesforce Developer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-zoho-4494928808",
+      "employmentType": "full-time",
+      "salary": null,
+      "postedDate": "2026-11-25T17:00:00.000Z",
+      "scrapedAt": "2026-11-25T17:04:00.000Z",
+      "excerpt": "Salesforce developer: Apex/Triggers/Batch Apex, LWC, SOQL/SOSL, Flows, REST/SOAP integrations, Sales+Service Cloud, Data Loader; unit tests, production support, Agile. Posted ~4 min before scan (LinkedIn 4494928808). Vendor twin of the BULL Information Systems req (4494919869, identical JD).",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
     {
       "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/taiwan---remote/salesforce---salesforce-architect-_jr362421",
       "source": "workday",
@@ -46,13 +64,14 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-25T16:15:53.519Z",
+      "postedDate": "2026-11-25T12:00:00.000Z",
       "scrapedAt": "2026-11-25T16:15:53.519Z",
       "excerpt": "JR362421",
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/servicenow-cmdb-administrator_r260030992",
@@ -63,13 +82,14 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-25T16:15:53.519Z",
+      "postedDate": "2026-11-25T12:00:00.000Z",
       "scrapedAt": "2026-11-25T16:15:53.519Z",
       "excerpt": "R260030992",
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "adzuna:adzuna.ca/details/5978355417",
