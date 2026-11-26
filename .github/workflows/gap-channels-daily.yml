@@ -110,4 +110,14 @@ jobs:
           fi
           NEW=$(git diff --cached --numstat README.md | awk '{print $1}')
           git commit -m "chore(jobs): gap-channel sweep +${NEW:-0} rows ($(date -u +%Y-%m-%dT%H:%M:%SZ)) [skip ci]"
-          git push || { git pull --rebase --autostash origin main; git push; }
+          # Other workflows write main under different concurrency groups, so a
+          # rejected push is normal. Rebase first for clean history; if it conflicts
+          # in files this run just regenerated, abort and take ours instead of dying.
+          git push || {
+            if ! git pull --rebase --autostash origin main; then
+              git rebase --abort 2>/dev/null || true
+              GIT_MERGE_AUTOEDIT=no GIT_EDITOR=true \
+                git pull --no-rebase -X ours --no-edit origin main
+            fi
+            git push
+          }
