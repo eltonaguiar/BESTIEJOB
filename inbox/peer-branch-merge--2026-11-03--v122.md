@@ -131,7 +131,6 @@ notes: 166 rows recovered from aicert-harvest-2026-11-03 / kilo-deep-scan-2026-1
 | 2026-10-27 | [Salesforce, LWC, Omnistudio Developer](https://www.adzuna.ca/details/5943424777?utm_medium=api&utm_source=54ce986e) | J M Group Inc | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-27 | [Software Engineer II (Salesforce Loyalty Management Developer)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038) | TD Bank | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-27 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797) | Medcan | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
-| 2026-10-26 | [Staff Incident Response Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157918029) | ServiceNow | Vancouver, British Columbia, ca · Remote | via aicert-harvest-2026-11-03 |
 | 2026-10-26 | [ServiceNow Technical Consultants](https://www.adzuna.ca/details/5942233022) | ExcelGens, Inc. | Ottawa, Ottawa region | via aicert-harvest-2026-11-03 |
 | 2026-10-26 | [Salesforce Consultant](https://www.adzuna.ca/details/5942366203) | Axiom Global Technologies | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-26 | [Staff Incident Response Engineer](https://www.adzuna.ca/details/5942366139?utm_medium=api&utm_source=54ce986e) | ServiceNow | Toronto, Ontario | via aicert-harvest-2026-11-03 |
