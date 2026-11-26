@@ -1,7 +1,7 @@
 {
  "status": {
   "GC Jobs (federal)": {
-   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31622B",
+   "status": "emploisfp-psjobs.cfp-psc.gc.ca: http 404, 4490B; www.canada.ca: http 200, 31621B",
    "raw": 0
   },
   "RemoteOK": {
@@ -9,11 +9,11 @@
    "raw": 0
   },
   "Remotive": {
-   "status": "http 200, 15 jobs",
-   "raw": 15
+   "status": "http 200, 16 jobs",
+   "raw": 16
   },
   "Himalayas": {
-   "status": "p0:20/115825, p1:20/115825, p2:20/115825, p3:20/115825, p4:20/115825",
+   "status": "crashed TypeError",
    "raw": 0
   },
   "Jobboom (QC)": {
@@ -33,7 +33,7 @@
    "raw": 0
   },
   "Careerjet CA": {
-   "status": "http 200; http 200",
+   "status": "Timeout; Timeout",
    "raw": 0
   },
   "Jobrapido CA": {
@@ -56,6 +56,11 @@
  "dated": [],
  "undated": [],
  "dropped": [
+  {
+   "source": "Remotive",
+   "title": "WordPress Theme & Plugin Developer",
+   "why": "title filter"
+  },
   {
    "source": "Remotive",
    "title": "Content Reviewer - United States",
