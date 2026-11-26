@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-26T18:14:53.431Z",
     "generatedAt": "2026-11-26T18:14:53.431Z",
-    "total": 5675,
+    "total": 5676,
     "newThisScan": 511,
     "retainedFromPrevious": 5199,
     "sources": {
@@ -34,9 +34,28 @@
     "primaryCounts": {
       "servicenow": 1211,
       "salesforce": 4340
-    }
+    },
+    "undated": 0
   },
   "jobs": [
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-bmc-remedy-helix-itsm-developer-%e2%80%93-technical-consultant-rq00835-at-amyantek-4495500749",
+      "source": "readme",
+      "company": "Amyantek",
+      "title": "Senior BMC Remedy / Helix ITSM Developer – Technical Consultant-RQ00835",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-bmc-remedy-helix-itsm-developer-%E2%80%93-technical-consultant-rq00835-at-amyantek-4495500749",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-26T18:46:29.253Z",
+      "excerpt": "via fresh-ca--2026-11-26--v3.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
+      ]
+    },
     {
       "id": "adzuna:adzuna.ca/details/5979764507",
       "source": "adzuna",
