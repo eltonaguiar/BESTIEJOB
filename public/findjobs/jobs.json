@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-26T09:15:02.026Z",
     "generatedAt": "2026-11-26T09:15:02.026Z",
-    "total": 5682,
+    "total": 5683,
     "newThisScan": 502,
     "retainedFromPrevious": 5215,
     "sources": {
@@ -34,7 +34,8 @@
     "primaryCounts": {
       "servicenow": 1219,
       "salesforce": 4339
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -300,6 +301,23 @@
       ],
       "verifiedAt": "2026-11-26T02:17:22.979397+00:00",
       "verifyState": "live"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/release-manager-salesforce-at-ia-financial-group-industrial-alliance-4462021968",
+      "source": "readme",
+      "company": "iA Financial Group (Industrial Alliance)",
+      "title": "Release Manager Salesforce",
+      "location": "Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/release-manager-salesforce-at-ia-financial-group-industrial-alliance-4462021968",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-25T12:00:00.000Z",
+      "scrapedAt": "2026-11-26T09:44:44.051Z",
+      "excerpt": "via fresh-ca--2026-11-25--v7.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/servicenow-cmdb-administrator_r260030992",
