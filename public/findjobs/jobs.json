@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-26T21:10:55.037Z",
     "generatedAt": "2026-11-26T21:10:55.037Z",
-    "total": 5674,
+    "total": 5676,
     "newThisScan": 501,
     "retainedFromPrevious": 5211,
     "sources": {
@@ -34,7 +34,8 @@
     "primaryCounts": {
       "servicenow": 1213,
       "salesforce": 4340
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -56,6 +57,41 @@
       ],
       "verifiedAt": "2026-11-26T20:12:58.622713+00:00",
       "verifyState": "live"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-itsm-technical-lead-at-tata-consultancy-services-4495044708",
+      "source": "readme",
+      "company": "Tata Consultancy Services",
+      "title": "ServiceNow ITSM Technical Lead",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-itsm-technical-lead-at-tata-consultancy-services-4495044708",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-26T21:43:26.985Z",
+      "excerpt": "via fresh-ca--2026-11-26--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/salesforce-administrator-4495057231",
+      "source": "readme",
+      "company": "Unknown",
+      "title": "Salesforce Administrator",
+      "location": "Nepean, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/salesforce-administrator-4495057231",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-26T21:43:26.985Z",
+      "excerpt": "via fresh-ca--2026-11-26--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5979764507",
