@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-26T15:12:11.090Z",
     "generatedAt": "2026-11-26T15:12:11.090Z",
-    "total": 5666,
+    "total": 5667,
     "newThisScan": 508,
     "retainedFromPrevious": 5197,
     "sources": {
@@ -34,7 +34,8 @@
     "primaryCounts": {
       "servicenow": 1210,
       "salesforce": 4336
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -1861,6 +1862,23 @@
       ],
       "verifiedAt": "2026-11-26T02:17:22.979397+00:00",
       "verifyState": "live"
+    },
+    {
+      "id": "readme:careerbeacon.com/en/job/2246207/medavie",
+      "source": "readme",
+      "company": "Medavie",
+      "title": "IT Team Leader, Salesforce",
+      "location": "NB, CA",
+      "url": "https://www.careerbeacon.com/en/job/2246207/medavie",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-24T12:00:00.000Z",
+      "scrapedAt": "2026-11-26T15:43:42.632Z",
+      "excerpt": "via CareerBeacon",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5977218312",
