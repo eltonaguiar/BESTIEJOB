@@ -34,74 +34,10 @@
     "primaryCounts": {
       "servicenow": 1218,
       "salesforce": 4337
-    }
+    },
+    "undated": 0
   },
   "jobs": [
-    {
-      "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/taiwan---remote/salesforce---salesforce-architect-_jr362421",
-      "source": "workday",
-      "company": "Salesforce",
-      "title": "Salesforce 架構師 (Salesforce Architect)",
-      "location": "Taiwan - Remote",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-26T03:14:13.399Z",
-      "scrapedAt": "2026-11-26T03:14:13.399Z",
-      "excerpt": "JR362421",
-      "workArrangement": "remote",
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
-      "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/servicenow-cmdb-administrator_r260030992",
-      "source": "workday",
-      "company": "BMO",
-      "title": "ServiceNow ITOM & HAM Administrator",
-      "location": "Toronto, ON, CAN",
-      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-26T03:14:13.399Z",
-      "scrapedAt": "2026-11-26T03:14:13.399Z",
-      "excerpt": "R260030992",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ],
-      "alternates": [
-        {
-          "source": "linkedin",
-          "url": "https://ca.linkedin.com/jobs/view/servicenow-itom-ham-administrator-at-bmo-4490380189",
-          "label": "linkedin"
-        }
-      ]
-    },
-    {
-      "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/senior-solution-architect--servicenow-_r_1521185",
-      "source": "workday",
-      "company": "TD Bank",
-      "title": "Senior Solution Architect (ServiceNow)",
-      "location": "Toronto, Ontario",
-      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-26T03:14:13.399Z",
-      "scrapedAt": "2026-11-26T03:14:13.399Z",
-      "excerpt": "R_1521185 · Engineering",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ],
-      "alternates": [
-        {
-          "source": "adzuna",
-          "url": "https://www.adzuna.ca/details/5970077372",
-          "label": "adzuna"
-        }
-      ]
-    },
     {
       "id": "adzuna:adzuna.ca/details/5978947685",
       "source": "adzuna",
@@ -118,6 +54,74 @@
       "tags": [
         "salesforce"
       ]
+    },
+    {
+      "id": "workday:salesforce.wd12.myworkdayjobs.com/en-us/external_career_site/job/taiwan---remote/salesforce---salesforce-architect-_jr362421",
+      "source": "workday",
+      "company": "Salesforce",
+      "title": "Salesforce 架構師 (Salesforce Architect)",
+      "location": "Taiwan - Remote",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Salesforce---Salesforce-Architect-_JR362421",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-25T12:00:00.000Z",
+      "scrapedAt": "2026-11-26T03:14:13.399Z",
+      "excerpt": "JR362421",
+      "workArrangement": "remote",
+      "tags": [
+        "salesforce"
+      ],
+      "dateSource": "posting:ats-json"
+    },
+    {
+      "id": "workday:bmo.wd3.myworkdayjobs.com/en-us/external/job/toronto-on-can/servicenow-cmdb-administrator_r260030992",
+      "source": "workday",
+      "company": "BMO",
+      "title": "ServiceNow ITOM & HAM Administrator",
+      "location": "Toronto, ON, CAN",
+      "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-25T12:00:00.000Z",
+      "scrapedAt": "2026-11-26T03:14:13.399Z",
+      "excerpt": "R260030992",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ],
+      "alternates": [
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/servicenow-itom-ham-administrator-at-bmo-4490380189",
+          "label": "linkedin"
+        }
+      ],
+      "dateSource": "posting:ats-json"
+    },
+    {
+      "id": "workday:td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/senior-solution-architect--servicenow-_r_1521185",
+      "source": "workday",
+      "company": "TD Bank",
+      "title": "Senior Solution Architect (ServiceNow)",
+      "location": "Toronto, Ontario",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-25T12:00:00.000Z",
+      "scrapedAt": "2026-11-26T03:14:13.399Z",
+      "excerpt": "R_1521185 · Engineering",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ],
+      "alternates": [
+        {
+          "source": "adzuna",
+          "url": "https://www.adzuna.ca/details/5970077372",
+          "label": "adzuna"
+        }
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/senior-it-consultant-helix-itsm-at-teckhorizon-inc-4494659181",
