@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-27T11:07:50+00:00",
+ "generatedAt": "2026-11-27T11:42:07+00:00",
  "timezone": "America/Toronto",
- "count": 4820,
+ "count": 4821,
  "appliedHidden": 29,
  "sources": [
   "103.careerplug.com",
@@ -334,7 +334,14 @@
    "certs": [],
    "french": false,
    "search": "senior servicenow developer esti consulting services canada linkedin servicenow linkedin servicenow role fit canada / remote  ",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-esti-consulting-services-4495559905",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -1087,7 +1094,14 @@
    "certs": [],
    "french": false,
    "search": "servicenow integration developer vaco by highspring canada linkedin servicenow linkedin servicenow integration role fit canada / remote  ",
-   "alternates": [],
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-integration-developer-at-vaco-by-highspring-4495567160",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -2201,12 +2215,12 @@
    "posted": "2026-11-26",
    "title": "Leader principal ou leader principale - architecte Salesforce",
    "company": "Deloitte",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5980295468",
-   "note": "adzuna",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/leader-principal-ou-leader-principale-architecte-salesforce-at-deloitte-4495037429",
+   "note": "via linkedin-guest--2026-11-27--v1.md",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "Adzuna",
+   "source": "LinkedIn",
    "verified": "Aggregator",
    "match": 60,
    "matchReasons": [
@@ -2216,8 +2230,15 @@
    ],
    "certs": [],
    "french": false,
-   "search": "leader principal ou leader principale - architecte salesforce deloitte toronto, ontario adzuna salesforce adzuna salesforce role fit toronto area  ",
-   "alternates": [],
+   "search": "leader principal ou leader principale - architecte salesforce deloitte toronto, ontario, canada linkedin salesforce via linkedin-guest--2026-11-27--v1.md salesforce role fit toronto area  ",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5980295468",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
@@ -3238,6 +3259,48 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=D%C3%A9veloppeur%20Salesforce%20National%20Bank%20of%20Canada&loc=Montreal"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-26",
+   "title": "Junior ITSM Analyst, IT &amp; IS",
+   "company": "First National Financial LP",
+   "location": "East York, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/junior-itsm-analyst-it-is-at-first-national-financial-lp-4495039285",
+   "note": "via linkedin-guest--2026-11-27--v1.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 46,
+   "matchReasons": [
+    "ITSM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "junior itsm analyst, it &amp; is first national financial lp east york, ontario, canada linkedin servicenow via linkedin-guest--2026-11-27--v1.md itsm role fit toronto area  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Junior%20ITSM%20Analyst%2C%20IT%20%26amp%3B%20IS%20First%20National%20Financial%20LP+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Junior%20ITSM%20Analyst%2C%20IT%20%26amp%3B%20IS%20First%20National%20Financial%20LP&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Junior%20ITSM%20Analyst%2C%20IT%20%26amp%3B%20IS%20First%20National%20Financial%20LP&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Junior%20ITSM%20Analyst%2C%20IT%20%26amp%3B%20IS%20First%20National%20Financial%20LP&loc=Canada"
     }
    ],
    "toronto": false
@@ -23328,13 +23391,13 @@
    "posted": "2026-11-17",
    "title": "Sr Solution Sales Executive CRM (CPQ)",
    "company": "ServiceNow",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5969570818",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "location": "Toronto, ca",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+   "note": "via ats--2026-11-17--v77.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
    "match": 86,
    "matchReasons": [
     "ServiceNow",
@@ -23343,8 +23406,21 @@
    ],
    "certs": [],
    "french": false,
-   "search": "sr solution sales executive crm (cpq) servicenow toronto, ontario adzuna other readme servicenow salesforce toronto area  ",
-   "alternates": [],
+   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow via ats--2026-11-17--v77.md servicenow salesforce toronto area  ",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162143024",
+     "label": "SmartRecruiters · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5969570818",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
