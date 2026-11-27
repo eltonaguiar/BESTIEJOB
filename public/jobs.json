@@ -15,28 +15,43 @@
     ],
     "location": "Toronto, ON",
     "dateFilter": "month",
-    "scrapedAt": "2026-11-27T21:06:23.137Z",
-    "generatedAt": "2026-11-27T21:06:23.137Z",
-    "total": 5399,
-    "newThisScan": 556,
-    "retainedFromPrevious": 4847,
+    "scrapedAt": "2026-11-27T22:06:13.934Z",
+    "generatedAt": "2026-11-27T22:06:13.934Z",
+    "total": 5398,
+    "newThisScan": 548,
+    "retainedFromPrevious": 4853,
     "sources": {
       "smartrecruiters": 10,
-      "workday": 17,
+      "workday": 18,
       "greenhouse": 7,
-      "ashby": 2,
-      "linkedin": 273,
+      "linkedin": 266,
       "jobicy": 2,
       "remotive": 6,
       "adzuna": 239
     },
     "primaryCounts": {
       "servicenow": 1148,
-      "salesforce": 4095
-    },
-    "undated": 0
+      "salesforce": 4093
+    }
   },
   "jobs": [
+    {
+      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/sr-devops-specialist_jr0157866",
+      "source": "workday",
+      "company": "McKesson",
+      "title": "Sr. DevOps Specialist",
+      "location": "CAN, ON, Mississauga",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-DevOps-Specialist_JR0157866",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-27T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
+      "excerpt": "JR0157866",
+      "workArrangement": "unknown",
+      "tags": [
+        "devops"
+      ]
+    },
     {
       "id": "adzuna:adzuna.ca/details/5981030901",
       "source": "adzuna",
@@ -51,7 +66,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-27T13:48:02.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce Industries Cloud Architect (Remote) Duties, responsibilities and tasks of the employee in the role of Salesforce Industries Cloud Architect are as follows: In this role, the Employee will be responsible for leading the architecture, implementation, configuration, customization, and maintenance of Salesforce ",
       "workArrangement": "remote",
       "tags": [
@@ -73,7 +88,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-27T13:48:02.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce Revenue Cloud Architect (Remote) Duties, responsibilities and tasks of the employee in the role of Salesforce Revenue Cloud Architect are as follows: In this role, the Employee will be responsible for leading the architecture, implementation, configuration, customization, and maintenance of Salesforce Revenu",
       "workArrangement": "remote",
       "tags": [
@@ -127,7 +142,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T09:38:37.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "About the Team & Impact You will support the implementation of the PSDS platform with a focus on the License and Permit Playbook. This role helps deliver efficient, compliant, and scalable digital licensing services. You’ll work closely with functional and business teams to shape workflows, data models, and integration",
       "workArrangement": "unknown",
       "tags": [
@@ -144,7 +159,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T09:17:59.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Senior Technical Project Manager CRM / Salesforce Life Sciences Cloud \\n\\n Overview \\n\\n Our client is seeking an experienced Senior Technical Project Manager to lead the delivery of a complex CRM and technology transformation initiative within a highly regulated environment. \\n\\n The su",
       "workArrangement": "unknown",
       "tags": [
@@ -161,7 +176,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-27T09:17:45.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Role: Senior Full Stack Engineer \\n Location: Toronto, ON \\n Terms: Full Time \\n \\n Job Description \\n \\n Roles and Responsibilities: \\n• Design, develop, and maintain high-quality, maintainable Java applications and services using clean code principles and established design patterns. \\",
       "workArrangement": "unknown",
       "tags": [
@@ -178,7 +193,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T09:16:10.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description fusionSpan is a dynamic hybrid and remote work environment that prioritizes innovation, trust, and community in everything we do. We are a team of highly-committed individuals inspired by technology's impact on society, and we recognize our work's role in the well-being of our nonprofit ",
       "workArrangement": "remote",
       "tags": [
@@ -195,7 +210,7 @@
       "employmentType": "contract",
       "salary": null,
       "postedDate": "2026-11-27T09:16:10.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Title: Salesforce Consultant \\n Work site: Toronto - Hybrid \\n Duration: Contract \\n \\n About the Role \\n \\n We are looking for a Senior Salesforce Consultant to provide domain, technical and architectural depth on a capability assessment for a large enterprise client. You will evaluate ",
       "workArrangement": "hybrid",
       "tags": [
@@ -216,7 +231,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-27T09:14:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description \\n Pay Range: $50.00hr - $55.00hr \\n\\n Job Overview: \\n\\n A Salesforce Technical Consultant is responsible for designing, developing, implementing, and supporting Salesforce solutions that meet business requirements. The role involves working closely with business stakeholders, functiona",
       "workArrangement": "unknown",
       "tags": [
@@ -259,7 +274,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-27T09:11:40.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description \\n Salesforce Senior Business Analyst \\n\\n Location: Hybrid- Toronto 3-4 days/week \\n \\n Fulltime \\n\\n \\n\\n \\n\\n \\n\\n \\n\\n JD for Salesforce – Senior Business Analyst \\n\\n \\n\\n · Work with Business and technology partners to Define, document and translate business requirements into detai",
       "workArrangement": "hybrid",
       "tags": [
@@ -276,7 +291,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T09:10:26.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description \\n Salesforce FSC Senior Developer/Technical Lead \\n\\n Location: Toronto, Hybrid 3-4 days/week \\n \\nFULLTIME \\n\\n Exp: 6 years of experience \\n\\n \\n\\n \\n\\n Brief Summary of Role: \\n\\n As a Salesforce Senior Developer you would be responsible for the development and implementation of Sale",
       "workArrangement": "hybrid",
       "tags": [
@@ -293,7 +308,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T09:08:58.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description \\n We are looking for a Senior Salesforce Consultant to provide domain, technical and architectural depth on a capability assessment for a large enterprise client. You will evaluate how the Salesforce platform is used across customer engagement, service, commerce and data functions. You ",
       "workArrangement": "unknown",
       "tags": [
@@ -333,7 +348,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-27T04:59:16.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description: Job Title: Salesforce Business Systems Analyst Location: Remote | Canada Reports to: Director and Salesforce Architect Employment Type: Full-time This is an existing vacancy About the Role: We are seeking an experienced Business Systems Analyst with deep Salesforce expertise to gather, analyze, and doc",
       "workArrangement": "remote",
       "tags": [
@@ -396,7 +411,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-27T04:54:40.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Why you’ll love working here: high-performance, people-focused culture our commitment that equity, diversity, and inclusion are fundamental to our work environment and business success, which helps employees feel valued and empowered to be their authentic selves learning and development initiatives, including workshops",
       "workArrangement": "unknown",
       "tags": [
@@ -417,7 +432,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-27T04:38:09.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Onsite Toronto, Ontario Full time R_1522024 Work Location: Toronto, Ontario, Canada Hours: 37.5 Line of Business: Technology Solutions Pay Details: $81,600 - $115,200 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining",
       "workArrangement": "onsite",
       "tags": [
@@ -434,7 +449,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T04:37:33.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "As a Salesforce Business Systems Analyst (BSA) , you will make an impact by working closely with business and technical teams to gather requirements, design solutions, and support the successful delivery of Salesforce projects. In this role, you will: Gather, analyze, and document business requirements, user stories, a",
       "workArrangement": "unknown",
       "tags": [
@@ -451,7 +466,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T03:35:16.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter ",
       "workArrangement": "unknown",
       "tags": [
@@ -468,7 +483,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -485,7 +500,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -502,7 +517,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -519,7 +534,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -536,7 +551,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -560,7 +575,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "hybrid",
       "tags": [
@@ -577,7 +592,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -594,7 +609,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -612,7 +627,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "remote",
       "tags": [
@@ -630,7 +645,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -647,7 +662,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -664,7 +679,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -681,7 +696,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow consultant · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -698,7 +713,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -715,7 +730,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -732,7 +747,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -749,7 +764,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce developer · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -766,7 +781,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
@@ -783,11 +798,35 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search (last 24h)",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/analyste-d%e2%80%99affaires-salesforce-at-alithya-4462540700",
+      "source": "linkedin",
+      "company": "Alithya",
+      "title": "Analyste d’affaires Salesforce",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4462540700",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-27T00:00:00.000Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
+      "excerpt": "Salesforce consultant · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ],
+      "alternates": [
+        {
+          "source": "linkedin",
+          "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300",
+          "label": "linkedin"
+        }
       ]
     },
     {
@@ -805,30 +844,6 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/analyste-d%e2%80%99affaires-salesforce-at-alithya-4462540700",
-      "source": "linkedin",
-      "company": "Alithya",
-      "title": "Analyste d’affaires Salesforce",
-      "location": "Montreal, Quebec, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4462540700",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-27T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
-      "excerpt": "Salesforce consultant · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "salesforce"
-      ],
-      "alternates": [
-        {
-          "source": "linkedin",
-          "url": "https://ca.linkedin.com/jobs/view/analyste-d%E2%80%99affaires-salesforce-at-alithya-4464669300",
-          "label": "linkedin"
-        }
       ]
     },
     {
@@ -860,7 +875,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-26T23:03:59.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Type: Permanent Work Model: Remote Reference code: 136063 Primary Location: Toronto, ON All Available Locations: Calgary, AB; Ottawa, ON; Toronto, ON; Vancouver, BC Our Purpose At Deloitte, our Purpose is to make an impact that matters. We exist to inspire and help our people, organizations, communities, and countr",
       "workArrangement": "remote",
       "tags": [
@@ -884,7 +899,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-26T23:03:59.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Type: Permanent Work Model: Hybrid Reference code: 133346 Primary Location: Toronto, ON All Available Locations: Toronto, ON; Brossard, QC; Burlington, ON; Calgary, AB; Edmonton, AB; Fredericton, NB; Halifax, NS; Kitchener, ON; Laval, QC; Moncton, NB; Montreal, QC; Ottawa, ON; Quebec City, QC; Regina, SK; Saint Joh",
       "workArrangement": "hybrid",
       "tags": [
@@ -901,7 +916,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-26T23:03:59.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Type: Permanent Work Model: Hybrid Reference code: 136060 Primary Location: Toronto, ON All Available Locations: Toronto, ON Our Purpose At Deloitte, our Purpose is to make an impact that matters. We exist to inspire and help our people, organizations, communities, and countries to thrive by building a better futur",
       "workArrangement": "hybrid",
       "tags": [
@@ -925,7 +940,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-26T23:03:59.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Type de poste : Permanent Modèle de travail : Hybride Numéro de demande: 133346 Lieu principal : Toronto, ON Emplacements additionnels : Toronto, ON; Brossard, QC; Burlington, ON; Calgary, AB; Edmonton, AB; Fredericton, NB; Halifax, NS; Kitchener, ON; Laval, QC; Moncton, NB; Montréal, QC; Ottawa, ON; Régina, SK; Saint ",
       "workArrangement": "hybrid",
       "tags": [
@@ -1012,23 +1027,6 @@
       "verifyState": "unknown"
     },
     {
-      "id": "readme:ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
-      "source": "readme",
-      "company": "Deloitte",
-      "title": "ServiceNow Developer, IRM &amp; Security Operations, Deloitte Global Technology",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-26T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:48:16.510Z",
-      "excerpt": "via fresh-ca--2026-11-27--v1.md",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
       "id": "adzuna:adzuna.ca/details/5979764507",
       "source": "adzuna",
       "company": "IT Accel, Inc",
@@ -1038,7 +1036,7 @@
       "employmentType": "contract",
       "salary": null,
       "postedDate": "2026-11-26T09:19:26.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Type: Contract to Hire – 6 Months \\n Location: Toronto, Canada \\n Schedule: Onsite – Monday–Friday, regular business hours, with some overtime and weekend work. \\n\\n We are looking for a DevOps Container Engineer to work across multiple diverse businesses within the organization to deliv",
       "workArrangement": "onsite",
       "tags": [
@@ -1055,7 +1053,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T09:07:21.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description \\n\\n We are hiring for a Salesforce LWC / OmniStudio Developer . This role focuses on Salesforce development, production support, and vulnerability remediation. \\n\\n \\nThe ideal candidate has 8–10 years of experience with LWC, OmniStudio, and Salesforce security operations. \\n\\n What you",
       "workArrangement": "unknown",
       "tags": [
@@ -1122,7 +1120,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-26T05:04:49.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Who We Are For more than 130 years, The Salvation Army has served people in need in communities across Canada and Bermuda. Building on our roots as a world-wide Christian church, each year we help more than 2 million people, providing necessities such as food, clothing and shelter. In addition, we support people experi",
       "workArrangement": "unknown",
       "tags": [
@@ -1213,7 +1211,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T04:59:58.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Reference No. R2879457 Position Title: Salesforce Health Cloud Engineer Location: Toronto, ON - Hybrid - 3 days per week onsite - required. About the Job Ready to push the limits of what’s possible? Join Sanofi in one of our corporate functions and you can play a vital part in the performance of our entire business whi",
       "workArrangement": "hybrid",
       "tags": [
@@ -1254,6 +1252,11 @@
         "salesforce"
       ],
       "alternates": [
+        {
+          "source": "adzuna",
+          "url": "https://www.adzuna.ca/details/5979388711",
+          "label": "adzuna"
+        },
         {
           "source": "adzuna",
           "url": "https://www.adzuna.ca/details/5979388711",
@@ -1307,7 +1310,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T04:38:33.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "R_1509038 · Engineering",
       "workArrangement": "unknown",
       "tags": [
@@ -1331,7 +1334,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-26T04:38:29.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Toronto, ON Full time R2879457 Reference No. R2879457 Position Title: Salesforce Health Cloud Engineer Location: Toronto, ON - Hybrid - 3 days per week onsite - required. About the Job Ready to push the limits of what's possible? Join Sanofi in one of our corporate functions and you can play a vital part in the perform",
       "workArrangement": "hybrid",
       "tags": [
@@ -1403,7 +1406,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T04:25:46.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "[Quora is a privately held, \"remote-first\" company. This position can be performed remotely from anywhere in the US or Canada. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. To do so",
       "workArrangement": "remote",
       "tags": [
@@ -1435,7 +1438,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -1452,7 +1455,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -1469,7 +1472,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -1486,7 +1489,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -1503,7 +1506,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -1520,7 +1523,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -1537,11 +1540,63 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-developer-hybrid-contract-at-robert-half-4495046780",
+      "source": "linkedin",
+      "company": "Robert Half",
+      "title": "ServiceNow Developer - hybrid - contract",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-hybrid-contract-at-robert-half-4495046780",
+      "employmentType": "contract",
+      "salary": null,
+      "postedDate": "2026-11-26T00:00:00.000Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "hybrid",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-developer-id%235616-at-new-value-solutions-4495050510",
+      "source": "linkedin",
+      "company": "New Value Solutions",
+      "title": "ServiceNow Developer (ID#5616)",
+      "location": "Greater Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-id%235616-at-new-value-solutions-4495050510",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T00:00:00.000Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
+      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-cmdb-specialist-at-tc-energy-4493862129",
+      "source": "linkedin",
+      "company": "TC Energy",
+      "title": "ServiceNow CMDB Specialist",
+      "location": "Calgary, Alberta, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-specialist-at-tc-energy-4493862129",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T00:00:00.000Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
+      "excerpt": "ServiceNow administrator · LinkedIn guest search (last 24h)",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "itam"
       ]
     },
     {
@@ -1559,58 +1614,6 @@
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-developer-hybrid-contract-at-robert-half-4495046780",
-      "source": "linkedin",
-      "company": "Robert Half",
-      "title": "ServiceNow Developer - hybrid - contract",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-hybrid-contract-at-robert-half-4495046780",
-      "employmentType": "contract",
-      "salary": null,
-      "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "hybrid",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-developer-id%235616-at-new-value-solutions-4495050510",
-      "source": "linkedin",
-      "company": "New Value Solutions",
-      "title": "ServiceNow Developer (ID#5616)",
-      "location": "Greater Vancouver, British Columbia, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-id%235616-at-new-value-solutions-4495050510",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
-      "excerpt": "ServiceNow developer · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow"
-      ]
-    },
-    {
-      "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-cmdb-specialist-at-tc-energy-4493862129",
-      "source": "linkedin",
-      "company": "TC Energy",
-      "title": "ServiceNow CMDB Specialist",
-      "location": "Calgary, Alberta, Canada",
-      "url": "https://ca.linkedin.com/jobs/view/servicenow-cmdb-specialist-at-tc-energy-4493862129",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-26T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
-      "excerpt": "ServiceNow administrator · LinkedIn guest search (last 24h)",
-      "workArrangement": "unknown",
-      "tags": [
-        "servicenow",
-        "itam"
       ]
     },
     {
@@ -2159,8 +2162,8 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-CMDB-Administrator_R260030992",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-25T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-11-25T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "R260030992",
       "workArrangement": "unknown",
       "tags": [
@@ -2183,8 +2186,8 @@
       "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-25T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-11-25T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "R_1521185 · Engineering",
       "workArrangement": "unknown",
       "tags": [
@@ -2208,7 +2211,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-25T20:21:27.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Type: Permanent Work Model: Hybrid Reference code: 135627 Primary Location: Toronto, ON All Available Locations: Toronto, ON; Burlington, ON; Calgary, AB; Edmonton, AB; Fredericton, NB; Halifax, NS; Kitchener, ON; Moncton, NB; Montreal, QC; Ottawa, ON; Regina, SK; Saint John, NB; Saskatoon, SK; St. John's, NL; Vanc",
       "workArrangement": "hybrid",
       "tags": [
@@ -2420,7 +2423,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-25T09:16:28.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Hi, Please let me know if interested in any opportunity. \\n\\n Full Stack Developer \\n\\n Toronto, ON \\n\\n Skills and Responsibilities: \\n• 10 years of experience in full-stack development. \\n• Strong proficiency in React.js, Node.js, JavaScript, and TypeScript. \\n• Experience with RESTful",
       "workArrangement": "unknown",
       "tags": [
@@ -2458,7 +2461,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-25T09:08:36.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description ServiceNow technical consultants/developers. \\n\\n \\n\\n Job description : The scope of this engagement encompasses the full lifecycle of solution design, configuration, testing, deployment, and transition to sustainment a migration to ServiceNow CSM. \\n\\n ServiceNow technical consultant \\",
       "workArrangement": "unknown",
       "tags": [
@@ -2475,7 +2478,7 @@
       "employmentType": "contract",
       "salary": null,
       "postedDate": "2026-11-25T08:17:24.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Title: RQ00811 - Software Developer - Full Stack - Senior Location: Toronto ON , Hybrid Pay Rate:95-104/hr Description The Agency requires a Senior Fullstack Developer contract resource to support the Ontario Clinical Report Exchange (OCRE) project. The resource will help design and build a Java Spring Boot server ",
       "workArrangement": "hybrid",
       "tags": [
@@ -2557,7 +2560,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-25T04:36:43.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "About the role As a Salesforce Business Analyst Manager , you will make an impact by translating business needs into clear user stories, functional requirements, and effective Salesforce solutions. You will be a valued member of the Salesforce project team and work collaboratively with business stakeholders, Salesforce",
       "workArrangement": "unknown",
       "tags": [
@@ -2574,7 +2577,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-25T04:36:43.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce QA Automation Engineer Location: Canada Remote, Ontario preferred About the role As a Salesforce QA Automation Lead, you will make an impact by leading end-to-end testing and automation activities that support the successful implementation of Salesforce solutions. You will collaborate with Salesforce Develop",
       "workArrangement": "remote",
       "tags": [
@@ -2591,7 +2594,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-25T04:36:43.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Senior Salesforce Tech Lead About the role We are seeking an experienced Salesforce Technical Lead with strong hands-on expertise in Apex, Lightning Web Components (LWC), Aura Components, and Salesforce integrations. The ideal candidate will lead a development team, design and implement scalable Salesforce solutions, a",
       "workArrangement": "unknown",
       "tags": [
@@ -2720,7 +2723,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-25T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -2737,7 +2740,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-25T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -2754,7 +2757,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-25T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -2771,7 +2774,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-25T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -2788,7 +2791,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-25T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -3374,7 +3377,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-24T15:55:36.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -3395,7 +3398,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-24T13:55:19.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Role: Salesforce Business Analyst Location: Canada (Remote) Employment Type: Full-Time Visa Status: Canadian Citizen / Permanent Resident (PR) / Valid Canadian Work Permit Pay Rate: CAD $80,000 $105,000 per year Travel: Not Required Who Should Apply: CRM Business Analysts, Junior Business Analysts, Associate Business A",
       "workArrangement": "remote",
       "tags": [
@@ -3550,7 +3553,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-24T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -4162,7 +4165,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-23T09:10:43.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description “Join us in building Careers and shaping Experiences Beyond the Box” \\n About Us \\n At Atlantic Packaging, every box tells a story and yours begins here. As a proudly Canadian-owned company with over 80 years of excellence in the corrugated packaging industry with operations within North",
       "workArrangement": "unknown",
       "tags": [
@@ -4200,7 +4203,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-23T09:05:55.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Location: Toronto, ON (Hybrid — 2–3 days in-office)\\n Type: Full-Time\\n Salary Range: $90,000 – $135,000 CAD per year\\n Role Overview \\n \\n \\nWe are hiring a Salesforce Developer based in Toronto to design, build, and optimize scalable solutions across our Salesforce ecosystem (Sales Clo",
       "workArrangement": "hybrid",
       "tags": [
@@ -4217,7 +4220,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-23T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -4234,7 +4237,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-23T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -4251,7 +4254,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-23T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -4701,8 +4704,8 @@
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ232563-1",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-22T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-11-22T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "RQ232563",
       "workArrangement": "remote",
       "tags": [
@@ -4903,7 +4906,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-22T05:06:03.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "We are the leading provider of professional services to the middle market globally, our purpose is to instill confidence in a world of change, empowering our clients and people to realize their full potential. Our exceptional people are the key to our unrivaled, inclusive culture and talent experience and our ability t",
       "workArrangement": "unknown",
       "tags": [
@@ -5117,7 +5120,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-22T04:36:14.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce Tech Lead (Remote) Location: Remote in Canada Roles/Responsibilities: · 8 years of Salesforce development experience, including Apex, Visualforce, and Lightning Web Components. · SF Integration, API, Platform events, SF Customization. · Strong understanding of Salesforce data model, security model, and gover",
       "workArrangement": "remote",
       "tags": [
@@ -6247,7 +6250,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-21T10:22:43.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Job Description\\n \\n \\n We are currently looking for a Salesforce Developer to join a growing technology and ERP implementation company. This is a 100% remote opportunity for a developer based in Canada who will work on Salesforce development, customization, and integration projects. \\n ",
       "workArrangement": "remote",
       "tags": [
@@ -6268,7 +6271,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-21T10:20:22.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Description Blue Mantis is Looking for an experienced ServiceNow Business Process Consultant to join our dynamic team to deliver innovative ServiceNow solutions to our internal and external clients. This is a remote role with the exception of being able to work out of our onsite office i",
       "workArrangement": "remote",
       "tags": [
@@ -6285,7 +6288,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-21T10:18:57.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Company Description\\n \\n \\n Shore is an IT and strategy consulting firm focusing on innovation in the public sector. We deliver services and tools that advance public sector organizations and the services they provide. \\n Shore’s working environment is flexible, collaborative, and down t",
       "workArrangement": "unknown",
       "tags": [
@@ -6597,7 +6600,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-21T04:36:23.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the",
       "workArrangement": "hybrid",
       "tags": [
@@ -6650,7 +6653,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-21T04:36:08.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "About the role As a Salesforce Tech Lead , you will make an impact by designing, developing, integrating, and optimizing Salesforce applications to support business requirements. You will work collaboratively with cross-functional teams, including Salesforce Administrators, Business Analysts, and QA, to translate busin",
       "workArrangement": "remote",
       "tags": [
@@ -7417,7 +7420,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-20T09:15:35.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Job Title: ServiceNow Business Analyst - Senior \\n\\n \\n Location: Toronto, ON (3 days onsite) \\n\\n Duration: 6 Months \\n\\n Client: OPS \\n\\n \\n\\n Description \\n\\n \\n\\t \\n\\t Responsibilities Provides a comprehensive range of I&IT business analysis services for clients with diverse business",
       "workArrangement": "onsite",
       "tags": [
@@ -7608,7 +7611,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-20T05:08:11.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ABOUT US SickKids Foundation, with over 50 years of philanthropic impact is Canada's largest charitable funder of child health research, learning and care, raising over $200 million last year. As a national charity, SickKids Foundation invests in national and international initiatives to benefit children in Canada and ",
       "workArrangement": "unknown",
       "tags": [
@@ -8015,7 +8018,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-20T00:08:13.739Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Req JB0078172",
       "workArrangement": "unknown",
       "tags": [
@@ -8032,7 +8035,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-20T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -8049,7 +8052,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-20T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -8066,7 +8069,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-20T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -8539,7 +8542,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-19T23:49:04.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "At Bridgenext, we engineer Growth Operating Systems. Most enterprises have spent millions on their revenue stack and still aren't seeing the growth they expected.They have tools that function, but no system that wins. We help growth-hungry companies close that gap by turning fragmented platforms, siloed teams, and disc",
       "workArrangement": "unknown",
       "tags": [
@@ -9283,7 +9286,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-19T05:00:13.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Position Description: We are seeking a Senior Business System Analyst (Salesforce) with experience in Salesforce Financial Services Cloud (FSC) to translate business needs into prioritized requirements and Agile backlogs. The successful candidate will work closely with business stakeholders and Salesforce delivery team",
       "workArrangement": "hybrid",
       "tags": [
@@ -9429,7 +9432,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-19T04:52:50.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "About the Role We are looking for a Salesforce DevOps Engineer to own and evolve our Salesforce deployment processes, CI/CD pipelines, and release management practices while supporting broader DevOps initiatives across our technology ecosystem. This role sits at the center of our Salesforce development lifecycle. You w",
       "workArrangement": "unknown",
       "tags": [
@@ -9672,7 +9675,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9689,7 +9692,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9706,7 +9709,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9723,7 +9726,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -9740,7 +9743,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-19T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -10627,7 +10630,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-18T23:48:52.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Referral Level: Level 1 Mackenzie Investments IGM Financial Inc. is a leading wealth and asset management company in Canada, managing approximately $ 310 billion in assets as of December 31, 2025 . It offers financial planning and investment services to over two million Canadians through IG Wealth Management and Macken",
       "workArrangement": "unknown",
       "tags": [
@@ -10691,6 +10694,23 @@
       "verifyState": "live"
     },
     {
+      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/sr-servicenow-architect_r1300",
+      "source": "workday",
+      "company": "Resolve Tech Solutions",
+      "title": "Sr. ServiceNow Architect",
+      "location": "US Remote - FL",
+      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-18T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
+      "excerpt": "R1300",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "greenhouse:job-boards.greenhouse.io/neuraflash/jobs/6265709004",
       "source": "greenhouse",
       "company": "NeuraFlash",
@@ -10700,7 +10720,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-18T22:00:29.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -10717,28 +10737,11 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-18T21:57:37.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
         "salesforce"
-      ]
-    },
-    {
-      "id": "workday:resolvetech.wd1.myworkdayjobs.com/en-us/rts/job/us-remote---fl/sr-servicenow-architect_r1300",
-      "source": "workday",
-      "company": "Resolve Tech Solutions",
-      "title": "Sr. ServiceNow Architect",
-      "location": "US Remote - FL",
-      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Sr-ServiceNow-Architect_R1300",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-18T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
-      "excerpt": "R1300",
-      "workArrangement": "remote",
-      "tags": [
-        "servicenow"
       ]
     },
     {
@@ -11473,7 +11476,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-18T04:51:13.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Description About Citco Since the 1940s Citco has provided specialist financial services to alternative investment funds, investors, multinationals and private clients worldwide. With over 6,000 employees in 45 countries, we pioneer innovative solutions that meet our clients’ evolving needs, and deliver exceptional ser",
       "workArrangement": "unknown",
       "tags": [
@@ -11612,7 +11615,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -11629,7 +11632,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -11646,7 +11649,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-18T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -12195,7 +12198,7 @@
       "employmentType": "contract",
       "salary": null,
       "postedDate": "2026-11-17T20:18:56.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Type: DTTL - Secondment Work Model: Remote Reference code: 135047 Primary Location: Toronto, ON All Available Locations: Toronto, ON; Calgary, AB; Edmonton, AB; Fredericton, NB; Halifax, NS; Moncton, NB; Ottawa, ON; Saint John, NB Our Purpose At Deloitte, our Purpose is to make an impact that matters. We exist to i",
       "workArrangement": "remote",
       "tags": [
@@ -12246,7 +12249,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-17T18:09:38.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "The world of payment processing is rapidly evolving, and businesses are looking for loyal and strategic partners, to help them grow. Meet Nuvei , the Canadian fintech company accelerating the business of clients around the world. Nuvei's modular, flexible and scalable technology allows leading companies to accept next-",
       "workArrangement": "unknown",
       "tags": [
@@ -13198,7 +13201,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-17T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -16549,7 +16552,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -16566,7 +16569,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-16T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -18512,7 +18515,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-15T04:56:30.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "TJX Companies At TJX Canada, every day brings new opportunities for growth, exploration, and achievement. You’ll be part of our vibrant team that embraces diversity, fosters collaboration, and prioritizes your development. Whether you’re working in our Distribution Centers, Corporate Offices, or Retail Stores—WINNERS, ",
       "workArrangement": "unknown",
       "tags": [
@@ -18639,7 +18642,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-15T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -22037,7 +22040,7 @@
       "employmentType": "internship",
       "salary": null,
       "postedDate": "2026-11-14T08:54:02.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description We are searching for a ServiceNow Administrator - someone with hands-on ServiceNow system support and implementation experience. The ideal candidate will have hands-on experience with ServiceNow administration, configuration, maintenance, and CMDB knowledge. Strong verbal and written com",
       "workArrangement": "unknown",
       "tags": [
@@ -22080,7 +22083,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-14T08:46:10.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description \\n We are seeking a Business Systems Analyst with strong expertise in payments data analysis transaction processing reconciliation and data driven business insights \\n\\n The candidate will be responsible for analyzing payment related data defining data requirements supporting reporting i",
       "workArrangement": "unknown",
       "tags": [
@@ -22097,7 +22100,7 @@
       "employmentType": "internship",
       "salary": null,
       "postedDate": "2026-11-14T08:28:47.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description We are searching for a ServiceNow Admin - someone with hands-on ServiceNow system support and implementation experience. The ideal candidate will have hands-on experience with ServiceNow administration, configuration, maintenance, and CMDB knowledge. Strong verbal and written communicati",
       "workArrangement": "unknown",
       "tags": [
@@ -22114,7 +22117,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-14T08:17:41.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description We are looking for a ServiceNow Technical Architect to design the structure of our ITSM systems and oversee programs to ensure the proper architecture is implemented. \\n \\n The Technical Architect - ServiceNow, will contribute to a team of specialists working to assist our clients custom",
       "workArrangement": "unknown",
       "tags": [
@@ -22214,7 +22217,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-14T05:00:51.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Application Deadline: 11/29/2026 Address: 250 Yonge Street Job Family Group: Technology Required Qualifications 3 years of ServiceNow administration experience. Hands-on experience with Discovery , Service Mapping , and HAM Pro . Knowledge of CMDB fundamentals, Identification & Reconciliation Engine (IRE), and CSDM. Un",
       "workArrangement": "unknown",
       "tags": [
@@ -22236,7 +22239,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-14T04:58:45.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Application Deadline: 11/29/2026 Address: 250 Yonge Street Job Family Group: Technology Required Qualifications 5 years of experience in IT Asset Management, Configuration Management, Infrastructure Operations, Architecture, or Technology Lifecycle Management. Strong understanding of hardware and software lifecycle man",
       "workArrangement": "unknown",
       "tags": [
@@ -22329,7 +22332,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-14T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -22347,7 +22350,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-14T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -22363,8 +22366,8 @@
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-System-Administrator_RQ230636",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-13T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-11-13T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "RQ230636",
       "workArrangement": "remote",
       "tags": [
@@ -22381,7 +22384,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-13T20:31:16.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Type: DTTL - Secondment Work Model: Remote Reference code: 133370 Primary Location: Toronto, ON All Available Locations: Toronto, ON; Calgary, AB; Ottawa, ON Our Purpose At Deloitte, our Purpose is to make an impact that matters. We exist to inspire and help our people, organizations, communities, and countries to ",
       "workArrangement": "remote",
       "tags": [
@@ -23866,7 +23869,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-13T08:57:59.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description \\n Pay Range: $95.00hr - $100.00hr \\n\\n Job Overview: \\n\\n The candidate will serve as a ServiceNow ITAM/ITOM Architect, leveraging extensive platform experience to drive architecture decisions, platform integrations, data architecture, requirements analysis, and technical design. \\n\\n R",
       "workArrangement": "remote",
       "tags": [
@@ -23888,7 +23891,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-13T08:56:11.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description \\n Pay Range: $95.00hr - $100.00hr \\n\\n Job Overview: \\n\\n The organization is seeking a ServiceNow Multi-Domain Architect with proven architectural experience. The successful candidate will possess extensive expertise across ServiceNow platform capabilities, integrations, and solution d",
       "workArrangement": "remote",
       "tags": [
@@ -23905,7 +23908,7 @@
       "employmentType": "full-time",
       "salary": null,
       "postedDate": "2026-11-13T08:39:35.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Job Opportunity: Salesforce Developer (Marketing Cloud) \\n\\n Location: Toronto, ON (4 Days Onsite) \\n Employment Type: Full-Time \\n \\n\\n \\n About the Role \\n\\n We are looking for a talented Salesforce Developer with a strong focus on Salesforce Marketing Cloud to join our growing team. T",
       "workArrangement": "onsite",
       "tags": [
@@ -23922,7 +23925,7 @@
       "employmentType": "contract",
       "salary": null,
       "postedDate": "2026-11-13T08:15:44.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description Job Description: Salesforce Communications Cloud Developer responsible for designing, developing, and supporting Salesforce Industries (Vlocity) solutions, including Communications Cloud, EPC, CPQ, Digital Commerce, and Order Management within telecom environments. Location: Toronto, ON ",
       "workArrangement": "hybrid",
       "tags": [
@@ -23943,7 +23946,7 @@
         "currency": "CAD"
       },
       "postedDate": "2026-11-13T08:14:53.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Job Description Job Description \\n Pay Range: $95.00hr - $100.00hr \\n\\n Job Overview: \\n\\n Our client is seeking a ServiceNow Platform Architect to lead architecture decisions across complex, multi-team programs. The candidate will design and deliver enterprise ServiceNow solutions using extensive platform architecture",
       "workArrangement": "remote",
       "tags": [
@@ -24229,7 +24232,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-13T04:32:10.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "About the role As a ServiceNow Software Asset Management (SAM) Developer, you will make an impact by designing, developing, and enhancing ServiceNow solutions that help organizations optimize software asset management processes, automate workflows, and improve operational efficiency. You will be a valued member of the ",
       "workArrangement": "unknown",
       "tags": [
@@ -24253,7 +24256,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-13T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -24269,29 +24272,12 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-12T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-11-12T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "R260030995",
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
-      ]
-    },
-    {
-      "id": "workday:iko.wd3.myworkdayjobs.com/en-us/iko_careers/job/mississauga-on/cloud-architect_req-14062",
-      "source": "workday",
-      "company": "IKO",
-      "title": "Cloud Architect",
-      "location": "Mississauga, ON",
-      "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Cloud-Architect_REQ-14062",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-12T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
-      "excerpt": "REQ-14062",
-      "workArrangement": "unknown",
-      "tags": [
-        "devops"
       ]
     },
     {
@@ -24385,7 +24371,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-12T13:17:02.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -26022,7 +26008,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-12T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -30811,8 +30797,8 @@
       "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Lead-Salesforce-Solution-Architect_JR0154441",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-11-10T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-11-10T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "JR0154441",
       "workArrangement": "unknown",
       "tags": [
@@ -31552,7 +31538,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-10T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "remote",
       "tags": [
@@ -31569,7 +31555,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-10T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -31586,7 +31572,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-10T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -31603,7 +31589,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-10T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -31620,7 +31606,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-10T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -34823,7 +34809,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-09T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Salesforce architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -37180,7 +37166,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-08T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -37437,6 +37423,23 @@
       ]
     },
     {
+      "id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer-senior---electronic-health-records---remote-_rq231413",
+      "source": "workday",
+      "company": "GDIT",
+      "title": "ServiceNow Developer Senior – Electronic Health Records – Remote!",
+      "location": "Any Location / Remote",
+      "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-07T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
+      "excerpt": "RQ231413",
+      "workArrangement": "remote",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
       "id": "adzuna:adzuna.ca/details/5957587771",
       "source": "adzuna",
       "company": "Equest",
@@ -37504,23 +37507,6 @@
       ],
       "verifiedAt": "2026-11-09T16:14:42.957406+00:00",
       "verifyState": "live"
-    },
-    {
-      "id": "workday:gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/any-location--remote/servicenow-developer-senior---electronic-health-records---remote-_rq231413",
-      "source": "workday",
-      "company": "GDIT",
-      "title": "ServiceNow Developer Senior – Electronic Health Records – Remote!",
-      "location": "Any Location / Remote",
-      "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer-Senior---Electronic-Health-Records---Remote-_RQ231413",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-07T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
-      "excerpt": "RQ231413",
-      "workArrangement": "remote",
-      "tags": [
-        "servicenow"
-      ]
     },
     {
       "id": "exa4:movojobs:salesforce-technical-lead-3304125",
@@ -39244,7 +39230,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-07T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -39261,7 +39247,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-07T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow developer · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -39278,7 +39264,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-07T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow architect · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -40038,7 +40024,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-06T20:43:47.806Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Req JB0076455",
       "workArrangement": "remote",
       "tags": [
@@ -40055,7 +40041,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-06T20:28:28.787Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Req JB0076454",
       "workArrangement": "remote",
       "tags": [
@@ -40072,7 +40058,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-06T20:27:01.350Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Req JB0076457",
       "workArrangement": "remote",
       "tags": [
@@ -44284,7 +44270,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T15:58:07.255Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Req JB0076846",
       "workArrangement": "unknown",
       "tags": [
@@ -44301,7 +44287,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-05T15:55:56.650Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "Req JB0076847",
       "workArrangement": "unknown",
       "tags": [
@@ -61604,7 +61590,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T16:10:48.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "",
       "workArrangement": "remote",
       "tags": [
@@ -65337,7 +65323,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-11-03T00:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "ServiceNow administrator · LinkedIn guest search",
       "workArrangement": "unknown",
       "tags": [
@@ -96989,32 +96975,6 @@
       ]
     },
     {
-      "id": "adzuna:5945008070",
-      "source": "adzuna",
-      "company": "KPMG",
-      "title": "Salesforce Functional Manager",
-      "location": "Montréal, Québec",
-      "url": "https://www.adzuna.ca/details/5945008070?utm_medium=api&utm_source=54ce986e",
-      "employmentType": "full-time",
-      "salary": null,
-      "postedDate": "2026-10-28T21:32:47.000Z",
-      "excerpt": "Overview At KPMG in Canada, our people bring their unique perspectives to Canada's most important challenges. Here, you can build momentum that reaches beyond our business, develop skills for the future, and take ownership of your career wi",
-      "category": "IT Jobs",
-      "scrapedAt": "2026-11-02T13:52:13.911Z",
-      "matchedKeyword": "Salesforce Financial Services Cloud",
-      "classification": {
-        "isServiceNow": false,
-        "isSalesforce": true,
-        "hasCSA": false,
-        "hasCAD": false,
-        "hasPlatformDev1": false,
-        "hasPlatformAdmin1": false
-      },
-      "tags": [
-        "salesforce"
-      ]
-    },
-    {
       "id": "workday:moneris.wd3.myworkdayjobs.com/en-us/moneris/job/toronto/principle-software-developer_jr106006-2",
       "source": "workday",
       "company": "Moneris",
@@ -97023,8 +96983,8 @@
       "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-28T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-10-28T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "JR106006",
       "workArrangement": "unknown",
       "tags": [
@@ -97040,8 +97000,8 @@
       "url": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Mississauga-ON/Salesforce-Senior-Developer_REQ-12533",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-28T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-10-28T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "REQ-12533",
       "workArrangement": "unknown",
       "tags": [
@@ -97064,8 +97024,8 @@
       "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Job-Description-Salesforce-Marketing-Cloud-Developer_JR0147159",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-28T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-10-28T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "JR0147159",
       "workArrangement": "unknown",
       "tags": [
@@ -97081,8 +97041,8 @@
       "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---TX/Senior-ServiceNow-Developer_R1280",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-28T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-10-28T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "R1280",
       "workArrangement": "remote",
       "tags": [
@@ -97098,8 +97058,8 @@
       "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/RTS/job/US-Remote---FL/Senior-ServiceNow-Engineer_R1213",
       "employmentType": "unknown",
       "salary": null,
-      "postedDate": "2026-10-28T21:06:23.137Z",
-      "scrapedAt": "2026-11-27T21:06:23.137Z",
+      "postedDate": "2026-10-28T22:06:13.934Z",
+      "scrapedAt": "2026-11-27T22:06:13.934Z",
       "excerpt": "R1213",
       "workArrangement": "remote",
       "tags": [
@@ -97116,7 +97076,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via linkedin-guest--2026-11-03--v129.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97133,7 +97093,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v176.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97150,7 +97110,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v176.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97167,7 +97127,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v176.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97184,7 +97144,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v176.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97201,7 +97161,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v176.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97218,7 +97178,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v176.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97235,7 +97195,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-buffy-2026-11-02-nov1-requisitions--2026-11-02--v177.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97252,7 +97212,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v177.md",
       "workArrangement": "remote",
       "tags": [
@@ -97269,7 +97229,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v177.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97286,7 +97246,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v177.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97303,7 +97263,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v126.md",
       "workArrangement": "remote",
       "tags": [
@@ -97321,7 +97281,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via canada-index--2026-11-06--v129.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97338,7 +97298,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via grokbot-hospital-boards--2026-11-03--v146.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97355,7 +97315,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via grokbot-quorum-predawn--2026-11-03--v151.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97372,7 +97332,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v178.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97389,7 +97349,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v178.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97406,7 +97366,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via adzuna-autonomous--2026-11-05--v136.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97423,7 +97383,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via buffy-peerharvest--2026-11-04--v126.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97440,7 +97400,24 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
+      "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v178.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "id": "readme:adzuna.ca/details/5945008070",
+      "source": "readme",
+      "company": "KPMG",
+      "title": "Salesforce Functional Manager",
+      "location": "Montréal, Québec",
+      "url": "https://www.adzuna.ca/details/5945008070",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-10-28T12:00:00.000Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v178.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97457,7 +97434,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v178.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97474,7 +97451,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via peer-bestiejob-scan-refresh-20261102--2026-11-02--v178.md",
       "workArrangement": "unknown",
       "tags": [
@@ -97491,7 +97468,7 @@
       "employmentType": "unknown",
       "salary": null,
       "postedDate": "2026-10-28T12:00:00.000Z",
-      "scrapedAt": "2026-11-27T21:08:12.113Z",
+      "scrapedAt": "2026-11-27T22:08:19.153Z",
       "excerpt": "via aicert-harvest-2026-11-03",
       "workArrangement": "unknown",
       "tags": [
