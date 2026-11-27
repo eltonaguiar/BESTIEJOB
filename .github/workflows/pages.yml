@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'public/**'
+      - 'jobs.json'
       - 'README.md'
       - 'tools/build_site.py'
       - '.github/workflows/pages.yml'
