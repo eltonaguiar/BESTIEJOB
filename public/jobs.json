@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-27T00:30:12.087Z",
     "generatedAt": "2026-11-27T00:30:12.087Z",
-    "total": 5677,
+    "total": 5678,
     "newThisScan": 504,
     "retainedFromPrevious": 5216,
     "sources": {
@@ -34,7 +34,8 @@
     "primaryCounts": {
       "servicenow": 1218,
       "salesforce": 4343
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -72,6 +73,24 @@
       "workArrangement": "unknown",
       "tags": [
         "salesforce"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/itsm-change-manager-at-bnp-paribas-4493843775",
+      "source": "readme",
+      "company": "BNP Paribas",
+      "title": "ITSM Change Manager",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/itsm-change-manager-at-bnp-paribas-4493843775",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-27T00:59:39.040Z",
+      "excerpt": "via fresh-ca--2026-11-27--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow",
+        "it-reporting"
       ]
     },
     {
