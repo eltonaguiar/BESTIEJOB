@@ -13003,6 +13003,9 @@
    "tags": [
     "servicenow",
     "itam"
+   ],
+   "certs": [
+    "CAD"
    ]
   },
   {
@@ -25120,7 +25123,10 @@
    "tags": [
     "servicenow"
    ],
-   "workArrangement": "hybrid"
+   "workArrangement": "hybrid",
+   "certs": [
+    "CSA"
+   ]
   },
   {
    "id": "adzuna:5962877182",
@@ -26719,6 +26725,9 @@
    "workArrangement": "unknown",
    "tags": [
     "servicenow"
+   ],
+   "certs": [
+    "CSA"
    ]
   },
   {
@@ -31323,7 +31332,11 @@
     "pwc"
    ],
    "verifiedAt": "2026-11-11T17:11:54.413790+00:00",
-   "verifyState": "unknown"
+   "verifyState": "unknown",
+   "certs": [
+    "CSA",
+    "CAD"
+   ]
   },
   {
    "id": "adzuna:adzuna.ca/details/5959734122",
@@ -33850,7 +33863,10 @@
    ],
    "_via": "search-nov9",
    "verifiedAt": "2026-11-10T22:12:07.202553+00:00",
-   "verifyState": "live"
+   "verifyState": "live",
+   "certs": [
+    "CSA"
+   ]
   },
   {
    "id": "builtin:capco-senior-full-stack-salesforce-4690112",
@@ -33960,6 +33976,10 @@
      "url": "https://ca.linkedin.com/jobs/view/sr-it-developer-servicenow-at-td-4177846836",
      "label": "linkedin"
     }
+   ],
+   "certs": [
+    "CSA",
+    "CAD"
    ]
   },
   {
@@ -35028,6 +35048,9 @@
      "url": "https://ca.linkedin.com/jobs/view/consultant-senior-consultant-servicenow-solution-developer-at-kpmg-canada-4480380944",
      "label": "linkedin"
     }
+   ],
+   "certs": [
+    "CSA"
    ]
   },
   {
@@ -36633,7 +36656,11 @@
    "tags": [
     "servicenow"
    ],
-   "alternates": []
+   "alternates": [],
+   "certs": [
+    "CSA",
+    "CAD"
+   ]
   },
   {
    "id": "adzuna:adzuna.ca/details/5957587771",
@@ -101872,6 +101899,9 @@
     "servicenow",
     "admin",
     "csa"
+   ],
+   "certs": [
+    "CSA"
    ]
   },
   {
@@ -102345,7 +102375,11 @@
     "servicenow"
    ],
    "verifiedAt": null,
-   "verifyState": "unknown"
+   "verifyState": "unknown",
+   "certs": [
+    "CSA",
+    "CAD"
+   ]
   },
   {
    "id": "linkedin:491c9201eb72",
