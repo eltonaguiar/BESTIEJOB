@@ -5,7 +5,6 @@ Search: Exa (12 queries, since 2026-10-31), Tavily (6 hidden-title/FSC/French, w
 ~190 results; all Canada SN/SF hits already in README/APPLIED except below.
 
 ## Soft (French QC, net-new)
-| 2026-10-27 | [Analyste d'affaires, ServiceNow - Finances mondiales](https://ca.linkedin.com/jobs/view/analyste-d-affaires-servicenow-finances-mondiales-at-wsp-in-canada-4481177716) | WSP in Canada | Laval, QC | LinkedIn guest live, ~1 wk, <25 applicants |
 
 ## Soft (contract / out of market)
 - Morson — Specialist, ServiceNow ITAM (BTS) CCJ1JP00000997, Saskatoon contract: https://www.morson.com/jobs/renewable-energy/contract/saskatoon/specialist-servicenow-itam-bts-ccj1jp00000997
