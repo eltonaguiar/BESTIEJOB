@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-27T11:42:07+00:00",
+ "generatedAt": "2026-11-27T12:11:36+00:00",
  "timezone": "America/Toronto",
- "count": 4821,
+ "count": 4774,
  "appliedHidden": 29,
  "sources": [
   "103.careerplug.com",
@@ -3269,7 +3269,7 @@
    "company": "First National Financial LP",
    "location": "East York, Ontario, Canada",
    "url": "https://ca.linkedin.com/jobs/view/junior-itsm-analyst-it-is-at-first-national-financial-lp-4495039285",
-   "note": "via linkedin-guest--2026-11-27--v1.md",
+   "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "LinkedIn",
@@ -3282,7 +3282,7 @@
    ],
    "certs": [],
    "french": false,
-   "search": "junior itsm analyst, it &amp; is first national financial lp east york, ontario, canada linkedin servicenow via linkedin-guest--2026-11-27--v1.md itsm role fit toronto area  ",
+   "search": "junior itsm analyst, it &amp; is first national financial lp east york, ontario, canada linkedin servicenow readme itsm role fit toronto area  ",
    "alternates": [],
    "gated": false,
    "xref": [
@@ -3766,49 +3766,6 @@
   },
   {
    "posted": "2026-11-25",
-   "title": "ITSM Developer (SNOW)",
-   "company": "Tata Consultancy Services",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/itsm-developer-snow-at-tata-consultancy-services-4494956259",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "itsm developer (snow) tata consultancy services toronto, ontario, canada linkedin servicenow readme servicenow itsm role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ITSM%20Developer%20%28SNOW%29%20Tata%20Consultancy%20Services+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ITSM%20Developer%20%28SNOW%29%20Tata%20Consultancy%20Services&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ITSM%20Developer%20%28SNOW%29%20Tata%20Consultancy%20Services&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ITSM%20Developer%20%28SNOW%29%20Tata%20Consultancy%20Services&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-25",
    "title": "ServiceNow ITOM & HAM Administrator",
    "company": "BMO",
    "location": "Toronto, ON, CAN",
@@ -3847,6 +3804,49 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20ITOM%20%26%20HAM%20Administrator%20BMO&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-25",
+   "title": "ITSM Developer (SNOW)",
+   "company": "Tata Consultancy Services",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/itsm-developer-snow-at-tata-consultancy-services-4494956259",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "itsm developer (snow) tata consultancy services toronto, ontario, canada linkedin servicenow readme servicenow itsm role fit toronto area  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ITSM%20Developer%20%28SNOW%29%20Tata%20Consultancy%20Services+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ITSM%20Developer%20%28SNOW%29%20Tata%20Consultancy%20Services&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ITSM%20Developer%20%28SNOW%29%20Tata%20Consultancy%20Services&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ITSM%20Developer%20%28SNOW%29%20Tata%20Consultancy%20Services&loc=Toronto"
     }
    ],
    "toronto": true
@@ -3951,6 +3951,61 @@
   },
   {
    "posted": "2026-11-25",
+   "title": "Senior Solution Architect (ServiceNow)",
+   "company": "TD Bank",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area  ",
+   "alternates": [
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5970088512?utm_medium=api&utm_source=54ce986e",
+     "label": "Adzuna · Canada",
+     "gated": false
+    },
+    {
+     "source": "BuiltIn",
+     "url": "https://builtintoronto.com/job/senior-solution-architect-servicenow/12280234",
+     "label": "BuiltIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-25",
    "title": "Senior ServiceNow Developer",
    "company": "Salvationarmyca",
    "location": "Toronto, ON",
@@ -4029,61 +4084,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Engagement%20Manager%20%E2%80%93%20ServiceNow%20Raso360&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-25",
-   "title": "Senior Solution Architect (ServiceNow)",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Solution-Architect--ServiceNow-_R_1521185",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "senior solution architect (servicenow) td bank toronto, ontario workday ats servicenow workday servicenow role fit toronto area  ",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5970088512?utm_medium=api&utm_source=54ce986e",
-     "label": "Adzuna · Canada",
-     "gated": false
-    },
-    {
-     "source": "BuiltIn",
-     "url": "https://builtintoronto.com/job/senior-solution-architect-servicenow/12280234",
-     "label": "BuiltIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Solution%20Architect%20%28ServiceNow%29%20TD%20Bank&loc=Toronto"
     }
    ],
    "toronto": true
@@ -23391,13 +23391,13 @@
    "posted": "2026-11-17",
    "title": "Sr Solution Sales Executive CRM (CPQ)",
    "company": "ServiceNow",
-   "location": "Toronto, ca",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
-   "note": "via ats--2026-11-17--v77.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "SmartRecruiters",
-   "verified": "Employer board",
+   "location": "Toronto, Ontario",
+   "url": "https://www.adzuna.ca/details/5969570818",
+   "note": "readme",
+   "family": "other",
+   "familyLabel": "Other",
+   "source": "Adzuna",
+   "verified": "Aggregator",
    "match": 86,
    "matchReasons": [
     "ServiceNow",
@@ -23406,21 +23406,8 @@
    ],
    "certs": [],
    "french": false,
-   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow via ats--2026-11-17--v77.md servicenow salesforce toronto area  ",
-   "alternates": [
-    {
-     "source": "SmartRecruiters",
-     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162143024",
-     "label": "SmartRecruiters · Toronto",
-     "gated": false
-    },
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5969570818",
-     "label": "Adzuna · Toronto",
-     "gated": false
-    }
-   ],
+   "search": "sr solution sales executive crm (cpq) servicenow toronto, ontario adzuna other readme servicenow salesforce toronto area  ",
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -47123,48 +47110,6 @@
   },
   {
    "posted": "2026-11-13",
-   "title": "ServiceNow Consultant",
-   "company": "KTek Resourcing",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-consultant-at-ktek-resourcing-4490754390",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow consultant ktek resourcing canada linkedin servicenow readme servicenow role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Consultant%20KTek%20Resourcing+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Consultant%20KTek%20Resourcing&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Consultant%20KTek%20Resourcing&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Consultant%20KTek%20Resourcing&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-13",
    "title": "ServiceNow System Administrator",
    "company": "GDIT",
    "location": "Any Location / Remote",
@@ -47201,6 +47146,48 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20GDIT&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-13",
+   "title": "ServiceNow Consultant",
+   "company": "KTek Resourcing",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-consultant-at-ktek-resourcing-4490754390",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "servicenow consultant ktek resourcing canada linkedin servicenow readme servicenow role fit canada / remote  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Consultant%20KTek%20Resourcing+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Consultant%20KTek%20Resourcing&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Consultant%20KTek%20Resourcing&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Consultant%20KTek%20Resourcing&loc=Canada"
     }
    ],
    "toronto": false
@@ -51022,6 +51009,55 @@
   },
   {
    "posted": "2026-11-12",
+   "title": "ServiceNow Technology Lifecycle Analyst",
+   "company": "BMO",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "servicenow technology lifecycle analyst bmo toronto, on, can workday ats servicenow workday servicenow role fit toronto area  ",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-12",
    "title": "Service Now Implementation Architect",
    "company": "Nityo Infotech",
    "location": "Toronto, Ontario, Canada",
@@ -51259,55 +51295,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Swoon&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-12",
-   "title": "ServiceNow Technology Lifecycle Analyst",
-   "company": "BMO",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/ServiceNow-Technology-Lifecycle-Analyst_R260030995",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow technology lifecycle analyst bmo toronto, on, can workday ats servicenow workday servicenow role fit toronto area  ",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-technology-lifecycle-analyst-at-bmo-4490364941",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Technology%20Lifecycle%20Analyst%20BMO&loc=Toronto"
     }
    ],
    "toronto": true
@@ -62465,14 +62452,7 @@
    "certs": [],
    "french": false,
    "search": "revenue ops systems analyst appdirect, inc canada adzuna other readme role fit canada / remote  ",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/revenue-ops-systems-analyst-at-appdirect-4467585938",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -170768,14 +170748,7 @@
    "certs": [],
    "french": false,
    "search": "senior analyst, walmart services - wmc systems administrator walmart mississauga, peel region adzuna other readme role fit toronto area  ",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/senior-analyst-walmart-services-wmc-systems-administrator-at-walmart-canada-4484715632",
-     "label": "LinkedIn · Mississauga",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -192937,14 +192910,7 @@
    "certs": [],
    "french": false,
    "search": "senior consultant, governance, risk and compliance services kpmg canada regina, saskatchewan, canada linkedin other readme role fit canada / remote  ",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5945007875",
-     "label": "Adzuna · Regina region",
-     "gated": false
-    }
-   ],
+   "alternates": [],
    "gated": false,
    "xref": [
     {
@@ -195207,12 +195173,6 @@
    "french": false,
    "search": "salesforce business analyst (financial services cloud) maarut montreal east, montreal adzuna salesforce adzuna salesforce consulting/ba role fit quebec  ",
    "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/salesforce-business-analyst-financial-services-cloud-at-maarut-inc-4484485223",
-     "label": "LinkedIn · Montreal",
-     "gated": false
-    },
     {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5945037763?utm_medium=api&utm_source=54ce986e",
@@ -202428,6 +202388,48 @@
   },
   {
    "posted": "2026-10-28",
+   "title": "ServiceNow System Administrator",
+   "company": "Bell",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-system-administrator-at-bell-4476350097",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "servicenow system administrator bell toronto, ontario, canada linkedin servicenow readme servicenow role fit toronto area  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20Bell+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20Bell&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20Bell&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20Bell&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-10-28",
    "title": "ServiceNow Engineer - Strategic Portfolio Management (SPM) (RQ230422) - GDIT",
    "company": "USA: MacDill AFB, Florida; onsite, potential four onsite/one remote day",
    "location": "Full-time",
@@ -202512,48 +202514,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Architect",
-   "company": "Mindlance",
-   "location": "Woodbridge, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-architect-at-mindlance-4484481188",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow architect mindlance woodbridge, ontario, canada linkedin servicenow readme servicenow role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Architect%20Mindlance+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Architect%20Mindlance&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Architect%20Mindlance&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Architect%20Mindlance&loc=Canada"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Tower Lead - ServiceNow, IT Service Management",
    "company": "HCL Canada Inc.",
    "location": "Toronto ON",
@@ -202596,90 +202556,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Engagement Manager",
-   "company": "RSM Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-engagement-manager-at-rsm-canada-4457195669",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow engagement manager rsm canada toronto, ontario, canada linkedin servicenow readme servicenow role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Engagement%20Manager%20RSM%20Canada+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Engagement%20Manager%20RSM%20Canada&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Engagement%20Manager%20RSM%20Canada&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Engagement%20Manager%20RSM%20Canada&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "ServiceNow System Administrator",
-   "company": "Bell",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-system-administrator-at-bell-4476350097",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow system administrator bell toronto, ontario, canada linkedin servicenow readme servicenow role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20System%20Administrator%20Bell+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20System%20Administrator%20Bell&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20System%20Administrator%20Bell&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20System%20Administrator%20Bell&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
    "title": "ServiceNow Developer Principal",
    "company": "GDIT",
    "location": "Any Location / Remote",
@@ -202716,48 +202592,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Principal%20GDIT&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "ServiceNow Platform Architect (00071000111)",
-   "company": "Cognizant",
-   "location": "Canada",
-   "url": "https://careers.cognizant.com/ca-en/jobs/00071000111/servicenow-platform-architect/",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "careers.cognizant.com",
-   "verified": "Employer board",
-   "match": 84,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow platform architect (00071000111) cognizant canada careers.cognizant.com servicenow readme servicenow role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Platform%20Architect%20%2800071000111%29%20Cognizant&loc=Canada"
     }
    ],
    "toronto": false
@@ -202848,45 +202682,44 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Administrator - Innovation & Systems (soft: QC/French)",
-   "company": "Pomerleau",
-   "location": "Montreal / Quebec City / St-Georges, QC",
-   "url": "https://jobs.pomerleau.ca/en_US/Jobs/JobDetail/7110/3835",
+   "title": "Administrateur ServiceNow",
+   "company": "Bell",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-bell-4476348750",
    "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "jobs.pomerleau.ca",
-   "verified": "Employer board",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
    "match": 80,
    "matchReasons": [
     "ServiceNow",
-    "Role fit",
-    "Quebec"
+    "Toronto area"
    ],
    "certs": [],
-   "french": false,
-   "search": "servicenow administrator - innovation & systems (soft: qc/french) pomerleau montreal / quebec city / st-georges, qc jobs.pomerleau.ca servicenow readme servicenow role fit quebec  ",
+   "french": true,
+   "search": "administrateur servicenow bell toronto, ontario, canada linkedin servicenow readme servicenow toronto area  ",
    "alternates": [],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Administrator%20-%20Innovation%20%26%20Systems%20%28soft%3A%20QC/French%29%20Pomerleau+Montreal+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Administrateur%20ServiceNow%20Bell+Toronto+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Administrator%20-%20Innovation%20%26%20Systems%20%28soft%3A%20QC/French%29%20Pomerleau&location=Montreal"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Administrateur%20ServiceNow%20Bell&location=Toronto"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Administrator%20-%20Innovation%20%26%20Systems%20%28soft%3A%20QC/French%29%20Pomerleau&l=Montreal"
+     "url": "https://ca.indeed.com/jobs?q=Administrateur%20ServiceNow%20Bell&l=Toronto"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Administrator%20-%20Innovation%20%26%20Systems%20%28soft%3A%20QC/French%29%20Pomerleau&loc=Montreal"
+     "url": "https://www.adzuna.ca/search?q=Administrateur%20ServiceNow%20Bell&loc=Toronto"
     }
    ],
-   "toronto": false
+   "toronto": true
   },
   {
    "posted": "2026-10-28",
@@ -202931,44 +202764,45 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "Administrateur ServiceNow",
-   "company": "Bell",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/administrateur-servicenow-at-bell-4476348750",
+   "title": "ServiceNow Administrator - Innovation & Systems (soft: QC/French)",
+   "company": "Pomerleau",
+   "location": "Montreal / Quebec City / St-Georges, QC",
+   "url": "https://jobs.pomerleau.ca/en_US/Jobs/JobDetail/7110/3835",
    "note": "readme",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
+   "source": "jobs.pomerleau.ca",
+   "verified": "Employer board",
    "match": 80,
    "matchReasons": [
     "ServiceNow",
-    "Toronto area"
+    "Role fit",
+    "Quebec"
    ],
    "certs": [],
-   "french": true,
-   "search": "administrateur servicenow bell toronto, ontario, canada linkedin servicenow readme servicenow toronto area  ",
+   "french": false,
+   "search": "servicenow administrator - innovation & systems (soft: qc/french) pomerleau montreal / quebec city / st-georges, qc jobs.pomerleau.ca servicenow readme servicenow role fit quebec  ",
    "alternates": [],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Administrateur%20ServiceNow%20Bell+Toronto+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=ServiceNow%20Administrator%20-%20Innovation%20%26%20Systems%20%28soft%3A%20QC/French%29%20Pomerleau+Montreal+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Administrateur%20ServiceNow%20Bell&location=Toronto"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Administrator%20-%20Innovation%20%26%20Systems%20%28soft%3A%20QC/French%29%20Pomerleau&location=Montreal"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Administrateur%20ServiceNow%20Bell&l=Toronto"
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Administrator%20-%20Innovation%20%26%20Systems%20%28soft%3A%20QC/French%29%20Pomerleau&l=Montreal"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Administrateur%20ServiceNow%20Bell&loc=Toronto"
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Administrator%20-%20Innovation%20%26%20Systems%20%28soft%3A%20QC/French%29%20Pomerleau&loc=Montreal"
     }
    ],
-   "toronto": true
+   "toronto": false
   },
   {
    "posted": "2026-10-28",
@@ -203089,6 +202923,47 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20Principal%20%28RQ230501%29%20-%20GDIT%20USA%3A%20USA%3B%20remote&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-10-28",
+   "title": "ServiceNow Developer - 9th Way Insignia",
+   "company": "USA: Remote USA only; review the posting's clearance/background-investigation conditions with the employer.",
+   "location": "Full-time",
+   "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Greenhouse",
+   "verified": "Employer board",
+   "match": 76,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "servicenow developer - 9th way insignia usa: remote usa only; review the posting's clearance/background-investigation conditions with the employer. full-time greenhouse servicenow readme servicenow role fit  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20-%209th%20Way%20Insignia%20USA%3A%20Remote%20USA%20only%3B%20review%20the%20posting%27s%20clearance/background-investigation%20conditions%20with%20the%20employer.+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20-%209th%20Way%20Insignia%20USA%3A%20Remote%20USA%20only%3B%20review%20the%20posting%27s%20clearance/background-investigation%20conditions%20with%20the%20employer.&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20-%209th%20Way%20Insignia%20USA%3A%20Remote%20USA%20only%3B%20review%20the%20posting%27s%20clearance/background-investigation%20conditions%20with%20the%20employer.&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20-%209th%20Way%20Insignia%20USA%3A%20Remote%20USA%20only%3B%20review%20the%20posting%27s%20clearance/background-investigation%20conditions%20with%20the%20employer.&loc=Canada"
     }
    ],
    "toronto": false
@@ -203218,47 +203093,6 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ServiceNow Developer - 9th Way Insignia",
-   "company": "USA: Remote USA only; review the posting's clearance/background-investigation conditions with the employer.",
-   "location": "Full-time",
-   "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5466447008",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 76,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow developer - 9th way insignia usa: remote usa only; review the posting's clearance/background-investigation conditions with the employer. full-time greenhouse servicenow readme servicenow role fit  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20-%209th%20Way%20Insignia%20USA%3A%20Remote%20USA%20only%3B%20review%20the%20posting%27s%20clearance/background-investigation%20conditions%20with%20the%20employer.+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20-%209th%20Way%20Insignia%20USA%3A%20Remote%20USA%20only%3B%20review%20the%20posting%27s%20clearance/background-investigation%20conditions%20with%20the%20employer.&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20-%209th%20Way%20Insignia%20USA%3A%20Remote%20USA%20only%3B%20review%20the%20posting%27s%20clearance/background-investigation%20conditions%20with%20the%20employer.&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20-%209th%20Way%20Insignia%20USA%3A%20Remote%20USA%20only%3B%20review%20the%20posting%27s%20clearance/background-investigation%20conditions%20with%20the%20employer.&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
    "title": "Senior Salesforce Consultant",
    "company": "Querentia",
    "location": "Berczy Park, City of Toronto",
@@ -203295,132 +203129,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Senior%20Salesforce%20Consultant%20Querentia&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Sr. Specialist, Salesforce Data Cloud & Loyalty",
-   "company": "Havas CX Canada",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/sr-specialist-salesforce-data-cloud-loyalty-at-havas-cx-canada-4474510658",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "sr. specialist, salesforce data cloud & loyalty havas cx canada toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Sr.%20Specialist%2C%20Salesforce%20Data%20Cloud%20%26%20Loyalty%20Havas%20CX%20Canada+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20Specialist%2C%20Salesforce%20Data%20Cloud%20%26%20Loyalty%20Havas%20CX%20Canada&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Sr.%20Specialist%2C%20Salesforce%20Data%20Cloud%20%26%20Loyalty%20Havas%20CX%20Canada&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Sr.%20Specialist%2C%20Salesforce%20Data%20Cloud%20%26%20Loyalty%20Havas%20CX%20Canada&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Salesforce, LWC, Omnistudio Developer",
-   "company": "Pyramid Consulting, Inc",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/salesforce-lwc-omnistudio-developer-at-pyramid-consulting-inc-4484726372",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "salesforce, lwc, omnistudio developer pyramid consulting, inc toronto, ontario, canada linkedin salesforce readme salesforce role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%2C%20LWC%2C%20Omnistudio%20Developer%20Pyramid%20Consulting%2C%20Inc+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%2C%20LWC%2C%20Omnistudio%20Developer%20Pyramid%20Consulting%2C%20Inc&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%2C%20LWC%2C%20Omnistudio%20Developer%20Pyramid%20Consulting%2C%20Inc&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%2C%20LWC%2C%20Omnistudio%20Developer%20Pyramid%20Consulting%2C%20Inc&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Salesforce DevOps Lead",
-   "company": "J&M Group",
-   "location": "Toronto, ON",
-   "url": "https://ca.linkedin.com/jobs/view/4484718847",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "salesforce devops lead j&m group toronto, on linkedin salesforce readme salesforce role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20DevOps%20Lead%20J%26M%20Group+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20DevOps%20Lead%20J%26M%20Group&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20DevOps%20Lead%20J%26M%20Group&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20DevOps%20Lead%20J%26M%20Group&loc=Toronto"
     }
    ],
    "toronto": true
@@ -203469,86 +203177,44 @@
   },
   {
    "posted": "2026-10-28",
-   "title": "ERP Salesforce Financial Consultant",
-   "company": "Chapman Tate Associates",
-   "location": "Greater Vancouver, British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/erp-salesforce-financial-consultant-at-chapman-tate-associates-4482536265",
+   "title": "Salesforce Product Owner",
+   "company": "iA Financial Group",
+   "location": "Canada",
+   "url": "https://www.adzuna.ca/details/5944331180",
    "note": "readme",
    "family": "salesforce",
    "familyLabel": "Salesforce",
-   "source": "LinkedIn",
+   "source": "Adzuna",
    "verified": "Aggregator",
-   "match": 56,
+   "match": 48,
    "matchReasons": [
     "Salesforce",
-    "Role fit",
     "Canada / remote"
    ],
    "certs": [],
    "french": false,
-   "search": "erp salesforce financial consultant chapman tate associates greater vancouver, british columbia, canada linkedin salesforce readme salesforce role fit canada / remote  ",
+   "search": "salesforce product owner ia financial group canada adzuna salesforce readme salesforce canada / remote  ",
    "alternates": [],
    "gated": false,
    "xref": [
     {
      "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ERP%20Salesforce%20Financial%20Consultant%20Chapman%20Tate%20Associates+Vancouver+jobs&ibp=htl;jobs"
+     "url": "https://www.google.com/search?q=Salesforce%20Product%20Owner%20iA%20Financial%20Group+Canada+jobs&ibp=htl;jobs"
     },
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ERP%20Salesforce%20Financial%20Consultant%20Chapman%20Tate%20Associates&location=Vancouver"
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Product%20Owner%20iA%20Financial%20Group&location=Canada"
     },
     {
      "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ERP%20Salesforce%20Financial%20Consultant%20Chapman%20Tate%20Associates&l=Vancouver"
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Product%20Owner%20iA%20Financial%20Group&l=Canada"
     },
     {
      "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ERP%20Salesforce%20Financial%20Consultant%20Chapman%20Tate%20Associates&loc=Vancouver"
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20Product%20Owner%20iA%20Financial%20Group&loc=Canada"
     }
    ],
    "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Salesforce Product Owner",
-   "company": "Docebo",
-   "location": "Toronto, Ontario",
-   "url": "https://jobs.ashbyhq.com/docebo/6c6ced29-4d69-4e93-b808-e6aea83d87f3",
-   "note": "ashby",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Ashby",
-   "verified": "Employer board",
-   "match": 52,
-   "matchReasons": [
-    "Salesforce",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "salesforce product owner docebo toronto, ontario ashby salesforce ashby salesforce toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Product%20Owner%20Docebo+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Product%20Owner%20Docebo&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Product%20Owner%20Docebo&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Product%20Owner%20Docebo&loc=Toronto"
-    }
-   ],
-   "toronto": true
   },
   {
    "posted": "2026-10-28",
@@ -203587,47 +203253,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Principle%20Salesforce%20Developer%20%28JR106006%29%20-%20Moneris%20Canada%3A%20Toronto%3B%20hybrid%3B%20full-time&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Salesforce Product Owner",
-   "company": "iA Financial Group",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5944331180",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 48,
-   "matchReasons": [
-    "Salesforce",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "salesforce product owner ia financial group canada adzuna salesforce readme salesforce canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Salesforce%20Product%20Owner%20iA%20Financial%20Group+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20Product%20Owner%20iA%20Financial%20Group&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Salesforce%20Product%20Owner%20iA%20Financial%20Group&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Salesforce%20Product%20Owner%20iA%20Financial%20Group&loc=Canada"
     }
    ],
    "toronto": false
@@ -203710,1627 +203335,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20Administrator%20Prospect%20Human%20Services&loc=Calgary"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Problem Management, Lead (ITSM)",
-   "company": "Interac",
-   "location": "Toronto, ON",
-   "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Problem-Management--Lead_REQ-2346",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 46,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "problem management, lead (itsm) interac toronto, on workday ats servicenow readme itsm role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Problem%20Management%2C%20Lead%20%28ITSM%29%20Interac+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Problem%20Management%2C%20Lead%20%28ITSM%29%20Interac&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Problem%20Management%2C%20Lead%20%28ITSM%29%20Interac&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Problem%20Management%2C%20Lead%20%28ITSM%29%20Interac&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "IT Change Management, Lead (ITSM)",
-   "company": "Interac",
-   "location": "Toronto, ON",
-   "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/IT-Change-Management--Lead_REQ-2367",
-   "note": "readme",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 46,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "it change management, lead (itsm) interac toronto, on workday ats servicenow readme itsm role fit toronto area  ",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/it-change-management-lead-at-interac-corp-4484121292",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=IT%20Change%20Management%2C%20Lead%20%28ITSM%29%20Interac+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=IT%20Change%20Management%2C%20Lead%20%28ITSM%29%20Interac&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=IT%20Change%20Management%2C%20Lead%20%28ITSM%29%20Interac&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=IT%20Change%20Management%2C%20Lead%20%28ITSM%29%20Interac&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Organizational Change Management (OCM) Consultant",
-   "company": "Insight Global",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5944215417",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 46,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "organizational change management (ocm) consultant insight global toronto, ontario adzuna other readme itsm role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Organizational%20Change%20Management%20%28OCM%29%20Consultant%20Insight%20Global+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Organizational%20Change%20Management%20%28OCM%29%20Consultant%20Insight%20Global&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Organizational%20Change%20Management%20%28OCM%29%20Consultant%20Insight%20Global&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Organizational%20Change%20Management%20%28OCM%29%20Consultant%20Insight%20Global&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "IT Service Desk Analyst",
-   "company": "The Citco Group",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5944357333",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 46,
-   "matchReasons": [
-    "ITSM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "it service desk analyst the citco group toronto, ontario adzuna other readme itsm role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=IT%20Service%20Desk%20Analyst%20The%20Citco%20Group+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=IT%20Service%20Desk%20Analyst%20The%20Citco%20Group&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=IT%20Service%20Desk%20Analyst%20The%20Citco%20Group&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=IT%20Service%20Desk%20Analyst%20The%20Citco%20Group&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Business Risk Analyst - TD Asset Management",
-   "company": "TD",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/business-risk-analyst-td-asset-management-at-td-4484706218",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 46,
-   "matchReasons": [
-    "ITAM",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "business risk analyst - td asset management td toronto, ontario, canada linkedin other readme itam role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Business%20Risk%20Analyst%20-%20TD%20Asset%20Management%20TD+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Risk%20Analyst%20-%20TD%20Asset%20Management%20TD&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Business%20Risk%20Analyst%20-%20TD%20Asset%20Management%20TD&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Business%20Risk%20Analyst%20-%20TD%20Asset%20Management%20TD&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Technical Business Analyst - Capital Markets",
-   "company": "Insight Global",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5944215409",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 30,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "technical business analyst - capital markets insight global toronto, ontario adzuna other readme consulting/ba role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Technical%20Business%20Analyst%20-%20Capital%20Markets%20Insight%20Global+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Technical%20Business%20Analyst%20-%20Capital%20Markets%20Insight%20Global&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Technical%20Business%20Analyst%20-%20Capital%20Markets%20Insight%20Global&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Technical%20Business%20Analyst%20-%20Capital%20Markets%20Insight%20Global&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "RQ00380 I 4 Years I Remote I Clinical Business Analyst - Business Intelligence",
-   "company": "Analyst Technical Solutions",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5944505411",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 30,
-   "matchReasons": [
-    "Consulting/BA",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "rq00380 i 4 years i remote i clinical business analyst - business intelligence analyst technical solutions toronto, ontario adzuna other readme consulting/ba role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=RQ00380%20I%204%20Years%20I%20Remote%20I%20Clinical%20Business%20Analyst%20-%20Business%20Intelligence%20Analyst%20Technical%20Solutions+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=RQ00380%20I%204%20Years%20I%20Remote%20I%20Clinical%20Business%20Analyst%20-%20Business%20Intelligence%20Analyst%20Technical%20Solutions&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=RQ00380%20I%204%20Years%20I%20Remote%20I%20Clinical%20Business%20Analyst%20-%20Business%20Intelligence%20Analyst%20Technical%20Solutions&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=RQ00380%20I%204%20Years%20I%20Remote%20I%20Clinical%20Business%20Analyst%20-%20Business%20Intelligence%20Analyst%20Technical%20Solutions&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Marketing Automation Architect (CA)",
-   "company": "PointClickCare",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/marketing-automation-architect-ca-at-pointclickcare-4465792084",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 26,
-   "matchReasons": [
-    "Automation",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "marketing automation architect (ca) pointclickcare canada linkedin other readme automation role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Marketing%20Automation%20Architect%20%28CA%29%20PointClickCare+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Automation%20Architect%20%28CA%29%20PointClickCare&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Marketing%20Automation%20Architect%20%28CA%29%20PointClickCare&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Marketing%20Automation%20Architect%20%28CA%29%20PointClickCare&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Gainsight Developer",
-   "company": "Rockwell Automation",
-   "location": "Dallas, Manitoba, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/gainsight-developer-at-rockwell-automation-4484281585",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 21,
-   "matchReasons": [
-    "Automation",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "gainsight developer rockwell automation dallas, manitoba, canada linkedin other readme automation role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Gainsight%20Developer%20Rockwell%20Automation+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Gainsight%20Developer%20Rockwell%20Automation&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Gainsight%20Developer%20Rockwell%20Automation&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Gainsight%20Developer%20Rockwell%20Automation&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "nCino Tech Lead",
-   "company": "J&M Group",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/ncino-tech-lead-at-j-m-group-4484726714",
-   "note": "readme",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "ncino tech lead j&m group toronto, ontario, canada linkedin salesforce readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=nCino%20Tech%20Lead%20J%26M%20Group+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=nCino%20Tech%20Lead%20J%26M%20Group&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=nCino%20Tech%20Lead%20J%26M%20Group&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=nCino%20Tech%20Lead%20J%26M%20Group&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Head of Solutions Engineering",
-   "company": "Gorgias",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5944344001",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "head of solutions engineering gorgias toronto, ontario adzuna other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Head%20of%20Solutions%20Engineering%20Gorgias+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Solutions%20Engineering%20Gorgias&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Head%20of%20Solutions%20Engineering%20Gorgias&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Head%20of%20Solutions%20Engineering%20Gorgias&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Senior Frontend Developer",
-   "company": "Future Electronics",
-   "location": "Toronto, ON",
-   "url": "https://ca.linkedin.com/jobs/view/senior-frontend-developer-at-future-electronics-4484483541",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "senior frontend developer future electronics toronto, on linkedin other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Frontend%20Developer%20Future%20Electronics+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Frontend%20Developer%20Future%20Electronics&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Frontend%20Developer%20Future%20Electronics&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Frontend%20Developer%20Future%20Electronics&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Data Analyst",
-   "company": "Insight Global",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5944215414",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "data analyst insight global toronto, ontario adzuna other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Data%20Analyst%20Insight%20Global+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Data%20Analyst%20Insight%20Global&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Data%20Analyst%20Insight%20Global&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Data%20Analyst%20Insight%20Global&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Business Intelligence Specialist",
-   "company": "TD Bank",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5944215668",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "business intelligence specialist td bank toronto, ontario adzuna other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Business%20Intelligence%20Specialist%20TD%20Bank+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Intelligence%20Specialist%20TD%20Bank&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Business%20Intelligence%20Specialist%20TD%20Bank&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Business%20Intelligence%20Specialist%20TD%20Bank&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Research Analyst - Valuation & Advisory",
-   "company": "Cushman & Wakefield",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/research-analyst-valuation-advisory-at-cushman-wakefield-4476526056",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "research analyst - valuation & advisory cushman & wakefield toronto, ontario, canada linkedin other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Research%20Analyst%20-%20Valuation%20%26%20Advisory%20Cushman%20%26%20Wakefield+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Research%20Analyst%20-%20Valuation%20%26%20Advisory%20Cushman%20%26%20Wakefield&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Research%20Analyst%20-%20Valuation%20%26%20Advisory%20Cushman%20%26%20Wakefield&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Research%20Analyst%20-%20Valuation%20%26%20Advisory%20Cushman%20%26%20Wakefield&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Release Manager",
-   "company": "Tata Consultancy Services",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/release-manager-at-tata-consultancy-services-4483872726",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "release manager tata consultancy services toronto, ontario, canada linkedin other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Release%20Manager%20Tata%20Consultancy%20Services+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Release%20Manager%20Tata%20Consultancy%20Services&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Release%20Manager%20Tata%20Consultancy%20Services&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Release%20Manager%20Tata%20Consultancy%20Services&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Manager, Internal Controls",
-   "company": "Oxford Properties Group",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/manager-internal-controls-at-oxford-properties-group-4466209687",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "manager, internal controls oxford properties group toronto, ontario, canada linkedin other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Manager%2C%20Internal%20Controls%20Oxford%20Properties%20Group+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Internal%20Controls%20Oxford%20Properties%20Group&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Manager%2C%20Internal%20Controls%20Oxford%20Properties%20Group&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Manager%2C%20Internal%20Controls%20Oxford%20Properties%20Group&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Learning Services Specialist - Assurance - 18 Month Contract",
-   "company": "EY",
-   "location": "Waterloo, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/learning-services-specialist-assurance-18-month-contract-at-ey-4457193634",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "learning services specialist - assurance - 18 month contract ey waterloo, ontario, canada linkedin other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Learning%20Services%20Specialist%20-%20Assurance%20-%2018%20Month%20Contract%20EY+Waterloo+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Learning%20Services%20Specialist%20-%20Assurance%20-%2018%20Month%20Contract%20EY&location=Waterloo"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Learning%20Services%20Specialist%20-%20Assurance%20-%2018%20Month%20Contract%20EY&l=Waterloo"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Learning%20Services%20Specialist%20-%20Assurance%20-%2018%20Month%20Contract%20EY&loc=Waterloo"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Help Desk Analyst",
-   "company": "Pet Valu",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/help-desk-analyst-at-pet-valu-4484131769",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "help desk analyst pet valu markham, ontario, canada linkedin other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Help%20Desk%20Analyst%20Pet%20Valu+Markham+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Help%20Desk%20Analyst%20Pet%20Valu&location=Markham"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Help%20Desk%20Analyst%20Pet%20Valu&l=Markham"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Help%20Desk%20Analyst%20Pet%20Valu&loc=Markham"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Data Analyst",
-   "company": "Nuclear Promise X",
-   "location": "Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/data-analyst-at-nuclear-promise-x-4482502496",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "data analyst nuclear promise x ontario, canada linkedin other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Data%20Analyst%20Nuclear%20Promise%20X+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Data%20Analyst%20Nuclear%20Promise%20X&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Data%20Analyst%20Nuclear%20Promise%20X&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Data%20Analyst%20Nuclear%20Promise%20X&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Analyst, Third Party Risk & Performance Management",
-   "company": "Sunlife",
-   "location": "Waterloo, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/analyst-third-party-risk-performance-management-at-sunlife-4483826246",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "analyst, third party risk & performance management sunlife waterloo, ontario, canada linkedin other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Analyst%2C%20Third%20Party%20Risk%20%26%20Performance%20Management%20Sunlife+Waterloo+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Analyst%2C%20Third%20Party%20Risk%20%26%20Performance%20Management%20Sunlife&location=Waterloo"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Analyst%2C%20Third%20Party%20Risk%20%26%20Performance%20Management%20Sunlife&l=Waterloo"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Analyst%2C%20Third%20Party%20Risk%20%26%20Performance%20Management%20Sunlife&loc=Waterloo"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "(CAN) Team Leader, Asset Protection (SC)",
-   "company": "Walmart Canada",
-   "location": "Mississauga, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/can-team-leader-asset-protection-sc-at-walmart-canada-4467227001",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 20,
-   "matchReasons": [
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "(can) team leader, asset protection (sc) walmart canada mississauga, ontario, canada linkedin other readme role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=%28CAN%29%20Team%20Leader%2C%20Asset%20Protection%20%28SC%29%20Walmart%20Canada+Mississauga+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=%28CAN%29%20Team%20Leader%2C%20Asset%20Protection%20%28SC%29%20Walmart%20Canada&location=Mississauga"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=%28CAN%29%20Team%20Leader%2C%20Asset%20Protection%20%28SC%29%20Walmart%20Canada&l=Mississauga"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=%28CAN%29%20Team%20Leader%2C%20Asset%20Protection%20%28SC%29%20Walmart%20Canada&loc=Mississauga"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "SailPoint ISC Solution Architect",
-   "company": "KeyData Cyber",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/sailpoint-isc-solution-architect-at-keydata-cyber-4476322766",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "sailpoint isc solution architect keydata cyber canada linkedin other readme role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=SailPoint%20ISC%20Solution%20Architect%20KeyData%20Cyber+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=SailPoint%20ISC%20Solution%20Architect%20KeyData%20Cyber&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=SailPoint%20ISC%20Solution%20Architect%20KeyData%20Cyber&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=SailPoint%20ISC%20Solution%20Architect%20KeyData%20Cyber&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Order Management Administrator",
-   "company": "Absolute Security",
-   "location": "British Columbia, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/order-management-administrator-at-absolute-security-4483897869",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "order management administrator absolute security british columbia, canada linkedin other readme role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Order%20Management%20Administrator%20Absolute%20Security+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Order%20Management%20Administrator%20Absolute%20Security&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Order%20Management%20Administrator%20Absolute%20Security&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Order%20Management%20Administrator%20Absolute%20Security&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "GTM Engineer",
-   "company": "Versapay",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/gtm-engineer-at-versapay-4484737293",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "gtm engineer versapay canada linkedin other readme role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=GTM%20Engineer%20Versapay+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=GTM%20Engineer%20Versapay&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=GTM%20Engineer%20Versapay&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=GTM%20Engineer%20Versapay&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "GTM Engineer",
-   "company": "Manos Software Group",
-   "location": "Canada",
-   "url": "https://ca.linkedin.com/jobs/view/gtm-engineer-at-manos-software-group-4381128799",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "gtm engineer manos software group canada linkedin other readme role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=GTM%20Engineer%20Manos%20Software%20Group+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=GTM%20Engineer%20Manos%20Software%20Group&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=GTM%20Engineer%20Manos%20Software%20Group&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=GTM%20Engineer%20Manos%20Software%20Group&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Analyste de données, Intelligence d'affaires/Business Intelligence Data Analyst⚡",
-   "company": "Nouveau Monde Graphite / NYSE: NMG + TSX: NOU",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/analyste-de-donn%C3%A9es-intelligence-d-affaires-business-intelligence-data-analyst%E2%9A%A1-at-nouveau-monde-graphite-nyse-nmg-%2B-tsx-nou-4417207424",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 16,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "analyste de donnees, intelligence d'affaires/business intelligence data analyst⚡ nouveau monde graphite / nyse: nmg + tsx: nou montreal, quebec, canada linkedin other readme role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Analyste%20de%20donn%C3%A9es%2C%20Intelligence%20d%27affaires/Business%20Intelligence%20Data%20Analyst%E2%9A%A1%20Nouveau%20Monde%20Graphite%20/%20NYSE%3A%20NMG%20%2B%20TSX%3A%20NOU+Montreal+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Analyste%20de%20donn%C3%A9es%2C%20Intelligence%20d%27affaires/Business%20Intelligence%20Data%20Analyst%E2%9A%A1%20Nouveau%20Monde%20Graphite%20/%20NYSE%3A%20NMG%20%2B%20TSX%3A%20NOU&location=Montreal"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Analyste%20de%20donn%C3%A9es%2C%20Intelligence%20d%27affaires/Business%20Intelligence%20Data%20Analyst%E2%9A%A1%20Nouveau%20Monde%20Graphite%20/%20NYSE%3A%20NMG%20%2B%20TSX%3A%20NOU&l=Montreal"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Analyste%20de%20donn%C3%A9es%2C%20Intelligence%20d%27affaires/Business%20Intelligence%20Data%20Analyst%E2%9A%A1%20Nouveau%20Monde%20Graphite%20/%20NYSE%3A%20NMG%20%2B%20TSX%3A%20NOU&loc=Montreal"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Analyste TI – Developpeur(euse)",
-   "company": "Kativik Ilisarniliriniq",
-   "location": "Saint-Laurent, Montréal",
-   "url": "https://www.adzuna.ca/details/5944454181",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Role fit",
-    "Quebec"
-   ],
-   "certs": [],
-   "french": true,
-   "search": "analyste ti – developpeur(euse) kativik ilisarniliriniq saint-laurent, montreal adzuna other readme role fit quebec  ",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5944118402",
-     "label": "Adzuna · Montréal",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Analyste%20TI%20%E2%80%93%20Developpeur%28euse%29%20Kativik%20Ilisarniliriniq+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Analyste%20TI%20%E2%80%93%20Developpeur%28euse%29%20Kativik%20Ilisarniliriniq&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Analyste%20TI%20%E2%80%93%20Developpeur%28euse%29%20Kativik%20Ilisarniliriniq&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Analyste%20TI%20%E2%80%93%20Developpeur%28euse%29%20Kativik%20Ilisarniliriniq&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "IT Analyst – Developer",
-   "company": "Kativik Ilisarniliriniq",
-   "location": "Saint-Laurent, Montréal",
-   "url": "https://www.adzuna.ca/details/5944454100",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Role fit",
-    "Quebec"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "it analyst – developer kativik ilisarniliriniq saint-laurent, montreal adzuna other readme role fit quebec  ",
-   "alternates": [
-    {
-     "source": "Adzuna",
-     "url": "https://www.adzuna.ca/details/5944118400",
-     "label": "Adzuna · Montréal",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=IT%20Analyst%20%E2%80%93%20Developer%20Kativik%20Ilisarniliriniq+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=IT%20Analyst%20%E2%80%93%20Developer%20Kativik%20Ilisarniliriniq&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=IT%20Analyst%20%E2%80%93%20Developer%20Kativik%20Ilisarniliriniq&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=IT%20Analyst%20%E2%80%93%20Developer%20Kativik%20Ilisarniliriniq&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Senior Backend Engineer - App",
-   "company": "GDI",
-   "location": "Mont-Royal, Montréal",
-   "url": "https://www.adzuna.ca/details/5945169444",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Role fit",
-    "Quebec"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "senior backend engineer - app gdi mont-royal, montreal adzuna other readme role fit quebec  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Backend%20Engineer%20-%20App%20GDI+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Backend%20Engineer%20-%20App%20GDI&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Backend%20Engineer%20-%20App%20GDI&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Backend%20Engineer%20-%20App%20GDI&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Director, Legal Talent - Corporate",
-   "company": "Gowling WLG",
-   "location": "Waterloo, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/director-legal-talent-corporate-at-gowling-wlg-4482249934",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "director, legal talent - corporate gowling wlg waterloo, ontario, canada linkedin other readme toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Director%2C%20Legal%20Talent%20-%20Corporate%20Gowling%20WLG+Waterloo+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Director%2C%20Legal%20Talent%20-%20Corporate%20Gowling%20WLG&location=Waterloo"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Director%2C%20Legal%20Talent%20-%20Corporate%20Gowling%20WLG&l=Waterloo"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Director%2C%20Legal%20Talent%20-%20Corporate%20Gowling%20WLG&loc=Waterloo"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Critical Facility Operator- 12HR Rotating Night Shift",
-   "company": "Wesco",
-   "location": "Cambridge, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/critical-facility-operator-12hr-rotating-night-shift-at-wesco-4484700983",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "critical facility operator- 12hr rotating night shift wesco cambridge, ontario, canada linkedin other readme toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Critical%20Facility%20Operator-%2012HR%20Rotating%20Night%20Shift%20Wesco+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Critical%20Facility%20Operator-%2012HR%20Rotating%20Night%20Shift%20Wesco&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Critical%20Facility%20Operator-%2012HR%20Rotating%20Night%20Shift%20Wesco&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Critical%20Facility%20Operator-%2012HR%20Rotating%20Night%20Shift%20Wesco&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "CAD Coordinator",
-   "company": "BBA Consultants",
-   "location": "Val-d’Or, Quebec, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/cad-coordinator-at-bba-consultants-4476540037",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "cad coordinator bba consultants val-d’or, quebec, canada linkedin other readme role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=CAD%20Coordinator%20BBA%20Consultants+Quebec+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=CAD%20Coordinator%20BBA%20Consultants&location=Quebec"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=CAD%20Coordinator%20BBA%20Consultants&l=Quebec"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=CAD%20Coordinator%20BBA%20Consultants&loc=Quebec"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Bilingual Junior Drawing & Occupancy Technologist (FR/ENG)",
-   "company": "BGIS",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/bilingual-junior-drawing-occupancy-technologist-fr-eng-at-bgis-4457182706",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 12,
-   "matchReasons": [
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": true,
-   "search": "bilingual junior drawing & occupancy technologist (fr/eng) bgis markham, ontario, canada linkedin other readme toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Bilingual%20Junior%20Drawing%20%26%20Occupancy%20Technologist%20%28FR/ENG%29%20BGIS+Markham+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Bilingual%20Junior%20Drawing%20%26%20Occupancy%20Technologist%20%28FR/ENG%29%20BGIS&location=Markham"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Bilingual%20Junior%20Drawing%20%26%20Occupancy%20Technologist%20%28FR/ENG%29%20BGIS&l=Markham"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Bilingual%20Junior%20Drawing%20%26%20Occupancy%20Technologist%20%28FR/ENG%29%20BGIS&loc=Markham"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Business Systems Analyst",
-   "company": "SAIT",
-   "location": "Calgary, AB",
-   "url": "https://jobs.lever.co/sait/5845fffb-048f-4e65-9077-9f81082b3b17",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Lever",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "business systems analyst sait calgary, ab lever other readme role fit  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Business%20Systems%20Analyst%20SAIT+Calgary+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Systems%20Analyst%20SAIT&location=Calgary"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Business%20Systems%20Analyst%20SAIT&l=Calgary"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Business%20Systems%20Analyst%20SAIT&loc=Calgary"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Full Stack Engineer - Vice President",
-   "company": "icapitalnetwork",
-   "location": "Lisbon, Portugal",
-   "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8458253002",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Greenhouse",
-   "verified": "Employer board",
-   "match": 8,
-   "matchReasons": [
-    "Role fit"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "full stack engineer - vice president icapitalnetwork lisbon, portugal greenhouse other readme role fit  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Full%20Stack%20Engineer%20-%20Vice%20President%20icapitalnetwork+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20-%20Vice%20President%20icapitalnetwork&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Full%20Stack%20Engineer%20-%20Vice%20President%20icapitalnetwork&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Full%20Stack%20Engineer%20-%20Vice%20President%20icapitalnetwork&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Product Owner, AI & AWS Delivery",
-   "company": "NeuraFlash",
-   "location": "Canada",
-   "url": "https://www.adzuna.ca/details/5944332886",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "product owner, ai & aws delivery neuraflash canada adzuna other readme canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Product%20Owner%2C%20AI%20%26%20AWS%20Delivery%20NeuraFlash+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Product%20Owner%2C%20AI%20%26%20AWS%20Delivery%20NeuraFlash&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Product%20Owner%2C%20AI%20%26%20AWS%20Delivery%20NeuraFlash&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Product%20Owner%2C%20AI%20%26%20AWS%20Delivery%20NeuraFlash&loc=Canada"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "VDC Coordinator - Canem",
-   "company": "Bird Construction",
-   "location": "Winnipeg, Manitoba, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/vdc-coordinator-canem-at-bird-construction-4467409765",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 8,
-   "matchReasons": [
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "vdc coordinator - canem bird construction winnipeg, manitoba, canada linkedin other readme canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=VDC%20Coordinator%20-%20Canem%20Bird%20Construction+Winnipeg+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=VDC%20Coordinator%20-%20Canem%20Bird%20Construction&location=Winnipeg"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=VDC%20Coordinator%20-%20Canem%20Bird%20Construction&l=Winnipeg"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=VDC%20Coordinator%20-%20Canem%20Bird%20Construction&loc=Winnipeg"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-10-28",
-   "title": "Senior Product Owner, CRM & Loyalty",
-   "company": "GDI",
-   "location": "Mont-Royal, Montréal",
-   "url": "https://www.adzuna.ca/details/5945169448",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
-   "match": 4,
-   "matchReasons": [
-    "Quebec"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "senior product owner, crm & loyalty gdi mont-royal, montreal adzuna other readme quebec  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Senior%20Product%20Owner%2C%20CRM%20%26%20Loyalty%20GDI+Canada+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Owner%2C%20CRM%20%26%20Loyalty%20GDI&location=Canada"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Senior%20Product%20Owner%2C%20CRM%20%26%20Loyalty%20GDI&l=Canada"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Senior%20Product%20Owner%2C%20CRM%20%26%20Loyalty%20GDI&loc=Canada"
     }
    ],
    "toronto": false
