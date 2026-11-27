@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T13:08:32+00:00",
+ "generatedAt": "2026-11-27T14:08:57+00:00",
  "timezone": "America/Toronto",
  "count": 4776,
  "appliedHidden": 29,
@@ -311,6 +311,55 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20SPM%20Sr%20Developer%20Tata%20Consultancy%20Services&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-27",
+   "title": "ServiceNow Administrator/Developer",
+   "company": "CGI",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907",
+   "note": "linkedin",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "servicenow administrator/developer cgi toronto, ontario, canada linkedin servicenow linkedin servicenow role fit toronto area  ",
+   "alternates": [
+    {
+     "source": "Indeed",
+     "url": "https://ca.indeed.com/viewjob?jk=cf4ffdcf78006e60",
+     "label": "Indeed · Hybrid",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Administrator/Developer%20CGI+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Administrator/Developer%20CGI&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Administrator/Developer%20CGI&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Administrator/Developer%20CGI&loc=Toronto"
     }
    ],
    "toronto": true
@@ -1260,49 +1309,6 @@
   },
   {
    "posted": "2026-11-26",
-   "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
-   "company": "DXC Technology",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856",
-   "note": "workday",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 100,
-   "matchReasons": [
-    "ServiceNow",
-    "ITSM",
-    "Role fit",
-    "Canada / remote"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow developer (itsm module) at client site in ottawa dxc technology ottawa, on, canada workday ats servicenow workday servicenow itsm role fit canada / remote  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20%28ITSM%20Module%29%20At%20Client%20Site%20in%20Ottawa%20DXC%20Technology+Ottawa+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20%28ITSM%20Module%29%20At%20Client%20Site%20in%20Ottawa%20DXC%20Technology&location=Ottawa"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20%28ITSM%20Module%29%20At%20Client%20Site%20in%20Ottawa%20DXC%20Technology&l=Ottawa"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20%28ITSM%20Module%29%20At%20Client%20Site%20in%20Ottawa%20DXC%20Technology&loc=Ottawa"
-    }
-   ],
-   "toronto": false
-  },
-  {
-   "posted": "2026-11-26",
    "title": "ServiceNow CMDB Specialist",
    "company": "TC Energy",
    "location": "Calgary, Alberta, Canada",
@@ -1340,6 +1346,49 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20CMDB%20Specialist%20TC%20Energy&loc=Calgary"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-26",
+   "title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
+   "company": "DXC Technology",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856",
+   "note": "workday",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 100,
+   "matchReasons": [
+    "ServiceNow",
+    "ITSM",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "servicenow developer (itsm module) at client site in ottawa dxc technology ottawa, on, canada workday ats servicenow workday servicenow itsm role fit canada / remote  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%20%28ITSM%20Module%29%20At%20Client%20Site%20in%20Ottawa%20DXC%20Technology+Ottawa+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%20%28ITSM%20Module%29%20At%20Client%20Site%20in%20Ottawa%20DXC%20Technology&location=Ottawa"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%20%28ITSM%20Module%29%20At%20Client%20Site%20in%20Ottawa%20DXC%20Technology&l=Ottawa"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20%28ITSM%20Module%29%20At%20Client%20Site%20in%20Ottawa%20DXC%20Technology&loc=Ottawa"
     }
    ],
    "toronto": false
@@ -6750,55 +6799,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Project%20Manager%20%E2%80%93%20ServiceNow%20%26%20Financial%20Systems%20-%20Contract%20Compugen%20Inc.&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-24",
-   "title": "ServiceNow Administrator/Developer",
-   "company": "CGI",
-   "location": "Hybrid, Toronto, ON (250 Yonge St)",
-   "url": "https://ca.indeed.com/viewjob?jk=cf4ffdcf78006e60",
-   "note": "indeed",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "Indeed",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow administrator/developer cgi hybrid, toronto, on (250 yonge st) indeed servicenow indeed servicenow role fit toronto area  ",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/servicenow-administrator-developer-at-cgi-4462044907",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Administrator/Developer%20CGI+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Administrator/Developer%20CGI&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Administrator/Developer%20CGI&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Administrator/Developer%20CGI&loc=Toronto"
     }
    ],
    "toronto": true
