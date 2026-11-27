@@ -99,7 +99,14 @@ def strip_scan_echo(text: str) -> str:
     if SCAN_START in text and SCAN_END in text:
         start = text.index(SCAN_START)
         end = text.index(SCAN_END) + len(SCAN_END)
-        return text[:start] + text[end:]
+        removed = text[start:end]
+        # Blank the span instead of deleting it. Every finding carries a line number and
+        # scripts/normalize_board.py deletes by that number, so collapsing the block shifted
+        # every line after it - the audit reported L706 for a row that was at L762, and the
+        # prune then removed 90 innocent rows every hour while the 88 real violations survived.
+        return text[:start] + ("
+" * removed.count("
+")) + text[end:]
     return text
 
 
