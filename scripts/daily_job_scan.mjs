@@ -34,7 +34,7 @@ const SKIP_README = FLAGS.has("--no-readme");
 
 const NOW = new Date();
 const NOW_ISO = NOW.toISOString();
-const MAX_AGE_DAYS = 45;
+const MAX_AGE_DAYS = 30;
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
@@ -214,6 +214,8 @@ function buildJob(raw) {
     const age = (NOW - new Date(posted)) / 864e5;
     if (age > MAX_AGE_DAYS || age < -2) {
       // Too old to be useful, or a bad/clock-skewed date.
+      // 30, not 45: the board publishes a 30-day window and board-invariants enforces it, so anything
+      // carried between 31 and 45 days was ingested only to fail the gate (88-row permanent overhang).
       if (age > MAX_AGE_DAYS) return null;
     }
   }
