@@ -548,6 +548,14 @@ def rows() -> tuple[list[dict], int]:
             # the card should not claim a city the representative link never mentioned
             if dup["posted"] > primary["posted"]:
                 primary["posted"] = dup["posted"]
+        # a certification requirement is a property of the ROLE, not of the mirror link:
+        # without this, collapsing two mirrors of the same posting silently dropped the
+        # CSA/CAD tag whenever the representative row happened to be the untagged one.
+        merged_certs = sorted({c for m in members for c in (m.get("certs") or [])})
+        if merged_certs:
+            primary["certs"] = merged_certs
+            primary["search"] = (primary.get("search", "") + " " + " ".join(merged_certs)
+                                 + " certification certified").strip()
         primary["alternates"] = primary["alternates"][:6]
         primary.pop("canonTitle", None)
         primary.pop("reqIds", None)
