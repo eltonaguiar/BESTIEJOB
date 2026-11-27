@@ -9,15 +9,15 @@
    "raw": 0
   },
   "Remotive": {
-   "status": "http 200, 16 jobs",
-   "raw": 16
+   "status": "http 200, 17 jobs",
+   "raw": 17
   },
   "Himalayas": {
-   "status": "crashed TypeError",
+   "status": "p0:20/117104, p1:20/117104, p2:20/117104, p3:20/117104, p4:20/117104",
    "raw": 0
   },
   "Jobboom (QC)": {
-   "status": "http 403, 6067B; http 403, 6067B",
+   "status": "http 403, 6046B; http 403, 6067B",
    "raw": 0
   },
   "We Work Remotely": {
@@ -33,11 +33,11 @@
    "raw": 0
   },
   "Careerjet CA": {
-   "status": "Timeout; Timeout",
+   "status": "http 200; http 200",
    "raw": 0
   },
   "Jobrapido CA": {
-   "status": "http 200, 0 SN links",
+   "status": "http 429",
    "raw": 0
   },
   "Monster.ca": {
@@ -56,6 +56,11 @@
  "dated": [],
  "undated": [],
  "dropped": [
+  {
+   "source": "Remotive",
+   "title": "Produktspezialist:in (German-speaking)",
+   "why": "title filter"
+  },
   {
    "source": "Remotive",
    "title": "WordPress Theme & Plugin Developer",
