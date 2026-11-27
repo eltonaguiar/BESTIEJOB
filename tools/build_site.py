@@ -359,9 +359,10 @@ def jobs_json_rows() -> list[dict]:
             "company": (job.get("company") or "").strip().replace("|", "/"),
             "location": (job.get("location") or "").strip().replace("|", "/"),
             "note": (job.get("source") or "").strip()[:120],
+            "excerpt": (job.get("excerpt") or "")[:600],
             "family": classify(title, url),
             # ServiceNow certification requirement, tagged upstream in jobs.json
-            "certs": [c for c in (job.get("certs") or []) if c in ("CSA", "CAD")],
+            "certs": certs_of(title, (job.get("excerpt") or ""), job.get("certs")),
         })
     return out
 
@@ -399,6 +400,34 @@ def ident_key(url: str) -> str:
     base = (url or "").split("?")[0].rstrip("/").lower()
     m = POSTING_ID.search(url or "")
     return f"{base}?{m.group(1).lower()}={m.group(2).lower()}" if m else base
+
+
+_CSA_FULL = re.compile(r"Certified\s+System\s+Administrator", re.I)
+_CAD_FULL = re.compile(r"Certified\s+Application\s+Developer", re.I)
+_CSA_NEAR = re.compile(r"CSA[^.]{0,60}(?:certif|credential|required|preferred|asset|atout)", re.I)
+_CAD_NEAR = re.compile(r"CAD[^.]{0,60}(?:certif|credential|required|preferred|asset|atout)", re.I)
+_CURRENCY = re.compile(r"(?:CAD\s*\$|\$\s*CAD|CAD\s*(?:/|per)\s*(?:hr|hour)|CAD\s*\d)", re.I)
+_SN = re.compile(r"service\s?now", re.I)
+
+
+def certs_of(title: str, excerpt: str, tagged=None) -> list[str]:
+    """ServiceNow certification the posting actually states.
+
+    Derived here as well as read from jobs.json, because the hourly scan rewrites jobs.json and a
+    stored field would silently disappear. Currency spans are stripped first: 'CAD' as Canadian
+    dollars (and 'CAD Tech' drafting roles) is not a certification.
+    """
+    if tagged:
+        return [c for c in tagged if c in ("CSA", "CAD")]
+    text = f"{title} {excerpt}"
+    clean = _CURRENCY.sub(" ", text)
+    if _SN.search(text):
+        csa = bool(_CSA_FULL.search(clean) or _CSA_NEAR.search(clean))
+        cad = bool(_CAD_FULL.search(clean) or _CAD_NEAR.search(clean))
+    else:
+        csa = bool(_CSA_FULL.search(clean))
+        cad = bool(_CAD_FULL.search(clean))
+    return [c for c, hit in (("CSA", csa), ("CAD", cad)) if hit]
 
 
 def rows() -> tuple[list[dict], int]:
