@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-27T12:09:31.614Z",
     "generatedAt": "2026-11-27T12:09:31.614Z",
-    "total": 5381,
+    "total": 5382,
     "newThisScan": 540,
     "retainedFromPrevious": 4853,
     "sources": {
@@ -33,7 +33,8 @@
     "primaryCounts": {
       "servicenow": 1146,
       "salesforce": 4088
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -521,6 +522,23 @@
       "tags": [
         "servicenow",
         "it-reporting"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "ServiceNow Developer, IRM &amp; Security Operations, Deloitte Global Technology",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-27T12:50:18.079Z",
+      "excerpt": "via fresh-ca--2026-11-27--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
       ]
     },
     {
