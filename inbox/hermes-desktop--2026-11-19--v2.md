@@ -1,3 +1,4 @@
+<!-- merged 2026-11-27T184425Z: +0 new, 1 duplicate, version 2 -->
 <!-- submitted 2026-11-27 by Hermes cron -->
 # BESTIEJOB inbox — hermes-desktop 2026-11-19 v1
 
