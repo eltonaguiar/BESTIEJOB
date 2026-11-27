@@ -13,13 +13,6 @@ concurrency:
   group: bestiejob-main-write
   cancel-in-progress: false
 
-concurrency:
-  # Both this job and the hourly scan rewrite jobs.json. Without a shared group they race, the loser
-  # fails its rebase on jobs.json, and that run's rows are lost (a +279-row sweep and a +5-row sweep
-  # were both discarded this way). Queued rather than cancelled, because the work is not idempotent.
-  group: bestiejob-jobs-json
-  cancel-in-progress: false
-
 jobs:
   scan:
     runs-on: ubuntu-24.04
