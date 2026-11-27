@@ -137,6 +137,18 @@ jobs:
             MARK=" [allow-readme-removals]"
             echo "normalize removed ${{ steps.normalize.outputs.removed }} rows — carrying the guard override"
           fi
+          # Mass-deletion guard. `git add inbox` stages a DELETION for every tracked
+          # inbox file normalize pruned. On 2026-11-26 the sibling repo lost 807 paths in
+          # one second to exactly this shape (a job committing a broad add with a stale
+          # index), and nothing failed because the push itself succeeded. Refuse a large
+          # deletion unless the documented override is set.
+          DELETED=$(git diff --cached --name-only --diff-filter=D | wc -l | tr -d ' ')
+          if [ "${DELETED:-0}" -gt 25 ] && [ -z "$MARK" ]; then
+            echo "::error::refusing to commit ${DELETED} staged deletions without an override"
+            git diff --cached --name-only --diff-filter=D | head -20
+            exit 1
+          fi
+          echo "deletion guard: ${DELETED:-0} staged deletion(s)"
           git commit -m "chore(jobs): hourly scan refresh (${JOB_COUNT} listings, $(date -u +%Y-%m-%dT%H:%M:%SZ))${MARK} [skip ci]"
           # Peer agents push to main constantly, so a bare `git push` is rejected
           # with "fetch first" and the whole run fails with the work stranded
