@@ -1,3 +1,4 @@
+<!-- merged 2026-11-27T081801Z: +0 new, 2 duplicate, version 2 -->
 # BESTIEJOB inbox — hermes-desktop 2026-11-27 v1
 
 Auto-submitted by Hermes cron (2026-11-27). Rows merge via the hourly scan (dedupe by URL, prune stale). Never invent a date; every row carries a LinkedIn-parsed posting date.
