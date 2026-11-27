@@ -1,1 +1,8 @@
-IyBCRVNUSUVKT0IgaW5ib3gg4oCUIGhlcm1lcy1kZXNrdG9wIDIwMjYtMTEtMjcgdjEKCkF1dG8tc3VibWl0dGVkIGJ5IEhlcm1lcyBjcm9uICgyMDI2LTExLTI3KS4gUm93cyBtZXJnZSB2aWEgdGhlIGhvdXJseSBzY2FuIChkZWR1cGUgYnkgVVJMLCBwcnVuZSBzdGFsZSkuIE5ldmVyIGludmVudCBhIGRhdGU7IGV2ZXJ5IHJvdyBjYXJyaWVzIGEgTGlua2VkSW4tcGFyc2VkIHBvc3RpbmcgZGF0ZS4KCnwgUG9zdGVkIHwgUm9sZSB8IENvbXBhbnkgfCBMb2NhdGlvbiB8IFVSTCB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IDIwMjYtMTEtMjYgfCBTZW5pb3IgU2VydmljZU5vdyBEZXZlbG9wZXIgfCBUaGUgU2FsdmF0aW9uIEFybXkgaW4gQ2FuYWRhIHwgVG9yb250bywgT250YXJpbywgQ2FuYWRhIHwgaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1zZXJ2aWNlbm93LWRldmVsb3Blci1hdC10aGUtc2FsdmF0aW9uLWFybXktaW4tY2FuYWRhLTQ0OTQ5NjIzNDIgfAp8IDIwMjYtMTEtMjYgfCBTZW5pb3IgU2VydmljZU5vdyBEZXZlbG9wZXIgfCBUaGUgU2FsdmF0aW9uIEFybXkgaW4gQ2FuYWRhIHwgR3JlYXRlciBUb3JvbnRvIEFyZWEsIENhbmFkYSB8IGh0dHBzOi8vY2EubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3Itc2VydmljZW5vdy1kZXZlbG9wZXItYXQtdGhlLXNhbHZhdGlvbi1hcm15LWluLWNhbmFkYS00NDk0NjY0OTgzIHwK
+# BESTIEJOB inbox — hermes-desktop 2026-11-27 v1
+
+Auto-submitted by Hermes cron (2026-11-27). Rows merge via the hourly scan (dedupe by URL, prune stale). Never invent a date; every row carries a LinkedIn-parsed posting date.
+
+| Posted | Role | Company | Location | URL |
+|---|---|---|---|---|
+| 2026-11-26 | Senior ServiceNow Developer | The Salvation Army in Canada | Toronto, Ontario, Canada | https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-the-salvation-army-in-canada-4494962342 |
+| 2026-11-26 | Senior ServiceNow Developer | The Salvation Army in Canada | Greater Toronto Area, Canada | https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-the-salvation-army-in-canada-4494664983 |
