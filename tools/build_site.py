@@ -360,6 +360,8 @@ def jobs_json_rows() -> list[dict]:
             "location": (job.get("location") or "").strip().replace("|", "/"),
             "note": (job.get("source") or "").strip()[:120],
             "family": classify(title, url),
+            # ServiceNow certification requirement, tagged upstream in jobs.json
+            "certs": [c for c in (job.get("certs") or []) if c in ("CSA", "CAD")],
         })
     return out
 
@@ -455,12 +457,14 @@ def rows() -> tuple[list[dict], int]:
         score, reasons = match_score(row)
         row["match"] = score
         row["matchReasons"] = reasons
+        row["certs"] = r.get("certs") or []
         row["french"] = bool(FRENCH.search(r["title"] + " " + row["note"]))
         row["canonTitle"] = canon_title(r["title"], r["company"])
         row["reqIds"] = sorted(req_ids(r["title"]))
         row["search"] = strip_accents(" ".join([
             row["title"], row["company"], row["location"], row["source"],
-            row["familyLabel"], row["note"], " ".join(reasons)])).lower()
+            row["familyLabel"], row["note"], " ".join(reasons),
+            " ".join(row["certs"]), "certification certified csa cad" if row["certs"] else ""])).lower()
         raw.append(row)
 
     # ---- cluster mirrors so each requisition appears once -------------------
