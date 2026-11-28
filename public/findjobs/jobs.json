@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-28T09:06:35.861Z",
     "generatedAt": "2026-11-28T09:06:35.861Z",
-    "total": 5374,
+    "total": 5376,
     "newThisScan": 549,
     "retainedFromPrevious": 4854,
     "sources": {
@@ -32,7 +32,8 @@
     "primaryCounts": {
       "servicenow": 1149,
       "salesforce": 4094
-    }
+    },
+    "undated": 0
   },
   "jobs": [
     {
@@ -284,6 +285,23 @@
       "postedDate": "2026-11-27T12:00:00.000Z",
       "scrapedAt": "2026-11-28T09:08:29.501Z",
       "excerpt": "via fresh-ca--2026-11-27--v10.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/senior-servicenow-developer-at-esti-consulting-services-4495559905",
+      "source": "readme",
+      "company": "ESTI Consulting Services",
+      "title": "Senior ServiceNow Developer",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-esti-consulting-services-4495559905",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-28T09:51:03.498Z",
+      "excerpt": "via linkedin-guest--2026-11-27--v9.md",
       "workArrangement": "unknown",
       "tags": [
         "servicenow"
@@ -1569,6 +1587,23 @@
       ],
       "verifiedAt": "2026-11-28T08:08:36.770882+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "ServiceNow Developer, IRM &amp; Security Operations, Deloitte Global Technology",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-28T09:51:03.498Z",
+      "excerpt": "via fresh-ca--2026-11-27--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5979764507",
