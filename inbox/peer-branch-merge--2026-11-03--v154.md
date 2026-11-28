@@ -105,7 +105,6 @@ notes: 166 rows recovered from aicert-harvest-2026-11-03 / kilo-deep-scan-2026-1
 | 2026-10-29 | [Senior CRM Developer (Salesforce/Apex)](https://www.jobs.ca/york-university-850722783754/jobs/senior-crm-developer-north-york-on-387f1119ed09) | York University | North York, ON; hybrid | via aicert-harvest-2026-11-03 |
 | 2026-10-29 | [Marketing Cloud Specialist](https://www.adzuna.ca/details/5945494725) | Medcan | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-29 | [Développeur ou développeuse principal(e), Salesforce](https://www.adzuna.ca/details/5945675026?utm_medium=api&utm_source=54ce986e) | Journey Capital | Montréal, Québec | via aicert-harvest-2026-11-03 |
-| 2026-10-29 | [Principle Salesforce Developer](https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2) | Moneris | Toronto | via aicert-harvest-2026-11-03 |
 | 2026-10-29 | [Forward Deployed Engineer, AI & Agentforce NeuraFlash Middle just now](https://www.adzuna.ca/details/5946006818?utm_medium=api&utm_source=54ce986e) | Remote Genie | Canada | via aicert-harvest-2026-11-03 |
 | 2026-10-29 | [Salesforce Solution / Functional Architect](https://www.adzuna.ca/details/5945999969?utm_medium=api&utm_source=54ce986e) | LTM | Calgary, Calgary region | via aicert-harvest-2026-11-03 |
 | 2026-10-29 | [Senior Salesforce Architect (CA)](https://www.adzuna.ca/details/5946005970?utm_medium=api&utm_source=54ce986e) | PointClickCare | Mississauga, Peel region | via kilo-deep-scan-2026-11-03b |
@@ -113,17 +112,8 @@ notes: 166 rows recovered from aicert-harvest-2026-11-03 / kilo-deep-scan-2026-1
 | 2026-10-29 | [Développeur.euse Salesforce sénior](https://www.adzuna.ca/details/5946001494?utm_medium=api&utm_source=54ce986e) | nesto | Montréal, Québec | via kilo-deep-scan-2026-11-03b |
 | 2026-10-29 | [Senior Architect I - Salesforce Commerce Cloud](https://www.adzuna.ca/details/5945999208?utm_medium=api&utm_source=54ce986e) | Groupe Dynamite | Canada | via kilo-deep-scan-2026-11-03b |
 | 2026-10-29 | [Analyste / Administrateur Salesforce](https://www.adzuna.ca/details/5945496851?utm_medium=api&utm_source=54ce986e) | Onepoint | Montréal, Québec | via kilo-deep-scan-2026-11-03b |
-| 2026-10-28 | [ServiceNow Platform Specialist](https://ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4483654163) | Alimentiv | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
-| 2026-10-28 | [ServiceNow Architect](https://ca.linkedin.com/jobs/view/servicenow-architect-at-tata-consultancy-services-4483870856) | Tata Consultancy Services | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
-| 2026-10-28 | [Conseiller technique principal ServiceNow](https://ca.linkedin.com/jobs/view/conseiller-technique-principal-servicenow-at-bell-4476360201) | Bell | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
-| 2026-10-28 | [Senior ServiceNow Architect](https://ca.linkedin.com/jobs/view/senior-servicenow-architect-at-optovia-4484139182) | Optovia | Ottawa, Ontario, Canada | via aicert-harvest-2026-11-03 |
-| 2026-10-28 | [Salesforce Business Analyst (Financial Services Cloud)](https://www.adzuna.ca/details/5945037763?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | via aicert-harvest-2026-11-03 |
-| 2026-10-28 | [Salesforce Technical Lead - Financial Services Cloud](https://www.adzuna.ca/details/5945037768?utm_medium=api&utm_source=54ce986e) | Maarut | Montréal East, Montréal | via aicert-harvest-2026-11-03 |
 | 2026-10-28 | [Senior Salesforce Consultant](https://www.adzuna.ca/details/5944849872) | Querentia | Berczy Park, City of Toronto | via aicert-harvest-2026-11-03 |
-| 2026-10-28 | [Salesforce Administrator](https://www.adzuna.ca/details/5944357288?utm_medium=api&utm_source=54ce986e) | Prospect Human Services | Marlborough, Calgary | via aicert-harvest-2026-11-03 |
 | 2026-10-28 | [Software Engineer II (Salesforce Loyalty Management Developer)](https://www.adzuna.ca/details/5944215581) | TD Bank | Toronto, Ontario | via aicert-harvest-2026-11-03 |
-| 2026-10-28 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484135980) | Benevity | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
-| 2026-10-28 | [Senior Salesforce Administrator](https://ca.linkedin.com/jobs/view/senior-salesforce-administrator-at-benevity-4484146485) | Benevity | Calgary, Alberta, Canada | via aicert-harvest-2026-11-03 |
 | 2026-10-27 | [Salesforce, LWC, Omnistudio Developer](https://www.adzuna.ca/details/5943424777?utm_medium=api&utm_source=54ce986e) | J M Group Inc | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-27 | [Software Engineer II (Salesforce Loyalty Management Developer)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038) | TD Bank | Toronto, Ontario | via aicert-harvest-2026-11-03 |
 | 2026-10-27 | [Salesforce Developer](https://ca.linkedin.com/jobs/view/salesforce-developer-at-medcan-4484093797) | Medcan | Toronto, Ontario, Canada | via aicert-harvest-2026-11-03 |
