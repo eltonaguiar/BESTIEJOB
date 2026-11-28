@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-28T01:08:55+00:00",
+ "generatedAt": "2026-11-28T02:11:06+00:00",
  "timezone": "America/Toronto",
- "count": 4763,
+ "count": 4764,
  "appliedHidden": 24,
  "sources": [
   "103.careerplug.com",
@@ -307,6 +307,48 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20SPM%20Sr%20Developer%20Tata%20Consultancy%20Services&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-27",
+   "title": "Sr. ServiceNow Developer",
+   "company": "Randstad Digital",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-servicenow-developer-at-randstad-digital-4495063547",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "sr. servicenow developer randstad digital toronto, ontario, canada linkedin servicenow readme servicenow role fit toronto area  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr.%20ServiceNow%20Developer%20Randstad%20Digital+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20ServiceNow%20Developer%20Randstad%20Digital&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr.%20ServiceNow%20Developer%20Randstad%20Digital&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr.%20ServiceNow%20Developer%20Randstad%20Digital&loc=Toronto"
     }
    ],
    "toronto": true
@@ -776,7 +818,7 @@
    "company": "CGI",
    "location": "Montreal, Quebec, Canada",
    "url": "https://ca.linkedin.com/jobs/view/formateur-ou-formatrice-servicenow-at-cgi-4495822897",
-   "note": "readme",
+   "note": "linkedin",
    "family": "servicenow",
    "familyLabel": "ServiceNow",
    "source": "LinkedIn",
@@ -788,7 +830,7 @@
    ],
    "certs": [],
    "french": false,
-   "search": "formateur ou formatrice servicenow cgi montreal, quebec, canada linkedin servicenow readme servicenow canada / remote  ",
+   "search": "formateur ou formatrice servicenow cgi montreal, quebec, canada linkedin servicenow linkedin servicenow canada / remote  ",
    "alternates": [],
    "gated": false,
    "xref": [
@@ -2151,12 +2193,6 @@
    "french": true,
    "search": "developpeur.euse salesforce senior nesto montreal, quebec, canada linkedin salesforce linkedin salesforce canada / remote  ",
    "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-salesforce-s%C3%A9nior-at-nesto-4495896322",
-     "label": "LinkedIn · Canada",
-     "gated": false
-    },
     {
      "source": "LinkedIn",
      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-salesforce-s%C3%A9nior-at-nesto-4495885895",
@@ -188775,55 +188811,6 @@
   },
   {
    "posted": "2026-10-30",
-   "title": "Principle Salesforce Developer",
-   "company": "Moneris",
-   "location": "Toronto",
-   "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
-   "note": "workday",
-   "family": "salesforce",
-   "familyLabel": "Salesforce",
-   "source": "Workday ATS",
-   "verified": "Employer board",
-   "match": 60,
-   "matchReasons": [
-    "Salesforce",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "principle salesforce developer moneris toronto workday ats salesforce workday salesforce role fit toronto area  ",
-   "alternates": [
-    {
-     "source": "LinkedIn",
-     "url": "https://ca.linkedin.com/jobs/view/principle-salesforce-developer-at-moneris-4466619394",
-     "label": "LinkedIn · Toronto",
-     "gated": false
-    }
-   ],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=Principle%20Salesforce%20Developer%20Moneris+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=Principle%20Salesforce%20Developer%20Moneris&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=Principle%20Salesforce%20Developer%20Moneris&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=Principle%20Salesforce%20Developer%20Moneris&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-10-30",
    "title": "Salesforce Administrator",
    "company": "Hire DigITalent",
    "location": "Toronto, Ontario",
@@ -188951,6 +188938,55 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=Salesforce%20DevOps%20Lead%20AceStack&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-10-30",
+   "title": "Principle Salesforce Developer",
+   "company": "Moneris",
+   "location": "Toronto",
+   "url": "https://moneris.wd3.myworkdayjobs.com/en-US/Moneris/job/Toronto/Principle-Software-Developer_JR106006-2",
+   "note": "workday",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "Workday ATS",
+   "verified": "Employer board",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "principle salesforce developer moneris toronto workday ats salesforce workday salesforce role fit toronto area  ",
+   "alternates": [
+    {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/principle-salesforce-developer-at-moneris-4466619394",
+     "label": "LinkedIn · Toronto",
+     "gated": false
+    }
+   ],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Principle%20Salesforce%20Developer%20Moneris+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Principle%20Salesforce%20Developer%20Moneris&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Principle%20Salesforce%20Developer%20Moneris&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Principle%20Salesforce%20Developer%20Moneris&loc=Toronto"
     }
    ],
    "toronto": true
