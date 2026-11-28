@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-28T11:07:39+00:00",
+ "generatedAt": "2026-11-28T12:03:15+00:00",
  "timezone": "America/Toronto",
- "count": 4762,
+ "count": 4766,
  "appliedHidden": 24,
  "sources": [
   "103.careerplug.com",
@@ -1618,6 +1618,90 @@
   },
   {
    "posted": "2026-11-27",
+   "title": "Sr. ServiceNow Developer",
+   "company": "Randstad Digital",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sr-servicenow-developer-at-randstad-digital-4495063547",
+   "note": "via fresh-ca--2026-11-27--v15.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "sr. servicenow developer randstad digital toronto, ontario, canada linkedin servicenow via fresh-ca--2026-11-27--v15.md servicenow role fit toronto area  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sr.%20ServiceNow%20Developer%20Randstad%20Digital+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sr.%20ServiceNow%20Developer%20Randstad%20Digital&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sr.%20ServiceNow%20Developer%20Randstad%20Digital&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sr.%20ServiceNow%20Developer%20Randstad%20Digital&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-27",
+   "title": "Senior ServiceNow Developer",
+   "company": "ESTI Consulting Services",
+   "location": "Canada",
+   "url": "https://ca.linkedin.com/jobs/view/senior-servicenow-developer-at-esti-consulting-services-4495559905",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 84,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "senior servicenow developer esti consulting services canada linkedin servicenow readme servicenow role fit canada / remote  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Senior%20ServiceNow%20Developer%20ESTI%20Consulting%20Services+Canada+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20ServiceNow%20Developer%20ESTI%20Consulting%20Services&location=Canada"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Senior%20ServiceNow%20Developer%20ESTI%20Consulting%20Services&l=Canada"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Senior%20ServiceNow%20Developer%20ESTI%20Consulting%20Services&loc=Canada"
+    }
+   ],
+   "toronto": false
+  },
+  {
+   "posted": "2026-11-27",
    "title": "Servicenow Developer PSDS",
    "company": "Sapsol Technologies Inc",
    "location": "Canada",
@@ -1926,6 +2010,49 @@
     }
    ],
    "toronto": true
+  },
+  {
+   "posted": "2026-11-27",
+   "title": "Spécialiste en développement Oracle PL/SQL, APEX et Forms",
+   "company": "FOP Consultants",
+   "location": "Quebec, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-en-d%C3%A9veloppement-oracle-pl-sql-apex-et-forms-at-fop-consultants-4495348015",
+   "note": "via linkedin-guest--2026-11-28--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 68,
+   "matchReasons": [
+    "Salesforce",
+    "Data/reporting",
+    "Role fit",
+    "Canada / remote"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "specialiste en developpement oracle pl/sql, apex et forms fop consultants quebec, canada linkedin salesforce via linkedin-guest--2026-11-28--v1.md salesforce data/reporting role fit canada / remote  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Sp%C3%A9cialiste%20en%20d%C3%A9veloppement%20Oracle%20PL/SQL%2C%20APEX%20et%20Forms%20FOP%20Consultants+Quebec+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Sp%C3%A9cialiste%20en%20d%C3%A9veloppement%20Oracle%20PL/SQL%2C%20APEX%20et%20Forms%20FOP%20Consultants&location=Quebec"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Sp%C3%A9cialiste%20en%20d%C3%A9veloppement%20Oracle%20PL/SQL%2C%20APEX%20et%20Forms%20FOP%20Consultants&l=Quebec"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Sp%C3%A9cialiste%20en%20d%C3%A9veloppement%20Oracle%20PL/SQL%2C%20APEX%20et%20Forms%20FOP%20Consultants&loc=Quebec"
+    }
+   ],
+   "toronto": false
   },
   {
    "posted": "2026-11-27",
@@ -2637,6 +2764,48 @@
     }
    ],
    "toronto": false
+  },
+  {
+   "posted": "2026-11-27",
+   "title": "Salesforce (QA) Lead",
+   "company": "Avanciers Inc.",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/salesforce-qa-lead-at-avanciers-inc-4493897682",
+   "note": "via linkedin-guest--2026-11-28--v1.md",
+   "family": "salesforce",
+   "familyLabel": "Salesforce",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 60,
+   "matchReasons": [
+    "Salesforce",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "salesforce (qa) lead avanciers inc. toronto, ontario, canada linkedin salesforce via linkedin-guest--2026-11-28--v1.md salesforce role fit toronto area  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=Salesforce%20%28QA%29%20Lead%20Avanciers%20Inc.+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce%20%28QA%29%20Lead%20Avanciers%20Inc.&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=Salesforce%20%28QA%29%20Lead%20Avanciers%20Inc.&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=Salesforce%20%28QA%29%20Lead%20Avanciers%20Inc.&loc=Toronto"
+    }
+   ],
+   "toronto": true
   },
   {
    "posted": "2026-11-27",
@@ -25668,13 +25837,13 @@
    "posted": "2026-11-17",
    "title": "Sr Solution Sales Executive CRM (CPQ)",
    "company": "ServiceNow",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5969570818",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "location": "Toronto, ca",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+   "note": "via ats--2026-11-17--v86.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
    "match": 86,
    "matchReasons": [
     "ServiceNow",
@@ -25683,8 +25852,21 @@
    ],
    "certs": [],
    "french": false,
-   "search": "sr solution sales executive crm (cpq) servicenow toronto, ontario adzuna other readme servicenow salesforce toronto area  ",
-   "alternates": [],
+   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow via ats--2026-11-17--v86.md servicenow salesforce toronto area  ",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162143024",
+     "label": "SmartRecruiters · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5969570818",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {
