@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T00:16:07+00:00",
+ "generatedAt": "2026-11-28T01:00:05+00:00",
  "timezone": "America/Toronto",
  "count": 4763,
  "appliedHidden": 24,
@@ -2200,6 +2200,12 @@
      "gated": false
     },
     {
+     "source": "LinkedIn",
+     "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-salesforce-s%C3%A9nior-at-nesto-4495885895",
+     "label": "LinkedIn · Canada",
+     "gated": false
+    },
+    {
      "source": "Adzuna",
      "url": "https://www.adzuna.ca/details/5946001494",
      "label": "Adzuna · Montréal",
@@ -2881,6 +2887,48 @@
   },
   {
    "posted": "2026-11-26",
+   "title": "ServiceNow Developer, IRM &amp; Security Operations, Deloitte Global Technology",
+   "company": "Deloitte",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
+   "note": "readme",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "LinkedIn",
+   "verified": "Aggregator",
+   "match": 88,
+   "matchReasons": [
+    "ServiceNow",
+    "Role fit",
+    "Toronto area"
+   ],
+   "certs": [],
+   "french": false,
+   "search": "servicenow developer, irm &amp; security operations, deloitte global technology deloitte toronto, ontario, canada linkedin servicenow readme servicenow role fit toronto area  ",
+   "alternates": [],
+   "gated": false,
+   "xref": [
+    {
+     "name": "Google Jobs",
+     "url": "https://www.google.com/search?q=ServiceNow%20Developer%2C%20IRM%20%26amp%3B%20Security%20Operations%2C%20Deloitte%20Global%20Technology%20Deloitte+Toronto+jobs&ibp=htl;jobs"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%2C%20IRM%20%26amp%3B%20Security%20Operations%2C%20Deloitte%20Global%20Technology%20Deloitte&location=Toronto"
+    },
+    {
+     "name": "Indeed",
+     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%2C%20IRM%20%26amp%3B%20Security%20Operations%2C%20Deloitte%20Global%20Technology%20Deloitte&l=Toronto"
+    },
+    {
+     "name": "Adzuna",
+     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%2C%20IRM%20%26amp%3B%20Security%20Operations%2C%20Deloitte%20Global%20Technology%20Deloitte&loc=Toronto"
+    }
+   ],
+   "toronto": true
+  },
+  {
+   "posted": "2026-11-26",
    "title": "Senior ServiceNow Developer",
    "company": "Salvation Army Canada",
    "location": "Toronto, ON",
@@ -3216,48 +3264,6 @@
     {
      "name": "Adzuna",
      "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%20-%20hybrid%20-%20contract%20Robert%20Half&loc=Toronto"
-    }
-   ],
-   "toronto": true
-  },
-  {
-   "posted": "2026-11-26",
-   "title": "ServiceNow Developer, IRM &amp; Security Operations, Deloitte Global Technology",
-   "company": "Deloitte",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
-   "note": "via fresh-ca--2026-11-27--v1.md",
-   "family": "servicenow",
-   "familyLabel": "ServiceNow",
-   "source": "LinkedIn",
-   "verified": "Aggregator",
-   "match": 88,
-   "matchReasons": [
-    "ServiceNow",
-    "Role fit",
-    "Toronto area"
-   ],
-   "certs": [],
-   "french": false,
-   "search": "servicenow developer, irm &amp; security operations, deloitte global technology deloitte toronto, ontario, canada linkedin servicenow via fresh-ca--2026-11-27--v1.md servicenow role fit toronto area  ",
-   "alternates": [],
-   "gated": false,
-   "xref": [
-    {
-     "name": "Google Jobs",
-     "url": "https://www.google.com/search?q=ServiceNow%20Developer%2C%20IRM%20%26amp%3B%20Security%20Operations%2C%20Deloitte%20Global%20Technology%20Deloitte+Toronto+jobs&ibp=htl;jobs"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/search/?keywords=ServiceNow%20Developer%2C%20IRM%20%26amp%3B%20Security%20Operations%2C%20Deloitte%20Global%20Technology%20Deloitte&location=Toronto"
-    },
-    {
-     "name": "Indeed",
-     "url": "https://ca.indeed.com/jobs?q=ServiceNow%20Developer%2C%20IRM%20%26amp%3B%20Security%20Operations%2C%20Deloitte%20Global%20Technology%20Deloitte&l=Toronto"
-    },
-    {
-     "name": "Adzuna",
-     "url": "https://www.adzuna.ca/search?q=ServiceNow%20Developer%2C%20IRM%20%26amp%3B%20Security%20Operations%2C%20Deloitte%20Global%20Technology%20Deloitte&loc=Toronto"
     }
    ],
    "toronto": true
@@ -24597,13 +24603,13 @@
    "posted": "2026-11-17",
    "title": "Sr Solution Sales Executive CRM (CPQ)",
    "company": "ServiceNow",
-   "location": "Toronto, Ontario",
-   "url": "https://www.adzuna.ca/details/5969570818",
-   "note": "readme",
-   "family": "other",
-   "familyLabel": "Other",
-   "source": "Adzuna",
-   "verified": "Aggregator",
+   "location": "Toronto, ca",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162166739",
+   "note": "via ats--2026-11-17--v82.md",
+   "family": "servicenow",
+   "familyLabel": "ServiceNow",
+   "source": "SmartRecruiters",
+   "verified": "Employer board",
    "match": 86,
    "matchReasons": [
     "ServiceNow",
@@ -24612,8 +24618,21 @@
    ],
    "certs": [],
    "french": false,
-   "search": "sr solution sales executive crm (cpq) servicenow toronto, ontario adzuna other readme servicenow salesforce toronto area  ",
-   "alternates": [],
+   "search": "sr solution sales executive crm (cpq) servicenow toronto, ca smartrecruiters servicenow via ats--2026-11-17--v82.md servicenow salesforce toronto area  ",
+   "alternates": [
+    {
+     "source": "SmartRecruiters",
+     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162143024",
+     "label": "SmartRecruiters · Toronto",
+     "gated": false
+    },
+    {
+     "source": "Adzuna",
+     "url": "https://www.adzuna.ca/details/5969570818",
+     "label": "Adzuna · Toronto",
+     "gated": false
+    }
+   ],
    "gated": false,
    "xref": [
     {

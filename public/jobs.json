@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-28T00:13:56.810Z",
     "generatedAt": "2026-11-28T00:13:56.810Z",
-    "total": 5369,
+    "total": 5370,
     "newThisScan": 524,
     "retainedFromPrevious": 4882,
     "sources": {
@@ -32,26 +32,10 @@
     "primaryCounts": {
       "servicenow": 1148,
       "salesforce": 4098
-    }
+    },
+    "undated": 0
   },
   "jobs": [
-    {
-      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/sr-devops-specialist_jr0157866",
-      "source": "workday",
-      "company": "McKesson",
-      "title": "Sr. DevOps Specialist",
-      "location": "CAN, ON, Mississauga",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-DevOps-Specialist_JR0157866",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-28T00:13:56.810Z",
-      "scrapedAt": "2026-11-28T00:13:56.810Z",
-      "excerpt": "JR0157866",
-      "workArrangement": "unknown",
-      "tags": [
-        "devops"
-      ]
-    },
     {
       "id": "adzuna:adzuna.ca/details/5981030901",
       "source": "adzuna",
@@ -95,6 +79,24 @@
         "salesforce",
         "devops"
       ]
+    },
+    {
+      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/sr-devops-specialist_jr0157866",
+      "source": "workday",
+      "company": "McKesson",
+      "title": "Sr. DevOps Specialist",
+      "location": "CAN, ON, Mississauga",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-DevOps-Specialist_JR0157866",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-28T00:13:56.810Z",
+      "excerpt": "JR0157866",
+      "workArrangement": "unknown",
+      "tags": [
+        "devops"
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/formateur-ou-formatrice-servicenow-at-cgi-4495822897",
@@ -1150,6 +1152,23 @@
       ],
       "verifiedAt": "2026-11-27T19:06:37.815663+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "ServiceNow Developer, IRM &amp; Security Operations, Deloitte Global Technology",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-28T01:00:03.519Z",
+      "excerpt": "via fresh-ca--2026-11-27--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5979764507",
