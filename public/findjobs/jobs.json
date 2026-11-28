@@ -17,7 +17,7 @@
     "dateFilter": "month",
     "scrapedAt": "2026-11-28T06:09:22.141Z",
     "generatedAt": "2026-11-28T06:09:22.141Z",
-    "total": 5374,
+    "total": 5375,
     "newThisScan": 549,
     "retainedFromPrevious": 4854,
     "sources": {
@@ -32,26 +32,10 @@
     "primaryCounts": {
       "servicenow": 1150,
       "salesforce": 4093
-    }
+    },
+    "undated": 0
   },
   "jobs": [
-    {
-      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/sr-devops-specialist_jr0157866",
-      "source": "workday",
-      "company": "McKesson",
-      "title": "Sr. DevOps Specialist",
-      "location": "CAN, ON, Mississauga",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-DevOps-Specialist_JR0157866",
-      "employmentType": "unknown",
-      "salary": null,
-      "postedDate": "2026-11-28T06:09:22.141Z",
-      "scrapedAt": "2026-11-28T06:09:22.141Z",
-      "excerpt": "JR0157866",
-      "workArrangement": "unknown",
-      "tags": [
-        "devops"
-      ]
-    },
     {
       "id": "linkedin:ca.linkedin.com/jobs/view/servicenow-platform-specialist-at-alimentiv-4495340992",
       "source": "linkedin",
@@ -248,6 +232,24 @@
       "tags": [
         "salesforce"
       ]
+    },
+    {
+      "id": "workday:mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/can-on-mississauga/sr-devops-specialist_jr0157866",
+      "source": "workday",
+      "company": "McKesson",
+      "title": "Sr. DevOps Specialist",
+      "location": "CAN, ON, Mississauga",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-DevOps-Specialist_JR0157866",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-27T12:00:00.000Z",
+      "scrapedAt": "2026-11-28T06:09:22.141Z",
+      "excerpt": "JR0157866",
+      "workArrangement": "unknown",
+      "tags": [
+        "devops"
+      ],
+      "dateSource": "posting:ats-json"
     },
     {
       "id": "readme:ca.linkedin.com/jobs/view/senior-servicenow-developer-at-esti-consulting-services-4495559905",
@@ -1448,6 +1450,23 @@
       ],
       "verifiedAt": "2026-11-28T01:07:58.629796+00:00",
       "verifyState": "unknown"
+    },
+    {
+      "id": "readme:ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
+      "source": "readme",
+      "company": "Deloitte",
+      "title": "ServiceNow Developer, IRM &amp; Security Operations, Deloitte Global Technology",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/servicenow-developer-irm-security-operations-deloitte-global-technology-at-deloitte-4495554308",
+      "employmentType": "unknown",
+      "salary": null,
+      "postedDate": "2026-11-26T12:00:00.000Z",
+      "scrapedAt": "2026-11-28T06:50:55.179Z",
+      "excerpt": "via fresh-ca--2026-11-27--v1.md",
+      "workArrangement": "unknown",
+      "tags": [
+        "servicenow"
+      ]
     },
     {
       "id": "adzuna:adzuna.ca/details/5979764507",
